@@ -1,0 +1,90 @@
+#+content: showall
+
+* Bulla «Sacrosanctae romanae ecclesiae»
+* Liber I
+01 --- De summa trinitate et fide catholica
+02 --- De constitutionibus
+03 --- De rescriptis
+04 --- De consuetudine
+05 --- De postulatione praelatorum
+06 --- De electione et electi potestate
+07 --- De renunciatione
+08 --- De supplenda negligentia praelatorum
+09 --- De temporibus ordinationum et qualitate ordinandorum
+10 --- De aetate et qualitate et ordine praeficiendorum
+11 --- De filiis presbyterorum et aliis illegitime natis
+12 --- De bigamis
+13 --- De officio vicarii
+14 --- De officio et potestate iudicis delegati
+15 --- De officio legati
+16 --- De officio ordinarii
+17 --- De maioritate et obedientia
+18 --- De pactis
+19 --- De procuratoribus
+20 --- De his, quae vi metusve causa fiunt
+21 --- De in integrum restitutione
+22 --- De arbitris
+
+* Liber II
+01 --- De iudiciis
+02 --- De foro competenti
+03 --- De litis contestatione
+04 --- De iuramento calumniae
+05 --- De restitutione spoliatorum
+06 --- De dolo et contumacia
+07 --- De eo, qui mittitur in possessionem causa rei servandae
+08 --- Ut lite pendente nihil innovetur
+09 --- De confessis
+10 --- De testibus et attestationibus
+11 --- De iureiurando
+12 --- De exceptionibus
+13 --- De praescriptionibus
+14 --- De sententia et re iudicata
+15 --- De appellationibus
+
+* Liber III
+01 --- De vita et honestate clericorum
+02 --- De clericis coniugatis
+03 --- De clericis non residentibus in ecclesia vel praebenda
+04 --- De praebendis et dignitatibus
+05 --- De clerico aegrotante vel debilitato
+06 --- De institutionibus
+07 --- De concessione praebendae et ecclesiae non vacantis
+08 --- Ne sede vacante aliquid innovetur
+09 --- De rebus ecclesiae non alienandis
+10 --- De rerum permutatione
+11 --- De testamentis et ultimis voluntatibus
+12 --- De sepulturis
+13 --- De decimis, primitiis et oblationibus
+14 --- De regularibus et transeuntibus ad religionem
+15 --- De voto et voti redemptione
+16 --- De statu monachorum regularium
+17 --- De religiosis domibus
+18 --- De capellis monachorum et aliorum religiosorum
+19 --- De iure patronatus
+20 --- De censibus, exactionibus et procurationibus
+21 --- De consecratione ecclesiae vel altaris
+22 --- De reliquiis et veneratione sanctorum
+23 --- De immunitate ecclesiarum, coemiterii, et aliorum locorum religiosorum
+24 --- De clerici vel monachi saecularibus negotiis se immisceant
+
+* Liber IV
+01 --- De sponsalibus et matrimoniis
+02 --- De desponsatione impuberum
+03 --- De cognatione spirituali
+
+* Liber V
+01 --- De accusationibus, inquisitionibus et denunciationibus
+02 --- De haereticis
+03 --- De schismaticis
+04 --- De homicidio
+05 --- De usuris
+06 --- De excessibus praelatorum et subditorum
+07 --- De privilegiis
+08 --- De iniuriis et damno dato
+09 --- De poenis
+10 --- De poenitentiis et remissionibus
+11 --- De sententia excommunicationis, suspensionis et interdicti
+12 --- De verborum significatione
+
+[13.] --- De regulis iuris

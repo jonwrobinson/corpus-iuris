@@ -1,0 +1,132 @@
+#+STARTUP: showall
+
+#+ Index titulorum Authentici in novem collationes Digesti
+#+ Reprinted from *Seminar*, An Annual extraordinary number of The Jurist
+#+ Vol. 2, 1944
+
+* Index titulorum
+
+# note: A.C. == Auth. Coll.
+|-------------------------------------------------------------+------+------|
+| INDEX TITULORUM                                             | A.C. | NOV. |
+|-------------------------------------------------------------+------+------|
+| de administratoribus                                        | 7,6  |   95 |
+| de administrantibus officiis in sacris appellationibus      | 3,7  |   20 |
+| de aequalitate dotis &c.                                    | 7,8  |   97 |
+| de alienatione et emphyteusi &c.                            | 9,3  |  120 |
+| de appllationibus                                           | 8,2  |   93 |
+| de appllationibus et intra quae tempora &c.                 | 4,2  |   23 |
+| apud quos oporteat cuasas dicere monachos &c.               | 6,7  |   79 |
+| de armis                                                    | 6,13 |   85 |
+| de collatoribus et aliis capitulis                          | 9,14 |  128 |
+| de consanguineis et uterinis fratribus                      | 6,12 |   84 |
+| constitutio quae dignatibus et episcopatu &c.               | 6,9  |   81 |
+| constitutionem quae ex adscriptitio &c.                     | 5,7  |   54 |
+| de consulibus                                               | 4,3  |  105 |
+| de defensoribus civitatum                                   | 3,2  |   15 |
+| de deposito et denuntiationibus inquilinorum &c.            | 6,14 |   88 |
+| de duobus reis promittendi                                  | 7,9  |   99 |
+| de ecclesiasticis titulis                                   | 9,6  |  131 |
+| de ecclesiasticarum rerum immobilium alienatione &c.        | 5,1  |   46 |
+| de episcopis - cf. de sanctissimis episcopis                |      |      |
+| de excutoribus &c.                                          | 7,7  |   96 |
+| de exhibendis et introducendis reis &c.                     | 5,6  |   53 |
+| factae novae constituiones - cf. ut factae novae const.     |      |      |
+| de fide instrumentorum - cf. de instrumentorum cautela  &c. |      |      |
+| de fideiussoribus et mandatoribus &c.                       | 1,4  |    4 |
+| de filiis ante dotalia instumenta natis                     | 3,6  |   19 |
+| haec constitutio innovat constitutionem &c.                 | 8,7  |  111 |
+| haec constitutio interpretatur priorem &c.                  | 6,4  |   76 |
+| de heredibus ab intestato venientibus &c.                   | 9,1  |  118 |
+| de heredibus et falcidia &c.                                | 1,1  |    1 |
+| de his (alias iis) qui ingrediuntur ad appellationem        | 5,11 |   49 |
+| de immensis donationibus &c.                                | 7,3  |   92 |
+| in medio litis non fieri sacras formas &c.                  | 8,11 |  113 |
+| de incestis et nefariis nuptiis                             | 2,6  |   12 |
+| de instrumentorum cautela et fide &c.                       | 6,3  |   73 |
+| de interdictis collegiis haereticorum                       | 9,12 |  132 |
+| de iudicibus et ut nullatenus &c.                           | 6,10 |   82 |
+| de iureiurando a moriente praestito &c.                     | 5,2  |   48 |
+| iusiurandum quoad praestatur ab his &c.                     | 2,3  | 8(J) |
+| de lenonibus                                                | 3,1  |   14 |
+| de litigiosis et de decima parte litis &c.                  | 8,8  |  112 |
+| de mandatis principum                                       | 3,4  |   17 |
+| de mensura ordinandorum clericorum                          | 3,3  |   16 |
+| de monachis                                                 | 1,5  |    5 |
+| de naticis usuris (distinguas a tit. 'de us. naut.')        | 8,6  |  110 |
+| neque virum quod ex dote est &c.                            | 8,1  |   98 |
+| de non alienandis aut permutandis ecclesiasticis rebus &c.  | 2,1  |    7 |
+| de non eligendo secundo nubentes mulieres &c.               | 1,2  |    2 |
+| de novi operis nuntiatione &c.                              | 5,15 |   63 |
+| nulli iudicum --- cf. ut nulli iudicum                      |      |      |
+| nullum credentem agricolae &c.                              | 4,5  |   34 |
+| de nuptiis                                                  | 4,1  |   22 |
+| de privilegiis dotis haereticis mulieribus &c.              | 8,5  |  109 |
+| de quaestore                                                | 6,8  |   80 |
+| quibus modis naturales efficiuntur sui &c.                  | 7,1  |   89 |
+| quibus modis naturales filii efficiantur legitimi &c.       | 6,1  |   74 |
+| quomodo oporteat episcopos &c.                              | 1,6  |    6 |
+| de raptis mulieribus &c.                                    | 9,13 |  143 |
+|                                                             |      | =150 |
+| de referendariis sacri palatii                              | 2,5  |   10 |
+| de reis promittendi --- cf. de duobus reis prom.            |      |      |
+| de restitutione fideicommissi &c.                           | 9,8  |  159 |
+| de restitutionibus                                          | 8,4  |  108 |
+| de restitutionibus et ea quae parit &c.                     | 5,4  |   51 |
+| de tabellionibus &c.                                        | 4,7  |   44 |
+| de tempore non solutae pecuniae super dote                  | 7,10 |  100 |
+| de testamentis imperfectis &c.                              | 8,3  |  107 |
+| de testibus                                                 | 7,2  |   90 |
+| de triente et semisse &c.                                   | 3,5  |   18 |
+| de usuris nauticis (distinguas a tit. 'de naut. us.')       | 9,11 |  106 |
+| ut ab illustribus et qui super eam &c.                      | 5,18 |   71 |
+| ut clerici apud proprios episcopos &c.                      | 6,11 |   83 |
+| ut clerici qui recedunt &c.                                 | 5,10 |   57 |
+| ut cum de appellatione cognoscitu &c.                       | 8,12 |  115 |
+| ut de cetero commutationes ecclesiasticarum rerum &c.       | 5,8  |   55 |
+| ut defuncti seu funera eorum &c.                            | 5,13 |   60 |
+| ut determinatus sit numerus clericorum &c.                  | 1,3  |    3 |
+| ut differentes iudices audire &c.                           | 9,10 |   86 |
+| ut divinae iussiones &c.                                    | 8,10 |  114 |
+| ut ea quae cocantur insinuativa &c.                         | 5,9  |   56 |
+| ut ecclesia Romana centum annorum gaudeat praescriptione    | 2,4  |    9 |
+| ut exactione instante dotis &c.                             | 7,5  |   91 |
+| ut factae novae constituiones &c.                           | 5,16 |   66 |
+| ut fratrum filii succedant pariter &c.                      | 9,7  |  127 |
+| ut hi (alias ii) qui obligatas se habere &c.                | 6,2  |   72 |
+| ut immobilia antenuptialis donationis &c.                   | 5.14 |   61 |
+| ut in privatis dominibus sacra mysteria non fiant           | 5,12 |   58 |
+| ut iudices non expectent sacras iussiones &c.               | 9,4  |  125 |
+| ut iudices sine quoquo suffragio fiant                      | 2,2  |    8 |
+| ut liberti de cetero aurea non indigeant (al. egeant) &c.   | 6,6  |   78 |
+| ut liceat matri et aviae &c.                                | 8,13 |  117 |
+| ut litigantes iurent in exordio                             | 9,5  |  124 |
+| ut neque miles neque foederatus &c.                         | 8,9  |  116 |
+| ut non fiant pignorationes pro aliis &c.                    | 5,5  |   52 |
+| ut non luxurientur contra naturam &c.                       | 6,5  |   77 |
+| ut nulli iudicum liceat &c.                                 | 9,9  |  134 |
+| ut nullus fabricet oratorii domos &c.                       | 5,17 |   67 |
+| ut nullus mutuans agricolae &c.                             | 4,4  |   33 |
+| ut omnes oboediant iudicibus prouinciarum &c.               | 5,20 |   69 |
+| ut ordinariae praefecturae &c.                              | 5,19 |   70 |
+| ut praeponatur nomen imperatoris &c.                        | 5,3  |   47 |
+| ut sine prohibitione matres debitrices &c.                  | 7,4  |   94 |
+| ut sponsalicia largitas &c.                                 | 9,2  |  119 |
+|-------------------------------------------------------------+------+------|
+
+
+* Tabula comparationis Authenticum inter (adiectis numeris constitutionum in corpore integro) et Novellas
+
+...
+
+Unde e CXXXIV constitutionibus Authentici XXXVII non esse receptas in
+collationes vulgatae recensionis facile vides, scil. 11, 13, 21,
+24--33, 37--40, 42--44, 49, 52, 60, 63--65, 67, 70, 87, 101, 118,
+121--125, 131. Quae manent XCVII in titulos XCVIII sunt distributae
+collationum, ubi (Coll. 2,3) Iusiurandum const. 8 adnexum proprio
+titulo auctum esse perspicimus.
+
+
+* Tabula altera
+
+...

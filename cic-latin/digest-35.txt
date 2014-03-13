@@ -1,0 +1,1782 @@
+# -*- mode: org -*-
+
+DOMINI NOSTRI SACRATISSIMI PRINCIPIS
+IUSTINIANI
+IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
+DIGESTORUM SEU PANDECTARUM
+liber tricesimus quintus
+
+
+( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
+
+
+* TITLES
+** 35.1.0. De condicionibus et demonstrationibus et causis et modis eorum (...)
+** 35.2.0. Ad legem Falcidiam.
+** 35.3.0. Si cui plus, quam per legem Falcidiam licuerit, legatum esse dicetur.
+
+
+* 35.1.0. De condicionibus et demonstrationibus et causis et modis eorum, quae in testamento scribuntur.
+
+
+35.1.1
+
+Pomponius libro tertio ad Quintum Mucium
+
+pr. Legatis quae relinquuntur aut dies incertus aut condicio adscribitur aut, si nihil horum factum sit, praesentia sunt, nisi si vi ipsa condicio insit.
+
+1. Cum dies certus adscriptus est, quamvis dies nondum venerit, solvi tamen possunt, quia certum est ea debitu iri.
+
+2. Dies autem incertus est, cum ita scribitur "heres meus cum morietur, decem dato": nam diem incertum mors habet eius. Et ideo si legatarius ante decesserit, ad heredem eius legatum non transit, quia non cessit dies vivo eo [ea], quamvis certum fuerit moriturum heredem.
+
+3. Inest autem condicio legati, veluti cum ita legamus: "quod ex arescusa natum fuerit, heres dato" aut "fructus, qui ex eo fundo percepti fuerint, heres dato" aut "servum, quem alii non legavero, Seio dato".
+
+35.1.2
+
+Ulpianus libro quinto ad Sabinum
+
+Condicionum quaedam sunt, quae quandoque impleri possunt etiam vivo testatore, ut puta "si navis ex asia venerit", nam quandoque venerit navis, condicioni paritum videtur: quaedam, quae non nisi post mortem testatoris "si decem dederit" "si capitolium ascenderit": nam ut paruisse quis condicioni videatur, etiam scire debet hanc condicionem insertam: nam si fato fecerit, non videtur obtemperasse voluntati.
+
+35.1.3
+
+Ulpianus libro sexto ad Sabinum
+
+Optinuit impossibiles condiciones testamento adscriptas pro nullis habendas.
+
+35.1.4
+
+Pomponius libro tertio ad Sabinum
+
+pr. Si his legatum est, quibus patronus legata praestat, temperare debet praetor condicionem, ut et patrono et heredibus scriptis pro portione dentur condicionis explendae gratia.
+
+1. Si ita scriptum sit: "si in quinquennio proximo Titio filius natus non erit, tum decem Seiae heres dato", si Titius ante mortuus sit, non statim Seiae decem deberi, quia hic articulus "tum" extremi quinquennii tempus significat.
+
+35.1.5
+
+Paulus libro secundo ad Sabinum
+
+pr. Condicionibus pupillus et sine tutoris auctoritate parere potest. Nec quem moveri, quod expleta condicione necessarius heres aliquando esse potest: nam hoc iure potestatis fieri, non condicionis expletae.
+
+1. Item servus vel filius familias sine iussu patris vel domini condicionem implere possunt, quia eo facto nemo fraudatur.
+
+35.1.6
+
+Pomponius libro tertio ad Sabinum
+
+pr. Multa testamento non committitur ab herede vel legatario vel eo qui ex ultima voluntate aliquid lucratur, qui alicuius arbitratu monumentum facere iussus sit, si is cuius arbitrium est non vivat vel adesse non possit aut rei arbitrari nolit.
+
+1. Si servos certos quis manumisisset, heres esse iussus erat. Quibusdam ex his ante mortuis Neratius respondit defici eum condicione nec aestimabat, parere posset condicioni nec ne. Sed Servius respondit, cum ita esset scriptum "si filia et mater mea vivent" altera iam mortua, non defici condicione. Idem est et apud Labeonem scriptum. Sabinus quoque et Cassius quasi impossibiles eas condiciones in testamento positas pro non scriptis esse, quae sententia admittenda est.
+
+35.1.7
+
+Ulpianus libro 18 ad Sabinum
+
+pr. Mucianae cautionis utilitas consistit in condicionibus, quae in non faciendo sunt conceptae, ut puta "si in Capitolium non ascenderit" "si Stichum non manumiserit" et in similibus: et ita Aristoni et Neratio et Iuliano visum est: quae sententia et constitutione divi Pii comprobata est. Nec solum in legatis placuit, verum in hereditatibus quoque idem remedium admissum est.
+
+1. Unde si uxor maritum suum, cui dotem promiserat, ita heredem scripserit ex parte: "si dotem, quam ei promisi, neque petierit neque exegerit", denuntiare eum posse coheredi paratum se accepto facere dotem vel cavere et ita adire posse hereditatem. Sed si ex asse sit institutus maritus sub ea condicione, quoniam non est cui caveat, non impediri eum, quo minus adeat hereditatem: nam iure ipso videtur impleta condicio eo, quod non est, quem possit de dote convenire ipse adeundo hereditatem.
+
+35.1.8
+
+Pomponius libro quinto ad Sabinum
+
+Si quis ita legaverit: "dum uxor mea cum filio erit, heres meus ei tantum dato", si ea latitans patronum de medio discessit, ut tamen consilium retineret habendi secum liberos, deberi ei legatum Trebatius et Labeo aiunt, quia non omne momentum exigendum sit ut cum liberis sit, sed si eam mentem et id propositum habeat, ne filium a semet dimittat neve per eam stet, quo minus cum ea filius educetur.
+
+35.1.9
+
+Ulpianus libro 20 ad Sabinum
+
+Solemus dicere eum, qui in tempus liberorum uxori legat, de his non sensisse, quos iam tunc uxor habuit, cum testaretur maritus.
+
+35.1.10
+
+Ulpianus libro 23 ad Sabinum
+
+pr. Haec condicio "filiae meae cum nupserit" talis est, ut qui testatus est impleri solummodo condicionem voluerit, non satis egerit quando: et ideo et si vivo testatore nupserit post testamentum factum, inpleta condicio videtur, praesertim cum condicio haec talis est, ut semel impleri debeat. Sed enim non omnes coniunctiones implent condicionem: puta enim nondum nubilis aetatis in domum mariti deducta non paruit condicioni. Sed et si ei coniuncta sit, cuius nuptiis ei interdictum sit, idem dicemus. An tamen nubendo postea parere condicioni possit, quasi non nupserit, dubitari potest: et si testator de primo nuptiali iugo sensit, puto defectam condicione: benigne tamen dicendum est nondum impletam condicionem defectam.
+
+1. Si sic legatum sit "si navis ex asia venerit" et ignorante testatore navis venerit testamenti facti tempore, dicendum pro impleta haberi. Et si cui sic legatum est "cum pubes erit", simili modo hoc erit dicendum.
+
+35.1.11
+
+Paulus libro quarto ad Sabinum
+
+pr. Si iam facta sint quae condicionis loco ponuntur et sciat testator, quae iterum fieri possunt exspectentur ut fiant: si vero nesciat, praesenti debeantur.
+
+1. Item sciendum est promiscuas condiciones post mortem impleri oportere, si in hoc fiant, ut testamento pareatur, veluti "si Capitolium ascenderit" et similia, non promiscuas etiam vivo testatore existere posse, veluti "si Titius consul factus fuerit".
+
+35.1.12
+
+Ulpianus libro 24 ad Sabinum
+
+Si ita legatum sit: "quoniam filius maior ex arca mea decem sustulit, heres minor filius decem e medio sumito", debetur legatum, quia idcirco relictum est, ut condicio filiorum exaequaretur. Et sane haec causa est: nam causa in praeteritum, poena in futurum confertur.
+
+35.1.13
+
+Paulus libro quinto ad Sabinum
+
+Si fundus alicui legatus fuerit, si pupillo vel furioso pecuniam dedisset, videtur explesse condicionem curatori vel tutori dando.
+
+35.1.14
+
+Pomponius libro octavo ad Sabinum
+
+"Titius si statuas in municipio posuerit, heres esto". Si paratus est ponere, sed locus a municipibus ei non datur, Sabinus Proculus heredem eum fore et in legato idem iuris esse dicunt.
+
+35.1.15
+
+Ulpianus libro 35 ad Sabinum
+
+Cui fuerit sub hac condicione legatum "si in familia nupsisset", videtur impleta condicio statim atque ducta est uxor, quamvis nondum in cubiculum mariti venerit. Nuptias enim non concubitus, sed consensus facit.
+
+35.1.16
+
+Gaius libro primo de testamento ad edictum praetoris
+
+In his, quae extra testamentum incurrerent, possunt res ex bono et aequo interpretationem capere: ea vero, quae ex ipso testamento orerentur, necesse est secundum scripti iuris rationem expediri.
+
+35.1.17
+
+Gaius libro secundo de legatis ad edictum praetoris
+
+pr. Demonstratio falsa est, veluti si ita scriptum sit: "servum Stichum, quem de Titio emi" "fundum Tusculanum, qui mihi a Seio donatus est". Nam si constat, de quo homine, de quo fundo senserit testator, ad rem non pertinet, si is, quem emisse significavit, donatus esset, aut quem donatum sibi esse significaverat, emerit.
+
+1. Igitur et si ita servus legatus sit: "Stichum cocum", "Stichum sutorem Titio lego", licet neque cocus neque sutor sit, ad legatarium pertinebit, si de eo sensisse testatorem conveniat: nam et si in persona legatarii designanda aliquid erratum fuerit, constat autem, cui legare voluerit, perinde valet legatum ac si nullus error interveniret.
+
+2. Quod autem iuris est in falsa demonstratione, hoc vel magis est in falsa causa, veluti ita "Titio fundum do, quia negotia mea curavit", item "fundum Titius filius meus praecipito, quia frater eius ipse ex arca tot aureos sumpsit": licet enim frater huius pecuniam ex arca non sumpsit, utile legatum est.
+
+3. At si condicionaliter concepta sit causa, veluti hoc modo: "Titio, si negotia mea curavit, fundum do": "Titius filius meus, si frater eius centum ex arca sumpsit, fundum praecipito", ita utile erit legatum, si et ille negotia curavit et huius frater centum ex arca sumpsit.
+
+4. Quod si cui in hoc legatum sit, ut ex eo aliquid faceret, veluti monumentum testatori vel opus aut epulum municipibus faceret, vel ex eo ut partem alii restitueret: sub modo legatum videtur.
+
+35.1.18
+
+Gaius libro 18 ad edictum provinciale
+
+Is, cui sub condicione non faciendi aliquid relictum est, ei scilicet cavere debet Muciana cautione, ad quem iure civili, deficiente condicione, hoc legatum eave hereditas pertinere potest.
+
+35.1.19
+
+Ulpianus libro quinto disputationum
+
+pr. In condicionibus primum locum voluntas defuncti optinet eaque regit condiciones. Denique et in ea condicione "si filia mea cum Titio nupta erit" placuit non semper mortis tempus observari, sed voluntate patrocinante tardius produci.
+
+1. Haec scriptura "si primus heres erit, damnas esto dare" pro condicione non est accipienda: magis enim demonstravit testator, quando legatum debeatur, quam condicionem inseruit: nisi forte hoc animo fuerat testator, ut faceret condicionem. Proinde nec illud dicendum erit facere condicionem: "Quidquid mihi ephesi oportet dari, hoc do lego". Sed si sic leget: "si primus mihi heres non erit, damnas esto secundus dare" et primus heres exstitit, legatum non debebitur: si primus adierit cum secundo, non exstitisse condicionem nequaquam ambigendum est.
+
+2. Si patronus contra tabulas bonorum possessione accepta debitam portionem occupet, legata quae sic data sunt "si patronus heres non erit" non debet coheres patroni praestare.
+
+3. Si a primo ita legatum est "si secundus heres non erit, viginti Titio dato" , simili modo a secundo eidem Titio ita legatum est: "si primus heres non erit " et ambo heredes exstiterint, legati condicio deficiet: si alter heres exstitit, alter heres non exstitit, legatum debebitur.
+
+35.1.20
+
+Marcellus notum ad Iuliani libro 27 digestorum
+
+Non dubitamus, quin turpes condiciones remittendae sunt: quo in numero plerumque sunt etiam iurisiurandi.
+
+35.1.21
+
+Iulianus libro 31 digestorum
+
+Multum interest, condicio facti an iuris esset: nam huiusmodi condiciones "si navis ex asia venerit" "si Titius consul factus erit", quamvis impletae essent, impedient heredem circa adeundam hereditatem, quamdiu ignoraret eas impletas esse: quae vero ex iure venient, in his nihil amplius exigendum, quam ut impletae sint. Veluti si quis se filium familias existimat, cum sit pater familias, poterit adquirere hereditatem: quare et ex parte heres scriptus, qui ignorat, an tabulae testamenti apertae sint, adire hereditatem poterit.
+
+35.1.22
+
+Iulianus libro 35 digestorum
+
+Quotiens sub condicione mulieri legatur "si non nupserit" et eiusdem fidei commissum sit, ut Titio restituat, si nubat, commode statuitur et si nupserit, legatum eam petere posse et non esse cogendam fideicommissum praestare.
+
+35.1.23
+
+Iulianus libro 43 digestorum
+
+Qui duobus heredibus decem dare iussus est et fundum sibi habere, verius est, ut condicionem scindere non possit, ne etiam legatum scindatur. Igitur quamvis alteri quinque dederit, nullam partem fundi vindicabit, nisi alteri quoque adeunti hereditatem reliqua quinque numeraverit aut illo omittente hereditatem ei, qui solus adierit hereditatem, tota decem dederit.
+
+35.1.24
+
+Iulianus libro 55 digestorum
+
+Iure civili receptum est, quotiens per eum, cuius interest condicionem impleri, fit, quo minus impleatur, ut perinde habeatur, ac si impleta condicio fuisset: quod plerique et ad legata et ad heredum institutiones perduxerunt. Quibus exemplis stipulationes quoque committi quidam recte putaverunt, cum per promissorem factum esset, quo minus stipulator condicioni pareret.
+
+35.1.25
+
+Iulianus libro 69 digestorum
+
+Cum vir uxori, quandoque liberos habebit, fundum legat, si mulier divortio facto liberos ex alio procreaverit, deinde soluto secundo matrimonio ad priorem maritum redierit, non intellegitur expleta condicio, quod testatorem verisimile non est de his liberis sensisse, qui se vivo ex alio suscepti fuissententiarum
+
+35.1.26
+
+Iulianus libro 82 digestorum
+
+pr. Haec scriptura "si viginti dederit aut iuraverit se aliquid facturum" unam condicionem exprimit habentem duas partes: quare si quicumque heres scriptus erit sub condicione "si iuraverit se decem daturum" aut "monumentum facturum", quamvis verbis edicti ad hereditatem vel legatum admittatur, tamen compellitur facere id quod facturum se iurare iussus est solo iureiurando remisso.
+
+1. Cum eadem res alteri pure, alteri sub condicione legatur aut cum alter pure, alter sub condicione heres scriptus est, pars legati vel hereditatis deficiente condicione adcrescit etiam heredi eius, cui pure legatum vel hereditas data est, si tamen hereditas eius adita fuerit.
+
+35.1.27
+
+Alfenus libro quinto digestorum
+
+In testamento quidam scripserat, ut sibi monumentum ad exemplum eius, quod in via Salaria esset Publii Septimii Demetrii, fieret: nisi factum esset, heredes magna pecunia multare et cum id monumentum Publii Septimii Demetrii nullum repperiebatur, sed Publii Septimii Damae erat, ad quod exemplum suspicabatur eum qui testamentum fecerat monumentum sibi fieri voluisse, quaerebant heredes, cuiusmodi monumentum se facere oporteret et, si ob eam rem nullum monumentum fecissent, quia non repperirent, ad quod exemplum facerent, num poena tenerentur. Respondit, si intellegeretur, quod monumentum demonstrare voluisset is qui testamentum fecisset, tametsi in scriptura mendum esset, tamen ad id, quod ille se demonstrare animo sensisset, fieri debere: sin autem voluntas eius ignoraretur, poenam quidem nullam vim habere, quoniam ad quod exemplum fieri iussisset, id nusquam exstaret, monumentum tamen omnimodo secundum substantiam et dignitatem defuncti exstruere debere.
+
+35.1.28
+
+Paulus libro secundo epitomarum Alfeni digestorum
+
+pr. Filiae suae ita quis legavit: "Si Attia filia mea arbitratu Lucii Titii nupserit, ei tot heres meus dato". Titio ante testatorem mortuo Attia nupserat: quaerebatur, an legatum ei deberetur. Respondit deberi.
+
+1. "Attia uxor mea Optato Philargyrum puerum, Agatheam ancillam, qui mei erunt cum moriar": is qui testamentum fecit Agatheam, quam testamenti tempore habuit, vendidit et postea ancillas emit, ex his uni Agatheae nomen imposuit: quaesitum est, an haec legata videretur. Respondit legatam videri.
+
+35.1.29
+
+Iulianus libro primo ad Urseium Ferocem
+
+Haec condicio "si in Capitolium ascenderit" sic recipienda est "si cum primum potuerit Capitolium ascendere".
+
+35.1.30
+
+Iulianus libro primo ex Minicio
+
+Si separatim mihi totus fundus pure, tibi sub condicione legatus fuerit et tu decesseris, antequam condicio exstiterit: non habebo necessitatem implere condicionem, utpote cum, etiamsi condicio defecerit, pars quam vindicaturus eras mihi adcrescat.
+
+35.1.31
+
+Africanus libro secundo quaestionum
+
+In testamento ita erat scriptum: "Stichus et Pamphila liberi sunto et si in matrimonium coierint, heres meus his centum dare damnas esto": Stichus ante apertas tabulas decessit. Respondit partem Stichi defectam esse: sed et Pamphilam defectam condicione videri ideoque partem eius apud heredem remansuram. Sed et si uterque viveret et Stichus nollet eam uxorem ducere, cum mulier parata esset nubere, illi quidem legatum deberetur, Stichi autem portio inutilis fiebat. Nam cum uni ita legatum sit: "Titio, si Seiam uxorem duxerit, heres meus centum dato", si quidem Seia moriatur, defectus condicione intellegitur: at si ipse decedat, nihil ad heredem suum eum transmittere, quia morte eius condicio defecisse intellegitur: utroque autem vivente si quidem ipse nolit uxorem ducere, quia ipsius facto condicio deficit, nihil ex legato consequitur, muliere autem nolente nubere, cum ipse paratus esset, legatum ei debetur.
+
+35.1.32
+
+Africanus libro nono quaestionum
+
+Quamvis rationes reddere nihil aliud sit quam reliqua solvere, tamen si et statuliberi et heredis culpa, sine fraude tamen servi minus solutum sit et bona fide redditas esse rationes existimatum fuerit, liberum fore: et nisi ita observetur, neminem, qui sub condicione ita manumissus esset, umquam ad libertatem perventurum, si per imprudentiam minus solutum esset. Haec ita accipienda ait, si quando is, qui rationes reddere iussus sit, per aliquem errorem sine dolo malo ita rationes ediderit, ut dominus quoque circa computationem erraret.
+
+35.1.33
+
+Marcianus libro sexto institutionum
+
+pr. Falsa demonstratio neque legatario neque fideicommissario nocet neque heredi instituto, veluti si fratrem dixerit vel sororem vel nepotem vel quodlibet aliud: et hoc ita iuris civilis ratione et constitutionibus divorum Severi et Antonini cautum est.
+
+1. Sed si controversia sit de nomine inter plures: qui probaverit sensisse de se defunctum, ille admittetur.
+
+2. Sed si cui quasi liberto, id est inter libertos legatum fuerit, non idcirco legatum amittit, quia postea anulos ab imperatore acceperit: nam honor eius auctus est, non condicio mutata: et ita divi Severus et Antoninus rescripserunt.
+
+3. Si quis legaverit rem ita, si mortis tempore eius erit, nec tunc eius invenitur, nec aestimatio eius legari videbitur.
+
+4. Quid ergo, si quis ita scripserit: "Stichum et Pamphilum Titio do lego, si mei erunt cum moriar" et unum ex his alienaverit, an vel alter possit a legatario vindicari? Placet vindicari, nam hunc sermonem, licet pluralis sit, pro eo oportet accipi, atque si separatim dixisset: "Stichum, si meus erit cum moriar".
+
+35.1.34
+
+Florentinus libro 11 institutionum
+
+pr. Nominatim alicui legatur ita "Lucio Titio" an per demonstrationem corporis vel artificii vel officii vel necessitudinis vel adfinitatis, nihil interest: nam demonstratio plerumque vice nominis fungitur. Nec interest, falsa an vera sit, si certum sit, quem testator demonstraverit.
+
+1. Inter demonstrationem et condicionem hoc interest, quod demonstratio plerumque factam rem ostendit, condicio futuram.
+
+35.1.35
+
+Pomponius libro singulari regularum
+
+Levissima libertatis condicio ea intellegenda est, quae ad libertatem perducit, quamvis natura gravior et durior sit.
+
+35.1.36
+
+Marcellus libro singulari responsorum
+
+pr. Publius Maevius testamento suo ita cavit: "Quisquis mihi heres heredesve erunt, do lego fideique eorum committo, uti dent Gaio Seio sororis meae filio in honorem consulatus quadringenta": vivo Maevio Seius consul designatus est et munus edidit: deinde ex calendis ianuariis consulatum ingressus est atque ita Maevius decessit: quaero, an quadringenta seio debeantur. Marcellus respondit deberi,
+
+1. Titia codicillis de praediis, quae testamento Septiciae reliquerat, ita cavit: "A te peto, Septicia, ut filio meo, cum annorum sedecim esset, eadem praedia restitueres: quod si filius meus sedecim annos non impleverit, peto uti reddas ea restituas Publio Maevio et Gaio Cornelio". Quaero, cum Septicia decesserit, deinde filius quintum decimum annum agens defunctus sit, an repraesentetur fideicommissum quinto decimo anno impleto et heredes Septiciae restituere id Publio Maevio et Gaio Cornelio debeant. Marcellus respondit Septiciam ius, quod in his praediis habuisset, heredi suo reliquisse: etenim videri contra voluntatem testatricis repraesentationem fideicommissi desiderari, ut amplius ad substitutos perveniat, quam ad puerum pervenire vel a Septicia vel ab heredibus potuisset. Et verba quidem videntur repraesentare fideicommissum, sed non est verisimile, ut maturius voluerit testatrix ad substitutos id transferre. Nec quicquam mutat, quod Septicia ante decessit: nam etsi puer viveret, non prius Septiciae heredes quam Septicia possent conveniri.
+
+35.1.37
+
+Paulus libro singulari ad legem Fufiam Caniniam
+
+Si quis eum, quem ipse manumittere non poterat, legaverit ita, ut eum legatarius manumitteret, etsi a legato non repellatur, non est compellendus, ut manumittat, quoniam totiens secundum voluntatem testatoris facere compellitur, quotiens contra legem nihil sit futurum. Idque Neratius scripsit, et tamen a legato non esse eum repellendum, quoniam magis legatarium aliquid commodum testator in hoc servo quam heredem habere voluisset.
+
+35.1.38
+
+Paulus libro singulari de iure codicillorum
+
+Si ita scripsero: "Quantum codicillis Titio legavero", licet codicillis legatum explicetur, tamen ex testamento valet solaque quantitas in codicillo delata est. Nam et apud veteres legata talia fuere: "Quantum ei per epistulam scripsero": "Quantum ex illa actione detraxero, heres dato".
+
+35.1.39
+
+Iavolenus libro primo ex posterioribus Labeonis
+
+pr. Quae condicio ad genus personarum, non ad certas et notas personas pertineat, cum existimamus totius esse testamenti et ad omnes heredes institutos pertinere: at quae condicio ad certas personas accommodata fuerit, eam referre debemus ad eum dumtaxat gradum, quo hae personae institutae fuerunt.
+
+1. Cum ita in testamento scriptum erat "ut aliquid in foro fiat" neque adscriptum erat in quo foro, Labeo ait, si non appareat, quid mortuus senserit, in eius municipii foro faciendum, in quo is qui testamentum fecerit domicilium habuerit: quam sententiam ego quoque probo.
+
+35.1.40
+
+Iavolenus libro secundo ex posterioribus Labeonis
+
+pr. Quibus diebus vicinus tuus te via publica, cum ad parendum condicioni ire velles, ire prohibuerit nec per te staret, quo minus agendo ob calumnias eum summoveas, hi dies condicioni non imputabuntur.
+
+1. Quidam ita legaverat: "Si Publius Cornelius impensam, quam in fundum Seianum feci, heredi meo dederit, tum heres meus Publio Cornelio fundum Seianum dato". Cascellius aiebat etiam pretium fundi dari debere, Ofilius impensae verbo negat pretium significari, sed eos dumtaxat sumptus, quos in eum posteaquam emptus esset fecit. Idem Cinna scribit adiecto eo, quod non deductis fructibus impensarum ratio haberi debeat: et hoc magis verum puto.
+
+2. Quidam Titio centum legaverat, deinde infra ita iusserat: "Quas pecunias cuique legavi, eas heres meus, si mater mea moritur, dato": mortuo patre familias Titius vixerat et viva matre familias decesserat. Mortua matre heredibus Titii legatum deberi Ofilius respondit, quoniam non sub condicione esset legatum, sed ante legatum pure, deinde dies solvendi adiecta. Videamus, inquit Labeo, ne id falsum sit, quia nihil intersit, utrum ita scribatur: "Quas pecunias cuique legavi, eas heres meus, si mater mea moritur, dato" an ita: "Nisi mater mea moritur, ne dato": utrubique enim sub condicione vel datum vel ademptum esse legatum. Labeonis responsum probo.
+
+3. Dominus servo aureos quinque eius [] legaverat: "Heres meus Sticho servo meo, quem testamento liberum esse iussi, aureos quinque, quos in tabulis debeo, dato". Nihil servo legatum esse namusa servium respondisse scribit, quia dominus servo nihil debere potuisset: ego puto secundum mentem testatoris naturale magis quam civile debitum spectandum esse, et eo iure utimur.
+
+4. Qui dotalem fundum nullum habebat, ita legaverat: "Fundum Cornelianum, quem illa mihi doti dedit, ei heres dato". Labeo Ofilius Trebatius responderunt fundum nihilo minus legatum esse, quia, cum fundus Cornelianus in rerum natura sit, demonstratio falsa legatum non peremit.
+
+5. Thermus minor quorum arbitratu monumentum sibi fieri vellet testamento scripserat, deinde ita legaverat: "Luciis Publiis Corneliis ad monumentum meum aedificandum mille heres meus dato". Trebatius respondit pro eo [ea] habendum ac si ita legatum esset, si satisdedissent se ita id monumentum ex ea pecunia facturos. Labeo Trebatii sententiam probat, quia haec mens testantis fuisset, ut ea pecunia in monumentum consumeretur: idem et ego et Proculus probamus.
+
+35.1.41
+
+Ulpianus libro 34 ad edictum
+
+Legata sub condicione relicta non statim, sed cum condicio exstiterit deberi incipiunt, ideoque interim delegari non potuerunt.
+
+35.1.42
+
+Africanus libro secundo quaestionum
+
+Filio familias legatum est sub hac condicione "si in potestate patris mansisset": magis patri legatum videri ait et patrem suo nomine legatum petere. Idem iuris esse et si servo similiter legetur: argumentum rei est, quod et si cibaria servis Titii legentur, procul dubio domini est, non servorum legatum.
+
+35.1.43
+
+Paulus libro octavo ad Plautium
+
+pr. Plautius. Rogatus est heres a liberto testatore, ut perceptis sibi decem totam hereditatem revenderet: postea patronus defuncti bonorum possessionem contra tabulas petierat et partem hereditatis, quae debebatur, abstulerat. Proculus Cassius fideicommissarium pro rata quod solvit repetere debere aiunt. Paulus. Hoc iure utimur: nam quemadmodum praestatione fideicommissorum et legatorum heres exoneratur per praetorem, ita etiam ipse partem consequi debet.
+
+1. Diversum est, si Falcidia interveniat et minuat legatum: nam his casibus nihil repetetur, quia in solidum condicioni paretur.
+
+2. Item scinditur ius dandi, si is cui legatum est non potest partem hereditatis sibi relictam totam capere: nam verius est partem eum praestare debere, partem illos, qui auferunt ab eo, quod plus relictum est, quam a lege conceditur.
+
+3. Neratius libro primo responsorum scribit, ex duobus scriptis heredibus si unus rogatus sit tibi hereditatem restituere, tu Titio certam summam dare, et beneficio legis Falcidiae in restituendo heres utatur, quanto minus tibi praestiterit, tanto minus te Titio praestare non esse iniquum.
+
+35.1.44
+
+Paulus libro nono ad Plautium
+
+pr. Qui heredi dare iussus est, servo alieno instituto non domino dare debet. Nam et si alio herede instituto iussus est servo Titii dare, ipsi servo datur, quia quae facti sunt, non transeunt ad dominum, quemadmodum, si mihi aut servo Titii stipulatus sim, non Titio, sed servo eius dari potest: et haec vera sunt.
+
+1. Sed cum heredi dare iussus est, videamus, ne domino dandum sit: et consequens est et hic servo dari.
+
+2. Certe statuliber quin domino dare debeat, non est dubium.
+
+3. Contra qui domino debet dare, non implet condicionem dando servo eius, nisi si dominus consenserit: nemo enim in tali specie condicionem nesciente me vel nolente implere potest.
+
+4. Cum hereditas ex Trebelliano senatus consulto restituta est, heredi dandum est, ut impleatur condicio: nec hoc restituendum est ex causa fideicommissi.
+
+5. Sed cum suspectam adiit et restituit, dubitabatur, an ei auferendum sit: et benignus est et in hoc casu nihil ei auferri.
+
+6. Si autem me herede instituto controversia mihi fiet hereditatis, si cavet legatarius evicta hereditate reddi legatum, et ipsi cavendum est reddi quod dedit.
+
+7. Sed si iussus sis mihi decem dare et accipere hereditatem ex senatus consulto, decem tibi ex causa fideicommissi non restituam.
+
+8. Si duorum servo legatum sit sub condicione dandi, non posse per partes condicioni pareri quidam aiunt, sed semel dandam pecuniam: sed ego contra puto.
+
+9. Si pars rei legatae usucapta sit, an in solidum parendum sit, dubito. Et potest dici pro parte parendum ex sententia testatoris.
+
+10. Plautius. Uni ex heredibus fundum legavi, si centum heredibus dedisset: deducet suam partem hereditariam et reliquam summam heredibus pro portione eorum dabit. At si heres ex parte ita institutus esset, si heredibus decem dedisset, non aliter esset heres, quam si tota decem coheredibus dedisset, quia non ante ad hereditatem admitteretur, quam si omnem summam dedisset. Nam cum et servus testamento liber et ex parte heres ita scriptus esset, si heredibus decem dedisset, constitit non aliter eum liberum heredemque futurum, quam si tota decem coheredibus dedisset. Paulus: hoc iure utimur.
+
+35.1.45
+
+Paulus libro 16 ad Plautium
+
+Iulianus ait, si heredi legatarius, cui sub condicione legatum erat "si heredi decem dederit" id, quod ei deberet heres, accepto tulisset, non quidem videri condicioni paruisse, quasi dederit: sed quasi per heredem stet, quo minus pareat, posse petere legatum, quasi exstiterit condicio.
+
+35.1.46
+
+Paulus libro tertio ad Vitellium
+
+Si in diem exempli gratia centensimum imperatum est statulibero, ut pecuniam solveret, neque initium temporis eius quod futurum esset, adscriptum est, adita hereditate cedere dies incipit, quia absurdum visum est ante diem praeterire, quam is existeret, quem oportet accipere. Et hoc in omnibus, qui heredi dare iussi sunt, dicendum est: igitur et legatario ex adita hereditate ad parendum condicioni tempus computabitur.
+
+35.1.47
+
+Marcellus libro 14 digestorum
+
+Servo libertatem ita dedit: "Ille, si meus erit, liber esto": legatum vel hereditatem sine condicione ei dedit: deinde eum alienavit. Debebitur domino eius legatum vel hereditas et iussu eius adiri poterit: nam id expressit "si meus erit" in libertate danda, quo futurum erat ut impediretur libertas, etiamsi expressum non esset. Saepenumero tamen mutatur rei effectus, quamquam id expresserit testator, quod et si non fecisset, inesset tamen.
+
+35.1.48
+
+Marcellus libro 15 digestorum
+
+Non putabam diem fideicommissi venisse, cum sextum decimum annum ingressus fuisset, cui erat relictum, cum ad annum sextum decimum pervenisset: et ita etiam Aurelius imperator Antoninus ad appellationem ex Germania iudicavit.
+
+35.1.49
+
+Celsus libro 22 digestorum
+
+Si in annos decem heres dare damnatus aut quis liber esse iussus est, novissimo eius temporis die legatum debebitur et libertas optingit.
+
+35.1.50
+
+Ulpianus libro primo de officio consulis
+
+Si cui libertas data sit directo sub hac condicione "si rationes reddidisset", arbitrum a consulibus divus Pius dari permisit his verbis: "Aditi a vobis amplissimi consules arbitrum dabunt, qui excussis rationibus non tantum quae reliqua sunt epaphroditi constituent, verum etiam quas rationes quaeque instrumenta tradere aut exhibere dominis suis debeat: cuius sententiae cum fuerit satisfactum, non impedietur Epaphroditi libertas".
+
+35.1.51
+
+Modestinus libro quinto differentiarum
+
+pr. Sub diversis condicionibus disiunctim positis liber esse iussus eam condicionem eligere potest, quae sibi levior esse videbitur: legato vero eo modo relicto legatarium novissimae condicioni parere oportet.
+
+1. Heredi decem dare iussus et liber esse et heredis heredi dando perveniet ad libertatem: quod non similiter in legatarii persona custodiri Publicius scribit.
+
+35.1.52
+
+Modestinus libro septimo differentiarum
+
+Nonnumquam contingit, ut quaedam nominatim expressa officiant, quamvis omissa tacite intellegi potuissent nec essent offutura. Quod evenit, si alicui ita legatur: "Titio decem do lego, si Maevius Capitolium ascenderit". Nam quamvis in arbitrio Maevii sit, an Capitolium ascendat et velit efficere, ut Titio legatum debeatur, non tamen poterit aliis verbis utiliter legari: "Si Maevius voluerit, Titio decem do": nam in alienam voluntatem conferri legatum non potest. Inde dictum est: expressa nocent, non expressa non nocent.
+
+35.1.53
+
+Modestinus libro singulari de heurematicis
+
+Si quis servum liberum esse iusserit, si heredi rationes reddidisset, posteaque eum rationes reddere vetuerit quasi puram facturus libertatem, competit ex testamento libertas.
+
+35.1.54
+
+Iavolenus libro secundo ex Cassio
+
+pr. Si quis legata, quibus dies adposita non esset, annua bima trima die dari iussit et alicui, cum pubes esset, pecuniam legavit, id quoque legatum annua bima trima die post pubertatem praestandum esse in commentariis Gaii scriptum est, quia magis condicio quam dies legato adiecta esset. Contra ego sentio, quia fere dies ponitur ad proroganda ea, quae ad praesens tempus, non etiam quae in futurum legata sunt, diesque pubertatis habet aliquam temporis demonstrationem.
+
+1. Duobus eadem res, si heredi centum dedissent, legata est: si alter ex his quinquaginta dederit, partem legati consequetur et pars eius, qui non dederit, alteri cum sua condicione adcrescit.
+
+35.1.55
+
+Iavolenus libro 13 epistularum
+
+Maevius, cui fundus legatus est, si Callimacho, cum quo testamenti factionem non habebat, ducenta dedisset: condicioni parere debet et ducenta dare, ut ad eum legatus fundus pertineat, licet nummos non faciat accipientis: quid enim interest, utrum tali personae dare iubeatur an aliquo loco ponere vel in mare deicere? Neque enim illud, quod ad talem personam perventurum est, testamenti nomine, sed mortis causa capitur.
+
+35.1.56
+
+Iavolenus libro 14 epistularum
+
+Cui fundus legatus est, si decem dederit, partem fundi consequi non potest, nisi totam pecuniam numerasset. Dissimilis est causa, cum duobus eadem res sub condicione legata est: in hac enim quaestione statim a testamento, quo pluribus condicio adposita est, divisa quoque in singulas personas videri potest, et ideo singuli pro sua parte et condicioni parere et legatum capere possunt: nam quamvis summa universe condicionis sit adscripta, enumeratione personarum potest videri esse divisa. In eo vero, quod uni sub condicione legatum est, scindi ex accidenti condicio non debet, et omnis numerus eorum, qui in locum eius substituuntur, pro singulari persona est habendus.
+
+35.1.57
+
+Pomponius libro nono ad Quintum Mucium
+
+Quaesitum est, an, si iussus fuerit servus quinque operas extraneo dare, ut liber sit, condicio talis sit recipienda, ut, quemadmodum circa pecuniae dationem dicitur, ita et circa praestationem operarum dicamus. Sed hoc iure utimur, ut, quemadmodum dictum est, si pecuniam ex peculio suo det extraneo, admitti eum ad libertatem, ita et, si operam praestiterit, necesse sit eum admitti ad libertatem. Itaque et in proposito sapienter faciet heres, si impedierit eum, quo minus praestet operas: hac enim ratione servus perveniet quidem ad libertatem, sed operis eius extraneus non utetur.
+
+35.1.58
+
+Pomponius libro decimo ex variis lectionibus
+
+Si ancillae alienae, cum ea nupsisset, legatum sit, Proculus ait utile legatum esse, quia possit manumissa nubere.
+
+35.1.59
+
+Ulpianus libro 13 ad legem Iuliam et Papiam
+
+pr. Intercidit legatum, si ea persona decesserit, cui legatum est sub condicione.
+
+1. Quid ergo, si non decesserit, sed in civitate esse desierit? Puta alicui legatum "si consul fuerit" et is in insulam deportatus est: numquid non interim exstinguitur legatum, quia restitui in civitate potest? Quod probabilius esse arbitror.
+
+2. Non idem erit dicendum, si ea poena in eum statuta fuerit, quae irrogat servitutem, quia servitus morti adsimulatur.
+
+35.1.60
+
+Paulus libro septimo ad legem Iuliam et Papiam
+
+pr. In facto consistentes condiciones varietatem habent et quasi tripertitam recipiunt divisionem, ut quid detur, ut quid fiat, ut quid optingat, vel retro ne detur, ne fiat, ne optingat. Ex his dandi faciendique condiciones in personas collocantur aut ipsorum, quibus quid relinquitur, aut aliorum: tertia species in eventu ponetur.
+
+1. Fiscus iisdem condicionibus parere debet, quibus persona, a qua ad ipsum quod relictum est pervenit, sicut etiam cum suo onere hoc ipsum vindicat.
+
+35.1.61
+
+Ulpianus libro octavo ad legem Iuliam et Papiam
+
+Si vir uxori ad tempus liberorum legaverit, dubitari potest, an de his dumtaxat filiis sensisset testator qui post mortem eius nati fuissent an et de his, qui vivo eo ab eo suscepti fuissent post testamentum factum, cum manente matrimonio decessisset: verum aequum est proficere, sive vivo marito sive post mortem nascatur.
+
+35.1.62
+
+Clementius libro quarto ad legem Iuliam et Papiam
+
+pr. Sed si hoc specialiter expressit testator, etiamsi ex alio post mortem suam liberos procreaverit, nihilo minus eam ad legatum admitti.
+
+1. Cuidam non solidum capienti amplius lege concessae portionis relicta est, si heredi aliquid dedisset: quaeritur, an id, quod condicionis implendae causa dederat, consequi ex causa legati possit (quasi non capiat id quod eroget) an vero id extra sit nec ideo magis ex bonis testatoris amplius capiat, quam capturus esset, si sine condicione legatum esset. Et Iulianus rectissime scribit tanto amplius eum capturum, quantum condicionis implendae causa dare eum oportet, nec interesse, heredi an extraneo dare iussus sit, quia computatione facta, quae semper in persona eius introduceretur, non amplius lege concessae portionis ad eum subsideret.
+
+2. Cum vir uxori "si a liberis ne nupserit" in annos singulos aliquid legavit, quid iuris sit? Iulianus respondit posse mulierem nubere et legatum capere. Quod si ita scriptum esset "si a liberis impuberibus ne nupserit", legem locum non habere, quia magis cura liberorum quam viduitas iniungeretur.
+
+35.1.63
+
+Gaius libro tertio ad legem Iuliam et Papiam
+
+pr. Cum ita legatum sit "si Titio non nupserit" vel ita "si neque Titio neque Seio neque Maevio nupserit" et denique si plures personae comprehensae fuerint, magis placuit, cuilibet eorum si nupserit, amissuram legatum, nec videri tali condicione viduitatem iniunctam, cum alii cuilibet satis commode possit nubere.
+
+1. Videamus et si ita legatum sit "si Titio nupserit". Et quidem si honeste Titio possit nubere, dubium non erit, quin, nisi paruerit condicioni, excludatur a legato: si vero indignus sit nuptiis eius iste Titius, dicendum est posse eam beneficio legis cuilibet nubere. Quae enim Titio nubere iubetur, ceteris omnibus nubere prohibetur: itaque si Titius indignus sit, tale est, quale si generaliter scriptum esset "si non nupserit". Immo si verum amamus, durior haec condicio est quam illa "si non nupserit": nam et ceteris omnibus nubere prohibetur et Titio, cui inhoneste nuptura sit, nubere iubetur.
+
+35.1.64
+
+Clementius libro quinto ad legem Iuliam et Papiam
+
+pr. Hoc modo legato dato "si Lucio Titio non nupserit" non esse legi locum Iulianus aiebat.
+
+1. Quod si ita scriptum esset "si Ariciae non nupserit", interesse, an fraus legi facta esset: nam si ea esset, quae aliubi nuptias non facile possit invenire, interpretandum ipso iure rescindi, quod fraudandae legis gratia esset adscriptum: legem enim utilem rei publicae, subolis scilicet procreandae causa latam, adiuvandam interpretatione.
+
+35.1.65
+
+Paulus libro 62 ad edictum
+
+Legato sub condicione relicto si heres, a quo sub condicione legatum est, pendente condicione moriatur, heredem suum obligatum relinquit.
+
+35.1.66
+
+Modestinus libro decimo responsorum
+
+Heres statuliberum, cui in eventum condicionis fideicommissum restituere rogatus erat, manumisit: quaero, an fideicommissum ei praestare debeat. Herennius Modestinus respondit, quamquam statuliberum heres manumiserit, tamen fideicommissum, quod sub iisdem condicionibus relictum ei debet, ita praestare cogitur, si condiciones impletas esse praestabit aut per eum stetit, quo minus impleantur.
+
+35.1.67
+
+Iavolenus libro 11 epistularum
+
+Cum sub hac condicione fundus alicui legatus esset "si servum non manumiserit" et, si manumiserit, legatum fundi ad Maevium translatum esset, legatarius de non liberando satisdedit et legatum accepit et postea liberavit: quaero, an aliquid Maevio detur. Respondit, si cui ita legatum erit "si servum non manumiserit", satisdatione interposita accipere ab herede legatum poterit et, si postea servum manumiserit, commissa stipulatione heredi vel fundum vel quanti ea res est restituet eoque casu heres ei, cui ex sequenti condicione legatum debuerit, restituet.
+
+35.1.68
+
+Iavolenus libro secundo ex Cassio
+
+Si ita legatum esset "cum nupserit", si nupta fuerit et hoc testator scisset, alterum matrimonium erit exspectandum nihilque intererit, utrum vivo testatore an post mortem ea iterum nupserit.
+
+35.1.69
+
+Gaius libro 13 ad legem Iuliam et Papiam
+
+Si ita expressum erit: "Titio, si voluerit, do lego", apud Labeonem Proculus notat non aliter ad heredem legatarii pertinere, quam si ipse legatarius voluerit ad se pertinere, quia condicio personae iniuncta videtur.
+
+35.1.70
+
+Papinianus libro 16 quaestionum
+
+Duos mater filios sub condicione emancipationis ex partibus heredes instituit eisque plurium rerum praeceptiones pure dedit: hereditatem adierunt. Patrem a legatorum commodo illa quoque ratio debet summovere, quod emancipando filios obsecutus voluntati supremum iudicium uxoris suae custodiri voluit.
+
+35.1.71
+
+Papinianus libro 17 quaestionum
+
+pr. Titio centum ita, ut fundum emat, legata sunt: non esse cogendum Titium cavere Sextus Caecilius existimat, quoniam ad ipsum dumtaxat emolumentum legati rediret. Sed si filio fratri alumno minus industrio prospectum esse voluit, interesse heredis credendum est atque ideo cautionem interponendam, ut et fundus comparetur ac postea non alienaretur.
+
+1. Titio centum relicta sunt ita, ut Maeviam uxorem quae vidua est ducat: condicio non remittetur et ideo nec cautio remittenda est. Huic sententiae non refragatur, quod, si quis pecuniam promittat, si Maeviam uxorem non ducat, praetor actionem denegat: aliud est enim eligendi matrimonii poenae metu libertatem auferri, aliud ad testamentum certa lege invitari.
+
+2. Titio centum relicta sunt ita, ut a monumento meo non recedat vel uti in illa civitate domicilium habeat. Potest dici non esse locum cautioni, per quam ius libertatis infringitur. Sed in defuncti libertis alio iure utimur.
+
+3. "Titio genero meo heres meus dotis Seiae filiae meae nomine centum dato". Legati quidem emolumentum ad Seiam, quae dotem habere incipit, pertinebit, sed quia non tantum mulieri, sed Titio quoque, cui pecuniam legavit, consultum videtur, prope est, ut ipse legatarius intellegatur et legatum petere debeat. Si post divortium genero pecuniam heres solverit, aeque liberabitur, quoniam in dotem solutio convertitur. Constante autem matrimonio etiam prohibente muliere Titio recte solvetur: hoc enim et mulieris interest, ut incipiat esse dotata. Nam et si quis ipsam quoque petitionem habere responderit eaque pecuniam petat neque dotis fieri velit, non dubie doli summovebitur exceptione. Ante nuptias vero Titio vel muliere defunctis legatum apud heredem manet. Quod si nolit eam uxorem ducere, causa legati, quod ad mulieris personam attinet, satisfactum intellegetur, sed Titio legatum petenti nocebit exceptio doli. Sabinus autem existimabat nupta muliere Titio sine cautione legatum deberi, quoniam pecunia dotis efficeretur: sed cum ante nuptias, quia purum legatum est, peti potest, cautio "mulieri pecuniam reddi" necessaria erit. Quod si maritus vitio suo causa ceciderit neque solvendo sit, numquid adversus heredem mulieri, quae nihil deliquit, succurri debeat ob eam pecuniam, quae doti fuerat destinata? Sed quoniam ambo legati petitionem habuerunt, salvam habebit, non soluta pecunia viro, mulier actionem.
+
+35.1.72
+
+Papinianus libro 18 quaestionum
+
+pr. Cum tale legatum esset relictum Titiae "si a liberis non discesserit", negaverunt eam recte cavere, quia vel mortuis liberis legati condicio possit exsistere. Sed displicuit sententia: non enim voto matris opponi tam ominosa non interponendae cautionis interpretatio debuit.
+
+1. Et cum patronus liberto certam pecuniam legasset, si a liberis eius non discessisset, permisit imperator velut Mucianam cautionem offerri: fuit enim periculosum ac triste libertum coniunctum patroni liberis eorundem mortem exspectare.
+
+2. Titius heredem institutum rogavit post mortem suam hereditatem restituere, si fideicommissi cautio non fuisset petita. Mucianae cautionis exemplum ante constitutionem remissae cautionis locum habere non potuit, quoniam vivo eo, cui relictum est, impleri condicio potuit.
+
+3. Quid ergo, si ita scriptum sit: "Peto, post mortem tuam restituas hereditatem ita, ne satis fideicommissi petatur neve ratio exigatur". Sine dubio per huiusmodi verba non interponendae quidem cautionis condicio videbitur adscripta, rationi vero non exigendae modus adhibitus, scilicet ut culpa, non etiam dolus remissus intellegatur: idque in eius persona, qui negotia gessit cuique rationis reddendae necessitas fuerat testamento remissa, rescriptum est.
+
+4. "Si arbitratu Titii Seia nupserit, heres meus ei fundum dato". Vivo Titio etiam sine arbitrio Titii eam nubentem legatum accipere respondendum est eamque legis sententiam videri, ne quod omnino nuptiis impedimentum inferatur. Sed si Titius vivo testatore decedat, licet condicio deficit, quia tamen suspensa quoque pro nihilo foret, mulieri succurretur.
+
+5. "Maeviae, si non nupserit, fundum cum morietur lego". Potest dici et si nupserit, eam confestim ad legatum admitti. Non idem probatur, si certus dies incertusve alius legato fuerit adscriptus.
+
+6. Falsam causam legato non obesse verius est, quia ratio legandi legato non cohaeret: sed plerumque doli exceptio locum habebit, si probetur alias legaturus non fuisse.
+
+7. Falsam condicionem Cassius et Caelius Sabinus impossibilem esse dixerunt, veluti: "Pamphilus, si quod Titio debeo solverit, liber esto", si modo nihil Titio fuit debitum: quod si post testamentum factum testator pecuniam exsolvit, defecisse condicionem intellegi.
+
+8. Falsam legati demonstrationem non facere legatum Sabinus respondit (veluti si quis, cum Titio nihil legasset, ita scriptum reliquerit: "Ex centum, quae Titio legavi, quinquaginta heres Seio dato") idque sumpsit ex defuncti voluntate, quia non animo legandi, sed deminuendi legatum, quod falso datum existimaret, ita scriberet. Propter falsam tamen demonstrationem legati non plus Seius adsequetur, quam si vere demonstratum fuisset.
+
+35.1.73
+
+Papinianus libro 19 quaestionum
+
+Titio fundus, si in Asiam non venerit, idem, si pervenerit, Sempronio legatus est. Cum in omnibus condicionibus, quae morte legatariorum finiuntur, receptum est, ut Muciana cautio interponatur, heres cautionem a Titio accepit et fundum ei dedit. Si postea in Asiam pervenerit, Sempronio heres, quod ex stipulatu cautionis interpositae consequi potest, utili actione praestare cogitur. Sed si cautio medio tempore defecerit, quae sollicite fuerat exacta, non de suo praestabit heres, sed quia nihil ei potest obici, satis erit actiones praestari. Si tamen, Titius cum in Asiam venisset, Sempronius, priusquam legatum accipiat, decesserit, heredi eius deberetur, quod defunctus petere potuit.
+
+35.1.74
+
+Papinianus libro 32 quaestionum
+
+Mulieri et Titio usus fructus, si non nupserit mulier, relictus est. Si mulier nupserit, quamdiu Titius et vivit et in eodem statu erit, partem usus fructus habebit: tantum enim beneficio legis ex legato concessum esse mulieri intellegendum est, quantum haberet, si condicioni paruisset. Nec si Titius, qui condicione defectus est, legatum repudiet, ea res mulieri proderit.
+
+35.1.75
+
+Papinianus libro 34 quaestionum
+
+Dies incertus condicionem in testamento facit.
+
+35.1.76
+
+Papinianus libro sexto responsorum
+
+Fideicommissum a filiis relictum "si quis ex his sine liberis diem suum obierit" adoptionis commento non excluditur.
+
+35.1.77
+
+Papinianus libro septimo responsorum
+
+pr. Avia, quae nepotem sub condicione emancipationis pro parte heredem instituerat, ita postea codicillis scripsit: "Hoc amplius nepoti meo, quam quod eum heredem institui, lego praedia illa". Condicionem emancipationis repetitam videri placet, quamvis avia nullam in legatis, ut in hereditate, substitutionem fecisset. Nam et cum servus pure quidem liber, heres autem sub condicione scriptus et, si heres non exstiterit, legatum accipere iussus est, in legato repetitam videri libertatem divus Pius rescripsit.
+
+1. Muciana cautio locum non habet, si per aliam condicionem actio legati differri possit.
+
+2. "Titio, si mulier non nupserit, heres centum dato": quam pecuniam eidem mulieri Titius restituere rogatus est. Si nupserit mulier die legati cedente, fideicommissum petet: remoto autem fideicommisso legatarius exemplum Mucianae cautionis non habebit.
+
+3. Pater exheredatae filiae tutores dedit eosque, si mater eius, impubere filia constituta, vita decessisset, ad rem gerendam accedere iussit, cum uxori mandatum esset, ut moriens filiae communi decies restitueret. Non sub condicione tutores videbuntur dati nec, si quid aliud interea puella quaesisset, eius administratione prohiberi, cautio vero fideicommissi matri remissa. Quocumque indicio voluntatis cautio legatorum vel fideicommissorum remitti potest. Itaque si cautionis non petendae condicio legato vel fideicommisso praescribatur, condicionem ea res non faciet: non enim deficiet, si quis caveri desideraverit, onere cautionis non secuto, quod adversus invitum hodie iure publico sequi non potest, postquam remitti posse cautionem placuit.
+
+35.1.78
+
+Papinianus libro nono responsorum
+
+pr. Cum pupillus aut tutor eius condicionem in personam pupilli collatam impedit, tam legati quam libertatis iure communi condicio impleta esse videtur.
+
+1. Disiunctivo modo condicionibus adscriptis alteram defecisse non oberit altera vel postea impleta, nec interest, in potestate fuerint accipientis condiciones an in eventum collatae.
+
+35.1.79
+
+Papinianus libro primo definitionum
+
+pr. "Heres meus, cum morietur Titius, centum ei dato". Purum legatum est, quia non condicione, sed mora suspenditur: non potest enim condicio non exsistere [existere].
+
+1. "Heres meus, cum ipse morietur, centum Titio dato". Legatum sub condicione relictum est: quamvis enim heredem moriturum certum sit, tamen incertum est, an legatario vivo. Dies legati non cedit et non est certum ad eum legatum perventurum.
+
+2. Qui post Mucianam cautionem interpositam legatum accepit, si contra cautionem aliquid fecerit, stipulatione commissa etiam fructus heredi restituet: hoc enim legatarius et in exordio cavere cogitur.
+
+3. Quamvis usus fructus, cum morietur legatarius, inutiliter legetur, tamen cautionis Mucianae remedium usu fructu quoque sub condicionem alicuius non faciendi legato locum habet.
+
+4. Quod in fraudem legis ad impediendas nuptias scriptum est, nullam vim habet, veluti: "Titio patri centum, si filia, quam habet is in potestate, non nupserit, heres dato" vel: "Filio familias, si pater eius uxorem non duxerit, heres dato".
+
+35.1.80
+
+Scaevola libro octavo quaestionum
+
+Eas causas, quae protinus agentem repellunt, in fideicommissis non pro condicionalibus observari oportet: eas vero, quae habent moram cum sumptu, admittemus cautione oblata: nec enim parem dicemus eum, cui ita datum sit, si monumentum fecerit, et eum, cui datum est, ut monumentum faciat.
+
+35.1.81
+
+Paulus libro 21 quaestionum
+
+pr. Iulius Paulus Nymphidio. Quaesisti, si ita in testamento cautum esset: "Stichus si rationes reddiderit, cum contubernali sua liber esto eisque decem heres dato", an Sticho mortuo antequam rationes redderet, vel pariatore vel reliqua habente, libera esset mulier? Et an de legato idem accipiamus. Libertate data, si rationes reddiderit, hanc condicionem rationum reddendarum, ut iussus videatur reliqua reddere, si qua habet, cum fide actus sui. Quae si nulla sunt, pure accepisse libertatem videbuntur: et si post aditam hereditatem decessit, competente libertate etiam legatum eos secutum est. Quod si, cum adhuc reliqua haberet, decessit, sub eadem condicione et contubernalis eius libertatem accepisse videtur et defecta videbitur condicione. Sed non ineleganter illud dicetur Stichum quidem sub condicione manumissum, contubernalem autem eius pure et illam coniunctionem non ad coniungendam condicionem, sed ad necessitudinem demonstrandam pertinere.
+
+1. Tunc demum pro impleta habetur condicio, cum per eum stat, qui, si impleta esset, debiturus erat.
+
+35.1.82
+
+Callistratus libro secundo quaestionum
+
+Cum servus ita liber esse iussus sit "si rationes reddiderit" eique fundum heres dare damnas sit, videamus, utrum condicio libertati praeposita sit an vero et legato. Et quidem si libertati soli accipiamus praepositam, nullus tractatus amplius superest: nam legatum purum invenitur et ideo inutile fit: quod si condicio etiam legato insita sit, quod quidam recte putant, simul cum libertate dies quoque legati utiliter cedit. Quid ergo continetur his verbis "si rationes reddiderit?" quidam hoc aiunt "si reliqua reddiderit", quasi nihil intersit, utrum sub hac condicione "si reliqua" vel hac "si rationes reddiderit". Sed nos neque condicionem meram putamus esse, quae in datione exsistit, neque meram condicionem, quae in facto sit, sed eam condicionem, quae ex mixtura quadam consistit. Nam non utique si ille in folle reliqua optulerit, liber erit: non enim testator hoc sensit, sed illud, ut rationes reddat, quomodo servus reddere solet, id est legendas offerre rationes primum, deinde computandas, ut explorari possit, imputationes probe an improbe referantur, accepta recte relata an non recte: ita enim incipit quidem res a facto, pervenit autem ad pecuniam. Inest his verbis etiam heredes notitia instrui rationum, ut sciant, quid in quaque ratione scriptum sit. Nam quod ipse vivus facturus erat, ab heredibus suis fieri iussisse intellegitur: ille autem utique non sic solebat servo suo ostendenti reliqua rationes subscribere, sed ita, ut legeret examinaret exciperet. Itaque cum servo sub hac condicione testamento libertas datur "si rationes reddiderit" , non hanc solam habet significationem, si cautiones instrumentaque omnia actus sui exhibuerit heredi, sed et si reliqua solverit.
+
+35.1.83
+
+Paulus libro 12 responsorum
+
+Lucius Titius ita testamentum fecit: "Aurelius Claudius natus ex illa muliere, si filium meum se esse iudici probaverit, heres mihi esto". Paulus respondit filium de quo quaereretur non sub ea condicione institutum videri, quae in potestate eius est, et ideo testamentum nullius esse momenti.
+
+35.1.84
+
+Paulus libro 14 responsorum
+
+"Illis libertis alimentorum nomine, si cum filio meo morati fuerint, menstruos denarios centenos et vestiaria dari volo". Liberti in obsequio fuerunt, quamdiu adulescens ad militiam promoveretur: qua causa effectum est, ut quibusdam romae relictis proficisceretur, et apud castra defunctus est: quaesitum est, an ab heredibus eius alimenta debeantur. Paulus respondit condicionem quidem in persona libertorum, qui cum filio defuncti morati sunt aut per eos non stetit, quo minus morarentur, mortuo filio testatoris defecisse non videri. Sed si testator propter filii utilitatem his, qui cum eo morati fuissent, alimenta praestari voluit, contra voluntatem defuncti petentes audiri non oportere.
+
+35.1.85
+
+Scaevola libro tertio responsorum
+
+Titia heredis instituti liberos habentis filii fidei commisit, uti rem eius universam restitueret filiis eius liberisve eorum, cum ipsi petissent, sine ulla iuris cavillatione: quaero, an his verbis "cum illi a te petierint" condicio fideicommisso adscripta videatur. Respondit non videri.
+
+35.1.86
+
+Maecenatus libro tertio fideicommissorum
+
+pr. Iulianus noster eum, qui decem dare et ita liber esse iussus esset, si a vivente manumissus esset, non aliter legatum, quod ei cum libertate datum esset, habiturum, quam si condicioni libertatis paruisset: item in emptorem, si alienatus esset. Sed id tunc locum habet, cum omnimodo simul cum libertate legatum adquiri potuit, licet legato imposito non sit, veluti cum in tempus libertatis legatum collatum esset.
+
+1. Cum vero libertas sub condicione, legatum autem praesenti die datum est, in hoc quaestio est, an constiterit legatum: etenim nec Catonianae sententiae locum in proposito esse, quia etsi statim testator decessisset, non tamen omnimodo inutile esset legatum, cum posset condicio libertatis ante aditam hereditatem impleri et legatum manumisso deberi, nisi forte necessarius heres exstitisset: tunc enim omnimodo inutile erit legatum iure ipso, quia sub condicione acceperit libertatem.
+
+35.1.87
+
+Valens libro primo fideicommissorum
+
+Quod traditum est in legatis novissimam, in libertatibus levissimam condicionem spectandam esse,
+
+35.1.88
+
+Gaius libro primo fideicommissorum
+
+Id est quae ipsi servo commodior sit,
+
+35.1.89
+
+Valens libro primo fideicommissorum
+
+Non ad ea dumtaxat pertinet, quae saepius sub diversis condicionibus, sed etiam quae primo pure, deinde sub condicione dantur. Itaque quod heres pure dare iussus est quodve pure legatum est, cum id ex intervallo sub condicione legatum est, posterius valet: si prius sub condicione, deinde pure legatum est, praesens debetur. Quod si pure legatum ex continenti heres sub condicione damnatus aut rogatus est dare, perinde est, ac si iuncta subiecta scriptura idem legatum esset, vel ut praesens vindicari, si hoc voluerit legatarius, vel, cum condicio exstiterit, ab herede peti possit, nisi commemoratione superioris legati posterius scriptum fuerit, velut: "Stichum, quem illi legavi, heres meus ei, si illud factum erit, dato": tunc enim revocandi animo praesens legatum et sub condicione dandi ita scripsisse videbitur: et si ante condicionem rem vindicet, doli exceptio locum habere poterit.
+
+35.1.90
+
+Gaius libro primo fideicommissorum
+
+Per fideicommissum varie data libertate non levissima spectanda est, sed novissima, quia posterior voluntas potior haberi debet: cui consonat etiam rescriptum divi Antonini.
+
+35.1.91
+
+Maecenatus libro secundo fideicommissorum
+
+Condicionum, quae in futurum conferuntur, triplex natura est, ut quaedam ad id tempus, quo testator vivat, quaedam ad id, quod post mortem eius futurum sit, quaedam ad alterutrum pertineant, tempus autem vel certum vel infinitum comprehendatur: quae omnia non minus in fideicommissis quam in institutionibus ac legatis incidere solent: ut haec condicio "Titiae, si mihi nupserit" non dubie nisi vivente testatore, illa autem "si ad exsequias funeris mei venerit" nisi post mortem impleri non possit, illa vero "si filio meo nupserit" vel vivente vel mortuo testatore impleri possit. Et prima quidem ac tertia ex relatis condicionibus infinitum tempus habent: quandoque enim nupserit, impletur condicio: secunda ad certum tempus adscripta est.
+
+35.1.92
+
+Ulpianus libro quinto fideicommissorum
+
+Si cui legatum fuerit relictum isque rogatus sit liberos suos emancipare, an cogi debeat manumittere? Et retineo me dixisse defici eos a petitione fideicommissi: neque enim praetor fideicommissarius eos ad libertatem tuetur ut servos. Papinianum quoque libro nono responsorum scribere referebam non esse cogendum emancipare filios suos. Arbitror tamen extra ordinem debere constitui eum qui adgnovit id, quod sibi relictum est hac contemplatione, ut liberos suos emanciparet, cogendum emancipare: neque enim debet circumveniri testantium voluntas: sic deinde hoc accipiendum, quemadmodum si sub condicione liberorum emancipandorum ei fuisset legatum vel ita relictum, ut eos emanciparet. Cui rei consequens est, quod divus Severus rescripsit. Nam cum quaedam mulier nepotes suos heredes instituisset et ipsum filium coheredem filiis suis dedisset eosque invicem substituisset rogassetque filium, ut filios emanciparet, non autem rogasset, ut hereditatem eis restitueret: ex auctoritate divi Severi emancipare eos compulsus est hisque restituere hereditatem. Et adiectum est, ut, si tardius id faceret, quasi ex mora usuras praestaturum: videri enim eum, qui moram faceret emancipationi, moram restitutioni fideicommissi eam facere.
+
+35.1.93
+
+Papinianus libro octavo responsorum
+
+Mater filio suo coheredes sine ulla condicione filias ipsius dedit ac petit, ut filias suas emanciparet, ita ut curatores a praetore acciperent. Filii videri fidei commisisse placuit, ut eas sui iuris constitutas ad hereditatem aviae pervenire pateretur, nec ad rem pertinere, si portionem filiarum iure substitutionis quaesisset.
+
+35.1.94
+
+Hermogenianus libro primo iuris epitomarum
+
+pr. Cum ita datur libertas: "Si Titio" (qui non est heres) "decem dederit", certa persona demonstratur ac propterea in personam eius tantum condicio impleri potest. Sane si cum cesserit dies pecuniam condicioni comprehensam statuliber habuerit, iure constituto nulli dando consequitur libertatem. Diversa causa est legatarii, in cuius persona placuit condicionem deficere, si, antequam dederit legatarius pecuniam, Titius moriatur.
+
+1. Ex his verbis "si heredi" vel "si heredi Titio decem dederit, liber esto", non tantum heredi, sed etiam heredis heredi dando pervenit ad libertatem: at si nullus heredi successerit, iure constituto nulli dando ad libertatem perveniet.
+
+35.1.95
+
+Hermogenianus libro quarto iuris epitomarum
+
+Legatum sub condicione relictum et ad alium translatum, si non condicio personae cohaereat, sub eadem condicione translatum videtur.
+
+35.1.96
+
+Paulus libro primo ad Neratium
+
+pr. Titio usus fructus servi legatus est et, si ad eum pertinere desisset, libertas servo data est. Titius vivo testatore decessit. Libertas non valet, quia condicio nec initium accepit. Paulus. Ergo et si viveret Titius et capere non potest, idem dicendum est: desisse enim non videtur, quod nec incipit.
+
+1. Servi usus fructus mulieri, quoad vidua esset, legatus, idem servus, si ea nupsisset, liber esse iussus est. Si mulier nupserit, liber erit, quia potior est legato libertas.
+
+35.1.97
+
+Paulus libro secundo ad Neratium
+
+Municipibus, si iurassent, legatum est. Haec condicio non est impossibilis. Paulus. Quemadmodum ergo pareri potest per eos? Itaque iurabunt, per quos municipii res geruntur.
+
+35.1.98
+
+Paulus libro tertio ad Neratium
+
+Mea res sub condicione legari mihi potest, quia in huiusmodi legatis non testamenti facti tempus, sed condicionis expletae spectari oportet.
+
+35.1.99
+
+Papinianus libro 18 quaestionum
+
+Condiciones extrinsecus, non ex testamento venientes, id est quae tacite inesse videantur, non faciunt legata condicionalia.
+
+35.1.100
+
+Papinianus libro septimo responsorum
+
+Titiae, si non nupserit, ducenta, si nupserit, centum legavit: nupsit mulier. Ducenta, non etiam centum residua petat: ridiculum est enim eandem et ut viduam et ut nuptam admitti.
+
+35.1.101
+
+Papinianus libro octavo responsorum
+
+pr. Pater Severianam Proculam Aelio Philippo cognato nuptiis testamento designavit: eidem filiae praedium, si Aelio Philippo nupsisset, verbis fideicommissi reliquit: quod si non nupsisset, idem praedium Philippo dari voluit: nondum viripotens puella diem suum obiit. Respondi, cum in condicionibus testamentorum voluntatem potius quam verba considerari oporteat, Aelio Philippo fideicommissum ita datum videri, si ei Procula defuncti filia nubere noluisset: quare cum ea prius, quam viripotens fieret, vita decesserit, condicionem exstitisse non videri.
+
+1. Ita fideicommisso dato: "Volo restituas, si sine liberis decedas" condicio deficit ex voluntate vel uno filio superstite relicto.
+
+2. Condicionum verba, quae testamento praescribuntur, pro voluntate considerantur: et ideo cum tutores testamento dati, quoniam interea puer adoleverat, id egerint, ut curatores ipsi constituerentur, condicio fideicommissi talis praescripta: "Si tutelam in annum octavum decimum gesserint" defecisse non videbitur.
+
+3. Socrus nurui fideicommissum ita reliquerat: "si cum filio meo in matrimonio perseveraverit": divortio sine culpa viri post mortem socrus facto defecisse condicionem respondi. Nec ante diem fideicommissi cedere, quam mori coeperit nupta vel maritus, et ideo nec Mucianam cautionem locum habere, quia morte viri condicio possit exsistere.
+
+4. Fideicommissa menstrua et annua sub ea condicione liberto relicta "quamdiu res patroni filiae gesserit" etsi praestari necesse est filia prohibente res suas administrari, tamen voluntatem filia mutante condicionem resumunt, quoniam plura sunt.
+
+35.1.102
+
+Papinianus libro nono responsorum
+
+Cum avus filium ac nepotem ex altero filio heredes instituisset, a nepote petit, ut, si intra annum trigesimum moreretur, hereditatem patruo suo restitueret: nepos liberis relictis intra aetatem supra scriptam vita decessit. Fideicommissi condicionem coniectura pietatis respondi defecisse, quod minus scriptum, quam dictum fuerat, inveniretur.
+
+35.1.103
+
+Paulus libro 14 quaestionum
+
+Si ita legatum sit "Titio post decem annos dato, si satis ab herede non exegerit" et Titius intra decimum annum decesserit, ad heredem suum transmittat legatum, quia moriente eo condicio exstitit.
+
+35.1.104
+
+Paulus libro 14 responsorum
+
+Eum, qui post apertum testamentum deportatus et restitutus est, fideicommissum petere posse, cuius condicio postea exstitit, quam civitatem Romanam recipiat.
+
+35.1.105
+
+Pomponius libro quinto epistularum
+
+Si fundum a testatore sub condicione legatum heres alii pendente condicione legavit, post exsistentem [existentem] condicionem, quae priori testamento praeposita fuerat, neque proprietas a priore legatario recedit nec locum religiosum in eo fundo heres facere nec servitutem imponere poterit: sed et imposita servitus finietur exsistente condicione.
+
+35.1.106
+
+Iulianus libro 25 digestorum
+
+Hoc genus legati "si Titio non nupserit" perinde habendum est, ac si post mortem Titii legatum fuisset, et ideo nec Muciana satisdatione interposita capere legatum potest. Sed et alii nubendo nihilo minus legatum consequitur.
+
+35.1.107
+
+Gaius libro singulari de casibus
+
+Aliquando accidit, ut sub condicione datum legatum purum intellegatur, veluti quod sub eadem condicione relictum est, sub qua etiam heres alius institutus est, item quod sub hac condicione relictum est "si hereditatem adierit". Ex diverso quoque purum datum legatum condicionale videtur, veluti quod sub condicione ademptum est, quia sub contraria condicione datum intellegitur.
+
+35.1.108
+
+Scaevola libro 19 digestorum
+
+Libertis omnibus legavit domum et haec verba adiecit: "Ut in ea habitent liberti, ne de nomine exeat et ut ad unum, qui novissimus exstiterit, perveniat: et eo amplius eisdem libertis meis dari volo fundum sosianum". Quaesitum est, an condicio adposita, ne de nomine exiret, ad sequens quoque legatum pertineret. Respondit pertinere.
+
+35.1.109
+
+Scaevola libro 20 digestorum
+
+A testatore rogatus, ut acceptis centum nummis restitueret hereditatem Titiae coheredi suae, adita hereditate decessit: similiter et Titia, antequam daret centum: quaesitum est, an heres Titiae offerendo centum fideicommisso partem hereditatis consequi possit. Respondit heredem condicioni parere non posse. Claudius. Magno ingenio de iure aperto respondit, cum potest dubitari, an in proposito condicio esset.
+
+35.1.110
+
+Pomponius libro nono epistularum
+
+Etiamsi invitis heredibus ex peculio statuliber pecuniam Titio det, liber quidem fit: sed Titius, qui invitis heredibus sciens accepit, pro possessore videtur eam pecuniam possidere, ut avocare eam hi, qui inviti fuerunt, possint.
+
+35.1.111
+
+Pomponius libro 11 epistularum
+
+Qui sub condicione rationum reddendarum liber esse iussus est, docere debet constare fidem omnibus, quae ab eo gesta sunt, ut neque subtraxerit quid ex his quae acceperit neque expensum rationibus praescripserit quod non dederat: sed et quod reliquum per contextum scriptum est remanere apud eum, solvere debet: neque enim aliter liber esse potest, quam si hoc modo condicioni, sub quam data est libertas, satisfecerit. Ceterum debitores, cum quibus ipse contraxit, non utique in diem mortis domini sui fuisse idoneos praestare cogendus est, sed eo tempore, quo his creditum est, eius condicionis fuisse, ut diligens pater familias his crediturus fuerit.
+
+35.1.112
+
+Pomponius libro 12 epistularum
+
+pr. Tales condiciones "si monumentum" puta "fecerint" pluribus propositae non possunt nisi in omnibus simul personis exsistere.
+
+1. Item: "si Symphoro et Ianuario centum Titius praestiterit, fundum ei lego". Symphoro mortuo an legatum perisset? Sed hoc quoque sic puto interpretandum ut si, dum quisque eorum vivet, praestitisset. Sed benigna interpretatione dicendum, si non post moram Titii Symphorus decessit, debere partem dimidiam Ianuario dantem partem fundi dimidiam legatarium esse consecuturum.
+
+2. De illo quoque quaeritur: fundus quibusdam legatus est, si pecuniam certam in funus impensamque perferendi corporis in aliam regionem dedissententiarum nam nisi uterque dederit, neutri est legatum, quoniam condicio nisi per utrumque expleri non potest. Sed haec humanius interpretari solemus, ut, cum duobus fundus legatus sit, si decem dedissent, et alteri dando partem legatum quoque debeatur.
+
+3. Priscus respondit statuliberum non utique ibi ubi pater familias decessit aut ubi ipse relictus sit aut ubi velit, rationes reddere debere, sed interim proficisci ad eum, cui reddere debeat, utique si is rei publicae causa aberit: verissimum est autem, ut alias aliud ex persona locoque sit aestimandum.
+
+35.1.113
+
+Paulus imperialium sententiarum in cognitionibus prolatarum ex liberis sex libro secundo
+
+Cum filius rogatus fuisset a patre, si, antequam res suas administrare posset, decessisset, hereditatem Titio restituere, et egressus viginti annos decessisset, rescriptum est fideicommissum deberi.
+
+
+* 35.2.0. Ad legem Falcidiam.
+
+
+35.2.1
+
+Paulus libro singulari ad legem Falcidiam
+
+pr. Lex Falcidia lata est, quae primo capite liberam legandi facultatem dedit usque ad dodrantem his verbis: "Qui cives Romani sunt, qui eorum post hanc legem rogatam testamentum facere volet, ut eam pecuniam easque res quibusque dare legare volet, ius potestasque esto, ut hac lege sequenti licebit". Secundo capite modum legatorum constituit his verbis: "Quicumque civis Romanus post hanc legem rogatam testamentum faciet, is quantam cuique civi Romano pecuniam iure publico dare legare volet, ius potestasque esto, dum ita detur legatum, ne minus quam partem quartam hereditatis eo testamento heredes capiant, eis, quibus quid ita datum legatumve erit, eam pecuniam sine fraude sua capere liceto isque heres, qui eam pecuniam dare iussus damnatus erit, eam pecuniam debeto dare, quam damnatus est".
+
+1. Lex Falcidia etiam ad eos, qui apud hostes moriuntur, propter legem Corneliam pertinere videtur, quod ea lex perinde eorum testamenta confirmat, atque si in civitate decessissent: propter quam fictionem lex Falcidia et omnes testamentariae pertinent, quae tamen possint locum habere.
+
+2. Ad eos, qui omissa causa testamenti possident hereditatem, non pertinet lex Falcidia: sed per edictum praetoris inducitur potestas legis.
+
+3. Idemque est, si iurisiurandi condicio remissa sit.
+
+4. Sed et si servo suo testator data libertate legaverit, quia differtur in id tempus, quo liber futurus est, item ei qui apud hostes est aut ei qui nondum natus est datum sit aliquid, haec lex locum habebit.
+
+5. Ad municipum quoque legata vel etiam ea, quae deo relinquuntur, lex Falcidia pertinet.
+
+6. Non solum autem ad res proprias testatoris legatas, sed et alienas lex pertinet.
+
+7. Et omne quod ex bonis defuncti erogatur refertur ad hanc legem, sive in corpore constet certo incertove sive pondere numero mensura valeat aut etiam si ius legatum sit (ut usus fructus) aut quod in nominibus est.
+
+8. Item si ita legatum sit: "Heres meus Seio penum dato: si non dederit, decem dato", quidam putant omnimodo in legato decem esse, penum autem mortis causa capi nec in Falcidiam imputare id heredem posse. Ego autem didici, si in continenti heres penum solverit, videri hoc legatum esse et in legem Falcidiam imputari posse: et quod dixi "in continenti" ita accipiendum cum aliquo spatio. Quod si iam mora facta solverit heres penum, tunc nec legatum eum accepisse nec in Falcidiam imputari posse: iam enim transfusum legatum esse et decem deberi. Idemque erit et si ab initio ita legatum datum sit: "Si penum non dederit, decem dato", quia hic penus non est legata et penus si datur, mortis causa capitur, quia deficit legati condicio.
+
+9. Si usus fructus legatus sit (qui et dividi potest, non sicut ceterae servitutes individuae sunt), veteres quidem aestimandum totum usum fructum putabant et ita constituendum, quantum sit in legato. Sed Aristo a veterum opinione recessit: ait enim posse quartam partem ex eo sic ut ex corporibus retineri idque Iulianus recte probat. Sed operis servi legatis cum neque usus neque usus fructus in eo legato esse videtur, necessaria est veterum sententia, ut sciamus quantum est in legato, quia necessario ex omnibus, quae sint facti, pars decedere debet, nec pars operae intellegi potest. Immo et in usu fructu si quaeratur, quantum hic capiat, cui usus fructus datus est, quantum ad ceterorum legatorum aestimationem aut etiam huius ipsius, ne dodrantem excedat legatum, necessario ad veterum sententiam revertendum est.
+
+10. Si quis creditori suo quod debet legaverit, aut inutile legatum erit, si nullum commodum in eo versabitur, aut si (propter repraesentationis puta commodum) utile erit, lex quoque Falcidia in eo commodo locum habebit.
+
+11. Si legatarius possessionem nanctus est et non potest avocari ei res, quia voluntate heredis errantis nactus est possessionem, dabitur actio heredi, ut id quod supra dodrantem est offeratur.
+
+12. Interdum omnimodo necessarium est solidum solvi legatario interposita stipulatione "quanto amplius, quam per legem Falcidiam ceperit, reddi": veluti si quae a pupillo legata sint non excedant modum legis Falcidiae, veremur autem, ne impubere eo mortuo alia legata inveniantur, quae contributione facta excedant dodrantem. Idem dicitur et si principali testamento quaedam sub condicione legata sunt, quae an debeantur incertum est. Et ideo, si heres sine iudice solvere paratus sit, prospiciet sibi per hanc stipulationem.
+
+13. Id, quod ex substitutione coheredis ad coheredem pervenit, proficit legatariis: is enim similis est heres ex parte pure, ex parte sub condicione heredi instituto. Sed ea, quae ab eo legata sunt, si omiserit hereditatem, non augebuntur, scilicet si ab eo nominatim data sunt, non "quisquis mihi heres erit".
+
+14. Si coheredis mei portio exhausta sit, mea integra et illam vindicavero, Cassius confundendas esse partes existimat, Proculus contra: in qua specie et Iulianus Proculo adsensit, quam sententiam probabiliorem esse puto. Sed et divus Antoninus iudicasse dicitur commiscendas esse utrasque partes in computatione legis Falcidiae.
+
+15. Si coheredem meum post aditam hereditatem adrogavero, non dubitabitur, quin separandae sint portiones, perinde atque si coheredi meo heres exstitissem.
+
+16. Si in annos singulos legatum sit Titio, quia multa legata et condicionalia sunt, cautioni locus est quae in edicto proponitur "quanto amplius accipit reddi".
+
+17. Id, quod natura hereditati debetur et peti quidem non potest, solutum vero non repetitur, non esse computandum in hereditate quidam putant. Sed Iulianus et haec ex eventu augere patrimonium aut non augere existimat et hereditario iure id quoque capi ideoque et in restitutionem hereditatis venturum.
+
+18. Si debitor creditori heres existat, quamvis confusione liberetur, tamen locupletiorem hereditatem percipere videtur, ut computetur ei quod debet, quamvis aditione confusum sit.
+
+19. De impensa monumenti nomine facta quaeritur, an deduci debeat. Et Sabinus ita deducendum putat, si necessarium fuerit monumentum extruere. Marcellus consultus, an funeris monumentique impensa, quantum testator fieri iussit, in aere alieno deduci debeat, respondit non amplius eo nomine, quam quod funeris causa consumptum est, deducendum. Nam eius, quod in extructionem monumenti erogatum est, diversam esse causam: nec enim ita monumenti aedificationem necessariam esse, ut sit funus ac sepultura. Idcirco eum, cui pecunia ad faciendum monumentum legata sit, Falcidiam passurum.
+
+35.2.2
+
+Marcellus libro 22 digestorum
+
+Nec amplius concedendum erit, quam quod sufficiat ad speciem modicam monumenti.
+
+35.2.3
+
+Paulus libro singulari ad legem Falcidiam
+
+pr. Si heres institutus eam hereditatem quae solvendo non est vendiderit, vix quidem poterit persuaderi non fuisse eam hereditatem solvendo, quae emptorem invenerit: vera autem ratione nihil legatariis debebitur, quia magis ex stultitia emptoris habere videtur heres institutus quam ex bonis defuncti. Nam et e contrario si male vendiderit res hereditarias, non erit hoc legatariorum detrimentum: ita ergo commodum debet esse heredis, si bene res administraverit.
+
+1. Sed et si is qui solvendo non est legaverit et heres cum creditoribus deciderit, ne solidum solveret, et ob eam decisionem factum sit, ut aliquid retineret, nihil tamen legatariis debiturum, quia eam pecuniam non ex hereditate, sed ex decisione habet.
+
+2. Item si rei publicae in annos singulos legatum sit, cum de lege Falcidia quaeratur, Marcellus putat tantum videri legatum, quantum sufficiat sorti ad usuras trientes eius summae, quae legata est, colligendas.
+
+35.2.4
+
+Papinianus libro 16 quaestionum
+
+Fundo legato mihi sub condicione pendente legati condicione heres me heredem instituit ac postea legati condicio exstitit. In Falcidiae ratione fundus non iure hereditario, sed legati meus esse intellegitur.
+
+35.2.5
+
+Papinianus libro octavo responsorum
+
+Verbis legati vel fideicommissi non necessarie civitati relinquitur, quod ex causa pollicitationis praestari necesse est. Itaque si debiti modum testamento dominus excessit, superfluum dumtaxat Falcidia minuetur. Quare nec fidei committi legatarii poterit. Quod si dies aut condicio legatum fecerit, non utilitatis aestimatio, sed totum petetur quod datum est. Nec si vivo testatore dies venerit aut condicio fuerit impleta, fiet irritum, quod semel competit.
+
+35.2.6
+
+Venonius libro tertio stipulationum
+
+Si vir uxori heres exstiterit et in funus eius inpenderit, non videbitur totum quasi heres inpendere, sed deducto eo, quod quasi dotis nomine quam lucri facit conferre debuerit.
+
+35.2.7
+
+Papinianus libro septimo quaestionum
+
+Lege Falcidia interveniente legata servitus, quoniam dividi non potest, non aliter in solidum restituetur, nisi partis offeratur aestimatio.
+
+35.2.8
+
+Papinianus libro 14 quaestionum
+
+In legem Falcidiam aeris alieni rationem in hereditate relicti, quod unus ex heredibus solvere damnatus sit, ipse solus habebit.
+
+35.2.9
+
+Papinianus libro 19 quaestionum
+
+pr. In Falcidia placuit, ut fructus postea percepti, qui maturi mortis tempore fuerunt, augeant hereditatis aestimationem fundi nomine, qui videtur illo in tempore fuisse pretiosior.
+
+1. Circa ventrem ancillae nulla temporis admissa distinctio est nec immerito, quia partus nondum editus homo non recte fuisse dicitur.
+
+35.2.10
+
+Papinianus libro 20 quaestionum
+
+Quod supra quadrantem apud heredem potest pervenire, supra dodrantem in pecuniam legatum non onerat heredem, veluti hereditas pupilli, si forte substitutus sit exheredato qui patri pupilli heres exstitit.
+
+35.2.11
+
+Papinianus libro 29 quaestionum
+
+pr. In ratione legis Falcidiae retentiones omnis temporis heredi in quadrantem imputantur.
+
+1. Si servus sub condicione libertate data vita decessit, si quidem impleta condicio quandoque fuerit, heredi non videbitur perisse: quod si defecerit, in contrarium ratio trahit, sed quanti statuliber moriens fuisse videbitur.
+
+2. Imperator Marcus Antoninus decrevit heredes, quibus pars bonorum ablata est, non in ampliorem partem quam pro ea parte quae relicta est legatorum nomine teneri.
+
+3. Cum quidam parte dimidia bonorum adempta fuisset relegatus idemque provocatione interposita testamento postea facto obisset atque post mortem eius non iuste appellatum esset pronuntiatum: quaesitum est, utrum aeris alieni loco pars dimidia abscederet, ut residua sola videretur fuisse in bonis, an vero succurri heredi necessarium esse videbitur. Sed videtur succurri debere, cum animus litigantis et optinendi votum hanc opinionem admittit.
+
+4. Si servus testamento manumissus ante aditam hereditatem decedat, heredi quidem perisse intellegitur: sed cuius pretii erit, qui, si viveret, non aestimaretur? Nam et eos, qui moriente domino ea valetudine affecti fuerant, ut eos non posse vivere certum esset, tamen, si postea moriantur, hereditati perisse responsum est. Nec aliud in his, qui sub eodem tecto fuerunt, cum dominus a familia necaretur.
+
+5. Quod vulgo dicitur in tabulis patris et filii unam Falcidiam servari quam potestatem habeat, videndum est: quamvis enim substitutus quae a pupillo relicta sunt, cum filius heres exstitit, ut aes alienum quodlibet debeat, tamen propter ea, quae data sunt tabulis secundis, contributioni locus est. Secundum quae poterit evenire, ne substitutus quicquam retineat vel ut longe plus habeat quartae paternae hereditatis. Quid ergo, si non sufficiat pupilli hereditas legatis, cum patris suffecisset? De suo (quadrante nimirum) dabit substitutus, quoniam pater legavit de suo: nec ad rem pertinet, quod ex nullo testamento praestatur ultra vires patrimonii, cum in hac parte iuris legata, quae tabulis secundis relinquuntur, quasi primis sub condicione relicta intelleguntur.
+
+6. Si filio suo duos substituerit et alterius portionem oneraverit, tractari solet, an ex persona sua Falcidiam possit inducere substitutus, quam pupillus non haberet vel unus pupilli substitutus. Et facile quis dixerit consequenter prioribus, quae de patrimonii ratione dicta sunt, non esse Falcidiae locum et ultra vires portionis conveniendum alterum substitutum. Sed verior est diversa sententia perinde huic quartam relinquendam existimantium atque ita si patri heres extitisset: ut enim opes patris et contributio legatorum inde capiunt et formam et originem, ita plures substituti subducta persona pupilli revocandi sunt ad intellectum institutionis. Quid tamen dicemus de altero substituto, qui non est oneratus? Si forte nondum legata pupillus a se relicta solvit et aliquid ultra dodrantem sit in omnibus, et ipsum Falcidiam habiturum? Atquin quartam habet neque idem patiatur instituti comparatio. Rursus si negemus, aliud aperte, quam quod volgo probatum est, respondetur. Itaque varietas exsistet, ut is quidem, qui proprio nomine oneratus est, velut institutus desideret quartam, alter autem, qui non est oneratus, ut substitutus, licet portio largiatur eius, non in solidum conveniatur propter calculi confusionem. Huic consequens est, ut, si pupillo de Falcidia cautum fuit, duobus committatur stipulatio, videlicet in eam quantitatem, quam unusquisque sibi retinere potuisset.
+
+7. Quaesitum est, si quis pupillo coheredem substituisset, quemadmodum legis Falcidiae ratio inquiri debeat? Et quale est, quod volgo diceretur, legatorum rationem separandam? Dixi, quantum ad legata, quae pater a filio, item a substituto reliquit, nullam fieri posse separationem, cum communi calculo subiciantur et invicem inducant contributionem. Sed legata, quae ab instituto extero data sunt, permisceri ceteris non oportere: ideoque quartam pupillo datae portionis habere substitutum, quamvis suam portionem habeat ut institutus: et aliam causam esse eius, qui ex variis portionibus heres scriberetur: ibi enim legatorum confundi rationem non minus, quam si semel fuisset nuncupatus ex ea portione, quae conficeretur ex pluribus, neque referre, pure saepe an sub diversis condicionibus sit heres institutus.
+
+8. Si quis exheredato filio substituit heredem institutum et ab eo tabulis quoque secundis legaverit, necessario ratio confundetur, cum ideo legata valere dixerit Iulianus a substituto relicta, quod idem patri heres exstiterit.
+
+35.2.12
+
+Papinianus libro 30 quaestionum
+
+Si debitor creditore herede instituto petisset, ne in ratione legis Falcidiae ponenda creditum suum legatariis reputaret, sine dubio ratione doli mali exceptionis apud arbitrum Falcidiae defuncti voluntas servatur.
+
+35.2.13
+
+Papinianus libro 37 quaestionum
+
+Si tacitum fideicommissum servus iniungente domino susceperit, habiturum eum legis Falcidiae beneficium, quia parere domino debuit, constitutum est: idemque placuit in filio, qui fuit in patris potestate.
+
+35.2.14
+
+Papinianus libro nono responsorum
+
+pr. Pater filiam, quae a viro diverterat, heredem pro parte instituit et ab ea petit, ut fratri et coheredi suo portionem hereditatis acceptam deducta sexta restitueret, admissa compensatione dotis in Falcidiae ratione. Si pater dotem consentiente filia non petisset, Falcidiam quidem iure hereditario, dotem autem iure proprio filiam habituram respondi, quia dos in hereditate patris non inveniretur.
+
+1. Avia nepotibus heredibus institutis fideicommisit, ut omissa retentione, quae per legem Falcidiam ex alio testamento competebat, solida legata fratribus et coheredibus solverent. Recte datum fideicommissum respondi, sed huius quoque onus in contributionem venire.
+
+2. Duobus impuberibus substitutum utrique heredem existentem in alterius hereditate Falcidia non uti convenit, si de bonis alterius impuberis quartam partem hereditatis patris, quae ad filios pervenerit, retineat.
+
+3. Quod si frater fratri legitimus heres exstitit et impuberi supremo substitutus, portio quidem paternorum bonorum, quam intestatus puer accepit, rationi Falcidiae non confundetur, sed quartam eius tantum portionem substitutus retinebit, quam inpubes accepit qui substitutum habuit.
+
+35.2.15
+
+Papinianus libro 13 responsorum
+
+pr. Quod bonis iure Falcidiae contribuendum est a debitore, cui mortis causa pacto debitum remissum est, in factum concepta replicatione retinebitur.
+
+1. Frater cum heredem sororem scriberet, alium ab ea cui donatum volebat stipulari curavit, ne Falcidia uteretur et ut certam pecuniam, si contra fecisset, praestaret. Privatorum cautione legibus non esse refragandum constitit et ideo sororem iure publico retentionem habituram et actionem ex stipulatu denegandam.
+
+2. Non idcirco minus Falcidiae rationem in ceteris annuis legatis admitti visum est, quod primo ac secundo anno sine ulla detractione fuissent legatario soluta.
+
+3. Quod avus ex causa tutelae nepoti debuit, cum avo nepos solus heres exstitisset, ratio Falcidiae si poneretur, in aere alieno bonis deducendum respondi. Nec ad rem pertinere, quod heredem avus idemque tutor rogaverat, ut, si sine liberis ante certam aetatem decederet, tam hereditaria quam propria bona restitueret: non enim ex hoc hereditatem debito compensatam videri, cum vel ideo maxime declaretur non esse compensationem factam, quoniam heredem suum habere propria bona defunctus ostendit. Plane si condicio fideicommissi fuerit impleta, fructus hereditatis post mortem avi percepti pari pecunia debito tutelae compensabuntur, sed quartam heres nepotis de bonis dumtaxat, quae moriens avus reliquit, retinebit.
+
+4. Cum fideicommissum, ex voluntate matris a patre moriente debitum, filio pater hereditate sua, quam in filium conferebat, compensari voluit: quod filio debetur, si ratio Falcidiae poni coeperit, fini quadrantis, quem ex bonis patris cum effectu percepit, compensabitur atque ita superfluum aeris alieni dodranti tantum detrahetur.
+
+5. Ex donationibus in uxorem collatis quod heres eius reddere viro cogitur, in bonis mulieris non erit. Nam ita fit locupletior, ut tanto pauperior esse videatur: quod autem heres inde minuit, viro non perit.
+
+6. Fructus praediorum sub condicione verbis fideicommissi relictorum in causam fideicommissi non deductos heres in ratione Falcidiae sic accepto facere sibi cogitur, ut quartam, et quartae fructus ex die mortis, bonorum quae mortis tempore fuerunt habeat. Nec ad rem pertinet, quando Falcidia lex admissa sit: nam etsi maxime post impletam condicionem fideicommissorum locum habere coepit, tamen ex die mortis fructus quadrantis apud heredem relinqui necesse est.
+
+7. Fideicommissum portionis supplendae gratia, pro qua matrem filius heredem instituit, eidem matri datum ratione Falcidiae minuitur et eam pecuniam mater supra quartam portionis suae percipiet.
+
+8. Quarta, quae per legem Falcidiam retinetur, aestimatione quam testator fecit non magis minui potest, quam auferri.
+
+35.2.16
+
+Scaevola libro tertio quaestionum
+
+pr. Si ex pluribus rebus legatis heres quasdam solverit, ex reliquis Falcidiam plenam per doli exceptionem retinere potest etiam pro his, quae iam data sunt.
+
+1. Sed et si una res sit legata, cuius pars soluta sit, ex reliquo potest plena Falcidia retineri.
+
+35.2.17
+
+Scaevola libro sexto quaestionum
+
+Si post missionem faciat codicillos miles et intra annum decedat, ex testamento, quod in militia iure militari fecit, plena legata, ex codicillis habita Falcidiae ratione praestari debere dicitur. Sed res ita expedietur: si, cum quadringenta haberet, testamento quadringenta, codicillis centum legaverit, ex quinta parte, id est octoginta, quae ad legatarium ex codicillis pervenirent, si Falcidiam non pateretur, quartam, id est viginti heres retinebit.
+
+35.2.18
+
+Paulus libro 11 quaestionum
+
+pr. Filius familias qui militaverat decedens patris sui fidei commisit codicillis, ut peculium suum castrense Titio post mortem restitueret: quaerebatur, an ut heres quartam deducere possit. Dixi legem Falcidiam inductam esse a divo Pio etiam in intestatorum successionibus propter fideicommissa: sed in proposito nec hereditatem esse, quamvis placeret mihi extraneo herede instituto fieri hereditatem aditione eius: nam cum apud patrem remanet, ius pristinum durat et peculium est. Nec huic contrarium est, quod in testamento eius qui apud hostes decessit exercetur Falcidia: nam fictio legis Corneliae et hereditatem et heredem facit. Sed me non dubitare, quin debeat id quoque indulgeri legis beneficium, siquidem quasi patris familiae bona restituere cogitur et heres scriptus omissa ex testamento aditione exemplo edicti legatorum nomine convenietur.
+
+1. His consequens erit, ut, si ex fructibus medio tempore quartam et quartae fructus habuerit pater, etiam Trebellianum senatus consultum inducamus et utiles actiones exerceri possint fiatque hereditas post restitutionem.
+
+35.2.19
+
+Scaevola libro octavo quaestionum
+
+Si dignum decem fundum damnetur heres quinque vendere, sine dubio quinque erunt imputanda Falcidiae.
+
+35.2.20
+
+Scaevola libro nono quaestionum
+
+Si a servo meo herede instituto mihi legetur et mihi adquiratur hereditas, negat Maecianus id legatum in Falcidia computari, quia non debeatur.
+
+35.2.21
+
+Paulus libro 12 quaestionum
+
+pr. Si pupillus, cui sine tutore auctore decem mutua data sunt, legatum a creditore meruerit sub hac condicione, si decem quae acceperit heredi reddiderit, una numeratione et implet condicionem et liberatur naturali obligatione, ut etiam in Falcidia heredi imputentur, quamvis non imputarentur, si tantum condicionis implendae causa data fuissententiarum adeo autem et solvere videtur, ut repudiato legato vel Sticho qui legatus est mortuo nihil repetere possit.
+
+1. Si ego et servus meus heredes instituti simus ex diversis partibus nec a servo erogatus dodrans, his quibus a me legatum est contra Falcidiam proderit quod ex portione servi ad me pervenit supra Falcidiam eius portionis. Ex contrario si servo meo servus et mihi decem legata fuerint, servi Falcidia ex [et] decem mihi legatis non tenetur exemplo eodem Falcidiae: nam quartam retineo ex persona servi, quamvis de mea portione nihil exhaustum sit.
+
+35.2.22
+
+Paulus libro 17 quaestionum
+
+pr. Nesennius Apollinaris Iulio Paulo. Ex facto, domine, species eiusmodi incidit. Titia filias suas tres numero aequis ex partibus scripsit heredes et a singulis legata invicem dedit, ab una tamen ita legavit tam coheredibus eius quam extraneis, ut Falcidiae sit locus. Quaero, an adversus coheredes suas, a quibus legata et ipsa accepit, uti possit Falcidia et, si non possit vel doli exceptione summovenda est, quemadmodum adversus extraneos computatio Falcidiae iniri possit. Respondi: id quidem, quod a coherede legatorum nomine percipitur, non solet legatariis proficere, quo minus Falcidiam patiantur: sed cum is qui legatum praestaturus est ab eodem aliquid ex testamento petit, non est audiendus desiderans uti adversus eum Falcidiae beneficio, si id quod percepturus est ex voluntate testatoris suppleat, quod deducere desiderat. Plane ceteris legatariis non universum, quod coheredi praestat, imputabit, sed quantum daturus esset, si nihil ab eo perciperet.
+
+1. Servo herede instituto si a domino fideicommissa, a servo legata data sunt, prius ratio legatorum habenda est, deinde ex eo quod superest fideicommissorum. Dominus enim ideo tenetur, quod ad eum pervenit: pervenit autem, quod deductis legatis superest. Plane Falcidiam exercet.
+
+2. Sed et si dominus omissa hereditatis aditione servum sibi substitutum adire iussit, prius erogantur quae ab ipso domino data sunt, tunc eorum quae a servo relicta sunt ratio initur, si patitur Falcidia.
+
+3. Si debitori liberatio legata sit, quamvis solvendo non sit, totum legatum computetur, licet nomen hoc non augeat hereditatem nisi ex eventu. Igitur si Falcidia locum habeat, hoc plus videbitur legatum, quod huic legatum esset: cetera quoque minuentur legata per hoc et ipsum hoc per alia; capere enim videtur eo, quod liberatur.
+
+4. Sed si alii hoc nomen legetur, nullum legatum erit nec ceteris contribuetur.
+
+35.2.23
+
+Scaevola libro 15 quaestionum
+
+Si fundus mihi legetur et via, in Falcidiae ratione, si tantum sit in via, quantum amplius est in Falcidia, integer fundus capietur et via perit. Sed si via legetur nec solvendo sit hereditas, non debebitur. Videndum etiam, si fundo et via legato minus ex utroque desideret quam sit viae pretium. Potest coacta ratione dici non tantum fundum solidum capi, sed etiam, ut doli exceptio tantum sarciat, quantum deest, ne plus habeat, quam Falcidia desiderat: ut tunc solum via intercidat, quotiens plus Falcidia desiderat quam est viae pretium.
+
+35.2.24
+
+Paulus libro 14 responsorum
+
+pr. [Respondit] Falcidiae legis rationem si haberi oportet, ita habendum, ac si hae res, quae ab herede subtractae sunt, in hereditate relictae non fuissententiarum
+
+1. Idem respondit partus ancillarum ante diem fideicommissi editos ad heredes eius qui rogatus est pertinere eosque in quartam et quartae fructus computandos, si de lege Falcidia quaestio intercedat.
+
+2. Idem respondit fructus ex propria re heredis, quae legata est, post diem fideicommissi cedentem perceptos, etsi non sint restituendi fideicommissario, heredi in quartam imputari non solere.
+
+35.2.25
+
+Scaevola libro quarto responsorum
+
+pr. Maritum suum et filium communem aequis partibus heredes instituit: quaesitum est, an in ratione legis Falcidiae imputandum sit marito, quod ad eum ex eadem hereditate per filium pervenit. Respondit, si ex institutione filii tantum retineat, quantum ad Falcidiam satis sit, nihil quartae nomine deducendum.
+
+1. A liberto, cui fundum legaverat, per fideicommissum Seiae annua decem dedit: quaesitum est, si lex Falcidia liberti legatum minuerit, an Seiae quoque annuum fideicommissum minutum videatur, cum reditus largiatur annuam praestationem. Respondit secundum ea quae proponerentur non videri minutum, nisi alia mens testatoris probetur.
+
+35.2.26
+
+Scaevola libro quinto responsorum
+
+pr. Lineam margaritorum triginta quinque legavit, quae linea apud legatarium fuerat mortis tempore: quaero, an ea linea heredi restitui deberet propter legem Falcidiam. Respondit posse heredem consequi, ut ei restituatur, ac, si malit, posse vindicare partem in ea linea, quae propter legis Falcidiae rationem deberet remanere.
+
+1. Quaesitum est, an pretium statuarum Falcidiam pati debeat. Respondit debere.
+
+35.2.27
+
+Scaevola libro sexto responsorum
+
+"Seius et Agerius si intra diem trigesimum mortis meae rei publicae nostrae caverint contentos se futuros tot aureis legis Falcidiae beneficio omisso, heredes mihi sunto. Quos invicem substituto. Quod si voluntati meae non consenserint, exheredes sunto". Quaesitum est, an heredes instituti hereditatem adire possint, si condicioni parere nolunt, cum habeant substitutos eadem condicione praescripta. Respondit Seium et Agerium primo loco institutos perinde adire posse, ac si ea condicio, quae fraudis causa adscripta est, adscripta non esset.
+
+35.2.28
+
+Maecenatus libro primo fideicommissorum
+
+Pater quoque in legatis, quae filius ei dedit alio herede instituto, legis Falcidiae rationem patitur.
+
+35.2.29
+
+Paulus libro secundo fideicommissorum
+
+Si a me tibi fideicommissum vel legatum est tuque id post tempus rogatus sis mihi restituere, non puto hoc imputandum esse in Falcidiam, quia incipio postea quasi fideicommissarius id recipere.
+
+35.2.30
+
+Maecenatus libro octavo fideicommissorum
+
+pr. In ratione legis Falcidiae mortes servorum ceterorumque animalium, furta, rapinae, incendia, ruinae, naufragia, vis hostium praedonum latronum, debitorum facta peiora nomina, in summa quodcumque damnum, si modo culpa legatarii careant, heredi pereunt: quemadmodum ad heredis lucrum pertinent fructus, partus ancillarum et quae per servos adquisita sunt, ut stipulationes, rerum traditiones, legata hereditatesve his datae, ceterae donationes, item servitutes, quibus liberata praedia pretiosiora fierent, actionesque adquisitae, ut furti damni iniuriae similesque, quorum nihil in rationem legis Falcidiae cadit.
+
+1. Vendere autem vel emere iussus certo pretio fundum aliamve quampiam rem in legis Falcidiae ratione, cum quantum sit legatum requiratur, tantum eo nomine inducetur, quanto pluris minorisve sit res ea quantitate, quam quo pretio testator accipi darive iussit, sed ut ei quidem portioni, quae legatis deductis facienda erit, amplius deducetur: quippe non nostri causa capi id pretium, sed eo deducto pretium reliquum legatum esse intellectum est.
+
+2. Prorsus diligenter animadvertendum est, ne quod dicitur damna post mortem testatoris illata ad solum heredem respicere usque quaque et sine ulla distinctione recipiatur. Quod enim remota lege Falcidia in totum iuris foret, hoc idem fore in ea parte, quae lege Falcidia constitueretur: hoc enim attinet damna postea facta non deduci, ne amota portio legatis fideive commissis detrahatur.
+
+3. Verum est autem his solis, quae pondere numero mensura constant, nec damno postea incidente ex portione, quae fieri ad aestimationem eorum bonorum, quae mortis tempore fuerunt, quicquam detrahi.
+
+4. Certis vero corporibus et his ipsis ita relictis: "Pecuniam, quam in illa arca", "vinum, quod in illis doleis", "pondus argenti, quod in illis horreis habeo", si sine culpa heredis deperierunt vel deteriora sunt facta, procul dubio aut nihil debebitur aut eorum quae exstabunt qualia erunt ea portio debebitur, quae per legem Falcidiam efficiatur ex aestimatione bonorum, quae mortis testatoris tempore fuerint.
+
+5. Incertae autem res relictae distinctionem recipiunt: nam si ex suis rebus incertam rem testator reliquisset, veluti "argentum quod elegerit", et omne argentum testatoris interisset sine culpa heredis, nihil deberetur: sin vero argenti pondus pure relictum esset, quamvis omne argentum testatoris deperisset, admissa lege Falcidia portio eius quantitatis sumetur, quae fuit in bonis eo tempore quo testator decessit, nec ad imminuendam eam quicquam damna postea incidentia proficient.
+
+6. Res tamen, quae interierint, pro nulla parte ac ne aestimatio quidem debeatur, non magis quam si omnes res per speciem enumeratae relictae essententiarum
+
+7. Tametsi autem legis Falcidiae ratione, quae condicionis implendae causa heredi sunt data, in quartam non computantur, tamen id, quod non figura condicionis accipere iussus est ab eo, cui hereditatem restituere rogatus est, Celso et Iuliano nostro placuit computari, quemadmodum si ea summa heres vendere eas res iussus esset, quia non condicionis implendae causa, sed quodammodo pro pretio inferre sunt iussi. Quo loco amplius quaesitum est, an fideicommissarius quoque invitus cogatur dare eam summam et recipere hereditatem, quasi et ipsius fidei commissum esset: sed et verisimile non est, cum talis oratio magis ipsius causa, quam contra ipsum posita videatur.
+
+8. Cum lex Falcidia intervenit, non veniunt in contributionem, quae ipsi heredi a semetipso vel servo eius legata fideive commissa sunt. Alia causa est eorum, quae in die certa dantur: nam si libertatis dies coepit cedere, ei debebuntur et in contributionem veniunt. Ac ne ea quidem, quae quis servis suis inutiliter sine libertate legavit fideive commisit, in computationem eius legis cedunt.
+
+9. Res, quas neque per fideicommissum relinqui posse certum est, in legis Falcidiae computationem non veniunt.
+
+35.2.31
+
+Pomponius libro secundo fideicommissorum
+
+Is cui fideicommissum solvitur sicut is cui legatum est satisdare debet, quod amplius ceperit, quam per legem Falcidiam ei licuerit, reddi: veluti cum propter condicionem aliorum fideicommissorum vel legatorum legis Falcidiae causa pendebit. Sed et secundum Cassii et veterum opinionem, si a pupillo fideicommissa capiuntur, propter ea, quae a substituto erunt relicta, cavere debebit is cui solvatur. Nam quamvis repetitio sit eorum, quae fideicommissi nomine non debita solventur, tamen satisdato cautum debet esse ei, a quo pecunia proficisceretur, ne damnum sentiat deficiente eo, cui solutum erit.
+
+35.2.32
+
+Maecenatus libro nono fideicommissorum
+
+pr. Poenales actiones sive legitimae sive honorariae exceptis popularibus in bonis actoris non ideo minus computandae sunt, quia morte reorum intercidere possunt. E contrario autem eaedem actiones nihil bonis rei defuncto eo detrahunt. Sed ne in actoris quidem bonis defuncto eo iniuriarum actio poterit computari, quia et ipsa simul cum eo intercidit, ut usus fructus et id quod in dies menses annosve singulos alicui quoad vivat debeatur. Etenim ea demum obligatio rei bonis deminutionem praestat, quae in heredem transit. Nec contrarium est, quod vivente reo eo minus in bonis eius intellegebatur: nam et si ita stipulatus esset, ut cum moreretur debere ei inciperet, tamen augerentur bona eius, quemadmodum, si ipse sub eadem condicione promisisset, defuncto eo minuerentur.
+
+1. Honorariae quoque actiones, quae intra certum tempus a praetore promittuntur, cum bonis actoris defuncto eo augmentum rei decessionemve, si tales erunt, ut in heredem quoque transeant, praestabunt.
+
+2. Iulianus scribit, si utriusque heredis pars exhausta est legatis et alter ex heredibus cautionem praetoriam accepit a legatariis, non aequaliter, sed pro suo modo legis Falcidiae rationem et actionem ex stipulatu habiturum. Omnes enim praetorias stipulationes eiusdem interpretationis esse: nam constare ex iudicatum solvi stipulatione, sive a parte actoris sive a rei plures heredes exstitissent, non omnibus nec adversus omnes actionem contingere, sed dumtaxat his qui vicissent et adversus victos, hisque, adversus quos res defensa non esset, adversus eos, qui rem non defendissententiarum
+
+3. Annua bima trima die aureis centenis legatis ex omnibus summis, non tantum ex posterioribus portionem legis Falcidiae detrahi placuit.
+
+4. Si Titio viginti legatis portio per legem Falcidiam detracta esset, cum ipse quoque quinque Seio rogatus esset restituere, Vindius noster tantum Seio pro portione ex quinque detrahendum ait, quantum Titio ex viginti detractum esset. Quae sententia et aequitatem et rationem magis habet, quia exemplo heredis legatarius ad fideicommissa praestanda obligabitur: nec quia ex sua persona legatarius inducere legem Falcidiam non possit, idcirco quod passus esset non imputaturum: nisi forte testator ita fidei eius commisisset [commisisset], ut totum, quidquid ex testamento cepisset, restitueret.
+
+5. Si autem manumittere servum vel suum vel alienum rogatus sit, omnimodo praestare debebit libertatem, nec hoc contrarium est superiori, quia favor libertatis saepe et alias benigniores sententias exprimit.
+
+35.2.33
+
+Paulus libro tertio fideicommissorum
+
+Si servus tibi legatus sit eumque rogatus sis manumittere nec praeterea capias, unde quartam, quae per Falcidiam retinetur, recipere possis, senatus censuit cessare Falcidiam.
+
+35.2.34
+
+Marcellus notum ad Iuliani libro 42 digestorum
+
+In testatoris servo non erit Falcidiae locus: si vero pecuniam aliudve quid legaverit fideique legatarii commiserit, ut alienum servum vel legatarii manumitteret, locus erit.
+
+35.2.35
+
+Ulpianus libro sexto disputationum
+
+Plane si quid sit praeterea legatum ipsi servo, Falcidiae locum fore senatus declaravit. Unde Scaevola ait in eo, quod praeterea servo legatum est, ita Falcidiam admittendam, ut inde et quod pro servo praestandum est sumatur.
+
+35.2.36
+
+Paulus libro tertio fideicommissorum
+
+pr. Sed si non servus ipse legatus sit, sed pecunia rogatusque sit legatarius servum suum manumittere, Falcidiam patietur et nihilo minus cogetur manumittere, quia tanti aestimasse videbitur servum suum.
+
+1. Quid si alienus servus fuerit? In eo non plus quam accepit ad redimendum cogitur impendere.
+
+2. Sin vero heres servum rogatus sit manumittere, placet pretium eius, ut aes alienum, deducendum esse.
+
+3. Si solus servus legatus et fideicommissa libertate donatus fuerit, licet Falcidia interveniente totus vindicari petive potest. Sed et si aliud praeterea capiat legatarius, adhuc servus totus peti potest: quartam autem utriusque ex legato retinendam, ne impediatur libertas.
+
+4. Si incertum sit, an libertas praestari debeat, veluti quod sub condicione vel post tempus data sit, numquid incerto eo an praestetur, cum possit aut servus mori aut condicio deficere, interim Falcidia admittenda est, deinde cum libertas competere vel deberi coeperit, tum legatarius illam partem recipiat, quam Falcidia detraxit? Caecilio placebat, si quid ex operis eius medio tempore consecutus fuerit heres, id in pretium eius erogare eum debere propter legis Falcidiae rationem.
+
+35.2.37
+
+Valens libro sexto de fideicommissorum
+
+pr. Eius servi aestimatio perinde ac statuliberi fieri debet.
+
+1. Sed et si heres servum alienum rogatus est manumittere, placuit ut etiam huius pretium ex aestimatione hereditatis deduci debeat.
+
+35.2.38
+
+Hermogenianus libro primo iuris epitomarum
+
+pr. Statuliber heredis non auget familiam.
+
+1. Communes servi in utriusque patrimonio connumerantur.
+
+2. Cuius usus fructus alienus est, in dominio domini proprietatis connumeratur, pignori dati in debitoris, sub lege commissoria distracti, item ad diem addicti in venditoris.
+
+35.2.39
+
+Paulus libro tertio sententiarum
+
+Aeris alieni loco deducuntur non solum pretia eorum, quibus libertas data est, et eorum, qui supplicio sunt adfecti, sed et eius, quem praetor propter indicium proditae mortis vel detectae eorum coniurationis libertate donavit.
+
+35.2.40
+
+Hermogenianus libro quarto iuris epitomarum
+
+pr. Ad veterani testamentum, sive pater familias sive filius familias sit, licet intra annum missionis decedat, lex Falcidia pertinet.
+
+1. Si cui, si decem dedisset, viginti fundus fuisset legatus, is in toto fundo legatarius habebitur.
+
+35.2.41
+
+Paulus libro nono ad edictum
+
+Dolo carere non videtur, si iam mota quis controversia hereditatis legata sine cautionibus det.
+
+35.2.42
+
+Ulpianus libro 14 ad edictum
+
+In Falcidia aestimatio pretii rerum ex veritate facienda est.
+
+35.2.43
+
+Ulpianus libro 19 ad edictum
+
+Servi qui apud hostes sunt post mortem testatoris reversi, quod ad Falcidiam pertinet, locupletiorem faciunt hereditatem.
+
+35.2.44
+
+Ulpianus libro 21 ad edictum
+
+Falcidia intervenire non potest, si statuliber de alieno dedit, non de bonis defuncti, vel alias est homo liber, qui condicionem implevit.
+
+35.2.45
+
+Paulus libro 60 ad edictum
+
+pr. In lege Falcidia non habetur pro puro, quod in diem relictum est: medii enim temporis commodum computatur.
+
+1. In his legatis, quae sub condicione relicta sunt, Proculus putabat, cum quaeritur de lege Falcidia, tantum esse in legato, quanti venire possunt: quod si est, et deductio sic potest fieri, ut tantum videatur vi deberi, quanti nomen venire potest. Sed haec sententia non probatur: cautionibus ergo melius res temperabitur.
+
+35.2.46
+
+Ulpianus libro 76 ad edictum
+
+Qui quod per Falcidiam retinere poterat, voluntatem testatoris secutus spopondit se daturum, cogendus est solvere.
+
+35.2.47
+
+Ulpianus libro 79 ad edictum
+
+pr. Lex Falcidia si interveniat, in omnibus pensionibus locum habet: sed hoc ex post facto apparebit. Ut puta in annos singulos legatum relictum est: quamdiu Falcidia nondum locum habet, integrae pensiones annuae dabuntur: sed enim si annus venerit, quo fit, ut contra legem Falcidiam ultra dodrantem aliquid debeatur, eveniet, ut retro omnia legata singulorum annorum imminuantur.
+
+1. Numquam legatarius vel fideicommissarius, licet ex Trebelliano senatus consulto restituitur ei hereditas, utitur legis Falcidiae beneficio.
+
+35.2.48
+
+Paulus libro secundo ad edictum aedilis curulis
+
+Cum emptor venditori vel contra heres exstitit, evicto homine utrum duplum in aes alienum deducere vel computare debeat an simplum? Duplum enim esset, si alius heres exstitisset. Et benignius est eodem herede existente simplum ei imputari.
+
+35.2.49
+
+Paulus libro 12 ad Plautium
+
+pr. Plautius. Servo, quem tibi legaveram, fundum legavi. Atilicinus Nerva Sabinus primum in servo rationem legis Falcidiae habendam et quota pars ex eo decederet, eam partem in fundo legato inutilem futuram, deinde ex reliquis partibus fundi legis Falcidiae portionem decessuram, sicut ex omnibus legatis. Cassius, quod servo pars lege Falcidia decedat, incipere servum fieri communem heredis et legatarii, communi autem servo cum legatum sit, totum pertinere ad socium, quia in eam personam legatum consistere possit: qua ratione semel ex fundo partem legis Falcidiae decessuram. Paulus. Cassii sententia utimur: nam et divus Pius rescripsit servo communi fideicommissum datum totum ad socium pertinere.
+
+1. Interdum evenit, ut propter rationem legis Falcidiae sequens legatum exstinguatur, veluti si fundus et ad eum via legata sit per alium fundum: nam si pars fundi remanserit in hereditate, non potest procedere viae legatum, quia per partem servitus adquiri non potest.
+
+35.2.50
+
+Celsus libro 14 digestorum
+
+Non est dubium, quin ea legata, a quibus heres summovere exceptione petitorem potest, in quartam ei imputentur nec ceterorum legata minuant.
+
+35.2.51
+
+Iulianus libro 61 digestorum
+
+Nec interest, utrum ab initio quasi inutile fuerit an ex accidenti postea in eum casum pervenisset legatum, ut actio eius denegaretur.
+
+35.2.52
+
+Marcellus libro nono digestorum
+
+pr. Ex asse patronum heredem instituit libertus, cum ducentos aureos in bonis haberet, et legavit filio centum viginti, extraneo reliqua: deminutio legati, quod extraneo praestat legatum, proficit filio ad consequenda solida, quae ei legata sunt.
+
+1. Quacumque ex causa legata non praestantur, imputantur heredi in quartam partem quae propter legem Falcidiam remanere apud eum debet.
+
+35.2.53
+
+Celsus libro 17 digestorum
+
+Si propter ea, quae sub condicione legata sunt, pendet legis Falcidiae ratio, praesenti die data non tota vindicabuntur.
+
+35.2.54
+
+Marcellus libro 15 digestorum
+
+Pater filium, ex quo tres habebat nepotes, heredem instituit fideique eius commisit, ne fundum alienaret et ut in familia eum relinqueret: filius decedens tres filios scripsit heredes. Quaerendum est, an omnino quasi creditores unusquisque in ratione legis Falcidiae aliquid possit deducere, quia in potestate sua habuit pater, cui ex his potius relinqueret. Sed hac ratione nemo in Falcidiae ratione quicquam deducet. Quod videndum, ne dure constituatur: utique enim in alieno aere habuit fundum, necessitate quippe obstrictus fuisset filiis eum relinquendi.
+
+35.2.55
+
+Marcellus libro 20 digestorum
+
+Cum Titio in annos singulos dena legata sunt et iudex legis Falcidiae rationem inter heredem et alios legatarios habeat, vivo quidem Titio tanti litem aestimare debeat, quanti venire id legatum potest, in incerto posito, quamdiu victurus sit Titius: mortuo autem Titio non aliud spectari debet, quam quid heres ex ea causa debuerit.
+
+35.2.56
+
+Marcellus libro 22 digestorum
+
+pr. Cum quo de peculio agi poterat, heres creditori exstitit: quaeris, cuius temporis peculium computari oporteat in Falcidia lege. Plerique putant, quod tunc in peculio fuerit, cum adiretur hereditas, inspiciendum. Ego dubito, quoniam mortis tempus in ratione legis Falcidiae ineunda placuit observari: quid enim interest, peculium servi post mortem creditoris deminutum sit an debitor pauperior factus sit?
+
+1. Aliquis dicet: quid ex contrario, si ante aditam hereditatem adquisierit servus? Et ego quaeram, si debitoris, qui tunc non erat solvendo, ampliatae facultates fuerunt? Et cum in isto placuerit ex post facto uberiorem videri fuisse hereditatem, sicuti cum condicio crediti exstitit post mortem, ita etiam peculii incrementum pleniorem faciet hereditatem.
+
+2. Scaevola notat: quid ergo, si idem servus defuncto et alii dena debuit et una decem habuit? Augetur scilicet et his hereditas, decem, quae defuncto naturaliter debebantur, in hereditate manentibus.
+
+3. Is, qui in bonis unum dumtaxat servum habebat, legavit eum Titio et fidei eius commisit, ut post triennium manumitteret: debet ex eo, quod interim ex operis servi ad Titium pervenire potest, quarta apud heredem remanere, quemadmodum si directo post triennium servo libertatem dedisset eiusque usum fructum ei legasset, aut ei proprietatem per fideicommissum relinquit.
+
+4. Stichum tibi, servo tuo decem legavit vel contra tibi decem, servo tuo Stichum, libertatemque Stichi fidei eius commisit. Lex Falcidia minuit legata: redimere ab herede partem debes, quemadmodum si tibi utrumque legasset.
+
+5. Saepius evenit, ne emolumentum eius legis heres consequatur: nam si centum aureorum dominus viginti quinque alicui dedisset et eum instituerit heredem et dodrantem legaverit, nihil aliud sub occasione legis Falcidiae intervenire potest, quia vivus videtur heredi futuro providere.
+
+35.2.57
+
+Marcellus libro 26 digestorum
+
+Cum dotem maritus alicui legaverit, ut uxori restituatur, non habere legem Falcidiam locum dicendum est. Et sane in plerisque ita observatur, ut omissa interpositi capientis persona spectetur.
+
+35.2.58
+
+Modestinus libro nono regularum
+
+Legis Falcidiae beneficium heres etiam post longum tempus mortis testatoris implorare non prohibetur.
+
+35.2.59
+
+Modestinus libro nono pandectarum
+
+pr. Beneficio legis Falcidiae indignus esse videtur, qui id egerit, ut fideicommissum intercidat.
+
+1. Praeterea qui non capienti rogatus est restituere hereditatem, senatus consulto Planciano non conceditur quartam retinere: sed ea quarta, quam non retinuit, ad fiscum pertinet ex rescripto divi Pii.
+
+35.2.60
+
+Iavolenus libro 14 ex Cassio
+
+pr. Cum pater impuberi filiae heredem substituit, id quod ei legatorum nomine a patre obvenit, cum hereditas ad substitutos pertinet, in computationem legis Falcidiae non venit.
+
+1. Legato petito cum in litem iuratum est, ratio legis Falcidiae non eius summae, in quam legatarius iuravit, haberi debet, sed eius, quanti re vera id fuit quod petitum est: nam id quod poenae causa adcrevit in legem Falcidiam non incidit.
+
+35.2.61
+
+Iavolenus libro quarto epistularum
+
+Alienus fundus tibi legatus est: hunc heres cum emere nisi infinito pretio non posset, emit multo pluris, quam quanti erat, qua emptione effectum est, ut legatarii ad legem Falcidiam revocarentur. Quaero, cum, si fundus tanti, quanti re vera, emptus esset, legata non fuerant excessura ius legis Falcidiae, an hoc ipso heres institutus partem revocandi a legatariis ius habeat, quod ex voluntate defuncti pluris emerit fundum, quam quanti erat. Respondit: quod amplius heres quam pretium fundi legatario solvit, id lege Falcidia imputari non potest, quia neglegentia eius nocere legatariis non debet, utpote cum is confitendo veram aestimationem praestare poterat.
+
+35.2.62
+
+Ulpianus libro primo ad legem Iuliam et Papiam
+
+pr. In lege Falcidia hoc esse servandum Iulianus ait, ut, si duo rei promittendi fuerint vel duo rei stipulandi, si quidem socii sint in ea re, dividi inter eos debere obligationem, atque si singuli partem pecuniae stipulati essent vel promisissent: quod si societas inter eos nulla fuisset, in pendenti esse, in utrius bonis computari oporteat id quod debetur vel ex cuius bonis detrahi.
+
+1. Corpora si qua sunt in bonis defuncti, secundum rei veritatem aestimanda erunt, hoc est secundum praesens pretium: nec quicquam eorum formali pretio aestimandum esse sciendum est.
+
+35.2.63
+
+Paulus libro secundo ad legem Iuliam et Papiam
+
+pr. Pretia rerum non ex affectu nec utilitate singulorum, sed communiter funguntur. Nec enim qui filium naturalem possidet tanto locupletior est, quod eum, si alius possideret, plurimo redempturus fuisset. Sed nec ille, qui filium alienum possidet, tantum habet, quanti eum patri vendere potest, nec exspectandum est, dum vendat, sed in praesentia, non qua filius alicuius, sed qua homo aestimatur. Eadem causa est eius servi, qui noxam nocuit: nec enim delinquendo quisque pretiosior fit. Sed nec heredem post mortem testatoris institutum servum tanto pluris esse, quo pluris venire potest, Pedius scribit: est enim absurdum ipsum me heredem institutum non esse locupletiorem, antequam adeam, si autem servus heres institutus sit, statim me locupletiorem effectum, cum multis causis accidere possit, ne iussu nostro adeat: adquirit nobis certe cum adierit, esse autem praeposterum ante nos locupletes dici, quam adquisierimus.
+
+1. Cuius debitor solvendo non est, tantum habet in bonis, quantum exigere potest.
+
+2. Nonnullam tamen pretio varietatem loca temporaque adferunt: nec enim tantidem Romae et in Hispania oleum aestimabitur nec continuis sterilitatibus tantidem, quanti secundis fructibus, dum hic quoque non ex momentis temporum nec ex ea quae raro accidat caritate pretia constituantur.
+
+35.2.64
+
+Ulpianus libro 13 ad legem Iuliam et Papiam
+
+Si in testamento ita scriptum sit: "Heres meus Lucio Titio decem dare damnas esto et quanto quidem minus per legem Falcidiam capere poterit, tanto amplius ei dare damnas esto", sententiae testatoris standum est.
+
+35.2.65
+
+Paulus libro sexto ad legem Iuliam et Papiam
+
+Si fundus legatus sit quinquaginta dignus sub hac condicione, si quinquaginta heredi dedisset, plerique putant utile esse legatum, quia condicionis implendae causa datur: nam constat etiam Falcidiam eum pati posse. Sed si quinquaginta aurei legati sint, si quinquaginta dedisset, dicendum inutile esse legatum et magis ridiculum esse.
+
+35.2.66
+
+Ulpianus libro 18 ad legem Iuliam et Papiam
+
+pr. Circa legem Falcidiam in eo, quod sub condicione vel in diem alicui relictum est, hoc observandum est: si decem sub condicione alicui fuerint relicta eaque condicio post decennium forte exstiterit, non videntur decem huic legata, sed minus decem, quia intervallum temporis et interusurium huius spatii minorem facit quantitatem decem.
+
+1. Sicuti legata non debentur, nisi deducto aere alieno aliquid supersit, nec mortis causa donationes debebuntur, sed infirmantur per aes alienum. Quare si immodicum aes alienum interveniat, ex re mortis causa sibi donata nihil aliquis consequitur.
+
+35.2.67
+
+Clementius libro quarto ad legem Iuliam et Papiam
+
+Quotiens cuidam amplius legatum sit, quam ei capere liceret, et lex Falcidia locum haberet, prius Falcidiae ratio habenda est, scilicet ut subducto eo, quod lex Falcidia exceperit, reliquum, si non excedat statutam lege portionem, debeatur.
+
+35.2.68
+
+Macer libro secundo ad legem vicensimam hereditatium
+
+pr. Computationi in alimentis faciendae hanc formam esse Ulpianus scribit, ut a prima aetate usque ad annum vicesimum quantitas alimentorum triginta annorum computetur eiusque quantitatis Falcidia praestetur, ab annis vero viginti usque ad annum vicesimum quintum annorum viginti octo, ab annis viginti quinque usque ad annos triginta annorum viginti quinque, ab annis triginta usque ad annos triginta quinque annorum viginti duo, ab annis triginta quinque usque ad annos quadraginta annorum viginti. Ab annis quadraginta usque ad annos quinquaginta tot annorum computatio fit, quot aetati eius ad annum sexagesimum deerit remisso uno anno: ab anno vero quinquagesimo usque ad annum quinquagesimum quintum annorum novem, ab annis quinquaginta quinque usque ad annum sexagesimum annorum septem, ab annis sexaginta, cuiuscumque aetatis sit, annorum quinque. Eoque nos iure uti Ulpianus ait et circa computationem usus fructus faciendam. Solitum est tamen a prima aetate usque ad annum trigesimum computationem annorum triginta fieri, ab annis vero triginta tot annorum computationem inire, quot ad annum sexagesimum deesse videntur. Numquam ergo amplius quam triginta annorum computatio initur. Sic denique et si rei publicae usus fructus legetur, sive simpliciter sive ad ludos, triginta annorum computatio fit.
+
+1. Si quis ex heredibus rem propriam esse contendat, deinde hereditariam esse convincatur, quidam putant eius quoque Falcidiam non posse retineri, quia nihil intersit, subtraxerit an hereditariam esse negaverit: quod Ulpianus recte improbat.
+
+35.2.69
+
+Pomponius libro quinto ad Sabinum
+
+Usu fructu bonorum legato aes alienum ex omnibus rebus deducendum est, quoniam post senatus consultum nulla res est, quae non cadit in usus fructus legatum.
+
+35.2.70
+
+Ulpianus libro 16 ad Sabinum
+
+Falcidiae stipulatio statim committitur, ubi condicio legati vel debiti exstitit.
+
+35.2.71
+
+Paulus libro 32 ad edictum
+
+Potest heres in vendenda hereditate cavere, ut et lege Falcidia interveniente solida legata praestentur, quia ea lex heredis causa lata est nec fraus ei fit, si ius suum deminuat heres.
+
+35.2.72
+
+Gaius libro tertio de legatis ad edictum praetoris
+
+Quantitas patrimonii deducto etiam eo, quidquid explicandarum venditionum causa impenditur, aestimatur.
+
+35.2.73
+
+Gaius libro 18 ad edictum provinciale
+
+pr. In quantitate patrimonii exquirenda visum est mortis tempus spectari. Qua de causa si quis centum in bonis habuerit et tota ea legaverit, nihil legatariis prodest, si ante aditam hereditatem per servos hereditarios aut ex partu ancillarum hereditariarum aut ex fetu pecorum tantum accesserit hereditati, ut centum legatorum nomine erogatis habiturus sit heres quartam partem, sed necesse est, ut nihilo minus quarta pars legatis detrahatur. Et ex diverso, si ex centum septuaginta quinque legaverit et ante aditam hereditatem in tantum decreverint bona, incendiis forte aut naufragiis aut morte servorum, ut non plus quam septuaginta quinque vel etiam minus relinquatur, solida legata debentur. Nec ea res damnosa est heredi, cui liberum est non adire hereditatem: quae res efficit, ut necesse sit legatariis, ne destituto testamento nihil consequantur, cum herede in portionem legatorum pacisci.
+
+1. Magna dubitatio fuit de his, quorum condicio mortis tempore pendet, id est an quod sub condicione debetur in stipulatoris bonis adnumeretur et promissoris bonis detrahatur. Sed hoc iure utimur, ut, quanti ea spes obligationis venire possit, tantum stipulatoris quidem bonis accedere videatur, promissoris vero decedere. Aut cautionibus res explicari potest, ut duorum alterum fiat, aut ita ratio habeatur, tamquam pure debeatur, aut ita, tamquam nihil debeatur, deinde heredes et legatarii inter se caveant, ut exsistente condicione aut heres reddat, quanto minus solverit, aut legatarii restituant, quanto plus consecuti sint.
+
+2. Sed et si legata quaedam pure, quaedam sub condicione relicta efficiant, ut exsistente condicione lex Falcidia locum habeat, pure legata cum cautione redduntur. Quo casu magis in usu est solvi quidem pure legata perinde ac si nulla alia sub condicione legata fuissent, cavere autem legatarios debere ex eventu condicionis quod amplius accepissent redditu iri.
+
+3. Cuius generis cautio necessaria videtur et si quibusdam servis eodem testamento sub condicione libertas data sit, quorum pretia condicione exsistente bonis detrahuntur.
+
+4. In diem relicta legata alterius esse iuris palam est, cum ea omnimodo tam ipsi legatario quam heredibus eius deberi certum est: sed tanto minus erogari ex bonis intellegendum est, quantum interea donec dies optingit, heres lucraturus est ex fructibus vel usuris.
+
+5. Ergo optimum quidem est statim ab initio ita testatorem distribuere legata, ne ultra dodrantem relinquantur. Quod si excesserit quis dodrantem, pro rata portione per legem ipso iure minuuntur: verbi gratia si is, qui quadringenta in bonis habuit, tota ea quadringenta erogaverit, quarta pars legatariis detrahitur: si trecenta quinquaginta legaverit, octava. Quod si quingenta legaverit habens quadringenta, initio quinta, deinde quarta pars detrahi debet: ante enim detrahendum est, quod extra bonorum quantitatem est, deinde quod ex bonis apud heredem remanere oportet.
+
+35.2.74
+
+Gaius libro tertio de legatis ad edictum praetoris
+
+Quod autem dicitur, si ex iudicio defuncti quartam habeat heres, solida praestanda esse legata, ita accipere debemus, si hereditario iure habeat: itaque quod quis legatorum nomine a coherede accepit, in quadrantem ei non imputatur.
+
+35.2.75
+
+Marcellus ex libro 40  digestorum
+
+Iuliani Marcellus. Sed si ideo legatum ei datum est, ut integra legata vel fideicommissa praestet, deneganda erit actio legati, si lege Falcidia uti mallet.
+
+35.2.76
+
+Gaius libro tertio de legatis ad edictum praetoris
+
+pr. Id autem, quod condicionis implendae causa vel a coherede vel a legatario vel a statulibero datur, in Falcidia non imputatur, quia mortis causa capitur. Sane si a statulibero peculiares nummos accipiat, pro sua parte quadranti eos imputare debet, quia pro ea parte non mortis causa capere, sed hereditario iure eos habere intellegitur.
+
+1. Qua ratione placuit legata, quae legatarii non capiunt, cum apud heredes subsederint, hereditario iure apud eos remanere intellegi et ideo quadranti imputanda, nec quicquam interesse, utrum statim ab initio legatum non sit an quod legatum est remanserit.
+
+35.2.77
+
+Gaius libro 18 ad edictum provinciale
+
+In singulis heredibus rationem legis Falcidiae componendam esse non dubitatur. Et ideo si Titio et Seio heredibus institutis semis hereditatis Titii exhaustus est, Seio autem quadrans totorum bonorum relictus sit, competit Titio beneficium legis Falcidiae.
+
+35.2.78
+
+Gaius libro tertio de legatis ad edictum praetoris urbani
+
+Quod si alterutro eorum deficiente alter heres solus exstiterit, utrum perinde ratio legis Falcidiae habenda sit, ac si statim ab initio is solus heres institutus esset, an singularum portionum separatim causae spectandae sunt? Et placet, si eius pars legatis exhausta sit, qui heres exstiterit, adiuvari legatarios per deficientem partem, quia ea non est legatis onerata, quia et legata quae apud heredem remanent efficiunt, ut ceteris legatariis aut nihil aut minus detrahatur: si vero defecta pars fuerit exhausta, perinde in ea ponendam rationem legis Falcidiae, atque si ad eum ipsum pertineret, a quo defecta fieret.
+
+35.2.79
+
+Gaius libro 18 ad edictum provinciale
+
+In duplicibus testamentis sive de patrimonio quaeramus, ea sola substantia spectatur, quam pater cum moreretur habuerit, nec ad rem pertinet, si post mortem patris filius vel adquisierit aliquid vel deminuerit: sive de legatis quaeramus, tam ea quae in primis quam ea quae in secundis tabulis relicta sunt in unum contribuuntur, tamquam si et ea, quae a filii herede reliquisset testator, a suo herede sub alia condicione legasset.
+
+35.2.80
+
+Gaius libro tertio de legatis ad edictum praetoris
+
+pr. Si is, qui quadringenta in patrimonio habebit, filio impubere herede instituto ducenta legaverit eique Titium et Seium heredes substituerit et a Titio centum legaverit, videamus, quid iuris sit. Si nondum solutis legatis pupillus decesserit et ob id ea legata utrique debent, solus heres Titius utetur lege Falcidia: cum enim ducenta ex hereditate pupilli ad eum pertineant, ducenta legatorum nomine debet, centum ex ducentis quae pupillus debebat, centum quae ipse dare iussus est: itaque ex utraque quantitate quarta deducta habebit quinquaginta. In persona vero Seii lex Falcidia non intervenit, cum ad eum ex hereditate pupilli ducenta pertineant et debeat legatorum nomine centum ex ducentis, quae a pupillo relicta sunt. Quod si pupillus solvat legata, debent curare tutores pupilli, ut caveant legatarii.
+
+1. Quaedam legata divisionem non recipiunt, ut ecce legatum viae itineris actusve: ad nullum enim ea res pro parte potest pertinere. Sed et si opus municipibus heres facere iussus est, individuum videtur legatum: neque enim ullum balineum aut ullum theatrum aut stadium fecisse intellegitur, qui ei propriam formam, quae ex consummatione contingit, non dederit: quorum omnium legatorum nomine, etsi plures heredes sint, singuli in solidum tenentur. Haec itaque legata, quae dividuitatem non recipiunt, tota ad legatarium pertinent. Sed potest heredi hoc remedio succurri, ut aestimatione facta legati denuntiet legatario, ut partem aestimationis inferat, si non inferat, utatur adversus eum exceptione doli mali.
+
+35.2.81
+
+Gaius libro 18 ad edictum provinciale
+
+pr. Sed usus fructus legatus venit in computationem legis Falcidiae, nam divisionem recipit adeo, ut, si duobus legatus fuerit, ipso iure ad singulos partes pertineant.
+
+1. Dos relegata extra rationem legis Falcidiae est, scilicet quia suam rem mulier recipere videtur.
+
+2. Sed et de his quoque rebus, quae mulieris causa emptae paratae essent, ut hae quoque extra modum legis essent, nominatim ipsa Falcidia lege expressum est.
+
+35.2.82
+
+Ulpianus libro octavo disputationum
+
+Quaerebatur, cum is qui solum in nomine quadringenta in bonis habebat ipsi debitori liberationem, Seio autem quadringenta legaverit, si debitor vel solvendo non sit vel centum facere possit, quantum quisque habeat interventu legis Falcidiae. Dicebam legem Falcidiam ex eo quod refici ex hereditate potest quartam heredi tribuere, residuum dodrantem inter legatarios distribuere. Quare cum nomen minus solvendo est in hereditate, eius quod exigi potest pro rata fit distributio, residui venditio facienda est, ut id demum in hereditate computetur, quanti nomen distrahi potest. Sed cum debitori liberatio relinquitur, ipse sibi solvendo videtur et quod ad se attinet, dives est: quippe si ei mortis causa accepto feratur id quod debet, quadringenta cepisse videbitur, licet nihil facere possit: sensisse enim liberationem plenam videtur, quamvis nihil facere possit. Si soli ei liberatio relicta est, et ideo Falcidia interveniente trecenta accepto illi ferri debent, residua centum durabunt in obligationem et si quidem facere posse coeperit, exigentur ab eo dumtaxat usque ad centum. Idemque erit dicendum, et si mortis causa accepto ei quadringenta ferantur. Unde eleganter dicitur acceptilationem in pendenti fore, ut, si quidem mortis tempore quadringenta tota inveniantur, in trecenta valeat acceptilatio: si vero praeterea aliquid inveniatur, quod quadrantem suppleat heredi, in quadringenta acceptilatio proficiet. Quod si debitor iste quadringentorum dumtaxat centum facere potest, quia sibi solvendo est, necesse habebit centum refundere. Cum igitur debitor sibi solvendo sit, eveniet, ut, si herede aliquo instituto ipsi debitori liberatio et alii quadringenta legata sint, si quidem solvendo sit debitor, centum quinquaginta ex trecentis retineat, alia centum quinquaginta legatario praestentur, heres centum habeat: sin vero centum tantum facere possit, heredi ex refecto quarta servanda est: sic fiet, ut centum, quae praestari possunt, in quattuor partes dividantur, tres partes ferant legatarii, heres viginti quinque habeat, debitor, qui solvendo non est, secum centum quinquaginta compenset. De residuis centum quinquaginta, quae exigi non possunt, venditio fiet nominis idque, quasi solum in bonis fuerit, repraesentatur. Quod si nihil facere debitor potest, aeque in centum quinquaginta accepto liberandus est: de residuo venditionem nominis faciendam Neratius ait, quod et nos probamus.
+
+35.2.83
+
+Iulianus libro 12 digestorum
+
+Si creditor filii tui heredem te instituerit et legis Falcidiae rationem ponas, peculii quantitas, quod aditae hereditatis tempore fuisset, in quadrantem tibi imputabitur.
+
+35.2.84
+
+Iulianus libro 13 digestorum
+
+Repperitur casus, quo heres agere potest, quamvis testator agere non potuerit: veluti si tutor, cum solveret legata, non interposuerit stipulationem, quanto plus quam per legem Falcidiam capi licuerit solutum fuerit, reddi: pupillus quidem eo nomine tutelae non agit, sed heredi eius hoc quoque nomine tutor obligatus erit.
+
+35.2.85
+
+Iulianus libro 18  digestorum
+
+Si dos socero data est et solus filius heres patri exstitisset, dotem confestim in computatione hereditatis et Falcidiae ratione in aere alieno deducet: aliter enim videbitur indotatam uxorem habere. Quod si filius extraneum coheredem habeat, ipse quidem semper pro qua parte patri heres erit dotem in aere alieno deducet, et coheres eius, antequam dos a filio praecipiatur.
+
+35.2.86
+
+Iulianus libro 40 digestorum
+
+Titia testamento suo Titium fratrem suum ex parte tertia heredem instituit fideique eius commisit, ut hereditatem retenta quarta parte secundae et proculae restituat: eadem fratri quaedam praedia praelegavit: quaero, an Titius ea quae praelegata sunt etiam pro ea parte hereditatis, quam rogatus est ut [restitueret], restituere an integra retinere debeat. Respondi Titium legata integra retinere debere, sed in partem quartam imputari oportere duodecimam partem praediorum. Sed si non esset adiectum, ut pars quarta deduceretur, totum trientem praediorum legi Falcidiae imputari oportere, quoniam contra sententiam matris familiae lex Falcidia induceretur.
+
+35.2.87
+
+Iulianus libro 61 digestorum
+
+pr. Qui fundum solum in bonis centum relinquebat, si heredem suum damnaverit, ut eum quinquaginta Titio venderet, non est existimandus amplius quam quinquaginta legasse, ideoque lex Falcidia locum non habet.
+
+1. Item is, qui duos fundos in bonis centum haberet, si me et Titium heredes instituisset et damnasset me, ut Titio fundum Cornelianum quinquaginta venderem et contra Titium damnasset, ut mihi fundum Seianum quinquaginta venderet: non animadverto, quemadmodum lex Falcidia locum habere possit, cum uterque heredum unius fundi partem dimidiam hereditario iure habiturus sit, in qua pars dimidia hereditatis est: nam certe qui damnatus est fundum Cornelianum vendere, Seiani fundi partem hereditario iure habet, item qui damnatus est Seianum fundum vendere, partem Corneliani fundi hereditario iure retinet.
+
+2. Si quis heredem instituerit eum, cui rogatus fuerat post mortem suam centum restituere, in ratione legis Falcidiae centum deducere debet, quia, si alius quilibet heres exstitisset, haec centum in aere alieno ponerentur.
+
+3. Si tu ex parte quarta, Titius ex parte quarta heredes scripti fueritis, deinde tu ex parte dimidia heres institutus fueris sub condicione, et legata, item libertates datae fuerint: pendente condicione libertates competent, legata tota praestabuntur, quia sive condicio exstiterit, te herede exsistente utraque valent, sive condicio defecerit, tu et Titius heredes eritis. De lege Falcidia, si hoc quaeris, an exsistente condicione miscetur quadrans tuus et semis atque ita pro dodrante ratio ponenda est cum his, quibus a te pure herede legatum est, respondebimus misceri duas partes.
+
+4. Qui filium suum impuberem et Titium aequis partibus heredes instituerat, a filio totum semissem legaverat, a Titio nihil et Titium filio substituerat. Quaesitum est, cum Titius ex institutione adisset et impubere filio mortuo ex substitutione heres exstitisset, quantum legatorum nomine praestare deberet. Et placuit solida legata eum praestare debere: nam confusi duo semisses efficerent, ut circa legem Falcidiam totius assis ratio haberetur et solida legata praestarentur. Sed hoc ita verum est, si filius antequam patri heres exsisteret decessisset. Si vero patri heres fuit, non ampliora legata debet substitutus, quam quibus pupillus obligatus fuerat, quia non suo nomine obligatur, sed defuncti pupilli, qui nihil amplius quam semissis dodrantem praestare necesse habuit.
+
+5. Quod si extranei heredis semis totus legatus fuerit isque pupillo, a quo nihil legatum erat, ex substitutione heres exstiterit, poterit dici augeri legata et perinde agendum, ac si cuilibet coheredi substitutus fuisset eoque omittente hereditatem ex asse heres exstitisset, quia semper substitutus rationem legis Falcidiae ex quantitate bonorum, quae pater reliquerit, ponet.
+
+6. Eadem dicenda sunt et si pater duos impuberes heredes instituerit et eosdem invicem substituerit, deinde iure substitutionis ad alterum hereditas recciderit et legis Falcidiae ratio habenda sit.
+
+7. Qui filios impuberes duos habebat, alterum heredem instituit, alterum exheredavit, deinde exheredatum instituto substituit ac postea exheredato Maevium et ab eo legavit: et exheredatus fratri impuberi exstitit heres, deinde impubes decessit. Cum iudicio patris facultates paternae per causam hereditariam ex substitutione ad eum perveniant, potest dici legata ab eo relicta praestanda esse habita ratione legis Falcidiae in his bonis, quae pater mortis tempore reliquerit. Nec huic contrarium est, quod, cum exheredato pater legatum dederit, nihilo magis substitutus legatis obligabitur, quia eo casu non hereditatis paternae portio, sed legatum ad eum pervenit. Dicet aliquis: quid ergo, si exheredatus filius non ex substitutione fratri suo heres exstiterit, sed aut lege aut per interpositam personam atque ita impubes decesserit? Sic quoque existimandus erit substitutus legata debere? Minime: nam quantum intersit, exheredatus filius ex substitutione fratri suo heres exsistat an alio modo, vel ex eo apparet, quod alias ab eo legare pater potuit, alias non potuit. Est igitur rationi congruens, ne plus iuris circa personam substituti testator habeat, quam habuerat in eo, cui eum substituebat.
+
+8. Coheres pupillo datus si pro parte sua legata, habita legis Falcidiae ratione, praestiterit, deinde impubere mortuo ex substitutione heres exstiterit et semis pupilli legatis exhaustus esset, ex integro legis Falcidiae ratio ponenda erit, ut contributis legatis, quae ab ipso et quae a pupillo data fuerant, pars quarta bonorum apud eum remaneat. Licet enim pupillo heres exsistat, tamen circa legem Falcidiam perinde ratio habetur ac si patri heres exstitisset. Nec aliter augebuntur legata, quae ab ipso ultra dodrantem data fuerant, quam augentur, cum ex parte heres institutus et coheredi suo substitutus deliberante coherede legata, habita ratione legis Falcidiae, solvit, deinde ex substitutione alteram quoque partem hereditatis adquirat.
+
+35.2.88
+
+Africanus libro quinto quaestionum
+
+pr. Qui quadringenta habebat, trecenta legavit: deinde fundum tibi dignum centum aureis sub hac condicione legavit, si legi Falcidiae in testamento suo locus non esset: quaeritur, quid iuris est. Dixi twn aporwn hanc quaestionem esse, qui tractatus apud dialecticos tou qeudomenou dicitur. Etenim quidquid constituerimus verum esse, falsum repperietur. Namque si legatum tibi datum valere dicamus, legi Falcidiae locus erit ideoque deficiente condicione non debebitur. Rursus si, quia condicio deficiat, legatum valiturum non sit, legi Falcidiae locus non erit: porro si legi locus non sit, exsistente condicione legatum tibi debebitur. Cum autem voluntatem testatoris eam fuisse appareat, ut propter tuum legatum ceterorum legata minui nollet, magis est, ut statuere debeamus tui legati condicionem defecisse.
+
+1. Quid ergo dicemus, si ducenta legavit et tibi similiter sub eadem condicione ducenta legata esse proponantur? Nam aut exstitisse aut defecisse legati tui condicionem, ut aut totum aut nihil tibi debeatur, et iniquum et contra voluntatem testatoris existimabitur: rursus partem deberi rationi non congruit, quando necesse est totius legati condicionem vel exstitisse vel defecisse. Ergo per exceptionem doli mali tota ea res temperanda erit.
+
+2. Quare cum quis tale quid consequi velit, sic consequetur: "Si quo amplius legavi vel legavero, quam per legem Falcidiam licebit, tum quantum ad supplendum quadrantem deduci oportet, ex eo legato quod Titio dedi heres meus damnas esto dare".
+
+3. Qui ducenta in bonis relinquebat, legavit mihi centum praesenti die, tibi aeque centum sub condicione: post aliquantum temporis exstitit condicio, ita tamen, ut ex reditu eius summae, quae tibi relicta est, non amplius quam viginti quinque reciperet. Legis Falcidiae ratio ita habenda erit heredi, ut viginti quinque conferre ei debeamus et amplius fructus quinquaginta medii temporis, qui verbi gratia efficient quinque. Cum igitur triginta sint conferenda, quidam putant quina dena ab utroque nostrum conferenda esse, quod minime verum est: licet enim eandem quantitatem acceperimus, manifestum tamen est aliquanto uberius esse meum legatum. Quare statuendum erit tanto minus in tuo legato esse, quantum ex fructibus eius heres perceperit. Secundum quod in proposita specie computationem ita iniri oportet, ut ex septem partibus ego quattuor, tu tres conferamus, quoniam quidem quarta pars amplius in meo quam in tuo legato est.
+
+35.2.89
+
+Marcianus libro septimo institutionum
+
+pr. Divi Severus et Antoninus rescripserunt pecuniam relictam ad alimenta puerorum Falcidiae subiectam esse et ut idoneis nominibus collocetur pecunia, ad curam suam revocaturum praesidem provinciae.
+
+1. Divi Severus et Antoninus generaliter rescripserunt bononio maximo usuras praestaturum eum, qui frustrationis causa beneficium legis Falcidiae imploravit.
+
+35.2.90
+
+Florentinus libro 11 institutionum
+
+Si heres, cuius fidei commissum est, ut accepta certa pecunia hereditatem restituat, a voluntate eius qui testamentum fecit discedat et postea legis Falcidiae beneficio uti volet: etsi non detur ei, quo accepto hereditatem restituere rogatus est, tamen fideicommissum restituere cogi debet, quoniam quod ei pater familiae dari voluit legis Falcidiae commodum praestat.
+
+35.2.91
+
+Marcianus libro 13 institutionum
+
+In quartam hereditatis, quam per legem Falcidiam heres habere debet, imputantur res, quas iure hereditario capit, non quas iure legati vel fideicommissi vel implendae condicionis causa accipit: nam haec in quartam non imputantur. Sed in fideicommissaria hereditate restituenda sive legatum vel fideicommissum datum sit heredi sive praecipere vel deducere vel retinere iussus est, in quartam id ei imputatur: pro ea vero parte, quam accepit a coherede extra quartam id est, quod a coherede accipitur. Sed et si accepta pecunia hereditatem restituere rogatus sit, id quod accipit in quartam ei imputatur, ut divus Pius constituit. Si quid vero implendae condicionis causa heres accipiat a legatariis, in Falcidiae computationem non prodesse: et ideo si centum praedium legaverit defunctus, si quinquaginta heredi legatarius dederit, centum legatis computationem fieri et quinquaginta extra hereditatem haberi, ne in quartam ei imputentur.
+
+35.2.92
+
+Macer libro secundo de re militare
+
+Si miles testamento facto partem dimidiam hereditatis suae tibi restitui iusserit, deinde post missionem factis codicillis alteram partem Titio restitui rogaverit: si quidem post annum missionis suae decesserit, et tibi et Titio heres partem quartam retinebit, quia eo tempore testator decessit, quo testamentum eius ad beneficium principale pertinere desierat: si vero intra annum missionis decesserit, solus Titius deductionem partis quartae patietur, quia eo tempore fideicommissum ei relictum est, quo testator iure militari testari non potuit.
+
+35.2.93
+
+Papinianus libro 20 quaestionum
+
+Acceptis a Maevio centum hereditatem Maevio restituere pecuniamque post mortem suam Titio dare rogatus est. Quamquam haec centum quartam bonorum efficiant, tamen propter fideicommissum sequens quartae retentioni locus erit: tunc enim ex constitutione divi Hadriani Falcidiae satisfacit ea quantitas, cum apud heredem remanet. Sed Falcidiam patietur solus cui hereditas relicta est: nam in centum, quae mortis causa capiuntur, admitti Falcidia non potest. Plane si quis ita scripsit: "Acceptis centum peto restituas hereditatem" neque personam dantis demonstraverit, quasi retentam et praeceptam pecuniam, si quartae sufficiat, inducere Trebellianum.
+
+35.2.94
+
+Scaevola libro 21 digestorum
+
+Filio et filia scriptis heredibus singulis certa praelegavit, sed longe minus filiae, cui etiam domum obligatam praelegavit cum instrumentis et quicquid ibi fuerit et adiecit haec verba: "Sed ea condicione lego, ut quidquid aeris alieni in ea domo erit, Titius libertus filii mei exsolvat et sit eis utrisque domus communis". Quaesitum est, si filia legis Falcidiae beneficio uti volet ad quartam retinendam, an ex hereditate, quae ei relicta est, deducto aere alieno eius quod superfuerit quartam consequi debeat. Respondit iure quidem id postulaturam, verum non alias ea, quae ei data sunt, accepturam, si modo ea quartam suppleant, quam voluntati defuncti solvendum praestando pareret.
+
+35.2.95
+
+Scaevola libro 21 digestorum
+
+pr. Maritus uxoris res extra dotem constitutas administravit eaque decedens ante rationem sibi redditam administrationis ex asse eundem maritum heredem reliquit eiusque fidei commisit, ut decem uncias filio communi cum moreretur restitueret, duas autem uncias nepoti. Quaesitum est, an id quoque, quod ex administratione rerum apud maritum resedisse constiterit, cum ceteris bonis pro rata decem unciarum filio restitui debeat. Respondit id, quod debuisset hereditati, in rationem venire debere.
+
+1. Filiae, quam mater rogaverat, si impubes decessisset, restituere hereditatem Titio, patruus legitimus heres exstitit: in ratione legis Falcidiae ponenda desiderat deduci sortes, ex quarum usuris alimenta impubes defuncta ex persona testatricis suae pluribus debita praestitit: quaesitum est, an, si eas deduxerit, cavere debeat defunctorum alimentariorum portiones pro modo sortium se restituturum. Respondit debere cavere.
+
+2. Post aditam hereditatem triennio exacto legatariis heres legem Falcidiam opponit idcirco, quod administravit tutelas testator, quarum ratio nondum reddita sit et quod neget tantum redigi ex nominibus posse, quantum in cautione deductum est. Quaesitum est, an rationes defuncti et omnium instrumentorum hereditatiorum et pupillarium rationum legatariis desiderantibus heres describendi potestatem facere debeat, ne in potestate eius sit proferre quod velit et per hoc in fraudem legatarii inducantur. Respondit ad iudicis officium pertinere explorare ea, per quae probetur, quanti sit in bonis.
+
+35.2.96
+
+Scaevola libro singulari quaestionum publice tractarum
+
+Miles si, dum paganus erat, fecerit testamentum, militiae tempore codicillos, lex Falcidia in codicillis locum non habet, in testamento locum habebit.
+
+
+* 35.3.0. Si cui plus, quam per legem Falcidiam licuerit, legatum esse dicetur.
+
+
+35.3.1
+
+Ulpianus libro 79 ad edictum
+
+pr. Si cui plus quam licuerit legetur et dubitari iuste possit, utrum lex Falcidia locum habitura est nec ne, subvenit praetor heredi, ut ei legatarius satisdet, ut, si apparuerit eum amplius legatorum nomine cepisse quam e lege Falcidia capere licebit, quanti ea res erit, tantam pecuniam det dolusque malus ab eo afuturus sit.
+
+1. Neque interest, utrum in primis tabulis hoc fiat an in pupillaribus an in utrisque: etenim legem Falcidiam semel esse admittendam, etiamsi duplex sit testamentum, iam convenit, contributis legatis tam his, quae ab ipso pupillo quam his, quae a substituto impuberi relicta sunt.
+
+2. Si non fuisset interposita stipulatio ex persona pupilli, tutelae actio heredi pupilli adversus tutorem competit. Sed ut Pomponius ait, et ipsi pupillo et heredi eius poterit committi stipulatio, ipsi quo casu vivo eo Falcidia incipit locum habere. De tutelae quoque actione idem scribit.
+
+3. Marcellus ait: qui quadringenta in bonis habebat, inpuberem filium heredem instituit eique substituit Titium et Seium: nihil a pupillo testator legavit, sed a Titio trecenta: utrum ducenta, inquit, praestabuntur an centum quinquaginta? Nam trecenta nullo modo eum praestare. Mihi videtur verius non amplius eum parte sua erogare compelli, certe nec minus: secundum quod eveniret, ut non soli committatur stipulatio, sed omnibus heredibus interponenda est, sed causa cognita.
+
+4. Falcidiam locum habere et legatorum modus facit et aeris alieni onus. Et si quidem evidens aes alienum est vel certum, facilis est computatio: si autem adhuc incertum est, quia forte vel condicio eius pendet vel creditor litem contestatus est et necdum lis finita est, dubitabitur, quantum legatariis debeatur propter incertum.
+
+5. Hodie tamen subsimile aliquid fit in fideicommissis.
+
+6. Cum dicitur lex Falcidia locum habere, arbiter dari solet ad ineundam quantitatem bonorum, tametsi unus aliquid modicum fideicommissum persequatur: quae computatio praeiudicare non debet ceteris, qui ad arbitrum missi non sunt. Solet tamen ab herede etiam ceteris denuntiari fideicommissariis, ut veniant ad arbitrum ibique causam suam agant, plerumque et creditoribus, ut de aere alieno probent. Habet tamen rationem in legatariis, item in fideicommissariis, ut, si offerat integrum quod relictum est heres desiderans cavere sibi hac stipulatione, audiatur.
+
+7. Si legata quaedam praesenti die relicta sint, quaedam sub condicione, interponenda erit ista stipulatio propter legata condicionalia, dummodo ea legata, quae praesenti sint, integra solvantur. Iulianus denique scribit, si pure et sub condicione legata fuerint ne exsistente condicione lex Falcidia locum habeat, non aliter legatorum, quae pure data sunt, actionem dari debere, quam si cautum fuerit heredi "quanto amplius, quam per legem Falcidiam licuerit, ceperit".
+
+8. Idem Iulianus scribit eum, cui quadrans sub condicione et dodrans pure legatus est, cavere debere "quanto amplius, quam per legem Falcidiam liceat, ceperit, reddi".
+
+9. Haec stipulatio ideo locum habet, quia, etsi repeti potest id quod solutum est, tamen fieri potest, ut non sit solvendo is cui solutum est ac per hoc pereat quod datum est.
+
+10. In mortis causa quoque donationibus potest dici hanc stipulationem esse interponendam.
+
+11. Haec verba stipulationis "quod amplius legatorum nomine ceperis, quam e lege Falcidia capere licebit" non tantum eum comprehendunt, qui amplius accepit, quam ei Falcidia permisit, ut reddat partem, habeat partem, verum etiam eum qui totum debet restituere. Etenim sciendum est legem Falcidiam interdum partem eius quod datum est, interdum totum revocare. Cum enim habita ratione aeris alieni Falcidia ineatur, plerumque evenit, ut emergente debito vel condicione aeris alieni exsistente totum quod legatum est exhauriatur. Sed et libertatium condicio interdum exsistens efficiet legatum omnino non deberi, quippe cum habita ratione libertatium et deductis pretiis eorum tunc demum legatorum ineatur ratio.
+
+12. In quibusdam autem testamentis Falcidia quidem locum non habet, verumtamen ita observatur, ut, licet quadrantem heres non retineat, tamen hactenus legata debeantur, quatenus patrimonii vires sufficiunt, utique deducto aere alieno, item deductis pretiis eorum, qui libertatem in testamento vel directam vel fideicommissariam acceperunt.
+
+13. Sed et legatario cavendum est, a quo fideicommissum relinquitur.
+
+14. Interdum non legis Falcidiae, sed etiam alterius legis in hac stipulatione ratio facienda est, ut puta si patronus ex asse heres institutus sit et pure quincunx legatus sit et sub condicione aliquid supra debitam patrono partem: nam in hunc casum ratio facienda est illius legis, quae patronos vocat, non legis Falcidiae.
+
+15. Si res, quae legata sit, apud legatarium interierit, probandum est exceptione succurri ei qui promisit,
+
+35.3.2
+
+Paulus libro 75 ad edictum
+
+Etiamsi quanti ea res sit promisit,
+
+35.3.3
+
+Ulpianus libro 79 ad edictum
+
+pr. Nisi si dolo ipsius aliquid factum sit: tunc enim etiam ex doli clausula, quae in ista stipulatione continetur, tenebitur et replicatione repelli poterit.
+
+1. Haec cautio, quae propter legem Falcidiam interponitur, fideiussorum habet praestationem.
+
+2. Si in plures dies pecunia legata est, cum certum sit legem Falcidiam locum habere, non stipulationi, sed computationi locum esse Pedius ait, ut aestimetur, quanti sit quod in diem legatum est et tantum credatur esse legatum, quantum efficit aestimatio, ut pro modo eius ex omnibus legatis statim legis Falcidiae ratio habeatur.
+
+3. Quotiens futurum est, ut palam sit et ante diem venientem iam Falcidiam locum habere, totiens computatio eius fit. Nam si condicio in mora est, exspectabimus condicionem, quoad exsistat: si autem dies superest, iam hic intercapedinis temporis habita ratione atque aestimatione sic de Falcidia disputabimus et committi stipulationem dicemus.
+
+4. Quamvis autem omnes legatarii et fideicommissarii necesse habeant hac stipulatione cavere, tamen quibusdam remitti divi fratres rescripserunt, ut puta his, quibus minuta alimenta sunt relicta. Pompeiae enim Faustinae rescripserunt sic: "Non eandem causam esse decem aureorum, quos annuos tibi testamento Pompeiae Crispianae patronae tuae relictos proponis, atque fuit alimentorum et vestiarii libertis relictorum, quibus propterea cautionis onus remittendum existimavimus".
+
+5. Item sciendum est fiscum hanc cautionem non pati, sed perinde conveniri posse, ac si cavisset. Ceteros autem, cuiuscumque dignitatis sint, licet iam legata perceperint, compelli debere ad cavendum divus Pius rescripsit: ex quo rescripto etiam illud accipimus, quod etiam post soluta legata voluit stipulationem interponi.
+
+6. Si legatarius heredi, qui controversiam hereditatis patitur iam vel sperat, de restituendo legato sibi praestito caverit et evicta hereditas sit, sed neglegentia vel dolo eius qui legatum praestitit, dicemus non committi stipulationem propter viri boni arbitrium, quod inest huic stipulationi.
+
+7. Item si ipse, qui praestitit legatum, ex alia causa sibi evicerit, ut puta quia invenitur sequenti testamento heres scriptus, in quo legatum iste legatarius non acceperat, dicemus committi stipulationem propter viri boni arbitrium.
+
+8. Et generaliter ubicumque hereditatem vel quantitatem vel emolumentum praestitit is, qui hac stipulatione sibi prospexerat, dicendum est ibi committi eam, si modo culpa abest ab eo, qui stipulatus est.
+
+9. Quaesitum est, an saepius committatur. Et placet etiam saepius eam committi, si per partes ablata est hereditas.
+
+10. Si legatum fuerit praestitum ante interpositam hanc stipulationem, an condici possit, ut cautio ista interponatur? Movet quaestionem, quod ea, quae per errorem omissa vel soluta sunt, condici possunt et hic ergo quasi plus solutum videtur ex eo, quod cautio intermissa est. Et ait Pomponius condictionem interponendae satisdationis gratia competere et puto hoc probandum quod Pomponius, utilitatis gratia.
+
+35.3.4
+
+Paulus libro 75 ad edictum
+
+pr. Haec autem satisdatio locum habet, si iusta causa esse videbitur: nam iniquum erat omnimodo caveri nondum illata controversia litis, cum possint ei lusoriae minae fieri: ideoque eam rem praetor ad cognitionem suam revocat.
+
+1. Si duo ex testamento hereditatem in solidum sibi vindicent, forte quod eiusdem nominis sint, tam in possessorem quam in petitorem competunt actiones et creditoribus et legatariis.
+
+2. Haec cautio utique necessaria est, si quis pecuniam suam solvat vel rem tradat: si vero pecuniam hereditariam solvat vel rem tradat, quidam non putant cavendum, quia nec teneri potest eo nomine victus, cum non possideat vel dolo fecerit, quo minus possideat. Hoc si ante motam controversiam solvat: quod si postea, tenebitur culpae nomine.
+
+3. Sed cum de nomine inter duos quaestio est, numquid non sit cavendum ei, qui hereditariam rem tradat, quia omnimodo unus liberatur: quemadmodum si aes alienum hereditarium solvatur? Sed si petitor suam pecuniam solvet aut rem suam tradat, non habet unde retineat et ideo necessaria est ei cautio.
+
+35.3.5
+
+Marcellus libro 21 digestorum
+
+Videamus, an stipulatio "qua amplius per Falcidiam ceperis licuerit dari" adversus eum non sufficiat, qui legatum alii restituere ex fideicommissi causa debet. Sufficiet autem dici nihil eius fidei commissum esse: cavebit scilicet legatario et is, qui fideicommissum accipiet, nisi forte malet legatarius circuitu sublato heredi caveri. Sed et legatario praeterea cavendum est, si (ut plerumque aequum est) pro rata ex fideicommisso retinere ei concedendum est, quamvis tantum ex legato apud eum erit remansurum, ut sufficere possit ad praestandum fideicommissum.
+
+35.3.6
+
+Callistratus libro quarto de cognitionibus
+
+Cum non facile satisdationem offerre legatarius vel fideicommissarius possit et futurum sit, ut propter hoc a petitione liberalitatis ex testamento submoveantur, numquid onus satisdationis eis remittendum erit? Quod videtur adiuvari rescripto divi Commodi in haec verba: "Is, cuius de ea re notio est, aditus si compererit ideo cautionem a te exigi, ut a fideicommissi petitione avertaris, onus satisdationis tibi remitti curabit".
+
+35.3.7
+
+Paulus libro septimo ad legem Iuliam et Papiam
+
+Divus Pius ab eo, qui annua legata praecipere ad distribuendum iussus erat, vetuit cautionem exigi cessantium partes reddi, nisi aperte cavere iussus esset.
+
+35.3.8
+
+Maecenatus libro decimo fideicommissorum
+
+Si heres partem bonorum vel etiam universa bona delata ad fiscum diceret, constaret autem de fideicommisso, decretum est, ut petitori caventi "evicta hereditate restitutu iri" solveretur.
+
+35.3.9
+
+Maecenatus libro 12 fideicommissorum
+
+Si non in controversia sit proprietas, sed usus fructus (potest enim rei, cuius proprietas Titio legata est, usus fructus alii legari), tunc de eo restituendo non heredi, sed Titio caveri debeat. Interdum et si ab herede legetur usus fructus, Titio cavendum est: veluti si detracto usu fructu proprietas ei legetur, usus fructus Seio: quid enim attinebit hoc casu heredi caveri, ad quem emolumentum intercidentis usus fructus non sit spectandum? Verum si usu fructu Seio legato proprietas Titio ita legetur, ut, cum ad Seium pertinere desierit, habeat proprietatem, tunc heredi caveri oportebit a fructuario, ab herede autem Titio, quia non sit certum usu fructu intercepto ad Titium proprietatem reversuram.

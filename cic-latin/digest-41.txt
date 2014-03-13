@@ -1,0 +1,1962 @@
+# -*- mode: org -*-
+
+DOMINI NOSTRI SACRATISSIMI PRINCIPIS
+IUSTINIANI
+IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
+DIGESTORUM SEU PANDECTARUM
+liber quadragesimus primus
+
+
+( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
+
+
+* TITLES
+** 41.1.0. De adquirendo rerum dominio.
+** 41.2.0. De adquirenda vel amittenda possessione.
+** 41.3.0. De usurpationibus et usucapionibus.
+** 41.4.0. Pro emptore.
+** 41.5.0. Pro herede vel pro possessore.
+** 41.6.0. Pro donato.
+** 41.7.0. Pro derelicto.
+** 41.8.0. Pro legato.
+** 41.9.0. Pro dote.
+** 41.10.0. Pro suo.
+
+
+
+* 41.1.0. De adquirendo rerum dominio.
+
+
+41.1.1
+
+Gaius libro secundo rerum cottidianarum sive aureorum
+
+pr. Quarundam rerum dominium nanciscimur iure gentium, quod ratione naturali inter omnes homines peraeque servatur, quarundam iure civili, id est iure proprio civitatis nostrae. Et quia antiquius ius gentium cum ipso genere humano proditum est, opus est, ut de hoc prius referendum sit.
+
+1. Omnia igitur animalia, quae terra mari caelo capiuntur, id est ferae bestiae et volucres pisces, capientium fiunt:
+
+41.1.2
+
+Florentinus libro sexto institutionum
+
+Vel quae ex his apud nos sunt edita.
+
+41.1.3
+
+Gaius libro secundo rerum cottidianarum sive aureorum
+
+pr. Quod enim nullius est, id ratione naturali occupanti conceditur.
+
+1. Nec interest quod ad feras bestias et volucres, utrum in suo fundo quisque capiat an in alieno. Plane qui in alienum fundum ingreditur venandi aucupandive gratia, potest a domino, si is providerit, iure prohiberi ne ingrederetur.
+
+2. Quidquid autem eorum ceperimus, eo usque nostrum esse intellegitur, donec nostra custodia coercetur: cum vero evaserit custodiam nostram et in naturalem libertatem se receperit, nostrum esse desinit et rursus occupantis fit:
+
+41.1.4
+
+Florentinus libro sexto institutionum
+
+Nisi si mansuefacta emitti ac reverti solita sunt.
+
+41.1.5
+
+Gaius libro secundo rerum cottidianarum sive aureorum
+
+pr. Naturalem autem libertatem recipere intellegitur, cum vel oculos nostros effugerit vel ita sit in conspectu nostro, ut difficilis sit eius persecutio.
+
+1. Illud quaesitum est, an fera bestia, quae ita vulnerata sit, ut capi possit, statim nostra esse intellegatur. Trebatio placuit statim nostram esse et eo usque nostram videri, donec eam persequamur, quod si desierimus eam persequi, desinere nostram esse et rursus fieri occupantis: itaque si per hoc tempus, quo eam persequimur, alius eam ceperit eo animo, ut ipse lucrifaceret, furtum videri nobis eum commisisse. Plerique non aliter putaverunt eam nostram esse, quam si eam ceperimus, quia multa accidere possunt, ut eam non capiamus: quod verius est.
+
+2. Apium quoque natura fera est: itaque quae in arbore nostra consederint, antequam a nobis Alveo concludantur, non magis nostrae esse intelleguntur quam volucres, quae in nostra arbore nidum fecerint. Ideo si alius eas incluserit, earum dominus erit.
+
+3. Favos quoque si quos hae fecerint, sine furto quilibet possidere potest: sed ut supra quoque diximus, qui in alienum fundum ingreditur, potest a domino, si is providerit, iure prohiberi ne ingrederetur.
+
+4. Examen, quod ex Alveo nostro evolaverit, eo usque nostrum esse intellegitur, donec in conspectu nostro est nec difficilis eius persecutio est: alioquin occupantis fit.
+
+5. Pavonum et columbarum fera natura est nec ad rem pertinet, quod ex consuetudine avolare et revolare solent: nam et apes idem faciunt, quarum constat feram esse naturam: cervos quoque ita quidam mansuetos habent, ut in silvas eant et redeant, quorum et ipsorum feram esse naturam nemo negat. In his autem animalibus, quae consuetudine abire et redire solent, talis regula comprobata est, ut eo usque nostra esse intellegantur, donec revertendi animum habeant, quod si desierint revertendi animum habere, desinant nostra esse et fiant occupantium. Intelleguntur autem desisse revertendi animum habere tunc, cum revertendi consuetudinem deseruerint.
+
+6. Gallinarum et anserum non est fera natura: palam est enim alias esse feras gallinas et alios feros anseres. Itaque si quolibet modo anseres mei et gallinae meae turbati turbataeve adeo longius evolaverint, ut ignoremus ubi sint, tamen nihilo minus in nostro dominio tenentur. Qua de causa furti nobis tenebitur, qui quid eorum lucrandi animo adprehenderit.
+
+7. Item quae ex hostibus capiuntur, iure gentium statim capientium fiunt:
+
+41.1.6
+
+Florentinus libro sexto institutionum
+
+Item quae ex animalibus dominio nostro eodem iure subiectis nata sunt:
+
+41.1.7
+
+Gaius libro secundo rerum cottidianarum sive aureorum
+
+pr. Adeo quidem, ut et liberi homines in servitutem deducantur: qui tamen, si evaserint hostium potestatem, recipiunt pristinam libertatem.
+
+1. Praeterea quod per alluvionem agro nostro flumen adicit, iure gentium nobis adquiritur. Per alluvionem autem id videtur adici, quod ita paulatim adicitur, ut intellegere non possimus, quantum quoquo momento temporis adiciatur.
+
+2. Quod si vis fluminis partem aliquam ex tuo praedio detraxerit et meo praedio attulerit, palam est eam tuam permanere. Plane si longiore tempore fundo meo haeserit arboresque, quas secum traxerit, in meum fundum radices egerint, ex eo tempore videtur meo fundo adquisita esse.
+
+3. Insula quae in mari nascitur (quod raro accidit) occupantis fit: nullius enim esse creditur. In flumine nata (quod frequenter accidit), si quidem mediam partem fluminis tenet, communis est eorum, qui ab utraque parte fluminis prope ripam praedia possident, pro modo latitudinis cuiusque praedii, quae latitudo prope ripam sit: quod si alteri parti proximior sit, eorum est tantum, qui ab ea parte prope ripam praedia possident.
+
+4. Quod si uno latere perruperit flumen et alia parte novo rivo fluere coeperit, deinde infra novus iste rivus in veterem se converterit, ager, qui a duobus rivis comprehensus in formam insulae redactus est, eius est scilicet, cuius et fuit.
+
+5. Quod si toto naturali alveo relicto flumen alias fluere coeperit, prior quidem alveus eorum est, qui prope ripam praedia possident, pro modo scilicet latitudinis cuiusque praedii, quae latitudo prope ripam sit: novus autem alveus eius iuris esse incipit, cuius et ipsum flumen, id est publicus iuris gentium. quod si post aliquod temporis ad priorem alveum reversum fuerit et <> flumen, rursus novus alveus eorum esse incipit, qui prope ripam eius praedia possident. cuius tamen totum agrum novus alveus occupaverit, licet ad priorem alveum reversum fuerit flumen, non tamen is, cuius is ager fuerat, stricta ratione quicquam in eo alveo habere potest, quia et ille ager qui fuerat desiit esse amissa propria forma et, quia vicinum praedium nullum habet, non potest ratione vicinitatis ullam partem in eo alveo habere: sed vix est, ut id optineat.
+
+6. Aliud sane est, si cuius ager totus inundatus fuerit: namque inundatio speciem fundi non mutat et ob id, cum recesserit aqua, palam est eiusdem esse, cuius et fuit.
+
+7. Cum quis ex aliena materia speciem aliquam suo nomine fecerit, Nerva et Proculus putant hunc dominum esse qui fecerit, quia quod factum est, antea nullius fuerat. Sabinus et Cassius magis naturalem rationem efficere putant, ut qui materiae dominus fuerit, idem eius quoque, quod ex eadem materia factum sit, dominus esset, quia sine materia nulla species effici possit: veluti si ex auro vel argento vel aere vas aliquod fecero, vel ex tabulis tuis navem aut armarium aut subsellia fecero, vel ex lana tua vestimentum, vel ex vino et melle tuo mulsum, vel ex medicamentis tuis emplastrum aut collyrium, vel ex uvis aut olivis aut spicis tuis vinum vel oleum vel frumentum. Est tamen etiam media sententia recte existimantium, si species ad materiam reverti possit, verius esse, quod et Sabinus et Cassius senserunt, si non possit reverti, verius esse, quod Nervae et Proculo placuit. Ut ecce vas conflatum ad rudem massam auri vel argenti vel aeris reverti potest, vinum vero vel oleum vel frumentum ad uvas et olivas et spicas reverti non potest: ac ne mulsum quidem ad mel et vinum vel emplastrum aut collyria ad medicamenta reverti possunt. Videntur tamen mihi recte quidam dixisse non debere dubitari, quin alienis spicis excussum frumentum eius sit, cuius et spicae fuerunt: cum enim grana, quae spicis continentur, perfectam habeant suam speciem, qui excussit spicas, non novam speciem facit, sed eam quae est detegit.
+
+8. Voluntas duorum dominorum miscentium materias commune totum corpus efficit, sive eiusdem generis sint materiae, veluti vina miscuerunt vel argentum conflaverunt, sive diversae, veluti si alius vinum contulerit alius mel, vel alius aurum alius argentum: quamvis et mulsi et electri novi corporis sit species.
+
+9. Sed et si sine voluntate dominorum casu confusae sint duorum materiae vel eiusdem generis vel diversae, idem iuris est.
+
+10. Cum in suo loco aliquis aliena materia aedificaverit, ipse dominus intellegitur aedificii, quia omne quod inaedificatur solo cedit. Nec tamen ideo is qui materiae dominus fuit desiit eius dominus esse: sed tantisper neque vindicare eam potest neque ad exhibendum de ea agere propter legem duodecim tabularum, qua cavetur, ne quis tignum alienum aedibus suis iunctum eximere cogatur, sed duplum pro eo praestet. Appellatione autem tigni omnes materiae significantur, ex quibus aedificia fiunt. ergo si aliqua ex causa dirutum sit aedificium, poterit materiae dominus nunc eam vindicare et ad exhibendum agere.
+
+11. Illud recte quaeritur, an, si in aedificium vendiderit is qui aedificaverit et ab emptore longo tempore captum postea dirutum sit, adhuc dominus materiae vindicationem eius habeat. Causa dubitationis est, an eo ipso, quo universitas aedificii longo tempore capta est, singulae quoque res, ex quibus constabat, captae essent: quod non placuit.
+
+12. Ex diverso si quis in alieno solo sua materia aedificaverit, illius fit aedificium, cuius et solum est et, si scit alienum solum esse, sua voluntate amisisse proprietatem materiae intellegitur: itaque neque diruto quidem aedificio vindicatio eius materiae competit. Certe si dominus soli petat aedificium nec solvat pretium materiae et mercedes fabrorum, poterit per exceptionem doli mali repelli, utique si nescit qui aedificavit alienum esse solum et tamquam in suo bona fide aedificavit: nam si scit, culpa ei obici potest, quod temere aedificavit in eo solo, quod intellegeret alienum.
+
+13. Si alienam plantam in meo solo posuero, mea erit: ex diverso si meam plantam in alieno solo posuero, illius erit: si modo utroque casu radices egerit: antequam enim radices ageret, illius permanet, cuius et fuit. His conveniens est, quod, si vicini arborem ita terra presserim, ut in meum fundum radices egerit, meam effici arborem: rationem enim non permittere, ut alterius arbor intellegatur, quam cuius fundo radices egisset. Et ideo prope confinium arbor posita, si etiam in vicinum fundum radices egerit, communis est.
+
+41.1.8
+
+Marcianus libro tertio institutionum
+
+pr. Pro regione cuiusque praedii.
+
+1. Sed et si in confinio lapis nascatur et sunt pro indiviso communia praedia, tunc erit lapis pro indiviso communis, si terra exemptus sit.
+
+41.1.9
+
+Gaius libro secundo rerum cottidianarum sive aureorum
+
+pr. Qua ratione autem plantae quae terra coalescunt solo cedunt, eadem ratione frumenta quoque quae sata sunt solo cedere intelleguntur. Ceterum sicut is, qui in alieno solo aedificavit, si ab eo dominus soli petat aedificium, defendi potest per exceptionem doli mali, ita eiusdem exceptionis auxilio tutus esse poterit, qui in alienum fundum sua impensa consevit.
+
+1. Litterae quoque licet aureae sint, perinde chartis membranisque cedunt, ac solo cedere solent ea quae aedificantur aut seruntur. Ideoque si in chartis membranisve tuis carmen vel historiam vel orationem scripsero, huius corporis non ego, sed tu dominus esse intellegeris. Sed si a me petas tuos libros tuasve membranas nec impensas scripturae solvere velis, potero me defendere per exceptionem doli mali, utique si bona fide eorum possessionem nanctus sim.
+
+2. Sed non uti litterae chartis membranisve cedunt, ita solent picturae tabulis cedere, sed ex diverso placuit tabulas picturae cedere. utique tamen conveniens est domino tabularum adversus eum qui pinxerit, si is tabulas possidebat, utilem actionem dari, qua ita efficaciter experiri poterit, si picturae impensam exsolvat: alioquin nocebit ei doli mali exceptio: utique si bona fide possessor fuerit qui solverit. Adversus dominum vero tabularum ei qui pinxerit rectam vindicationem competere dicimus, ut tamen pretium tabularum inferat: alioquin nocebit ei doli mali exceptio.
+
+3. Hae quoque res, quae traditione nostrae fiunt, iure gentium nobis adquiruntur: nihil enim tam conveniens est naturali aequitati quam voluntatem domini volentis rem suam in alium transferre ratam haberi.
+
+4. Nihil autem interest, utrum ipse dominus per se tradat alicui rem an voluntate eius aliquis. Qua ratione si cui libera negotiorum administratio ab eo qui peregre proficiscitur permissa fuerit et is ex negotiis rem vendiderit et tradiderit, facit eam accipientis.
+
+5. Interdum etiam sine traditione nuda voluntas domini sufficit ad rem transferendam, veluti si rem, quam commodavi aut locavi tibi aut apud te deposui, vendidero tibi: licet enim ex ea causa tibi eam non tradiderim, eo tamen, quod patior eam ex causa emptionis apud te esse, tuam efficio.
+
+6. Item si quis merces in horreo repositas vendiderit, simul atque claves horrei tradiderit emptori, transfert proprietatem mercium ad emptorem.
+
+7. Hoc amplius interdum et in incertam personam collocata voluntas domini transfert rei proprietatem: ut ecce qui missilia iactat in vulgus, ignorat enim, quid eorum quisque excepturus sit, et tamen quia vult quod quisque exceperit eius esse, statim eum dominum efficit.
+
+8. Alia causa est earum rerum, quae in tempestate maris levandae navis causa eiciuntur: hae enim dominorum permanent, quia non eo animo eiciuntur, quod quis eas habere non vult, sed quo magis cum ipsa nave periculum maris effugiat. Qua de causa si quis eas fluctibus expulsas vel etiam in ipso mari nanctus lucrandi animo abstulerit, furtum committit.
+
+41.1.10
+
+Gaius libro secundo institutionum
+
+pr. Adquiruntur nobis non solum per nosmet ipsos, sed etiam per eos quos in potestate habemus, item per servos, in quibus usum fructum habemus, item per homines liberos et servos alienos, quos bona fide possidemus: de quibus singulis diligentius dispiciamus.
+
+1. Igitur quod servi nostri ex traditione nanciscuntur sive quid stipulentur vel ex qualibet alia causa adquirunt, id nobis adquiritur: ipse enim, qui in potestate alterius est, nihil suum habere potest. Ideoque si heres institutus sit, nisi nostro iussu hereditatem adire non potest, et si iubentibus nobis adierit, hereditas nobis adquiritur, perinde atque si nos ipsi heredes instituti essemus. Eet his convenienter scilicet legatum nobis per eundem adquiritur.
+
+2. Non solum autem proprietas per eos, quos in potestate habemus, adquiritur nobis, sed etiam possessio: cuiuscumque enim rei possessionem adepti fuerint, id nos possidere videmur. Unde etiam per eorum longam possessionem dominium nobis adquiritur.
+
+3. De his autem servis, in quibus tantum usum fructum habemus, ita placuit, ut quidquid ex re nostra ex operis suis adquirant, id nobis adquiratur, si quid vero extra eas causas persecuti sint, id ad dominum proprietatis pertinet. Itaque si is servus heres institutus sit legatumve quid aut ei donatum fuerit, non mihi, sed domino proprietatis adquiritur.
+
+4. Idem placet de eo, qui nobis bona fide possidetur, sive liber sit sive alienus servus: quod enim placuit de usufructuario, idem probatur etiam de bonae fidei possessore. Itaque quod extra duas causas adquiritur, id vel ad ipsum pertinet, si liber est, vel ad dominum eius, si servus est.
+
+5. Sed bonae fidei possessor cum usuceperit servum, quia eo modo dominus fit, ex omnibus causis per eum sibi adquirere potest: usufructuarius vero usucapere servum non potest, primum quia non possidet, sed habet ius utendi fruendi, deinde quoniam scit servum alienum esse.
+
+41.1.11
+
+Marcianus libro tertio institutionum
+
+Pupillus quantum ad adquirendum non indiget tutoris auctoritate: alienare vero nullam rem potest nisi praesente tutore auctore, et ne quidem possessionem, quae est naturalis, ut Sabinianis visum est: quae sententia vera est.
+
+41.1.12
+
+Callistratus libro secundo institutionum
+
+pr. Lacus et stagna licet interdum crescant, interdum exarescant, suos tamen terminos retinent ideoque in his ius alluvionis non adgnoscitur.
+
+1. Si aere meo et argento tuo conflato aliqua species facta sit, non erit ea nostra communis, quia, cum diversae materiae aes atque argentum sit, ab artificibus separari et in pristinam materiam reduci solet.
+
+41.1.13
+
+Neratius libro sexto regularum
+
+pr. Si procurator rem mihi emerit ex mandato meo eique sit tradita meo nomine, dominium mihi, id est proprietas adquiritur etiam ignoranti.
+
+1. Et tutor pupilli pupillae similiter ut procurator emendo nomine pupilli pupillae proprietatem illis adquirit etiam ignorantibus.
+
+41.1.14
+
+Neratius libro quinto membranarum
+
+pr. Quod in litore quis aedificaverit, eius erit: nam litora publica non ita sunt, ut ea, quae in patrimonio sunt populi, sed ut ea, quae primum a natura prodita sunt et in nullius adhuc dominium pervenerunt: nec dissimilis condicio eorum est atque piscium et ferarum, quae simul atque adprehensae sunt, sine dubio eius, in cuius potestatem pervenerunt, dominii fiunt.
+
+1. Illud videndum est, sublato aedificio, quod in litore positum erat, cuius condicionis is locus sit, hoc est utrum maneat eius cuius fuit aedificium, an rursus in pristinam causam reccidit perindeque publicus sit, ac si numquam in eo aedificatum fuisset. quod propius est, ut existimari debeat, si modo recipit pristinam litoris speciem.
+
+41.1.15
+
+Neratius libro quinto regularum
+
+Qui autem in ripa fluminis aedificat, non suum facit.
+
+41.1.16
+
+Florentinus libro sexto institutionum
+
+In agris limitatis ius alluvionis locum non habere constat: idque et divus Pius constituit et Trebatius ait agrum, qui hostibus devictis ea condicione concessus sit, ut in civitatem veniret, habere alluvionem neque esse limitatum: agrum autem manu captum limitatum fuisse, ut sciretur, quid cuique datum esset, quid venisset, quid in publico relictum esset.
+
+41.1.17
+
+Ulpianus libro primo ad Sabinum
+
+Si duo domini servo communi rem tradiderit, adquirit alteri ab altero.
+
+41.1.18
+
+Ulpianus libro quarto ad Sabinum
+
+Per hereditarium servum quod est eiusdem hereditatis heredi adquiri non potest et maxime ipsa hereditas.
+
+41.1.19
+
+Pomponius libro tertio ad Sabinum
+
+Liber homo, qui bona fide mihi servit, id quod ex operis suis aut ex re mea pararet, ad me pertinere sine dubio aristo ait: quod vero quis ei donaverit aut ex negotio gesto adquisierit, ad ipsum pertinere. Sed hereditatem legatumve non adquiri mihi per eum, quia neque ex re mea neque ex operis suis id sit nec ulla eius opera esset in legato, in hereditate aliquatenus, quia per ipsum adiretur (quod et varium Lucullum aliquando dubitasse), sed verius esse non adquiri, etiamsi testator ad me voluisset pertinere. Sed licet ei minime adquirit, attamen, si voluntas evidens testatoris appareat, restituendam esse ei hereditatem. Sed Trebatius, si liber homo bona fide serviens iussu eius cui serviet hereditatem adisset, heredem ipsum fieri nec interesse quid senserit, sed quid fecerit. Labeo contra, si ex necessitate id fecisset: quod si ita, ut et ipse vellet, ipsum fieri heredem.
+
+41.1.20
+
+Ulpianus libro 29 ad Sabinum
+
+pr. Traditio nihil amplius transferre debet vel potest ad eum qui accipit, quam est apud eum qui tradit. Si igitur quis dominium in fundo habuit, id tradendo transfert, si non habuit, ad eum qui accipit nihil transfert.
+
+1. Quotiens autem dominium transfertur, ad eum qui accipit tale transfertur, quale fuit apud eum qui tradit: si servus fuit fundus, cum servitutibus transit, si liber, uti fuit: et si forte servitutes debebantur fundo qui traditus est, cum iure servitutium debitarum transfertur. Si quis igitur fundum dixerit liberum, cum traderet, eum qui servus sit, nihil iuri servitutis fundi detrahit, verumtamen obligat se debebitque praestare quod dixit.
+
+2. Si ego et Titius rem emerimus eaque Titio et quasi meo procuratori tradita sit, puto mihi quoque quaesitum dominium, quia placet per liberam personam omnium rerum possessionem quaeri posse et per hanc dominium.
+
+41.1.21
+
+Pomponius libro 11 ad Sabinum
+
+pr. Si servus meus tibi bona fide serviret et rem emisset traditaque ei esset, Proculus nec meam fieri, quia servum non possideam, nec tuam, si non ex re tua sit parata. Sed si liber bona fide tibi serviens emerit, ipsius fieri.
+
+1. Si rem meam possideas et eam velim tuam esse, fiet tua, quamvis possessio apud me non fuerit.
+
+41.1.22
+
+Ulpianus libro 40 ad Sabinum
+
+Nemo servum vi possidens aut clam aut precario per hunc stipulantem vel rem accipientem potest adquirere.
+
+41.1.23
+
+Ulpianus libro 43 ad Sabinum
+
+pr. Qui bona fide alicui servit, sive servus alienus est sive homo liber est, quidquid ex re eius cui servit adquirit, ei adquirit, cui bona fide servit. Sed et si quid ex operis suis adquisierit, simili modo ei adquirit: nam et operae quodammodo ex re eius cui servit habentur, quia iure operas ei exhibere debet, cui bona fide servit.
+
+1. Tamdiu autem adquirit, quamdiu bona fide servit: ceterum si coeperit scire esse eum alienum vel liberum, videamus, an ei adquirit. Quaestio in eo est, utrum initium spectamus an singula momenta: et magis est, ut singula momenta spectemus.
+
+2. Generaliter dicendum est, quod ex re sua, hoc est eius cui bona fide quis servit, ei adquirere non potest, sibi eum adquisiturum, quod autem non ex re eius sibi adquirere non potest, ei adquisiturum, cui bona fide servit.
+
+3. Si quis duobus bona fide serviat, utrique adquiret, sed singulis ex re sua. Quod autem ex re alterius est, utrum pro parte ei, cui bona fide servit, pro parte domino, si servus sit, aut, si liber sit, ei cui bona fide servit, an vero ei debeat adquirere totum, ex cuius re est, videamus. Quam speciem Scaevola quoque tractat libro secundo quaestionum: ait enim, si alienus servus duobus bona fide serviat et ex unius eorum re adquirat, rationem facere, ut ei dumtaxat in solidum adquirat. Sed si adiciat eius nomen, ex cuius re stipulatur, nec dubitandum esse ait, quin ei soli adquiratur, quia et si ex re ipsius stipularetur alteri ex dominis, nominatim stipulando solidum ei adquiret. Et in inferioribus probat, ut, quamvis non nominatim nec iussu meo, ex re tamen mea stipulatus sit, cum pluribus bona fide serviret, mihi soli adquirat. Nam et illud receptum est, ut, quotiens communis servus omnibus adquirere non potest, ei soli eum adquirere, cui potest. Et hoc iulianum quoque scribere saepe rettuli eoque iure utimur.
+
+41.1.24
+
+Paulus libro 14 ad Sabinum
+
+In omnibus, quae ad eandem speciem reverti non possunt, dicendum est, si materia manente species dumtaxat forte mutata sit, veluti si meo aere statuam aut argento Scyphum fecisses, me eorum dominum manere,
+
+41.1.25
+
+Callistratus libro secundo institutionum
+
+Nisi voluntate domini alterius nomine id factum sit: propter consensum enim domini tota res eius fit, cuius nomine facta est.
+
+41.1.26
+
+Paulus libro 14 ad Sabinum
+
+pr. Sed si meis tabulis navem fecisses, tuam navem esse, quia cupressus non maneret, sicuti nec lana vestimento facto, sed cupresseum aut laneum corpus fieret. Proculus indicat hoc iure nos uti, quod servio et Labeoni placuisset: in quibus propria qualitas exspectaretur, si quid additum erit toto cedit, ut statuae pes aut manus, Scypho fundus aut ansa, lecto fulcrum, navi tabula, aedificio cementum: tota enim eius sunt, cuius ante fuerant.
+
+1. Arbor radicitus eruta et in alio posita priusquam coaluerit, prioris domini est, ubi coaluit, agro cedit, et si rursus eruta sit non ad priorem dominum revertitur: nam credibile est alio terrae alimento aliam factam.
+
+2. Si meam lanam infeceris, purpuram nihilo minus meam esse Labeo ait, quia nihil interest inter purpuram et eam lanam, quae in lutum aut caenum cecidisset atque ita pristinum colorem perdidisset.
+
+41.1.27
+
+Pomponius libro 30 ad Sabinum
+
+pr. Quidquid infecto argento alieni argenti addideris, non esse tuum totum argentum fatendum est: at contra si tuum Scyphum alieno plumbo plumbaveris alienove argento ferruminaveris, non dubitatur Scyphum tuum esse et a te recte vindicari.
+
+1. Ubi simul plura contribuuntur, ex quibus unum medicamentum fit, aut coctis odoribus unguenta facimus, nihil hic suum vere dicere potest prior dominus: quare potissimum existimari, cuius nomine factum sit, eius esse.
+
+2. Cum partes duorum dominorum ferrumine cohaereant, hae cum quaereretur utri cedant, Cassius ait pro portione rei aestimandum vel pro pretio cuiusque partis. Sed si neutra alteri accessioni est, videamus, ne aut utriusque esse dicenda sit, sicuti massa confusa, aut eius, cuius nomine ferruminata est. Sed Proculus et Pegasus existimant suam cuiusque rem manere.
+
+41.1.28
+
+Pomponius libro 33 ad Sabinum
+
+Si supra tuum parietem vicinus aedificaverit, proprium eius id quod aedificaverit fieri Labeo et Sabinus aiunt: sed Proculus tuum proprium, quemadmodum tuum fieret, quod in solo tuo alius aedificasset: quod verius est.
+
+41.1.29
+
+Paulus libro 16 ad Sabinum
+
+Inter eos, qui secundum unam ripam praedia habent, insula in flumine nata non pro indiviso communis fit, sed regionibus quoque divisis: quantum enim ante cuiusque eorum ripam est, tantum, veluti linea in directum per insulam transducta, quisque eorum in ea habebit certis regionibus.
+
+41.1.30
+
+Pomponius libro 34 ad Sabinum
+
+pr. Ergo si insula nata adcreverit fundo meo et inferiorem partem fundi vendidero, ad cuius frontem insula non respicit, nihil ex ea insula pertinebit ad emptorem eadem ex causa, qua nec ab initio quidem eius fieret, si iam tunc, cum insula nasceretur, eiusdem partis dominus fuisset.
+
+1. Celsus filius, si in ripa fluminis, quae secundum agrum meum sit, arbor nata sit, meam esse ait, quia solum ipsum meum privatum est, usus autem eius publicus intellegitur. Et ideo cum exsiccatus esset alveus, proximorum fit, quia iam populus eo non utitur.
+
+2. Tribus modis insula in flumine fit, uno, cum agrum, qui alvei non fuit, amnis circumfluit, altero, cum locum, qui alvei esset, siccum relinquit et circumfluere coepit, tertio, cum paulatim colluendo locum eminentem supra alveum fecit et eum alluendo auxit. Duobus posterioribus modis privata insula fit eius, cuius ager propior fuerit, cum primum extitit: nam et natura fluminis haec est, ut cursu suo mutato alvei causam mutet. Nec quicquam intersit, utrum de alvei dumtaxat solo mutato an de eo, quod superfusum solo et terrae sit, quaeratur, utrumque enim eiusdem generis est. Primo autem illo modo causa proprietatis non mutatur.
+
+3. Alluvio agrum restituit eum, quem impetus fluminis totum abstulit. Itaque si ager, qui inter viam publicam et flumen fuit, inundatione fluminis occupatus esset, sive paulatim occupatus est sive non paulatim, sed eodem impetu recessu fluminis restitutus, ad pristinum dominum pertinet: flumina enim censitorum vice funguntur, ut ex privato in publicum addicant et ex publico in privatum: itaque sicuti hic fundus, cum alveus fluminis factus esset, fuisset publicus, ita nunc privatus eius esse debet, cuius antea fuit.
+
+4. Si pilas in mare iactaverim et supra eas inaedificaverim, continuo aedificium meum fit. Item si insulam in mari aedificaverim, continuo mea fit, quoniam id, quod nullius sit, occupantis fit.
+
+41.1.31
+
+Paulus libro 31 ad edictum
+
+pr. Numquam nuda traditio transfert dominium, sed ita, si venditio aut aliqua iusta causa praecesserit, propter quam traditio sequeretur.
+
+1. Thensaurus est vetus quaedam depositio pecuniae, cuius non exstat memoria, ut iam dominum non habeat: sic enim fit eius qui invenerit, quod non alterius sit. Alioquin si quis aliquid vel lucri causa vel metus vel custodiae condiderit sub terra, non est Thensaurus: cuius etiam furtum fit.
+
+41.1.32
+
+Gaius libro 11 ad edictum provinciale
+
+Etiam invitis nobis per servos adquiritur paene ex omnibus causis.
+
+41.1.33
+
+Ulpianus libro quarto disputationum
+
+pr. In eo quod servo castrensi ante aditam hereditatem filii familias militis legatur, vel eo, quod stipulatur servus, tractatur apud Marcellum libro vicensimo, ex cuius persona vel stipulatio vires habeat vel legatum. Et puto verius, quod et Scaevolae videtur et ipse Marcellus tractat, si quidem adeatur hereditas, omnia ut in hereditario servo, si adita non sit, ut in proprio patris esse spectanda: et si usus fructus fuerit huic servo relictus, modo patri videri delatum, modo heredi, nec a persona in personam creditur transisse.
+
+1. Eadem distinctione quis utetur etiam, si res fuerit subtracta: aut cessare aut non furti actionem dicet, si ex testamento adierit, quoniam hereditati furtum non fit, aut, si non adierit, patri dabitur furti actio.
+
+2. Nam et condictio, quotiens servus hereditarius stipulatur vel per traditionem accipit, ex persona defuncti vires assumit, ut Iuliano placet: cuius et valuit sententia testantis personam spectandam esse opinantis.
+
+41.1.34
+
+Ulpianus libro quarto de censibus
+
+Hereditas enim non heredis personam, sed defuncti sustinet, ut multis argumentis iuris civilis comprobatum est.
+
+41.1.35
+
+Ulpianus libro septimo disputationum
+
+Si procurator meus vel tutor pupilli rem suam quasi meam vel pupilli alii tradiderint, non recessit ab eis dominium et nulla est alienatio, quia nemo errans rem suam amittit.
+
+41.1.36
+
+Iulianus libro 13 digestorum
+
+Cum in corpus quidem quod traditur consentiamus, in causis vero dissentiamus, non animadverto, cur inefficax sit traditio, veluti si ego credam me ex testamento tibi obligatum esse, ut fundum tradam, tu existimes ex stipulatu tibi eum deberi. Nam et si pecuniam numeratam tibi tradam donandi gratia, tu eam quasi creditam accipias, constat proprietatem ad te transire nec impedimento esse, quod circa causam dandi atque accipiendi dissenserimus.
+
+41.1.37
+
+Iulianus libro 44 digestorum
+
+pr. Per servum, qui pignori datus est, creditori nec possessio adquiritur, quia nec stipulatione nec traditione nec ullo alio modo per eum servum quicquam ei adquiritur, quamvis possessio penes eum sit.
+
+1. Si unus ex dominis servo communi pecuniam donavit, in potestate domini est, quemadmodum servo communi pecuniam donet. Nam si hoc solum egerit, ut ea separetur a suis rationibus et in peculio servi sit, manebit eiusdem domini proprietas: si vero eo modo pecuniam servo communi donaverit, quomodo alienis servis donare solemus, fiet sociorum communis pro portione, quam in servo habebunt.
+
+2. Sed ut sequens quaestio locum habeat, constituamus socium ita servo communi pecuniam donasse, ut proprietatem suam manere vellet. Si ex hac pecunia servus fundum comparaverit, erit is fundus communis sociorum pro portione dominii: nam et si furtivis nummis servus communis fundum comparaverit, sociorum erit pro portione dominii. Neque enim ut fructuarius servus ex re fructuarii non adquirit proprietario, ita et communis servus ex re alterius domini non adquirit alteri domino. Sed quemadmodum in his, quae aliunde adquiruntur, diversa condicio est fructuarii et servi communis, veluti cum alter fructuario non adquirat, alter dominis adquirat: ita quod ex re quidem fructuarii adquisitum fuerit, ad eum solum pertinebit, quod ex re alterius domini servus communis adquisierit, ad utrumque dominum pertinebit.
+
+3. Sicut servus communis stipulando nominatim alteri ex dominis, ita per traditionem accipiendo soli ei adquirit.
+
+4. Quod unius servus per traditionem accipiendo se accipere dixerit domino et titio, partem domino adquiret, in parte nihil agit.
+
+5. Fructuarius servus si dixerit se domino proprietatis per traditionem accipere, ex re fructuarii totum domino adquiret: nam et sic stipulando ex re fructuarii domino proprietatis adquireret.
+
+6. Si, cum mihi donare velles, iusserim te servo communi meo et titii rem tradere isque hac mente acciperet, ut rem titii faceret, nihil agetur: nam et si procuratori meo rem tradideris, ut meam faceres, is hac mente acceperit, ut suam faceret, nihil agetur. Quod si servus communis hac mente acceperit, ut duorum dominorum faceret, in parte alterius domini nihil agetur.
+
+41.1.38
+
+Alfenus Varus libro quarto digestorum a Paulo epitomatorum
+
+Attius fundum habebat secundum viam publicam: ultra viam flumen erat et ager Lucii Titii: fluit flumen paulatim primum omnium agrum, qui inter viam et flumen esset, ambedit et viam sustulit, postea rursus minutatim recessit et alluvione in antiquum locum rediit. Respondit, cum flumen agrum et viam publicam sustulisset, eum agrum eius factum esse, qui trans flumen fundum habuisset: postea cum paulatim retro redisset, ademisse ei, cuius factus esset, et addidisse ei, cuius trans viam esset, quoniam eius fundus proximus flumini esset. Id autem, quod publicum fuisset, nemini accessisset. Nec tamen impedimento viam esse ait, quo minus ager, qui trans viam alluvione relictus est, attii fieret: nam ipsa quoque via fundi esset.
+
+41.1.39
+
+Iulianus libro tertio ex Minicio
+
+Etiam furtivus servus bonae fidei emptori adquirit, quod ex re eius stipulatur aut per traditionem accipit.
+
+41.1.40
+
+Africanus libro septimo quaestionum
+
+Quaesitum est, si is, cui liber homo bona fide serviret, decesserit eique is heres extiterit, qui liberum eum esse sciat, an aliquid per eum adquirat. Non esse ait, ut hic bona fide possessor videatur, quando sciens liberum possidere coeperit, quia et si fundum suum quis legaverit, heres, qui eum legatum esse sciat, Procul dubio fructus ex eo suos non faciet: et multo magis si testator eum alienum bona fide emptum possedit. Et circa servorum igitur operam ac ministerium eandem rationem sequendam, ut, sive proprii sive alieni vel legati vel manumissi testamento fuerint, nihil per eos heredibus, qui modo eorum id non ignorarent, adquiratur. Etenim simul haec fere cedere, ut, quo casu fructus praediorum consumptos suos faciat bona fide possessor, eodem per servum ex opera et ex re ipsius ei adquiratur.
+
+41.1.41
+
+Ulpianus libro nono ad edictum
+
+Statuas in civitate positas civium non esse, idque Trebatius et pegasus: dare tamen operam praetorem oportere, ut, quod ea mente in publico positum est, ne liceret privato auferre nec ei qui posuerit. Tuendi ergo cives erunt et adversus petentem exceptione et actione adversus possidentem iuvandi.
+
+41.1.42
+
+Paulus libro 11 ad edictum
+
+Substitutio, quae nondum competit, extra bona nostra est.
+
+41.1.43
+
+Gaius libro septimo ad edictum provinciale
+
+pr. Servus, qui bona fide possidetur, id quod ex re alterius est possessori non adquirit.
+
+1. Incorporales res traditionem et usucapionem non recipere manifestum est.
+
+2. Cum servus, in quo alterius usus fructus est, hominem emit et ei traditus sit, antequam pretium solvat, in pendenti est, cui proprietatem adquisierit: et cum ex peculio, quod ad fructuarium pertinet, solverit, intellegitur fructuarii homo fuisse: cum vero ex eo peculio, quod proprietarium sequitur, solverit, proprietarii ex post facto fuisse videtur.
+
+41.1.44
+
+Ulpianus libro 19 ad edictum
+
+Pomponius tractat: cum pastori meo lupi porcos eriperent, hos vicinae villae colonus cum robustis canibus et fortibus, quos pecoris sui gratia pascebat, consecutus lupis eripuit aut canes extorserunt: et cum pastor meus peteret porcos, quaerebatur, utrum eius facti sint porci, qui eripuit, an nostri maneant: nam genere quodam venandi id erant nancti. Cogitabat tamen, quemadmodum terra marique capta, cum in suam naturalem laxitatem pervenerant, desinerent eorum esse qui ceperunt, ita ex bonis quoque nostris capta a bestiis marinis et terrestribus desinant nostra esse, cum effugerunt bestiae nostram persecutionem. quis denique manere nostrum dicit, quod avis transvolans ex area aut ex agro nostro transtulit aut quod nobis eripuit? Si igitur desinit, si fuerit ore bestiae liberatum, occupantis erit, quemadmodum piscis vel aper vel avis, qui potestatem nostram evasit, si ab alio capiatur, ipsius fit. Sed putat potius nostrum manere tamdiu, quamdiu reciperari possit: licet in avibus et piscibus et feris verum sit quod scribit. Idem ait, etsi naufragio quid amissum sit, non statim nostrum esse desinere: denique quadruplo teneri eum qui rapuit. Et sane melius est dicere et quod a lupo eripitur, nostrum manere, quamdiu recipi possit id quod ereptum est. Si igitur manet, ego arbitror etiam furti competere actionem: licet enim non animo furandi fuerit colonus persecutus, quamvis et hoc animo potuerit esse, sed et si non hoc animo persecutus sit, tamen cum reposcenti non reddit, supprimere et intercipere videtur. Quare et furti et ad exhibendum teneri eum arbitror et vindicari exhibitos ab eo porcos posse.
+
+41.1.45
+
+Gaius libro septimo ad edictum provinciale
+
+Communis servus si ex re alterius dominorum adquisierit, nihilo minus communi id erit, sed is, ex cuius re adquisitum fuerit, communi dividundo iudicio eam summam praecipere potest: nam fidei bonae convenit, ut unusquisque praecipuum habeat, quod ex re eius servus adquisierit. Sed si aliunde servus communis adquisierit, omnibus sociis pro parte dominii hoc adquiritur.
+
+41.1.46
+
+Ulpianus libro 65 ad edictum
+
+Non est novum, ut qui dominium non habeat, alii dominium praebeat: nam et creditor pignus vendendo causam dominii praestat, quam ipse non habuit.
+
+41.1.47
+
+Paulus libro 50 ad edictum
+
+Fructuario hereditas adquiri non potest, quod in operis servi hereditas non est.
+
+41.1.48
+
+Paulus libro septimo ad Plautium
+
+pr. Bonae fidei emptor non dubie percipiendo fructus etiam ex aliena re suos interim facit non tantum eos, qui diligentia et opera eius pervenerunt, sed omnes, quia quod ad fructus attinet, loco domini paene est. Denique etiam priusquam percipiat, statim ubi a solo separati sunt, bonae fidei emptoris fiunt. Nec interest, ea res, quam bona fide emi, longo tempore capi possit nec ne, veluti si pupilli sit aut vi possessa aut praesidi contra legem repetundarum donata ab eoque abalienata sit bonae fidei emptori.
+
+1. In contrarium quaeritur, si eo tempore, quo mihi res traditur, putem vendentis esse, deinde cognovero alienam esse, quia perseverat per longum tempus capio, an fructus meos faciam. Pomponius verendum, ne non sit bonae fidei possessor, quamvis capiat: hoc enim ad ius, id est capionem, illud ad factum pertinere, ut quis bona aut mala fide possideat: nec contrarium est, quod longum tempus currit, nam e contrario is, qui non potest capere propter rei vitium, fructus suos facit.
+
+2. Et ovium fetus in fructu sunt et ideo ad bonae fidei emptorem pertinent, etiamsi praegnates venierint vel subreptae sint. Et sane quin lac suum faciat, quamvis plenis uberibus venierint, dubitari non potest: idemque in lana iuris est.
+
+41.1.49
+
+Paulus libro nono ad Plautium
+
+Quod fructuarius ex re sua donat, ex re eius est: sed si eo animo id fecerit, ut ad proprietatis dominum pertineat, dicendum est illi adquiri. Si autem extraneus ei donet indistincte, soli proprietario adquiritur. Eadem dicemus in homine libero, qui bona fide mihi servit, ut, si ei aliquid donaverim, meum sit. Et ideo Pomponius scribit, quamvis donaverim ei operas suas, tamen quidquid ex operis suis adquiret, mihi adquiri.
+
+41.1.50
+
+Pomponius libro sexto ex Plautio
+
+Quamvis quod in litore publico vel in mari exstruxerimus, nostrum fiat, tamen decretum praetoris adhibendum est, ut id facere liceat: immo etiam manu prohibendus est, si cum incommodo ceterorum id faciat: nam civilem eum actionem de faciendo nullam habere non dubito.
+
+41.1.51
+
+Celsus libro secundo digestorum
+
+pr. Transfugam iure belli recipimus.
+
+1. Et quae res hostiles apud nos sunt, non publicae, sed occupantium fiunt.
+
+41.1.52
+
+Modestinus libro septimo regularum
+
+Rem in bonis nostris habere intellegimur, quotiens possidentes exceptionem aut amittentes ad reciperandam eam actionem habemus.
+
+41.1.53
+
+Modestinus libro 14 ad Quintum Mucium
+
+Ea quae civiliter adquiruntur per eos, qui in potestate nostra sunt, adquirimus, veluti stipulationem: quod naturaliter adquiritur, sicuti est possessio, per quemlibet volentibus nobis possidere adquirimus.
+
+41.1.54
+
+Modestinus libro 31 ad Quintum Mucium
+
+pr. Homo liber hereditatem nobis adquirere non potest, qui bona fide nobis servit: adquiret, si tamen sponte sua sciens condicionem suam adierit: nam si iussu nostro adierit, neque sibi neque nobis adquiret, si non habuerit animum sibi adquirendi: quod si eam mentem habuit, sibi adquirit.
+
+1. Item promittendo nobis liber homo, qui bona fide nobis servit, ut et emendo vel vendendo, vel locando vel conducendo, obligari ipso iure poterit.
+
+2. Sed damnum dando damni iniuriae tenebitur, ut tamen culpam in damno dando exigere debeamus graviorem nec tamen levem quam ab extraneo.
+
+3. At si iussu nostro quid in re nostra gerant vel absentibus nobis quasi procuratores aliquid agant, danda erit in eos actio.
+
+3a. Non solum si eos emerimus, sed etiam si donati fuerint nobis aut ex dotis nomine aut ex legati pertinere ad nos coeperunt aut ex hereditate, idem praestabunt: nec solum si nostros putaverimus, sed et si communes aut fructuarios, ut tamen, quod adquisituri non essent, si re vera communes aut usuarii essent, id hodieque non adquirant.
+
+4. Quidquid tamen liber homo vel alienus quive bona fide nobis servit non adquirit nobis, id vel sibi liber vel alienus servus domino suo adquiret: excepto eo quod vix est, ut liber homo possidendo usucapere possit, quia nec possidere intellegitur, qui ipse possideretur. Sed nec per servum alienum, quem nos bona fide possidemus, dominus peculiari nomine ignorans usucapere poterit, sicuti ne per fugitivum quidem, quem non possidet.
+
+41.1.55
+
+Proculus libro secundo epistularum
+
+In laqueum, quem venandi causa posueras, Aper incidit: cum eo haereret, exemptum eum abstuli: num tibi videor tuum aprum abstulisse? Et si tuum putas fuisse, si solutum eum in silvam dimisissem, eo casu tuus esse desisset an maneret? Et quam actionem mecum haberes, si desisset tuus esse, num in factum dari oportet, quaero. respondit: laqueum videamus ne intersit in publico an in privato posuerim et, si in privato posui, utrum in meo an in alieno, et, si in alieno, utrum permissu eius cuius fundus erat an non permissu eius posuerim: praeterea utrum in eo ita haeserit aper, ut expedire se non possit ipse, an diutius luctando expediturus se fuerit. Summam tamen hanc puto esse, ut, si in meam potestatem pervenit, meus factus sit. Sin autem Aprum meum ferum in suam naturalem laxitatem dimisisses et eo facto meus esse desisset, actionem mihi in factum dari oportere, veluti responsum est, cum quidam poculum alterius ex nave eiecisset.
+
+41.1.56
+
+Proculus libro octavo epistularum
+
+pr. Insula est enata in flumine contra frontem agri mei, ita ut nihil excederet longitudo regionem praedii mei: postea aucta est paulatim et processit contra frontes et superioris vicini et inferioris: quaero, quod adcrevit utrum meum sit, quoniam meo adiunctum est, an eius iuris sit, cuius esset, si initio ea nata eius longitudinis fuisset. Proculus respondit: flumen istud, in quo insulam contra frontem agri tui enatam esse scripsisti ita, ut non excederet longitudinem agri tui, si alluvionis ius habet et insula initio propior fundo tuo fuit quam eius, qui trans flumen habebat, tota tua facta est, et quod postea ei insulae alluvione accessit, id tuum est, etiamsi ita accessit, ut procederet insula contra frontes vicinorum superioris atque inferioris, vel etiam ut propior esset fundo eius, qui trans flumen habet.
+
+1. Item quaero, si, cum propior ripae meae enata est insula et postea totum flumen fluere inter me et insulam coepit relicto suo alveo, quo maior amnis fluerat, numquid dubites, quin etiam insula mea maneat et nihilo minus eius soli, quod flumen reliquit, pars fiat mea? Rogo, quid sentias scribas mihi. Proculus respondit: si, cum propior fundo tuo initio fuisset insula, flumen relicto alveo maiore, qui inter eam insulam fuerat et eum fundum vicini, qui trans flumen erat, fluere coepit inter eam insulam et fundum tuum, nihilo minus insula tua manet. Set alveus, qui fuit inter eam insulam et fundum vicini, medius dividi debet, ita ut pars propior insulae tuae tua, pars autem propior agro vicini eius esse intellegatur. Intellego, ut et cum ex altera parte insulae alveus fluminis exaruerit, desisse insulam esse, sed quo facilius res intellegeretur, agrum, qui insula fuerat, insulam appellant.
+
+41.1.57
+
+Paulus libro sexto ad Plautium
+
+Per servum donatum a marito nec ex re quidem eius, cui donatus est, adquiri quicquam posse Iulianus scribit: hoc enim in eorum persona concessum est, qui bona fide serviunt.
+
+41.1.58
+
+Iavolenus libro 11 ex Cassio
+
+Quaecumque res ex mari extracta est, non ante eius incipit esse qui extraxit, quam dominus eam pro derelicto habere coepit.
+
+41.1.59
+
+Callistratus libro secundo quaestionum
+
+Res ex mandatu meo empta non prius mea fiet, quam si mihi tradiderit qui emit.
+
+41.1.60
+
+Scaevola libro primo responsorum
+
+Titius horreum frumentarium novum ex tabulis ligneis factum mobile in Seii praedio posuit: quaeritur, uter horrei dominus sit. Respondit secundum quae proponerentur non esse factum seii.
+
+41.1.61
+
+Hermogenianus libro sexto iuris epitomarum
+
+pr. Hereditas in multis partibus iuris pro domino habetur adeoque hereditati quoque ut domino per servum hereditarium adquiritur. In his sane, in quibus factum personae operaeve substantia desideratur, nihil hereditati quaeri per servum potest. Ac propterea quamvis servus hereditarius heres institui possit, tamen quia adire iubentis domini persona desideratur, heres exspectandus est.
+
+1. Usus fructus, qui sine persona constitui non potest, hereditati per servum non adquiritur.
+
+41.1.62
+
+Paulus libro secundo manualium
+
+Quaedam, quae non possunt sola alienari, per universitatem transeunt, ut fundus dotalis, ad heredem, et res, cuius aliquis commercium non habet: nam etsi legari ei non possit, tamen heres institutus dominus eius efficitur.
+
+41.1.63
+
+Tryphoninus libro septimo disputationum
+
+pr. Si is qui in aliena potestate est Thensaurum invenerit, in persona eius cui adquirit hoc erit dicendum, ut, si in alieno agro invenerit, partem ei adquirat, si vero in parentis dominive loco invenerit, illius totus sit, si autem in alieno, pars.
+
+1. Si communis servus in alieno invenerit, utrum pro dominii partibus an semper aequis adquiret? Et simile est atque in hereditate vel legato vel quod ab aliis donatum servo traditur, quia et Thensaurus donum fortunae creditur, scilicet ut pars, quae inventori cedit, ad socios, pro qua parte servi quisque dominus est, pertineat.
+
+2. Si communis servus in domini unius fundo proprio invenit, de parte, quae soli domino semper cedit, non est dubium, quin solius domini praedii sit: verum an aliquid ex parte ferat alter socius, videndum est, et numquid simile sit, atque cum stipulatur servus iussu unius domini aut per traditionem aliquid accipit vel nominatim alteri: quod magis dici poterit.
+
+3. Quod si servus, in quo usus fructus alienus est, invenerit in eius locum, qui servum proprium habet, an totum illius sit? Et si in alieno, an partem eidem adquirat an vero fructuario? Inspectio in illo est, num ex operis servi adquiratur. Finge terram fodientem invenisse, ut hoc dicatur fructuarii esse: quod vero subito in abdito loco positum nihil agens, sed aliter ambulans invenit, proprietatis domini sit. Ego nec illius ad fructuarium pertinere partem arbitror: nemo enim servorum opera Thensaurum quaerit nec ea propter tunc terram fodiebat, sed alii rei operam insumebat et fortuna aliud dedit. Itaque si in ipsius fructuarii agro invenerit, puto partem solam ut agri dominum habiturum, alteram ad eum, cuius in servo proprietas est, pertinere.
+
+4. Quod si creditor invenerit, in alieno videbitur invenisse: partem itaque sibi, partem debitori praestabit, nec recepta pecunia restituet, quod iure inventoris, non creditoris ex Thensauro apud eum remansit. Quae cum ita sint, et cum ex principis auctoritate creditor ut proprium agrum tenere coepit iure dominii, intra constitutum luendi tempus pignoris causa vertitur: post transactum autem tempus Thensaurum in eo inventum ante solutam pecuniam totum tenebit. Oblato vero intra constitutum tempus debito, quoniam universa praestantur atque in simplici petitore revocantur, restitui debebit, sed pro parte sola, quia dimidium inventori semper placet relinqui.
+
+41.1.64
+
+Quintus Mucius Scaevola libro singulari "horwn"
+
+Quae quisque aliena in censum deducit, nihilo magis eius fiunt.
+
+41.1.65
+
+Labeo libro sexto pithanon a Paulo epitomarum
+
+pr. Si epistulam tibi misero, non erit ea tua, antequam tibi reddita fuerit. paulus: immo contra: nam si miseris ad me tabellarium tuum et ego rescribendi causa litteras tibi misero, simul atque tabellario tuo tradidero, tuae fient. Idem accidet in his litteris, quas tuae dumtaxat rei gratia misero, veluti si petieris a me, uti te alicui commendarem, et eas commendaticias tibi misero litteras.
+
+1. Si qua insula in flumine propria tua est, nihil in ea publici est. paulus: immo in eo genere insularum ripae flumini et litora mari proxima publica sunt, non secus atque in continenti agro idem iuris est.
+
+2. Si qua insula in flumine publico proxima tuo fundo nata est, ea tua est. paulus: videamus ne hoc falsum sit de ea insula, quae non ipsi alveo fluminis cohaeret, sed virgultis aut alia qualibet levi materia ita sustinetur in flumine, ut solum eius non tangat, atque ipsa movetur: haec enim propemodum publica atque ipsius fluminis est insula.
+
+3. Paulus: si insula in flumine nata tua fuerit, deinde inter eam insulam et contrariam ripam alia insula nata fuerit, mensura eo nomine erit instruenda a tua insula, non ab agro tuo, propter quem ea insula tua facta fuerit: nam quid interest, qualis ager sit, cuius propter propinquitatem posterior insula cuius sit quaeratur?
+
+4. Labeo libro eodem. Si id quod in publico innatum aut aedificatum est, publicum est, insula quoque, quae in flumine publico nata est, publica esse debet.
+
+41.1.66
+
+Venonius libro sexto interdictorum
+
+Cum praegnas mulier legata aut usucapta aliove quo modo alienata pariat, eius fient partus, cuius est ea, cum eniteretur, non cuius tunc fuisset, cum conciperet.
+
+
+* 41.2.0. De adquirenda vel amittenda possessione.
+
+
+41.2.1
+
+Paulus libro 54 ad edictum
+
+pr. Possessio appellata est, ut et Labeo ait, a sedibus quasi positio, quia naturaliter tenetur ab eo qui ei insistit, quam Graeci katoxyn dicunt.
+
+1. Dominiumque rerum ex naturali possessione coepisse nerva filius ait eiusque rei vestigium remanere in his, quae terra mari caeloque capiuntur: nam haec protinus eorum fiunt, qui primi possessionem eorum adprehenderint. Item bello capta et insula in mari enata et gemmae lapilli margaritae in litoribus inventae eius fiunt, qui primus eorum possessionem nanctus est.
+
+2. Apiscimur autem possessionem per nosmet ipsos.
+
+3. Furiosus, et pupillus sine tutoris auctoritate, non potest incipere possidere, quia affectionem tenendi non habent, licet maxime corpore suo rem contingant, sicuti si quis dormienti aliquid in manu ponat. Sed pupillus tutore auctore incipiet possidere. Ofilius quidem et Nerva filius etiam sine tutoris auctoritate possidere incipere posse pupillum aiunt: eam enim rem facti, non iuris esse: quae sententia recipi potest, si eius aetatis sint, ut intellectum capiant.
+
+4. Si vir uxori cedat possessione donationis causa, plerique putant possidere eam, quoniam res facti infirmari iure civili non potest: et quid attinet dicere non possidere mulierem, cum maritus, ubi noluit possidere, protinus amiserit possessionem?
+
+5. Item adquirimus possessionem per servum aut filium, qui in potestate est, et quidem earum rerum, quas peculiariter tenent, etiam ignorantes, sicut Sabino et Cassio et Iuliano placuit, quia nostra voluntate intellegantur possidere, qui eis peculium habere permiserimus. Igitur ex causa peculiari et infans et furiosus adquirunt possessionem et usucapiunt, et heres, si hereditarius servus emat.
+
+6. Sed et per eum, quem bona fide possidemus, quamvis alienus sit vel liber, possessionem adquiremus. Si mala fide eum possideamus, non puto adquiri nobis possessionem per eum: sed nec vero domino aut sibi adquiret, qui ab alio possidetur.
+
+7. Per communem sicut per proprium adquirimus, etiam singuli in solidum, si hoc agat servus, ut uni adquirat, sicut in dominio adquirendo.
+
+8. Per eum, in quo usum fructum habemus, possidere possumus, sicut ex operis suis adquirere nobis solet: nec ad rem pertinet, quod ipsum non possidemus: nam nec filium.
+
+9. Ceterum et ille, per quem volumus possidere, talis esse debet, ut habeat intellectum possidendi:
+
+10. Et ideo si furiosum servum miseris, ut possideas, nequaquam videris adprehendisse possessionem.
+
+11. Quod si impuberem miseris ad possidendum, incipies possidere, sicut pupillus, maxime tutore auctore, adquirit possessionem.
+
+12. Nam per ancillam quin possis nancisci possessionem, non dubitatur.
+
+13. Pupillus per servum sive puberem sive impuberem adquirit possessionem, si tutore auctore iusserit eum ire in possessionem.
+
+14. Per servum, qui in fuga sit, nihil posse nos possidere nerva filius ait, licet respondeatur, quamdiu ab alio non possideatur, a nobis eum possideri ideoque interim etiam usucapi. Sed utilitatis causa receptum est, ut impleatur usucapio, quamdiu nemo nactus sit eius possessionem. Possessionem autem per eum adquiri, sicut per eos, quos in provincia habemus, Cassii et Iuliani sententia est.
+
+15. Per servum corporaliter pignori datum non adquirere nos possessionem Iulianus ait (ad unam enim tantum causam videri eum a debitore possideri, ad usucapionem), nec creditori, quia nec stipulatione nec ullo alio modo per eum adquirat, quamvis eum possideat.
+
+16. Veteres putaverunt non posse nos per servum hereditarium adquirere, quod sit eiusdem hereditatis. Itaque agitatur, num haec regula longius producenda sit, ut, si plures servi legati sint, per unum an possint ceteri possideri. Idem tractatus est, si pariter empti vel donati sunt. Sed verius est ex his causis posse me per unum reliquorum adquirere possessionem.
+
+17. Si ex parte heredi instituto servus legatus sit, propter partem, quam ex causa legati habet, adquiret fundi hereditarii possessionem.
+
+18. Idem dicendum est, si servum communem iussero adire hereditatem, quia propter partem meam adquiro.
+
+19. Haec, quae de servis diximus, ita se habent, si et ipsi velint nobis adquirere possessionem: nam si iubeas servum tuum possidere et is eo animo intret in possessionem, ut nolit tibi, sed potius titio adquirere, non est tibi adquisita possessio.
+
+20. Per procuratorem tutorem curatoremve possessio nobis adquiritur. Cum autem suo nomine nacti fuerint possessionem, non cum ea mente, ut operam dumtaxat suam accommodarent, nobis non possunt adquirere. Alioquin si dicamus per eos non adquiri nobis possessionem, qui nostro nomine accipiunt, futurum, ut neque is possideat cui res tradita sit, quia non habeat animum possidentis, neque is qui tradiderit, quoniam cesserit possessione.
+
+21. Si iusserim venditorem procuratori rem tradere, cum ea in praesentia sit, videri mihi traditam priscus ait, idemque esse, si nummos debitorem iusserim alii dare. Non est enim corpore et tactu necesse adprehendere possessionem, sed etiam oculis et affectu argumento esse eas res, quae propter magnitudinem ponderis moveri non possunt, ut columnas, nam pro traditis eas haberi, si in re praesenti consenserint: et vina tradita videri, cum claves cellae vinariae emptori traditae fuerint.
+
+22. Municipes per se nihil possidere possunt, quia universi consentire non possunt. Forum autem et basilicam hisque similia non possident, sed promiscue his utuntur. Sed Nerva filius ait, per servum quae peculiariter adquisierint et possidere et usucapere posse: sed quidam contra putant, quoniam ipsos servos non possideant.
+
+41.2.2
+
+Ulpianus libro 70 ad edictum
+
+Sed hoc iure utimur, ut et possidere et usucapere municipes possint idque eis per servum et per liberam personam adquiratur.
+
+41.2.3
+
+Paulus libro 54 ad edictum
+
+pr. Possideri autem possunt, quae sunt corporalia.
+
+1. Et apiscimur possessionem corpore et animo, neque per se animo aut per se corpore. Quod autem diximus et corpore et animo adquirere nos debere possessionem, non utique ita accipiendum est, ut qui fundum possidere velit, omnes glebas circumambulet: sed sufficit quamlibet partem eius fundi introire, dum mente et cogitatione hac sit, uti totum fundum usque ad terminum velit possidere.
+
+2. Incertam partem rei possidere nemo potest, veluti si hac mente sis, ut quidquid titius possidet, tu quoque velis possidere.
+
+3. Neratius et Proculus et solo animo non posse nos adquirere possessionem, si non antecedat naturalis possessio. Ideoque si Thensaurum in fundo meo positum sciam, continuo me possidere, simul atque possidendi affectum habuero, quia quod desit naturali possessioni, id animus implet. Ceterum quod Brutus et Manilius putant eum, qui fundum longa possessione cepit, etiam Thensaurum cepisse, quamvis nesciat in fundo esse, non est verum: is enim qui nescit non possidet Thensaurum, quamvis fundum possideat. Sed et si sciat, non capiet longa possessione, quia scit alienum esse. Quidam putant Sabini sententiam veriorem esse nec alias eum qui scit possidere, nisi si loco motus sit, quia non sit sub custodia nostra: quibus consentio.
+
+4. Ex plurimis causis possidere eandem rem possumus, ut quidam putant et eum, qui usuceperit et pro emptore, et pro suo possidere: sic enim et si ei, qui pro emptore possidebat, heres sim, eandem rem et pro emptore et pro herede possideo: nec enim sicut dominium non potest nisi ex una causa contingere, ita et possidere ex una dumtaxat causa possumus.
+
+5. Ex contrario plures eandem rem in solidum possidere non possunt: contra naturam quippe est, ut, cum ego aliquid teneam, tu quoque id tenere videaris. Sabinus tamen scribit eum qui precario dederit et ipsum possidere et eum qui precario acceperit. Idem Trebatius probabat existimans posse alium iuste, alium iniuste possidere, duos iniuste vel duos iuste non posse. Quem Labeo reprehendit, quoniam in summa possessionis non multum interest, iuste quis an iniuste possideat: quod est verius. Non magis enim eadem possessio apud duos esse potest, quam ut tu stare videaris in eo loco, in quo ego sto, vel in quo ego sedeo, tu sedere videaris.
+
+6. In amittenda quoque possessione affectio eius qui possidet intuenda est: itaque si in fundo sis et tamen nolis eum possidere, protinus amittes possessionem. Igitur amitti et animo solo potest, quamvis adquiri non potest.
+
+7. Sed et si animo solo possideas, licet alius in fundo sit, adhuc tamen possides.
+
+8. Si quis nuntiet domum a latronibus occupatam et dominus timore conterritus noluerit accedere, amisisse eum possessionem placet. Quod si servus vel colonus, per quos corpore possidebam, decesserint discesserintve, animo retinebo possessionem.
+
+9. Et si alii tradiderim, amitto possessionem. Nam constat possidere nos, donec aut nostra voluntate discesserimus aut vi deiecti fuerimus.
+
+10. Si servus, quem possidebam, pro libero se gerat, ut fecit Spartacus, et iudicium liberale pati paratus sit, non videbitur a domino possideri, cui se adversarium praeparat. Sed hoc ita verum est, si diu in libertate moratur: alioquin si ex possessione servitutis in libertatem reclamaverit et liberale iudicium imploraverit, nihilo minus in possessione mea est et animo eum possideo, donec liber fuerit pronuntiatus.
+
+11. Saltus hibernos aestivosque animo possidemus, quamvis certis temporibus eos relinquamus.
+
+12. Ceterum animo nostro, corpore etiam alieno possidemus, sicut diximus per colonum et servum, nec movere nos debet, quod quasdam etiam ignorantes possidemus, id est quas servi peculiariter paraverunt: nam videmur eas eorundem et animo et corpore possidere.
+
+13. Nerva filius res mobiles excepto homine, quatenus sub custodia nostra sint, hactenus possideri, id est quatenus, si velimus, naturalem possessionem nancisci possimus. Nam pecus simul atque aberraverit aut vas ita exciderit, ut non inveniatur, protinus desinere a nobis possideri, licet a nullo possideatur: dissimiliter atque si sub custodia mea sit nec inveniatur, quia praesentia eius sit et tantum cessat interim diligens inquisitio.
+
+14. Item feras bestias, quas vivariis incluserimus, et pisces, quos in piscinas coiecerimus, a nobis possideri. Sed eos pisces, qui in stagno sint, aut feras, quae in silvis circumseptis vagantur, a nobis non possideri, quoniam relictae sint in libertate naturali: alioquin etiam si quis silvam emerit, videri eum omnes feras possidere, quod falsum est.
+
+15. Aves autem possidemus, quas inclusas habemus, aut si quae mansuetae factae custodiae nostrae subiectae sunt.
+
+16. Quidam recte putant columbas quoque, quae ab aedificiis nostris volant, item apes, quae ex alveis nostris evolant et secundum consuetudinem redeunt, a nobis possideri.
+
+17. Labeo et Nerva filius responderunt desinere me possidere eum locum, quem flumen aut mare occupaverit.
+
+18. Si rem apud te depositam furti faciendi causa contrectaveris, desino possidere. Sed si eam loco non moveris et infitiandi animum habeas, plerique veterum et Sabinus et Cassius recte responderunt possessorem me manere, quia furtum sine contrectatione fieri non potest nec animo furtum admittatur.
+
+19. Illud quoque a veteribus praeceptum est neminem sibi ipsum causam possessionis mutare posse.
+
+20. Sed si is, qui apud me deposuit vel commodavit, eam rem vendiderit mihi vel donaverit, non videbor causam possessionis mihi mutare, qui ne possidebam quidem.
+
+21. Genera possessionum tot sunt, quot et causae adquirendi eius quod nostrum non sit, velut pro emptore: pro donato: pro legato: pro dote: pro herede: pro noxae dedito: pro suo, sicut in his, quae terra marique vel ex hostibus capimus vel quae ipsi, ut in rerum natura essent, fecimus. Et in summa magis unum genus est possidendi, species infinitae.
+
+22. Vel etiam potest dividi possessionis genus in duas species,ut possideatur aut bona fide aut non bona fide.
+
+23. Quod autem Quintus Mucius inter genera possessionum posuit, si quando iussu magistratus rei servandae causa possidemus, ineptissimum est: nam qui creditorem rei servandae causa vel quia damni infecti non caveatur, mittit in possessionem vel ventris nomine, non possessionem, sed custodiam rerum et observationem concedit: et ideo, cum damni infecti non cavente vicino in possessionem missi sumus, si id longo tempore fiat, etiam possidere nobis et per longam possessionem capere praetor causa cognita permittit.
+
+41.2.4
+
+Ulpianus libro 67 ad edictum
+
+Quidquid filius peculiari nomine adprehenderit, id statim pater eius
+possidet, quamvis ignoret in sua potestate filium. Amplius etiam si
+filius ab alio tamquam servus possideatur, idem erit probandum.
+
+41.2.5
+
+Paulus libro 63 ad edictum
+
+Si ex stipulatione tibi Stichum debeam et non tradam eum, tu autem nanctus fueris possessionem, praedo es: aeque si vendidero nec tradidero rem, si non voluntate mea nanctus sis possessionem, non pro emptore possides, sed praedo es.
+
+41.2.6
+
+Ulpianus libro 70 ad edictum
+
+pr. Clam possidere eum dicimus, qui furtive ingressus est possessionem ignorante eo, quem sibi controversiam facturum suspicabatur et, ne faceret, timebat. Is autem qui, cum possideret non clam, se celavit, in ea causa est, ut non videatur clam possidere: non enim ratio optinendae possessionis, sed origo nanciscendae exquirenda est: nec quemquam clam possidere incipere, qui sciente aut volente eo, ad quem ea res pertinet, aut aliqua ratione bonae fidei possessionem nanciscitur. Itaque, inquit Pomponius, clam nanciscitur possessionem, qui futuram controversiam metuens ignorante eo, quem metuit, furtive in possessionem ingreditur.
+
+1. Qui ad nundinas profectus neminem reliquerit et, dum ille a nundinis redit, aliquis occupaverit possessionem, videri eum clam possidere Labeo scribit: retinet ergo possessionem is, qui ad nundinas abiit <abit>: verum si revertentem dominum non admiserit, vi magis intellegi possidere, non clam.
+
+41.2.7
+
+Paulus libro 54 ad edictum
+
+Sed et si nolit in fundum reverti, quod vim maiorem vereatur, amisisse possessionem videbitur: et ita Neratius quoque scribit.
+
+41.2.8
+
+Paulus libro 65 ad edictum
+
+Quemadmodum nulla possessio adquiri nisi animo et corpore potest, ita nulla amittitur, nisi in qua utrumque in contrarium actum est.
+
+41.2.9
+
+Gaius libro 25 ad edictum provinciale
+
+Generaliter quisquis omnino nostro nomine sit in possessione, veluti procurator hospes amicus, nos possidere videmur.
+
+41.2.10
+
+Ulpianus libro 69 ad edictum
+
+pr. Si quis ante conduxit, postea precario rogavit, videbitur discessisse a conductione: quod si ante rogavit, postea conduxit, conduxisse videbitur. Potius enim hoc procedere videtur, quod novissime factum est: et hoc Pomponius ait.
+
+1. Idem Pomponius bellissime temptat dicere, numquid qui conduxerit quidem praedium, precario autem rogavit non ut possideret, sed ut in possessione esset (est autem longe diversum: aliud est enim possidere, longe aliud in possessione esse: denique rei servandae causa, legatorum, damni infecti non possident, sed sunt in possessione custodiae causa): quod si factum est, utrumque procedit.
+
+2. Si quis et conduxerit et rogaverit precario, uti possideret, si quidem nummo uno conduxit, nulla dubitatio est, quin ei precarium solum teneat, quia conductio nulla est, quae est in uno nummo: sin vero pretio, tunc distinguendum, quid prius factum est.
+
+41.2.11
+
+Paulus libro 65 ad edictum
+
+Iuste possidet, qui auctore praetore possidet.
+
+41.2.12
+
+Ulpianus libro 70 ad edictum
+
+pr. Naturaliter videtur possidere is qui usum fructum habet.
+
+1. Nihil commune habet proprietas cum possessione: et ideo non denegatur ei interdictum uti possidetis, qui coepit rem vindicare: non enim videtur possessioni renuntiasse, qui rem vindicavit.
+
+41.2.13
+
+Ulpianus libro 72 ad edictum
+
+pr. Pomponius refert, cum lapides in Tiberim demersi essent naufragio et post tempus extracti, an dominium in integro fuit per id tempus, quo erant mersi. Ego dominium me retinere puto, possessionem non puto, nec est simile fugitivo: namque fugitivus idcirco a nobis possideri videtur, ne ipse nos privet possessione: at in lapidibus diversum est.
+
+1. Cum quis utitur adminiculo ex persona auctoris, uti debet cum sua causa suisque vitiis: denique addimus in accessione de vi et clam et precario venditoris.
+
+2. Praeterea quaeritur, si quis hominem venditori redhibuerit, an accessione uti possit ex persona eius. Et sunt qui putent non posse, quia venditionis est resolutio redhibitio: alii emptorem venditoris accessione usurum et venditorem emptoris, quod magis probandum puto.
+
+3. Si liber homo vel alienus servus, cum bona fide servirent, comparaverint et alii adquisierint possessionem, neque liberum neque servi dominum debere uti accessione.
+
+4. Quaesitum est, si heres prius non possederat, an testatoris possessio ei accedat. Et quidem in emptoribus possessio interrumpitur, sed non idem in heredibus plerique probant, quoniam plenius est ius successionis quam emptionis: sed suptilius est quod in emptorem, et in heredem id quoque probari.
+
+5. Non autem ea tantum possessio testatoris heredi procedit, quae morti fuit iniuncta, verum ea quoque, quae umquam testatoris fuerit.
+
+6. In dote quoque si data res fuerit vel ex dote recepta, accessio dabitur vel marito vel uxori.
+
+7. Si is, qui precario concessit, accessione velit uti ex persona eius cui concessit, an possit, quaeritur. Ego puto eum, qui precario concessit, quamdiu manet precarium, accessione uti non posse: si tamen receperit possessionem rupto precario, dicendum esse accedere possessionem eius temporis, quo precario possidebatur.
+
+8. Ex facto quaeritur, si quis manumissus ex causa peculiari habeat rem non concesso sibi peculio, deinde dominus velit retracta possessione accessione uti, an possit. Et placuit non esse dandam hanc accessionem, quae clam habita est.
+
+9. Praedone possidente si iussu iudicis res mihi restituta sit, accessionem esse mihi dandam placuit.
+
+10. Sed et legatario dandam accessionem eius temporis, quo fuit apud testatorem, sciendum est. An heredis possessio ei accedat, videamus: et puto, sive pure sive sub condicione fuerit relictum, dicendum esse id temporis, quo heres possedit ante existentem condicionem vel restitutionem rei, legatario proficere. Testatoris autem semper proderit legatario, si legatum vere fuit vel fideicommissum.
+
+11. Sed et is, cui res donata est, accessione utetur ex persona eius qui donavit.
+
+12. Accessiones in eorum persona locum habent, qui habent propriam possessionem: ceterum accessio nemini proficit, nisi ei qui ipse possedit.
+
+13. Praeterea ne vitiosae quidem possessioni ulla potest accedere: sed nec vitiosa ei, quae vitiosa non est.
+
+41.2.14
+
+Paulus libro 68 ad edictum
+
+pr. Si servus vel filius familias vendiderit, dabitur accessio eius, quod penes me fuit, scilicet si volente me aut de peculio, cuius liberam peculii administrationem habuerunt, vendiderunt.
+
+1. Tutore quoque vel curatore vendente dabitur accessio eius temporis, quo pupillus vel furiosus possedit.
+
+41.2.15
+
+Gaius libro 26 ad edictum provinciale
+
+Rem, quae nobis subrepta est, perinde intellegimur desinere possidere atque eam, quae vi nobis erepta est. Sed si is, qui in potestate nostra est, subripuerit, quamdiu apud ipsum sit res, tamdiu non amittimus possessionem, quia per huiusmodi personas adquiritur nobis possessio. Et haec ratio est, quare videamur fugitivum possidere, quod is, quemadmodum aliarum rerum possessionem intervertere non potest, ita ne suam quidem potest.
+
+41.2.16
+
+Ulpianus libro 73 ad edictum
+
+Quod uxor viro aut vir uxori donavit, pro possessore possidetur.
+
+41.2.17
+
+Ulpianus libro 76 ad edictum
+
+pr. Si quis vi de possessione deiectus sit, perinde haberi debet ac si possideret, cum interdicto de vi reciperandae possessionis facultatem habeat.
+
+1. Differentia inter dominium et possessionem haec est, quod dominium nihilo minus eius manet, qui dominus esse non vult, possessio autem recedit, ut quisque constituit nolle possidere. Si quis igitur ea mente possessionem tradidit, ut postea ei restituatur, desinit possidere.
+
+41.2.18
+
+Celsus libro 23 digestorum
+
+pr. Quod meo nomine possideo, possum alieno nomine possidere: nec enim muto mihi causam possessionis, sed desino possidere et alium possessorem ministerio meo facio. Nec idem est possidere et alieno nomine possidere: nam possidet, cuius nomine possidetur, procurator alienae possessioni praestat ministerium.
+
+1. Si furioso, quem suae mentis esse existimas, eo quod forte in conspectu inumbratae quietis fuit constitutus, rem tradideris, licet ille non erit adeptus possessionem, tu possidere desinis: sufficit quippe dimittere possessionem, etiamsi non transferas. Illud enim ridiculum est dicere, quod non aliter vult quis dimittere, quam si transferat: immo vult dimittere, quia existimat se transferre.
+
+2. Si venditorem quod emerim deponere in mea domo iusserim, possidere me certum est, quamquam id nemo dum attigerit: aut si vicinum mihi fundum mercato venditor in mea turre demonstret vacuamque se possessionem tradere dicat, non minus possidere coepi, quam si pedem finibus intulissem.
+
+3. Si, dum in alia parte fundi sum, alius quis clam animo possessoris intraverit, non desisse ilico possidere existimandus sum, facile expulsurus finibus, simul sciero.
+
+4. Rursus si cum magna vi ingressus est exercitus, eam tantummodo partem quam intraverit optinet.
+
+41.2.19
+
+Marcellus libro 17 digestorum
+
+pr. Qui bona fide alienum fundum emit, eundem a domino conduxit: quaero, utrum desinat possidere an non. Respondi: in promptu est, ut possidere desierit.
+
+1. Quod scriptum est apud veteres neminem sibi causam possessionis posse mutare, credibile est de eo cogitatum, qui et corpore et animo possessioni incumbens hoc solum statuit, ut alia ex causa id possideret, non si quis dimissa possessione prima eiusdem rei denuo ex alia causa possessionem nancisci velit.
+
+41.2.20
+
+Marcellus libro 19 digestorum
+
+Si quis rem, quam utendam dederat, vendiderit emptorique tradi iusserit nec ille tradiderit, alias videbitur possessione dominum intervertisse, alias contra. Nam nec tunc quidem semper dominus amittit possessionem, cum reposcenti ei commodatum non redditur: quid enim si alia quaepiam fuit iusta et rationabilis causa non reddendi, non utique ut possessionem eius interverteret?
+
+41.2.21
+
+Iavolenus libro septimo ex Cassio
+
+pr. Interdum eius possessionem, cuius ipsi non habemus, alii tradere possumus, veluti cum is, qui pro herede rem possidebat, antequam dominus fieret, precario ab herede eam rogavit.
+
+1. Quod ex naufragio expulsum est, usucapi non potest, quoniam non est in derelicto, sed in deperdito.
+
+2. Idem iuris esse existimo in his rebus, quae iactae sunt: quoniam non potest videri id pro derelicto habitum, quod salutis causa interim dimissum est.
+
+3. Qui alienam rem precario rogavit, si eandem a domino conduxit, possessio ad dominum revertitur.
+
+41.2.22
+
+Iavolenus libro 13 ex Cassio
+
+Non videtur possessionem adeptus is qui ita nactus est, ut eam retinere non possit.
+
+41.2.23
+
+Iavolenus libro primo epistularum
+
+pr. Cum heredes institui sumus, adita hereditate omnia quidem iura ad nos transeunt, possessio tamen nisi naturaliter comprehensa ad nos non pertinet.
+
+1. In his, qui in hostium potestatem pervenerunt, in retinendo iura rerum suarum singulare ius est: corporaliter tamen possessionem amittunt: neque enim possunt videri aliquid possidere, cum ipsi ab alio possideantur: sequitur ergo, ut reversis his nova possessione opus sit, etiamsi nemo medio tempore res eorum possederit.
+
+2. Item quaero, si vinxero liberum hominem ita, ut eum possideam, an omnia, quae is <si> possidebat, ego possideam per illum. Respondit: si vinxeris hominem liberum, eum te possidere non puto: quod cum ita se habeat, multo minus per illum res eius a te possidebuntur: neque enim rerum natura recipit, ut per eum aliquid possidere possimus, quem civiliter in mea potestate non habeo.
+
+41.2.24
+
+Iavolenus libro 14 epistularum
+
+Quod servus tuus ignorante te vi possidet, id tu non possides, quoniam is, qui in tua potestate est, ignoranti tibi non corporalem possessionem, sed iustam potest adquirere: sicut id, quod ex peculio ad eum pervenerit, possidet. Nam tum per servum dominus quoque possidere dicitur, summa scilicet cum ratione, quia, quod ex iusta causa corporaliter a servo tenetur, id in peculio servi est et peculium, quod servus civiliter quidem possidere non posset, sed naturaliter tenet, dominus creditur possidere. Quod vero ex maleficiis adprehenditur, id ad domini possessionem ideo non pertinet, quia nec peculii causam adprehendit.
+
+41.2.25
+
+Pomponius libro 23 ad Quintum Mucium
+
+pr. Si id quod possidemus ita perdiderimus, ut ignoremus, ubi sit, desinimus possidere.
+
+1. Et per colonos et inquilinos aut servos nostros possidemus: et si moriantur aut furere incipiant aut alii locent, intellegimur nos retinere possessionem. Nec inter colonum et servum nostrum, per quem possessionem retinemus, quicquam interest.
+
+2. Quod autem solo animo possidemus, quaeritur, utrumne usque eo possideamus, donec alius corpore ingressus sit, ut potior sit illius corporalis possessio, an vero (quod quasi magis probatur) usque eo possideamus, donec revertentes nos aliquis repellat aut nos ita animo desinamus possidere, quod suspicemur repelli nos posse ab eo, qui ingressus sit in possessionem: et videtur utilius esse.
+
+41.2.26
+
+Pomponius libro 26 ad Quintum Mucium
+
+Locus certus ex fundo et possideri et per longam possessionem capi potest et certa pars pro indiviso, quae introducitur vel ex emptione vel ex donatione vel qualibet alia ex causa. Incerta autem pars nec tradi nec capi potest, veluti si ita tibi tradam: "quidquid mei iuris in eo fundo est": nam qui ignorat, nec tradere nec accipere id, quod incertum est, potest.
+
+41.2.27
+
+Proculus libro quinto epistularum
+
+Si is, qui animo possessionem saltus retineret, furere coepisset, non potest, dum fureret, eius saltus possessionem amittere, quia furiosus non potest desinere animo possidere.
+
+41.2.28
+
+Tertullianus libro primo quaestionum
+
+Si aliquam rem possideam et eandem postea conducam, an amittam possessionem? Multum refert in his, quid agatur: primum enim refert, utrum sciam me possidere an ignorem: et utrum quasi non meam rem conducam an quasi meam: et sciens meam esse, utrum quasi proprietatis respectu an possessionis tantum. Nam et si rem meam tu possideas et ego emam a te possessionem eius rei vel stipuler, utilis erit et emptio et stipulatio, et sequitur, ut et precarium et conductio specialiter possessionis solius conducendae vel precario rogandae animus interveniat.
+
+41.2.29
+
+Ulpianus libro 30 ad Sabinum
+
+Possessionem pupillum sine tutoris auctoritate amittere posse constat, non ut animo, sed ut corpore desinat possidere: quod est enim facti, potest amittere. alia causa est, si forte animo possessionem velit amittere: hoc enim non potest.
+
+41.2.30
+
+Paulus libro 15 ad Sabinum
+
+pr. Qui universas aedes possedit, singulas res, quae in aedificio sunt, non videtur possedisse. Idem dici debet et de nave et de armario.
+
+1. Possessionem amittimus multis modis, veluti si mortuum in eum locum intulimus, quem possidebamus: namque locum religiosum aut sacrum non possumus possidere, etsi contemnamus religionem et pro privato eum teneamus, sicut hominem liberum.
+
+2. Item cum praetor idcirco in possessionem rei iussit, quod damni infecti non promittebatur, possessionem invitum dominum amittere Labeo ait.
+
+3. Item quod mari aut flumine occupatum sit, possidere nos desinimus, aut si is qui possidet in alterius potestatem pervenit.
+
+4. Item quod mobile est, multis modis desinimus possidere: si aut nolimus, aut servum puta manumittamus, item si quod possidebam in aliam speciem translatum sit, veluti vestimentum ex lana factum.
+
+5. Quod per colonum possideo, heres meus nisi ipse nactus possessionem non poterit possidere: retinere enim animo possessionem possumus, apisci non possumus. Sed quod pro emptore possideo per colonum etiam, usucapiet etiam heres meus.
+
+6. Si ego tibi commodavero, tu Titio, qui putet tuum esse, nihilo minus ego id possidebo. Et idem erit, si colonus meus fundum locaverit aut is, apud quem deposueram, apud alium rursus deposuerit. Et id quamlibet per plurium personam factum observandum ita erit.
+
+41.2.31
+
+Pomponius libro 32 ad Sabinum
+
+Si colonus non deserendae possessionis causa exisset de fundo et eo redisset, eundem locatorem possidere placet.
+
+41.2.32
+
+Paulus libro 15 ad Sabinum
+
+pr. Quamvis pupillus sine tutoris auctoritate non obligetur, possessionem tamen per eum retinemus.
+
+1. Si conductor rem vendidit et eam ab emptore conduxit et utrique mercedes praestitit, prior locator possessionem per conductorem rectissime retinet.
+
+2. Infans possidere recte potest, si tutore auctore coepit, nam iudicium infantis suppletur auctoritate tutoris: utilitatis enim causa hoc receptum est, nam alioquin nullus sensus est infantis accipiendi possessionem. Pupillus tamen etiam sine tutoris auctoritate possessionem nancisci potest. Item infans peculiari nomine per servum possidere potest.
+
+41.2.33
+
+Pomponius libro 32 ad Sabinum
+
+Fundi venditor etiamsi mandaverit alicui, ut emptorem in vacuam possessionem induceret, priusquam id fieret, non recte emptor per se in possessionem veniet. Item si amicus venditoris mortuo eo, priusquam id sciret, aut non prohibentibus heredibus id fecerit, recte possessio tradita erit. Sed si id fecerit, cum sciret dominum mortuum aut cum sciret heredes id facere nolle, contra erit.
+
+41.2.34
+
+Ulpianus libro septimo disputationum
+
+pr. Si me in vacuam possessionem fundi Corneliani miseris, ego putarem me in fundum Sempronianum missum et in Cornelianum iero, non adquiram possessionem, nisi forte in nomine tantum erraverimus, in corpore consenserimus. Quoniam autem in corpore consenserimus, an a te tamen recedet possessio, quia animo deponere et mutare nos possessionem posse et Celsus et Marcellus scribunt, dubitari potest: et si animo adquiri possessio potest, numquid etiam adquisita est? Sed non puto errantem adquirere: ergo nec amittet possessionem, qui quodammodo sub condicione recessit de possessione.
+
+1. Sed si non mihi, sed procuratori meo possessionem tradas, videndum est, si ego errem, procurator meus non erret, an mihi possessio adquiratur. Et cum placeat ignoranti adquiri, poterit et erranti. Sed si procurator meus erret, ego non errem, magis est, ut adquiram possessionem.
+
+2. Servus quoque meus ignoranti mihi adquiret possessionem. Nam et servus alienus, ut Celsus scribit, sive a me sive a nemine possideatur, potest mihi adquirere possessionem, si nomine meo eam adipiscatur: quod et ipsum admittendum est.
+
+41.2.35
+
+Ulpianus libro quinto de omnibus tribunalibus
+
+Exitus controversiae possessionis hic est tantum, ut prius pronuntiet iudex, uter possideat: ita enim fiet, ut is, qui victus est de possessione, petitoris partibus fungatur et tunc de dominio quaeratur.
+
+41.2.36
+
+Iulianus libro 13 digestorum
+
+Qui pignoris causa fundum creditori tradit, intellegitur possidere. Sed et si eundem precario rogaverit, aeque per diutinam possessionem capiet: nam cum possessio creditoris non impediat capionem, longe minus precarii rogatio impedimento esse non debet, cum plus iuris in possessione habeat qui precario rogaverit quam qui omnino non possidet.
+
+41.2.37
+
+Marcianus libro singulari ad formulam hypothecariam
+
+Re pignoris nomine data et possessione tradita, deinde a creditore conducta convenit, ut is, qui hypothecam dedisset, pro colono in agro, aedibus autem pro inquilino sit: per eos creditor possidere videtur.
+
+41.2.38
+
+Iulianus libro 44 digestorum
+
+pr. Qui absenti servo scribit, ut in libertate moretur, non eam mentem habet, ut statim velit servi possessionem dimittere, sed magis destinationem in id tempus conferre, quo servus certior factus fuerit.
+
+1. Si quis possessionem fundi ita tradiderit, ut ita demum cedere ea dicat, si ipsius fundus esset, non videtur possessio tradita, si fundus alienus sit. Hoc amplius existimandum est possessiones sub condicione tradi posse, sicut res sub condicione traduntur neque aliter accipientis fiunt, quam condicio exstiterit.
+
+2. Si is, qui titio servum vendiderat, heredi eius eum tradiderit, poterit heres rerum hereditariarum possessionem per eum adprehendere, quia non servus iure hereditario, sed actio ex empto ad eum pervenit: nam et si ex stipulatu vel ex testamento servus testatori debitus fuisset et heres eum accepisset, non prohiberetur rerum hereditariarum possessionem per eundem adquirere.
+
+41.2.39
+
+Iulianus libro secundo ex Minicio
+
+Interesse puto, qua mente apud sequestrum deponitur res. Nam si omittendae possessionis causa et hoc aperte fuerit approbatum, ad usucapionem possessio eius partibus non procederet: at si custodiae causa deponatur, ad usucapionem eam possessionem victori procedere constat.
+
+41.2.40
+
+Africanus libro septimo quaestionum
+
+pr. Si de eo fundo, quem, cum possiderem, pignori tibi dedi, servus tuus te deiciat, adhuc te possidere ait, quoniam nihilo minus per ipsum servum possessionem retineas.
+
+1. Si forte colonus, per quem dominus possideret, decessisset, propter utilitatem receptum est, ut per colonum possessio et retineretur et contineretur: quo mortuo non statim dicendum eam interpellari, sed tunc demum, cum dominus possessionem apisci neglexerit. Aliud existimandum ait, si colonus sponte possessione discesserit. Sed haec ita esse vera, si nemo extraneus eam rem interim possiderit, sed semper in hereditate coloni manserit.
+
+2. Servum tuum a Titio bona fide emi et traditum possedi, deinde cum comperissem tuum esse, ne eum peteres, celare coepi. Non ideo magis hoc tempore clam possidere videri me ait: nam retro quoque, si sciens tuum servum non a domino emerim et, cum clam eum possidere coepissem, postea certiorem te fecerim, non ideo desinere me clam possidere.
+
+3. Si servum meum bonae fidei emptori clam abduxerim, respondit non videri me clam possidere, quia neque precarii rogatione neque conductione suae rei dominum teneri et non posse causam clandestinae possessionis ab his duabus causis separari.
+
+41.2.41
+
+Paulus libro primo institutionum
+
+Qui iure familiaritatis amici fundum ingreditur, non videtur possidere, quia non eo animo ingressus est, ut possideat, licet corpore in fundo sit.
+
+41.2.42
+
+Ulpianus libro quarto regularum
+
+pr. Communis servus etiamsi ab uno ex dominis omnium nomine possideatur, ab omnibus possideri intellegitur.
+
+1. Procurator si quidem mandante domino rem emerit, protinus illi adquirit possessionem: quod si sua sponte emerit, non nisi ratam habuerit dominus emptionem.
+
+41.2.43
+
+Marcianus libro tertio regularum
+
+pr. Si quis fundum emerit, cuius particulam sciebat esse alienam, Iulianus ait, si pro diviso sciat alienam esse, posse eum reliquas partes longa possessione capere: sed si pro indiviso licet ignoret quis sit locus, aeque eum capere posse, quod sine ullius damno pars, quae putatur esse vendentis, per longam possessionem ad emptorem transit.
+
+1. Sed et Pomponius scripsit libro quinto variarum lectionum, si sciat vel putet alienum esse usum fructum, bona fide diutina possessione capere posse.
+
+2. Idem, inquit, et si emero rem, quam sciam pignori obligatam.
+
+41.2.44
+
+Papinianus libro 23 quaestionum
+
+pr. Peregre profecturus pecuniam in terra custodiae causa condiderat: cum reversus locum Thensauri memoria non repeteret, an desisset pecuniam possidere, vel, si postea recognovisset locum, an confestim possidere inciperet, quaesitum est. Dixi, quoniam custodiae causa pecunia condita proponeretur, ius possessionis ei, qui condidisset, non videri peremptum, nec infirmitatem memoriae damnum adferre possessionis, quam alius non invasit: alioquin responsuros per momenta servorum, quos non viderimus, interire possessionem. Et nihil interest, pecuniam in meo an in alieno condidissem, cum, si alius in meo condidisset, non alias possiderem, quam si ipsius rei possessionem supra terram adeptus fuissem. Itaque nec alienus locus meam propriam aufert possessionem, cum, supra terram an infra terram possideam, nihil intersit.
+
+1. Quaesitum est, cur ex peculii causa per servum ignorantibus possessio quaereretur. Dixi utilitatis causa iure singulari receptum, ne cogerentur domini per momenta species et causas peculiorum inquirere. Nec tamen eo pertinere speciem istam, ut animo videatur adquiri possessio: nam si non ex causa peculiari quaeratur aliquid, scientiam quidem domini esse necessariam, sed corpore servi quaeri possessionem.
+
+2. Quibus explicitis, cum de amittenda possessione quaeratur, multum interesse dicam, per nosmet ipsos an per alios possideremus: nam eius quidem, quod corpore nostro teneremus, possessionem amitti vel animo vel etiam corpore, si modo eo animo inde digressi fuissemus, ne possideremus: eius vero, quod servi vel etiam coloni corpore possidetur, non aliter amitti possessionem, quam eam alius ingressus fuisset, eamque amitti nobis quoque ignorantibus. Illa quoque possessionis amittendae separatio est. Nam saltus hibernos et aestivos, quorum possessio retinetur animo,
+
+41.2.45
+
+Papinianus libro secundo definitionum
+
+Licet neque servum neque colonum ibi habeamus,
+
+41.2.46
+
+Papinianus libro 23 quaestionum
+
+Quamvis saltus proposito possidendi fuerit alius ingressus, tamdiu priorem possidere dictum est, quamdiu possessionem ab alio occupatam ignoraret. Ut enim eodem modo vinculum obligationum solvitur, quo quaeri adsolet, ita non debet ignoranti tolli possessio quae solo animo tenetur.
+
+41.2.47
+
+Papinianus libro 26 quaestionum
+
+Si rem mobilem apud te depositam aut ex commodato tibi, possidere neque reddere constitueris, confestim amisisse me possessionem vel ignorantem responsum est. Cuius rei forsitan illa ratio est, quod rerum mobilium neglecta atque omissa custodia, quamvis eas nemo alius invaserit, veteris possessionis damnum adferre consuevit: idque Nerva filius libris de usucapionibus rettulit. Idem scribit aliam causam esse hominis commodati omissa custodia: nam possessionem tamdiu veterem fieri, quamdiu nemo alius eum possidere coeperit, videlicet ideo, quia potest homo proposito redeundi domino possessionem sui conservare, cuius corpore ceteras quoque res possumus possidere. Igitur earum quidem rerum, quae ratione vel anima carent, confestim amittitur possessio, homines autem retinentur, si revertendi animum haberent.
+
+41.2.48
+
+Papinianus libro decimo responsorum
+
+Praedia cum servis donavit eorumque se tradidisse possessionem litteris declaravit. Si vel unus ex servis, qui simul cum praediis donatus est, ad eum, qui donum accepit, pervenit, mox in praedia remissus est, per servum praediorum possessionem quaesitam ceterorumque servorum constabit.
+
+41.2.49
+
+Papinianus libro secundo definitionum
+
+pr. Possessio quoque per servum, cuius usus fructus meus est, ex re mea vel ex operis servi adquiritur mihi, cum et naturaliter a fructuario teneatur et plurimum ex iure possessio mutuetur.
+
+1. Qui in aliena potestate sunt, rem peculiarem tenere possunt, habere possidere non possunt, quia possessio non tantum corporis, sed et iuris est.
+
+2. Etsi possessio per procuratorem ignoranti quaeritur, usucapio vero scienti competit, tamen evictionis actio domino contra venditorem invito procuratore non datur, sed per actionem mandati ea cedere cogitur.
+
+41.2.50
+
+Hermogenianus libro quinto iuris epitomarum
+
+pr. Per eum, quem iusto ductus errore filium meum et in mea potestate esse existimo, neque possessio neque dominium nec quicquam aliud ex re mea mihi quaeritur.
+
+1. Per servum in fuga agentem, si neque ab alio possideatur neque se liberum esse credat, possessio nobis adquiritur.
+
+41.2.51
+
+Iavolenus libro quinto ex posterioribus Labeonis
+
+Quarundam rerum animo possessionem apisci nos ait Labeo: veluti si acervum lignorum emero et eum venditor tollere me iusserit, simul atque custodiam posuissem, traditus mihi videtur. Idem iuris esse vino vendito, cum universae amphorae vini simul essententiarum sed videamus, inquit, ne haec ipsa corporis traditio sit, quia nihil interest, utrum mihi an et cuilibet iusserim custodia tradatur. In eo puto hanc quaestionem consistere, an, etiamsi corpore acervus aut amphorae adprehensae non sunt, nihilo minus traditae videantur: nihil video interesse, utrum ipse acervum an mandato meo aliquis custodiat: utrubique animi quodam genere possessio erit aestimanda.
+
+41.2.52
+
+Venonius libro primo interdictorum
+
+pr. Permisceri causas possessionis et usus fructus non oportet, quemadmodum nec possessio et proprietas misceri debent: nam neque impediri possessionem, si alius fruatur, neque alterius fructum amputari, si alter possideat.
+
+1. Eum, qui aedificare prohibeatur, possidere quoque prohiberi manifestum est.
+
+2. Species inducendi in possessionem alicuius rei est prohibere ingredienti vim fieri: statim enim cedere adversarium et vacuam relinquere possessionem iubet, quod multo plus est quam restituere.
+
+41.2.53
+
+Venonius libro quinto interdictorum
+
+Adversus extraneos vitiosa possessio prodesse solet.
+
+
+* 41.3.0. De usurpationibus et usucapionibus.
+
+
+41.3.1
+
+Gaius libro 21 ad edictum provinciale
+
+Bono publico usucapio introducta est, ne scilicet quarundam rerum diu et fere semper incerta dominia essent, cum sufficeret dominis ad inquirendas res suas statuti temporis spatium.
+
+41.3.2
+
+Paulus libro 54 ad edictum
+
+Usurpatio est usucapionis interruptio: oratores autem usurpationem frequentem usum vocant.
+
+41.3.3
+
+Modestinus libro quinto pandectarum
+
+Usucapio est adiectio dominii per continuationem possessionis temporis lege definiti.
+
+41.3.4
+
+Paulus libro 54 ad edictum
+
+pr. Sequitur de usucapione dicere. Et hoc ordine eundum est, ut videamus, quis potest usucapere et quas res et quanto tempore.
+
+1. Usucapere potest scilicet pater familias. Filius familias et maxime miles in castris adquisitum usucapiet.
+
+2. Pupillus si tutore auctore coeperit possidere, usucapit: si non tutore auctore possideat et animum possidendi habeat, dicemus posse eum usucapere.
+
+3. Furiosus quod ante furorem possidere coepit, usucapit. Sed haec persona ita demum usucapere potest, si ex ea causa possideat, ex qua usucapio sequitur.
+
+4. Servus pro herede possidere non potest.
+
+5. Fructus et partus ancillarum et fetus pecorum, si defuncti non fuerunt, usucapi possunt.
+
+6. Quod autem dicit lex Atinia, ut res furtiva non usucapiatur, nisi in potestatem eius, cui subrepta est, revertatur, sic acceptum est, ut in domini potestatem debeat reverti, non in eius utique, cui subreptum est. Igitur creditori subrepta et ei, cui commodata est, in potestatem domini redire debet.
+
+7. Labeo quoque ait, si res peculiaris servi mei subrepta sit me ignorante, deinde eam nanctus sit, videri in potestatem meam redisse: commodius dicitur, etiamsi sciero, redisse eam in meam potestatem (nec enim sufficit, si eam rem, quam perdidit ignorante me, servus adprehendat): si modo in peculio eam esse volui: nam si nolui, tunc exigendum est, ut ego facultatem eius nactus sim.
+
+8. Ideoque et si servus meus rem mihi subripuerit, deinde eandem loco suo reponat, poterit usucapi, quasi in potestatem meam redierit, utique si nescii: nam si scivi, exigimus, ut redisse sciam in meam potestatem.
+
+9. Item si eam rem, quam servus subripuerit, peculiari nomine teneat, non videri in potestatem meam reversam Pomponius ait, nisi ita habere coeperimus, quemadmodum habuimus, antequam subriperetur, aut, cum rescissemus, in peculio eum habere concessimus: item Labeo.
+
+10. Si rem, quam apud te deposueram, lucri faciendi causa vendideris, deinde ex paenitentia redemeris et eodem statu habeas: sive ignorante me sive sciente ea gesta sint, videri in potestatem meam redisse secundum Proculi sententiam, quae et vera est.
+
+11. Si pupilli res subrepta sit, sufficere dicendum est, si tutor eius sciat redisse eam in domum pupilli: et si furioso, sufficere curatores scire.
+
+12. Tunc in potestatem domini redisse dicendum est, cum possessionem eius nactus sit iuste, ut avelli non possit, sed et tamquam suae rei: nam si ignorans rem mihi subreptam emam, non videri in potestatem meam reversam.
+
+13. Sed et si vindicavero rem mihi subreptam et litis aestimationem accepero, licet corporaliter eius non sim nactus possessionem, usucapietur.
+
+14. Idem dicendum est etiam, si voluntate mea alii tradita sit.
+
+15. Heres, qui in ius defuncti succedit, licet apud eum ignorantem ancillam furtivam esse conceperit ea et pepererit, non tamen usucapiet.
+
+16. De illo quaeritur, si servus meus ancillam, quam subripuit, pro libertate sua mihi dederit, an partum apud me conceptum usucapere possim. Sabinus et Cassius non putant, quia possessio, quam servus vitiose nanctus sit, domino noceret, et hoc verum est.
+
+17. Sed et si, ut servum meum manumitterem, alius mihi furtivam ancillam dederit eaque apud me conceperit et pepererit, usu me non capturum. Idemque fore etiam, si quis eam ancillam mecum permutasset aut in solutum dedisset, item si donasset.
+
+18. Si antequam pariat, alienam esse rescierit emptor, diximus non posse eum usucapere: quod si nescierit, posse. quod si, cum iam usucaperet, cognoverit alienam esse, initium usucapionis intueri debemus, sicut in emptis rebus placuit.
+
+19. Lana ovium furtivarum si quidem apud furem detonsa est, usucapi non potest, si vero apud bonae fidei emptorem, contra: quoniam in fructu est, nec usucapi debet, sed statim emptoris fit. Idem in agnis dicendum, si consumpti sint, quod verum est.
+
+20. Si ex lana furtiva vestimentum feceris, verius est, ut substantiam spectemus, et ideo vestis furtiva erit.
+
+21. Si rem pignori datam debitor subripuerit et vendiderit, usucapi eam posse Cassius scribit, quia in potestatem domini videtur pervenisse, qui pignori dederit, quamvis cum eo furti agi potest: quod puto rectius dici.
+
+22. Si tu me vi expuleris de fundi possessione nec adprehenderis possessionem, sed Titius in vacuam possessionem intraverit, potest longo tempore capi res: quamvis enim interdictum unde vi locum habeat, quia verum est vi me deiectum, non tamen verum est et vi possessum.
+
+23. Ceterum etiamsi mala fide fundum me possidentem deieceris et vendideris, non poterit capi, quoniam verum est vi possessum esse licet non a domino.
+
+24. Idem dicendum est in eo, qui eum expulit qui pro herede possidebat, quamvis sciat esse hereditarium, quoniam vi possidet.
+
+25. Si dominus fundi possessorem vi deiecerit, Cassius ait non videri in potestatem eius redisse, quando interdicto unde vi restituturus sit possessionem.
+
+26. Si viam habeam per tuum fundum et tu me ab ea vi expuleris, per longum tempus non utendo amittam viam, quia nec possideri intellegitur ius incorporale nec de via quis (id est mero iure) detruditur.
+
+27. Item si occupaveris vacuam possessionem, deinde venientem dominum prohibueris, non videberis vi possedisse.
+
+28. Libertatem servitutium usucapi posse verius est, quia eam usucapionem sustulit lex Scribonia, quae servitutem constituebat, non etiam eam, quae libertatem praestat sublata servitute. Itaque si, cum tibi servitutem deberem, ne mihi puta liceret altius aedificare, et per statutum tempus altius aedificatum habuero, sublata erit servitus.
+
+41.3.5
+
+Gaius libro 21 ad edictum provinciale
+
+Naturaliter interrumpitur possessio, cum quis de possessione vi deicitur vel alicui res eripitur. Quo casu non adversus eum tantum, qui eripit, interrumpitur possessio, sed adversus omnes. Nec eo casu quicquam interest, is qui usurpaverit dominus sit nec ne: ac ne illud quidem interest, pro suo quisque possideat an ex lucrativa causa.
+
+41.3.6
+
+Ulpianus libro 11 ad edictum
+
+In usucapionibus non a momento ad momentum, sed totum postremum diem computamus.
+
+41.3.7
+
+Ulpianus libro 27 ad Sabinum
+
+Ideoque qui hora sexta diei kalendarum ianuariarum possidere coepit, hora sexta noctis pridie kalendas ianuarias implet usucapionem.
+
+41.3.8
+
+Paulus libro 12 ad edictum
+
+pr. Labeo Neratius responderunt ea, quae servi peculiariter nancti sunt, usucapi posse, quia haec etiam ignorantes domini usucapiunt: idem Iulianus scribit.
+
+1. Sed eum, qui suo nomine nihil usucapere potest, ne per servum quidem posse Pedius scribit.
+
+41.3.9
+
+Gaius libro quarto ad edictum provinciale
+
+Usucapionem recipiunt maxime res corporales, exceptis rebus sacris, sanctis, publicis populi Romani et civitatium, item liberis hominibus.
+
+41.3.10
+
+Ulpianus libro 16 ad edictum
+
+pr. Si aliena res bona fide empta sit, quaeritur, ut usucapio currat, utrum emptionis initium ut bonam fidem habeat exigimus, an traditionis. Et optinuit Sabini et Cassii sententia traditionis initium spectandum.
+
+1. Hoc iure utimur, ut servitutes per se nusquam longo tempore capi possint, cum aedificiis possint.
+
+2. Scaevola libro undecimo quaestionum scribit Marcellum existimasse, si bos apud furem concepit vel apud furis heredem pariatque apud furis heredem, usucapi ab herede distractum iuvencum non posse: sic, inquit, quemadmodum nec ancillae partus. Scaevola autem scribit se putare usucapere posse et partum: nec enim esse partum rei furtivae partem. Ceterum si esset pars, nec si apud bonae fidei emptorem peperisset, usucapi poterat.
+
+41.3.11
+
+Paulus libro 19 ad edictum
+
+Neque servus neque per servum dominus, qui apud hostes est, possidet.
+
+41.3.12
+
+Paulus libro 21 ad edictum
+
+Si ab eo emas, quem praetor vetuit alienare, idque tu scias, usucapere non potes.
+
+41.3.13
+
+Paulus libro quinto ad Plautium
+
+pr. Pignori rem acceptam usu non capimus, quia pro alieno possidemus.
+
+1. Eum, qui a furioso bona fide emit, usucapere posse responsum est.
+
+2. Si mandavero tibi, ut fundum emas, ex ea causa traditum tibi diutina possessione capis, quamvis possis videri non pro tuo possidere, cum nihil intersit, quod mandati iudicio tenearis.
+
+41.3.14
+
+Paulus libro 13 ad Plautium
+
+pr. Id tempus venditoris prodest emptori, quo antequam venderet possedit: nam si postea nactus est possessionem venditor, haec possessio emptori non proficiet.
+
+1. In re legata in accessione temporis, quo testator possedit, legatarius quodammodo quasi heres est.
+
+41.3.15
+
+Paulus libro 15 ad Plautium
+
+pr. Si is, qui pro emptore possidebat, ante usucapionem ab hostibus captus sit, videndum est, an heredi eius procedat usucapio: nam interrumpitur usucapio, et si ipsi reverso non prodest, quemadmodum heredi eius proderit? Sed verum est eum in sua vita desisse possidere, ideoque nec postliminium ei prodest, ut videatur usucepisse. Quod si servus eius, qui in hostium potestate est, emerit, in pendenti esse usucapionem Iulianus ait: nam si dominus reversus fuerit, intellegi usucaptum: si ibi decesserit, dubitari, an per legem Corneliam ad successores eius pertineat. Marcellus posse plenius fictionem legis accipi, quemadmodum enim postliminio reversus plus iuris habere potest in his, quae servi egerunt, quam his, quae per se vel per servum possidebat, cum ad hostes pervenit. Nam hereditatem in quibusdam vice personae fungi receptum est. Ideoque in successoribus locum non habere usucapionem.
+
+1. Si servus, quem possidebam, fugerit, si pro libero se gerat, videbitur a domino possideri: sed hoc tunc intellegendum est, cum, si adprehensus fuerit, non sit paratus pro sua libertate litigare: nam si paratus sit litigare, non videbitur a domino possideri, cui se adversarium praeparavit.
+
+2. Si quis bona fide possidens ante usucapionem amissa possessione cognoverit esse rem alienam et iterum nanciscatur possessionem, non capiet usu, quia initium secundae possessionis vitiosum est.
+
+3. Si ex testamento vel ex stipulatu res debita nobis tradatur, eius temporis existimationem nostram intuendam, quo traditur, quia concessum est stipulari rem etiam quae promissoris non sit.
+
+41.3.16
+
+Iavolenus libro quarto ex Plautio
+
+Servi nomine, qui pignori datus est, ad exhibendum cum creditore, non cum debitore agendum est, quia qui pignori dedit, ad usucapionem tantum possidet, quod ad reliquas omnes causas pertinet, qui accepit possidet, adeo ut adici possit et possessio eius qui pignori dedit.
+
+41.3.17
+
+Marcellus libro 17 digestorum
+
+Si per errorem de alienis fundis quasi de communibus iudicio communi dividundo accepto ex adiudicatione possidere coeperim, longo tempore capere possum.
+
+41.3.18
+
+Modestinus libro quinto regularum
+
+Quamvis adversus fiscum usucapio non procedat, tamen ex bonis vacantibus, nondum tamen nuntiatis, emptor praedii ex isdem bonis exstiterit, recte diutina possessione capiet: idque constitutum est.
+
+41.3.19
+
+Iavolenus libro primo epistularum
+
+Si hominem emisti, ut, si aliqua condicio extitisset, inemptus fieret, et is tibi traditus est et postea condicio emptionem resolvit: tempus, quo apud emptorem fuit, accedere venditori debere existimo, quoniam eo genere retro acta venditio esset redhibitioni similis, in qua non dubito tempus eius qui redhibuerit venditori accessurum, quoniam ea venditio proprie dici non potest.
+
+41.3.20
+
+Iavolenus libro quarto epistularum
+
+Possessio testatoris ita heredi procedit, si medio tempore a nullo possessa est.
+
+41.3.21
+
+Iavolenus libro sexto epistularum
+
+Ei, a quo fundum pro herede diutius possidendo capturus eram, locavi eum: an ullius momenti eam locationem existimes, quaero: quod si nullius momenti existimas, an durare nihilo minus usucapionem eius fundi putes. Item quaero, si eidem vendidero eum fundum, quid de his causis, de quibus supra quaesii, existimes. Respondit: si is, qui pro herede fundum possidebat, domino eum locavit, nullius momenti locatio est, quia dominus suam rem conduxisset: sequitur ergo, ut ne possessionem quidem locator retinuerit, ideoque longi temporis praescriptio non duravit. In venditione idem iuris est, quod in locatione, ut emptio suae rei consistere non possit.
+
+41.3.22
+
+Iavolenus libro septimo epistularum
+
+Heres et hereditas tametsi duas appellationes recipiunt, unius personae tamen vice funguntur.
+
+41.3.23
+
+Iavolenus libro nono epistularum
+
+pr. Eum, qui aedes mercatus est, non puto aliud quam ipsas aedes possidere: nam si singulas res possidere intellegetur, ipsas non possidebit: separatis enim corporibus, ex quibus aedes constant, universitas aedium intellegi non poterit. Accedit eo, quod, si quis singulas res possidere dixerit, necesse erit dicat possessione superficiei tempori de mobilibus statuto locum esse, solum se capturum esse ampliori: quod absurdum et minime iuri civili conveniens est, ut una res diversis temporibus capiatur, ut puta cum aedes ex duabus rebus constant, ex solo et superficie, et universitas earum possessionem temporis immobilium rerum omnium mutet.
+
+1. Si autem columna evicta fuerit, puto te ex empto cum venditore recte acturum et eo genere rem salvam habiturum.
+
+2. Si autem demolita domus est, ex integro res mobiles possidendae sunt, ut tempore, quod in usucapione rerum mobilium constitutum est, usucapiantur. Et non potes recte uti eo tempore, quo in aedificio fuerunt: nam quemadmodum eas solas et separatas ab aedificio non possedisti, sic nec penes te singulae aut separatae fuerunt et cohaerentibus his in aedificio, depositis aedibus, quae hoc quoque ipsum continent. Neque enim recipi potest, ut eadem res et ut res soli et tamquam mobilis sit possessa.
+
+41.3.24
+
+Pomponius libro 24 ad Quintum Mucium
+
+pr. Ubi lex inhibet usucapionem, bona fides possidenti nihil prodest.
+
+1. Interdum etiamsi non fuerit inchoata usucapio a defuncto, procedit heredi eius: veluti si vitium, quod obstabat non ex persona, sed ex re, purgatum fuerit, ut puta si fisci res esse desierit aut furtiva aut vi possessa.
+
+41.3.25
+
+Licinius libro primo regularum
+
+Sine possessione usucapio contingere non potest.
+
+41.3.26
+
+Ulpianus libro 29 ad Sabinum
+
+Numquam superficies sine solo capi longo < longe> tempore potest.
+
+41.3.27
+
+Ulpianus libro 31 ad Sabinum
+
+Celsus libro trigensimo quarto errare eos ait, qui existimarent, cuius rei quisque bona fide adeptus sit possessionem, pro suo usucapere eum posse nihil referre, emerit nec ne, donatum sit nec ne, si modo emptum vel donatum sibi existimaverit, quia neque pro legato neque pro donato neque pro dote usucapio valeat, si nulla donatio, nulla dos, nullum legatum sit, idem et in litis aestimatione placet, ut, nisi vere quis litis aestimationem subierit, usucapere non possit.
+
+41.3.28
+
+Pomponius libro 17 ad Sabinum
+
+Si servo furiosi vel infantis res tradita sit, usu per eum eas personas capere posse constat.
+
+41.3.29
+
+Pomponius libro 22 ad Sabinum
+
+Cum solus heres essem, existimarem autem te quoque pro parte heredem esse, res hereditarias pro parte tibi tradidi. Propius est, ut usu eas capere non possis, quia nec pro herede usucapi potest quod ab herede possessum est neque aliam ullam habes causam possidendi. Ita tamen hoc verum est, si non ex transactione id factum fuerit. Idem dicimus, si tu quoque existimes te heredem esse: nam hic quoque possessio veri heredis obstabit tibi.
+
+41.3.30
+
+Pomponius libro 30 ad Sabinum
+
+pr. Rerum mixtura facta an usucapionem cuiusque praecedentem interrumpit, quaeritur. Tria autem genera sunt corporum, unum, quod continetur uno spiritu et Graece hynwmenon [continuum] vocatur, ut homo tignum lapis et similia: alterum, quod ex contingentibus, hoc est pluribus inter se cohaerentibus constat, quod sunymmenon vocatur, ut aedificium navis armarium: tertium, quod ex distantibus constat, ut corpora plura non soluta, sed uni nomini subiecta, veluti populus legio grex. Primum genus usucapione quaestionem non habet, secundum et tertium habet.
+
+1. Labeo libris epistularum ait, si is, cui ad tegularum vel columnarum usucapionem decem dies superessent, in aedificium eas coniecisset, nihilo minus eum usucapturum, si aedificium possedisset. Quid ergo in his, quae non quidem implicantur rebus soli, sed mobilia permanent, ut in anulo gemma? In quo verum est et aurum et gemmam possideri et usucapi, cum utrumque maneat integrum.
+
+2. De tertio genere corporum videndum est. Non autem grex universus sic capitur usu quomodo singulae res, nec sic quomodo cohaerentes. Quid ergo est? Etsi ea natura eius est, ut adiectionibus corporum maneat, non item tamen universi gregis ulla est usucapio, sed singulorum animalium sicuti possessio, ita et usucapio. Nec si quid emptum immixtum fuerit gregi augendi eius gratia, idcirco possessionis causa mutabitur, ut, si reliquus grex dominii mei sit, haec quoque ovis, sed singulae suam causam habebunt, ita ut, si quae furtivae erunt, sint quidem ex grege, non tamen usucapiantur.
+
+41.3.31
+
+Paulus libro 32 ad Sabinum
+
+pr. Numquam in usucapionibus iuris error possessori prodest: et ideo Proculus ait, si per errorem initio venditionis tutor pupillo auctor factus sit vel post longum tempus venditionis peractum, usucapi non posse, quia iuris error est.
+
+1. In usucapionibus mobilium continuum tempus numeratur.
+
+2. Servus licet in libertate moretur, nihil possidet nec per eum alius. Atquin si nomine alicuius, dum in libertate moratur, nactus fuerit possessionem, adquiret ei, cuius nomine nactus fuerit.
+
+3. Si servus meus vel filius peculiari vel etiam meo nomine quid tenet, ut ego per eum ignorans possideam vel etiam usucapiam: si is furere coeperit, donec in eadem causa res fuerit, intellegendum est et possessionem apud me remanere et usucapionem procedere, sicuti per dormientes quoque eos idem nobis contingeret. Idemque in colono et inquilino, per quos possidemus, dicendum est.
+
+4. Si vi aut clam aut precario possessionem nactus quis postea furere coeperit, et possessio et causa eadem durat de hoc, quod precario furiosus habet, quemadmodum interdicto quoque uti possidetis furiosi nomine recte experimur eius possessionis nomine, quam ante furorem per se vel post furorem per alium nactus est.
+
+5. Vacuum tempus, quod ante aditam hereditatem vel post aditam intercessit, ad usucapionem heredi procedit.
+
+6. Si defunctus emit, heres autem putat eum ex donationis causa possedisse, usu eum capturum Iulianus ait.
+
+41.3.32
+
+Pomponius libro 32 ad Sabinum
+
+pr. Si fur rem furtivam a domino emerit et pro tradita habuerit, desinet eam pro furtiva possidere et incipiet pro suo possidere.
+
+1. Si quis id, quod possidet, non putat sibi per leges licere usucapere, dicendum est, etiamsi erret, non procedere tamen eius usucapionem, vel quia non bona fide videatur possidere vel quia in iure erranti non procedat usucapio.
+
+2. Incertam partem possidere nemo potest: ideo si plures sint in fundo, qui ignorent, quotam quisque partem possideat, neminem eorum mera suptilitate possidere Labeo scribit.
+
+41.3.33
+
+Iulianus libro 44 digestorum
+
+pr. Non solum bonae fidei emptores, sed et omnes, qui possident ex ea causa, quam usucapio sequi solet, partum ancillae furtivae usu suum faciunt, idque ratione iuris introductum arbitror: nam ex qua causa quis ancillam usucaperet, nisi lex duodecim tabularum vel Atinia obstaret, ex ea causa necesse est partum usucapi, si apud eum conceptus et editus eo tempore fuerit, quo furtivam esse matrem eius ignorabat.
+
+1. Quod vulgo respondetur ipsum sibi causam possessionis mutare non posse, totiens verum est, quotiens quis scieret se bona fide non possidere et lucri faciendi causa inciperet possidere: idque per haec probari posse. Si quis emerit fundum sciens ab eo, cuius non erat, possidebit pro possessore: sed si eundem a domino emerit, incipiet pro emptore possidere, nec videbitur sibi ipse causam possessionis mutasse. Idemque iuris erit etiam, si a non domino emerit, cum existimaret eum dominum esse. Idem hic si a domino heres institutus fuerit vel bonorum eius possessionem acceperit, incipiet fundum pro herede possidere. Hoc amplius si iustam causam habuerit existimandi se heredem vel bonorum possessorem domino extitisse, fundum pro herede possidebit nec causam possessionis sibi mutare videbitur. Cum haec igitur recipiantur in eius persona, qui possessionem habet, quanto magis in colono recipienda sunt, qui nec vivo nec mortuo domino ullam possessionem habet? Et certe si colonus mortuo domino emerit fundum ab eo, qui existimabat se heredem eius vel bonorum possessorem esse, incipiet pro emptore possidere.
+
+2. Si dominus fundi homines armatos venientes existimaverit atque ita profugerit, quamvis nemo eorum fundum ingressus fuerit, vi deiectus videtur: sed nihilo minus id praedium, etiam antequam in potestate domini redeat, a bonae fidei possessore usucapitur, quia lex Plautia et Iulia ea demum vetuit longa possessione capi, quae vi possessa fuissent, non etiam ex quibus vi quis deiectus fuisset.
+
+3. Si mihi Titius, a quo fundum petere volebam, possessione cesserit, usucapionis causam iustam habebo. Sed et is, a quo ex stipulatu fundum petere volebam, cedendo mihi possessione, si solvendi causa id fecerit, eo ipso efficiet, ut fundum longo tempore capiam.
+
+4. Qui pignori rem dat, usucapit, quamdiu res apud creditorem est: si creditor eius possessionem alii tradiderit, interpellabitur usucapio: et quantum ad usucapionem attinet, similis est ei qui quid deposuit vel commodavit, quos palam est desinere usucapere, si commodata vel deposita res alii tradita fuerit ab eo, qui commodatum vel depositum accepit. Plane si creditor nuda conventione hypothecam contraxerit, usucapere debitor perseverabit.
+
+5. Si rem tuam, cum bona fide possiderem, pignori tibi dem ignoranti tuam esse, desino usucapere, quia non intellegitur quis suae rei pignus contrahere. At si nuda conventione pignus contractum fuerit, nihilo minus usucapiam, quia hoc quoque modo nullum pignus contractum videtur.
+
+6. Si rem pignori datam creditoris servus subripuerit, cum eam creditor possideret, non interpellabitur usucapio debitoris, quia servus dominum suum possessione non subvertit. Sed et si debitoris servus subripuerit, quamvis creditor possidere desinat, tamen debitori usucapio durat, non secus ac si eam creditor debitori tradidisset: nam quantum ad usucapiones attinet, servi subtrahendo res non faciunt deteriorem dominorum condicionum. Facilius optinebitur, si precario possidente debitore servus eius subripuerit. Nam conductio idem praestat, quod si apud creditorem res esset: possidet enim hoc casu creditor. Sed et si utrumque intercesserit et precarii rogatio et conductio, intellegitur creditor possidere et precarii rogatio non in hoc interponitur ut debitor possessionem habeat, sed ut ei tenere rem liceat.
+
+41.3.34
+
+Alfenus Varus libro primo digestorum a Paulo epitomatorum
+
+Si servus insciente domino rem peculiarem vendidisset, emptorem usucapere posse.
+
+41.3.35
+
+Iulianus libro tertio ad Urseium Ferocem
+
+Si homo, cuius usus fructus legatus erat, ab herede numquam possessus subreptus fuisset, quaesitum est, quia heres furti actionem non haberet, an usucapi possit. Sabinus respondit nullam eius rei usucapionem esse, cuius nomine furti agi possit, agere autem furti eum, qui frui deberet, posse. Quod si accipiendum est, ut fructuarius poterit uti frui: aliter enim homo in causa non perduceretur. Sed si utenti iam et fruenti abductus homo fuerit, non solum ipse, sed etiam heres furti agere poterit.
+
+41.3.36
+
+Gaius libro secundo rerum cottidianarum sive aureorum
+
+pr. Potest pluribus modis accidere, ut quis rem alienam aliquo errore deceptus tamquam suam vendat forte aut donet et ob id a bonae fidei possessore res usucapi possit: veluti si heres rem defuncto commodatam aut locatam vel apud eum depositam existimans hereditariam esse alienaverit.
+
+1. Item si quis aliqua existimatione deceptus crediderit ad se hereditatem pertinere, quae ad eum non pertineat, et rem hereditariam alienaverit, aut si is, ad quem usus fructus ancillae pertinet, partum eius existimans suum esse, quia et fetus pecudum ad fructuarium pertinet, alienaverit,
+
+41.3.37
+
+Gaius libro secundo institutionum
+
+pr. Furtum non committit: furtum enim sine affectu furandi non committitur.
+
+1. Fundi quoque alieni potest aliquis sine vi nancisci possessionem, quae vel ex neglegentia domini vacet vel quia dominus sine successore decesserit vel longo tempore afuerit.
+
+41.3.38
+
+Gaius libro secundo rerum cottidianarum sive aureorum
+
+Quam rem ipse quidem non potest usucapere, quia intellegit alienum se possidere et ob id mala fide possidet. Sed si alii bona fide accipienti tradiderit, poterit is usucapere, quia neque vi possessum neque furtivum possidet: abolita est enim quorundam veterum sententia existimantium etiam fundi locive furtum fieri.
+
+41.3.39
+
+Marcianus libro tertio institutionum
+
+Si solum usucapi non poterit, nec superficies usucapietur.
+
+41.3.40
+
+Neratius libro quinto regularum
+
+Coeptam usucapionem a defuncto posse et ante aditam hereditatem impleri constitutum est.
+
+41.3.41
+
+Neratius libro septimo membranarum
+
+Si rem subreptam mihi procurator meus adprehendit, quamvis per procuratorem possessionem apisci nos iam fere conveniat, nihilo magis eam in potestatem meam redisse usuque capi posse existimandum est, quia contra statui captiosum erit.
+
+41.3.42
+
+Papinianus libro tertio quaestionum
+
+Cum vir praedium dotale vendidit scienti vel ignoranti rem dotis esse, venditio non valet. Quam defuncta postea muliere in matrimonio confirmari convenit, si tota dos lucro mariti cessit. Idem iuris est, cum is, qui rem furtivam vendidit, postea domino heres exstitit.
+
+41.3.43
+
+Papinianus libro 22 quaestionum
+
+pr. Heres eius, qui bona fide rem emit, usu non capiet sciens alienum, si modo ipsi possessio tradita sit: continuatio vero non impedietur heredis scientia.
+
+1. Patrem usu non capturum, quod filius emit, propter suam vel filii scientiam certum est.
+
+41.3.44
+
+Papinianus libro 23 quaestionum
+
+pr. Iusto errore ductus Titium filium meum et in mea potestate esse existimavi, cum adrogatio non iure intervenisset: eum ex re mea quaerere mihi non existimo. Non enim constitutum est in hoc, quod in homine libero qui bona fide servit placuit: ibi propter adsiduam et cottidianam comparationem servorum ita constitui publice interfuit, nam frequenter ignorantia liberos emimus, non autem tam facilis frequens adoptio vel adrogatio filiorum est.
+
+1. Constat, si rem alienam scienti mihi vendas, tradas autem eo tempore, quo dominus ratum habet, traditionis tempus inspiciendum remque meam fieri.
+
+2. Etsi possessionis, non contractus initium, quod ad usucapionem pertinet, inspici placet, nonnumquam tamen evenit, ut non initium praesentis possessionis, sed causam antiquiorem traditionis, quae bonam fidem habuit, inspiciamus, veluti circa partum eius mulieris, quam bona fide coepit possidere: non enim ideo minus capietur usu puer, quod alienam matrem, priusquam eniteretur, esse cognovit. Idem in servo postliminio reverso dictum est.
+
+3. Nondum aditae hereditatis tempus usucapioni datum est, sive servus hereditarius aliquid comparat, sive defunctus usucapere coeperat: sed haec iure singulari recepta sunt.
+
+4. Filius familias emptor alienae rei, cum patrem familias se factum ignoret, coepit rem sibi traditam possidere: cur non capiat usu, cum bona fides initio possessionis adsit, quamvis eum se per errorem esse arbitretur, qui rem ex causa peculiari quaesitam nec possidere possit? Idem dicendum erit et si ex patris hereditate ad se pervenisse rem emptam non levi praesumptione credat.
+
+5. Non mutat usucapio superveniens pro emptore vel pro herede, quo minus pignoris persecutio salva sit: ut enim usus fructus usucapi non potest, ita persecutio pignoris, quae nulla societate dominii coniungitur, sed sola conventione constituitur, usucapione rei non peremitur.
+
+6. Eum, qui postea quam usucapere coepit in furorem incidit, utilitate suadente relictum est, ne languor animi damnum etiam in bonis adferat, ex omni causa implere usucapionem.
+
+7. Si, cum apud hostes dominus aut pater agat, servus aut filius emat, an et tenere incipiat? Si quidem ex causa peculii possedit, usucapionem inchoari nec impedimento domini captivitatem esse, cuius scientia non esset in civitate necessaria. Si vero non ex causa peculii comparetur, usu non capi nec iure postliminii quaesitum intellegi, cum prius esset, ut, quod usucaptum diceretur, possessum foret. Sin autem pater ibi decesserit, quia tempora captivitatis ex die quo capitur morti iungerentur, potest filium dici et possedisse sibi et usucepisse intellegi.
+
+41.3.45
+
+Papinianus libro decimo responsorum
+
+pr. Praescriptio longae possessionis ad optinenda loca iuris gentium publica concedi non solet. Quod ita procedit, si quis, aedificio funditus diruto quod in litore posuerat (forte quod aut deposuerat aut dereliquerat aedificium), alterius postea eodem loco extructo, occupantis datam exceptionem opponat, vel si quis, quod in fluminis publici deverticulo solus pluribus annis piscatus sit, alterum eodem iure prohibeat.
+
+1. Post mortem domini servus hereditarius peculii nomine rem coepit tenere, usucapionis primordium erit tempus hereditatis aditae: quemadmodum etenim usucapietur, quod ante defunctus non possederat?
+
+41.3.46
+
+Hermogenianus libro quinto iuris epitomarum
+
+Pro soluto usucapit, qui rem debiti causa recipit: et non tantum quod debetur, sed et quodlibet pro debito solutum hoc titulo usucapi potest.
+
+41.3.47
+
+Paulus libro tertio ad Neratium
+
+Si emptam rem mihi procurator ignorante me meo nomine adprehenderit, quamvis possideam, eam non usucapiam, quia ut ignorantes usuceperimus, in peculiaribus tantum rebus receptum est.
+
+41.3.48
+
+Paulus libro secundo manualium
+
+Si existimans debere tibi tradam, ita demum usucapio sequitur, si et tu putes debitum esse. Aliud, si putem me ex causa venditi teneri et ideo tradam: hic enim nisi emptio praecedat, pro emptore usucapio locum non habet. Diversitatis causa in illo est, quod in ceteris causis solutionis tempus inspicitur neque interest, cum stipulor, sciam alienum esse nec ne: sufficit enim me putare tuum esse, cum solvis: in emptione autem et contractus tempus inspicitur et quo solvitur: nec potest pro emptore usucapere, qui non emit, nec pro soluto, sicut in ceteris contractibus.
+
+41.3.49
+
+Labeo libro quinto pithanon a Paulo epitomarum
+
+Si quid est subreptum, id usucapi non potest, antequam in domini potestatem pervenerit. Paulus: immo forsitan et contra: nam si id, quod mihi pignori dederis, subripueris, erit ea res furtiva facta: sed simul atque in meam potestatem venerit, usucapi poterit.
+
+
+* 41.4.0. Pro emptore.
+
+
+41.4.1
+
+Gaius libro sexto ad edictum provinciale
+
+Possessor, qui litis aestimationem optulit, pro emptore incipit possidere.
+
+41.4.2
+
+Paulus libro 54 ad edictum
+
+pr. Pro emptore possidet, qui re vera emit, nec sufficit tantum in ea opinione esse eum, ut putet se pro emptore possidere, sed debet etiam subesse causa emptionis. Si tamen existimans me debere tibi ignoranti tradam, usucapies. Quare ergo et si putem me vendidisse et tradam, non capies usu? Scilicet quia in ceteris contractibus sufficit traditionis tempus, sic denique si sciens stipuler rem alienam, usucapiam, si, cum traditur mihi, existimem illius esse: at in emptione et illud tempus inspicitur, quo contrahitur: igitur et bona fide emisse debet et possessionem bona fide adeptus esse.
+
+1. Separata est causa possessionis et usucapionis: nam vere dicitur quis emisse, sed mala fide: quemadmodum qui sciens alienam rem emit, pro emptore possidet, licet usu non capiat.
+
+2. Si sub condicione emptio facta sit, pendente condicione emptor usu non capiat. Idemque est et si putet condicionem extitisse, quae nondum exstitit: similis est enim ei, qui putat se emisse. Contra si exstitit et ignoret, potest dici secundum Sabinum, qui potius substantiam intuetur quam opinionem, usucapere eum. Est tamen nonnulla diversitas, quod ibi, cum rem putat alienam, quae sit venditoris, affectionem emptoris habeat, at cum nondum putat condicionem exstitisse, quasi nondum putat sibi emisse. Quod apertius quaeri potest, si, cum defunctus emisset, heredi eius tradatur, qui nesciat defunctum emisse, sed ex alia causa sibi tradi, an usucapio cesset.
+
+3. Sabinus, si sic empta sit, ut, nisi pecunia intra diem certum soluta esset, inempta res fieret, non usucapturum nisi persoluta pecunia. Sed videamus, utrum condicio sit hoc an conventio: si conventio est, magis resolvetur quam implebitur.
+
+4. Si in diem addictio facta sit, id est nisi si quis meliorem condicionem attulerit, perfectam esse emptionem et fructus emptoris effici et usucapionem procedere iulianus putabat: alii et hanc sub condicione esse contractam, ille non contrahi, sed resolvi dicebat, quae sententia vera est.
+
+5. Sed et illa emptio pura est, ubi convenit, ut, si displicuerit intra diem certum, inempta sit.
+
+6. Cum stichum emissem, dama per ignorantiam mihi pro eo traditus est. Priscus ait usu me eum non capturum, quia id, quod emptum non sit, pro emptore usucapi non potest: sed si fundus emptus sit et ampliores fines possessi sint, totum longo tempore capi, quoniam universitas eius possideatur, non singulae partes.
+
+7. Eius bona emisti, apud quem mancipia deposita erant: Trebatius ait usu te non capturum, quia empta non sint.
+
+8. Tutor ex pupilli auctione rem, quam eius putabat esse, emit. Servius ait posse eum usucapere: in cuius opinionem decursum est eo, quod deterior causa pupilli non fit, si propius habeat emptorem, et, si minoris emerit, tutelae iudicio tenebitur ac si alii minoris addixisset: idque et a divo Traiano constitutum dicitur.
+
+9. Procuratorem quoque, qui ex auctione, quam mandatu domini facit, emerit, plerique putant utilitatis causa pro emptore usucapturum. Idem potest dici et si negotia domini gerens ignorantis emerit propter eandem utilitatem.
+
+10. Si servus tuus peculiari nomine emat rem, quam scit alienam, licet tu ignores alienam esse, tamen usu non capies.
+
+11. Celsus scribit, si servus meus peculiari nomine apiscatur possessionem, id etiam ignorantem me usucapere: quod si non peculiari nomine, non nisi scientem me: et si vitiose coeperit possidere, meam vitiosam esse possessionem.
+
+12. Pomponius quoque in his, quae nomine domini possideantur, domini potius quam servi voluntatem spectandam ait: quod si peculiari, tunc mentem servi quaerendam. Et si servus mala fide possideat eaque dominus nanctus sit, ut suo nomine possideat, adempto puta peculio, dicendum est, ut eadem causa sit possessionis et ideo usucapio ei non magis procedat.
+
+13. Si servus bona fide emerit peculiari nomine, ego ubi primum cognovi sciam alienam, processuram usucapionem celsus ait: initium enim possessionis sine vitio fuisse: sed si eo tempore quo emit, quamquam id bona fide faciat, ego alienam rem esse sciam, usu me non capturum.
+
+14. Et si quod non bona fide servus meus emerit, in pactionem libertatis mihi dederit, non ideo me magis usucapturum: durare enim primam causam possessionis idem Celsus ait.
+
+15. Si a pupillo emero sine tutoris auctoritate, quem puberem esse putem, dicimus usucapionem sequi, ut hic plus sit in re quam in existimatione: quod si scias pupillum esse, putes tamen pupillis licere res suas sine tutoris auctoritate administrare, non capies usu, quia iuris error nulli prodest.
+
+16. Si a furioso, quem putem sanae mentis, emero, constitit usucapere utilitatis causa me posse, quamvis nulla esset emptio et ideo neque de evictione actio nascitur mihi nec publiciana competit nec accessio possessionis.
+
+17. Si eam rem, quam pro emptore usucapiebas, scienti mihi alienam esse vendideris, non capiam usu.
+
+18. Etiam heredi ulteriori defuncti possessio proderit, quamvis medius heres possessionem eius nanctus non sit.
+
+19. Si defunctus bona fide emerit, usucapietur res, quamvis heres scit alienam esse. Hoc et in bonorum possessore et in fideicommissariis, quibus ex trebelliano restituitur hereditas, ceterisque praetoriis successoribus observatum est.
+
+20. Emptori tempus venditoris ad usucapionem procedit.
+
+21. Si rem alienam emero et, cum usucaperem, eandem rem dominus a me petierit, non interpellari usucapionem meam litis contestatione. Sed si litis aestimationem sufferre maluerim, ait Iulianus causam possessionis mutari ei, qui litis aestimationem sustulerit, idemque esse, si dominus ei, qui rem emisset a non domino, donasset: eaque sententia vera est.
+
+41.4.3
+
+Ulpianus libro 75 ad edictum
+
+Litis aestimatio similis est emptioni.
+
+41.4.4
+
+Iavolenus libro secundo ex Plautio
+
+pr. Emptor fundi partem eius alienam esse non ignoraverat: responsum est nihil eum ex eo fundo longa possessione capturum. Quod ita verum esse existimo, si, quae pars aliena esset in eo fundo, emptor ignoraverat: quod si certum locum esse sciret, reliquas partes longa possessione capi posse non dubito.
+
+1. Idem iuris est, si is, qui totum fundum emebat, pro indiviso partem aliquam alienam esse scit: eam enim dumtaxat non capiet, ceterarum partium non impedietur longa possessione capio.
+
+41.4.5
+
+Modestinus libro decimo pandectarum
+
+Si rem, quam tibi pigneravi, subripuero, eamque distraxero, de usucapione dubitatum est: et verius est utiliter cedere tempora usucapionis.
+
+41.4.6
+
+Pomponius libro 32 ad Sabinum
+
+pr. Qui, cum pro herede vel pro emptore usucaperet, precario rogavit, usucapere non potest: quid porro inter eas res interest, cum utrubique desinat ex prima causa possidere, qui precario vult habere?
+
+1. Si ex decem servis, quos emerim, aliquos putem alienos et qui sint sciam, reliquos usucapiam: quod si ignorem, qui sint alieni, neminem usucapere possum.
+
+2. Post mortem eius, qui hominem emerit, expleto tempore, quod defuisset ad usucapionem, quamvis eum hominem heres possidere non coepisset, fiet tamen eius: sed ita hoc, si nemo eum possedisset.
+
+41.4.7
+
+Iulianus libro 44 digestorum
+
+pr. Qui fundum pro emptore possidebat, antequam diutinam possessionem impleret, decessit: servi, qui in possessionem relicti fuerant, discesserunt relinquendae eius gratia: quaesitum est, an nihilo minus heredi tempus longae possessionis procedere potest. Respondit etiam discedentibus servis hoc tempus heredi procedere.
+
+1. Si fundum cornelianum pro emptore longa possessione capiam et partem ex vicini fundo ei adiciam, utrum eam quoque partem reliquo tempore pro emptore capiam an integro statuto tempore? Respondi: partes, quae emptioni fundi adiciuntur, propriam ac separatam condicionem habent, et ideo possessionem quoque earum separatim nancisci oportere et longam possessionem earum integro statuto tempore impleri.
+
+2. Servus meus titio mandavit, ut fundum ei emeret, eique manumisso titius possessionem tradidit: quaesitum est, an longa possessione caperet. Respondit, si servus meus mandaverit titio, ut fundum emeret, et manumisso ei titius fundum tradiderit, cum putaret peculium ei concessum esse vel etiam cum ignoraret peculium concessum non esse, nihilo minus servum diutina possessione capere, quia aut scit servus peculium sibi concessum non esse aut scire debet et per hoc similis est ei, qui se creditorem esse simulat. Quod si scierit titius peculium manumisso concessum non esse, donare potius quam indebitum fundum solvere intellegendus est.
+
+3. Si tutor rem pupilli subripuerit et vendiderit, usucapio non contingit, priusquam res in potestatem pupilli redeat: nam tutor in re pupilli tunc domini loco habetur, cum tutelam administrat, non cum pupillum spoliat.
+
+4. Qui bona fide alienum fundum emit et possessionem eius amisit, deinde eo tempore adprehendisset, quo scit rem alienam esse, non capiet longo tempore, quia initium secundae possessionis vitio non carebit, nec similis est ei, qui emptionis quidem tempore putat fundum vendentis esse, sed cum traditur, scit alienum esse: cum enim semel amissa fuerit possessio, initium rursus reciperatae possessionis spectari oportet. quare si eo tempore redhibeatur homo, quo emptor scit alienum esse, usucapio non contingit, quamvis antequam venderet, in ea causa fuerit, ut usucaperet. Idem iuris est in eo, qui de fundo deiectus possessionem per interdictum reciperavit sciens iam alienum esse.
+
+5. Qui sciens emit ab eo, quem praetor ut suspectum heredem deminuere vetuit, usu non capiet.
+
+6. Procurator tuus si fundum, quem centum aureis vendere poterat, addixerit triginta aureis in hoc solum, ut te damno adficeret, ignorante emptore, dubitari non oportet, quin emptor longo tempore capiat: nam et cum sciens quis alienum fundum vendidit ignoranti, non interpellatur longa possessio. quod si emptor cum procuratore collusit et eum praemio corrupit, quo vilius mercaretur, non intellegetur bonae fidei emptor nec longo tempore capiet: et si adversus petentem dominum uti coeperit exceptione rei voluntate eius venditae, replicationem doli utilem futuram esse.
+
+7. Furtiva res non intellegitur redisse in domini potestatem, quamvis possideret eam, si modo ignoraverit subreptam sibi esse: si igitur servum, qui tibi subreptus erat, ignoranti tibi tuum esse pignori dedero et soluta pecunia eum titio vendidero, titius usucapere non poterit.
+
+8. Liber homo, qui bona fide nobis servit, isdem modis ex re nostra adquirit nobis, quibus per servum nostrum adquirere solemus: quare sicut traditione, ita usucapione rem nostram faciemus interveniente libera persona, et si peculii nomine, quod nos sequi debet, emptio contracta fuerit, etiam ignorantes usucapiemus.
+
+41.4.8
+
+Iulianus libro secundo ex Minicio
+
+Si quis, cum sciret venditorem pecuniam statim consumpturum, servos ab eo emisset, plerique responderunt eum nihilo minus bona fide emptorem esse, idque verius est: quomodo enim mala fide emisse videtur, qui a domino emit? Nisi forte et is, qui a luxurioso et protinus scorto daturo pecuniam servos emit, non usucapiet.
+
+41.4.9
+
+Iulianus libro tertio ad Urseium Ferocem
+
+Qui ob pactionem libertatis ancillam furtivam a servo accepit, potest partum eius quasi emptor usucapere.
+
+41.4.10
+
+Iulianus libro secundo ad Minicium
+
+Servus domino ancillam, quam subripuerat, pro capite suo dedit: ea concepit: quaesitum est, an dominus eum partum usucapere possit. Respondit: hic dominus quasi emptor partum usucapere potest, namque res ei abest pro hac muliere et genere quodammodo venditio inter servum et dominum contracta est.
+
+41.4.11
+
+Africanus libro septimo quaestionum
+
+Quod volgo traditum est eum, qui existimat se quid emisse nec emerit, non posse pro emptore usucapere, hactenus verum esse ait, si nullam iustam causam eius erroris emptor habeat: nam si forte servus vel procurator, cui emendam rem mandasset, persuaserit ei se emisse atque ita tradiderit, magis esse, ut usucapio sequatur.
+
+41.4.12
+
+Papinianus libro decimo responsorum
+
+Misso legatario in possessionem res pro emptore usucapiuntur salva praetorii pignoris causa.
+
+41.4.13
+
+Scaevola libro quinto responsorum
+
+Alienam aream bona fide emit et ante impletam diutinam possessionem aedificare coepit: ei denuntiante domino soli intra tempora diutinae possessionis, perseveravit: quaero, utrum interpellata sit an coepta duraverit. Respondit secundum ea quae proponerentur non esse interpellatam.
+
+41.4.14
+
+Scaevola libro 25 digestorum
+
+Intestatae sororis hereditas obvenit duobus fratribus, quorum alter absens erat, alter praesens: praesens etiam absentis causam agebat, ex qua hereditate suo et fratris sui nomine fundum in solidum vendidit Lucio Titio bona fide ementi: quaesitum est, cum scierit partem fundi absentis esse, an totum fundum longa possessione ceperit. Respondit, si credidisset mandatu fratris venisse, per longum tempus cepisse.
+
+
+* 41.5.0. Pro herede vel pro possessore.
+
+
+41.5.1
+
+Pomponius libro 32 ad Sabinum
+
+Pro herede ex vivi bonis nihil usucapi potest, etiamsi possessor mortui rem fuisse existimaverit.
+
+41.5.2
+
+Iulianus libro 44 digestorum
+
+pr. Qui legatorum servandorum causa in possessionem mittitur, non interpellat possessionem eius, qui pro herede usucapit: custodiae enim causa rem tenet. Quid ergo est? Etiam impleta usucapione ius pignoris retinebit, ut non prius discedat, quam si solutum ei legatum fuerit aut eo nomine satisdatum.
+
+1. Quod volgo respondetur causam possessionis neminem sibi mutare posse, sic accipiendum est, ut possessio non solum civilis, sed etiam naturalis intellegatur. Et propterea responsum est neque colonum neque eum, apud quem res deposita aut cui commodata est, lucri faciendi causa pro herede usucapere posse.
+
+2. Filium quoque donatam rem a patre pro herede negavit usucapere servius, scilicet qui existimabat naturalem possessionem penes eum fuisse vivo patre. Cui consequens est, ut filius a patre heres institutus res hereditarias a patre sibi donatas pro parte coheredum usucapere non possit.
+
+41.5.3
+
+Pomponius libro 23 ad Quintum Mucium
+
+Plerique putaverunt, si heres sim et putem rem aliquam ex hereditate esse quae non sit, posse me usucapere.
+
+41.5.4
+
+Paulus libro quinto ad legem Iuliam et Papiam
+
+Constat eum, qui testamenti factionem habet, pro herede usucapere posse.
+
+
+* 41.6.0. Pro donato.
+
+
+41.6.1
+
+Paulus libro 54 ad edictum
+
+pr. Pro donato is usucapit, cui donationis causa res tradita est: nec sufficit opinari, sed et donatum esse oportet.
+
+1. Si pater filio quem in potestate habet donet, deinde decedat, filius pro donato non capiet usu, quoniam nulla donatio fuit.
+
+2. Si inter virum et uxorem donatio facta sit, cessat usucapio. Item si vir uxori rem donaverit et divortium intercesserit, cessare usucapionem Cassius respondit, quoniam non possit causam possessionis sibi ipsa mutare: alias ait post divortium ita usucapturam, si eam maritus concesserit, quasi nunc donasse intellegatur. Possidere autem uxorem rem a viro donatam Iulianus putat.
+
+41.6.2
+
+Marcellus libro 22 digestorum
+
+Si is, qui alienam rem donaverit, revocare constituerit donationem, etiamsi iudicium ediderit remque coeperit vindicare, curret usucapio.
+
+41.6.3
+
+Pomponius libro 24 ad Quintum Mucium
+
+Si vir uxori vel uxor viro donaverit, si aliena res donata fuerit, verum est, quod Trebatius putabat, si pauperior is qui donasset non fieret, usucapionem possidenti procedere.
+
+41.6.4
+
+Pomponius libro 32 ad Sabinum
+
+Si pater filiae donaverit, quae in potestate eius erat, et eam exheredaverit: si id heres eius ratum habeat, exinde ea usucapiet donationem, qua ex die ratam heres donationem habuerit.
+
+41.6.5
+
+Scaevola libro quinto responsorum
+
+Qui pro donato coeperat usucapere, manumittendo nihil egit, quia nec dominium nanctus fuerit: quaesitum est, an usucapere desierit. Respondi eum de quo quaeritur omisisse videri possessionem et ideo usucapionem interruptam.
+
+41.6.6
+
+Hermogenianus libro secundo iuris epitomarum
+
+Donationis causa facta venditione non pro emptore, sed pro donato res tradita usucapitur.
+
+
+* 41.7.0. Pro derelicto.
+
+
+41.7.1
+
+Ulpianus libro 12 ad edictum
+
+Si res pro derelicto habita sit, statim nostra esse desinit et occupantis statim fit, quia isdem modis res desinunt esse nostrae, quibus adquiruntur.
+
+41.7.2
+
+Paulus libro 54 ad edictum
+
+pr. Pro derelicto rem a domino habitam si sciamus, possumus adquirere.
+
+1. Sed Proculus non desinere eam rem domini esse, nisi ab alio possessa fuerit: Iulianus desinere quidem omittentis esse, non fieri autem alterius, nisi possessa fuerit, et recte.
+
+41.7.3
+
+Modestinus libro sexto differentiarum
+
+An pars pro derelicto haberi possit, quaeri solet. Et quidem si in re communi socius partem suam reliquerit, eius esse desinit, ut hoc sit in parte, quod in toto: atquin totius rei dominus efficere non potest, ut partem retineat, partem pro derelicto habeat.
+
+41.7.4
+
+Paulus libro 15 ad Sabinum
+
+Id, quod pro derelicto habitum est et haberi putamus, usucapere possumus, etiam si ignoramus, a quo derelictum sit.
+
+41.7.5
+
+Pomponius libro 32 ad Sabinum
+
+pr. Si id, quod pro derelicto habitum possidebas, ego sciens in ea causa esse abs te emerim, me usucapturum constat nec obstare, quod in bonis tuis non fuerit: nam et si tibi rem ab uxore donatam sciens emero, quia quasi volente et concedente domino id faceres, idem iuris est.
+
+1. Id, quod quis pro derelicto habuerit, continuo meum fit: sicuti cum quis aes sparserit aut aves amiserit, quamvis incertae personae voluerit eas esse, tamen eius fierent, cui casus tulerit ea, quae, cum quis pro derelicto habeat, simul intellegitur voluisse alicuius fieri.
+
+41.7.6
+
+Iulianus libro tertio ad Urseium Ferocem
+
+Nemo potest pro derelicto usucapere, qui falso existimaverit rem pro derelicto habitam esse.
+
+41.7.7
+
+Iulianus libro secundo ex Minicio
+
+Si quis merces ex nave iactatas invenisset, num ideo usucapere non possit, quia non viderentur derelictae, quaeritur. Sed verius est eum pro derelicto usucapere non posse.
+
+41.7.8
+
+Paulus libro 18 responsorum
+
+Sempronius Thetidi status quaestionem facere temptabat, quasi de serva sua nata sit. Qui iam testato conventus a Procula nutrice Thetidis in solvendis alimentis respondit non se habere, unde alimenta eiusdem exsolvat, sed debere eam patri suo restituere Lucio Titio: idque ex illa in testationem redegisset, ut postea nullam quaestionem pateretur ab eodem Sempronio, Lucius Titius Seiae Proculae solutis alimentis puellam vindicta manumisit: quaero, an possit rescindi libertas Thetidis. Paulus respondit, quoniam dominus ancillae, ex qua Thetis nata est, Thetidem pro derelicto habuisse videtur, potuisse eam a Lucio Titio ad libertatem perduci.
+
+
+* 41.8.0. Pro legato.
+
+
+41.8.1
+
+Ulpianus libro sexto disputationum
+
+Legatorum nomine is videtur possidere cui legatum est: pro legato enim possessio et usucapio nulli alii, quam cui legatum est, competit.
+
+41.8.2
+
+Paulus libro 54 ad edictum
+
+Si possideam aliquam rem, quam putabam mihi legatam, cum non esset, pro legato non usucapiam:
+
+41.8.3
+
+Papinianus libro 23 quaestionum
+
+Non magis quam si quis emptum existimet, quod non emerit.
+
+41.8.4
+
+Paulus libro 54 ad edictum
+
+Pro legato potest usucapi, si res aliena legata sit aut testatoris quidem sit, sed adempta codicillis ignoratur: in horum enim persona subest iusta causa, quae sufficit ad usucapionem. Idem potest dici et si in nomine erit dubitatio, veluti si Titio legatum sit, cum sint duo Titii, ut alter eorum de se cogitatum existimaverit.
+
+41.8.5
+
+Iavolenus libro septimo ex Cassio
+
+Ea res, quae legati nomine tradita est, quamvis dominus eius vivat, legatorum tamen nomine usucapietur,
+
+41.8.6
+
+Pomponius libro 32 ad Sabinum
+
+Si is, cui tradita est, mortui esse existimaverit.
+
+41.8.7
+
+Iavolenus libro septimo ex Cassio
+
+Nemo potest legatorum nomine usucapere nisi is, cum quo testamenti factio est, quia ea possessio ex iure testamenti proficiscitur.
+
+41.8.8
+
+Papinianus libro 23 quaestionum
+
+Si non traditam possessionem ingrediatur sine vitio legatarius, legatae rei usucapio competit.
+
+41.8.9
+
+Hermogenianus libro quinto iuris epitomarum
+
+Pro legato usucapit, cui recte legatum relictum est: sed et si non iure legatum relinquatur vel legatum ademptum est, pro legato usucapi post magnas varietates optinuit.
+
+
+* 41.9.0. Pro dote.
+
+
+41.9.1
+
+Ulpianus libro 31 ad Sabinum
+
+pr. Titulus est usucapionis et quidem iustissimus, qui appellatur pro dote, ut, qui in dotem rem accipiat, usucapere possit spatio sollemni, quo solent, qui pro emptore usucapiunt.
+
+1. Et nihil refert, singulae res an pariter universae in dotem darentur.
+
+2. Et primum de tempore videamus, quando pro dote quis usucapere possit, utrum post tempora nuptiarum an vero et ante nuptias. Est quaestio volgata, an sponsus possit (hoc est qui nondum maritus est) rem pro dote usucapere. Et Iulianus inquit, si sponsa sponso ea mente tradiderit res, ut non ante eius fieri vellet, quam nuptiae secutae sint, usu quoque capio cessabit: si tamen non evidenter id actum fuerit, credendum esse id agi Iulianus ait, ut statim res eius fiant et, si alienae sint, usucapi possint: quae sententia mihi probabilis videtur. Ante nuptias autem non pro dote usucapit, sed pro suo.
+
+3. Constante autem matrimonio pro dote usucapio inter eos locum habet, inter quos est matrimonium: ceterum si cesset matrimonium, Cassius ait cessare usucapionem, quia et dos nulla sit.
+
+4. Idem scribit et si putavit maritus esse sibi matrimonium, cum non esset, usucapere eum non posse, quia nulla dos sit: quae sententia habet rationem.
+
+41.9.2
+
+Paulus libro 54 ad edictum
+
+Si aestimata res ante nuptias tradita sit, nec pro emptore nec pro suo ante nuptias usucapietur.
+
+41.9.3
+
+Scaevola libro 25 digestorum
+
+Duae filiae intestato patri heredes exstiterunt et mancipia communia singulae in dotem dederunt et post aliquot annos morte patris familiae herciscundae iudicium inter eas dictatum est. Quaesitum est, cum mariti bona fide mancipia in dotem accepta ut dotalia multis annis possederunt, an usucepisse videantur, si qui accipiebant, dantis credidissent esse. Respondit nihil proponi, cur non usucepissententiarum
+
+
+* 41.10.0. Pro suo.
+
+
+41.10.1
+
+Ulpianus libro 15 ad edictum
+
+pr. Pro suo possessio talis est. Cum dominium nobis adquiri putamus, et ex ea causa possidemus, ex qua adquiritur, et praeterea pro suo: ut puta ex causa emptionis et pro emptore et pro suo possideo, item donata vel legata vel pro donato vel pro legato etiam pro suo possideo.
+
+1. Sed si res mihi ex causa iusta puta emptionis tradita sit et usucapiam, incipio quidem et ante usucapionem pro meo possidere. Sed an desinam ex causa emptionis post usucapionem, dubitatur: et Mauricianus dicitur existimasse non desinere.
+
+41.10.2
+
+Paulus libro 54 ad edictum
+
+Est species possessionis, quae vocatur pro suo. hoc enim modo possidemus omnia, quae mari terra caelo capimus aut quae alluvione fluminum nostra fiunt. Item quae ex rebus alieno nomine possessis nata possidemus, veluti partum hereditariae aut emptae ancillae, pro nostro possidemus: similiter fructus rei emptae aut donatae aut quae in hereditate inventa est.
+
+41.10.3
+
+Pomponius libro 22 ad Sabinum
+
+Hominem, quem ex stipulatione te mihi debere falso existimabas, tradidisti mihi: si scissem mihi nihil debere, usu eum non capiam: quod si nescio, verius est, ut usucapiam, quia ipsa traditio ex causa, quam veram esse existimo, sufficit ad efficiendum, ut id quod mihi traditum est pro meo possideam. Et ita Neratius scripsit idque verum puto.
+
+41.10.4
+
+Pomponius libro 32 ad Sabinum
+
+pr. Si ancillam furtivam emisti fide bona ex ea natum et apud te conceptum est ita possedisti, ut intra constitutum usucapioni tempus cognosceres matrem eius furtivam esse, Trebatius omni modo, quod ita possessum esset, usucaptum esse. Ego sic puto distinguendum, ut, si nescieris intra statutum tempus, cuius id mancipium esset, aut si scieris neque potueris certiorem dominum facere, aut si potueris quoque et feceris certiorem, usucaperes: sin vero, cum scires et posses, non feceris certiorem, contra esse: tum enim clam possedisse videberis, neque idem et pro suo et clam possidere potest.
+
+1. Si pater cum filiis bona quae habebat partitus sit ex ea causa post mortem patris ea teneant, quod inter eos conveniret, ut ea divisio rata esset: usucapio his procedet pro suo in his rebus, quae alienae in bonis patris inveniuntur.
+
+2. Quod legatum non sit, ab herede tamen perperam traditum sit, placet a legatario usucapi, quia pro suo possidet.
+
+41.10.5
+
+Neratius libro quinto membranarum
+
+pr. Usucapio rerum, etiam ex aliis causis concessa interim, propter ea, quae nostra existimantes possideremus, constituta est, ut aliquis litium finis esset.
+
+1. Sed id, quod quis, cum suum esse existimaret, possederit, usucapiet, etiamsi falsa fuerit eius existimatio. quod tamen ita interpretandum est, ut probabilis error possidentis usucapioni non obstet, veluti si ob id aliquid possideam, quod servum meum aut eius, cuius in locum hereditario iure successi, emisse id falso existimem, quia in alieni facti ignorantia tolerabilis error est.

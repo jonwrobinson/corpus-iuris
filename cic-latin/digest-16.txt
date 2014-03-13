@@ -1,0 +1,810 @@
+
+ 
+DOMINI NOSTRI SACRATISSIMI PRINCIPIS
+IUSTINIANI
+IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
+DIGESTORUM SEU PANDECTARUM
+liber sextus decimus
+ 
+ 
+( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
+ 
+ 
+
+    * 16.1.0. Ad senatus consultum Velleianum.
+    * 16.2.0. De compensationibus.
+    * 16.3.0. Depositi vel contra.
+
+   
+
+16.1.0.  Ad senatus consultum Velleianum.
+ 
+
+16.1.1
+
+Paulus libro 30 ad edictum
+
+pr. Velleiano senatus consulto plenissime comprehensum est, ne pro ullo feminae intercederent.
+
+1. Nam sicut moribus civilia officia adempta sunt feminis et pleraque ipso iure non valent, ita multo magis adimendum eis fuit id officium, in quo non sola opera nudumque ministerium earum versaretur, sed etiam periculum rei familiaris.
+
+2. Aequum autem visum est ita mulieri succurri, ut in veterem debitorem aut in eum, qui pro se constituisset mulierem ream, actio daretur: magis enim ille quam creditor mulierem decepit.
+
+16.1.2 
+
+Ulpianus libro 29 ad edictum
+
+pr. Et primo quidem temporibus divi Augusti, mox deinde Claudii edictis eorum erat interdictum, ne feminae pro viris suis intercederent.
+
+1. Postea factum est senatus consultum, quo plenissime feminis omnibus subventum est. Cuius senatus consulti verba haec sunt: "Quod Marcus Silanus et Velleus Tutor consules verba fecerunt de obligationibus feminarum, quae pro aliis reae fierent, quid de ea re fieri oportet, de ea re ita censuere: quod ad fideiussores et mutui dationes pro aliis, quibus intercesserint feminae, pertinet, tametsi ante videtur ita ius dictum esse, ne eo nomine ab his petitio neve in eas actio detur, cum eas virilibus officiis fungi et eius generis obligationibus obstringi non sit aequum, arbitrari senatum recte atque ordine facturos ad quos de ea re in iure aditum erit, si dederint operam, ut in ea re senatus voluntas servetur".
+
+2. Verba itaque senatus consulti excutiamus prius providentia amplissimi ordinis laudata, quia opem tulit mulieribus propter sexus inbecillitatem multis huiuscemodi casibus suppositis atque obiectis.
+
+3. Sed ita demum eis subvenit, si non callide sint versatae: hoc enim divus Pius et Severus rescripserunt. Nam deceptis, non decipientibus opitulatur et est et Graecum Severi tale rescriptum: tais apatwsais gunaicin to dogma tys sugklytou boulys ou boyvei. [id est: decipientibus mulieribus senatus consultum non opilatur]. Infirmitas enim feminarum, non calliditas auxilium demeruit.
+
+4. Omnis omnino obligatio senatus consulto Velleiano comprehenditur, sive verbis sive re sive quocumque alio contractu intercesserint.
+
+5. Sed et si mulier defensor alicuius exstiterit, procul dubio intercedit: suscipit enim in se alienam obligationem, quippe cum ex hac re subeat condemnationem. Proinde neque maritum neque filium neque patrem permittitur mulieri defendere.
+
+16.1.3
+
+Paulus libro 30 ad edictum
+
+Sed si eum defendat, qui damnatus regressum ad eam habeat, veluti cum venditorem hereditatis sibi venditae vel fideiussorem suum defendat, intercedere non videtur.
+
+16.1.4 
+
+Ulpianus libro 29 ad edictum
+
+pr. Sed si ego cum muliere ab initio contraxerim, cum ignorarem cui haec factum vellet, non dubio senatus consultum cessare: et ita divus Pius et imperator noster rescripserunt.
+
+1. Proinde si, dum vult Titio donatum, accepit a me mutuam pecuniam et eam Titio donavit, cessabit senatus consultum. Sed et si tibi donatura creditori tuo nummos numeraverit, non intercedit: senatus enim obligatae mulieri succurrere voluit, non donanti: hoc ideo, quia facilius se mulier obligat quam alicui donat.
+
+16.1.5
+
+Gaius libro nono ad edictum provinciale
+
+Nec interest, pecuniam solvendi causa numeret an quamlibet suam rem in solutum det: nam et si vendiderit rem suam, sive pretium acceptum pro alio solvit sive emptorem delegavit creditori alieno, non puto senatus consulto locum esse.
+
+16.1.6
+
+Ulpianus libro 29 ad edictum
+
+Si fideiussores pro defensore absentis filii ex mandato matris eius intercesserint, quaeritur, an etiam his senatus consulto subveniatur. Et ait Papinianus libro nono quaestionum exceptione eos usuros: nec multum facere, quod pro defensore fideiusserunt, cum contemplatione mandati matris intervenerunt. Plane, inquit, si qui accepit eos fideiussores, matrem eis mandasse ignoravit, exceptionem senatus consulti replicatione doli repellendam.
+
+16.1.7
+
+Papinianus libro nono quaestionum
+
+Quamquam igitur fideiussor doli replicatione posita defensionem exceptionis amittit [amittat], nullam tamen replicationem adversus mulierem habebit, quia facti non potest ignorationem praetendere. Sed non erit iniquum dari negotiorum gestorum actionem in defensorem, quia mandati causa per senatus consultum constituitur irrita et pecunia fideiussoris liberatur.
+
+16.1.8 
+
+Ulpianus libro 29 ad edictum
+
+pr. Quamvis pignoris datio intercessionem faciat, tamen Iulianus libro duodecimo digestorum scribit redditionem pignoris, si creditrix mulier rem, quam pignori acceperat, debitori liberaverit, non esse intercessionem.
+
+1. Si mulier intervenerit apud tutores filii sui, ne hi praedia eius distraherent, et indemnitatem eis repromiserit, Papinianus libro nono quaestionum non putat eam intercessisse: nullam enim obligationem alienam recepisse neque veterem neque novam, sed ipsam fecisse hanc obligationem.
+
+2. Si mulier apud primum pro secundo intervenerit, mox pro primo apud creditorem eius, duas intercessiones factas Iulianus libro duodecimo digestorum scribit, unam pro secundo apud primum, aliam pro primo apud creditorem eius, et ideo et primo restitui obligationem et adversus eum. Marcellus autem notat esse aliquam differentiam, utrum hoc agatur, ut ab initio mulier in alterius locum subdatur et onus debitoris, a quo obligationem transferre creditor voluit, suscipiat, an vero quasi debitrix delegetur, scilicet ut, si quasi debitrix delegata est, una sit intercessio. Proinde secundum hanc suam distinctionem in prima visione, ubi quasi debitrix delegata est, exceptionem ei senatus consulti Marcellus non daret: sed condemnata vel ante condemnationem condicere utique ei a quo delegata est poterit vel quod ei abest vel, si nondum abest, liberationem.
+
+3. Interdum intercedenti mulieri et condictio competit, ut puta si contra senatus consultum obligata debitorem suum delegaverit: nam hic ipsi competit condictio, quemadmodum, si pecuniam solvisset, condiceret: solvit enim et qui reum delegat.
+
+4. Sed si is, qui a muliere delegatus est, debitor eius non fuit, exceptione senatus consulti poterit uti, quemadmodum mulieris fideiussor.
+
+5. Plane si mulier intercessura debitorem suum delegaverit, senatus consultum cessat, quia et si pecuniam numerasset, cessaret senatus consultum: mulier enim per senatus consultum relevatur, non quae deminuit, restituitur.
+
+6. Sed si eum delegaverit qui debitor eius non fuit, fraus senatus consulto facta videbitur et ideo exceptio datur.
+
+7. Quotiens pro debitore intercesserit mulier, datur in eum pristina actio, etsi ille prius acceptilatione liberatus sit quam mulier intercesserit.
+
+8. Si convenerit cum debitore, ut expromissorem daret, et acceptum ei latum sit, deinde is dederit mulierem quae auxilio senatus consulti munita est, potest ei condici, quasi non dedisset: quid enim interest, non det an talem det? Non erit igitur actio utilis necessaria, cum condictio competat.
+
+9. Marcellus quoque scribit, si mulieri post intercessionem accepto tulerit creditor, nihilo minus restitutoriam actionem ei dari debere: inanem enim obligationem dimisit.
+
+10. Si mulier post intercessionem sic solverit, ne repetere possit, iuste prior debitor actionem recusat. Sed cum relevatur reus, si mulier sic solvit, ut repetere non possit, et cum ei mulieri, quae repetere non poterat, si solvisset, accepto tulit creditor, similiter relevatur reus.
+
+11. Quamquam in omnes qui liberati sunt restituitur actio, non tamen omnibus restituitur. Ut puta duo rei stipulandi fuerunt: apud alterum mulier intercessit: ei soli restituitur obligatio, apud quem intercessit.
+
+12. Si mulieri heres extiterit creditor, videndum, an restitutoria uti non possit. Et ait Iulianus libro duodecimo restitutoria eum nihilo minus usurum, non immerito, cum non obligatae cum effectu successerit: denique in Falcidia hoc aes alienum non imputabitur.
+
+13. Plane si mihi proponas mulierem veteri debitori successisse, dicendum erit restitutoria eam conveniri posse, sed et directa actione: nihil enim eius interest, qua actione conveniatur.
+
+14. Si, cum essem tibi contracturus, mulier intervenerit, ut cum ipsa potius contraham, videtur intercessisse: quo casu datur in te actio, quae instituit magis quam restituit obligationem, ut perinde obligeris eodem genere obligationis, quo mulier est obligata: verbi gratia si per stipulationem mulier, et tu quasi ex stipulatu convenieris.
+
+15. Illud videndum est, si mulier pro eo intervenit, qui, si cum ipso contractum esset, non obligaretur, an hac actione ille debeat teneri? Ut puta si pro pupillo intercessit, qui sine tutoris auctoritate non obligatur. Et puto non obligari pupillum, nisi locupletior factus est ex hoc contractu. Item si minor viginti quinque annis sit, pro quo mulier intercessit, in integrum restitutionem poterit implorare: vel filius contra senatus consultum contracturus est.
+
+16.1.9
+
+Paulus libro sexto regularum
+
+Sed si pro alieno servo intercedat, quemadmodum in patrem familias priorem reum restituitur actio, ita in dominum quoque restituenda erit.
+
+16.1.10
+
+Ulpianus libro 29 ad edictum
+
+Hae actiones, quae in eos pro quibus mulier intercessit dantur, et heredibus et in heredes et perpetuo competunt: habent enim rei persecutionem: ceteris quoque honorariis successoribus dabuntur et adversus eos.
+
+16.1.11
+
+Paulus libro 30 ad edictum
+
+Si mulier tamquam in usus suos pecuniam acceperit alii creditura, non est locus senatus consulto: alioquin nemo cum feminis contrahet, quia ignorari potest, quid acturae sint.
+
+16.1.12
+
+Paulus libro sexto brevium
+
+Immo tunc locus est senatus consulto, cum scit creditor eam intercedere.
+
+16.1.13 
+
+Gaius libro nono ad edictum provinciale
+
+pr. Aliquando, licet alienam obligationem suscipiat mulier, non adiuvatur hoc senatus consulto: quod tum accidit, cum prima facie quidem alienam, re vera autem suam obligationem suscipiat. Ut ecce si ancilla ob pactionem libertatis expromissore dato post manumissionem id ipsum suscipiat quod expromissor debeat, aut si hereditatem emerit et aes alienum hereditarium in se transcribat, aut si pro fideiussore suo intercedat.
+
+1. De pignoribus prioris debitoris non est creditori nova actione opus, cum quasi serviana (quae et hypothecaria vocatur) in his utilis sit: quia verum est convenisse de pignoribus nec solutam esse pecuniam.
+
+2. Si sub condicione vel in diem mulier pro alio intercesserit, etiam pendente condicione volenti creditori cum priore debitore experiri actio danda est restitutoria: quo enim bonum est exspectare condicionem vel diem, cum in ea causa sit prior iste debitor, ut omnimodo ipse debeat suscipere actionem?
+
+16.1.14
+
+Iulianus libro 12 digestorum
+
+Si mulier contra senatus consultum intercesserit, aequum est non solum in veterem debitorem, sed et in fideiussores eius actionem restitui: nam cum mulieris persona subtrahatur creditori propter senatus consultum, integra causa pristina restituenda est.
+
+16.1.15
+
+Iulianus libro 51 digestorum
+
+Si mulieri solvero id quod tibi debebam et ab ea ratam rem te habiturum stipulatus fuero et forte te ratum non habente agere ex stipulatu instituero, exceptio senatus consulti, quod de intercessionibus feminarum factum est, non proderit mulieri: non enim videri potest alienam obligationem recusare, cum maneam debito obligatus, et ipsa de lucro agat ac potius reddere cogatur quod non debitum acceperat, quam pro alio solvere.
+
+16.1.16 
+
+Iulianus libro quarto ad Urseium Ferocem
+
+pr. Si mulier contra senatus consultum Velleianum pro me intercessisset Titio egoque mulieri id solvissem et ab ea Titius eam pecuniam peteret, exceptio huius senatus consulti non est profutura mulieri: neque enim eam periclitari, ne eam pecuniam perdat, cum iam eam habeat.
+
+1. Si ab ea muliere, quae contra senatus consultum intercessisset, fideiussorem accepissem, Gaius Cassius respondit ita demum fideiussori exceptionem dandam, si a muliere rogatus fuisset. Iulianus autem recte putat fideiussori exceptionem dandam, etiamsi mandati actionem adversus mulierem non habet, quia totam obligationem senatus improbat et a praetore restituitur prior debitor creditori.
+
+16.1.17 
+
+Africanus libro quarto quaestionum
+
+pr. Vir uxori donationis causa rem viliori pretio addixerat et in id pretium creditori suo delegaverat. Respondit venditionem nullius momenti esse et, si creditor pecuniam a muliere peteret, exceptionem utilem fore, quamvis creditor existimaverit mulierem debitricem mariti fuisse: nec id contrarium videri debere ei, quod placeat, si quando in hoc mulier mutuata est, ut marito crederet, non obstaturam exceptionem, si creditor ignoraverit in quam causam mulier mutuaretur, quoniam quidem plurimum intersit, utrum cum muliere quis ab initio contrahat an alienam obligationem in eam transferat: tunc enim diligentiorem esse debere.
+
+1. Si mulier dixisset sibi rem dotis nomine obligatam et creditor curasset ei pecuniam dotis solvi, qui idem pignus acciperet, mulieri etiam pecunia credita deberetur: si possessor creditor adversus eam serviana agentem exciperet "si non voluntate eius pignus datum esset", replicationem mulieri senatus consulti non profuturam, nisi creditor scisset etiam aliam pecuniam ei deberi.
+
+2. Mulier et Titius, cum in rem communem mutuarentur, eiusdem pecuniae rei facti sunt: non omnimodo mulierem pro parte socii videri intercessisse dicebat. Nam si ob eam causam mutuati fuerint, ex qua, si creditor pecuniam non dedisset, maius damnum mulier passura fuerat, veluti quod communis insula fulta non esset vel quod fundus communis in publicum committeretur, potius esse, ut senatus consulto locus non sit. At si in aliquam emptionem mutua pecunia sit accepta, tunc pro parte intercessionem factam videri et ideo creditorem partem dumtaxat pecuniae a muliere petere posse: quod si totum petierit, exceptione pro parte summovetur.
+
+16.1.18
+
+Paulus libro octavo ad Plautium
+
+Idem et si pro debitore meo Titius et mulier duo rei intercesserint.
+
+16.1.19 
+
+Africanus libro quarto quaestionum
+
+pr. Tutor pupilli decesserat herede instituto titio: cum de adeunda hereditate dubitaret, quoniam male gesta tutela existimaretur, persuadente matre pupilli, ut suo periculo adiret, adiit stipulatusque de ea est indemnem se eo nomine praestari. Si ex ea causa Titius pupillo aliquid praestitisset isque matrem conveniret, negavit exceptioni senatus consulti locum esse, quando vix sit, ut aliqua apud eundem pro eo ipso intercessisse intellegi possit.
+
+1. Nec dissimilem huic propositioni ex facto agitatam. Cum quidam vir praetorius decessisset duobus filiis superstitibus, quorum alter impubes esset et alter legitimus tutor fratri esset et eum paterna hereditate abstinere vellet, mandatu uxoris defuncti, quae mater pupillo esset, abstento pupillo solum se hereditati miscuisse: ubi similiter se respondisse Iulianus ait, si ex ea causa agente pupillo damnum eo nomine passus esset, non impediri eum senatus consulto, quo minus a muliere rem servaret.
+
+2. In proposita specie et illud tractandum est, an is, qui mandato mulieris adierit, si damnum ob id patiatur, quod debitores hereditarii solvendo non fuerint, senatus consulto locus sit, quasi quodammodo eorum obligationes mulier susceperit. Magis autem est, ut ne ob hanc quidem causam senatus consultum locum habeat, quando non ea mente fuerit, ut pro his intercederet, sed tutoris adversus pupillum et ceteros forte creditores indemnem heredem praestaret.
+
+3. Denique si ponamus mulierem in emptionem hereditatis eo nomine damnum pati, quod debitores hereditarii solvendo non sint, nulla puto dubitatio erit, quin senatus consulto locus non sit, etiamsi maxime creditoribus aliquantum praestiterit.
+
+4. Quid ergo si, cum propterea de adeunda hereditate dubitaret titius, quod parum idonea nomina debitorum viderentur, mulier hoc ipsum repromisit, ut, quanto minus a quoquo eorum servari posset, ipsa praestaret? Prope est, ut sit intercessio.
+
+5. Cum haberes Titium debitorem et pro eo mulier intercedere vellet nec tu mulieris nomen propter senatus consultum sequereris, petit a me mulier mutuam pecuniam solutura tibi et stipulanti mihi promisit ignoranti, in quam rem mutuaretur atque ita numerare me tibi iussit: deinde ego, quia ad manum nummos non habebam, stipulanti tibi promisi: quaesitum est, si eam pecuniam a muliere petam, an exceptio senatus consulti ei prosit. Respondit videndum, ne non sine ratione dicatur eius loco, qui pro muliere fideiusserit, haberi me debere, ut quemadmodum illi, quamvis ignoraverit mulierem intercedere, exceptio adversus creditorem detur, ne in mulierem mandati actio competat, ita mihi quoque adversus te utilis exceptio detur mihique in mulierem actio denegetur, quando haec actio periculo mulieris futura sit. Et haec Paulo expeditius dicenda, si prius, quam ego tibi pecuniam solverim, compererim eam intercessisse: ceterum si ante solverim, videndum, utrumne nihilo minus mulieri quidem exceptio adversus me dari debeat et ego tibi condicere pecuniam possim, an vero perinde habendum sit, ac si initio ego pecuniam mulieri credidissem ac rursus tu mihi in creditum isses. Quod quidem magis dicendum existimavit, ut sic senatus consulto locus non sit: sicuti et cum debitorem suum mulier deleget, intercessioni locus non sit. Quae postea non recte comparari ait, quando delegatione debitoris facta mulier non obligetur, at in proposito alienam obligationem in se transtulerit, quod certe senatus fieri noluerit.
+
+16.1.20
+
+Africanus libro octavo quaestionum
+
+Si pro uno reo intercessit mulier, adversus utrumque restituitur actio creditori.
+
+16.1.21 
+
+Callistratus libro tertio institutionum
+
+pr. Si pro aliquo mulier intercesserit, sed in rem eius quod acceptum est versaretur, exceptio senatus consulti locum non habet, quia non fit pauperior.
+
+1. Item si quid liberaliter fecerit, veluti ne iudicatus pater eius propter solutionem vexetur, non erit tuta senatus consulto: oneribus enim earum senatus succurrit.
+
+16.1.22
+
+Paulus libro sexto regularum
+
+Si mulieri dederim pecuniam, ut eam creditori meo solvat vel expromittat, si ea expromiserit, locum non esse senatus consulto Pomponius scribit, quia mandati actione obligata in rem suam videtur obligari.
+
+16.1.23
+
+Paulus libro singulari ad senatus consultum Velleianum
+
+Si mulier in iure interrogata responderit se heredem esse, si sciens se heredem non esse responderit, minime intercessisse videri, quia decepit: quod si existimavit se heredem et eo nomine decepta responderit in eam actionem quidem dari plerique existimaverunt, sed exceptione senatus adiuvari.
+
+16.1.24 
+
+Paulus libro singulari de intercessionibus feminarum
+
+pr. Debitrix mulier a creditore delegata pro eo cui delegata est promisit: non utetur exceptione.
+
+1. Sed si pecuniam promisit, ne delegetur, intercessisse videtur.
+
+2. Si senatus consulti beneficium intervenit, utrum statim cum mulier intercesserit actio in priorem debitorem competit, an si mulier solutum condicat? Puto statim, et non exspectandam solutionem.
+
+3. Si pro eo, qui temporali actione teneretur, mulier intercesserit, temporalis actio restituetur, sic tamen, ut ex praecedenti causa continua tempora numerarentur post restitutionem, quamvis statim atque intercessit mulier competierat.
+
+16.1.25 
+
+Modestinus libro singulari de heurematicis
+
+pr. Si domina servo suo credi iusserit, actione honoraria tenebitur.
+
+1. Quod si pro eo fideiusserit, exceptione senatus consulti Velleiani iudicio conventa adversus creditorem tueri se poterit, nisi pro suo negotio hoc fecerit.
+
+16.1.26
+
+Ulpianus libro 37 ad edictum
+
+Si mulier intercedendi animo servum alienum suum esse responderit, quasi intercesserit auxilio senatus consulti utetur. Plane si pro bona fide serviente sibi responderit, non videtur intercessisse.
+
+16.1.27 
+
+Papinianus libro tertio responsorum
+
+pr. Bona fide personam mulieris in contrahendo secutus ob ea, quae inter virum et uxorem accepta pecunia gesta sunt, exceptione senatus consulti non summovetur.
+
+1. Cum servi ad negotiationem praepositi cum alio contrahentes personam mulieris ut idoneae sequuntur, exceptione senatus consulti dominum summovet: nec videtur deterior causa domini per servum fieri, sed nihil esse domino quaesitum, non magis, quam si litigiosum praedium servus aut liberum hominem emerit.
+
+2. Uxor debitricem suam viro delegavit, ut vir creditori eius pecuniam solveret: si fidem suam pro ea quam delegavit apud virum obligaverit, locum exceptio senatus consulti non habebit, quia mulier suum negotium gessit.
+
+16.1.28 
+
+Scaevola libro primo responsorum
+
+pr. Seia mancipia emit et mutuam pecuniam accepit sub fideiussore marito eamque solvit venditori: postea maritus decedens non solvendo in fraudem creditoris cavit testamento se eam pecuniam universam debere: quaeritur, an intercessisse mulier videretur. Respondi secundum ea quae proponerentur non intercessisse.
+
+1. Fundum uxoris suae maritus obligavit Sempronio ob conductionem: mox mulier a numerio sua fide mutuam pecuniam acceptam sub obligatione eiusdem fundi solvit statim Sempronio pro marito suo: quaesitum est, an adversus senatus consultum obligata sit. Respondi, si numerius scisset eam intercedere, fore senatus consulto de quo quaereretur locum.
+
+16.1.29 
+
+Paulus libro 16 responsorum
+
+pr. Quidam voluit heredibus Lucii Titii mutuam pecuniam dare et cum eis contrahere: sed quoniam facultates eorum suspectas habuit, magis voluit uxori testatoris dare pecuniam et ab ea pignus accipere: mulier eandem pecuniam dedit heredibus et ab his pignus accepit: quaero an intercessisse videatur et an pignora, quae ipsa accepit, teneantur creditori. Paulus respondit, si creditor, cum contrahere vellet cum heredibus Lucii Titii, evitatis his magis mulierem ream elegit, et in ipsius persona senatus consulto, quod de intercessionibus factum est, locum esse et pignora ab ea data non teneri. Eas autem res, quas mulier ab his, pro quibus intercedebat, pignori accepit, creditori mulieris obligatas non esse. Sed non sine ratione praetorem facturum, si non tantum in persona subducta muliere in principales debitores dederit actionem, sed etiam in res, quae mulieri obligatae sunt.
+
+1. Paulus respondit ea, quae in fraudem senatus consulti, quod de intercessione feminarum factum est, excogitata probari possunt, rata haberi non oportere.
+
+16.1.30 
+
+Paulus libro secundo sententiarum
+
+pr. Si decipiendi animo vel cum sciret se non teneri mulier pro aliquo intercesserit, exceptio ei senatus consulti non datur: actionem enim, quae in dolum mulieris competit, amplissimus ordo non excludit.
+
+1. Procurator si mandatu mulieris pro alio intercesserit, exceptione senatus consulti Velleiani adiuvatur, ne alias actio intercidat.
+
+16.1.31
+
+Paulus libro primo ad Neratium
+
+Paulus: si mulier quod ex intercessione solvit nolit repetere, sed mandati agere et cavere velit de indemnitate reo, audienda est.
+
+16.1.32 
+
+Pomponius libro primo senatus consultorum
+
+pr. Si mulier hereditatem alicuius adeat, ut aes alienum eius suscipiat, vix est, ut succurri ei debeat, nisi si fraude creditorum id conceptum sit: nec enim loco minoris viginti quinque annis circumscripti per omnia habenda est mulier.
+
+1. Si mulier rem a se pignori datam per intercessionem recipere velit, fructus etiam liberos recipit et, si res deterior facta fuerit, eo nomine magis aestimetur. Sed si creditor, qui pignus per intercessionem acceperit, hoc alii vendidit, vera est eorum opinio, qui petitionem dandam ei putant et adversus bonae fidei emptorem, ne melioris condicionis emptor sit, quam fuerit venditor.
+
+2. Item si mulier creditori viri fundum vendidit et tradidit ea condicione, ut emptor acceptam pecuniam viro referret, et hunc fundum vindicat, exceptio quidem opponitur ei de re empta et tradita, sed replicabitur a muliere: "aut si ea venditio contra senatus consultum facta sit", et hoc procedit, sive ipse creditor emerit sive interposuerit alium, quo mulier ea ratione careat re sua. Idem est et si non pro viro, sed pro alio debitore rem suam tradidit.
+
+3. Si mulier, ne ipsa intercederet, alii mandaret ut id faceret, an in huius persona locus huic senatus consulto sit, qui rogatu mulieris id faceret? Totus enim sermo senatus consulti ad petitionem non dandam adversus ipsam mulierem spectat. Et puto rem ita esse distinguendam, ut, si quidem creditor, cui me obligavi mandante muliere, hoc in fraudem senatus consulti egisset, ne ipsa interveniret contra senatus consultum, daret autem alium, excludendum eum exceptione fraudis senatus consulti factae: si vero is ignorasset, ego autem scissem, tunc mandati me agentem cum muliere excludendum esse, me autem creditori teneri.
+
+4. Si mulier pro eo, pro quo intercesserit, iudicium parata sit accipere, ut non in veterem debitorem actio detur: quoniam senatus consulti exceptionem opponere potest, cavere debebit exceptione se non usuram et sic ad iudicem ire.
+
+5. Intercedere mulierem intellegendum est etiam pro eo, qui obligari non possit, veluti si pro servo alieno intercedit: sed rescissa intercessione in dominum restituenda est actio.
+ 
+
+16.2.0. De compensationibus.
+ 
+
+16.2.1
+
+Modestinus libro sexto pandectarum
+
+Compensatio est debiti et crediti inter se contributio.
+
+16.2.2
+
+Iulianus libro 90 digestorum
+
+Unusquisque creditorem suum eundemque debitorem petentem summovet, si paratus est compensare.
+
+16.2.3
+
+Pomponius libro 25 ad Sabinum
+
+Ideo compensatio necessaria est, quia interest nostra potius non solvere quam solutum repetere.
+
+16.2.4
+
+Paulus libro tertio ad Sabinum
+
+Verum est, quod et Neratio placebat et Pomponius ait, ipso iure eo minus fideiussorem ex omni contractu debere, quod ex compensatione reus retinere potest: sicut enim, cum totum peto a reo, male peto, ita et fideiussor non tenetur ipso iure in maiorem quantitatem quam reus condemnari potest.
+
+16.2.5
+
+Gaius libro nono ad edictum provinciale
+
+Si quid a fideiussore petetur, aequissimum est eligere fideiussorem, quod ipsi an quod reo debetur, compensare malit: sed et si utrumque velit compensare, audiendus est.
+
+16.2.6
+
+Ulpianus libro 30 ad Sabinum
+
+Etiam quod natura debetur, venit in compensationem.
+
+16.2.7 
+
+Ulpianus libro 28 ad edictum
+
+pr. Quod in diem debetur, non compensabitur, antequam dies venit, quamquam dari oporteat.
+
+1. Si rationem compensationis iudex non habuerit, salva manet petitio: nec enim rei iudicatae exceptio obici potest. Aliud dicam, si reprobavit pensationem quasi non existente debito: tunc enim rei iudicatae mihi nocebit exceptio.
+
+16.2.8
+
+Gaius libro nono ad edictum provinciale
+
+In compensationem etiam id deducitur, quo nomine cum actore lis contestata est, ne diligentior quisque deterioris condicionis habeatur, si compensatio ei denegetur.
+
+16.2.9 
+
+Paulus libro 32 ad edictum
+
+pr. Si cum filio familias aut servo contracta sit societas et agat dominus vel pater, solidum per compensationem servamus, quamvis, si ageremus, dumtaxat de peculio praestaretur.
+
+1. Sed si cum filio familias agatur, an quae patri debeantur filius compensare possit, quaeritur: et magis est admittendum, quia unus contractus est, sed cum condicione, ut caveat patrem suum ratum habiturum, id est non exacturum quod is compensaverit.
+
+16.2.10 
+
+Ulpianus libro 63 ad edictum
+
+pr. Si ambo socii parem neglegentiam societati adhibuimus, dicendum est desinere nos invicem esse obligatos ipso iure compensatione neglegentiae facta. Simili modo probatur, si alter ex re communi aliquid perceperit, alter tantam neglegentiam exhibuerit, quae eadem quantitate aestimatur, compensationem factam videri et ipso iure invicem liberationem.
+
+1. Si quis igitur compensare potens solverit, condicere poterit quasi indebito soluto.
+
+2. Quotiens ex maleficio oritur actio, ut puta ex causa furtiva ceterorumque maleficiorum, si de ea pecuniarie agitur, compensatio locum habet: idem est et si condicatur ex causa furtiva. Sed et qui noxali iudicio convenitur, compensationem opponere potest.
+
+3. In stipulationibus quoque quae instar actionum habent, id est praetoriis, compensatio locum habet, et secundum iulianum tam in ipsa stipulatione quam in ex stipulatu actione poterit obici compensatio.
+
+16.2.11
+
+Ulpianus libro 32 ad edictum
+
+Cum alter alteri pecuniam sine usuris, alter usurariam debet, constitutum est a divo Severo concurrentis apud utrumque quantitatis usuras non esse praestandas.
+
+16.2.12
+
+Ulpianus libro 64 ad edictum
+
+Idem iuris est non solum in privatis, verum etiam in causa fisci constitutum. Sed et si invicem sit usuraria pecunia, diversae tamen sint usurae, compensatio nihilo minus locum habet eius quod invicem debetur.
+
+16.2.13
+
+Ulpianus libro 66 ad edictum
+
+Quod Labeo ait, non est sine ratione, ut, si cui petitioni specialiter destinata est compensatio, in ceteris non obiciatur.
+
+16.2.14
+
+Iavolenus libro 15 ex Cassio
+
+Quaecumque per exceptionem peremi possunt, in compensationem non veniunt.
+
+16.2.15
+
+Iavolenus libro secundo epistularum
+
+Pecuniam certo loco Titio dari stipulatus sum: is petit a me quam ei debeo pecuniam: quaero, an hoc quoque pensandum sit, quanti mea interfuit certo loco dari. Respondit: si Titius petit, eam quoque pecuniam, quam certo loco promisit, in compensationem deduci oportet, sed cum sua causa, id est ut ratio habeatur, quanti Titii interfuerit eo loco quo convenerit pecuniam dari.
+
+16.2.16 
+
+Papinianus libro tertio quaestionum
+
+pr. Cum militi castrensium bonorum alius, ceterorum alius heres exstitit et debitor alteri heredum obligatus vult compensare quod ab alio debetur, non audietur.
+
+1. Cum intra diem ad iudicati exsecutionem datum iudicatus Titio agit cum eodem Titio, qui et ipse pridem illi iudicatus est, compensatio admittetur: aliud est enim diem obligationis non venisse, aliud humanitatis gratia tempus indulgeri solutionis.
+
+16.2.17
+
+Papinianus libro primo responsorum
+
+Ideo condemnatus, quod artiorem annonam aedilitatis tempore praebuit, frumentariae pecuniae debitor non videbitur, et ideo compensationem habebit.
+
+16.2.18 
+
+Papinianus libro tertio responsorum
+
+pr. In rem suam procurator datus post litis contestationem, si vice mutua conveniatur, aequitate compensationis utetur.
+
+1. Creditor compensare non cogitur quod alii quam debitori suo debet, quamvis creditor eius pro eo, qui convenitur ob debitum proprium, velit compensare.
+
+16.2.19
+
+Papinianus libro 11 responsorum
+
+Debitor pecuniam publicam servo publico citra voluntatem eorum solvit, quibus debitum recte solvi potuit: obligatio pristina manebit, sed dabitur ei compensatio peculii fini, quod servus publicus habebit.
+
+16.2.20
+
+Papinianus libro 13 responsorum
+
+Ob negotium copiarum expeditionis tempore mandatum curatorem condemnatum pecuniam iure compensationis retinere non placuit, quoniam ea non compensantur.
+
+16.2.21
+
+Paulus libro primo quaestionum
+
+Posteaquam placuit inter omnes id quod invicem debetur ipso iure compensari, si procurator absentis conveniatur, non debebit de rato cavere, quia nihil compensat, sed ab initio minus ab eo petitur.
+
+16.2.22
+
+Scaevola libro secundo quaestionum
+
+Si debeas decem aut hominem, utrum adversarius volet, ita compensatio huius debiti admittitur, si adversarius palam dixisset, utrum voluisset.
+
+16.2.23
+
+Paulus libro nono responsorum
+
+Id quod pupillorum nomine debetur si tutor petat, non posse compensationem obici eius pecuniae, quam ipse tutor suo nomine adversario debet.
+
+16.2.24
+
+Paulus libro tertio decretorum
+
+Iussit imperator audiri adprobantem sibi a fisco deberi, quod ipse convenitur.
+ 
+
+16.3.0. Depositi vel contra.
+ 
+
+16.3.1 
+
+Ulpianus libro 30 ad edictum
+
+pr. Depositum est, quod custodiendum alicui datum est, dictum ex eo quod ponitur: praepositio enim de auget depositum, ut ostendat totum fidei eius commissum, quod ad custodiam rei pertinet.
+
+1. Praetor ait: "Quod neque tumultus neque incendii neque ruinae neque naufragii causa depositum sit, in simplum, earum autem rerum, quae supra comprehensae sunt, in ipsum in duplum, in heredem eius, quod dolo malo eius factum esse dicetur qui mortuus sit, in simplum, quod ipsius, in duplum iudicium dabo."
+
+2. Merito has causas deponendi separavit praetor, quae continent fortuitam causam depositionis ex necessitate descendentem, non ex voluntate proficiscentem.
+
+3. Eum tamen deponere tumultus vel incendii vel ceterarum causarum gratia intellegendum est, qui nullam aliam causam deponendi habet quam imminens ex causis supra scriptis periculum.
+
+4. Haec autem separatio causarum iustam rationem habet: quippe cum quis fidem elegit nec depositum redditur, contentus esse debet simplo, cum vero extante necessitate deponat, crescit perfidiae crimen et publica utilitas coercenda est vindicandae rei publicae causa: est enim inutile in causis huiusmodi fidem frangere.
+
+5. Quae depositis rebus accedunt, non sunt deposita, ut puta si homo vestitus deponatur, vestis enim non est deposita: nec si equus cum capistro, nam solus equus depositus est.
+
+6. Si convenit, ut in deposito et culpa praestetur, rata est conventio: contractus enim legem ex conventione accipiunt.
+
+7. Illud non probabis, dolum non esse praestandum si convenerit: nam haec conventio contra bonam fidem contraque bonos mores est et ideo nec sequenda est.
+
+8. Si vestimenta servanda balneatori data perierunt, si quidem nullam mercedem servandorum vestimentorum accepit, depositi eum teneri et dolum dumtaxat praestare debere puto: quod si accepit, ex conducto.
+
+9. Si quis servum custodiendum coniecerit forte in pistrinum, si quidem merces intervenit custodiae, puto esse actionem adversus pistrinarium ex conducto: si vero mercedem accipiebam ego pro hoc servo, quem in pistrinum accipiebat, ex locato me agere posse: quod si operae eius servi cum custodia pensabantur, quasi genus locati et conducti intervenit, sed quia pecunia non datur, praescriptis verbis datur actio: si vero nihil aliud quam cibaria praestabat nec de operis quicquam convenit, depositi actio est.
+
+10. In conducto et locato et in negotio, ex quo diximus praescriptis verbis dandam actionem, et dolum et culpam praestabunt qui servum receperunt: at si cibaria tantum, dolum dumtaxat. Sequemur tamen, ut Pomponius ait, et quid habuerunt proscriptum aut quid convenerit, dummodo sciamus et si quid fuit proscriptum, dolum tamen eos praestaturos qui receperunt, qui solus in depositum venit.
+
+11. Si te rogavero, ut rem meam perferas ad titium, ut is eam servet, qua actione tecum experiri possum, apud Pomponium quaeritur. Et putat tecum mandati, cum eo vero, qui eas res receperit, depositi: si vero tuo nomine receperit, tu quidem mihi mandati teneris, ille tibi depositi, quam actionem mihi praestabis mandati iudicio conventus.
+
+12. Quod si rem tibi dedi, ut, si titius rem non recepisset, tu custodires, nec eam recepit, videndum est, utrum depositi tantum an et mandati actio sit. et Pomponius dubitat: puto tamen mandati esse actionem, quia plenius fuit mandatum habens et custodiae legem.
+
+13. Idem Pomponius quaerit, si tibi mandavero, ut rem ab aliquo meo nomine receptam custodias, idque feceris, mandati an depositi tenearis. Et magis probat mandati esse actionem, quia hic est primus contractus.
+
+14. Idem Pomponius quaerit, si apud te volentem me deponere iusseris apud libertum tuum deponere, an possim tecum depositi experiri. Et ait, si tuo nomine, hoc est quasi te custodituro, deposuissem, mihi tecum depositi esse actionem: si vero suaseris mihi, ut magis apud eum deponam, tecum nullam esse actionem, cum illo depositi actio est: nec mandati teneris, quia rem meam gessi. Sed si mandasti mihi, ut periculo tuo apud eum deponam, cur non sit mandati actio, non video. Plane si fideiussisti pro eo, Labeo omnimodo fideiussorem teneri ait, non tantum si dolo fecit is qui depositum suscepit, sed et si non fecit, est tamen res apud eum. Quid enim si fureret is, apud quem depositum sit, vel pupillus sit, vel neque heres neque bonorum possessor neque successor eius exstaret? Tenebitur ergo, ut id praestet, quod depositi actione praestari solet.
+
+15. An in pupillum, apud quem sine tutoris auctoritate depositum est, depositi actio detur, quaeritur. Sed probari oportet, si apud doli mali iam capacem deposueris, agi posse, si dolum commisit: nam et in quantum locupletior factus est, datur actio in eum et si dolus non intervenit.
+
+16. Si res deposita deterior reddatur, quasi non reddita agi depositi potest: cum enim deterior redditur, potest dici dolo malo redditam non esse.
+
+17. Si servus meus deposuerit, nihilo minus depositi habebo actionem.
+
+18. Si apud servum deposuero et cum manumisso agam, Marcellus ait nec tenere actionem, quamvis solemus dicere doli etiam in servitute commissi teneri quem debere, quia et delicta et noxae caput sequuntur: erit igitur ad alias actiones competentes decurrendum.
+
+19. Haec actio bonorum possessoribus ceterisque <successoribus> et ei, cui ex Trebelliano senatus consulto restituta est hereditas, competit.
+
+20. Non tantum praeteritus dolus in depositi actione veniet, sed etiam futurus, id est post litem contestatam.
+
+21. Inde scribit Neratius, si res deposita sine dolo malo amissa sit et post iudicium acceptum reciperaretur, nihilo minus recte ad restitutionem reum compelli nec debere absolvi, nisi restituat. Idem Neratius ait, quamvis tunc tecum depositi actum sit, cum restituendi facultatem non habeas horreis forte clusis, tamen si ante condemnationem restituendi facultatem habeas, condemnandum te nisi restituas, quia res apud te est: tunc enim quaerendum, an dolo malo feceris, cum rem non habes.
+
+22. Est autem et apud Iulianum libro tertio decimo digestorum scriptum eum qui rem deposuit statim posse depositi actione agere: hoc enim ipso dolo facere eum qui suscepit, quod reposcenti rem non reddat. Marcellus autem ait non semper videri posse dolo facere eum, qui reposcenti non reddat: quid enim si in provincia res sit vel in horreis, quorum aperiendorum condemnationis tempore non sit facultas? Vel condicio depositionis non exstitit?
+
+23. Hanc actionem bonae fidei esse dubitari non oportet.
+
+24. Et ideo et fructus in hanc actionem venire et omnem causam et partum, dicendum est, ne nuda res veniat.
+
+25. Si rem depositam vendidisti eamque postea redemisti in causam depositi, etiamsi sine dolo malo postea perierit, teneri te depositi, quia semel dolo fecisti, cum venderes.
+
+26. In depositi quoque actione in litem iuratur.
+
+27. Non solum si servus meus, sed et si is qui bona fide mihi serviat rem deposuerit, aequissimum erit dari mihi actionem, si rem ad me pertinentem deposuit.
+
+28. Simili modo et si usum fructum in servo habeam, si id quod deposuit ex eo peculio fuit quod ad me pertinebat vel res mea fuit, eadem actione agere potero.
+
+29. Item si servus hereditarius deposuerit, heredi postea adeunti competit actio.
+
+30. Si servus deposuit, sive vivat sive decesserit, utiliter dominus hac actione experietur. Ipse autem servus manumissus non poterit agere: sed et si fuerit alienatus, adhuc ei competit actio cuius fuit servus cum deponeret: initium enim contractus spectandum est.
+
+31. Si duorum servus sit qui deposuit, unicuique dominorum in partem competit depositi.
+
+32. Si rem a servo depositam Titio, quem dominum eius putasti cum non esset, restituisses, depositi actione te non teneri celsus ait, quia nullus dolus intercessit: cum Titio autem, cui res restituta est, dominus servi aget: sed si exhibuerit, vindicabitur, si vero, cum sciret esse alienum, consumpserit, condemnabitur, quia dolo fecit quo minus possideret.
+
+33. Eleganter apud Iulianum quaeritur, si pecuniam servus apud me deposuit ita, ut domino pro libertate eius dem, egoque dedero, an tenear depositi. Et libro tertio decimo digestorum scribit, si quidem sic dedero quasi ad hoc penes me depositam teque certioravero, non competere tibi depositi actionem, quia sciens recepisti, careo igitur dolo: si vero quasi meam pro libertate eius numeravero, tenebor. Quae sententia vera mihi videtur: hic enim non tantum sine dolo malo non reddidit, sed nec reddidit: aliud est enim reddere, aliud quasi de suo dare.
+
+34. Si pecunia apud te ab initio hac lege deposita sit, ut si voluisses utereris, prius quam utaris depositi teneberis.
+
+35. Saepe evenit, ut res deposita vel nummi periculo sint eius, apud quem deponuntur: ut puta si hoc nominatim convenit. Sed et si se quis deposito obtulit, idem Iulianus scribit periculo se depositi illigasse, ita tamen, ut non solum dolum, sed etiam culpam et custodiam praestet, non tamen casus fortuitos.
+
+36. Si pecunia in sacculo signato deposita sit et unus ex heredibus eius qui deposuit veniat repetens, quemadmodum ei satisfiat, videndum est. Promenda pecunia est vel coram praetore vel intervenientibus honestis personis et exsolvenda pro parte hereditaria: sed et si resignetur, non contra legem depositi fiet, cum vel praetore auctore vel honestis personis intervenientibus hoc eveniet: residuo vel apud eum remanente, si hoc voluerit (sigillis videlicet prius ei impressis vel a praetore vel ab his, quibus coram signacula remota sunt) vel, si hoc recusaverit, in aede deponendo. Sed si res sunt, quae dividi non possunt, omnes debebit tradere satisdatione idonea a petitore ei praestanda in hoc, quod supra eius partem est: satisdatione autem non interveniente rem in aedem deponi et omni actione depositarium liberari.
+
+37. Apud Iulianum libro tertio decimo digestorum talis species relata est: ait enim, si depositor decesserit et duo existant, qui inter se contendant unusquisque solum se heredem dicens, ei tradendam rem, qui paratus est adversus alterum reum defendere, hoc est eum qui depositum suscepit: quod si neuter hoc onus suscipiat, commodissime dici ait non esse cogendum a praetore iudicium suscipere: oportere igitur rem deponi in aede aliqua, donec de hereditate iudicetur.
+
+38. Si quis tabulas testamenti apud se depositas pluribus praesentibus legit, ait Labeo depositi actione recte de tabulis agi posse. Ego arbitror et iniuriarum agi posse, si hoc animo recitatum testamentum est quibusdam praesentibus, ut iudicia secreta eius qui testatus est divulgarentur.
+
+39. Si praedo vel fur deposuerint, et hos Marcellus libro sexto digestorum putat recte depositi acturos: nam interest eorum eo, quod teneantur.
+
+40. Si quis argentum vel aurum depositum petat, utrum speciem an et pondus complecti debeat? Et magis est, ut utrumque complectatur, scyphum forte vel lancem vel pateram dicendo et materiam et pondus addendo. Sed et si purpura sit infecta vel lana, pondus similiter adiciendum salvo eo, ut, si de quantitate ponderis incertum est, iuranti succurratur.
+
+41. Si cista signata deposita sit, utrum cista tantum petatur an et species comprehendendae sint? Et ait Trebatius cistam repetendam, non singularum rerum depositi agendum: quod et si res ostensae sunt et sic depositae, adiciendae sunt et species vestis. Labeo autem ait eum qui cistam deponit singulas quoque res videri deponere: ergo et de rebus agere eum oportet. Quid ergo si ignoraverit is, qui depositum suscipiebat, res ibi esse? Non multum facere, cum suscepit depositum. ergo et rerum depositi agi posse existimo, quamvis signata cista deposita sit.
+
+42. Filium familias teneri depositi constat, quia et ceteris actionibus tenetur: sed et cum patre eius agi potest dumtaxat de peculio. Idem et in servo: nam cum domino agetur. Plane et Iulianus scripsit et nobis videtur, si eorum nomine qui sunt in potestate agatur, veniat in iudicium et si quid per eum in cuius iure sunt captus fraudatusve est, ut et dolus eorum veniat, non tantum ipsorum cum quibus contractum est.
+
+43. Si apud duos sit deposita res, adversus unumquemque eorum agi poterit nec liberabitur alter, si cum altero agatur: non enim electione, sed solutione liberantur. Proinde si ambo dolo fecerunt et alter quod interest praestiterit, alter non convenietur exemplo duorum tutorum: quod si alter vel nihil vel minus facere possit, ad alium pervenietur: idemque et si alter dolo non fecerit et idcirco sit absolutus, nam ad alium pervenietur.
+
+44. Sed si duo deposuerint et ambo agant, si quidem sic deposuerunt, ut vel unus tollat totum, poterit in solidum agere: sin vero pro parte, pro qua eorum interest, tunc dicendum est in partem condemnationem faciendam.
+
+45. Si deposuero apud te, ut post mortem tuam reddas, et tecum et cum herede tuo possum depositi agere: possum enim mutare voluntatem et ante mortem tuam depositum repetere.
+
+46. Proinde et si sic deposuero, ut post mortem meam reddatur, potero et ego et heres meus agere depositi, ego mutata voluntate.
+
+47. Quia autem dolus dumtaxat in hanc actionem venit, quaesitum est, si heres rem apud testatorem depositam vel commodatam distraxit ignarus depositam vel commodatam, an teneatur. Et quia dolo non fecit, non tenebitur de re: an tamen vel de pretio teneatur, quod ad eum pervenit? Et verius est teneri eum: hoc enim ipso dolo facit, quod id quod ad se pervenit non reddit.
+
+16.3.2
+
+Paulus libro 31 ad edictum
+
+Quid ergo, si pretium nondum exegit aut minoris quam debuit vendidit? Actiones suas tantummodo praestabit.
+
+16.3.3
+
+Ulpianus libro 31 ad edictum
+
+Plane si possit rem redimere et praestare nec velit, non caret culpa, quemadmodum si redemptam vel alia ratione suam factam noluit praestare causatus, quod semel ignarus vendiderit.
+
+16.3.4
+
+Paulus libro quinto ad Plautium
+
+Sed et si non sit heres, sed putavit se heredem et vendidit, simili modo lucrum ei extorquebitur.
+
+16.3.5 
+
+Ulpianus libro 30 ad edictum
+
+pr. Ei, apud quem depositum esse dicetur, contrarium iudicium depositi datur, in quo iudicio merito in litem non iuratur: non enim de fide rupta agitur, sed de indemnitate eius qui depositum suscepit.
+
+1. In sequestrem depositi actio competit. Si tamen cum sequestre convenit, ut certo loco rem depositam exhiberet, nec ibi exhibeat, teneri eum palam est: quod si de pluribus locis convenit, in arbitrio eius est, quo loci exhibeat: sed si nihil convenit, denuntiandum est ei, ut apud praetorem exhibeat.
+
+2. Si velit sequester officium deponere, quid ei faciendum sit? Et ait Pomponius adire eum praetorem oportere et ex eius auctoritate denuntiatione facta his qui eum elegerant, ei rem restituendam qui praesens fuerit. Sed hoc non semper verum puto: nam plerumque non est permittendum officium, quod semel suscepit, contra legem depositionis deponere, nisi iustissima causa interveniente: et cum permittitur, raro ei res restituenda est qui venit, sed oportet eam arbitratu iudicis apud aedem aliquam deponi.
+
+16.3.6
+
+Paulus libro secundo ad edictum
+
+Proprie autem in sequestre est depositum, quod a pluribus in solidum certa condicione custodiendum reddendumque traditur.
+
+16.3.7 
+
+Ulpianus libro 30 ad edictum
+
+pr. Si hominem apud se depositum ut quaestio de eo haberetur, ac propterea vinctum vel ad malam mansionem extensum sequester solverit misericordia ductus, dolo proximum esse quod factum est arbitror, quia cum sciret, cui rei pararetur, intempestive misericordiam exercuit, cum posset non suscipere talem causam quam decipere.
+
+1. Datur actio depositi in heredem ex dolo defuncti in solidum: quamquam enim alias ex dolo defuncti non solemus teneri nisi pro ea parte quae ad nos pervenit, tamen hic dolus ex contractu reique persecutione descendit ideoque in solidum unus heres tenetur, plures vero pro ea parte qua quisque heres est.
+
+2. Quotiens foro cedunt nummularii, solet primo loco ratio haberi depositariorum, hoc est eorum qui depositas pecunias habuerunt, non quas faenore apud nummularios vel cum nummulariis vel per ipsos exercebant. Et ante privilegia igitur, si bona venierint, depositariorum ratio habetur, dummodo eorum qui vel postea usuras acceperunt ratio non habeatur, quasi renuntiaverint deposito.
+
+3. Item quaeritur, utrum ordo spectetur eorum qui deposuerunt an vero simul omnium depositariorum ratio habeatur. Et constat simul admittendos: hoc enim rescripto principali significatur.
+
+16.3.8
+
+Papinianus libro nono quaestionum
+
+Quod privilegium exercetur non in ea tantum quantitate, quae in bonis argentarii ex pecunia deposita reperta est, sed in omnibus fraudatoris facultatibus: idque propter necessarium usum argentariorum ex utilitate publica receptum est. Plane sumptus causa, qui necessarie factus est, semper praecedit: nam deducto eo bonorum calculus subduci solet.
+
+16.3.9
+
+Paulus libro 17 ad edictum
+
+In depositi actione si ex facto defuncti agatur adversus unum ex pluribus heredibus, pro parte hereditaria agere debeo: si vero ex suo delicto, pro parte non ago: merito, quia aestimatio refertur ad dolum, quem in solidum ipse heres admisit.
+
+16.3.10
+
+Iulianus libro secundo ex Minicio
+
+Nec adversus coheredes eius, qui dolo carent, depositi actio competit.
+
+16.3.11
+
+Ulpianus libro 41 ad Sabinum
+
+Quod servus deposuit, is apud quem depositum est servo rectissime reddet ex bona fide: nec enim convenit bonae fidei abnegare id quod quis accepit, sed debebit reddere ei a quo accepit, sic tamen, si sine dolo omni reddat, hoc est, ut nec culpae quidem suspicio sit. Denique Sabinus hoc explicuit addendo: "Nec ulla causa intervenit, quare putare possit dominum reddi nolle". Hoc ita est, si potuit suspicari, iusta scilicet ratione motus: ceterum sufficit bonam fidem adesse. Sed et si ante eius rei furtum fecerat servus, si tamen ignoravit is apud quem deposuit vel credidit dominum non invitum fore huius solutionis, liberari potest: bona enim fides exigitur. Non tantum autem si remanenti in servitute fuerit solutum, sed etiam si manumisso vel alienato, ex iustis causis liberatio contingit, scilicet si quis ignorans manumissum vel alienatum solvit. Idemque et in omnibus debitoribus servandum Pomponius scribit.
+
+16.3.12 
+
+Pomponius libro 22 ad Sabinum
+
+pr. Si in asia depositum fuerit, ut Romae reddatur, videtur id actum, ut non impensa eius id fiat apud quem depositum sit, sed eius qui deposuit.
+
+1. Depositum eo loco restitui debet, in quo sine dolo malo eius est, apud quem depositum est: ubi vero depositum est, nihil interest. Eadem dicenda sunt communiter et in omnibus bonae fidei iudiciis. Sed dicendum est, si velit actor suis impensis suoque periculo perferri rem Romam, ut audiendus sit, quoniam et in ad exhibendum actione id servatur.
+
+2. Cum sequestre recte agetur depositi sequestraria actione, quam et in heredem eius reddi oportet.
+
+3. Quemadmodum quod ex stipulatu vel ex testamento dari oporteat, post iudicium acceptum cum detrimento rei periret, sic depositum quoque eo die, quo depositi actum sit, periculo eius apud quem depositum fuerit est, si iudicii accipiendi tempore potuit id reddere reus nec reddidit.
+
+16.3.13 
+
+Paulus libro 31 ad edictum
+
+pr. Si quis infitiatus sit non adversus dominum, sed quod eum qui rem depositam petebat verum procuratorem non putaret aut eius qui deposuisset heredem, nihil dolo malo fecit: postea autem si cognoverit, cum eo agi poterit, quoniam nunc incipit dolo malo facere, si reddere eam non vult.
+
+1. Competit etiam condictio depositae rei nomine, sed non antequam id dolo admissum sit: non enim quemquam hoc ipso, quod depositum accipiat, condictione obligari, verum quod dolum malum admiserit.
+
+16.3.14 
+
+Gaius libro nono ad edictum provinciale
+
+pr. Si plures heredes exstiterint ei qui deposuerit, dicitur, si maior pars adierit, restituendam rem praesentibus: maiorem autem partem non ex numero utique personarum, sed ex magnitudine portionum hereditariarum intellegendam: cautela idonea reddenda.
+
+1. Sive autem cum ipso apud quem deposita est actum fuerit sive cum herede eius et sua natura res ante rem iudicatam interciderit, veluti si homo mortuus fuerit, Sabinus et Cassius absolvi debere eum cum quo actum est dixerunt, quia aequum esset naturalem interitum ad actorem pertinere, utique cum interitura esset ea res et si restituta esset actori.
+
+16.3.15
+
+Iulianus libro 13 digestorum
+
+Qui rem suam deponi apud se patitur vel utendam rogat, nec depositi nec commodati actione tenetur: sicuti qui rem suam conducit aut precario rogat, nec precario tenetur nec ex locato.
+
+16.3.16
+
+Africanus libro septimo quaestionum
+
+Si is, apud quem rem deposueris, apud alium eam deponat et ille dolo quid admiserit, ob dolum eius, apud quem postea sit depositum, eatenus eum teneri apud quem tu deposueris, ut actiones suas tibi praestet.
+
+16.3.17 
+
+Florentinus libro septimo institutionum
+
+pr. Licet deponere tam plures quam unus possunt, attamen apud sequestrem non nisi plures deponere possunt: nam tum id fit, cum aliqua res in controversiam deducitur. Itaque hoc casu in solidum unusquisque videtur deposuisse: quod aliter est, cum rem communem plures deponunt.
+
+1. Rei depositae proprietas apud deponentem manet: sed et possessio, nisi apud sequestrem deposita est: nam tum demum sequester possidet: id enim agitur ea depositione, ut neutrius possessioni id tempus procedat.
+
+16.3.18
+
+Neratius libro secundo membranarum
+
+De eo, quod tumultus incendii ruinae naufragii causa depositum est, in heredem de dolo mortui actio est pro hereditaria portione et in simplum et intra annum quoque: in ipsum et in solidum et in duplum et in perpetuum datur.
+
+16.3.19
+
+Ulpianus libro 17 ad edictum
+
+Iulianus et Marcellus putant filium familias depositi recte agere posse.
+
+16.3.20
+
+Paulus libro 18 ad edictum
+
+Si sine dolo malo rem depositam tibi amiseris, nec depositi teneris nec cavere debes, si deprehenderis eam reddi: si tamen ad te iterum pervenerit, depositi teneris.
+
+16.3.21 
+
+Paulus libro 60 ad edictum
+
+pr. Si apud filium familias res deposita sit et emancipatus rem teneat, pater nec intra annum de peculio debet conveniri, sed ipse filius.
+
+1. Plus Trebatius existimat, etiamsi apud servum depositum sit et manumissus rem teneat, in ipsum dandam actionem, non in dominum, licet ex ceteris causis in manumissum actio non datur.
+
+16.3.22
+
+Marcellus libro quinto digestorum
+
+Si duo heredes rem apud defunctum depositam dolo interverterint, quodam utique casu in partes tenebuntur: nam si diviserint decem milia, quae apud defunctum deposita fuerant, et quina milia abstulerint et uterque solvendo est, in partes obstricti erunt: nec enim amplius actoris interest. Quod si lancem conflaverint aut conflari ab aliquo passi fuerint aliave quae species dolo eorum interversa fuerit, in solidum conveniri poterunt, ac si ipsi servandam suscepissent: nam certe verum est in solidum quemque dolo fecisse et nisi pro solido res non potest restitui. Nec tamen absurde sentiet, qui hoc putaverit plane nisi integrae rei restitutione eum, cum quo actum fuerit, liberari non posse, condemnandum tamen, si res non restituetur, pro qua parte heres exstitit.
+
+16.3.23
+
+Modestinus libro secundo differentiarum
+
+Actione depositi conventus servo constituto cibariorum nomine apud eundem iudicem utiliter experitur.
+
+16.3.24
+
+Papinianus libro nono quaestionum
+
+"Lucius Titius Sempronio salutem. Centum nummos, quos hac die commendasti mihi adnumerante servo Sticho actore, esse apud me ut notum haberes, hac epistula manu mea scripta tibi notum facio: quae quando voles et ubi voles confestim tibi numerabo." Quaeritur propter usurarum incrementum. Respondi depositi actionem locum habere: quid est enim aliud commendare quam deponere? Quod ita verum est, si id actum est, ut corpora nummorum eadem redderentur: nam si ut tantundem solveretur convenit, egreditur ea res depositi notissimos terminos. In qua quaestione si depositi actio non teneat, cum convenit tantundem, non idem reddi, rationem usurarum haberi non facile dicendum est. Et est quidem constitutum in bonae fidei iudiciis, quod ad usuras attinet ut tantundem possit officium arbitri quantum stipulatio: sed contra bonam fidem et depositi naturam est usuras ab eo desiderare temporis ante moram, qui beneficium in suscipienda pecunia dedit. Si tamen ab initio de usuris praestandis convenit, lex contractus servabitur.
+
+16.3.25 
+
+Papinianus libro tertio responsorum
+
+pr. Die sponsaliorum aut postea res oblatas puellae, quae sui iuris fuit, pater suscepit: heres eius ut exhibeat recte convenietur etiam actione depositi.
+
+1. Qui pecuniam apud se non obsignatam, ut tantundem redderet, depositam ad usus proprios convertit, post moram in usuras quoque iudicio depositi condemnandus est.
+
+16.3.26 
+
+Paulus libro quarto responsorum
+
+pr. Publia Maevia cum proficisceretur ad maritum suum, Arcam Clusam cum veste et instrumentis commendavit Gaiae Seiae et dixit ei: "Cum sana salvave venero, restitues mihi: certe, si aliquid mihi humanum contigerit, filio meo, quem ex alio marito suscepi." Defuncta ea intestata desidero res commendatae cui restitui debeant, filio an marito. Paulus respondit filio.
+
+1. Lucius Titius ita cavit: "Elabon kai exw eis logon parakatavykys ta progegrammena tou arguriou dynaria muria, kai panta poiysw kai sumfwnw kai hwmologysa, hws progegraptai: kai sunevemyn xorygysai soi tokon hekastys mnas hekastou mynos obolous tessaras mexri tys apodosews pantos tou arguriou." [id est: Accepti et habeo ex causa depositi supra scripta decem milia denarium et faciam omnia et consentio et promisi ita ut supra scriptum est, et conveni praestare tibi usuras in singulas minas per singulos menses assium quaternorum, donec universa summa reddatur.] Quaero, an usurae peti possunt. Paulus respondit eum contractum de quo quaeritur depositae pecuniae modum excedere, et ideo secundum conventionem usurae quoque actione depositi peti possunt.
+
+2. "Titius Semproniis salutem. Habere me a vobis auri pondo plus minus decem et discos duos saccum signatum: ex quibus debetis mihi decem, quos apud Titium deposuistis: item quos trophimati decem: item ex ratione patris vestri decem et quod excurrit." Quaero, an ex huiuscemodi scriptura aliqua obligatio nata sit, scilicet quod ad solam pecuniae causam attinet. Respondit ex epistula, de qua quaeritur, obligationem quidem nullam natam videri, sed probationem depositarum rerum impleri posse: an autem is quoque, qui deberi sibi cavit in eadem epistula decem, probare possit hoc quod scripsit, iudicem aestimaturum.
+
+16.3.27
+
+Paulus libro septimo responsorum
+
+Lucius Titius cum haberet filiam in potestate Seiam, Pamphilo servo alieno in matrimonium collocavit, cui etiam dotem dedit, quam sub titulo depositi in cautionem contulit, et postea nulla denuntiatione a domino facta pater decessit, mox et Pamphilus servus: quaero, qua actione Seia pecuniam petere possit, cum ipsa patri heres extiterit. Paulus respondit, quoniam dos constitui non potuit, ex causa depositi actione de peculio pecuniam repetendam.
+
+16.3.28
+
+Scaevola libro primo responsorum
+
+Quintus Caecilius Candidus ad Paccium Rogatianum epistulam scripsit in verba infra scripta: "Caecilius Candidus Paccio Rogatiano suo salutem. Viginti quinque nummorum quos apud me esse voluisti, notum tibi ista hac epistula facio ad ratiunculam meam ea pervenisse: quibus ut primum prospiciam, ne vacua tibi sint: id est ut usuras eorum accipias, curae habebo". Quaesitum est, an ex ea epistula etiam usurae peti possint. Respondi deberi ex bonae fidei iudicio usuras, sive percepit sive pecunia in re sua usus est.
+
+16.3.29 
+
+Paulus libro secundo sententiarum
+
+pr. Si sacculum vel argentum signatum deposuero et is penes quem depositum fuit me invito contrectaverit, et depositi et furti actio mihi in eum competit.
+
+1. Si ex permissu meo deposita pecunia is penes quem deposita est utatur, ut in ceteris bonae fidei iudiciis usuras eius nomine praestare mihi cogitur.
+
+16.3.30
+
+Neratius libro primo responsorum
+
+Si fideiussor pro te apud quem depositum est litis aestimatione damnatus sit, rem tuam fieri.
+
+16.3.31 
+
+Tryphoninus libro nono disputationum
+
+pr. Bona fides quae in contractibus exigitur aequitatem summam desiderat: sed eam utrum aestimamus ad merum ius gentium an vero cum praeceptis civilibus et praetoriis? Veluti reus capitalis iudicii deposuit apud te centum: is deportatus est, bona eius publicata sunt: utrumne ipsi haec reddenda an in publicum deferenda sint? Si tantum naturale et gentium ius intuemur, ei qui dedit restituenda sunt: si civile ius et legum ordinem, magis in publicum deferenda sunt: nam male meritus publice, ut exemplo aliis ad deterrenda maleficia sit, etiam egestate laborare debet.
+
+1. Incurrit hic et alia inspectio. Bonam fidem inter eos tantum, quos contractum est, nullo extrinsecus adsumpto aestimare debemus an respectu etiam aliarum personarum, ad quas id quod geritur pertinet? Exempli loco latro spolia quae mihi abstulit posuit apud seium inscium de malitia deponentis: utrum latroni an mihi restituere seius debeat? si per se dantem accipientemque intuemur, haec est bona fides, ut commissam rem recipiat is qui dedit: si totius rei aequitatem, quae ex omnibus personis quae negotio isto continguntur impletur, mihi reddenda sunt, quo facto scelestissimo adempta sunt. Et probo hanc esse iustitiam, quae suum cuique ita tribuit, ut non distrahatur ab ullius personae iustiore repetitione. Quod si ego ad petenda ea non veniam, nihilo minus ei restituenda sunt qui deposuit, quamvis male quaesita deposuit. Quod et Marcellus in praedone et fure scribit. Si tamen ignorans latro cuius filio vel servo rem abstulisset apud patrem dominumve eius deposuit ignorantem, nec ex iure gentium consistet depositum, cuius haec est potestas, ut alii, non domino sua ipsius res quasi aliena, servanda detur. Et si rem meam fur, quam me ignorante subripuit, apud me etiamnunc delictum eius ignorantem deposuerit, recte dicetur non contrahi depositum, quia non est ex fide bona rem suam dominum praedoni restituere compelli. Sed et si etiamnunc ab ignorante domino tradita sit quasi ex causa depositi, tamen indebiti dati condictio competet.
+
+16.3.32
+
+Celsus libro 11 digestorum
+
+Quod Nerva diceret latiorem culpam dolum esse, Proculo displicebat, mihi verissimum videtur. Nam et si quis non ad eum modum quem hominum natura desiderat diligens est, nisi tamen ad suum modum curam in deposito praestat, fraude non caret: nec enim salva fide minorem is quam suis rebus diligentiam praestabit.
+
+16.3.33
+
+Labeo libro sexto posteriorum a Iavoleno epitomarum
+
+Servus tuus pecuniam cum Attio in sequestre deposuit apud Maevium ea condicione, ut ea tibi redderetur, si tuam esse probasses, si minus, ut Attio redderetur. Posse dixi cum eo, apud quem deposita esset, incerti agere, id est ad exhibendum, et exhibitam vindicare, quia servus in deponendo tuum ius deterius facere non potuisset.
+
+16.3.34
+
+Labeo libro secundo pithanon
+
+Potes agere depositi cum eo, qui tibi non aliter quam nummis a te acceptis depositum reddere voluerit, quamvis sine mora et incorruptum reddiderit.
+ 
+  
+

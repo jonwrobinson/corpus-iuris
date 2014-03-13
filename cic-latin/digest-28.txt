@@ -1,0 +1,2235 @@
+# -*- mode: org -*-
+
+DOMINI NOSTRI SACRATISSIMI PRINCIPIS
+IUSTINIANI
+IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
+DIGESTORUM SEU PANDECTARUM
+liber vicesimus octavus
+
+
+( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
+
+
+* TITLES
+** 28.1.0. Qui testamenta facere possunt et quemadmodum tesamenta fiant.
+** 28.2.0. De liberis et postumis heredibus instituendis vel exheredandis.
+** 28.3.0. De iniusto rupto irrito facto testamento.
+** 28.4.0. De his quae in testamento delentur inducuntur vel inscribuntur.
+** 28.5.0. De heredibus instituendis.
+** 28.6.0. De vulgari et pupillari substitutione.
+** 28.7.0. De condicionibus institutionum.
+** 28.8.0. De iure deliberandi.
+
+
+
+* 28.1.0. Qui testamenta facere possunt et quemadmodum tesamenta fiant.
+
+
+28.1.1
+
+Modestinus libro secundo pandectarum
+
+Testamentum est voluntatis nostrae iusta sententia de eo, quod quis post mortem suam fieri velit.
+
+28.1.2
+
+Labeo libro primo posteriorum a Iavoleno epitomatorum
+
+In eo qui testatur eius temporis, quo testamentum facit, integritas mentis, non corporis sanitas exigenda est.
+
+28.1.3
+
+Papinianus libro 14 quaestionum
+
+Testamenti factio non privati, sed publici iuris est.
+
+28.1.4
+
+Gaius libro secundo institutionum
+
+Si quaeramus, an valeat testamentum, in primis animadvertere debemus, an is qui fecerit testamentum habuerit testamenti factionem, deinde, si habuerit, requiremus, an secundum regulas iuris civilis testatus sit.
+
+28.1.5
+
+Ulpianus libro sexto ad Sabinum
+
+A qua aetate testamentum vel masculi vel feminae facere possunt, videamus. Verius est in masculis quidem quartum decimum annum spectandum, in feminis vero duodecimum completum. Utrum autem excessisse debeat quis quartum decimum annum, ut testamentum facere possit, an sufficit complesse? Propone aliquem kalendis ianuariis natum testamentum ipso natali suo fecisse quarto decimo anno: an valeat testamentum? Dico valere. Plus arbitror, etiamsi pridie kalendarum fecerit post sextam horam noctis, valere testamentum: iam enim complesse videtur annum quartum decimum, ut Marciano videtur.
+
+28.1.6
+
+Gaius libro 17 ad edictum provinciale
+
+pr. Qui in potestate parentis est, testamenti faciendi ius non habet, adeo ut, quamvis pater ei permittat, nihilo magis tamen iure testari possit.
+
+1. Surdus mutus testamentum facere non possunt: sed si quis post testamentum factum valetudine aut quolibet alio casu mutus aut surdus esse coeperit, ratum nihilo minus permanet testamentum.
+
+28.1.7
+
+Macer libro primo ad legem vicensimam hereditatium
+
+Si mutus aut surdus, ut liceret sibi testamentum facere, a principe impetraverit, valet testamentum.
+
+28.1.8
+
+Gaius libro 17 ad edictum provinciale
+
+pr. Eius qui apud hostes est testamentum quod ibi fecit non valet, quamvis redierit.
+
+1. Si cui aqua et igni interdictum sit, eius nec illud testamentum valet quod ante fecit nec id quod postea fecerit: bona quoque, quae tunc habuit cum damnaretur, publicabuntur aut, si non videantur lucrosa, creditoribus concedentur.
+
+2. In insulam deportati in eadem causa sunt:
+
+3. Sed relegati in insulam et quibus terra Italica et sua provincia interdicitur testamenti faciendi ius retinent.
+
+4. Hi vero, qui ad ferrum aut ad bestias aut in metallum damnantur, libertatem perdunt bonaque eorum publicantur: unde apparet amittere eos testamenti factionem.
+
+28.1.9
+
+Ulpianus libro 45 ad edictum
+
+Si quis post accusationem in custodia fuerit defunctus indemnatus, testamentum eius valebit.
+
+28.1.10
+
+Paulus libro tetrtio sententiarum
+
+Qui manus amisit testamentum facere potest, quamvis scribere non possit.
+
+28.1.11
+
+Ulpianus libro decimo ad Sabinum
+
+Obsides testari non possunt, nisi eis permittitur.
+
+28.1.12
+
+Iulianus libro 42 digestorum
+
+Lege Cornelia testamenta eorum, qui in hostium potestate decesserint, perinde confirmantur, ac si hi qui ea fecissent in hostium potestatem non pervenissent, et hereditas ex his eodem modo ad unumquemque pertinet. Quare servus heres scriptus ab eo, qui in hostium potestate decesserit, liber et heres erit seu velit seu nolit, licet minus proprie necessarius heres dicatur: nam et filius eius, qui in hostium potestate decessit, invitus hereditati obligatur, quamvis suus heres dici non possit, qui in potestate morientis non fuit.
+
+28.1.13
+
+Marcianus libro quarto institutionum
+
+pr. Qui a latronibus capti sunt, cum liberi manent, possunt facere testamentum.
+
+1. Item qui apud externos legatione funguntur, possunt facere testamentum.
+
+2. Si quis in capitali crimine damnatus appellaverit et medio tempore pendente appellatione fecerit testamentum et ita decesserit, valet eius testamentum.
+
+28.1.14
+
+Paulus libro secundo regularum
+
+Qui in testamento domini manumissus est, si ignorat dominum decessisse aditamque eius esse hereditatem, testamentum facere non potest, licet iam pater familias et sui iuris est: nam qui incertus de statu suo est, certam legem testamento dicere non potest.
+
+28.1.15
+
+Ulpianus libro 12 ad edictum
+
+De statu suo dubitantes vel errantes testamentum facere non possunt, ut divus Pius rescripsit.
+
+28.1.16
+
+Pomponius libro singulari regularum
+
+pr. Filius familias et servus alienus et postumus et surdus testamenti factionem habere dicuntur: licet enim testamentum facere non possunt, attamen ex testamento vel sibi vel aliis adquirere possunt.
+
+1. Marcellus notat: furiosus quoque testamenti factionem habet, licet testamentum facere non potest: ideo autem habet testamenti factionem, quia potest sibi adquirere legatum vel fideicommissum: nam etiam compotibus mentis personales actiones etiam ignorantibus adquiruntur.
+
+28.1.17
+
+Paulus libro tertio sententiarum
+
+In adversa corporis valetudine mente captus eo tempore testamentum facere non potest.
+
+28.1.18
+
+Ulpianus libro primo ad Sabinum
+
+pr. Is cui lege bonis interdictum est testamentum facere non potest et, si fecerit, ipso iure non valet: quod tamen interdictione vetustius habuerit testamentum, hoc valebit. Merito ergo nec testis ad testamentum adhiberi poterit, cum neque testamenti factionem habeat.
+
+1. Si quis ob carmen famosum damnetur, senatus consulto expressum est, ut intestabilis sit: ergo nec testamentum facere poterit nec ad testamentum adhiberi.
+
+28.1.19
+
+Modestinus libro quinto pandectarum
+
+Si filius familias aut pupillus aut servus tabulas testamenti fecerit signaverit, secundum eas bonorum possessio dari non potest, licet filius familias sui iuris aut pupillus pubes aut servus liber factus decesserit, quia nullae sunt tabulae testamenti, quas is fecit, qui testamenti faciendi facultatem non habuerit.
+
+28.1.20
+
+Ulpianus libro primo ad Sabinum
+
+pr. Qui testamento heres instituitur, in eodem testamento testis esse non potest. Quod in legatario et in eo qui tutor scriptus est contra habetur: hi enim testes possunt adhiberi, si aliud eos nihil impediat, ut puta si impubes, si in potestate sit testatoris.
+
+1. Potestatis autem verbum non solum ad liberos qui sunt in potestate referendum est, verum etiam ad eum quem redemit ab hostibus, quamvis placeat hunc servum non esse, sed vinculo quodam retineri, donec pretium solvat.
+
+2. Per contrarium quaeri potest, an pater eius, qui de castrensi peculio potest testari, adhiberi ab eo ad testamentum testis possit. Et Marcellus libro decimo digestorum scribit posse: et frater ergo poterit.
+
+3. Quae autem in testamento diximus super prohibendis testimoniis eorum qui in potestate sunt, in omnibus testimoniis accipias, ubi aliquid negotii geritur, per quod adquiratur.
+
+4. Ne furiosus quidem testis adhiberi potest, cum compos mentis non sit: sed si habet intermissionem, eo tempore adhiberi potest: testamentum quoque, quod ante furorem consummavit valebit et bonorum possessio ex eo testamento competit.
+
+5. Eum qui lege repetundarum damnatus est ad testamentum adhiberi posse existimo, quoniam in iudicium testis esse vetatur.
+
+6. Mulier testimonium dicere in testamento quidem non poterit, alias autem posse testem esse mulierem argumento est lex Iulia de adulteriis, quae adulterii damnatam testem produci vel dicere testimonium vetat.
+
+7. Servus quoque merito ad sollemnia adhiberi non potest, cum iuris civilis communionem non habeat in totum, ne praetoris quidem edicti.
+
+8. Et veteres putaverunt eos, qui propter sollemnia testamenti adhibentur, durare debere, donec suprema contestatio peragatur.
+
+9. Non tamen intellegentiam sermonis exigimus: hoc enim divus Marcus Didio Iuliano in teste, qui Latine non noverat, rescripsit: nam si vel sensu percipiat quis, cui rei adhibitus sit, sufficere.
+
+10. Sed si detenti sint inviti ibi testes, putant non valere testamentum.
+
+28.1.21
+
+Ulpianus libro secundo ad Sabinum
+
+pr. Heredes palam ita, ut exaudiri possunt, nuncupandi sint: licebit
+ergo testanti vel nuncupare heredes vel scribere: sed si nuncupat,
+palam debet. Quid est palam? Non utique in publicum, sed ut exaudiri
+possit: exaudiri autem non ab omnibus, sed a testibus: et si plures
+fuerint testes adhibiti, sufficit sollemnem numerum exaudire.
+
+1. Si quid post factum testamentum mutari placuit, omnia ex integro
+facienda sunt. Quod vero quis obscurius in testamento vel nuncupat vel
+scribit, an post sollemnia explanare possit, quaeritur: ut puta
+stichum legaverat, cum plures haberet, nec declaravit de quo sentiret:
+Titio legavit, cum multos Titios amicos haberet: erraverat in nomine
+vel praenomine vel cognomine, cum in corpore non errasset: poteritne
+postea declarare, de quo senserit? Et puto posse: nihil enim nunc dat,
+sed datum significat. Sed et si notam postea adiecerit legato vel sua
+voce vel litteris vel summam vel nomen legatarii quod non scripserat
+vel nummorum qualitatem, an recte fecerit? Et puto etiam qualitatem
+nummorum posse postea addi: nam etsi adiecta non fuisset, utique
+placeret coniectionem fieri eius quod reliquit vel ex vicinis
+scripturis vel ex consuetudine patris familias vel regionis.
+
+2. In testamentis, in quibus testes rogati adesse debent, ut
+testamentum fiat, alterius rei causa forte rogatos ad testandum non
+esse idoneos placet. Quod sic accipiendum est, ut, licet ad aliam rem
+sint rogati vel collecti, si tamen ante testimonium certiorentur ad
+testamentum se adhibitos, posse eos testimonium suum recte perhibere.
+
+3. Uno contextu actus testari oportet. Est autem uno contextu nullum
+actum alienum testamento intermiscere: quod si aliquid pertinens ad
+testamentum faciat, testamentum non vitiatur.
+
+28.1.22
+
+Ulpianus libro 39 ad edictum
+
+pr. Ad testium numerum simul adhiberi possumus ut ego et pater et plures, qui fuimus in eiusdem potestate.
+
+1. Condicionem testium tunc inspicere debemus, cum signarent, non mortis tempore: si igitur cum signarent, tales fuerint, ut adhiberi possint, nihil nocet, si quid postea eis contigerit.
+
+2. Si ab ipso testatore anulum accepero et signavero, testamentum valet, quasi alieno signaverim.
+
+3. Si signa turbata sint ab ipso testatore, non videtur signatum.
+
+4. Si quis ex testibus nomen suum non adscripserit, verumtamen signaverit, pro eo est atque si adhibitus non esset: et si, ut multi faciunt, adscripserit se, non tamen signaverit, adhuc idem dicemus.
+
+5. Signum autem utrum anulo tantum impressum adhibemus, an vero et si non anulo, verum alio quodam impresso? Varie enim homines signant. Et magis est, ut tantum anulo quis possit signare, dum tamen habeat xaraktyra.
+
+6. Posse et nocte signari testamentum nulla dubitatio est.
+
+7. Signatas tabulas accipi oportet et si linteo, quo tabulae involutae sunt, signa impressa fuerint.
+
+28.1.23
+
+Ulpianus libro quarto disputationum
+
+Si testamentum, quod resignaverit testator, iterum signatum fuerit septem testium signis, non erit imperfectum, sed utroque iure valebit tam civili quam praetorio.
+
+28.1.24
+
+Florentinus libro decimo institutionum
+
+Unum testamentum pluribus exemplis consignare quis potest idque interdum necessarium est, forte si navigaturus et secum ferre et relinquere iudiciorum suorum testationem velit.
+
+28.1.25
+
+Iavolenus libro quinto ex posterioribus Labeonis
+
+Si is, qui testamentum faceret, heredibus primis nuncupatis, priusquam secundos exprimeret heredes, obmutuisset, magis coepisse eum testamentum facere quam fecisse Varus digestorum libro primo Servium respondisse scripsit: itaque primos heredes ex eo testamento non futuros. Labeo tum hoc verum esse existimat, si constaret voluisse plures eum, qui testamentum fecisset, heredes pronuntiare: ego nec Servium puto aliud sensisse.
+
+28.1.26
+
+Gaius libro 22 ad edictum provinciale
+
+Cum lege quis intestabilis iubetur esse, eo pertinet, ne eius testimonium recipiatur et eo amplius, ut quidam putant, neve ipsi dicatur testimonium.
+
+28.1.27
+
+Celsus libro 15 digestorum
+
+Domitius Labeo Celso suo salutem. Quaero, an testimonium numero habendus sit is, qui, cum rogatus est ad testamentum scribendum, idem quoque cum tabulas scripsisset, signaverit. Iuventius Celsus Labeoni suo salutem. Non intellego quid sit, de quo me consuleris, aut valide stulta est consultatio tua: plus enim quam ridiculum est dubitare, an aliquis iure testis adhibitus sit, quoniam idem et tabulas testamenti scripserit.
+
+28.1.28
+
+Modestinus libro nono regularum
+
+Servus licet alienus iussu testatoris [testoris] testamentum scribere non prohibetur.
+
+28.1.29
+
+Paulus libro 14 responsorum
+
+pr. Ex ea scriptura, quae ad testamentum faciendum parabatur, si nullo iure testamentum perfectum esset, nec ea, quae fideicommissorum verba habent peti posse.
+
+1. Ex his verbis, quae scriptura pater familias addidit: tautyn tyn diavykyn boulomai einai kurian epi pasys ecousias [id est: hanc voluntatem valere volo quocumque modo], videri eum voluisse omnimodo valere ea quae reliquit, etiamsi intestatus decessisset.
+
+28.1.30
+
+Paulus libro tertio sententiarum
+
+Singulos testes, qui in testamento adhibentur, proprio chirographo adnotare convenit, quis et cuius testamentum signaverit.
+
+28.1.31
+
+Paulus libro quinto sententiarum
+
+Eius bona, qui se imperatorem facturum heredem esse iactaverat, a fisco occupari non possunt.
+
+
+* 28.2.0. De liberis et postumis heredibus instituendis vel exheredandis.
+
+
+28.2.1
+
+Ulpianus libro primo ad Sabinum
+
+Quid sit nominatim exheredari, videamus. Nomen et praenomen et cognomen eius dicendum est an sufficit vel unum ex his? Et constat sufficere.
+
+28.2.2
+
+Ulpianus libro sexto regularum
+
+Nominatim exheredatus filius et ita videtur "filius meus exheres esto", si nec nomen eius expressum sit, si modo unicus sit: nam si plures sunt filii, benigna interpretatione potius a plerisque respondetur nullum exheredatum esse.
+
+28.2.3
+
+Ulpianus libro primo ad Sabinum
+
+pr. Et si pepercerit filium dicere, ex Seia autem natum dixit, recte exheredat: et si cum convicio dixerit "non nominandus" vel "non filius meus", "latro", "gladiator", magis est, ut recte exheredatus sit, et si ex adultero natum dixerit.
+
+1. Pure autem filium exheredari Iulianus putat, qua sententia utimur.
+
+2. Filius inter medias quoque heredum institutiones recte exheredatur et erit a toto gradu summotus, nisi forte ab unius persona eum testator exheredaverit: nam si hoc fecit, vitiosa erit exheredatio. Quemadmodum si ita eum exheredaverit "quisquis heres mihi erit, filius exheres esto": nam, ut Iulianus scribit, huiusmodi exheredatio vitiosa est, quoniam post aditam hereditatem voluit eum summotum, quod est impossibile.
+
+3.  Ante heredis institutionem exheredatus ab omnibus gradibus summotus est.
+
+4. Inter duos autem gradus exheredatus ab utroque remotus est secundum Scaevolae sententiam, quam puto veram.
+
+5. In eo, qui miscuit duos gradus, exheredationem valere Mauricianus recte putat, veluti: "Primus heres esto ex semisse. Si primus heres non erit, secundus ex semisse heres esto. Tertius ex alio semisse heres esto. Filius exheres esto. Si tertius heres non erit, quartus heres esto": nam ab utroque gradu summotus est.
+
+6. Si ita testatus sit pater familias, ut a primo quidem gradu filium praeteriret, a secundo solo exheredaret, Sabinus et Cassius et Iulianus putant perempto primo gradu testamentum ab eo gradu exordium capere, unde filius exheredatus est: quae sententia comprobata est.
+
+28.2.4
+
+Ulpianus libro tertio ad Sabinum
+
+Placet omnem masculum posse postumum heredem scribere, sive iam maritus sit sive nondum uxorem duxerit: nam et maritus repudiare uxorem potest et qui non duxit uxorem, postea maritus effici. Nam et cum maritus postumum heredem scribit, non utique is solus postumus scriptus videtur, qui ex ea quam habet uxorem ei natus est, vel is qui tunc in utero est, verum is quoque, qui ex quacumque uxore nascatur:
+
+28.2.5
+
+Iavolenus libro primo ex Cassio
+
+Ideoque qui postumum heredem instituit si post testamentum factum mutavit matrimonium, is institutus videtur, qui ex posteriore matrimonio natus est.
+
+28.2.6
+
+Ulpianus libro tertio ad Sabinum
+
+pr. Sed est quaesitum, an is, qui generare facile non possit, postumum heredem facere possit, et scribit Cassius et Iavolenus posse: nam et uxorem ducere et adoptare potest: spadonem quoque posse postumum heredem scribere et Labeo et Cassius scribunt: quoniam nec aetas nec sterilitas ei rei impedimento est.
+
+1. Sed si castratus sit, Iulianus Proculi opinionem secutus non putat postumum heredem posse instituere, quo iure utimur.
+
+2. Hermaphroditus plane, si in eo virilia praevalebunt, postumum heredem instituere poterit.
+
+28.2.7
+
+Paulus libro primo ad Sabinum
+
+Si filius qui in potestate est praeteritus sit et vivo patre decedat, testamentum non valet nec superius rumpetur, et eo iure utimur.
+
+28.2.8
+
+Pomponius libro primo ad Sabinum
+
+Si primo herede instituto filium exheredavero, a secundo autem substituto non exheredavero et, dum pendet, an prior aditurus sit, filius decesserit, secundum sententiam qua utimur non erit secundus heres, quasi ab initio inutiliter institutus, cum ab eo filius exheredatus non sit. Quod si in postumo filio idem acciderit, ut natus vivo patre a quo exheredatus sit moriatur, eadem dicenda erunt de substituto, quoniam cum est natus filius, loco eius est, qui superstes est.
+
+28.2.9
+
+Paulus libro primo ad Sabinum
+
+pr. Si quis postumos, quos per aetatem aut valetudinem habere forte non potest, heredes instituit, superius testamentum rumpitur, quod natura magis in homine generandi et consuetudo spectanda est quam temporale vitium aut valetudo, propter quam abducatur homo a generandi facultate.
+
+1. Sed si ex ea, quae alii nupta sit, postumum quis heredem instituerit, ipso iure non valet, quod turpis sit institutio.
+
+2. Si filium exheredavero nepotemque ex eo praeteriero et alium heredem instituero et supervixerit filius post mortem meam, licet ante aditam hereditatem decesserit, non tamen nepotem rupturum testamentum Iulianus et Pomponius et Marcellus aiunt. Diversumque est, si in hostium potestate filius sit et decesserit in eodem statu: rumpit enim his casibus nepos testamentum, quod moriente avo fili ius pependerit, non abscisum ut superiore casu fuerit. Sed et si heres institutus omiserit hereditatem, erit legitimus heres, quoniam haec verba "si intestato moritur" ad id tempus referuntur, quo testamentum destituitur, non quo moritur.
+
+3. Sed si ex ea, quam nefas sit ducere, postumum heredem instituero, non putat rumpi testamentum Pomponius.
+
+4. Sed si per adoptionem sororem factam habeam, potero postumum ex ea heredem instituere, quia adoptione soluta possum eam ducere uxorem.
+
+28.2.10
+
+Pomponius libro primo ad Sabinum
+
+Commodissime is qui nondum natus est ita heres instituitur: "sive vivo me sive mortuo natus fuerit, heres esto", aut etiam pure neutrius temporis habita mentione. Si alteruter casus omissus fuerit, eo casu qui omissus sit natus rumpit testamentum, quia hic filius nec sub condicione quidem scriptus heres intellegitur, qui in hunc casum nascitur, qui non est testamento adprehensus.
+
+28.2.11
+
+Paulus libro secundo ad Sabinum
+
+In suis heredibus evidentius apparet continuationem dominii eo rem perducere, ut nulla videatur hereditas fuisse, quasi olim hi domini essent, qui etiam vivo patre quodammodo domini existimantur. Unde etiam filius familias appellatur sicut pater familias, sola nota hac adiecta, per quam distinguitur genitor ab eo qui genitus sit. Itaque post mortem patris non hereditatem percipere videntur, sed magis liberam bonorum administrationem consequuntur. Hac ex causa licet non sint heredes instituti, domini sunt: nec obstat, quod licet eos exheredare, quod et occidere licebat.
+
+28.2.12
+
+Ulpianus libro nono ad Sabinum
+
+pr. Quod dicitur filium natum rumpere testamentum, natum accipe et si exsecto ventre editus sit: nam et hic rumpit testamentum, scilicet si nascatur in potestate.
+
+1. Quid tamen, si non integrum animal editum sit, cum spiritu tamen, an adhuc testamentum rumpat? Et tamen rumpit.
+
+28.2.13
+
+Iulianus libro 29 digestorum
+
+pr. Si ita scriptum sit: "Si filius mihi natus fuerit, ex besse heres esto: ex reliqua parte uxor mea heres esto. Si vero filia mihi nata fuerit, ex triente heres esto: ex reliqua parte uxor heres esto", et filius et filia nati essent, dicendum est assem distribuendum esse in septem partes, ut ex his filius quattuor, uxor duas, filia unam partem habeat: ita enim secundum voluntatem testantis filius altero tanto amplius habebit quam uxor, item uxor altero tanto amplius quam filia: licet enim suptili iuris regulae conveniebat ruptum fieri testamentum, attamen cum ex utroque nato testator voluerit uxorem aliquid habere, ideo ad huiusmodi sententiam humanitate suggerente decursum est, quod etiam iuventio Celso apertissime placuit.
+
+1. Regula est iuris civilis, qua constitutum est hereditatem adimi non posse: propter quam liber et heres esse iussus, quamvis dominus ademerit eodem testamento libertatem, nihilo minus et libertatem et hereditatem habebit.
+
+2. Testamentum, quod hoc modo scribitur: "Titius post mortem filii mei heres esto: filius exheres esto" nullius momenti est, quia filius post mortem suam exheredatus est: quare et contra tabulas paternorum libertorum huiusmodi filius bonorum possessionem accipere poterit.
+
+28.2.14
+
+Africanus libro quarto quaestionum
+
+pr. Si postumus a primo gradu exheredatus, a secundo praeteritus sit, quamvis eo tempore nascatur, quo ad heredes primo gradu scriptos pertineat hereditas, secundum tamen gradum vitiari placet ad hoc, ut praetermittentibus institutis ipse heres existat. Immo et si defuncto eo heredes instituti omiserint hereditatem, non posse substitutos adire. Itaque et si a primo gradu exheredatus, a secundo praeteritus, a tertio exheredatus sit et viventibus primis et deliberantibus decedat, quaeri solet omittentibus primis aditionem utrum ad eos, qui tertio gradu scripti sint, an potius ad legitimos heredes pertineat hereditas. Quo et ipso casu rectius existimari putavit ad legitimos eam pertinere: nam et cum duobus heredibus institutis et in singulorum locum facta substitutione a primis exheredatus postumus, a secundis praeteritus fuerit, si alter ex institutis omiserit, quamvis postumus excludatur, non tamen magis substitutum admitti.
+
+1. Quod vulgo dicitur eum gradum, a quo filius praeteritus sit, non valere, non usquequaque verum esse ait: nam si primo gradu heres institutus sit filius, non debere eum a substitutis exheredari: ideoque si filio et Titio heredibus institutis Titio Maevius substitutus sit, omittente Titio hereditatem Maevium eam adire posse, quamvis filius secundo gradu exheredatus non sit.
+
+2. Si quis ita scripserit: "Ille, quem scio ex me natum non esse, exheres esto", hanc exheredationem ita nullius momenti esse ait, si probetur ex eo natus: non enim videri quasi filium exheredatum esse. Cum elogium pater, cum filium exheredaret, proposuisset et adiecisset propter eam causam exheredare, probaturque patrem circa causam exheredationis errasse.
+
+28.2.15
+
+Ulpianus libro primo ad Sabinum
+
+Idem est et si ita dixerit: "Ille illius filius exheres esto", patrem ei adulterum per errorem adsignans.
+
+28.2.16
+
+Africanus libro quarto quaestionum
+
+Si filius heres institutus sit omisso postumo filioque substitutus nepos ex eo sit, si interim moriatur filius, postumo non nato nepotem tam patri quam avo suum heredem futurum. Quod si nemo filio substitutus sit et solus ipse institutus sit, tunc quia eo tempore, quo is moriatur, certum esse incipit neminem ex eo testamento heredem fore, ipse filius intestato patri heres existet: sicut evenire solet, cum sub ea condicione quae in ipsius potestate erit, filius heres institutus, prius quam ei pareret, moriatur.
+
+28.2.17
+
+Florentinus libro decimo institutionum
+
+Filii etiam hoc modo exheredantur "filius exheres sit": "filius exheres erit".
+
+28.2.18
+
+Ulpianus libro 57 ad edictum
+
+Multi non notae causa exheredant filios nec ut eis obsint, sed ut eis consulant, ut puta impuberibus, eisque fideicommissam hereditatem dant.
+
+28.2.19
+
+Paulus libro primo ad Vitellium
+
+Cum quidam filiam ex asse heredem scripsisset filioque, quem in potestate habebat, decem legasset, adiecit "et in cetera parte exheres mihi erit", et quaereretur, an recte exheredatus videretur, Scaevola respondit non videri, et in disputando adiciebat ideo non valere, quoniam nec fundi exheres esse iussus recte exheredaretur, aliamque causam esse institutionis, quae benigne acciperetur: exheredationes autem non essent adiuvandae.
+
+28.2.20
+
+Modestinus libro secundo pandectarum
+
+Sub condicione filius heres institutus si pendente condicione adrogandum se dedit, necessarius heres non erit.
+
+28.2.21
+
+Pomponius libro secundo ad Quintum Mucium
+
+Si filium nominatim exheredavero et eum postea heredem instituero, heres erit.
+
+28.2.22
+
+Clementius libro 17 ad legem Iuliam et Papiam
+
+Cum postumus sub condicione instituitur, si prius quam nascatur condicio exstiterit, non rumpitur testamentum postumi adgnatione.
+
+28.2.23
+
+Papinianus libro 12 quaestionum
+
+pr. Filio, quem pater post emancipationem a se factam iterum adrogavit, exheredationem antea scriptam nocere dixi: nam in omni fere iure sic observari convenit, ut veri patris adoptivus filius numquam intellegatur, ne imagine naturae veritas adumbretur, videlicet quod non translatus, sed redditus videretur: nec multum puto referre, quod ad propositum attinet, quod loco nepotis filium exheredatum pater adrogavit.
+
+1. Si Titius heres institutus loco nepotis adoptetur, defuncto postea filio qui pater videbatur, nepotis successione non rumpitur testamentum ab eo, qui heres invenitur.
+
+28.2.24
+
+Paulus libro nono quaestionum
+
+Postuma sub condicione heres instituta si pendente condicione vivo patre nascatur, rumpit testamentum.
+
+28.2.25
+
+Paulus libro 12 responsorum
+
+pr. Titius testamento heredem instituit et filium habens sic exheredationem posuit: "Ceteri omnes filii filiaeque meae exheredes sunto". Paulus respondit filium recte exheredatum videri. Postea consultus, an videatur exheredatus, quem pater putavit decessisse, respondit filios et filias nominatim exheredatos proponi: de errore autem patris, qui intercessisse proponitur, apud iudicem agi oportere.
+
+1. Lucius Titius cum suprema sua ordinaret in civitate et haberet neptem ex filia praegnatem rure agentem, scripsit id quod in utero haberet ex parte heredem: quaero, cum ipsa die, qua Titius ordinaret testamentum in civitate hora diei sexta, eodem die albescente caelo rure sit enixa Maevia masculum, an institutio heredis valeat, cum, quo tempore scriberetur testamentum, iam editus esset partus. Paulus respondit verba quidem testamenti ad eum pronepotem directa videri, qui post testamentum factum nasceretur: sed si, ut proponitur, eadem die qua testamentum factum est neptis testatoris antequam testamentum scriberetur enixa esset, licet ignorante testatore, tamen institutionem iure factum videri recte responderi.
+
+28.2.26
+
+Paulus libro tertio sententiarum
+
+Filius familias si militet, ut paganus nominatim a patre aut heres scribi aut exheredari debet, iam sublato edicto divi Augusti, quo cautum fuerat, ne pater filium militem exheredet.
+
+28.2.27
+
+Paulus libro tertio ad Neratium
+
+Postumum ex qualibet vidua natum sibi filium heredem instituere potest.
+
+28.2.28
+
+Tryphoninus libro 20 disputationum
+
+pr. Filius a patre, cuius in potestate est, sub condicione, quae non est in ipsius potestate, heres institutus et in defectum condicionis exheredatus decessit pendente etiam tunc condicione tam institutionis quam exheredationis. Dixi heredem eum ab intestato mortuum esse, quia dum vivit, neque ex testamento heres neque exheredatus fuit. Herede autem scripto ex parte filio coheres post mortem filii institui potest.
+
+1. Filius familias miles de castrensi peculio fecit testamentum habens filium in eiusdem potestate. Cum militare desisset, patre eodemque avo defuncto quaesitum est, an rumpetur eius testamentum. Non quidem adoptavit nec hodie ei natus est filius nec priore subducto de potestate suo herede ulterior successit in proximum locum: sed tamen in potestate sua habere coepit, quem non habebat simulque pater familias factus est et filius sub eius reccidit potestate: rumpetur ergo testamentum. Sed si heres sit institutus vel exheredatus iste eius filius, non rumpitur, quia nullo circa eum novo facto, sed ordine quodam naturali nactus est potestatem.
+
+2. Si quis ex certa uxore natum scribit heredem, in periculum rumpendi testamentum deducit ex alia susceptis liberis.
+
+3. Si quis eo tempore, quo nondum eius uxor esse posset, testator natum ex ea scripsit heredem, an postea contracto licito matrimonio natus heres ex testamento esse possit, quaeritur: veluti si scribas hodie heredem, qui tibi ex Titia natus erit, quando Titia ancilla vel minor annis viginti quinque ea, cuius pater tuus tutelam administravit aut tutor tu ipse fuisti, postea Titia uxor iusta tibi fuerit vel libertatem adepta aut tempore annorum viginti quinque et utilis anni et rationum allegatione, an natus heres esse possit? Nemo certo dubitabit ex Titia, quae tunc propter tenorem aetatis uxor duci non potuit, quando testamentum fiebat, natum postea ea uxore ducta heredem esse posse. Et generaliter nato post testamentum heredi scripto aditus est ad hereditatem, in qualicumque statu testamenti faciendi tempore fuit quae postea testatori civiliter nupta est.
+
+4. Quid autem, si filium post testamentum natum ex besse, filiam autem post testamentum natam ex triente scripsit heredem nec ullum coheredem dedit nec substituit invicem alium? Unus natus solus ex testamento fit heres.
+
+28.2.29
+
+Scaevola libro sexto quaestionum
+
+pr. Gallus sic posse institui postumos nepotes induxit: "Si filius meus vivo me morietur, tunc si quis mihi ex eo nepos sive quae neptis post mortem meam in decem mensibus proximis, quibus filius meus moreretur, natus nata erit, heredes sunto".
+
+1. Quidam recte admittendum credunt, etiamsi non exprimat de morte filii, sed simpliciter instituat, ut eo casu valeat, qui ex verbis concipi possit.
+
+2. Idem credendum est Gallum existimasse et de pronepote, ut dicat testator: "Si me vivo nepos decedat, tunc qui ex eo pronepos" et cetera.
+
+3. Sed et si vivo filio iam mortuo pronepote cuius uxor praegnas esset, testamentum faceret, potest dicere: "Si me vivo filius decedat, tunc qui pronepos".
+
+4. Num si et filius et nepos vivat, concipere "Utrisque mortuis vivo se, tunc qui pronepos nasceretur?" Quod similiter admittendum est, ita sane, si prius nepos, deinde filius decederet, ne successione testamentum rumperetur.
+
+5. Et quid si tantum in mortis filii casum conciperet? Quid enim si aquae et ignis interdictionem pateretur? Quid si nepos, ex quo pronepos institueretur, ut ostendimus, emancipatus esset? Hi enim casus et omnes, ex quibus suus heres post mortem scilicet avi nasceretur, non pertinent ad legem Velleam [Vellaeam]: sed ex sententia legis Velleae [Vellaeae] et haec omnia admittenda sunt, ut ad similitudinem mortis ceteri casus admittendi sint.
+
+6. Quid si qui filium apud hostes habebat testaretur? Quare non induxere, ut, si antea quam filius ab hostibus rediret quamvis post mortem patris decederet, tunc deinde nepos vel etiam adhuc illis vivis post mortem scilicet avi nasceretur, non rumperet? Nam hic casus ad legem Velleam [Vellaeam] non pertinet. Melius ergo est, ut in eiusmodi utilitate praesertim post legem Velleam [Vellaeam], quae et multos casus rumpendi abstulit, interpretatio admittatur, ut instituens nepotem, qui sibi post mortem suus nasceretur, recte instituisse videatur, quibuscumque casibus nepos post mortem natus suus esset rumperetque praeteritus: atque etiam si generaliter, "quidquid sibi liberorum natum erit post mortem" aut "quicumque natus fuerit" sit institutus, si suus nasceretur.
+
+7. Si eius, qui filium habeat et nepotem ex eo instituat, nurus praegnas ab hostibus capta sit ibique vivo pariat, mox ille post mortem patris atque avi redeat, utrum hic casus ad legem Velleam [Vellaeam] respiciat an ad ius antiquum aptandus sit, possitque vel ex iure antiquo vel ex Vellea [Vellaea] institutus non rumpere? Quod quaerendum est, si iam mortuo filio pronepotem instituat redeatque mortuo. Sed cum testamentum ab eo non rumpitur, nihil refert, utrum ex iure antiquo an ex lege Vellea [Vellaea] excludatur.
+
+8. Forsitan addubitet quis, an istis casibus si nepos post testamentum nascatur vivo patre suo, deinde ex eo concipiatur, isque vivo patre deinde avo nascatur, an non potuerit heres institui, quia pater ipsius non recte institutus esset. Quod minime est expavescendum: hic enim suus heres nascitur et post mortem nascitur.
+
+9. Ergo et si pronepos admittetur, qui natus erit ex nepote postea vivo filio, atque si ex eo natus esset, adoptatur.
+
+10. In omnibus his speciebus illud servandum est, ut filius dumtaxat, qui est in potestate, ex aliqua parte sit heres institutus: nam frustra exheredabitur post mortem suam: quod non esse necessario in eo filio, qui apud hostes est, si ibi decedat et in nepote certe et pronepote, quorum si liberi heredes instituantur, institutionem numquam exigemus, quia possunt praeteriri.
+
+11. Nunc de lege Vellea [Vellaea] videamus. Voluit vivis nobis natos similiter non rumpere testamentum.
+
+12. Et videtur primum caput eos spectare, qui, cum nascerentur, sui heredes futuri essententiarum et rogo, si filium habeas et nepotem nondum natum tantum ex eo heredem instituas, filius decedat, mox vivo te nepos nascatur? Ex verbis dicendum est non rumpi testamentum, ut non solum illud primo capite notaverit, si nepos, qui eo tempore instituatur, quo filius non sit, verum et si vivo patre nascatur: quid enim necesse est tempus testamenti faciendi respici, cum satis sit observari id tempus quo nascitur? Nam etsi ita verba sunt: "Qui testamentum faciet, is omnis virilis sexus, qui ei suus heres futurus erit" et cetera.
+
+13. Etiam si vovente parente vivo nascantur, sequenti parte succedentes in locum liberorum non vult rumpere testamentum: et ita interpretandum est, ut, si et filium et nepotem et pronepotem habeas, mortuis utrisque pronepos institutus succedens in sui heredis locum non rumpat. Et bene verba se habent "si quis ex suis heredibus suus heres esse desierit" ad omnes casus pertinentia, quos supplendos in Galli Aquili [Aquilii] sententia diximus: nec solum, si nepos vivo patre decedat, nec succedens pronepos avo mortuo rumpat, sed et si supervixit patri ac decedat, dummodo heres institutus sit aut exheredatus.
+
+14. Videndum, num hac posteriore parte "si quis ex suis heredibus suus heres esse desierit, liberi eius" et cetera "in locum suorum sui heredes succedunt", possit interpretatione induci, ut, si filium apud hostes habens nepotem ex eo heredem instituas, non tantum si vivo te filius decedat, sed etiam post mortem, antequam ab hostibus reversus fuerit, succedendo non rumpet: nihil enim addidit, quo significaret tempus: nisi quod, licet audenter, possis dicere vivo patre hunc suum heredem esse desisse, licet post mortem decedat, quia nec redit nec potest redire.
+
+15. Ille casus in difficili est, si filium habeas et nepotem nondum natum instituas isque nascatur vivo patre suo ac mox pater decedat: non enim suus heres est tempore quo nascatur nec posteriori alii succedendo prohiberi videtur rumpere quam qui iam natus erit. Denique et superiore capite ut liceat institui nondum natos, qui cum nascentur sui erunt, permitti, posteriore capite non permittit institui, sed vetat rumpi neve ob eam rem minus ratum esset, quod succedit. Porro procedere debet, ut utiliter sit institutus: quod nullo iure potuit qui nondum natus erat. Iuliano tamen videretur duobus quasi capitibus legis commixtis in hoc quoque inducere legem, ne rumpantur testamenta.
+
+16. Quaeremus tamen, cum recepta est Iuliani sententia, an, si nascatur nepos vivo patre suo, deinde emancipetur, sponte adire possit hereditatem. Quod magis probandum est: nam emancipatione suus heres fieri non potuit.
+
+28.2.30
+
+Gaius libro 17 ad edictum provinciale
+
+Inter cetera, quae ad ordinanda testamenta necessario desiderantur, principale ius est de liberis heredibus instituendis vel exheredandis, ne praeteritis istis rumpatur testamentum: namque filio qui in potestate est praeterito inutile est testamentum.
+
+28.2.31
+
+Paulus libro secundo ad Sabinum
+
+Dum apud hostes est filius, pater iure fecit testamentum et recte eum praeterit, cum, si in potestate esset filius, nihil valiturum esset testamentum.
+
+28.2.32
+
+Marcianus libro secundo regularum
+
+Si filio emancipato exheredato is qui in potestate est praeteritus sit, ipse quidem emancipatus si contra tabulas petat, nihil agit, ab intestato autem et suus et emancipatus venient.
+
+
+* 28.3.0. De iniusto rupto irrito facto testamento.
+
+
+28.3.1
+
+Papinianus libro primo definitionum
+
+Testamentum aut non iure factum dicitur, ubi sollemnia iuris defuerunt: aut nullius esse momenti, cum filius qui fuit in patris potestate praeteritus est: aut rumpitur alio testamento, ex quo heres existere poterit, vel adgnatione sui heredis: aut in irritum constituitur non adita hereditate.
+
+28.3.2
+
+Ulpianus libro secundo ad Sabinum
+
+Tunc autem prius testamentum rumpitur, cum posterius rite perfectum est, nisi forte posterius vel iure militari sit factum vel in eo scriptus est qui ab intestato venire potest: tunc enim et posteriore non perfecto superius rumpitur.
+
+28.3.3
+
+Ulpianus libro tertio ad Sabinum
+
+pr. Postumi per virilem sexum descendentes ad similitudinem filiorum nominatim exheredandi sunt, ne testamentum adgnascendo rumpant.
+
+1. Postumos autem dicimus eos dumtaxat, qui post mortem parentis nascuntur, sed et hi, qui post testamentum factum in vita nascuntur, ita demum per legem Velleam [Vellaeam] rumpere testamentum prohibentur, si nominatim sint exheredati.
+
+2. Unde etiam ante heredis institutionem vel inter medias heredum institutiones vel inter gradus exheredari possunt: nam divus Marcus decrevit idem in postumo quod in filio servandum, nec ratio diversitatis reddi potest.
+
+3. Ex his apparet aliam causam esse filiorum superstitum, aliam posteriorum: illi iniustum faciunt, hi rumpunt, illi semper, hi, si nascantur nec inveniant se exheredatos.
+
+4. Sed et si sit ante hoc aliud testamentum, a quo postumus exheredatus sit, placet, sive post mortem testatoris nascatur sive vivo testatore, utrumque ruptum esse et superius per inferius et inferius per postumum.
+
+5. Nominatim autem exheredatus postumus videtur, sive ita dixerit: "quicumque mihi nasceretur", sive ita: "ex Seia", sive ita: "venter exheres esto". Sed et si dixerit: "postumus exheres esto", natus vel post mortem vel vivo testatore non rumpet.
+
+6. Licet autem postumus praeteritus adgnascendo rumpat, tamen interdum evenit, ut pars testamenti rumpatur: ut puta si proponas a primo gradu postumum exheredatum, a secundo praeteritum: nam hic primus gradus valet, secundus ruptus est.
+
+28.3.4
+
+Ulpianus libro quarto disputationum
+
+Denique et deliberantibus primo gradu scriptis heredibus qui secundo gradu scripti sunt heredes optinere hereditatem non possunt: gradu enim rupto et infirmato amplius hereditas inde optineri non potest.
+
+28.3.5
+
+Ulpianus libro tertio ad Sabinum
+
+Nam et si sub condicione sit heres institutus quis, a quo postumus non est exheredatus, tamen pendente condicione rumpitur gradus, ut et Iulianus scripsit: sed et si sit ei substitutus quis, etiam deficiente condicione primi gradus non admittetur substitutus, a quo scilicet postumus exheredatus non est. Puto igitur existente quidem condicione primi gradus postumo potius locum fore: post defectum autem condicionis natus postumus gradum non rumpit, quia nullus est. Rumpendo autem testamentum sibi locum facere postumus solet, quamvis filius sequentem gradum, a quo exheredatus est, patiatur valere. Sed si a primo gradu praeteritus, a secundo exheredatus sit, si eo tempore nascatur postumus, quo aliquis ex institutis vixit, totum testamentum ruptum est: nam tollendo primum gradum, sibi locum faciet.
+
+28.3.6
+
+Ulpianus libro decimo ad Sabinum
+
+pr. Si quis filio exheredato nuru praegnate relicta decesserit et extraneum sub condicione instituerit et pendente condicione post mortem patris vel deliberante herede instituto de adeunda hereditate exheredatus filius decesserit et nepos fuerit natus, an rumpat testamentum? Et dicemus testamentum non rumpi, cum nec exheredari huiusmodi nepos deberet ab avo, quem pater praecedebat. Plane si forte institutus omiserit hereditatem, hunc avo suum futurum heredem ab intestato non dubitatur. Utrumque propriis rationibus: nam adgnascendo quidem is rumpit quem nemo praecedebat mortis tempore: ab intestato vero is succedit cui ante eum alii non est delata hereditas, non fuisse autem filio delatam hereditatem apparet, cum deliberante instituto decesserit. Sed haec ita, si mortis avi tempore in utero nepos fuit. Ceterum si postea conceptus est, Marcellus scribit neque ut suum neque ut nepotem aut cognatum ad hereditatem vel ad bonorum possessionem posse admitti.
+
+1. Sed si pater eius, qui mortis avi tempore in utero fuit, apud hostes erat, nepos iste patre in eadem causa decedente post mortem avi succedendo testamentum rumpet, quia supra scripta persona ei non obstat: nec enim creditur in rebus humanis fuisse, cum in ea causa decedat, quamquam captivus reversus patris sui iniustum faceret testamentum in eo praeteritus.
+
+2. Sive autem in civitate nepos fuit conceptus sive apud hostes, quoniam datur et partui postliminium, succedendo testamentum rumpit.
+
+3. Succedendo itaque sui non rumpunt, sive fuerint instituti vel exheredati ab eo gradu ad quem hereditas defertur, scilicet si gradus ille valeat.
+
+4. Quocumque autem modo parentes praecedentes in potestate esse desierint, succedentes liberi, si fuerint instituti vel exheredati, non rumpent testamentum, sive per captivitatem sive per mortem vel poenam.
+
+5. Irritum fit testamentum, quotiens ipsi testatori aliquid contigit, puta si civitatem amittat per subitam servitutem, ab hostibus verbi gratia captus, vel si maior annis viginti venum se dari passus sit ad actum gerendum pretiumve participandum.
+
+6. Sed et si quis fuerit capite damnatus vel ad bestias vel ad gladium vel alia poena quae vitam adimit, testamentum eius irritum fiet, et non tunc cum consumptus est, sed cum sententiam passus est: nam poenae servus efficitur: nisi forte miles fuit ex militari delicto damnatus, nam huic permitti solet testari, ut divus Hadrianus rescripsit, et credo iure militari testabitur. Qua ratione igitur damnato ei testari permittitur, numquid et, si quod ante habuit factum testamentum, si ei permissum sit testari, valeat? An vero poena irritum factum reficiendum est? Et si militari iure ei testandum sit, dubitari non oportet, quin, si voluit id valere, fecisse id credatur.
+
+7. Eius qui deportatur non statim irritum fiet testamentum, sed cum princeps factum comprobaverit: tunc enim et capite minuitur. Sed et si de decurione puniendo vel filio nepoteve praeses scribendum principi interlocutus est, non puto statim servum poenae factum, licet in carcere soleant diligentioris custodiae causa recipi. Nec huius igitur testamentum irritum fiet, priusquam princeps de eo supplicium sumendum rescripserit: proinde si ante decesserit, utique testamentum eius valebit, nisi mortem sibi conscivit. Nam eorum, qui mori magis quam damnari maluerint ob conscientiam criminis, testamenta irrita constitutiones faciunt, licet in civitate decedant: quod si quis taedio vitae vel valetudinis adversae impatientia vel iactationis, ut quidam philosophi, in ea causa sunt, ut testamenta eorum valeant. Quam distinctionem in militis quoque testamento divus Hadrianus dedit epistula ad Pomponium Falconem, ut, si quidem ob conscientiam delicti militaris mori maluit, irritum sit eius testamentum: quod si taedio vel dolore, valere testamentum aut, si intestato decessit, cognatis aut, si non sint, legioni ista sint vindicanda.
+
+8. Hi autem omnes, quorum testamenta irrita damnatione fieri diximus, si provocaverint, capite non minuuntur atque ideo neque testamenta quae antea fecerunt irrita fient et tunc testari poterunt: hoc enim saepissime est constitutum nec videbuntur quasi de statu suo dubitantes non habere testamenti factionem: sunt enim certi status nec ipsi de se interim incerti.
+
+9. Quid tamen si appellationem eius praeses non recepit, sed imperatori scribendo poenam remoratus est? Puto hunc quoque suum statum interim retinere nec testamentum irritum fieri: nam, ut est oratione divi Marci expressum, tametsi provocantis vel eius pro quo provocatur appellatio non fuerit recepta, poena tamen sustinenda est, quoad princeps rescripserit ad litteras praesidis et libellum rei cum litteris missum, nisi forte latro manifestus vel seditio praerupta factioque cruenta vel alia iusta causa, quam mox praeses litteris excusabit, moram non recipiant, non poenae festinatione, sed praeveniendi periculi causa: tunc enim punire permittitur, deinde scribere.
+
+10. Quid si quis fuerit damnatus illicite poena non sumpta, an testamentum eius irritum fiat, videamus: ut puta decurio ad bestias an capite minuatur testamentumque eius irritum fiat? Et non puto cum sententia eum non tenuerit. Ergo et si quis eum, qui non erat iurisdictionis suae, damnaverit, testamentum eius non erit irritum, quemadmodum est constitutum.
+
+11. Sed ne eorum quidem testamenta rata sunt, sed irrita fient, quorum memoria post mortem damnata est, ut puta ex causa maiestatis, vel ex alia tali causa.
+
+12. Quatenus tamen diximus ab hostibus capti testamentum irritum fieri, adiciendum est postliminio reversi vires suas recipere iure postliminii aut, si ibi decedat, lege Cornelia confirmari. Ergo et si quis damnatus capite in integrum indulgentia principis sit restitutus, testamentum eius convalescet.
+
+13. Filii familias veterani sui iuris morte patris facti testamentum irritum non fieri constat: nam quantum ad testandum de castrensi peculio pro patre familias habendus est, et ideo nec emancipatione irritum fieri militis vel veterani testamentum verum est.
+
+28.3.7
+
+Ulpianus libro decimo ad Sabinum
+
+Si miles iure civili testamentum fecerit et primo gradu heredem eum scripserit quem iure militari poterat, secundo eum quem communi iure potest, et post annum missionis decesserit, primus gradus irritus fiet et a secundo incipiet testamentum.
+
+28.3.8
+
+Ulpianus libro 11 ad Sabinum
+
+pr. Verum est adoptione vel adrogatione filii filiaeve testamentum rumpi, quoniam sui heredis adgnatione solet rumpi.
+
+1. Filia cum emancipatur vel nepos, quia una mancipatione exeunt de potestate, testamentum non rumpunt.
+
+28.3.9
+
+Paulus libro secundo ad Sabinum
+
+Si pater ab hostibus capiatur filio manente in civitate, reverso eo non rumpitur testamentum:
+
+28.3.10
+
+Paulus libro primo ad Vitellium
+
+Sed nec filius postliminio rediens rumpit patris testamentum, ut Sabinus existimavit.
+
+28.3.11
+
+Ulpianus libro 46 ad edictum
+
+Si binae tabulae proferantur diversis temporibus factae, unae prius, aliae [alia] postea, utraeque tamen septem testium signis signatae, et apertae posteriores vacuae inventae sint, id est nihil scriptum habentes omnino, superius testamentum non est ruptum, quia sequens nullum est.
+
+28.3.12
+
+Ulpianus libro quarto disputationum
+
+pr. Postumus praeteritus vivo testatore natus decessit: licet iuris scrupulositate nimiaque suptilitate testamentum ruptum videatur, attamen, si signatum fuerit testamentum, bonorum possessionem secundum tabulas accipere heres scriptus potest remque optinebit, ut et divus Hadrianus et imperator noster rescripserunt, idcircoque legatarii et fideicommissarii habebunt ea, quae sibi relicta sint, securi. Idem et circa iniustum et irritum testamentum erit dicendum, si bonorum possessio data fuerit ei, qui rem ab intestato auferre possit.
+
+1. Si paganus, qui habebat iam factum testamentum, aliud fecisset et in eo comprehendisset fidei heredis committere, ut priores tabulae valerent, omnimodo prius testamentum ruptum est: quo rupto potest quaeri, an vice codicillorum id valere deberet. Et cum haec verba sint fideicommissi, et sine dubio universa, quae illic scripta sunt, in causa fideicommissi erunt, non solum legata et fideicommissa, sed et libertates et heredis institutio.
+
+28.3.13
+
+Gaius libro secundo institutionum
+
+Postumorum loco sunt et hi, qui in sui heredis loco succedendo quasi adgnascendo fiunt parentibus sui heredes. Ut ecce si filium et ex eo nepotem neptemve in potestate habeam, quia filius gradu praecedit, is solus iura sui heredis habet, quamvis nepos quoque et neptis ex eo in eadem potestate sint: sed si filius meus me vivo morietur aut qualibet ratione exeat de potestate mea, incipit nepos neptisve in eius loco succedere et eo modo iura suorum heredum quasi adgnatione nanciscuntur. Ne ergo eo modo rumpat mihi testamentum, sicut ipsum filium vel heredem instituere vel exheredare nominatim debeo, ne non iure faciam testamentum, ita et nepotem neptemve ex eo necesse est mihi vel heredem instituere vel exheredare, ne forte me vivo filio mortuo succedendo in locum eius nepos neptisve quasi adgnatione rumpat testamentum: idque lege Iunia Vellea provisum est.
+
+28.3.14
+
+Paulus libro singulari de adsignatione libertorum
+
+Si ita facta sit exheredatio: "si filius natus natave sit, exheres esto", utrisque natis non rumpitur testamentum.
+
+28.3.15
+
+Iavolenus libro quarto epistularum
+
+Qui uxorem praegnatem habebat, in hostium potestatem pervenit: quaero, filio nato quo tempore testamentum in civitate factum rumpatur? Et si filius ante moriatur quam pater, an scripti heredes hereditatem habituri sint? Respondi: non puto dubium esse, quin per legem Corneliam, quae de confirmandis eorum testamentis, qui in hostium potestate decessissent, lata est, nato filio continuo eius testamentum, qui in hostium potestate sit, rumpatur: sequitur ergo, ut ex eo testamento hereditas ad neminem perveniat.
+
+28.3.16
+
+Pomponius libro secundo ad Quintum Mucium
+
+Cum in secundo testamento heredem eum qui vivit instituimus sive pure sive sub condicione (si tamen condicio existere potuit, licet non exstiterit), superius testamentum erit ruptum. Multum autem interest, qualis condicio posita fuerit: nam aut in praeteritum concepta ponitur aut in praesens aut in futurum: in praeteritum concepta ponitur veluti "si Titius consul fuit": quae condicio si vera est, id est si Titius consul fuit, ita est institutus heres, ut superius testamentum rumpatur [rumpatar]: tum enim ex hoc heres esset. Si vero Titius consul non fuit, superius testamentum non est ruptum. Quod si ad praesens tempus condicio adscripta est herede instituto, veluti "si Titius consul est", eundem exitum habet, ut, si sit, possit heres esse et superius testamentum rumpatur, si non sit, nec possit heres esse nec superius testamentum rumpatur. In futurum autem collatae condiciones si possibiles sunt, existere potuerunt, licet non exstiterint, efficiunt, ut superius testamentum rumpatur, etiamsi non extiterint: si vero impossibiles sunt, veluti "Titius si digito caelum tetigerit, heres esto", placet perinde esse, quasi condicio adscripta non sit, quae est impossibilis.
+
+28.3.17
+
+Papinianus libro quinto responsorum
+
+Filio praeterito qui fuit in patris potestate neque libertates competunt neque legata praestantur, si praeteritus fratribus partem hereditatis avocavit: quod si bonis se patris abstinuit, licet suptilitas iuris refragari videtur, attamen voluntas testatoris ex bono et aequo tuebitur.
+
+28.3.18
+
+Scaevola libro quinto quaestionum
+
+Si qui heres institutus est a testatore adrogetur, potest dici satis ei factum, quia et antequam adoptetur, institutio in extraneo locum habebat.
+
+28.3.19
+
+Scaevola libro sexto quaestionum
+
+pr. Si ego et Titius instituti simus et a nobis postumus exheredatus sit, a substitutis nostris non sit exheredatus, Titio defuncto ne ego quidem adire potero: iam enim propter instituti personam, a quo postumus exheredatus est, in cuius locum substitutus vocatur, a quo postumus exheredatus non est, ruptum est testamentum.
+
+1. Sed si ego et Titius invicem substituti simus, quamvis in partem substitutionis exheredatus non sit, mortuo vel repudiante Titio me posse adire puto et ex asse heredem esse.
+
+2. In prima tamen specie et si vivat Titius, neque ego sine illo neque ipse sine me adire poterit, quia incertum est, an adhuc altero omittente rumpatur testamentum: itaque simul adire possumus.
+
+28.3.20
+
+Scaevola libro 13 digestorum
+
+Lucius Titius integra mente et valetudine testamentum fecit uti oportet, postea cum in valetudinem adversam incidisset, mente captus tabulas easdem incidit: quaero, an heredes his tabulis instituti adire possint hereditatem. Respondit secundum ea quae proponerentur non ideo minus adiri posse.
+
+
+* 28.4.0. De his quae in testamento delentur inducuntur vel inscribuntur.
+
+
+28.4.1
+
+Ulpianus libro 15 ad Sabinum
+
+pr. Quae in testamento legi possunt, ea inconsulta deleta et inducta nihilo minus valent, consulto non valent: id vero quod non iussu domini scriptum inductum deletumve est, pro nihilo est. "Legi" autem sic accipiendum non intellegi, sed oculis perspici quae sunt scripta: ceterum si extrinsecus intelleguntur, non videbuntur legi posse. Sufficit autem, si legibilia sint inconsulto deleta sive ab ipso sive ab alio, sed nolentibus. "Inducta" accipiendum est et si perducta sint.
+
+1. Quod igitur incaute factum est, pro non facto est, si legi potuit: et ideo, etsi novissime, ut solet, testamento fuerit adscriptum: "Lituras inductiones superductiones ipse feci", non videbitur referri ad ea quae inconsulto contigerunt. Proinde et si inconsulto superscripsit induxisse se, manebunt et si ademit, non erunt adempta.
+
+2. Sed si legi non possunt quae inconsulto delata sunt, dicendum est non deberi, sed hoc ita demum, si ante consummationem testamenti factum est.
+
+3. Sed consulto quidem deleta exceptione petentes repelluntur, inconsulto vero non repelluntur, sive legi possunt sive non possunt, quoniam, si totum testamentum non exstet, constat valere omnia quae in eo scripta sunt. Et si quidem illud concidit testator, denegabuntur actiones, si vero alius invito testatore, non denegabuntur.
+
+4. Et hereditatis portio adempta vel tota hereditas, si forte sit substitutus, iure facta videbitur, non quasi adempta, quoniam hereditas semel data adimi facile non potest, sed quasi nec data.
+
+5. Si quis codicillos in testamento confirmavit et codicillis aliquid adscripsit, mox delevit ita ut appareat, an debeatur? Et Pomponius scribit codicillos deletos non valere.
+
+28.4.2
+
+Ulpianus libro quarto disputationum
+
+Cancellaverat quis testamentum vel induxerat et si propter unum heredem facere dixerat: id postea testamentum signatum est. Quaerebatur de viribus testamenti deque portione eius, propter quem se cancellasse dixerat. Dicebam, si quidem unius ex heredibus nomen induxerit, sine dubio ceteram partem testamenti valere et ipsi soli denegari actiones: sed legata ab eo nominatim relicta debebuntur, si voluntas ea fuit testantis, ut tantum heredis institutio improbetur. Sed si instituti nomen induxit et substituti reliquit, institutus emolumentum hereditatis non habebit. Sed si omnia nomina induxerit, ut proponitur, adscripserit autem idcirco se id fecisse, quia unum heredem offensum habuit, multum interesse arbitror, utrum illum tantum fraudare voluit hereditate an vero causa illius totum testamentum infirmare, ut licet unus inductionis causam praebuerit, verum omnibus offuerit. Et si quidem soli ei ademptam voluit portionem, ceteris nihil nocebit inductio, non magis quam si volens unum heredem inducere invitus et alium induxerit. Quod si putavit totum testamentum delendum ob unius malum meritum, omnibus denegantur actiones: sed an legatariis denegari actio debeat, quaestio est. In ambiguo tamen interpretandum erit et legata deberi et coheredum institutionem non esse infirmandam.
+
+28.4.3
+
+Marcellus libro 29 digestorum
+
+Proxime in cognitione principis cum quidam heredum nomina induxisset et bona eius ut caduca a fisco vindicarentur, diu de legatis dubitatum est et maxime de his legatis, quae adscripta erant his, quorum institutio fuerat inducta. Plerique etiam legatarios excludendos existimabant. Quod sane sequendum aiebam, si omnem scripturam testamenti cancellasset: nonullos opinari id iure ipso peremi quod inductum sit, cetera omnia valitura. Quid ergo? Non et illud interdum credi potest eum, qui heredum nomina induxerat, satis se consecuturum putasse, ut intestati exitum faceret? Sed in re dubia benigniorem interpretationem sequi non minus iustius est quam tutius. Sententia imperatoris Antonini Augusti Pudente et Pollione consulibus. "Cum Valerius Nepos mutata voluntate et inciderit testamentum suum et heredum nomina induxerit, hereditas eius secundum divi patris mei constitutionem ad eos qui scripti fuerint pertinere non videtur". Et advocatis fisci dixit: "Vos habetis iudices vestros". Vibius Zeno dixit: "Rogo, domine imperator, audias me patienter: de legatis quid statues?" Antoninus Caesar dixit: "Videtur tibi voluisse testamentum valere, qui nomina heredum induxit?" Cornelius Priscianus advocatus Leonis dixit: "Nomina heredum tantum induxit". Calpurnius Longinus advocatus fisci dixit: "Non potest ullum testamentum valere, quod heredem non habet". Priscianus dixit: "Manumisit quosdam et legata dedit". Antoninus Caesar remotis omnibus cum deliberasset et admitti rursus eodem iussisset, dixit: "Causa praesens admittere videtur humaniorem interpretationem, ut ea dumtaxat existimemus nepotem irrita esse voluisse, quae induxit". Nomen servi, quem liberum esse iusserat, induxit. Antoninus rescripsit liberum eum nihilo minus fore: quod videlicet favore constituit libertatis.
+
+28.4.4
+
+Papinianus libro sexto responsorum
+
+Pluribus tabulis eodem exemplo scriptis unius testamenti voluntatem eodem tempore dominus sollemniter complevit. Si quasdam tabulas in publico depositas abstulit atque delevit, quae iure gesta sunt, praesertim cum ex ceteris tabulis quas non abstulit res gesta declaretur, non constituentur irrita. Paulus notat: sed si, ut intestatus moreretur, incidit tabulas et hoc adprobaverint hi qui ab intestato venire desiderant, scriptis avocabitur hereditas.
+
+
+* 28.5.0. De heredibus instituendis.
+
+
+28.5.1
+
+Ulpianus libro primo ad Sabinum
+
+pr. Qui testatur ab heredis institutione plerumque debet initium facere testamenti. Licet etiam ab exheredatione, quam nominatim facit: nam divus Traianus rescripsit posse nominatim etiam ante heredis institutionem filium exheredare.
+
+1. Institutum autem heredem eum quoque dicimus, qui scriptus non est, sed solummodo nuncupatus.
+
+2. Mutus et surdus recte heres institui potest.
+
+3. Qui neque legaturus quid est neque quemquam exheredaturus, quinque verbis potest facere testamentum, ut dicat: "Lucius Titius mihi heres esto": haec autem scriptura pertinet ad eum qui non per scripturam testatur. Qui poterit etiam tribus verbis testari, ut dicat: "Lucius heres esto": nam et "mihi" et "Titius" abundat.
+
+4. Si ex fundo fuisset aliquis solus institutus, valet institutio detracta fundi mentione.
+
+5. Si autem sic scribat: "Lucius heres", licet non adiecerit "esto", credimus plus nuncupatum, minus scriptum: et si ita: "Lucius esto", tantundem dicimus: ergo et si ita: "Lucius" solummodo. Marcellus non insuptiliter non putat hodie hoc procedere. Divus autem Pius, cum quidam portiones inter heredes distribuisset ita: "Ille ex parte tota, ille ex tota" nec adiecisset "heres esto", rescripsit valere institutionem: quod et Iulianus scripsit.
+
+6. Item divus Pius rescripsit "illa uxor mea esto" institutionem valere, licet deesset "heres".
+
+7. Idem Iulianus "illum heredem esse", non putavit valere, quoniam deest aliquid: sed et ipsa valebit subaudito "iubeo".
+
+28.5.2
+
+Ulpianus libro secundo ad Sabinum
+
+pr. Circa eos, qui ita heredes instituti sint: "Ex partibus quas adscripsero", non putat Marcellus eos heredes nullis adscriptis partibus, quemadmodum si ita essent heredes instituti: "Si eis partes adscripsero". Sed magis est, ut sic utraque institutio accipiatur, si voluntas defuncti non refragatur: "Ex quibus partibus adscripsero, si minus, ex aequis", quasi duplici facta institutione: quam sententiam Celsus libro sexto decimo digestorum probat. Aliter atque probat in illa institutione: "Ex qua parte me Titius heredem scripsit, Seius heres esto": tunc enim si non est a Titio scriptus, nec Seius ab eo, nec immerito: hic enim creditur inesse condicio. Sed Marcellus haec similia putat.
+
+1. Potest autem interesse, utrum ita quis scribat: "Ex his partibus quas adscripsi" an "adscripsero", ut superiori modo dicas nullis adscriptis partibus nullam esse institutionem: quomodo in illo Marcellus: "Ex his partibus, ex quibus testamento matris scripti fuissent, heredes sunto", si intestata mater decesserit, hos non esse institutos.
+
+28.5.3
+
+Ulpianus libro tertio ad Sabinum
+
+pr. Servus alienus vel totus vel pro parte sine libertate heres institui potest.
+
+1. Si servum meum pure heredem scripsero, sub condicione liberum, differtur institutio in id tempus, quo libertas data est.
+
+2. Si quis ita scripserit: "Si Titius heres erit, Seius heres esto: Titius heres esto", quasi quaevis condicio exspectatur Titii aditio, ut Seius heres fiat: et sane et Iuliano et Tertulliano hoc videtur.
+
+3. Qui fideicommissam libertatem sub condicione accepit, potest ab herede pure cum libertate heres institui et non exspectata condicione libertatem et hereditatem consequitur et erit interim necessarius: et existente condicione voluntarius heres efficietur, ut non desinat heres esse, sed ut ius in eo mutetur successionis.
+
+4. Aperturae tabularum dilatio necessarii heredis ius non mutat, ut solemus in substituto impuberis dicere: nam est relatum, si se adrogandum dederit substitutus impuberi defuncti filius, necessarium eum fore.
+
+28.5.4
+
+Ulpianus libro quarto ad Sabinum
+
+pr. Suus quoque heres sub condicione heres potest institui: sed excipiendus est filius, quia non sub omni condicione institui potest. Et quidem sub ea condicione, quae est in potestate ipsius, potest: de hoc enim inter omnes constat. Sed utrum ita demum institutio effectum habeat, si paruerit condicioni, an et si non paruerit et decessit? Iulianus putat filium sub eiusmodi condicione institutum etiam, si condicioni non paruerit, summotum esse, et ideo si coheredem habeat ita institutus, non debere eum exspectare, donec condicioni pareat filius, cum et si patrem intestatum faceret non parendo condicioni, procul dubio exspectare deberet. Quae sententia probabilis mihi videtur, ut sub ea condicione institutus, quae in arbitrio eius sit, patrem intestatum non faciat.
+
+1. Puto recte generaliter definiri: utrum in potestate fuerit condicio an non fuerit, facti potestas est: potest enim et haec "si Alexandriam pervenerit" non esse in arbitrio per hiemis condicionem: potest et esse, si ei, qui a primo miliario Alexandriae agit, fuit imposita: potest et haec "si decem Titio dederit" esse in difficili, si Titius peregrinetur longinquo itinere: propter quae ad generalem definitionem recurrendum est.
+
+2. Sed et si filio sub condicione, quae in eius potestate est, herede instituto nepos sit substitutus sive extraneus, puto vivo filio non exstaturum heredem substitutum, post mortem vero exstaturum, nec necessariam a substituto filii exheredationem, cum et, si fuerit facta, frustra est: post mortem enim filii facta est, quam inutilem esse alias ostendimus: opinamur igitur filium, si sit institutus sub ea condicione et sit in eius potestate, non indigere exheredatione a sequentibus gradibus: alioquin et a coherede indigebit.
+
+28.5.5
+
+Marcellus notum ad Iuliani libro 29 digestorum
+
+Si eiusmodi sit condicio, sub qua filius heres institutus sit, ut ultimo vitae eius tempore certum sit eam existere non posse et pendente ea decedat, intestato patri heres erit, veluti "si Alexandriam pervenerit, heres esto": quod si etiam novissimo tempore impleri potest, veluti "si decem Titio dederit, heres esto", contra puto.
+
+28.5.6
+
+Ulpianus libro quarto ad Sabinum
+
+pr. Sed si condicioni dies sit adiectus, ut puta: "Si Capitolium intra dies triginta ascenderit", tantundem potest dici: ut, si non paruerit condicioni, substitutus possit admitti filio repulso, consequens est sententiae Iuliani et nostrae.
+
+1. Nepotes autem et deinceps ceteri, qui ex lege Vellea [Vellaea] instituti non rumpunt testamenta, sub omni condicione institui possunt, etsi redigantur ad filii condicionem.
+
+2. Solemus dicere media tempora non nocere, ut puta civis Romanus heres scriptus vivo testatore factus peregrinus mox civitatem Romanam pervenit: media tempora non nocent. Servus alienus sub condicione heres scriptus traditus est servus hereditario, mox usucaptus ab extraneo: non est vitiata institutio.
+
+3. Si servum communem cum libertate dominus heredem scripserit et eum redemerit, necessarius efficietur. Sed si substitutus sit impuberi et partem redemerit impubes, necessarius non efficietur, ut Iulianus scribit.
+
+4. Sed si sit cum libertate institutus, an ei libertatis datio codicillis adimi possit, apud Iulianum quaeritur. Et putat in eum casum, quo necessarius fieret, ademptionem non valere, ne a semet ipso ei adimatur libertas: servus enim heres institutus a semet ipso libertatem accipit. Quae sententia habet rationem: nam sicuti legari sibi non potest, ita nec a se adimi.
+
+28.5.7
+
+Iulianus libro 30 digestorum
+
+pr. Si servus communis sub condicione heres institutus vivo testatore libertatem consecutus sit, etiam pendente condicione testamentariae libertatis adire hereditatem potest.
+
+1. Item sive testator eum alienaverit sive heres post mortem testatoris, iussu domini hereditatem adibit.
+
+28.5.8
+
+Iulianus libro secundo ad Urseium Ferocem
+
+pr. Duo socii quendam servum communem testamento facto heredem et liberum esse iusserant: ruina simul oppressi perierant. Plerique responderunt hoc casu duobus orcinum heredem existere, et id est verius.
+
+1. Sed et si sub eadem condicione servum communem uterque socius liberum heredemque esse iussisset eaque exstitisset, idem iuris erit.
+
+28.5.9
+
+Ulpianus libro quinto ad Sabinum
+
+pr. Quotiens volens alium heredem scribere alium scripserit in corpore
+hominis errans, veluti "frater meus" "patronus meus", placet neque eum
+heredem esse qui scriptus est, quoniam voluntate deficitur, neque eum
+quem voluit, quoniam scriptus non est.
+
+1. Et si in re quis erraverit, ut puta dum vult lancem relinquere,
+vestem leget, neutrum debebit hoc, sive ipse scripsit sive scribendum
+dictaverit.
+
+2. Sed si non in corpore erravit, sed in parte, puta si, cum dictasset
+ex semisse aliquem scribi, ex quadrante sit scriptus, Celsus libro
+duodecimo quaestionum, digestorum undecimo posse defendi ait ex
+semisse heredem fore, quasi plus nuncupatum sit, minus scriptum: quae
+sententia rescriptis adiuvatur generalibus. Idemque est et si ipse
+testator minus scribat, cum plus vellet adscribere.
+
+3. Sed si maiorem adscripserit testamentarius vel (quod difficilius
+est probatione) ipse testator, ut pro quadrante semissem, Proculus
+putat ex quadrante fore heredem, quoniam inest quadrans in semisse:
+quam sententiam et Celsus probat.
+
+4. Sed et si quis pro centum ducenta per notam scripsisset, idem iuris
+est: nam et ibi utrumque scriptum est et quod voluit et quod adiectum
+est: quae sententia non est sine ratione.
+
+5. Tantundem Marcellus tractat et in eo, qui condicionem destinans
+inserere non addidit: nam et hunc pro non instituto putat: sed si
+condicionem addidit dum nollet, detracta ea heredem futurum nec
+nuncupatum videri quod contra voluntatem scriptum est: quam sententiam
+et ipse et nos probamus.
+
+6. Idem tractat et si testamentarius contra voluntatem testatoris
+condicionem detraxit vel mutavit, heredem non futurum, sed pro non
+instituto habendum.
+
+7. Sed si, cum primum heredem ex parte dimidia scribere destinasset, primum et secundum scripsit, solus primus scriptus heres videbitur et solus heres existet quasi ex parte dimidia institutus.
+
+8. Si quis nomen heredis quidem non dixerit, sed indubitabili signo eum demonstraverit, quod paene nihil a nomine distat, non tamen eo, quod contumeliae causa solet addi, valet institutio.
+
+9. Heres institui, nisi ut certe demonstretur, nemo potest.
+
+10. Si quis ita dixerit: "Uter ex fratribus meis Titio et Maevio Seiam uxorem duxerit, ex dodrante, uter non duxerit, ex quadrante heres esto", hic recte factam institutionem esse certum est: sed quis ex qua parte, incertum.
+
+11. Plane erit similis, si ita institutio facta fuerit: "Uter ex supra scriptis fratribus meis Seiam uxorem duxerit, heres esto": sed et hanc puto valere institutionem quasi sub condicione factam.
+
+12. Heredes iuris successores sunt et, si plures instituantur, dividi inter eos a testatore ius oportet: quod si non fiat, omnes aequaliter heredes sunt.
+
+13. Si duo sint heredes instituti, unus ex parte tertia fundi Corneliani, alter ex besse eiusdem fundi, Celsus expeditissimam Sabini sententiam sequitur, ut detracta fundi mentione quasi sine partibus heredes scripti hereditate potirentur, si modo voluntas patris familias manifestissime non refragatur.
+
+14. Si quis ita scripserit: "Stichus liber esto et, posteaquam liber erit, heres esto", Labeo, Neratius et Aristo opinantur detracto verbo medio "postea" simul ei et libertatem et hereditatem competere: quae sententia mihi quoque vera videtur.
+
+15. Si quis primum ex triente, secundum ex triente heredem instituerit et, si secundus heres non erit, tertium ex besse heredem scribat, hic secundo repudiante bessem habebit non solum iure substitutionis, sed et institutionis, id est trientem iure substitutionis, trientem iure institutionis.
+
+16. Servus cum libertate institutus si sit alienatus, iuberi adire ab eo potest, cui alienatus est: sed si redemptus sit a testatore, institutio valet et necessarius heres erit.
+
+17. Si servus ex die libertatem acceperit et hereditatem pure, mox sit alienatus vel manumissus, videamus, an institutio valeat. Et quidem si alienatus non esset, potest defendi institutionem valere, ut die veniente libertatis, quae hereditatem moratur, competente libertate et heres necessarius existat.
+
+18. Sed si in diem libertas, hereditas autem sub condicione data sit, si condicio post diem advenientem exstiterit, liber et heres erit.
+
+19. Sed et si pure fuerit heres institutus libertate in diem data, si sit alienatus vel manumissus, dici debet heredem eum posse existere.
+
+20. Sed et si non ipse servus sit alienatus, sed usus fructus in eo, aeque institutio valet, sed differtur in id tempus quo extinguitur usus fructus.
+
+28.5.10
+
+Paulus libro primo ad Sabinum
+
+Si alterius atque alterius fundi pro partibus quis heredes instituerit, perinde habebitur, quasi non adiectis partibus heredes scripti essent: nec enim facile ex diversitate pretium portiones inveniuntur: ergo expeditius est quod Sabinus scribit, perinde habendum, ac si nec fundum nec partes nominasset.
+
+28.5.11
+
+Iavolenus libro septimo epistularum
+
+"Attius fundi Corneliani heres esto mihi, duo Titii illius insulae heredes sunto". Habebunt duo Titii semissem, Attius semissem idque Proculo placet: quid tibi videtur? Pespondit: vera est Proculi opinio.
+
+28.5.12
+
+Paulus libro secundo ad Sabinum
+
+Si inaequalibus partibus datis ita adiciatur: "Quos ex disparibus partibus heredes institui, aeque heredes sunto", existimandum est exaequari eos, scilicet si hoc ante peractum testamentum scriptum sit.
+
+28.5.13
+
+Ulpianus libro septimo ad Sabinum
+
+pr. Interdum haec adiectio "aeque heredes sunto" testatoris voluntatem exprimit, ut puta "primus et fratris mei filii aeque heredes sunto": nam haec adiectio declarat omnes ex virilibus partibus institutos, ut et Labeo scripsit, qua detracta semissem fratris filii, semissem primus haberet.
+
+1. Pater familias distribuere hereditatem in tot partes potest quot voluerit: sed sollemnis assis distributio in duodecim uncias fit.
+
+2. Denique si minus distribuit, potestate iuris in hoc revolvitur: ut puta si duos heredes ex quadrante scripserit: nam hereditas eius residua accedit, ut ex semissibus videantur scripti.
+
+3. Sed si alter ex quadrante, alter ex semisse heredes scripti sunt, qui accedit quadrans pro partibus hereditariis eis adcrescit.
+
+4. Sed si excesserit in divisione duodecim uncias, aeque pro rata decrescet: ut puta me ex duodecim unciis heredem, te ex sex scripsit: ego hereditatis habeo bessem, tu trientem.
+
+5. Sed si duos ex asse heredes scripserit, alios ex duodecim unciis, an aeque distributio fiat, apud Labeonem libro quarto posteriorum quaeritur. Et putat Labeo et illos ex semisse et hos, qui ex duodecim unciis scripti sunt, ex semisse heredes fore, cui sententiae adsentiendum puto.
+
+6. Sed si duos ex asse heredes instituerit, tertium autem ex dimidia et sexta, eodem libro Labeo ait in viginti uncias assem dividendum, octo laturum ex dimidia et sexta scriptum, illos duos duodecim.
+
+7. Apud eundem refertur: "Titius ex parte tertia", deinde asse expleto "idem ex parte sexta": in quattuordecim uncias hereditatem dividendam Trebatius ait.
+
+28.5.14
+
+Iavolenus libro primo ex Cassio
+
+Si quis heredes ita instituit: "Titius ex parte prima, seius ex parte secunda, Maevius ex parte tertia, Sulpicius ex parte quarta heredes sunto": aequae partes hereditatis ad institutos pertinebunt, quia testator appellatione numeris scripturae magis ordinem, quam modum partibus imposuisse videtur.
+
+28.5.15
+
+Ulpianus libro septimo ad Sabinum
+
+pr. Iulianus quoque libro trigesimo refert, si quis ita heredem scripserit: "Titius ex parte dimidia heres esto: Seius ex parte dimidia: ex qua parte Seium institui, ex eadem parte Sempronius heres esto", dubitari posse, utrum in tres semisses dividere voluit hereditatem an vero in unum semissem Seium et Sempronium coniungere: quod est verius, et ideo coniunctim eos videri institutos: sic fiet, ut Titius semissem, hi duo quadrantes ferant.
+
+1. Idem eodem libro scripsit, si primus ex semisse, secundus ex semisse, si primus heres non erit, tertius ex dodrante substitutus sit, facti quidem quaestionem esse: verum recte dicitur, si quidem primus adierit, aequales partes habituros, si repudiaverit, quindecim partes futuras, ex quibus novem quidem laturum tertium, sex secundum:
+
+28.5.16
+
+Iulianus libro 30 digestorum
+
+Nam tertium et instituti et substituti personam sustinere, in tres partes institutum videri, in sex substitutum.
+
+28.5.17
+
+Ulpianus libro septimo ad Sabinum
+
+pr. Item quod Sabinus ait, si cui pars adposita non est, excutiamus. Duos ex quadrantibus heredes scripsit, tertium sine parte: quod assi deest, feret: hoc et Labeo.
+
+1. Unde idem tractat, si duos ex undecim, duos sine parte scripsit, mox unus ex his, qui sine parte fuerunt, repudiaverit, utrum omnibus semuncia an ad solum sine parte scriptum pertineat: et variat. Sed Servius omnibus adcrescere ait, quam sententiam veriorem puto: nam quantum ad ius adcrescendi non sunt coniuncti, qui sine parte instituuntur: quod et Celsus libro sexto decimo digestorum probat.
+
+2. Idemque putat et si expleto asse duos sine parte heredes scripserit, neque hos neque illos coniunctos.
+
+3. Sed si asse expleto alium sine parte heredem scripserit, in alium assem veniet. Aliter atque si ita scripsisset expleto asse: "Ex reliqua parte heres esto", quoniam, cum nihil reliquum est, ex nulla parte heres institutus est.
+
+4. Sed si expleto asse duo sine partibus scribantur, utrum in singulos asses isti duo an in unum assem coniungantur, quaeritur. Et putat Labeo, et verius est, in unum assem venire: nam et si unus sine parte, duo coniunctim sine parte instituantur, non tres trientes fieri Celsus libro sexto decimo scripsit, sed duos semisses.
+
+5. Quod si quis dupundium distribuit et tertium sine parte instituit, hic non in alium assem, sed in trientem venit, ut Labeo quarto posteriorum scripsit, nec Aristo vel Aulus (utpote probabile) notant.
+
+28.5.18
+
+Paulus libro primo ad Vitellium
+
+Sabinus: quaesitum est, si plus asse pater familias distribuisset et aliquem sine parte fecisset heredem, utrumne is assem habiturus foret an id dumtaxat, quod ex dupundio deesset. Et hanc esse tolerabilissimam sententiam puto, ut eadem ratio in dupondio omnique re deinceps quae in asse servetur. Paulus: eadem ratio est in secundo asse quae in primo.
+
+28.5.19
+
+Ulpianus libro septimo ad Sabinum
+
+Ex facto etiam agitatum Pomponius et Arrianus referunt [deferunt], si quis vacua parte relicta ita instituerit: "Si mihi Seius heres non erit", quem non instituerat, "Sempronius heres esto", an hic occupare possit vacantem portionem. Et Pegasus quidem existimat ad eam partem admitti: Aristo contra putat, quia huic pars esset data, quae nulla esset: quam sententiam et Iavolenus probat et Pomponius et Arrianus et hoc iure utimur.
+
+28.5.20
+
+Paulus libro secundo ad Sabinum
+
+pr. Quo loco scribatur heres sine parte, utrum primo an medio vel novissimo, nihil interest.
+
+1. Si iam mortuo quadrans, alii dodrans datus sit et alius sine parte scriptus sit, Labeo eum, qui sine parte heres institutus sit, alterum assem habiturum et hanc mentem esse testantis: quod et Iulianus probat et verum est.
+
+2. Quod si vivus et mortuus ex parte dimidia coniunctim heredes instituti sunt, ex altera alius, aequas partes eos habituros ait, quia mortui pars pro non scripto habetur.
+
+28.5.21
+
+Pomponius libro primo ad Sabinum
+
+pr. Trebatius ait sic non recte scribi: "Quisquis mihi heres erit, Stichus liber et heres esto", liberum tamen futurum. Labeo et heredem eum futurum recte putat.
+
+1. Servo libertatem pure, hereditatem sub condicione dari posse verissimum puto, ut tamen utrumque ex condicione pendeat:
+
+28.5.22
+
+Iulianus libro 30 digestorum
+
+Et expleta quidem condicione liber heresque erit, quocumque loco libertas data fuerit: deficiente autem condicione perinde habetur, ac si libertas sine hereditate data fuerit.
+
+28.5.23
+
+Pomponius libro primo ad Sabinum
+
+pr. Si quis instituatur heres in diem certum vel incertum, is bonorum possessionem agnoscere potest et tamquam heres distrahere hereditatem.
+
+1. Sed si bonorum possessionem non admittat, sed condicionem trahat, cui facile parere possit, veluti "si servum quem in potestate habeat manumiserit" nec manumittat, hic praetoris erunt partes, ut imitetur edictum suum illud, quo praefinit tempus, intra quod adeatur hereditas.
+
+2. Item si condicioni heres parere non poterit, quam in sua potestate non habebit, veluti institutione collata in alterius factum aut quendam casum, "si ille" puta "consul factus fuerit", tunc postulantibus creditoribus constituet praetor, nisi intra certum tempus hereditas optigerit aditaque fuerit, se bona defuncti creditoribus possidere iussurum et interim quae urguebunt per procuratores distrahi iussurum.
+
+3. Sed si sub condicione quis heres institutus sit et grave aes alienum sit, quod ex poena crescit, et maxime si publicum debitum imminet: per procuratorem solvendum aes alienum, sicuti cum venter in possessione sit aut pupillus heres tutorem non habeat.
+
+4. Et ideo ait causae cognitionem adiectam propter eos, qui sine dilatione peregre essent vel aegritudine vel valetudine ita impedirentur, ut in ius produci non possint, nec tamen defenderentur.
+
+28.5.24
+
+Celsus libro 16 digestorum
+
+"Titius et Seius uterve eorum vivet heres mihi esto". Existimo, si uterque vivat, ambo heredes esse, altero mortuo eum qui supererit ex asse heredem fore,
+
+28.5.25
+
+Ulpianus libro sexto regularum
+
+Quia tacita substitutio inesse videtur institutioni:
+
+28.5.26
+
+Celsus libro 16 digestorum
+
+Idque et in legato eodem modo relicto senatus censuit.
+
+28.5.27
+
+Pomponius libro tertio ad Sabinum
+
+pr. Si te solum ex parte dimidia pure, ex altera sub condicione heredem instituero et substituero tibi, non existente condicione substitutum ex ea parte heredem fore Celsus ait:
+
+1. Sed si te heredem instituero et deinde eundem te sub condicione instituam, nihil valere sequentem institutionem, quia satis plena prior fuisset.
+
+2. Sed si plures institutiones ex eadem parte sub diversis condicionibus fuerint factae, utra prior condicio exstiterit, id faciet quod supra diximus, si pure et sub condicione idem instituatur.
+
+28.5.28
+
+Ulpianus libro quinto ad Sabinum
+
+Si ita quis institutus sit: "Titius heres esto, si secundus heres non erit", deinde: "secundus heres esto": placet primo gradu secundum esse institutum.
+
+28.5.29
+
+Pomponius libro quinto ad Sabinum
+
+Hoc articulo "quisque" omnes significantur: et ideo Labeo scribit, si ita scriptum sit: "Titius et Seius quanta quisque eorum ex parte heredem me habuerit scriptum, heres mihi esto", nisi omnes habeant scriptum heredem testatorem, neutrum heredem esse posse, quoniam ad omnium factum sermo refertur: in quo puto testatoris mentem respiciendam. Sed humanius est eum quidem, qui testatorem suum heredem scripserit, in tantam partem ei heredem fore, qui autem eum non scripserit, nec ad hereditatem eius admitti.
+
+28.5.30
+
+Ulpianus libro 21 ad edictum
+
+Pignori obligatum servum necessarium domino posse fieri imperator Severus rescripsit, ita tamen, si paratus sit prius creditori satisfacere.
+
+28.5.31
+
+Gaius libro 17 ad edictum provinciale
+
+pr. Non minus servos quam liberos heredes instituere possumus, si modo eorum scilicet servi sint, quos ipsos heredes instituere possumus, cum testamenti factio cum servis ex persona dominorum introducta est.
+
+1. Hereditarium servum ante aditam hereditatem ideo placuit heredem institui posse, quia creditum est hereditatem dominam esse defuncti locum optinere.
+
+28.5.32
+
+Gaius libro primo de testamentis ad edictum praetoris urbani
+
+pr. Illa institutio "quos Titius voluerit" ideo vitiosa est, quod alieno arbitrio permissa est: nam satis constanter veteres decreverunt testamentorum iura ipsa per se firma esse oportere, non ex alieno arbitrio pendere.
+
+1. Is qui apud hostes est recte heres instituitur, quia iure postliminii omnia iura civitatis in personam eius in suspenso retinentur, non abrumpuntur: itaque si reversus fuerit ab hostibus, adire hereditatem poterit. Servus quoque eius recte heres instituitur et, si reversus sit ab hostibus, potest eum iubere adire hereditatem: si vero ibi decesserit, qui ei heres existet potest per servum heres fieri.
+
+28.5.33
+
+Gaius libro secundo de testamentis ad edictum praetoris urbani
+
+Si quis ita scripserit: "Titius ex parte dimidia heres esto: idem Titius ex altera parte dimidia, si navis ex asia venerit, heres esto", cum ex pura institutione adierit heres, quamvis condicio alterius institutionis pendeat, ex asse fit heres, scilicet etiam condicione deficiente, cum non prosit ei condicio quicquam existens: quippe cum non dubitetur, quin, si quis ex parte dimidia heres institutus sit nec praeterea quisquam alius, ipse ex asse heres institui videatur.
+
+28.5.34
+
+Papinianus libro primo definitionum
+
+Hereditas ex die vel ad diem non recte datur, sed vitio temporis sublato manet institutio.
+
+28.5.35
+
+Ulpianus libro quarto disputationum
+
+pr. Ex facto proponebatur: quidam duos heredes scripsisset, unum rerum provincialium, alterum rerum Italicarum, et, cum merces in Italiam devehere soleret, pecuniam misisset in provinciam ad merces comparandas, quae comparatae sunt vel vivo eo vel post mortem, nondum tamen in Italiam devectae, quaerebatur, merces utrum ad eum pertineant, qui rerum Italicarum heres scriptus erat an vero ad eum, qui provincialium. Dicebam receptum esse rerum heredem institui posse nec esse inutilem institutionem, sed ita, ut officio iudicis familiae herciscundae cognoscentis contineatur nihil amplius eum, qui ex re institutus est, quam rem, ex qua heres scriptus est, consequi. Ita igitur res accipietur. Verbi gratia pone duos esse heredes insititos, unum ex fundo Corneliano, alterum ex fundo Liviano, et fundorum alterum quidem facere dodrantem bonorum, alterum quadrantem: erunt quidem heredes ex aequis paritbus, quasi sine partibus instituti, verumtamen officio iudicis tenebuntur, ut unicuique eorum fundus qui relictus est adiudicetur vel adtribuatur.
+
+1. Unde scio quaesitum, aeris alieni onus pro qua parte adgnosci debeat. Et refert Papinianus, cuius sententiam ipse quoque probavi, pro hereditariis partibus eos adgnoscere aes alienum debere, hoc est pro semisse: fundos etenim vice praeceptionis accipiendos. Quare si forte tantum sit aes alienum, ut nihil detracto eo superesse possit, consequenter dicemus institutiones istas ex re factas nullius esse momenti: et si forte Falcidia interveniens recisionem esset legatorum factura, sic officio iudicis recidit praeceptiones istas, ut non plus quisque eorum habeat quam esset habiturus, si legatum accepisset vel aliud vel etiam praeceptiones. Quod si fuerit incertum, an Falcidia interventura sit, rectissime probatur officio iudicis cautiones esse interponendas.
+
+2. Cum haec ita sint, haec etiam institutio, de qua quaeritur, non est repellenda, si alius rerum provincialium, alius rerum Italicarum heres fuerit scriptus, officioque iudicis adtribuentur singulis res quae adscriptae sint, erunt tamen heredes ex aequis partibus, quia nulla pars adscripta est. Quae res facit, ut, si forte in aliis facultatibus plus sit (in Italicis forte quam in provincialibus), in aliis minus et aeris alieni ratio urguet, debeat dici imminutionem eandem fieri quam supra ostendimus: proinde et si aliis fuerint legata relicta, contributio admittenda erit.
+
+3. Rerum autem Italicarum vel provincialium significatione quae res accipiendae sint, videndum est. Et facit quidem totum voluntas defuncti: nam quid senserit, spectandum est. Verumtamen hoc intellegendum erit rerum Italicarum significatione eas contineri, quas perpetuo quis ibi habuerit atque ita disposuit, ut perpetuo haberet: ceteroquin si tempore in quo transtulit in alium locum, non ut ibi haberet, sed ut denuo ad pristinum locum revocaret, neque augebit quo transtulit neque minuet unde transtulit: ut puta de Italico patrimonio quosdam servos miserat in provinciam, forte Galliam, ad exigendum debitum vel ad merces comparandas, recursuros, si comparassent: dubium non est, quin debeat dici ad Italicum patrimonium eos pertinere debere. Ut est apud Mucium relatum, cum fundus erat legatus vel cum instrumento vel cum his quae ibi sunt: Agasonem enim missum in villam a patre familias non pertinere ad fundi legatum Mucius ait, quia non idcirco illo erat missus, ut ibi esset. Proinde si servus fuerit missus in villam interim illic futurus, quia dominum offenderat, quasi ad tempus relegatus, responsum est eum ad villae legatum non pertinere. Quare ne servi quidem, qui operari in agro consuerunt, qui in alios agros revertebantur, et quasi ab alio commodati in ea sunt condicione, ut ad legatum pertineant, quia non ita in agro fuerant, ut ei agro viderentur destinati. Quae res in proposito quoque suggerit, ut Italicarum rerum esse credantur hae res, quas in Italia esse testator voluit.
+
+4. Proinde et si pecuniam misit in provinciam ad merces comparandas et necdum comparatae sint, dico pecuniam, quae idcirco missa est, ut per eam merces in Italiam adveherentur, in Italico patrimonio adiungendam: nam et si dedisset in provincia de pecuniis, quas in Italia exercebat, ituras et redituras, dicendum est hanc quoque Italici patrimonii esse.
+
+5. Rationem igitur efficere dici, ut merces quoque istae, quae comparatae sunt ut Romam veherentur, sive provectae sunt eo vivo sive nondum, et sive scit sive ignoravit, ad eum heredem pertinere, cui Italicae res sunt adscriptae.
+
+28.5.36
+
+Ulpianus libro octavo disputationum
+
+Si quis ita scripserit heredem: "Ex qua parte codicillis Titium heredem scripsero, heres esto", etiamsi pars in codicillis non fuerit adscripta, erit tamen heres quasi sine parte institutus.
+
+28.5.37
+
+Iulianus libro 29 digestorum
+
+pr. Cum in testamento ita scribitur: "Si filius meus me vivo morietur, nepos ex eo post mortem meam natus heres esto", duo gradus heredum sunt: nullo enim casu uterque ad hereditatem admittitur. Ex quo apparet, si nepoti Titius substitutus fuerit et filius patri heres exstiterit, non posse Titium una cum filio heredem esse, quia non in primum, sed in secundum gradum substituitur.
+
+1. Haec verba: "Publius Marcus Gaius invicem substituti heredes mihi sunto" sic interpretanda sunt, ut breviter videretur testator tres instituisse heredes et invicem eos substituisse, perinde ac si ita scripsisset: "Ille et ille et ille instituti heredes et substituti sunto".
+
+2. Qui tres filios habebat et ita scripserit: "Filii mei heredes sunto: Publius filius meus exheres esto", videri potest prima parte duos dumtaxat filios heredes instituisse.
+
+28.5.38
+
+Iulianus libro 30 digestorum
+
+pr. Qui filio impuberi exheredato Pamphilum legat, eundem post mortem filii ex parte heredem instituere eodem modo potest, quo is, qui servum Sempronio legatum, eundem post mortem Sempronii ex parte heredem instituit.
+
+1. Servus testamento heres pure scriptus, liber autem iussus esse, si intra kalendas decembres decem dedisset, si codicillis pure libertatem acceperit, intra kalendas quidem neque liber neque heres erit, nisi decem dederit: si intra kalendas non dederit, liber ex codicillis erit.
+
+2. Si quis servum suum liberum sub condicione, heredem pure scripsisset eumque vendidisset pendente condicione, iussu emptoris servus adire hereditatem potest, quia et constitit institutio et est qui ius imperandi habet.
+
+3. Quod si post defectam condicionem alienatus fuisset, non potest iussu emptoris hereditatem adire, quia eo tempore ad eum pervenisset, quo iam extincta institutio inutilis fuerat.
+
+4. Igitur cum servus sub condicione liber esse iubetur et legatum pure accepit, si pendente condicione manumissus vel alienatus fuerat, legatum habebit aut domino adquiret, quamvis mortis tempore condicio libertatis extincta fuerit: si vero post defectum condicionis manumissus aut alienatus fuerit, legatum ad irritum recidit.
+
+5. Cum venditor servum ante traditionem ab emptore pro parte heredem scriptum adire iubet, restituere coheredi servi necesse habet, quia lucrum facere eius servi iure quem vendidit non debet. Plane non totum quod adquisierit restituet, sed pro ea dumtaxat parte, qua servus coheredem habuerit,
+
+28.5.39
+
+Marcianus libro secundo regularum
+
+Id est partem dimidiam servi et quartam hereditatis.
+
+28.5.40
+
+Libro 30 digestorum Iuliani Marcellus notat:
+
+immo et id debet praestari, quod consequi venditor non potuisset, si prius, quam adiret servus partem hereditatis, is traditus esset: quod est verum.
+
+28.5.41 (40)
+
+Iulianus libro 30  digestorum
+
+Si pater familias Titium, quem ingenuum esse credebat, heredem scripserit eique, si heres non esset, Sempronium substituerit, deinde Titius, quia servus fuerat, iussu domini adierit hereditatem: potest dici Sempronium in partem hereditatis admitti. Nam qui scit aliquem servum esse et eum heredem scribit et ita substituit: "Si Stichus heres non erit, Semprionius heres esto", intellegitur tale quod dicere: "Si Stichus neque ipse heres erit neque alium fecerit". At qui eum, quem liberum putat esse, heredem scripserit, hoc sermone "si heres non erit" nihil aliud intellegitur significare, quam si hereditatem vel sibi non adquisierit vel mutata condicione alium heredem non fecerit, quae adiectio ad eos pertinet, qui patres familias heredes scripti postea in servitutem deducti fuerint. Igitur in hoc casu semisses fient ita, ut alter semis inter eum, qui dominus instituti heredis fuerit, et substitutum aequis portionibus dividatur:
+
+28.5.42 (41)
+
+Pomponius libro 12 ex variis lectionibus
+
+Et hoc Tiberius Caesar constituit in persona Parthenii, qui tamquam ingenuus heres scriptus adierat hereditatem, cum esset Caesaris servus: nam divisa hereditas est inter Tiberium et eum qui Parthenio substitutus erat, ut refert Sextus Pomponius.
+
+28.5.43 (42)
+
+Iulianus libro 64 digestorum
+
+Qui solvendo non erat, duos Apollonios liberos heredesque esse iusserat. Altero ante apertas tabulas testamenti mortuo non ineleganter defendi poterit eum qui supererit liberum et solum necessarium heredem fore. Quod si uterque vivit, institutionem nullius esse momenti propter legem Aeliam Sentiam, quae amplius quam unum necessarium heredem fieri vetat:
+
+28.5.44 (43)
+
+Paulus libro primo ad legem Aeliam Sentiam
+
+Invicem enim eos sibi obstare.
+
+28.5.45 (44)
+
+Alfenus libro quinto digestorum
+
+Pater familias testamento duos heredes instituerat: eos monumentum facere iusserat in diebus certis: deinde ita scripserat: "Qui eorum non ita fecerit, omnes exheredes sunto": alter heres hereditatem praetermiserat, reliquus heres consulebat, cum ipse monumentum exstruxisset, numquid minus heres esset ob eam rem, quod coheres eius hereditatem non adisset. Respondit neminem ex alterius facto hereditati neque alligari neque exheredari posse, sed uti quisque condicionem implesset, quamvis nemo adisset praeterea, tamen eum heredem esse.
+
+28.5.46 (45)
+
+Alfenus libro secundo digestorum a Paulo epitomatorum
+
+"Si Maevia mater mea et Fulvia filia mea vivent, tum mihi Lucius Titius heres esto". Servius respondit, si testator filiam numquam habuerit, mater autem supervixisset, tamen Titium heredem fore, quia id, quod impossibile in testamento scriptum esset, nullam vim haberet.
+
+28.5.47 (46)
+
+Africanus libro secundo quaestionum
+
+Quidam cum filium familias heredem instituere vellet, ne ad patrem eius ex ea hereditate quicquam perveniret, voluntatem suam exposuit filio: filius cum patris offensam vereretur, petit a testatore, ne sub condicione "si a patre emancipatus esset" heredem eum institueret et impetravit ab eo, ut amicum suum heredem institueret: atque ita testamento amicus filii ignotus testatori heres institutus est nec quicquam ab eo petitum est. Quaerebatur, si ille amicus aut adire nollet aut aditam nollet restituere hereditatem, an fideicommissum ab eo peti possit aut aliqua actio adversus eum esset et utrum patri an filio competeret. Respondit, etiamsi manifestum sit scriptum heredem fidem suam interposuisse, non tamen aliter ab eo fideicommissum peti posse quam si et ipsum testatorem fidem eius secutum esse probaretur. Si tamen, cum a filio familias rogaretur, amicus et aditurum se hereditatem recepisset et restituturum patri familias facto, non absurde dici possit mandati actionem futuram: et eam actionem patri inutilem fore, quia non sit ex bona fide id ei restitui, quod testator ad eum pervenire noluerit: sed nec filio vulgarem competituram, verum utilem, sicuti dare placeret ei, qui, cum filius familias esset, pro aliquo fideiussisset ac pater familias factus solvisset.
+
+28.5.48 (47)
+
+Africanus libro quarto quaestionum
+
+pr. Si ita scriptum fuerit: "Titius, immo Seius heres esto", Seium solum heredem fore respondit. Sed et si ita: "Titius heres esto: immo Seius heres esto", idem erit dicendum.
+
+1. Quidam testamento ita heredes instituit: "Titia filia mea heres esto: si quid mihi liberorum me vivo mortuove nascetur, tunc qui virilis sexus unus pluresve nascentur, ex parte dimidia et quarta, qui feminini sexus una pluresve natae erunt, ex parte quarta mihi heres sit": postumus ei natus est: consulebatur, quota ex parte postumus heres esset. Respondit eam hereditatem in septem partes distribuendam, ex his filiam quattuor, postumum tres habituros, quia filiae totus as, postumo dodrans datus est, ut quarta portione amplius filia quam postumus ferre debeat. Ideo si postuma quoque nata esset, tantundem sola filia, quantum uterque postumorum habituri essententiarum itaque in proposito cum as filiae, dodrans postumo sit datus, viginti unam partes fieri, ut filia duodecim, novem filius habeat.
+
+2. In testamento ita scriptum est: "Lucius Titius ex duabus unciis, Gaius Attius ex parte una, Maevius ex parte una, Seius ex partibus duabus heredes mihi sunto": consulebatur quid iuris esset. Respondit hanc scripturam illam interpretationem accipere posse, ut Lucius Titius duas uncias habeat, ceteri autem quasi sine partibus instituti ex reliquo dextante heredes sint: quem dextantem ita dividi oportet, ut Seius quincuncem, Attius et Maevius alterum quincuncem habeant.
+
+28.5.49 (48)
+
+Marcianus libro quarto institutionum
+
+pr. His verbis: "Titius hereditatis meae dominus esto", recte institutio fit.
+
+1. Illa institutio valet: "Filius meus impiissimus male de me meritus heres esto": pure enim heres instituitur cum maledicto et omnes huiusmodi institutiones receptae sunt.
+
+2. Interdum nec cum libertate utiliter servus a domina heres instituitur, ut constitutione divorum Severi et Antonini significatur, cuius verba haec sunt: "Servum adulterii accusatum non iure testamento manumissum ante sententiam ab ea muliere videri, quae rea fuerit eiusdem criminis postulata, rationis est". Quare sequitur, ut in eundem a domina collata institutio nihil momenti habeat.
+
+3. Si in patre vel patria vel alia simili adsumptione falsum scriptum est, dum de eo qui demonstratus sit constet, institutio valet.
+
+28.5.50 (49)
+
+Florentinus libro decimo institutionum
+
+pr. Si alienum servum liberum et heredem esse iussi et is postea meus effectus est, neutrum valet, quia libertas alieno servo inutiliter data est.
+
+1. In extraneis heredibus illa observantur: ut sit cum eis testamenti factio, sive ipsi heredes instituantur sive hi qui in potestate eorum sunt, et id duobus temporibus inspicitur, testamenti facti, ut constiterit institutio, et mortis testatoris, ut effectum habeat. Hoc amplius et cum adibit hereditatem esse debet cum eo testamenti factio, sive pure sive sub condicione heres institutus sit: nam ius heredis eo vel maxime tempore inspiciendum est, quo adquirit hereditatem. Medio autem tempore inter factum testamentum et mortem testatoris vel condicionem institutionis exsistentem mutatio iuris heredi non nocet, quia, ut dixi, tria tempora inspicimus.
+
+28.5.51 (50)
+
+Ulpianus libro sexto regularum
+
+pr. Servum meum heredem institutum cum libertate si vivus vendidero ei, cum quo testamenti factio non est, posteaque eum redemero, ex testamento mihi heres esse poterit nec medium tempus, quo apud eum fuit, vitiavit institutionem, quia verum est utroque tempore tam testamenti faciendi quam mortis tempore meum fuisse. Unde si apud eum remanserit, vitiatur institutio: vel si cum eo testamenti factio est, iussu eius adeundo adquiret ei hereditatem.
+
+1. Si in non faciendo impossibilis condicio institutione heredis sit expressa, secundum omnium sententiam heres erit, perinde ac si pure institutus esset.
+
+2. Hereditas plerumque dividitur in duodecim uncias, quae assis appellatione continentur. Habent autem et hae partes propria nomina ab uncia usque ad assem, puta haec: sextans quadrans triens quincunx semis septunx bes dodrans dextans deunx as.
+
+28.5.52 (51)
+
+Marcianus libro tertio regularum
+
+pr. Talem institutionem quidam valere non putabant: "Stichus liber esto et, si liber erit, heres esto". Sed divus Marcus rescripsit hanc institutionem valere perinde atque si non erat adiectum "si liber erit".
+
+1. Si quis ita scripserit: "Stichus, si meus erit cum morior, liber et heres esto", alienatus non poterit iussu emptoris adire hereditatem, quamvis, etsi non erat hoc expressum, non alias liber et heres fieri poterat, quam si mansisset eius. Sed si vivus eum manumiserit, Celsus libro quinto decimo digestorum scribit fieri hunc heredem: non enim hunc casum testatorem voluisse excludere palam est neque verba omnino repugnant: nam quamvis servus eius non est, at certe libertus est.
+
+28.5.53 (52)
+
+Paulus libro secundo regularum
+
+Servus hereditarius heres institui potest, si modo testamenti factio fuit cum defuncto, licet cum herede instituto non sit.
+
+28.5.54 (53)
+
+Marcellus libro singulari responsorum
+
+Lucius Titius Seio et Sempronio ex semissibus heredibus institutis et ceteris exheredatis invicem heredem substituit, deinde legata et libertates dedit, postea ita subiecit: "Cornelius et Sallustius et Varro aequis partibus heredes sunto, quos invicem substituo": quaero, quantum vel priores duo ex semissibus instituti vel posteriores habere debeant. Marcellus respondit in obscuro esse, Cornelium et Sallustium et Varronem primo an secundo vel tertio gradu heredes instituere voluerit: sed secundum scripturam testamenti quae proponeretur, alterum assem datum eis videri.
+
+28.5.55 (54)
+
+Neratius libro primo membranarum
+
+Pater filio impuberi servum heredem substituit liberumque esse iussit: eum pupillus vendidit Titio: Titius eum iam primo testamento facto in secundo testamento liberum heredemque esse iussit. Superius testamentum Titii ruptum est, quia is servus et heres potest esse et, ut superius testamentum rumpatur, sufficit ita posterius factum esse, ut aliquo casu potuerit ex eo heres existere. Quod ad vim autem eius institutionis pertinet, ita se res habet, ut, quamdiu pupillo ex ea substitutione heres potest esse, ex Titii testamento libertatem hereditatemque consequi non possit: si pupillus in suam tutelam pervenerit, perinde ex Titii testamento liber heresque sit ac si pupillo substitutus non fuisset: si pupillo heres exstitit, propius est, ut Titio quoque, si velit, heres esse possit.
+
+28.5.56 (55)
+
+Paulus libro primo ad legem Aeliam Sentiam
+
+Si is qui solvendo non est primo loco Stichum, secundo eum cui ex fideicommissi causa libertatem debet liberum et heredem instituerit, Neratius secundo loco scriptum heredem fore ait, quia non videtur creditorum fraudandorum causa manumissus.
+
+28.5.57 (56)
+
+Paulus libro singulari de secundis tabulis
+
+Potest quis ita heredem instituere: "Si intra annum septuagesimum decessero, ille mihi heres esto": non enim pro parte testatus intellegi debet, sed sub condicione instituisse.
+
+28.5.58 (57)
+
+Paulus libro 57 ad edictum
+
+Si is qui solvendo non est servum cum libertate heredem instituerit et liberum substituerit, ante incipiendum erit a substituto: lex enim Aelia Sentia ita demum ei, qui in fraudem creditorum heres institutus est conservat libertatem, si nemo alius ex eo testamento heres esse potest.
+
+28.5.59 (58)
+
+Paulus libro quarto ad Vitellium
+
+pr. Nemo dubitat recte ita heredem nuncupari posse "hic mihi heres esto", cum sit coram, qui ostenditur.
+
+1. Qui frater non est, si fraterna caritate diligitur, recte cum nomine suo sub appellatione fratris heres instituitur.
+
+28.5.60 (59)
+
+Celsus libro 16 digestorum
+
+pr. Liber homo cum tibi serviret, heres institutus iussu tuo adiit. Trebatius esse eum heredem: Labeo tunc non esse heredem, si necessitate id fecerit, non quod alioquin vellet obligari.
+
+1. Si quis ita heredem instituerit: "Titius qua ex parte mihi socius est in vectigali salinarum, pro ea parte mihi heres esto", quidam putant, si asse descripto id adiectum sit, ut maxime socius fuerit Titius, non esse heredem, sed si qua pars vacua relicta fuerit, ex ea heredem esse. Quod totum et ineptum et vitiosum est: quid enim vetat asse descripto utiliter Titium ex parte fore quarta, ex qua socius erat, heredem institutum esse?
+
+2. "Titius heres esto: Seius et Maevius heredes sunto". Verum est quod Proculo placet duos semisses esse, quorum alter coniunctim duobus datur.
+
+3. Cum quis ex institutis, qui non cum aliquo coniunctim institutus sit, heres non est, pars eius omnibus pro portionibus hereditariis adcrescit, neque refert, primo loco quis institutus an alicui substitutus heres sit.
+
+4. Si heres institutus scribendi testamenti tempore civis Romanus fuit, deinde ei aqua et igni interdictum est, heres fit, si intra illud tempus quo testator decessit redierit aut, si sub condicione heres institutus est, quo tempore condicio exsistit. Idem et in legatis et in bonorum possessionibus.
+
+5. "Titius ex semisse heres esto: Seius ex quadrante heres esto: Titius si in Capitolium ascenderit, ex alio quadrante heres esto". Antequam Capitolium ascendat si pro herede gerat, ex semisse heres erit, si Capitolium ascenderit, et ex quadrante heres erit nec erit ei necesse pro herede gerere quippe iam heredi.
+
+6. Si ita scriptum fuerit: "Titius ex parte tertia, Maevius ex parte tertia heredes sunto: Titius, si intra tertias kalendas navis ex asia venerit, ex reliqua parte heres esto": videamus, ne Titius statim ex semisse heres sit: nam duo heredes instituti sunt, sed Titius aut ex semisse aut ex besse: ita sextans utique erit in pendenti et, si condicio exstiterit, ex besse heres erit, si non exstiterit, ille sextans Maevio adcrescet. Sed si decesserit Titius, antequam condicio exsistat, deinde condicio exstiterit, tamen ille sextans non Titii heredi, sed Maevio adcrescet: nam cum adhuc dubium esset, Titio an Maevio is sextans datus esset, Titius decessit nec potest intellegi datus ei qui tempore dandi in rerum natura non fuit.
+
+7. Si Attius Titium et Maevium et Seium aequis partibus heredes instituit, Titius interim solus adiit hereditatem et Seium heredem instituit, poterit Seius Titii adire hereditatem, Attii vel adire vel omittere: sed Attio, antequam adeat vel omittat eius hereditatem, ex semisse heres erit. Si adierit Seius Attii hereditatem, Titius ex triente dumtaxat heres erit et per hereditatem Titii triens dumtaxat ad Seium perveniet, alterum trientem ex sua institutione habebit. Quid ergo si ab Attio Titius et Seius heredes instituti sunt, Titius adierit hereditatem, Titio Seius heres exstiterit? Potestne Attii hereditatem omittere an necessario ei ex asse heres est? Quippe cum alius nemo heres institutus est, quam is ipse qui ex aliqua parte iam heres est, perinde est, quasi unus heres per Titium institutus sit.
+
+28.5.61 (60)
+
+Celsus libro 29 digestorum
+
+Qui solvendo non erat, servum primo loco et alterum servum secundo loco heredes scripsit. Solus is qui primo loco scriptus est hereditatem capit: nam lege Aelia Sentia ita cavetur, ut, si duo pluresve ex eadem causa heredes scripti sint, uti quisque primus scriptus sit, heres sit.
+
+28.5.62 (61)
+
+Modestinus libro octavo responsorum
+
+Qui volebat filiam exheredare, sic testamento comprehendit: "Te autem, filia, ideo exheredavi, quoniam contentam te esse dote volui": quaero an efficaciter exheredata sit. Modestinus respondit nihil proponi, cur non esset voluntate testatoris exheredata.
+
+28.5.63 (62)
+
+Modestinus libro secundo pandectarum
+
+pr. In tempus capiendae hereditatis institui heredem posse benevolentiae est, veluti "Lucius Titius cum capere potuerit, heres esto": idem et in legato.
+
+1. Quotiens non apparet, quis heres institutus sit, institutio non valet (quippe evenire potest, si testator complures amicos eodem nomine habeat et ad designationem singulari nomine utatur): nisi ex aliis apertissimis probationibus fuerit revelatum, pro qua persona testator senserit.
+
+28.5.64 (63)
+
+Iavolenus libro primo ex Cassio
+
+Heredes sine partibus utrum coniunctim an separatim scribantur, hoc interest, quod, si quis ex coniunctis decessit, non ad omnes, sed ad reliquos qui coniuncti erant pertinet, sin autem ex separatis, ad omnes, qui testamento eodem scripti sunt heredes, portio eius pertinet.
+
+28.5.65 (64)
+
+Iavolenus libro septimo epistularum
+
+Eius servum, qui post mortem meam natus erit, heredem institui posse Labeo frequenter scribit idque verum esse manifesto argumento comprobat: quia servus hereditarius, priusquam adeatur hereditas, institui heres potest, quamvis is testamenti facti tempore nullius sit.
+
+28.5.66 (65)
+
+Iavolenus libro 12 epistularum
+
+Hereditas ad statium primum nullo iure pertinet, cum institutus heres non sit: nec quicquam ei prodest, quod ab eo aliquid legatum est aut libertus ei defuncti testamento commendatus est. Ex quo si manumissus non est, servus est.
+
+28.5.67 (66)
+
+Pomponius libro primo ad Quintum Mucium
+
+Si ita quis heredes instituerit: "Titius heres esto: Gaius et Maevius aequis ex partibus heredes sunto", quamvis et syllaba coniunctionem faciat, si quis tamen ex his decedat, non alteri soli pars adcrescit, sed et omnibus coheredibus pro hereditariis portionibus, quia non tam coniunxisse quam celerius dixisse videatur.
+
+28.5.68 (67)
+
+Pomponius libro secundo ad Quintum Mucium
+
+Si ita scriptum fuerit: "Tithasus si in Capitolium ascenderit, heres esto: Tithasus heres esto", secunda scriptura potior erit: plenior est enim quam prior.
+
+28.5.69 (68)
+
+Pomponius libro septimo ad Quintum Mucium
+
+Si quis Sempronium heredem instituerit sub hac condicione "si Titius in Capitolium ascenderit", quamvis non alias heres esse possit Sempronius, nisi Titius ascendisset in Capitolium, et hoc ipsum in potestate sit repositum Titii: quia tamen scriptura non est expressa voluntas Titii, erit utilis ea institutio. Atquin si quis ita scripserit: "Si Titius voluerit, Sempronius heres esto", non valet institutio: quaedam enim in testamentis si exprimantur, effectum nullum habent, quando, si verbis tegantur, eandem significationem habeant quam haberent expressa, et momentum aliquod habebunt. Sic enim filii exheredatio cum eo valet, si quis heres existat: et tamen nemo dubitat, quin, si ita aliquis filium exheredaverit: "Titius heres esto: cum heres erit Titius, filius exheres esto", nullius momenti esse exheredationem.
+
+28.5.70 (69)
+
+Proculus libro secundo epistularum
+
+"Cornelius et Maevius, uter eorum volet, heres esto": uterque vult: Trebatius neutrum fore heredem, Cartilius utrumque: tu cui adsentiaris? Proculus: Cartilio adsentio et illam adiectionem "uter eorum volet"supervacuam puto: id enim etiam ea non adiecta futurum fuit, ut, uter vellet, heres esset, uter nollet, heres non esset. Quod si hi ex numero necessariorum heredum essent, tum id non frustra adiectum esse et non solum figuram, sed vim quoque condicionis continere: dicerem tamen, si uterque heres esse vellet, utrumque heredem esse.
+
+28.5.71 (70)
+
+Papinianus libro sexto responsorum
+
+Captatorias institutiones non eas senatus improbavit, quae mutuis affectionibus iudicia provocaverunt, sed quarum condicio confertur ad secretum alienae voluntatis.
+
+28.5.72 (71)
+
+Paulus libro quinto ad legem Iuliam et Papiam
+
+pr. Illae autem institutiones captatoriae non sunt, veluti si ita heredem quis instituat: "Qua ex parte Titius me heredem instituit, ex ea parte Maevius heres esto", quia in praeteritum, non in futurum institutio collata est.
+
+1. Sed illud quaeri potest, an idem servandum sit quod senatus censuit, etiamsi in aliam personam captionem direxerit, veluti si ita scripserit: "Titius, si Maevium tabulis testamenti sui heredem a se scriptum ostenderit probaveritque, heres esto", quod in sententiam senatus consulti incidere non est dubium.
+
+28.5.73 (72)
+
+Clementius libro quarto ad legem Iuliam et Papiam
+
+Si quis solidum a lege capere non possit et ex asse sit institutus ab eo qui solvendo non est, Iulianus ex asse eum heredem esse respondit: legi enim locum non esse in ea hereditate quae solvendo non est.
+
+28.5.74 (73)
+
+Gaius libro 12 ad legem Iuliam et Papiam
+
+Sub condicione herede instituto si substituamus, nisi eandem condicionem repetemus, pure eum heredem substituere intellegimur.
+
+28.5.75 (74)
+
+Licinius libro secundo regularum
+
+Si ita quis heres institutus fuerit: "Excepto fundo, excepto usu fructu heres esto", perinde erit iure civili atque si sine ea re heres institutus esset, idque auctoritate Galli Aquilii factum est.
+
+28.5.76 (75)
+
+Papinianus libro 12 quaestionum
+
+Si filius substituatur ei, a quo praeteritus est, non ut intestati patris, sed ex testamento habebit hereditatem, quoniam et quolibet alio substituto, si fuisset ab eo exheredatus, inde testamentum inciperet, ubi filius esset exheredatus.
+
+28.5.77 (76)
+
+Papinianus libro 15 quaestionum
+
+Servus uxori a marito mortis causa donatus mariti manet, ut et Iuliano quoque videtur. Idem si accipiat libertatem simul et hereditatem, viro necessarius heres erit: nec sine libertate aliquid ei legari potest.
+
+28.5.78 (77)
+
+Papinianus libro 17 quaestionum
+
+Asse toto non distributo ita scriptum est: "Quem heredem codicillis fecero, heres esto": Titium codicillis heredem instituit. Eius quidem institutio valet ideo, quod, licet codicillis dari hereditas non possit, tamen haec ex testamento data videtur: sed hoc tantum ex hereditate habebit, quantum ex asse residuum mansit.
+
+28.5.79 (78)
+
+Papinianus libro sexto responsorum
+
+pr. Qui non militabat, bonorum maternorum, quae in pannonia possidebat, libertum heredem instituit, paternorum, quae habebat in Syria, Titium. iure semisses ambos habere constitit, sed arbitrum dividendae hereditatis supremam voluntatem factis adiudicationibus et interpositis propter actiones cautionibus sequi salva Falcidia, scilicet ut, quod vice mutua praestarent, doli ratione quadranti retinendo compensetur.
+
+1. Lucio Titio ex duabus partibus, Publio Maevio ex quadrante scriptis heredibus assem in dodrantem esse divisum respondi: modum enim duarum partium ex quadrante declarari: quod veteres nummis Titio legatis nummorum specie non demonstrata ceterorum legatorum contemplatione receperunt.
+
+2. Filiis heredibus aequis partibus institutis ac postea fratris filio pro duabus unciis unum assem inter omnes videri factum placuit et ex eo decem uncias filios accepisse: tunc enim ex altero asse portionem intellegi relictam, cum asse nominatim dato vel duodecim unciis distributis residua portio non invenitur: nihil autem interest, quo loco sine portione quis heres instituatur, quo magis assis residuum accepisse videatur.
+
+3. Seius Maevium ex parte, quam per leges capere possit, heredem instituit, ex reliqua Titium. Si Maevius solidum capere poterit, Titius adiectus aut substitutus heres non erit.
+
+28.5.80 (79)
+
+Papinianus libro primo definitionum
+
+Quod si non sit reliqui facta mentio, tantundem in altero asse habebit Maevius quantum Titius in primo.
+
+28.5.81 (80)
+
+Papinianus libro sexto responsorum
+
+Quod si Maevius nullius capax sit, in totum substitutus admittitur.
+
+28.5.82 (81)
+
+Paulus libro nono quaestionum
+
+pr. Clemens patronus testamento caverat, ut, si sibi filius natus fuisset, heres esset, si duo filii, ex aequis partibus heredes [heres] essent, si duae filiae, similiter: si filius et filia, filio duas partes, filiae tertiam dederat. Duobus filiis et filia natis quaerebatur, quemadmodum in proposita specie partes faciemus, cum filii debeant pares esse vel etiam singuli duplo plus quam soror accipere? Quinque igitur partes fieri oportet, ut ex his binas masculi, unam femina accipiat.
+
+1. Si ita scripserit testator: "Quanta ex parte me a Titio heredem institutum recitassem, ex ea parte Sempronius mihi heres esto", non est captatoria institutio: plane nullo recitato testamento ab ipso testatore inanis videbitur institutio remota suspicione captatoriae institutionis.
+
+28.5.83 (82)
+
+Scaevola libro 15 quaestionum
+
+Si quis ita heres instituatur: "Si legitimus heres vindicare nolit hereditatem meam", puto deficere condicionem testamenti illo vindicante.
+
+28.5.84 (83)
+
+Scaevola libro 18 quaestionum
+
+pr. Si non lex Aelia Sentia, sed alia lex vel senatus consultum aut etiam constitutio servi libertatem impediat, is necessarius fieri non potest, etiamsi non sit solvendo testator.
+
+1. Temporibus divi Hadriani senatus censuit, si testator, qui cum moritur solvendo non fuit, duobus pluribusve libertatem dederit eisque hereditatem restitui iusserit et institutus heres suspectam sibi hereditatem dixerit, ut adire eam cogatur et ad libertatem perveniat qui priore loco scriptus fuerit, eique hereditas restituatur. Idem servandum in his, quibus per fideicommissum libertas data fuerit. Igitur si primo loco scriptus desideraret adire hereditatem, nulla difficultas erit. Nam si posteriores quoque liberos se esse dicent et restitui hereditatem desiderent, an solvendo sit hereditas et omnibus liberis factis restitui deberet, apud praetorem quaereretur. Absente autem primo sequens desiderans adiri hereditatem non est audiendus, quia, si primus velit sibi restitui hereditatem, praeferendus est et hic servus futurus est.
+
+28.5.85 (84)
+
+Paulus libro 23 quaestionum
+
+pr. Si servo fideicommissa data sit libertas, heres hunc eundem servum cum libertate heredem reliquisset, quaesitum est, an necessarius fiat heres. Et humanius est et magis aequitatis ratione subnixum non fieri necessarium: qui enim etiam invito defuncto poterat libertatem extorquere, is liber esse iussus non magnum videtur beneficium a defuncto consequi, immo nihil commodi sensisse, sed magis debitam sibi accepisse libertatem.
+
+1. Idem probandum erit et in illo servo, quem testator ea lege emerat, ut manumitteret, si heres fuerit institutus: nam et hic seposito beneficio testatoris proprio iure poterit ad libertatem pervenire ex constitutione divi Marci.
+
+2. Idem et in eo, qui propria sua data pecunia emptus est ab aliquo: nam et hic poterit ab ipso testatore libertatem extorquere.
+
+28.5.86 (85)
+
+Scaevola libro secundo responsorum
+
+Lucius Titius, qui fratrem habebat, testamento ita cavit: "Titius frater meus ex asse mihi heres esto: si mihi Titius heres esse noluerit aut (quod abominor) prius morietur quam meam hereditatem adierit aut filium filiamve ex se natum natamve non habebit, tunc Stichus et Pamphilus servi mei liberi et heredes mihi aequis partibus sunto". Quaero, cum Titius hereditatem adierit et liberos aditae hereditatis tempore non habuerit, an Stichus et Pamphilus ex substitutione liberi et heredes esse possint. Item quaero, si ex substitutione neque liberi neque heredes esse possint, an in partem hereditatis videantur adiecti. Respondit: apparet quidem non eam mentem testatoris fuisse, ut quemquam heredem adhiberet fratri, quem aperte ex asse heredem instituisset: igitur si frater adiit, Stichus et Pamphilus heredes non erunt: quos eo amplius noluit heredes esse, si frater prius quam hereditatem adiret decessisset liberis relictis. Nam prudens consilium testantis animadvertitur: non enim fratrem solum heredem praetulit substitutis, sed et eius liberos.
+
+28.5.87 (86)
+
+Maecenatus libro septimo fideicommissorum
+
+pr. Iam dubitari non potest suos quoque heredes sub hac condicione institui posse, ut, si voluissent, heredes essent, si heredes non essent, alium quem visum erit eis substituere: negatumque hoc casu necesse esse sub contraria condicione filium exheredare, primum quia tunc tantum id exigeretur, cum in potestate eius non esset, an heres patri existeret, exspectantis extrinsecus positae condicionis eventum, deinde quod, etsi quacumque posita condicione deberet filius sub contraria condicione exheredari, in proposito ne possibilis quidem repperiri posset, certe, si verbis exprimeretur, inepta fieret: huic enim condicioni "si volet, heres esto" quae alia verba contraria concipi possunt quam haec "si nolet heres esse, exheres esto?" quod quam sit ridiculum, nulli non patet.
+
+1. Non ab re autem hoc loco velut excessus hic subiungetur suis ita heredibus institutis "si voluerint heredes esse" non permittendum amplius abstinere se hereditate, cum ea condicione instituti iam non ut necessarii, sed sua sponte heredes exstiterunt. Sed et ceteris condicionibus, quae in ipsorum sunt potestate, si sui pareant, ius abstinendi adsequi non debent.
+
+28.5.88 (87)
+
+Hermogenianus libro tertio iuris epitomarum
+
+Ex unciis sex primo herede instituto, secundo ex octo, si tertius ex residua parte vel nulla portionis facta mentione heres instituatur, quinque uncias hereditatis tertius habebit: in viginti quattuor etenim partes hereditate distributa tertio ratio calculi veluti ex decem partibus instituto quinque uncias adsignabit.
+
+28.5.89 (88)
+
+Gaius libro singulari de casibus
+
+Ei qui solvendo non est aliquo casu evenit, ut et servus cum libertate heres exsistat et praeterea alius heres adiciatur: veluti si servo cum libertate herede instituto ita adiectum sit: "Si mihi Stichus heres erit, tunc Titius quoque heres esto": nam Titius, antequam Stichus ex testamento heres exstiterit, heres esse non potest, cum autem semel heres exstiterit servus, non potest adiectus efficere, ut qui semel heres exstitit desinat heres esse.
+
+28.5.90 (89)
+
+Paulus libro secundo manualium
+
+Si socius heres institutus sit ex asse et servo communi legetur pure sine libertate, hoc legatum non constitit. Plane sub condicione ei utiliter et sine libertate legabitur, quoniam et proprio servo ab herede recte sub condicione legatur. Quare etiam heres institui sine libertate ut alienus socio herede scripto poterit, quia et proprius cum domino heres institui poterit.
+
+28.5.91 (90)
+
+Tryphoninus libro 21 disputationum
+
+Testamento domini servus sub condicione cum libertate heres institutus pendente adhuc condicione necem domini detexit eumque praetor mereri libertatem decrevit. Etsi postea condicio testamenti exstiterit, aliunde liber est, id est ex praemio, non ex testamento: igitur non est necessarius domino heres: licet autem ei volenti adire.
+
+28.5.92 (91)
+
+Paulus libro quinto sententiarum
+
+Imperatorem litis causa heredem institui invidiosum est nec calumnia facultatem ex principali maiestate capi oportet.
+
+28.5.93 (92)
+
+Paulus libro primo imperialium sententiarum in cognitionibus prolatarum ex libris sex primo seu decretorum libro secundo
+
+1. Pactumeius Androsthenes Pactumeiam Magnam filiam Pactumeii Magni ex asse heredem instituerat, eique patrem eius substituerat. Pactumeio Magno occiso et rumore perlato, quasi filia quoque eius mortua, mutavit testamentum Noviumque Rufum heredem instituit hac praefatione: "Quia heredes, quos volui habere mihi contingere non potui, Novius Rufus heres esto". Pactumeia Magna supplicavit imperatores nostros et cognitione suscepta, licet modus institutioni contineretur, quia falsus non solet obesse, tamen ex voluntate testantis putavit imperator ei subveniendum. Igitur pronuntiavit hereditatem ad Magnam pertinere, sed legata ex posteriore testamento eam praestare debere, proinde atque si in posterioribus tabulis ipsa fuisset heres scripta.
+
+
+* 28.6.0. De vulgari et pupillari substitutione.
+
+
+28.6.1
+
+Modestinus libro secundo pandectarum
+
+pr. Heredes aut instituti dicuntur aut substituti: instituti primo gradu, substituti secundo vel tertio.
+
+1. Heredis substitutio duplex est aut simplex, veluti: "Lucius Titius heres esto: si mihi Lucius Titius heres non erit, tunc Seius heres mihi esto": "Si heres non erit, sive erit et intra pubertatem decesserit, tunc Gaius Seius heres mihi esto".
+
+2. Substituere liberis tam heredibus institutis quam exheredatis possumus et tam eum, quem heredem nobis instituimus, quam alterum.
+
+3. Substituere liberis pater non potest nisi si heredem sibi instituerit: nam sine heredis institutione nihil in testamento scriptum valet.
+
+28.6.2
+
+Ulpianus libro sexto ad Sabinum
+
+pr. Moribus introductum est, ut quis liberis impuberibus testamentum facere possit, donec masculi ad quattuordecim annos perveniant, feminae ad duodecim. Quod sic erit accipiendum, si sint in potestate: ceterum emancipatis non possumus. Postumis plane possumus. Nepotibus etiam possumus et deinceps, si qui non recasuri sunt in patris potestate. Sed si eos patres praecedant, ita demum substitui eis potest, si heredes instituti sint vel exheredati: ita enim post legem Velleam [Vellaeam] succedendo non rumpunt testamentum: nam si principale ruptum sit testamentum, et pupillare evanuit. Sed si extraneum quis impuberem heredem scripserit, poterit ei substituere, si modo eum in locum nepotis adoptaverit vel adrogaverit filio praecedente.
+
+1. Quisquis autem impuberi testamentum facit, sibi quoque debet facere: ceterum soli filio non poterit, nisi forte miles sit. Adeo autem, nisi sibi quoque fecerit, non valet, ut, nisi adita quoque patris hereditas sit, pupillare testamentum evanescat. Plane si omissa causa principalis testamenti ab intestato possideatur hereditas, dicendum est et pupillo substitutum servandum:
+
+2. Interdum etiam pupillaris testamenti causa compellendum heredem institutum adire hereditatem, ut ex secundis tabulis fideicommissum convalescat: ut puta si iam pupillus decessit: ceterum si adhuc vivat, improbum esse Iulianus existimat eum, qui sollicitus est de vivi hereditate.
+
+3. Ego etiam, si minor viginti quinque annis adeundae hereditatis causa fuerit restitutus, puto proficere secundis tabulis, ut praetor utiles actiones decernat substituto.
+
+4. Prius autem sibi quis debet heredem scribere, deinde filio substituere et non convertere ordinem scripturae: et hoc Iulianus putat prius sibi debere, deinde filio heredem scribere: ceterum si ante filio, deinde sibi testamentum faciat, non valere. Quae sententia rescripto imperatoris nostri ad virium lupum Brittanniae praesidem comprobata est, et merito: constat enim unum esse testamentum, licet duae sint hereditates, usque adeo, ut quos quis sibi facit necessarios, eosdem etiam filio faciat et postumum suum filio impuberi possit quis substituere.
+
+5. Sed si quis ita fuerit testatus: "Si filius meus intra quartum decimum annum decesserit, Seius heres esto", deinde: "Filius heres esto", valet substitutio, licet conversa scriptura filii testamentum fecerit.
+
+6. Sed et si ita scripserit: "Si filius mihi heres non erit, Seius heres esto: filius heres esto", secundo quidem gradu Seius scriptus est heres et, si filius heres non exstiterit, procul dubio Seius ei heres erit: sed et si exstiterit filius heres et intra pubertatem defunctus est, Seius admittendus recte videtur, ut non ordo scripturae, sed ordo successionis spectetur.
+
+7. Quod igitur dictum est singulis liberorum substituere licere, ideo adiectum est, ut declaretur non esse a filii testamento incipiendum impuberis.
+
+28.6.3
+
+Modestinus libro primo differentiarum
+
+Cum filio impuberi pater ita substituerit: "Quisquis mihi heres erit, idem filio impuberi heres esto", placuit ad hanc substitutionem scriptos tantummodo ad hereditatem admitti: itaque dominus, cui per servum hereditatis portio quaesita sit, ex substitutione impuberi heres effici non poterit, si servus ab eius exierit potestate.
+
+28.6.4
+
+Modestinus libro singulari de heurematicis
+
+pr. Iam hoc iure utimur ex divi Marci et Veri constitutione, ut, cum pater impuberi filio in alterum casum substituisset, in utrumque casum substituisse intellegatur, sive filius heres non exstiterit sive exstiterit et impubes decesserit.
+
+1. Quod ius ad tetrium quoque genus substitutionis tractum esse videtur: nam si pater duos filios impuberes heredes instituat eosque invicem substituat, in utrumque casum reciprocam substitutionem factam videri divus Pius constituit.
+
+2. Sed si alter pubes, alter impubes hoc communi verbo "eosque invicem substituo" sibi fuerint substituti, in vulgarem tantummodo casum factam videri substitutionem Severus et Antoninus constituit: incongruens enim videbatur, ut in altero duplex esset substitutio, in altero sola vulgaris. Hoc itaque casu singulis separatim pater substituere debebit, ut, si pubes heres non exstiterit, impubes ei substituatur, si autem impubes heres exstiterit et intra pubertatem decesserit, pubes frater in portionem coheredis substituatur: quo casu in utrumque eventum substitutus videbitur, ne, si vulgari modo impuberi quoque substituat, voluntatis quaestionem relinquat, utrum de una vulgari tantummodo substitutione in utriusque persona sensisse intellegatur: ita enim in altero utraque substitutio intellegitur, si voluntas parentis non refragetur. Vel certe evitandae quaestionis gratia specialiter in utrumque casum impuberi substituat fratrem: "Sive heres non erit sive erit et intra pubertatis annos "decesserit".
+
+28.6.5
+
+Gaius libro tertio ad legem Iuliam et Papiam
+
+Si in testamento heredes scripti ita alicui substituti fuerint, ut, si is heres non esset, quisquis sibi heres esset is in parte quoque deficientis esset heres: pro qua parte quisque heres exstitisset, pro ea parte eum in portione quoque deficientis vocari placet neque interesse, iure institutionis quisque ex maiore parte heres factus esset an quod per legem alteram partem alicuius vindicasset.
+
+28.6.6
+
+Clementius libro quarto ad legem Iuliam et Papiam
+
+Si is, qui ex bonis testatoris solidum capere non possit, substitutus sit ab eo impuberi filio eius, solidum ex ea causa capiet, quasi a pupillo capiat. Sed hoc ita interpretari Iulianus noster videtur, ut ex bonis, quae testatoris fuerant, amplius capere non possit: quod si pupillo aliquid praeterea adquisitum esset aut si exheredato esset substitutus, non impediri eum capere, quasi a pupillo capiat.
+
+28.6.7
+
+Papinianus libro sexto responsorum
+
+Verbis civilibus substitutionem post quartum decimum annum aetatis frustra fieri convenit: sed qui non admittitur ut substitutus, ut adiectus heres quandoque non erit, ne fiat contra voluntatem, si filius non habeat totum interim, quod ei testamento pater dedit.
+
+28.6.8
+
+Ulpianus libro quarto ad Sabinum
+
+pr. Qui liberis impuberibus substituit, aut pure aut sub condicione solet substituere. Pure sic: "Si filius meus intra pubertatem decesserit, Seius heres esto": sive Seius iste heres institutus sit et impuberi substitutus, nullam habet condicionem, sive solum substitutus. Sub condicione autem institutum si substituat, id est "si mihi heres erit", non alias existet heres ex substitutione, nisi et ex institutione heres fuerit. Cui similis est et haec substitutio: "quisquis mihi ex supra scriptis heres erit": habet enim in se eandem condicionem similem superiori.
+
+1. Haec verba: "Quisquis mihi heres erit, idem impuberi filio heres esto" hunc habent sensum, ut non omnis qui patri heres exstitit, sed is qui ex testamento heres exstitit substitutus videatur: et ideo neque pater, qui per filium, neque dominus, qui per servum exstitit, ad substitutionem admittetur, neque heredis heres, quia non ex iudicio veniunt. Partes quoque eaedem ad substitutos pertinent, quas in ipsius patris familias habuerunt hereditate.
+
+28.6.9
+
+Labeo libro primo posteriorum a Iavoleno epitomatorum
+
+Si pater filio impuberi eosdem quos sibi et te unum praeterea heredem instituit, bonorum filii te dimidium, ceteros patris heredes communiter dimidium ita habere, ut unus semis apud te maneat, alterius semissis pro his partibus inter heredes paternos divisio fiat, quibus ex partibus hereditatem paternam haberent.
+
+28.6.10
+
+Ulpianus libro quarto ad Sabinum
+
+pr. Sed si plures sint ita substituti: "Quisquis mihi ex supra scriptis heres erit", deinde quidam ex illis, posteaquam heredes exstiterint patri, obierunt, soli superstites ex substitutione heredes existent pro rata partium, ex quibus instituti sint, nec quicquam valebit ex persona defunctorum.
+
+1. Quos possum heredes mihi facere necessarios, possum et filio, ut servum meum et fratrem suum, quamvis in rebus humanis nondum sit: postumus igitur erit fratri heres necessarius.
+
+2. Filio impuberi heredi ex asse instituto substitutus quis est: exstitit patri filius heres: an possit substitutus separare hereditates, ut filii habeat, patris non habeat? Non potest, sed aut utriusque debet hereditatem habere aut neutrius: iuncta enim hereditas coepit esse.
+
+3. Idemque est, si pater me heredem scripserit ex parte et filium ex parte et ego patris hereditatem repudiavero: nam neque filii hereditatem habere possum.
+
+4. Si ex asse heres institutus, filio exheredato substitutus repudiaverit patris hereditatem, cum non haberet substitutum, non poterit filii adire nec enim valet filii testamentum, nisi patris fuerit adita hereditas: nec enim sufficit ad secundarum tabularum vim sic esse factum testamentum, ut ex eo adiri hereditas possit.
+
+5. Ad substitutos pupillares pertinent et si quae postea pupillis obvenerint: neque enim suis bonis testator substituit, sed impuberis, cum et exheredato substituere quis possit: nisi mihi proponas militem esse, qui substituit heredem hac mente, ut ea sola velit ad substitutum pertinere, quae a se ad institutum pervenerunt.
+
+6. In adrogato quoque impubere dicimus ad substitutum eius ab adrogatore datum non debere pertinere ea, quae haberet, si adrogatus non esset, sed ea sola, quae ipse ei dedit adrogator: nisi forte distinguimus, ut quartam quidem, quam omnimodo ex rescripto divi Pii debuit ei relinquere, substitutus habere non possit, superfluum habeat. Scaevola tamen libro decimo quaestionum putat vel hoc adrogatori permittendum, quae sententia habet rationem. Ego etiam amplius puto et si quid beneficio adrogatoris adquisiit, et haec substitutum posse habere, ut puta adrogatoris amicus vel cognatus ei aliquid reliquit.
+
+7. Nemo institutus et sibi substitutus sine causae mutatione quicquam proficit, sed hoc in uno gradu: ceterum si duo sint gradus, potest dici valere substitutionem, ut Iulianus libro trigesimo digestorum putat: si quidem sic sit substitutus sibi, cum haberet coheredem Titium: "Si Stichus heres non erit, liber et heres esto", non valere substitutionem: quod si ita: "Si Titius heres non erit, tunc Stichus liber et heres et in eius partem esto", duos gradus esse atque ideo repudiante Titio Stichum liberum et heredem fore.
+
+28.6.11
+
+Paulus libro primo ad Sabinum
+
+Si is qui heres institutus est filio substitutus sit, nihil oberit ei in substitutione, si tunc capere possit, cum filius decessit. Contra quoque potest poenas in testamento pupilli pati, licet in patris passus non sit.
+
+28.6.12
+
+Papinianus libro tertio quaestionum
+
+Si filius, qui patri ac postea fratri ex secundis tabulis heres exstitit, hereditatem patris recuset, fraternam autem retinere malit, audiri debet: iustius enim praetorem facturum existimo, si fratri separationem bonorum patris concesserit. Etenim ius dicenti propositum est liberos oneribus hereditariis non sponte susceptis liberare, non invitos ab hereditate removere, praesertim quod remotis tabulis secundis legitimam haberet fratris hereditatem. Itaque legata dumtaxat ex secundis tabulis praestari debent habita ratione facultatium in Falcidia non patris, ut alias solet, sed impuberis.
+
+28.6.13
+
+Pomponius libro primo ad Sabinum
+
+Quo gradu heres liberis substituatur, nihil interest.
+
+28.6.14
+
+Pomponius libro secundo ad Sabinum
+
+In pupillari substitutione licet longius tempus comprehensum fuerit, tamen finietur substitutio pubertate.
+
+28.6.15
+
+Papinianus libro sexto responsorum
+
+Centurio filiis, si intra quintum et vicesimum annum aetatis sine liberis vita decesserint, directo substituit. Intra quattuordecim annos etiam propria bona filio substitutus iure communi capiet, post eam autem aetatem ex privilegio militum patris dumtaxat cum fructibus inventis in hereditate.
+
+28.6.16
+
+Pomponius libro tertio ad Sabinum
+
+pr. Si quis eum, quem testamento suo legavit, rursus a substituto filii liberum esse iusserit, liber erit quasi legato adempto: nam et in legato in his testamentis novissima scriptura erit spectanda, sicut in eodem testamento (vel testamento et codicillis confirmatis) observaretur.
+
+1. Si suo testamento perfecto alia rursus hora pater filio testamentum fecerit adhibitis legitimis testibus, nihilo minus id valebit et tamen patris testamentum ratum manebit. Nam et si sibi et filio pater testamentum fecisset, deinde sibi tantum, utrumque superius rumpetur. Sed si secundum testamentum ita fecerit pater, ut sibi heredem instituat, si vivo se filius decedat, potest dici non rumpi superius testamentum, quia secundum non valet, in quo filius praeteritus sit.
+
+28.6.17
+
+Pomponius libro quarto ad Sabinum
+
+Substitui liberis is etiam potest, qui post mortem eius natus fuerit, cui substitutus heres fuerit.
+
+28.6.18
+
+Ulpianus libro 16 ad Sabinum
+
+pr. Si servus communis substitutus sit impuberi cum libertate, si quidem a patre familias fuisset redemptus, erit impuberi necessarius: si vero ab impubere redemptus, non necessarius, sed voluntarius fit heres, ut Iulianus libro trigesimo digestorum scribit: quod si neque a patre neque a pupillo fuerit redemptus, aequitatis ratio suggerit, ut ipse pretium partis suae domino offerens possit et libertatem et hereditatem consequi.
+
+1. Si Titio fuerit legatus servus, posse eum impuberi substitui cum libertate, quemadmodum institui potuit, et evanescit legatum existente condicione substitutionis.
+
+28.6.19
+
+Iulianus libro 30 digestorum
+
+Idem est et si post mortem legatarii servus substitutus sit.
+
+28.6.20
+
+Ulpianus libro 16 ad Sabinum
+
+pr. Patris et filii testamentum pro uno habetur etiam in iure praetorio: nam, ut Marcellus libro digestorum nono scribit, sufficit tabulas esse patris signatas, etsi resignatae sint filii, et septem signa patris sufficiunt.
+
+1. Si pater sibi per scripturam, filio per nuncupationem vel contra fecerit testamentum, valebit.
+
+28.6.21
+
+Ulpianus libro 41 ad edictum
+
+Si ita quis substituerit: "Si filius meus intra decimum annum decesserit, Seius heres esto", deinde hic ante quartum decimum post decimum decesserit, magis est, ut non possit bonorum possessionem substitutus petere: non enim videtur in hunc casum substitutus.
+
+28.6.22
+
+Gaius libro 15 ad edictum provinciale
+
+Is qui contra tabulas testamenti patris bonorum possessionem petierit, si fratri impuberi substitutus sit, repellitur a substitutione.
+
+28.6.23
+
+Papinianus libro sexto responsorum
+
+Qui plures heredes instituit, ita scripsit: "Eosque omnes invicem substituo". Post aditam a quibusdam ex his hereditatem uno eorum defuncto, si condicio substitutionis exstitit alio herede partem suam repudiante, ad superstites tota portio pertinebit, quoniam invicem in omnem causam singuli substitui videbuntur: ubi enim quis heredes instituit et ita scribit: "Eosque invicem substituo", hi substitui videbuntur, qui heredes exstiterunt.
+
+28.6.24
+
+Ulpianus libro quarto disputationum
+
+Si plures sint instituti ex diversis partibus et omnes invicem substituti, plerumque credendum et ex isdem partibus substitutos, ex quibus instituti sint, ut, si forte unus ex uncia, secundus ex octo, tertius ex quadrante sit institutus, repudiante tertio in novem partes dividatur quadrans feratque octo partes qui ex besse institutus fuerat, unam partem qui ex uncia scriptus est: nisi forte alia mens fuerit testatoris: quod vix credendum est, nisi evidenter fuerit expressum.
+
+28.6.25
+
+Iulianus libro 24 digestorum
+
+Si pater impuberes [impuberes] filios invicem substituerit et ei, qui novissimus mortuus fuerit, Titium, respondendum est solos fratres bonorum possessionem accepturos et quodammodo duos gradus huius institutionis factos, ut primo fratres invicem substituerentur, si illi non essent, tunc Titius vocaretur.
+
+28.6.26
+
+Iulianus libro 29  digestorum
+
+Si pater filium impuberem heredem scripserit et ei substituerit, si quis sibi post mortem natus erit, deinde vivo fratre postumus natus fuerit, testamentum rumpetur: post mortem autem fratris vivo patre natus solus heres patri suo existet.
+
+28.6.27
+
+Iulianus libro 30 digestorum
+
+Si Titius coheredi suo substitutus fuerit, deinde ei Sempronius, verius puto in utramque partem Sempronium substitutum esse.
+
+28.6.28
+
+Iulianus libro 62 digestorum
+
+Lex Cornelia, quae testamenta eorum qui in hostium potestate decesserunt confirmat, non solum ad hereditatem ipsorum qui testamenta fecerunt pertinet, sed ad omnes hereditates, quae ad quemque ex eorum testamento pertinere potuissent, si in hostium potestatem non pervenissententiarum quapropter cum pater in hostium potestate decessit filio impubere relicto in civitate et is intra tempus pubertatis decesserit, hereditas ad substitutum pertinet, perinde ac si pater in hostium potestatem non pervenisset. Sed si pater in civitate decessit, filius impubes apud hostes, si quidem mortuo patre filius in hostium potestatem pervenerit, non incommode dicitur hereditatem eius ex ea lege ad substitutos pertinere: si vero vivo patre filius in hostium potestatem pervenerit, non existimo legi Corneliae locum esse, quia non efficitur per eam, ut is, qui nulla bona in civitate reliquit, heredes habeat. Quare etiam si pubes filius vivo patre captus fuerit, deinde mortuo in civitate patre in hostium potestate decesserit, patris hereditas ex lege duodecim tabularum, non filii ex lege Cornelia ad adgnatum proximum pertinet.
+
+28.6.29
+
+Scaevola libro 15 quaestionum
+
+Si pater captus sit ab hostibus, mox filius et ibi ambo decedant, quamvis prior pater decedat, lex Cornelia ad pupilli substitutionem non pertinebit, nisi reversus in civitate impubes decedat, quoniam et si ambo in civitate decessissent, veniret substitutus.
+
+28.6.30
+
+Iulianus libro 78 digestorum
+
+Quidam testamento proculum ex parte quarta et quietum ex parte dimidia et quarta heredem instituit, deinde quieto florum, Proculo Sosiam heredes substituit, deinde, si neque Florus neque Sosia heredes essent, tertio gradu ex parte dimidia et quarta coloniam Leptitanorum et ex quarta complures heredes substituit in plures quam tres uncias: quietus hereditatem adiit, Proculus et Sosia vivo testatore decesserunt: quaeritur, quadrans Proculo datus ad quietum an ad substitutos tertio gradu pertineat. Respondi eam videri voluntatem patris familias fuisse, ut tertio gradu scriptos heredes ita demum substituerit, si tota hereditas vacasset, idque apparere evidenter ex eo, quod plures quam duodecim uncias inter eos distribuisset, et idcirco partem quartam hereditatis de qua quaeritur ad quietum pertinere:
+
+28.6.31
+
+Iulianus libro singulari de ambiguitatibus
+
+pr. In substitutione filio ita facta: "Quisquis mihi ex supra scriptis heres erit, idem filio heres esto", quaeritur, quisquis heres quandoque fuerit intellegatur an quisquis heres tum erit, cum filius moriatur. Placuit prudentibus, si quandoque heres fuisset: quamvis enim vivo pupillo heres esse desisset, forte ex causa de inofficioso, quae pro parte mota est, futurum tamen eum heredem ex substitutione creditum est.
+
+1. Non simili modo in hac specie dicendum est, si quis, cum filios duos haberet, gaium puberem, lucium impuberem, ita filio substituisset: "Si Lucius filius meus impubes decesserit neque mihi Gaius filius heres erit, tunc Seius heres esto": nam ita prudentes hoc interpretati sunt, ut ad impuberis mortem condicio substitutionis esset referenda.
+
+28.6.32
+
+Iulianus libro primo ad Urseium Ferocem
+
+Qui complures heredes ex disparibus partibus instituerat et in his Attium, si Attius non adierit, ceteros ex isdem partibus quibus instituerat heredes ei substituerat: deinde, si Attius non adisset, Titium coheredem eis qui substituti sunt adiecit. Quaesitum est, quam partem is et quam ceteri habituri essententiarum respondi Titium virilem, ceteros hereditarias: veluti si tres fuissent, Titium partem quartam Attianae partis habiturum, reliquarum partium hereditarias partes, ex quibus instituti erant, reliquos habituros esse. Quod si non solum Titium, sed etiam alios adiecisset heredes, hos quidem viriles partes habituros: veluti si tres puta coheredes fuissent substituti, extranei duo adiecti, hos quintas partes Attianae partis, reliquos autem coheredes herditarias partes habituros esse dixit.
+
+28.6.33
+
+Africanus libro secundo quaestionum
+
+pr. Si mater ita testetur, ut filium impuberem, cum erit annorum quattuordecim, heredem instituat eique pupillaribus tabulis, si sibi heres non erit, alium substituat, valet substitutio.
+
+1. Si filius et ex eo nepos postumus ita heredes instituantur, ut Gallo Aquilio placuit, et nepoti, si is heres non erit, Titius substituatur, filio herede existente Titium omnimodo, id est etiam si nepos natus non fuerit, excludi respondit.
+
+28.6.34
+
+Africanus libro quarto quaestionum
+
+pr. Ex duobus impuberibus ei, qui supremus moreretur, heredem substituit. Si simul morerentur, utrique heredem esse respondit, quia supremus non is demum qui post aliquem, sed etiam post quem nemo sit, intellegatur, sicut et e contrario proximus non solum is qui ante aliquem, sed etiam is ante quem nemo sit intellegitur.
+
+1. Filium impuberem et Titium heredes instituit: Titio Maevium substituit, filio, quisquis sibi heres esset ex supra scriptis, substituit: Titius omisit hereditatem, Maevius adiit. Mortuo deinde filio putat magis ei soli ex substitutione deferri pupilli hereditatem, qui patris quoque hereditatem adierit.
+
+2. Etiamsi contra patris tabulas bonorum possessio petita sit, substitutio tamen pupillaris valet, et legata omnibus praestanda sunt, quae a substitutione data sunt.
+
+28.6.35
+
+Africanus libro quinto quaestionum
+
+Etsi contra tabulas patris petita sit a pupillo bonorum possessio, in substitutum tamen eius actionem legati dandam esse ita, ut augeantur praeter ea quod filius extraneis non debuerit. Sic et crescere a substituto data legata, si per bonorum possessionem plus ad filium pervenisset, quemadmodum et ipse filius plus exceptis deberet. His consequens esse existimo, ut, si impubes ex asse scriptus sit et per bonorum possessionem semis ei ablatus sit, substitutus in partem legati nomine exoneretur, ut, quemadmodum portio, quae per bonorum possessionem accesserit, auget legata, ita et hic quae abscesserit minuat.
+
+28.6.36
+
+Marcianus libro quarto institutionum
+
+pr. Potest quis in testamento plures gradus heredum facere, puta: "Si ille heres non erit, ille heres esto", et deinceps plures, ut novissimo loco in subsidium vel servum necessarium heredem instituat.
+
+1. Et vel plures in unius locum possunt substitui vel unus in plurium vel singulis singuli vel invicem ipsi qui heredes instituti sunt.
+
+28.6.37
+
+Florentinus libro decimo institutionum
+
+Vel singulis liberis vel qui eorum novissimus morietur heres substitui potest, singulis, si neminem eorum intestato decedere velit, novissimo, si ius legitimarum hereditatium integrum inter eos custodiri velit.
+
+28.6.38
+
+Paulus libro singulari de secundis tabulis
+
+pr. Qui plures liberos habet, potest quibusdam substituere neque utique necesse habet omnibus, sicuti potest nulli substituere.
+
+1. Ergo et ad breve tempus aetatis substituere potest, ut puta "si filius meus intra annum decimum decesserit, Titius ei heres esto".
+
+2. Itaque et si diversos substituat post finem aetatis, admittendum erit, veluti "si intra decimum annum decesserit, Titius heres esto: si post decimum intra quartum decimum, Maevius heres esto".
+
+3. Si a patre institutus rogatusque hereditatem restituere coactus ex fidecommissario adierit, quamvis cetera, quae in eodem testamento relicta sunt, per eam aditionem confirmentur, ut legata et libertates, secundas tamen tabulas non oportere resuscitari destituto iam iure civili testamento Quintus Cervidius Scaevola noster dicebat. Sed plerique in diversa sunt opinione, quia et pupillares tabulae pars sunt prioris testamenti, quo iure utimur.
+
+28.6.39
+
+Iavolenus libro primo ex posterioribus Labeonis
+
+pr. Cum ex filio quis duos nepotes impuberes habebat, sed alterum eorum in potestate, alterum non, et vellet utrumque ex aequis partibus heredem habere et, si quis ex his impubes decessisset, ad alterum partem eius transferre: ex consilio Labeonis Ofilii Cascellii Trebatii eum quem in potestate habebat solum heredem fecit et ab eo alteri dimidiam partem hereditatis, cum in suam tutelam venisset, legavit: quod si is, qui in potestate sua esset, impubes decessisset, alterum heredem ei substituit.
+
+1. Filio impuberi in singulas causas alium et alium heredem substituere possumus, veluti ut alius, si sibi nullus filius fuerit, et alius, si filius fuerit et impubes mortuus fuerit, heres sit.
+
+2. Quidam quattuor heredes fecerat et omnibus heredibus praeter unum substituerat: unus ille, cui non erat quisquam substitutus, et ex ceteris alter vivo patre familias decesserant. Patrem, cui nemo erat substitutus, ad substitutum quoque pertinere Ofilius Cascellius responderunt, quorum sententia vera est.
+
+28.6.40
+
+Papinianus libro 29 quaestionum
+
+Causa cognita impubes adrogatus decesserat. Quemadmodum legitimis heredibus auctoritate principali prospicitur vinculo cautionis, ita, si forte substituit naturalis pater impuberi, succurrendum erit substituto: nam et legitimis heredibus futuris non aliae quam utiles actiones praestari possunt.
+
+28.6.41
+
+Papinianus libro sexto responsorum
+
+pr. Coheredi substitutus priusquam hereditatem adiret aut condicio substitutionis existeret, vita decessit. Ad substitutum eius, sive ante substitutionem sive postea substitutus sit, utraque portio pertinebit nec intererit, prior substitutus post institutum an ante decedat.
+
+1. Ex verbis "eosque invicem substituo" non adeuntis portio scriptis heredibus pro modo sibi vel alii quaesitae portionis defertur.
+
+2. Cum filiae vel nepoti, qui locum filii tenuit aut post testamentum coepit tenere, parens substituit, si quis ex his mortis quoque tempore non fuit in familia, substitutio pupillaris fit irrita.
+
+3. Quod si heredem filium pater rogaverit, si impubes diem suum obierit, Titio hereditatem suam restituere, legitimum heredem filii salva Falcidia cogendum patris hereditatem ut ab impubere fideicommisso post mortem eius dato restituere placuit, nec aliud servandum, cum substitutionis condicio puberem aetatem verbis precariis egreditur. Quae ita locum habebunt, si patris testamentum iure valuit: alioquin si non valuit, ea scriptura, quam testamentum esse voluit, codicillos non faciet, nisi hoc expressum est. Nec fideicommisso propriae facultates filii tenebuntur, et ideo, si pater filium exheredaverit et ei nihil reliquerit, nullum fideicommissum erit: alioquin, si legata vel fideicommissa filius acceperit, intra modum eorum fideicommissum hereditatis a filio datum citra Falcidiae rationem debebitur.
+
+4. Qui discretas portiones coniunctis pluribus separatim dedit ac post omnem institutionis ordinem ita scripsit: "Quos heredes meos invicem substituo", coniunctos primo loco vice mutua substituere videtur: quibus institutionum partes non agnoscentibus ceteros omnes coheredes admitti.
+
+5. Qui patrem et filium pro parte heredes instituerat et invicem substituerat, reliquis coheredibus datis post completum assem ita scripsit: "Hos omnes invicem substituo". Voluntatis fit quaestio, commemoratione omnium patrem et filium substitutioni coheredum miscuisset an eam scripturam ad ceteros omnes transtulisset: quod magis verisimile videtur propter specialem inter patrem et filium substitutionem.
+
+6. Coheres impuberi filio datus eidemque substitutus legata e secundis tabulis relicta perinde praestabit, ac si pure partem et sub condicione partem alteram accepisset. Non idem servabitur alio substituto: nam ille Falcidiae rationem induceret quasi plane sub condicione primis tabulis heres institutus, tametsi maxime coheres filio datus quadrantem integrum optineret. Nam et cum legatum primis tabulis Titio datur, secundis autem tabulis eadem res Sempronio, Sempronius quandoque Titio concurrit.
+
+7. Cum pater impuberi filiae, quae novissima diem suum obisset, tabulas secundas fecisset et impubes filia superstite sorore pubere vita decessisset, irritam esse factam substitutionem placuit, in persona quidem prioris, quia non novissima decessit, in alterius vero, quia puberem aetatem complevit.
+
+8. Non videri cum vitio factam substitutionem his verbis placuit: "Ille filius meus si (quod abominor) intra pubertatis annos decesserit, tunc in locum partemve eius Titius heres esto", non magis quam si post demonstratam condicionem sibi heredem esse substitutum iussisset: nam et qui certae rei heres instituitur coherede non dato, bonorum omnium hereditatem optinet.
+
+28.6.42
+
+Papinianus libro primo definitionum
+
+Qui duos impuberes filios heredes reliquerat, ita substituit, si ambo mortui essent: deinde pueri post mortem patris simul perierunt: duae hereditates substituo deferuntur. Sed si diversis temporibus vita decedant, in hereditate novissimi pueri eius fratris, qui ante mortuus est, hereditatem substitutus inveniet: sed in ratione Falcidiae pueri prioris hereditas non veniet nec substitutus amplius quam Sescunciam iure testamenti desiderabit: legata quoque, quae a substituto eius filii data sunt, qui prior intestato decessit, ad irritum reccidunt.
+
+28.6.43
+
+Paulus libro nono quaestionum
+
+pr. Ex facto quaeritur: "Qui filium habebat mutum puberem, impetravit a principe, ut muto substituere ei liceret, et substituit Titium: mutus duxit uxorem post mortem patris et nascitur ei filius: quaero, an rumpatur testamentum. respondi: beneficia quidem principalia ipsi principes solent interpretari: verum voluntatem principis inspicientibus potest dici eatenus id eum tribuere voluisse, quatenus filius eius in eadem valetudine perseverasset, ut, quemadmodum iure civili pubertate finitur pupillare testamentum, ita princeps imitatus sit ius in eo, qui propter infirmitatem non potest testari. Nam et si furioso filio substituisset, diceremus desinere valere testamentum, cum resipuisset, quia iam posset sibi testamentum facere: etenim iniquum incipit fieri beneficium principis, si adhuc id valere dicamus: auferret enim testamenti factionem homini sanae mentis. Igitur etiam adgnatione sui heredis dicendum est rumpi substitutionem, quia nihil interest, alium heredem institueret ipse filius postea an iure habere coepit suum heredem: nec enim aut patrem aut principem de hoc casu cogitasse verisimile est, ut eum, qui postea nasceretur, exheredaret. Nec interest, quemadmodum beneficium principale intercedat circa testamenti factionem, utrum in personam unius an complurium.
+
+1. Item quaero, si ita facta proponatur substitutio: "Filius meus si intra decem annos decesserit, Titius heres esto, si intra quattuordecim, Maevius" filiusque octo annorum decesserit, utrum Titius solus ex substitutione ei heres erit an et Maevius, quia certum est et intra decem et intra quattuordecim annos filium decessisse. Respondi omne quidem spatium, quod est intra pubertatem, liberum esse patri ad substituendum filio, sed finis huius pubertas est: magis autem est in utroque eorum tempus suum separatim servari, nisi contraria voluntas testatoris aperte ostendatur.
+
+2. Lucius Titius cum haberet filios in potestate, uxorem heredem scripsit et ei substituit filios: quaesitum est, an institutio uxoris nullius momenti sit eo, quod ab eo gradu filii non essent exheredati. Respondi eum gradum, a quo filii praeteriti sint, nullius esse momenti et ideo, cum idem substituti proponantur, ex testamento eos heredes exstitisse videri, scilicet quia non totum testamentum infirmant filii, sed tantum eum gradum, qui ab initio non valuit, sicut responsum est, si a primo sit filius praeteritus, a secundo exheredatus: nihil autem interest, qua ratione secundi heredis institutio valeat, utrum quia ab eo filius exheredatus est an quia ipse filius substitutus est.
+
+3. Iulius Longinus pater eos, quos sibi heredes instituerat, filio ita substituit "quisquis sibi heres esset": unus ex heredibus institutis, qui tacitam fidem accommodaverat, ut non capienti partem ex eo quod acceperat daret, ad substitutionem impuberis admissus utrum pro ea parte, pro qua scriptus fuit, veniat, an vero pro ea quam cepit, ita ut augeatur eius pars in substitutione? Respondi: qui in fraudem legum fidem accommodat, adeundo heres efficitur nec desinet heres esse, licet res quae relictae sunt auferuntur. Unde et ex secundis tabulis in tantum heres esse potest, in quantum scriptus esset: satis enim punitus est in eo, in quo fecit contra leges. Quin immo etsi desineret heres esse, idem dicerem: quemadmodum intellegendum est in eo qui, cum scriptus esset heres, postquam adisset hereditatem in servitutem redactus est et postea libertate donatus. Cui permissum est ad substitutionem venire, quae ei in testamento fuerat relicta: licet enim hereditatem ex institutione amisit, tamen ex substitutione istam portionem, quantum amisit, percepturum.
+
+28.6.44
+
+Paulus libro decimo quaestionum
+
+Ex pupillari testamento superius principali neque ex parte neque in totum confirmari posse Maecianus scripsit.
+
+28.6.45
+
+Paulus libro 12 responsorum
+
+pr. Lucius Titius legitimum filium et alterum naturalem heredes instituit eosque invicem substituit: Titianus legitimus filius, quem pater anniculum reliquit, post patris mortem impubes decessit superstite matre et fratre naturali, quem etiam coheredem habebat: quaero an hereditas eius ad Titium naturalem fratrem ex causa substitutionis pertineat an vero ad matrem. Respondi ad primum casum non existentium heredum substitutionem de qua quaeritur pertinere, non ad sequentem, si quis eorum postea decessisset intra pubertatem, cum in naturalis filii persona duplex substitutio locum habere non poterit: et ideo ad matrem legitimi filii hereditas ab intestato pertinet.
+
+1. Paulus respondit, si omnes instituti heredes omnibus invicem substituti essent, eius portionem, qui quibusdam defunctis postea portionem suam repudiavit, ad eum solum, qui eo tempore supervixit, ex substitutione pertinere.
+
+28.6.46
+
+Paulus libro 13 responsorum
+
+Pater familias primis tabulis postumo herede instituto secundis sibi vel filio, si intra pubertatem decessisset, Gaium Seium fratrem suum substituit, deinde Titium Gaio Seio, et postea sic dixit: "Quod si Gaius Seius frater meus primo loco substitutus heres mihi esset, tunc Titio fideicommissum relinquo". Quaero, cum filius patri heres exstiterit eoque intra pubertatem mortuo frater testatoris ex substitutione heres sit, an fideicommissum debeatur, cum ita relictum sit, si Gaius Seius frater suus sibi heres extitisset. Respondi fratrem defuncti, qui in utrumque casum institutus vel substitutus est, filio impubere defuncto ea quae testator reliquit praestare debere: nec adversari haec verba "quod si Gaius Seius mihi heres erit, tunc dari volo", cum verum sit eum et testatori heredem exstitisse.
+
+28.6.47
+
+Scaevola libro secundo responsorum
+
+Qui habebat filium et filiam impuberes, instituto filio herede filiam exheredavit et, si filius intra pubertatem decessisset, filiam eidem substituit: sed filiae, si antequam nuberet decessisset, uxorem suam, item sororem suam substituit. Quaero, cum filia impubes prior decesserit, deinde frater eius impubes, an filii hereditas ad uxorem et sororem testatoris iure substitutionis pertineat. Respondi secundum ea quae proponerentur non pertinere.
+
+28.6.48
+
+Scaevola libro singulari quaestionum publice tractatarum
+
+pr. Servum communem habemus: hic heres scriptus est et, si heres non sit, Maevius illi substitutus est: alterius iussu dominorum adiit hereditatem, alterius non: quaeritur, an substituto locus sit an non. Et verius est substituto locum esse.
+
+1. "Titius heres esto. Stichum Maevio do lego: Stichus heres esto. Si Stichus heres non erit, Stichus liber heresque esto". In hac quaestione in primis quaerendum est, utrum unus gradus sit an duo, et an causa mutata sit substitutionis an eadem permaneat. Et quidem in plerisque quaeritur, an ipse sibi substitui possit, et respondetur causa institutionis mutata substitui posse. Igitur si Titius heres scriptus sit et, si heres non sit, idem heres iussus sit, substitutio nullius momenti erit. Sed si sub condicione quis heres scriptus sit, pure autem substitutus est, causa immutatur, quoniam potest ex institutione defici condicio et substitutio aliquid adferre: sed si exstiterit condicio, duae purae sunt et ideo nullius momenti erit substitutio. Contra si pure quis instituatur, deinde sub condicione sibi substituatur, nihil facit substitutio condicionalis nec mutata intellegatur, quippe cum et si exstiterit condicio, duae purae sunt institutiones. Secundum haec proposita quaestio manifestetur: "Titius heres esto. Stichum Maevio do lego: Stichus heres esto. Si Stichus heres non erit, Stichus liber heresque esto". Nos didicimus, quoniam eodem testamento et legatus sit Stichus et libertatem accepit, praevalere libertatem et, si praevalet libertas, non deberi legatum et ideo iussu legatarii non posse adire hereditatem, ac per hoc verum esse Stichum heredem non esse et ex sequentibus verbis libertatem illi competere: cum unus gradus videtur. Quid ergo, si non adierit Titius? Incipiet substitutione Stichus liber et heres esse. Porro quamdiu non adit iussu legatarii, nec ex causa legati intellegitur legatarii esse effectus, et ideo certum est illum heredem non esse, ac per hoc ex his verbis: "Si heres non erit, Stichus liber heresque esto", liber et heres existet. Hoc autem, quod sentimus, Iulianus quoque in libris suis probat.
+
+2. Si pupillus substitutum sibi servum alienaverit eumque emptor liberum heredemque instituerit, numquid iste in substitutione habeat substitutum universum? Ut, si quidem pupillus ad pubertatem pervenerit, necessarius ex testamento emptoris heres exstitit, sin vero intra pubertatem decesserit, ex substitutione quidem liber et heres sit et necessarius patri pupilli, emptori autem voluntarius heres exstitit.
+
+
+* 28.7.0. De condicionibus institutionum.
+
+
+28.7.1
+
+Ulpianus libro quinto ad Sabinum
+
+Sub impossibili condicione vel alio mendo factam institutionem placet non vitiari.
+
+28.7.2
+
+Ulpianus libro sexto ad Sabinum
+
+pr. Si testamento comprehensum sit: "Ille servus, si meus erit" ( aut "qui meus erit") "cum moriar, heres esto", quatenus accipiatur "meus", quaeritur. Et si quidem alienavit in eo usum fructum, nihilo minus ipsius est: si vero partem in eo alienavit, an deficiat condicio institutionis, quaeritur. Et verius est non defecisse condicionem, nisi evidentissimis probationibus testatorem voluisse apparuerit pro hac condicione haec verba inseruisse "si totus servus in dominio eius remanserit": tunc enim parte alienata condicio deficit.
+
+1. Sed si duo servi ita sint heredes instituti: "Primus et secundus, si mei erunt cum moriar, liberi et heredes sunto" et alter ex his sit alienatus, Celsus recte putat sic accipiendum, atque si singulos separatim sub eadem condicione heredes instituisset.
+
+28.7.3
+
+Paulus libro primo ad Sabinum
+
+Si ita heres institutus sim, si decem dedero, et accipere nolit cui dare iussus sum, pro impleta condicione habetur.
+
+28.7.4
+
+Ulpianus libro octavo ad Sabinum
+
+pr. Si qui ita sint instituti: "Si socii una bonorum meorum permanserint usque ad annos sedecim, heredes sunto", inutilem esse institutionem secundum verborum significationem Marcellus ait: Iulianus autem, quoniam et ante aditam hereditatem iniri societas potest quasi rei futurae, valere institutionem, quod est verum.
+
+1. Idem Iulianus scribit eum, qui ita heres institutus est, si servum hereditarium non alienaverit, caventem coheredi implere condicionem: ceterum si solus heres scriptus sit, sub impossibili condicione heredem institutum videri: quae sententia vera est.
+
+28.7.5
+
+Paulus libro secundo ad Sabinum
+
+Si heredi plures condiciones coniunctim datae sint, omnibus parendum est, quia unius loco habentur, si disiunctim sint, cuilibet.
+
+28.7.6
+
+Ulpianus libro nono ad Sabinum
+
+Si quis ita institutus sit, si monumentum post mortem testatoris in triduo proximo mortis eius fecisset: cum monumentum in triduo perfici non possit, dicendum erit condicionem evanescere quasi impossibilem.
+
+28.7.7
+
+Pomponius libro quinto ad Sabinum
+
+Si quis sub condicione heredes instituisset, si invicem cavissent se legata eo testamento relicta reddituros, placet remitti eis condicionem, quia ad fraudem legum respiceret, quae vetarent quosdam legata capere: quamquam et si cautum esset, in ipsa actione exceptione tuendus esset promissor.
+
+28.7.8
+
+Ulpianus libro 50 ad edictum
+
+pr. Quae sub condicione iurisiurandi relinquuntur, a praetore reprobantur: providit enim, ne is, qui sub iurisiurandi condicione quid accepit, aut omittendo condicionem perderet hereditatem legatumve aut cogeretur turpiter accipiendi condicionem iurare. Voluit ergo eum, cui sub iurisiurandi condicione quid relictum est, ita capere, ut capiunt hi, quibus nulla talis iurisiurandi condicio inseritur, et recte: cum enim faciles sint nonnulli hominum ad iurandum contemptu religionis, alii perquam timidi metu divini numinis usque ad superstitionem, ne vel hi vel illi aut consequerentur aut perderent quod relictum est, praetor consultissime intervenit. Etenim potuit is, qui voluit factum, quod religionis condicione adstringit sub condicione faciendi relinquere: ita enim homines aut facientes admitterentur aut non facientes deficerentur condicione.
+
+1. Hoc edictum etiam ad legata pertinet, non tantum ad heredum institutionem.
+
+2. In fideicommissis quoque oportebit eos, qui de fideicommisso cognoscunt, subsequi praetoris edictum eapropter, quia vice legatorum funguntur.
+
+3. Et in mortis causa donationibus dicendum est edicto locum esse, si forte quis caverit, nisi iurasset se aliquid facturum, restituturum quod accepit: oportebit itaque remitti cautionem.
+
+4. Si quis sub iurisiurandi condicione et praeterea sub alia sit institutus, huic videndum est an remittatur condicio: et magis est, ut remitti iurisiurandi condicio debeat, licet alii condicioni parendum habeat.
+
+5. Sed si sub iurisiurandi condicione sit institutus aut si decem milia dederit, hoc est alternata condicione, ut aut pareat condicioni aut iuret aliud quid, videndum, numquid remitti ei condicio non debet, quia potest alteri condicioni parendo esse securus. Sed est verius remittendam condicionem, ne alia ratione condicio alia eum urgueat ad iusiurandum.
+
+6. Quotiens heres iurare iubetur daturum se aliquid vel facturum: quod non improbum est, actiones hereditarias non alias habebit, quam si dederit vel fecerit id, quod erat iussus iurare.
+
+7. Mortuo autem vel manumisso Sticho vivo testatore qui ita heres institutus est, si iurasset se Stichum manumissurum, non videbitur defectus condicione heres, quamvis verum sit compellendum eum manumittere, si viveret. Idem est et si ita heres institutus esset quis: "Titius heres esto ita, ut Stichum manumittat" aut "Titio centum ita lego, ut Stichum manumittat". Nam mortuo Sticho nemo dicet summovendum eum: non videtur enim defectus condicione, si parere condicioni non possit: implenda est enim voluntas, si potest.
+
+8. De hoc iureiurando remittendo non est necesse adire praetorem: semel enim in perpetuum a praetore remissum est nec per singulos remittendum. Et idcirco ex quo dies legati cesserit, remissum videtur etiam ignorante scripto herede. Ideoque in herede legatarii recte probatur, ut post diem legati cedentem si decesserit legatarius, debeat heres eius actione de legato uti, quasi pure legato relicto ei cui heres exstiterat.
+
+28.7.9
+
+Paulus libro 45 ad edictum
+
+Condiciones, quae contra bonos mores inseruntur, remittendae sunt, veluti "si ab hostibus patrem suum non redemerit", "si parentibus suis patronove alimenta non praestiterit".
+
+28.7.10
+
+Ulpianus libro octavo disputationum
+
+pr. Institutio talis: "Si codicillis Seium heredem scripsero, heres esto" non est inutilis in quovis herede instituto praeter filium: est enim condicionalis institutio. Nec videtur hereditas codicillis data, quod interdictum est, verum condicionalis est haec institutio, quae testamento data esset. Proinde et si ita scripserit: "Cuius nomen codicillis scripsero, ille mihi heres esto", pari ratione dicendum erit institutionem valere nullo iure impediente.
+
+1. Si quem ita institutum ponamus: "Ille, si eum codicillis heredem scripsi, heres esto", valet institutio etiam in filio qui in potestate est, cum nulla sit condicio, quae in praeteritum confertur vel quae in praesens, veluti "si rex parthorum vivit", "si navis in portu stat".
+
+28.7.11
+
+Iulianus libro 29 digestorum
+
+Si quis testamento hoc modo scripserit: "Filius meus si Titium adoptaverit, heres esto: si non adoptaverit, exheres esto" et filio parato adoptare Titius nolit se adrogandum dare, erit filius heres quasi expleta condicione.
+
+28.7.12
+
+Hermogenianus libro tertio iuris epitomarum
+
+Verba haec: "Publius Maevius, si volet, heres esto", in necessario condicionem faciunt, ut, si nolit, heres non existat: nam in voluntaria heredis persona frustra adduntur, cum, etsi non fuerint addita, invitus non efficitur heres.
+
+28.7.13
+
+Iulianus libro 30 digestorum
+
+Ei qui ita hereditatem vel legatum accepit "si decem dederit" neque hereditas neque legatum aliter adquiri potest, quam si post impletam condicionem id egerit scriptus heres vel legatarius, per quod hereditas aut legatum adquiri solet.
+
+28.7.14
+
+Marcianus libro quarto institutionum
+
+Condiciones contra edicta imperatorum aut contra leges aut quae legis vicem optinent scriptae vel quae contra bonos [bones] mores vel derisoriae sunt aut huiusmodi quas praetores improbaverunt pro non scriptis habentur et perinde, ac si condicio hereditati sive legato adiecta non esset, capitur hereditas legatumve.
+
+28.7.15
+
+Papinianus libro 16 quaestionum
+
+Filius, qui fuit in potestate, sub condicione scriptus heres, quam senatus aut princeps improbant, testamentum infirmet patris, ac si condicio non esset in eius potestate: nam quae facta laedunt pietatem existimationem verecundiam nostram et, ut generaliter dixerim, contra bonos mores fiunt, nec facere nos posse credendum est.
+
+28.7.16
+
+Marcianus libro quarto institutionum
+
+"Si Titius heres erit, Seius heres esto: si Seius heres erit, Titius heres esto". Iulianus inutilem esse institutionem scribit, cum condicio existere non possit.
+
+28.7.17
+
+Florentinus libro decimo institutionum
+
+Si plures institutiones ex eadem parte sub diversis condicionibus fuerint, condicio, quae prior exstiterit, occupabit institutionem.
+
+28.7.18
+
+Marcianus libro septimo institutionum
+
+pr. Cum servus pure liber et heres scriptus sub condicione sit et, si heres non exstiterit, legatum acceperit, in legato repetitam videri condicionem divus pius rescripsit.
+
+1. Hac ratione et Papinianus scribit, cum avia nepotem sub condicione emancipationis pro parte heredem instituit et postea codicillis scriptis hoc amplius ei legavit quam quod heredem eum instituit, repetitam videri condicionem emancipationis etiam in legato, quamvis in legato nullam, ut in hereditate, substitutionem fecisset.
+
+28.7.19
+
+Marcianus libro octavo institutionum
+
+Si ita scriptum fuerit "Titius heres esto: si Titius heres erit, Maevius heres esto": si Titius suspectam adierit hereditatem, potest Maevius suo arbitrio adire et quartam retinere.
+
+28.7.20
+
+Labeo libro secundo posteriorum a Iavoleno epitomatorum
+
+pr. Mulier, quae viro suo ex dote promissam pecuniam debebat, virum heredem ita instituerat, si eam pecuniam, quam doti promisisset, neque petisset neque exegisset. Puto, si vir denuntiasset ceteris heredibus per se non stare, quo minus acceptum faceret id quod ex dote sibi deberetur, statim eum heredem futurum. Quod si solus heres institutus esset in tali condicione, nihilo minus puto statim eum heredem futurum, quia adunatos condicio pro non scripta accipienda est.
+
+1. Si quis hereditarium servum iussus est manumittere et heres esse, quamvis, si manumiserit, nihil agat, tamen heres erit: verum est enim eum manumisisse: sed post aditionem libertas servo data secundum voluntatem testatoris convalescit.
+
+2. Si quis te heredem ita instituit, si se heredem instituisses aut quid sibi legasses, nihil interest, quo gradu is a te heres institutus vel quid ei legatum sit, dummodo aliquo gradu id te fecisse probes.
+
+28.7.21
+
+Celsus libro 16 digestorum
+
+Servus alienus ita heres institui potest "cum liber erit": proprius autem ita institui non potest,
+
+28.7.22
+
+Gaius libro 18 ad edictum provinciale
+
+Quia ratio suadet eum qui libertatem dare potest, ipsum debere aut praesenti die aut in diem aut sub condicione dare libertatem nec habere facultatem in casum a quolibet obvenientis libertatis heredem instituere.
+
+28.7.23
+
+Marcellus libro 12 digestorum
+
+"Uter ex fratribus meis consobrinam nostram duxerit uxorem, ex dodrante, qui non duxit, ex quadrante heres esto". Aut nubit alteri aut non vult nubere. Consobrinam qui ex his duxit uxorem, habebit dodrantem, erit alterius quadrans. Si neuter eam duxerit uxorem, non quia ipsi ducere noluerunt, sed quia illa nubere noluerit, ambo in partes aequales admittuntur: plerumque enim haec condicio: "si uxorem duxerit", "si dederit", "si fecerit" ita accipi oportet, quod per eum non stet, quo minus ducat aut det aut faciat.
+
+28.7.24
+
+Papinianus libro sexto responsorum
+
+"Qui ex fratribus meis Titiam consobrinam uxorem duxerit, ex besse heres esto: qui non duxerit, ex triente heres esto". Vivo testatore consobrina defuncta ambo ad hereditatem venientes semisses habebunt, quia verum est eos heredes institutos, sed emolumento portionum eventu nuptiarum discretos.
+
+28.7.25
+
+Modestinus libro nono regularum
+
+Sub condicione heres institutus servus sine iussu domini condicioni parere non potest.
+
+28.7.26
+
+Pomponius libro secundo ad Quintum Mucium
+
+Si pupillus sub condicione heres institutus fuerit, condicioni etiam sine tutoris auctoritate parere potest. Idemque est et si legatum ei sub condicione relictum fuerit, quia condicione expleta pro eo est, quasi pure ei hereditas vel legatum relictum sit.
+
+28.7.27
+
+Modestinus libro octavo responsorum
+
+pr. Quidam in suo testamento heredem scripsit sub tali condicione "si reliquias eius in mare abiciat": quaerebatur, cum heres institutus condicioni non paruisset, an expellendus est ab hereditate. Modestinus respondit: laudandus est magis quam accusandus heres, qui reliquias testatoris non in mare secundum ipsius voluntatem abiecit, sed memoria humanae condicionis sepulturae tradidit. Sed hoc prius inspiciendum est, ne homo, qui talem condicionem posuit, neque compos mentis esset. Igitur si perspicuis rationibus haec suspicio amoveri potest, nullo modo legitimus heres de hereditate controversiam facit scripto heredi.
+
+1. Heredi, quem testamento pure instituit, codicillis adscripsit condicionem: quaero, an ei parere necesse habeat. Modestinus respondit: hereditas codicillis neque adimi potest: porro in defectu condicionis de ademptione hereditatis cogitasse intellegitur.
+
+28.7.28
+
+Papinianus libro 13 quaestionum
+
+Si filius sub condicione heres erit et nepotes ex eo substituantur, cum non sufficit sub qualibet condicione filium heredem institui, sed ita demum testamentum ratum est, si condicio fuit in filii potestate, consideremus, numquid intersit, quae condicio fuerit adscripta, utrum quae moriente filio impleri non potuit, veluti "si Alexandriam ierit, filius heres esto" isque Romae decessit, an vero quae potuit etiam extremo vitae momento impleri, veluti "si Titio decem dederit, filius heres esto", quae condicio nomine filii per alium impleri potest. Nam superior quidem species condicionis admittit vivo filio nepotes ad hereditatem, qui si neminem substitutum haberet, dum moritur, legitimus patri heres exstiterit, argumentoque est, quod apud servium quoque relatum est: quendam enim refert ita heredem institutum, si in Capitolium ascenderit, quod si non ascendisset, legatum ei datum, eumque antequam ascenderet mortem obisse: de quo respondit servius condicionem morte defecisse ideoque moriente eo legati diem cessisse. Altera vero species condicionis vivo filio non admittit nepotes ad hereditatem, qui substituti si non essent, intestato avo heredes existerent: neque enim filius videretur obstitisse, post cuius mortem patris testamentum destituitur, quemadmodum si exheredato eodem filio nepotes, cum filius moreretur, heredes fuissent instituti.
+
+
+* 28.8.0. De iure deliberandi.
+
+
+28.8.1
+
+Ulpianus libro 60 ad edictum
+
+pr. Si servus fuerit heres institutus, utique non ipsi praestituimus tempus ad deliberandum, sed ei cuius servus est, quia pro nullo isti habentur apud praetorem. Itemque si plurium servus sit, utique omnibus dominis praestituemus.
+
+1. Ait praetor: "Si tempus ad deliberandum petet, dabo " .
+
+2. Cum dicit tempus nec adicit diem, sine dubio ostendit esse in ius dicentis potestate, quem diem praestituat:
+
+28.8.2
+
+Paulus libro 57 ad edictum
+
+Itaque pauciores centum dierum non sunt dandi.
+
+28.8.3
+
+Ulpianus libro 60 ad edictum
+
+Nec non illud sciendum nonnumquam semel, nonnumquam saepius diem ad deliberandum datum esse, dum praetori suadetur tempus, quod primum aditus praestituerat, non suffecisse:
+
+28.8.4
+
+Ulpianus libro 61 ad edictum
+
+Sed hoc impetrari non debet nisi ex magna causa.
+
+28.8.5
+
+Ulpianus libro 70 ad edictum
+
+pr. Aristo scribit non solum creditoribus, sed et heredi instituto praetorem subvenire debere hisque copiam instrumentorum inspiciendorum facere, ut perinde instruere se possint, expediet nec ne agnoscere hereditatem.
+
+1. Si maior sit hereditas et deliberat heres et res sunt in hereditate, quae ex tractu temporis deteriores fiunt, adito praetore potest is qui deliberat sine praeiudicio eas iustis pretiis vendere: qui possit etiam ea, quae nimium sumptuosa sint, veluti iumenta aut venalicia, item ea quae mora deteriora fiant, vendere, quique praeterea curaturus sit, ut aes alienum quod sub poena vel sub pretiosis pignoribus debeatur, solvatur.
+
+28.8.6
+
+Gaius libro 23 ad edictum provinciale
+
+Igitur si quidem in hereditate sit vinum oleum frumentum numerata pecunia, inde fieri debebunt impendia: si minus, a debitoribus hereditariis exigenda pecunia. Quod si nulli sunt debitores aut iudicem provocent, venire debent res supervacuae.
+
+28.8.7
+
+Ulpianus libro 60 ad edictum
+
+pr. Ait praetor: "Si pupilli pupillae nomine postulabitur tempus ad deliberandum, an expediat eum hereditatem retinere, et hoc datum sit: si iusta causa esse videbitur, bona interea deminui nisi si causa cognita boni viri arbitratu vetabo".
+
+1. Merito praetor impedit interim deminutionem, quamdiu nomine pupilli petitur tempus ad deliberandum.
+
+2. Quid sit autem "deminui vetabo" videamus. His verbis praetor non tantum alienationem impedit, verum etiam actiones exerceri non patitur: est enim absurdum ei, cui alienatio interdicitur, permitti actiones exercere, et ita Labeo scribit.
+
+3. In causae autem cognitione hoc vertetur, an iusta causa sit, ut deminuere praetor permittat. Ergo et funeris causa deminui permittet, item eorum quae sine piaculo non possunt praeteriri. Vescendi gratia aeque deminui permittet. Sed et ubi urguet, ex aliis quoque causis permittere eum oportet, ut aedificia sarciantur, ne agri inculti sint, si qua pecunia sub poena debetur ut restituatur, ne pignora distrahantur. Ex aliis quoque iustis causis praetor aditus deminutionem permittet: neque enim sine permissu eius debet deminutio fieri.
+
+28.8.8
+
+Ulpianus libro 61 ad edictum
+
+Si quis suus heres, posteaquam se abstinuerit, tunc petat tempus ad deliberandum, videamus, an impetrare debeat: magisque est, ut ex causa debeat impetrare, cum nondum bona venierint.
+
+28.8.9
+
+Paulus libro 58 ad edictum
+
+Filius dum deliberat, alimenta habere debet ex hereditate.
+
+28.8.10
+
+Marcellus libro 28 digestorum
+
+Si plures gradus sint heredum institutorum, per singulos observaturum se ait praetor id quod praefiniendo tempore deliberationis edicit, videlicet ut a primo quoque ad sequentem translata hereditate quam primum inveniat successorem, qui possit defuncti creditoribus respondere.
+
+28.8.11
+
+Iavolenus libro quarto ex posterioribus Labeonis
+
+Qui filium libertinum habebat, heredem eum instituerat, deinde ita scripserat: "Si mihi filius nullus erit, qui in suam tutelam veniat, tum dama servus liber esto": is filius pupillus libertinus erat: quaerebatur, si dama liber esset. Trebatius negat, quia filii appellatione libertinus quoque contineretur: Labeo contra, quia eo loco verum filium accipi oportet. Trebatii sententiam probo, si tamen testatorem de hoc filio locutum esse apparet.

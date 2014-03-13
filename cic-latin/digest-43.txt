@@ -1,0 +1,2293 @@
+# -*- mode: org -*-
+
+DOMINI NOSTRI SACRATISSIMI PRINCIPIS
+IUSTINIANI
+IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
+DIGESTORUM SEU PANDECTARUM
+liber quadragesimus tertius
+
+
+( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
+
+
+* TITLES
+** 43.1.0. De interdictis sive extraordinariis actionibus, quae pro his competunt.
+** 43.2.0. Quorum bonorum.
+** 43.3.0. Quod legatorum.
+** 43.4.0. Ne vis fiat ei, qui in possessionem missus erit.
+** 43.5.0. De tabulis exhibendis.
+** 43.6.0. Ne quid in loco sacro fiat.
+** 43.7.0. De locis et itineribus publicis.
+** 43.8.0. Ne quid in loco publico vel itinere fiat.
+** 43.9.0. De loco publico fruendo.
+** 43.10.0. De via publica et si quid in ea factum esse dicatur.
+** 43.11.0. De via publica et itinere publico reficiendo.
+** 43.12.0. De fluminibus. Ne quid in flumine publico ripave eius fiat, quo peius navigetur.
+** 43.13.0. Ne quid in flumine publico fiat, quo aliter aqua fluat, atque uti priore aestate fluxit.
+** 43.14.0. Ut in flumine publico navigare liceat.
+** 43.15.0. De ripa munienda.
+** 43.16.0. De vi et de vi armata.
+** 43.17.0. Uti possidetis.
+** 43.18.0. De superficiebus.
+** 43.19.0. De itinere actuque privato.
+** 43.20.0. De aqua cottidiana et aestiva.
+** 43.21.0. De rivis.
+** 43.22.0. De fonte.
+** 43.23.0. De cloacis.
+** 43.24.0. Quod vi aut clam.
+** 43.25.0. De remissionibus.
+** 43.26.0. De precario.
+** 43.27.0. De arboribus caedendis.
+** 43.28.0. De glande legenda.
+** 43.29.0. De homine libero exhibendo.
+** 43.30.0. De liberis exhibendis, item ducendis.
+** 43.31.0. Utrubi.
+** 43.32.0. De migrando.
+** 43.33.0. De Salviano interdicto.
+
+
+
+* 43.1.0. De interdictis sive extraordinariis actionibus, quae pro his competunt.
+
+
+43.1.1
+
+Ulpianus libro 67 ad edictum
+
+pr. Videamus, de quibus rebus interdicta competunt. Et sciendum est interdicta aut de divinis rebus aut de humanis competere. Divinis, ut de locis sacris vel de locis religiosis. De rebus hominum interdicta redduntur aut de his, quae sunt alicuius, aut de his, quae nullius sunt. Quae sunt nullius, haec sunt: liberae personae, de quibus exhibendis ducendis interdicta competunt. Quae sunt alicuius, haec sunt aut publica aut singulorum. Publica: de locis publicis, de viis deque fluminibus publicis. Quae autem singulorum sunt, aut ad universitatem pertinent, ut interdictum quorum bonorum, aut ad singulas res, ut est interdictum uti possidetis, de itinere actuque.
+
+1. Interdictorum autem tres species sunt, exhibitoria prohibitoria restitutoria: sunt tamen quaedam interdicta et mixta, quae et prohibitoria sunt et exhibitoria.
+
+2. Interdictorum quaedam in praesens, quaedam in praeteritum referuntur: in praesens, ut uti possidetis: in praeteritum, ut de itinere actuque, de aqua aestiva.
+
+3. Interdicta omnia licet in rem videantur concepta, vi tamen ipsa personalia sunt.
+
+4. Interdictorum quaedam annalia sunt, quaedam perpetua.
+
+43.1.2
+
+Paulus libro 63 ad edictum
+
+pr. Interdictorum quaedam duplicia sunt, quaedam simplicia. Duplicia dicuntur, ut uti possidetis, simplicia sunt ea, veluti exhibitoria et restitutoria, item prohibitoria de arboribus caedendis et de itinere actuque.
+
+1. Interdicta autem competunt vel hominum causa vel divini iuris aut de religione, sicut est "ne quid in loco sacro fiat" vel "quod factum est restituatur" et de mortuo inferendo vel sepulchro aedificando. Hominum causa competunt vel ad publicam utilitatem pertinentia vel sui iuris tuendi causa vel officii tuendi causa vel rei familiaris. Publicae utilitatis causa competit interdictum "ut via publica uti liceat" et "flumine publico" et "ne quid fiat in via publica": iuris sui tuendi causa de liberis exhibendis, item de liberto exhibendo: officii causa de homine libero exhibendo: reliqua interdicta rei familiaris causa dantur.
+
+2. Quaedam interdicta rei persecutionem continent, veluti de itinere actuque privato: nam proprietatis causam continet hoc interdictum. Sed et illa interdicta, quae de locis sacris et de religiosis proponuntur, veluti proprietatis causam continent, item illa de liberis exhibendis, quae iuris tuendi causa diximus competere, ut non sit mirum, si, quae interdicta ad rem familiarem pertinent, proprietatis, non possessionis causam habeant.
+
+3. Haec autem interdicta, quae ad rem familiarem spectant, aut apiscendae sunt possessionis aut reciperandae aut retinendae. Apiscendae possessionis sunt interdicta, quae competunt his, qui ante non sunt nancti possessionem. Sunt autem interdicta apiscendae possessionis "quorum bonorum": Salvianum quoque interdictum, quod est de pignoribus, ex hoc genere est: et "quo itinere venditor usus est, quo minus emptor utatur, vim fieri veto". Reciperandae possessionis causa proponuntur sub rubrica unde vi: aliqua enim sub hoc titulo interdicta sunt. Retinendae possessionis sunt interdicta uti possidetis. Sunt interdicta ut diximus, duplicia tam reciperandae quam apiscendae possessionis.
+
+43.1.3
+
+Ulpianus libro 69 ad edictum
+
+In interdictis exinde ratio habetur fructuum, ex quo edita sunt, non retro.
+
+43.1.4
+
+Paulus libro 67 ad edictum
+
+Ex quibus causis annua interdicta sunt, ex his de eo, quod ad eum cum quo agitur pervenit, post annum iudicium dandum Sabinus respondit.
+
+43.1.5
+
+Paulus libro 13 ad Sabinum
+
+Interdicta noxalia ea sunt, quae ob delictum eorum, quos in potestate habemus, dantur, veluti cum vi deiecerunt aut vi aut clam opus fecerunt. Sed officio iudicis continetur, ut dominum sua impensa opus restituentem absolvat: patientiam tollendo operi praestantem noxae dedere iubeat et absolvat, si non dedat, quantum impensae in tollendo opere erogatum sit, tanti condemnet: si neque patientiam praestet neque ipse tollat, cum possit, in tantum condemnet, in quantum iudex aestimaverit, atque si ipse fecisset.
+
+
+* 43.2.0. Quorum bonorum.
+
+
+43.2.1
+
+Ulpianus libro 67 ad edictum
+
+pr. Ait praetor: "Quorum bonorum ex edicto meo illi possessio data est, quod de his bonis pro herede aut pro possessore possides possideresve, si nihil usucaptum esset, quod quidem dolo malo fecisti, uti desineres possidere, id illi restituas".
+
+1. Hoc interdictum restitutorium est et ad universitatem bonorum, non ad singulas res pertinet et appellatur "quorum bonorum" et est apiscendae possessionis universorum bonorum.
+
+43.2.2
+
+Paulus libro 20 ad edictum
+
+Interdicto quorum bonorum debitores hereditarii non tenentur, sed tantum corporum possessores.
+
+
+* 43.3.0. Quod legatorum.
+
+
+43.3.1
+
+Ulpianus libro 67 ad edictum
+
+1. Hoc interdictum volgo "quod legatorum" appellatur.
+
+2. Est autem et ipsum apiscendae possessionis et continet hanc causam, ut, quod quis legatorum nomine non ex voluntate heredis occupavit, id restituat heredi. Etenim aequissimum praetori visum est unumquemque non sibi ipsum ius dicere occupatis legatis, sed ab herede petere: redigit igitur ad heredes per hoc interdictum ea, quae legatorum nomine possidentur, ut perinde legatarii possint eum convenire.
+
+3. Hoc interdictum et heredem heredis bonorumque possessoris habere propter utilitatem huius dicendum est, nec non ceteros quoque successores.
+
+4. Quia autem nonnumquam incertum est, utrum quis pro legato an pro herede vel pro possessore possideat, bellissime Arrianus scribit hereditatis petitionem instituendam et hoc interdictum reddendum, ut, sive quis pro herede vel pro possessore sive pro legato possideat, hoc interdicto teneatur: quemadmodum solemus facere, quotiens incertum est, quae potius actio teneat: nam duas dictamus protestati ex altera nos velle consequi quod nos contingit.
+
+5. Si quis ex mortis causa donatione possideat, utique cessabit interdictum, quia portio legis Falcidiae apud heredem ipso iure remanet, etsi corporaliter res in solidum translatae sunt:
+
+6. Qui vero ex causa praeceptionis, utique tenetur hoc interdicto, sed pro ea scilicet parte, quam iure legati habet, non etiam pro ea, quam quasi heres habet. Idemque erit dicendum et si alio genere legati uni ex heredibus legatum sit: nam et hic dicendum est pro ea parte, qua heres est, cessare interdictum.
+
+7. Quod ait praetor "aut dolo desiit possidere", sic accipere debemus "desiit facultatem habere restituendi".
+
+8. Unde est quaesitum, si usus fructus vel usus fuerit alicui relictus eumque occupaverit, an hoc interdicto restituere sit compellendus. Movet, quod neque usus fructus neque usus possidetur, sed magis tenetur: potest tamen defendi competere interdictum. Idem dicendum est et in servitute relicta.
+
+9. Quaesitum est, si quis legatorum servandorum causa missus sit in possessionem, an hoc interdicto teneatur ad restitutionem. Movet illud primum, quod non possidet is qui missus est in possessionem legatorum causa, sed potius custodit, deinde quod praetorem habet huius rei auctorem. Tutius tamen erit dicendum hoc interdictum competere, maxime si satisdatum sit iam legatorum nomine nec recedat: tunc enim etiam possidere videtur.
+
+10. Legatorum nomine non tantum ipsum possidere dicemus cui legatum est, verum heredem quoque eius ceterosque successores.
+
+11. Quod ait praetor "voluntate eius, ad quem ea res pertinet", ita erit interpretandum, ut, si post aditam hereditatem vel bonorum possessionem adgnitam voluntas accommodata est legatario, ut possideret, interdictum cesset: quod si ante aditam hereditatem bonorumve possessionem adgnitam hoc factum est, rectius dicetur eam voluntatem non nocere debere.
+
+12. Si duae res legatae sint, altera ex voluntate occupata, altera non ex voluntate eveniet, ut altera revocari possit, altera non. Idemque erit probandum et in una re, cuius pars ex voluntate, altera pars non ex voluntate occupata est: nam pars sola per interdictum auferetur.
+
+13. Illud tenendum, sive a te sive ab eo, in cuius locum successisti, possideri aliquid coeptum est, interdicto huic locum fore. In locum successisse accipimus, sive per universitatem sive in rem sit successum.
+
+14. Prodest autem possedisse, quotiens voluntate eius, ad quem ea res pertinet, possideri coeptum est: sed et si postea voluntas accessit eius, ad quem ea res pertinebat, tamen prodesse possessori debere. Unde si quis coepit quidem ex voluntate eius, ad quem ea res pertinet, possidere, postea vero voluntas non perseverat, nihil nocet, quia semel possideri coepit ex voluntate.
+
+15. Si alter ex heredibus iisve, ad quos ea res pertinet, voluerit rem a legatario possideri, alter non, ei, qui noluit, interdictum competet: ei, qui voluit, non competere palam est.
+
+16. Quod ait praetor "nisi satisdatum sit", accipere debemus "si perseveret satisdatum", scilicet ut, si non perseveret cautum, mittatur in possessionem legatorum servandorum causa.
+
+17. Satisdatum sic arbitror, si sic satisdatum sit, ut legatario vel ipso iure adquisita sit idonea cautio vel per mandati actionem adquiri possit, et tunc interdicto locum fore.
+
+18. Si quarundam rerum nomine satisdatum sit, quarundam non sit satisdatum, earum rerum nomine sine impedimento agi poterit, de quibus satisdatum est, ceterarum non poterit.
+
+43.3.2
+
+Paulus libro 63 ad edictum
+
+pr. Diversum est, si postea pars legato adcreverit: nam hoc nomine tenentur fideiussores in totum.
+
+1. Quod ait praetor "si per bonorum possessorem non stat, ut satisdetur", sic accipimus, si paratus sit satisdare: non ergo offerre debet satisdationem, sed petenti satis moram non facere.
+
+2. Ex hoc interdicto qui non restituit, in id quod interest debet condemnari.
+
+3. Si legatarius repromissione contentus fuit, dandum est interdictum. Idem dicendum est, si legatarius pignoribus noluit sibi caveri.
+
+4. Si per legatarium factum sit, quo minus satisdetur, licet cautum non sit, tenetur interdicto. Sed si forte factum sit per legatarium, quo minus satisdetur, eo autem tempore, quo editur interdictum, satis accipere paratus sit, non competit interdictum, nisi satisdatum sit. Item si per bonorum possessorem stetit, quo minus satisdaret, sed modo paratus est cavere, tenet interdictum: illud enim tempus inspicitur, quo interdictum editur.
+
+
+* 43.4.0. Ne vis fiat ei, qui in possessionem missus erit.
+
+
+43.4.1
+
+Ulpianus libro 72 ad edictum
+
+pr. Ait praetor: "Si quis dolo malo fecerit, quo minus quis permissu meo eiusve, cuius ea iurisdictio fuit, in possessionem bonorum sit, in eum in factum iudicium, quanti ea res fuit, ob quam in possessionem missus erit, dabo".
+
+1. Hoc edictum summa providentia praetor proposuit: frustra enim in possessionem mitteret rei servandae causa, nisi missos tueretur et prohibentes venire in possessionem coerceret.
+
+2. Est autem generale hoc edictum: pertinet enim ad omnes, qui in possessionem a praetore missi sunt: convenit enim praetori omnes, quos ipse in possessionem misit, tueri. Sed sive rei servandae causa sive legatorum aut ventris nomine in possessionem missi fuerint, habent ex hoc edicto in factum actionem, sive doli sive aliter prohibuerint.
+
+3. Haec actio non tantum eum tenet, qui prohibuit quem venire in possessionem, sed etiam eum, qui possessione pulsus est, cum venisset in possessionem: nec exigitur, ut vi fecerit qui prohibuit.
+
+4. Si quis ideo possessione arcuerit, quia rem suam putabat vel sibi nexam vel certe non esse debitoris, consequens est, ut hoc edicto non teneatur.
+
+5. Haec verba "quanti ea res erit, ob quam in possessionem missus erit" continent utilitatem creditoris, ut quantum eius interest possessionem habere, tantum ei qui prohibuit condemnetur. Proinde si ob falsum creditum vel ob falsam petitionem missus est in possessionem vel si exceptione summoveri potuit, nihil ei debet prodesse hoc edictum, quia propter nullam causam in possessionem missus est.
+
+6. Hoc edicto neque pupillum neque furiosum teneri constat, quia affectu carent. Sed pupillum eum debemus accipere, qui doli capax non est: ceterum si iam doli capax sit, contra erit dicendum. Ergo et si tutor dolo fecerit, in pupillum dabimus actionem, si modo solvendo sit tutor: sed et ipsum tutorem posse conveniri Iulianus scribit.
+
+7. Si domini vel patris voluntate prohibitus quis sit a possessione, in ipsos dabitur actio, quasi per alios hoc fecerint.
+
+8. Hanc actionem excepta legatorum missione intra annum competere et non postea sciendum est, cum sit poenalis, nec in heredes similesque personas dabitur, nisi in id quod ad eas pervenit: sed heredi similibusque personis dabitur. Nam cum prohibitus quis est legatorum vel fideicommissorum causa possessionem adipisci, tunc actio et perpetua est et in heredem dabitur, quia est in potestate successorum evitare interdictum satisdatione oblata.
+
+43.4.2
+
+Paulus libro 59 ad edictum
+
+pr. Suo quis an alieno nomine prohibitus sit, nihil interest: haec enim verba "quanti ea res est" referenda sunt ad personam domini.
+
+1. Item tam is tenetur, qui suo nomine, quam qui alieno nomine prohibuit.
+
+43.4.3
+
+Ulpianus libro 68 ad edictum
+
+pr. Si quis missus fuerit in possessionem fideicommissi servandi causa et non admittatur, potestate eius inducendus est in possessionem, qui eum misit, aut si quis volet uti interdicto, consequens erit dicere interdictum locum habere. Sed melius erit dicere extra ordinem ipsos iure suae potestatis exsequi oportere decretum suum, nonnumquam etiam per manum militarem.
+
+1. Constitutum est ab Antonino, ut etiam in bona heredis quis admittatur certis modis. Si quis igitur in his bonis non admittatur, dicendum est actionem hanc utilem competere: ceterum poterit uti et extraordinaria exsecutione.
+
+2. Praetor ventrem in possessionem mittit, et hoc interdictum prohibitorium et restitutorium est. Sed si mulier velit in factum actione uti ad exemplum creditorum magis quam interdicto, posse eam experiri sciendum est.
+
+3. Si mulier dicatur calumniae causa in possessionem venisse, quod non sit praegnas vel non ex eo praegnas, vel si de statu mulieris aliquid dicatur: ex epistula divi Hadriani ad exemplum praesumptionis Carboniani edicti ventri praetor pollicetur possessionem.
+
+43.4.4
+
+Ulpianus libro 69 ad edictum
+
+pr. Per interdictum etiam ei subvenit praetor, qui damni infecti ab eo in possessionem missus est, ne ei vis fiat.
+
+1. Poena autem eius, qui non promittit vel satis non dat, haec est, ut in possessionem mittatur adversarius. Sive ergo promittat, sive per eum non fiat, quo minus promittat, non tenebit interdictum repulso per exceptionem eo qui experitur.
+
+2. Praetor in eum, qui neque cavit neque possidere passus est eum qui missus est, iudicium pollicetur in tantum, quantum praestare eum oporteret, si de ea re cautum fuerat.
+
+3. Sed et ex alia causa hoc iudicium proposuit, si eo tempore, quo in possessionem mitti desiderabat, praetoris adeundi potestas non fuerit, scilicet ut, si, cum potestas praetoris adeundi non esset, damnum interim datum est, haberet iudicium qui damnum passus est.
+
+4. Item subiectum, si ex alia causa in possessionem missus prohibitus esse dicetur, habere in factum actionem.
+
+
+* 43.5.0. De tabulis exhibendis.
+
+
+43.5.1
+
+Ulpianus libro 68 ad edictum
+
+pr. Praetor ait: "Quas tabulas Lucius Titius ad causam testamenti sui pertinentes reliquisse dicetur, si hae penes te sunt aut dolo malo tuo factum est, ut desinerent esse, ita eas illi exhibeas. Item si libellus aliudve quid relictum esse dicetur, decreto comprehendam".
+
+1. Si quis forte confiteatur penes se esse testamentum, iubendus est exhibere, et tempus ei dandum est, ut exhibeat, si non potest in praesentiarum exhibere. Sed si neget se exhibere posse vel oportere, interdictum hoc competit.
+
+2. Hoc interdictum pertinet non tantum ad testamenti tabulas, verum ad omnia, quae ad causam testamenti pertinent: ut puta et ad codicillos pertinet.
+
+3. Sive autem valet testamentum sive non, vel quod ab initio inutiliter factum est, sive ruptum sit vel in quo alio vitio, sed etiam si falsum esse dicatur vel ab eo factum qui testamenti factionem non habuerit: dicendum est interdictum valere.
+
+4. Sive supremae tabulae sint sive non sint, sed priores, dicendum interdictum hoc locum habere.
+
+5. Itaque dicendum est ad omnem omnino scripturam testamenti, sive perfectam sive imperfectam, interdictum hoc pertinere.
+
+6. Proinde et si plures tabulae sint testamenti, quia saepius fecerat, dicendum est interdicto locum fore: est enim quod ad causam testamenti pertineat, quidquid quoquo tempore factum exhiberi debeat.
+
+7. Sed et si de statu disceptetur, si testator filius familias vel servus hoc fecisse dicatur, et hoc exhibebitur.
+
+8. Item si filius familias fecerit testamentum, qui de castrensi peculio testabatur, habet locum interdictum.
+
+9. Idem est et si is, qui testamentum fecit, apud hostes decessit.
+
+10. Hoc interdictum ad vivi tabulas non pertinet, quia verba praetoris "reliquerit" fecerunt mentionem.
+
+11. Sed et si deletum sine dolo sit testamentum.
+
+43.5.2
+
+Paulus libro 64 ad edictum
+
+Vel totum vel pars eius,
+
+43.5.3
+
+Ulpianus libro 68 ad edictum
+
+pr. Locum habet hoc interdictum.
+
+1. Si tabulae in pluribus codicibus scriptae sint, omnes interdicto isto continentur, quia unum testamentum est.
+
+2. Si tabulae testamenti apud aliquem depositae sunt a Titio, hoc interdicto agendum est et cum eo qui detinet et cum eo qui deposuit.
+
+3. Proinde et si custodiam tabularum aedituus vel tabularius suscepit, dicendum est teneri eum interdicto.
+
+4. Si penes servum tabulae fuerint, dominus interdicto tenebitur.
+
+5. Si ipse testator, dum vivit, tabulas suas esse dicat et exhiberi desideret, interdictum hoc locum non habebit, sed ad exhibendum erit agendum, ut exhibitas vindicet. Quod in omnibus, qui corpora sua esse dicunt instrumentorum, probandum est.
+
+6. Si quis dolo malo fecerit, quo minus penes eum tabulae essent, nihilo minus hoc interdicto tenebitur, nec praeiudicatur aliquid legi Corneliae testamentariae, quasi dolo malo testamentum suppresserit. Nemo enim ideo impune retinet tabulas, quod maius facinus admisit, cum exhibitis tabulis admissum eius magis manifestetur. Et posse aliquem dolo malo facere, ut in eam legem non incidat, ut puta si neque amoverit neque celaverit tabulas, sed idcirco alii tradiderit, ne eas interdicenti exhiberet, hoc est si non supprimendi animo vel consilio fecit, sed ne huic exhiberet.
+
+7. Hoc interdictum exhibitorium est.
+
+8. Quid sit exhibere, videamus. Exhibere hoc est materiae ipsius adprehendendae copiam facere.
+
+9. Exhibere autem apud praetorem oportet, ut ex auctoritate eius signatores admoniti venirent ad recognoscenda signa: et si forte non optemperent testes, Labeo scribit coerceri eos a praetore debere.
+
+10. Solent autem exhiberi tabulas desiderare omnes omnino, qui quid in testamento adscriptum habent.
+
+11. Condemnatio autem huius iudicii quanti interfuit aestimari debet.
+
+12. Quare si heres scriptus hoc interdicto experiatur, ad hereditatem referenda est aestimatio:
+
+13. Et si legatum sit, tantum venit in aestimationem, quantum sit in legato:
+
+14. Et si sub condicione legatum sit, quasi condicione existente sic aestimandum est, nec compelli debebit ad cavendum, ut se restituturum caveat, quidquid consecutus est, si condicio defecerit, quia poena contumaciae praestatur ab eo qui non exhibet.
+
+15. Inde quaeritur, si hinc consecutus aestimationem legatarius postea legatum petat, an sit audiendus. Et putem, si heres idem praestitit, exceptione doli repellendum, si alius, repelli non oportere. Et ideo et si heres sit, qui interdicto usus est aestimationem consecutus, eadem est distinctio.
+
+16. Interdictum hoc et post annum competere constat. Sed et heredi ceterisque successoribus competit.
+
+43.5.4
+
+Paulus libro 69 ad edictum
+
+Si sint tabulae apud pupillum et dolo tutoris desierint esse, in ipsum tutorem competit interdictum: aequum enim est ipsum ex delicto suo teneri, non pupillum.
+
+43.5.5
+
+Iavolenus libro 13 ex Cassio
+
+De tabulis proferendis interdictum competere non oportet, si hereditatis controversia ex his pendet aut si ad publicam quaestionem pertinet: itaque in aede sacra interim deponendae sunt aut apud virum idoneum.
+
+
+* 43.6.0. Ne quid in loco sacro fiat.
+
+
+43.6.1
+
+Ulpianus libro 68 ad edictum
+
+pr. Ait praetor: "In loco sacro facere inve eum immittere quid veto".
+
+1. Hoc interdictum de sacro loco, non de sacrario competit.
+
+2. Quod ait praetor, ne quid in loco sacro fiat, non ad hoc pertinet, quod ornamenti causa fit, sed quod deformitatis vel incommodi.
+
+3. Sed et cura aedium locorumque sacrorum mandata est his, qui aedes sacras curant.
+
+43.6.2
+
+Hermogenianus libro tertio iuris epitomarum
+
+In muris itemque portis et aliis sanctis locis aliquid facere, ex quo damnum aut incommodum irrogetur, non permittitur.
+
+43.6.3
+
+Paulus libro quinto sententiarum
+
+Neque muri neque portae habitari sine permissu principis propter fortuita incendia possunt.
+
+
+* 43.7.0. De locis et itineribus publicis.
+
+
+43.7.1
+
+Pomponius libro 30 ad Sabinum
+
+Cuilibet in publicum petere permittendum est id, quod ad usum omnium pertineat, veluti vias publicas, itinera publica: et ideo quolibet postulante de his interdicitur.
+
+43.7.2
+
+Iulianus libro 48 digestorum
+
+Nemini licet in via publica monumentum exstruere.
+
+43.7.3
+
+Ulpianus libro 33 ad Sabinum
+
+pr. Viae vicinales, quae ex agris privatorum collatis factae sunt, quarum memoria non exstat, publicarum viarum numero sunt.
+
+1. Sed inter eas et ceteras vias militares hoc interest, quod viae militares exitum ad mare aut in urbes aut in flumina publica aut ad aliam viam militarem habent, harum autem vicinalium viarum dissimilis condicio est: nam pars earum in militares vias exitum habent, pars sine ullo exitu intermoriuntur.
+
+
+* 43.8.0. Ne quid in loco publico vel itinere fiat.
+
+
+43.8.1
+
+Paulus libro 64 ad edictum
+
+In loco publico praetor prohibet aedificare et interdictum proponit.
+
+43.8.2
+
+Ulpianus libro 68 ad edictum
+
+pr. Praetor ait: "Ne quid in loco publico facias inve eum locum immittas, qua ex re quid illi damni detur, praeterquam quod lege senatus consulto edicto decretove principum tibi concessum est. De eo, quod factum erit, interdictum non dabo".
+
+1. Hoc interdictum prohibitorium est.
+
+2. Et tam publicis utilitatibus quam privatorum per hoc prospicitur. Loca enim publica utique privatorum usibus deserviunt, iure scilicet civitatis, non quasi propria cuiusque, et tantum iuris habemus ad optinendum, quantum quilibet ex populo ad prohibendum habet. Propter quod si quod forte opus in publico fiet, quod ad privati damnum redundet, prohibitorio interdicto potest conveniri, propter quam rem hoc interdictum propositum est.
+
+3. Publici loci appellatio quemadmodum accipiatur, Labeo definit, ut et ad areas et ad insulas et ad agros et ad vias publicas itineraque publica pertineat.
+
+4. Hoc interdictum ad ea loca, quae sunt in fisci patrimonio, non puto pertinere: in his enim neque facere quicquam neque prohibere privatus potest: res enim fiscales quasi propriae et privatae principis sunt. Igitur si quis in his aliquid faciat, nequaquam hoc interdictum locum habebit: sed si forte de his sit controversia, praefecti eorum iudices sunt.
+
+5. Ad ea igitur loca hoc interdictum pertinet, quae publico usui destinata sunt, ut, si quid illic fiat, quod privato noceret, praetor intercederet interdicto suo.
+
+6. Cum quidam velum in maeniano immissum haberet, qui vicini luminibus officiebat, utile interdictum competit: "Ne quid in publico immittas, qua ex re luminibus Gaii Seii officias".
+
+7. Si quis quod in publico loco positum habuit, reficere voluit, hoc interdicto locum esse aristo ait ad prohibendum eum reficere.
+
+8. Adversus eum, qui molem in mare proiecit, interdictum utile competit ei, cui forte haec res nocitura sit: si autem nemo damnum sentit, tuendus est is, qui in litore aedificat vel molem in mare iacit.
+
+9. Si quis in mari piscari aut navigare prohibeatur, non habebit interdictum, quemadmodum nec is, qui in campo publico ludere vel in publico balineo lavare aut in theatro spectare arceatur: sed in omnibus his casibus iniuriarum actione utendum est.
+
+10. Merito ait praetor "qua ex re quid illi damni detur": nam quotiensque aliquid in publico fieri permittitur, ita oportet permitti, ut sine iniuria cuiusquam fiat. Et ita solet princeps, quotiens aliquid novi operis instituendum petitur, permittere.
+
+11. Damnum autem pati videtur, qui commodum amittit, quod ex publico consequebatur, qualequale sit.
+
+12. Proinde si cui prospectus, si cui aditus sit deterior aut angustior, interdicto opus est.
+
+13. Si quid in loco publico aedificavero, ut ea, quae ex meo ad te nullo iure defluebant, desinant fluere, interdicto me non teneri Labeo putat.
+
+14. Plane si aedificium hoc effecerit, ut minus luminis insula tua habeat, interdictum hoc competit.
+
+15. Idem ait, si in publico aedificem, deinde hoc aedificium ei obstet, quod tu in publico aedificaveras, cessare hoc interdictum, cum tu quoque illicite aedificaveris, nisi forte tu iure tibi concesso aedificaveras.
+
+16. Si quis a principe simpliciter impetraverit, ut in publico loco aedificet, non est credendus sic aedificare, ut cum incommodo alicuius id fiat, neque sic conceditur: nisi forte quis hoc impetraverit.
+
+17. Si quis nemine prohibente in publico aedificaverit, non esse eum cogendum tollere, ne ruinis urbs deformetur, et quia prohibitorium est interdictum, non restitutorium. Si tamen obstet id aedificium publico usui, utique is, qui operibus publicis procurat, debebit id deponere, aut si non obstet, solarium ei imponere: vectigal enim hoc sic appellatur solarium ex eo, quod pro solo pendatur.
+
+18. Si tamen adhuc nullum opus factum fuerit, officio iudicis continetur, uti caveatur non fieri: et ea omnia etiam in persona heredum ceterorumque successorum erunt cavenda.
+
+19. Locorum sacrorum diversa causa est: in loco enim sacro non solum facere vetamur, sed et factum restituere iubemur: hoc propter religionem.
+
+20. Ait praetor: "In via publica itinereve publico facere immittere quid, quo ea via idve iter deterius sit fiat, veto".
+
+21. Viam publicam eam dicimus, cuius etiam solum publicum est: non enim sicuti in privata via, ita et in publica accipimus: viae privatae solum alienum est, ius tantum eundi et agendi nobis competit: viae autem publicae solum publicum est, relictum ad directum certis finibus latitudinis ab eo, qui ius publicandi habuit, ut ea publice iretur commearetur.
+
+22. Viarum quaedam publicae sunt, quaedam privatae, quaedam vicinales. Publicas vias dicimus, quas Graeci Basilikas, nostri praetorias, alii consulares vias appellant. Privatae sunt, quas agrarias quidam dicunt. Vicinales sunt viae, quae in vicis sunt vel quae in vicos ducunt: has quoque publicas esse quidam dicunt: quod ita verum est, si non ex collatione privatorum hoc iter constitutum est. Aliter atque si ex collatione privatorum reficiatur: nam si ex collatione privatorum reficiatur, non utique privata est: refectio enim idcirco de communi fit, quia usum utilitatemque communem habet.
+
+23. Privatae viae dupliciter accipi possunt, vel hae, quae sunt in agris, quibus imposita est servitus, ut ad agrum alterius ducant, vel hae, quae ad agros ducunt, per quas omnibus commeare liceat, in quas exitur de via consulari et sic post illam excipit via vel iter vel actus ad villam ducens. Has ergo, quae post consularem excipiunt in villas vel in alias colonias ducentes, putem etiam ipsas publicas esse.
+
+24. Hoc interdictum tantum ad vias rusticas pertinet, ad urbicas vero non: harum enim cura pertinet ad magistratus.
+
+25. Si viae publicae exemptus commeatus sit vel via coartata, interveniunt magistratus.
+
+26. Si quis cloacam in viam publicam immitteret exque ea re minus habilis via per cloacam fiat, teneri eum Labeo scribit: immisisse enim eum videri.
+
+27. Proinde et si fossam quis in fundo suo fecerit, ut ibi aqua collecta in viam decurrat, hoc interdicto tenebitur: immissum enim habere etiam hunc videri.
+
+28. Idem Labeo scribit, si quis in suo ita aedificaverit, ut aqua in via collecta restagnet, non teneri eum interdicto, quia non immittat aquam, sed non recipit: nerva autem Melius scribit utrumque teneri. Plane si fundus viam publicam contingat et ex eo aqua derivata deteriorem viam faciat, quae tamen aqua ex vicini fundo in tuum veniat: si quidem necesse habeas eam aquam recipere, interdictum locum habebit adversus vicinum tuum: si autem necesse non sit, non teneri vicinum tuum, te tamen teneri: eum enim videri factum habere, qui usum eius aquae habeat. Idem Nerva scribit, si tecum interdicto agatur, nihil ultra te facere cogendum, quam ut arbitratu eius qui tecum experitur cum vicino experiaris: ceterum aliter observantibus futurum, ut tenearis etiam, si iam bona fide cum vicino egeris neque per te stet, quo minus arbitratu actoris cum vicino experiaris.
+
+29. Idem ait, si odore solo locus pestilentiosus fiat, non esse ab re de re ea interdicto uti.
+
+30. Hoc interdictum etiam ad ea, quae pascuntur in via publica itinereve publico et deteriorem faciant viam, locum habet.
+
+31. Deinde ait praetor: "Quo ea via idque iter deterius sit fiat". Hoc sive statim deterior via sit, sive postea: ad hoc enim pertinent haec verba "sic fiat": etenim quaedam sunt talia, ut statim facto suo noceant, quaedam talia, ut in praesentiarum quidem nihil noceant, in futurum autem nocere debeant.
+
+32. Deteriorem autem viam fieri sic accipiendum est, si usus eius ad commeandum corrumpatur, hoc est ad eundum vel agendum, ut, cum plane fuerit, clivosa fiat vel ex molli aspera aut angustior ex latiore aut palustris ex sicca.
+
+33. Scio tractatum, an permittendum sit specus et pontem per viam publicam facere: et plerique probant interdicto eum teneri: non enim oportere eum deteriorem viam facere.
+
+34. Hoc interdictum perpetuum et populare est condemnatioque ex eo facienda est, quanti actoris intersit.
+
+35. Praetor ait: "Quod in via publica itinereve publico factum immissum habes, quo ea via idve iter deterius sit fiat, restituas".
+
+36. Hoc interdictum ex eadem causa proficiscitur, ex qua et superius: et tantum interest, quod hoc restitutorium, illud prohibitorium est.
+
+37. Hoc interdicto non is tenetur, qui in via publica aliquid fecit, sed is, qui factum habet. Proinde si alius fecit, alius factum habet, is tenetur, qui factum habet: et est hoc utilius, quia is potest restituere, qui factum immissum habet.
+
+38. Habere eum dicimus, qui utitur et iure possessionis fruitur, sive ipse opus fecit sive ex causa emptionis vel conductionis vel legato vel hereditate vel quo alio modo adquisiit.
+
+39. Unde Ofilius putat eum, qui pro derelicto reliquit id opus quod fecit, si viam publicam corrupit et reliquit, non teneri hoc interdicto: non enim habet quod fecit. Sed an in eum actio debeat dari, videbimus. Et puto utile interdictum competere, ut, quod in via publica aedificavit, restituat.
+
+40. Si ex fundo tuo arbor in viam publicam sic ceciderit, ut itineri sit impedimento, eamque pro derelicto habeas, non teneri Labeo scribit: si tamen, inquit, actor sua impensa arborem tollere paratus fuerit, recte tecum acturum interdicto de via publica reficienda. Sed si pro derelicto non habeas, recte tecum agi hoc interdicto.
+
+41. Idem Labeo scribit, si vicinus meus viam opere corruperit, quamvis opus, quod fecit, tam mihi quam ipsi utile sit, tamen si is vicinus fundi sui causa id fecerit, me tamen non posse hoc interdicto conveniri: si autem communiter hoc opus fieri curaverimus, utrumque nostrum teneri.
+
+42. Hoc interdictum locum habet etiam adversus eum, qui dolo malo fecit, quo minus possideret vel haberet: etenim parem esse condicionem oportet eius, qui quid possideat vel habeat, atque eius, cuius dolo malo factum sit, quo minus possideret vel haberet: et mihi videtur vera Labeonis sententia.
+
+43. "Restituas" inquit. Restituere videtur, qui in pristinum statum reducit: quod fit, sive quis tollit id quod factum est vel reponat quod sublatum est. Et interdum suo sumptu: nam si ipse, quo qui interdixit, fecerit, vel iussu eius alius, aut ratum habitum sit quod fecit, ipse suis sumptibus debet restituere: si vero nihil horum intervenit, sed habet factum, tunc dicemus patientiam solam eum praestare debere.
+
+44. Interdictum hoc non esse temporarium sciendum est: pertinet enim ad publicam utilitatem: condemnatioque ex eo facienda est, quanti actoris intersit tolli quod factum est.
+
+45. Praetor ait: "Quo minus illi via publica itinereve publico ire agere liceat, vim fieri veto".
+
+43.8.3
+
+Celsus libro 39 digestorum
+
+pr. Litora, in quae populus Romanus imperium habet, populi Romani esse arbitror:
+
+1. Maris communem usum omnibus hominibus, ut aeris, iactasque in id pilas eius esse qui iecerit: sed id concedendum non esse, si deterior litoris marisve usus eo modo futurus sit.
+
+43.8.4
+
+Scaevola libro quinto responsorum
+
+Respondit in litore iure gentium aedificare licere, nisi usus publicus impediretur.
+
+43.8.5
+
+Paulus libro 16 ad Sabinum
+
+Si per publicum locum rivus aquae ductus privato nocebit, erit actio privato ex lege duodecim tabularum, ut noxa domino sarciatur.
+
+43.8.6
+
+Iulianus libro 43  digestorum
+
+Ei, qui hoc interdicto experitur "ne quid in loco publico fiat, quo damnum privato detur", quamvis de loco publico interdicat, nihilo minus procuratoris dandi facultas est.
+
+43.8.7
+
+Iulianus libro 48 digestorum
+
+Sicut is, qui nullo prohibente in loco publico aedificaverat, cogendus non est demolire, ne ruinis urbs deformetur, ita qui adversus edictum praetoris aedificaverit, tollere aedificium debet: alioqui inane et lusorium praetoris imperium erit.
+
+
+* 43.9.0. De loco publico fruendo.
+
+
+43.9.1
+
+Ulpianus libro 68 ad edictum
+
+pr. Praetor ait: "Quo minus loco publico, quem is, cui locandi ius fuerit, fruendum alicui locavit, ei qui conduxit sociove eius e lege locationis frui liceat, vim fieri veto".
+
+1. Interdictum hoc publicae utilitatis causa proponi palam est: tuetur enim vectigalia publica, dum prohibetur quis vim facere ei, qui id fruendum conduxit.
+
+2. Sed si simul veniant ad interdictum movendum ipse qui conduxerit et socius eius, magis est, ut ipse conductor praeferatur.
+
+3. Ait praetor "Quo minus e lege locationis frui liceat". Merito ait "e lege locationis": ultra legem enim vel contra legem non debet audiri, qui frui desiderat.
+
+43.9.2
+
+Paulus libro quinto sententiarum
+
+Concedi solet, ut imagines et statuae, quae ornamenta rei publicae sunt futurae, in publicum ponantur.
+
+
+* 43.10.0. De via publica et si quid in ea factum esse dicatur.
+
+
+43.10.1
+
+Ex Papiniani de cura urbium libro
+
+pr. Ohi astunomikoi epimeleisvwsan twn kata tyn polin hodwn, hopws an homalisvwsin kai ta hreumata my blapty tas oikias kai gefurai wsin ohu an dey [id est: Curatores urbium curam agant viarum in urbe, ut complanentur et flumina aedificia ne noceant et pontes sint ubi opus est.].
+
+1. Epimeleisvwsan de hopws ohi idioi toixoi y twn allwn y twn peri tas oikias ha eis tyn hodon ferei my sfalera y, hina hws dei kavairwsin ohi despotai twn oikiwn kai episkeuazwsin. ean de my kavairwsin myde episkeuazwsin, zymioutwsan autous, hews an asfaly poiyswsin [id est: Item curam agant, parietes privati [aliorumve delendum] quaeve alia circa domus viam attingunt vitiosa ne sint, ut domini aedium sic ut oportet eas commundent et reficiant. quod si non commundabunt vel non reficient, multanto eos, donec ea firma reddant.].
+
+2. Epimeleisvwsan de hopws mydeis orussy tas hodous myde xwnnuy myde ktisy eis tas hodous myden: ei de my, ho men doulos hupo tou entuxontos mastigousvw, ho de eleuveros endeiknusvw tois astunomois, ohi de astunomoi zymioutwsan kata ton nomon kai to gegonos kataluetwsan [id est: Item curam agant, ne quis in viis fodiat neve eas obruat neve quicquam in viis aedificet: sin minus, servus ab eo qui eum deprehendet verberator, liber curatoribus indicator, curatores autem eum multanto secundum legem et opus quod factum est deponunto.].
+
+3. Episkeuazein de tas hodous tas dymosias kata tyn heautou oikian hekaston kai tas hudrorroas ekkavairein tas ek tou hupaivriou kai episkeuazein ohutws, hws an my kwluy hamacan epienai. hosoi de misvwsamenoi oikousin, ean my episkeuasy ho despotys, autoi episkeuasantes hupologizesvwsan to analwma kata ton misvon [id est: Vias autem publicas unumquemque iuxta domum suam reficere oportet et canales ex subdiali repurgare et reficere ita, ut vehiculum recte ibi iter facere possit. qui in conducto habitant, si dominus non reficit, ipsi reficiunto et quod impenderint a mercede deducunto.].
+
+4. Epimeleisvwsan de kai hopws pro twn ergastyriwn myden prokeimenon y, plyn ean knafeus himatia qugy y tektwn troxous ecw tivy: tivesvwsan de kai ohutoi, hwste my kwluein hamacan badizein [id est: Item curam agant, ne quid ante officinas proiectum sit: praeterquam si fullo vestimenta siccet vel faber rotas foris ponat: ponunto autem hi quoque sic, ut vehiculum iter facere possit.].
+
+5. My eatwsan de myde maxesvai en tais hodois myde kopron ekballein myde nekra myde dermata hriptein [id est: Ne sinunto autem neque pugnari in viis nec stercus proici nec cadavera nec pelles eo conici.].
+
+
+* 43.11.0. De via publica et itinere publico reficiendo.
+
+
+43.11.1
+
+Ulpianus libro 68 ad edictum
+
+pr. Praetor ait: "Quo minus illi viam publicam iterve publicum aperire reficere liceat, dum ne ea via idve iter deterius fiat, vim fieri veto".
+
+1. Viam aperire est ad veterem altitudinem latitudinemque restituere. Sed et purgare refectionis portio est: purgare autem proprie dicitur ad libramentum proprium redigere sublato eo quod super eam esset. Reficit enim et qui aperit et qui purgat et omnes omnino, qui in pristinum statum reducunt.
+
+2. Si quis in specie refectionis deteriorem viam facit, impune vim patietur. Propter quod neque latiorem neque longiorem neque altiorem neque humiliorem viam sub nomine refectionis is qui intercidit potest facere, vel in viam terrenam glaream inicere aut sternere viam lapide quae terrena sit, vel contra lapide stratam terrenam facere.
+
+3. Interdictum hoc perpetuo dabitur et omnibus et in omnes, et habet condemnationem in id quod actoris intererit.
+
+43.11.2
+
+Iavolenus libro decimo ex Cassio
+
+Viam publicam populus non utendo amittere non potest.
+
+43.11.3
+
+Paulus libro primo sententiarum
+
+pr. Si in agrum vicini viam publicam quis reiecerit, tantum in eum viae receptae actio dabitur, quanti eius interest, cuius fundo iniuria irrogata est.
+
+1. Qui viam publicam exaraverit, ad munitionem eius solus compellitur.
+
+
+* 43.12.0. De fluminibus. Ne quid in flumine publico ripave eius fiat, quo peius navigetur.
+
+
+43.12.1
+
+Ulpianus libro 68 ad edictum
+
+pr. Ait praetor: "Ne quid in flumine publico ripave eius facias neve quid in flumine publico neve in ripa eius immittas, quo statio iterve navigio deterior sit fiat".
+
+1. Flumen a rivo magnitudine discernendum est aut existimatione circumcolentium.
+
+2. Item fluminum quaedam sunt perennia, quaedam torrentia. Perenne est, quod semper fluat, aenaos, torrens ho xeimarrous: si tamen aliqua aestate exaruerit, quod alioquin perenne fluebat, non ideo minus perenne est.
+
+3. Fluminum quaedam publica sunt, quaedam non. Publicum flumen esse cassius definit, quod perenne sit: haec sententia Cassii, quam et Celsus probat, videtur esse probabilis.
+
+4. Hoc interdictum ad flumina publica pertinet: si autem flumen privatum sit, cessabit interdictum: nihil enim differt a ceteris locis privatis flumen privatum.
+
+5. Ripa autem ita recte definietur id, quod flumen continet naturalem rigorem cursus sui tenens: ceterum si quando vel imbribus vel mari vel qua alia ratione ad tempus excrevit, ripas non mutat: nemo denique dixit nilum, qui incremento suo aegyptum operit, ripas suas mutare vel ampliare. Nam cum ad perpetuam sui mensuram redierit, ripae alvei eius muniendae sunt. Si tamen naturaliter creverit, ut perpetuum incrementum nanctus sit, vel alio flumine admixto vel qua alia ratione, dubio procul dicendum est ripas quoque eum mutasse, quemadmodum si alveo mutato alia coepit currere.
+
+6. Si insula in publico flumine fuerit nata inque ea aliquid fiat, non videtur in publico fieri. Illa enim insula aut occupantis est, si limitati agri fuerunt, aut eius cuius ripam contingit, aut, si in medio alveo nata est, eorum est qui prope utrasque ripas possident.
+
+7. Simili modo et si flumen alveum suum reliquit et alia fluere coeperit, quidquid in veteri alveo factum est, ad hoc interdictum non pertinet: non enim in flumine publico factum erit, quod est utriusque vicini aut, si limitatus est ager, occupantis alveus fiet: certe desinit esse publicus. Ille etiam alveus, quem sibi flumen fecit, etsi privatus ante fuit, incipit tamen esse publicus, quia impossibile est, ut alveus fluminis publici non sit publicus.
+
+8. Si fossa manu facta sit, per quam fluit publicum flumen, nihilo minus publica fit: et ideo si quid ibi fiat, in flumine publico factum videtur.
+
+9. Aliter atque si flumen aliquam terram inundaverit, non alveum sibi fecerit: tunc enim non fit publicum, quod aqua opertum est.
+
+10. Item si amnis aliquid circumeat, sciendum est eius manere cuius fuit: si quid igitur illic factum est, non est factum in publico flumine. Nec pertinet ad hoc interdictum, si quid in privato factum sit, ne quidem si in privato flumine fiat: nam quod fit in privato flumine, perinde est, atque si in alio privato loco fiat.
+
+11. In flumine publico factum accipere debemus, quidquid in aqua fiat: nam si quid extra factum sit, non est in flumine factum: et quod in ripa fiat, non videtur in flumine factum.
+
+12. Non autem omne, quod in flumine publico ripave fit, coercet praetor, sed si quid fiat, quo deterior statio et navigatio fiat. Ergo hoc interdictum ad ea tantum flumina publica pertinet, quae sunt navigabilia, ad cetera non pertinet. Sed Labeo scribit non esse iniquum etiam si quid in eo flumine, quod navigabile non sit, fiat, ut exarescat vel aquae cursus impediatur, utile interdictum competere "ne vis ei fiat, quo minus id opus, quod in alveo fluminis ripave ita factum sit, ut iter cursus fluminis deterior sit fiat, tollere demoliri purgare restituere viri boni arbitratu possit".
+
+13. Stationem dicimus a stando: is igitur locus demonstratur, ubicumque naves tuto stare possunt.
+
+14. Ait praetor: "Iterque navigii deterius fiat". Hoc pro navigatione positum est: immo navigium solemus dicere etiam ipsam navem, iter ergo navigio potest et sic accipi "iter navi deterius fiat". Navigii appellatione etiam rates continentur, quia plerumque et ratum usus necessarius est. Si pedestre iter impediatur, non ideo minus iter navigio deterius fit.
+
+15. Deterior statio itemque iter navigio fieri videtur, si usus eius corrumpatur vel difficilior fiat aut minor vel rarior aut si in totum auferatur. Proinde sive derivetur aqua, ut exiguior facta minus sit navigabilis, vel si dilatetur, aut diffusa brevem aquam faciat, vel contra sic coangustetur, et rapidius flumen faciat, vel si quid aliud fiat quod navigationem incommodet difficilioremve faciat vel prorsus impediat, interdicto locus erit.
+
+16. Labeo scribit non esse dandam exceptionem ei, qui interdicto convenitur: "aut nisi ripae tuendae causa factum sit", sed ita excipiendum ait: "extra quam si quid ita factum sit, uti de lege fieri licuit".
+
+17. Si in mari aliquid fiat, Labeo competere tale interdictum: "ne quid in mari inve litore" "quo portus, statio iterve navigio deterius fiat".
+
+18. Sed et si in flumine publico, non tamen navigabili fiat, idem putat.
+
+19. Deinde ait praetor: "Quod in flumine publico ripave eius fiat sive quid in id flumen ripamve eius immissum habes, quo statio iterve navigio deterior sit fiat, restituas".
+
+20. Superius interdictum prohibitorium est, hoc restitutorium, ad eandem causam pertinens.
+
+21. Iubetur autem is, qui factum vel immissum habet, restituere quod habet, si modo id quod habet stationem vel navigium deterius faciat.
+
+22. Haec verba "factum habes" vel "immissum habes" ostendunt non eum teneri, qui fecit vel immisit, sed qui factum immissum habet. Denique Labeo scribit, si auctor tuus aquam derivaverit, et hoc interdicto, si ea tu utaris.
+
+43.12.2
+
+Pomponius libro 34 ad Sabinum
+
+Quominus ex publico flumine ducatur aqua, nihil impedit (nisi imperator aut senatus vetet), si modo ea aqua in usu publico non erit: sed si aut navigabile est aut ex eo aliud navigabile fit, non permittitur id facere.
+
+43.12.3
+
+Paulus libro 16 ad Sabinum
+
+pr. Flumina publica quae fluunt ripaeque eorum publicae sunt.
+
+1. Ripa ea putatur esse, quae plenissimum flumen continet.
+
+2. Secundum ripas fluminum loca non omnia publica sunt, cum ripae cedant, ex quo primum a plano vergere incipit usque ad aquam.
+
+43.12.4
+
+Scaevola libro quinto responsorum
+
+Quaesitum est, an is, qui in utraque ripa fluminis publici domus habeat, pontem privati iuris facere potest. respondit non posse.
+
+
+* 43.13.0. Ne quid in flumine publico fiat, quo aliter aqua fluat, atque uti priore aestate fluxit.
+
+
+43.13.1
+
+Ulpianus libro 68 ad edictum
+
+pr. Ait praetor: "In flumine publico inve ripa eius facere aut in id flumen ripamve eius immittere, quo aliter aqua fluat, quam priore aestate fluxit, veto".
+
+1. Hoc interdicto prospexit praetor, ne derivationibus minus concessis flumina excrescant vel mutatus alveus vicinis iniuriam aliquam adferat.
+
+2. Pertinet autem ad flumina publica, sive navigabilia sunt sive non sunt.
+
+3. Ait praetor: "Quo aliter aqua fluat, quam priore aestate fluxit": non omnis ergo, qui immisit vel qui fecit, tenetur, sed qui faciendo vel immittendo efficit aliter, quam priore aestate fluxit, aquam fluere. Quod autem ait "aliter fluat", non ad quantitatem aquae fluentis pertinet, sed ad modum et ad rigorem cursus aquae referendum est. Et generaliter dicendum est ita demum interdicto quem teneri, si mutetur aquae cursus per hoc quod factum est, dum vel depressior vel artior fiat aqua ac per hoc rapidior fit cum incommodo accolentium: et si quod aliud vitii accolae ex facto eius qui convenitur sentient, interdicto locus erit.
+
+4. Si quis ex rivo tecto per apertum ducere velit vel contra qui ante aperto duxit, nunc operto velit, interdicto teneri placuit, si modo hoc factum eius incommodum circa colentibus adferat.
+
+5. Simili modo et si incile ducat aut alio loco faciat aut si alveum fluminis mutet, hoc interdicto tenebitur.
+
+6. Sunt qui putent excipiendum hoc interdicto "quod eius ripae muniendae causa non fiet", scilicet ut, si quid fiat, quo aliter aqua fluat, si tamen muniendae ripae causa fiat, interdicto locus non sit. Sed nec hoc quibusdam placet: neque enim ripae cum incommodo accolentium muniendae sunt. Hoc tamen iure utimur, ut praetor ex causa aestimet, an hanc exceptionem dare debeat: plerumque enim utilitas suadet exceptionem istam dari.
+
+7. Sed et si alia utilitas vertatur eius, qui quid in flumine publico fecit (pone enim grande damnum flumen ei dare solitum, praedia eius depopulari), si forte aggeres vel quam aliam munitionem adhibuit, ut agrum suum tueretur eaque res cursum fluminis ad aliquid immutavit, cur ei non consulatur? Plerosque scio prorsus flumina avertisse alveosque mutasse, dum praediis suis consulunt. Oportet enim in huiusmodi rebus utilitatem et tutelam facientis spectari, sine iniuria utique accolarum.
+
+8. Is autem hoc interdicto tenetur, qui aliter fecit fluere, quam priore aestate fluxit. Et idcirco aiunt praetorem priorem aestatem comprehendisse, quia semper certior est naturalis cursus fluminum aestate potius quam hieme. Nec ad instantem aestatem, sed ad priorem interdictum hoc refertur, quia illius aestatis fluxus indubitatior est. Aestas ad aequinoctium autumnale refertur. Et si forte aestate interdicetur, proxima superior aestas erit intuenda: si vero hieme, tunc non proxima hieme aestas, sed superior erit inspicienda.
+
+9. Hoc interdictum cuivis ex populo competit, sed non adversus omnes, verum adversus eum, qui deneget, ut aliter aqua flueret, cum ius non haberet.
+
+10. Hoc interdictum et in heredes competit.
+
+11. Deinde ait praetor: "Quod in flumine publico ripave eius factum sive quid in flumen ripamve eius immissum habes, si ob id aliter aqua fluit atque uti priore aestate fluxit, restituas".
+
+12. Hoc interdictum restitutorium proponitur: superius enim prohibitorium est et pertinet ad ea, quae nondum facta sunt. Si quid igitur iam factum est, per hoc interdictum restituetur: si quid ne fiat prospicitur, superiore interdicto erit utendum, et si quid post interdictum redditum fuerit factum, coercebitur.
+
+13. In hoc interdicto restitutorio non est iniquum, ut Labeo ait, venire etiam, quod dolo factum est quo minus haberes.
+
+
+* 43.14.0. Ut in flumine publico navigare liceat.
+
+
+43.14.1
+
+Ulpianus libro 68 ad edictum
+
+pr. Praetor ait: "Quo minus illi in flumine publico navem ratem agere quove minus per ripam onerare exonerare liceat, vim fieri veto. Item ut per lacum fossam stagnum publicum navigare liceat, interdicam".
+
+1. Hoc interdicto prospicitur, ne quis flumine publico navigare prohibeatur: sicuti enim ei, qui via publica uti prohibeatur, interdictum supra propositum est, ita hoc quoque proponendum praetor putavit.
+
+2. Si privata sunt supra scripta, interdictum cessat.
+
+3. Lacus est, quod perpetuam habet aquam.
+
+4. Stagnum est, quod temporalem contineat aquam ibidem stagnantem, quae quidem aqua plerumque hieme cogitur.
+
+5. Fossa est receptaculum aquae manu facta.
+
+6. Possunt autem etiam haec esse publica.
+
+7. Publicano plane, qui lacum vel stagnum conduxit, si piscari prohibeatur, utile interdictum competere sabinus consentit: et ita Labeo. Ergo et si a municipibus conductum habeat, aequissimum erit ob vectigalis favorem interdicto eum tueri.
+
+8. Si quis velit interdictum tale movere, ut locus deprimatur pecoris appellendi gratia, non debet audiri: et ita Mela scribit.
+
+9. Idem ait tale interdictum competere, ne cui vis fiat, quo minus pecus ad flumen publicum ripamve fluminis publici appellatur.
+
+
+* 43.15.0. De ripa munienda.
+
+
+43.15.1
+
+Ulpianus libro 68 ad edictum
+
+pr. Praetor ait: "Quo minus illi in flumine publico ripave eius opus facere ripae agrive qui circa ripam est tuendi causa liceat, dum ne ob id navigatio deterior fiat, si tibi damni infecti in annos decem viri boni arbitratu vel cautum vel satisdatum est aut per illum non stat, quo minus viri boni arbitratu caveatur vel satisdetur, vim fieri veto".
+
+1. Ripas fluminum publicorum reficere munire utilissimum est. Sicuti igitur de via publica reficienda interdictum propositum est, ita etiam de ripa fluminis munienda proponendum fuit.
+
+2. Merito adicit "dum ne ob id navigatio deterior fiat": illa enim sola refectio toleranda est, quae navigio non est impedimento.
+
+3. Is autem, qui ripam vult munire, de damno futuro debet vel cavere vel satisdare secundum qualitatem personae: et hoc interdicto expressum est, ut damni infecti in annos decem viri boni arbitratu vel caveatur vel satisdetur.
+
+4. Dabitur autem satis vicinis: sed et his, qui trans flumen possidebunt.
+
+5. Etenim curandum fuit, ut eis ante opus factum caveretur: nam post opus factum persequendi hoc interdicto nulla facultas superest, etiamsi quid damni postea datum fuerit, sed lege Aquilia experiendum est.
+
+6. Illud notandum est, quod ripae lacus fossae stagni muniendi nihil praetor hic cavit: sed idem erit observandum, quod in ripa fluminis munienda.
+
+
+* 43.16.0. De vi et de vi armata.
+
+
+43.16.1
+
+Ulpianus libro 69 ad edictum
+
+pr. Praetor ait: "Unde tu illum vi deiecisti aut familia tua deiecit, de eo quaeque ille tunc ibi habuit tantummodo intra annum, post annum de eo, quod ad eum qui vi deiecit pervenerit, iudicium dabo".
+
+1. Hoc interdictum proponitur ei, qui vi deiectus est: etenim fuit aequissimum vi deiecto subvenire: propter quod ad reciperandam possessionem interdictum hoc proponitur.
+
+2. Ne quid autem per vim admittatur, etiam legibus Iuliis prospicitur publicorum et privatorum nec non et constitutionibus principum.
+
+3. Hoc interdictum non ad omnem vim pertinet, verum ad eos, qui de possessione deiciuntur. Ad solam autem atrocem vim pertinet hoc interdictum, et ad eos tantum, qui de solo deiciuntur, ut puta de fundo sive aedificio: ad alium autem non pertinet.
+
+4. Et si quis de area deiectus sit, sine dubio interdicto locus est: et generaliter ad omnes hoc pertinet interdictum, qui de re solo cohaerenti deiciuntur: qualisqualis enim fuerit locus, unde quis vi deiectus est, interdicto locus erit.
+
+5. Proinde et si superficiaria insula fuerit, qua quis deiectus est, apparet interdicto fore locum.
+
+6. Illud utique in dubium non venit interdictum hoc ad res mobiles non pertinere: nam ex causa furti vel vi bonorum raptorum actio competit: potest et ad exhibendum agi. Plane si quae res sint in fundo vel in aedibus, unde quis deiectus est, etiam earum nomine interdictum competere non est ambigendum.
+
+7. Si quis de nave vi deiectus est, hoc interdicto locus non est, argumento eius, qui de vehiculo detractus est, quem nemo dixit interdicto hoc uti posse.
+
+8. Plane si quis de ligneis aedibus deiectus fuerit, nemo ambigit interdicto locum fore, quia qualequale sit quod solo cohaereat, inde qui vi deiectus est habet interdictum.
+
+9. Deicitur is qui possidet, sive civiliter sive naturaliter possideat: nam et naturalis possessio ad hoc interdictum pertinet.
+
+10. Denique et si maritus uxori donavit eaque deiecta sit, poterit interdicto uti: non tamen si colonus.
+
+11. Ait praetor: "Deiecisti aut familia deiecit". Merito familiae mentio habita: nam cum "deiecisti" verbum refertur ad personam eius qui deiecit nec pertineat ad eum, cuius familia deiecit (nec enim ego videor deiecisse, si familia mea deiecerit), consequens fuit addere "aut familia tua deiecit".
+
+12. Deiecisse autem etiam is videtur, qui mandavit vel iussit, ut aliquis deieceretur: parvi enim referre visum est, suis manibus quis deiciat an vero per alium: quare et si familia mea ex voluntate mea deiecerit, ego videor deiecisse.
+
+13. Quotiens verus procurator deiecerit, cum utrolibet eorum, id est sive domino sive procuratore, agi posse sabinus ait et alterius nomine alteri eximi, sic tamen, si ab altero eorum litis aestimatio fuerit praestita (non enim excusatus est, qui iussu alicuius deiecit, non magis quam si iussu alicuius occidit): cum autem falsus est procurator, cum ipso tantum procuratore interdici debere. Sabini sententia vera est.
+
+14. Sed et si quod alius deiecit, ratum habuero, sunt qui putent secundum Sabinum et Cassium, qui ratihabitionem mandato comparant, me videri deiecisse interdictoque isto teneri, et hoc verum est: rectius enim dicitur in maleficio ratihabitionem mandato comparari.
+
+15. Quod igitur additur "aut familia tua deiecit", merito scriptum est in eum casum, in quem familia mea vi deiecit. Ceterum si iussit, ipse deiecit, nec gravari debet dominus qui non iussit, si servorum suorum factum praestaret, etsi non iussu eius deiecerunt: nam non gravabitur hoc nomine, quippe cum aut pervenit ad eum aliquid et restitueret, aut non pervenit et ipsos servos maleficii causa noxae dedendo indemnis erit: quod enim noxae dedere compellitur, in damno non debet reputare, cum servus hoc possit domini deteriorem condicionem facere.
+
+16. Familiae autem appellatio servos continet:
+
+17. Sed quaeritur, quem numerum servorum contineat, utrum plurium an vero et duum vel trium. Sed verius est in hoc interdicto, etiamsi unus servus vi deiecerit, familiam videri deiecisse.
+
+18. Familiae appellatione et eos, quos loco servorum habemus, contineri oportere dicendum est.
+
+19. Si quis tamen neget se servum vel familiam defendere, cogendus est pati hoc interdictum, ad hoc scilicet, ut quod ad eum pervenit restituat.
+
+20. Si filius familias vel mercennarius vi deiecerit, utile interdictum competit.
+
+21. Si adversus eum, qui in libertatem ex servitute vel contra petitur, post inchoatum liberale iudicium utar interdicto et liber iudicatus fuerit et apparuerit ignorante eo a servis eius vi me deiectum, in possessionem restituar.
+
+22. Quod servus vel procurator vel colonus tenent, dominus videtur possidere, et ideo his deiectis ipse deici de possessione videtur, etiamsi ignoret eos deiectos, per quos possidebat. Et si quis igitur alius, per quem possidebam, deiectus fuerit, mihi competere interdictum nemini dubium est.
+
+23. Interdictum autem hoc nulli competit nisi ei, qui tunc cum deiceretur possidebat, nec alius deici visus est quam qui possidet.
+
+24. Sive autem corpore sive animo possidens quis deiectus est, palam est eum vi deiectum videri. Idcircoque si quis de agro suo vel de domo processisset nemine suorum relicto, mox revertens prohibitus sit ingredi vel ipsum praedium, vel si quis eum in medio itinere detinuerit et ipse possederit, vi deiectus videtur: ademisti enim ei possessionem, quam animo retinebat, etsi non corpore.
+
+25. Quod volgo dicitur aestivorum hibernorumque saltuum nos possessiones animo retinere, id exempli causa didici proculum dicere: nam ex omnibus praediis, ex quibus non hac mente recedemus, ut omisisse possessionem vellemus, idem est.
+
+26. Eum, qui neque animo neque corpore possidebat, ingredi autem et incipere possidere prohibeatur, non videri deiectum verius est: deicitur enim qui amittit possessionem, non qui non accipitur.
+
+27. Vim vi repellere licere Cassius scribit idque ius natura comparatur: apparet autem, inquit, ex eo arma armis repellere licere.
+
+28. Vi possidere eum definiendum est, qui expulso vetere possessore adquisitam per vim possessionem optinet aut qui in hoc ipsum aptatus et praeparatus venit ut contra bonos mores auxilio, ne prohiberi possit ingrediens in possessionem, facit. Sed qui per vim possessionem suam retinuerit, Labeo ait non vi possidere.
+
+29. Idem Labeo ait eum, qui metu turbae perterritus fugerit, vi videri deiectum. Sed Pomponius ait vim sine corporali vi locum non habere, ergo etiam eum, qui fugatus est supervenientibus quibusdam, si illi vi occupaverunt possessionem, videri vi deiectum.
+
+30. Qui a me vi possidebat, si ab alio deiciatur, habet interdictum.
+
+31. Qui vi deiectus est, quidquid damni senserit ob hoc quod deiectus est, reciperare debet: pristina enim causa restitui debet, quam habiturus erat, si non fuisset deiectus.
+
+32. Si fundus, a quo vi expulsus sim, mihi restitutus esset, ceterae vero res, quae vi ablatae sunt, non restituantur, hic dicendum est interdictum nihilo minus tenere, quia verum est vi esse deiectum. Plane si quis velit de possessione quidem rei soli per hoc interdictum experiri, de rebus vero mobilibus ad exhibendum actione, potest hoc suo arbitrio habere, et ita Iulianus scribit: idem scribit et si quis vi bonorum raptorum de huiusmodi rebus velit experiri.
+
+33. Quod autem ait praetor: "quaeque ibi habuit", sic accipimus, ut omnes res contineantur, non solum quae propriae ipsius fuerunt, verum etiam si quae apud eum depositae vel ei commodatae vel pigneratae, quarumque usum vel usum fructum vel custodiam habuit, vel si quae ei locatae sunt: cum enim dicat praetor "habuit", omnia haec habendi verbo continentur.
+
+34. Rectissime autem praetor addidit "tunc ibi habuit". "Tunc" sic accipimus "cum deiceretur": et ideo et si quid postea desiit illic esse, dicendum erit in interdictum venire. Sic fit, ut, etiamsi homines vel pecora demortua sint post deiectionem, interdicto locus sit.
+
+35. Denique scribit Iulianus eum, qui vi deiecit ex eo praedio, in quo homines fuerant, propius esse, ut etiam sine culpa eius mortuis hominibus aestimationem eorum per interdictum restituere debeat, sicuti fur hominis etiam mortuo eo tenetur. Huic consequens esse ait, ut villae quoque et aedium incendio consumptarum pretium restituere cogatur: ubi enim quis, inquit, deiecit, per eum stetisse videtur, quo minus restitueret.
+
+36. Idcirco constare ait eum, qui vi deiecit quique vi sine dolo malo desierit possidere, interdicto teneri.
+
+37. "Ibi" autem ait praetor, ut ne quis et quae illic non habuit, complectatur.
+
+38. Sane quod ait praetor "ibi", quomodo accipimus? Utrum in eo loco, unde quis vi deiectus est, an vero in omni possessione? Et melius dicetur non ad angulum referendum vel locum, in quo fuerit, verum etiam ad omnem partem possessionis, qua quis caruit, cum deicitur.
+
+39. Annus in hoc interdicto utilis est.
+
+40. Ex die, quo quis deiectus est, fructuum ratio habetur, quamvis in ceteris interdictis ex quo edita sunt, non retro, computantur. Idem est et in rebus mobilibus, quae ibi erant: nam et earum fructus computandi sunt, ex quo quis vi deiectus est.
+
+41. Non solum autem fructuum ratio in hoc interdicto habetur, verum ceterarum etiam utilitatium habenda est: nam Vivianus refert in hoc interdicto omnia, quaecumque habiturus vel adsecuturus erat is qui deiectus est, si vi deiectus non esset, restitui aut eorum litem a iudice aestimari debere eumque tantum consecuturum, quanti sua interesset se vi deiectum non esse.
+
+42. Ex interdicto unde vi etiam is qui non possidet restituere cogetur.
+
+43. Interdictum hoc quia atrocitatem facinoris in se habet, quaesitum est, an liberto in patronum vel liberis adversus parentes competit. Et verius est nec liberto in patronum nec in parentes liberis dandum esse meliusque erit in factum actionem his competere. Aliter atque si vi armata usus sit adversus libertum patronus vel adversus liberos parens: nam hic interdictum competit.
+
+44. Hoc interdictum et heredi et ceteris successoribus competit.
+
+45. Non alii autem, quam ei qui possidet, interdictum unde vi competere argumentum praebet, quod apud Vivianum relatum est, si quis me vi deiecerit, meos non deiecerit, non posse me hoc interdicto experiri, quia per eos retineo possessionem, qui deiecti non sunt.
+
+46. Idem Vivianus refert: servos quosdam vi depulit, alios retinuit et vinxit aut etiam eis imperavit: vi te deiectum intellegi: desisse enim possidere, cum servi ab alio possideantur. Et quod in parte servorum dictum est, idem in omnibus dici ait, si forte nemo depulsus esset, sed possideri ab eo coepissent, qui ingressus in possessionem esset.
+
+47. Quid dicturi essemus, tractat, si aliquo possidente ego quoque ingressus sum in possessionem et non deiciam possessorem, sed vinctum opus facere cogam: quatenus res, inquit, esset? Ego verius puto eum quoque deiectum videri, qui illic vinctus est.
+
+48. Ex causa huius interdicti in heredem et bonorum possessorem ceterosque successores in factum actio competit in id quod ad eos pervenit.
+
+43.16.2
+
+Paulus libro 65 ad edictum
+
+Dolove malo eorum factum est, quo minus perveniret.
+
+43.16.3
+
+Ulpianus libro 69 ad edictum
+
+pr. Quod est et si quis armis deiectus est, quia ex facinoribus defunctorum de eo, quod ad heredem pervenit, actio datur: sufficit enim non in lucro versari eum heredem, non etiam damnum subire.
+
+1. Haec actio, quae adversus heredem ceterosque successores pertinet, perpetuo competit, quia in ea rei persecutio continetur.
+
+2. Armis deiectum quomodo accipimus? Arma sunt omnia tela, hoc est et fustes et lapides, non solum gladii hastae frameae, id est rhomphaeae.
+
+3. Plane et si unus vel alter fustem vel gladium tenuit, armis deiectus possessor videtur.
+
+4. Plus dicitur, et si inermes venerant, si in ipsa concertatione qui inermes venerant eo processerunt, ut fustes aut lapides sumerent, vis erit armata.
+
+5. Qui armati venerunt et si armis non sunt usi ad deiciendum, sed deiecerunt, armata vis facta esse videtur: sufficit enim terror armorum, ut videantur armis deiecisse.
+
+6. Si quis autem visis armatis, qui alibi tendebant, metu hoc deterritus profugerit, non videtur deiectus, quia non hoc animo fuerunt qui armati erant, sed alio tendebant.
+
+7. Proinde et si, cum armatos audisset venire, metu decesserit de possessione, sive verum sive falsum audisset, dicendum est non esse eum armis deiectum, nisi possessio ab his fuerit occupata.
+
+8. Si autem, cum dominus veniret in possessionem, armati eum prohibuerunt qui invaserant possessionem, videri eum armis deiectum.
+
+9. Eum igitur, qui cum armis venit, possumus armis repellere, sed hoc confestim, non ex intervallo, dummodo sciamus non solum resistere permissum, ne deiciatur, sed et si deiectus quis fuerit, eundem deicere non ex intervallo, sed ex continenti.
+
+10. Cum procurator armatus venit, et ipse dominus deiecisse videtur, sive mandavit sive, ut Iulianus ait, ratum habuit.
+
+11. Hoc et in familia dicendum est: nam cum familia sine me armata venit, ego non videor venisse, sed familia, nisi iussi vel ratum habui.
+
+12. Hoc interdictum etiam adversus eum proponitur, qui dolo malo fecit, quo quis armis deiceretur: et post annum reddetur in id, quod pervenit ad eum qui prohibuit unde vi.
+
+13. Interdictum necessarium fuisse fructuario apparet "Si prohibeatur uti frui usu fructu fundi".
+
+14. Uti frui autem prohibuisse is videtur, qui vi deiecit utentem et fruentem aut non admisit, cum ex fundo exisset non usus fructus deserendi causa. Ceterum si quis ab initio volentem incipere uti frui prohibuit, hoc interdictum locum non habet. Quid ergo est? Debet fructuarius usum fructum vindicare.
+
+15. Pertinet autem hoc interdictum ad eum, qui fundo uti frui prohibitus est: sed pertinebit etiam ad eum, qui aedificiis uti frui prohibetur. Consequenter autem dicemus ad res mobiles hoc interdictum non pertinere, si quis uti frui prohibitus est re mobili, nisi si rei soli accedebant res mobiles: si igitur ibi fuerunt, dicendum est etiam ad eas referri hoc interdictum debere.
+
+16. Item si non usus fructus, sed usus sit relictus, competit hoc interdictum. Ex quacumque enim causa constitutus est usus fructus vel usus, hoc interdictum locum habebit.
+
+17. Qui usus fructus nomine qualiterqualiter fuit quasi in possessione, utetur hoc interdicto. Sed si quis, posteaquam prohibitus est, capite minutus sit vel mortuus, recte dicitur heredibus et successoribus competere hoc interdictum, non ut in futurum constituatur usus fructus, sed ut praeterita causa et damnum praeteritum sarciatur.
+
+18. Heres quoque simili modo debebit in factum actionem suscipere in id quod ad se pervenit.
+
+43.16.4
+
+Ulpianus libro decimo ad edictum
+
+Si vi me deiecerit quis nomine municipum, in municipes mihi interdictum reddendum pomponius scribit, si quid ad eos pervenit.
+
+43.16.5
+
+Ulpianus libro 11 ad edictum
+
+Si per vim tibi possessionem tradidero, dicit Pomponius unde vi interdictum cessare, quoniam non est deiectus, qui compulsus est in possessionem inducere.
+
+43.16.6
+
+Paulus libro 17 ad edictum
+
+In interdicto unde vi tanti condemnatio facienda est, quanti intersit possidere: et hoc iure nos uti Pomponius scribit, id est tanti rem videri, quanti actoris intersit: quod alias minus esse, alias plus: nam saepe actoris pluris interesse hominem retinere, quam quanti is est, veluti cum quaestionis habendae aut rei probandae gratia aut hereditatis adeundae intersit eius eum possideri.
+
+43.16.7
+
+Paulus libro 24 ad edictum
+
+Cum a te vi deiectus sim, si Titius eandem rem possidere coeperit, non possum cum alio quam tecum interdicto experiri.
+
+43.16.8
+
+Paulus libro 54 ad edictum
+
+Fulcinius dicebat vi possideri, quotiens vel non dominus, cum tamen possideret, vi deiectus est.
+
+43.16.9
+
+Paulus libro 65 ad edictum
+
+pr. Si plures heredes sunt, unusquisque non in amplius, quam ad eum pervenerit, tenetur. Qua de causa interdum in solidum tenebitur is ad quem totum pervenerit, quamvis ex parte heres sit.
+
+1. Deiectum ab usu fructu in eandem causam praetor restitui iubet, id est in qua futurus esset, si deiectus non esset. Itaque si tempore usus fructus finitus fuerit, postquam deiectus est a domino, nihilo minus cogendus erit restituere, id est usum fructum iterum constituere.
+
+43.16.10
+
+Gaius libro secundo ad edictum praetoris urbani titulo de liberali causa
+
+Si de fundo proprietarium et fructuarium praedo expulerit atque ob id fructuarius constituto tempore non usus perdiderit ius suum, nemo dubitat, quin dominus, sive experiatur cum fructuario adversus praedonem sive non experiatur, retinere debeat reversum ad se usum fructum et, quod fructuarius perdidit, id ad damnum eius pertineat, cuius facto periit.
+
+43.16.11
+
+Pomponius libro sexto ex Plautio
+
+Vim facit, qui non sinit possidentem eo, quod possidebit, uti arbitrio suo, sive inserendo sive fodiendo sive arando sive quid aedificando sive quid omnino faciendo, per quod liberam possessionem adversarii non relinquit.
+
+43.16.12
+
+Marcellus libro 19 digestorum
+
+Colonus eum, cui locator fundum vendiderat, cum is in possessionem missus esset, non admisit: deinde colonus vi ab alio deiectus est: quaerebatur, quis haberet interdictum unde vi. Dixi nihil interesse, colonus dominum ingredi volentem prohibuisset an emptorem, cui iussisset dominus tradi possessionem, non admisit. Igitur interdictum unde vi colono competiturum ipsumque simili interdicto locatori obstrictum fore, quem deiecisse tunc videretur, cum emptori possessionem non tradidit, nisi forte propter iustam et probabilem causam id fecisset.
+
+43.16.13
+
+Ulpianus libro octavo ad Sabinum
+
+Neque unde vi neque aliud interdictum famosum est.
+
+43.16.14
+
+Pomponius libro 29 ad Sabinum
+
+Sed si vi armata deiectus es, sicut ipsum fundum recipis, etiamsi vi aut clam aut precario eum possideres, ita res quoque mobiles omnimodo recipies.
+
+43.16.15
+
+Paulus libro 13 ad Sabinum
+
+Si vi me deieceris vel vi aut clam feceris, quamvis sine dolo et culpa amiseris possessionem, tamen damnandus es, quanti mea intersit, quia in eo ipso culpa tua praecessit, quod omnino vi deiecisti aut vi aut clam fecisti.
+
+43.16.16
+
+Ulpianus libro 29 ad edictum
+
+In interdicto unde vi dicendum est, ut eius causa, quod ad patrem pervenit, ipse teneatur.
+
+43.16.17
+
+Iulianus libro 48 digestorum
+
+Qui possessionem vi ereptam vi in ipso congressu reciperat, in pristinam causam reverti potius quam vi possidere intellegendus est: ideoque si te deiecero, ilico tu me, deinde ego te, unde vi interdictum tibi utile erit.
+
+43.16.18
+
+Papinianus libro 26 quaestionum
+
+pr. Cum fundum qui locaverat vendidisset, iussit emptorem in vacuam possessionem ire, quem colonus intrare prohibuit: postea emptor vi colonum expulit: de interdictis unde vi quaesitum est. Placebat colonum interdicto venditori teneri, quia nihil interesset, ipsum an alium ex voluntate eius missum intrare prohibuerit: neque enim ante omissam possessionem videri, quam si tradita fuisset emptori, quia nemo eo animo esset, ut possessionem omitteret propter emptorem, quam emptor adeptus non fuisset. Emptorem quoque, qui postea vim adhibuit, et ipsum interdicto colono teneri: non enim ab ipso, sed a venditore per vim fundum esse possessum, cui possessio esset ablata. Quaesitum est, an emptori succurri debeat, si voluntate venditoris colonum postea vi expulisset. Dixi non esse iuvandum, qui mandatum illicitum susceperit.
+
+1. Eum, qui fundum vindicavit ab eo, cum quo interdicto unde vi potuit experiri, pendente iudicio nihilo minus interdicto recte agere placuit.
+
+43.16.19
+
+Tryphoninus libro 15 disputationum
+
+Merito Iulianus respondit, si me de fundo vi deieceris, in quo res moventes fuerunt, cum mihi interdicto unde vi restituere debeas non solum possessionem soli, sed et ea quae ibi fuerunt, quamquam ego moram fecero, quo minus interdicto te convenirem, subtractis tamen mortalitate servis aut pecoribus aliisve rebus casu intercidentibus tuum tamen onus nihilo minus in eis restituendis esse, quia ex ipso tempore delicti plus quam frustrator debitor constitutus es.
+
+43.16.20
+
+Labeo libro tertio pithanon a Paulo epitomatorum
+
+Si colonus tuus vi deiectus est, ages unde vi interdicto. Idem si inquilinus tuus vi deiectus fuerit. Paulus: idem dici potest de coloni colono, item inquilini inquilino.
+
+
+* 43.17.0. Uti possidetis.
+
+
+43.17.1
+
+Ulpianus libro 69 ad edictum
+
+pr. Ait praetor: "Uti eas aedes, quibus de agitur, nec vi nec clam nec precario alter ab altero possidetis, quo minus ita possideatis, vim fieri veto. De cloacis hoc interdictum non dabo. Neque pluris, quam quanti res erit: intra annum, quo primum experiundi potestas fuerit, agere permittam".
+
+1. Hoc interdictum de soli possessore scriptum est, quem potiorem praetor in soli possessione habeat, et est prohibitorium ad retinendam possessionem.
+
+2. Huius autem interdicti proponendi causa haec fuit, quod separata esse debet possessio a proprietate: fieri etenim potest, ut alter possessor sit, dominus non sit, alter dominus quidem sit, possessor vero non sit: fieri potest, ut et possessor idem et dominus sit.
+
+3. Inter litigatores ergo quotiens est proprietatis controversia, aut convenit inter litigatores, uter possessor sit, uter petitor, aut non convenit. Si convenit, absolutum est: ille possessoris commodo, quem convenit possidere, ille petitoris onere fungetur. Sed si inter ipsos contendatur, uter possideat, quia alteruter se magis possidere adfirmat, tunc, si res soli sit, in cuius possessione contenditur, ad hoc interdictum remittentur.
+
+4. Est igitur hoc interdictum, quod volgo uti possidetis appellatur, retinendae possessionis (nam huius rei causa redditur, ne vis fiat ei qui possidet) et consequenter proponitur post interdictum unde vi. Illud enim restituit vi amissam possessionem, hoc interdictum tuetur, ne amittatur possessio, denique praetor possidenti vim fieri vetat: et illud quidem interdictum obpugnat possessorem, hoc tuetur. Et ut Pedius ait, omnis de possessione controversia aut eo pertinet, ut, quod non possidemus, nobis restituatur, aut ad hoc, ut retinere nobis liceat quod possidemus. Restitutae possessionis ordo aut interdicto expeditur aut per actionem: retinendae itaque possessionis duplex via est, aut exceptio aut interdictum. Exceptio datur ex multis causis ei qui possidet.
+
+5. Perpetuo autem hoc interdicto insunt haec: "Quod nec vi nec clam nec precario ab illo possides".
+
+6. Interdictum autem possessorem praedii tuetur, quod est uti possidetis. Actio enim numquam ultro possessori datur, quippe sufficit ei quod possideat.
+
+7. Hoc interdictum locum habet, sive quis totum fundum possidere se dicat, sive pro certa parte, sive pro indiviso possideat.
+
+8. Hoc interdictum in omnibus etiam possessionibus, quae sunt soli, sine dubio locum habebit, dummodo possideri possit.
+
+9. Quod ait praetor in interdicto: "Nec vi nec clam nec precario alter ab altero possidetis", hoc eo pertinet, ut, si quis possidet vi aut clam aut precario, si quidem ab alio, prosit ei possessio, si vero ab adversario suo, non debeat eum propter hoc quod ab eo possidet vincere: has enim possessiones non debere proficere palam est.
+
+43.17.2
+
+Paulus libro 65 ad edictum
+
+Usta enim an iniusta adversus ceteros possessio sit, in hoc interdicto nihil refert: qualiscumque enim possessor hoc ipso, quod possessor est, plus iuris habet quam ille qui non possidet.
+
+43.17.3
+
+Ulpianus libro 69 ad edictum
+
+pr. Si duo possideant in solidum, videamus, quid sit dicendum. Quod qualiter procedat, tractemus, si quis proponeret possessionem iustam et iniustam. Ego possideo ex iusta causa, tu vi aut clam: si a me possides, superior sum interdicto, si vero non a me, neuter nostrum vincetur: nam et tu possides et ego.
+
+1. Hoc interdictum duplex est et hi, quibus competit, et actores et rei sunt.
+
+2. Hoc interdictum sufficit ei, qui aedificare in suo prohibetur: etenim videris mihi possessionis controversiam facere, qui prohibes me uti mea possessione.
+
+3. Cum inquilinus dominum aedes reficere volentem prohiberet, aeque competere interdictum uti possidetis placuit testarique dominum non prohibere inquilinum, ne habitaret, sed ne possideret.
+
+4. Item videamus, si auctor vicini tui ex fundo tuo vites in suas arbores transduxit, quid iuris sit. Et ait Pomponius posse te ei denuntiare et vites praecidere, idque et Labeo scribit, aut uti eum debere interdicto uti possidetis de eo loco, quo radices continentur vitium: nam si tibi vim fecerit, quo minus eas vites vel praecidas vel transducas, vim tibi facere videtur, quo minus possideas: etenim qui colere fundum prohibetur, possidere prohibetur, inquit Pomponius.
+
+5. Item videamus, si proiectio supra vicini solum non iure haberi dicatur, an interdictum uti possidetis sit utile alteri adversus alterum. Et est apud Cassium relatum utrique esse inutile, quia alter solum possidet, alter cum aedibus superficiem.
+
+6. Labeo quoque scribit: ex aedibus meis in aedes tuas proiectum habeo: interdicis mecum, si eum locum possideamus, qui proiecto tegetur. An, quo facilius possim retinere possessionem eius proiectionis, interdico tecum sic "uti nunc possidetis eas aedes, ex quibus proiectus est?"
+
+7. Sed si supra aedes, quas possideo, cenaculum sit, in quo alius quasi dominus moretur, interdicto uti possidetis me uti posse Labeo ait, non eum qui in cenaculo moretur: semper enim superficiem solo cedere. Plane si cenaculum ex publico aditum habeat, ait Labeo videri non ab eo aedes possideri, qui kruptas possideret, sed ab eo, cuius aedes supra kruptas essententiarum verum est hoc in eo, qui aditum ex publico habuit: ceterum superficiarii proprio interdicto et actionibus a praetore utetur. Dominus autem soli tam adversus alium quam adversus superficiarium potior erit interdicto uti possidetis: sed praetor superficiarium tuebitur secundum legem locationis: et ita Pomponius quoque probat.
+
+8. Creditores missos in possessionem rei servandae causa interdicto uti possidetis uti non posse, et merito, quia non possident: idemque et in ceteris omnibus, qui custodiae causa missi sunt in possessionem, dicendum est.
+
+9. Si vicinus meus in parte in pariete meo tectoria habeat et in parte sua, "uti possidetis" mihi efficax est ut ea tollere compellatur.
+
+10. Non videor vi possidere, qui ab eo, quem scirem vi in possessionem esse, fundum accipiam.
+
+11. In hoc interdicto condemnationis summa refertur ad rei ipsius aestimationem. "Quanti res est" sic accipimus "quanti uniuscuiusque interest possessionem retinere". Servii autem sententia est existimantis tanti possessionem aestimandam, quanti ipsa res est: sed hoc nequaquam opinandum est: longe enim aliud est rei pretium, aliud possessionis.
+
+43.17.4
+
+Ulpianus libro 70 ad edictum
+
+In summa puto dicendum et inter fructuarios hoc interdictum reddendum: et si alter usum fructum, alter possessionem sibi defendat. Idem erit probandum et si usus fructus quis sibi defendat possessionem, et ita Pomponius scribit. Perinde et si alter usum, alter fructum sibi tueatur, et his interdictum erit dandum.
+
+
+* 43.18.0. De superficiebus.
+
+
+43.18.1
+
+Ulpianus libro 70 ad edictum
+
+pr. Ait praetor: "Uti ex lege locationis sive conductionis superficie, qua de agitur, nec vi nec clam nec precario alter ab altero fruamini, quo minus fruamini, vim fieri veto. Si qua alia actio de superficie postulabitur, causa cognita dabo".
+
+1. Qui superficiem in alieno solo habet, civili actione subnixus est: nam si conduxit superficium, ex conducto, si emit, ex empto agere cum domino soli potest. Enim si ipse eum prohibeat, quod interest agendo consequetur: sin autem ab alio prohibeatur, praestare ei actiones suas debet dominus et cedere. Sed longe utile visum est, quia et incertum erat, an locati existeret, et quia melius est possidere potius quam in personam experiri, hoc interdictum proponere et quasi in rem actionem polliceri.
+
+2. Proponitur autem interdictum duplex exemplo interdicti uti possidetis. Tuetur itaque praetor eum, qui superficiem petit, veluti uti possidetis interdicto, neque exigit ab eo, quam causam possidendi habeat: unum tantum requirit, num forte vi clam precario ab adversario possideat. Omnia quoque, quae in uti possidetis interdicto servantur, hic quoque servabuntur.
+
+3. Quod ait praetor "si actio de superficie postulabitur, causa cognita dabo", sic intellegendum est, ut, si ad tempus quis superficiem conduxerit, negetur ei in rem actio. Et sane causa cognita ei, qui non ad modicum tempus conduxit superficiem, in rem actio competet.
+
+4. Is autem, in cuius solo superficies est, utique non indiget utili actione, sed habet in rem, qualem habet de solo. Plane si adversus superficiarium velit vindicare, dicendum est exceptione utendum in factum data: nam cui damus actionem, eidem et exceptionem competere multo magis quis dixerit.
+
+5. Si soli possessori superficies evincatur, aequissimum erit subvenire ei vel ex stipulatu de evictione vel certe ex empto actione.
+
+6. Quia autem etiam in rem actio de superficie dabitur, petitori quoque in superficiem dari et quasi usum fructum sive usum quendam eius esse et constitui posse per utiles actiones credendum est.
+
+7. Sed et tradi posse intellegendum est, ut et legari et donari possit.
+
+8. Et si duobus sit communis, etiam utile communi dividundo iudicium dabimus.
+
+9. Servitutes quoque praetorio iure constituentur et ipsae ad exemplum earum, quae ipso iure constitutae sunt, utilibus actionibus petentur: sed et interdictum de his utile competit.
+
+43.18.2
+
+Gaius libro 25 ad edictum provinciale
+
+Superficiarias aedes appellamus, quae in conducto solo positae sunt: quarum proprietas et civili et naturali iure eius est, cuius et solum.
+
+
+* 43.19.0. De itinere actuque privato.
+
+
+43.19.1
+
+Ulpianus libro 70 ad edictum
+
+pr. Praetor ait: "Quo itinere actuque privato, quo de agitur, vel via hoc anno nec vi nec clam nec precario ab illo usus es, quo minus ita utaris, vim fieri veto".
+
+1. Hoc interdictum prohibitorium est, pertinens ad tuendas rusticas tantummodo servitutes.
+
+2. Hoc interdicto praetor non inquirit, utrum habuit iure servitutem impositam an non, sed hoc tantum, an itinere actuque hoc anno usus sit non vi non clam non precario, et tuetur eum, licet eo tempore, quo interdictum redditur, usus non sit. Sive igitur habuit ius viae sive non habuit, in ea condicione est, ut ad tuitionem praetoris pertineat, si modo anno usus est vel modico tempore, id est non minus quam triginta diebus. Neque ad praesens tempus refertur usus, quia plerumque itineribus vel via non semper utimur, nisi cum usus exegerit ita.
+
+3. Annui temporis spatio conclusit usum. Annum ex die interdicti retrorsum computare debemus.
+
+4. Si quis hoc interdicto utatur, sufficit alterutrum probare vel iter vel actum in usu habuisse.
+
+5. Iulianus ait, quoad usque ingressus est, eo usque ei interdictum competere: quod verum est.
+
+6. Vivianus recte ait eum, qui propter incommoditatem rivi aut propterea, quia via publica interrupta erat, per proximi vicini agrum iter fecerit, quamvis id frequenter fecit, non videri omnino usum, itaque inutile esse interdictum, non quasi precario usum, sed quasi nec usum. Ergo secundum hoc neutro usus videtur: multo enim minus illo usus est, per quem non ivit propter incommoditatem rivi aut propterea, quia via praerupta erat. Idem erit dicendum et si non erat via publica, sed iter privatum: nam et hic eadem quaestio est.
+
+7. Is, cuius colonus aut hospes aut quis alius iter ad fundum fecit, usus videtur itinere vel actu vel via, et idcirco interdictum habebit: et haec ita Pedius scribit et adicit etiamsi ignoravit, cuius fundus esset, per quem iret, retinere eum servitutem.
+
+8. Si quis autem, cum putaret fundum ad se pertinere, suo nomine iter fecerit amicus meus, utique sibi, non mihi interdictum adquisisse intellegitur.
+
+9. Si quis propter inundationem usus non sit itinere actuque hoc anno, cum superiore usus sit, potest repetita die hoc interdicto uti per in integrum restitutionem ex illa parte "si qua mihi iusta causa esse videbitur". Sed et si per vim hoc ei contigerit, in integrum eum restitui oportere Marcellus probat. Praeterea et aliis casibus interdictum repetita die competit, ex quibus in integrum quis restitutionem impetrare solet.
+
+10. Praeterea sciendum est, si dilatione data adversario futurum est, ut causa interdicti mei deterior fiat, aequissimum esse repetita die reddi interdictum.
+
+11. Si tibi fundum precario concessero, cui via debebatur, deinde tu a domino fundi precario rogaveris, ut ea via ad eum fundum utaris: an noceat tibi exceptio, si adversus eum velis interdicere, a quo precario viam rogasti? Et magis est, ut noceat, idque colligi potest ex eo, quod Iulianus scribit in specie huiusmodi. Quaerit enim, si ego tibi fundum precario dedero, cui via debebatur, et tu rogaveris precario, ut ea via utaris: nihilo minus utile interdictum mihi esse, quia, sicuti me precarium rei meae non tenet, ita nec per te precario possidere intellegor: quotiens enim colonus meus aut is, cui precario fundum dedi, via utitur, ego ire intellegor, propter quod et recte dico me itinere usum. Quae ratio, inquit, efficit, ut et, si ego viam precario rogavero et tibi fundum precario dedero, quamvis hac mente ieris, quasi fundo meo deberetur, inutile esset interdictum et precario eo itinere usus esse videar, non immerito: non enim opinio tua, sed mea quaerenda est. Tu tamen, credo, poteris interdicto uti, etsi de hoc nihil scribat Iulianus.
+
+12. Si quis supra dicto tempore anni non vi non clam non precario itinere usus sit, verum postea non sit usus, sed clam precariove, videndum est, an ei noceat. Et magis est, ut nihil ei noceat, quod attinet ad interdictum:
+
+43.19.2
+
+Paulus libro 66 ad edictum
+
+Nec enim corrumpi aut mutari, quod recte transactum est, superveniente delicto potest.
+
+43.19.3
+
+Ulpianus libro 70 ad edictum
+
+pr. Inde etiam illud Labeo scribit: si, cum a me recte via utebaris, fundum vendidero, per quem utebaris, deinde emptor te prohibuit: licet clam videaris ab eo uti (nam qui prohibitus utitur, clam utitur), tamen interdictum tibi competere intra annum, quia hoc anno non vi non clam non precario usus es.
+
+1. Item sciendum est non tantum eum clam via uti, qui ipse prohibitus utitur, verum eum quoque, per quem quis id ius retinebat, si eo prohibito, per quem retinebat, utatur. Plane si ignoravi prohibitum et persevero uti, nihil mihi nocere dicendum est.
+
+2. Si quis ab auctore meo vi aut clam aut precario usus est, recte a me via uti prohibetur et interdictum ei inutile est, quia a me videtur vi vel clam vel precario possidere, qui ab auctore meo vitiose possidet. Nam et Pedius scribit, si vi aut clam aut precario ab eo sit usus, in cuius locum hereditate vel emptione aliove quo iure successi, idem esse dicendum: cum enim successerit quis in locum eorum, aequum non est nos noceri hoc, quod adversus eum non nocuit, in cuius locum successimus.
+
+3. In hoc interdicto examinatur, quanti eius interesset via non prohiberi sive itinere.
+
+4. Uti videmur servitutibus etiam per servos vel colonos vel amicos vel etiam hospites et fere per eos omnes, qui nobis retinent servitutes: sed enim per fructuarium quidem servitus retinetur, per fructuarium autem interdictum hoc domino non competere Iulianus ait.
+
+5. Idem Iulianus scribit, si meus usus fructus in fundo tuo, proprietas vero tua fuerit et uterque nostrum per vicini fundum ierit, utile interdictum de itinere nos habere: et sive forte ab extraneo fructuarius prohibeatur, sive etiam a domino, sed et si dominus a fructuario, competet: nam et si quilibet prohibeat ire, interdictum adversus eum competit.
+
+6. Hoc interdictum et ei competit, qui donationis causa fundi vacuam possessionem adeptus est.
+
+7. Si quis ex mandatu meo fundum emerit, aequissimum est mihi hoc interdictum dari "ut ille usus est" qui mandatu meo emit.
+
+8. Sed et si quis usum fructum emit vel usum vel cui legatus est et traditus, uti hoc interdicto poterit.
+
+9. Hoc amplius et is, cui dotis causa fundus traditus est, experiri hoc interdicto poterit.
+
+10. Et generaliter ex omnibus causis, quae instar habent venditionis vel alterius contractus, dicendum est hoc interdicto locum fore.
+
+11. Ait praetor: "Quo itinere actuque hoc anno non vi non clam non precario ab alio usus es, quo minus id iter actumque, ut tibi ius esset, reficias, vim fieri veto. Qui hoc interdicto uti volet, is adversario damni infecti, quod per eius vitium datum sit, caveat".
+
+12. Utilitas suasit hoc quoque interdictum proponere: namque consequens erat eum qui itinere utitur interdictum proponere, ut refici iter possit: quemadmodum enim alias uti potest itinere vel actu commode, quam si refecerit? Corrupto enim itinere minus commode frui aut agi potest.
+
+13. Hoc autem a superiori distat, quod illo quidem interdicto omnes uti possunt, qui hoc anno usi sunt: hoc autem interdicto eum demum uti posse, qui hoc anno usus est et ius sibi esse reficiendi oporteat. Ius autem esse videtur ei, cui servitus debetur. Itaque qui hoc interdicto utitur, duas res debet docere, et hoc anno se usum et ei servitutem competere: ceterum si desit alterutrum, deficit interdictum, nec immerito. Qui enim vult ire agere, tantisper, quoad de servitute constet, non debet de iure suo docere: quid enim perdit, qui eum patitur hoc facere qui hoc anno fecit? Enimvero qui vult reficere, aliquid novi facit neque debet ei in alieno permitti id moliri, nisi vere habet servitutem.
+
+14. Fieri autem potest, ut qui ius eundi habeat et agendi, reficiendi ius non habeat, quia in servitute constituenda cautum sit, ne ei reficiendi ius sit, aut sic, ut, si velit reficere, usque ad certum modum reficiendi ius sit: merito ergo ad refectionem se praetor rettulit: "ut tibi", inquit, "ius est, reficias". "Uti ius est" hoc est sic uti per servitutem impositam licet.
+
+15. Reficere sic accipimus ad pristinam formam iter et actum reducere, hoc est ne quis dilatet aut producat aut deprimat aut exaggeret: aliud est enim reficere, longe aliud facere.
+
+16. Apud Labeonem quaeritur, si pontem quis novum velit facere viae muniendae causa, an ei permittatur: et ait permittendum, quasi pars sit refectionis huiusmodi munitio. Et ego puto veram Labeonis sententiam, si modo sine hoc commeari non possit.
+
+43.19.4
+
+Venuleus libro primo interdictorum
+
+pr. Veteres nominatim adiciebant, ut ea quoque, quae ad refectionem utilia essent, adportanti vis non fieret: quod supervacuum est, quoniam qui adportari non patitur ea, sine quibus refici iter non possit, vim facere videtur, quo minus reficiatur.
+
+1. Si quis autem, cum posset compendiaria adportare, quae refectioni necessaria sunt longiori itinere velit adportare, ut deteriorem causam eundi faciat, impune ei vis fiet, quia ipse sibi impedimento sit, quo minus reficiat.
+
+43.19.5
+
+Ulpianus libro 20 ad edictum
+
+pr. Apparet ergo eum, qui non patitur haec congeri, vim facere, quo minus quis perficiat.
+
+1. Plane si quis, cum posset alia parte agri sine incommodo domini fundi impensam adportare, id egit, ut alia parte adportet, impune ei vim fieri recte placuit.
+
+2. Hoc interdictum non solum ipsi, verum successoribus quoque esse dandum non est ambigendum: emptori quoque dabitur et in emptorem.
+
+3. Si quis servitutem iure impositam non habeat, habeat autem velut longae possessionis praerogativam ex eo, quod diu usus est servitute, interdicto hoc uti potest.
+
+4. Qui hoc interdicto usurus est, de vitio operis cavere adversario debet.
+
+43.19.6
+
+Paulus libro 66 ad edictum
+
+Sicut non nocet ei, qui sine vitio usus est, quod eodem anno vitiose usus est, ita emptori heredique non nocebit, quod ipsi vitiose usi sunt, si testator venditorve recte usi sunt.
+
+43.19.7
+
+Celsus libro 25 digestorum
+
+Si per fundum tuum nec vi nec clam nec precario commeavit aliquis, non tamen tamquam id suo iure faceret, sed, si prohiberetur, non facturus, inutile est ei interdictum de itinere actuque: nam ut hoc interdictum competat, ius fundi possedisse oportet.
+
+
+* 43.20.0. De aqua cottidiana et aestiva.
+
+
+43.20.1
+
+Ulpianus libro 70 ad edictum
+
+pr. Ait praetor: "Uti hoc anno aquam, qua de agitur, non vi non clam non precario ab illo duxisti, quo minus ita ducas, vim fieri veto".
+
+1. Hoc interdictum prohibitorium et interdum restitutorium est et pertinet ad aquam cottidianam.
+
+2. Cottidiana autem aqua non illa est, quae cottidie ducitur, sed ea, qua quis cottidie uti, si vellet: quamquam cottidianam interdum hieme ducere non expediat, etsi possit duci.
+
+3. Duo autem genera sunt aquarum: est cottidiana, est et aestiva. Cottidiana ab aestiva usu differt, non iure. Cottidiana ea est, quae duci adsidue solet vel aestivo tempore vel hiberno, etiamsi aliquando ducta non est: ea quoque dicitur cottidiana, cuius servitus intermissione temporis divisa est. Aestiva autem ea est, qua aestate sola uti expedit, sicuti dicimus vestimenta aestiva, saltus aestivos, castra aestiva, quibus interdum etiam hieme, plerumque autem aestate utamur. Ego puto probandum ex proposito utentis et ex natura locorum aquam aestivam a cottidiana discerni: nam si sit ea aqua, quae perpetuo duci possit, ego tamen aestate sola ea utar, dicendum est hanc aquam esse aestivam: rursum si ea sit aqua, quae non nisi aestate duci possit, aestiva dicetur: et si ea sint loca, quae natura non admittant aquam nisi aestate, dicendum erit recte aestivam dici.
+
+4. Quod autem scriptum est in interdicto: "Uti hoc anno aquam duxisti" hoc est: non cottidie, sed hoc anno vel una die vel nocte. Ergo cottidiana quidem aqua alia est, quae cottidie duci possit, vel hieme vel aestate, etsi aliquo momento temporis ducta sit, aestiva ea, quae cottidie quidem duci possit, vel sola aestate, ducatur autem aestate tantum, non et hieme, non quia non possit et hieme, sed quia non solet.
+
+5. Loquitur autem praetor in hoc interdicto de ea aqua sola, quae perennis est: nulla enim alia aqua duci potest, nisi quae perennis est.
+
+6. Quamquam ad perennes aquas dixerimus hoc interdictum pertinere, ad eas tamen perennes pertinet, quae duci possunt. Ceterum sunt quaedam, quae, etsi perennes sunt, duci tamen non possunt, ut puta puteales et quae ita sunt summersae, ut defluere extra terram et usui esse non possint. Sed huiusmodi aquis, quae duci non possint, haustus servitus imponi potest.
+
+7. Haec interdicta de aqua, item de fonte ad eam aquam pertinere videntur, quae a capite ducitur, non aliunde: harum enim aquarum etiam servitus iure civili constitui potest.
+
+8. Caput aquae illud est, unde aqua nascitur: si ex fonte nascatur, ipse fons: si ex flumine vel lacu, prima incilia vel principia fossarum, quibus aquae ex flumine vel ex lacu in primum rivum compelli solent. Plane si aqua sudoribus manando in aliquem primum locum effluere atque ibi apparere incipit, eius hoc caput dicemus, ubi primum emergit.
+
+9. Et qualiter sit constitutum ius aquae, dicendum est hoc interdictum locum habere.
+
+10. Sed etsi iure aqua non debetur alicui, si tamen iure ducere se putavit, cum non in iure, sed in facto erravit, dicendum est eoque iure utimur, ut interdicto hoc uti possit: sufficit enim, si iure se ducere putavit nec vi nec clam nec precario duxit.
+
+11. Illud quaeritur, utrum ea tantum aqua his interdictis contineatur, quae ad agrum irrigandum pertinet, an vero omnis, etiam ea, quae ad usum quoque et commodum nostrum. Et hoc iure utimur, ut haec quoque contineatur. Propter quod etiam si in urbana praedia quis aquam ducere velit, hoc interdictum locum habere potest.
+
+12. Praeterea Labeo scribit, etsi quidam ductus aquarum non sit fundi, quia quocumque duci possint, tamen ad hoc interdictum pertinere.
+
+13. Idem Labeo scribit, etiamsi praetor hoc interdicto de aquis frigidis sentiat, tamen de calidis aquis interdicta non esse deneganda: namque harum quoque aquarum usum esse necessarium: nonnumquam enim refrigeratae usum irrigandis agris praestant. His accedit, quod in quibusdam locis et cum calidae sunt, irrigandis tamen agris necessariae sunt, ut Hierapoli: constat enim apud Hierapolitanos in Asia agrum aqua calida rigari. Et quamvis ea sit aqua, quae ad rigandos non sit necessaria, tamen nemo ambiget his interdictis locum fore.
+
+14. Sive autem intra urbem sit aqua sive extra urbem, hoc interdicto locus erit.
+
+15. Illud tamen hic intellegendum est eodem modo praetorem duci aquam iussisse, quo ducta est hoc anno. Proinde neque amplioris modi, neque alia permisisse potest videri. Quare si alia aqua sit, quam quis velit ducere, quam hoc anno duxit, vel eadem, per aliam tamen regionem velit ducere, impune ei vis fiet.
+
+16. Illud Labeo dicit omnes partes illius fundi, in quem loci aqua ducitur, eiusdem numero esse. Ergo et si forte actor confinem agrum emerit et ex agro, in quem hoc anno aquam duxerit, postea fundi empti nomine velit aquam ducere, ita demum eum recte hoc interdicto (ut de itinere actuque) uti putant, ut semel in suum ingressus inde egredi qua velit possit, nisi ei nocitum sit, ex quo aquam ducit.
+
+17. Item quaeritur, si quis aquae, quam hoc anno ducebat, aliam aquam admiscuerit, an impune prohibeatur. Et extat Ofilii sententia existimantis recte eum prohiberi, sed eo loci, in quo primum aquam aliam in rivum admittit: et Ofilius in tota aqua recte eum prohiberi ait. Ego Ofilio adsentio non posse dividi, quia non potest ita in parte vis fieri, ut non in tota aqua fiat.
+
+18. Trebatius, cum amplior numerus pecoris ad aquam appelletur, quam debet appelli, posse universum pecus impune prohiberi, quia iunctum pecus ei pecori, cui adpulsus debeatur, totum corrumpat pecoris adpulsum. Marcellus autem ait, si quis ius habens pecoris ad aquam appellendi plura pecora adpulserit, non in omnibus pecoribus eum prohibendum: quod est verum, quia pecora separari possunt.
+
+19. Aristo putat eum demum interdictum hoc habere, qui se putat suo iure uti, non eum, qui scit se nullum ius habere et utitur.
+
+20. Idem ait eum, qui hoc anno aquam duxerit nec vi nec clam nec precario et eodem anno vitiose usus est, recte tamen hoc interdicto usurum: quod referri ad id tempus, quod sine vitio fuerit: esse enim verum hoc anno non vi non clam non precario usum.
+
+21. Quaesitum est, si quis ante annum aquam duxit, deinde sequenti tempore, hoc est intra annum, aqua influxerit ipsa sibi me non ducente, an hoc interdicto locus sit. Et refert Severus Valerius competere ei hoc interdictum, quasi duxisse videatur, licet penitus prospicientibus non videtur iste duxisse.
+
+22. Item quaesitum est, si quis, dum putat tertio quoque die habere se ius aquae ducendae, duxerit una die, an recte et sine captione possessoris recte duxisse videatur, ut hoc interdictum habeat: ait enim praetor: "uti hoc anno aquam duxisti" id est alternis diebus. Illud autem nihil interest, utrum quinto die aqua debeatur an alternis diebus an cottidie ei, qui hoc interdicto uti velit: nam cum sufficiat vel uno die hoc anno aquam duxisse, nihil refert, qualem aquae ductum habens duxerit: dum, si quis, cum quinto quoque die uteretur, quasi alternis diebus ducens interdixerit, nihil ei prodesse videtur.
+
+23. Praeterea illud sciendum est, si, cum aquam duxisses, adversarius te prohibuerit, deinde tu interim ius aquae ducendae amiseris, in restitutionem hoc venire, ut tibi praestetur per hoc interdictum quod amisisti: et hoc verum puto.
+
+24. Si fundum, ad quem aquam ducebas, vendideris et tradideris, nihilo minus interdictum tibi utile est.
+
+25. Competit hoc interdictum adversus eum, qui prohibet me aquam ducere, et nihil interest, utrum quis dominium fundi habeat an non. Idcircoque is tenetur interdicto: nam et si servitus coepit adversus quemvis posse vindicari.
+
+26. Si inter rivales, id est qui per eundem rivum aquam ducunt, sit contentio de aquae usu, utroque suum usum esse contendente, duplex interdictum utrique competit.
+
+27. Labeo putat per hoc interdictum prohiberi quem, ne quid in illo fundo faciat fodiat serat succidat putet aedificet, quare ex re ea aqua, quam ille hoc anno per fundum tuum sine vitio duxit, inquinetur vitietur corrumpatur deteriorve fiat: et similiter de aestiva aqua debere interdici ait.
+
+28. Si quis hoc cesserit, ne liceat sibi aquam quaerere, ea cessio valet.
+
+29. Deinde ait praetor: "Uti priore aestate aquam, qua de agitur, nec vi nec clam nec precario ab illo duxisti, quo minus ita ducas, vim fieri veto. Inter heredes emptores et bonorum possessores interdicam".
+
+30. Hoc interdictum de aqua aestiva proponitur.
+
+31. Quia autem diximus aestivam aquam aliquo distare ab aqua cottidiana, sciendum est etiam interdictis distare, quod qui de aqua cottidiana interdicit, ita interdicit: "uti hoc anno aquam duxisti", at qui de aestiva, sic: "uti priore aestate", nec immerito: nam quia hieme non utitur, referre se non ad praesentem aestatem, sed ad priorem debuit.
+
+32. Aestatem incipere (sic peritiores tradiderunt) ab aequinoctio verno et finiri aequinoctio autumnali: et ita senis mensibus aestas atque hiems dividitur.
+
+33. Priorem aestatem ex comparatione duarum aestatium accipi.
+
+34. Propter hoc, si aestate interdicatur, nonnumquam annum et sex menses continere: quod ita contingit, si initio verni aequinoctii ducta sit aqua et sequenti aestate pridie aequinoctium autumnale interdicatur: et proinde, si hieme interdicatur, etiam in biennium haec res extendetur.
+
+35. Si quis hieme tantum aquam solitus fuit ducere, aestate non fuit solitus, utile interdictum ei competit.
+
+36. Qui hac aestate duxit, non superiore, utile interdictum habet.
+
+37. Ait praetor: "Inter heredes et emptores et bonorum possessores interdicam". Haec verba non solum ad aestivam aquam, verum etiam ad cottidianam quoque referenda esse sciendum est: nam sicuti de itinere actuque et successoribus dantur interdicta et emptori, ita haec quoque danda praetor putavit.
+
+38. Ait praetor: "Quo ex castello illi aquam ducere ab eo, cui eius rei ius fuit, permissum est, quo minus ita uti permissum est ducat, vim fieri veto. Quandoque de opere faciendo interdictum erit, damni infecti caveri iubebo".
+
+39. Hoc interdictum necessario propositum est. Namque superiora interdicta ad eos pertinent, qui a capite ducunt vel imposita servitute vel quia putant impositam: aequissimum visum est ei quoque, qui ex castello ducit, interdictum dari. Id est ex eo receptaculo, quod aquam publicam suscipit. Castellum accipe.
+
+40. Si ex castello permissum est, dandum erit interdictum:
+
+41. Permittitur autem aquam ex castello vel ex rivo vel ex quo alio loco publico ducere.
+
+42. Idque a principe conceditur: alii nulli competit ius aquae dandae.
+
+43. Et datur interdum praediis, interdum personis. Quod praediis datur, persona extincta non extinguitur: quod datur personis, cum personis amittitur ideoque neque ad alium dominum praediorum neque ad heredem vel qualemcumque successorem transit. Plane ei, ad quem dominium transit, impetrabile est: nam si docuerit praediis suis aquam debitam, etsi nomine eius fluxisse, a quo dominium ad se transiit, indubitate impetrat ius aquae ducendae, nec est hoc beneficium, sed iniuria, si quis forte non impetraverit.
+
+44. Meminisse autem debemus in hoc interdicto totam quaestionem finiri adsignationis: non enim praeparat hoc interdictum causam, ut superiora interdicta, nec ad possessionem temporariam pertinet, sed aut habet ius adsignatum sibi aut non habet, et interdictum totum finitur.
+
+43.20.2
+
+Pomponius libro 32 ad Sabinum
+
+Si diurnarum aut nocturnarum horarum aquae ductum habeam, non possum alia hora ducere, quam qua ius habeam ducendi.
+
+43.20.3
+
+Pomponius libro 34 ad Sabinum
+
+pr. Hoc iure utimur, ut etiam non ad irrigandum, sed pecoris causa vel amoenitatis aqua duci possit.
+
+1. Ex flumine aquam ducere plures possunt, ita tamen, ut vicinis non noceant, vel, si angustus amnis sit, etiam ei, qui in alia ripa sit.
+
+2. Si aquam ex flumine publico duxeris et flumen recesserit, non potes subsequi flumen, quia ei loco servitus imposita non sit, quamvis is locus meus sit. Sed si alluvione paulatim accesserit fundo tuo, subsequi potes, quia locus totus fluminis serviat ductioni. Sed si circumfluere coeperit mutato alveo, non potes, quia medius locus non serviat interruptaque sit servitus.
+
+3. Aqua, quae in rivo nascitur, tacite lucri fit ab eo qui ducit.
+
+4. Ductus aquae, cuius origo memoriam excessit, iure constituti loco habetur.
+
+5. Is, qui aquae cottidianae ius habet, vel fistulam in rivo ponere vel aliud quodlibet facere potest, dummodo ne fundum domino aut aquagium rivalibus deterius faciat.
+
+6. Si aqua ducatur, supra eam alia aqua per pontem, qui supra rivum factus sit, iure ducitur, dum inferiori rivo non noceatur.
+
+43.20.4
+
+Iulianus libro 41 digestorum
+
+Lucio Titio ex fonte meo ut aquam duceret, cessi: quaesitum est, an et Maevio cedere possim, ut per eundem aquae ductum aquam ducat: et si putaveris posse cedi per eundem aquae ductum duobus, quemadmodum uti debeant. Respondit: sicut iter actus via pluribus cedi vel simul vel separatim potest, ita aquae ducendae ius recte cedetur. Sed si inter eos, quibus aqua cessa est, non convenit, quemadmodum utantur, non erit iniquum utile iudicium reddi, sicut inter eos, ad quos usus fructus pertinet, utile communi dividundo iudicium reddi plerisque placuit.
+
+43.20.5
+
+Iulianus libro quarto ex Minicio
+
+pr. Cum constet non solum temporibus, sed etiam mensuris posse aquam dividi, potest eodem tempore alius cottidianam, alius aestivam aquam ducere, ita ut aestate dividatur inter eos aqua, hieme solus ducat is qui cottidianae ius habeat.
+
+1. Inter duos, qui eodem rivo aquam certis horis separatim ducebant, convenit, ut permutatis inter se temporibus aqua uterentur: quaero, cum amplius tempore servitutibus praefinito ita duxissent, ut neuter eorum suo tempore usus esset, num ius utendi amisissententiarum negavit amisisse.
+
+43.20.6
+
+Neratius libro tertio membranarum
+
+De interdicto de aqua aestiva, item cottidiana quaerentes primum constituendum existimabamus, quae esset aqua aestiva, de qua proprium interdictum ad prioris aestatis tempus relatum reddi solet, hoc est aestiva aqua utrumne ex iure aestivo dumtaxat tempore utendi diceretur, an ex mente propositoque ducentis, quod aestate eam ducendi consilium haberet, an ex natura ipsius aquae, quod aestate tantum duci potest, an ex utilitate locorum, in quae duceretur. Placebat igitur aquam ob has duas res, naturam suam utilitatemque locorum in quae deducitur, proprie appellari, ita ut, sive eius natura erit, ut nisi aestate duci non possit, etiamsi hieme quoque desideraretur, sive omni tempore anni duci eam ipsius natura permitteret, si utilitas personis, in quam ducitur, aestate dumtaxat usum eius exigeret, aestiva recte diceretur.
+
+43.20.7
+
+Paulus libro quinto sententiarum
+
+Si de via itinere actu aquae ductu agatur, huiusmodi cautio praestanda est, quamdiu quis de iure suo doceat, non se impediturum agentem et aquam ducentem et iter facientem. Quod si neget ius esse adversario agendi aquae ducendae, cavere sine praeiudicio amittendae servitutis debebit, donec quaestio finietur, non se usurum.
+
+43.20.8
+
+Scaevola libro singulari droon [definitionum ]
+
+Cui per fundum iter aquae debetur, quacumque vult in eo rivum licet faciat, dum ne aquae ductum interverteret.
+
+
+* 43.21.0. De rivis.
+
+
+43.21.1
+
+Ulpianus libro 70 ad edictum
+
+pr. Praetor ait: "Rivos specus septa reficere purgare aquae ducendae causa quo minus liceat illi, dum ne aliter aquam ducat, quam uti priore aestate non vi non clam non precario a te duxit, vim fieri veto".
+
+1. Hoc interdictum utilissimum est: nam nisi permittatur alicui reficere, alia ratione usu incommodabitur.
+
+2. Ait ergo praetor "rivum specus". Rivus est locus per longitudinem depressus, quo aqua decurrat, cui nomen est apo tou hrein.
+
+3. Specus autem est locus, ex quo despicitur: inde spectacula sunt dicta.
+
+4. Septa sunt, quae ad incile opponuntur aquae derivandae compellendaeve ex flumine causa, sive ea lignea sunt sive lapidea sive qualibet alia materia sint, ad continendam transmittendamque aquam excogitata.
+
+5. Incile est autem locus depressus ad latus fluminis, ex eo dictus, quod incidatur: inciditur enim vel lapis vel terra, unde primum aqua ex flumine agi possit. Sed et fossae et putei hoc interdicto continentur.
+
+6. Deinde ait praetor "reficere purgare". Reficere est quod corruptum est in pristinum statum restaurare. Verbo reficiendi tegere substruere sarcire aedificare, item advehere adportareque ea, quae ad eandem rem opus essententiarum continentur.
+
+7. Purgandi verbum plerique quidem putant ad eum rivum pertinere, qui integer est: et palam est et ad eum pertinere, qui refectione indiget: plerumque enim ut refectione, et purgatione indiget.
+
+8. "Aquae", inquit, "ducendae causa". Merito hoc additur, ut ei demum permittatur et reficere et purgare rivum, qui aquae ducendae causa id fecit.
+
+9. Hoc interdictum competit etiam ei, qui ius aquae ducendae non habet, si modo aut priore aestate aut eodem anno aquam duxerit, cum sufficiat non vi non clam non precario duxisse.
+
+10. Si quis terrenum rivum signinum, id est lapideum facere velit, videri eum non recte hoc interdicto uti: non enim reficit qui hoc facit: et ita Ofilio videtur.
+
+11. Proinde et si per alium locum velit ducere, impune prohibetur: sed et si eundem rivum deprimat vel adtollat aut dilatet vel extendat vel operiat apertum vel contra. Ego ceteros quidem impune prohiberi puto: at enim eum, qui operiat apertum vel contra, eum non puto prohibendum, nisi si quam maiorem utilitatem suam adversarius ostendat.
+
+43.21.2
+
+Paulus libro 66 ad edictum
+
+Labeo non posse ait ex aperto rivo terrenum fieri, quia commodum domino soli auferetur appellendi pecus vel hauriendi aquam: quod sibi non placere Pomponius ait, quia id domino magis ex occasione quam ex iure contingeret, nisi si ab initio in imponenda servitute id actum esset.
+
+43.21.3
+
+Ulpianus libro 70 ad edictum
+
+pr. Servius autem scribit aliter duci aquam, quae ante per specus ducta est, si nunc per apertum ducatur: nam si operis aliquid faciat quis, quo magis aquam conservet vel contineat, non impune prohiberi. Ego et in specu contra, si non maior utilitas versetur adversarii.
+
+1. Servius et Labeo scribunt, si rivum, qui ab initio terrenus fuit, quia aquam non continebat, cementicium velit facere, audiendum esse: sed et si eum rivum, qui structilis fuit, postea terrenum faciat aut partem rivi, aeque non esse prohibendum. Mihi videtur urguens et necessaria refectio esse admittenda.
+
+2. Si quis novum canalem vel fistulas in rivo velit collocare, cum id numquam habuerit, utile ei hoc interdictum futurum Labeo ait. Nos et hic opinamur utilitatem eius qui ducit sine incommoditate eius cuius ager est spectandam.
+
+3. Si aqua in unum lacum conducatur et inde per plures ductus ducatur, hoc interdictum utile erit volenti reficere ipsum lacum.
+
+4. Hoc interdictum ad omnes rivos pertinet, sive in publico sive in privato sint constituti.
+
+5. Sed et si calidae aquae rivus sit, de hoc reficiendo competit interdictum.
+
+6. Aristo et de cuniculo restituendo per quem vapor trahitur, in balnearis vaporibus putat utilem actionem competere: et erit dicendum utile interdictum ex hac causa competere.
+
+7. Isdem autem personis et in easdem interdictum hoc datur, quibus et in quas et de aqua interdicta redduntur, quae supra sunt enumerata.
+
+8. Si quis rivum reficienti opus novum nuntiat, belle dictum est posse contemni operis novi nuntiationem: cum enim praetor ei vim fieri vetet, absurdum est per operis novi nuntiationem eum impediri. Plane per in rem actionem dicendum est posse: adversus eum vindicari "ius ei non esse" dubium non est.
+
+9. De damno quoque infecto cavere eum debere minime dubitari oportet.
+
+10. Si quis eum exportare vehere, quae refectioni necessaria sunt, prohibeat, hoc interdictum ei competere ofilius putat, quod est verum.
+
+43.21.4
+
+Venuleus libro primo interdictorum
+
+De rivis reficiendis ita interdicetur, ut non quaeratur, an aquam ducere actori liceret: non enim tam necessariam refectionem itinerum quam rivorum esse, quando non refectis rivis omnis usus aquae auferretur et homines siti necarentur. Et sane aqua pervenire nisi refecto rivo non potest: at non refecto itinere difficultas tantum eundi agendique fieret, quae temporibus aestivis levior esset.
+
+
+* 43.22.0. De fonte.
+
+
+43.22.1
+
+Ulpianus libro 70 ad edictum
+
+pr. Praetor ait: "Uti de eo fonte, quo de agitur, hoc anno aqua nec vi nec clam nec precario ab illo usus es, quo minus ita utaris, vim fieri veto. De lacu puteo piscina item interdicam".
+
+1. Hoc interdictum proponitur ei, qui fontana aqua uti prohibetur: servitutes enim non tantum aquae ducendae esse solent, verum etiam hauriendae, et sicut discretae sunt servitutes ductus aquae et haustus aquae, ita interdicta separatim redduntur.
+
+2. Hoc autem interdictum locum habet, si quis uti prohibeatur aqua, hoc est sive haurire prohibeatur sive etiam pecus ad aquam appellere.
+
+3. Et eadem sunt hic dicenda, quae ad personam attinent, quaecumque in superioribus interdictis diximus.
+
+4. Hoc interdictum de cisterna non competit: nam cisterna non habet perpetuam causam nec vivam aquam. ex quo apparet in his omnibus exigendum, ut viva aqua sit: cisternae autem imbribus concipiuntur. Denique constat interdictum cessare, si lacus piscina puteus vivam aquam non habeat.
+
+5. Plane si quis ire ad haustum prohibeatur, aeque interdictum sufficiet.
+
+6. Deinde ait praetor: "Quo minus fontem, quo de agitur, purges reficias, ut aquam coercere utique ea possis, dum ne aliter utaris, atque uti hoc anno non vi non clam non precario ab illo usus es, vim fieri veto".
+
+7. Hoc interdictum eandem habet utilitatem, quam habet interdictum de rivis reficiendis: nisi enim purgare et reficere fontem licuerit, nullus usus eius erit.
+
+8. Purgandus autem et reficiendus est ad aquam coercendam, ut uti quis aqua possit, dummodo non aliter utatur, quam sic uti hoc anno usus est.
+
+9. Coercere aquam est continere sic, ne diffluat, ne dilabatur, dummodo non permittatur cui novas quaerere vel aperire: hic enim innovat aliquid praeter id, quam praecedenti anno usus est.
+
+10. Sed et de lacu puteo piscina reficiendis purgandis interdictum competit.
+
+11. Et omnibus personis dabitur, quibus permittitur interdictum de aqua aestiva.
+
+
+* 43.23.0. De cloacis.
+
+
+43.23.1
+
+Ulpianus libro 71 ad edictum
+
+pr. Praetor ait: "Quo minus illi cloacam quae ex aedibus eius in tuas pertinet, qua de agitur, purgare reficere liceat, vim fieri veto. Damni infecti, quod operis vitio factum sit, caveri iubebo".
+
+1. Sub hoc titulo duo interdicta praetor subiecit, unum prohibitorium, alterum restitutorium: et primum prohibitorium.
+
+2. Curavit autem praetor per haec interdicta, ut cloacae et purgentur et reficiantur, quorum utrumque et ad salubritatem civitatium et ad tutelam pertinet: nam et caelum pestilens et ruinas minantur immunditiae cloacarum, si non reficiantur.
+
+3. Hoc autem interdictum propositum est de cloacis privatis: publicae enim cloacae publicam curam merentur.
+
+4. Cloaca autem est locus cavus, per quem colluvies quaedam fluat.
+
+5. Hoc interdictum, quod primum proponitur, prohibitorium est, quo prohibetur vicinus vim facere, quo minus cloaca purgetur et reficiatur.
+
+6. Cloacae appellatione et tubus et fistula continetur.
+
+7. Quia autem cloacarum refectio et purgatio ad publicam utilitatem spectare videtur, idcirco placuit non esse in interdicto addendum "quod non vi non clam non precario ab illo usus", ut, etiamsi quis talem usum habuerit, tamen non prohibeatur volens cloacam reficere vel purgare.
+
+8. Deinde ait praetor "quae ex aedibus eius in tuas pertinet". Aedes hic accipere debes pro omni aedificio, hoc est ex aedificio eius in tuum aedificium. Hoc amplius Labeo putabat hoc interdicto locum esse et si area ab utralibet parte aedium sit et si forte, inquit, cloaca ducta sit ex urbano aedificio in proximum agrum.
+
+9. Idem Labeo etiam eum, qui privatam cloacam in publicam immittere velit, tuendum, ne ei vis fiat. Sed et si quis velit talem cloacam facere, ut exitum habeat in publicam cloacam, non esse eum impediendum Pomponius scribit.
+
+10. Quod ait praetor "pertinet" hoc significat, quod ex aedibus eius in tuas pertinet, hoc est "derigitur, extenditur, pervenit".
+
+11. Et tam ad proximum vicinum hoc interdictum pertinet quam adversus ulteriores, per quorum aedes cloaca currit.
+
+12. Unde Fabius Mela scribit competere hoc interdictum, ut in vicini aedes veniat et rescindat pavimenta purgandae cloacae gratia. Verendum tamen esse Pomponius scribit, ne eo casu damni infecti stipulatio committatur. Sed haec stipulatio non committitur, si paratus sit restaurare id, quod ex necessitate reficiendae cloacae causa resciderat.
+
+13. Si quis purganti mihi cloacam vel reficienti opus novum nuntiaverit, rectissime dicetur contempta nuntiatione me posse reficere id quod institueram.
+
+14. Sed et damni infecti cautionem pollicetur, si quid operis vitio factum est: nam sicuti reficere cloacas et purgare permittendum fuit, ita dicendum, ne damnum aedibus alienis detur.
+
+15. Deinde ait praetor: "Quod in cloaca publica factum sive ea immissum habes, quo usus eius deterior sit fiat, restituas. Item ne quid fiat immittaturve, interdicam".
+
+16. Hoc interdictum ad publicas cloacas pertinet, ne quid ad cloacam immittas neve facias, quo usus deterior sit neve fiat.
+
+43.23.2
+
+Venuleus libro primo interdictorum
+
+Quamquam de reficienda cloaca, non etiam de nova facienda hoc interdicto comprehendatur, tamen aeque interdicendum Labeo ait, ne facienti cloacam vis fiat, quia eadem utilitas sit: praetorem enim sic interdixisse, ne vis fieret, quo minus cloacam in publico facere liceret: idque ofilio et trebatio placuisse. Ipse dicendum ait, ut ne factam cloacam purgare et restituere permittendum sit per interdictum, novam vero facere is demum concedere debeat, cui viarum publicarum cura sit.
+
+
+* 43.24.0. Quod vi aut clam.
+
+
+43.24.1
+
+Ulpianus libro 71 ad edictum
+
+pr. Praetor ait: "Quod vi aut clam factum est, qua de re agitur, id cum experiendi potestas est, restituas".
+
+1. Hoc interdictum restitutorium est et per hoc occursum est calliditati eorum, qui vi aut clam quaedam moliuntur: iubentur enim ea restituere.
+
+2. Et parvi refert, utrum ius habuerit faciendi, an non: sive enim ius habuit sive non, tamen tenetur interdicto, propter quod vi aut clam fecit: tueri enim ius suum debuit, non iniuriam comminisci.
+
+3. Denique est quaesitum, an hoc interdicto utenti exceptionem possit obicere: "Quod non iure meo receperim". Et magis est, ne possit: nam adversus vim vel quod clam factum est nulla iusta exceptione se tueri potest.
+
+4. Hoc interdictum ad ea sola opera pertinet, quaecumque in solo vi aut clam fiunt.
+
+5. Quid sit vi factum vel clam factum, videamus. Vi factum videri Quintus Mucius scripsit, si quis contra quam prohiberetur fecerit: et mihi videtur plena esse Quinti Mucii definitio.
+
+6. Sed et si quis iactu vel minimi lapilli prohibitus facere perseveravit facere, hunc quoque vi fecisse videri Pedius et Pomponius scribunt, eoque iure utimur.
+
+7. Sed et si contra testationem denuntiationemque fecerit, idem esse Cascellius et Trebatius putant: quod verum est.
+
+8. Sed et Aristo ait eum quoque vi facere, qui, cum sciret se prohibitum iri, per vim molitus est, ne prohiberi possit.
+
+9. Item Labeo dicit, si quem facientem prohibuero isque destiterit in praesentiarum rursusque postea facere coeperit, vi eum videri fecisse, nisi permissu meo facere coeperit vel qua alia iusta causa accedente.
+
+10. Si quis tamen inbecillitate impeditur vel etiam, ne offenderet vel te vel eum, qui te magni faciebat, ideo non venerit ad prohibendum, non videbitur adversarius vi fecisse: et ita Labeo scribit.
+
+11. Idem ait et si te volentem ad prohibendum venire deterruerit aliquis (armis forte) sine ullo dolo malo meo ac propter hoc non veneris, non videri me vim fecisse,
+
+43.24.2
+
+Venuleus libro secundo interdictorum
+
+Ne in aliena potestate sit condicionem meam nihil delinquentis deteriorem facere.
+
+43.24.3
+
+Ulpianus libro 71 ad edictum
+
+pr. Prohibere autem non utique per semet ipsum necesse est, sed et si quis per servum suum vel procuratorem prohibuerit, recte videtur prohibuisse. Idem etiam si mercennarius meus prohibuerit. Nec quem moveat, quod per liberam personam actio adquiri non solet: nam prohibitio haec demonstrat vi te facere, quid mirum, cum et si clam tu me feceris, habeam actionem? Ergo facto magis tuo delinquentis quam alieno adquiritur mihi actio.
+
+1. Illud sciendum est non omnibus momentis vim esse faciendam, sed semel inter initia facta perseverat.
+
+2. Sed si permiserit, adversus eum, qui utatur interdicto, exceptio erit necessaria.
+
+3. Non tantum autem si ego permisero, sed et si procurator meus vel tutor qui tutelam administrat vel curator pupilli furiosi sive adulescentis, dicendum erit exceptioni locum fore.
+
+4. Plane si praeses vel curator rei publicae permiserit in publico facere, Nerva scribit exceptionem locum non habere, quia etsi ei locorum, inquit, publicorum procuratio data est, concessio tamen data non est. Hoc ita verum est, si non lex municipalis curatori rei publicae amplius concedat. Sed et si a principe vel ab eo, cui princeps hoc ius concedendi dederit idem erit probandum.
+
+5. Si quis paratus sit se iudicio defendere adversus eos, qui interdicendum putant, ne opus fiat: an videatur desinere vi facere? Et magis est, ut desinat, si modo satis offerat et defendere paratus est, si quis agat: et ita Sabinus scribit.
+
+6. Sed et si quis damni infecti paratus sit cavere, cum propter hoc tantum esset prohibitus, vel quia non defendebat vel damni infecti non repromittebat, consequens est dicere desinere eum vi facere.
+
+7. lam facere videri Cassius scribit eum, qui celavit adversarium neque ei denuntiavit, si modo timuit eius controversiam aut debuit timere.
+
+8. Idem Aristo putat eum quoque clam facere, qui celandi animo habet eum, quem prohibiturum se intellexerit et id existimat aut existimare debet se prohibitum iri.
+
+43.24.4
+
+Venuleus libro secundo interdictorum
+
+Servius etiam eum clam facere, qui existimare debeat sibi controversiam futuram, quia non opinionem cuius et resupinam existimationem esse oporteat, ne melioris condicionis sint stulti quam periti.
+
+43.24.5
+
+Ulpianus libro 70 ad edictum
+
+pr. Aut qui aliter fecit, quam denuntiavit: vel qui decepto facit eo, ad quem pertinuit non facere: vel consulto tum denuntiat adversario, cum eum scit non posse prohibere: vel tam sero pronuntiat, ut venire prohibiturus, prius quam fiat, non possit. Et haec ita Labeonem probare Aristo ait.
+
+1. Si quis se denuntiaverit opus facturum, non semper non videtur clam fecisse, si post denuntiationem fecerit: debebit enim (et ita Labeo) et diem et horam denuntiatione complecti et ubi et quod opus futurum sit: neque perfusorie aut obscure dicere aut denuntiare: neque tam artare adversarium, ut intra diem occurrere ad prohibendum non possit.
+
+2. Et si forte non sit, cui denuntietur, neque dolo malo factum sit ne sit, amicis denique aut procuratori aut ad domum denuntiandum est.
+
+3. Sed et servius recte ait sufficere feminae viro notum facere opus se facturum: vel denique sciente eo facere: quamquam etiam illud sufficiat celandi animum non habere.
+
+4. Item ait, si quis in publico municipii velit facere, sufficere ei, si curatori rei publicae denuntiet.
+
+5. Si quis, dum putat locum tuum esse, qui est meus, celandi tui, non mei causa fecerit, mihi interdictum competere.
+
+6. Idem dicit et si servi mei vel procuratoris celandi causa factum sit, mihi interdictum competere.
+
+7. Si quis, cum non denuntiasset opus se facturum eique denuntiatum esset ne faceret, fecerit, utilius puto probandum vi eum fecisse.
+
+8. Haec verba "quod vi aut clam factum est" ait Mucius ita esse "quod tu aut tuorum quis aut tuo iussu factum est".
+
+9. Labeo autem ait plures personas contineri his verbis. Nam ecce primum heredes eorum, quos enumerat Mucius, contineri putat.
+
+10. Idem ait et adversus procuratorem tutorem curatorem municipumve syndicum alieno nomine interdici posse.
+
+11. Si quid servus meus fecit, non ob id mecum actio est, sed si id meo nomine aut suo fecit: nam si tuum servum mercennarium habuero, quidquid ab eo factum fuerit meo nomine, ob id non tecum, sed mecum, cuius iussu aut nomine id opus a servo tuo factum fuerit, agendum erit hoc interdicto.
+
+12. Similiter quod iussu cuius factum erit, ob id non cum eo, sed cuius nomine iusserit, haec actio est. Nam si procurator tutor curator duumvir municipii, quod eius nomine ageret, cuius negotium procuraret, fieri iusserit, ob id agendum erit cum eo, cuius nomine factum quid erit, non cum eo, qui ita iusserit. Et si tibi mandavero, ut opus fieri iuberes et in ea re mihi parueris, mecum, inquit, non tecum erit actio.
+
+13. Et cum interdictum sic sit scriptum "quod vi aut clam factum est", non ita "quod vi aut clam fecisti", latius porrigi quam ad has personas, quas supra numeravimus, Labeo putat.
+
+14. Et hoc iure utimur, ut, sive ego fecissem dive fieri iussi, interdicto quod vi aut clam tenear.
+
+43.24.6
+
+Paulus libro 67 ad edictum
+
+Si ego tibi mandavero opus novum facere, tu alii, non potest videri meo iussu factum: teneberis ergo tu et ille: an et ego tenear, videamus. Et magis est et me, qui initium rei praestiterim, teneri: sed uno ex his satisfaciente ceteri liberantur.
+
+43.24.7
+
+Ulpianus libro 71 ad edictum
+
+pr. Si alius fecerit me invito, tenebor ad hoc, ut patientiam praestem.
+
+1. Neratius quoque scribit eum, cuius servus vi aut clam fecit, aut sua impensa ex interdicto opus restituere debere aut patientiam restituendi praestare et servum noxae dedere: plane si mortuo alienatove servo interdiceretur, patientiam dumtaxat praestare debere ait, ita ut et emptor eo interdicto possit conveniri, ut impensam praestet aut noxam det: dominoque operis sua impensa restituente aut damnato, quia non restitueret, emptorem liberari. Eadem et si contra dominus servi vel opus restituisset vel litis aestimatione damnatus esset: quod si tantum noxae dedisset, adversus dominum operis utiliter interdici.
+
+2. Ait Iulianus: qui ante remissionem nuntiationis, contra quam prohibitus fuerit, opus fecerit, duobus interdictis tenebitur, uno, quod ex operis novi nuntiatione competit, altero quod vi aut clam. Remissione autem facta intellegendus non erit vi aut clam facere, quamvis prohibeatur: licere enim debet aedificare ei, qui satisdederit, cum possessor hoc ipso constituatur: clamque facere nec ante remissionem nec postea existimandus est, cum is, qui opus novum nuntiat, non possit videri celatus et praeoccupatus, antequam controversiam faceret.
+
+3. Bellissime apud Iulianum quaeritur, an haec exceptio noceat in hoc interdicto "quod non tu vi aut clam feceris?" ut puta utor adversus te interdicto quod vi aut clam, an possis obicere mihi eandem exceptionem: "quod non tu vi aut clam fecisti?" Et ait Iulianus aequissimum esse hanc exceptionem dare: nam si tu, inquit, aedificaveris vi aut clam, ego idem demolitus fuero vi aut clam et utaris adversus me interdicto, hanc exceptionem profuturam. Quod non aliter procedere debet, nisi ex magna et satis necessaria causa: alioquin haec omnia officio iudicis celebrari oportet.
+
+4. Est et alia exceptio, de qua Celsus dubitat, an sit obicienda: ut puta si incendii arcendi causa vicini aedes intercidi et quod vi aut clam mecum agatur aut damni iniuria. Gallus enim dubitat, an excipi oporteret: "Quod incendii defendendi causa factum non sit?" Servius autem ait, si id magistratus fecisset, dandam esse, privato non esse idem concedendum: si tamen quid vi aut clam factum sit neque ignis usque eo pervenisset, simpli litem aestimandam: si pervenisset, absolvi eum oportere. Idem ait esse, si damni iniuria actum foret, quoniam nullam iniuriam aut damnum dare videtur aeque perituris aedibus. Quod si nullo incendio id feceris, deinde postea incendium ortum fuerit, non idem erit dicendum, quia non ex post facto, sed ex praesenti statu, damnum factum sit nec ne, aestimari oportere Labeo ait.
+
+5. Notavimus supra, quod, quamvis verba interdicti late pateant, tamen ad ea sola opera pertinere interdictum placere, quaecumque fiant in solo. Eum enim, qui fructum tangit, non teneri interdicto quod vi aut clam: nullum enim opus in solo facit. At qui arbores succidit, utique tenebitur, et qui harundinem et qui salictum: terrae enim et quodammodo solo ipsi corrumpendo manus infert. Idem et in vineis succisis. Ceterum qui fructum aufert, furti debet conveniri. Itaque si quid operis in solo fiat, interdictum locum habet. In solo fieri accipimus et si quid circa arbores fiat, non si quid circa fructum arborum.
+
+6. Si quis acervum stercoris circa agrum pinguem disiecerit, cum eo "quod vi aut clam factum est" agi potest: et hoc verum est, quia solo vitium adhibitum sit.
+
+7. Plane si quid agri colendi causa factum sit, interdictum quod vi aut clam locum non habet, si melior causa facta sit agri, quamvis prohibitus quis vi vel clam fecerit.
+
+8. Praeterea si fossam feceris in silva publica et bos meus in eam inciderit, agere possum hoc interdicto, quia in publico factum est.
+
+9. Si quis aedificium demolitus fuerit, quamvis non usque ad solum, quin interdicto teneatur, dubitari desiit.
+
+10. Proinde et si tegulas de aedificio sustulerit, magis est, ut interdicto teneatur,
+
+43.24.8
+
+Venuleus libro secundo interdictorum
+
+Nam origo huius rei a solo proficiscitur. Ceterum per se tegulae non possidentur, sed cum universitate aedificii, nec ad rem pertinet, adfixae sunt an tantum positae.
+
+43.24.9
+
+Ulpianus libro 71 ad edictum
+
+pr. Nam et si ramos quis de arboribus abstulerit, adhuc interdictum hoc admittimus. Haec ita, si de aedificio tegulas sustulerit: ceterum si non de aedificio, sed seorsum positas, cessat hoc interdictum.
+
+1. Si tamen sera vel clavis vel cancellus vel specularium sit ablatum, quod vi aut clam agi non poterit.
+
+2. Sed si quis aliquid aedibus adfixum evellerit, statuam forte vel quid aliud, quod vi aut clam interdicto tenebitur.
+
+3. Si quis clam aut vi agrum intraverit vel fossam fecerit, hoc interdicto tenebitur. Et si acervum succenderit vel disperserit sic, ut non ad usum agri convertat, interdicto locus non erit,
+
+43.24.10
+
+Venuleus libro secundo interdictorum
+
+Quia acervus solo non cohaeret, sed terra sustinetur, aedificia autem solo cohaerent.
+
+43.24.11
+
+Ulpianus libro 71 ad edictum
+
+pr. Is qui in puteum vicini aliquid effuderit, ut hoc facto aquam corrumperet, ait Labeo interdicto quod vi aut clam eum teneri: portio enim agri videtur aqua viva, quemadmodum si quid operis in aqua fecisset.
+
+1. Quaesitum est, si statuam in municipio ex loco publico quis sustulerit vel vi vel clam, an hoc interdicto teneatur. Et exstat cassii sententia eum, cuius statua in loco publico in municipio posita sit, quod vi aut clam agere posse, quia interfuerit eius eam non tolli: municipes autem etiam furti acturos, quia res eorum sit quasi publicata: si tamen deciderit, ipsi eam detrahunt: et haec sententia vera est.
+
+2. Si quis de monumento statuam sustulerit, an ei, ad quem ius sepulchri pertineret, agere permittitur? Et placet et in his interdicto locum esse. Et sane dicendum est, si qua sepulchri ornandi causa adposita sint, sepulchri esse videri. Idem est et si ostium avellat vel effringat.
+
+3. Si quis in vineas meas venerit et inde ridicas abstulerit, hoc interdicto tenebitur.
+
+4. Quod ait praetor: "Quod vi aut clam factum est", ad quod tempus referatur, videamus, utrum ad praeteritum an ad praesens. Quae species apud Iulianum exposita est: ait enim in hoc interdicto praesentis temporis significationem accipi debere. Si tamen, inquit, ex opere damnum datum fuerit aut dominus aut is, cuius fundo nocitum erit, sua impensa id sustulerit, utilius probari, quod Iulianus temptat, ut et damnum sarciatur et impendia restituantur.
+
+5. Interdictum complectitur id, quodcumque aut vi aut clam factum est. Sed interdum evenit, ut quid et vi et clam fiat, partim et partim, in eodem opere. Ut puta cum prohiberem, fundamenta posuisti: postea cum convenissem, ne reliquum opus fieret, absente et ignorante me reliquum opus perfecisti: vel contra fundamenta clam iecisti, deinde cetera prohibente me aedificasti. Hoc iure utimur, ut et si vi et clam factum sit, interdictum hoc sufficiat.
+
+6. Si tutoris iussu aut curatoris factum sit, cum placeat, quod Cassius probat, ex dolo tutoris vel curatoris pupillum vel furiosum non teneri, eveniet, ut in ipsum tutorem curatoremque aut utilis actio competat aut etiam utile interdictum. Certe ad patientiam tollendi operis utique tenebuntur pupillus et furiosus et ad noxam.
+
+7. An ignoscitur servo, qui obtemperavit tutori aut curatori? Nam ad quaedam, quae non habent atrocitatem facinoris vel sceleris, ignoscitur servis, si vel dominis vel his, qui vice dominorum sunt, obtemperaverint. Quod et in hoc casu admittendum est.
+
+8. Si postea, quam vi aut clam factum est, venierit fundus, an venditor nihilo minus hoc interdicto experiri possit, videamus. Et extat sententia existimantium nihilo minus competere ei interdictum nec finiri venditione: sed nec ex empto actione quicquam ei praestandum emptori ex eo opere, quod ante venditionem factum est: satis enim esse, quod utique propter hoc opus viliori praedium distraxerit. Certe etsi non viliori vendidit, idem erit probandum.
+
+9. Plane si post venditionem fundi opus factum est, etsi ipse experiatur venditor, quia nondum traditio facta est, tamen ex empto actione emptori tenebitur: omne enim et commodum et incommodum ad emptorem pertinere debet.
+
+10. Si fundus in diem addictus sit, cui competat interdictum? Et ait Iulianus interdictum quod vi aut clam ei competere, cuius interfuit opus non fieri: fundo enim in diem addicto et commodum et incommodum omne ad emptorem, inquit, pertinet, antequam venditio transferatur, et ideo, si quid tunc vi aut clam factum est, quamvis melior condicio allata fuerit, ipse utile interdictum habebit: sed eam actionem sicut fructus medio tempore perceptos venditi iudicio praestare cogendum ait.
+
+11. Aristo autem scribit non possessori esse denuntiandum: nam si quis, inquit, fundum mihi vendiderit et necdum tradiderit et vicinus, cum opus facere vellet et sciret me emisse et in fundo morari, mihi denuntiaverit, esse eum tutum futurum, quod ad suspicionem clam facti operis pertineret: quod sane verum est.
+
+12. Ego, si post in diem addictionem factam fundus precario traditus sit, putem emptorem interdictum quod vi aut clam habere. Si vero aut nondum traditio facta est aut etiam facta est precarii rogatio, non puto dubitandum, quin venditor interdictum habeat: ei enim competere debet, etsi res ipsius periculo non sit, nec multum facit, quod res emptoris periculo est: nam et statim post venditionem contractam periculum ad emptorem spectat et tamen antequam ulla traditio fiat, nemo dixit interdictum ei competere. Si tamen precario sit in possessione, videamus, ne, quia interest ipsius, qualiter qualiter possidet, iam interdicto uti possit. Ergo et si conduxit, multo magis: nam et colonum posse interdicto experiri in dubium non venit. Plane si postea, quam melior condicio allata est, aliquid operis vi aut clam factum sit, nec Iulianus dubitaret interdictum venditori competere: nam inter Cassium et Iulianum de illo, quod medio tempore accidit, quaestio est, non de eo opere, quod postea contigit.
+
+13. Si ita praedium venierit, ut, si displicuisset, inemptum esset, facilius admittimus interdictum emptorem habere, si modo est in possessione: et si rescissio emptionis in alterius arbitrium conferatur, idem erit probandum: idemque et si ita venisset, ut, si aliquid evenisset, inemptum esset praedium: et si forte commissoria venierit, idem dicendum est.
+
+14. Idem Iulianus scribit interdictum hoc non solum domino praedii, sed etiam his, quorum interest opus factum non esse, competere.
+
+43.24.12
+
+Venuleus libro secundo interdictorum
+
+Quamquam autem colonus et fructuarius fructuum nomine in hoc interdictum admittantur, tamen et domino id competet, si quid praeterea eius intersit.
+
+43.24.13
+
+Ulpianus libro 71 ad edictum
+
+pr. Denique si arbores in fundo, cuius usus fructus ad Titium pertinet, ab extraneo vel a proprietario succisae fuerint, Titius et lege Aquilia et interdicto quod vi aut clam cum utroque eorum recte experietur.
+
+1. Labeo scribit, si filio prohibente opus factum sit, et te habere interdictum, ac si te prohibente opus factum est, et filium tuum nihilo minus.
+
+2. Idem ait adversus filium familias in re peculiari neminem clam videri fecisse: namque, si scit eum filium familias esse, non videtur eius celandi gratia fecisse, quem certus est nullam secum actionem habere.
+
+3. Si ex sociis communis fundi unus arbores succiderit, socius cum eo hoc interdicto experiri potest, cum ei competat, cuius interest.
+
+4. Unde apud servium amplius relatum est, si mihi concesseris, ut ex fundo tuo arbores caedam, deinde eas alius vi aut clam ceciderit, mihi hoc interdictum competere, quia ego sim cuius interest: quod facilius erit admittendum, si a te emi vel ex aliquo contractu hoc consecutus sim, ut mihi caedere liceat.
+
+5. Quaesitum est, si, cum praedium interim nullius esset, aliquid vi aut clam factum sit, an postea dominio ad aliquem devoluto interdicto locus sit: ut puta hereditas iacebat, postea adiit hereditatem titius, an ei interdictum competat? Et est apud Vivianum saepissime relatum heredi competere hoc interdictum eius, quod ante aditam hereditatem factum sit, nec referre Labeo ait, quod non scierit, qui heredes futuri essent: hoc enim posse quem causari etiam post aditam hereditatem. Ne illud quidem obstare Labeo ait, quod eo tempore nemo dominus fuerit: nam et sepulchri nemo dominus fuit et tamen, si quid in eo fiat, experiri possum quod vi aut clam. Accedit his, quod hereditas dominae locum optinet. Et recte dicetur heredi quoque competere et ceteris successoribus, sive ante, quam successerit, sive postea aliquid sit vi aut clam admissum.
+
+6. Si colonus meus opus fecerit, si quidem me volente vel ratum habente, perinde est atque si procurator meus fecisset, in quo placet, sive ex voluntate mea fecerit, teneri me, sive ratum habuero, quod procurator fecit.
+
+7. Iulianus ait: si colonus arborem, de qua controversia erat, succiderat vel quid aliud opus fecerit, si quidem iussu domini id factum sit, ambo tenebuntur, non ut patientiam praestent, sed ut impensam quoque ad restituendum praebeant: si autem dominus non iusserit, colonus quidem tenebitur, ut patientiam et impensam praestet, dominus vero nihil amplius quam patientiam praestare cogendus erit.
+
+43.24.14
+
+Iulianus libro 68 digestorum
+
+Nam et si servus meus ignorante me opus fecerit eumque vendidero vel manumisero, mecum in hoc solum agi poterit, ut patiar opus tolli, cum emptore autem servi, ut aut noxae dedat aut impensam, quae in restitutione facta fuerit, praestet: sed et cum ipso manumisso recte agi poterit.
+
+43.24.15
+
+Ulpianus libro 71 ad edictum
+
+pr. Semper adversus possessorem operis hoc interdictum competit, idcircoque, si quilibet inscio vel etiam invito me opus in fundo meo fecerit, interdicto locus erit.
+
+1. Is, cui fundum pastinandum locaveras, lapides sustulit et in vicini proiecit praedium. Ait Labeo te vi aut clam non teneri, nisi iussu tuo id factum sit: ego puto conductorem teneri, locatorem autem non alias, nisi aut patientiam praestare possit aut aliquam actionem habeat, quam praestet: ceterum teneri non oportere.
+
+2. Si in sepulchro alieno terra congesta fuerit iussu meo, agendum esse quod vi aut clam mecum Labeo scribit. Et si communi consilio plurium id factum sit, licere vel cum uno vel cum singulis experiri: opus enim, quod a pluribus pro indiviso factum est, singulos in solidum obligare. Si tamen proprio quis eorum consilio hoc fecerit, cum omnibus esse agendum, scilicet in solidum: itaque alter conventus alterum non liberabit, quin immo perceptio ab altero: superiore etenim casu alterius conventio alterum liberat. Praeterea sepulchri quoque violati agi potest.
+
+3. Hoc interdictum in heredem ceterosque successores datur in id quod ad eos pervenit.
+
+4. Et post annum non competit. annus autem cedere incipit, ex quo id opus factum perfectum est aut fieri desiit, licet perfectum non sit: alioquin si a principio operis coepti annum quis numeret, necesse est cum his, qui opus tardissime facerent, saepius agi.
+
+5. Sed si is sit locus, in quo opus factum est, qui facile non adiretur, ut puta in sepulchro vi aut clam factum est vel in abdito alio loco, sed et si sub terra fieret opus vel sub aqua, vel cloaca aliquid factum sit, etiam post annum causa cognita competit interdictum de eo quod factum est: nam causa cognita annuam exceptionem remittendam, hoc est magna et iusta causa ignorantiae interveniente.
+
+6. Si quis rei publicae causa afuisset, deinde reversus interdicto quod vi aut clam uti vellet, verius est non excludi anno eum, sed reversum annum habere. Nam et si minor viginti quinque annis rei publicae causa abesse coepisset, deinde maior effectus sit, dum abest rei publicae causa, futurum, ut ex quo redit annus ei computetur, non ex quo implevit vicensimum quintum annum: et ita divus pius et deinceps omnes principes rescripserunt.
+
+7. Hoc interdicto tanti lis aestimatur, quanti actoris interest id opus factum esse. Officio autem iudicis ita oportere fieri restitutionem iudicandum est, ut in omni causa eadem condicio sit actoris, quae futura esset, si id opus, de quo actum est, neque vi neque clam factum esset.
+
+8. Ergo nonnumquam etiam dominii ratio habenda est, ut puta si propter hoc opus, quod factum est, servitutes amittantur aut usus fructus intereat. Quod non tantum tunc eveniet, cum quis opus aedificaverit, verum etiam si diruisse opus proponatur et deteriorem condicionem fecisse vel servitutium vel usus fructus vel ipsius proprietatis.
+
+9. Sed quod interfuit, aut per iusiurandum, quod in litem actor iuraverit, aut, si iurare non possit, iudicis officio aestimandum est.
+
+10. Eum autem, qui dolo malo fecerit, quo minus possit restituere, perinde habendum, ac si posset.
+
+11. Culpam quoque in hoc interdicto venire erit probandum: quae tamen arbitrio iudicis aestimanda erit.
+
+12. Quia autem hoc interdictum id quod interest continet, si quis alia actione fuerit consecutus id quod interfuit opus non esse factum, consequens erit dicere ex interdicto nihil eum consequi oportere.
+
+43.24.16
+
+Paulus libro 67 ad edictum
+
+pr. Competit hoc interdictum etiam his qui non possident, si modo eorum interest.
+
+1. Si quis vi aut clam arbores non frugiferas ceciderit, veluti cupressos, domino dumtaxat competit interdictum. Sed si amoenitas quaedam ex huiusmodi arboribus praestetur, potest dici et fructuarii interesse propter voluptatem et gestationem et esse huic interdicto locum.
+
+2. In summa qui vi aut clam fecit, si possidet, patientiam et impensam tollendi operis: qui fecit nec possidet, impensam: qui possidet nec fecit, patientiam tantum debet.
+
+43.24.17
+
+Paulus libro 69 ad edictum
+
+Interdictum quod vi aut clam per quemvis domino adquiritur, licet per inquilinum.
+
+43.24.18
+
+Celsus libro 25 digestorum
+
+pr. Si inmaturam silvam caeduam cecidit quis, interdicto quod vi aut clam tenetur: si maturam similiter caeduam neque damno dominus adfectus est, nihil praestabit.
+
+1. Non absurde responsum est: si magistratum rogasses, ut adversarium tuum adesse ad iudicium iuberet, ne opus novum tibi nuntiaret, clam videris opus fecisse, quod interim feceris.
+
+43.24.19
+
+Ulpianus libro 57 ad edictum
+
+Interdictum quod vi aut clam competere filio familias colono arboribus succisis Sabinus ait.
+
+43.24.20
+
+Paulus libro 13 ad Sabinum
+
+pr. Vi facit tam is qui prohibitus fecit quam is qui, quo minus prohibeatur, consecutus est periculo puta adversario denuntiato aut ianua puta praeclusa.
+
+1. Prohibitus autem intellegitur quolibet prohibentis actu, id est vel dicentis se prohibere vel manum opponentis lapillumve iactantis prohibendi gratia.
+
+2. Tamdiu autem vi facit prohibitus, quamdiu res in eodem statu permanebit: nam si postea convenerit cum adversario, desinit vi facere.
+
+3. Item si prohibiti heres vel is, qui ab eo emerit, ignorans causam praecedentem fecerit, dicendum esse Pomponius ait non incidere eum in interdictum.
+
+4. Quod in nave fit vel in alia qualibet re vel amplissima, mobili tamen, non continetur hoc interdicto.
+
+5. Sive in privato sive in publico opus fiat sive in loco sacro sive in religioso, interdictum competit.
+
+43.24.21
+
+Pomponius libro 29 ad Sabinum
+
+pr. Si opus, quod quis iussus est a iudice, qui ex hoc interdicto sumptus esset, restituere, alius quis vi aut clam sustulisset, nihilo minus idem ille omnimodo iubetur opus restituere.
+
+1. Si iussero servum meum opus facere, cum, quantum ad me pertinet, in clandestini suspicionem non veniret, servus autem meus putaverit, si rescisset adversarius, prohibiturum eum, an tenear? Et non puto, cum mea persona sit intuenda.
+
+2. In opere novo tam soli quam caeli mensura facienda est.
+
+3. Si quis propter opus factum ius aliquod praedii amisit, id restitui ex hoc interdicto debet.
+
+43.24.22
+
+Venuleus libro secundo interdictorum
+
+pr. Si vitem meam ex fundo meo in fundum tuum deprehenderis eaque in fundo tuo coaluerit, utile est interdictum quod vi aut clam intra annum: sed si annus praeterierit, nullam remanere actionem radices, quae in fundo meo sint, tuas fieri, quia his accessiones sint.
+
+1. Si quis vi aut clam araverit, puto eum teneri hoc interdicto perinde atque si fossam fecisset: non enim ex qualitate operis huic interdicto locus est, sed ex opere facto, quod cohaeret solo.
+
+2. Si ad ianuam meam tabulas fixeris et ego eas, priusquam tibi denuntiarem, refixero, deinde invicem interdicto quod vi aut clam egerimus: nisi remittas mihi, ut absolvar, condemnandum te, quasi rem non restituas, quanti mea intersit, aut certe exceptionem mihi profuturam "si non vi nec clam nec precario feceris".
+
+3. Si stercus per fundum meum tuleris, cum id te facere vetuissem, quamquam nihil damni feceris mihi nec fundi mei mutaveris, tamen teneri te quod vi aut clam Trebatius ait. Labeo contra, ne etiam is, qui dumtaxat iter per fundum meum fecerit aut avem egerit venatusve fuerit sine ullo opere, hoc interdicto teneatur.
+
+4. Si quis proiectum aut stillicidium in sepulchrum immiserit, etiamsi ipsum monumentum non tangeret, recte cum eo agi, quod in sepulchro vi aut clam factum sit, quia sepulchri sit non solum is locus, qui recipiat humationem, sed omne etiam supra id caelum: eoque nomine etiam sepulchri violati agi posse.
+
+5. Si is, qui denuntiaverit se opus facturum, confestim opus fecerit, clam fecisse non intellegitur: nam si post tempus, videbitur clam fecisse.
+
+
+* 43.25.0. De remissionibus.
+
+
+43.25.1
+
+Ulpianus libro 71 ad edictum
+
+pr. Ait praetor: "Quod ius sit illi prohibere, ne se invito fiat, in eo nuntiatio teneat: ceterum nuntiationem missam facio".
+
+1. Sub hoc titulo remissiones proponuntur.
+
+2. Et verba praetoris ostendunt remissionem ibi demum factam, ubi nuntiatio non tenet, et nuntiationem ibi demum voluisse praetorem tenere, ubi ius est nuntianti prohibere, ne se invito fiat. Ceterum sive satisdatio interveniat sive non, remissio facta hoc tantum remittit, in quo non tenuit nuntiatio. Plane si satisdatum est, exinde remissio facta est, non est necessaria remissio.
+
+3. Ius habet opus novum nuntiandi, qui aut dominium aut servitutem habet.
+
+4. Item Iuliano placet fructuario vindicandarum servitutium ius esse: secundum quod opus novum nuntiare poterit vicino et remissio utilis erit. Ipsi autem domino praedii si nuntiaverit, remissio inutilis erit: neque sicut adversus vicinum, ita adversus dominum agere potest ius ei non esse invito se altius aedificare. Sed si hoc facto usus fructus deterior fiat, petere usum fructum debebit. Idem Iulianus dicit de ceteris, quibus aliqua servitus a vicino debetur.
+
+5. Ei quoque, qui pignori fundum acceperit, scribit Iulianus non esse iniquum detentionem servitutis dari.
+
+
+* 43.26.0. De precario.
+
+
+43.26.1
+
+Ulpianus libro primo institutionum
+
+pr. Precarium est, quod precibus petenti utendum conceditur tamdiu, quamdiu is qui concessit patitur.
+
+1. Quod genus liberalitatis ex iure gentium descendit.
+
+2. Et distat a donatione eo, quod qui donat, sic dat, ne recipiat, at qui precario concedit, sic dat quasi tunc recepturus, cum sibi libuerit precarium solvere.
+
+3. Et est simile commodato: nam et qui commodat rem, sic commodat, ut non faciat rem accipientis, sed ut ei uti re commodata permittat.
+
+43.26.2
+
+Ulpianus libro 71 ad edictum
+
+pr. Ait praetor: "Quod precario ab illo habes aut dolo malo fecisti, ut desineres habere, qua de re agitur, id illi restituas".
+
+1. Hoc interdictum restitutorium est.
+
+2. Et naturalem habet in se aequitatem, namque precarium revocare volenti competit: est enim natura aequum tamdiu te liberalitate mea uti, quamdiu ego velim, et ut possim revocare, cum mutavero voluntatem. Itaque cum quid precario rogatum est, non solum hoc interdicto uti possumus, sed etiam praescriptis verbis actione, quae ex bona fide oritur.
+
+3. Habere precario videtur, qui possessionem vel corporis vel iuris adeptus est ex hac solummodo causa, quod preces adhibuit et impetravit, ut sibi possidere aut uti liceat:
+
+43.26.3
+
+Gaius libro 25 ad edictum provinciale
+
+Veluti si me precario rogaveris, ut per fundum meum ire vel agere tibi liceat vel ut in tectum vel in aream aedium mearum stillicidium vel tignum in parietem immissum habeas.
+
+43.26.4
+
+Ulpianus libro 71 ad edictum
+
+pr. In rebus etiam mobilibus precarii rogatio constitit.
+
+1. Meminisse autem nos oportet eum, qui precario habet, etiam possidere.
+
+2. Tenetur hoc interdicto non utique ille, qui precario rogavit, sed qui precario habet: etenim fieri potest, ut quis non rogaverit, sed habeat precario. ut puta servus meus rogavit: mihi adquisiit precarium: vel quis alius, qui iuri meo subiectus est.
+
+3. Item si rem meam precario rogavero, rogavi quidem precario, sed non habeo precario idcirco, quia receptum est rei suae precarium non esse.
+
+4. Item qui precario ad tempus rogavit, finito tempore, etiamsi ad hoc temporis non rogavit, tamen precario possidere videtur: intellegitur enim dominus, cum patitur eum qui precario rogaverit possidere, rursus precario concedere.
+
+43.26.5
+
+Pomponius libro 29 ad Sabinum
+
+Sed si manente adhuc precario tu in ulterius tempus rogasti, prorogatur precarium: nam nec mutatur causa possessionis et non constituitur eo modo precarium, sed in longius tempus profertur. Si vero praeterita die rogas, propius est, ut soluta iam causa precarii non redintegretur, sed nova constituatur.
+
+43.26.6
+
+Ulpianus libro 71 ad edictum
+
+pr. Certe si interim dominus furere coeperit vel decesserit, fieri non posse Marcellus ait, ut precarium redintegretur, et hoc verum est.
+
+1. Si procurator meus me mandante vel ratum habente precario rogaverit, ego precario habere proprie dicor.
+
+2. Is qui rogavit, ut precario in fundo moretur, non possidet, sed possessio apud eum qui concessit remanet: nam et fructuarius, inquit, et colonus et inquilinus sunt in praedio et tamen non possident.
+
+3. Iulianus ait eum, qui vi alterum deiecit et ab eodem precario rogavit, desinere vi possidere et incipere precario, neque existimare sibi ipsum causam possessionis mutare, cum voluntate eius quem deiecit coeperit precario possidere: nam si ab eodem emisset, incipere etiam pro emptore posse dominium capere.
+
+4. Quaesitum est, si quis rem suam pignori mihi dederit et precario rogaverit, an hoc interdictum locum habeat. Quaestio in eo est, ut precarium consistere rei suae possit. Mihi videtur verius precarium consistere in pignore, cum possessionis rogetur, non proprietatis, et est haec sententia etiam utilissima: cottidie enim precario rogantur creditores ab his, qui pignori dederunt, et debet consistere precarium.
+
+43.26.7
+
+Venuleus libro tertio interdictorum
+
+Sed et si eam rem, cuius possessionem per interdictum uti possidetis retinere possim, quamvis futurum esset, ut tenear de proprietate, precario tibi concesserim, teneberis hoc interdicto.
+
+43.26.8
+
+Ulpianus libro 71 ad edictum
+
+pr. Quaesitum est, si Titius me rogaverit, ut re Sempronii utatur, deinde ego Sempronium rogavero, ut concederet, et ille, dum mihi vult praestitum, concesserit. Titius a me habet precario et ego cum eo agam interdicto de precario: Sempronius autem non aget cum eo, quia haec verba "ab illo precario habes" ostendunt ei demum competere interdictum, a quo quis precario rogavit, non cuius res est, an tamen Sempronius mecum, quasi a me rogatus, interdictum habeat? Et magis est, ne habeat, quia non habeo precario, cum non mihi, sed alii impetravi. Mandati tamen actionem potest adversus me habere, quia me mandante dedit tibi: aut si quis dixerit non mandatu meo, sed magis mihi credentem hoc fecisse, dicendum est in factum dandam actionem et adversus me.
+
+1. Quod a Titio precario quis rogavit, id etiam ab herede eius precario habere videtur: et ita et Sabinus et Celsus scribunt eoque iure utimur. Ergo et a ceteris successoribus habere quis precario videtur. Idem et Labeo probat et adicit, etiamsi ignoret quis heredem, tamen videri eum ab herede precario habere.
+
+2. Illud tamen videamus quale sit, si a me precario rogaveris et ego eam rem alienavero, an precarium duret re ad alium translata. Et magis est, ut, si ille non revocet, posse interdicere quasi ab illo precario habeas, non quasi a me: et si passus est aliquo tempore a se precario habere, recte interdicet, quasi a se precario habeas.
+
+3. Eum quoque precario teneri voluit praetor, qui dolo fecit, ut habere desineret. Illud adnotatur, quod culpam non praestat is qui precario rogavit, sed solum dolum praestat, quamquam is, qui commodatum suscepit, non tantum dolum, sed etiam culpam praestat. Nnec immerito dolum solum praestat is qui precario rogavit, cum totum ex liberalitate descendat eius qui precario concessit et satis sit, si dolus tantum praestetur. Culpam tamen dolo proximam contineri quis merito dixerit.
+
+4. Ex hoc interdicto restitui debet in pristinam causam: quod si non fuerit factum, condemnatio in tantum fiet, quanti interfuit actoris ei rem restitui ex eo tempore, ex quo interdictum editum est: ergo et fructus ex die interdicti editi praestabuntur.
+
+5. Si servitute usus non fuit is qui precario rogavit ac per hoc amissa sit, videamus, an interdicto teneatur. Ego arbitror non alias, quam si dolo fecerit.
+
+6. Et generaliter erit dicendum in restitutionem venire dolum et culpam latam dumtaxat, cetera non venire. Plane post interdictum editum oportebit et dolum et culpam et omnem causam venire: nam ubi moram quis fecit precario, omnem causam debebit constituere.
+
+7. Interdictum hoc et post annum competere Labeo scribit eoque iure utimur: cum enim nonnumquam in longum tempus precarium concedatur, absurdum est dicere interdictum locum non habere post annum.
+
+8. Hoc interdicto heres eius qui precario rogavit tenetur quemadmodum ipse, ut, sive habet sive dolo fecit quo minus haberet vel ad se perveniret, teneatur: ex dolo autem defuncti hactenus, quatenus ad eum pervenit.
+
+43.26.9
+
+Gaius libro 26 ad edictum provinciale
+
+Precario possessio consisti potest vel inter praesentes vel inter absentes, veluti per epistulam vel per nuntium.
+
+43.26.10
+
+Pomponius libro quinto ex Plautio
+
+Quamvis ancillam quis precario rogaverit, id actum videtur, ut etiam quod ex ancilla natum esset in eadem causa haberetur.
+
+43.26.11
+
+Celsus libro 7 digestorum
+
+Si debitor rem pigneratam precario rogaverit, soluta pecunia precarium solvitur: quippe id actum est, ut usque eo precarium teneret.
+
+43.26.12
+
+Celsus libro 25 digestorum
+
+pr. Cum precario aliquid datur, si convenit, ut in kalendas Iulias precario possideat, numquid exceptione adiuvandus est, ne ante ei possessio auferatur? Sed nulla vis est huius conventionis, ut rem alienam domino invito possidere liceat.
+
+1. Precario rogatio et ad heredem eius qui concessit transit: ad heredem autem eius qui precario rogavit non transit, quippe ipsi dumtaxat, non etiam heredi concessa possessio est.
+
+43.26.13
+
+Pomponius libro 33 ad Quintum Mucium
+
+Si servus tuus tuo mandato precario rogaverit vel ratum habueris quod ille rogavit tuo nomine, teneberis, quasi precario habeas. Sed si te ignorante suo nomine vel servus vel filius rogaverit, non videris tu precario habere, sed illi erit actio de peculio vel de in rem verso.
+
+43.26.14
+
+Paulus libro 13 ad Sabinum
+
+Interdictum de precariis merito introductum est, quia nulla eo nomine iuris civilis actio esset: magis enim ad donationes et beneficii causam, quam ad negotii contracti spectat precarii condicio.
+
+43.26.15
+
+Pomponius libro 29 ad Sabinum
+
+pr. Et habet summam aequitatem, ut eatenus quisque nostro utatur, quatenus ei tribuere velimus.
+
+1. Hospites et qui gratuitam habitationem accipiunt non intelleguntur precario habitare.
+
+2. Precario habere etiam ea quae in iure consistunt possumus, ut immissa vel protecta.
+
+3. Cum quis de re sibi restituenda cautum habet, precarium interdictum ei non competit.
+
+4. Eum, qui precario rogaverit, ut sibi possidere liceat, nancisci possessionem non est dubium: an is quoque possideat, qui rogatus sit, dubitatum est. Placet autem penes utrumque esse eum hominem, qui precario datus esset, penes eum qui rogasset, quia possideat corpore, penes dominum, quia non discesserit animo possessione.
+
+5. Quo quis loco precario aut possideat aut coeperit possidere, nihil refert, quod ad hoc interdictum pertinet.
+
+43.26.16
+
+Pomponius libro 32 ad Sabinum
+
+Si adoptavero eum, qui precario rogaverit, ego quoque precario possidebo.
+
+43.26.17
+
+Pomponius libro 23 ad Sabinum
+
+Qui precario fundum possidet, is interdicto uti possidetis adversus omnes praeter eum, quem rogavit, uti potest.
+
+43.26.18
+
+Iulianus libro 13 digestorum
+
+Unusquisque potest rem suam, quamvis non possideat, precario dare ei qui possideat.
+
+43.26.19
+
+Iulianus libro 49 digestorum
+
+pr. Duo in solidum precario habere non magis possunt, quam duo in solidum vi possidere aut clam: nam neque iustae neque iniustae possessiones duae concurrere possunt.
+
+1. Qui servum meum precario rogat, videtur a me precario habere, si hoc ratum habuero, et ideo precario interdicto mihi tenebitur.
+
+2. Cum quid precario rogatum est, non solum interdicto uti possumus, sed et incerti condictione, id est praescriptis verbis.
+
+43.26.20
+
+Ulpianus libro secundo responsorum
+
+Ea, quae distracta sunt, ut precario penes emptorem essent, quoad pretium universum persolveretur: si per emptorem stetit, quo minus persolveretur, venditorem posse consequi.
+
+43.26.21
+
+Venuleus libro quarto actionum
+
+Cum precario quis rogat, ut ipsi in eo fundo morari liceat, supervacuum est adici "ipsi suisque": nam per ipsum suis quoque permissum uti videtur.
+
+43.26.22
+
+Venuleus libro tertio interdictorum
+
+pr. Si is, qui pro possessore possideret, precario dominum rogaverit, ut sibi retinere rem liceret, vel is, qui alienam rem emisset, dominum rogaverit: apparet eos precario possidere. Nec existimandos mutare sibi causam possessionis, quibus a domino concedatur precario possidere: nam et si id quod possideas alium precario rogaveris, videri te desinere ex prima causa possidere et incipere ex precario habere: et contra si possessorem precario rogaverit qui rem avocare ei posset, teneri eum precario, quoniam aliquid ad eum per hanc precarii rogationem pervenit, id est possessio, quae aliena sit.
+
+1. Si pupillus sine tutoris auctoritate precario rogaverit, Labeo ait habere eum precariam possessionem et hoc interdicto teneri. Nam quo magis naturaliter possideretur, nullum locum esse tutoris auctoritati: recteque dici "quod precario habes", quia quod possideat ex ea causa possideat, ex qua rogaverit: nihilque novi per praetorem constituendum, quoniam, sive habeat rem, officio iudicis teneretur, sive non habeat, non teneatur.
+
+
+* 43.27.0. De arboribus caedendis.
+
+
+43.27.1
+
+Ulpianus libro 71 ad edictum
+
+pr. Ait praetor: "Quae arbor ex aedibus tuis in aedes illius impendet, si per te stat, quo minus eam adimas, tunc, quo minus illi eam arborem adimere sibique habere liceat, vim fieri veto".
+
+1. Hoc interdictum prohibitorium est.
+
+2. Si arbor aedibus alienis impendeat, utrum totam arborem iubeat praetor adimi an vero id solum, quod superexcurrit, quaeritur. Et Rutilius ait a stirpe excidendam idque plerisque videtur verius: et nisi adimet dominus arborem, Labeo ait permitti ei, cui arbor officeret, ut si vellet succideret eam lignaque tolleret.
+
+3. Arboris appellatione etiam vites continentur.
+
+4. Non solum autem domino aedium, sed etiam ei qui usumfructum habet competit hoc interdictum, quia et ipsius interest arborem istam non impendere.
+
+5. Praeterea probandum est, si arbor communibus aedibus impendeat, singulos dominos habere hoc interdictum et quidem in solidum, quia et servitutium vindicationem singuli habeant.
+
+6. Ait praetor: "Si per te stat, quo minus eam adimas, quo minus illi eam arborem adimere liceat, vim fieri veto". Prius itaque tibi datur adimendi facultas: si tu non facias, tunc vicino prohibet vim fieri adimere volenti.
+
+7. Deinde ait praetor: "Quae arbor ex agro tuo in agrum illius impendet, si per te stat, quo minus pedes quindecim a terra eam altius coerceas, tunc, quo minus illi ita coercere lignaque sibi habere liceat, vim fieri veto".
+
+8. Quod ait praetor, et lex duodecim tabularum efficere voluit, ut quindecim pedes altius rami arboris circumcidantur: et hoc idcirco effectum est, ne umbra arboris vicino praedio noceret.
+
+9. Differentia duorum capitum interdicti haec est: si quidem arbor aedibus impendeat, succidi eam praecipitur, si vero agro impendeat, tantum usque ad quindecim pedes a terra coerceri.
+
+43.27.2
+
+Pomponius libro 34 ad Sabinum
+
+Si arbor ex vicini fundo vento inclinata in tuum fundum sit, ex lege duodecim tabularum de adimenda ea recte agere potes ius ei non esse ita arborem habere.
+
+
+* 43.28.0. De glande legenda.
+
+
+43.28.1
+
+Ulpianus libro 71 ad edictum
+
+pr. Ait praetor: "Glandem, quae ex illius agro in tuum cadat, quo minus illi tertio quoque die legere auferre liceat, vim fieri veto".
+
+1. Glandis nomine omnes fructus continentur.
+
+
+* 43.29.0. De homine libero exhibendo.
+
+
+43.29.1
+
+Ulpianus libro 71 ad edictum
+
+pr. Ait praetor: "Quem liberum dolo malo retines, exhibeas".
+
+1. Hoc interdictum proponitur tuendae libertatis causa, videlicet ne homines liberi retineantur a quoquam:
+
+43.29.2
+
+Venuleus libro quarto interdictorum
+
+(nihil enim multum a specie servientium differunt, quibus facultas non datur recedendi):
+
+43.29.3
+
+Ulpianus libro 71 ad edictum
+
+pr. Quod et lex Fabia prospexit. Neque hoc interdictum aufert legis Fabiae exsecutionem: nam et hoc interdicto agi poterit et nihilo minus accusatio legis Fabiae institui: et versa vice qui egit Fabia, poterit nihilo minus etiam hoc interdictum habere, praesertim cum alius interdictum, alius Fabiae actionem habere possit.
+
+1. Haec verba "quem liberum" ad omnem liberum pertinent, sive pubes sit sive impubes, sive masculus sive femina, sive unus sive plures, sive sui iuris sit sive alieni: hoc enim tantum spectamus, an liber sit.
+
+2. Is tamen, qui in potestate habet, hoc interdicto non tenebitur, quia dolo malo non videtur habere qui suo iure utitur.
+
+3. Si quis eum, quem ab hostibus redemit, retineat, in ea causa est, ut interdicto non teneatur: non enim dolo malo facit. Plane si offertur pretium, interdictum locum habet. Sed et si eum remisit pretio non accepto, dicendum est interdicto locum fore, si, posteaquam semel remisit, velit retinere.
+
+4. Si eum quis retineat filium, quem non habet in potestate, plerumque sine dolo malo facere videbitur: pietas enim genuina efficit sine dolo malo retineri, nisi si evidens dolus malus intercedat. Proinde et si libertum suum vel alumnum vel noxae deditum adhuc impuberem, idem erit dicendum. Et generaliter qui iustam causam habet hominis liberi apud se retinendi, non videtur dolo malo facere.
+
+5. Si quis volentem retineat, non videtur dolo malo retinere. Sed quid si volentem quidem retineat, non tamen sine calliditate circumventum vel seductum vel sollicitatum, neque bona vel probabili ratione hoc facit? Recte dicetur dolo malo retinere.
+
+6. Is, qui nescit apud se esse hominem liberum, dolo malo caret; sed ubi certioratus retinet, dolo malo non caret.
+
+7. Plane si dubitat, utrum liber an servus sit, vel facit status controversiam, recedendum erit ab hoc interdicto et agenda causa libertatis. Etenim recte placuit tunc demum hoc interdictum locum habere, quotiens quis pro certo liber est: ceterum si quaeratur de statu, non oportet praeiudicium fieri alienae cognitioni.
+
+8. Ait praetor "exhibeas". Exhibere est in publicum producere et videndi tangendique hominis facultatem praebere: proprie autem exhibere est extra secretum habere.
+
+9. Hoc interdictum omnibus competit: nemo enim prohibendus est libertati favere.
+
+10. Plane ex causa suspectae personae removendae sunt, si forte talis persona sit, quam verisimile est colludere vel calumniari.
+
+11. Sed et si mulier vel pupillus hoc interdictum desiderent pro cognato vel parente vel adfine suo solliciti, dandum esse eis interdictum dicendum est: nam et publico iudicio reos facere possunt, dum suas suorumque iniurias exsequuntur.
+
+12. Si tamen plures sunt, qui experiri volent, eligendus est a praetore, ad quem maxime res pertinet vel is qui idoneior est: et est optimum ex coniunctione, ex fide, ex dignitate actorem hoc interdicto eligendum.
+
+13. Si tamen, posteaquam hoc interdicto actum est, alius hoc interdicto agere desideret, palam erit postea alii non facile dandum, nisi si de perfidia prioris potuerit aliquid dici. Itaque causa cognita amplius quam semel interdictum hoc erit movendum. Nam nec in publicis iudiciis permittitur amplius agi quam semel actum est quam si praevaricationis fuerit damnatus prior accusator. Si tamen reus condemnatus malit litis aestimationem sufferre quam hominem exhibere, non est iniquum saepius in eum interdicto experiri vel eidem sine exceptione vel alii.
+
+14. Hoc interdictum et in absentem esse rogandum Labeo scribit, sed si non defendatur, in bona eius eundum ait.
+
+15. Hoc interdictum perpetuum est.
+
+43.29.4
+
+Venuleus libro quarto interdictorum
+
+pr. Si quis liberum hominem ignorantem suum statum retineat, tamen si dolo malo retinet, cogitur exhibere.
+
+1. Trebatius quoque ait non teneri eum, qui liberum hominem pro servo bona fide emerit et retineat.
+
+2. Nullo tempore dolo malo retineri homo liber debet, adeo ut quidam putaverint nec modicum tempus ad eum exhibendum dandum, quoniam praeteriti facti poena praestanda est.
+
+3. Creditori non competit interdictum, ut debitor exhiberetur: nec enim debitorem latitantem exhibere quisquam cogitur, sed in bona eius ex edicto praetoris itur.
+
+
+* 43.30.0. De liberis exhibendis, item ducendis.
+
+
+43.30.1
+
+Ulpianus libro 71 ad edictum
+
+pr. Ait praetor: "Qui quaeve in potestate Lucii Titii est, si is eave apud te est dolove malo tuo factum est, quo minus apud te esset, ita eum eamve exhibeas".
+
+1. Hoc interdictum proponitur adversus eum, quem quis exhibere desiderat eum, quem in potestate sua esse dicit. Et ex verbis apparet ei, cuius in potestate est, hoc interdictum competere.
+
+2. In hoc interdicto praetor non admittit causam, cur apud eum sit is, qui exhiberi debet, quemadmodum in superiore interdicto, sed omnimodo restituendum putavit, si in potestate est.
+
+3. Si vero mater sit, quae retinet, apud quam interdum magis quam apud patrem morari filium debere (ex iustissima scilicet causa) et divus Pius decrevit et a Marco et a Severo rescriptum est, aeque subveniendum ei erit per exceptionem.
+
+4. Pari modo si iudicatum fuerit non esse eum in potestate, etsi per iniuriam iudicatum sit, agenti hoc interdicto obicienda erit exceptio rei iudicatae, ne de hoc quaeratur, an sit in potestate, sed an sit iudicatum.
+
+5. Si quis filiam suam, quae mihi nupta sit, velit abducere vel exhiberi sibi desideret, an adversus interdictum exceptio danda sit, si forte pater concordans matrimonium, forte et liberis subnixum, velit dissolvere? Et certo iure utimur, ne bene concordantia matrimonia iure patriae potestatis turbentur. Quod tamen sic erit adhibendum, ut patri persuadeatur, ne acerbe patriam potestatem exerceat.
+
+43.30.2
+
+Hermogenianus libro sexto iuris epitomarum
+
+Immo magis de uxore exhibenda ac ducenda pater, etiam qui filiam in potestate habet, a marito recte convenitur.
+
+43.30.3
+
+Ulpianus libro 71 ad edictum
+
+pr. Deinde ait praetor: "Si Lucius Titius in potestate Lucii Titii est, quo minus eum Lucio Titio ducere liceat, vim fieri veto".
+
+1. Superiora interdicta exhibitoria sunt, hoc est pertinent ad exhibitionem liberorum ceterorumque, de quibus supra diximus: hoc autem interdictum pertinet ad ductionem, ut ducere quis possit eos, in quos habet ius ductionis. Itaque prius interdictum, quod est de liberis exhibendis, praeparatorium est huius interdicti: quo magis enim quis duci possit, exhibendus fuit.
+
+2. Ex iisdem causis hoc interdictum tribuendum est, ex quibus causis de exhibendis liberis competere diximus: itaque quaecumque ibi diximus, eadem hic quoque dicta accipienda sunt.
+
+3. Hoc autem interdictum competit non adversus ipsum filium, quem quis ducere vult, sed utique esse debet is qui eum interdicto defendat: ceterum cessat interdictum, et succedere poterit notio praetoris, ut apud eum disceptetur, utrum quis in potestate sit an non sit.
+
+4. Iulianus ait, quotiens id interdictum movetur de filio ducendo vel cognitio et is de quo agitur impubes est, alias differri oportere rem in tempus pubertatis, alias repraesentari: idque ex persona eorum, inter quos controversia erit, et ex genere causae constituendum est. Nam si is, qui se patrem dicit, auctoritatis prudentiae fidei exploratae esset, usque in diem litis impuberem apud se habebit: is vero, qui controversiam facit, humilis calumniator notae nequitiae, repraesentanda cognitio est. Item si is, qui impuberem negat in aliena potestate esse, vir omnibus modis probatus, tutor vel testamento vel a praetore datus pupillum, quem in diem litis apud se habuit, tuetur, is vero, qui patrem se dicit, suspectus est quasi calumniator, differri litem non oportebit. Si vero utraque persona suspecta est aut tamquam infirma aut tamquam turpis, non erit alienum, inquit, disponi, apud quem interim puer educeretur et controversiam in tempus pubertatis differri, ne per collusionem vel imperitiam alterutrius contendentium aut alienae potestati pater familias addicatur aut filius alienus patris familiae loco constituatur.
+
+5. Etiamsi maxime autem probet filium pater in sua potestate esse, tamen causa cognita mater in retinendo eo potior erit, idque decretis divi Pii quibusdam continetur: optinuit enim mater ob nequitiam patris, ut sine deminutione patriae potestatis apud eam filius moretur.
+
+6. In hoc interdicto, donec res iudicetur, feminam, praetextatum eumque, qui proxime praetextati aetatem accedet, interim apud matrem familias deponi praetor iubet. Proxime aetatem praetextati accedere eum dicimus, qui puberem aetatem nunc ingressus est. Cum audis matrem familias, accipe notae auctoritatis feminam.
+
+43.30.4
+
+Africanus libro quarto quaestionum
+
+Si eum, qui se patrem familias dicat, ego in mea potestate esse et iussu meo adisse hereditatem dicam, tam de hereditate agi oportere quam ad interdictum de filio ducendo iri debere ait.
+
+43.30.5
+
+Venuleus libro quarto interdictorum
+
+Si filius sua sponte apud aliquem est, inutile hoc interdictum erit, quia filius magis apud se quam apud eum est, in quem interdicetur, cum liberam facultatem abeundi vel remanendi haberet: nisi si inter duos, qui se patres dicerent, controversia esset et alter ab altero exhiberi eum desideraret.
+
+
+* 43.31.0. Utrubi.
+
+
+43.31.1
+
+Ulpianus libro 72 ad edictum
+
+pr. Praetor ait: "Utrubi hic homo, quo de agitur, maiore parte huiusce anni fuit, quo minus is eum ducat, vim fieri veto".
+
+1. Hoc interdictum de possessione rerum mobilium locum habet: sed optinuit vim eius exaequatam fuisse uti possidetis interdicto, quod de rebus soli competit, ut is et in hoc interdicto vincat, qui nec vi nec clam nec precario, dum super hoc ab adversario inquietatur, possessionem habet.
+
+
+* 43.32.0. De migrando.
+
+
+43.32.1
+
+Ulpianus libro 73 ad edictum
+
+pr. Praetor ait: "Si is homo, quo de agitur, non est ex his rebus, de quibus inter te et actorem convenit, ut, quae in eam habitationem qua de agitur introducta importata ibi nata factave essent, ea pignori tibi pro mercede eius habitationis essent, sive ex his rebus est et ea merces tibi soluta eove nomine satisfactum est aut per te stat, quo minus solvatur: ita, quo minus ei, qui eum pignoris nomine induxit, inde abducere liceat, vim fieri veto".
+
+1. Hoc interdictum proponitur inquilino, qui soluta pensione vult migrare: nam colono non competit.
+
+2. Cui rei etiam extra ordinem subveniri potest: ergo infrequens est hoc interdictum.
+
+3. Si tamen gratuitam quis habitationem habeat, hoc interdictum utile ei competet.
+
+4. Si pensio nondum debeatur, ait Labeo interdictum hoc cessare, nisi paratus sit eam pensionem solvere. Proinde si semenstrem solvit, sexmenstris debeatur, inutiliter interdicet, nisi solverit et sequentis sexmenstris, ita tamen, si conventio specialis facta est in conductione domus, ut non liceat ante finitum annum vel certum tempus migrare. Idem est et si quis in plures annos conduxerit et nondum praeterierit tempus. Nam cum in universam conductionem pignora sunt obligata, consequens erit dicere interdicto locum non fore, nisi liberata fuerint.
+
+5. Illud notandum est praetorem hic non exegisse, ut in bonis fuerit conductoris, nec ut esset pignori res illata, sed si pignoris nomine inducta sit. Proinde et si aliena sint et si talia, quae pignoris nomine teneri non potuerint, pignoris tamen nomine introducta sint, interdicto hoc locus erit: quod si nec pignoris nomine inducta sint, nec retineri poterunt a locatore.
+
+6. Hoc interdictum perpetuum est et in successores et successoribus dabitur.
+
+43.32.2
+
+Gaius libro 26 ad edictum provinciale
+
+Hoc interdictum inquilino etiam de his rebus, quae non ipsius sint, sed forte commodatae ei vel locatae vel apud eum depositae sunt, utile esse non dubitatur.
+
+
+* 43.33.0. De Salviano interdicto.
+
+
+43.33.1
+
+Iulianus libro 49 digestorum
+
+pr. Si colonus ancillam in fundo pignoris nomine duxerit et eam vendiderit, quod apud emptorem ex ea natum est, eius adprehendendi gratia utile interdictum reddi oportet.
+
+1. Si colonus res in fundum duorum pignoris nomine intulerit, ita ut utrique in solidum obligatae essent, singuli adversus extraneum Salviano interdicto recte experientur: inter ipsos vero si reddatur hoc interdictum, possidentis condicio melior erit. At si id actum fuerit, ut pro partibus res obligaretur, utilis actio et adversus extraneos et inter ipsos dari debebit, per quam dimidias partes possessionis singuli adprehendent.
+
+2. Idem servari conveniet et si colonus rem, quam cum alio communem habebat, pignoris nomine induxerit, scilicet ut pro parte dimidia pignoris persecutio detur.
+
+43.33.2
+
+Ulpianus libro 70 ad edictum
+
+In Salviano interdicto, si in fundum communem duorum pignera sint ab aliquo invecta, possessor vincet et erit eis descendendum ad Servianum iudicium.

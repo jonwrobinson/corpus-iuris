@@ -1,0 +1,1520 @@
+# -*- mode: org -*-
+
+DOMINI NOSTRI SACRATISSIMI PRINCIPIS
+IUSTINIANI
+IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
+DIGESTORUM SEU PANDECTARUM
+liber vicesimus septimus
+
+
+( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
+
+
+* TITLES
+** 27.1.0.  De excusationibus.
+** 27.2.0.  Ubi pupillus educari vel morari debeat et de alimentis ei praestandis.
+** 27.3.0.  De tutelae et rationibus distrahendis et utili curationis causa actione.
+** 27.4.0.  De contraria tutelae et utili actione.
+** 27.5.0.  De eo qui pro tutore prove curatore negotia gessit.
+** 27.6.0.  Quod falso tutore auctore gestum esse dicatur.
+** 27.7.0.  De fideiussoribus et nominatoribus et heredibus tutorum et curatorum.
+** 27.8.0.  De magistratibus conveniendis.
+** 27.9.0.  De rebus eorum, qui sub tutela vel cura sunt, sine decreto non alienandis vel supponendis.
+** 27.10.0. De curatoribus furioso et aliis extra minores dandis.
+
+
+
+* 27.1.0. De excusationibus.
+
+
+27.1.1
+
+Modestinus libro primo excusationum
+
+pr. Herennios Modestinos Egnatiw Dectrw. Suggraqas suggramma, hws emoi dokei, xrysimwtaton, hoper paraitysin epitropys kai kouratorias wnomasa, touto soi pepomfa. [id est: Herennius Modestinus Egnatio Dextro. Scriptum a me commentarium ut mihi quidem videtur utilissimum, cui titulum feci excusationem tutelae et curiae, ad te misi.]
+
+1. Poiysomai de hws an ohios te w tyn peri toutwn didaskalian safy, afygoumenos ta nomima ty twn hellynwn fwny, ei kai oida dusfrasta einai auta nomizomena pros tas toiautas metabolas.  [id est: Docebo autem ut potero de his, explanans iura lingua Graeca, licet sciam haberi ea ad eiusmodi translationes minime apta.]
+
+2. Prosvysw de ty twn legomenwn diygysei auta ta twn nomwn hrymata, ei pou kai toutou deyveiyn, hina tyn te twn lektewn kai tyn twn anagnwstewn xrysin exontes to holoklyron tois deomenois kai tyn wfeleian parasxwmeva. [id est: Adiciam autem ad ea quae in hac tractatione dicentur ipsa legum verba, si qui forte et ea requirant, ut cum copiam habeamus tam eorum quae dicenda quam eorum quar recitanda sunt universam rem iis qui volent quodque iis proficiat tradamus.]
+
+3. Lekteon toinun prwton, tinas ou dei xeirotoneisvai. [id est: Dicemus igitur primum, qui fieri non possint.]
+
+4. Apeleuverikois orfanois eugeneis ou dwsousin ohi arxontes epitropous y kouratoras, plyn ei my pantelys aporia kata ton topon apeleuverwn estin: apeleuverikois gar apeleuverous monous dein didosvai tous ek tou autou topou ontas veiou Markou oratiwn keleuei. ean de dovy, ho veiotatos Sebyros twn afylikwn pronooumenos hupeuvunon auton einai ty epitropy, ean my emprovesmws dikaiologysytai, antegraqen. [id est: Et pupillis libertinis ingenuos tutores vel curatores praesides non dabunt, nisi plane desint in ea civitate libertini: nam iis qui libertini ordinis sunt libertinos solos dandos esse ex eadem civitate oriundos divi Marci oratio iubet. quod si detur, divus Severus pupillis prospiciens obligatum eum esse tutelae rescripsit, nisi intra tempus se excusasset.]
+
+5. Ouk ecestin kouratoreuein mnystyra mnystys, hws hy sugklytos legei: xeirotonyveis de ho toioutos apoluvysetai. [id est: Non licet curatorem esse sponsum sponsae, ut ait senatus: quod si talis datus erit, excusabitur.]
+
+27.1.2
+
+Modestinus libro secundo excusationum
+
+pr. Afientai epitropys kai kouratorias kai ohi hebdomykonta ety peplyrwkotes. huperbebykenai de dei ta hebdomykonta ety en ekeinw tw xronw en hw xeirotoneitai, y en hw ty klyronomia proserxetai tis, y en hw hy ahiresis hy ty diavyky prosgrafeisa peplyrwtai, ouk entos twn xronwn tys paraitysews. [id est: Liberantur a tutela et cura etiam qui annum septuagesimum expleverunt. explevisse autem opus est annum septuagesimum, quo tempore dantur vel quo tempore hereditas aditur vel quo tempore condicio testamento expressa impletur, non intra tempora excusationis.]
+
+1. Hy de hylikia deiknutai y ek paidografiwn y ec heterwn apodeicewn nomimwn. [id est: Aetas autem probatur vel liberorum professionibus vel aliis iustis probationibus.]
+
+2. Afiysin epitropys kai kouratorias kai polupaidia. [id est: Liberat a tutela et cura etiam numerus liberorum:]
+
+3. Nomimous de paidas einai dei pantas, kan my wsin en ecousia. [id est: iustos autem liberos esse oportet omnes, licet non sint in potestate.]
+
+4. Dei de einai tous paidas hote ohi pateres didontai epitropoi: ohi gar prin teleutysantes ou sunarivmountai, oute palin blaptousin ohi meta touto apovanontes: kai tauta fysi diatacis tou veiotatou Sebyrou. [id est: Esse autem oportet liberos tum cum patres dantur tutores: nam ante mortui non conumerantur nec rursus nocent postea defuncti, idque constitutio divi Severi ait.]
+
+5. Touto de dokei men eirysvai peri tou kata diavykas doventos epitropou: harmozoi de an kai epi pantos heterou. [id est: Videtur autem hoc dictum esse de tutore testamento dato: sed locum habet etiam de omni alio.]
+
+6. Ho de en ty gastri wn ei kai en pollois meresin tou nomou sunkrinetai tois ydy gegenymenois, homws oute en ty parousy zytysei oute en tais loipais politikais leitourgiais sunairetai tw patri: kai touto eirytai diatacei tou veiotatou Sebyrou. [id est: Qui in utero est etsi in multis partibus iuris cum iam natis componitur, tamen neque in hac inquisitione neque in reliquis muneribus civilibus patri prodest, idque dictum est in constitutione divi Severi.]
+
+7. Ou monon de uhioi afesin epitropys didoasin kai vugateres, alla kai eggonoi ec uhiwn arrenwn texventes arrenes te kai vyleiai. boyvousin de tote, hopotan tou patros autwn apovanontos ton ekeinou topon plyrwswsin tw pappw. hosoi d' an wsin eggonoi ec henos uhiou, anti henos teknou arivmountai. tauta de kai ek diatacewn, ahi peri twn teknwn dialegontai, estin sunagagein: oudamou gar estin hradiws ehurein, hoti peri uhiwn dialegetai diatacis, alla peri teknwn: hy de prosygoria ahute kai epi tous eggonous ekteinetai. [id est: Non solum autem filii liberationem a tutela dant et filiae, sed etiam nepotes ex filio nati neptesqur: prosunt autem tum cum praemortuo patre suo locum eius apud avum obtinet, quotque sunt nepotes ex uno filio, pro uno filio numerantur. idque etiam ex constitutionibus, quae de liberis loquuntur, colligitur, neque enim facile invenies constitutionem de filiis, non de loberis loquentem, quod nomen ad nepotes quoque pervenit.]
+
+8. Ton de arivmon twn teknwn ton hwrismenon tais diatacesin einai dei hekastw tote, hote xeirotoneitai, ouxi kan meta to xeirotonyvynai genyvy pro tou ta dikaia tys afesews parasxesvai: ohi gar meta touto gegenymenoi ou boyvousin, hws diatacis fysin Sebyrou kai Antwninou. [id est: Numerum autem liberorum a constitutionibus praefinitum tum esse cuivis oportet, cum datur, non etiamsi post creationem [potius non post creationem, etiamsi] ante quam causae excusationis allegentur nascantur. qui enim postea nati sunt, non prosunt, ut constitutio Severi et Antonini dicit.]
+
+9. Eti myn kai ohi treis exontes epitropas y treis kourationas y anamemigmenas treis kouratorias te kai epitropas kai eti menousas, tout' estin mypw ekbantwn tyn hylikian twn afylikwn, ohutoi afientai eis tetartyn epitropyn y kouratorian kaloumenoi. alla myn kan kouratwr tis y my afylikos, alla mainomenou, eis ton arivmon twn kouratoriwn kai auty hupologisvysetai hy kouratoria: hoper ohutws exein didaskei diatacis Sebyrou kai Antwninou. legei kai ho kratistos Oulpianos peri twn triwn epitropwn tauta. [id est: Praeterea etiam qui habent tres tutelas vel tres curas vel permixtas tres tutelas curasve easque adhuc durantes, id est eorum qui nondum pervenerunt as suam aetatem, ii liberantur ad quartam tutelam curamve vocati. Sed etiam si curator quis sit non adulescentis, sed furiosi, in numero curarum et haec cura computatur: quod ita se habere ostendit constitutio Severi et Antonini. dicit etiam praestantissimus Ulpianus de tribus tutelis haec.]
+
+27.1.3
+
+Ulpianus libro singulari de officio praetoris tutelaris
+
+Tria onera tutelarum dant excusationem. Tria autem onera sic sunt accipienda, ut non numerus pupillorum plures tutelas faciat, sed patrimoniorum separatio: et ideo qui tribus fratribus tutor datus est, qui indivisum patrimonium haberent, vel quibusdam tutor, quibusdam curator, unam tutelam suscepisse creditur.
+
+27.1.4
+
+Modestinus libro secundo excusationum
+
+pr. Efamen treis exontas epitropas eis tetartyn my kaleisvai. ezytyvy toinun, ean tis en duo wn epitropais eita eis epitropyn trityn problyveis ekkalesytai kai eti metewrou ousys tys dikys tys epi ty ekklytw eis tetartyn epitropyn problyvy, poteron eis tyn tetartyn dikaiologoumenos mnysvysetai kai tys tritys y pantapasin paraleiqei ekeinyn. kai ehuriskw hupo twn veiotatwn Sebyrou kai Antwninou diatetagmenon my dein eis tetartyn proxeirizesvai ton apo tys tritys ekklyton pepoiymenon, alla metewrou ousys tys epi ty trity xeirotonia dikaiologias to ekeinys telos perimenein horon esomenon ty tetarty xeirotonia, orvw tw logw: ei gar tyn ty tacei tetartyn hupodecetai tis hws ty dunamei trityn, adikou tys epi ty trity ekklytou apofanveisys tessarsi xreiais enkatasxevysetai para tous nomous. [id est: Diximus eos qui tres tutelas habeant ad quartam non vocari. quaesitum est igitur, si quis duas tutelas sustinens, deinde ad tertiam tutelam nominatus appellaverit et pendente adhuc iudicio appellationis in quartam tutelam nominetur, num in excusando se a quarta etaiam tertiam allegaturus sit an hanc plane omissurus. et reperio constitutum esse a divis Severo et Antonino non debere ad quartam tutelam eligi eum, qui a tertia appellarit, sed pendente de tertia datione iudicio expectandum esse eius finem, et inde pendere quartam dationem, recte: nam si quis ordine quartam suscipiat tamquam re tertiam, iniusta eius de tertia appellatione iudicata quattuor tutelis onerabitur contra iura.]
+
+1. Ean patyr en trisin y frontisin y epitropwn y kouratoriwn, ho uhios autou ouk enoxlyvysetai, kai touto ohutw diatetaktai hupo twn veiotatwn Sebyrou kai Antwninou. touto de kai ek tou enantiou estin, hws dein tas tou uhiou epitropas anesin tw patri didonai kai palin amfoterois tas koinas, tout' estin mian tou uhiou kai duo tou patros ye eis to empalin. tote de tauta ohutws exei, epeidan to baros heni oikw, ouxi diakexwrismenois diafery. grafei de kai oulpianos ho kratistos tauta. [id est: Si pater tria onera sustineat sive tutelarum sive curarum, filius eius non onerabitur, idque ita constitutum est a divis Severo et Antonino. id etiam e contrario valet: scilicet debent filii tutetae patri liberationem parare, et rursus utrique communes, id est una filii duaeque patris vel in contrarium. tum autem haec ita se habent, cum onus ad eandem domum, non ad separatas pertinet. scribit etiam praestantissimus Ulpianus haec.]
+
+27.1.5
+
+Ulpianus libro singulari de officio praetoris tutelaris
+
+Tria onera in domo una esse sufficit: proinde si pater alicuius vel filius vel frater qui est in eiusdem potestate tria onera sustineat, quae ad periculum patris sui spectent, quia voluntate eius administrant, omnibus excusatio a tutela competit. Sed si non patris voluntate administrent, non prodesse saepe rescriptum est.
+
+27.1.6
+
+Modestinus libro secundo excusationum
+
+pr. Ean duo exonti epitropas allai duo homou epaxvwsin, hy ty tacei trity boyvysei autw eis tyn afesin tys tetartys, kan autokratwr y ho tyn tetartyn egxeirisas, y tyn trityn, prin mentoi gnwnai ta tou autokratoros fvasy problyveis eis allyn. ean de hy tacis my fainytai, alla en mia hymera ahi duo xeirotoniai protevwsin en diaforois xartais, oux' ho xeirotonyveis, alla ho xeirotonysas epilecetai, hopoian dei auton hupodecasvai. [id est: Si quis tutelas habenti duae aliae simul iniungantur, ordine tertia ei procedit in liberationem a quarta, etsi imperator sit qui quartam iniunxit, vel tertiam, prius tamen, quam imperatoris resciverit, as aliam vocatus sit [immo vel quarta in liberationem a tertia, si tamen, priusquam de tertia resciverit, ab imperatore ad aliam vocatus sit]. quod si ordo non appareat, sed eodem die duae nominationes proponantur in instrumentis diversis, non qui factus est, sed qui eum fecit eliget, utram subire debeat.]
+
+1. Grammatikoi, sofistai hrytores, iatroi ohi periodeutai kaloumenoi hwsper twn loipwn leitourgiwn ohutwsi de kai apo epitropys kai kouratorias anapausin exousin. [id est: Grammatici, sophistae rhetores, medici qui dicuntur circitores ut a reliquis muneribus, ita etiam tutelae curaeque vacationem habent.]
+
+2. Estin de kai ho arivmos hrytorwn en hekasty polei twn tyn aleitourgysian exontwn, kai ahireseis tines proskeimenai tw nomw, hoper dyloutai ec epistolys Antwninou tou eusebous grafeisys men tw koinw tys Asias, panti de tw kosmw diaferousys, hys estin to kefalaion touto hupotetagmenon: " ahi men elattous poleis dunantai pente iatrous ateleis exein kai treis sofistas kai grammatikous tous isous: ahi de meizous poleis hepta tous verapeuontas, tessaras tous paideuontas hekateran paideian: ahi de megistai poleis deka iatrous kai hrytoras pente kai grammatikous tous isous. huper de touton ton arivmon oude hy megisty polis tyn ateleian parexei". eikos de tw men megistw arivmw xrysasvai tas mytropoleis twn evnwn, tw de deuterw tas exousas agoras dikwn, tw de tritw tas loipas. [id est: Est autem etiam numerus definitus eorum qui in singulis civitatibus immunitatem habeant, et condiciones quaedam in lege adiectae sunt: quod intellegitur ex epistula Antonini quae data est ad commune Asiae, sed pertinet ad orbem universum, cuius est caput infra scriptum: "Civitates minores possunt habere immunes medicos quinque et sophistas tres eodemque numero grammaticos: maiores civitates septem qui medeantur, [quattuor sophistas, item ins.] quattuor qui doceant litteras utrasque: maximae vero medicos decem et rhetores quinque eodemque numero grammaticos. super hunc autem numerum ne maxima quidem civitas immunitatem confert". apparet autem maximo numero uti metropoles provinciarum, secundo civitates in quibus ius dicitur, tertio reliquas.]
+
+3. Touton ton arivmon huperbainein men ouk ecestin oute qyfismati boulys oute ally tini pareuresei, elattoun de ecestin, epeidyper huper twn politikwn leitourgiwn fainetai to toiouto ginomenon. [id est: Hunc numerum excedere quidem non licet neque decurionum decreto neque alio aliquo invento, minuere licet, quoniam apparet eo iuvari munera publica.]
+
+4. Kai mentoi ouk allws tyn aleitourgysian tautyn karpwsontai, ean my dogmati boulys enkatalegwsin tw arivmw tw sugkexwrymenw kai peri to ergon oligwrws my exwsin. [id est: Debique non aliter immunitate illa fruentur, nisi decreto decurionum in numerum permissum referantur et officio non neglegentur fungantur.]
+
+5. Kai filosofous de apoluesvai epitropwn Paulos grafei ohutws [id est: Philosophos quoque a tutelis liberari Paulus scribit sic]: philosophi oratores grammatici, qui publice iuvenibus prosunt, excusantur a tutelis.
+
+6. Nam et Ulpianus libro quarto de officio proconsulis ita scribit: sed et reprobari medicum posse a republica, quamvis semel probatus sit, imperator noster cum patre Laelio Basso rescripsit.
+
+7. Peri de twn filosofwn hy auty diatacis tou Piou ohutw legei: "Filosofwn de ouk etaxvy arivmos dia to spanious einai tous filosofountas: oimai de hoti ohi ploutw huperballontes evelontai parecousin tas apo twn hrymatwn wfeleias tais patrisin: ei de akribologointo peri tas ousias, autoven ydy faneroi genysontai my filosofountes". [id est: De philosophis autem eadem constitutio Pii sic dicit: "Philosophorum autem numerum non definimus, quoniam pauci sunt qui philosophantur. puto autem divitiis abundantes munera quae ad rem familiarem pertinent sponte praebituros patriis suis: quod si cavillentur de patrimoniis, eo ipso iam se declarabunt non sapientae studiosos".]
+
+8. Estin de kai en tais tou basilews kommodou diatacesin engegrammenon kefalaion ec epistolys antwninou tou eusebous, en hw dyloutai kai filosofous aleitourgysian exein apo epitropwn. estin de ta hrymata tauta: "homoiws de toutois hapasin ho veiotatos patyr mou parelvwn euvus epi tyn arxyn diatagmati tas huparxousas timas kai ateleias ebebaiwsen, graqas filosofous hrytoras grammatikous iatrous ateleis einai gumnasiarxiwn agoranomiwn hierwsunwn epistavmiwn sitwnias elaiwnias kai myte krinein myte presbeuein myte eis strateian katalegesvai akontas myte eis allyn autous hupyresian evnikyn y tina allyn anagkazesvai". [id est: Sed est etiam in constitutiones imperatoris Commodi relatum caput ex epistula divi Pii, unde manifestum fit etiam philosophos vacare a tutela, verba autem haec sunt. Similiter his omnibus divus pater meus simulatque imperare coepisset edicto honores et immunitates confirmavit, scribens philosophos rhetores grammaticos medicos vacare a gymnasiarchiis et agoranomiis et sacerdotiis et hospitis recipiendi onere et cura frumenti oleive emendi, item neque iudicare reque legationibus fungi neque invitos militiae nomen dare neque aliud munus provinciale vel aliud quodquam ut suscipiant cogi.]
+
+9. Eti kakeino eidenai xry, hoti ho en ty idia patridi didaskwn y verapeuwn tyn aleitourgysian tautyn exei: ean gar Komaneus wn en Neokaisareia sofisteuy y verapeuy y didasky, para Komaneusin aleitourgysian ouk exei. kai touto ohutw nenomovetytai hupo twn veiotatwn Sebyrou kai Antwninou. [id est: Hoc quoque sciendum est in sua quemque civitate profitentem vel curantem immunitatem eam habere: cum autem qui Comanus est Neocaesareae rhetoricam tradit vel curat vel docet, apud Comanos immunitatem non habet, idque ita ordinatum est a divis Severo et Antonino.]
+
+10. Tous mentoi agan epistymonas kai huper ton arivmon kai en allotria patridi tas diatribas poioumenous einai aleitourgytous Paulos grafei, legwn ton veiotaton Antwninon ton Euseby ohutw kekeleukenai. [id est: Attamen valde doctos etiam super numerum et in aliena civitate morantes immunes esse Paulus scribit, dicens divum Antoninum Pium ita iussisse.]
+
+11. Ton en Rhomy sofisteuonta y salariw y kai xwris salariou afesin exein nenomovetytai hupo twn veiotatwn Sebyrou kai Antwninou, ohutws hws an ei etuxen en idia patridi didaskwn. ahis nomovesiais dunatai tis ekeinon prosagagein ton logon, hoti koinys ousys te kai nomizomenys patridos tys basileuousys eikotws an hws en idia patridi xrysimon heauton parasxwn aleitourgysian karpwsetai. [id est: Eum qui Romae rhetor est sive salario constituto sive sine salario vacationem habere constitutum est a divis Severo et Antonino, tamquam si in sua civitate peofiteretur. quarum constitutionum possit quis eam rationem reddere, quod cum urbis aeterna communis patria et sit et habeatur, recte tamquam qui in propria patria eius utilitatibus inservit immunitate fruatur.]
+
+12. Nomwn de didaskaloi en eparxia didaskontes afesin ouk hecousin, en hrwmy de didaskontes afientai. [id est: Qui ius civile docent in provincia, vacationem non habent, Romae docentes habent.]
+
+13. Ulpianus libro singulari de officio praetoris tutelaris ita scribit: athletae habent a tutela excusationem, sed qui sacris certaminibus coronati sunt.
+
+14. Evnous hierarxia, ohion Asiarxia, Bivunarxia, Kappadokarxia, parexei aleitourgysian apo epitropwn, tout' estin hews an arxy. [id est: Provinciae sacerdotium, ut Asiarchia, Bithynarchia, Cappadocarchia, immunitatem praestat a tutela, scilicet donec quis eo fungitur.]
+
+15. Tutela non est rei publicae munus nec quod ad impensam pertinet, sed civile: nec provinciale videtur tutelam administrare.
+
+16. Afientai epitropys kai kouratorias stratygoi twn polewn. [id est: Excusantur a tutela vel cura magistratus municipales.]
+
+17. Didwsin afesin epitropys kai kefaliky exvra tw xeirotonyventi genomeny pros ton patera twn orfanwn, ektos ei my kata diavykas faneiy doveis ho epitropos, plyn ei my meta to grafynai tyn diavykyn kefalikos agwn autois pros allylous sunesty, y ei my presbutera men estin tys diavykys hy exvra, dia touto de dokei didosvai epitropos, hina hupoblyvy enoxy kai pragmasin: kai touto ec epistolys Sebyrou basilews deiknutai. [id est: Vacatonem tutelae dant et inimicitiae capitales, quae inter tutorem satum et patrem pupilorum extiterunt, nisi si ex testamento tutor datus est, praeterquam ubi post scriptum testamentum capitales inimicitiae inter eos extiterunt vel ubi inimicitiae quidem coeperunt ante testamentumm, ideo autem datus videtur esse tutor, ut obligatione et negotiis oneretur: idque apparet ex epistula imperatoris Severi.]
+
+18. Eti apoluetai epitropys, hopotan amfisbytysin tis tw orfanw peri tys katastasews kiny, fainytai de touto my sukofantia poiwn, all` ek kalys pistews: kai touto ohi veiotatoi Markos kai Byros enomovetysan. [id est: Praeterea a tutela liberatur si quis pupillo de statu quaestionem moverit idque eum appareat fecisse non fraude, sed bona fide, idque divi Marcus at Verus constituerunt.]
+
+19. Peri twn agroikwn kai twn tapeinwn kai twn agrammatwn grafei Paulos ohutwsi [id est: De rusticis et humilibus et de iis qui litteras nesciunt sic scribit Paulus]: mediocritas et rusticitas interdum excusationem praebent secundum epistulas divorum Hadriani et Antonini. Eius qui se neget litteras scire, excusatio accipi non debet, si modo non sit expers negotiorum.
+
+27.1.7
+
+Ulpianus libro singulari excusationum
+
+Paupertas sane dat excusationem, si quis inparem se oneri iniuncto possit probare, idque divorum fratrum rescripto continetur.
+
+27.1.8
+
+Modestinus libro tertio excusationum
+
+pr. Ohi palai stratiwtai ohi epitimws plyrwsantes ton tys strateias xronon afesin exousin epitropwn pros pantas tous idiwtas. pros de tous paidas twn tys autys tacews kekoinwnykotwn y pantwn palai stratiwtwn entos men eniautou tou apostrateusasvai afesin exousin, meta de eniauton ouketi. to gar isotimon tys strateias isxuroteron enomisvy tys twn palai stratiwtwn pronomias, ean my ara alla exwsin dikaia pros paraitysin epitropys, ohion arivmon etwn y ti toiouto, hopoion kai tois idiwtais pros hapantas sunairesvai eiwven. tauta de peri uhiwn, ouxi peri ekgonwn twn palai stratiwtwn: ohi gar ekgonoi twn palai stratiwtwn en ty auty xwra twn loipwn idiwtwn einai pisteuvysontai. [id est: Veterani qui honeste militiae tempus expleverunt vacationem habent a tutelis afversus paganos omnes: adversus liberos autem eorum, qui in eadem legione simul militaverunt veteranorumve omnium intra annum post missionem excusationem habent, post annum non amplius, nam militiae existimatio aequabilis plus valet quam privilegium veteranorum, scilicet nisi alias causas habent excusandi se a tutela, ut aetatem, vel tale quid, quale etiam paganis adversus omnes prodesse solet. haec de filiis neque vero de nepotibus veteranorum: nam nepotes veteranorum eodem loco esse creduntur ac privati reliqui.]
+
+1. Ohi mentoi atimws apostrateusamenoi homoioi tois myde strateusamenois nomizontai, kai dia touto oute autoi exousin pronomian oute tois toutwn paisin palai stratiwtai epitropoi doventes katasxevysontai. [id est: Ignominiose autem a militia dimissi perinde habentur ac qui non militaverunt, itaque neque ipsi privilegium habent neque liberis eorum veterani tutores dati tenentur.]
+
+2. Esv' hote de ou plyrousi tines ton tys strateias xronon kai homws exousin afesin epitropwn kata ta auta tois plyrwsasin: ho gar eikoston etos tys strateias huperbas homoios einai pisteuetai tw plyrwsanti ton tys strateias xronon. [id est: Interdum autem quidam non explent militiae tempus et nihilo minus habent excusationem a tutelis similiter ac qui expleverunt: nam viginti stipendia supergressus perinde habetur ac qui implevit militiam.]
+
+3. Ho de entos toutwn twn etwn afeveis ouk exei diyneky tyn epi tais epitropais aleitourgysian, alla pros xronon, hwsper kai twn loipwn politikwn leitourgiwn afesin exei. ho men gar entos pente etwn tys strateias apoluveis oudemian heautw ekdikysei aleitourgysian, ho de meta pente henos eniautou exei aleitourgysian, ho de meta oktw dieteias, ho de meta dwdeka trieteias, ho de meta dekaec tetraeteias, ho de meta eikosin, hws proeipomen, diynekws apoluvysetai. [id est: Sed qui intra hunc annum missus est, non habet perpetuam a tutelis vacationem, sed ad tempus, ut etiam a reliquis civilibus muneribus vacationem habet. nam qui intra quinquennium a militia missus est nullam sibi immunitatem vindicabit: qui post quinquennium, vacationem habet anni, qui post annos octo, annorum duorum, qui post duodecim, annorum trium, qui post sedecim, annorum quattuor: post viginti autem ut diximus perpetuo liberabitur.]
+
+4. Ho de en tois nuktofulacin tois en hrwmy strateusamenos eniautou monou exei afesin. [id est: Sed qui inter vigiles qui Romae sunt permilitavit, anni tantum vacationem habet.]
+
+5. Ohutoi de dylady ean entimws apoluvwsin, hwsper proeirytai, y dia noson kaloumenyn kausarian afesin labwsin (estin gar kai auty entimos): ho gar atimou tuxwn afesews ouk exei anapausin. [id est: Hi [excusantur a tutelis excepta una conveterani ins.] scilicet, si honeste dimittantur, ut diximus, vel propter morbium quam dicunt causariam mussionem accipiant (est enim ea et ipsa honesta): nam ignominiose missus vacationem non habet.]
+
+6. Sunbeteranos de einai pisteuetai ou monon ho legewnarios, alla kai pas pantos tou hopououn strateusamenou, epitimws de kai autou apoluventos: kai gar legewnarios tou en tois nuktofulacin strateusamenou paidwn epitropos ginetai. [id est: Conveteranus autem habetur non solum legionarius, sed quivis cuiusvis, quocumque loco militaverit, modo et ipse honeste missus sit: nam legionarius quoque eius, qui inter vigiles meruit, liberorum tutor fit.]
+
+7. Ydy de kai stratiwtou afylikos kouratwr dovysetai ho palai stratiwtys, dylady ean ho patyr autou apovany: ean de kai ohutoi apo xeiros apoluvwsin, homoiws. [id est: Etiam militi minori curator veteranus dabitur, scilicet patre eius mortuo: item si eiusmodi milites emancipentur, similiter.]
+
+8. Kai toutois hapasin diataceis marturousin. [id est: Et de his omnibus testantur constitutiones.]
+
+9. Grafei de kai Oulpianos ohutws [id est: Scribit etiam Ulpianus sic]: Sed ignominia missi ab urbicis plane tutelis excusabuntur, quia ingredi eis urbem non licet. Plane si quis in cohortibus urbanis permilitavit, licet ante viginti annos mittitur, tamen perpetuam habet a tutelis excusationem.
+
+10. Ezytyvy de poteron mian hapac epitropyn anadexontai ohi palai stratiwtai, y heni kairw ou pleon tou hapac, pauomenys de tys prwtys epitropys palin analyqontai. all' hwsper epi twn idiwtwn ahi pausamenai ou boyvysousin tois esxykosi oude eis tas treis qyfizontai, ohutws kai epi twn palai stratiwtwn ouk wfelei to gegenysvai. touto de kai epi twn kouratoriwn estin nenomovetymenon, hws dyloi veia diatacis Sebyrou kai Antwninou. [id est: Quaesitum est, utrum unam semel omnino tutelam veterani suscipiant an simul non plus una, prima autem tutela finita rursus [immo aliam] suscipiant. at sicut apud paganos finitae non proderunt iis qui eas gesserunt neque inter tres computantur, ita etiam apud veteranos non prodest fuisse tutorem. id etiam de curis constitutum est, ut declarat sacra constitutio Severi et Antonini.]
+
+11. Kai ouden diaferei, pws deysontai ohi paides tou sunstratiwtou epitropou y kouratoros, poteron apo xeiros apoluventes y tou patros apovanontos. [id est: Neque interest, quam ob rem commilitonum liberi indigeant tutoris curatorisve, utrum propter emancipationem an patre mortuo.]
+
+12. Primipilarioi ek diatacewn basilikwn paraitysin exousin twn loipwn epitropwn, primipilariou de uhiwn epitropeusousin. primipilarioi de ohutoi nomizontai ohi dianusantes to primipilon: ean de my dianusas apovany, toutou twn paidwn primipilarios ouk epitropeusei. [id est: Primipilares ex sacris constitutionibus excusationem habent a tutelis reliquis: primipilaris tamen filiis tutores erunt. primipilares autem habentur primipilo perfuncti: quod si quis ante quam eo perfungatur, moriatur, huius liberis primipilaris tutor non erit.]
+
+27.1.9
+
+Ulpianus libro singulari de officiis praetoris tutelaris.
+
+Si tribunus in cohortibus praetoriis permilitaverit, etiam collegarum filiorum tutela excusabitur beneficio divi Severi et imperatoris nostri.
+
+27.1.10
+
+Modestinus libro tertio excusationum
+
+pr. Ou monon de ohi tas apo kaligos strateias kai tas loipas primipilarioi strateusamenoi, alla kai ohi hopwsoun xreias dymosias dymou hrwmaiwn heneka apodymysantes eniautou exousin anapausin meta to epanelvein. [id est: Non tantum autem qui militaverunt et caligati et reliqui, scilicet primipilares [scil. prim. del.], sed etiam qui quocumque modo rei publicae populi Romani causa afuerunt, anni vacationem habent  post reditum.]
+
+1. Ho mentoi eniautos ohutos ou monon tois plyrwsasin ton sunyvy tys strateias kairon en tais loipais dymosiais xreiais didotai, alla kai tois hopwsoun pausamenois tys dymosias xreias kai epanelvousin, kan elattona xronon diatriqwsin tou diatetagmenou. [id est: Annus autem hic datur non solum iis, qui consuetum militiae tempus permanserunt in reliquis publicis officiis, sed etiam iis qui quomodocumque publicum officium deposuerunt et reversi sunt, etsi minore quam constitutum est tempore officio functi sunt.]
+
+2. Has mentoi proteron eixon epitropas, dia de touto apevento hoti dymosiou heneka pragmatos apedymoun, tautas epanelvontes parauta epanalyqontai ouden autois boyvountos tou eniautou: ho gar eniautos pros tas mellousas kainas didontai, ouxi pros tas analyfvynai ofeilousas. [id est: Sed quas antea habebant tutelas, propter hoc autem deposuerunt, quod rei publicae causa profecti sunt, eas reversi statim recipient, ut annus iis nihil proficiat: nam annus datur propter tutelae novas futuras, non propter recipiendas.]
+
+3. Eniautos de sunymmenwn hymerwn ecetasvysetai, ec hotou tis epanylven euveian hodon euvunwn y dieuvunein ge ofeilwn, ouxi tyn ek periodwn. [id est: Annus autem computabitur dierum continuorum, ex quo quis regressus est rectam viam tenens vel certe quam tenere deberet non deflectens alio.]
+
+4. Kai ohi kata diavykas doventes epitropoi paraitysontai kata nomous ton xeirismon twn en ally eparxia ontwn ktymatwn, hws dyloi hy hupotetagmeny tou veiotatou Sebyrou diatacis [id est: Etiam testamento dati tutores excusare se poterunt iure ab administratione rerum quae in alia provincia sunt, ut declarat infra scripti divi Severi constitutio]: "Divi Severus et Antoninus Augusti Valerio. Testamento tutor datus ante praefinitum diem adire debuisti et postulare, ut ab administratione rerum, quae in alia provincia erant, liberareris".
+
+5. Ho primipilon dianusas ean epitropyn decamenos henos paidiou palin eis tas stratiwtikas xreias analyfvy, apovysetai tyn frontida tys epitropys. [id est: Primipilo perfunctus si recepta tutela pueri unius rursus ad militaria officia se conferat, onus tutelae deponet.]
+
+6. Homoiws kai eis ton topon ekeinou tou epitropou, hon meta tauta sunkavedron heautw tis apygagen, dovysetai kouratwr, hws fysin diatacis tou veiotatou sebyrou: hyn orvws efarmozwn pasin tois homoiois kefalaiois kouratora didosvai erei eis ton topon twn xronou anapausin lambanontwn. [id est: Similiter etiam in locum eius tutoris, quem postea adsessorem sibi quis abduxit, curator dabitur, ut ait constitutio divi Severi, quam qui recte applicat ad capita similia omnia, curatorem dari dicet in locum eorum, qui ad tempus vacationem accipiunt.]
+
+7. Ean apeleuveros dovy afylic hupo patrwnos epitropos tois teknois autou, y kai heteros hoiosdypote elattwn twn eikosi pente eniautwn, hews men afylic y, ouk enoxlyvysetai. en tosoutw de heteros eis topon autou xeirotonyvysetai kydemwn. homoios estin toutw kai ho nomimos epitropos, ean afylic wn tuxy: kai gar kai eis ton topon toutou kydemwn en tw tews dovysetai. [id est: Si libertus dabitur minor a patrono tutor filiis vel etiam alius quivis minor viginti qinque annis, quamdiu minor erit, non obligabitur, sed interim alius in locum eius curator constituetur. cui similis est etiam legitimus tutor, si forte minor sit: nam etiam in huius locum curator interim dabitur.]
+
+8. Ean tis ohutws nosysy, hws dein auton my pantapasin afevynai epitropys, eis ton topon autou kouratwr didotai. hraisas de palin ohutos analyqetai tyn epitropyn. ei de kai tis eis manian empesy, homoios estin toutw. ohutw kai oulpianos grafei [id est: Si quis ita aegrotet, ut non opus sit eum omnino a tutela liberare, in locum eius curator datur et ubi convaluerit, rursus ipse titelam suscipiet. sed et si quis in furorem inciderit, illi similis est. ita etiam Ulpianus ait ]: adversa quoque valetudo excusat, sed ea, quae impedimento est, quo minus quis suis rebus superesse possit, ut imperator noster cum patre rescripsit:
+
+27.1.11
+
+Paulus libro singulari de excusationum tutorum.
+
+Et non tantum ne incipiant, sed et a coepta excusari debent.
+
+27.1.12
+
+Modestinus libro tertio excusationum
+
+pr. Idem Ulpianus scribit: sed in hoc rescripto adiectum est solere vel ad tempus vel in perpetuum excusari, prout valetudo, qua adficitur. Furor autem non in totum excusat, sed efficit, ut curator interim detur.
+
+1. Eisin kai alloi, ohi, kan ydy wsin epitropoi y kouratores, diynekws loipon apoluontai tys frontidos, ohion ohi tyn hestian allaxou metaveinai tuxontes ec antigrafys basilews, eidotos men auton epitropeuein, to de metoikysai hrytws autw filotimoumenou, kai toutwn hekateron dylountos tois grammasin. [id est: Sunt alii quoque, qui, cum iam sint tutores curatoresve, in perpetuum deinceps onere liberantur, verbi gratia qui sedes alio transtulerunt ex rescripto principis, qui sciat eum tutorem esse et domicilii translationem expresse ei largiatur et utrumque litteris significet.]
+
+27.1.13
+
+Modestinus libro quarto excusationum
+
+pr. Eidenai xry hoti oute ohi xeirotonyventes epitropoi oute ohi kata diavykyn doventes ekkaleisvai anagkyn exousin, hws dyloi diatacis twn veiotatwn sebyrou kai antwninou. touto de parafulattein dei kai epi twn xeirotonyventwn kouratorwn: en oligois gar panu diallattousin ohi kouratores apo twn epitropwn. kata mentoi twn qyfwn twn ekballouswn autois tas eckousationas adeian hecousin ekkaleisvai. [id est: Sciendum est neque a magistratu datos tutores neque testamento datos necessitatem habere appellandi, observandum est etiam in curatoribus a magistratu datis, nam omnino vix differunt curatores a tutoribus. adversus sententias autem, quae excusationes iis eripiunt, ius habebunt appellandi.]
+
+1. Polla de parafulattein prosykei, hina epitrapwsin epitropoi y kouratores ta dikaia parasxesvai tys afesews. dei gar autous emprovesmws proselvein tw dikasty. eisin de ahi provesmiai ahutai: ho men gar en auty ty polei wn, hopou kexeirotonytai, y entos hekatostou miliou tys polews entos pentykonta hymerwn paraitysetai, y meta touto ou sugxwryvysetai, all' hecetai tys frontidos. kan toutwn ti my poiysy, estai en ty auty aitia, en hy yn an ei apefanvy tw idiw kindunw auton oligwrein pros to myde kataleipesvai autw tina hodon pros paraitysin. ho de huper hekaton milia tys polews apodymwn eikosi milia hecei arivmoumena autw kav' hekastyn hymeran, af' hys an gnw ( dei de autw mynuvynai hupo twn arxontwn y kata proswpon y epi tys oikias) kai ecwven toutwn allas triakonta hymeras exei pros dikaiologian. touto de diaferei kai tois kata diavykas doveisin, ean te epitropoi wsin ean te kouratores, ohus kouratoras bebaiousvai evos hupo tou hygoumenou. [id est: Sed multa observanda sunt, ut liceat tutoribus curatoribusve causas excusationes proferre. nam intra tempora iudicem adire oportet: tempora autem haec sunt. qui est in eadem civitate, ubi datur, vel intra centesimum miliarium ab ea, intra quinquaginta dies se excusabit aut post hoc non liberabitur, sed onere tenebitur. quorum si neutrum fecerit, in eadem causa erit, in qua fuisset, si iudicatum esset suo periculo eum cessare, cum praeterea nullam viam excusandi se reliquam habeat. qui autem plus centum milia a civitate abest, ei vicena milia computabuntur per singulos dies, ex quo sciat (denuntiandum autem est ei a magistratibus aut coram aut ad domum) et praeter hos alios triginta dies habebit ad causam agendam. hoc pertinet etiam ad testamento datos, sive tutores sint sive curatores, qui curatores confirmari solent a praeside.]
+
+2. Heteron de ekeino ehuriskomen ek tys markou nomovesias zytysews acion: tw gar en auty ty polei onti, en hy kexeirotonytai y entos hekaton miliwn pentykonta hymerwn edwken ho nomovetys provesmian. tw de huper hekaton milia diatribonti kav' hekastyn hymeran dein arivmeisvai eikosi milia ekeleusen kai ecwven toutwn allas triakonta hymeras prosevyken eis dikaiologian. hoven sumbainei, ean y tis apo hekaton hecykonta miliwn tas diatribas poioumenos, toutw einai provesmian oktw kai triakonta hymeron, oktw men twn hekaton hecykonta miliwn, hws kav' hekastyn hymeran eikosi miliwn arivmoumenwn, triakonta de tas pros tyn dikaiologian. estai oun en xeironi tacei ho porrhwven diatribwn tou entos hekaton miliwn ontos y en auty ty polei, eige toutois men aei pentykonta hymerai provesmias eisin, ekeinois de elattous. all' ei kai ta malista to hryton tou nomou tautyn apotelei tyn dianoian, homws hy gnwmy tou nomovetou allo bouletai. ohutws gar kai kerbidios skaibolas kai paulos kai domitios oulpianos ohi korufaioi twn nomikwn grafousin, faskontes ohutws dein tauta parafulattein, hws mydepote tini elattw didosvai twn pentykonta hymerwn provesmian, tote de makroteran, hopotan hy diarivmysis twn epi ty hodw hymerwn prostivememy tais triakonta hymerais, has pros dikaiologian ho nomos didwsin, huperbainei tas pentykonta hymeras, ohion ean tina fwmen apo tetrakosiwn tessarakonta miliwn diatribein: ohutos gar tys men hodou hecei hymeras eikosi duo, pros dikaiologian de allas triakonta. [id est: Aliud quoque invenimus hoc in ordinatione divi Marci, de quo videddum est. nam ei, qui est in eadem civitate, in qua datus est, vel intra centesimum miliarium, quinquaginta dierum spatium legis lator dedit, ei autem, qui extra centesimum miliarium habitat, per singulos dies vicena milia computari iussit et praeter hos alios triginta dies adiecit ad causam agendam. unde evenit, ut, si quis as militarium centesimum sexagesimum habitet, spatium habiturus sit dierum octo et triginta, octo scilicet propter milia centum et sexaginta utpote per singulos dies vicenis milibus computatis, triginta autem ad causam agendam. erit igitur deteriore loco qio longius habitat quam qui est intra centesimum miliarium vel in ipsa civitate, quoniam his semper quinquaginta dierum spatium datur, illis autem pauciorum. at etsi maxime verba legis hanc significationem habent, tamen sententia legis latoris aliud flagitat: et ita scribunt Cervidius Scaevola et Paulus et Domitius Ulpianus principes iuris auctorum et aiunt sic haec accipienda esse, ut numque ulli spatium minus quinquaginta dierum detur, tum autem longius, cu, summa dierum itineris adiuncta triginta diebus, quos ad causam agendam lex dedit, quinquaginta dies superat: ut si quem dicamus habitare ad miliarium quadringentesimum quadragesimum: is enim itineris habebit dies viginti duos et ad ius dicendum alios triginta.]
+
+3. Parafulacousin de tautyn tyn provesmian pantes ohi hopwsoun paraitoumenoi epitropyn y kouratorian y meros ge tautys. [id est: Hoc spatium observabunt quicumque a tutela curave parteve eius se excusant.]
+
+4. Akolouvon de estin pisteuein, hoti ei kai tini eidei paraitysews y tis xrwmenos, ouk allws akousvysetai, ean my fulacy tyn provesmian, ei my ara tys heteras polews politys estin. [id est: Consequens est ut dicamus, ut etsi quam excusationis speciem habeat quis, non aliter audiatur nisi spatium observet: modo ne sit alienae civitatis civis.]
+
+5. Ohutws de epanagkes estin fulattein tyn provesmian, hoti kan dikaiologysamenos afevy, my eleuverousvai auton ohi veiotatoi sebyros kai antwninos dylousin en diatacei keleusantes my krateisvai ton eis topon autou xeirotonyventa, hws ouk econ dedomenon eis topon ontos epitropou. [id est: Et ita necessarium est spatium servare, ut ne eum quidem liberatum esse, qui causa peracta excusatus sit, divi Severus et Antoninus in constitutione declararint, tutorem esse negantes eum, qui in locum eius datus sit, utpote non licito satum in locum eius qui sit tutor.]
+
+6. Apoxry de entos tys provesmias entuxein monon: ean gar meta tauta my hekwn apoleifvy, ouk estai paragraqimos. dioper ean afosiwsews xarin monon entuxy, my epimeiny de meta tauta ty dikaiologia, meta tyn provesmian hupopeseitai ty paragrafy. kai legei touto diatacis twn autokratorwn sebyrou kai antwninou. [id est: Sufficit autem intra spatium adesse tantum: nam si postea non sua sponte abeat, non poterit praescribi. quare si dicis causa tantum adfuerit nec perseveret postea in causa agenda, post spatium in praescriptionem incidet; idque ait constitutio imperatorum Severi et Antonini.]
+
+7. Ean gar tis dia noson y di' allyn anagkyn, ohion valassys y xeimwnos y efodou lystwn y tina heteran paraplysian, emprovesmws my dunytai entuxein, sungnwmys tugxanein. ohu tyn pistin yrkei sustysai kai ec autou tou fusei dikaiou, plyn alla kai diatacis estin twn autokratorwn sebyrou kai antwninou tauta legousa. [id est: Nam si quis propter morbum vel aliam iustam causam, puta navigationis vel hiemis vel latronum incursus vel aliam similem, ad tempus adesse non possit, venia ei datur. qua de re satis erat constare vel ex ipso iure naturae: sed etiam constitutio est imperatorum Severi et Antonini in eam sententiam.]
+
+8. Eidenai de dei, hoti ouk apoxry to proselvein tw dikazonti, alla dei auton kai peri tou eidous tys afesews marturasvai, kai ei polla exei pros afesin dikaia, panta onomasai: ei de my, homoios estin tw myde tyn arxyn proselyluvoti ho proselvwn men, dikaion de afesews my onomasas. [id est: Sed sciendum est non sufficere iudicem adire, sed oportere etiam de specie excusationis testari, et qui multas habeat excusationis causas, omnes allegare; quod nisi dacit, similis est ei qui plane non adiit is qui adiit quidem, sed causam excusationis non edidit.]
+
+9. Ahi de pentykonta hymerai sunymmenai qyfizontai arxomenai apo tou kairou tys gnwsews, en hw tis egnw heauton dedosvai. [id est: Quinquaginta dies numerantur continui incipientes a tempore scientiae, quo quis se datum esse compererit.]
+
+10. Xry de mia marturasvai pro bymatos y allws epi hupomnymatwn: dunatai de kai biblidia epidounai xamaven, hws ohi autoi fasin autokratores. [id est: Oportet autem una [una del.] testari pro tribunali vel aliter apud acta: possunt autem et libelli edi de plano, ut aiunt iidem imperatores.]
+
+11. Tauta peri twn fulassein tyn provesmian ofeilontwn: peri de twn my hupokeimenwn tais provesmiais fere skeqwmeva. [id est: Haec de iis qui spatium observare debent: iam videamus de iis, qui spatiis non tenentur.]
+
+12. Ohi gar paranomws doventes epitropoi, tout' estin y huf' hwn my exryn, y ohutoi ohus my exryn, y ohis my exryn, y hon my exryn tropon, ean myte bebaiwvwsin myte efaqwntai tou xeirismou, eisin aneuvunoi, oude prooisei tis autois hoti tas provesmias ouk etyrysan twn paraitysewn: oude gar exousin paraitysews anagkyn, hws deiknutai ek twn hupotetagmenwn diatacewn, has paradeigmatos xarin hupetaca, efarmozointo de an pasin. [id est: Nam qui non iure dati sunt tutores, id est aut a quibus non debuerunt, aut qui non debuerunt, aut quibus non debuerunt, aut quomodo non debuerunt, si neque confirmantur neque administrationem attigerunt, liberi sunt: nec iis imputari potest quod tempora excusationis non servarint, neque enim excusare se necesse habent, ut apparet ex infra scriptis constitutionibus, quas exempli causa subieci, pertinent autem ad omnes.] Divi Severus et Antoninus Augusti Narcisso. Ab avo materno tutor datus necesse non habuisti excusari, cum ipso iure non teneris: si igitur administrationi te non miscuisti, potes esse securus". Homoiws de kai ean ton my hupokeimenon ty dikaiodosia xeirotonyswsin ohi arxontes epitropon y kouratora, oude ohutos anagkyn exei parafulassein tas provesmias, ohion ton myte polityn myte inkolan. [id est: idem est si iurisdicrioni non subiectum magistratus titorem curatoremve fecerunt, nam nec is cogitur tempora observare, qualis est qui nec civis est neque incola.]
+
+27.1.14
+
+Modestinus libro quinto excusationum
+
+pr. Apeleuveron en tw logw tw peri afesews epitropwn kai kouratorwn eidenai dei hoti ou monon tou patros tou orfanou, alla kai mytros noeisvai xry. [id est: Libertum in tractatu de excusatione tutorum et curatorum scire oportet non solum patris pupilli, sed matris quoque intellegi.]
+
+1. Kai hopotan de zytwmen peri paidwn patrwnos, eidenai xry hoti tyn prosygorian tautyn ouk en tw prwtw bavmw stysomen, tout' estin uhion kai vugatera, alla kai eggonous ec hekaterou kai tous efecys. [id est: Et ubi quaerimus de liberis patroni, scire oportet eam appellationem non primo gradu contineri, id est filium filiam significari, sed nepotes quoque ex utroque et deinceps.]
+
+2. Alla kai ean dikaion xruswn daktuliwn laby, eti diaswzei tyn twn apeleuverwn tacin en toutw, haper antegraqen ho veiotatos Antwninos ho Megas. [id est: Sed et si ius anulorum aureorum impetrarit, adhuc in hac quidem re liberti loco eum esse rescripsit divus Antoninus Magnus.]
+
+3. Ho idiw arguriw wnyveis kai apeleuverwveis oudamws sugkrinetai tois loipois apeleuverois. [id est: Qui sua pecunia emptus et manumissus est, nullo modo ceteris libertis comparatur.]
+
+4. Ean polloi apeleuverwswsin hena, pantwn tois teknois epitropos dovysetai kai apo triwn epitropwn ouk apoluvysetai. [id est: Si plures eundem manumiserint, omnium liberis is tutor dabitur nec excusabitur propter tres titelas.]
+
+27.1.15
+
+Modestinus libro sexto excusationum
+
+pr. Spadonta xeirotonysousin epitropon: oudemian gar exei paraitysin, hws deiknusin diatacis twn autokratorwn Sebyrou kai Antwninou. [id est: Spadonem dabunt tutorem: neque enim ullam excusationem habet, ut ostendit constitutio inperatorum Severi et Antonini.]
+
+1. Ho tw patri epaggeilamenos epitropeuein twn paidwn afiesvai tautys tys epitropys ou dunatai, kan allws exy dikaia aphesews. [id est: Qui patri promisit tutelam se suscrepturum liberorum, excusari ab hac tutela non potest, etsi praeterea causae excusationis habeat.]
+
+2. Eidenai dei hoti aciwma oudeni parecei paraitysin. hoven ean tis sugklytikos y, ohutos epitropeusei kai twn katadeesteras tacews ontwn sugklytikwn, hoper antegraqan ohi veiotatoi Markos kai Kommodos. [id est: Sciendum est dignitatem nemini excusationem praebere: unde qui senator est tutor erit etiam inferioris ordinis senatoribus, quod rescripserunt divi Marcus et Commodus.]
+
+3. Ei de tis epitropos y kouratwr wn my sugklytikou y allws aciwmatikou, eita husteron genytai sugklytikos, diynekws apoluetai tys frontidos. ei de ohi epitropeuomenoi y kouratoreuomenoi par' autou paides ysan sugklytikou, ouk apoluetai tys epitropys. [id est: Si quis [non senatorii ordinis ins.] eius qui neque senatoriae condicionis neque alioquin speciosus est, tutor curatorve constitutus deinde fiat senator, in perpetuum onere liberatur: sed si quorum tutelam curamve gerebat liberi erant senatoris, a tutela non liberabitur.]
+
+4. Homoiws de ho katadeesteras tacews wn ou paraitysetai epitropeuein y kouratoreuein twn meizonwn. [id est: Similiter qui inferioris ordinis est a superioris qui sunt tutela curare non excusabitur.]
+
+5. Myde librarious myde kalkoulatoras, ohus diaqyfistas legomen, exein aleitourgysian legousin ahi veiai diataceis. [id est: Neque librarios neque calculatores, quos diapsefistas dicimus, immunitatem habere aiunt sacrae constitutiones.]
+
+6. Ydy de kai ohi ioudaioi twn my ioudaiwn epitropeusousin, hwsper kai ta loipa leitourgysousin: ahi gar diataceis ekeinois monois anenoxlytous autous einai keleuousin, di' hwn hy vryskeia xrainesvai dokei. [id est: Iam Iudaei quoque tutelam suscipient non Iudaeorum, ut etiam reliquis muneribus fungentur: nam constitutiones iis solis eos subicere vetuerunt, quibus superstitio eorum laederetur.]
+
+7. Logisteia polews oude eis arivmon mias epitropys proxwrei. [id est: Cura rationum civitatis ne pro una quidem tutela numeratur.]
+
+8. Apeleuveroi gunaikwn sugklytikwn, kan dioikwsin ta autwn pragmata, ouk apoluontai epitropwn: touto gar tois twn arrenwn sugklytikwn apeleuverois monois sugkexwrytai. [id est: Liberti mulierum senatorii ordinis etsi earum res administrant, a tutelis non liberantur: hoc enim virorum senatorii ordinis libertis solis indultum est.]
+
+9. Ean ho tys polews arxwn, tout' estin ho stratygos diapiptouses autw tys xeirotonias hupeuvunos genytai kindunw epitropys, tautyn ou sunarivmysei allais epitropais, hwsper oude ho egguysamenos epitropyn, all' oude ohi kata timyn epitropoi grafentes. [id est: Quod si magistratus municipalis, id est strategos, cum nominatio ad eum pertineat periculo tutelae subiciatur, hanc cum aliis tutelis non connumerabit: nec magis qui de tutela fideiussit et ne ii quidem, qui honorarii tutores scripti sunt.]
+
+10. Ho tely memisvwmenos para polewn ouk afietai epitropys. [id est: Qui vectigalia conducta habet a civitatibus, a tutela non excusatur.]
+
+11. Ho polla dikaia exwn eipein, hwn hekaston kav' heauto ouk estin isxuron, ei dunysetai afevynai ezytyvy. ohion hebdomykonta men etwn ouk estin oude treis exei epitropas oude pente tekna y allo ti dikaion afesews, exei mentoi duo epitropas kai duo paidas kai hecykonta estin etwn, y alla tina toiauta legei kav' heauta men entely tyn boyveian my parexonta, ty de pros allyla koinwnia onta dikaiofany. all' edocen touton my afiesvai. [id est: Qui multas causas habere se dicit, quarum nulla per se valida sit, quaesitum est num possit excusari: verbi causa non habet septuaginta annos neque tres tutelas neque quinque liberos vel aliam causam excusationis, habet autem duas tutelas et duos liberos et est annorum sexaginta, vel alia quaedam eius modi profert, quae singula plenum auxilium non praebeant, sed inter se coniuncta iuris speciem habeant. magis tamen placuit eum non excusari.]
+
+12. Ho labwn y exwn aleitourgysian politikwn y dymosiwn leitourgiwn ohutos epitropys ouk afevysetai. [id est: Qui accipit vel habet immunitatem civilium sive publicorum numerum, a tutela non liberabitur.]
+
+13. Ho apoluveis epitropys y kouratorias ou pantws tois hupomnymasin pros afesin heteras xeirotonias xrysetai, ean my huparxy autw dikaia afesews. [id est: Excusatus a tutela curave non omnino actorum ratione ab alia nominatione liberabitur, nisi habet causas excusationis.]
+
+14. Ho faskwn heauton agnwston einai tw patri y ty mytri tou orfanou ou dia touto afevysetai. [id est: Qui novisse se negat patrem vel matrem pupilli, ob id non excusabitur.]
+
+15. Esv' hote kai ho treis exwn epitropas y kouratorias ouk exei dikaion afesews, ohion ean tis epitydeusy anadecasvai. ydy de kai ho metriou genomenos epitropos epitydeusai dokei. [id est: Interdum etiam qui tres tutelas curasve habet causam excusandi se non habet, ut si quis eas suscipere affectavit: affectasse autem videtur vel is qui tenuioris tutor factus est.]
+
+16. Ulpianus libro singulari de excusationibus ita scribit: si quis inter tres tutelas emancipati filii sui tutelam administret, an ei haec in numerum procedit, scio dubitatum: invenio tamen rescriptum emancipatae filiae tutelam numerari inter onera oportere.
+
+17. Ean tis xeirotonyvy epitropos wn en ty tou patros ecousia, eita ho patyr my bouloito huper autou asfalizesvai, ekeleusan ohi nomoi kai auton ton patera xeirotoneisvai epitropon, hws mydeni tropw diakrousvy to epi ty epitropy asfales: hws dyloi tou veiou hadrianou diatacis [id est: Si quis tutor datus sit in patria potestate constitutus, deinde pater pro eo cavere nolit, leges iusserunt patrem et ipsum tutorem fieri, ut omnimodo res pupillo salva sit, ut manifestat divi Hadriani constitutio]:  "Imperator Hadrianus Vitrasio Pollioni legato Lygdonensi. Si Clodius Macer, quamvis filius familias sit, idoneus tutor esse videbitur, pater autem eius idcirco cavere non vult, ut filium suum tutela eximat, et in hoc artificio perseveraverit, existimo te huic fraudi recte occursurum, ut et filius et ipse ad tutelam liberorum clementis gerendam compellantur".
+
+27.1.16
+
+Modestinus libro secundo responsorum
+
+Gaius testamento Nigidium filio suo tutorem dedit eundemque usque ad vicensimum quintum annum curatorem constituit: quaero, cum liceat Nigidio a curatione etiam citra appellationem se excusare, ex qua die tempora, quae in excusationibus observanda divus Marcus statuit, computanda sunt, utrum ex die aperti testamenti, an ex quo ad negotia gerenda vocatur, id est post quartum decimum annum impletum. Modestinus respondit excusationem a cura tunc necessariam esse, cum decreto praetoris seu praesidis confirmatus curator fuerit.
+
+27.1.17
+
+Callistratus libro quarto de cognitionibus
+
+pr. Non tantum magnitudo patrimoniorum ineunda est susceptarum trium tutelarum quaeque suscipienda est, sed etiam aetas pupillorum consideranda est: nam si priorum pupillorum aetas prope pubertatem sit, ita ut tantummodo semenstre tempus reliquum fuerit, aut eorum quorum suscipere tutelam cogitur, non dabitur excusatio: idque principalibus constitutionibus cavetur.
+
+1. Iliensibus et propter inclutam nobilitatem civitatis et propter coniunctionem originis Romanae iam antiquitus et senatus consultis et constitutionibus principum plenissima immunitas tributa est, ut etiam tutelae excusationem habeant, scilicet eorum pupillorum, qui ilienses non sint: idque divus Pius rescripsit.
+
+2. Eos, qui in corporibus sunt veluti fabrorum, immunitatem habere dicimus etiam circa tutelarum exterorum hominum administrationem habebunt excusationem, nisi si facultates eorum adauctae fuerint, ut ad cetera quoque munera publica suscipienda compellantur: idque principalibus constitutionibus cavetur.
+
+3. Non omnia tamen corpora vel collegia vacationem tutelarum habent, quamvis muneribus municipalibus obstricta non sint, nisi nominatim id privilegium eis indultum sit.
+
+4. Is qui aedilitate fungitur potest tutor dari: nam aedilitas inter eos magistratus habetur qui privatis muneribus excusati sunt secundum divi Marci rescriptum.
+
+5. Sane notum est, quod gerentibus honorem vacationem tutelarum concedi placuit, vacare autem eos, qui tunc primum vocentur ad suscipiendum officium tutelae: ceterum eos, qui iam se miscuerint administrationi, ne tempore quidem magistratus vacare aeque notum est.
+
+6. Domini navium non videntur haberi inter privilegia, ut a tutelis vacent, idque divus Traianus rescripsit.
+
+7. Inquilini castrorum a tutelis excusari solenti nisi eorum, qui et ipsi inquilini sunt et in eodem castro eademque condicione sunt.
+
+27.1.18
+
+Ulpianus libro 20 ad legem Iuliam et Papiam
+
+Bello amissi ad tutelae excusationem prosunt: quaesitum est autem, qui sunt isti, utrum hi, qui in acie sunt interempti an vero omnes omnino, qui per causam belli parentibus sunt abrepti, in obsidione forte. Melius igitur probabitur eos solos, qui in acie amittuntur, prodesse debere, cuiuscumque sexus vel aetatis sint: hi enim pro re publica ceciderunt.
+
+27.1.19
+
+Ulpianus libro 35 ad edictum
+
+Illud usitatissimum est, ut his, qui in Italia domicilium habeant, administratio rerum provincialium remittatur.
+
+27.1.20
+
+Iulianus libro 20 digestorum
+
+Si pupillum patruus contendat exheredtatum esse et se heredem scriptum, aequum est tutorem pupillo dari recepta patrui excusatione vel, si nolit excusationem petere, remoto eo a tutela ita litem de hereditate expedire.
+
+27.1.21
+
+Marcianus libro secundo institutionum
+
+pr. Propter litem, quam quis cum pupillo habet, excusare se a tutela non potest, nisi forte de omnibus bonis aut plurima parte eorum controversia sit.
+
+1. Qui se vult excusare, si plures habet excusationes et de quibusdam non probaverit, aliis uti intra tempora non prohibetur.
+
+2. Licet datus tutor ad universum patrimonium datus est, tamen excusare se potest, ne ultra centensimum lapidem tutelam gerat, nisi in eadem provincia pupilli patrimonium sit: et ideo illarum rerum dabunt tutores in provincia praesides eius.
+
+3. Nec senatores ultra centensimum lapidem urbis tutelam gerere coguntur.
+
+4. Habenti ergo tutorem tutor datur: sed aliarum rerum, non earundem datur.
+
+27.1.22
+
+Scaevola libro primo regularum
+
+pr. Geometrae a tutelis non vacant.
+
+1. Hi vero, quibus princeps curam alicuius rei iunxit, excusantur a tutela, donec curam gerunt.
+
+27.1.23
+
+Ulpianus libro secundo responsorum
+
+pr. Propter magistratum, quem in municipio quis erat administraturus, tutelae excusationem non habere respondi.
+
+1. Si in castris merentes non ab eo tutores dentur, qui in castris merebat, excusationem habere respondi.
+
+27.1.24
+
+Papinianus libro 11 quaestionum
+
+Nequaquam credendum est ei privilegium excusationis ablatum, cui fideicommissaria libertas soluta est: nam in toto fere iure manumissor eiusmodi nihil iuris ut patronus adversus liberti personam consequitur, excepto quod in ius vocare patronum iniussu praetoris non debet.
+
+27.1.25
+
+Ulpianus libro secundo de officio proconsulis
+
+Excusare se tutor per libellos non poterit.
+
+27.1.26
+
+Paulus libro singulari de excusationum
+
+Mensores frumentarios habere ius excusationis apparet ex rescripto divorum marci et commodi, quod rescripserunt praefecto annonae.
+
+27.1.27
+
+Marcianus libro quinto regularum
+
+Legatarius, qui rogatus est alii omne legatum restituere, si maluit se excusare a tutela, legatum propter fideicommissarium consequitur: cui similis est, qui de falso egit nec optinuit.
+
+27.1.28
+
+Papinianus libro quinto responsorum
+
+pr. Tutor petitus ante decreti diem si aliquod privilegium quaerit, recte petitionem institutam excludere non poterit.
+
+1. Quae tutoribus remunerandae fidei causa testamento parentis relinquuntur, post excusationem ab heredibus extrariis quoque retineri placuit. Quod non habebit locum in persona filii, quem pater impuberi fratri coheredem et tutorem dedit, cum iudicium patris ut filius, non ut tutor promeruit.
+
+2. Tutorem ad tempus exulare iussum excusari non oportet, sed per tempus exilii curator in locum ipsius debet dari.
+
+27.1.29
+
+Marcianus libro secundo institutionum
+
+pr. Plane si in exilium datus sit tutor, potest se excusare, si in perpetuum datus est.
+
+1. Facilius autem exulis ignorantia, qui contutorem suspectum facere non potuerit, veniam habebit.
+
+27.1.30
+
+Papinianus libro quinto responsorum
+
+pr. Iuris peritos, qui tutelam gerere coeperunt, in consilium principum adsumptos optimi maximique principes nostri constituerunt excusandos, quoniam circa latus eorum agerent et honor delatus finem certi temporis ac loci non haberet.
+
+1. Cum oriundus ex provincia Romae domicilium haberet, eiusdem curator decreto praesidis ac praetoris constitutus rerum administrationem utrubique suscepit. Placuit eum duas curationes administrare non videri, quod videlicet unius duo patrimonia non viderentur.
+
+2. Qui privilegio subnixus est, fratris curationem suscipere non cogitur.
+
+3. Patronus impuberi liberto quosdam ex libertis tutores aut curatores testamento dedit. Quamvis eos idoneos esse constet, nihilo minus iure publico poterunt excusari, ne decreto confirmentur.
+
+27.1.31
+
+Paulus libro sexto quaestionum
+
+pr. Si is, qui tres tutelas administrabat, duobus pupillis diversis decretis datus est qui potuit excusari, et priusquam causas excusationis allegaret, unus ex pupillis, quorum iam tutelam administrabat, decessit, ubi desiit ei competere excusatio, statim tenuit eum prius decretum, quasi in loco tertiae tutelae quarta subroganda: nam ipso iure tutor est et antequam excusetur. Potuit ergo tutela eius, qui nunc quarto loco invenitur, excusari: sed cum non sit excusatus, necessario subeundum est onus illius quoque tutelae. Nec me movet, quod dicat aliquis hoc ne exigi, an administretur tutela: hoc enim eo pertinet, ne sit finita administratio: ceterum si periculum sustineat cessationis, puto ei imputandam eam quoque tutelam.
+
+1. Idem evenire potest, si duobus testamentis, cum haberet tres tutelas, tutor datus est: ubi non apertarum tabularum tempus inspici debebit, si quaeratur, quae prior delata sit tutela, sed aditae hereditatis vel condicionis existentis.
+
+2. Illa quoque erit differentia tutelarum, de quibus diximus, si tertia et quarta sit delata, licet in quartam prius detentus sit, quod huius, id est quartae, ex quo iussus est administrare, illius ex quo datus est periculum sustinet.
+
+3. Eum, qui pupillum bonis paternis abstinuerat, detinendum in quarta tutela existimavi quasi deposita illa.
+
+4. Ceterum putarem recte facturum praetorem, si etiam unam tutelam sufficere crediderit, si tam diffusa et negotiosa sit, ut pro pluribus cedat. Neque igitur fratres consortes plurium loco habendi sunt, neque non fratres, si idem patrimonium habent et ratio administrationis pariter reddenda sit. Et ex diverso fratres diviso patrimonio duae tutelae sunt: non enim, ut dixi, numerus pupillorum, sed difficultas rationum conficiendarum et reddendarum consideranda est.
+
+27.1.32
+
+Paulus libro septimo quaestionum
+
+Nesennius Apollinaris Iulio Paulo. Mater filium suum pupillum vel quivis alius extraneus extraneum aeque pupillum scripsit heredem et Titio legatum dedit eumque eidem pupillo tutorem adscripsit: Titius confirmatus excusavit se a tutela: quaero, an legatum amittat. Et quid, si testamento quidem tutor non sit scriptus, legatum tamen acceperit datusque a praetore tutor excuset se, an aeque repellendus sit a legato? Et an aliquid intersit, si a patre vel emancipato pupillo tutor datus sit vel puberi curator? Respondi: qui non iure datus tutor vel curator a patre, confirmatus a praetore excusationis beneficio uti maluit, repellendus est a legato: idque et Scaevolae nostro placuit: nam praetor, qui eum confirmat tutorem, defuncti sequitur iudicium. Idem in matris testamento dicendum est. Similis est matri quivis extraneus, qui pupillum heredem instituit eique et in tutore dando prospicere voluit, quales sunt alumni nostri. Recte ergo placuit eum, qui recusat id quod testator relinquit ab eo quod petit quod idem dedit repelli debere. Non semper tamen existimo eum, qui onus tutelae recusavit, repellendum a legato, sed ita demum, si legatum ei ideo adscriptum appareat, quod eidem tutelam filiorum iniunxit, non quod alioquin daturus esset etiam sine tutela. Id apparere potuit, si posueris testamento legatum adscriptum, codicillis vero postea factis tutorem datum: in hoc enim legato potest dici non ideo ei relictum, quia et tutorem esse voluerit testator.
+
+27.1.33
+
+Paulus libro 23 quaestionum
+
+Sed haec nimium scrupulosa sunt nec admittenda, nisi evidenter pater expresserit velle se dare etiam, si tutelam non administravit: semper enim legatum aut antecedit aut sequitur tutelam.
+
+27.1.34
+
+Paulus libro septimo quaestionum
+
+Ex his apparet non esse his similem eum, quem praetor tutorem dedit, cum posset uti immunitate: hic enim nihil contra iudicium fecit testatoris. Nam quem ille non dedit tutorem, eum voluisse tutelam administrare filii dicere non possumus.
+
+27.1.35
+
+Paulus libro 23 quaestionum
+
+Quid autem, si se non excusaverit, sed administrare noluerit contentus, quod ceteri idonei essent? Hic poterit conveniri, si ab illis res servari non potuisset. Sed hoc non quaerendum est, sed contumacia punienda est eius, qui quodammodo se excusavit. Multo magis quis dicere debebit indignum iudicio patris, qui ut suspectus remotus est a tutela.
+
+27.1.36
+
+Paulus libro nono responsorum
+
+pr. Amicissimos quidem et fidelissimos parentes liberis tutores eligere solere et ideo ad suscipiendum onus tutelae etiam honore legati eos persequi. Sed cum proponatur is de quo quaeritur in testamento legatum meruisse et idem pupillo substitutus, non est verisimile hunc demum eum testatorem substituere voluisse, si et tutelam suscepisset: et ideo eum de quo quaeritur a legato quidem, si adhuc viveret pupillus, repellendum fuisse, a substitutione autem non esse summovendum, cum eo casu etiam suscepta tutela finiretur.
+
+1. Lucius Titius ex tribus filiis incolumibus unum habet emancipatum eius aetatis, ut curatores accipere debeat: quaero, si idem Titius pater petente eodem filio emancipato curator a praetore detur, an iure publico uti possit et nihilo minus trium filiorum nomine vacationem postulare. Respondi praemium quidem patri, quod propter numerum liberorum ei competit, denegari non oportere. Sed cum filio suo curator petatur, contra naturales stimulos facit, si tali excusatione utendum esse temptaverit.
+
+27.1.37
+
+Scaevola libro secundo responsorum
+
+pr. Qui testamento tutor datus fuerat, adito praetore dixit se tres liberos habere, adiecit praeterea habenti patruum legitimum tutorem se vitiose tutorem datum. Praetor ita decrevit: "Si legitimum tutorem habenti tutor datus es, non est tibi necessaria excusatio". Quaero, cum nemo patruus impuberi tutor esset, an nihilo minus tutor remansit. Respondi secundum ea quae proponerentur, quamvis iustas excusationis causas haberet, non tamen esse excusatum propter vitium pronuntiationis.
+
+1. Item quaero, si adquievisset sententiae, an ob id, quod non gessit tutelam, utilis actio in hunc dari debeat. Respondi, si errore potius (quod se pro iure trium liberorum, quod allegabat, excusatum crederet) quam malitia ab administratione cessasset, utilem actionem non dandam.
+
+27.1.38
+
+Paulus libro secundo sententiarum
+
+Quinquaginta dierum spatium tantummodo ad contestandas excusationum causas pertinet: peragendo enim negotio ex die nominationis continui quattuor menses constituti sunt.
+
+27.1.39
+
+Tryphoninus libro 13 disputationum
+
+Si cum ipse institueret, ut proferret excusationem, mora contradictionis impeditus est, quo minus decreto liberaretur, excusationem recte probari.
+
+27.1.40
+
+Paulus libro secundo sententiarum
+
+pr. Post susceptam tutelam caecus aut surdus aut mutus aut furiosus aut valetudinarius deponere tutelam potest.
+
+1. Paupertas, quae operi et oneri tutelae inpar est, solet tribuere vacationem.
+
+27.1.41
+
+Hermogenianus libro secundo iuris epitomarum
+
+pr. Administrantes rem principum ex indulgentia eorum, licet citra codicillos, a tutela itemque cura tempore administrationis delata excusantur.
+
+1. Idemque custoditur in his, qui praefecturam annonae vel vigilum gerunt.
+
+2. Eorum, qui rei publicae causa absunt, comites, qui sunt intra statutum numerum, de tutela, quae absentibus vel profecturis delata est, excusantur: nam susceptam antea non deponunt.
+
+3. Qui corporis, item collegii iure excusantur, a collegarum filiorumque eorum tutela non excusantur, exceptis his, quibus hoc specialiter tributum est.
+
+27.1.42
+
+Paulus libro singulari de cognitionibus
+
+Plane ultra centesimum miliarum ab urbe filiorum collegarum suorum tutelam suscipere non coguntur.
+
+27.1.43
+
+Hermogenianus libro secundo iuris epitomarum
+
+Libertus senatoris filiorum eius tutelam administrans ab aliis tutelis non excusatur.
+
+27.1.44
+
+Tryphoninus libro secundo disputationum
+
+pr. Cum ex oratione divi Marci ingenuus libertino tutor datus excusari debeat, eandem excusationem competere etiam ei, qui ius anulorum impetrasset, imperator noster cum divo Severo patre suo rescripsit.
+
+1. Ergo si pupillo libertino habenti ius anulorum datus sit ingenuus tutor vel curator, consequens est, ut excusatio eius ob hanc condicionum diversitatem non debeat accipi.
+
+2. At si antequam pupillus vel pubes minor annorum viginti quinque ius anulorum acciperet, Lucius Titius ei datus ut ingenuus excusatus fuit, post impetratum beneficium denuo eidem tutor curatorve dari poterit exemplo eo, quo placuit et rescriptum est eum, qui tempore, quod intra annum erat ex quo rei publicae causa abesse desierat, excusatus fuit, praeterito eo ipsum suo loco dari posse.
+
+3. Et quamvis libertinus, qui senatori patrono procurat, excusationem ab aliorum tutela habeat, iste tamen, qui ius anulorum impetravit, qui in ordinem ingenuorum transit, tali excusatione uti non posset.
+
+27.1.45
+
+Tryphoninus libro 13 disputationum
+
+pr. "Titius filiis meis, quoad rei publicae causa non abierit, tutor esto". Gessit tutelam ex testamento delatam, deinde rei publicae causa abesse coepit et desiit. An quasi nova tutela nunc delata excusari debeat etiam ob absentiam rei publicae causa, an, quia praecessit testamentum absentiam ob publicam causam et est ab eo iam administrata tutela, non oporteat eum excusari? Quid si liberos interea susceperit aut aliam excusationem paravit? Magis est, ut haec una tutela sit: ideo nec excusationem ei competere nec agi tutelae ob prius tempus posse.
+
+1. Sed si ita scriptum in testamento fuit: "Titius tutor esto: cum rei publicae causa aberit, tutor ne esto: cum redierit, tutor esto", quid de excusatione aut ob absentiam rei publicae causa aut aliam quae post obvenit dici oporteat, videamus. Praecedit autem alia quaestio, testamento ex die vel sub condicione tutores dati an se excusare ante diem condicionemve necesse habeant et in primis an iam dies quinquaginta eis cedant, intra quos necesse est causas excusationis exercere. Sed verum est non ante esse tutorem, quam dies venerit: nam nec antequam adita sit hereditas. Quia igitur ex eodem testamento iam gesta fuit tutela et qui excusatus est alias afuturus rei publicae causa, reversus continuo haeret tutelis ante suspectis etiam intra annum, sed hic ex ipso testamento desierit esse tutor et ideo ex secunda tutela excusare se potest.
+
+2. Si a praetore detur curator mente capto aut muto sive ventri, excusatur iure liberorum.
+
+3. Romae datos tutores eos tantum accipere debemus, qui vel a praefecto urbis vel a praetore vel in testamento Romae confecto vel in continentibus dati sunt.
+
+4. Si tanta corporis aut mentis valetudine ab agendis rebus libertus prohibeatur, ut ne suis quidem negotiis sufficiat, necessitati erit subcumbendum, ne impossibile iniungatur tutelae munus, quod obiri a liberto non potest cum incommodo pupilli et adversus utilitatem eius.
+
+27.1.46
+
+Paulus libro singulari de cognitionibus
+
+pr. Qui in collegio pistorum sunt, a tutelis excusantur, si modo per semet pistrinum exerceant: sed non alios puto excusandos quam qui intra numerum sunt.
+
+1. Urbici autem pistores a collegarum quoque filiorum tutelis excusantur.
+
+2. Sed et hoc genus excusationis est, si quis se dicit ibi domicilium non habere, ubi ad tutelam datus est: idque imperator Antoninus cum divo patre significavit.
+
+
+* 27.2.0. Ubi pupillus educari vel morari debeat et de alimentis ei praestandis.
+
+
+27.2.1
+
+Ulpianus libro 34 ad edictum
+
+pr. Solet praetor frequentissime adiri, ut constituat, ubi filii vel alantur vel morentur, non tantum in postumis, verum omnino in pueris.
+
+1. Et solet ex persona, ex condicione et ex tempore statuere, ubi potius alendus sit: et nonnumquam a voluntate patris recedit praetor. Denique cum quidam testamento suo cavisset, ut filius apud substitutum educetur, imperator Severus rescripsit praetorem aestimare debere praesentibus ceteris propinquis liberorum: id enim agere praetorem oportet, ut sine ulla maligna suspicione alatur partus et educetur.
+
+2. Quamvis autem praetor recusantem apud se educari non polliceatur se coacturum, attamen quaestionis est, an debeat etiam invitum cogere, ut puta libertum, parentem vel quem alium de adfinibus cognatisve. Et magis est, ut interdum debeat id facere.
+
+3. Certe non male dicetur, si legatarius vel heres educationem recuset testamento sibi iniunctam, denegari ei actiones debere exemplo tutoris testamento dati: quod ita demum placuit, si idcirco sit relictum: ceterum si esset relicturus, etiamsi educationem recusaturum sciret, non denegabitur ei actio, et ita divus Severus saepissime statuit.
+
+27.2.2
+
+Ulpianus libro 36 ad edictum
+
+pr. Officio iudicis, qui tutelae cognoscit, congruit reputationes tutoris non improbas admittere, ut puta si dicat impendisse in alimenta pupilli vel disciplinas.
+
+1. Modus autem, si quidem praetor arbitratus est, is servari debet, quem praetor statuit: si vero praetor non est aditus, pro modo facultatium pupilli debet arbitrio iudicis aestimari: nec enim permittendum est tutori tantum reputare quantum dedit, si plus aequo dedit.
+
+2. Hoc amplius et si praetor modum alimentis statuit, verumtamen ultra vires facultatium est quod decretum est nec suggessit praetori de statu facultatium, non debet ratio haberi alimentorum omnium, quia, si suggessisset, aut minuerentur iam decreta aut non tanta decernerentur.
+
+3. Sed si pater statuit alimenta liberis quos heredes scripserit, ea praestando tutor reputare poterit, nisi forte ultra vires facultatium statuerit: tunc enim imputabitur ei, cur non adito praetore desideravit alimenta minui.
+
+27.2.3
+
+Ulpianus libro primo de omnibus tribunalibus
+
+pr. Ius alimentorum decernendorum pupillis praetori competit, ut ipse moderetur, quam summam tutores vel curatores ad alimenta pupillis vel adulescentibus praestare debeant.
+
+1. Modum autem patrimonii spectare debet, cum alimenta decernit: et debet statuere tam moderate, ut non universum reditum patrimonii in alimenta decernat, sed semper sit, ut aliquid ex reditu supersit.
+
+2. Ante oculos habere debet in decernendo et mancipia, quae pupillis deserviunt, et mercedes pupillorum et vestem et tectum pupilli: aetatem etiam contemplari, in qua constitutus est cui alimenta decernuntur.
+
+3. In amplis tamen patrimoniis positis non cumulus patrimonii, sed quod exhibitioni frugaliter sufficit modum alimentis dabit.
+
+4. Sed si non constat, quis modus facultatium sit, inter tutorem et eum, qui alimenta decerni desiderat, suscipere debet cognitionem nec temere alimenta decernere, ne in alterutram partem delinquat: prius tamen exigere debet, ut profiteatur tutor, quae sit penes se summa, et comminari graviores ei usuras infligi eius, quod supra professionem apud eum fuerit comprehensum.
+
+5. Idem ad instructionem quoque pupillorum vel adulescentium pupillarum vel earum, quae intra vicensimum annum constitutae sunt, solet decernere respectu facultatium et aetatis eorum qui instruuntur.
+
+6. Sed si egeni sint pupilli, de suo eos alere tutor non compellitur. Et si forte post decreta alimenta ad egestatem fuerit pupillus perductus, deminui debent quae decreta sunt, quemadmodum solent augeri, si quid patrimonio accesserit.
+
+27.2.4
+
+Iulianus libro 21 digestorum
+
+Qui filium heredem instituerat, filiae dotis nomine, cum in familia nupsisset, ducenta legaverat nec quicquam praeterea et tutorem eis Sempronium dedit: is a cognatis et a propinquis pupillae perductus ad magistratum iussus est alimenta pupillae et mercedes, ut liberalibus artibus institueretur, pupillae nomine praeceptoribus dare: pubes factus pupillus puberi iam factae sorori suae ducenta legati causa solvit. Quaesitum est, an tutelae iudicio consequi possit, quod in alimenta pupillae et mercedes a tutore ex tutela praestitum sit. Respondi: existimo, etsi citra magistratuum decretum tutor sororem pupilli sui aluerit et liberalibus artibus instituerit, cum haec aliter ei contingere non possent, nihil eo nomine tutelae iudicio pupillo aut substitutis pupilli praestare debere.
+
+27.2.5
+
+Ulpianus libro tertio de officio proconsulis
+
+Si disceptetur, ubi morari vel ubi educari pupillum oporteat, causa cognita id praesidem statuere oportebit. In causae cognitione evitandi sunt, qui pudicitiae impuberi possunt insidiari.
+
+27.2.6
+
+Tryphoninus libro 14 disputationum
+
+Si absens sit tutor et alimenta pupillus desideret, si quidem neglegentia et nimia cessatio in administratione tutoris obiciatur, quae etiam ex hoc arguatur, quod per absentiam eius deserta derelictaque sunt pupilli negotia, evocatis adfinibus atque amicis tutoris praetor edicto proposito causa cognita etiam absente tutore vel removendum eum, qui dignus tali nota videbitur, decernet vel adiungendum curatorem: et ita qui datus erit, expediet alimenta pupillo. Si vero necessaria absentia tutoris et improvisa acciderit, forte quod subito ad cognitionem principalem profectus nec rei suae providere nec consulere pupillo potuerit et speratur redire et idoneus sit tutor nec expediat alium adiungi et pupillus alimenta de re sua postulet: recte constituetur ad hoc solum, ut ex re pupilli alimenta expediat.
+
+
+* 27.3.0. De tutelae et rationibus distrahendis et utili curationis causa actione.
+
+
+27.3.1
+
+Ulpianus libro 36 ad edictum
+
+pr. In omnibus quae fecit tutor, cum facere non deberet, item in his quae non fecit, rationem reddet hoc iudicio, praestando dolum, culpam et quantam in suis rebus diligentiam.
+
+1. Unde quaeritur apud Iulianum libro vicensimo primo digestorum, si tutor pupillo auctoritatem ad mortis causa donationem accommodaverit, an tutelae iudicio teneatur. Et ait teneri eum: nam sicuti testamenti factio, inquit, pupillis concessa non est, ita nec mortis quidem causa donationes permittendae sunt.
+
+2. Sed et si non mortis causa donaverit tutore auctore, idem Iulianus scripsit plerosque quidem putare non valere donationem, et plerumque ita est: sed nonnullos casus posse existere, quibus sine reprehensione tutor auctor fit pupillo ad deminuendum, decreto scilicet interveniente: veluti si matri aut sorori, quae aliter se tueri non possunt, tutor alimenta praestiterit: nam cum bonae fidei iudicium sit, nemo feret, inquit, aut pupillum aut substitutum eius querentes, quod tam coniunctae personae alitae sint: quin immo per contrarium putat posse cum tutore agi tutelae, si tale officium praetermiserit.
+
+3. Officio tutoris incumbit etiam rationes actus sui conficere et pupillo reddere: ceterum si non fecit aut si factas non exhibet, hoc nomine iudicio tutelae tenebitur. De servis quoque interrogationes, sed et quaestiones habendas et hoc officio iudicis convenire placuit. Nam divus Severus decrevit, cum neque inventaria neque auctionalia proferentur, remedio eo uti debere, ut rationes a servis qui rem gesserant proferantur: has rationes si esse mala fide conscriptas a servis dicunt tutores, etiam in quaestionem servi interrogari poterunt.
+
+4. Praeterea si matrem aluit pupilli tutor, putat Labeo imputare eum posse: sed est verius non nisi perquam egenti dedit, imputare eum oportere de largis facultatibus pupilli: utrumque igitur concurrere oportet, ut et mater egena sit et filius in facultatibus positus.
+
+5. Sed si munus nuptiale matri pupilli miserit, non eum pupillo imputaturum Labeo scripsit: nec perquam necessaria est ista muneratio.
+
+6. Si pupillis tutores pater dedit, inter quos et libertum suum, perque eum voluerit tutelam administrari, et tutores certam summam ei statuerunt, quia aliter se exhibere non poterat, habendam eius rationem quod statutum est Mela existimat.
+
+7. Ergo et si ex inquisitione propter rei notitiam fuerit datus tutor eique alimenta statuerint contutores, debebit eorum ratio haberi, quia iusta causa est praestandi.
+
+8. Sed et si servis cibaria praestiterit vel libertis, scilicet rei pupilli necessariis, dicendum est reputaturum: idemque et si liberis hominibus, si tamen ratio praestandi iusta intercedat.
+
+9. Item sumptus litis tutor reputabit et viatica, si ex officio necesse habuit aliquo excurrere vel proficisci.
+
+10. Nunc tractemus, si plures tutelam pupilli administraverint, pro qua quisque eorum parte conveniendus sit.
+
+11. Et si quidem omnes simul gesserunt tutelam et omnes solvendo sunt, aequissimum erit dividi actionem inter eos pro portionibus virilibus exemplo fideiussorum.
+
+12. Sed et si non omnes solvendo sint, inter eos qui solvendo sunt dividitur actio. Sed prout quisque solvendo est, poterunt conveniri.
+
+13. Et si forte quis ex facto alterius tutoris condemnatus praestiterit vel ex communi gestu nec ei mandatae sunt actiones, constitutum est a divo Pio et ab imperatore nostro et divo patre eius utilem actionem tutori adversus contutorem dandam.
+
+14. Plane si ex dolo communi conventus praestiterit tutor, neque mandandae sunt actiones neque utilis competit, quia proprii delicti poenam subit: quae res indignum eum fecit, ut a ceteris quid consequatur doli participibus: nec enim ulla societas maleficiorum vel communicatio iusta damni ex maleficio est.
+
+15. Usque adeo autem ad contutores non venitur, si sint solvendo contutores, ut prius ad magistratus qui eos dederunt vel ad fideiussores veniatur: et ita imperator noster Ulpio Proculo rescripsit. Quod enim Marcellus libro octavo digestorum scripsit, quodque saepissime rescriptum est, quamdiu vel unus ex tutoribus idoneus est, non posse ad magistratus qui dederunt veniri, sic erit accipiendum, si non contutor ob hoc conveniatur, quod suspectum facere vel satis exigere noluit.
+
+16. Hanc actionem etiam in heredem tutoris competere constat.
+
+17. Sed et heredi pupilli aeque competit similibusque personis.
+
+18. Non tantum ante condemnationem, sed etiam post condemnationem desiderare tutor potest mandari sibi actiones adversus contutorem, pro quo condemnatus est.
+
+19. Rationibus distrahendis actione non solum hi tenentur tutores, qui legitimi fuerunt, sed omnes, qui iure tutores sunt et gerunt tutelam.
+
+20. Considerandum est in hac actione, utrum pretium rei tantum duplicetur an etiam quod pupilli intersit. Et magis esse arbitror in hac actione quod interest non venire, sed rei tantum aestimationem.
+
+21. In tutela ex una obligatione duas esse actiones constat: et ideo, sive tutela fuerit actum, de rationibus distrahendis agi non potest, sive contra, tutelae actio quod ad speciem istam perempta est.
+
+22. Hunc tamen tutorem, qui intercepit pecuniam pupillarem, et furti teneri Papinianus ait: qui etsi furti teneatur, hac actione conventus furti actione non liberatur: nec enim eadem est obligatio furti ac tutelae, ut quis dicat plures esse actiones eiusdem facti, sed plures obligationes: nam et tutelae et furti obligatur.
+
+23. Hanc actionem sciendum est perpetuam esse et heredi similibusque personis dari ex eo quod vivo pupillo captum est: sed in heredem ceterosque successores non dabitur, quia poenalis est.
+
+24. Haec actio tunc competit, cum et tutelae actio est, hoc est finita demum tutela.
+
+27.3.2
+
+Paulus libro octavo ad Sabinum
+
+pr. Actione de rationibus distrahendis nemo tenetur, nisi qui in tutela gerenda rem ex bonis pupilli abstulerit.
+
+1. Quod si furandi animo fecit, etiam furti tenetur. Utraque autem actione obligatur et altera alteram non tollet. Sed et condictio ex furtiva causa competit, per quam si consecutus fuerit pupillus quod fuerit ablatum, tollitur hoc iudicium, quia nihil absit pupillo.
+
+2. Haec actio licet in duplum sit, in simplo rei persecutionem continet, non tota dupli poena est.
+
+27.3.3
+
+Pomponius libro quinto ad Sabinum
+
+Si tutelae aut negotiorum gestorum agatur incerto hoc, quantum ab adversariis debetur tutori procuratorive, arbitratu iudicis cavendum est, quod eo nomine eis absit.
+
+27.3.4
+
+Paulus libro octavo ad Sabinum
+
+pr. Nisi finita tutela sit, tutelae agi non potest: finitur autem non solum pubertate, sed etiam morte tutoris vel pupilli.
+
+1. Filium familias emancipatum, si tutelam administret, etiam directo teneri Iulianus putat.
+
+2. Si adhuc impubes tutelae agat, nihil consumitur.
+
+3. Cum furiosi curatore non tutelae, sed negotiorum gestorum actio est: quae competit etiam dum negotia gerit, quia non idem in hac actione, quod in tutelae actione, dum impubes est is cuius tutela geritur, constitutum est.
+
+27.3.5
+
+Ulpianus libro 43 ad Sabinum
+
+Si tutor rem sibi depositam a patre pupilli vel commodatam non reddat, non tantum commodati vel depositi, verum tutelae quoque tenetur. Et si acceperit pecuniam, ut reddat, plerisque placuit eam pecuniam vel depositi vel commodati actione repeti vel condici posse: quod habet rationem, quia turpiter accepta sit.
+
+27.3.6
+
+Ulpianus libro 31 ad edictum
+
+Si filius familias tutelam administraverit et liberatus patria potestate dolo aliquid fecerit, an actio tutelae patrem quoque hoc nomine teneat, quaeritur. Et aequum est, ut eum dumtaxat dolum pater praestet, qui commissus est ante emancipationem filii.
+
+27.3.7
+
+Ulpianus libro 35 ad edictum
+
+pr. Si pupillus heres exstiterit ei, cuius tutelam tutor suus gesserat, ex hereditaria causa cum tutore suo habebit actionem.
+
+1. Si tutor in hostium potestatem pervenerit, quia finita tutela intellegitur, fideiussores, qui pro eo rem salvam fore spoponderint, et si quis existat defensor eius, qui paratus est suscipere iudicium tutelae, vel si quis sit curator bonis eius constitutus, recte convenientur:
+
+27.3.8
+
+Papinianus libro 28 quaestionum
+
+Quamvis iure postliminii tutelam pristinam possit integrare.
+
+27.3.9
+
+Ulpianus libro 25 ad edictum
+
+pr. Si tutor rei publicae causa abesse coeperit ac per hoc fuerit excusatus, quod rei publicae causa aberit, tutelae iudicio locus est. Sed si desierit rei publicae causa abesse, consequenter desinit qui in locum eius datus est et tutelae conveniri poterit.
+
+1. Si duobus impuberibus fratribus tutor datus sit et alter eorum in legitimam tutelam fratris sui perfectae aetatis constituti reccidit, eum qui datus esset tutorem esse desisse Neratius ait. Quia igitur desinit, erit tutelae actio etiam ex persona impuberis, quamvis, si testamento datus fuisset, non desineret esse tutor eius, qui adhuc erat impubes, quia semper legitima tutela testamentariae cedit.
+
+2. Si testamento sub condicione tutor datus sit, deinde alius medio tempore ex inquisitione, dicendum est locum esse tutelae iudicio existente condicione, quia tutor esse desinit.
+
+3. Sed et si quis testamento usque ad tempus fuerit datus, idem erit dicendum.
+
+4. Et generaliter quod traditum est pupillum cum tutore suo agere tutelae non posse hactenus verum est, si eadem tutela sit: absurdum enim erat a tutore rationem administrationis negotiorum pupilli reposci, in qua adhuc perseveraret. In qua autem desinit tutor et iterum coepit esse, sic ex pristina administratione tutelae debitor est pupillo, quomodo si pecuniam creditam a patre eius accepisset. Quem igitur effectum haec sententia habeat, videamus: nam si solus tutor est, utique ipse secum non aget. Sed vel per specialem curatorem conveniendus est vel pone eum contutorem habere, qui possit adversus eum iudicem accipere, ex qua causa cum eo tutelae agi potest. Quin immo si medio tempore solvendo esse desierit, imputabitur contutoribus, cur non egerunt cum eo.
+
+5. Si tutori curator sit adiunctus quamvis suspecto postulato, non cogetur tutelae iudicium tutor suscipere, quia tutor maneret.
+
+6. Sed et si fuerit tutor confiscatus, adversus fiscum dandam esse actionem constat ei qui loco eius curator datus sit vel contutoribus eius.
+
+7. Ceterae actiones praeter tutelae adversus tutorem competunt, etsi adhuc tutelam administrant, veluti furti, damni iniuriae, condictio.
+
+27.3.10
+
+Paulus libro octavo brevis edicti
+
+Sed non dantur pupillo, dum tutor tutelam gerit: quamvis enim morte tutoris intereant, tamen pupillus cum herede eius actionem habet, quia sibi solvere debuit.
+
+27.3.11
+
+Ulpianus libro 35 ad edictum
+
+Si filius familias tutelam administraverit, deinde fuerit emancipatus, remanere eum tutorem iulianus ait et cum pupillus adoleverit, agendum cum eo eius quidem temporis, quod est ante emancipationem, in quantum facere potest, eius vero, quod est post emancipationem, in solidum, cum patre vero dumtaxat de peculio: manere enim adversus eum etiam post pubertatem de peculio actionem: neque enim ante annus cedit, intra quem de peculio actio datur, quam tutela fuerit finita.
+
+27.3.12
+
+Paulus libro octavo brevis edicti
+
+Filius autem tutor propter hoc suum factum cum patre agere non potest ante pubertatem, quia nec finita tutela hoc ab eo exigi potest.
+
+27.3.13
+
+Ulpianus libro 35 ad edictum
+
+Si tutor post pubertatem pupilli negotia administraverit, in iudicium tutelae veniet id tantum, sine quo administratio tutelae expediri non potest: si vero post pubertatem pupilli is qui tutor eius fuerat fundos eius vendiderit, mancipia et praedia comparaverit, neque venditionis huius neque emptionis ratio iudicio tutelae continebitur. Et est verum ea quae conexa sunt venire in tutelae actionem: sed et illud est verum, si coeperit negotia administrare post tutelam finitam, devolvi iudicium tutelae in negotiorum gestorum actionem: oportuit enim eum a semet ipso tutelam exigere. Sed et si quis, cum tutelam administrasset, idem curator adulescenti fuerit datus, dicendum est negotiorum gestorum eum conveniri posse.
+
+27.3.14
+
+Gaius libro 12 ad edictum provinciale
+
+Si post pubertatem tempore aliquo licet brevissimo intermiserit administrationem tutor, deinde coeperit gerere, sine ulla dubitatione tam tutelae quam negotiorum gestorum iudicio cum eo agendum est.
+
+27.3.15
+
+Ulpianus libro primo disputationum
+
+Si ex duobus tutoribus cum altero quis transegisset, quamvis ob dolum communem, transactio nihil proderit alteri, nec immerito, cum unusquisque doli sui poenam sufferat. Quod si conventus alter praestitisset, proficiet id quod praestitit ei qui conventus non est: licet enim doli ambo rei sint, tamen sufficit unum satisfacere, ut in duobus, quibus res commodata est vel deposita quibusque mandatum est.
+
+27.3.16
+
+Ulpianus libro 74 ad edictum
+
+pr. Si cum tutore ex stipulatu agatur vel cum his qui pro eo intervenerunt, erit dubitatio, an, quia tutelae agi non potest, nec ex stipulatu agi possit. Et plerique putant etiam hanc actionem propter eandem utilitatem differendam.
+
+1. Cum curatore pupilli sive adulescentis agi poterit, etsi usque adhuc cura perseveret.
+
+27.3.17
+
+Ulpianus libro tertio de officio consulis
+
+Imperatores Severus et Antoninus rescripserunt in haec verba: "Cum hoc ipsum quaeratur, an aliquid tibi a tutoribus vel curatoribus debeatur, non habet rationem postulatio tua volentis in sumptum litis ab his tibi pecuniam subministrari".
+
+27.3.18
+
+Papinianus libro 25 quaestionum
+
+Cum tutor negotiis impuberis administratis pupillum paterna hereditate abstinet, bonis patris venditis tractari solet, utilis actio pupillo relinqui an creditoribus concedi debeat. Et probatur actionem inter pupillum et creditores patris esse dividendam, scilicet ut quod rationi bonorum per tutorem deerit creditoribus reddatur, quod autem dolo vel culpa tutoris in officio pupilli perperam abstenti contractum est, puero relinquatur. Quae actio sine dubio non prius competet, quam pupillus ad pubertatem pervenerit: sed illa confestim creditoribus datur.
+
+27.3.19
+
+Ulpianus libro primo responsorum
+
+Si probatum est nomen debitoris a novissimo curatore, frustra tutorem de eo conveniri.
+
+27.3.20
+
+Papinianus libro secundo responsorum
+
+pr. Alterius curatoris heredem minorem ut maiore pecunia condemnatum in integrum restitui placuit. Ea res materiam litis adversus alterum curatorem instaurandae non dabit quasi minore pecunia condemnatum, si non sit eius aetatis actor, cui subveniri debeat: sed aequitatis ratione suadente per utilem actionem ei subveniri, in quantum alter relevatus est, oportet.
+
+1. Non idcirco actio, quae post viginti quinque annos aetatis intra restitutionis tempus adversus tutorem minore pecunia tutelae iudicio condemnatum redditur, inutilis erit, quod adulescenti curatores ob eam culpam condemnati sunt: itaque si non iudicatum a curatoribus factum est, per doli exceptionem curatores consequi poterunt eam actionem praestari sibi.
+
+27.3.21
+
+Papinianus libro primo definitionum
+
+Cum pupillus tutelae actione contra tutorem alterum tutori, quem iudex in solidum condemnavit, cessit, quamvis postea iudicatum fiat, tamen actio data non intercidit, quia pro parte condemnati tutoris non tutela reddita, sed nominis pretium solutum videtur.
+
+27.3.22
+
+Paulus libro 13 quaestionum
+
+Defensor tutoris condemnatus non auferet privilegium pupilli: neque enim sponte cum eo pupillus contraxit.
+
+27.3.23
+
+Paulus libro nono responsorum
+
+Convento herede tutoris iudicio tutelae curatorem eiusdem neque ipso iure liberatum videri neque exceptionem rei iudicatae ei dandam: idemque in heredibus magistratuum observandum.
+
+27.3.24
+
+Paulus libro secundo sententiarum
+
+Postumo tutor datus non nato postumo neque tutelae, quia nullus pupillus est, neque negotiorum gestorum iudicio tenetur, quia administrasse negotia eius quia natus non esset non videtur: et ideo utilis in eum actio dabitur.
+
+27.3.25
+
+Hermogenianus libro quinto iuris epitomarum
+
+Non solum tutelae privilegium datur in bonis tutoris, sed etiam eius, qui pro tutela negotium gessit: vel ex curatione pupilli pupillaeve furiosi furiosaeve debebitur, si eo nomine cautum non sit.
+
+
+* 27.4.0. De contraria tutelae et utili actione.
+
+
+27.4.1
+
+Ulpianus libro 36 ad edictum
+
+pr. Contrariam tutelae actionem praetor proposuit induxitque in usum, ut facilius tutores ad administrationem accederent scientes pupillum quoque sibi obligatum fore ex sua administratione. Quamquam enim sine tutoris auctoritate pupilli non obligentur nec in rem suam tutor obligare pupillum possit, attamen receptum est, ut tutori suo pupillus sine tutoris auctoritate civiliter obligetur ex administratione scilicet. Etenim provocandi fuerant tutores, ut promptius de suo aliquid pro pupillis impendant, dum sciunt se recepturos id quod impenderint.
+
+1. Haec actio non solum tutori, verum etiam ei, qui pro tutore negotia gessit, competere debet.
+
+2. Sed et si curator sit vel pupilli vel adulescentis vel furiosi vel prodigi, dicendum est etiam his contrarium dandum. Idem in curatore quoque ventris probandum est. Quae sententia Sabini fuit existimantis ceteris quoque curatoribus ex isdem causis dandum contrarium iudicium.
+
+3. Finito autem officio hanc actionem competere dicemus tutori: ceterum quamdiu durat, nondum competit. Sed si pro tutore negotia gessit vel etiam curam administravit, locus erit iudicio etiam statim, quia hoc casu in ipsum quoque statim actio competit.
+
+4. Praeterea si tutelae iudicio quis convenietur, reputare potest id quod in rem pupilli impendit: sic erit arbitrii eius, utrum compensare an petere velit [veli] sumptus. Quid ergo, si iudex compensationis eius rationem non habuit, an contrario iudicio experiri possit? Et utique potest: sed si reprobata est haec reputatio et adquievit, non debet iudex contrario iudicio id sarcire.
+
+5. An in hoc iudicio non tantum quae pro pupillo vel in rem eius impensa sunt veniant, verum etiam ea quoque, quae debebantur alias tutori, ut puta a patre pupilli si quid debitum fuit, quaeritur. Et magis puto, cum integra sit actio tutori, non esse in contrarium iudicium deducendum.
+
+6. Quid tamen si ideo exspectavit, quia tutor erat et ideo non exegit? Videamus, an contrario iudicio tutelae indemnitatem consequatur. Quod magis probandum est: nam sicuti quodcumque aliud gessit pro utilitate pupilli, id contrario iudicio consequetur, ita etiam id quod sibi debetur consequi debet vel eius securitatem.
+
+7. Ego et si ex causa, quae tempore finitur, obligatio aliqua fuit, tutelae contrarium iudicium esse ei opinor.
+
+8. Hanc actionem dandam placet et si tutelae iudicio non agatur: etenim nonnumquam pupillus idcirco agere tutelae non vult, quia nihil ei debetur, immo plus in eum impensum est, quam quod ei abest, nec impediendus est tutor contrario agere.
+
+27.4.2
+
+Iulianus libro 21 digestorum
+
+Longe magis dandum est et si rationibus distrahendis actio intendatur.
+
+27.4.3
+
+Ulpianus libro 36 ad edictum
+
+pr. Quid ergo si plus in eum impendit, quam est in facultatibus? Videamus an possit hoc consequi. Et Labeo scripsit posse. Sic tamen accipiendum est, si expedit pupillo ita tutelam administrari: ceterum si non expedit, dicendum est absolvi pupillum oportere: neque enim in hoc administrantur tutelae, ut mergantur pupilli. Iudex igitur, qui contrario iudicio cognoscit, utilitatem pupilli spectabit et an tutor ex officio sumptus fecerit.
+
+1. Contrarium iudicium an ad hoc quoque competat, ut quis a pupillo exigat liberationem, videndum est. Et nemo dixit in hoc agere quem contrario posse, ut tutelae iudicio liberetur, sed tantum de his, quae ei propter tutelam absunt. Consequitur autem pecuniam, si quam de suo consumpsit, etiam cum usuris, sed vel trientibus, vel his quae in regione observantur, vel his quibus mutuatus est, si necesse habuit mutuari, ut pupillo ex iusta causa prorogaret, vel his a quibus pupillum liberavit, vel quibus caruit tutor, si nimium profuit pupillo pecuniam esse exsolutam.
+
+2. Plane si forte tutor aliquid pecuniae debuit faenerare, aliquid ipse pro pupillo solvit, nec ipse usuras consequitur nec pupillo praestabit.
+
+3. Quare et si in usus suos convertit, deinde aliquid impendit in rem pupillarem, quam impendit desinit vertisse et exinde usuras non praestabit. Et si ante impendit in rem pupillarem, mox in usus suos vertit, non videbitur vertisse quantitatem, quae concurrit cum quantitate sibi debita, ut eius summae non praestet usuras.
+
+4. Usuras utrum tamdiu consequetur tutor quamdiu tutor est, an etiam post finitam tutelam, videamus, an ex mora tantum. Et magis est, ut, quoad ei reddatur pecunia, consequatur: nec enim debet ei sterilis esse pecunia.
+
+5. Si tamen fuit in substantia pupilli unde consequetur, dicendum est non oportere eum usuras a pupillo exigere.
+
+6. Quid ergo, si de re pupillari non potuit sibi solvere, quia erat deposita ad praediorum comparationem? Si quidem non postulavit a praetore, ut promatur pecunia vel hoc minus deponatur, sibi imputet: si vero hoc desideravit nec impetravit, dicendum est non deperire ei usuras.
+
+7. In contrario iudicio sufficit tutori bene et diligenter negotia gessisse, etsi eventum adversum habuit quod gestum est.
+
+8. Iudicio contrario tutelae praestatur et id, quod in rem pupilli versum ante tutelam vel post tutelam, si negotiis tutelae tempore gestis nexum probatur, et quod ante impensum est, sive pro tutore negotia gessit et postea tutor constitutus est, vel ventri erat curator: sed et si non pro tutore negotia gerebat, debet venire quod ante impensum est: deducuntur enim in tutelae iudicium sumptus, quoscumque fecerit in rem pupilli, sic tamen, si ex bona fide fecit.
+
+9. Hanc actionem perpetuam esse palam est, et heredi et in heredem dari ceterosque successores et ad quos ea res pertinet et in eos.
+
+27.4.4
+
+Iulianus libro 21 digestorum
+
+A tutela remotus eo loco haberi debet, quo esset finita tutela, et sicut actiones patitur perinde ac si pupillus pubes factus esset, ita contrario iudicio, si quid ei aberit, persequi debebit: nihil enim prohibet suspectum tutorem esse, quamvis complura in rem pupilli impenderit, quae eum amittere non oportet.
+
+27.4.5
+
+Ulpianus libro primo responsorum
+
+Heredem tutoris, si eam summam solverit, in quam obligati pupilli fuerunt, actionem contrariam adversus eos habere posse respondi.
+
+27.4.6
+
+Paulus libro quinto ad Plautium
+
+Si tutor pro pupillo se obligavit, habet contrariam actionem et antequam solvat.
+
+
+* 27.5.0. De eo qui pro tutore prove curatore negotia gessit.
+
+
+27.5.1
+
+Ulpianus libro 36 ad edictum
+
+pr. Protutelae actionem necessario praetor proposuit: nam quia plerumque incertum est, utrum quis tutor an vero quasi tutor pro tutore administraverit tutelam, idcirco in utrumque casum actionem scripsit, ut sive tutor est sive non sit qui gessit, actione tamen teneretur. Solent enim magni errores intercedere, ut discerni facile non possit, utrum quis tutor fuerit et sic gesserit, an vero non fuerit, pro tutore tamen munere functus sit.
+
+1. Pro tutore autem negotia gerit, qui munere tutoris fungitur in re impuberis, sive se putet tutorem, sive scit non esse, finget tamen esse.
+
+2. Proinde et si servus quasi tutor egerit, divus Severus rescripsit dandum in dominum iudicium utile.
+
+3. Cum eo, qui pro tutore negotia gessit, etiam ante pubertatem agi posse nulla dubitatio est, quia tutor non est.
+
+4. Quare si quis finita tutela pro tutore negotia impuberis gessit, tenebitur.
+
+5. Sed et si prius pro tutore administraverit, deinde quasi tutor, aeque tenebitur ex eo quod pro tutore administravit, quamvis devolvatur hic gestus in tutelae actionem.
+
+6. Si quis quasi tutor negotia gesserit eius qui iam pubes est neque tutorem habere potest, protutelae actio cessat: simili modo et si eius, qui nondum natus est. Nam ut pro tutore quis gerat, eam esse personam oportet, cuius aetas recipiat tutorem, id est impuberem esse oportet. Sed erit negotiorum gestorum actio.
+
+7. Si curator impuberi a praetore datus negotia gesserit, an, quasi pro tutore gesserit, teneatur, quaeritur. Et est verius cessare hanc actionem, quia officio curatoris functus est. Si quis tamen, cum tutor non esset, compulsus a praetore vel a praeside, dum se putat tutorem, gesserit tutelam, videndum, an pro tutore teneatur. Et magis est, ut, quamvis compulsus gesserit, teneri tamen debeat, quia animo tutoris gessit, cum tutor non esset. At iste curator non quasi tutor, sed quasi curator gessit.
+
+8. In protutelae iudicio usurae quoque veniunt.
+
+9. Sed utrum solummodo in id quod gessit tenebitur an vero in id etiam quod gerere debuit? Et si quidem omnino non attigit tutelam, non tenebitur: neque enim attingere debuit qui tutor non fuit. quod si quaedam gessit, videndum, an etiam eorum quae non gessit teneatur: et hactenus tenebitur, si alius gesturus fuit. Sed et si cognito, quod tutor non fuit, abstinuit se administratione, videamus, an teneatur, si necessarios pupilli non certioravit, ut ei tutorem peterent: quod verius est.
+
+27.5.2
+
+Celsus libro 25 digestorum
+
+Si is, qui pro tutore negotia gerebat, cum tutor non esset, rem pupilli vendidit nec ea usucapta est, petet eam pupillus, quamquam ei cautum est: non enim eadem huius quae tutoris est rerum pupilli administratio.
+
+27.5.3
+
+Iavolenus libro quinto epistularum
+
+Quaero, an is qui, cum tutor testamento datus esset et id ipsum ignoraret, pro tutore negotia pupilli gesserit, quasi tutor an quasi pro tutore negotia gesserit, teneatur. Respondit: non puto teneri quasi tutorem, quia scire quoque se tutorem esse debet, ut eo affectu negotia gerat, quo tutor gerere debeat.
+
+27.5.4
+
+Pomponius libro 16 ad Quintum Mucium
+
+Qui pro tutore negotia gerit, eandem fidem et diligentiam praestat, quam tutor praestaret.
+
+27.5.5
+
+Ulpianus libro decimo ad edictum
+
+Ei qui pro tutore negotia gessit contrarium iudicium competit.
+
+
+* 27.6.0. Quod falso tutore auctore gestum esse dicatur.
+
+
+27.6.1
+
+Ulpianus libro 12 ad edictum
+
+pr. Huius edicti aequitas non est ambigua, ne contrahentes decipiantur, dum falsus tutor adhibetur.
+
+1. Verba autem edicti haec sunt.
+
+2. "Quod eo auctore" inquit "qui tutor non fuerit". Verbis edicti multa desunt: quid enim si fuit tutor, is tamen fuit qui auctoritatem accommodare non potuit? Puta furiosus vel ad aliam regionem datus.
+
+3. Sed Pomponius libro trigensimo scribit interdum quamvis a non tutore gestum est, non pertinere ad hanc partem edicti: quid enim si duo tutores, alter falsus, alter verus auctoritatem accommodaverint, nonne valebit quod gestum est?
+
+4. Item hoc edictum licet singulariter scriptum sit, si tamen plures intervenerint, qui tutores non erant, tamen locum habere debere Pomponius libro trigesimo scribit.
+
+5. Idem Pomponius scribit, etiamsi pro tutore negotia gerens auctoritatem accommodaverit, nihilo minus hoc edictum locum habere, nisi forte praetor decrevit ratum se habiturum id, quod his auctoribus gestum est: tunc enim valebit per praetoris tuitionem, non ipso iure.
+
+6. Ait praetor: "Si id actor ignoravit, dabo in integrum restitutionem". Scienti non subvenit, merito, quoniam ipse se decepit.
+
+27.6.2
+
+Paulus libro 12 ad edictum
+
+"Si id", inquit, "actor ignoraverit". Labeo: et si dictum sit ei et bona fide non crediderit.
+
+27.6.3
+
+Ulpianus libro 12 ad edictum
+
+Plane si is sit qui auxilio non indiget, scientia ei non nocet, ut puta si pupillus cum pupillo egit: nam cum nihil actum sit, scientia non nocet.
+
+27.6.4
+
+Paulus libro 12 ad edictum
+
+Minori viginti quinque annis succurretur, etiamsi scierit.
+
+27.6.5
+
+Ulpianus libro 12 ad edictum
+
+Interdum tamen etsi scientia noceat, tamen restitutio facienda erit, si a praetore compulsus est ad iudicium accipiendum.
+
+27.6.6
+
+Paulus libro 12 ad edictum
+
+Pupilli scientia computanda non est, tutoris eius computanda est: utique etsi pupillo cautum sit, melius dicitur rem suam restitui pupillo quam incertum cautionis eventum eum spectare: quod et iulianus, si alias circumventus sit pupillus, respondit.
+
+27.6.7
+
+Ulpianus libro 12 ad edictum
+
+pr. Novissime praetor ait: "In eum qui, cum tutor non esset, dolo malo auctor factus esse dicetur, iudicium dabo, ut quanti ea res erit, tantam pecuniam condemnetur".
+
+1. Non semper tutor convenitur nec sufficit, si sciens aucto fuit, verum ita demum, si dolo malo auctor fuit. Quid si compulsus aut metu, ne compelleretur, auctoritatem accommodaverit, nonne debebit esse excusatus?
+
+2. Quod ait praetor "quanti ea res erit", magis puto non poenam, sed veritatem his verbis contineri.
+
+3. Pomponius libro trigesimo recte scribit etiam sumptuum in hoc iudicio rationem haberi, quos facturus est actor restitutorio agendo.
+
+4. Si plures sint qui auctores fuerunt, perceptione ab uno facta et ceteri liberantur, non electione:
+
+27.6.8
+
+Paulus libro 12 ad edictum
+
+Et ideo si nihil aut non totum servatum sit, in reliquos non denegandam in id quod deest Sabinus scribit.
+
+27.6.9
+
+Ulpianus libro 12 ad edictum
+
+pr. Huius actionis exemplo Pomponius libro trigesimo primo scribit dandam actionem adversus eum, qui dolo malo adhibuit, ut alius auctoraretur inscius.
+
+1. Has in factum actiones heredibus quidem competere ceterisque successoribus, in eos vero non reddi Labeo scribit nec in ipsum post annum, quoniam et factum puniunt et in dolum concipiuntur: et adversus eas personas, quae alieno iuri subiectae sunt, noxales erunt.
+
+27.6.10
+
+Gaius libro quarto ad edictum provinciale
+
+Si falso tutore auctore actum sit et interea dies actionis exierit aut res usucapta sit, omnia incommoda perinde sustinere debet, ac si illo tempore vero tutore auctore egisset.
+
+27.6.11
+
+Ulpianus libro 35 ad edictum
+
+pr. Falsus tutor, qui in contrahendo auctor minori duodecim vel quattuordecim annis fuerit, tenebitur in factum actione propter dolum malum.
+
+1. Cuiuscumque condicionis fuerit vel sui iuris vel alieni, qui dolo malo auctoritatem accommodavit, tenebittur hoc edicto.
+
+2. Sed et si quis filiae familias auctor factus sit ad contrahendum, tenetur. Idemque iuris est, si ancillae quis tutore auctore credidisset: nam omnibus istis modis propter tutorem decipitur is qui contraxit, quia aliter cum impubere contracturus non fuit, quam si tutoris auctoritas intercessisset.
+
+3. Iulianus libro vicesimo primo digestorum tractat, in patrem debeat dari haec actio, qui filiam minorem duodecim annis nuptum dedit. et magis probat patri ignoscendum esse, qui filiam suam maturius in familiam sponsi perducere voluit: affectu enim propensiore magis quam dolo malo id videri fecisse.
+
+4. Quod si intra duodecim annos haec decesserit, cum haberet dotem, putat iulianus, si dolo malo conversatus sit is ad quem dos pertinet, posse maritum doli mali exceptione condicentem summovere in casibus, in quibus dotem vel in totum vel in partem, si constabat matrimonium, fuerat lucraturus.
+
+27.6.12
+
+Ulpianus libro primo responsorum
+
+Ex eo, quod interrogatus tutorem se esse respondit, nulla eum actione teneri: si tamen, cum tutor non esset, responso suo in aliquam captionem adulescentem induxit, utilem actionem adversus eum dandam.
+
+
+* 27.7.0. De fideiussoribus et nominatoribus et heredibus tutorum et curatorum.
+
+
+27.7.1
+
+Pomponius libro 17 ad Sabinum
+
+pr. Quamvis heres tutoris tutor non est, tamen ea quae per defunctum inchoata sunt per heredem, si legitimae aetatis et masculus sit, explicari debent: in quibus dolus eius admitti potest.
+
+1. Quod penes tutorem fuit, heres quoque eius reddere debet: quod apud pupillum is reliquerit si heres capit, non quidem crimine caret, sed extra tutelam est et utili actione hoc reddere compellitur.
+
+27.7.2
+
+Ulpianus libro 39 ad Sabinum
+
+Postulare tutorem videtur et qui per alium postulat: item nominare et qui per alium hoc idem facit.
+
+27.7.3
+
+Ulpianus libro 35 ad edictum
+
+Etiam fideiussorem et heredes fideiussoris ad rationem eandem usurarum revocandos esse constat, ad quam et tutor revocatur.
+
+27.7.4
+
+Ulpianus libro 36 ad edictum
+
+pr. Cum ostendimus heredem quoque tutelae iudicio posse conveniri, videndum, an etiam proprius eius dolus vel propria administratio veniat in iudicium. Et exstat servii sententia existimantis, si post mortem tutoris heres eius negotia pupilli gerere perseveraverit aut in arca tutoris pupilli pecuniam invenerit et consumpserit vel eam pecuniam quam tutor stipulatus fuerat exegerit, tutelae iudicio eum teneri suo nomine: nam cum permittatur adversus heredem ex proprio dolo iurari in litem, apparet eum iudicio tutelae teneri ex dolo proprio.
+
+1. Neglegentia plane propria heredi non imputabitur.
+
+2. Usuras quoque eius pecuniae, quam pupillarem agitavit, praestare debet heres tutoris: quantas autem et cuius temporis usuras praestare debeat, ex bono et aequo constitui ab iudice oportet.
+
+3. Fideiussores a tutoribus nominati si praesentes fuerunt et non contradixerunt et nomina sua referri in acta publica passi sunt, aequum est perinde teneri, atque si iure legitimo stipulatio interposita fuisset. Eadem causa videtur adfirmatorum, qui scilicet cum idoneos esse tutores adfirmaverint, fideiussorum vicem sustinent.
+
+27.7.5
+
+Paulus libro 38 ad edictum
+
+Si cum fideiussoribus tutoris ex stipulatione rem salvam fore agetur, easdem reputationes habebunt, quas tutor.
+
+27.7.6
+
+Papinianus libro secundo responsorum
+
+Pupillus contra tutores eorumque fideiussores iudicem accepit: iudice defuncto, priusquam ad eum iretur, contra solos fideiussores alter iudex datus est. Officio cognoscentis conveniet, si tutores solvendo sint et administratio non dispar, sed communis fuit, portionum virilium admittere rationem ex persona tutorum.
+
+27.7.7
+
+Papinianus libro tertio responsorum
+
+Si fideiussores, qui rem salvam fore pupillo caverant, tutorem adulescens ut ante conveniret petierant atque ideo stipulanti promiserunt se reddituros quod ab eo servari non potuisset: placuit inter eos, qui solvendo essent, actionem residui dividi, quod onus fideiussorum susceptum videretur: nam et si mandato plurium pecunia credatur, aeque dividitur actio: si enim quod datum pro alio solvitur, cur species actionis aequitatem divisionis excludit?
+
+27.7.8
+
+Paulus libro nono responsorum
+
+pr. Heredes eius, qui non iure tutor vel curator datus administrationi se non immiscuit, dolum et culpam praestare non debere.
+
+1. Paulus respondit tale iudicium in heredem tutoris transferri oportere, quale defunctus suscepit. Hoc eo pertinet, ut non excusetur heres, si dicat se instrumenta tutelaria non invenisse: nam cum ex omnibus bona fide iudiciis propter dolum defuncti heres teneatur, idem puto observandum et in tutelae actione. Sed constitutionibus subventum est ignorantiae heredum. Hoc tamen tunc observandum est, cum post mortem tutoris heres conveniatur, non si lite contestata tutor decesserit: nam litis contestatione et poenales actiones transmittuntur ab utraque parte et temporales perpetuantur.
+
+
+* 27.8.0. De magistratibus conveniendis.
+
+
+27.8.1
+
+Ulpianus libro 36 ad edictum
+
+pr. In ordinem subsidiaria actio non dabitur, sed in magistratus, nec in fideiussores eorum: hi enim rem publicam salvam fore promittunt, non pupilli. Proinde nec nominatores magistratuum ex hac causa tenebuntur, sed soli magistratus. Sed si ordo receperit in se periculum, dici debet teneri eos, qui praesentes fuerunt: parvi enim refert, nominaverint vel fideiusserint an in se periculum receperint: utilis ergo in eos actio competit. Sed si a magistratibus municipalibus tutor datus sit, non videtur per ordinem electus.
+
+1. Neque praetor neque quis alius, cui tutoris dandi ius est, hac actione tenebitur.
+
+2. Si praeses provinciae denuntiare magistratus tantum de facultatibus tutorum voluit, ut ipse daret, videamus, an et quatenus teneantur. Et extat divi Marci rescriptum, quo voluit eos, qui praesidi renuntiant, non perinde teneri atque si ipsi dedissent, sed si deceperunt, gratia forte aut pecunia falsa renuntiantes. Plane si praeses provinciae satis eos exigere iussit, non dubitabimus teneri eos, etiamsi praeses dederit.
+
+3. Si praeses provinciae nominibus ab alio acceptis ad magistratus municipales remiserit, ut se de nominibus instruant, et perinde instructus dederit tutores: an exemplo eorum qui praetorem instruunt debeant magistratus teneri, quaeritur: utique enim interest, utrum ipsi magistratus nomina electa dederint praesidi an ea, quae ab alio praeses accepit, inquisierint. Et puto utroque casu sic teneri, quasi dolo vel lata culpa versati sunt.
+
+4. Non tantum pupilli, sed etiam successores eorum subsidiaria agere possunt.
+
+5. Si curatores fuerunt minus idonei dati, dicendum est teneri magistratus oportere, si ex suggestu eorum vel nominibus ab eis acceptis praeses dederit. Sed et si ad eos remiserit, ut ipsi dent vel post dationem ut exigerent satisdationem, periculum ad eos pertinebit.
+
+6. Magistratibus imputatur etiam, si omnino tutor vel curator datus non sit: sed ita demum tenentur, si moniti non dederint. Ideo damnum, quod impuberes vel adulescentes medio tempore passi sunt, ad eos magistratus pertinere non ambigitur, qui munere mandato non paruerunt.
+
+7. Sciendum autem est, si magistratus municipales data opera tutelam distulerint in successores suos vel si satisdationem data opera traxerint quoad successores accipiant, nihil eis prodesse.
+
+8. Divus Hadrianus rescripsit etiam in eum, qui electus est ad aestimandas tutorum satisdationes, actionem dandam.
+
+9. Si inter magistratus hoc convenerit, ut alterius tantum periculo tutores darentur, conventiones pupillo non praeiudicare divus Hadrianus rescripsit: conventione enim duumvirorum ius publicum mutari non potest. Prius tamen arbitror conveniendum eum, qui hoc suscepit, deinde excussis facultatibus eius tunc veniendum ad collegam, quemadmodum, si solus dedisset, diceremus prius eum, deinde collegam adgrediendum.
+
+10. Si quando desint in civitate, ex qua pupilli oriundi sunt, qui idonei videantur, officium est magistratuum exquirere ex vicinis civitatibus honestissimum quemque et nomina praesidibus provinciae mittere, non ipsos arbitrium dandi sibi vindicare.
+
+11. Si magistratus ab initio tutorem idoneum dedit et satis non exegit, non sufficit: quod si satis exegit et idoneum exegit, quamvis postea facultatibus lapsi sint tutores vel fideiussores, nihil est, quod ei qui dedit imputetur: non enim debent magistratus futuros casus et fortunam pupillo praestare.
+
+12. Sed et si satis non exegit, idoneus tamen tutor eo tempore fuit, quo tutelae agi potest, sufficit.
+
+13. Probatio autem non pupillo incumbit, ut doceat fideiussores solvendo non fuisse cum acciperentur, sed magistratibus, ut doceant eos solvendo fuisse.
+
+14. Privilegium in bonis magistratus pupillus non habet, sed cum ceteris creditoribus partem habiturus est.
+
+15. Exigere autem cautionem magistratus sic oportet, ut pupilli servus aut ipse pupillus, si fari potest et in praesentiarum est, stipuletur a tutoribus, item fideiussoribus eorum rem salvam fore: aut, si nemo est qui stipuletur, servus publicus stipulari debet rem salvam fore pupillo, aut certe ipse magistratus.
+
+16. Plane ubi servus publicus vel ipse magistratus stipulatur, dicendum est utilem actionem pupillo dandam.
+
+17. Si filius familias fuit magistratus et caveri pupillo non curaverit aut non idonee cautum sit culpa eius, an et quatenus in patrem eius actio danda sit, quaeritur. Et ait Iulianus in patrem de peculio dandam, sive voluntate eius filius decurio factus sit sive non: nam et si voluntate patris magistratum administravit, attamen non oportere patrem ultra quam de peculio conveniri, quasi rem publicam salvam solam fore promittat, qui dat voluntatem, ut filius decurio creetur.
+
+27.8.2
+
+Ulpianus libro tertio disputationum
+
+Proponebatur duos tutores a magistratibus municipalibus datos cautione non exacta, quorum alterum inopem decessisse, alterum in solidum conventum satis pupillo fecisse, et quaerebatur, an tutor iste adversus magistratum municipalem habere possit aliquam actionem, cum sciret a contutore suo satis non esse exactum. Dicebam, cum a tutore satis pupillo factum sit, neque pupillum ad magistratus redire posse neque tutorem, cum numquam tutor adversus magistratus habeat actionem: senatus enim consultum pupillo subvenit: praesertim cum sit, quod tutori imputetur, quod satis a contutore non exegit vel suspectum non fecit, si scit, ut proponitur, magistratibus eum non cavisse.
+
+27.8.3
+
+Iulianus libro 21 digestorum
+
+Quod si tutor ab hac parte culpa vacet, non erit iniquum adversus magistratus actionem ei dari.
+
+27.8.4
+
+Ulpianus libro tertio disputationum
+
+Non similiter tenentur heredes magistratuum, ut ipsi tenentur: nam nec heres tutoris neglegentiae nomine tenetur. Nam magistratus quidem in omne periculum succedit, heres ipsius dolo proximae culpae succedaneus est.
+
+27.8.5
+
+Iulianus libro 21 digestorum
+
+Duo tutores partiti sunt inter se administrationem tutelae: alter sine herede decessit: quaesitum est, in magistratum, qui non curasset ut caveretur, an in alterum tutorem actio pupillo dari deberet. Respondi aequius esse in alterum tutorem dari quam in magistratum: debuisse enim eum, cum sciret pupillo cautum non esse, universa negotia curare, et in ea parte, quam alteri tutori commisisset, similem esse ei, qui ad administrationem quorundam negotiorum pupilli non accessisset: nam etsi aliquam partem negotiorum pupilli administraverit, tenetur etiam ob rem, quam non gessit, cum gerere deberet.
+
+27.8.6
+
+Ulpianus libro primo ad edictum
+
+Quod ad heredem magistratus pertinet, exstat divi Pii rescriptum causa cognita debere dari actionem: nam magistratus si tanta fuit neglegentia, ut omnem cautionem omitteret, aequum est haberi eum loco fideiussoris, ut et heres eius teneatur: si vero cavit et tunc idonei fuerunt et postea desierunt, sicut et ipse magistratus probe recusaret hanc actionem, ita et heres multo iustius. Novissime non alias ait in heredem actionem dandam, quam si evidenter magistratus cum minus idoneis fideiussoribus contrahunt.
+
+27.8.7
+
+Celsus libro 11 digestorum
+
+In magistratus qui tutorem dederunt rogo rescribas utrum pro virili portione actio danda sit, an optio sit eius qui pupillus fuit, cum quo potissimum agat. Respondit, si dolo fecerunt magistratus, ut minus pupillo caveretur, in quem vult actio ei danda in solidum est: sin culpa dumtaxat eorum neque dolo malo id factum est, aequius esse existimo pro portione in quemque eorum actionem dari, dum pupillo salva res sit.
+
+27.8.8
+
+Modestinus libro sexto responsorum
+
+Magistratus a curatoribus adulti cautionem exegerunt rem salvam fore: ex his alter sine herede decessit: quaero, an indemnitatem in solidum collega eius praestare debeat. Modestinus respondit nihil proponi, cur non debeat.
+
+27.8.9
+
+Modestinus libro quarto pandectarum
+
+An in magistratus actione data cum usuris sors exigi debeat, an vero usurae peti non possint, quoniam constitutum est poenarum usuras peti non posse, quaesitum est. Et rescriptum est a divis Severo et Antonino et usuras peti posse, quoniam eadem in magistratibus actio datur, quae competit in tutores.
+
+
+* 27.9.0. De rebus eorum, qui sub tutela vel cura sunt, sine decreto non alienandis vel supponendis.
+
+
+27.9.1
+
+Ulpianus libro 35 ad edictum
+
+pr. Imperatoris Severi oratione prohibiti sunt tutores et curatores praedia rustica vel suburbana distrahere.
+
+1. Quae oratio in senatu recitata est Tertullo et Clemente consulibus idibus iuniis et sunt verba eius huiusmodi:
+
+2. "Praeterea, patres conscripti, interdicam tutoribus et curatoribus, ne praedia rustica vel suburbana distrahant, nisi ut id fieret, parentes testamento vel codicilllis caverint. Quod si forte aes alienum tantum erit, ut ex rebus ceteris non possit exsolvi, tunc praetor urbanus vir clarissimus adeatur, qui pro sua religione aestimet, quae possunt alienari obligarive debeant, manente pupillo actione, si postea potuerit probari obreptum esse praetori. Si communis res erit et socius ad divisionem provocet, aut si creditor, qui pignori agrum a parente pupilli acceperit, ius exsequetur, nihil novandum censeo".
+
+3. Si defunctus dum viveret res venales habuerit, testamento tamen non caverit, uti distraherentur, abstinendum erit venditione: non enim utique qui ipse voluerit vendere, idem etiam postea distrahenda putavit.
+
+4. Si minor viginti quinque annis emit praedia, ut, quoad pretium solveret, essent pignori obligata venditori, non puto pignus valere: nam ubi dominium quaesitum est minori, coepit non posse obligari.
+
+27.9.2
+
+Paulus libro singulari ad orationem divi Severi
+
+Sed hic videtur illud movere, quod cum dominio pignus quaesitum est et ab initio obligatio inhaesit. Quod si a fisco emerit, nec dubitatio est, quin ius pignoris salvum sit. Si igitur talis species in privato venditore inciderit, imperiali beneficio opus est, ut ex rescripto pignus confirmetur.
+
+27.9.3
+
+Ulpianus libro 35 ad edictum
+
+pr. Sed si pecunia alterius pupilli alteri pupillo fundus sit comparatus isque pupillo vel minori traditus, an pignoris obligationem possit habere is, cuius pecunia fundus sit emptus et magis est, ut salvum sit ius pignoris secundum constitutionem imperatoris nostri et divi patris eius ei pupillo, cuius pecunia comparatus est fundus.
+
+1. Pignori tamen capi iussu magistratus vel praesidis vel alterius potestatis et distrahi fundus pupillaris potest. Sed et in possessionem mitti rerum pupillarum a praetore quis potest et ius pignoris contrahitur, sive legatorum servandorum causa sive damni infecti, ut procedat, iuberi etiam possideri poterit: hae enim obligationes sive alienationes locum habent, quia non ex tutoris vel curatoris voluntate id fit, sed ex magistratuum auctoritate.
+
+2. Item quaeri potest, si fundus a tutore petitus sit pupillaris nec restituatur, an litis aestimatio oblata alienationem pariat, et magis est, ut pariat: haec enim alienatio non sponte tutorum fit.
+
+3. Idemque erit dicendum et si fundus petitus sit, qui pupilli fuit, et contra pupillum pronuntiatum tutoresque restituerunt: nam et hic valebit alienatio propter rei iudicatae auctoritatem.
+
+4. Si ius emfuteutikon vel embateutikon habeat pupillus, videamus, an distrahi hoc a tutoribus possit. Et magis est non posse, quamvis ius praedii potius sit.
+
+5. Nec usus fructus alienari potest, etsi solus fuit usus fructus pupilli. An ergo hic nec non utendo amittatur, si tutor causam praebuerit huius rei? Et manifestum est restaurari debere. Sed si proprietatem habeat pupillus, non potest usum fructum vel usum alienare, quamvis oratio nihil de usu fructu loquatur. Simili modo dici potest nec servitutem imponi posse fundo pupilli vel adulescentis nec servitutem remitti, quod et in fundo dotali placuit.
+
+6. Si lapidicinas vel quae alia metalla pupillus habuit stypteriae vel cuius alterius materiae, vel si cretifodinas argentifodinas vel quid aliud huic simile,
+
+27.9.4
+
+Paulus libro singulari ad orationem divi Severi
+
+Quod tamen privatis licet possidere:
+
+27.9.5
+
+Ulpianus libro 35 ad edictum
+
+pr. Magis puto ex sententia orationis impediri alienationem.
+
+1. Sed et si salinas habeat pupillus, idem erit dicendum.
+
+2. Si pupillus alienum fundum bona fide emptum possideat, dicendum puto ne hunc alienare tutores posse: ea enim, quae quasi pupillaris vero distractus est, venditio valet.
+
+3. Si fundus pupillo pigneratus sit, an vendere tutores? Hunc enim quasi debitoris, hoc est alienum vendunt. Si tamen impetraverat pupillus vel pater eius, ut iure dominii possideant, consequens erit dicere non posse distrahi quasi praedium pupillare. Idemque et si fuerit ex causa damni infecti iussus possidere.
+
+4. Si fundus legatus vel per fideicommissum fuerit relictus seio a pupillo herede instituto, an tutores restituere hunc fundum possint sine auctoritate praetoris? Et putem, si quidem rem suam legavit, cessare orationem, sin vero de re pupilli, dicendum erit locum esse orationi nec inconsulto praetore posse alienare.
+
+5. Si pupillus stipulanti spoponderit, an solvere possit sine praetoris auctoritate? Et magis est, ne possit: alioquin inventa erit alienandi ratio.
+
+6. Sed si pater stipulanti fundum spoponderit successeritque pupillus in stipulatum, fortius dicetur sine praetoris auctoritate posse eum reddere. Idemque et si iure hereditario alii successerit, qui erat obligatus.
+
+7. Eadem ratione et si parens fundum vendidit vel quis alius, cui pupillus successerit, potest dici pupillum cetera venditionis inconsulto praetore posse perficere.
+
+8. Fundum autem legatum repudiare pupillus sine praetoris auctoritate non potest: esse enim et hanc alienationem, cum res sit pupilli, nemo dubitat.
+
+9. Non passim tutoribus sub optentu aeris alieni permitti debuit venditio: namque non esse viam eis distractionis tributam. Et ideo praetori arbitrium huius rei senatus dedit, cuius officio in primis hoc convenit excutere, an aliunde possit pecunia ad extenuandum aes alienum expediri. Quaerere ergo debet, an pecuniam pupillus habeat vel in numerato vel in nominibus, quae conveniri possunt, vel in fructibus conditis vel etiam in redituum spe atque obventionum. Item requirat, num aliae res sint praeter praedia, quae distrahi possint, ex quarum pretio aeri alieno satisfieri possit. Si igitur deprehenderit non posse aliunde exsolvi quam ex praediorum distractione, tunc permittet distrahi, si modo urgueat creditor aut usurarum modus parendum aeri alieno suadeat.
+
+10. Idem praetor aestimare debebit, utrum vendere potius an obligare permittat nec non illud vigilanter observare, ne plus accipiatur sub obligatione praediorum faenoris, quam quod opus sit ad solvendum aes alienum: aut distrahendum arbitrabitur, ne propter modicum aes alienum magna possessio distrahatur, sed si sit alia possessio minor vel minus utilior pupillo, magis eam iubere distrahi quam maiorem et utiliorem.
+
+11. In primis igitur quotiens desideratur ab eo, ut remittat distrahi, requirere debet eum, qui se instruat de fortunis pupilli, nec nimium tutoribus vel curatoribus credere, qui nonnumquam lucri sui gratia adseverare praetori solent necesse esse distrahi possessiones vel obligari. Requirat ergo necessarios pupilli vel parentes vel libertos aliquos fideles vel quem alium, qui notitiam rerum pupillarium habet, aut, si nemo inveniatur aut suspecti sint qui inveniuntur, iubere debet edi rationes itemque synopsin bonorum pupillarium, advocatumque pupillo dare, qui instruere possit praetoris religionem, an adsentire venditioni vel obligationi debeat.
+
+12. Illud quaeri potest, si praetor aditus permiserit distrahi possessionem provincialem, an valeat quod fecit. Et putem valere: si modo tutela Romae agebatur et hi tutores eam quoque administrationem subierant.
+
+13. Ne tamen titulo tenus tutores aere alieno allegato pecunia abutantur quam mutuam acceperunt, oportebit praetorem curare, ut pecunia accepta creditoribus solvatur et de hoc decernere dareque viatorem, qui ei renuntiet pecuniam istam ad hoc conversam, propter quod desiderata est alienatio vel obligatio.
+
+14. Si aes alienum non interveniat, tutores tamen allegent expedire haec praedia vendere et vel alia comparare vel certe istis carere, videndum est, an praetor eis debeat permittere. Et magis est, ne possit: praetori enim non liberum arbitrium datum est distrahendi res pupillares, sed ita demum, si aes alienum immineat. Proinde et si permiserit aere alieno non allegato, consequenter dicemus nullam esse venditionem nullumque decretum: non enim passim distrahi iubere praetori tributum est, sed ita demum, si urgueat aes alienum.
+
+15. Manet actio pupillo, si postea poterit probari obreptum esse praetori. Sed videndum est, utrum in rem an in personam dabimus ei actionem. Et magis est, ut in rem detur, non tantum in personam adversus tutores sive curatores.
+
+16. Communia praedia accipere debemus, si pro indiviso communia sint: ceterum si pro diviso communia sint, cessante oratione decreto locus erit.
+
+27.9.6
+
+Ulpianus libro secundo de omnibus tribunalibus
+
+Sed si forte alius proprietatem fundi habeat, alius usum fructum, magis est, ut cesset haec pars orationis, quae de divisione loquitur: nulla enim communio est.
+
+27.9.7
+
+Ulpianus libro 35 ad edictum
+
+pr. Si pupillorum sint communia praedia qui diversos tutores habent, videamus, an alienatio locum habere possit. Et cum provocatio necessaria sit, puto alienationem impediri: neuter enim poterit provocare, sed ambo provocationem exspectare. Item si eosdem tutores habeant, multo magis quis impeditam alienationem dicet.
+
+1. Si pupillus dedit pignori ex permissu praetoris, nonnulla erit dubitatio, an alienatio possit impediri. Sed dicendum est posse creditorem ius suum exsequi: tutius tamen fecerit, si prius praetorem adierit.
+
+2. Si pater vel parens tutor sit alicui ex liberis, an praetor adeundus sit, si obligare velit? Et magis est ut debeat: pronior tamen esse debet praetor ad consentiendum patri.
+
+3. Si praetor tutoribus permiserit vendere, illi obligaverint vel contra, an valeat quod actum est? Et mea fert opinio eum, qui aliud fecit, quam quod a praetore decretum est, nihil egisse.
+
+4. Quid ergo si praetor ita decreverit "vendere obligareve permitto", an possit liberum arbitrium habere, qui faciat? Et magis est ut possit, dummodo sciamus praetorem non recte partibus suis functum: debuit enim ipse statuere et eligere, utrum magis obligare an vendere permittat.
+
+5. Si obligavit rem tutor sine decreto, quamvis obligatio non valeat, est tamen exceptioni doli locus, sed tunc, cum tutor acceptam mutuam pecuniam ei solverit, qui sub pignore erat creditor.
+
+6. Item videndum est, an et obligare ei rem possit: et dicendum est, si eandem sortem acceperit nec gravioribus usuris, valere obligationem, ut ius prioris creditoris ad sequentem transeat.
+
+27.9.8
+
+Ulpianus libro secundo de omnibus tribunalibus
+
+pr. Qui neque tutores sunt ipso iure neque curatores, sed pro tutore negotia gerunt vel pro curatore, eos non posse distrahere res pupillorum vel adulescentium nulla dubitatio est.
+
+1. Sed si curator sit furiosi vel cuius alterius non adulescentis, videndum est, utrum iure veteri valebit venditio an hanc orationem admittemus. Et puto, quia de pupillis princeps loquitur et coniuncti tutoribus curatores accipiunt, pertinere: et de ceteris puto ex sententia orationis idem esse dicendum.
+
+2. An obligari communia possint, quaeritur, sed non puto sine decreto obliganda: nam quod excepit oratio, ad hoc tantum pertinet, ut perematur communio, non ut augeatur difficultas communionis.
+
+27.9.9
+
+Ulpianus libro quinto opinionum
+
+Quamvis antecessor praesidis decrevisset ea praedia venumdari, quae tutor pupilli, subiecto nomine alterius emptoris, ipse sibi comparabat, tamen, si fraudem et dolum contra senatus consulti auctoritatem et fidem tutori commissam deprehendisset successor eius, aestimabit, quatenus tam callidum commentum etiam in exemplum coercere debeat.
+
+27.9.10
+
+Ulpianus libro sexto opinionum
+
+Illicite post senatus consultum pupilli vel adulescentis praedio vendumdato, si eo nomine apud iudicem tutelae vel utilis actionis aestimatio facta est eaque soluta, vindicatio praedii ex aequitate inhibetur.
+
+27.9.11
+
+Ulpianus libro tertio de officio proconsulis
+
+Si praedia minoris viginti quinque annis distrahi desiderentur, causa cognita praeses provinciae debet id permittere. Idem servari oportet et si furiosi vel prodigi vel cuiuscumque alterius praedia curatores velint distrahere.
+
+27.9.12
+
+Marcianus libro singulari ad formulam hypothecariam
+
+Non fit contra senatus consultum, si cuius tutor creditori patris pupilli exsolvit, ut eius loco succedat.
+
+27.9.13
+
+Paulus libro singulari ad orationem divi Severi
+
+pr. Si fundus sit sterilis vel saxosus vel pestilens, videndum est, an alienare eum non possit. Et imperator Antoninus et divus pater eius in haec verba rescripserunt: "Quod allegastis infructuosum esse fundum, quem vendere vultis, movere nos non potest, cum utique pro fructuum modo pretium inventurus sit".
+
+1. Quamquam autem neque distrahere neque obligare tutor pupillare praedium possit, attamen Papinianus libro quinto responsorum ait tutorem pupilli sine decreto praetoris non iure distrahere: si tamen, inquit, errore lapsus vendiderit et pretium acceptum creditoribus paternis pueri solverit, quandoque domino praedium cum fructibus vindicanti doli non inutiliter opponitur, exceptio pretium ac medii temporis usuras, quae creditoribus debentur, non offerenti, si ex ceteris eius facultatibus aes alienum solvi non poterit. Ego autem notavi: etsi solvi potuerit, si tamen illae res salvae erunt, ex quarum pretio aeri alieno satisfieri potuit, dicendum est adhuc doli exceptionem obstare, si lucrum captet pupillus ex damno alieno.
+
+27.9.14
+
+Paulus libro nono responsorum
+
+Paulus respondit, etsi testamentum patris postea irritum esse apparuit, tamen tutores pupilli sive curatores filii nihil contra orationem divorum principum fecisse videri, si secundum voluntatem defuncti testamento scriptam praedium rusticum pupillare vendiderunt.
+
+
+* 27.10.0. De curatoribus furioso et aliis extra minores dandis.
+
+
+27.10.1
+
+Ulpianus libro primo ad Sabinum
+
+pr. Lege duodecim tabularum prodigo interdicitur bonorum suorum administratio, quod moribus quidem ab initio introductum est. Sed solent hodie praetores vel praesides, si talem hominem invenerint, qui neque tempus neque finem expensarum habet, sed bona sua dilacerando et dissipando profudit, curatorem ei dare exemplo furiosi: et tamdiu erunt ambo in curatione, quamdiu vel furiosus sanitatem vel ille sanos mores receperit: quod si evenerit, ipso iure desinunt esse in potestate curatorum.
+
+1. Curatio autem eius, cui bonis interdicitur, filio negabatur permittenda: sed extat divi Pii rescriptum filio potius curationem permittendam in patre furioso, si tam probus sit.
+
+27.10.2
+
+Paulus libro primo de officio proconsulis
+
+Sed et aliis dabit proconsul curatores, qui rebus suis superesse non possunt, vel dari iubebit, nec dubitabit filium quoque patri curatorem dari.
+
+27.10.3
+
+Ulpianus libro 31 ad Sabinum
+
+Dum deliberant heredes instituti adire, bonis a praetore curator datur.
+
+27.10.4
+
+Ulpianus libro 38 ad Sabinum
+
+Furiosae matris curatio ad filium pertinet: pietas enim parentibus, etsi inaequalis est eorum potestas, aequa debebitur.
+
+27.10.5
+
+Gaius libro nono ad edictum provinciale
+
+Curator ex senatus consulto constituitur, cum clara persona, veluti senatoris vel uxoris eius, in ea causa sit, ut eius bona venire debeant: nam ut honestius ex bonis eius quantum potest creditoribus solveretur, curator constituitur distrahendorum bonorum gratia vel a praetore vel in provinciis a praeside.
+
+27.10.6
+
+Ulpianus libro primo de omnibus tribunalibus
+
+Observare praetorem oportebit, ne cui temere citra causae cognitionem plenissimum curatorem det, quoniam plerique vel furorem vel dementiam fingunt, quo magis curatore accepto onera civilia detrectent.
+
+27.10.7
+
+Iulianus libro 21 digestorum
+
+pr. Consilio et opera curatoris tueri debet non solum patrimonium, sed et corpus ac salus furiosi.
+
+1. Curator dementi datus decreto interposito, uti satisdaret, non cavit et tamen quasdam res de bonis eius legitimo modo alienavit. Si heredes dementis easdem res vindicent, quas curator alienavit, et exceptio opponetur "si non curator vendiderit", replicatio dari debet "aut si satisdatione interposita secundum decretum vendiderit". Quod si pretio accepto curator creditores furiosi dimisit, triplicatio doli tutos possessores praestabit.
+
+2. Cum dementis curatorem, quia satis non dederat et res male administraret, proconsul removerit a bonis aliumque loco eius substituerit curatorem, et hic posterior, cum nec ipse satisdedisset, egerit cum remoto negotiorum gestorum, posteaque heredes dementis cum eodem negotiorum gestorum agant et is exceptione rei iudicatae inter se et curatorem utatur: heredibus replicatio danda erit: "aut si is qui egit satisdederat". Sed an replicatio curatori profutura esset, iudex aestimabit: nam si curator sequens pecuniam, quam ex condemnatione consecutus fuerat, in rem furiosi vertisset, doli triplicatio obstabit.
+
+3. Quaesitum est, an alteri ex curatoribus furiosi recte solvetur vel an unus rem furiosi alienare possit. Respondi recte solvi. Eum quoque, qui ab altero ex curatoribus fundum furiosi legitime mercaretur, usucapturum, quia solutio venditio traditio facti magis quam iuris sunt ideoque sufficit unius ex curatoribus persona, quia intellegitur alter consentire: denique si praesens sit et vetet solvi, vetet venire vel tradi, neque debitor liberabitur neque emptor usucapiet.
+
+27.10.8
+
+Ulpianus libro sexto de officio proconsulis
+
+Bonorum ventris nomine curatorem dari oportet eumque rem salvam fore viri boni arbitratu satisdare proconsul iubet: sed hoc, si non ex inquisitione detur: nam si ex inquisitione, cessat satisdatio.
+
+27.10.9
+
+Neratius libro primo membranarum
+
+Cuius bonis distrahendis curatores facere senatus permisit, eius bona creditoribus vendere non permisit, quamvis creditores post id beneficium bona vendere mallent: sicut enim integra re potestas ipsorum est utrum velint eligendi, ita cum alterum elegerint, altero abstinere debent. Multoque magis id servari aequum est, si etiam factus est curator, per quem bona distraherentur, quamvis nondum explicato eo negotio decesserit. Nam et tunc ex integro alius curator faciendus est neque heres prioris curatoris onerandus, cum accidere possit, ut negotio vel propter sexus vel propter aetatis infirmitatem vel propter dignitatem maiorem minoremve, quam in priore curatore spectata erat, habilis non sit, possint etiam plures heredes ei existere neque aut per omnes id negotium administrari expediat aut quicquam dici possit, cur unus aliquis ex his potissimum onerandus sit.
+
+27.10.10
+
+Ulpianus libro 16 ad edictum
+
+pr. Iulianus scribit eos, quibus per praetorem bonis interdictum est, nihil transferre posse ad aliquem, quia in bonis non habeant, cum eis deminutio sit interdicta.
+
+1. Curator furiosi rem quidem suam quasi furiosi tradere poterit et dominium transferre: rem vero furiosi si quasi suam tradat, dicendum, ut non transferat dominium, quia non furiosi negotium gerens tradidit.
+
+27.10.11
+
+Paulus libro septimo ad Plautium
+
+Pignus a curatore furiosi datum valet, si utilitate furiosi exigente id fecit.
+
+27.10.12
+
+Marcellus libro primo digestorum
+
+Ab adgnato vel alio curatore furiosi rem furiosi dedicari non posse constat: adgnato enim furiosi non usquequaque competit rerum eius alienatio, sed quatenus negotiorum exigit administratio.
+
+27.10.13
+
+Gaius libro tertio ad edictum provinciale
+
+Saepe ad alium e lege duodecim tabularum curatio furiosi aut prodigi pertinet, alii praetor administrationem dat, scilicet cum ille legitimus inhabilis ad eam rem videatur.
+
+27.10.14
+
+Papinianus libro quinto responsorum
+
+Virum uxori mente captae curatorem dari non oportet.
+
+27.10.15
+
+Paulus libro tertio sententiarum
+
+pr. Et mulieri, quae luxuriose vivit, bonis interdici potest.
+
+1. In bonis curatoris privilegium furiosi furiosaeve servatur: prodigus et omnes omnino, etiamsi in edicto non fit eorum mentio, in bonis curatoris decreto privilegium consequuntur.
+
+27.10.16
+
+Tryphoninus libro 13 disputationum
+
+pr. Si furioso puberi quamquam maiori annorum viginti quinque curatorem pater testamento dederit, eum praetor dare debet secutus patris voluntatem: manet enim ea datio curatoris apud praetorem, ut rescripto divi Marci continetur.
+
+1. His consequens est, ut et si prodigo curatorem dederit pater, voluntatem eius sequi debeat praetor eumque dare curatorem. Sed utrum omnimodo, an ita, si futurum esset, ut, nisi pater aliquid testamento cavisset, praetor ei bonis interdicturus esset? Et maxime si filios habeat iste prodigus?
+
+2. Potuit tamen pater et alias providere nepotibus suis, si eos iussisset heredes esse et exheredasset filium eique quod sufficeret alimentorum nomine ab eis certum legasset addita causa necessitateque iudicii sui: aut si non habuit in potestate nepotes, quoniam emancipato iam filio nati fuissent, sub condicione eos heredes instituere, ut emanciparentur a patre prodigo.
+
+3. Sed quid si nec ad hoc consensurus esset prodigus? Sed per omnia iudicium testatoris sequendum est, ne, quem pater vero consilio prodigum credidit, eum magistratus propter aliquid forte suum vitium idoneum putaverit.
+
+27.10.17
+
+Gaius libro primo de manumissionibus
+
+Curator furiosi nullo modo libertatem praestare potest, quod ea res ex administratione non est: nam in tradendo ita res furiosi alienat, si id ad administrationem negotiorum pertineat: et ideo si donandi causa alienet, neque traditio quicquam valebit, nisi ex magna utilitate furiosi hoc cognitione iudicis faciat.

@@ -1,0 +1,1562 @@
+# -*- mode: org -*-
+
+DOMINI NOSTRI SACRATISSIMI PRINCIPIS
+IUSTINIANI
+IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
+DIGESTORUM SEU PANDECTARUM
+liber tricesimus sextus
+
+
+( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
+
+
+* TITLES
+** 36.1.0. Ad senatus consultum Trebellianum.
+** 36.2.0. Quando dies legatorum vel fideicommissorum cedat.
+** 36.3.0. Ut legatorum seu fideicommissorum servandorum causa caveatur.
+** 36.4.0. Ut in possessionem legatorum vel fideicommissorum servandorum causa esse liceat.
+
+
+
+* 36.1.0. Ad senatus consultum Trebellianum.
+
+
+36.1.1
+
+Ulpianus libro tertio fideicommissorum
+
+pr. Explicito tractatu, qui ad fideicommissa singularum rerum pertinet, transeamus nunc ad interpretationem senatus consulti Trebelliani.
+
+1. Factum est enim senatus consultum temporibus Neronis octavo calendas septembres Annaeo Seneca et Trebellio Maximo consulibus, cuius verba haec sunt:
+
+2. "Cum esset aequissimum in omnibus fideicommissariis hereditatibus, si qua de his bonis iudicia penderent, ex his eos subire, in quos ius fructusque transferretur, potius quam cuique periculosum esse fidem suam: placet, ut actiones, quae in heredem heredibusque dari solent, eas neque in eos neque his dari, qui fidei suae commissum sic, uti rogati essent, restituissent, sed his et in eos, quibus ex testamento fideicommissum restitutum fuisset, quo magis in reliquum confirmentur supremae defunctorum voluntates".
+
+3. Sublata est hoc senatus consulto dubitatio eorum, qui adire hereditatem recusare seu metu litium seu praetextu metus censuerunt.
+
+4. Quamquam autem senatus subventum voluit heredibus, subvenit tamen et fideicommissario: nam in eo, quod heredes, si conveniantur, exceptione uti possunt, heredibus subventum est: in eo vero, quod, si agant heredes, repelluntur per exceptionem quodque agendi facultas fideicommissariis competit, procul dubio consultum est fideicommissariis.
+
+5. Hoc autem senatus consultum locum habet, sive ex testamento quis heres esset sive ab intesto rogatusque sit restituere hereditatem.
+
+6. In filii quoque familias militis iudicio, qui de castrensi peculio vel quasi castrensi testari potest, senatus consultum locum habet.
+
+7. Bonorum quoque possessores vel alii successores ex Trebelliano restituere potuerunt hereditatem.
+
+8. De illo quaeritur, an is, cui ex causa fideicommissi restituta est hereditas ex Trebelliano senatus consulto, ipse quoque restituendo ex eodem senatus consulto transferat actiones: et Iulianus scribit etiam ipsum transferre actiones, quod et Maecianus probat et nobis placet.
+
+9. Sed et quotiens quis rogatus duobus restituere hereditatem, alteri pure vel in diem, alteri sub condicione, suspectam dicit: ei, cui erat rogatus pure vel in diem restituere, interim universam hereditatem restitui senatus censuit, cum autem exstiterit condicio, si velit alius fideicommissarius partem suam suscipere, transire ad eum ipso iure actiones.
+
+10. Si filio vel servo herede instituto rogatoque restituere hereditatem dominus vel pater restituat, ex Trebelliano transferuntur actiones: quod est etiam, si suo nomine rogati sunt restituere.
+
+11. Idem est et si ipsi filio pater rogatus sit restituere hereditatem.
+
+12. Sed et si tutor vel curator adulescentis vel furiosi rogatus sit restituere hereditatem, sine dubio Trebelliano locus erit.
+
+13. Fuit quaesitum, si ipsi tutori rogatus sit restituere pupillus, an ipso auctore restitutionem facere possit? Et est decretum a divo Severo non posse tutori se auctore restituere hereditatem, quia in rem suam auctor esse non potest.
+
+14. Curatori tamen adulescentis ab adulescente poterit restitui hereditas, quoniam necessaria non est auctoritas ad restitutionem.
+
+15. Si autem collegium vel corpus sit, quod rogatum est restituere decreto eorum cui, qui sunt in collegio vel corpore, in singulis inspecta eorum persona restitutionem valere: nec enim ipse sibi videtur quis horum restituere.
+
+16. Si heres praecepto fundo rogatus sit hereditatem restituere, ex
+Trebelliano senatus consulto restituet hereditatem. nec multum facit,
+si fundus pignori datus est: neque enim aeris alieni personalis actio
+fundum sequitur, sed eum, cui hereditas ex Trebelliano senatus
+consulto restituta est. Sed cavendum est heredi a fideicommissario,
+ut, si forte fundus fuerit evictus a creditore, habeat heres
+cautum. Iulianus autem cavendum non putat, sed aestimandum fundum,
+quanti valet sine hac cautione, hoc est quanti vendere potest sine
+cautione: et si potest tanti vendere non interposita cautione, quantum
+facit quarta pars bonorum, ex Trebelliano transituras actiones: si
+minoris, retento eo quod deest similiter ex Trebelliano restitutionem
+fieri: quae sententia multas quaestiones dirimit.
+
+17. Si is, qui quadringenta in bonis habeat, trecenta legaverit et deductis ducentis rogaverit heredem Seio restituere hereditatem, an trecentorum onus fideicommissarius subeat an vero hactenus, quatenus ad eum ex hereditate pervenit? Iulianus ait competere quidem adversus eum trecentorum petitionem, non autem amplius quam in ducentis actionem adversus fideicommissarium daturum, in heredem autem centum. Et mihi videtur vera esse Iuliani sententia, ne damnum fideicommissarius sentiat ultra, quam ad eum ex hereditate quid pervenit: neminem enim oportere plus legati nomine praestare, quam ad eum ex hereditate pervenit, quamvis Falcidia cesset, ut rescripto divi Pii continetur.
+
+18. Denique nec ex militis testamento plus legatorum nomine praestatur, quam quantitas est hereditatis aere alieno deducto. Nec tamen quartam retinere fideicommissario permittitur.
+
+19. Inde Neratius scribit, si heres rogatus restituere totam hereditatem non deducta Falcidia rogato et ipsi, ut alii restituat, non utique debere eum detrahere fideicommissario secundo quartam, nisi liberalitatem tantum ad priorem fideicommissarium heres voluit pertinere.
+
+20. Sed si quadringenta habens ducenta legaverit Titio et partem dimidiam hereditatis Sempronio restituere rogaverit, ex Trebelliano restitutionem faciendam Iulianus ait et legatorum petitionem scindi sic, ut centum quidem petantur ab herede, centum vero alia legatarius a fideicommissario petat. Quod idcirco dicit Iulianus, quoniam secundum hanc rationem integram quartam habet, id est centum integra.
+
+21. Idem Iulianus scribit, si is, qui quadringenta in bonis habeat, trecenta legasset et deductis centum rogasset heredem, ut hereditatem Sempronio restituat, debere dici deductis centum restituta hereditate legatorum actionem in fideicommissarium dari.
+
+36.1.2
+
+Celsus libro 21 digestorum
+
+Qui quadringenta reliquit, Titio trecenta legavit, heredis fidei commisit, ut tibi hereditatem restitueret, isque suspectam iussu praetoris adiit et restituit: quaerebatur, quid legatario dare deberes. Dicendum est, quia praesumptum est voluisse testatorem cum onere legatorum fideicommissum restitui, tota trecenta te dare Titio debere: nam heres hoc rogatus intellegi debet, ut te suo loco constituat et quod heres perfunctus omnibus hereditariis muneribus, id est post legatorum dationem, reliquum habiturus foret, si non esset rogatus et tibi restitueret hereditatem, id tibi restituat. Quantum ergo haberet? Nempe centum: haec ut tibi daret rogatus est. Itaque sic ineunda est legis Falcidiae ratio, quasi heres trecenta Titio dare damnatus tibi centum dare damnatus sit: quo evenit, ut, si hereditatem sua sponte adisset, daret Titio ducenta viginti quinque, tibi septuaginta quinque. Non ergo plus Titio debetur, quam si iniussu praetoris adita hereditas foret.
+
+36.1.3
+
+Ulpianus libro tertio fideicommissorum
+
+pr. Marcellus autem apud Iulianum in hac specie ita scribit: si ad heredis onus esse testator legata dixerit et heres sponte adiit hereditatem, ita debere computationem Falcidiae iniri, ac si quadringenta per fideicommissum essent relicta, trecenta vero legata, ut in septem partes trecenta dividantur et ferat quattuor partes fideicommissarius, tres partes legatarius. Quod si suspecta dicta sit hereditas et non sponte heres adiit et restituit, centum quidem de quadringentis, quae habiturus esset heres, resident apud fideicommissarium, in reliquis autem trecentis eadem distributio fiet, ut ex his quattuor partes habeat fideicommissarius, reliquas tres legatarius: nam iniquissimum est plus ferre legatarium ideo, quia suspecta dicta est hereditas, quam laturus esset, si sponte adita fuisset.
+
+1. Quod autem in suspecta hereditate dictum est, hoc idem dici potest in his testamentis, in quibus lex Falcidia locum non habet, in militis dico et si qui sunt alii.
+
+2. Item Pomponius scribit, si deductis legatis restituere quis hereditatem rogatur, quaesitum est, utrum solida legata praestanda sint et quartam ex solo fideicommisso detrahere possit, an vero et ex legatis et ex fideicommisso quartam detrahere possit? Et refert Aristonem respondisse ex omnibus detrahendam, hoc est ex legatis et fideicommisso.
+
+3. Res, quae ab herede alienatae sunt, in quartam imputantur heredi.
+
+4. Quidam liberis suis, ex disparibus partibus institutis, datis praeceptionibus, ut ipse maximam partem patrimonii inter liberos ita divisisset, rogavit eum, qui sine liberis decederet, portionem suam fratribus restituere. Imperator noster rescripsit praeceptiones quoque fideicommisso contineri, quia non portionem hereditariam testator commemoravit, sed simpliciter portionem: in portionem autem et praeceptiones videri cecidisse.
+
+5. Si is, qui rogatus fuerit hereditatem restituere, ante quaestionem de familia habitam vel tabulas aperuerit vel hereditatem adierit vel quid eorum quae senatus consulto prohibentur fecerit ac per hoc publicata fuerit hereditas, fiscus cum suis oneribus hereditatem adquirit. Quare commodum quartae, quod erat habiturus heres institutus, id ad fiscum pertinet et ex Trebelliano actiones transeunt. Sed et si prohibuerit testamentarium introducere vel testes convenire vel mortem testatoris non defendit vel ex alia causa hereditas fisco vindicata est, aeque quartae quidem commodum ad fiscum pertinebit, dodrans vero fideicommissario restitueretur.
+
+36.1.4
+
+Ulpianus libro quarto fideicommissorum
+
+Quia poterat fieri, ut heres institutus nolit adire hereditatem veritus, ne damno adficeretur, prospectum est, ut, si fideicommissarius diceret suo periculo adire et restitui sibi velle, cogatur heres institutus a praetore adire et restituere hereditatem. Quod si fuerit factum, transeunt actiones ex Trebelliano nec quartae commodo heres in restitutione utetur: nam cum alieno periculo adierit hereditatem, merito omni commodo arcebitur. Nec interest, solvendo sit hereditas nec ne: sufficit enim recusari ab herede instituto. Neque illud inquiritur, solvendo sit hereditas an non sit. Opinio enim, vel metus vel color, eius, qui noluit adire hereditatem, inspicitur, non substantia hereditatis, nec immerito: non enim praescribi heredi instituto debet, cur metuat hereditatem adire vel cur nolit, cum variae sint hominum voluntates: quorundam negotia timentium, quorundam vexationem, quorundam aeris alieni cumulum, tametsi locuples videatur hereditas, quorundam offensas vel invidiam: quorundam gratificari volentium his, quibus hereditas relicta est, sine onere tamen suo.
+
+36.1.5
+
+Maecenatus libro sexto fideicommissorum
+
+Sed et qui magna praeditus est dignitate vel auctoritate, harenarii vel eius mulieris, quae corpore quaestum fecerit, hereditatem restituere cogetur.
+
+36.1.6
+
+Ulpianus libro quarto fideicommissorum
+
+pr. Recusare autem non tantum praesentes, sed etiam absentes vel per epistulam possunt: nam etiam adversus absentes postulatur decretum, sive certior sit eorum voluntas recusantium adire et restituere hereditatem sive incerta: adeo praesentia eorum non est necessaria.
+
+1. Meminisse autem oportebit de herede instituto senatum loqui: ideoque tractatum est apud Iulianum, ad intestatos locum habeat. Sed est verius eoque iure utimur, ut hoc senatus consultum ad intestatos quoque pertineat, sive legitimi sive honorarii sint successores.
+
+2. Sed et ad filium qui in potestate est hoc senatus consultum locum habet et in ceteris necessariis, ut a praetore compellantur miscere se hereditati, sic deinde restituere: quod si fecerint, transtulisse videbuntur actiones.
+
+3. Si fisco vacantia bona deferantur nec velit bona adgnoscere et fideicommissario restituere, aequissimum erit, quasi vindicaverit, sic fiscum restitutionem facere.
+
+4. Item si municipes hereditatem suspectam dicant heredes instituti, dicendum erit cogi eos adgnoscere hereditatem et restituere: idemque erit et in collegio dicendum.
+
+5. Titius heres institutus Sempronio substituto rogatus est ipsi Sempronio hereditatem restituere: institutus suspectam dicebat hereditatem: quaeritur, an cogendus est adire et restituere hereditatem. Et deliberari potest: sed verius est cogendum eum, quia interesse Sempronii potest ex institutione quam ex substitutione hereditatem habere, vel legatis vel libertatibus onerata substitutione: nam et si legitimus heres fuerit is, cui fideicommissaria hereditas relicta est, idem dicitur.
+
+6. Si quis alio loco restituere hereditatem iussus sit et suspectam eam dicat, Iulianus scribit cogendum eum esse similemque ei, qui in diem rogatus est restituere.
+
+36.1.7
+
+Maecenatus libro quarto fideicommissorum
+
+Sed sciendum est inpendiorum quoque, quae ad iter explicandum necessaria essent, rationem haberi debere: nam si ita institutus esset "si Titio decem dedisset", non aliter cogeretur, quam si ei pecunia offeratur. Sed et salutis ac dignitatis ratio habenda erit: quid enim si morbo applicitus Alexandriae iussus fuit adire vel nomen vispellionis testatoris ferre?
+
+36.1.8
+
+Paulus libro secundo fideicommissorum
+
+De aetate quoque et iure, id est liceat ei eo ire nec ne, aestimabitur.
+
+36.1.9
+
+Ulpianus libro quarto fideicommissorum
+
+pr. Sed et si alio loco iussus est adire et rei publicae causa absit, aeque cogendum adire hereditatem et restituere Iulianus ait, ubi abest.
+
+1. Plane si quis petierit ad deliberationem tempus et impetraverit, deinde post tempus deliberationis adierit et restituerit hereditatem, non videtur coactus hoc fecisse: nec enim suspectam coactus adit, sed sponte post deliberationem.
+
+2. Quod si suspectam dicit, profiteri debet non sibi expedire adire hereditatem, neque hoc dici oportere non esse solvendo, sed profiteri eum oportet, quod non putat sibi expedire hereditatem adire.
+
+3. Si quis sub condicione fuit heres scriptus, pendente condicione nihil agit, tametsi paratus sit restituere hereditatem.
+
+36.1.10
+
+Gaius libro secundo fideicommissorum
+
+Sed et si ante diem vel ante condicionem restituta sit hereditas, non transferuntur actiones, quia non ita restituitur hereditas, ut testator rogavit. Plane posteaquam exstiterit condicio vel dies venerit si ratam habeat restitutionem hereditatis, benignius est intellegi tunc translatas videri actiones.
+
+36.1.11
+
+Ulpianus libro quarto fideicommissorum
+
+pr. Apud Iulianum relatum est, si legatum fuit heredi instituto relictum "si heres non erit" et ob hoc suspectam dicat hereditatem ne perdat legatum, offerri ei oportere quantitatem legati a fideicommissario, deinde cogendum. Nec illud admittit Iulianus, ut, quasi hereditatem non adisset, sic legatum a coherede petat (adiit enim), sed magis arbitratur a fideicommissario ei praestandum. Sed et si quid aliud sua interesse dicet, non cogitur adire, nisi ei damnum vel lucrum a fideicommissario sarciatur vel a praetore onus remittatur, quod recusat.
+
+1. Idem Iulianus ait, si duo fuerint a patre instituti cum filio eius impubere et idem substituti filio, sufficere ei, qui fideicommissum in secundis tabulis accepit, unum ex heredibus institutis cogere adire patris hereditatem: hoc enim facto confirmatisque patris tabulis poterunt ex substitutione ambo cogi adire et restituere hereditatem.
+
+2. Utrum autem praesenti an etiam absenti restitui possit procuratore adeunte praetorem, videndum est. Ego puto absenti quoque fideicommissario cogi posse heredem institutum adire et restituere nec vereri heredem oportere, ne forte in damno moretur: potest enim ei per praetorem succurri, sive cautum ei fiat, sive non et ante decesserit fideicommissarius, quam ei restituatur hereditas. Est enim huius rei exemplum capere ex rescripto divi Pii in specie huiusmodi. Antistia decedens Titium heredem instituit et libertatem dedit Albinae directam eique filiam per fideicommissum reliquit rogavitque, ut filiam manumitteret: sed et Titium rogavit, ut manumissae Albinae filiae restitueret hereditatem. Cum igitur Titius suspectam diceret hereditatem, rescriptum est a divo Pio compellendum eum adire hereditatem: quo adeunte Albinae competituram libertatem eique filiam tradendam et ab ea manumittendam tutoremque filiae manumissae dandum, quo auctore restituatur hereditas filiae statim, quamvis sic fuisset ei rogatus restituere, cum nubilem aetatem complesset. Cum autem possit, inquit, evenire, ut ante decedat ea, cui fideicommissaria libertas et hereditas relicta est, nec oporteat damno adfici eum, qui rogatus adit hereditatem, remedium dedit, ut, si quid horum contigerit, perinde permittatur venumdari bona Antistiae, ac si heres ei non exstitisset. Cum igitur demonstraverit divus Pius succurri heredi instituto, qui compulsus adit, dici potest etiam in ceteris causis exemplum hoc sequendum, sicubi evenerit, restituatur fideicommissaria hereditas ei, qui compulit adire et restituere sibi hereditatem.
+
+36.1.12
+
+Papinianus libro 20 quaestionum
+
+Sed cum ab herede pro parte instituto fideicommissa hereditas sub condicione relicta esset, imperator Titus Antoninus rescripsit non esse locum constitutioni suae neque pupillum extra ordinem iuvandum, praesertim si novum beneficium cum alterius iniuria postularetur.
+
+36.1.13
+
+Ulpianus libro quarto fideicommissorum
+
+pr. Ille, a quo sub condicione fideicommissum relictum est, causari quid non poterit, ne condicio deficiat et haereat actionibus, cum nullum damnum sit futurum.
+
+1. Secundum ea quae ostendimus iam igitur non desideratur heredis praesentia.
+
+2. Si de testamento aliquid quaeratur, heres non debet audiri, si suspectam sibi hereditatem dicat: nam et si maxime dicatur vel ius testandi non habuisse eum qui testatus est vel de viribus testamenti vel de sua condicione, non erit audiendus.
+
+3. Quid ergo si de viribus fideicommissi tractetur? Haec quaestio praetori praetermittenda non erit. Sed quid si qui fideicommissarius dicat: "Adeat prius et sic de hoc quaeratur?" Credo interdum audiendum fideicommissarium, si cognitio prolixiorem tractatum habeat: finge enim verba fideicommissi de longinquo petenda et iustam deliberationem de quantitate fideicommissi incidere: dicendum erit compellendum eum adire, ne prius heres decedens fideicommissarium decipiat.
+
+4. Tempestivum est requirere, per quem quis cogatur adire et
+restituere hereditatem: veluti si praetor aut consul fuerit heres
+institutus suspectamque hereditatem dicat, an cogi possit adire et
+restituere? Et dicendum est praetorem quidem in praetorem vel consulem
+in consulem nullum imperium habere: sed si iurisdictioni se subiciant,
+solet praetor in eos ius dicere. Sed et si ipse praetor heres
+institutus suspectam dicat, ipse se cogere non poterit, quia triplici
+officio fungi non potest et suspectam dicentis et coacti et
+cogentis. Sed in his omnibus casibus atque similibus principale
+auxilium implorandum est.
+
+5. Si quis filius familias sit et magistratum gerat, patrem suum, in cuius est potestate, cogere poterit suspectam dicentem hereditatem adire et restituere:
+
+36.1.14
+
+Hermogenianus libro quarto iuris epitomarum
+
+Nam quod ad ius publicum attinet, non sequitur ius potestatis.
+
+36.1.15
+
+Ulpianus libro quarto fideicommissorum
+
+pr.
+
+1. Sed et qui repudiavit hereditatem, cogetur adire et restituere ipsam hereditatem, si iustae causae allegentur.
+
+2. Plane si bona venierint, non oportet praetorem ne quidem pupillum restituere nisi ex causa, ut divus Pius rescripsit.
+
+3. Si quis compulsus adierit hereditatem ex testamento, quod secundas tabulas habebat, quaesitum est, an per aditionem et tabulae secundae firmarentur, quod videbantur evanuisse non adita patris hereditate. Et Iulianus libro quinto decimo scribit et sequentes tabulas confirmari: quae sententia verissima est: nemo enim dubitat etiam legata praestari et libertates competere et cetera, quaecumque sint in testamento, perinde valere, ac si sua sponte heres hereditatem adisset.
+
+4. Qui compulsus adit hereditatem, sicuti ceteris commodis caret, ita hoc quoque casu careat, ne possit paenitendo quartam retinere: et ita invenio ab imperatore nostro et divo patre eius rescriptum.
+
+5. Non omnis autem suspectam hereditatem repudiatione amissam cogere potest adiri et sibi restitui, sed is demum, ad quem actiones transire possunt: neque enim aequum est ad hoc quem compelli adire hereditatem, ut emolumentum quidem hereditatis refundat, ipse vero oneribus hereditatis obstrictus relinquatur.
+
+6. Quare si fideicommissum pecuniarium alicui fuerit relictum, cessat compulsio, tametsi indemnitatis cautio offeratur.
+
+7. Proinde qui "hereditatem" rogatur restituere, is demum compellitur restituere.
+
+8. Sed et si quis "bona" rogatus sit vel "familiam" vel "pecuniam" rogetur vel "universam rem meam"
+
+36.1.16
+
+Paulus libro secundo fideicommissorum
+
+vel "omnia sua",
+
+36.1.17
+
+Ulpianus libro quarto fideicommissorum
+
+pr. Cogi poterit: hoc idem et si "patrimonium" fuerit rogatus et si "facultates" et si "quidquid habeo" et si "censum meum" et si "fortunas meas" et si "substantiam meam". et si "peculium meum" testator dixerit, quia plerique hupokoristikws patrimonium suum peculium dicunt, cogendus erit: de successione enim sua et hic rogavit. Nec ignoro in quibusdam ex his Maecianum dubitare et voluntatis esse dicere quaestionem, utrum de pecunia tantum an et de successione testator sensit. In ambiguo tamen magis de successione sensum dico, ne intercidat fideicommissum.
+
+1. Sed et si quis ita rogaverit: "quidquid ad te ex hereditate bonisve meis pervenerit, rogo restituas", cogi poterit adire et restituere hereditatem ex Trebelliano senatus consulto, quamquam pervenire proprie dicatur quod deductis oneribus ad aliquem pervenit.
+
+2. Et generaliter autem potest dici ita demum quem non posse cogi adire et restituere hereditatem, si de re vel quantitate fuerit rogatus: ceterum si de universitate sensisse testatorem appareat, nulla quaestio est, quin, sive suspectam dicat, cogi possit, sive sponte adit, ex Trebelliano transeant actiones.
+
+3. Inde quaeritur, si quis hereditatem rogatus sit restituere deducto aere alieno vel deductis legatis, an suspectam dicens cogi possit adire et restituere hereditatem, quia vi ipsa magis id, quod superest ex hereditate, quam ipsam hereditatem restituere sit rogatus. Et sunt qui putent, ut Maecianus, inutilem esse hanc deductionem: nec enim posse ex iure deduci quantitatem, non magis quam si fundum quis deducto aere alieno vel deductis legatis restituere sit rogatus: neque enim recipit fundus aeris alieni vel legati minutionem. Sed Iulianum existimare refert Trebelliano senatus consulto locum esse et, ne dupliciter fideicommissarius oneretur, et cum heres aes alienum vel legatum deducit et cum convenitur a creditoribus et legatariis, restituta sibi ex Trebelliano hereditate debere aut deductionem eum non pati ab herede aut cavere illi heredem defensum iri eum adversus legatarios ceterosque.
+
+4. Si quis heres institutus rogatus fuerit hereditatem non totam, sed partem restituere, vel si duobus restituere sit rogatus et alter ex his velit sibi restitui hereditatem, alter recuset: senatus censuit utroque casu exonerari eum, qui suspectam hereditatem dicit, totamque hereditatem transire ad eum, qui adire cogit.
+
+5. Sed et si quis non hereditatis suae partem dimidiam rogavit heredem suum restituere, sed hereditatem Seiae, quae ad eum pervenerat, vel totam vel partem eius, heresque institutus suspectam dicat, cum placeat illud quod Papinianus ait ex Trebelliano transire actiones, dici poterit, si suspecta dicatur hereditas, cogendum heredem institutum adire et restituere hereditatem totamque hereditatem ad eum cui restituitur pertinere.
+
+6. Sed et si miles rogaverit quem res Italicas restituere vel res provinciales, dicendum est suspectam dicentem cogi adire et restituere: nam, ut eleganter Maecianus libro sexto fideicommissorum ait, qua ratione ex certa re miles heredem instituere potest actionesque ei dabuntur, pari ratione etiam ex Trebelliano transibunt actiones: et quamvis placeat, cum quis hereditatem bonaque, quae sibi ab aliquo obvenerunt vel quae in aliqua regione habet, restituere rogat, ex Trebelliano non transeant actiones, tamen contra responderi in militis testamento ait: nam sicuti concessum est, inquit, militibus circa institutionem separare species bonorum, ita et, si per fideicommissum ab institutis heredibus id fecerit, admitteretur Trebellianum senatus consultum.
+
+7. Cum quidam duos heredes instituerit eosque invicem substituerit et ab his petierit, sive uterque sive alter heres esset, ut hereditas sua ex parte dimidia restitueretur alicui post quinquennium, et scripti suspectam sibi hereditatem dicant, fideicommissarius autem desideret suo periculo adiri hereditatem: censuit senatus ambos heredes alterumve cogi adire hereditatem et fideicommissario eam restituere ita, ut fideicommissario et adversus eum actiones competant quasi ex Trebelliano restituta hereditate.
+
+8. Maecianus scribit: cum quis ex fideicommissariis abesset et praesentes desiderent suo periculo adire hereditatem translatisque in solidum actionibus in eum qui coegit absentes, si velint fideicommissum suscipere, a praesente petent: consequenter ait nec quartam eum retenturum adversus fideicommissarios suos, quia nec heres potuit.
+
+9. Idem Maecianus quaerit, an is, qui duobus vel pluribus rogatus est restituere hereditatem, cogente aliquo adire possit et in horum, qui id non desideraverunt, portionibus Falcidiae beneficio uti, sive ipsi quoque desiderent sibi restitui sive alius in locum eorum successerit. Et cum hodie hoc iure utimur, ut totum transeat ad eum qui coegit, consequens erit dicere quartae retentionem amisisse eum qui coactus est, quia in solidum actiones transierint in eum qui coegit. Plane si proponas fideicommissarium non ita coegisse, ut tota hereditas in se transferatur: cum coeperint ceteri desiderare sibi restitui hereditatem, dicendum Falcidia eum uti posse. Recte igitur Maecianus ait multum interesse, utrum totam restitui hereditatem sibi fideicommissarius desideraverit an suam tantummodo partem. Nam si sola pars transfertur, in residuo Falcidiae erit locus: si tota hereditas translata sit, cessat huius legis beneficium.
+
+10. Si servo duorum rogatus quis sit restituere hereditatem et alter cogere velit suspectam dicentem, alter restituere sibi recuset, hoc erit dicendum, quod in duobus, quorum alter suscipere voluit hereditatem, alter non.
+
+11. Si pater filio, quem in potestate habet, rogetur restituere hereditatem, an filius patrem suum, si suspectam dicat hereditatem, cogere possit? Et non est dubium patrem a filio per praetorem cogi posse.
+
+12. Sed et si id fideicommissum ad castrense peculium spectaturum est et filius familias is fuit, qui munus militiae sustinebat aliove quo officio praeerat, multo magis dicendum erit posse eum postulare, ut pater suus cogatur adire et restituere hereditatem, quamvis contra obsequium patri debitum videtur id desideraturus.
+
+13. Sed si servo suo rogatus sit cum libertate quis hereditatem restituere, sive directa data sit libertas sive fideicommissaria, dici poterit eum a servo suo non posse cogi adire hereditatem, quamvis, si sponte adisset, cogeretur praestare fideicommissariam libertatem et hereditatem: idque Maecianus libro septimo de fideicommissis scribit.
+
+14. Idem quaerit, si quis paratus sit domino cavere de indemnitate, an possit cogi adire hereditatem, maxime et si pretium servi offeratur. Et recte ait non oportere sub incerto cautionis committere se aditioni hereditatis.
+
+15. Hi qui solidum capere non possunt, ex asse heredes instituti et rogati restituere solidum, adire hereditatem et restituere cogentur, cum nihil oneris apud eos remansurum.
+
+16. Si ego heres institutus et rogatus sim Stichum manumittere vel alius legatarius, fidei autem meae commissum sit, ut Titio hereditatem restituam, deinde Titii fidei commisit, ut Sticho eandem redderet: Stichus cogere me possit adire et restituere hereditatem.
+
+17. Talis quoque casus a divo Pio terminatus est: nam servo uni ex heredibus legato per fideicommissum erat ab eo libertas data et ab altero hereditas. Divus etenim Pius rescripsit Cassio dextro in haec verba: "Hermias si Mosco Theodoto ex parte heredi instituto a Pamphilo testatore legatus est eumque Theodotus, postquam adierit hereditatem, prius quam a coherede eiusdem Pamphili adiretur hereditas, ad iustam libertatem perduxit et ob hoc in eum casum res perducta est, ut is qui legavit intestatus esse non possit, hermia postulante mihi id euarestus compellendus est periculo eius adire et ex causa fideicommissi hereditatem restituere".
+
+36.1.18
+
+Ulpianus libro secundo fideicommissorum
+
+pr. Ex facto tractatum est, an per fideicommissum rogari quis possit, ut aliquem heredem faciat. et senatus censuit rogari quidem quemquam, ut aliquem heredem faciat, non posse: verum videri per hoc rogasse, ut hereditatem suam ei restituat, id est quidquid ex hereditate sua consecutus est ut ei restitueret.
+
+1. Iulianus quoque libro quadragensimo digestorum fideicommissum tale valere ait: "fidei tuae committo, ut hereditatem Titii restituas", cum esset is qui rogatus est a Titio heres institutus.
+
+2. Non tantum autem si heredem quem scripsero, potero rogare, ut heredem faciat aliquem, verum etiam si legatum illi vel quid aliud reliquero: nam hactenus erunt obligati, quatenus quid ad eos pervenit.
+
+3. Si quis caverit "peto ut illi des" aut "illi fideicommissum relinquas" aut "illi libertatem adscribas", admittenda sunt: nam cum in heredum institutione senatus censuit utile, de ceteris quoque idem erit accipiendum.
+
+4. Si quis rogatus fuerit, ut, si sine liberis decesserit, restituat hereditatem, Papinianus libro octavo responsorum scribit etiam naturalem filium efficere, ut deficiat condicio: et in libertino eodem colliberto hoc scribit. Mihi autem, quod ad naturales liberos attinet, voluntatis quaestio videbitur esse, de qualibus liberis testator senserit: sed hoc ex dignitate et ex voluntate et ex condicione eius qui fideicommisit accipiendum erit.
+
+5. Ex facto tractatum memini: rogaverat quaedam mulier filium suum, ut, si sine liberis decessisset, restitueret hereditatem fratri suo: is postea deportatus in insula liberos susceperat: quaerebatur igitur, an fideicommissi condicio defecisset. Nos igitur hoc dicemus conceptos quidem ante deportationem, licet postea edantur, efficere, ut condicio deficiat, post deportationem vero susceptos quasi ab alio non prodesse, maxime cum etiam bona cum sua quodammodo <quodommodo> causa fisco sint vindicanda.
+
+6. Si quis rogatus fuerit filiis suis vel cui ex his voluerit restituere hereditatem, Papinianus libro octavo responsorum etiam deportato ei tribuit eligendi facultatem, cui liber factus fideicommissum restitui velit. Sed si servus poenae fuerit constitutus, nullo ante concepto filio iam parere condicioni non poterit decessisseque sine liberis videtur. Sed cum decedit, electionem illam, quam Papinianus deportato dedit, huic dari non oportet.
+
+7. Si quis autem susceperit quidem filium, verum vivus amiserit, videbitur sine liberis decessisse. Sed si naufragio vel ruina vel adgressu vel quo alio modo simul cum patre perierit, an condicio defecerit, videamus. Et magis non defecisse arbitror, quia non est verum filium eius supervixisse. Aut igitur filius supervixit patri et extinxit condicionem fideicommissi, aut non supervixit et extitit condicio: cum autem, quis ante et quis postea decesserit, non apparet, extitisse condicionem fideicommissi magis dicendum est.
+
+8. Si quis ita fideicommissum reliquerit: "fidei tuae, fili, committo, ut, si alieno herede moriaris, restituas Seio hereditatem", videri eum de liberis sensisse divus Pius rescripsit: et ideo, cum quidam sine liberis decederet, avunculum ab intestato bonorum possessorem habens, extitisse condicionem fideicommissi rescripsit.
+
+36.1.19
+
+Ulpianus libro 15 ad Sabinum
+
+pr. In fideicommissaria hereditatis restitutione constat non venire fructus, nisi ex mora facta est aut cum quis specialiter fuerit rogatus et fructus restituere.
+
+1. Plane fructus in quartam imputantur, ut est et rescriptum.
+
+2. Quotiens quis rogatur hereditatem restituere, id videtur rogatus reddere, quod fuit hereditatis: fructus autem non hereditati, sed ipsis rebus accepto feruntur.
+
+3. Si legatum sit heredi relictum et rogatus sit portionem hereditatis restituere, id solum non debere eum restituere, quod a coherede accepit: ceterum quod a semetipso ei relictum est, in fideicommissum cadit: et id divus Marcus decrevit.
+
+36.1.20
+
+Paulus libro tertio ad Sabinum
+
+pr. Ubi pure fideicommissum datum est, si adiectum sit: "rogo des filio tuo faciasque, ut ad eum perveniat", rescriptum est videri in id tempus dari, quo capere potest, id est sui iuris fiat.
+
+1. "Te rogo, Luci Titi, hereditatem meam cum attio partiaris". Ex senatus consulto Trebelliano in eum, cui restituta est hereditas, actiones competere Aristo ait, quia pro hoc accipiendum sit "rogo hereditatem illam restituas": nec verba spectantur senatus consulti, sed sententia quibuscumque verbis, dum testator senserit, ut hereditas sua restituatur.
+
+2. Qui in distrahendis conservandisve rebus hereditariis sumptus factus est, imputari heredi debet.
+
+36.1.21
+
+Ulpianus libro 19 ad Sabinum
+
+Sed et si ad tempus liberorum fuerit legatum relictum et is uxore praegnate decesserit, ad heredem suum transferat legatum.
+
+36.1.22
+
+Pomponius libro 22 ad Sabinum
+
+Heres cum debuerat quartam retinere, totam hereditatem restituit nec cavit sibi stipulatione proposita. Similem eum esse Aristo ait illis, qui retentiones, quas solas habent, omittunt: sed posse eum rerum hereditariarum possessionem vel repetere vel nancisci et adversus agentem doli mali exceptione uti posse eum et debitoribus denuntiare, ne solveretur.
+
+36.1.23
+
+Ulpianus libro quinto disputationum
+
+pr. Mulier, quae duobus filiis in potestate patris relictis alii nupserat, posteriorem maritum heredem instituit eumque rogavit liberis suis post mortem patris eorum hereditatem suam restituere vel ei qui eorum superesset: eisdem emancipatis a patre suo vitricus restituisse hereditatem dicebatur, mox alter ex filiis vivo patre decessisse: quaerebatur, an is, qui supererat ex filiis, partem fratri suo restitutam petere possit quasi praemature datam. Scaevola divum Marcum in auditorio de huiusmodi specie iudicasse refert: Brasidas quidam Lacedaemonius vir praetorius, cum filiis suis ab uxore divortio separata, si morte patris sui iuris fuissent effecti, fideicommissum relictum esset, eos emancipaverat: post emancipationem fideicommissum petebant. Decrevisse igitur divum Marcum refert fideicommissum eis repraestandum intellecta matris voluntate, quae quia non crediderat patrem eos emancipaturum, distulerat in mortem eius fideicommissum non dilatura id in mortalitatem, si eum emancipaturum sperasset. Secundum haec dicebam et in proposita quaestione decretum divi Marci esse trahendum et recte fideicommissum utrisque solutum.
+
+1. Non est dubitatum cogi posse heredem institutum adire et restituere hereditatem servis, sive directa sive fideicommissaria libertas eis data fuisset, cum aspernari heres non deberet personam cogentis: habet enim hic quoque aditum, ut, qui nondum petere fideicommissariam libertatem possit nec directam sibi vindicare, propter spem tamen libertatis et hereditatis aditum ad praetorem et per se habeat.
+
+2. Si heres post multum temporis restituat, cum praesenti die fidei commissum sit, deducta quarta restituet: fructus enim qui percepti sunt neglegentia petentis, non iudicio defuncti percepti videntur. Alia causa est, si sub condicione vel in diem rogatus fuerit: tunc enim quod percipitur summovet Falcidiam, si tantum fuerit, quantum quarta facit et quartae fructus: nam fructus, qui medio tempore percepti sunt, ex iudicio testantis percepti videntur.
+
+3. Sed enim si quis rogetur restituere hereditatem et vel servi decesserint vel aliae res perierint, placet non cogi eum reddere quod non habet: culpae plane reddere rationem, sed eius quae dolo proxima est. Et ita Neratius libro primo responsorum scribit. Sed et si, cum distrahere deberet, non fecit lata culpa, non levi et rebus suis consueta neglegentia, huiusmodi rei rationem reddet. Sed et si aedes ustae sunt culpa eius, reddet rationem. Praeterea si qui partus extant et partuum partus, quia in fructibus hi non habentur. Sed et ipse si quem sumptum fecit in res hereditarias, detrahet. Quod si sine facto eius prolixitate temporis aedes usu adquisitae sint, aequissimum erit nihil eum praestare, cum culpa careat.
+
+4. Cum proponeretur quidam filiam suam heredem instituisse et rogasse eam, ut, si sine liberis decessisset, hereditatem Titio restitueret, eaque dotem marito dedisse certae quantitatis, mox decedens sine liberis heredem instituisse maritum suum, et quaereretur, an dos detrahi possit, dixi non posse dici in eversionem fideicommissi factum, quod et mulieris pudicitiae et patris voto congruebat. Quare dicendum est dotem decedere, ac si quod superfuisset rogata esset restituere. Quod si tantos fructus ex hereditate mulier percepit, ut inde poterit doti satisfieri, dicendum est potius fructibus hoc expensum ferendum quam fideicommisso.
+
+5. Ut Trebelliano locus esset, non sufficit de hereditate rogatum esse, sed quasi heredem rogari oportet. Denique si cui portio hereditatis fuerit legata (legari enim posse etiam portionem hereditatis placet nobis) rogatusque fuerit hanc partem restituere, dubio procul non fiet restitutio ex senatus consulto ideoque nec quarta retinetur.
+
+36.1.24
+
+Iulianus libro 39 digestorum
+
+Quotiens pater familias unum vel duos heredes coheredibus suis restituere hereditatem iubet, intellegitur easdem partes in fideicommissis facere, quas in hereditate distribuenda fecerit. Sed si iubeantur hi, quibus fideicommissum datur, pecuniam numerare atque ita fideicommissa recipere, ex quantitate pecuniae, quam dare iubentur, voluntas colligenda est patris familias. Nam si ex disparibus partibus heredes scripti aequas partes dare iubentur, propius est, ut viriles recipere debeant: si vero summa pecuniae dandae congruit portionibus, hereditarias portiones accipere debebunt.
+
+36.1.25
+
+Papinianus libro 15 quaestionum
+
+Nonnumquam autem ex voluntate varie rescriptum et iudicatum est, videlicet si non sub appellatione heredum, sed propriis nominibus expressis fideicommissum relinquatur.
+
+36.1.26
+
+Iulianus libro 39 digestorum
+
+pr. Quidam ita testamento scripserat: "A te, heres, peto fideique tuae committo, ut quidquid ex hereditate mea ad te pervenerit, filio meo prima quaque die aut, si prius quid ei acciderit, matri eius des reddas". Quaeritur, cum antequam adeatur hereditas puer decesserit, an fideicommissum matri debeatur. Respondi, si puer, antequam dies fideicommissi cedat, decessisset, fideicommissum translatum esse ad matrem, postea autem quam dies fideicommissi cedit <cessit> si decesserit, ad heredem pueri fideicommissum pertinere. Sed an ea voluntas fuit patris familias, ut, si ante restitutum fideicommissum puer decessisset, matri potius quam heredibus praestaretur, praetor aestimabit ex persona matris et ex persona heredis pueri. Marcellus: sed testatoris voluntati congruum est, quandocumque puer decesserit, sive antequam dies fideicommissi cedit sive postea, ad matrem transferri fideicommissum, si non iam puer hoc acceperit, eoque iure utimur.
+
+1. Si servo herede scripto dominus rogatus est eidem servo restituere hereditatem, cum liber esset, utile fideicommissum est.
+
+2. Si quis filium suum ex asse heredem instituit et codicillis, quos post mortem filii aperiri iussit, fidei eius commisit, ut, si sine liberis decesserit, hereditatem suam sorori suae restitueret, et filius cum sciret, quod in codicillis scriptum esset, Stichum servum hereditarium testamento suo liberum esse iussit: heredes filii pretium eius servi sorori defuncti praestare debent libertate favore sui servata. Hoc amplius et si ignorasset filius codicillos a patre factos, nihilo minus heredes eius pretium praestare debebunt, ne factum cuiusquam alteri damnum adferat.
+
+3. Sed et si servus iste a Sempronio heres institutus sit eamque hereditatem, posteaquam ex testamento fratris ad libertatem pervenerat, adierit, hereditatis quoque aestimationem heredes fratris sorori eius praestare debent, quia, si manumissus non esset, iussu mulieris adire eam potuisset. Si vero vivente filio Sempronius decesserit, hereditas in causa fideicommissi non deduceretur: quippe ab ipso filio adire iussus hereditatem ei adquireret.
+
+36.1.27
+
+Paulus libro singulari de senatus consultis
+
+Omnibus civitatibus, quae sub imperio populi Romani sunt, restitui debere et posse hereditatem fideicommissam Apronianum senatus consultum iubet. Sed et actiones in eas placuit ex Trebelliano transferri: sed municipes ad eas admittuntur.
+
+36.1.28
+
+Iulianus libro 40 digestorum
+
+pr. Ita tamen, ut hi quibus restituetur hereditas actorem eligant et ad agendum et ad excipiendas actiones.
+
+1. Si servum hereditarium heres, qui coactus adierit, iussisset adire hereditatem ab alio eidem servo relictam et tunc hereditatem, quam suspectam sibi esse dixerat, restituerit, an etiam eam hereditatem, quae per servum adquisita esset, restituere deberet, quaesitum est. Dixi non magis hanc hereditatem in restitutionem venire, quam quod servus hereditarius post aditam hereditatem stipulatus fuisset aut per traditionem accepisset aut fructus, qui ex rebus hereditariis percepti fuissent, utique si nulla mora fideicommisso facta fuisset. Sed si quid ante aditam hereditatem servus stipulatus fuisset aut per traditionem accepisset, id restitui debebit, sicut fructus ante aditam hereditatem in restitutionem venient.
+
+2. Qui suspectam sibi hereditatem dicit, nullum commodum ex testamento consequetur, quod habiturus non esset, si heres institutus non fuisset aut non adisset. Et ideo si pupillo substitutus fuerit itaque: "quisquis mihi heres erit, idem filio meo heres esto", hereditatem, quae ex substitutione ad eum pervenerit, restituere cogendus erit. Si vero detracto hoc articulo "quisquis mihi heres erit" substitutus ita fuerit: "Titius filio meo heres esto", tum, si solus patri heres extiterit, nihilo minus cogendus erit hereditatem pupilli restituere, si vero coheredem habuerit, retinebit pupilli hereditatem, quia potuit coherede adeunte, quamvis ipse patris omisisset hereditatem, ex substitutione adire.
+
+3. Si pater filium, quem in potestate habebat, heredem scripserit et ab eo petierit, ut hereditatem Sempronio restitueret, isque suspectam sibi esse dicet, poterit ex Trebelliano senatus consulto hereditas restitui. Quare et si non immiscuerit se hereditati, nihilo minus actiones, quae ei et in eum competebant, ad Sempronium transferentur.
+
+4. A patre heres scriptus et exheredato filio substitutus si rogatus fuerit hereditatem, quae ad eum ex substitutione pervenerit, Titio restituere, cogendus non est vivo pupillo patris hereditatem adire, primum quia sub condicione fideicommissum datum est, deinde quia non probe de hereditate viventis pueri aget: mortuo autem pupillo compelli debet hereditatem patris adire.
+
+5. Quod si duo heredes a patre instituti fuerint et utriusque fidei commissum sit, ut exheredati filii hereditatem restituerent, satis erit vel unum cogi adire: hoc enim facto etiam is, qui patris hereditatem non adit, filii hereditatem adire et restituere cogetur.
+
+6. Quotiens filius emancipatus bonorum possessionem contra tabulas accipit, nulla ratio est compellendi heredis ad restituendam hereditatem et sicut neque legata neque fideicommissa cetera praestare cogitur, ita ne ad restitutionem quidem hereditatis compelli debet. Marcellus: plane non est compellendus adire, si iam filius bonorum possessionem, ne intercidat fideicommissum mortuo herede instituto et omissa a filio bonorum possessione.
+
+7. Qui ex Trebelliano senatus consulto hereditatem restituit, sive petat a debitoribus hereditariis sive ab eo petatur, exceptione restitutae hereditatis adiuvari vel summoveri potest. Actiones autem fideicommissario competunt, quas habuit heres eo tempore, quo fideicommissum restituebat. Marcellus: sed eas quoque actiones, quae sub condicione erant et quarum dies eo tempore non cesserat, fideicommissario competere placet. Sed antequam restitueretur hereditas, exceptione aliqua heres adiuvandus non est: cum hoc minus ex causa fideicommissi sit restituturus.
+
+8. Trebellianum senatus consultum locum habet, quotiens quis suam hereditatem vel totam vel pro parte fidei heredis committit.
+
+9. Quare si Maevius te heredem instituerit et rogaverit, ut hereditatem Titii restituas, a quo esses heres institutus, et tu hereditatem Maevii adieris, perinde a te fideicommissum petetur, ac si fundum, qui tibi a Titio legatus esset, restituere rogatus fuisses: ideoque et si suspectam Maevii hereditatem dixeris, cogi te non oportet eam adire.
+
+10. Quod si Maevius te rogaverit et suam hereditatem et Titianam restituere tuque sponte adieris hereditatem, uteris legis Falcidiae commodo et partem quartam Maevianae hereditatis retinebis, dimidiam et quartam ex fideicommisso restitues, nec intererit, eidem utramque hereditatem an alii Maevianam, alii Titianam rogatus fueris restituere. Sed si suspectam Maevianam hereditatem dixeris, cogeris eam adire et restituere ei, cui rogatus fueris: is autem, cui Titianam hereditatem restituere rogatus fueris, non poterit te compellere ad adeundum.
+
+11. Si ex Trebelliano hereditatem restituit heres et fructus praediorum retinet vel ipsa praedia, sive etiam debitor eius qui testamentum fecit fuerit, necessarium est actionem adversus eum fideicommissario dari. Marcellus: hoc idem necessario faciendum est, cum parte hereditatis restituta familiae erciscundae iudicium inter eum qui restituit hereditatem et qui receperit accipietur.
+
+12. Qui rogatus est emancipato filio restituere hereditatem, cogi debet adire et restituere, quamvis filius contra tabulas bonorum possessionem accipere possit.
+
+13. Si patronus ex parte debita heres institutus et rogatus restituere hereditatem suspectam sibi esse dicat, puto rectius facturum praetorem, si coegerit eum adire hereditatem et restituere, quamvis possit mutata voluntate eam partem hereditatis retinere.
+
+14. Si praeceptis quibusdam rebus heres rogatus sit restituere hereditatem et coactus eam adierit, an praecipere debeat? Respondi eum, qui iussu praetoris adit hereditatem, omni commodo prohiberi debere.
+
+15. Sed si eidem legatum esset sub hac condicione "si heres non esset" et suspectam sibi hereditatem dicat, non aliter cogendus est adire, quam ut legata, quae sub condicione "si heres non esset" data erant, restituantur, non quidem a coheredibus, ne onerentur, sed ab eo cui restituta fuerit hereditas. Nam sicut explendae fidei gratia cogendus est adire hereditatem, ita ob id ipsum damno adfici non debebit.
+
+16. Heres ex asse erat instituta consobrina mea et eius fidei commissum, ut partem dimidiam hereditatis statim Publio Maevio restitueret, alteram partem, cum ipsa moreretur, eidem Publio Maevio: praeterea alia aliis legata data sunt. Maevius partem dimidiam hereditatis statim percepit et cavit, quod amplius quam per legem Falcidiam liceret cepisset, redditu iri: sed et ceteri legata solida acceperant et similiter de restituendo quod amplius percepissent caverunt. Mortua consobrina mea Publius Maevius desiderat sibi alteram partem hereditatis cum fructibus restitui. Quaero itaque, quantum ei restituere debeam? Utrum quod supra quadrantem bonorum penes consobrinam meam remanserat nec amplius quicquam? An et ab aliis, quibus legata soluta sunt, repetere quid debeam et quantum? Item quaero, si quod ab his ex stipulatione percepero et quod apud consobrinam meam supra quadrantem remanserat, non efficiet partem dimidiam hereditatis, an ex incremento et fructibus eius summae, quae supra quadrantem bonorum penes consobrinam meam remansit, supplere ei debeam, dumtaxat ne partem dimidiam hereditatis quantitas quae restitueretur excedat? An vero, sicut Publius Maevius desiderat, quidquid seposito quadrante bonorum eiusque quadrantis fructibus perceptum est restitui ei debet? Respondi, quod supra quadrantem penes consobrinam tuam remansit, si adiectis fructibus quantitatem partis dimidiae hereditatis, quae mortis tempore fuit, non minuet, totum Publio Maevio restituendum: nec ex stipulatione ab his, quibus legata soluta sunt, repeti quicquam potest. Si vero fructus quantitatem partis dimidiae exuberant, quadranti tuo et fructibus eius accedet. Si vero fructus eius partis, quae supra quadrantem apud consobrinam tuam remanserat, non implent quantitatem partis dimidiae bonorum, ex stipulatione agi poterit. In summa ratio ita ponenda est, ut tu omni modo quadrantem et fructus eius, praeterea, si eius quod quadrantem excedit fructus in tantum excreverit, ut quantitatem partis dimidiae bonorum excedat, etiam id quod excesserit retineas.
+
+17. Qui suos servos rogatus est manumittere et hisdem hereditatem restituere, detracto pretio servorum hereditatem restituere debebit.
+
+36.1.29
+
+Africanus libro sexto quaestionum
+
+pr. Ex asse heres institutus partem hereditatis mihi pure, tibi sub condicione restituere rogatus cum suspectam diceret, postulante me adit et mihi totam ex senatus consulto restituit: quandoque condicio extiterit, an fructus partis tuae restituere tibi debeam, non immerito dubitabatur. Et plerisque placet non esse eos praestandos, quia nec ab herede praestarentur, si sua sponte adisset, sufficiat autem ius tuum tibi integrum conservari, non etiam meliorem condicionem tuam fieri.
+
+1. Idem tamen existimabant, si ex asse heres institutus mihi quadrantem pure, tibi aeque quadrantem sub condicione restituere rogatus sit et, cum suspectam hereditatem diceret, cogente me adit, quandoque condicio exstiterit, semissem tibi esse restituendum.
+
+2. Sed nec lege Falcidia in proposita specie usurum me puto, quamvis scriptus heres, si sponte adisset, uteretur.
+
+36.1.30
+
+Marcianus libro quarto institutionum
+
+Si quis priore facto testamento posterius fecerit testamentum, etiamsi ex certis rebus in posteriores tabulas heredes instituit, superius tamen testamentum sublatum est, ut divi quoque Severus et Antoninus rescripserunt, cuius constitutionis verba rettuli, cum alia quoque praeterea in constitutione expressa sunt. "Imperatores Severus et Antoninus Cocceio Campano. Testamentum secundo loco factum, licet in eo certarum rerum heres scriptus sit, iure valere, perinde ac si rerum mentio facta non esset, sed teneri heredem scriptum, ut contentus rebus sibi datis aut suppleta quarta ex lege Falcidia hereditatem restituat his, qui priore testamento scripti fuerant, propter inserta fideicommissaria verba, quibus ut valeret prius testamentum expressum est, dubitari non oportet". Et hoc ita intellegendum est, si non aliquid specialiter contrarium in secundo testamento fuerit scriptum.
+
+36.1.31
+
+Marcianus libro octavo institutionum
+
+pr. Si legatus suspectam hereditatem dicat, et legationis tempore compellendus est accipere iudicium, quia hic non multum officio occupatur: et licet deliberare se dicat an adeat, cogendus est adire, sed non ut statim restituat, sed ut reversus domum, si putaverit sibi expedire, commodo Falcidiae vel testamenti utatur vel, si non putaverit, restituat totam hereditatem, ne onera patiatur.
+
+1. Si quis "bona sua" vel "omnia sua" rogaverit restituere, fideicommissariam restitutionem esse intellegendum est: nam meorum et tuorum appellatione etiam actiones contineri dicendum est.
+
+2. Si filio familias vel servo restituatur ignorante patre familias vel domino et postea pater vel dominus ratum habuerit, transeunt ex Trebelliano senatus consulto actiones.
+
+3. Multum interest, utrum quarta pars iure hereditario retineatur an vero in re vel pecunia: nam superiore casu actiones dividuntur inter heredem et fideicommissarium, posteriore vero apud fideicommissarium sunt actiones.
+
+4. Et heres institutus rogatusque hereditatem restituere praecepta aliqua summa vel re, etiamsi in praeceptione minus quam quarta pars esset, non amplius principem pati vindicaturum.
+
+5. Sed et si sine ulla praeceptione rogatus fuerit hereditatem restituere, plerumque quarta donata est a principibus: et ita divus Traianus et Hadrianus et Antoninus rescripserunt.
+
+36.1.32
+
+Marcianus libro nono institutionum
+
+pr. Si cui pure libertas et per fideicommissum sub condicione hereditas relicta est, cogitur heres adire hereditatem, si suspectam dicat, et restituere: et deficiente condicione libertas ei eripi non potest.
+
+1. Si autem ei, qui in diem libertatem accepit, hereditas per fideicommissum relicta fuerit, suspectam eam interim non posse adiri divus Pius Cassio Hadriano rescripsit, cum non potest nondum libero hereditas restitui: nec rursus contra voluntatem defuncti libertatem esse praestandam.
+
+2. Si sub condicione heres institutus rogatusque hereditatem restituere non vult condicioni parere et adire hereditatem, si facti est condicio, debet parere et adire et restituere vel, si in dando sit, offerente fideicommissario. Recusante autem herede factum adimplere licentia dabitur fideicommissario secundum imitationem dationis factum implere, et tunc necessitas imponitur heredi adire hereditatem. Ceterae condiciones, quae non sunt in potestate heredis, ad officium praetoris non pertinent.
+
+36.1.33
+
+Celsus libro 20 digestorum
+
+Ballista filium familias heredem instituit ita: "Rebellianus si caverit coloniae Philippensium, si sine liberis morietur, quantacumque pecunia ex hereditate deve bonis meis ad eum pervenit, eam pecuniam omnem ad coloniam Philippensium perventuram". Respondi: ex his verbis quae proponis, id est "pecuniam", existimo etiam fructus, quos ex hereditate percepit, restituere eum debere, perinde quasi specialiter hoc testator expressisset.
+
+36.1.34
+
+Marcianus libro octavo institutionum
+
+Scribit Celsus libro vicensimo digestorum, si qui quadringenta in bonis habebat petit ab herede suo, ut, si sine liberis moreretur, quanta pecunia ex hereditate sua ad eum pervenisset, Maevio restitueretur: si ex fructibus medio tempore quadringenta perceperit et sine liberis decesserit, heredem eius Maevio quadringenta debiturum. Et cum diu multumque tractavit, an, cum augmentum heres sensit, et periculum sustineat an per contrarium, novissime ait iniquum esse ad fideicommissarium damnum pertinere, ad quem augmentum non pertinet: et an ad supplendum, inquit, quodcumque ex quadringentis defuerit, etiam augmentum ad eum pertinebit, hoc est ut usque ad summam quadringentorum damni et fructus computentur: quod verius esse arbitror.
+
+36.1.35
+
+Marcianus libro secundo regularum
+
+Si eius, qui novissimus ex filiis mortuus est, partem hereditatis propinquo voluit pater restitui et simul fratres diem suum obissent: propinquum, si non ostenderit quis novissimus obisset, ad partem hereditatis non admitti, sed matrem ex Tertulliano senatus consulto ad utriusque hereditatem admitti constat.
+
+36.1.36
+
+Ulpianus libro sexto de officio proconsulis
+
+Cum heres instituta furiosa hereditatem esset rogata restituere, curatorem eius secundum tabulas bonorum possessione accepta posse transferre actiones divus Pius decrevit.
+
+36.1.37
+
+Paulus libro 13 ad edictum
+
+Cum hereditas ex fideicommissi causa restituta est, si ante cum herede compromissum est, puto fideicommissarium cavere debere heredi, sicut cum heres multa antequam restitueret administravit. Nam quod dicitur retinere eum oportere, non est perpetuum. Quid enim si nihil est, quod retineat? Veluti cum omnia in nominibus sunt aut in corporibus quae non possideat? Nempe enim is cui restituta est omnia persequitur et tamen heres iudiciis quibus conventus est aut stipulationibus quibus necesse habuit promittere, obstrictus manebit. Ergo non alias cogetur restituere quam ei caveatur.
+
+36.1.38
+
+Ulpianus libro 16 ad edictum
+
+pr. Restituta hereditas videtur aut re ipsa, si forte passus est heres possideri res hereditarias vel totas vel aliquas earum hac mente, ut vellet restitueret ille suscipere, non si ex alia causa putavit te possidere. Sed et si postea ratum habuit, idem erit dicendum. Sed et si verbo dixit se restituere, vel per epistulam vel per nuntium restituat, audietur. Sed et si voluntate tua alii restituerit, in te transibunt actiones. Item si alius iussu meo restituit vel ratam habui restitutionem, transisse actiones videntur.
+
+1. Pupillus autem ipse debet restituere tutore auctore, non tutor sine pupillo, nisi infans est, quia nec mandare actiones tutor pupilli sui potest. Ne se quidem auctore pupillum restituere potuisse hereditatem divus Severus in persona Arri honorati pupilli decrevit, qui Arrio Antonino patruo et tutori suo restituerat.
+
+2. Sed et si pupillo sit restituenda, non posse pupillo sine tutoris auctoritate restitui constat:
+
+36.1.39
+
+Paulus libro 20 ad edictum
+
+Non enim solutio est hereditatis restitutio, sed et <> successio, cum obligetur.
+
+36.1.40
+
+Ulpianus libro 16 ad edictum
+
+Sed nec ipsi tutori indistincte restitui potest.
+
+36.1.41
+
+Paulus libro 20 ad edictum
+
+pr. Quamvis senatus de his actionibus transferendis loquatur, quae iure civili heredi et in heredem competunt, tamen honorariae actiones transeunt: nulla enim separatio est: immo et causa naturalium obligationum transit.
+
+1. Persona autem heredis instituti Trebelliano continetur: verum hoc iure utimur, ut et successor heredis recte ex Trebelliano restituat, veluti heres bonorumve possessor, vel pater dominusve, quibus adquisita est hereditas: omnes enim quod iuris habent, ex Trebelliano senatus consulto restituere debent, nec interest, is qui institutus est an pater dominusve rogatus est restituere.
+
+2. Nihil interest, cui nostro nomine restituitur pater familias sit an is qui in aliena potestate est?
+
+36.1.42
+
+Paulus libro secundo fideicommissorum
+
+Mulier an masculus: et ideo servo quoque voluntate nostra vel si ratum habuerimus restitui potest,
+
+36.1.43
+
+Paulus libro 20 ad edictum
+
+pr. Quia perinde est, atque si mihi restituta esset hereditas.
+
+1. Restituta hereditate iura sepulchrorum apud heredem remanent.
+
+36.1.44
+
+Ulpianus libro 22 ad edictum
+
+Papinianus tractat, si quis heres institutus ex semisse rogatus sit restituere hereditatem et eam suspectam dicens compulsus adit, deinde fideicommissarius gnarus sit adcrevisse portionem hereditatis post restitutionem scripto heredi, an opus sit ei alia actione. Et ait securum esse eum posse de illo: plane de hoc solo quaerendum ait, an ei opus sit nova restitutione, posteaquam portio adcrevit: sed ne hanc quidem necessariam esse.
+
+36.1.45
+
+........
+
+. . . . . . . . . . Qui rogatus est restituere quod ex bonis alicuius ad eum pervenit, ea restituit quae ex hereditate habet, non quae habet ex persona sua.
+
+36.1.46
+
+Marcellus libro 15 digestorum
+
+pr. Postulante Sticho, qui eodem testamento libertatem et fideicommissam hereditatem acceperat, heres suspectam adiit: mox Stichus, antequam moram in recipienda hereditate faceret, decessit relicto herede Titio. Quaero, an in Titium, si nolit recipere fideicommissam hereditatem, actiones ex senatus consulto competant. Respondi: quoniam fere is, qui compulsus est adire hereditatem, confestim ei restituet, de manumisso dumtaxat senatus consulto comprehensum est nec heredis facta est mentio. Potest tamen evenire, ut restitutionem distulerit heres, veluti si pecuniam ei debuerit defunctus, quam retinere maluit quam petere. Ceterum existimo idem in herede eius constituendum, quod in illo constitutum est: cur enim recusaret, quam recusare non potuit is, cuius hereditatem suscepit? Quod si forte ante hereditatis restitutionem sine herede decesserit libertus, perinde bona eius creditoribus hereditariis vendere permittendum est, ac si restituta hereditate decessit.
+
+1. Set in huiusmodi quaestione rogo respondeas, an recte senserim. Rogata est filia ex asse heres restituere hereditatis partem dimidiam deductis legatis minimis et aere alieno non magno, ut legi Falcidiae locus non sit: mora facta non est restitutioni fideicommissi. Desidero verbo tenus mihi restitui hereditatem, ut ex Trebelliano senatus consulto agenti et ex eo competentibus actionibus etiam usuras debitas ex mortis die in tempus restitutionis persequar: item quaero et de pensionibus, quia locationum obligatio in hereditate fuit. Ab herede fructus nullos peto, sed illa desiderat refundere me aut concedere ei actiones usurarum et pensionum: non possum persuadere hereditatis appellatione, quam rogata erat mihi restituere, etiam hanc stipulationem usurarum ad me pertinere. Respondi: omnia haec hereditatis appellatione continentur: quantum enim quod ad hoc refert, inter haec ceteraque, quae sub condicione sunt promissa aut in annos singulos vel menses, nihil interest. Sane pro fructu rei, quae hereditate continetur, haec cedunt, nec fructus fideicommissarium sequitur, si mora non intercessit. Sed quia non ut heres fideicommissum, ut sici dixerim, suppleat postulet, set qualis nunc est hereditas, desideret restitui sibi, nequaquam id debet heres recusare: nam et quodammodo in partem hereditatis senatus recipi voluit fideicommissarium et haberi heredis loco, pro qua parte ei restituta esset hereditas. Sed cum hereditarios nummos faeneravit aut ex fundis fructus percepit, nihil eo nomine praestat ei, cui hereditas per fideicommissum relicta est, si non intercessit mora, scilicet quia suo periculo faeneravit colendove fundo vel in cogendis fructibus insumpsit operam: nec aequum erat alterius, ut sic dixerim, procuratorem constitui. Nullum autem impendium vel opera intercedit heredis, cum his modis, de quibus est quaesitum, augmentum hereditas recepit.
+
+36.1.47
+
+Modestinus libro singulari de heurematicis
+
+Qui totam hereditatem restituere rogatus quartam retinere non vult fidumque obsequium defuncti precibus praebere desiderat, sua sponte adire debebit hereditatem, quasi ex Trebelliano eam restiturus. Suaserim tamen, suspectam potius dicat hereditatem coactusque a praetore restituat: hoc enim casu ex ipso Trebelliano restituere videtur expositoque hereditario metu universas actiones in eum transfert, qui recepit hereditatem.
+
+36.1.48
+
+Iavolenus libro 11 epistularum
+
+Seius Saturninus archigubernus ex classe Britannica testamento fiduciarium reliquit heredem Valerium Maximum trierarchum, a quo petit, ut filio suo Seio Oceano, cum ad annos sedecim pervenisset, hereditatem restitueret. Seius Oceanus antequam impleret annos, defunctus est: nunc mallius Seneca, qui se avunculum Seii Oceani dicit, proximitatis nomine haec bona petit, Maximus autem trierarchus sibi ea vindicat ideo, quia defunctus est is cui restituere iussus erat. Quaero ergo utrum haec bona ad Valerium Maximum trierarchum heredem fiduciarium pertineant an ad mallium Senecam, qui se pueri defuncti avunculum esse dicit. Respondi: si Seius Oceanus, cui fideicommissa hereditas ex testamento Seii Saturnini, cum annos sedecim haberet, a Valerio Maximo fiducario herede restitui debeat, priusquam praefinitum tempus aetatis impleret, decessit, fiduciaria hereditas ad eum pertinet, ad quem cetera bona Oceani pertinuerint, quoniam dies fideicommissi vivo Oceano cessit, scilicet si prorogando tempus solutionis tutelam magis heredi fiducario permisisse, quam incertum diem fideicommissi constituisse videatur.
+
+36.1.49
+
+Pomponius libro primo variarum lectionum
+
+Si heredi eius, cui natura debuerit, aliquis solverit, ei, cui fideicommissa hereditas relicta sit, id reddendum.
+
+36.1.50
+
+Paulus libro 14 responsorum
+
+Paulus respondit: si certa portio hereditatis alicui relicta proponitur et is res hereditarias quasdam furatus sit, in his rebus, quas subtraxit, denegari ei petitionem oportere recte respondetur.
+
+36.1.51
+
+Papinianus libro tertio quaestionum
+
+pr. Cum hereditas ex Trebelliano senatus consulto restituitur, si res urgueat et metus erit, ne per absentiam forte fideicommissarii dies actionis exeat, heres iudicium suscipere cogitur.
+
+1. Similique modo filio de possessione contra tabulas deliberante scriptus heres a creditoribus hereditariis convenitur.
+
+36.1.52
+
+Papinianus libro 11 quaestionum
+
+Imperator Hadrianus, cum Vivius Cerealis filio suo Vivio Simonidi, si in potestate sua esse desisset, hereditatem restituere rogatus esset ac multa in fraudem fideicommissi fieri probaretur, restitui hereditatem filio iussit ita, ne quid ea pecunia, quamdiu filius eius viveret, iuris haberet. Nam quia cautiones non poterant interponi conservata patria potestate, damnum condicionis propter fraudem inflixit. Post decreti autem auctoritatem in ea hereditate filio militi comparari debuit, si res a possessoribus peti vel etiam cum debitoribus agi oporteret. Sed paternae reverentiae congruum est egenti forte patri officio iudicis ex accessionibus hereditariis emolumentum praestari.
+
+36.1.53
+
+Papinianus libro 17 quaestionum
+
+Cum heres deductis legatis hereditatem per fideicommissum restituere rogatur, non placet ea legata deduci, quae peti non poterant. Sed cum uxori pro parte heredi scriptae dos praelegetur eaque deductis legatis hereditatem restituere rogatur: etiamsi quarta, quam per legem Falcidiam retinet, tantum efficiat, quantum in dote est, tamen pro sua portione dotis praelegatae partem deducit. Cum enim utrumque consequitur, nihil interest inter hanc mulierem et quemvis alium creditorem heredem institutum et hereditatem restituere rogatum. Idem probatur et si non deductis legatis fideicommissum ab ea relictum sit.
+
+36.1.54
+
+Papinianus libro 19 quaestionum
+
+pr. Si res aliena Titio legata fuerit isque domino rei herede instituto petierit, ut hereditatem Maevio restituat, Maevius legatum inutiliter petet: non enim poterit consequi, quod ad institutum, id est rei dominum pervenire non poterat.
+
+1. Servus ab altero ex heredibus libertatem, ab altero fideicommissum hereditatis accepit. Si neuter adire velit, nullae praetoris partes erunt, quia neque propter solam libertatem compellitur adire neque is, a quo libertas data non est, propter eum, qui nondum liber est, ut adeat, compellitur: et senatus consulto locus est, cum ab omnibus directa, vel fideicommissa libertas ab eo datur a quo hereditas quoque relinquitur. Sed si forte is, a quo libertas data est, portionem suam repudiavit vel condicione exclusus est, cum portio eius ad alterum pervenerit, defendi poterit adire cogendum: quid enim interest, quo iure debitor libertatis et hereditatis idem esse coeperit?
+
+36.1.55
+
+Papinianus libro 20 quaestionum
+
+Non est cogendus heres suspectam adire hereditatem ab eo, cui libertas a legatario, hereditas ab herede relicta est, cum status hominis ex legato pendeat et nemo se cogatur adstringere hereditariis actionibus propter legatum. Quid enim, si inter moras non manumittente legatario servus decesserit? Si autem vivo testatore legatarius decesserit, benigne respondetur cogendum adire, cum in ipsius sit potestate manumisso restituere hereditatem.
+
+36.1.56
+
+Papinianus libro 19 quaestionum
+
+Titius rogatus est, quod ex hereditate superfuisset, Maevio restituere. Quod medio tempore alienatum vel deminutum est, ita quandoque peti non poterit, si non interveniendi <intervertendi> fideicommissi gratia tale aliquid factum probetur: verbis enim fideicommissi bonam fidem inesse constat. Divus autem Marcus cum de fideicommissaria hereditate cognosceret, his verbis: "quidquid ex hereditate mea superfuerit, rogo restituas" et viri boni arbitrium inesse credidit: iudicavit enim erogationes, quae ex hereditate factae dicebantur, non ad solam fideicommissi deminutionem pertinere, sed pro rata patrimonii, quod heres proprium habuit, distribui oportere. Quod mihi videtur non tantum aequitatis ratione, verum exemplo quoque motus fecisse. Cum enim de conferendis bonis fratribus ab emancipato filio quaereretur, praecipuum autem, quod in castris fuerat adquisitum militi, relinqui placeret, consultus imperator sumptus, quos miles fecerat, non ex eo tantummodo patrimonio, quod munus collationis pati debuit, sed pro rata etiam castrensis pecuniae decedere oportere constituit. Propter huiusmodi tractatus Maevius fideicommissi nomine cautionem exigere debet: quod eo pertinet, non ut ex stipulatione petatur, quod ex fideicommisso peti non poterit, sed ut habeat fideiussores eius quantitatis, quam ex fideicommisso petere potuit.
+
+36.1.57
+
+Papinianus libro 20 quaestionum
+
+pr. Si patroni filius extrario restituerit ex Trebelliano hereditatem, operarum actio, quae transferri non potuit, apud heredem manebit, nec ei nocebit exceptio, cum eadem prodesse non posset ei qui fideicommissum accepit. Et generatim ita respondendum est non summoveri heredem neque liberari ex his causis, quae non pertinent ad restitutionem.
+
+1. Imperator Titus Antoninus rescripsit in tempus directo data libertate non esse repraesentandam hereditatis restitutionem, quando persona non est, cui restitui potest.
+
+2. Qui fideicommissam hereditatem ex Trebelliano, cum suspecta diceretur, totam recepit, si ipse quoque rogatus sit alii restituere, totum restituere cogetur. Et erit in hac quoque restitutione Trebelliano locus: quartam enim Falcidiae iure fideicommissarius retinere non potuit. Nec ad rem pertinet, quod, nisi prior, ut adiretur hereditas, desiderasset, fideicommissum secundo loco datum intercidisset: cum enim semel adita est hereditas, omnis defuncti voluntas rata constituitur. Non est contrarium, quod legata cetera non ultra dodrantem praestat: aliud est enim ex persona heredis conveniri, aliud proprio nomine defuncti precibus adstringi. Secundum quae potest dici non esse priore tantum desiderante cogendum institutum adire, ubi nulla portio remansura sit apud eum, utique si confestim vel post tempus cum fructibus rogatus est reddere: sed et si sine fructibus rogatus est reddere, non erit idonea quantitas ad inferendam adeundi necessitatem. Nec ad rem pertinebit, si prior etiam libertatem accepit: ut enim pecuniam, ita nec libertatem ad cogendum institutum accepisse satis est. Quod si prior recusaverit, placuit, ut recta via secundus possit postulare, ut heres adeat et sibi restituat.
+
+3. Quid ergo, si non alii, sed ipsi heredi rogatus sit restituere? Quia non debet eidem quandoque quarta reddi quam perdidit, propter huius portionis retentionem erit audiendus. Sed nec illud translaticie omittendum est instituto, qui coactus est adire, fideicommissi petitionem denegandam esse: cur enim non videatur indignus, ut qui destituit supremas defuncti preces consequatur aliquid ex voluntate? Quod fortius probabitur, si post impletam condicionem coactus est adire. Nam si pendente condicione, durum erit idem probare, cum et Falcidiam paenitendo potuit inducere: nec ignoro posse dici nullo modo fideicommissi petitionem denegandam ei qui, iura sepulchrorum adquiri insequuntur, adeo senatus nihil apud eum ex ea parte, quam derelinquit, voluit relinquere, ut nec Falcidiam exercere possit nec praeceptio apud eum relinquatur nec substitutio quoque secundarum tabularum ita facta: "quisquis mihi heres erit, filio meo heres esto" eidem daretur.
+
+4. Cui Titiana hereditas ex Trebelliano senatus consulto restituta est, Maevianam hereditatem, quam Titius defunctus ex Trebelliano Sempronio restituere debuit, et ipse restituere poterit sic ut alius quilibet successor.
+
+5. Actiones temporariae Trebelliani solent esse evicta hereditate ab eo, qui, posteaquam fideicommissam restituit hereditatem, victus est, scilicet ante restitutionem lite cum eo contestata: potestas enim evictionis tollit intellectum restitutionis indebito fideicommisso constituto. Plane si fideicommissum ab eo quoque qui postea vicit relictum est: quia possessor in ratione reddendae hereditatis partem, quam fideicommissario restituit, heredi reputat, defendi potest actiones Trebelliani durare.
+
+36.1.58
+
+Papinianus libro septimo responsorum
+
+Filiam fratribus certis rebus acceptis hereditatem restituere pater voluit: ante restitutam hereditatem in possessionem hereditatis filiam quoque mitti placuit. Cum autem interea filii res bonorum in solidum distraxissent, item alias pignori dedissent, hereditate postea restituta constitit ex eo facto ceterarum quoque portionum venditiones, item pignora confirmari.
+
+36.1.59
+
+Papinianus libro octavo responsorum
+
+pr. "Heredes mei quidquid ad eos ex hereditate bonisve meis pervenerit, id omne post mortem suam restituant patriae meae coloniae beneventanorum": nihil de fructibus pendente condicione perceptis petitum videri constitit.
+
+1. Cum ita fuerat scriptum: "Fidei filiorum meorum committo, ut, si quis eorum sine liberis prior diem suum obierit, partem suam superstiti fratri restituat: quod si uterque sine liberis diem suum obierit, omnem hereditatem ad neptem meam claudiam pervenire volo": defuncto altero superstite filio, novissimo autem sine liberis neptis prima quidem facie propter condicionis verba non admitti videbatur: sed cum in fideicommissis voluntatem spectari conveniat, absurdum esse respondi cessante prima substitutione partis nepti petitionem denegari, quam totum habere voluit avus, si novissimus fratris quoque portionem suscepisset.
+
+2. "Peto de te, uxor carissima, uti cum morieris hereditatem meam restituas filiis meis vel uni eorum vel nepotibus meis vel cui volueris vel cognatis meis si cui voles ex tota cognatione mea". Inter filios respondi substitutionem fideicommissi factam videri, circa nepotes autem et ceteros cognatos facultatem eligendi datam: ex ceteris autem cognatis, si nepotes superessent, non recte mulierem electuram propter gradus fideicommissi praescriptos: deficiente vero gradu nepotem ex cognatis quam velit personam eligi posse.
+
+36.1.60
+
+Papinianus libro nono responsorum
+
+pr. Deducta parte quarta restituere rogatus hereditatem, prius quam restitueret, hereditario debitori heres exstitit. Quoniam actio eo confusa per Trebellianum redintegrari non potest, pecuniae quoque debitae dodrans ex causa fideicommissi petetur. Sed in eum diem, quo actio confusa est, usurae praeteriti temporis, quae in obligatione vel in officio iudicis fuerunt, computabuntur: posterioris ita demum, si mora fideicommisso facta sit.
+
+1. Cum hereditas ex causa fideicommissi in tempus restituenda est, non idcirco nominum periculum ad heredem pertinebit, quod heres a quibusdam pecuniam exegerit.
+
+2. Qui post tempus hereditatem restituere rogatur, usuras a debitoribus hereditariis perceptas, quarum dies post mortem creditoris cessit, restituere non cogitur: quibus non exactis omnium usurarum actio (nam hereditaria stipulatio fuit) ex Trebelliano transferetur, et ideo nec indebiti repetitio erit. Ac similiter hereditario creditori si medii temporis non solvantur usurae, fideicommissarium in his quoque Trebellianum tenebit nec ideo querellae locus erit, quod de fructibus heres, quos iure suo percipiebat, faenus non solverit. Quod si faenus heres medii temporis solverit, eo nomine non erit retentio, cum proprium negotium gessit, quippe sortem reddere creditori coactus fideicommissario nihil usurarum medii temporis imputabit.
+
+3. Acceptis centum hereditatem rogatus restituere totam pecuniam iure Falcidiae percipere videtur, et ita divi Hadriani rescriptum intellectum est, tamquam si ex bonis nummos retenturus fuisset. Quod tunc quoque respondendum est, cum pro parte hereditatem coheredi suo restituere rogatur. Diversa causa est praediorum pro hereditaria parte retentorum: quippe pecunia omnis de portione retineri potest, praediorum autem alia portio non nisi a coherede, qui dominium habet, accipitur. Cum autem praedia maioris pretii quam portio hereditatis essent, in superfluo praediorum petenti fideicommissario Falcidiam intervenire visum est: concurrentem enim pecuniam compensari placuit.
+
+4. Hereditatem post mortem suam exceptis reditibus restituere rogatus ancillarum partus non retinebit nec fetus pecorum, qui summissi gregem retinent.
+
+5. Ante diem fideicommissi cedentem fructus et usurae, quas debitores hereditarii cum postea accesset dies solverunt, item mercedes praediorum ab herede perceptae portioni quadrantis imputabuntur.
+
+6. Cum autem post mortem suam rogatus hereditatem restituere res hereditarias distrahere non cogatur heres, sortium, quae de pretiis earum redigi potuerunt, usurae propter usum medii temporis perceptae non videbuntur: denique nec periculum mancipiorum aut urbanorum praediorum praestare cogitur: sed nihilo minus usus et casus eorum quadrantem quoque deminuit.
+
+7. Quod ex hereditate superfuisset, cum moreretur, restituere rogatus fructus superfluos restituere non videtur rogatus, cum ea verba deminutionem quidem hereditatis admittant, fructuum autem additamentum non recipiant.
+
+8. Heres eius, qui bonorum superfluum post mortem suam restituere fuerat rogatus, pignori res hereditarias datas, si non in fraudem id factum sit, liberare non cogitur.
+
+36.1.61
+
+Paulus libro quarto quaestionum
+
+pr. Debitor sub pignore creditorem heredem instituit eumque rogavit restituere hereditatem filiae suae, id est testatoris: cum nollet adire ut suspectam, coactus iussu praetoris adit et restituit: cum emptorem pignoris non inveniret, desiderabat permitti sibi iure dominii id possidere. Respondi: aditione quidem hereditatis confusa obligatio est: videamus autem, ne et pignus liberatum sit sublata naturali obligatione. Atquin sive possidet creditor actor idemque heres rem sive non possidet, videamus de effectu rei. Et si possidet, nulla actione a fideicommissario conveniri potest, neque pigneraticia, quoniam hereditaria est actio, neque fideicommissum, quasi minus restituerit, recte petetur: quod eveniret, si nullum pignus intercessisset: possidet enim eam rem quasi creditor. Sed et si fideicommissarius rem teneat, et hic serviana actio tenebit: verum est enim non esse solutam pecuniam, quemadmodum dicimus, cum amissa est actio propter exceptionem. Igitur non tantum retentio, sed etiam petitio pignoris nomine competit et solutum non repetetur. Remanet ergo propter pignus naturalis obligatio. In re autem integra non putarem compellendum adire, nisi prius de indemnitate esset ei cautum vel soluta pecunia esset: nam et cum de lucro heres scriptus a sit, quod forte legatum accepit, si heres non extitisset, responsum est non esse cogendum adire nisi legato praestito. Ubi quidem potuit dici nec cogendum esse heredem adire quodammodo contra voluntatem defuncti, qui legando heredi, si non adisset, in ipsius voluntate posuit aditionem: sed cum testator alterutrum dederit, nos utrumque ei praestamus.
+
+1. Ea quae dotem dabat pacta erat cum marito, ut mortua se in matrimonio dotis pars matri eius redderetur, nec eo nomine stipulatio a matre interposita est: moriens deinde matrem et maritum suum heredem fecerat et a matre petierat, ut hereditatem Titio restitueret: iudex addictus de hereditate dividenda partem dotis quasi ex utili pacto pro parte matri adiudicaverat: quaerebatur, an et ea portio ex causa fideicommissi praestanda sit. Quam non esse restituendam puto, quia non quasi heres, sed quasi mater ex pacto accepit nec occasione hereditatis, sed errore ex pacto eam habuit.
+
+36.1.62
+
+Paulus libro 11 quaestionum
+
+Patronus ex debita portione heres institutus sextam partem restituere rogatus restituit: non transeunt ex Trebelliano actiones, quoniam non fuit debitum quod restituit, et ideo si per errorem fecit, etiam repetetur.
+
+36.1.63
+
+Paulus libro 14 responsorum
+
+Paulus respondit his verbis: "Semproni, heredem te non scripsi festinans per infirmitatem: ideoque ei dari volo tantum, quantum pro uncia hereditatis competeret" videri quidem magis quantitatem, quam portionem hereditatis relictam, sed sic accipiendum, uti videatur de uncia etiam restituenda sensisse.
+
+36.1.64
+
+Scaevola libro quarto responsorum
+
+pr. A filia petit, ut, si liberis superstitibus moreretur, partem eius quod ad eam ex bonis patris pervenisset, quod si sine liberis, universum fratri restitueret: quaeritur, defuncta ea in matrimonio superstite filia, an heres eius cum parte hereditatis eius quoque quod dotis nomine datum erat partem restituere debeat. Respondit id, quod in dotem fuisset, non contineri in partem hereditatis quae restituenda est: sed et si ex promissione dotis aliquid debitum fuit, aeris alieni loco habendum.
+
+1. Alumno certam pecuniam legavit et eam recipi a Sempronio mandavit et certas usuras alumno praestari, donec ad vicensimum annum pervenerit: deinde alumni fidei commisit, ut, si sine liberis decederet, partem restitueret Sempronio, partem septiciae. Quaesitum est defuncto alumno intra annum vicensimum, an substituti fideicommissum petere possint an vero in id tempus sustinere, quo, si viveret, alumnus vicensimum annum impleret. Respondi secundum ea quae proponerentur posse.
+
+36.1.65
+
+Gaius libro secundo fideicommissorum
+
+pr. Facta in fideicommissarium restitutione statim omnes res in bonis fiunt eius, cui restituta est hereditas, etsi nondum earum nactus fuerit possessionem.
+
+1. Si is qui hereditatem sibi reddi ab herede stipulatus sit eique ex stipulatu agenti restituta fuerit hereditas, constat nihilo minus transferri actiones. Hoc ita est, si is cum quo actum sit restituat hereditatem: si vero ob id quod non restituerit aestimatione hereditatis condemnatus fuerit, remanent actiones hereditariae apud eum qui condemnatus sit, actor autem quantitatem consequitur.
+
+2. Si heres scriptus restituerit hereditatem et postea de hereditate controversiam passus victus sit aut lite cesserit, durare actiones constitit in fideicommissarium semel translatas.
+
+3. Si quis maiorem partem restituerit quam rogatus est, in eam partem quae excedit non transferuntur actiones. Sed cum praecepta aliqua re aut summa rogatus sit heres restituere et omissa retentione totam hereditatem restituerit, recte dicitur transferri actiones.
+
+4. Si heres ante restitutam hereditatem servum hereditarium heredem ab aliquo institutum iusserit adire hereditatem, negat Iulianus debere hanc hereditatem restitui, quia de ea rogatus non esset: et hoc est fatendum. Requirendum tamen et illud est, num cum incremento restituere heres rogatus sit hereditatem: si enim hoc fuerit subsecutum, etiam eam hereditatem restituere cogitur, nisi evidentissimis probationibus fuerit ab herede adprobatum contemplatione sui servum esse heredem institutum.
+
+5. Rescripto divi Antonini significatur, ut, si quis accepta a Titio pecunia, quae quartam hereditatis continet, rogatus sit ei restituere hereditatem, licet tardius detur pecunia, sine usuris eam dari debere, quia quanto tardius quisque pecuniam dat, tanto tardius ad fideicommissum pervenit et medii temporis fructus perdit. Quamobrem si ante datam pecuniam tenuerit hereditatem, fructus quos percepit restituere heredi eum oportere.
+
+6. Idem iuris est et si quis ita heredis fidei commiserit: "Rogo, si Titius tibi centum dederit, restituas ei hereditatem meam".
+
+7. Si sub condicione heres institutus sit qui suspectam sibi hereditatem esse dicit, si neque difficultatem neque turpitudinem ullam habet condicio nec impendium aliquid, iubendus est parere condicioni et adire et ita restituere: si vero turpis aut difficilis sit condicio, aperte iniquum est cogi eum explere eam alterius gratia. Sed et remitti eam ab initio visum est: plus enim tribui a praetore ei qui fideicommissum petit, quam testator voluit, absurdum est: utique autem testator, nisi expleta sit condicio, neque scriptum heredem ad hereditatem vocavit neque per hunc illi voluit restitui hereditatem.
+
+8. Si dandae pecuniae condicio adscripta est heredi, debet ei offerre pecuniam is qui poscit fideicommissum, ut hereditatem impleta condicione possit adire et restituere.
+
+9. Quod si condicio adscripta est et ea est, quam praetor remittit, sufficit edictum, ut Iulianus ait: hactenus iubendus est, ut constituat praetoris actionibus uti aut petat bonorum possessionem secundum tabulas, ut ita nanctus actiones tunc restituta hereditate transferat eas ex senatus consulto.
+
+10. Si vero nominis ferendi condicio est, quam praetor exigit, recte quidem facturus videtur, si eam expleverit: nihil enim male est honesti hominis nomen adsumere, nec enim in famosis et turpibus nominibus hanc condicionem exigit praetor. Sed tamen si recuset nomen ferre, remittenda est ei condicio, ut Iulianus ait, et permittendae utiles actiones, aut bonorum possessio secundum tabulas danda est, uti nanctus actiones transferat eas ex senatus consulto.
+
+11. Si cum suspectam videret, hereditatem postulante me iussu praetoris adieris et restitueris mihi, ita utar legis Falcidiae beneficio adversus legatarios, si tu quoque ea lege uti poteras et quatenus uti poteras: nam si quid praeterea a me alicui per fideicommissum relictum sit, id quasi a legatario relictum non venit in computationem eius legis, sed extrinsecus numeratur.
+
+12. Si Titius rogatus sit hereditatem Maevio restituere, Maevius Seio certam pecuniam, et Titius quartae retinendae beneficio adversus Maevium usus fuerit: Neratius scribit Maevium quoque Seio eo minus aequum esse praestare, ne ipse de suo damnum sentiat.
+
+13. Iulianus ait, si heres institutus Titio rogatus sit restituere, substitutus Maevio et institutus suspectam sibi hereditatem esse dicat, desiderante Titio iubendum eum adire et restituere.
+
+14. Si quis bonorum possessoris fidei commiserit de hereditate restituenda et is passus fuerit diem bonorum possessionis adgnoscendae transire aut per hoc tempus, quo is, cui restitui debebit hereditas, aliqua ex causa non potuit adire praetorem et postulare, ut petita bonorum possessione restituatur sibi hereditas, succurri ei debet, id est ut restituatur tempus bonorum possessionis admittendae exhibendi fideicommissi gratia.
+
+15. Admonendi autem sumus, si is, qui solvendo non sit, Titio herede instituto servum liberum esse iusserit et rogaverit Titium hereditatem eidem restituere, vix esse, ut Titius recusans adire hereditatem cogatur. Nam licet desiderante servo Titius adierit hereditatem, non tamen potest libertas servo competere quasi in fraudem creditorum data, licet Titius locuples sit: qua de causa nec hereditas ei restitui potest. Sed ex sententia legis dicendum est perinde habendum, ac si is servus solus liber et heres scriptus esset nec Titius heres esset.
+
+36.1.66
+
+Maecenatus libro quarto fideicommissorum
+
+pr. Si eius pupilli, cui sine tutoris auctoritate pecunia credita erat, restituta ex eo senatus consulto mihi fuerit hereditas, si solvam creditori, non repetam: adquin heres si post restitutionem solvat, repetet: non ob aliud, quam quod ab eo in me naturalis obligatio translata intellegitur. Et si eius mihi restituta sit hereditas, qui pupillo sine tutoris auctoritate crediderit, si solverit mihi pupillus, non repetet: at si heredi solverit, repetet, non repetiturus, si ante restitutionem solvisset.
+
+1. Si necessarii heredes sub condicione quamvis levissima heredes sint instituti, cui parere solent, dicendum est cogi restituere hereditatem desiderantibus his, quibus restituere rogati sunt, quia etiam necessari heredes fideicommissae hereditatis restituendae gratia condicioni parere erunt compellendi.
+
+2. Si quis rogatus restituere hereditatem decessit, antequam eam restituat, heres eius poterit hereditatem restituere et ex Trebelliano senatus consulto transeunt actiones. Sed si duo ei heredes extitissent, uti quisque restituisset, pro ea parte transituras actiones: nam et si ipse partem restituisset, pro parte interim transituras verius est. Sed et si plures heredes extiterunt ei, qui rogatus est restituere hereditatem, si quidam interim restituerint, vel cum ei, cui restitui debuit, plures heredes extiterint: ut cui restituta erit, is pro ea parte ex hoc senatus consulto habebit actiones.
+
+3. Si patronus ex parte debita heres institutus rogatus fuerit eam liberis exheredatis defuncti liberti restituere, si sua sponte adierit, erit Falcidiae locus, si coactus, in solidum transibunt actiones ex hoc senatus consulto.
+
+36.1.67
+
+Maecenatus libro quinto fideicommissorum
+
+pr. Servo invito domino vel ignorante non recte restituetur hereditas: sed si postea ratum habuerit, confirmabitur restitutio, verum ipsi domino adquirentur actiones. nec quia hereditatis adquisitionis similis est haec restitutio, iussum praecedere oportet, sed ut dictum est, etiam ratihabitio subsequi poterit exemplo bonorum possessionis. neque interest, quod ad propositum attinet, ipsi domino an servo quis rogetur restituere hereditatem, nec in ea re consensu aut opera servi opus est: atquin in bonorum possessione vel in adeunda hereditate consensus eius necessarius est. itaque si qui suspectam dicent hereditatem, postulante domino compellendi erunt adire et restituere hereditatem.
+
+1. Si testator rogasset heredem, ut restituat hereditatem mulieri, si non nupsisset, dicendum erit compellendum heredem, si suspectam dicat hereditatem, adire et restituere eam mulieri, etiamsi nupsisset. idem in ceteris quoque condicionibus Iulianus noster probat, quae similiter nisi fine vitae expleri non possententiarum secundum quam sententiam cautione praestita his, quorum interest, ab his, quibus restitui sub isdem condicionibus heres rogatus esset, restituet hereditatem.
+
+2. Cum praetor cognita causa per errorem vel etiam ambitiose iuberet hereditatem ut ex fideicommisso restitui, etiam publice interest restitui propter rerum iudicatarum auctoritatem.
+
+3. Si pupillo infanti restituere hereditatem quis rogatus sit, si sponte adierit, etiam servo eius et ipsi pupillo tutore auctore restituetur hereditas: si quidem eo, quod fari non potest, non magis ea res impedietur, quam in muto pubere volente sibi restitui hereditatem. Si autem heres recuset adire hereditatem, quemadmodum res expediri possit, difficile est, quia neque tutore desiderante periculo pupilli adiri hereditatem Trebelliano senatus consulto locus sit futurus neque pupillus ipse id desiderare possit, cum fari non possit. Quod aliquatenus circa mutos expediri potest, nam si auditus capaces sunt vel interrogati nutu possint significare velle se periculo suo hereditatem adire, quomodo absentes per nuntium. Sed et infanti non dubito omnimodo subveniendum idque ex similitudine iuris civilis vel honorarii constituendum est: sive enim heres institutus esset, non dubie pro herede tutore auctore gerere posse videtur, sive de bonorum possessione agitaretur, peti ei per tutorem posset. Ideoque et heres compelli per tutorem potest adire et restituere hereditatem. Quo exemplo et mutus, qui nihil intellegere potest, per curatorem adiuvatur.
+
+4. Si singulae res ab herede traditae sunt iussu meo ei cui eas vendiderim, non dubitabimus mihi intellegi factam restitutionem. Idem erit, et si iussu meo tradantur, cui ego ex fideicommisso aliave qua causa eas praestare debuerim vel in creditum ire vel donare voluerim.
+
+36.1.68
+
+Paulus libro secundo fideicommissorum
+
+pr. Qui ita institutus esset "si coheres eius adisset", uti potest lege Falcidia, etsi coheres eius coactus adisset, modo si ipse non coactus adierit hereditatem.
+
+1. Etiam absentis procuratori, si desideraret, posse restitui hereditatem ex hoc senatus consulto Iulianus scripsit, si tamen caveat de rato habendo, si non evidens absentis voluntas esset. Sed dicendum est, ut heres, qui suspectam dicat, non sit compellendus adire, si incertum sit, an mandaverit, quamvis ei caveatur, propter fragilitatem cautionis. Quod si sponte adierit hereditatem, non magna captio est: sed actiones, si non mandavit, transibunt eo tempore, quo ratum habuerit.
+
+2. Si damnum in servo hereditario datum sit, licet per servum hereditarium heredi competere actio coepit, non tamen transit legis Aquiliae actio ad fideicommissarium: hae enim actiones transeunt, quae ex bonis defuncti pendent.
+
+3. Si legatus Romae compulsus adierit hereditatem et restituerit, cogetur Romae actiones pati fideicommissarius, quamvis heres non cogetur.
+
+4. An ubi defunctus conveniri debuit, et fideicommissarius debeat? Videndum, si sua sponte heres adit et restituit hereditatem, an tribus locis fideicommissarius defendi debeat: ubi defunctus et ubi heres et ubi ipse domicilium habeat. Oportet itaque ibi fideicommissarium conveniri, ubi vel domicilium habet vel maior pars restitutae hereditatis habetur.
+
+36.1.69
+
+Valens libro tertio fideicommissorum
+
+pr. Si postulante me suspectam hereditatem ex decreto praetoris adieris nec ego postea eam mihi restitui velim nec bonis me immiscere, hoc fieri debet, ut (quod octaveno non ineleganter videbatur) a praetore perinde actiones in me dentur, ac si hereditatem recepissem, quod est iustius.
+
+1. Etiam eo tempore, quo creditorum fraudandorum consilium inieris, citra periculum interdicti fraudatorii hereditatem suspectam adibis et restitues mihi, quia et remoto fideicommisso liberum tibi fuerat nolenti adire hereditatem creditores tuos tali commodo fraudare, et ego nihil turpiter faciam recipiendo eam hereditatem, quam remota postulatione mea creditores compellere te ut adires non potuerint.
+
+2. Sed et filius suus heres patri rogatus sit a patre hereditatem mihi restituere, cum suorum creditorum fraudandorum consilium inisset, tamquam suspectam ex decreto praetoris restituerit mihi, vix fraudatorio interdicto locus erit, quia bonis patris eius venditis nihil proprium creditores eius ex ea hereditate ferre potuerint: nisi forte proprii creditores filii audiri debeant, si postulent, ut dimissis patris eius bona vendere sibi permittatur.
+
+3. Si donationis causa suspectam hereditatem sibi heres dixerit et restituerit ei, qui solidum capere non possit, auferetur ei id quod capere non potest. idem dicendum est et si citra consilium donandi fiduciarius heres id fecerit.
+
+36.1.70
+
+Valens libro quarto fideicommissorum
+
+pr. Si heres, ab eo qui cum moreretur solvendo non fuit rogatus hereditatem restituere, suspectam sibi dicit, dubium non est, quin hodie coactus ex Trebelliano senatus consulto restituere possit. Sed et si sua sponte adierit, ex eodem senatus consulto restituturus est, quamvis, cum summa aut certum corpus per fideicommissum ab eo qui solvendo non fuit datum est, perinde non debeatur atque si legatum esset: eo enim casu legatarii, superiore heredis vice fungi eum, cui fideicommissum relictum est.
+
+1. Si totam hereditatem rogatus restituere tu sponte adieris et, sine deductione quartae partis restitueris, difficile quidem crederis per ignorantiam magis, non explendi fideicommissi causa hoc fecisse: sed si probaveris per errorem te quartam non retinuisse, reciperare eam poteris.
+
+36.1.71
+
+Maecenatus libro octavo fideicommissorum
+
+De evictione praediorum vel mancipiorum vel ceterarum rerum hereditariarum cavere heres, cum restituit hereditatem, non debet: quin immo in contrarium caveri heredi oportet, si quid ex his evictum esset, quae ab ipso herede venissententiarum
+
+36.1.72
+
+Pomponius libro secundo fideicommissorum
+
+pr. Si heres institutus Titio rogatus fuerit restituere hereditatem et rursus Titius heredi post tempus, sufficiunt directae actiones heredi.
+
+1. Si heres antequam fideicommissam hereditatem restitueret, alienaverit quid ex hereditate aut servum hereditarium manumiserit aut ruperit quid vel fregerit vel usserit, non competit in eum ulla civilis actio restituta postea hereditate ex Trebelliano senatus consulto, sed ex fideicommissi causa erit hoc quod deperierit persequendum. Sin vero post restitutam hereditatem horum quid admiserit heres, dicendum est lege Aquilia cum eo agi posse, si servum forte hereditarium aut vulneraverit aut occiderit.
+
+2. Si temporalis actio in hereditate relicta fuerit, tempus, quo heres experiri ante restitutam hereditatem potuit, imputabitur ei cui restituta fuerit.
+
+36.1.73
+
+Maecenatus libro decimo fideicommissorum
+
+Omnes qui de hereditate deliberant desiderante eo, qui suo periculo velit adiri hereditatem, coguntur adire, sed non statim restituere, sed ut completo tempore deliberationis, si expedire sibi compererint hereditatem, sentiant commodum testamenti eo iure, quo si sponte adissent, sin vero contra onerosam crediderint, restituta ea exonerentur actionibus hereditariis.
+
+36.1.74
+
+Pomponius libro quarto fideicommissorum
+
+Heres praecepto fundo rogatus erat hereditatem restituere: fundus alienus erat. Aristo aiebat videndum, utrum omnimodo penes heredem fundum esse voluit testator an ita demum, si ipsius est: sed sibi superius placere: ideoque aestimatio eius retinenda est.
+
+36.1.75
+
+Maecenatus libro 13 fideicommissorum
+
+pr. Si heres pecuniam hereditariam crediderit et in eam causam pignora acceperit, actiones non competunt ei, cui restituta fuerit hereditas, adversus ipsa pignora. Sed aliqua dubitatio remanebit, si in eum contractum, qui ex defuncto fuerit, interpositus heres, antequam restitueret hereditatem, pignus acceperit. Sed nec sic quidem ipse admitteretur: ex fideicommisso tamen habet adversus heredem actionem, ut ei cedat pro pignoris commodo actionem.
+
+1. Cum ex Trebelliano senatus consulto restituitur hereditas, servitutes, quas mutuo praedia heredis et testatoris habent, nihilo minus valent.
+
+36.1.76
+
+Paulus libro secundo decretorum
+
+pr. Qui filium et filiam habebat, testamentum fecit et ita de filia sua caverat: entellomai soi my diativesvai, prin tekna soi genesvai [id est: iubeo te testamentum non facere, antequam liberi tibi nascantur]. Pronuntiavit imperator fideicommissum ex hac scriptura deberi, quasi per hoc, quod prohibuisset eam testari, petisset, ut fratrem suum heredem faceret: sic enim accipiendam eam scripturam, ac si hereditatem suam rogasset eam restituere.
+
+1. Fabius Antoninus impuberem filium Antoninum et filiam honoratam relinquens exheredatis his matrem eorum Iuniam Valerianam heredem instituit et ab ea trecenta et quasdam res filiae reliquit, reliquam omnem hereditatem filio Antonino, cum ad annum vicensimum aetatis pervenisset, voluit restitui: quod si ante annum vicensimum decessisset filius, eam hereditatem honoratae restitui praecepit. Mater intestata decessit utrisque liberis legitimis heredibus relictis. Postea filius annum agens plenum nonum decimum et ingressus vicensimum necdum tamen eo expleto decessit filia herede Fabia Valeriana sua relicta, a qua amita fideicommissum et ex testamento patris portionem hereditatis petebat: et apud praesidem optinuerat. Tutores Valerianae filiae Antonini egestatem eius praetendebant et recitabant divi Hadriani constitutionem, in qua quantum ad munera municipalia iusserat eum annum, quem quis ingressus esset, pro impleto numerari. Imperator autem noster motus et aequitate rei et verbis testamenti "si ad annum vicensimum aetatis", quamvis scire se diceret a divo Marco non excusatum a tutela eum qui septuagensimum annum aetatis ingressus fuisset, nobis et legis Aeliae Sentiae argumenta proferentibus et alia quaedam, contra petitricem pronuntiavit.
+
+36.1.77
+
+Scaevola libro 18 digestorum
+
+pr. Epistulam ad heredem suum in haec verba scripsit: "Titius Cornelio heredi suo salutem. A te peto, Corneli, quoniam ad te devoluta est pars matris meae, item pars Sempronii curatoris quondam mei contraria fortuna usi et per hoc totus as meus apud te esse speratur, uti reddas restituas Gaio Seio uncias quattuor". Quaesitum est, cum Sempronius in integrum restitutus sit ab imperatore, a quo fuerat deportatus et adierit hereditatem, an is quoque rogatus sit, ut ex sua portione restituat hereditatem. Respondit Sempronium quidem non proponi rogatum, Cornelium autem heredem debere pro rata portione maternarum defuncti rerum restitutionem Seio facere.
+
+1. Mulier heredis instituti fidei commisit, ut retenta parte quarta reliquam partem restitueret nurui quondam suae, cuius fidei commisit in haec verba: "Rogo te, ut id, quod ad te ex bonis meis pervenerit, facias pervenire ad filium tuum": quaesitum est, quando hoc fideicommissum restituere debeat, utrumne post mortem suam an iam nunc. Respondit ad tempus, quo nurus moreretur, fideicommissum aptandum esse.
+
+36.1.78
+
+Scaevola libro 19 digestorum
+
+Scaevola respondit, si pater filium suum impuberem ex asse scripserit heredem eique codicillis substituerit, deinde filius impubes decesserit, licet substitutio inutilis sit, quia codicillis hereditas neque dari neque adimi potest, tamen benigna interpretatione placet, ut mater, quae ab intestato pupillo successit, substitutis fideicommisso obligetur: quod si invicem fuerunt substituti, et in fideicommisso substitutionem valere: unoque eorum mortuo qui supersunt totum accipiunt.
+
+36.1.79
+
+Scaevola libro 20  digestorum
+
+pr. Heredibus institutis filiis utriusque sexus singulos rogavit, ut qui sine liberis decederet partem suam hereditatis sorori fratrive restitueret aut, si frater sororve non esset, matri suae et haec verba adiecit: "Vosque, liberi carissimi, hoc fideicommisso teneri invicem volo, donec binos liberos educaveritis". Quaesitum est, si quis ex liberis duos filios procreaverit, quamvis superstites non reliquerit, an heredes eius fideicommissum debeant. Respondit secundum ea quae proponerentur videri fideicommissi onere liberatos.
+
+1. Titius nepotes ex filia et furiosam filiam suam heredes instituit et fidei commisit filiae, ut, si sine liberis decessisset, pars ei data perveniret ad coheredes: eam furiosam ipse Titius in matrimonio collocavit et enixa est filiam post mortem patris. Quaesitum est, defuncta furiosa superstite ex eiusmodi coniunctione parta filia, an fideicommissum ad coheredes pertineret. Respondit, cum filiam reliquisse proponeretur, fideicommissum non deberi. Claudius: nam etsi matrimonium cum furiosa non fuit, satis tamen factum est eiusmodi condicioni.
+
+36.1.80
+
+Scaevola libro 21 digestorum
+
+pr. Lucius Titius intestato moriturus, cum haberet uxorem et ex ea filiam emancipatam, codicillis haec verba inseruit: "Pertinent autem hi codicilli ad uxorem et filiam. Itaque rogo, quidquid aut ego reliquero aut vos ipsae habeatis, commune vobis sit: quod si non ego rogarem, vos pro vestra pietate faceretis". Filia intestati patris bonorum possessionem accepit: quaesitum est, an aliqua pars hereditatis Lucii Titii ex causa fideicommissi a filia matri debeatur. Respondit secundum ea quae proponerentur <proponeretur> dimidiam partem deberi, si etiam uxor parata sit in commune bona sua conferre.
+
+1. Maevia duos filios heredes reliquerat et eodem testamento ita cavit: "Fidei autem heredum <heredem> meorum committo, uti omnis substantia mea sit pro deposito sine usuris apud gaium Seium et Lucium Titium, quos etiam, si licuisset, curatores substantiae meae dedissem remotis aliis, ut hi restituant nepotibus meis, prout quis eorum ad annos viginti quinque pervenerit, pro portione, vel si unus, ei omnem". Quaesitum est, an fideicommissum praestari a scriptis heredibus Lucio Titio et Gaio Seio debeat. Respondit secundum ea quae proponerentur Lucium Titium, item Gaium Seium fideicommissum petere non posse.
+
+2. Tres heredes scripsit Maevium fratrem suum ex dodrante, Seium ex sextante, Stichum eiusdem Seii servum, filium autem naturalem Maevii ex uncia et fidei commisit Seii, uti Stichum manumitteret, in haec verba: "A te peto, Sei, uti tu Stichum manumitteres: dedi unde faceres". Sed et codicillis ita cavit: "Unciam, ex qua feci Stichum heredem, si quam Seius controversiam moveret, ad Maevium fratrem meum reverti volo. Tu, frater, secundum fidem et pietatem tuam, quidquid ad te pervenerit ex hereditate mea Sticho filio tuo restitues: quod ut facias, fidei tuae committo". Quaesitum est, cum Seius adierit hereditatem et propter hoc compulsus Stichum manumiserit, an unciam hereditatis, ex qua Stichus heres institutus est, Sticho manumisso restituere debeat. Respondit non proponi Seium rogatum unciam ei restituere.
+
+3. Idem quaesiit, an, si aliquam controversiam Seius de uncia hac, ex qua Stichus institutus est, facere velit et Maevius unciam ex causa fideicommissi a Seio fuerit consecutus, utrum hanc solam unciam, ex qua Stichus institutus est, an vero et dodrantem, ex quo ipse Maevius institutus est, eidem Sticho restituere debeat. Respondit de omni restituendo, quod ad Maevium quoquo modo pervenit, testatricem sensisse.
+
+4. Pater puerum et puellam heredes instituit eosque invicem substituit et, si neuter heres esset, eis plures substituit substitutosque invicem substituit his verbis: "substitutos heredes invicem substituo": eorundem filiorum fidei commisit, ut, qui eorum vita superasset et sine liberis intra annum trigensimum moreretur, hereditatem his, quos heredes substituerat, restituat. Filius vita sororem superavit et intra trigensimum annum sine liberis decessit: quaesitum est, ex substitutis uno defuncto ante filium, pars eius, quae ad ceteros substitutos qui superviverent pertinet, utrum pro virilibus an pro hereditariis portionibus, quibus sunt substituti, pertineat. Respondit consequens esse pro his partibus, quibus substituti essent, fideicommissum pertinere.
+
+5. Maevia filium heredem instituit ex quincunce, Titiam filiam ex quadrante, Septicium filium ex triente, cuius fidei commisit in haec verba: "Te rogo, fili Septici, si intra vicensimum annum sine liberis morieris, quidquid ex hereditate mea ad te pervenerit, hoc fratribus tuis restituas". Quaesitum est, an Septicio filio defuncto intra vicensimum annum sine liberis hoc fideicommissum utrum pro portionibus hereditariis ad fratrem et sororem eius pertineat an vero aequaliter. Respondit pro parte hereditaria.
+
+6. Titia ex asse heres scripta partem dimidiam hereditatis Maeviae rogata restituerat: fundum a testatore obligatum luere noluit, sed eum vendente creditore mandavit redimendum Seiae: quaesitum est, an Titia ex causa fideicommissi Maeviae teneatur. Respondit, cum rogata hereditatem restituere proponatur, nihil proponi, cur non teneatur. Claudius: subest enim praestari oportere id, quanto pluris fundus fuit, quam ad creditorem pervenire oportuit.
+
+7. Gaio Seio ex semisse, Titia ex quadrante et aliis ex reliquis portionibus heredibus institutis ita cavit: "Fidei autem vestrae mando, Gai Sei et Lucia Titia, uti post obitum vestrum reddatis restituatis Titio et Sempronio semissem patrimonii et portionis eius, quam vobis dedi". Quaesitum est, cum utrique adierint hereditatem et postea Gaius Seius defunctus sit Lucia Titia herede instituta, an haec Lucia Titia partem dimidiam semissis, quam rogatus erat Gaius Seius restituere, protinus debeat? An vero post suam demum mortem universum fideicommissum tam ex sua persona quam ex Gaii Seii datum restituere debeat? Respondit Luciam Titiam statim teneri, ut partem dimidiam semissis ex persona Seii restituat.
+
+8. Filiam suam heredem scripsit et nepotem, quem ex ea habebat, ei substituit et ita cavit: "Lucio Titio fratris mei filio genero meo ducentos aureos relinquo. Quo legato scio illum contentum esse, quoniam scripsi universam rem meam, eo quod filiam meam et nepotem meum heredes scripsi, universam substantiam eis communicasse. Quos invicem commendo". Filia adita patris hereditate divertit a marito: quaesitum est, an Titius quondam eius maritus suo vel filii sui nomine ex fideicommisso communionem bonorum consequi possit viva quondam uxore sua vel post mortem eius. Respondit nihil fideicommissi datum genero proponi praeter ducentos aureos.
+
+9. Idem quaesiit eandem uxorem marito herede scripto fideicommisisse, ut, cum moreretur, filio communi omne, quod ad eum ex hereditate sua pervenisset, restitueret: an illae quoque res et possessiones, quae in dotem datae et post divortium restitutae mulieri fuerant, fideicommisso contineantur. Respondit, quod mulier in bonis suis reliquisset, id fideicommisso contineri. Claudius: et alias de eodem facto consultus ita respondit, sive restitutae sint res, secundum id quod supra responsum est in bonis mulieris computari, sive non sint restitutae, quia ex stipulatione de dote reddenda interposita restituendae sint, eo auctiorem hereditatem computari.
+
+10. Quae habebat filium et ex eo nepotem utrosque in mariti potestate, maritum ex asse scripsit heredem eiusque fidei commisit in haec verba: "Si Titius maritus meus mihi heres erit, peto fideique eius committo, quidquid ex hereditate mea ad eum pervenerit, cum mori coeperit, det restituat Gaio filio nostro, ita tamen, ut decem quidem uncias Gaius habeat, duas autem uncias Seius nepos habeat: quod ut fiat, fidei eius Titi heredis mei committo". Pater emancipavit filium, nepotem amisit et superstite filio decessit. Quaesitum est, an priore parte scripturae universa hereditas patris ex causa fideicommissi filio debeatur et illa sequentia verba "ita tamen, ut decem uncias filius, duas autem nepos habeat" ex voluntate defunctae ita demum locum haberent, si die fideicommissi cedente filius et nepos eorum in natura essent, cum autem non supervixit ad diem fideicommissi nepos, sequens scriptura cesset. Respondit ea quae proponerentur ostendere decem dumtaxat uncias filio datas.
+
+11. Heres institutus uxori rogatus totam hereditatem restituere restituit detracta quarta: quaesitum est, cum uxor quartam partem hereditatis praesenti die et reliquam post tempus alii rogata a testatore fuisset restituere, an id, quod heres ei detraxisset quartae nomine, in restituendo fideicommisso imputare possit. Respondit, quatenus cepisset, fideicommisso obstrictam.
+
+12. Heredum fidei commisit, ut, quidquid ex parte tertia hereditatis pervenerit ad eos, id redderent gaio Maevio alumno testatoris, cum fuerit annis quindecim, et subiunxit haec verba: "Interim ex refectu paupertatis, qui ad vos pervenerit, alatis eum ex usuris pro quantitate nummorum redactis. Hoc amplius eidem alumno meo hominem caletanum et vernam sutorem, qui eum artificio suo mercede data alere poterit". Quaesitum est, cum alimenta multo minora praestiterint heredes scripti, quam usurae summae redactae competebant, an et residuas praestare compelli debeant totius temporis an ex die, quo quintum decimum explesset? Et cum servi legati ei specialiter, ut ex mercedibus aleretur, statim venierint, utrum mercedes an usuras petere debeat? Respondit secundum ea quae proponerentur testatorem videri de omni reditu et mercede servorum restituenda sensisse.
+
+13. Pluribus heredibus institutis, in quibus et libertis tribus ex dodrante, eisdem fundos per praeceptionem dedit et ab his petit, ne eos alienarent et ut, qui vita superasset, solidos eosdem fundos optineret: deinde unius ex his libertis Otacilii fidei commisit, uti quidquid ad eum ex hereditate bonisve pervenisset, deducto pro ea parte aere alieno et legatis et sibi viginti aureis restituat Titio: quaesitum est, an etiam partes tertias fundorum, praelegatorum cum collibertis eidem, deducere deberet. Respondit secundum ea quae proponerentur non debere restituere praeceptionem, cum ipse testator et legata excipi voluisset.
+
+14. Maritus uxore instituta herede ex parte tertia et pluribus ei fideicommissis datis dotem quoque praelegavit his verbis: " Seiae uxori meae dari volo a filiis meis summam dotis eius, quae mihi pro ea illata est" eiusdemque uxoris fidei commisit, ut partem hereditatis et quaecumque ei legasset post mortem suam Titio filio communi restitueret. Quaesitum est, an summam quoque dotis inter cetera legata ex causa fideicommissi filio suo restituere debeat. Respondit non alias, nisi manifestum esset de dote quoque restituenda testatorem sensisse: atque etiamsi sensisset et hoc fuerit adprobatum, ita eius quoque petitionem fore, si non minus in quantitate, quae Falcidiae nomine remaneret, foret quam in quantitate dotis.
+
+15. Rogatus hereditatem restituere septicio, cum erit annis viginti, interea fundos, quos defunctus pignori acceperat, vendidit et propterea pigneraticia iudicio a debitore conventus decessit herede relicto Sempronio et iudicio nondum finito restituit hereditatem septicio. Quaesitum est, an iudicio nihilo minus ipse condemnari debeat, cum potuerit retinere (vel caveri sibi) id, quod ex causa iudicati praestaturus esset. Respondit iudicii exsecutionem nihilo minus adversus heredem et post restitutam hereditatem mansisse.
+
+16. Heres eius, qui post mortem suam rogatus erat universam hereditatem restituere, minimam quantitatem, quam solam in bonis fuisse dicebat, his quibus fideicommissum debebatur restituit: postea repertis instrumentis apparuit quadruplo amplius hereditate fuisse: quaesitum est, an in reliquum fideicommissi nomine conveniri possit. Respondit secundum ea quae proponerentur, si non transactum esset, posse.
+
+36.1.81
+
+Scaevola libro singulari quaestionum publice tractatarum
+
+Si pupillus parenti suo heres extitit et fideicommissam hereditatis partem restituit, mox abstinetur paterna hereditate: optio deferenda est fideicommissario, ut aut portionem quoque pupilli adgnoscat aut toto discedat. Aut omnimodo bona vendenda sunt, ut id quod superfluum est pupillo servetur, et, si in solidum bona venire non possunt, omnimodo actiones fideicommissario denegandae erunt: erat enim in potestate illius universum suscipere et si quid plus erit, pupillo servare.
+
+36.1.82
+
+Scaevola libro quinto digestorum
+
+Matrem et avunculum eosdemque creditores suos heredes scripsit Lucius Titius et eorum fidei commisit, ut post mortem restituerent, quod ex re familiari testatoris superfuerit, septicio. Heredes non modicam partem bonorum testatoris consumpserunt et multos heredes reliquerunt, quibus scientibus multa corpora, quae remanserant ex bonis Lucii Titii, septicius possedit. Quaesitum est, an id, quod Lucius Titius debuit matri et avunculo, heredes eorum a Septicio petere possint. Respondit non posse. Claudius: aditione enim hereditatis confusa obligatio interciderat, sed fideicommissi repetitio erat: cuius aequitas defecit his, qui multa ex hereditate consumpsisse proponuntur.
+
+36.1.83
+
+Paulus imperialium sententiarum in cognitionibus pralatarum ex liberis VI libro primo seu decretorum libro II
+
+Iulius foebus testamento facto, cum tres liberos heredes institueret, Foebum et Heracliam ex eadem matre, Polycraten ex alia aequis portionibus, petit a Polycrate minore fratre, ut accepto certo praedio hereditatem fratribus concederet: et invicem eos, qui ex eadem matre erant, si qui eorum heres non fuisset, substituerat. Polycrati, si intra pubertatem decessisset, secundas tabulas fecit, quas matri eius commendavit aperiendas, si impubes obisset. Deinde petit a prioribus, ut, si quis eorum sine liberis decederet, portionem suam exceptis bonis maternis eorum et avitis ei vel eis qui superessent restitueret. Heraclia soror mortua sine liberis fratrem Foebum heredem instituit: Polycrates fideicommissum petierat et optinuerat apud Aurelium Proculum proconsulem Axaiae: appellatione facta, cum solus Foebus egisset monomerws [id est: agente uno tantum], victus est, quia "ei vel eis" verba utrosque fratres complecterentur. Adqui invicem duos illos tantum substituerat: sed et voluntas haec patris videbatur, qui exceperat eorum bona materna, quia Polycrates aliam matrem et quidem superstitem habebat, cuius etiam fidei commissum erat, ut legata, quae ei dederat in testamento, moriens Polycrati filio suo restitueret. . . . . . . .
+
+36.1.84
+
+.........
+
+. . . . . . . . . . Si quis eum, quem debere sibi dicit eo negante, heredem scripserit eumque rogaverit, ut hereditatem restituat alii, videamus de iure debiti <non convenitur propter debitum fideicommissi petitione, si paratus est debiti actionem suscipere>.
+
+36.1.85
+
+........
+
+. . . . . . . . . .. Si filio familias hereditas restituta sit, videamus , quatenus <recte> actiones hereditariae post emancipationem ei et in eum dentur <dantur>.
+
+
+* 36.2.0. Quando dies legatorum vel fideicommissorum cedat.
+
+
+36.2.1
+
+Paulus libro secundo ad Sabinum
+
+Mortuo patre, licet vivo pupillo, dies legatorum a substituto datorum cedit.
+
+36.2.2
+
+Ulpianus libro 15 ad Sabinum
+
+Si pure sit usus fructus legatus vel usus vel habitatio, neque eorum dies ante aditam hereditatem cedit neque petitio ad heredem transit. Idem et si ex die sit usus fructus relictus:
+
+36.2.3
+
+Ulpianus libro quinto disputationum
+
+Nam cum ad heredem non transferatur, frustra est, si ante quis diem eius cedere dixerit.
+
+36.2.4
+
+Ulpianus libro 19 ad Sabinum
+
+Si "cum heres morietur" legetur, condicionale legatum est: denique vivo herede defunctus legatarius ad heredem non transfert. Si vero "cum ipse legatarius morietur" legetur ei, certum est legatum ad heredem transmitti.
+
+36.2.5
+
+Ulpianus libro 20 ad Sabinum
+
+pr. Si post diem legati cedentem legatarius decesserit, ad heredem suum transfert legatum.
+
+1. Itaque si purum legatum sit, ex die mortis dies eius cedit: si vero post diem sint legata relicta, simili modo atque in puris dies cedit, nisi forte id fuit legatum, quod ad heredem non transit: nam huius dies non ante cedit, ut puta si usus fructus sit post annum relictus: hanc enim sententiam probamus.
+
+2. Sed si sub condicione sit legatum relictum, non prius dies legati cedit quam condicio fuerit impleta, ne quidem si ea sit condicio, quae in potestate sit legatarii.
+
+3. Sed si ea condicio fuit, quam praetor remittit, statim dies cedit:
+
+4. Idemque et in impossibili condicione, quia pro puro hoc legatum habetur.
+
+5. Item si qua condicio sit, quae per legatarium non stat quo minus impleatur, sed aut per heredem aut per eius personam, in cuius persona iussus est parere condicioni, dies legati cedit, quoniam pro impleta habetur: ut puta si iussus sim heredi decem dare et ille accipere nolit. Sed et si ita mihi legatum sit, si Seiam uxorem duxero, nec ea velit nubere, dicendum erit diem legati cedere, quod per me non stat, quo minus paream condicioni, sed per alium stat, quo minus impleatur condicio.
+
+6. Isdem autem diebus, id est isdem pensionibus heredi praestabitur legatum, quibus legatario ipsi praestabatur.
+
+7. Si, cum dies legati cedere inciperet, alieni quis iuris est, deberi his legatum, quorum iuri fuit subiectus. Et ideo si purum legatum fuerit et post diem legati cedentem liber factus est, apud dominum legatum relinquet: sed si usus fructus fuerit legatus, licet post mortem testatoris, ante aditam tamen hereditatem sui iuris efficiatur, sibi legatum adquirit.
+
+36.2.6
+
+Paulus libro tertio ad Sabinum
+
+pr. Quod pure datum est si sub condicione adimatur, quasi sub condicione legatum habetur.
+
+1. At si extrinsecus suspendatur legatum, non ex ipso testamento: licet ante decedat legatarius, ad heredem transmisisse legatum dicimus: veluti si rem dotalem maritus legaverit extero et uxori aliquam pro dotali re pecuniam, deinde deliberante uxore de electione dotis decesserit legatarius atque legatum elegerit mulier, ad heredem transire legatum dictum est. Idque et Iulianus respondit: magis enim mora quam condicio legato iniecta videtur.
+
+2. Eorum legatorum, quae in codicillis relicta sunt, perinde dies cedit atque testamento relictorum.
+
+36.2.7
+
+Ulpianus libro 20 ad Sabinum
+
+pr. Heredis aditio moram legati quidem petitioni facit, cessioni diei non facit.
+
+1. Proinde sive pure institutus tardius adeat sive sub condicione per condicionem impediatur, legatarius securus est.
+
+2. Sed et si nondum natus sit heres institutus aut apud hostes sit, similiter legatario non nocebit, eo quod dies legati cessit.
+
+3. Inde dicimus et si a substituto legatum sit relictum, quamdiu institutus deliberat defuncto legatario non nocebit, si postea heres institutus repudiavit: nam ad heredem suum transtulit petitionem.
+
+4. Tantundem et si ab impuberis substituto legetur: nam ad heredem suum legatum transfert.
+
+5. Tractari tamen potest, si impuberi substitutus damnatus sit, si intra pubertatem filius decesserit, Seio centum dare, an vivo pupillo defunctus Seius ad heredem transferat, quasi ea condicio sit expressa, quae inerat. Et magis est ad heredem legatarii transire.
+
+6. Interdum aditio heredis legatis moram facit, ut puta si forte servo manumisso vel ei cui servus legatus est et ideo servo aliquid legatum sit: nam servo legati relicti ante aditam hereditatem dies non cedit.
+
+36.2.8
+
+Ulpianus libro 24 ad Sabinum
+
+Nam cum libertas non prius competat quam adita hereditate, aequissimum visum est nec legati diem ante cedere: alioquin inutile fieret legatum, si dies eius cessisset antequam libertas competeret. Quod evenit, si servo pure legetur et liber esse sub condicione iubeatur et pendens condicio inveniatur et post aditam hereditatem.
+
+36.2.9
+
+Ulpianus libro 21 ad Sabinum
+
+Si habitatio filio familias vel servo legata sit, puto non adquiri domino vel patri legatum, si ante aditam hereditatem filius vel servus decesserit: nam cum personae cohaereat, recte dicitur ante aditam hereditatem diem non cedere.
+
+36.2.10
+
+Ulpianus libro 23 ad Sabinum
+
+Cum in annos singulos legatur, non unum legatum esse, sed plura constat.
+
+36.2.11
+
+Iulianus libro 37 digestorum
+
+(nec refert, singuli aurei in annos singulos legentur an in annum primum mille aurei, in secundum homo, in tertium frumentum)
+
+36.2.12
+
+Ulpianus libro 23 ad Sabinum
+
+pr. Nec semel diem eius cedere, sed per singulos annos.
+
+1. Sed utrum initio cuiusque anni an vero finito anno cedat, quaestionis fuit. Et Labeo Sabinus et Celsus et Cassius et Iulianus in omnibus, quae in annos singulos relinquuntur, hoc probaverunt, ut initio cuiusque anni huius legati dies cederet.
+
+2. Inde Iulianus ait, hoc legatum si servo relinquatur, deinde post primum vel alterum annum sit liber, sibi eum adquirere.
+
+3. Item Celsus scribit, quod et Iulianus probat, huius legati diem ex die mortis cedere, non ex quo adita est hereditas, et si forte post multos annos adeatur hereditas, omnium annorum legatario deberi.
+
+4. Sed et si quotannis sit legatum, mihi videtur etiam in hoc initium cuiusque anni spectandum, nisi forte evidens sit voluntas testatoris in annuas pensiones ideo dividentis, quoniam non legatario consultum, sed heredi prospectum voluit, ne urgueretur ad solutionem.
+
+5. Si in habitationem aliquid vel in disciplinam legetur sic "annua" vel "quotannis", quibus diebus pensio debetur habitationis vel merces disciplinarum, isdem intellegitur legatum relictum, coniectura voluntatis facta.
+
+6. Novissime Pomponius scribit nihil interesse, utrum "in annos singulos" vel "quotannis" an " in singulos menses" vel "quot mensibus" an "in singulos dies" vel "quot diebus" legetur. Ipse quoque huic sententiae accedo: proinde et si "annui" legentur tot aurei, idem erit dicendum.
+
+7. Si cui homo generaliter sit legatus et antequam vindicet decesserit, ad heredem suum legatum transfert.
+
+8. Si Titio sit sic legatum "quem Seius elegerit" et Seius post electionem decesserit, locus est vindicationi semel adquisitae.
+
+36.2.13
+
+Pomponius libro sexto ad Sabinum
+
+Huiusmodi legatum: "sive illud factum fuerit sive non fuerit, illi do lego", ad heredem non transit, nisi alter casus vivo legatario exstiterit, quoniam causa, ex qua debeatur, praecedere semper debet. Nec, quia certum est alterutrum futurum, omnimodo debebitur: nam tale legatum: "cum morietur, heres dato" certum est debitum iri et tamen ad heredem legatarii non transit, si vivo herede decedat.
+
+36.2.14
+
+Ulpianus libro 24 ad Sabinum
+
+pr. Si usus fructus aut decem, utrum legatarius voluerit, sint legata, utrumque spectandum et mortem testatoris et aditionem hereditatis, mortem propter decem, aditionem propter usum fructum: quamvis enim electio sit legatarii, tamen nondum electioni locus esse potest, cum proponatur aut nondum testatorem decessisse aut eo mortuo hereditas nondum adita.
+
+1. Inde quaerit Iulianus, si post mortem testatoris legatarius decedat, an ad heredem transferat decem legatum, et libro trigensimo septimo digestorum scribit posse dici decem transtulisse, quia mortuo legatario dies legati cedit. Argumentum Iulianus pro sententia sua adfert tale: "Seiae decem aut, si pepererit, fundum heres meus dato": nam si, antequam pariat, inquit, decesserit, ad heredem suum decem transmittet.
+
+2. Si ita quis legaverit filio familias, ut ipsi solvatur, potest procedere legatum nec imputari heredi, cur non patri, sed potius filio solvat: finge enim hoc nominatim expressum "ita ut filio solvat": certe si pater petat, exceptione erit repellendus.
+
+3. Si dies legati cesserit, deinde legatarius in ius alienum pervenit, ipsi potius debetur legatum, in cuius ipse ius pervenit: transeunt enim cum eo, quae ei debebantur. Sed si sub condicione fuerit legatum, non transit, sed exspectabit condicionem eique adquiretur, cuius iuris erit condicionis existentis tempore: quod si sui iuris fuerit eo tempore, sibi potius adquiret.
+
+36.2.15
+
+Ulpianus libro quinto disputationum
+
+Si ita esset liberis fideicommissum relictum, si morte patris sui iuris essent effecti, nec mortalitate patris, sed emancipatione patres familiarum constituti sint, deberi eis fideicommissum nemo dubitaverit diemque eius emancipatione cessisse, qui morte patris cederet.
+
+36.2.16
+
+Iulianus libro 35 digestorum
+
+pr. Cum ita legatum est: "Stichum vel quod ex Pamphila natum erit heres meus dato", non ante legati eius cedet, quam aliquid ex Pamphila natum fuerit aut certum fuerit nasci non posse.
+
+1. Cum servo legato, antequam hereditas eius qui legaverat adiretur, usus fructus ab alio legatus fuerit et prior hereditas eius, qui usum fructum legaverit, adita fuerit: nulla ratio est, cur diem legati cedere existimemus, antequam ea quoque hereditas, ex qua servus legatus erat, adeatur, cum neque in praesentia ullum emolumentum hereditati adquiratur et, si interim servus mortuus fuerit, legatum extinguatur. Quare adita hereditate existimandum est usum fructum ad eum, cuius servus legatus esset, pertinere.
+
+2. Quod si servus, cui usus fructus legatus fuerit, ipse legatus non fuerit, dicendum est usum fructum ad hereditatem pertinere, eo quod dies eius ante aditam hereditatem non cesserit.
+
+36.2.17
+
+Iulianus libro 36 digestorum
+
+Cum legato servo aliquid legatur, dies eius legati quod servo datur non mortis tempore, sed aditae hereditatis cedit: et ideo impedimento non est regula iuris, quo minus manumisso legatum debeatur, quia etsi confestim pater familias moreretur, non in eiusdem personam et emolumentum legati et obligatio iuris concurreret. Perinde igitur est hoc, de quo quaeritur, ac si filio herede instituto patri legatum esset: quod consistere intellegitur eo, quod, quamvis statim pater familias moriatur, potest emancipatus adire hereditatem, ut patri legatum debeat.
+
+36.2.18
+
+Iulianus libro 37 digestorum
+
+Is cui ita legatum est "quandoque liberos habuerit" si praegnate uxore relicta decesserit, intellegitur expleta condicione decessisse et legatum valere, si tamen postumus natus fuerit.
+
+36.2.19
+
+Iulianus libro 70 digestorum
+
+pr. Cum sine praefinitione temporis legatum ita datum fuerit: "uxori meae penum heres dato: si non dederit, centum dato", unum legatum intellegitur centum et statim peti potest, penoris autem causa eo tantum pertinet, ut ante litem contestatam tradita peno heres liberetur.
+
+1. Quod si ita scriptum sit "si penum intra kalendas non dederit, centum dato", non efficitur, ut duo legata sint, sed ut centum legata sub condicione videantur: idcirco si uxor ante kalendas decesserit, heredi suo neque penum relinquet, quia legata non est, neque centum, quia dies legati cesserit necesse est legataria viva.
+
+2. Statim dies mihi cedit, cum ab eo mihi fideicommissum datum est, cui sub condicione legatum est, quemadmodum si herede instituto sub condicione pure mihi legetur.
+
+3. Si debitori quod sub condicione debet legatum est, praesens legatum est agique ex testamento statim potest, ut liberatio praestetur, et, si post mortem testatoris decesserit, ad heredem transmittit actionem.
+
+4. Haec dicenda erunt et si non ipsi debitori, sed alii cuilibet similiter legatum esse proponatur.
+
+36.2.20
+
+Marcianus libro sexto institutionum
+
+Si cum praefinitione annorum legatum fuerit, veluti "Titio dena usque ad annos decem", Iulianus libro trigensimo digestorum scribit interesse: et si quidem alimentorum nomine legatum fuerit, plura esse legata et futurorum annorum legatum legatarium mortuum ad heredem non transmittere: si vero non pro alimentis legavit, sed in plures pensiones divisit exonerandi heredis gratia, hoc casu ait omnium annorum unum esse legatum et intra decennium decedentem legatarium etiam futurorum annorum legatum ad heredem suum transmittere: quae sententia vera est.
+
+36.2.21
+
+Paulus libro secundo ad Vitellium
+
+pr. Si dies adposita legato non est, praesens debetur aut confestim ad eum pertinet cui datum est: adiecta quamvis longa sit, si certa est, veluti kalendis ianuariis centesimis, dies quidem legati statim cedit, sed ante diem peti non potest: at si incerta, quasi "cum pubes erit" "cum in familiam nupserit" "cum magistratum inierit" cum aliquid demum, quod scribenti comprehendere sit commodum, fecerit: nisi tempus condiciove optigit, neque res pertinere neque dies legati cedere potest.
+
+1. Si sub condicione, qua te heredem institui, sub ea condicione Titio legatum sit, Pomponius putat perinde huius legati diem cedere atque si pure relictum esset, quoniam certum esset herede existente debitum iri: neque enim per condicionem heredum fieri incerta legata nec multum interesse tale legatum ab hoc "si heres erit, dato".
+
+36.2.22
+
+Pomponius libro quinto ad Quintum Mucium
+
+pr. Si Titio, "cum is annorum quattuordecim esset factus", legatum fuerit et is ante quartum decimum annum decesserit, verum est ad heredem eius legatum non transire, quoniam non solum diem, sed et condicionem hoc legatum in se continet "si effectus esset annorum quattuordecim", qui autem in rerum natura non esset, annorum quattuordecim esse non intellegeretur. Nec interest, utrum scribatur "si annorum quattuordecim factus erit" an ita cum priore scriptura per condicionem tempus demonstratur, sequenti per tempus condicio, utrubique tamen eadem condicio est.
+
+1. Quaedam autem condiciones etiam supervacuae sunt, veluti si ita scribat: "Titius heres esto. Si Titius hereditatem meam adierit, Maevio decem dato": nam pro non scripto ea condicio erit, ut omnimodo ad heredem Maevii legatum transeat, etiamsi Maevius ante aditam hereditatem decesserit. Et idem, si ita fuerit scriptum: "si Titius hereditatem meam adierit, intra dies centum Maevio decem dato": nam hoc legatum in diem erit, non sub condicione, quia definitio Labeonis probanda est dicentis id demum legatum ad heredem legatarii transire, quod certum sit debitum iri, si adeatur hereditas.
+
+2. Si tamen duos heredes instituam et, si alter ex his adeat hereditatem, alicui legem ab omnibus heredibus: non erit pro supervacuo ea condicio, sed in portionem quidem coheredis valebit, in ipsius autem, cuius persona in condicione comprehensa est, supervacua erit, perinde atque si solo eo herede instituto eo modo legatum esset.
+
+36.2.23
+
+Ulpianus libro quarto ad legem Iuliam et Papiam
+
+Cum in annos singulos legatum relinquitur, sine dubio per annos singulos inspecta condicione legatarii aut capere. Et si plurium servus sit, singulorum dominorum erunt personae spectandae.
+
+36.2.24
+
+Paulus libro sexto ad legem Iuliam et Papiam
+
+pr. Si penum heres dare damnatus sit vel fundum et, si non dedisset, decem, ego accepi et penum legatam et translatam esse in decem, si noluerit penum heres dare, et tunc pecuniam deberi, cum interpellatus fundum non dedisset, et, si interea decesserit legatarius, tunc heredi eius non nisi fundum deberi. Namque cum dictum est: "at publicius fundum dato", perfectum est legatum et cum dicit: "si non dederit, centum dato", sub condicione fundi legatum ademptum videri eo casu, quo centum deberi coeperint. Quorum quia condicio vivo legatario non exstiterit, forte quia interpellatus heres non sit, evenit, ut ademptio nihil egerit fundique legatum duraverit.
+
+1. Plane si sic legatum sit: "si penum non dederit, decem dato", dicimus non esse penum legatum.
+
+36.2.25
+
+Papinianus libro 18 quaestionum
+
+pr. Cum illud aut illud legetur, enumeratio plurium rerum disiunctivo modo comprehensa plura legata non facit. Nec aliud probari poterit, si pure fundum alterum vel alterum sub condicione legaverit: nam pendente condicione non erit electio nec, si moriatur, ad heredem transisse legatum videbitur.
+
+1. "Heres meus Titio dato quod mihi Seius debet". Si Seius pupillus sine tutoris auctoritate nummos accepit nec locupletior factus est et creditor ad praesens debitum verba rettulit, quia nihil Seius debet, nullius momenti legatum erit: quod si verbo debiti naturalem obligationem et futuram solutionem cogitavit, interim nihil Titius petet, quasi tacite condicio inserta sit, non secus ac si ita dixisset: "Titio dato, quod pupillus solverit" vel si legasset "quod ex arethusa natum erit" vel "fructus, qui in illo fundo nascentur". Contrarium non est, quod, si medio tempore legatarius moriatur et postea partus edatur, fructus perveniant, pecuniam pupillus exsolvat, heres legatarii petitionem habet: namque dies legati, cui condicio non adscribitur, quamvis extrinsecus exspectanda sit, cedit.
+
+36.2.26
+
+Papinianus libro nono responsorum
+
+pr. "Firmio Heliodoro fratri meo dari volo quinquaginta ex reditu praediorum meorum futuri anni postea". Non videri condicionem additam, sed tempus solvendae pecuniae prolatum videri respondi: fructibus fini relictae pecuniae non perceptis ubertatem esse necessariam anni secundi.
+
+1. Cum ab heredibus alumno centum dari voluisset testator et eam pecuniam ad alium transferri, ut in annum vicensimum quintum trientes usuras eius summae perciperet alumnus ac post eam aetatem sortem ipsam: intra vicensimum quintum annum eo defuncto transmissum ad heredem pueri fideicommissum respondi: nam certam aetatem sorti solvendae praestitutam videri, non pure fideicommisso relicto condicionem insertam. Cum autem fideicommissum ab eo peti non posset, penes quem voluit pecuniam collocari, propter haec verba "eamque alumno meo post aetatem supra scriptam curabis reddere" fideicommissum ab heredibus petendum, qui pecuniam dari stipulari debuerunt: sed fideiussores ab eo non petendos, cuius fidem sequi defunctus maluit.
+
+2. Pater annua tot ex fructu bonorum, quem uxori legavit, accessura filii patrimonio praeter exhibitionem, quam aeque matri mandavit, ad annum aetatis eius vicensimum quintum ab uxore praestari voluit. Non plura, sed unum esse fideicommissum certis pensionibus divisum apparuit et ideo filio intra aetatem supra scriptam diem functo residui temporis ad heredem fideicommissum eius transmitti, sed non initio cuiusque anni peti pecuniam oportere, quod ex fructibus uxori datis pater filio praeberi voluit. Ceterum si pecuniam annuam pater alimentis filii destinasset, non dubie persona deficiente causa praestandi videtur extincta.
+
+36.2.27
+
+Scaevola libro tertio responsorum
+
+pr. Filium familias ex parte pure instituit heredem eique fideicommissum dedit et eodem testamento ita cavit: "quod ego Lucium Titium heredem institui, ita eum adire hereditatem volo, si is patria potestate liberatus fuerit": quaesitum est, an a coheredibus eius adita hereditate legati filio familias dati dies cesserit. Respondit, si pure sit datum, a coherede filii pro hereditaria parte fideicommissum peti posse.
+
+1. Menstruos denarios denos manumissis legavit: quaesitum est, cum absentibus heredibus ex senatus consulto libertatem sunt consecuti, ex quo tempore eis cibaria debeantur. Respondit secundum ea quae proponerentur ex eo tempore his cibaria debeantur, quo liberi esse coeperint.
+
+36.2.28
+
+Scaevola libro quarto responsorum
+
+Si fundus instructus relictus erit, quaeritur, quemadmodum dari debeat, utrum sicut instructus fuit mortis tempore an eo tempore quo facti sunt codicilli an quo peti coepit. Respondit ea quibus instructus sit fundus, cum dies legati cedat, deberi.
+
+36.2.29
+
+Valens libro primo fideicommissorum
+
+Rogo, quandoque heres meus Titio decem det: utique decem heres debebit, sed quando, dubitari potest: utrum cum primum potuerit, et dies cedit et ab ipso petitur.
+
+36.2.30
+
+Labeo libro tertio posteriorum a Iavoleno epitomatorum
+
+Quod pupillae legatum est " quandoque nupserit", si ea minor quam viripotens nupserit, non ante ei legatum debebitur, quam viripotens esse coeperit, quia non potest videri nupta, quae virum pati non potest.
+
+36.2.31
+
+Scaevola libro 14 digestorum
+
+Uxori ex parte sextante heredi institutae substituit et heredem fidei commisit, si uxor heres non erit, dotem ei et alia quaedam dari: post mortem mariti uxor ante condicionem et priusquam adeat hereditatem decessit. Quaesitum est, an dies fideicommissi cum moritur cessisse videatur ideoque heredibus eius debeatur. Respondi, si uxor prius decessit, quam hereditatem adiret, videri diem fideicommissi cessisse.
+
+
+* 36.3.0. Ut legatorum seu fideicommissorum servandorum causa caveatur.
+
+
+36.3.1
+
+Ulpianus libro 79 ad edictum
+
+pr. Legatorum nomine satisdari oportere praetor putavit, ut, quibus testator dari fierive voluit, his diebus detur vel fiat dolumque malum afuturum stipulentur.
+
+1. Semper autem satisdare cogitur, cuiuscumque sit dignitatis vel facultatium quarumcumque heres.
+
+2. Nec sine ratione hoc praetori visum est, sicuti heres incumbit possessioni bonorum, ita legatarios quoque carere non debere bonis defuncti: sed aut satisdabitur eis aut, si satis non datur, in possessionem bonorum venire praetor voluit.
+
+3. Non solum autem omnibus legatariis satisdari oportet, sed et successoribus legatariorum satisdari debere iam constat, quamvis isti non ex iudicio defuncti, sed successionis necessitate quasi ad aes alienum admittantur.
+
+4. Sed et procuratoribus legatariorum satisdandum est eoque iure utimur.
+
+5. Plane si ei qui in potestate alicuius erit legatum sit, cavebitur ei cuius iuri subiectus est.
+
+6. Non solum autem legatorum nomine heredes cavent, sed et successores eorum.
+
+7. Is etiam, cui ex senatus consulto restituta est hereditas, nihilo minus ad cautionem compellitur.
+
+8. Nec non et qui per alios heredes existunt sive honorarii successores ad satisdationem compelluntur.
+
+9. Plane si quis omissa stipulatione litem de legato contestatus est, probandum est cessare debere stipulationem.
+
+10. Idemque in fideicommissis quoque probandum est.
+
+11. Si cui ita sit legatum vel fideicommissum relictum et si id perdidisset, rursus relictum, videamus, an satis sequentis legati sive fideicommissi petere possit. Movet quaestionem, an fideicommissum hoc sive legatum debeatur et quotiens debeatur et an ipse legatarius cavere debeat se non perditurum. De his omnibus extat rescriptum divi Pii ad Iunium Mauricum tale: "Clodio Fructulo secundum ea, quae epistula continentur, legata sive fideicommissa ex testamento Clodii Felicis praestari debent citra necessitatem cavendi nihil ex is deminuturum se. Nam quod fidei heredis ab eodem testatore commissum est, ut, si Fructulus perdidisset quod ei in testamento relictum est, rursus heres ei id restitueret, non eo pertinet, ut aut Fructulo priorum legatorum nomine satisdatio iniungenda aut onerandus sit heres in infinito, ut, quotiens is perdiderit, restituere ei tantumdem debeat, sed ut per fideicommissum posterius duplicata legata eius videantur nec amplius ad periculum heredis pertineat, si quid postea is consumpsit exsoluto ei posteriore fideicommisso". Rescripto ergo ostensum legatarium heredi non debere cavere se non perditurum. Versa vice an heres de sequenti legato sive fideicommisso cavere debeat, quaeritur. Et putem non oportere ei caveri, cum in suo arbitrio habeat, ne perdat id quod sibi relictum est, quamvis si quis inspexerit, quod sub condicione relictum est, dicere debeat satisdationem exigendam.
+
+12. Certe sive ex asse sive ex parte quis legatum debeat, cavere debet, sive institutus sit heres sive substitutus.
+
+13. Bellissime quaeritur, an haec stipulatio incrementum ex fructibus vel usuris sentiat. Et recte placuit ex mora incrementum habituram stipulationem, ut id quod oportebit comprehendat.
+
+14. Si quis sub condicione legatum stipulatus pendente condicione decesserit, stipulatio evanescit, quia nec legatum transmittitur. Huic stipulationi easdem causas et condiciones inesse sciendum est: proinde si qua sit exceptio, quae petenti legatum opponi solet, eandem ex stipulatu quoque agenti opponendam esse placet.
+
+15. Procuratori eius, qui absens esse dicitur, si stipulanti legati nomine spondeat heres, Ofilius ait ita cavere debere, si is, cuius nomine caveat, vivat, videlicet ne teneatur illo ante defuncto.
+
+16. Item quaeritur, in hanc stipulationem utrum ipsae res veniant quae legatae sunt an vero pretia earum. Et est verius in hanc stipulationem res vel pretia deduci.
+
+17. Si decem quae in arca erant mihi legata sint, tibi eorum usus fructus legatus sit, si pure utrique legatum sit relictum, is cui proprietas legata est ipso iure decem vindicabit, fructuarium autem ex senatus consulto acturum et quinque usum fructum petiturum constat. Sed cum decem vindicat proprietarius, per exceptionem doli repelli, qua fructuarius de restituendis quinque heredi cavit. Plane si decem aureorum possessionem legatarius habeat, Marcellus ait dandam vel heredi vel fructuario utilem actionem in legatarium, si modo ei caveatur. Sed si sub condicione ei decem legata sint, fructuarium interim decem oblata cautione habiturum, legatario vero, cui proprietas relicta est, interim legatorum stipulatio praestanda est. Sed si omiserit stipulationem, existente condicione ad exhibendum eum posse agere Marcellus ait. Sed si ignorans heres legatum decem fructuario dedit, ad exhibendum eum non teneri palam est: succurrendum tamen legatario adversus fructuarium Marcellus ait.
+
+18. Si ad fiscum portio hereditatis pervenerit, cessabit ista stipulatio, quia nec solet fiscus satisdare.
+
+19. Qui minorem partem hereditatis possidet, cum ex maiore parte heres sit, si quidem ipso iure minuatur portio hereditatis, securior erit heres: neque enim ex maiore parte ex stipulatu tenetur legatariis, quam ex qua heres est: si vero nomen quidem heredis apud eos integrum maneat, verumtamen effectu minus habeant hereditatis et caverint legatorum nomine, videntur onerari, quia ipso iure pro ea parte legata debent, pro qua heredes sint. Sed enim aequissimum est non maiorem partem legatariis solvere, quam cuius habent emolumentum. Hoc autem evenit, cum hereditas pro aliqua parte ex Trebelliano restituitur: nam pro rata exonerandi sunt heredes eius partis nomine, cuius emolumentum sibi ablatum est.
+
+20. Si ei, qui in alterius potestate erit, incerta die legatum fuerit, cavebitur ei, qui habet eum in potestate, non praecise, sed sub condicione "si, cum eius legati dies cedit, in potestate sit". Ceterum si sui iuris inveniatur, iniquum esse visum est patri cautum esse, cum alii legatum debeatur, quamquam etsi sine hac adiectione caveretur, verum tamen exceptione patrem vel dominum submoveremus, si existentis condicionis tempore non haberent eos in potestate. Evenit tamen secundum hoc, ut in casum non sit de legato cautum: nam si existentis condicionis tempore sui iuris sunt, non erit cautum.
+
+36.3.2
+
+Papinianus libro 28 quaestionum
+
+Nec si forte velit pater cavere neminem amplius petiturum, compellendus erit heres legatum, quod iam filius petere potest, alii quam cui debetur exsolvere.
+
+36.3.3
+
+Ulpianus libro 79 ad edictum
+
+Sed et ipsis, qui sunt in potestate, cavendum est, quemadmodum solet caveri, si eadem res duobus sub diversis vel contrariis condicionibus relicta sit: duobus enim satisdatur, sed in utroque casu isdem personis satisdationem subituris.
+
+36.3.4
+
+Ulpianus libro 15 ad edictum
+
+Si ex causa fideicommissi sit apud aliquem hereditas nec legatorum satisdat, in possessionem adversus eum legatarius mittitur.
+
+36.3.5
+
+Papinianus libro 28 quaestionum
+
+pr. Postquam heres ab hostibus captus est, condicio legati, cuius nomine proposita stipulatione cautum fuerat, extitit: fideiussores interim teneri negavi, quia neque ius neque persona esset, ad quam verba stipulationis derigi possint.
+
+1. Imperator Marcus Antoninus <Antonius> Iulio Balbo rescripsit eum, a quo res fideicommissae petebantur, cum appellasset, cavere vel, si caveat adversarius, ad adversarium transferri possessionem debere. Recte placuit principi post provocationem quoque fideicommissi cautionem interponi: quod enim ante sententiam, si petitionis dies moraretur, fieri debuit, amitti post victoriam dilata petitione non oportuit. Sed quare non caverat de fideicommisso qui provocaverit, si caveret adversarius, ad eum possessionem esse transferendam rescripsit, cum alia sit edicti condicio? Non enim exigitur a legatario vice mutua cautum, sed vicaria custodiae gratia possessio datur et qui optinuit in possessionem per praetorem aut praesidem inducitur. Sed praetor quidem in omnium rerum possessione, quae in causa hereditaria permanent omnimodo, fideicommissi servandi gratia esse permittit: princeps autem earum rerum nomine, de quibus fuerat iudicatum, mutuas admisit cautiones: sicuti, cum de bonis suis conferendis filius accepta possessione cavere non potest, quia denegamus ei actiones, defertur condicio cavendi fratribus ex forma iurisdictionis, quod ex portione fratris fuerint consecuti, cum bona propria conferre coeperit, se restituturos. Sed si nec ipsi cavere possint, utiliter probatum est virum bonum ab utraque parte eligendum, apud quem ut sequestrem fructus deponantur quique utiles actiones a praetore datas exerceat. Possessio autem ex rescripto supra relato non aliter ad eum, qui fideicommissum petit, transfertur, quam si caverit, tametsi maxime adversarius non per inopiam, sed per contumaciam cavere noluerit: sed si is qui vicit non possit cavere, vel res deponenda vel iurisdictio restituenda erit.
+
+2. Si dies aut condicio legati fidei commissi petitionem actionemve differre dicatur et ideo satisdatio desideretur, heres autem per calumniam postulari contendat et relictum neget, non aliter audiendus erit qui cavere postulat, quam si scripturam, qua relictum adfirmet, exhibuerit.
+
+3. Cum quaerebatur, ubi fideicommissi servandi causa caveri oporteat, imperator Titus Antoninus rescripsit, si domicilium Romae non haberet heres et omnis hereditas in provincia esset, ad satisdationem fideicommissi nomine in provinciam fideicommissarium remittendum esse. Quare si heres in eum locum cavendi gratia remitti desideret, ubi domicilium habet, legatarius autem ibi caveri postulet, ubi est hereditas, non erit heres remittendus. idque imperator Titus Antoninus rescripsit.
+
+4. Quibus litteris adiectum et si bona iam distracta sunt vel testatoris permissu vel concedente legatario, pretium eorum fideicommissi servandi causa in deposito habendum.
+
+36.3.6
+
+Ulpianus libro sexto fideicommissorum
+
+pr. Si quando incerta summa est fideicommissi, qui cognoscit taxationem quoque fideiussores petuntur.
+
+1. Admonendi autem sumus rebus publicis remitti solere satisdationem fideicommissorum etiam si quando necessitas dandi intercedat: repromissio plane exigenda est voluntati defuncti statu iri.
+
+36.3.7
+
+Paulus libro secundo manualium
+
+Filio vel servo sub condicione a patre dominove herede instituto legatum est. Huius legati satis petere non possunt: sed pendente condicione emancipatus vel manumissus si satis petant, quaeritur, an audiendi sint, ne beneficium patris dominive ipsis onerosum sit, an sibi imputare deberent, qui dederunt eis postulandi adversus se facultatem. Sed melius est per mediocritatem causam dirimere, ut cautioni tantum cum hypotheca suarum rerum committantur.
+
+36.3.8
+
+Ulpianus libro 48 ad Sabinum
+
+Cum legatorum nomine satisdatum est, simul dies legatorum cessit, protinus isdem diebus etiam ex stipulatione debentur,
+
+36.3.9
+
+Paulus libro 12 ad Sabinum
+
+Non tamen ut statim peti possint: deberi enim dicimus et quod die certa legatario praestari oportet, licet dies nondum venerit.
+
+36.3.10
+
+Pomponius libro 26 ad Sabinum
+
+Si a te herede legatum mihi sit sub condicione tuque, postquam adieris hereditatem, satisdederis legatorum et post mortem tuam ante aditam tuam hereditatem condicio legati extiterit, Sabinus ait fideicommissores mihi teneri, quia omnimodo dari oportet legatum et in rem esset concepta stipulatio.
+
+36.3.11
+
+Gaius libro 13 ad edictum provinciale
+
+Si legatariis, qui adversus me in possessionem legatorum servandorum causa missi sunt, procurator vel quis alius meo nomine caverit, perinde mihi praetor accommodat interdictum, quo iubeantur discedere legatarii possessione, ac si ego cavissem.
+
+36.3.12
+
+Marcianus libro septimo institutionum
+
+Licet, ut non petatur cautio, condicio testamento scripta fuerit, non videtur condicio: et ideo licet desideraverit quis caveri sibi, non videtur condicione defectus, quia postquam remitti talem cautionem iure publico placuit, nec onus cautionis sequitur nec quidem condicio intellegitur.
+
+36.3.13
+
+Neratius libro septimo membranarum
+
+Ei quoque, cui legatorum actio datur in eum, qui praetermissa institutione ab intestato possidet hereditatem, legatorum satisdatur et, nisi satisdabitur, in possessionem legatorum servandorum causa mittitur: nam haec quoque praetor perinde salva esse vult atque ea quae iure civili debentur. Idem Aristoni placet.
+
+36.3.14
+
+Ulpianus libro 79 ad edictum
+
+pr. Haec stipulatio et in fideicommissis locum habet, sive pure fideicommissum sit relictum sive ex die certa vel incerta vel sub condicione, sive res aliqua sive hereditas sive ius aliquod relictum est.
+
+1. Divus quoque Pius rescripsit, quotiens evidens res est, ut certum sit nullo modo fideicommisso locum esse, perquam iniquum esse supervacua cautione onerari heredem.
+
+36.3.15
+
+Paulus libro 75 ad edictum
+
+pr. Etiam de praesenti legato locum habet haec satisdatio, quoniam nonnullas moras exercitio iudicii habet.
+
+1. Si et ab herede instituto legatorum satis acceperit legatarius et a Trebelliano fideicommissario, utraque quidem stipulatio committetur, sed exceptione se tuebitur heres, quia cavere non debuerit. Sed si pars hereditatis restituta sit, ab utroque cavendum est.
+
+2. Etiam si ab intestato debeatur fideicommissum, locum habet haec stipulatio.
+
+36.3.16
+
+Gaius libro 27 ad edictum provinciale
+
+Si duo eiusdem nominis de legato contendant, utrisque satisdatur: nec onerari heredem, cum possit eosdem fideiussores ad utramque stipulationem adhibere, qui et ipsi non onerantur, cum futurum sit, ut uni tenerentur.
+
+36.3.17
+
+Paulus libro 48 ad edictum
+
+Si ab uno ex heredibus legatorum satis accipimus, cum ab omnibus heredibus nobis legatum esset: si pars coheredis adcrescat promissori, in totum fideiussores tenentur, si solidum legatum is coeperit debere.
+
+36.3.18
+
+Scaevola libro 29 digestorum
+
+pr. Quae filium legitimum relinquebat, patrem eundemque collibertum ex asse scripsit heredem fideique eius commisit, ut, quidquid ad eum ex hereditate eius pervenisset, cum moreretur, restitueret filio testatricis nepoti suo, et haec verba adiecit: "Satis a Seio patre meo exigi veto". Quaesitum est, cum iste Seius substantiam suam dissipat et veretur pater fideicommissarii, ne inane fideicommissum constituatur, an ad satisdationem fideicommissi nomine patrem defunctae compellere possit. Respondit secundum ea quae proponerentur non compellendum cavere.
+
+1. Idem quaesiit: testatricem apud maritum suum, ex quo filium reliquerat, res deposuisse non exacta cautione depositionis: an ea res patri heredi restitui debeat? An vero quoniam emolumentum totius hereditatis ad filium defunctae reverti deberet, apud maritum remaneret, apud quem dos remansisset? Respondit, quod mulieris mansisset nec in dote fuisset, restituendum esse heredi.
+
+2. Tutor, qui et coheres pupilli erat, absente pupillo, cum admonuerunt eum legatarii, fideicommissi nomine in solidum ipse cavit. Quaesitum est, an in pupillum adultum factum danda sit utilis actio. Respondit dandam.
+
+
+* 36.4.0. Ut in possessionem legatorum vel fideicommissorum servandorum causa esse liceat.
+
+
+36.4.1
+
+Ulpianus libro 52 ad edictum
+
+pr. Si quis, cum vetitus esset satis accipere, acceperit, an repeti satisdatio ista possit, ut heres condicat liberationem? Et quidem si sciens heres indebitum cavit, repetere non potest. Quid deinde, si ignoravit remissam sibi satisdationem? Potest condicere. Si vero hoc non potuisse remitti crediderit, numquid condicere possit qui ius ignoravit? Adhuc tamen benigne quis dixerit satisdationem condici posse. Quid deinde, si commissa sit stipulatio, fideiussores putamus exceptione uti posse an non? Et magis est, ut utantur exceptione, quia ex ea causa intercessit satisdatio, ex qua non debuit.
+
+1. Non exigit praetor, ut per heredem stet, quo minus caveat, sed contentus fuit per legatarium vel fideicommissarium non stare, quo minus ei caveatur. Quare si non fuerit, qui interpelletur cautionis nomine, hoc est is a quo legatum fideive commissum relictum est, omnimodo poterit legatarius et fideicommissarius in possessionem ex hoc edicto mitti, quia verum est per eum, cui caveri oportebit, non fieri, quo minus caveatur. Non tamen et satisdatio debet offerri legatario, sed sufficit, sive desideravit et non cavetur, sive non habeat, a quo satis desideret.
+
+2. Si debitori liberatio sit relicta, non est exigenda cautio, quia habet penes se legatum: quippe, si conveniatur, exceptione doli mali uti possit ei cui legatum solutum est.
+
+3. Cum constet legatum non deberi, divus pius ad aemilium equestrem rescripsit non debere praetorem satisdationem admittere.
+
+4. Tunc ante aditam hereditatem satisdandum de legatis est, cum adhuc dubium est, an hereditas adeatur. Ceterum si certum sit repudiatam vel omissam hereditatem vel abstentos necessarios heredes, frustra hoc edictum imploratur, cum certum sit legatum vel fideicommissum non deberi.
+
+36.4.2
+
+Ulpianus libro 79 ad edictum
+
+Si autem certum sit hereditatem necdum aditam fuisse, nec satisdatio nec possessio locum habet.
+
+36.4.3
+
+Ulpianus libro 52 ad edictum
+
+pr. Si is, a quo satis petitur, offerat cognitionem et dicat: "hodie constet de fideicommisso, hodie agamus", dicendum est cessare satisdationem, cum possit ante de fideicommisso quam de satisdatione constare.
+
+1. Nec non illa cognitio imploranda erit ab herede, si forte dicatur per calumniam satis peti: hoc enim commune est omnium satisdationum. Divus enim Pius rescripsit eum, apud quem satis petitur, debere explorare, num per calumniam satis petatur: de qua re summatim debet cognoscere.
+
+2. Si procurator satis legatorum desideret, si quidem mandatum ei sit, non habebit necesse de rato cavere, sed erit ei satisdandum: si vero dubitetur, an mandatum sit vel non sit, de rato cautio erit exigenda.
+
+3. Si semel fuerit satisdatum, quaesitum est, an etiam rursus cavendum sit, si forte dicatur egenos fideiussores esse datos. Et magis est, ut caveri non debeat: hoc enim divus Pius rescripsit Pacuviae Licinianae: ipsam enim facilitati suae expensum ferre debere, quae minus fideiussores idoneos accepit: neque enim oportet per singula momenta onerari eum, a quo satis petitur.
+
+36.4.4
+
+Papinianus libro 28 quaestionum
+
+Plane si nova causa allegetur, veluti quod fideiussor decesserit aut etiam rem familiarem inopinato fortunae impetu amiserit, aequum erit praestari cautionem.
+
+36.4.5
+
+Ulpianus libro 52 ad edictum
+
+pr. Is cui legatorum fideive commissorum nomine non cavetur missus in possessionem nunquam pro domino esse incipit. Nec tam possessio rerum ei quam custodia datur: neque enim expellendi heredem ius habet, sed simul cum eo possidere iubetur, ut saltem taedio perpetuae custodiae extorqueat heredi cautionem.
+
+1. Si alius damni infecti nomine missus sit in possessionem, alius legatorum servandorum causa, posse eum, qui legatorum servandorum causa in possessionem missus est, etiam damni infecti satisdare: qui si satisdederit, non aliter decedere possessione debebit, quam ei cautum fuerit etiam eo nomine, quod se damni infecti obligavit.
+
+2. Si plures legatarii mitti in possessionem desideraverint, omnes venire debent in possessionem: is enim qui ex causa legatorum possidet sibi, non alii possidet. Alia est causa, cum creditores rei servandae causa mittuntur in possessionem: nam is qui possidet non sibi, sed omnibus possidet.
+
+3. Qui prior missus est legatarius in possessionem, non praefertur ei qui postea mittitur: inter legatarios enim nullum ordinem observamus, sed simul omnes aequaliter tuemur.
+
+4. Postquam rei servandae creditores possidere coeperunt, legatorum servandorum gratia missus in possessionem creditoribus potior non habebitur.
+
+5. Qui in possessionem legatorum servandorum causa mittitur, in possessionem quidem rerum hereditariarum omnimodo veniet, hoc est earum quae in causa hereditaria manent: earum autem, quae in causa hereditaria non erunt, non alias mittitur, quam si dolo malo in ea causa esse desierint, nec semper, sed causa cognita.
+
+6. "Bonorum" autem appellatione hae res comprehensae videbuntur, quarum proprietas ad heredem pertinet.
+
+7. Sed et si vectigales agri sunt et si qua pignora testatori data, in eorum quoque mittetur possessionem.
+
+8. Sed et in partus ancillarum et fetus pecorum, item fructus aeque omni modo legatarius et fideicommissarius mittentur.
+
+9. Sed et si rem alienam defunctus bona fide emerit, in possessionem eius mittendum legatarium constat: nam et haec res in causa hereditaria est.
+
+10. Si deposita res apud defunctum fuerit vel commodata, locum missio non habet, quia non sunt istae res hereditariae.
+
+11. Si ex duobus heredibus alter satisdare sit paratus, alter non, in partem eius missio locum utique habere debet. Missi itaque legatarii impedient etiam eum, qui satisdedit, rei administratione: quare suadendum erit heredi, ut in assem satisdet, ne administratio eius impediatur.
+
+12. Si ab impuberis substituto legata sint relicta et impubes decesserit, missio non solum in ea bona, quae testatoris fuerunt, verum ad ea quoque, quae impubes adquisiit, locum habebit: nam haec quoque hereditaria sunt: vivo autem impubere neque missio neque satisdatio locum habet.
+
+13. Si heres non sit, a quo fideicommissum relictum est, sed alterius nominis successor, dicendum est, ut edicto locus sit et dolus eius sit aestimandus.
+
+14. Sed et si heredis heres sit, qui dolo fecit, aeque nocere debebit.
+
+15. Dolum accipere debemus et culpam latam, sed non omnem dolum, sed qui in necem legatariorum et fideicommissariorum factus est.
+
+16. Imperator Antoninus Augustus rescripsit certis ex causis etiam in propria bona heredis legatarios et fideicommissarios esse mittendos, si post sex menses, quam aditi pro tribunali fuerint hi quorum de ea re notio est, in satisfactione cessatum est, inde fructus percepturos, quoad voluntati defunctorum satisfiat. Quod remedium servaretur et adversus eos, qui ex qua causa fideicommisso moram faciunt.
+
+17. Satisfactionis verbum licet latius patet, tamen ad exsolvendum legatum refertur.
+
+18. Proinde et si remissa sit satisdatio, rescriptum locum habebit, quia mora fit solutioni.
+
+19. Sex autem mensum puto continuum tempus, non possessionum computandum.
+
+20. Cessatum non accipimus, si pupillus tutorem non habeat nec curatorem furiosus vel adulescens: nam frustratio non debet huiusmodi personis nocere, quae sunt indefensae. Certe si hereditas iacuerit aliquo tempore, hoc tempus de medio detrahendum est.
+
+21. Quaeri poterit, an in vicem usurarum hi fructus cedant, quae in fideicommissis debentur. Et cum exemplum pignorum sequimur, id quod ex fructibus percipitur primum in usuras, mox, si quid superfluum est, in sortem debet imputari: quin immo et si amplius quam sibi debetur perceperit legatarius, exemplo pigneraticiae actionis etiam utilis actio ad id refundendum dari debebit. Sed pignora quidem quis et distrahere potest, hic autem frui tantum ei constitutio permisit, ut festinetur ad sententiam.
+
+22. Qui legatorum servandorum causa in possessionem mittitur, et fructus custodire et cetera debebit. Et pati quidem heredem colere agros et fructus redigere, sed custodire legatarium fructus oportebit, ne ab herede consumantur: quod si heres fructus nolit cogere, permittendum erit legatario cogere fructus et coactos servare. Quin immo si tales sint fructus, quos primo quoque tempore venire expediat, vendere quoque legatario permittendum est et pretium servare. In ceteris quoque rebus hereditariis missi in possessionem hoc erit officium, ut universas res hereditarias colligat et ibi custodiat, ubi domicilium defunctus habuit, et, si nulla domus sit, habitationem conducat vel horreum quoddam, in quo res collectae custodiantur. Et puto ita legatarium custodire res hereditarias debere, ut neque heredi auferantur neque depereant deterioresve fiant.
+
+23. Quod si ex constitutione quis in possessionem mittatur, curandum est, ne vis fiat utenti et fruenti legatario.
+
+24. Satisfieri voluntati defuncti sic accipitur, quoad voluntati defuncti vel ex fructibus vel aliunde satisfiat.
+
+25. Constitutio autem divi Antonini pertinet ad eos, a quibus utiliter fideicommissum relictum est, quamvis heredes non sint: par enim utilitas est.
+
+26. In possessionem missus legatorum servandorum causa si litem eo nomine contestatus sit, non ante decedere possessione debet, quam ei pro lite fuerit cautum.
+
+27. Missus in possessionem si non admittatur, habet interdictum propositum: aut per viatorem aut per officialem praefecti aut per magistratus introducendus est in possessionem.
+
+28. Missio autem locum habebit non tantum, si quis id ipsum, quod legatum est, rogatus sit, verum etiam si quid vel ex eo vel pro eo restituere fuerit rogatus.
+
+29. Si Titio pure legatum fuerit et eius fidei commissum sub condicione, ut Sempronio restitueret, non inique praetorem statuturum Iulianus scripsit, si, antequam legatum consequatur legatarius, fideicommissi condicionalis satis non det, ut magis Sempronio det legati persecutionem, ut is legatario satisdet deficiente condicione reddi decem. Sed et si acceperit Titius ab herede decem, aequum esse Iulianus ait cogi eum invicem satisdare aut ipsa decem tradere et Sempronium Titio cavere: et hoc iure utimur, id enim et Marcellus ait.
+
+30. Quid ergo, si et legatum sub condicione sit relictum et fideicommissum, neque fideicommissi satisdetur? Aequissimum erit fideicommissarium nomine legati satis accipere ab herede, si ei legatarius non caveat, scilicet ut et ipse legatario caveat. Quod si iam accepit legatarius ab herede satis, decernendum erit ex ea satisdatione magis fideicommissario quam legatario dandam actionem, in eum scilicet casum, quod fideicommissi eius condicio extitit: ipsius etiam legati persecutio danda erit fideicommissario, si nondum solutum est et condicio eius extitit, scilicet si fuerit fideicommissarius paratus cavere legatario.
+
+36.4.6
+
+Iulianus libro 38 digestorum
+
+pr. Si pecuniae numeratae usus fructus legatus esset et in testamento cautum, ne eo nomine satis daretur, proprietas non est legata, sed legatario permittendum satisdare et usum fructum pecuniae habere: et propemodum in hac propositione nullae praetoris erunt partes, quia, nisi satisdetur, agi cum herede non poterit.
+
+1. Qui fideicommissi servandi causa in possessionem missus est, non prius de possessione decedere debet, quam ei fideicommissum solutum aut eo nomine satisdatum fuerit: nam quod si integra re fieret, in possessionem non mitteretur, id cum offeretur, discedere a possessione debet.
+
+36.4.7
+
+Marcianus libro tertio regularum
+
+Dum venter in possessionem est, nullus legatorum servandorum causa in possessionem esse potest.
+
+36.4.8
+
+Papinianus libro sexto quaestionum
+
+Si legatorum satis non datur, restituta hereditate in earum quoque rerum possessionem legatarius mittendus erit, quae dolo malo eius, cui restituta est hereditas, in hereditaria causa desierunt.
+
+36.4.9
+
+Papinianus libro 19 quaestionum
+
+pr. Etiam si condemnatus heres fuerit nec pecuniam solvat, legatarius potest desiderare mitti in possessionem.
+
+1. Cum sub condicionibus contrariis eadem res duobus legetur, si non caveatur, uterque mittitur in possessionem.
+
+36.4.10
+
+Paulus libro tertio sententiarum
+
+Si nullae sint res hereditariae, in quas legatarii vel fideicommissarii mittantur, in rem quidem heredis mitti non possunt, sed per praetorem denegatas heredi actiones ipsi persequuntur.
+
+36.4.11
+
+Hermogenianus libro quarto iuris epitomarum
+
+pr. Si fideicommissorum vel legatorum servandorum causa missus in possessionem eam rem teneas, quae mihi per fideicommissum relicta esset, aequius est me eam habere, cui ea ipsa relicta est, quam te, qui alterius fideicommissi nomine ingressus in eam esses. Nam et si mihi sub condicione legatum est et tu medio tempore in possessionem eius factus fueris legatorum servandorum causa, deinde condicio impleta esset, non denegabitur mihi eius rei integra persecutio. Sic enim et si statuliberum ex eadem causa possidere coepisset, impleta condicione iustam libertatem eius impedire non potest.
+
+1. Si rei servandae causa in possessionem missus esset proprius creditor heredis et rei per fideicommissum mihi relictae adeptus fuerit, nihil me per eum laedi oportere convenit, non magis quam si ab ipso herede eam rem pignori accepisset.
+
+36.4.12
+
+Maecenatus libro 12 fideicommissorum
+
+Municipiis fideicommissum relinqui posse dubium non est. Sed si non caveatur, adversus municipes quidem non dubitavimus ex hoc edicto iri in possessionem posse: ipsos vero municipes, si his non caveatur, non idem adsecuturos: sed extraordinario remedio opus erit, videlicet ut decreto praetoris actor eorum in possessionem mittatur.
+
+36.4.13
+
+Callistratus libro tertio edicti monitorii
+
+Quamvis minima res legata sit vel per fideicommissum relicta, tamen, si non solvatur ab herede vel eo nomine caveatur, cum caveri oporteat, in possessionem omnium bonorum, quae ex ea hereditate sunt, legatarium sive fideicommissarium praetor legatorum servandorum causa mittit.
+
+36.4.14
+
+Labeo libro secundo posteriorum a Iavoleno epitomatorum
+
+Quae legatorum servandorum causa in bonis est, in causa vescendi deminuet, si filia neptis proneptis uxorve esset nec nupta sit nec suum quicquam habeat.
+
+36.4.15
+
+Valens libro septimo actionum
+
+Interdum licet dolo malo fecerit heres, quo minus res in causa hereditaria maneant, non poterit in possessionem earum legatarius mitti, veluti si locum religiosum fecerit aut quid publice consecraverit permissu scilicet imperatoris aut aliquem non in fraudem creditoris manumiserit.
+
+36.4.16
+
+........
+
+. . . . . . . . . . Si Titius servum Maevio legat sub condicione et eidem servo Sempronius sub condicione legat, pendente condicione utraque ab herede Sempronii tam Titii heres quam Maevius iure satisdationem postulant.
+
+36.4.17
+
+..........
+
+. . . . . . . . . . Si filio qui in potestate est a patre herede instituto legata data sunt, ad satisdationem pater a filio compelli non potest: sed si male administrat, curator constituendus est rerum filio relictarum ita, ut reditus earum utrique praestet: aut si pecuniae summa legata est, princeps adeundus est.

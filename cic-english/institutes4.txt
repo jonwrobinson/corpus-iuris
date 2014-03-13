@@ -1,0 +1,2340 @@
+THE ENACTMENTS OF JUSTINIAN. BOOK IV.
+
+TITLE I. CONCERNING OBLIGATIONS ARISING FROM CRIME.
+
+Since it has been explained in the preceding Book what obligations
+arising from contracts and quasi-contracts are, We have next to examine
+obligations growing out of crime. The former, however, as We stated in
+its place, are divided into four classes; but the latter are included in
+only one class, for they all arise from an act, that is to say from the
+crime itself, for instance, from theft, robbery, damage, or injury.
+
+\(1) Theft is the fraudulent handling of property, whether of the
+article itself or the use or possession of the same, and to commit it is
+prohibited by natural law.
+
+\(2) The term *furtum* is either derived from *furvus*, that is to say,
+black, because it is committed secretly and obscurely, and usually by
+night; or from *fraus;* or from *ferendo*, that is carrying away; or
+from a Greek word, as the Greeks call thieves fwreV and they also say
+that the term fwreV comes from fereiu**.
+
+\(3) There are two kinds of theft, namely: manifest and non-manifest;
+for *conceptum* and *oblatum* are rather certain kinds of action
+relating to theft than species of theft, as will appear later. A
+manifest thief is one whom the Greeks designate: ep autofwrw and means
+not only
+
+he who is caught in the very act of theft, but also he who is caught in
+the place where it is perpetrated; as, for example where one who has
+committed a theft in a house and is taken before he has yet issued from
+the door; or he who has committed a theft of olives in an olive orchard,
+or of the grapes in a vineyard, provided he be caught in the said olive
+orchard or vineyard.
+
+Moreover, manifest theft should further include a case where the thief
+has been seen or arrested with the stolen property in his possession,
+either in a public or private place, and either by the owner or by some
+other party, before he has arrived at the point where he intended to
+carry and deposit the article; but where he has carried it as he
+intended, even though he may be arrested with it in his possession, he
+is not a manifest thief. What non-manifest theft signifies may be
+understood from what We have said; for theft that is not manifest is
+evidently non-manifest.
+
+\(4) A theft is styled *conceptum* when the stolen property is sought
+for and found in the possession of anyone in the presence of witnesses;
+for a certain kind of suit called *actio concepti* lies against him,
+even though he may not be the thief. A theft is called *oblatum,*, when
+the stolen property has been brought to you and is found in your
+possession, if the party who gave it to you did so with the intention
+that it should be found on your premises rather than on those of him who
+brought it, for a proceeding called *actio oblati* has been provided in
+your favor against him who brought you the property, even if he was not
+the thief.
+
+There is also an *actio prohibiti furti* which lies against him who
+resists anyone desirous of searching for stolen property in the presence
+of witnesses. Moreover, a penalty is prescribed by the Edict of the
+Prætor through an *actio furti non exhibiti* against a party who did not
+produce property which was sought for and found in his possession. These
+actions, however, that is to say *concepti, oblati, furti, prohibiti*
+and *furti non exhibiti*, have fallen into disuse; for as the search for
+stolen property is not conducted at present in accordance with the
+ancient method, the aforesaid actions are in consequence no longer
+generally made use of; since it is very evident that all who knowingly
+receive stolen property and conceal it are liable for non-manifest
+theft.
+
+\(5) The penalty for manifest theft is fourfold, whether the culprit be
+a slave or a freeman; that for non-manifest theft is double.^1^
+
+^1^ The extremely slow development of the public prosecution of criminal
+offenses is one of the most remarkable facts in the history of Roman
+jurisprudence. It was not known to the legislation of the Republic. The
+first instance of the recognition of the principle that he who wilfully
+violates the rights of another, to his serious personal injury, is
+guilty of a public wrong, and is accountable to the State, is found in
+the laws enacted by Sylla, eighty-one years before the Christian Era.
+The old idea was that crimes, like robbery, theft, and rape, should be
+the subject of personal actions, and were a matter of concern only to
+the individuals directly involved and their families. This was an
+outgrowth of the rule that almost any offense, no matter how flagrant,
+might be condoned by the payment of a specific sum of money, which
+during the infancy of society had been preceded by the *Lex Talionis*.
+The atrocious doctrine of "an eye for an eye and a tooth for a tooth" is
+prominently set forth in the Laws of the Twelve Tables, and was rigidly
+
+\(6) A theft takes place not only when anyone removes the property of
+another for the sake of appropriating it, but, generally speaking, when
+anyone handles another's property against the consent of the owner.
+Therefore, whether a creditor makes use of a pledge, or a depositary of
+property left with him, or whether he who received an article to be
+used, employs it for some other purposes than that for which it was
+given, he commits a theft; for instance, if anyone has received silver
+to be used where friends are invited to supper, and takes it away with
+him out of town; or where anyone to whom a horse has been lent for the
+purpose of taking a ride, removes it to a greater distance; and the
+example which the ancients mentioned in this case was that of one who
+took the horse into battle.
+
+\(7) It has been established, however, that they who use property which
+has been borrowed for other purposes than those for which they receive
+it commit a theft, when they know that they are doing this contrary to
+the will of the owner, and that if he were aware of the act he should
+not permit it; and if they believe that he would permit it they are not
+guilty of the crime; and the distinction is certainly an excellent one,
+as theft is not committed without the intention of stealing.
+
+\(8) And if anyone believes that he is making use of property loaned to
+him against the will of the owner, but in fact it is done with the
+consent of the latter, it is said that no theft is committed. Wherefore,
+it has been asked; when Titius solicited a slave of Mævius to steal
+certain property from his master and bring it to him, and the slave
+acquainted Mævius with this; and Mævius, desiring to catch Titius in the
+act, permitted the said slave to take certain property to him; whether
+Titius is liable in an action for theft, or in an action for the
+corruption of a slave, or in neither of these? And as the resolution of
+this doubt has been submitted to Us, and We have examined the arguments
+of the ancient lawyers on this point, (some of whom hold that
+
+enforced for centuries. Malicious intent was an essential ingredient of
+every offense for which a penal action lay; a doctrine which was
+transmitted to the juridical heirs of the Empire.
+
+The distinction between Penal and Criminal Law, the former being of much
+greater scope, was not recognized by the ancient Roman jurists, who
+confounded torts with acts involving moral turpitude. As stated above,
+the custom of private retribution was the basis of criminal procedure,
+as manifested in actions for the collection of pecuniary penalties from
+persons who had designedly interfered with, or violated the rights of
+others. The noxal action, which antedated the Twelve Tables, is a case
+in point. By this means, the injured party could exact compensation for
+the wrong by the surrender of the child or the slave responsible for it,
+in order that private revenge might be wreaked upon the person of the
+culprit, who was regarded as a mere thing, the property of the father or
+master. The right to demand the surrender originally was absolute; in
+the course of time, however, it was permitted to make restitution by the
+payment of a sum of money by way of damages. That the *noxa* has, to a
+certain degree, survived to our times is shown by the liability of the
+master for the injurious acts of his servant, a reminiscence of the
+period when all servants were slaves.
+
+The doctrine of self-redress, based upon personal revenge, and, in
+barbarous ages, afforded legal sanction by the *Lex Talionis*, is then
+the original method adopted by human society in its infancy for the
+protection of its members. The deterrent effect of modern legislation
+was only indirectly, if at all, considered in its application.  ED.
+
+neither an action for theft nor a action for corrupting a slave will
+lie, and others think that only an action of theft is proper) We,
+desiring to oppose craftiness of this kind, have determined by Our
+decision that not only the action of theft, but also that for corrupting
+a slave can be brought against the party; for although the slave may not
+have been rendered worse by his making the request of him, and therefore
+the rules which laid the foundation for the action for corrupting a
+slave may not be entirely applicable; nevertheless, the advice of the
+corrupting party contributed to the destruction of the honesty of the
+slave, so that he is liable to the penal action just as if the slave had
+been actually corrupted; to the end that such a wicked act may not be
+attempted by anyone against some other slave who might be corrupted as a
+result of impunity under such circumstances.
+
+\(9) Sometimes theft of even freemen can be committed; for example,
+where one of Our children who is under Our control is stolen.
+
+\(10) Sometimes also a party commits a theft of his own property; as,
+for instance, where a debtor clandestinely removes an article which he
+has deposited with his creditor by way of pledge.
+
+\(11) Sometimes a person is liable for theft who himself did not commit
+it; of such a description is he by whose assistance and advice a theft
+has been committed; and in this class is comprehended one who knocked
+money out of your hand that another might carry it away; or hindered you
+so that another might remove your property; or dispersed your sheep or
+oxen, that another might take them; and the example given by ancient
+writers was that of a party who put a drove of cattle to flight by the
+use of a red cloth. Where any of these things is done through mischief,
+and not in order to commit a theft, an action *in factum*^1^** ought
+to.be brought. But where Titius has perpetrated a theft with the
+assistance of Mævius, both are liable to the action for theft.
+
+Theft is also considered to have been committed by the assistance and
+advice of him who, for example, placed a ladder by a window; or broke a
+window or a door in order that another might commit a theft; or lent
+iron tools for breaking in, or a ladder to be placed at a window,
+knowing for what purpose he lent these things. It is evident that
+
+^1^ The *actio in factum*, or "action on the fact", derived its origin
+from the equitable jurisdiction of the Prætor, whose duty it was, in the
+interpretation and application of the law, rather to adhere to the broad
+principles of justice than to the circumscribed and severe rules of
+legal procedure handed down from antiquity. There were many forms of
+this action, the most important being the *Actio in factum concepta*,
+founded on a fact which did not come within the strict terms of the law
+but presented an analogy to the object for which it was enacted  the
+word *concepta *always indicating a record; the *actio in factum
+præscriptis verbis *arising out of such contracts as sale, partnership,
+hiring, etc., where no special formula was provided by the Civil Law;
+the *actio in factum contra eum, qui sine venia in jus vocavit*, or
+proceeding against one who summoned another to court without excuse; and
+the *actio in factum de re certa, *for a certain sum of money, or *cum,
+præfinitione*, when the amount to be received was not specifically
+designated.
+
+The *actio in factum* differed from the *Condictio*, or personal action,
+in that the latter was based on a contract authorized by statute, while
+the institution of the former rested in the discretion of the Prætor. 
+ED.
+
+where a party did not render aid for the commission of a theft, but
+merely gave advice, and encouragement for the perpetration thereof, he
+is not liable to the action for theft.
+
+\(12) When those under the control of parents or masters pilfer anything
+from them, they commit a theft against them, and whatever is taken
+becomes stolen property (so that it cannot on this account be held by
+usucaption before it is returned to the possession of the owner); but an
+action for theft does not lie because an action cannot arise between
+these persons for any cause whatever. But if the theft was committed by
+the assistance and advice of another, for the reason that there is no
+doubt that theft has been committed, the party is very justly liable to
+the action for theft, because it is a fact that the theft was
+perpetrated by his assistance and advice.
+
+\(13) An action for theft can be brought by him who is interested in the
+security of the property, although he may not be the owner of the same;
+and therefore an action does not lie in favor of the owner unless it is
+to his interest that the property should not be destroyed.
+
+\(14) Wherefore it is established that a creditor can bring the action
+of theft for a pledge which has been stolen, even though he may have a
+debtor who is solvent; because it is advantageous for the creditor
+rather to rely upon the pledge than upon a personal action; so that,
+even if the debtor may have removed the property, an action for theft
+will nevertheless lie in behalf of the creditor.
+
+\(15) In like manner if a fuller has received clothing to be pressed or
+cleaned, or a tailor has received it to be repaired, for a certain
+compensation, and loses the articles by theft, he, and not the owner,
+can bring an action for theft; because the owner has no interest in the
+preservation of the property as he can recover it from the fuller or
+tailor by an action of hiring. But when an article is purloined from a
+*bona fide* purchaser after he has bought it, an action of theft will
+lie just as much in his favor (although he is not the owner) as it would
+in favor of a creditor; it has, however, been decided that an action of
+theft will not lie in favor of the fuller or tailor except where they
+are solvent, that is, if they are able to pay the value of the article
+to the owner; for if they are not solvent, then for the reason that the
+owner cannot recover his property from them, an action of theft will lie
+in favor of the owner himself; because in this instance it is to his
+interest that the property should be secure; and the same rule is
+applicable where the fuller or tailor is partly solvent.
+
+\(16) What We have stated with reference to the fuller and tailor the
+ancients held should also apply to a party who had received property as
+a loan for use; for just as a fuller, by accepting compensation assumes
+responsibility for safe-keeping, so he who borrows anything for use
+likewise becomes liable for its custody. By way of precaution We have
+also corrected this by Our decisions, so that it depends upon the will
+of the owner whether he shall bring an action of loan against the party
+who borrowed the article, or one of theft against him who stole it; and,
+having chosen one of these, he cannot change his mind and bring the
+other action. If, indeed, he chooses to sue the thief, the
+
+party who received the property to be used is absolutely released from
+all liability; while if the lender proceeds against him who received the
+property for use, an action of theft can, by no means, be brought by him
+against the thief, but one can be brought against him by the party who
+has been sued on account of the article loaned.
+
+These are the proper proceedings where the master, aware that the
+article has been stolen, brings an action against him to whom it was
+lent; but if he ignorantly and being in doubt as to whether the property
+was in the possession of the borrower, institutes an action of loan, and
+afterwards, when the facts have been ascertained, wishes to abandon the
+action of loan, and have recourse to that of theft; then, permission
+shall be granted him to bring suit against the thief, and no obstacle
+shall be placed in his way; since being uncertain when he proceeded by
+an action of loan against the party who received the property to be
+used, (unless the latter had satisfied the owner; for then the thief is
+absolutely free from the action of theft, and is instead subjected to
+liability to the party who has paid the owner for the property loaned)
+and while it is perfectly evident that, even in the beginning, the owner
+instituted the action of loan while ignorant that the property had been
+stolen, still if he having afterwards ascertained this fact, has
+recourse to the thief, the party who received the property loaned is
+absolutely released from all liability, no matter what may be the result
+of the action brought by the owner against the thief; and the same rule
+applies whether he who received the property as a loan is partly or
+wholly solvent.
+
+\(17) He, however, with whom property is deposited does not guarantee
+its safe-keeping, but is only responsible for whatever he himself does
+fraudulently; for which reason if the property is stolen from him, he
+cannot bring an action of theft, because he is not bound to restore the
+property because of the deposit, and therefore is not interested in its
+being secure; but an action of theft will lie in favor of the owner.
+
+\(18) In conclusion, it must be noted that it was a question whether a
+person under puberty commits a theft by removing property belonging to
+another; and it is now settled that because theft is dependent upon the
+intention, such a person can only be liable for this crime if he had
+very nearly arrived at puberty, and for this reason is aware that he is
+committing an offence.
+
+\(19) The action of theft, whether for double or quadruple value,
+relates only to the recovery of a penalty, for the owner has, in
+addition, another proceeding for the recovery of the property itself;
+that is to say, either *vindicatio* or *condictio. Vindicatio*, however,
+must be employed against the possessor, whether he is the thief or
+someone else, while *condictio* must be brought against the thief or his
+heir, although he may not have possession of the property.
+
+TITLE II. CONCERNING ROBBERY BY VIOLENCE.
+
+He who seizes the property of another by force is also liable for theft,
+for who handles the property of another more thoroughly against the will
+of the owner than he who carries it away by force? And therefore it is
+justly said that he is an audacious thief. The Prætor, however, has
+introduced an action peculiar to this crime, which is designated *actio
+vi bonorum raptorum;* and it is fourfold the value if brought within a
+year, and for single value if brought after a year has elapsed; and this
+action is available when anyone has stolen by violence any article, no
+matter how small it may be.
+
+The fourfold value is not entirely a penalty, nor does an action lie for
+the recovery of the property in addition to the penalty, as We stated
+when treating of the action of manifest theft; but the recovery of the
+property is included in the fourfold value, so that the penalty is
+thrice the value, whether the culprit is taken in the act or not; for it
+is absurd that he who seizes property by force should be considered as
+of less importance than one who removes it secretly.
+
+\(1) However, as this action does not lie except against some one who
+has forcibly taken something with evil intent, but where a party through
+error, believing the property to be his, and ignorant of the law,
+carries it away by violence, being of the opinion that an owner is
+permitted to remove what is his own by force from those who have
+possession of the same, he should be acquitted; and, for the same
+reason, it is proper that he should not be liable for theft who took the
+property away by force while holding this belief.
+
+But, lest by employing such pretexts means may be invented by which
+robbers can indulge their avaricious propensities with impunity, it has
+been judiciously provided with reference to this by certain
+constitutions of the Emperors, that no one shall be permitted to take
+away by force any property which is movable or which can move itself,
+even though he thinks that it is his; and if anyone acts contrary to
+these laws he shall forfeit the ownership of the property if it belongs
+to him, but if it belongs to someone else, he must pay the value of said
+property after having made restitution of the same. This principle the
+said constitutions have not only stated are applicable to movable
+articles which can be forcibly taken away, but also to interference with
+property belonging to the soil; so that men may for this reason refrain
+from all kinds of robbery by violence.
+
+\(2) In this action it is evidently not essential that the property
+should be part of that belonging to the plaintiff; for whether it is or
+is not a part of the same, the action can be brought, provided it was
+merely removed from among his other possessions. Wherefore, if it was
+loaned, leased, pledged, or even deposited with Titius, so that it was
+to his interest that it should not be removed; for example, if it had
+been deposited and he agreed to be liable for negligence; or if he
+possessed it in good faith; or had the usufruct in it, or any other
+right, so that it was to his interest that it should not be taken away;
+it must be held
+
+that this action will lie in his favor, not that he may recover the
+ownership of the property, but only that which was taken from among his
+possessions, that is to say from the resources of him who suffered the
+robbery.
+
+It should be stated generally that the same causes which authorize an
+action of theft on account of some clandestine act, are also sufficient
+ground for an action of this kind.
+
+TITLE III. CONCERNING THE AQUILIAN LAW.
+
+The action for damage wrongfully committed was established by the *Lex
+Aquilia*, in the first Section of which it is provided that if anyone
+has wrongfully killed the slave of another or a quadruped belonging to
+the class of cattle, he shall be condemned to pay to the owner the
+greatest amount that the said property was worth during that year.
+
+\(1) And this, moreover, does not merely refer to quadrupeds, but only
+to such as belong to the class of cattle, and signifies that we should
+not understand the provision to refer to wild beasts, or dogs, but only
+to such animals as can properly be said to pasture, such as horses,
+mules, asses, oxen, sheep, and goats. The same provision also applies to
+swine, for swine are included in the term cattle, because they pasture
+in droves, and as such, indeed, Homer mentions them in the Odyssey, as
+Ælius Marcianus states in his Institutes:
+
+"You will find him
+
+Seated beside his swine, whose pasture Is near the rock of Korax, and at
+the spring Of Arethusa."
+
+\(2) A person is understood to kill wrongfully who kills without any
+right; and therefore he who kills a robber is not liable, that is if he
+could not otherwise avoid danger.
+
+\(3) Nor is anyone liable under this law who kills by accident, provided
+he cannot be accused of negligence; for otherwise anyone is liable under
+this law not less for negligence than for malice.
+
+\(4) Therefore, if anyone while engaged in sport or practising with
+javelins should kill your slave while he is passing by, a distinction
+arises; for if this was done by a soldier while in camp, or where such
+practice ordinarily takes place, he cannot be charged with negligence;
+but if anyone else should commit such an act, he is guilty of
+negligence. The same rule applies to a soldier if he committed the act
+in any other place than that appointed for military exercises.
+
+\(5) Again, where a person who is trimming a tree by throwing down a
+branch killed your slave while he is passing by; if this was done near a
+public highway or one leading through private premises, and he did not
+give warning so that the accident might be avoided, he is guilty of
+negligence; but if he did give warning, and the slave did not take the
+trouble to be careful, he who was trimming the tree is not liable for
+negligence. A person is also understood not to be liable for
+
+negligence where he was cutting branches at a distance from the road or
+in the middle of a field, even though he did not give warning, because
+no stranger had a right to be wandering around there.
+
+\(6) Moreover, if a physician who has operated upon your slave neglects
+his treatment, and the slave dies for this reason, the physician is
+guilty of negligence.
+
+\(7) Lack of skill is also considered negligence, as for instance, where
+a physician caused the death of your slave because he operated on him
+improperly or administered medicine to him which was not suitable.
+
+\(8) Also, when your slave has been knocked down by the onset of mules
+which the muleteer could not control on account of his want of skill,
+the muleteer is guilty of negligence; but if he could not restrain them
+on account of weakness, he is equally liable for negligence, provided
+another stronger than he could have controlled them. The same rule was
+established with reference to one who either through weakness or want of
+skill was unable to control the movements of the horse which he was
+riding.
+
+\(9) The meaning contained in the following words of the law: "Of the
+greatest amount that it was worth during that year"; is that where
+anyone has killed one of your slaves who was at that time lame, blind of
+an eye, or crippled, but during the year had been sound or salable at a
+good price, the party who killed him is liable, not for what he was
+worth at the time of his death, but for the largest sum he was worth
+during the year; for which reason it has been presumed that the action
+growing out of this law is a penal one, since the party is liable not
+only for the amount of the actual damage, but sometimes for far more;
+and therefore it is held that the action does not persist as against the
+heir, which it would have done if the sum involved in the suit had not
+been greater than the damage sustained.
+
+\(10) What follows has been decided, not according to the terms of the
+law, but by its interpretation, that is, that the amount to be estimated
+not only includes the destruction of the body of the slave, in
+accordance with what We have stated, but also any damage in addition
+which you have sustained on account of the death of the slave; as, for
+instance, where a man has killed a slave of yours who had been appointed
+an heir by some one before he had entered on the estate by your order;
+for it is settled that the value of the estate which has been lost must
+also be taken into consideration. In like manner, if anyone has killed
+one of a pair of mules, or one of a team of horses, or a slave belonging
+to a band of comedians, the appraisement of the damage is not limited to
+the property which is killed, but the depreciation in value of whatever
+survives must also be computed.
+
+\(11) Where the slave of anyone is killed, the owner is at liberty to
+bring suit for damages by a private action under the *Lex Aquilia*, and
+also to prosecute the culprit for a capital offence.
+
+\(12) The Second Section of the *Lex Aquilia* is not in use at pres-
+
+ent.
+
+\(13) In the Third Section provision is made concerning every other kind
+of damage. Therefore, if anyone has wounded a slave or a quadruped
+classed under the term cattle, or wounded or killed a quadruped not
+belonging to said class, as, for instance a dog or a wild beast, the
+action must be brought under this Section. Also, with reference to all
+other animals, as well as property which is without life, where damage
+is inflicted wrongfully, suit is brought under this Section; for if
+anything is burned, broken, or dashed to pieces, the action is based
+upon this Section, although the term "broken" would be sufficient in all
+these cases, since by it is understood whatever is ruined in any way.
+Wherefore, not only articles which are burned, or dashed to pieces, but
+also such as are torn, battered, spilled, and in any way ruined and
+deteriorated, are included in this term; and in a word, it has been
+decided that if a man should mix something with the wine or oil
+belonging to another by means of which the natural goodness of the wine
+or oil is impaired, he will be liable under this Section of the law.
+
+\(14) It is also evident that as anyone is liable under the First
+Section only where a slave or a quadruped has been killed either
+maliciously or through negligence; so, under this Section, the party is
+also liable for every other kind of damage resulting from malice or
+negligence. Under this Section, however, he who caused the damage is not
+liable for the value of the property during that year, but only during
+the thirty days immediately preceding the commission of the act.
+
+\(15) And not even the term "largest sum" is added, but it has been
+justly held by Sabinus that the estimate of damage must be made just as
+if the expression "the largest sum" had been likewise inserted into this
+Section; for the Roman plebeians who enacted this law (which was
+proposed by the tribune Aquilius) were satisfied because that term was
+mentioned in the First Section of the said law.
+
+\(16) It has also been determined that if an action can be brought under
+this law only where anyone has unquestionably inflicted damage by means
+of his own body; and therefore equitable actions are usually granted
+against a party who has caused damage in some other way; for example,
+where anyone has shut up the slave or flock of another party so that it
+died from hunger; or has driven a beast of burden with such violence
+that it was ruined; or has frightened an animal so badly that it fell
+and was trampled upon; or where anyone has induced a slave belonging to
+another to climb a tree, or descend into a well, and while ascending or
+descending he was either killed, or injured in some part of his body; in
+instances of this kind an equitable action is granted against him.
+
+But where anyone has thrown down the slave of another from a bridge or a
+bank into a river and the slave was drowned because of having been
+thrown into the water, it cannot be difficult to understand that he
+caused the damage by means of his body, and therefore he is liable under
+the *Lex Aquilia*. But where the damage has not been inflicted by his
+body, or the body of the animal injured, but has happened to something
+in some other way, since neither the direct Aquilian nor an equitable
+action can be brought, it has been decided that he who is
+
+to blame is liable to an *actio in factum;* as, for instance where
+anyone influenced by pity has released the slave of another from his
+shackles in order that he might escape.
+
+TITLE IV. CONCERNING INJURIES.
+
+An injury, generally speaking, means everything that is done contrary to
+law, and particularly it sometimes signifies outrage, which is derived
+from the word *contemnere*, and is styled by the Greeks ubriV at other
+times gross negligence which the Greeks designate adikhma, and in this
+way "unlawful damage" is understood in the *Lex Aquilia;* and then again
+it denotes unfairness and injustice which the Greeks call adikia*, *for
+when a Prætor or a Judge renders a decision against anyone contrary to
+law the latter is said to have sustained an injury.
+
+\(1) Injury is committed not only when anyone is struck with the fist,
+or with a stick, or scourged; but also when insulting language is
+addressed to him in public; or when anyone's property is taken
+possession of as if he was a debtor by a party who knew that he did not
+owe him anything; or where anyone has written, composed, or published a
+paper or a poem to another's dishonor, or has maliciously caused any of
+these things to be done; or where anyone has followed a married woman,
+or a boy or girl who has not arrived at puberty; or when the modesty of
+some person is said to have been attacked; and in short, it is evident
+that injury can be committed in many other ways.
+
+\(2) Anyone suffers injury not only in his own person but also in that
+of his children who are under his control, as well as in that of his
+wife, for this opinion has generally prevailed. Therefore, if you
+inflict an injury upon the daughter of a person who is married to
+Titius, not only can an action be brought against you for injury in the
+name of the daughter, but also one in that of her father, and another in
+that of her husband as well.
+
+But, on the other hand, where the injury has been inflicted upon a
+husband, his wife cannot bring an action for injury, for it is proper
+for wives to be defended by their husbands, and not husbands by their
+wives. A father-in-law can also bring an action for injury in the name
+of his daughter-in-law when her husband in under his control.
+
+\(3) It is understood, however, that no injury can be inflicted upon
+slaves themselves, but it is considered to be inflicted upon their
+masters through them; not indeed in the same way as though children and
+wives, but only when some atrocious act is committed which seems to be
+plainly intended as an outrage against the master; as, for instance
+where anyone has whipped a slave belonging to another, and, in this case
+an action is granted. But where anyone publicly abuses a slave, or
+strikes him with his fist, no action can be brought against him by the
+master.
+
+\(4) Where an injury has been inflicted upon a slave who is the common
+property of two or more masters, it is equitable that the esti-
+
+mate of the injury should be made not in proportion to the interest
+which each master has in him, but with regard to the rank of the
+masters, because the injury is inflicted upon them.
+
+\(5) But where the usufruct in a slave belongs to Titius, and the
+ownership to Mævius, the injury is understood to be inflicted upon
+Mævius rather than upon Titius.
+
+\(6) Where, however, the injury has been inflicted upon a freeman who is
+serving you in good faith as a slave, no action will be granted you, but
+the freeman can bring suit in his own name, unless he has been beaten in
+order to inflict an outrage upon you, for then an action for injury will
+lie in your favor. Therefore, the same principle applies where a slave
+who belongs to another is serving you in good faith; so that an action
+for injury will be granted you whenever the injury has been committed
+for the purpose of affronting you.
+
+\(7) By a law of the Twelve Tables the penalty for injury was
+retaliation where a limb had been destroyed; but where a bone was broken
+pecuniary penalties were imposed in proportion to the great poverty of
+the ancients. Subsequently, however, the Prætors permitted those who had
+sustained an injury to make the estimate themselves, so that the judge
+condemns the party in the sum which he who sustained the injury
+estimates as damage, or in a smaller amount, according as it seems to
+him to be proper.
+
+The penalty fixed by the law of the Twelve Tables for injury has fallen
+into disuse, and that which the Prætors introduced, and which is
+designated "honorary", is imposed in lawsuits, for the estimate of the
+injury is increased or diminished in proportion to the dignity and
+honorable position in life of the person injured; and this scale adopted
+in condemnation is not unreasonably observed even with reference to
+anyone in a servile condition; so that one amount is fixed where the
+slave is a steward, another where he has employment of less importance,
+and still another where he is of the lowest rank and held in chains.
+
+\(8) The *Lex Cornelia* mentions injuries, and introduced an action for
+them which lies when a person alleges that he has been beaten or
+scourged, or that his house has been entered by force. We understand the
+term "house" to refer either to that which belongs to anyone and in
+which he resides, or to one that he has leased, or to one in which he
+has been received gratuitously or in the capacity of a guest.
+
+\(9) An injury is deemed atrocious either from the act itself, as, for
+instance, where anyone has been wounded or beaten with rods; or on
+account of the place where the injury was committed, as in a theatre or
+a forum, or in the presence of the Prætor; or on account of the position
+of the person, for example where a magistrate sustained an injury, or
+where an injury has been done to a senator by an individual of inferior
+station, or to a parent or a patron by his children or freedmen (for an
+injury to a senator, a parent, or a patron, is estimated in a different
+way from that inflicted upon a stranger and a person of inferior rank);
+and sometimes the location of the wound makes the injury atrocious, for
+instance where a man is struck in the
+
+eye; and it makes little difference whether an injury of this kind is
+inflicted on the father of a family or the son of a family, for even in
+the latter case it is considered an atrocious act.
+
+\(10) In conclusion it must be noted that the party who sustains the
+injury can, in every instance, proceed either criminally or civilly. If
+he proceeds civilly, a penalty is imposed after an estimate has been
+made, in accordance with what has already been stated; but if he
+proceeds criminally, an extraordinary penalty is inflicted upon the
+culprit by the judge in the discharge of the duty of his office. The
+rule which a Constitution of Zeno introduced must, however, be observed,
+namely; that men who are illustrious in rank and all who are above them
+may either prosecute or defend a criminal action for injury by means of
+an agent in accordance with the tenor of the same, as will appear more
+clearly from the terms of the Constitution itself.
+
+\(11) Not only is the person liable to a suit for injury who actually
+perpetrated it, that is to say, he who struck the blow; but he also is
+liable who maliciously acted or contrived so that the cheek of the party
+received the blow with the fist.
+
+\(12) This action is barred by concealment, and therefore if anyone
+abandons an injury, that is to say, does not manifest resentment as soon
+as he sustains it, he cannot, subsequently, by changing his mind revive
+what he has already forgiven.
+
+TITLE V.
+
+CONCERNING OBLIGATIONS WHICH ARISE FROM A QUASI-CRIME.
+
+If a judge makes a case his own, he is not, strictly speaking, liable as
+for an unlawful act; but as he is also not liable upon a contract, and
+it is evident that he has been guilty of a fault, although through
+imprudence, it would seem that he is liable for a quasi-crime, and
+should be condemned to pay such a penalty as appears to be equitable to
+the moral sense of him who decides the case.
+
+\(1) In like manner he from whose bedchamber, whether it is his own or
+has been rented, or is one in which he was living without payment,
+anything has been thrown down or poured out in such a way as to injure
+someone, is understood to be responsible for a quasi-crime; for he
+cannot, strictly speaking, be held liable for a crime, since in most
+instances, he is bound for the negligence of another either as a slave
+or a freeman.
+
+The case is similar where he who has something so placed or suspended
+over a road used for ordinary traffic, that if it falls down would
+injure someone, in which event a fine of ten *aurei* has been
+established; but where it fell down, or was poured out, action for
+double the amount of the damage caused will lie. For the death of a
+freeman a fine of fifty *aurei *is prescribed; if however, he lives, and
+it is proved that he was injured, a right of action exists for whatever
+amount seems to the judge to be equitable; and the latter must also
+calculate the fees
+
+paid to physicians and other expenses incurred in the cure, as well as
+the value of the labor which the party has lost or will lose on account
+of the incapacity which he suffers on this account.
+
+\(2) Where the son of a family lives separate from his father and
+something is thrown down or poured out from his room, or if he keeps
+something so placed or suspended that its fall would be dangerous;
+Julian decided that no action would lie against his father, but that it
+must be brought against the son himself; and this rule is also
+applicable where a judge under parental control has made a case his own.
+
+\(3) Likewise, the master of a ship, of an inn, or of a stable is deemed
+liable for a quasi-crime where any damage or theft is committed in the
+said ship, inn, or stable, provided the offence is not his own, but that
+of someone of those by whose labor he conducted the ship, the inn, or
+the stable; for, as the action cannot be brought against him on any
+contract, and still, to a certain extent he is guilty of negligence, and
+because he made use of the services of wicked men, it appears that he is
+liable for a quasi-crime. In these instances an *actio in factum* will
+lie, and this is granted the heir of the party injured, but cannot be
+brought against the heir of him who committed the illegal act.
+
+TITLE VI. CONCERNING ACTIONS.
+
+It remains for Us to speak of actions. An action is nothing else but the
+right of bringing suit in court for whatever is owing to us.
+
+\(1) The principal division of all actions between parties litigant
+whether before judges or arbiters for any cause whatsoever, is into two
+classes; that is to say, such as are either *in rem* or *in personam,
+*for every plaintiff either brings a suit against a party who is liable
+to him on a contract, or because of an illegal act, (in which instance
+the action is brought *in personam*, and in it the party states that his
+adversary should give him something or do something for him, or his
+allegations are made in some other way) or he brings suit against a
+party who is not liable to him personally, but against whom he
+institutes proceedings relating to certain property, and in this case
+the action granted is *in rem*. For instance, where a party has in his
+possession some corporeal property which Titius says is his, but the
+possessor says that he is the owner of the same; and if Titius in the
+pleadings alleges that the said property is his, the action is *in rem*.
+
+\(2) In like manner, if he states that he has the right of use and
+enjoyment in a tract of land, or a house, or the right of walking or
+driving over the premises of a neighbor, or of conducting water from the
+land of a neighbor, the action is *in rem*. Of the same nature is the
+action concerning an urban servitude, for example, where a party claims
+that he has the right to raise his house higher, or the right to an
+unobstructed view, or the right of causing something to project over his
+neighbor's house or to insert timbers into it.
+
+On the other hand, actions are also granted with reference to usufruct,
+and the servitudes attaching to both rustic and urban estates;
+
+so that where anyone, alleges that his adversary does not possess the
+right of use and enjoyment, or of walking or driving, or of conducting
+water, or of building to a greater height, or of an unobstructed view,
+or of projecting anything over his neighbor's premises, or of insetting
+anything into his house, these actions are also *in rem*, but they are
+negative. This kind of action is not employed in controversies in which
+corporeal property is involved; for in these cases the party who is not
+in possession brings the suit, while the possessor has no right of
+action by which he may deny that the said property belongs to the
+plaintiff. In only one instance can the party who is in possession act
+as plaintiff, as will be more conveniently set forth in Our greater
+work, the Digest.
+
+\(3) Those actions which We have mentioned and others similar to them
+derive their origin from statutory enactments, or from the Civil Law.
+Others, also, are those of which the Prætor has charge and arise from
+his jurisdiction, these are both *in rem* and *in personam*, and it is
+necessary to explain them by example. Thus, he generally permits a suit
+*in rem* to be brought in such a way that the plaintiff alleges that he
+has obtained a quasi-usucaption to which he had no such right; or on the
+other hand that a possessor states that his adversary did not acquire
+usucaption in property in which he in fact had such a right.
+
+\(4) For where any property has been transferred by a good title, as,
+for instance, on account of a sale, a donation, a dowry, or a legacy,
+and the party receiving it has not yet obtained the absolute ownership
+of the same; if he has by accident lost possession of it he has no
+direct action *in rem* for its recovery, although actions were granted
+by the Civil Law in order that anyone might assert his ownership; but
+since it was clearly oppressive that an action could not be brought in a
+case of this kind, one was introduced by the Prætor, in which he who has
+lost possession alleges that he has obtained usucaption in the property,
+and for this reason claims it as his own. This action is called
+*Publician*, for the reason that it was first published in an Edict by
+the Prætor Publicius.
+
+\(5) Again on the other hand, where anyone who is absent on public
+business or is in the power of the enemy, has acquired the right of
+usucaption in the property of one remaining in the state, then, where
+the possessor has ceased to be absent in the service of the country, the
+owner is permitted within a year to bring suit for the said property the
+usucaption having been annulled; that is, to do so by alleging that the
+possessor has not obtained perfect usucaption, and that on this account
+the property belongs to him.
+
+The Prætor concedes this kind of action to certain other parties also,
+being induced by similar sentiments of justice, as may be ascertained
+from the more extensive treatise the Digest or Pandects.
+
+\(6) Moreover, where anyone has transferred his property to another for
+the purpose of defrauding his creditors, and the latter have been placed
+in possession of said property by the decision of a magistrate, the
+creditors are authorized to set aside the transfer and bring an action
+for the property, that is to say, allege that it never was
+
+transferred and for this reason remained a part of the property of the
+
+debtor.
+
+\(7) Moreover, the Servian and quasi-Servian actions  the latter being
+also called "hypothecary" arise from the jurisdiction of the Prætor
+himself. The Servian action is one by which any person may proceed
+against the property of a tenant which is held by him in pledge for the
+rent of land; and a quasi-Servian is one by which creditors may bring
+suit for property either pledged or mortgaged. No distinction exists
+between a pledge and a mortgage, so far as the hypothecary suit is
+concerned; for where an agreement has been entered into between a debtor
+and creditor so that something may be encumbered for a debt, both of
+these are designated by this one name; but in other respects there is a
+difference, for by the term pledge, properly speaking, We mean what is
+immediately delivered to the creditor, especially if it is movable
+property; but whatever is held by mere agreement, without delivery, We
+declare is properly included by the term mortgage.
+
+\(8) The Prætor has also introduced actions *in personam *arising from
+his own jurisdiction; for example, the *actio de pecunia constituta*,
+that the *actio receptitia* seemed to resemble, which by one of Our
+Constitutions, (after any surplus provisions included in it had been
+transferred to the *actio de pecunia constituta)* has been ordered to be
+withdrawn from Our laws together with all its authority, as being
+superfluous. The Prætor has likewise introduced an action with reference
+to the *peculium* of slaves and parties under parental control, and one
+by which it is sought to be ascertained whether the plaintiff has been
+sworn, as well as several others.
+
+\(9) The *actio de pecunia constituta*, can be brought against all those
+who have agreed to make payment either in their own behalf or otherwise,
+where no stipulation has been made; for where the party has given a
+promise to him who stipulates he is liable by the Civil Law.^1^
+
+\(10) The Prætor has introduced the actions for *peculium *against the
+father and the master, because although under the strict construc-
+
+The *actio de pecunia constituta* was a subsidiary remedy granted by the
+Prætor in cases where the payment of money was promised at a certain
+time under an agreement which had been entered into by the parties
+without compliance with the formalities exacted by law. It was invented
+to meet cases which would have been valid if a stipulation had been
+made, and supplied the deficiency of a non-observance of the requisites
+of the latter verbal contract. The *constitutum* of this proceeding
+corresponded with the *pactum* of the action on stipulation, and always
+presumed the existence of some species of obligation. The validity of
+the *constitutum* was not affected if payment was made in merchandise
+instead of money, but it was essential that the amount of the
+indebtedness should be exactly discharged by whatever was given for that
+purpose, for if there was a surplus the transaction was void.
+
+The *actio receptitia* was another form of the same proceeding which was
+authorized for the accommodation of bankers, and enforced compliance
+with contracts where parties who were absent had promised others, also
+absent, to settle a debt at a specified time, or place; an agreement
+which under the rules governing stipulations was invalid.
+
+Both the *actio de pecunia constituta* and the *actio receptitia *were
+strictly prætorian or equitable actions, and entirely unknown to the
+Civil Law.  ED.
+
+tion of the law they are not liable for the contracts of their children
+or slaves, nevertheless, it is but just that they should be condemned in
+the amount of the *peculium*, as this is, as it were, the patrimony of
+sons and daughters and of slaves as well.
+
+\(11) Moreover, where anyone on a demand of his adversary swears that
+the money for which he has brought suit is owing to him and has not been
+paid; the Prætor most properly grants him an action in which it is to be
+ascertained, not whether the money is owing to him, but whether he has
+made oath.
+
+\(12) He has also introduced a great many penal actions arising from his
+jurisdiction, for example, against him who has damaged any portion of
+his *album;* and against him who has brought his patron or his father
+into court without previously obtaining permission to do so; and also
+against him who has rescued a party by violence who had been called into
+court, or by whose artifice another had rescued him; as well as in
+innumerable other cases.
+
+\(13) Prejudicial actions would appear to be *in rem*, such as those by
+which inquiry is made whether anyone is a freeman or a freedman, or
+concerning the acknowledgment of parentage; and among these that one
+alone is founded upon the Civil Law by which inquiry is made whether a
+certain party is free, while the others derive their origin from the
+jurisdiction of the Prætor** himself.
+
+\(14) Actions having therefore been distinguished in this manner, it is
+evident that a plaintiff cannot demand his property from another party
+by the words: "If it appears that he should give it"; for no obligation
+exists to give what belongs to the plaintiff, because, in a word, that
+is understood to be given to anyone which is bestowed in such a manner
+that it becomes his own; nor can anything which already belongs to the
+plaintiff be made his any more than it actually is. Nevertheless,
+through hatred of thieves, and that they may be liable to a greater
+number of actions, it has been established that in addition to the
+penalty of double or quadruple the value, thieves may, for the purpose
+of recovering the property be rendered liable to an action worded as
+follows: "If it appears that they should give it"; although an action
+*in rem* by means of which a party may bring suit for property alleging
+that it belongs to him can also be brought against them.
+
+\(15) We designate actions *in rem "vindicationes*", while we call
+actions *in personam*, in which it is stated that our adversary should
+give us something or do something for us, "*condictiones*". For in the
+language of former times *condicere* meant *denumtiare;* but now we
+improperly refer to a *condictio* as an action *in personam* by which
+the plaintiff alleges that something ought to be given to him; for at
+present there is no *denuntiatio*^1^** known by that name.
+
+\(16) The next division is, that certain actions are available for the
+purpose of recovering some particular property, others to obtain a
+penalty, and others again are mixed.
+
+^1^ *Vindicationes*, suits for the recovery of property. *Denuntiatio*,
+notice to appear in court.  ED.
+
+\(17) All actions *in rem* can be brought for the purpose of recovering
+some particular property. Likewise, nearly all of those actions which
+are *in personam*, which originate from a contract, appear to be
+available for the purpose of obtaining some particular thing; for
+example, those in which the plaintiff sues for money loaned or mentioned
+in a stipulation, as well as suits on account of a loan, a deposit, a
+mandate, a partnership, a sale and a lease. It is evident that where an
+action of deposit is brought on the ground that the property was
+deposited because of a tumult, a fire, the ruin of a building, or a
+shipwreck; the Prætor authorizes an action for double the value,
+provided it is brought against him with whom the article was deposited,
+or against his heir, by reason of fraud committed by him; in which
+instance the action is mixed.
+
+\(18) Some actions available in the case of unlawful acts are instituted
+solely in order to obtain a penalty, others for the purpose of obtaining
+a penalty and the property, and for this reason they are mixed. A party
+brings a suit for a penalty only in an action of theft; for whether it
+is one of manifest theft for fourfold the value, or of non-manifest
+theft for double the value, it is brought for the penalty alone, as the
+party sues for the property itself by a separate action, that is to say
+by demanding it as his, whether the thief himself or anyone else has it
+in his possession; and, moreover, a *condictio* also lies against the
+thief.
+
+\(19) An action for property taken away by force is mixed, because the
+recovery of the property is included in the fourfold value, hence the
+penalty is threefold. The action for damages under the *Lex Aquilia* is
+mixed, not only where it is brought for double the value against the
+defendant, but sometimes where a party brings suit for the simple value;
+as, for instance, where anyone has killed a slave who is lame, or
+one-eyed, but who during the preceding year was sound, and of great
+value; for then the party is condemned in the largest amount that the
+slave was worth during the year, according to the division
+
+already stated.
+
+Moreover, an action is mixed when brought against those who have delayed
+delivering property left as a legacy or trust to consecrated churches,
+or other venerated places, so long that they have to be brought into
+court; for then they are compelled to surrender either the property
+itself or the money which was bequeathed, and an equal sum also by way
+of penalty, and therefore the condemnation of the party is for double
+the amount.
+
+\(20) Certain other actions appear to be of a mixed nature being *in
+rem* as well as *in personam*, and to these belong the action for
+partition, which is available to co-heirs in order to divide an estate;
+as well as the action for the division of common property granted to
+those holding property in joint ownership that it may be divided; and
+the action for the establishment of boundaries brought between those who
+have adjoining lands. In these three actions the judge is permitted to
+adjudicate the property in question to either of the litigants in
+accordance with what is fair and just, and where the share of one of
+them
+
+seems to *be* too large to condemn him to pay to the other a certain sum
+of money as an equivalent.
+
+\(21) All actions are framed to obtain either single, double, or triple
+value, but no action extends beyond these.
+
+\(22) Suits are brought for single damages, for instance, such as grow
+out of a stipulation, a loan, a sale, a lease, a mandate, and indeed out
+of many other transactions.
+
+\(23) We bring suit for twofold the amount, for example, in a case of
+non-manifest theft, of wrongful injury based upon the *Lex Aquilia*, and
+of deposit in certain instances. Moreover, a suit of this kind is
+available where a slave has been corrupted, and lies against one by
+whose advice and counsel a slave belonging to another has absconded, or
+has become refractory toward his master, or has begun to live
+licentiously, or, in a word, has deteriorated in any respect; and in
+this action an estimate is made of any articles which the said slave
+took with him when he ran away; and also where property has been left as
+a legacy to sacred places, as We stated above.
+
+\(24) A demand for triple damages can be made when anyone has inserted
+into his complaint a larger amount than is true, so that for this reason
+the court attendants, that is to say the bailiffs who execute the
+process may exact a larger sum by way of fees; for then the defendant
+can recover from the plaintiff threefold the amount of the loss which he
+suffered on account of their act, so that in this triple amount is
+included the simple damage which he sustained. This rule has been
+introduced by a Constitution of Our own which is prominent in Our Code,
+on which an *actio condictitia ex lege* can undoubtedly be based.
+
+\(25) A demand for quadruple the amount may be made, for instance, in
+cases of manifest theft, and also when an act has been performed through
+fear, or where money has been paid in order that he to whom it was given
+may, for the sake of annoyance, induce a party either to perform or not
+to perform some act; and also an *actio condictitia ex lege* arises
+under Our Constitution which imposes a quadruple penalty upon those
+court attendants who extort anything from defendants contrary to the
+rule established by said Constitution.
+
+\(26) The actions for non-manifest theft and for corrupting a slave
+differ from the others concerning which We have spoken at the same time,
+in the fact that these are always for double the value; but the others,
+that is the one for wrongful injury under the *Lex Aquilia*, and
+sometimes that of deposit, are for double the amount when a denial is
+made, and single damages are granted where the party makes a confession.
+
+The action, however, which is available for the recovery of property
+bequeathed to sacred places, not only provides for double damages when a
+denial is made, but also when the heir has deferred delivery of what has
+been bequeathed until brought into court by order of Our magistrates;
+while only single damages are granted when the party admits that he is
+liable and makes payment before proceedings are taken against him by the
+order of the magistrates.
+
+\(27) Moreover, the action growing out of what has been done because of
+fear differs from the others which We have mentioned at the same time in
+this, that it is tacitly understood in its nature that he who restores
+the property to the plaintiff in compliance with the order of court
+shall be acquitted. This is not so in other cases, but each party shall
+in every instance be condemned in fourfold damages as in the action for
+manifest theft.
+
+\(28) Certain actions, moreover, are of good faith and others of strict
+right. Those of good faith are such as arise from sale, lease, business
+transacted, mandate, deposit, partnership, guardianship, loan, pledge,
+partition of an estate, division of common property, the *actio
+'præscriptis verbis* which relates to a sale at an estimated price, the
+action growing out of an exchange, and the action for an estate;
+although it was until recently uncertain whether the last should be
+included among *bonæ fidei* actions or not, still one of Our
+Constitutions has plainly declared it to be *bonæ fidei*.
+
+\(29) There was formerly an action to recover the property of a wife
+which was included among those of good faith, but as We found that the
+action arising out of a stipulation was broader in scope, We transferred
+all the regulations by which a wife's property was formerly governed,
+together with their numerous divisions, to the action arising out of a
+stipulation which was available for the purpose of recovering dowries;
+and the action to recover the property of a wife having been abolished,
+that arising from stipulation and introduced in its stead very justly
+assumed the nature of the action of good faith and becomes such, but
+only when used to recover a dowry. We have also granted the wife a
+mortgage by implication; but We think she should only be preferred to
+other hypothecary creditors when she herself, for whose sole benefit We
+have introduced this provision, brings suit for her dowry.
+
+\(30) Moreover, in actions of good faith free power appears to be
+granted the judge of estimating in accordance with the principles of
+justice and equity, how much should be paid to the plaintiff; and in
+this he has authority, (if the plaintiff should, on his part have to pay
+anything after this amount has been set off) to condemn the defendant to
+pay the remainder to him who brought the suit.
+
+In actions of strict right also, in compliance with a Rescript of the
+Emperor Marcus, set-off was also permitted when an exception on the
+ground of fraud was pleaded; but one of Our Constitutions has more
+broadly introduced those set-offs which are based upon evident justice,
+so that they diminish litigation by operation of law, whether the
+actions are real or personal, or any others whatsoever, excepting only
+the action of deposit, and where anything is opposed to this on the
+ground of set-off We have considered it to be dishonorable, lest under
+the pretence of set-off a depositor might be defrauded of the recovery
+of the property he had deposited.
+
+\(31) Moreover, We designate certain actions as "arbitrary", that is
+dependent on the discretion of the judge; and in these, unless the
+defendant satisfies the plaintiff in accordance with the discretion of
+the
+
+judge, that is unless he restores the property, or produces it, or makes
+payment, or delivers up a slave in a case involving an illegal act, he
+should have judgment rendered against him. Both real and personal
+actions of this description exist; real for instance, the Publisian, the
+Servian relating to the property of a tenant, and the quasi-Servian,
+also styled hypothecary; personal, those in which the issue to be
+determined is whether an act has been committed through fear or
+fraudulently, and also that in which suit is brought for some article
+which was promised to be delivered in a certain place.
+
+The action for the production of property^1^ also depends upon the
+discretion of the judge; for in these actions and in others similar to
+them he is permitted to make an estimate of the amount which would
+satisfy the plaintiff on just and equitable terms, dependent upon the
+nature of the property for which the action is brought.
+
+\(32) A judge under all circumstances, as far as it is possible, should
+be careful to render a judgment for a definite sum of money or for a
+certain article, although the amount involved in the action in
+undetermined.
+
+\(33) When anyone bringing a suit included more in the statement of his
+claim than he was entitled to, he lost his case, in other words the
+property; nor was complete restitution easily obtained from the Præter,
+unless he was under twenty-five years of age; for just as relief was
+ordinarily granted in other instances where a reason for it existed, so
+also was it customary to give aid to a party of this kind if he had
+failed by reason of his youth. And it is evident if there was so good a
+ground for excusable error that the most prudent man might fail, relief
+was granted, even though the party was more than twenty-five years of
+age; for instance, where anyone brought suit for an entire legacy, and
+afterwards a codicil was produced by which either a part of the legacy
+was revoked, or legacies were bequeathed to other parties which caused
+it to appear that the plaintiff had brought suit for more than
+three-fourths, since legacies were diminished to that extent by the *Lex
+Falcidia*.
+
+*A* party can bring suit for too much in four ways, in the amount, in
+time, in place, and in the nature of the article claimed. In amount, as,
+for instance, where anyone sues for twenty *aurei* instead of the ten
+which were owing to him, or where he who has an interest in property
+claims it all or too large a share of it. In time, as, for instance,
+where anyone brings an action before the appointed day or the condition
+has been complied with; for he who pays later than he should do is
+understood to pay too little, and on the same principle he who sues too
+early is considered to sue for too much. Suit can also be brought for
+too much with reference to place; as, for instance, where anyone who has
+stipulated for something to be delivered to him at a certain
+
+^1^ The Roman Prætor, as well as the English Chancellor, could, by legal
+process, compel the production in court of written instruments or
+articles required to establish the claim of a litigant; the Roman method
+was designated the *actio ad exhibendum*. the English is familiar to
+modern lawyers under the name of an equitable bill of discovery.  ED.
+
+place, brings suit for it at another without mentioning the place where
+he had agreed that the article should be delivered to him; for example,
+where a party stipulates as follows: "Do you agree to pay me at
+Ephesus?" and asserts absolutely that payment should be made to him at
+Rome. In this case he is held to have brought suit for too much, because
+the advantage which the party who promised him would have enjoyed if he
+had paid at Ephesus is lost by his unqualified statement; and therefore
+an arbitrary action is available where anyone brings suit elsewhere, in
+which the advantage that the promisor would have possessed if he had
+made payment at the place agreed upon is taken into account. This
+advantage is frequently found to be material where merchandise, for
+instance, wine, oil, and grain, which have different values in different
+localities, is concerned, and money also is not loaned at the same
+interest everywhere. When, however, anyone brings a suit at Ephesus,
+that is in the identical place where he stipulated that he should be
+paid, his action is regularly in accordance with law; and this also the
+Prætor maintains, for the reason that the advantage of payment is
+preserved for the party making the promise.
+
+He who sues for too much with reference to the nature of the property is
+considered to greatly resemble the party who sues for too much with
+reference to place; as where a person stipulated with you as follows:
+"Do you agree to give your slave Stichus or ten *aurei?*" and then
+demands one or the other, that is the slave alone or the ten *aurei*
+alone. He is understood to have brought suit for too much because in
+this kind of stipulation the party making the promise has the choice
+either of paying the money or giving the slave; and therefore he who
+alleges that the money alone or the slave alone should be given to him
+deprives his adversary of his right to make the choice, and in this way
+renders his own condition better and that of his adversary worse. For
+this reason a certain kind of action has been devised for a case of this
+description, by means of which where anyone avers that the slave Stichus
+or ten *aurei* should be given to him, he can bring suit in the same
+terms in which he made the stipulation for himself. Moreover, where
+anyone has stipulated generally for a slave and brings an action for
+Stichus specifically; or having stipulated for wine in general, brings
+one specifically for Campaman wine; or having stipulated for purple
+cloth then brings one specifically for Tyrian cloth, he is understood to
+bring suit for too much; because he takes the right of choice from his
+adversary, who by the terms of the stipulation was at liberty to give
+something else than what the action was brought for.
+
+A party is even understood to bring suit for too much although he does
+so for property of the least value; since it frequently happens that it
+is easier for him who makes the promise to furnish that which is of
+greater value.
+
+These rules were formerly in use; but afterwards the *Lex Zenoniand *and
+Our Constitution imposed certain limits upon them, and where, with
+reference to time, suit has been brought for too much, the Constitution
+of Zeno of divine memory, prescribes what course should be taken; but
+where suit has been brought for too much with reference
+
+to quantity or in any other respect, any damage which may result on this
+account is punished, as We previously stated, by a judgment of
+three-fold the amount in favor of the party against whom the excessive
+demand was made.
+
+\(34) If the plaintiff inserted in his petition less than he was
+entitled to, as, for example, where ten *aurei* were due him, and he
+alleges that he should be paid five; or where an entire tract of land
+belonged to him, but he only brought suit for half of the same; he runs
+no risk, for the judge will still condemn his adversary in the same case
+to pay the balance, in compliance with the Constitution of Zeno of
+divine memory.
+
+\(35) Where anyone states one thing instead of another in his petition,
+it is settled that he runs no risk, but when the facts are ascertained
+We permit him to correct the mistake in the same case; as for instance,
+where he who should have brought suit for the slave Stichus brought it
+for Eros; or where anyone has alleged that something was owing to him
+under a will, when in reality it was owing by reason of a stipulation.
+
+\(36) There are, moreover, certain actions by means of which we recover
+not all that is due to us, but sometimes the entire amount and sometimes
+less; for instance, where we bring suit for the *peculium* of a son or a
+slave; for if the amount of the said *peculium* is not less than what we
+are attempting to recover, the father or the master will have judgment
+rendered against him for the whole; but where the amount of the
+*peculium* is found to be less than what was claimed, the court shall
+render judgment for the full amount of its value. We shall explain in
+its proper place how this *peculium, *should be estimated.
+
+\(37) Moreover, where a married woman brings suit for the recovery of
+her dowry, it is held that her husband should be condemned as far as he
+is able to pay, that is as far as his means will allow; and, therefore,
+if his property is equal in amount to the dowry, judgment shall be
+rendered against him for the whole; but if it is less, he shall be made
+to pay as much as he can. A claim for the restitution of a dowry is
+subject to retention; on account of expenses incurred with reference to
+the property included in said dowry, for the reason that a dowry is
+diminished by operation of law because of necessary expenses, as may be
+ascertained from the more extensive Books of the Digest.
+
+\(38) When anyone brings an action against his ascendant or his patron,
+or when one partner brings suit against another in the action of
+partnership, the plaintiff can not recover more than his adversary is
+able to pay; and the rule is the same where suit was brought against
+anyone by reason of a gift bestowed by him.
+
+\(39) Set-offs made by both parties often bring it about that one of
+them receives less than he is entitled to, for according to what is just
+and equitable an account is taken of what the plaintiff should for his
+part pay with reference to the same matter, and the party against whom
+suit is brought, as has already been stated, is required to pay the
+remainder.
+
+\(40) Also, when he who has surrendered his property to his creditors
+has afterwards acquired something which yields a substantial profit, his
+creditors can again proceed against him for whatever he may be able to
+pay; for it would be inhuman for a man who had already been deprived of
+his fortune to be condemned in the entire amount.
+
+TITLE VII.
+
+CONCERNING BUSINESS TRANSACTIONS ENTERED INTO WITH A PERSON UNDER THE
+CONTROL OF ANOTHER.
+
+For the reason that We have treated above of the action which may be
+brought for the *peculium* of children of a family and of slaves, We
+must now explain more in detail the character of the said action as well
+as of others which are ordinarily granted against parents or masters in
+the name of the said persons. And because the principles are almost the
+same whether the business be transacted with slaves or with those who
+are under the control of their relatives; hence, in order to avoid a
+tedious dissertation, We shall direct Our inquiry to the relation of
+slave and master, with the understanding that the same principles will
+also apply to children and to the parents under whose control they are;
+for if there is anything special to be mentioned respecting them We
+shall explain it separately.
+
+\(1) If then any business has been transacted with a slave by the order
+of his master, the Prætor promises an action for the entire amount
+against the master; evidently because he who makes a contract of this
+kind seems to have relied upon the credit of the master.
+
+\(2) Under the same rule the Prætor promises two other actions for the
+entire amount, one of which is called "exercitorian" and the other
+"institorian". The first is available when anyone has appointed his
+slave the master of a ship, and some contract has been made with him
+concerning the transaction which he was appointed to attend to. The
+action is called exercitorian because the party to whom the daily
+profits of a ship belong is styled *exercitor*. The *actio institoria*
+is applicable where anyone has appointed his slave to have charge of a
+shop or a business of any description, and a contract has been made with
+him concerning the matters of which he has charge, and it is called
+"institorian" for the reason that persons appointed to carry on a
+business are designated *institores*. The Prætor, however, allows these
+two actions also where anyone appoints a freeman or the slave of another
+person to take charge of a ship, a shop, or any kind of business,
+evidently because the same principle of equity likewise prevails in this
+instance.
+
+\(3) The Prætor has also introduced another action which is known as
+"tributorian". For if a slave transacting business with goods which are
+a part of his own *peculium*, his master being aware of the fact, and
+any contract is entered into with him by reason of the same, the Prætor
+has established the rule that everything belonging to said merchandise
+and whatever profit accrues from it, shall be divided between
+
+the master, if anything is owing to him, and the other creditors in
+proportion to their claims. And for the reason that he entrusts the
+distribution to the master himself, if any one of the creditors makes
+complaint that what has been allotted to him is less than it should be,
+he grants to this creditor the action styled "tributorian".
+
+\(4) Moreover, an action has been introduced which has reference to the
+*peculium* and to whatever has been employed for the benefit of the
+master; so that even if the business had been transacted without the
+master's consent, nevertheless, if anything had been employed for the
+benefit of the latter he will be obliged to account for the whole of it;
+but if nothing has been employed for his benefit he will still be
+required to make payment to the extent of his *peculium*. Everything
+which a slave necessarily expends on the property of his master is
+understood to have been done for his benefit; for example, where he has
+borrowed money and with it has paid his master's creditors, or repaired
+his buildings which were falling into ruin, or purchased grain for his
+family, or bought a tract of land, or anything else that was necessary.
+Therefore, for instance, if out of ten *aurei* which your slave borrowed
+from Titius he paid five to your creditor and expended the other five in
+any other way, you should have judgment rendered against you for the
+entire amount of the last five, but for the other five only to the
+extent of the *peculium* from which it is apparent that if the entire
+ten *aurei *have been expended for your benefit, Titius can recover all
+of them; for although there is but one kind of action for the recovery
+of the *peculium *and whatever has been expended for the benefit of the
+master, it has, nevertheless, two judgments. Therefore the judge before
+whom the action is brought should previously ascertain whether anything
+has been employed for the benefit of the master, and he can only proceed
+to the estimation of the amount of the *peculium* after he has learned
+that nothing, or less than the entire amount, has been employed in this
+way.
+
+When, however, inquiry is made with reference to the amount of the
+*peculium*, anything which the slave owes to his master or to anyone
+under his control is first deducted, and the remainder is considered to
+be *peculium*. Sometimes, however, what a slave owes to a person under
+the control of his master is not deducted from the *peculium;* for
+example, when he forms a part of his own *peculium;* which signifies
+that deduction is not made from the same where the slave is indebted to
+one of his own slaves.
+
+\(5) However, there is no doubt that he who has entered into a contract
+by the order of his master and in whose behalf the institorian or
+exercitorian action will lie, can also bring the action relating to
+property employed for the benefit of the master. Still, he would be
+extremely foolish if he failed to bring the suit by means of which he
+can with the greatest ease recover the entire amount under the contract,
+and attempt the difficult undertaking of proving that the property has
+been employed for the benefit of the master, or that the slave has such
+*a* valuable *peculium* that the entire amount can be paid to him out of
+the same.
+
+Moreover, he who is entitled to the tributorian action can likewise
+bring the *actio de peculio et in rem verso;* but sometimes it is
+evidently expedient for him to bring the *tributoria actio* and at
+others the *actio de peculio et in rem verso*. It is to his advantage to
+bring the tributorian action because in doing so the condition of the
+master is not rendered preferable, that is, what is owing to him is not
+deducted, but he enjoys the same rights as the other creditors; but in
+the action on the *peculium* whatever is due to the master is first
+deducted and the latter is condemned to pay the balance to the creditor.
+
+Again, under other circumstances it may be advantageous to bring the
+*actio de peculio* for the reason that in it an account is taken of the
+entire *peculium*, and in the tributorian action it is taken only of
+what is used in business; and anyone can carry on commercial
+transactions with a third part of the *peculium*, or possibly with a
+fourth, or even with a very little, and keep the greater portion in land
+and slaves, or in money loaned at interest. Therefore anyone should
+choose either one of these actions or the other, according as it may be
+deemed expedient; but it is evident that he should bring the *actio de
+in rem verso* where he can prove that the money has been used for his
+master's benefit.
+
+\(6) What We have stated with reference to a slave and his master We
+understand to apply to a son and a daughter, a grandson and a
+granddaughter, and the father or the grandfather under whose control
+they may be.
+
+\(7) The following especially applies to the former, namely, that the
+Macedonian decree of the Senate forbids money to be loaned to those who
+are under the control of their relatives; and an action is denied to a
+creditor who makes a loan to a son or a daughter, a grandson or a
+granddaughter themselves (whether they are still under paternal control,
+or whether by the death of their ascendant or by emancipation they have
+become their own masters); or against the father or grandfather, whether
+he still has them under his control, or has emancipated them. The Senate
+established this rule for the reason that parties burdened with debts
+for borrowed money which they had squandered in luxury, often plotted
+against the lives of their relatives.
+
+\(8) In conclusion, we must observe that when a contract has been
+entered into by the order of a father or a master, or when any property
+has been used for his benefit, a personal action for recovery can be
+brought against the father or master directly, just as if the business
+had been transacted with him as principal. It is also held that he
+against whom an exercitorian or an institorian action can be brought is
+liable to a personal action for recovery, because a contract of this
+kind is also understood to be entered into by his order.
+
+TITLE VIII. CONCERNING NOXAL ACTIONS.
+
+Noxal actions have been established for the offenses of slaves, for
+instance, where they have committed theft, robbery with violence,
+damage, or injury, by means of which action the master, if he loses, is
+permitted to pay the amount of the damage or to surrender the slave who
+has caused the injury.
+
+\(1) *Noxa* is the object responsible for the damage, that is to say,
+the slave; *noxia* is the illegal act itself, as, for instance, the
+theft, damage, robbery, or injury.
+
+\(2) Permission to discharge the liability incurred through an illegal
+act by the surrender of whatever was responsible for the same is
+consonant with the highest dictates of reason; for it is unjust that the
+wickedness of slaves should be injurious to their master beyond what
+their own bodies are worth.
+
+\(3) A master who has been sued on account of his slave in an action of
+this kind is released from liability by the surrender of the slave as
+the cause of the damage, and the ownership of the latter is perpetually
+transferred from the master; but if the said slave obtains money and
+makes reparation to him to whom he has been surrendered, he will be
+manumitted with the assistance of the Prætor, even though his master may
+be unwilling.
+
+\(4) Noxal actions have been provided either by statute or by the Edict
+of the Prætor; by statute, for instance, by the action of theft under a
+law of the Twelve Tables; by a suit for wrongful damage under the *Lex
+Aquilia;* and by the Edict of the Prætor, as the actions for injuries
+and robbery with violence.
+
+\(5) Moreover, every noxal action follows the person, for if your slave
+has committed a noxal offense, the action lies against you as long as he
+is under your control; but if he should come under the control of
+another, the action at once begins to lie against the latter; or if he
+should be manumitted, he himself, becomes directly liable and the right
+of surrender for the illegal act is extinguished. On the other hand, a
+direct action may be transformed into a noxal one; for where a freeman
+has committed a wrongful act and afterwards becomes your slave  which
+We explained in the First Book may take place under certain
+circumstances  the action which formerly was direct and against the
+culprit becomes noxal and against you.
+
+\(6) Where a slave has committed a noxal offence against his master no
+cause of action arises, for no obligation can exist between a master and
+one who is under his control. Therefore, although a slave may have come
+under the control of another, or have been manumitted, no action lies
+either against himself or against the party under whose control he now
+is. For this reason where a slave belonging to another has committed a
+noxal act against you, and afterwards comes under your control, the
+right of action is extinguished, for the reason that it is brought into
+such a condition that it cannot be maintained, and
+
+therefore although the slave may pass out of your power, you cannot
+bring the suit; just as where a master has committed an offence against
+his own slave, for the latter can have no right of action against his
+master, even if he should be manumitted or alienated.
+
+\(7) The ancients permitted these principles to be applied also to sons
+and daughters under parental control. Modern social conditions, however,
+have very justly determined that this severity should be rejected, so
+that it has entirely disappeared from ordinary practice; for who would
+allow his son, and especially his daughter, to be surrendered to another
+party by way of reparation for damage; since the father would be more
+exposed to bodily suffering than the son himself, while, where daughters
+are concerned common decency excludes their surrender? Therefore it has
+been held that noxal actions can only be brought in the case of slaves,
+as we find that it is often stated by ancient commentators on the laws
+that children under parental control can themselves be sued for any
+offences which they have committed.
+
+TITLE IX.
+
+WHERE A QUADRUPED Is SAID TO HAVE CAUSED DAMAGE.
+
+A noxal action was established by a law of the Twelve Tables where
+animals destitute of reason have committed any damage in play, or
+through anger or savageness; and when such animals are surrendered as an
+equivalent for the damage, they benefit the defendant by releasing him
+from liability, for the reason that it is so stated by the Law of the
+Twelve Tables; for example, where a horse known to be vicious kicks
+anyone, or an ox which is accustomed to do so attacks anyone with his
+horns. This action is applicable where the animals are irritated
+contrary to their natural disposition, but if their ferocity is born in
+them there is no cause of action; hence where a bear escapes from his
+owner and causes damage, the latter is not liable, because he ceased to
+be the owner when the wild beast escaped. Damage of this kind is such as
+is committed without malicious intent by whatever causes it; for an
+animal cannot be said to commit a wrongful injury, since it is destitute
+of reason. These are the matters which have reference to the noxal
+action.
+
+\(1) It must, however, be noted that by the Edict of the Ædile we are
+forbidden to have a dog, a tame or a wild boar, a bear, or a lion, in
+any common highway, and if this provision is violated and any freeman is
+said to have been injured, the owner may be condemned to pay such a sum
+as appears to the judge to be just and equitable, and double the amount
+of the damage caused to property. In addition to these Ædilian actions
+one *de pauperie *will lie; for actions are concurrent, especially those
+that are penal, when they relate to the same thing, and the use of one
+never prevents the institution of another.
+
+TITLE X. CONCERNING THOSE BY WHOM WE CAN BRING SUIT.
+
+We must now remember that any man can bring a suit either in his own
+name, or in that of another. He brings one in the name of another when,
+for instance, he is acting as agent, guardian, or curator; although in
+former times it was not customary for a man to bring suit in the name of
+another, except where he was acting for the public, or in favor of
+freedom, or as a guardian. Moreover, by the *Lex Hostilia* it was
+permissible to bring an action of theft in the name of parties who were
+in the hands of the enemy, or were absent on public business, or in
+behalf of persons of either sex who were under the guardianship of those
+previously mentioned; and for the reason that it was not permitted
+either to sue or be sued in the name of another, and this resulted in no
+little inconvenience, men began to litigate by means of agents; for
+disease, age, and necessary journeys, as well as numerous other causes,
+frequently prevent men from being able to transact their own business
+personally.
+
+\(1) An agent is not appointed by any certain words, nor while the
+adverse party is present, in fact he is usually appointed without his
+knowledge; for when you permit anyone to bring or defend a suit for you,
+he is understood to be your agent.^1^
+
+\(2) It has been explained in the First Book in what way guardians and
+curators are appointed.
+
+TITLE XI. CONCERNING THE GIVING OP SECURITY.
+
+One method of giving security was established in ancient times; modern
+practice has adopted another. For formerly, where an action *in rem* was
+brought, the possessor of the property was obliged to furnish security,
+and if he was beaten and did not surrender the property itself or pay
+its appraised value, power was granted to the plaintiff to proceed
+either against him or his sureties. This species of security was styled
+*judicatum solvi;* and it is easy to understand why it was so called,
+for the party stipulated that whatever was decided by the judgment
+should be paid to him.
+
+Still more was the defendant in an action *in rem* required to give
+security if he joined issue in the name of another; but where the
+
+^1^ As previously stated, the *procurator*, or agent of the plaintiff
+who transacted his business in court, was rather an attorney in fact,
+than an attorney at law. Once made, his appointment by his principal,
+the *dominus litis*  so called because he often appeared in his own
+behalf  could not be revoked except for most cogent reasons and after
+proper cause had been shown; nor could the *procurator* relinquish the
+charge after it had once been accepted. By joining issue, the latter
+made the suit his own and assumed the liability of his principal,
+although he was theoretically only his representative. He might even
+voluntarily proceed with the management of the case, provided he
+furnished security that his principal would ratify his acts. Anyone
+physically able, and not laboring under some legal disability, could
+perform the duties of *procurator*.  ED.
+
+plaintiff in an action *in rem* brought suit in his own name he was not
+compelled to give security; although where an agent brought an action
+*in rem* he was ordered to give security that his principal would ratify
+his acts; as there was danger that the principal might himself bring
+suit again for the same thing. Guardians and curators in compliance with
+the terms of the Edict were obliged to furnish security just as agents
+did, but sometimes the obligation to furnish it was not enforced when
+they were plaintiffs. These rules were only applicable where actions *in
+rem* were brought.
+
+\(1) Where, however, the action was *in personam*, the same rules were
+available against the plaintiff that We have mentioned with reference to
+the action *in rem;* with respect to the defendant, however, where
+anyone appeared in the name of another, he was compelled in every
+instance, to provide security, for the reason that no one is deemed
+qualified to defend another without giving security; but if anyone
+joined issue in his own name he was not compelled to furnish security to
+pay the judgment.
+
+\(2) Now, however, matters are conducted differently; for when anyone is
+sued in his own name, whether the action be *in rem* or *in personam,
+*he is not obliged to furnish security for the value of the property in
+question, but only for his own person, that is to say that he will
+remain in court until the termination of the case; and this is effected
+by his giving a promise and at the same time taking an oath, (which is
+called juratory security), or he is forced to give his bare promise, or
+security according to his rank and position.
+
+\(3) But where an action has been brought or defended by an agent; or he
+acts as plaintiff, and his authority has not been recorded, or the
+actual principal in the case has not confirmed the appointment of his
+representative in court, the latter will be compelled to furnish
+security that his principal will ratify his acts; and the same rule
+shall be observed where a guardian, a curator, or other persons of this
+kind who have taken charge of the affairs of others, bring suit against
+any parties by another.
+
+\(4) But where anyone is sued, if he is present and ready to appoint an
+agent, he can either himself come into court and confirm the authority
+of his agent in person by formally stipulating to pay the amount of the
+judgment, or he can give security out of court, by means of which he
+himself with reference to all the clauses of the bond, becomes the
+surety of his agent, to pay the amount of the judgment. And by this he
+is compelled to encumber all his property, whether he has given his
+promise in court or furnished security out of court, so that both he and
+his heirs may be bound; and, in addition to this, he must find security
+or furnish a bond for his own person, that is to say that he will be
+present in court when judgment is to be rendered, or that if he should
+not appear his surety will pay the amount of the judgment unless an
+appeal should be taken.
+
+\(5) Where, however, the defendant for some reason or other does not
+appear, and another party is willing to conduct the defence, he can do
+so (and no distinction exists between actions *in rem*, and *in per-*
+
+*sonam);* provided always that he furnishes security for payment of the
+judgment, in proportion to the value of the property in litigation; for
+in accordance with the ancient rule, (as has already been stated) no one
+is deemed to be qualified to conduct the defence of another where
+security is not given.
+
+\(6) All these things are more clearly and more thoroughly comprehended
+from the daily practice of the courts, and from the documents themselves
+relative to transactions therein.
+
+\(7) We decree that these rules shall prevail not only in this royal
+city, but also in all Our provinces, although on account of inexperience
+other modes of procedure were perhaps formerly used; since it is
+necessary for all the provinces to follow the practice which is observed
+in the Capital of all Our states, that is to say, in this royal city.
+
+TITLE XII.
+
+CONCERNING PERPETUAL AND TEMPORARY ACTIONS,
+
+AND THOSE THAT ARE TRANSMITTED TO,
+
+AND AGAINST HEIRS.
+
+In this place We must bear in mind that those actions which proceed from
+a law, a decree of the Senate, or the Sacred Constitutions, could be
+brought at any time according to the practice of antiquity, until the
+Sacred Constitutions imposed certain limitations upon actions, not only
+those *in rem* but also those *in personam;* while such as arise from
+the special jurisdiction of the Prætor, can as a rule be brought within
+a year, (as the authority of the Prætor ordinarily endured for that
+period). Sometimes, however, they were extended *in perpetuum*, that is
+up to the limit introduced by the constitutions; and these are the ones
+which the Prætor concedes to the possessor of an estate and to the
+others who occupy the place of heirs. The action of manifest theft also,
+though it arises from the jurisdiction of the Præt-
+
+or himself, is, nevertheless, granted in perpetuity; for he considered
+it absurd that it should be terminated at the end of a year.
+
+\(1) Not all actions, however, which can be brought against anyone
+either under statutory enactment or by the Edict of the Prætor, are
+equally applicable or can be granted against the heir; for a most
+positive rule of law exists that penal actions growing out of crimes are
+not maintainable against an heir, as, for example, those of theft, of
+robbery by violence, of injury, or wrongful damage; but actions of this
+kind are maintainable by the heir and are not denied him, with the
+exception of that of injury and any other which may be found to resemble
+it. Sometimes, however, an action arising out of a contract does not lie
+against an heir, where a testator acted fraudulently and no benefit
+resulted to the heir from the fraud. The penal actions, however, which
+We mentioned above, where they have been conducted by their principals
+in person until issue has been joined, are granted to the heirs, and are
+transmitted against the heirs.
+
+\(2) It remains for Us to notify you that if before a decision is
+rendered the defendant satisfies the plaintiff, it is the duty of the
+judge to discharge him, even though at the time of joinder of issue he
+was in such a position that he should have been condemned; and from this
+arose the vulgar saying, "that all actions in court are subject to
+dismissal".
+
+TITLE XIII. CONCERNING EXCEPTIONS.
+
+Next in order, let us examine exceptions. Exceptions are instituted for
+the sake of protecting those against whom suits are brought; for it
+often happens that although the action brought by the plaintiff is just,
+still it is unjust as against the defendant.
+
+\(1) For example, if compelled by fear, induced by fraud, or laboring
+under a mistake, you have, in stipulating with Titius, promised him
+something that you did not owe him, it is evident that you have rendered
+yourself liable by the Civil Law, and that the suit which he brings
+against you by which it is alleged that you should give him the property
+is valid; but it is unjust that you should have judgment rendered
+against you; and therefore the exception on the ground of fear, or
+fraud, or one suitable to the case, is granted you in order to contest
+his action.
+
+\(2) The same rule applies where anyone has stipulated for money under
+the pretext of making a loan, but does not do so; for it is certain that
+he can bring suit against you for the money as you are obliged to pay
+it, since you are liable under a stipulation; but because it is unjust
+for you to be condemned under such circumstances, it is established that
+you should defend yourself by the exception on the ground of
+non-payment. By one of Our Constitutions We have placed a limit upon the
+time for doing this, as We have already stated in preceding
+
+Books.
+
+\(3) Moreover, a debtor, even if he had not made an agreement with his
+creditor that he should not be sued by him, is, nevertheless, liable,
+because obligations are not in any respect dissolved by entering into an
+agreement; for which reason an action in which the plaintiff alleges,
+"that if it appears that the defendant should pay him", can be
+maintained against the debtor; but as it is unjust that he should have
+judgment rendered against him in opposition to the agreement, he can
+protect himself by the exception *pacti conventi*.
+
+\(4) A debtor also remains bound although, on the demand of the creditor
+he may have sworn that he ought not to pay anything; but for the reason
+that it is unjust to make an investigation with respect to his perjury,
+he protects himself by the exception on the ground of an oath. In
+actions *in rem *exceptions are also necessary; as, for instance, where
+on application of the plaintiff the possessor has sworn that the
+property is his own, and nevertheless the plaintiff still demands it;
+for although what he states may be true, that is, that the property
+belongs to him, still it is unjust that the possessor should be
+condemned.
+
+\(5) Moreover, if suit has been brought against you, either *in rem *or
+*in personam*, the obligation still continues, and therefore by strict
+construction of the law another action can be brought against you
+afterwards for the same cause, but you should be aided by the exception
+*rei judicatæ*.
+
+\(6) These statements are sufficient for the sake of example, but on the
+other hand how exceptions may be necessary in many and various
+occurrences can be ascertained from the greater volumes of the Digest or
+Pandects.
+
+\(7) Some of these derive their force from laws or statutes having the
+effect of laws, or arise from the jurisdiction of the Prætor himself.
+
+\(8) Moreover, exceptions are styled either perpetual and peremptory, or
+temporary and dilatory.
+
+\(9) Perpetual and peremptory exceptions are those which always oppose
+the plaintiffs, and always permanently dispose of the subject of the
+action; such as those of fraud, duress, and agreement; when it has been
+agreed that no demand whatever shall be made for the money.
+
+\(10) Temporary and dilatory exceptions are those which have a
+prohibitory effect for a time and procure a temporary delay; such is the
+exception *pacti conventi*, when it has been agreed that no action shall
+be brought within a certain time, as, for instance, within five years;
+for at the end of that period the plaintiff is not prevented from
+recovering the property. Therefore the exception *pacti conventi*, or
+one resembling it, is interposed against those who wish to bring suit
+within that time, and they ought to defer their action and bring it
+afterwards; therefore exceptions of this kind are called dilatory.
+Otherwise, if they brought suit within said time, and the exception was
+interposed, they were unable to gain anything in that action on account
+of the exception, nor could they formerly sue after the specified time,
+for since they had rashly brought the case into court and neglected it,
+they lost the property for this reason. Now, however, We have determined
+that matters shall not be conducted so strictly, and have decided that
+when anyone has ventured to bring suit before the time established by
+the agreement or obligation, he is subject to the Constitution of Zeno
+which that most revered legislator promulgated concerning those who
+brought suit for too much with reference to time, so that when the
+plaintiff treats with contempt the delay which he himself had
+voluntarily granted, or which is implied by the nature of the action,
+those who have suffered such an injury shall be entitled to double the
+time; and after it has elapsed they shall not be liable to another
+action unless they have previously received all the expenses of the
+former one; in order that plaintiffs, alarmed by such a penalty, may be
+taught to observe the times for bringing actions.
+
+\(11) Moreover, there are dilatory exceptions with reference to the
+person; and such are those that relate to agents, as, for instance,
+where anyone wishes to bring suit by a soldier, or a woman, for soldiers
+are not permitted to appear as agents either of a father, a
+
+mother or a wife, and not even under an Imperial Rescript; but they can
+transact their own business without committing a breach of discipline.
+
+\(12) With reference to those exceptions which in former times were
+pleaded against agents on account of the infamy of him who appointed
+them or of themselves, We, having noticed that they were by no means
+frequently offered in court, have decreed that they shall be abrogated,
+lest the discussion of the principal point at issue be delayed while
+they are being argued.
+
+TITLE XIV.
+
+CONCERNING REPLICATIONS.
+
+It sometimes happens that an exception, which at first sight seems to be
+just, has an iniquitous effect. When this happens another allegation is
+required for the purpose of aiding the plaintiff; and this is called a
+replication, because by means of it the force of the exception is
+repelled and annulled. For instance, where anyone has agreed with his
+debtor not to bring suit against him for the money, and afterwards they
+have both entered into a contrary agreement, that is that the creditor
+may be permitted to bring suit; and if he does so and the debtor files
+the exception, that he ought not to be condemned where there was no
+agreement that the creditor should not institute legal proceedings to
+collect the money, the exception prejudices the creditor, (for it was so
+agreed and still remains in force although they afterwards entered into
+an agreement to the contrary); but for the reason that it is unjust that
+the creditor should be deprived of what is due to him, a replication
+shall be granted him by reason of the subsequent agreement.
+
+\(1) Again, it sometimes happens that a replication which at first sight
+seems just, operates iniquitously; and when this happens another
+allegation is required for the purpose of aiding the defendant; which is
+styled a duplication.
+
+\(2) And if again this at first sight seems just, but for some reason or
+other prejudices the plaintiff, still another allegation is required by
+which the plaintiff may be assisted; and this is called a triplication.
+
+\(3) The multiplicity of business transactions has at times brought
+about the employment of all these exceptions, to a greater extent than
+We have stated; but it is easy to better ascertain what they all are
+from the more comprehensive work of the Digest.
+
+\(4) The exceptions by which the debtor is defended are for the most
+part also granted to his sureties, and justly so; because what they are
+sued for is considered to be demanded from the debtor himself, since by
+an action of mandate he is compelled to reimburse them for what they
+have paid for him. For which reason if anyone makes an agreement with
+his debtor that he will not bring suit for payment, it has been
+established that those who have obligated themselves for
+
+the former shall also have the benefit of the exception *pacti
+conventi;* just as if the agreement not to sue them for the money had
+been entered into with them personally. Certain exceptions, however, are
+not ordinarily granted in favor of sureties; as, for instance, where a
+debtor has made an assignment of his property and his creditor has
+entered suit against him, he is protected by the exception *nisi bonis
+cesserit;* but this exception is not granted to sureties, evidently
+because he who binds others for his debtor looks principally to the fact
+that, if the debtor should lose his property, he may be able to obtain
+whatever he is entitled to from those whom he has caused to assume the
+obligation for him.
+
+TITLE XV. CONCERNING INTERDICTS.
+
+Next in order We shall consider interdicts, or the actions which are
+introduced in their stead. Interdicts were certain formularies by which
+the Prætor either ordered some act to be performed, or forbade it; and
+this he was especially accustomed to do when a controversy between
+parties with reference to possession or quasi-possession arose.
+
+\(1) The principal division of interdicts is the following, namely: they
+are either prohibitory, restitutory, or exhibitory. Those that are
+prohibitory are any by which the Prætor forbids some act to be
+performed; as, for instance, the employment of force against a party who
+has indisputable possession; or against one who is carrying a corpse
+into a place where he had a right to take it; or one who is erecting a
+building on consecrated ground; or who is committing any act in a public
+stream, or upon its bank, whereby its navigation may be obstructed.
+
+Restitutory interdicts are those by which he orders something to be
+surrendered; for example, when he directs possession to be restored to
+the rightful possessor of property belonging to an estate, which someone
+is holding as heir or as possessor; or when he orders possession of a
+field to be restored to a party who has been forcibly deprived of the
+same.
+
+Exhibitory interdicts are those by which he orders something to be
+produced, for example, when the liberty of anyone is involved, as that
+of a freedman whose services are demanded by his patron, or the
+production of children in the presence of their relatives under whose
+control they are is required. There are those, however, who are of the
+opinion that only interdicts that are prohibitory should properly be
+thus named, because to interdict is to notify and prohibit; and that
+restitutory and exhibitory interdicts should be, strictly speaking,
+styled decrees; but it has been the practice to designate them all
+interdicts for the reason that they are referred to as between two
+parties.
+
+\(2) The next division of interdicts is this, namely, that some are
+instituted for the purpose of obtaining possession, others for retaining
+it, and others again for recovering it.
+
+\(3) An interdict for the purpose of obtaining possession which is
+called *quorum bonorum*, can be employed by the legal possessor of an
+estate; and its force and power are such that anyone is compelled to
+restore property which he holds as heir or possessor, the possession of
+which has been transferred to another.
+
+A man is considered to be in possession as heir when he believes himself
+to be an heir; and to hold as possessor when he has possession of an
+entire estate or any portion of the same, being aware that it does not
+belong to him. The interdict is therefore said to be for the obtaining
+of possession because it is only useful to him who now, for the first
+time, is attempting to obtain possession of an estate; and, therefore,
+if anyone after having gained possession afterwards loses it, this
+interdict is of no advantage to him.
+
+There is also an interdict, which is called *Salvianum*, instituted for
+the purpose of recovering possession, and which the owner of land makes
+use of to obtain the property of a tenant which the latter has pledged
+as security for the rent.
+
+\(4) The interdicts *Uti Possidetis* and *Utrubi* are available for the
+purpose of retaining possession when there is a dispute between both
+parties concerning the ownership of property, and the first question
+that arises is as to which of the litigants should be the possessor and
+which of them should bring suit. For, unless it is first established
+which of them is entitled to possession, the action for recovery cannot
+be instituted, because both civil and natural law declare that one party
+should have possession and that the other should bring suit against him
+as possessor; and because it is much more advantageous to have
+possession than to bring suit, therefore, for the most part and indeed
+almost always, a great contest arises for the actual possession. The
+advantage of possession is as follows, that even though the property in
+dispute does not belong to him who holds it, still, if the plaintiff
+cannot prove that it is his, the possession remains undisturbed; for
+which reason when the rights of the two parties are not clear, judgment
+is usually rendered against the plaintiff.^1^
+
+The interdict *Uti Possidetis* is available with reference to the
+possession of land or buildings, that of *Utrubi* with reference to the
+possession of movable property. The force and effect of both of these
+differed exceedingly among the ancients; for by means of the interdict
+*Uti Possidetis *he prevailed who had possession at the time of the
+interdict, provided he had obtained possession as against his adversary
+neither by violence, nor secretly, nor by tolerance; although he might
+have driven out another by violence, or clandestinely deprived another
+party of possession, or entreated someone that he would permit him to
+keep possession; but under the interdict *Utrubi* he was successful who,
+during the greater part of that year had possession neither by force,
+nor secretly, nor by tolerance, as against his adversary.
+
+At present, however, the practice is otherwise; for the effect of both
+interdicts is the same so far as possession is concerned, whether
+
+^1^ "*Melior est conditio possidentis et rei quam actoris.*"  ED.
+
+real or personal property is involved, so that he is successful who, at
+the time of the joinder of issue retains possession as against his
+adversary neither by force, nor secretly, nor through tolerance.
+
+\(5) Moreover, a man is considered a possessor not only when he himself
+holds the property, but also when anyone else has possession in his
+name, although he may not be under his control, as a tenant of land or
+the renter of a house. Anyone is also considered to be in possession
+through those with whom he has deposited or to whom he has lent
+something; and this is meant when it is said that "anyone can retain
+possession through a party who holds possession in his name". Besides,
+it is settled that possession is also retained by intention, that is,
+that although a party himself may not be in possession, nor another in
+his name, he still is deemed to retain possession of the property if he
+leaves it, not with the intention of abandoning it, but with the
+expectation of afterwards returning thither. We have explained in the
+Second Book through what persons anyone can obtain possession, and there
+is no doubt that no one can gain possession by intention alone.
+
+\(6) It is customary to allow an interdict for the recovery of
+possession where anyone has been ejected by force from land or from a
+building, for the interdict *unde vi* is provided for him, by which the
+party who ejected him is forced to restore possession to him, even
+though the latter acquired possession either by force, or secretly, or
+by indulgence from him who forcibly ejected him. However, according to
+certain Sacred Constitutions, as We have mentioned above, where anyone
+seizes property by force he is deprived of the ownership of the same,
+even if it be a part of his own goods; but if it belongs to someone else
+he is compelled, after making restitution of the same, to also pay its
+value to the party who was subjected to the violence. He who has
+forcibly ejected anyone from possession is also liable under the *Lex
+Julia "de vi privata aut de vi publica*", for force employed privately
+and without arms, but when he has deprived the party in possession by
+using weapons he is liable for public violence. By the term "arms", we
+understand not only shields, swords, and helmets to be meant, but also
+clubs and stones.
+
+\(7) A third division of interdicts is that they are either simple or
+double. The simple ones are, for instance, where one party is plaintiff
+and the other defendant, and to this class belong all restitutory and
+exhibitory interdicts; for the plaintiff is the one who desires that
+something may be either produced or restored, and the defendant is he
+from whom the production or restoration is demanded.
+
+Some prohibitory interdicts, however, are simple and some are double.
+Simple ones, are, for example, when the Prætor forbids some act to be
+committed in a sacred place, or in a public stream or on its bank, for
+the plaintiff is he who desires that the act be not committed, and the
+defendant is he who attempts to commit it. Interdicts are double, for
+instance, such as the *Uti Possidetis* and *Utrubi;* and they are called
+double because the condition of each litigant in them is the same, and
+that neither is considered to be especially defendant or
+
+plaintiff, but each takes the part of defendant and plaintiff at the
+same time.
+
+\(8) It is superfluous to discuss at present the classification and
+force of interdicts in former times, for whenever the law prescribes an
+extraordinary method of procedure (and all suits are now of this
+description) it is not necessary for an interdict to be issued, but
+judgment is rendered without interdicts, just as if an equitable action
+had been granted by reason of an interdict.^1^
+
+^1^ The interdict of the Roman law was the prototype and precursor of
+the modern injunction, and also bears a considerable resemblance to the
+writ of mandamus. The derivation of the term is said to be from the
+clause indicating the character of the process "*Quod interim dicitur".
+*It was an "extraordinary" proceeding, that is one not authorized by the
+Civil or Common Law, but derived from the equitable jurisdiction of the
+Prætor, whereby he rendered a decision, without referring the case to an
+*arbiter* or *judex* for the purpose of determining questions of fact.
+The interdict was issued when a violation of personal or property rights
+seemed to be imminent and demanded the summary and effective
+intervention of the magistrate.
+
+While interdicts were applicable to almost every conceivable matter in
+which the preservation of sacred and profane property, public, private,
+real, or personal, was concerned, as well as to the rights of corporate
+bodies and individuals in their relations to one another and to society
+in general, their principal exercise appears to have been directed to
+the acquisition, maintenance, and recovery of possession. They belonged
+to the intermediate period of Roman jurisprudence, and after the
+abolition of the Formulary System their place was supplied by
+proceedings which were, to all intents and purposes, actions at law, but
+whose legal application and consequences were the same as those of the
+interdict.
+
+The interdict, unlike the injunction, was not always accompanied by a
+penalty for non-compliance where private interests were involved. To
+prohibitory interdicts, however, this rule did not apply, as, when they
+were granted, a *sponsio*, or forfeit was invariably deposited as
+security by both litigants, and was lost to his adversary by the party
+who failed to prove his case.
+
+The principal interest at present attaching to the interdict, is the
+fact that those included in the class of "exhibitory", and known as *De
+libero homine exhibendo* and *De liberis exhibendis item ducendis*, are
+the undoubted source from which our writ of *Habeas Corpus* is derived.
+Although the Romans were the largest slaveholders of ancient or modern
+times, no nation has ever guarded the liberties of its citizens with
+such constant and diligent care. The benefit of every doubt, the effect
+of every presumption, was conceded in favor of freedom. Where a person
+who asserted that he was free was held in slavery, anyone might apply
+for an order to produce him in court for the purpose of establishing the
+fact. "*Quem liberum hominem dolo malo retines, exhibeas.*" So stringent
+was the rule, that the party interested  even if he preferred to remain
+in bondage  could not reject the advantage conferred by the Edict, and
+do so, but was liberated in spite of himself. The existence of fraud and
+malice was essential, hence the proceeding was not applicable to persons
+under paternal control who were subject to the rights of ascendants. The
+question of freedom was the only one to be considered, where it was
+evident that the claim was unfounded, the action prescribed for that
+purpose might be brought to determine the civil status of the individual
+concerned. A creditor could not employ this interdict to produce his
+debtor.
+
+The interdict *De liberis exhibendis item ducendis* enabled children and
+wives to be brought before the Prætor when their interests seemed to
+demand it. While proper cause must be shown in cases alleged to involve
+the liberty of a freeman, no such formality was permitted where the
+production of children was applied for, the order being unqualified and
+peremptory. If service was made upon a father of ill repute by some one
+claiming a right to have the child produced in court, a guardian was
+appointed to take charge of it until the case was heard.  ED.
+
+TITLE XVI. CONCERNING THE PENALTY FOR RECKLESS LITIGATION.
+
+We must now bear in mind that those who formulated our laws exercised
+great care lest men should be too easily involved in litigation; and
+this likewise is Our object. This result can best be accomplished by
+restraining the rashness of plaintiffs or defendants, either by a
+pecuniary penalty, or by the religious character of an oath, or by the
+fear of infamy.
+
+\(1) For example, an oath is required of all parties sued by the terms
+of one of Our Constitutions, for a defendant cannot employ his
+allegations unless he has first sworn that he is defending himself
+because he thinks he has good grounds for doing so. In certain instances
+the action is for double or treble damages against defendants who make
+denial; as, for instance, where a suit is instituted for wrongful damage
+or for legacies bequeathed to places which are held in reverence. An
+action can also be brought in the first place for more than simple
+damages, as, for instance, that of fourfold for manifest theft, or for
+double for non-manifest theft; for in these cases and in certain others
+the action is brought for more than simple damages whether the party
+denies or admits that he is liable.
+
+Moreover, proceedings instituted for the purpose of annoyance by the
+plaintiff are repressed; for he also is compelled by one of Our
+Constitutions to take an oath against such methods; and the advocates of
+each party must submit to take the oath prescribed by another of Our
+Constitutions. All these proceedings have been introduced instead of the
+ancient action of calumny, which has fallen into disuse, because it
+imposed a fine of a tenth part of the property in controversy upon the
+plaintiff, and We find that this was never required; so instead of these
+proceedings the aforesaid oath has been introduced, together with the
+rule that an unprincipled party shall be forced to pay his adversary the
+damage he has sustained and the costs of the suit.
+
+\(2) In some kinds of actions the parties condemned became infamous; as,
+for example, in the action of theft, robbery with violence, injury,
+fraud, and also in direct actions involving guardianship, mandate, and
+deposit, but not in contrary actions; and also in the action of
+partnership which is direct irrespective of the partner bringing it, and
+on this account either of the partners will be branded with ignominy if
+a decision is rendered against him. But in the action of theft, or of
+robbery with violence, or of injury or fraud, not only are the parties
+who lose the case branded with ignominy, but also those who have
+compromised, and justly so; for a great difference exists where anyone
+is a debtor on account of a crime or because of a contract.
+
+\(3) The order to be followed in instituting any action is based upon
+that part of the Edict in which the Prætor gives instructions for
+bringing the parties into court; for unquestionably the first thing to
+be done is for the adversary to be summoned, that is to say, to be
+called before him who is to interpret the law. And in the part afore-
+
+said the Prætor concedes this right to parents and patrons, as well as
+to the children of parents and patrons, of both sexes, that their
+children or freedmen shall not be suffered to bring them into court
+unless they have asked and obtained permission to do this from the
+Prætor himself; and if anyone should summon them otherwise, he sentences
+him to pay a fine of fifty *solidi*.
+
+TITLE XVII. CONCERNING THE DUTY OF A JUDGE.
+
+It remains for us to consider the duty of a judge; and, in the first
+place, a judge ought to be careful not to decide in any other way than
+is prescribed by the laws, the constitutions or the customs.
+
+\(1) Therefore, if a judge has been appointed to try a noxal action, he
+must, where the master appears to him to be liable, be careful to render
+his decision in the following terms: "I condemn Publius Mævius to pay
+ten *aurei* to Lucius Titius, or to surrender the slave in satisfaction
+of the damage."
+
+\(2) And if the action is *in rem* and he decides against the plaintiff,
+he ought to discharge the possessor; or if he decides against the
+possessor, he should order him to restore the property along with the
+profits of the same. But if the possessor says that he cannot restore
+the property at present, and appears to ask for time in order to make
+restitution without any indication of deception, indulgence must be
+shown him, provided, however, that he gives security by furnishing a
+surety for the value of the property in litigation if he should not make
+restitution within the time granted him.
+
+Where suit is brought for an estate, the same rules apply with respect
+to the profits which We have stated are applicable in one brought for a
+single piece of property. Almost the same account is taken in both
+actions with reference to those profits which the possessor did not
+collect through his own fault, where he had possession in bad faith. If,
+however, he has been a possessor in good faith, no account is taken of
+the profits which were consumed or not collected; although after the
+action has been instituted an account is taken of those not collected
+through the fault of the possessor, or of those which were collected and
+consumed.
+
+\(3) If the action is for production, it is not sufficient for the party
+who is sued to produce the property, but he is required to produce its
+condition also, that is to say, he must place the plaintiff in the same
+position which he would have occupied if the property had been produced
+when he first brought suit for its production; and therefore if on
+account of delay title to said property by usucaption had been obtained
+by the possessor, he will, nevertheless have judgment rendered against
+him.
+
+Moreover, the judge ought to take account of the profits of the
+intermediate time, that is of those which have accrued after issue was
+joined in the suit for production, and before a decision has been
+rendered.
+
+But if the defendant in the action for production states that he cannot
+produce the property at present, and asks for time for the purpose of
+doing so, and he appears to make the request without any intention to
+deceive, it should be granted him, provided he gives security that he
+will surrender the property. But if he neither produces the property
+immediately in compliance with the order of court, nor furnishes
+security that he will do so afterwards, he should have judgment rendered
+against him for such an amount as the plaintiff would be entitled to if
+it had been produced in the beginning.^1^
+
+\(4) Where the action is in partition, the judge should assign each
+individual piece of property to a separate heir; and if his decision
+appears to confer an advantage on any particular heir, he should as has
+already been stated, condemn him to pay his co-heir a specified sum of
+money by way of compensation. A party should also have judgment rendered
+against him in favor of his co-heir for this same reason, when he alone
+has collected the profits of the hereditary estate, or ruined or
+consumed any property belonging to the same. These rules are also
+applicable when there are several co-heirs, or when there are only two.
+
+\(5) They also apply where an action is brought for the division of
+property held in common, and several articles are involved; but where
+only one thing is concerned, as, for instance, a tract of land, and the
+said tract can conveniently be divided into several parts, he ought to
+assign a portion of the same to each of the joint owners; and if the
+share of one of them seems to be excessive, he should be ordered to pay
+a certain sum of money to the other by way of compensation. Where,
+however, the property cannot be conveniently divided, or the subject of
+controversy is perchance either a slave or a mule, then the whole must
+be adjudged to one party, and he should be ordered to pay a certain sum
+of money to the other as an equivalent.
+
+\(6) Where suit is brought for the establishment of boundaries, the
+judge should determine whether an adjudication is necessary; and indeed
+it is necessary in only one instance, that is when it is more convenient
+for the fields to be divided by more definite boundaries than those by
+which they were formerly distinguished; for then it is necessary that a
+part of the land of one should be adjudged to the owner of another
+tract; in which case it is proper that he should be condemned to pay a
+certain sum of money to the other. On the same principle, likewise, a
+party should be required to pay damages in this action, that is when he
+happens to have maliciously committed some act with reference to the
+boundaries; for example, where he has stolen the boundary stone, or cut
+down the trees marking the boundaries. A party is also condemned in an
+action of this kind because of contumacy, as, for instance, where he did
+not permit land to be measured when ordered to do so by the judge.
+
+\(7) Whatever is adjudicated to anyone in cases of this description
+immediately becomes the property of him to whom it is awarded.
+
+^1^ The qualifications of a judge have been succinctly set forth as
+follows: "*Judex habere debet duos sales; salem sapientise, ne sit
+insipidus, et salem conscien\* tiæ, ne sit diabolus.*"  ED.
+
+TITLE XVIII. CONCERNING PUBLIC PROSECUTIONS.
+
+Public prosecutions are neither maintained by actions nor do they bear
+any resemblance whatever to the other proceedings of which We have
+treated; and a great difference exists between them both in their
+institution and in their procedure.
+
+\(1) They are called public because, generally speaking, they can be
+inaugurated by any one of the people.
+
+\(2) Some public prosecutions are capital and some are not. We call
+those capital which subject the offender to the extreme penalty, or with
+interdiction from fire and water, or with banishment, or with labor in
+the mines; the others which inflict infamy along with a pecuniary
+penalty are public but not capital.
+
+\(3) The following are public prosecutions. The *Lex Julia* relating to
+treason, whose force is directed against those who have plotted anything
+against the Emperor or the State; the penalty of which involves loss of
+life, and even after death the memory of the culprit is rendered
+infamous.
+
+\(4) Also the *Lex Julia* concerning the repression of adultery, which
+punishes capitally not only such as pollute the marriage-bed of others,
+but also those who dare to practice an abominable crime with persons of
+the male sex. By this same *Lex Julia* the crime of seduction is also
+punished, when anyone without the employment of force debauches a virgin
+or a widow living a virtuous life. This law imposes on offenders, if
+they are of honorable rank, the penalty of confiscation of half their
+property; and if they are of inferior station, corporeal punishment in
+addition to banishment.
+
+\(5) Also, the *Lex Cornelia de Sicariis* which pursues with the
+avenging sword persons guilty of homicide, or those who go about with
+missile weapons for the purpose of killing men. The words "missile
+weapon", as Our Gaius explained in writing, in his interpretation of the
+Law of the Twelve Tables, are ordinarily employed to indicate what is
+shot from a bow, and also signify everything dispatched by anyone's
+hand; it follows therefore that a stone and a piece of wood or iron are
+also embraced in this definition. It is derived from the fact that it is
+thrown to a distance, being formed from the Greek word thlou. We can
+also find this signification in the Greek term for what we designate
+*telum* they call beloV from ballesqai*. *This Xenophon explains, for he
+he writes as follows: "All at once were cast missiles, spears, arrows,
+stones, for slings, and other stones". *Sicarii *get their name from
+*sica*, which means an iron knife. Under this same law poisoners are
+condemned to death, who have killed men by odious arts, either by poison
+or by magic formulas, or have publicly sold injurious drugs.
+
+\(6) Still another law, styled *Lex Pompeia de parricidiis* inflicts a
+novel punishment, for a most horrible crime; as it provides that anyone
+who has hastened the death of a parent, a child, or any relative
+included in the definition of parricide, whether he has ventured to do
+so secretly or openly; and, moreover, anyone by whose wicked artifices
+the act has been accomplished; or anyone who is aware of the crime,
+
+even though he may be a stranger, shall be punished with the penalty of
+parricide; but not by the sword, or by fire, or by any other ordinary
+penalty, but he shall be sewed up in a sack with a dog, a cock, a viper,
+and an ape, and enclosed within these narrow and fatal limits shall be
+thrown either into the neighboring sea or into a stream, according as
+the nature of the region admits; in order that while living he may begin
+to lose the use of all the elements, that he may be deprived of the air
+while still living, and of the earth when he is dead. Where anyone kills
+other persons connected with him by consanguinity or affinity, he shall
+suffer the penalty of the *Lex Cornelia* concerning assassins.
+
+\(7) Moreover, the *Lex Cornelia* concerning forgery, also styled the
+*Lex Cornelia* concerning wills, punishes him who has written, sealed,
+read, or substituted a forged will or any other instrument, or has made,
+engraved or impressed a false seal, knowingly and fraudulently. The
+penalty of this law in the case of slaves is death (which is also that
+of the *Lex Cornelia* concerning assassins and poisoners), and where
+freemen are concerned it is deportation.
+
+\(8) Moreover, the *Lex Julia* relating to public or private violence
+applies to those who whether armed or unarmed commit violence. If armed
+force is proved, deportation is inflicted in compliance with the *Lex
+Julia de vi publica;* but where force is employed without arms, the
+penalty of confiscation of a third part of the property of the culprit
+is imposed. Where, however, rape with violence has been perpetrated upon
+a virgin, a widow, a nun, or any other woman, then the offenders as well
+as those who have aided in the crime are capitally punished, according
+to the terms of Our Constitution, from which it is possible to obtain
+further information upon this subject.
+
+\(9) The *Lex Julia* concerning peculation punishes those who have
+stolen money or property belonging to the State, or which is sacred or
+religious; but where judges themselves appropriate public money during
+their term of office they undergo capital punishment; and not only they,
+but also those who have assisted them in doing so, or have knowingly
+received the stolen property from them. Others, however, who break this
+law are subjected to the penalty of deportation.
+
+\(10) Among the public prosecutions is likewise the *Lex Fabia *relating
+to kidnappers, which sometimes imposes the punishment of death, and
+sometimes inflicts a lighter penalty, as provided by the Sacred
+Constitutions.
+
+\(11) There are moreover such public prosecutions as those under the
+*Lex Julia* concerning corruption in elections; the *Lex Julia *against
+judicial extortion; the *Lex Julia* concerning those who artificially or
+fraudulently raise the price of grain; and the *Lex Julia *concerning
+the embezzlement of public money; which have reference to certain
+particular acts and do not inflict loss of life, but subject those who
+violate their provisions to other penalties.
+
+\(12) We have explained these matters relating to public prosecutions so
+that it may be possible for you to touch them with the tip of your
+finger, and, as it were, by way of index. A better knowledge of them may
+be obtained by you, God willing, by consulting Our more extensive work,
+the Digest or Pandects.
+
+END OF THE INSTITUTES.
+
+* * * * *

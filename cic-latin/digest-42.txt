@@ -1,0 +1,1480 @@
+# -*- mode: org -*-
+
+DOMINI NOSTRI SACRATISSIMI PRINCIPIS
+IUSTINIANI
+IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
+DIGESTORUM SEU PANDECTARUM
+liber quadragesimus duo
+
+
+( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
+
+
+* TITLES
+** 42.1.0. De re iudicata et de effectu sententiarum et de interlocutionibus.
+** 42.2.0. De confessis.
+** 42.3.0. De cessione bonorum.
+** 42.4.0. Quibus ex causis in possessionem eatur.
+** 42.5.0. De rebus auctoritate iudicis possidendis seu vendundis.
+** 42.6.0. De separationibus.
+** 42.7.0. De curatore bonis dando.
+** 42.8.0. Quae in fraudem creditorum facta sunt ut restituantur.
+
+
+
+* 42.1.0. De re iudicata et de effectu sententiarum et de interlocutionibus.
+
+
+42.1.1
+
+Modestinus libro septimo pandectarum
+
+Res iudicata dicitur, quae finem controversiarum pronuntiatione iudicis accipit: quod vel condemnatione vel absolutione contingit.
+
+42.1.2
+
+Ulpianus libro sexto ad edictum
+
+Qui pro tribunali cognoscit, non semper tempus iudicati servat, sed nonnumquam artat, nonnumquam prorogat pro causae qualitate et quantitate vel personarum obsequio vel contumacia. Sed perraro intra statutum tempus sententiae exsequentur, veluti si alimenta constituantur vel minori viginti quinque annis subvenitur.
+
+42.1.3
+
+Paulus libro 17 ad edictum
+
+Qui damnare potest, is absolvendi quoque potestatem habet.
+
+42.1.4
+
+Ulpianus libro 58 ad edictum
+
+pr. Si se non optulit procurator, iudicati actio in eum denegabitur et in dominum dabitur: si se optulit, in ipsum dabitur. Optulisse autem se liti videtur non is, qui in rem suam procurator datus sit: nam hic alia ratione recusare iudicati actionem non potest, quia hic non in alienam, sed in suam rem procurator factus est.
+
+1. Tutor quoque vel curator in ea condicione sunt, ut non debeant videri se liti optulisse, idcircoque debet denegari in eos iudicati actio.
+
+2. Actor municipum potest rem iudicatam recusare: in municipes enim iudicati actio dabitur.
+
+3. Ait praetor: "Condemnatus ut pecuniam solvat". A iudicato ergo hoc exigitur, ut pecuniam solvat. Quid ergo, si solvere quidem paratus non sit, satisfacere autem paratus sit, quid dicimus? Et ait Labeo debuisse hoc quoque adici "Neque eo nomine satisfaciat": fieri enim posse, ut idoneum expromissorem habeat. Sed ratio pecuniae exigendae haec fuit, quod noluerit praetor obligationes ex obligationibus fieri: idcirco ait "ut pecunia solvatur". Ex magna tamen et idoneo causa accedendum erit ad Labeonis sententiam.
+
+4. Si ex conventione litigantium cautum sit post rem iudicatam ei, cui quis condemnatus est, eveniet, ut hic et retendatur, si modo novatio intercessit: ceterum si non novandi causa id factum est, manebit ordo exsecutionis. Sed et si pignora accepta sint vel fideiussores in rem iudicatam, consequens erit dicere non cessare exsecutionem, quippe cum accesserit aliquid rei iudicatae, non sit a re iudicata recessum. Iidem observandum est in eo, cuius procurator condemnatus est.
+
+5. Si quis condemnatus sit, ut intra certos dies solvat, unde ei tempus iudicati actionis computamus, utrum ex quo sententia prolata est an vero ex eo, ex quo dies statutus praeteriit? Sed si quidem minorem diem statuerit iudex tempore legitimo, repletur ex lege, quod sententiae iudicis deest: sin autem ampliorem numerum dierum sua definitione iudex amplexus est, computabitur reo et legitimum tempus et quod supra id iudex praestitit.
+
+6. Condemnatum accipere debemus eum, qui rite condemnatus est, ut sententia valeat: ceterum si aliqua ratione sententia nullius momenti sit, dicendum est condemnationis verbum non tenere.
+
+7. Solvisse accipere debemus non tantum eum, qui solvit, verum omnem omnino, qui ea obligatione liberatus est, quae ex causa iudicati descendit.
+
+8. Celsus scribit, si noxali condemnatus eum servum, in quo usus fructus alienus est, noxae dedisti, posse tecum adhuc agi iudicati: sed si usus fructus interierit, liberari ait.
+
+42.1.5
+
+Ulpianus libro 59 ad edictum
+
+pr. Ait praetor: "Cuius de ea re iurisdictio est". Melius scripsisset: "Cuius de ea re notio est": etenim notionis nomen etiam ad eos pertineret, qui iurisdictionem non habent, sed habent de quavis alia causa notionem.
+
+1. Si iudex aliquem sic condemnet, ut, quod habet ex testamento vel codicillis Maevii, restitueret Titio, sic accipiendum est, quasi quantitatem nominavit, quae testamento vel codicillis relicta est. Sed et si fideicommissum sine scriptura pronuntiatum, idem erit probandum.
+
+42.1.6
+
+Ulpianus libro 66 ad edictum
+
+pr. Miles, qui sub armata militia stipendia meruit, condemnatus eatenus, qua facere potest, cogitur solvere.
+
+1. Decem aut noxae dedere condemnatus iudicati in decem tenetur: facultatem enim noxae dedendae ex lege accipit. At is, qui stipulatus est decem aut noxae dedere, non potest decem petere, quia in stipulatione singula per se veniunt ea, quae singula separatim stipulari possumus: at iudicium solius noxae deditionis nullum est, sed pecuniariam condemnationem sequitur. Et ideo iudicati decem agitur, his enim solis condemnatur: noxae deditio in solutione est, quae e lege tribuitur.
+
+2. Qui iudicati bona auctoritate sua distraxit, furti actione et vi bonorum raptorum ei tenetur.
+
+3. Iudicati actio perpetua est et rei persecutionem continet: item heredi et in heredem competit.
+
+42.1.7
+
+Gaius libro    ad edictum praetoris urbani titulo de re iudicata
+
+Intra dies constitutos, quamvis iudicati agi non possit, multis tamen modis iudicatum liberari posse hodie non dubitatur, quia constitutorum dierum spatium pro iudicato, non contra iudicatum per legem constitutum est.
+
+42.1.8
+
+Paulus libro quinto ad Plautium
+
+Si homo ex stipulatu petitus post litem contestatam decesserit, absolutionem non faciendam et fructuum rationem habendam placet.
+
+42.1.9
+
+Pomponius libro quinto ex Plautio
+
+Furioso sententia a iudice vel ab arbitro dici non potest.
+
+42.1.10
+
+Marcellus libro secundo digestorum
+
+Qui, cum se pro patre familias fingeret, mutuam pecuniam accepit et exheres a patre vel emancipatus sit, quamvis facere non possit, debet condemnari.
+
+42.1.11
+
+Celsus libro quinto digestorum
+
+Si kalendis fieri aliquid stipulatus sum, nempe quandocumque post kalendas accepto iudicio tanti tamen aestimanda lis est, quanti interfuit mea kalendis id fieri: ex eo enim tempore quidque aestimatur, quod novissime solvi poterit.
+
+42.1.12
+
+Marcellus libro quarto digestorum
+
+In depositi vel commodati iudicio, quamquam dolo adversarii res absit, condemnato succurri solet, ut ei actionibus suis dominus cedat.
+
+42.1.13
+
+Celsus libro sexto digestorum
+
+pr. Si quis ab alio decem, ab alio satisdari stipulatus est, aestimandum erit, quantum stipulatoris intersit satisdari, idque aut tantundem erit aut minus aut interdum etiam nihil: neque enim vani timoris ulla aestimatio est. Verum sorte soluta nullum iam pretium aestimationis est, aut quantum ex sorte fuerit solutum, tantundem ex aestimatione decedet.
+
+1. Si quis promiserit prohibere se, ut aliquid damnum stipulator patiatur, et faciat ne quod ex ea re damnum ita habeatur, facit quod promisit: si minus, quia non facit quod promisit, in pecuniam numeratam condemnatur, sicut evenit in omnibus faciendi obligationibus.
+
+42.1.14
+
+Celsus libro 25 digestorum
+
+Quod iussit vetuitve praetor, contrario imperio tollere et remittere licet: de sententiis contra.
+
+42.1.15
+
+Ulpianus libro tertio de officio consulis
+
+pr. A divo Pio rescriptum est magistratibus populi Rromani, ut iudicum a se datorum vel arbitrorum sententiam exsequantur hi qui eos dederunt.
+
+1. Sententiam Romae dictam etiam in provinciis posse praesides, si hoc iussi fuerint, ad finem persequi imperator noster cum patre rescripsit.
+
+2. In venditione itaque pignorum captorum facienda <faciendo> primo quidem res mobiles et animales pignori capi iubent, mox distrahi: quarum pretium si suffecerit, bene est, si non suffecerit, etiam soli pignora capi iubent et distrahi. Quod si nulla moventia sint, a pignoribus soli initium faciunt: sic denique interloqui solent, si moventia non sint, ut soli quoque capiantur: nam a pignoribus soli initium faciendum non est. Quod si nec quae soli sunt sufficiant vel nulla sint soli pignora, tunc pervenietur etiam ad iura. Exsequuntur itaque rem iudicatam praesides isto modo.
+
+3. Si pignora, quae capta sunt, emptorem non inveniant, rescriptum est ab imperatore nostro et divo patre eius, ut addicantur ipsi, cui quis condemnatus est, addicantur autem utique ea quantitate quae debetur. Nam si creditor maluerit pignora in creditum possidere isque esse contentus, rescriptum est non posse eum quod amplius sibi debetur petere, quia velut pacto transegisse de credito videtur, qui contentus fuit pignora possidere, nec posse eum in quantitatem certam pignora tenere et superfluum petere.
+
+4. Si rerum, quae pignoris iure captae sunt, controversia fiat, constitutum est ab imperatore nostro ipsos, qui rem iudicatam exsequuntur, cognoscere debere de proprietate: et si cognoverint eius fuisse qui condemnatus est, rem iudicatam exsequentur. Sed sciendum est summatim eos cognoscere debere nec sententiam eorum posse debitori praeiudicare, si forte hi dimittendam eam rem putaverint, quasi eius sit, qui controversiam movit, non eius, cuius nomine capta est: nec eum, cui restituta est, statim habere per sententiam debere, si forte iure ordinario coeperit ab eo res peti. Sic evenit, ut omnibus integris tantum capioni res iudicata proficiat. Sed illud debet dici, ubi controversia est de pignore, id dimitti debere et capi aliud, si quod est sine controversia.
+
+5. Quod si res sit pignerata, quae pignori capta est, videndum est, an sic distrahi possit, ut dimisso creditore superfluum in causam iudicati convertatur. Et quamquam non cogatur creditor rem, quam pignori accepit, distrahere: tamen in iudicati exsecutione servatur, ut, si emptorem invenerit res quae capta est, qui dimisso priore creditore superfluum solvere sit paratus, admittenda sit huius quoque rei distractio. Nec videtur deterior condicio creditoris fieri suum consecuturi nec prius ius pignoris dimissuri, quam si ei fuerit satisfactum.
+
+6. Si post addictum pignus aliqua controversia emptori moveatur, an sit cognitio eiusdem iudicis, qui sententiam exsecutus fuerit, videndum est. Et cum semel emptio perfecta sit eiusque qui comparavit periculum vertatur, non puto locum esse cognitioni: certe posteaquam inductus est emptor in possessionem, nonne cessabunt partes eorundem iudicum? Idemque et si ipsi, cui quis iudicatus est, res fuerit addicta.
+
+7. Sed si emptor, cui pignora sunt addicta exsequente iudice, pretium non solvat, utrum adversus emptorem porrigere manus debeant idem iudices, qui sententiam exsequuntur, videndum est. Et non puto eos ultra procedere: ceterum longe res abibit. Quid enim dicemus? Condemnabunt emptorem et sic exsequentur adversus eum sententiam, an statim pro iudicato habebunt? Et quid si neget se emisse aut exsolvisse contendat? Melius igitur erit, si non se interponant, maxime cum nec habeat actionem adversus eum is, cui iudicatum fieri desideratur. Nec iniuria adficietur: oportet enim res captas pignori et distractas praesenti pecunia distrahi, non sic, ut post tempus pecunia solvatur. Certe si se interponant, hactenus debebunt intervenire, ut ipsam rem addictam capiant et distrahant, quasi nondum vinculo pignoris liberatam.
+
+8. Sic quoque iudices exsequentur iudicatum, ut nomina iure pignoris capiant, si nihil aliud sit quod capi possit: posse enim nomen iure pignoris capi imperator noster rescripsit.
+
+9. Sed utrum confessum nomen tantum capi possit an etiam si neget quis se debere, videamus. Et magis est, ut id dumtaxat capiatur, quod confitetur: ceterum si negetur, aequissimum erit discedi a nomine, nisi forte quis exemplum secutus corporalium pignerum ultra processerit dixeritque ipsos debere iudices de nomine cognoscere, ut cognoscunt de proprietate: sed contra rescriptum est.
+
+10. Item quid dicemus? Utrum ipsi iudices convenient nomen exigentque id quod debetur et in causam iudicati convertent, an vero vendent nomen, ut pignora corporalia solent? Et necesse est, ut quod eis facilius videatur ad rem exsequendam, hoc faciant.
+
+11. Sed et si pecunia penes argentarios sit, aeque capi solet. Hoc amplius et si penes alium quem, destinata tamen ei, qui condemnatus est, solet pignoris iure capi et converti in causam iudicati.
+
+12. Praeterea pecuniam quoque depositam nomine condemnati vel in arcam reclusam solent capere, ut iudicato satisfiat. Hoc amplius et si pupillaris pecunia in arcam reposita sit ad praediorum comparationem, et citra permissum praetoris ab eo, qui exsequitur iudicatum, solet capi et in causam iudicati converti.
+
+42.1.16
+
+Ulpianus libro 63 ad edictum
+
+Sunt qui in id quod facere possunt conveniuntur, id est non deducto aere alieno. Et quidem sunt hi fere, qui pro socio conveniuntur (socium autem omnium bonorum accipiendum est): item parens:
+
+42.1.17
+
+Ulpianus libro decimo ad edictum
+
+Patronus patrona liberique eorum et parentes: item maritus de dote in id quod facere potest convenitur:
+
+42.1.18
+
+Ulpianus libro 66 ad edictum
+
+Item miles, qui sub armata militia stipendia meruit, condemnatus eatenus, quatenus facere potest, cogitur solvere.
+
+42.1.19
+
+Paulus libro sexto ad Plautium
+
+pr. Inter eos, quibus ex eadem causa debetur, occupantis melior condicio est nec deducitur, quod eiusdem condicionis hominibus debetur, sicuti fit in de peculio actione: nam et hic occupantis melior est causa. Sed et si cum patre patronove agetur, non est deducendum aes alienum, maxime quod eiusdem condicionis personis debebitur, ut liberis libertis.
+
+1. Is quoque, qui ex causa donationis convenitur, in quantum facere potest condemnatur et quidem is solus deducto aere alieno: et inter eos, quibus ex simili causa pecunia debetur, occupantis potior erit causa. Immo nec totum quod habet extorquendum ei puto: sed et ipsius ratio habenda est, ne egeat.
+
+42.1.20
+
+Modestinus libro secundo differentiarum
+
+Non tantum dotis nomine maritus in quantum facere possit condemnatur, sed ex aliis quoque contractibus ab uxore iudicio conventus in quantum facere potest, condemnandus est ex divi Pii constitutione. quod et in persona mulieris aequa lance servari aequitatis suggerit ratio.
+
+42.1.21
+
+Paulus libro sexto ad Plautium
+
+Sicut autem cum marito agitur, ita et cum socero, ut non ultra facultates damnetur. An si cum socero ex promissione dotis agatur, in id quod facere potest, damnandus sit? Quod et id aequum esse videtur: sed alio iure utimur, ut et Neratius scribit.
+
+42.1.22
+
+Pomponius libro 21 ad Quintum Mucium
+
+pr. Sed hoc ita accipiendum est, si a socero dos ex promissione petatur soluto matrimonio: verum si manente matrimonio dos ab eo petatur, succurrendum utique est, ut ne maioris summae condemnetur, quam quantum facere potest.
+
+1. Quod autem de sociis dictum est, ut et hi in quantum facere possint condemnentur, causa cognita se facturum praetor edicit. Causae cognitio autem in hoc erit, ut neganti se socium esse aut ex doli clausula obligato non succurratur.
+
+42.1.23
+
+Paulus libro sexto ad Plautium
+
+Si cum procuratore mariti de dote actum fuerit, si quidem vivo marito condemnatio fiet, in quantum facere potest fiet damnatio (nam et defensor mariti in id quod ille facere potest damnatur), mortuo vero marito in solidum.
+
+42.1.24
+
+Pomponius libro quarto ex Plautio
+
+pr. Et si fideiussor acceptus sit rei vel actionis, non proderit, si persona, pro qua fideiussit, in quantum facere potest, condemnanda est.
+
+1. Si maritus solvendo non fuerit, licet ipsi marito prosit, quod facere non possit (id enim personae mariti praestatur), heredi eius hoc non prodest.
+
+42.1.25
+
+Paulus libro 60 ad edictum
+
+Sciendum est heredes earum personarum non in id, quod facere possunt, sed in integrum teneri.
+
+42.1.26
+
+Ulpianus libro 77 ad edictum
+
+Si convenerit inter litigatores, quid pronuntietur, non ab re erit iudicem huiusmodi sententiam proferre.
+
+42.1.27
+
+Modestinus libro primo responsorum
+
+Praeses provinciae usuras usurarum condemnavit contra leges et sacras constitutiones ideoque Lucius Ttitius contra prolatam sententiam iniustam praesidis appellavit: quaero, cum non secundum legem Titius provocasset, an exigi possit pecunia secundum condemnationem. Modestinus respondit, si sententiae certa quantitas continetur, nihil proponi, cur iudicati agi non possit.
+
+42.1.28
+
+Modestinus libro 12 responsorum
+
+Duo iudices dati diversas sententias dederunt. Modestinus respondit utramque sententiam in pendenti esse, donec competens iudex unam earum confirmaverit.
+
+42.1.29
+
+Modestinus libro septimo pandectarum
+
+Tempus, quod datur iudicato, etiam heredibus eius ceterisque qui in locum eius succedunt tribuitur (videlicet quod ex tempore deest), quia causae magis quam personae beneficium praestituitur.
+
+42.1.30
+
+Pomponius libro septimo variarum lectionum
+
+Cum ex causa donationis promissa pecunia est, si dubium sit, an ea res eo usque donatoris facultates exhaurire possit, ut vix quicquam ei in bonis relictum sit, actio in id quod facere possit danda est, ita ut et ipsi donatori aliquid sufficiens relinquatur. Quod maxime inter liberos et parentes observandum est.
+
+42.1.31
+
+Callistratus libro secundo cognitionum
+
+Debitoribus non tantum petentibus dies ad solvendum dandi sunt, sed et prorogandi, si res exigat: si qui tamen per contumaciam magis, quam quia non possint explicare pecuniam, differant solutionem, pignoribus captis compellendi sunt ad satisfaciendum ex forma, quam Cassio proconsuli divus Pius in haec verba rescripsit: "His, qui fatebuntur debere aut ex re iudicata necesse habebunt reddere, tempus ad solvendum detur, quod sufficere pro facultate cuiusque videbitur: eorum, qui intra diem vel ab initio datum vel ex ea causa postea prorogatum sibi non reddiderint, pignora capi eaque, si intra duos menses non solverint, vendantur: si quid ex pretiis supersit, reddatur ei, cuius pignora vendita erant".
+
+42.1.32
+
+Callistratus libro tertio cognitionum
+
+Cum prolatis constitutionibus contra eas pronuntiat iudex, eo quod non existimat causam, de qua iudicat, per eas iuvari, non videtur contra constitutiones sententiam dedisse. Ideoque ab eiusmodi sententia appellandum est: alioquin rei iudicatae stabitur.
+
+42.1.33
+
+Callistratus libro quinto cognitionum
+
+Divus Hadrianus, aditus per libellum a Iulio Tarentino et indicante eo falsis testimoniis, conspiratione adversariorum testibus pecunia corruptis, religionem iudicis circumventam esse, in integrum causam restituendam in haec verba rescripsit: "Exemplum libelli dati mihi a Iulio Tarentino mitti tibi iussi: tu, si tibi probaverit conspiratione adversariorum et testibus pecunia corruptis oppressum se, et rem severe vindica et, si qua a iudice tam malo exemplo circumscripto iudicata sunt, in integrum restitue".
+
+42.1.34
+
+Licinius libro 13 regularum
+
+Si victum vel stratum inferri quis iudicato non patiatur, utilis in eum poenalis actio danda est vel, ut quidam putant, iniuriarum cum eo agi poterit.
+
+42.1.35
+
+Papirius Iustus constitutionum libro secundo
+
+Imperatores antoninus et verus rescripserunt, quamquam sub obtentu novorum instrumentorum restitui negotia minime oporteat, tamen in negotio publico ex causa permittere se huiusmodi instrumentis uti.
+
+42.1.36
+
+Paulus libro 17 ad edictum
+
+Pomponius libro trigensimo septimo ad edictum scribit, si uni ex pluribus iudicibus de liberali causa cognoscenti de re non liqueat, ceteri autem consentiant, si is iuraverit sibi non liquere, eo quiescente ceteros, qui consentiant, sententiam proferre, quia, etsi dissentiret, plurium sententia optineret.
+
+42.1.37
+
+Marcellus libro tertio digestorum
+
+Tunc autem universi iudices intelleguntur iudicare, cum omnes adsunt.
+
+42.1.38
+
+Paulus libro 17 ad edictum
+
+pr. Inter pares numero iudices si dissonae sententiae proferantur, in liberalibus quidem causis, secundum quod a divo Pio constitutum est, pro libertate statutum optinet, in aliis autem causis pro reo. Quod et in iudiciis publicis optinere oportet.
+
+1. Si diversis summis condemnent iudices, minimam spectandam esse iulianus scribit.
+
+42.1.39
+
+Celsus libro tertio digestorum
+
+Duo ex tribus iudicibus uno absente iudicare non possunt, quippe omnes iudicare iussi sunt. Sed si adsit et contra sentiat, statur duorum sententiae: quid enim minus verum est omnes iudicasse?
+
+42.1.40
+
+Papinianus libro decimo responsorum
+
+Commodis praemiorum, quae propter coronas sacras praestantur, condemnato placuit interdici et eam pecuniam iure pignoris in causam iudicati capi.
+
+42.1.41
+
+Paulus libro 14 quaestionum
+
+pr. Nesennius Apollinaris: si te donaturum mihi delegavero creditori meo, an in solidum conveniendus sis? Et si in solidum conveniendus, an diversum putes, si non creditori meo, sed ei, cui donare volebam, te delegavero? Et quid de eo, qui pro muliere, cui donare volebat, marito eius dotem promiserit? Respondit: nulla creditor exceptione summoveretur, licet is, qui ei delegatus est, poterit uti adversus eum, cuius nomine promisit: cui similis est maritus, maxime si constante matrimonio petat. Et sicut heres donatoris in solidum condemnatur et ipse fideiussor, quem in donando adhibuit, ita et ei, cui non donavit, in solidum condemnatur.
+
+1. Fundum quis donavit: si non restituat, ut quivis possessor damnandus est: si autem fundum restituit, fructuum nomine, si non eos consumpsit, in solidum condemnandus est: potuit enim non periclitari, si statim restituisset: si dolo desiit possidere, in litem iurabitur et tanti sequetur condemnatio.
+
+2. In solidum condemnatus donator actione iudicati, nisi in quantum facere potest, non tenetur beneficio constitutionis.
+
+42.1.42
+
+Paulus libro tertio responsorum
+
+Paulus responsit rescindere quidem sententiam suam praecedentem praetorem non posse, reliqua autem, quae ad consequentiam quidem iam statutorum pertinent, priori tamen sententiae desunt, circa condemnandum reum vel absolvendum debere supplere, scilicet eodem die.
+
+42.1.43
+
+Paulus libro 16 responsorum
+
+Paulus respondit eos, qui una sententia in unam quantitatem condemnati sunt, pro portione virili ex causa iudicati conveniri, et si ex sententia adversus tres dicta Titius portionem sibi competentem exsolvit, ex persona ceterorum ex eadem sententia conveniri eum non posse.
+
+42.1.44
+
+Scaevola libro quinto responsorum
+
+Ex contractu paterno actum est cum pupilla tutore auctore et condemnata est: postea tutores abstinuerunt eam bonis paternis et ita bona defuncti ad substitutum vel ad coheredes pervenerunt: quaeritur, an hi ex causa iudicati teneantur. Rescripsit dandam in eos actionem, nisi culpa tutorum pupilla condemnata est.
+
+42.1.45
+
+Paulus libro primo sententiarum
+
+pr. Acta apud se habita, si partes consentiant et iudex hoc permiserit, potest iubere ea die circumduci, nisi vel negotium vel lis terminata est.
+
+1. De amplianda vel minuenda poena damnatorum post sententiam dictam sine principali auctoritate nihil est statuendum.
+
+2. Contra indefensos minores tutorem vel curatorem non habentes nulla sententia proferenda est.
+
+42.1.46
+
+Hermogenianus libro secundo iuris epitomarum
+
+Actorum verba emendare tenore sententiae perseverante non est prohibitum.
+
+42.1.47
+
+Paulus libro quinto sententiarum
+
+pr. De unoquoque negotio praesentibus omnibus, quos causa contingit, iudicari oportet: aliter enim iudicatum tantum inter praesentes tenet.
+
+1. Qui apud fiscum causam defendere saepius conventi neglexerint, rebus iudicatis subiciendi sunt. Quod eo apparet, si saepe conventi praesentiam suam facere noluerint.
+
+42.1.48
+
+Tryphoninus libro secundo disputationum
+
+Decreta a praetoribus latine interponi debent.
+
+42.1.49
+
+Paulus libro secundo manualium
+
+Et exheredatum vel eum, qui se paterna hereditate abstinuit, nec ex ipsius contractu nisi id quod facere potest condemnandum. Quemadmodum autem facere posse credatur, videndum est, utrum deducto omni aere alieno, ut is, qui ex donatione convenitur, an ut maritus et patronus nullo deducto aere alieno. Et indubitati iuris est ad similitudinem viri et patroni eum detrahendum: pinguius enim donatori succurrere debemus quam ei, qui verum debitum persolvere compellitur,
+
+42.1.50
+
+Tryphoninus libro 12 disputationum
+
+Ne liberalitate sua inops fieri periclitetur.
+
+42.1.51
+
+Paulus libro secundo manualium
+
+pr. Si quis dolo fecerit, ut bona eius venirent, in solidum tenetur.
+
+1. Si quis creditorem missum in possessionem rei servandae causa non admiserit, si venditor praestiterit creditori, quanti eius interfuerit, quaesitum est an debitor liberetur. Et puto improbum esse eum, qui velit iterum consequi quod accepit.
+
+42.1.52
+
+Tryphoninus libro 12 disputationum
+
+Si rerum amotarum cum viro agatur, quamquam videatur ea quoque actio praecedentis societatis vitae causam habuisse, in solidum condemnari debet, quoniam ex male contractu et delicto oritur.
+
+42.1.53
+
+Hermogenianus libro primo iuris epitomarum
+
+pr. Contumacia eorum, qui ius dicenti non obtemperant, litis damno coercetur.
+
+1. Contumax est, qui tribus edictis propositis vel uno pro tribus, quod vulgo peremptorium appellatur. Litteris evocatus praesentiam sui facere contemnet.
+
+2. Poenam contumacis non patitur, quem adversa valetudo vel maioris causae occupatio defendit.
+
+3. Contumaces non videntur, nisi qui, cum oboedire deberent, non obsequuntur, id est qui ad iurisdictionem eius, cui negant obsequi, pertinent.
+
+42.1.54
+
+Paulus libro primo sententiarum
+
+pr. Contra pupillum indefensum eumque, qui rei publicae causa abest, vel minorem viginti quinque annis propositum peremptorium nihil momenti habet.
+
+1. Is, qui <quid> ad maius auditorium vocatus est, si litem inchoatam deseruit, contumax non videtur.
+
+42.1.55
+
+Ulpianus libro 51 ad Sabinum
+
+Iudex posteaquam semel sententiam dixit, postea iudex esse desinit: et hoc iure utimur, ut iudex, qui semel vel pluris vel minoris condemnavit, amplius corrigere sententiam suam non possit: semel enim male seu bene officio functus est.
+
+42.1.56
+
+Ulpianus libro 27 ad edictum
+
+Post rem iudicatam vel iureiurando decisam vel confessionem in iure factam nihil quaeritur post orationem divi Marci, quia in iure confessi pro iudicatis habentur.
+
+42.1.57
+
+Ulpianus libro secundo disputationum
+
+Quidam consulebat, an valeret sententia a minore viginti quinque annis iudice data. Et aequissimum est tueri sententiam ab eo dictam, nisi minor decem et octo annis sit. Certe si magistratum minor gerit, dicendum est iurisdictionem eius non improbari. Et si forte ex consensu iudex minor datus sit scientibus his, qui in eum consentiebant, rectissime dicitur valere sententiam. Proinde si minor praetor, si consul ius dixerit sententiamve protulerit, valebit: princeps enim, qui ei magistratum dedit, omnia gerere decrevit.
+
+42.1.58
+
+Ulpianus libro septimo disputationum
+
+Si, cum nulla sententia praecessisset, capta sunt et distracta pignora, possunt revocari.
+
+42.1.59
+
+Ulpianus libro quarto de omnibus tribunalibus
+
+pr. In summa sufficiet, si expresserit iudex summam in sententia solvique iusserit vel praestari vel quo alio verbo hoc significaverit.
+
+1. Amplius est rescriptum, etsi in sententia non sit summa adiecta, si tamen is qui petit summam expresserit et iudex ait: "Solve, quod petitum est" vel "quantum petitum est", valere sententiam.
+
+2. Qui sortis quidem condemnationem faciunt, de usuris autem ita pronuntiant "usurae si quae competunt" vel "quae competunt, ut praestentur", non recte pronuntiant: debent enim de usuris quoque cognoscere et certam facere condemnationem.
+
+3. Si quis ex edicto peremptorio post mortem sit condemnatus, non valet sententia, quia morte rei peremptorium solvitur. Ideoque, ut in re integra, de causa notio praestabitur et quod optimum patuerit, statuetur.
+
+42.1.60
+
+Iulianus libro quinto digestorum
+
+Quaesitum est, cum alter ex litigatoribus febricitans discessisset et iudex absente eo pronuntiasset, an iure videretur pronuntiasse. Respondit: morbus sonticus etiam invitis litigatoribus ac iudice diem differt. Sonticus autem existimandus est, qui cuiusque rei agendae impedimento est. Litiganti porro quid magis impedimento est, quam motus corporis contra naturam, quem febrem appellant? Igitur si rei iudicandae tempore alter ex litigatoribus febrem habuit, res non videtur iudicata. Potest tamen dici esse aliquam et febrium differentiam: nam si quis sanus alias ac robustus tempore iudicandi levissima febre correptus fuerit, aut si quis tam veterem quartanam habeat, ut in ea omnibus negotiis superesse soleat, poterit dici morbum sonticum non habere.
+
+42.1.61
+
+Iulianus libro 45 digestorum
+
+In iudicati actione non prius ratio haberi debet eius, cui prior reus condemnatus fuerit.
+
+42.1.62
+
+Alfenus libro sexto digestorum a Paulo epitomatorum
+
+Cum quaerebatur, iudex, si perperam iudicasset, an posset eodem die iterum iudicare, respondit non posse.
+
+42.1.63
+
+Macer libro secundo de appellationibus
+
+Saepe constitutum est res inter alios iudicatas aliis non praeiudicare. Quod tamen quandam distinctionem habet: nam sententia inter alios dicta aliis quibusdam etiam scientibus obest, quibusdam vero, etiamsi contra ipsos iudicatum sit, nihil nocet. Nam scientibus nihil praeiudicat, veluti si ex duobus heredibus debitoris alter condemnatur: nam alteri integra defensio est, etiamsi cum coherede suo agi scierit. Item si ex duobus petitoribus alter victus adquieverit, alterius petitioni non praeiudicatur: idque ita rescriptum est. Scientibus sententia, quae inter alios data est, obest, cum quis de ea re, cuius actio vel defensio primum sibi competit, sequentem agere patiatur, veluti si creditor experiri passus sit debitorem de proprietate pignoris, aut maritus socerum vel uxorem de proprietate rei in dote acceptae, aut possessor venditorem de proprietate rei emptae: et haec ita ex multis constitutionibus intellegenda sunt. Cur autem his quidem scientia nocet, superioribus vero non nocet, illa ratio est, quod qui scit coheredem suum agere, prohibere eum, quo minus uti velit propria actione vel defensione utatur, non potest: is vero, qui priorem dominum defendere causam patitur, ideo propter scientiam praescriptione rei quamvis inter alios iudicatae summovetur, quia ex voluntate eius de iure, quod ex persona agentis habuit, iudicatum est. Nam et si libertus meus me interveniente servus vel libertus alterius iudicetur, mihi praeiudicatur. Diversa causa est, si fundum a te Titius petierit, quem ego quoque, sed non ex persona Titii ad me pertinere dico: nam quamvis contra Titium me sciente iudicatum sit, nullum tamen praeiudicium patior, quia neque ex eo iure, quo Titius victus est, vindico, neque potui Titio intercedere, quo minus iure suo utatur, sicuti et de coherede supra diximus.
+
+42.1.64
+
+Scaevola libro 25 digestorum
+
+Negotiorum gestorum condemnatus appellavit et diu negotium tractum est: quaesitum est appellatione eius iniusta pronuntiata, an, quo tardius iudicatum sit, usurae pecuniae in condemnatum deductae medii temporis debeantur. Respondit secundum ea quae proponentur dandam utilem actionem.
+
+
+* 42.2.0. De confessis.
+
+
+42.2.1
+
+Paulus libro 56 ad edictum
+
+Confessus pro iudicato est, qui quodammodo sua sententia damnatur.
+
+42.2.2
+
+Ulpianus libro 58 ad edictum
+
+Non fatetur qui errat, nisi ius ignoravit.
+
+42.2.3
+
+Paulus libro nono ad Plautium
+
+Iulianus ait confessum certum se debere legatum omnimodo damnandum, etiam si in rerum natura non fuisset et si iam a natura recessit, ita tamen, ut in aestimationem eius damnetur: quia confessus pro iudicato habetur.
+
+42.2.4
+
+Paulus libro 15 ad Plautium
+
+Si is, cum quo lege Aquilia agitur, confessus est servum occidisse, licet non occiderit, si tamen occisus sit homo, ex confesso tenetur.
+
+42.2.5
+
+Ulpianus libro 27 ad edictum
+
+Qui Stichum debere se confessus est, sive mortuus iam Stichus erat sive post litis contestationem decesserit, condemnandus est.
+
+42.2.6
+
+Ulpianus libro quinto de omnibus tribunalibus
+
+pr. Certum confessus pro iudicato erit, incertum non erit.
+
+1. Si quis incertum confiteatur vel corpus sit confessus Stichum vel fundum dare se oportere, urgueri debet, ut certum confiteatur: item eum, qui rem confessus est, ut certam quantitatem fateatur.
+
+2. Sed et si fundum vindicem meum esse tuque confessus sis, perinde habeberis, atque si dominii mei fundum esse pronuntiatum esset. Et si alia quacumque actione civili vel honoraria vel interdicto exhibitorio vel restitutorio vel prohibitorio dum quis convenitur, confiteatur, dici potest in his omnibus subsequi praetorem voluntatem orationis divi Marci debere et omne omnino, quod quis confessus est, pro iudicato habere. Dabitur igitur ex his actionibus, ex quibus dies datur ad restituendam rem, confesso tempus ad restitutionem et, si non restituatur, lis aestimabitur.
+
+3. Si quis absente adversario confessus sit, videndum, numquid non debeat pro iudicato haberi, quia nec qui iurat de operis, obligatur nec soleat quis absenti condemnari. Certe procuratorem, tutorem curatoremve praesentem esse sufficit.
+
+4. Sed an et ipsos procuratores vel tutores vel curatores fateri sufficiat, videamus: et non puto sufficere.
+
+5. In pupillo tutoris auctoritatem exigimus.
+
+6. Minorem a confessione sua restituemus.
+
+7. Confessi utique post confessionem tempora quasi ex causa iudicati habebunt.
+
+42.2.7
+
+Africanus libro quinto quaestionum
+
+Cum fideicommissum peteretur, heres confessus est debere: arbiter ad restituendum datus comperit nihil deberi: quaesitum est, an possit absolvere. Respondi posse interesse, qua ex causa nihil debeatur. Nam si ob id, quod nullum fideicommissum fuerit, non debere eum absolvere: si vero quia testator forte solvendo non erat aut quod heres omne solutum esse apud praetorem dixerat et, cum controversia et computatio difficilior esset, arbiter datus fuerit, salvo officio eum absoluturum: has enim partes eius esse, ut, si in computatione nihil inveniatur, possit absolvere. Sed et ex superiore casu ad praetorem remittere debet, ut absolvatur.
+
+42.2.8
+
+Paulus libro quarto ad Sabinum
+
+Non omnimodo confessus condemnari debet rei nomine, quae, an in rerum natura esset, incertum sit.
+
+
+* 42.3.0. De cessione bonorum.
+
+
+42.3.1
+
+Ulpianus libro 17 ad edictum
+
+Creditori, qui ob restitutionem aedificiorum crediderit, privilegium exigendi datur.
+
+42.3.2
+
+Ulpianus libro 21 ad edictum
+
+In personalibus actionibus qui postea quidem contraxerunt, verum ut pecunia eorum ad priores creditores perveniat, in locum eorum succedunt.
+
+42.3.3
+
+Ulpianus libro 58 ad edictum
+
+Is, qui bonis cessit, ante rerum venditionem utique bonis suis non caret: quare si paratus fuerit se defendere, bona eius non veneunt.
+
+42.3.4
+
+Ulpianus libro 59 ad edictum
+
+pr. Is qui bonis cessit si quid postea adquisierit, in quantum facere potest convenitur.
+
+1. Sabinus et Cassius putabant eum qui bonis cessit ne quidem ab aliis, quibus debet, posse inquietari.
+
+42.3.5
+
+Paulus libro 56 ad edictum
+
+Quem paenitet bonis cessisse, potest defendendo se consequi, ne bona eius veneant.
+
+42.3.6
+
+Ulpianus libro 64 ad edictum
+
+Qui bonis suis cessit, si modicum aliquid post bona sua vendita adquisivit, iterum bona eius non veneunt. Unde ergo modum hunc aestimabimus, utrum ex quantitate eius quod adquisitum est an vero ex qualitate? Et putem ex quantitate id aestimandum esse eius quod quaesiit, dummodo illud sciamus, si quid misericordiae causa ei fuerit relictum, puta menstruum vel annuum alimentorum nomine, non oportere propter hoc bona eius iterato venundari: nec enim fraudandus est alimentis cottidianis. Idem et si usus fructus ei sit concessus vel legatus, ex quo tantum percipitur, quantum ei alimentorum nomine satis est.
+
+42.3.7
+
+Modestinus libro secundo pandectarum
+
+Si debitoris bona venierint, postulantibus creditoribus permittitur rursum eiusdem debitoris bona distrahi, donec suum consequantur, si tales tamen facultates adquisitae sunt debitori, quibus praetor moveri possit.
+
+42.3.8
+
+Ulpianus libro 26 ad edictum
+
+Qui cedit bonis, antequam debitum adgnoscat, condemnetur vel in ius confiteatur, audiri non debet.
+
+42.3.9
+
+Marcianus libro 15 institutionum
+
+Bonis cedi non tantum in iure, sed etiam extra ius potest. Et sufficit et per nuntium vel per epistulam id declarari.
+
+
+* 42.4.0. Quibus ex causis in possessionem eatur.
+
+
+42.4.1
+
+Ulpianus libro 12 ad edictum
+
+Tres fere causae sunt, ex quibus in possessionem mitti solet: rei servandae causa, item legatorum servandorum gratia et ventris nomine. Damni enim infecti nomine si non caveatur, non in universorum nomine fit missio, sed rei tantum, de qua damnum timetur.
+
+42.4.2
+
+Ulpianus libro quinto ad edictum
+
+pr. Praetor ait: "In bona eius, qui iudicio sistendi causa fideiussorem dedit, si neque potestatem sui faciet neque defenderetur, iri iubebo".
+
+1. Potestatem autem sui non facit, qui id agit, ne adversarius eius copiam sui habeat: ergo latitantis bona iubet possideri.
+
+2. Quid si non latitet, sed absens non defendatur? Nonne videtur potestatem sui non facere?
+
+3. Defendi autem videtur, qui per absentiam suam in nullo deteriorem causam adversarii faciat.
+
+4. Haec verba "defenderetur" paratatikws scripta sunt, ut neque sufficiat umquam defendisse, si non duret defensio, neque obsit, si nunc offeratur.
+
+42.4.3
+
+Ulpianus libro 59 ad edictum
+
+pr. Apud Iulianum quaeritur, si communem rem cum Titio pater pupilli habuerit et communi dividundo iudicio pupillus non defendatur nihilque erit, cuius nomine propter personam patris condemnatio fieri debeat: utrum venire bona patris oporteat an vero rei servandae causa possideantur. Et ait Iulianus, si quidem pater aliquos fructus percepit aut fecerit rem deteriorem, bona eius venire possunt: si vero nihil sit, propter quod patris bona veneant, pupilli possideri. Marcellus autem notat perquam iniquum esse eum, qui nihil cum pupillo contraxit, expectare eius pubertatem. Quae sententia habet rationem: ideoque cum contractus ex persona patris descendat, dicendum erit non esse exspectandam pupilli pubertatem.
+
+1. Contractum cum pupillo potest dici et si cum servo eius contractum sit: competit enim adversus eum de peculio actio. Unde probandum est ex omnibus causis, ex quibus adversus pupillum actio datur, hoc idem servandum. Et facilius erit hoc probandum in servo, qui in rem domini vertit aut iussu eius aut si institoria cum eo agi possit.
+
+2. Ego puto: et si cum tutore eius contractum est, ex qua causa actio in pupillum datur, magis est, ut edicto locus sit, quasi cum eo contractum sit.
+
+3. Si pupillus heres extiterit alicui exque ea causa legata debeat, videndum est, an huic edicto locus sit: magisque est, ut Marcellus scribit, etiam pupilli posse bona possideri esseque in arbitrio hereditariorum creditorum, quid potius eligant: etenim videtur impubes contrahere, cum adiit hereditatem.
+
+42.4.4
+
+Paulus libro 58 ad edictum
+
+Sed et is, qui miscuit se, contrahere videtur.
+
+42.4.5
+
+Ulpianus libro 59 ad edictum
+
+pr. Haec autem locum habent, quotiens pupillus non defendatur a quocumque, sive a tutore vel curatore, sive habeat tutorem pupillus sive non habeat: ceterum si existat aliquis, qui defendere sit paratus, cessabit rei servandae causa possessio.
+
+1. Non defendi pupillum constare debet liquereque praetori, ut sic permittat bonorum possessionem. Hoc autem constare debet sic: evocandi sunt ad praetorem tutores pupilli, ut defendant: si autem non habet tutores, requirendi cognati vel adfines et si qui alii forte sunt, quos verisimile est defensionem pupilli pupillae non omissuros vel propter necessitudinem vel propter caritatem vel qua alia ratione: liberti etiam si qui sunt idonei, evocandi exquirendaque defensio. Si aut negent se defendere aut non negent, sed taceant, tunc praetor possessionem dabit, tamdiu scilicet, quoad non defendatur: si defendi coeperit pupillus vel pupilla, desinet possideri. Idem est et in furioso.
+
+2. Ait praetor: "Si is pupillus in suam tutelam venerit eave pupilla viripotens fuerit et recte defendetur: eos, qui bona possident, de possessione decedere iubebo".
+
+3. Recte defendi quid sit, videamus, utrum tantum copiam sui facere et ad suscipiendum iudicium paratum esse an vero et satisdare omnimodo. Et quidem non solum ipsis se defendere volentibus hoc edictum scriptum est, sed in rem: et "recte defendetur" hoc est vel a se vel ab alio quocumque. Sed si alius defendat, erit necessaria satisdatio, si ipse, non puto necessariam satisdationem. Ergo oblata defensione deici poterit interdicto reddito.
+
+42.4.6
+
+Paulus libro 57 ad edictum
+
+pr. In possessionem mitti solet creditor et si sub condicione ei pecunia promissa sit.
+
+1. Cum dicitur: "et eius, cuius bona possessa sunt a creditoribus, veneant, praeterquam pupilli et eius, qui rei publicae causa sine dolo malo afuit", intellegimus eius, qui dolo malo afuerit, posse venire.
+
+2. Si ab hostibus quis captus sit, creditores eius in possessionem mittendi sunt, ut tamen non statim bonorum venditio permittatur, sed interim bonis curator detur.
+
+42.4.7
+
+Ulpianus libro 59 ad edictum
+
+pr. Fulcinius existimat creditores rei servandae causa missos in possessionem ex his rebus ali non debere.
+
+1. Praetor ait: "Qui fraudationis causa latitabit, si boni viri arbitratu non defendetur, eius bona possideri vendique iubebo".
+
+2. Cum hoc edictum locum habeat, non sufficit latitare, sed et necesse est fraudationis causa id fieri: neque quod fraudationis causa sine latitatione fit, satis est ad possessionem et venditionem, sed oportet fraudationis causa latitare. et est frequentissima haec causa possessionis: nam in usu latitantium bona possidentur.
+
+3. Si quis possederit bona alicuius quasi latitantis, qui non latitabat, et vendiderit, consequens erit dicere venditionem bonorum secutam nullius momenti esse.
+
+4. Quid sit autem latitare, videamus. Latitare est non, ut cicero definit, turpis occultatio sui: potest enim quis latitare non turpi de causa, veluti qui tyranni crudelitatem timet aut vim hostium aut domesticas seditiones.
+
+5. Sed is, qui fraudationis causa latitet, non tamen propter creditores, etsi haec latitatio creditores fraudet, in ea tamen erit causa, ne hinc possideri bona eius possint, quia non hoc animo latitet, ut fraudet creditores: animus enim latitantis quaeritur, quo animo latitet, ut fraudet creditores an alia ex causa.
+
+6. Quid ergo, si duas causas latitandi habuit vel plures, inter quas etiam fraudandi creditores? An venditio recte procedat? Et puto probandum, si plures causae sint latitationis, inter quas est et fraudationis causa, nocere debere posseque hinc bona vendi.
+
+7. Quid si adversus quosdam occultare se consilium non est, adversus quosdam est, quid dicemus? Et rectissime Pomponius scribit non adversus omnes latitationem exigendam, sed adversus eum, quem quis decipere et fraudare latitatione destinat. Utrum ergo omnes bona eius vendere possunt, quia latitat, hoc est etiam hi, adversus quos non latitat, quia verum est eum latitare, an vero is solus, adversus quem latitat? Et quidem verum est eum latitare et fraudationis causa latitare, etsi non adversus me latitet: sed illud spectandum Pomponius putat, an adversus me, eumque solum posse hinc venditionem impetrare, adversus quem latitetur.
+
+8. Latitare autem est cum tractu aliquo latere, quemadmodum factitare frequenter facere.
+
+9. Adeo autem latitatio animum et affectum occultantis se desiderat, ut recte dictum sit furiosum hinc venditionem pati non posse, quia non se occultat, qui suus non est.
+
+10. Plane si non defendatur furiosus, curatorem ei dandum, aut bona eius ut possideantur, nominatim permittendum est. Labeo autem scribit, si non inveniatur curator vel defensor furiosi, sed et si curator datus eum non defendat, tunc removendum eum et oportere praetorem dare curatorem aliquem ex creditoribus, ut non amplius, quam necesse est, ex bonis furiosi veneat: eaque servanda Labeo ait, quae solent servari, cum venter in possessionem mittitur.
+
+11. Plane interdum bona eius causa cognita vendenda erunt, si urgueat aes alienum et dilatio damnum sit allatura creditoribus, ita autem vendenda, ut quod supersit, furioso detur, quia dominis eius status et habitus a pupilli condicione non multum abhorret: quod quidem non est sine ratione.
+
+12. Idemque et in prodigo dicendum est ceterisque, qui curatorem ope iuvantur: nec enim quisquam proprie latitare eos dixerit.
+
+13. Illud sciendum est posse quem in eadem civitate esse et latitare, et in alia civitate et non latitare. Etenim qui in alia civitate sit copiamque sui faciat in publico ibique pareat, an latitet, videamus. Et hodie hoc iure utimur, ut sive quis eodem loci agat sive peregre agat, si tamen occursum creditoris evitet, latitare videatur. Denique eum quoque, qui in foro eodem agat, si circa columnas aut stationes se occultet, videri latitare veteres responderunt, et posse quem adversus alterum latitare, adversus alterum non. Constat autem, ut ipse eius possit bona vendere, adversus quem latitat.
+
+14. Si in diem vel sub condicione debitor latitet, antequam dies vel condicio veniat, non possunt bona eius venire: quid enim interest, debitor quis non sit an nondum conveniri possit? Nam et si non sit debitor, idem dicemus. Idem erit dicendum et si quis habeat quidem actionem, sed talem, quae per exceptionem repellitur.
+
+15. Si quis actione de peculio filii vel servi nomine conveniri possit, si latitet, eo iure utimur, ut possint bona eius possideri et venire, tametsi nihil fuerit in peculio, quia esse potest et rei iudicatae tempus spectamus, utrum sit an non sit, et quod teneat actio, etiam si nihil in peculio fuerit.
+
+16. Item videamus, si quis adversus in rem actionem latitet, an bona eius possideri venumque dari possint. Extat Neratii sententia existimantis bona esse vendenda: et hoc rescripto Hadriani continetur, quo iure utimur.
+
+17. Celsus autem Sexto respondit, si fundum, quem petere volo, Titius possideat neque absens defendatur, commodius se existimare in fundi possessionem mittendum quam bona eius possideri. Hoc adnotandum est Celsum consultum non de latitante, sed de absente.
+
+18. Idem Celsus existimat, si is, a quo hereditatem petere velim, latitat, commodissime fieri posse, ut in possessionem mittar rerum, quas pro herede vel pro possessore possidet: sed si dolo fecit, quo minus possideret, bona eius possidenda et vendenda sunt.
+
+19. Divus quoque pius in persona eius, qui hereditatem possidens copiam sui non faciebat, rescripsit in possessionem rerum hereditariarum adversarium inducendum: in quo rescripto et fructum percipere iussit eum, qui per nimiam contumaciam possessoris hereditatis, ut lucro eius cedat, in possessionem inductus est rerum hereditariarum.
+
+42.4.8
+
+Ulpianus libro 60 ad edictum
+
+Si diu incertum sit, heres extaturus nec ne sit, causa cognita permitti oportebit bona rei servandae causa possidere, et, si ita res urgueat vel condicio bonorum, etiam hoc erit concedendum, ut curator constituatur.
+
+42.4.9
+
+Paulus libro 57 ad edictum
+
+pr. Unus ex creditoribus.
+
+1. Si alter ex heredibus intra tempora sibi praestituta deliberet adire hereditatem, alter vero neget se aditurum, videndum est, quid creditoribus agendum sit. Et placet interim eos in possessionem mittendos custodiae causa, donec appareat, is qui deliberat utrum adgnoscat partem suam an non adgnoscat.
+
+42.4.10
+
+Ulpianus libro 81 ad edictum
+
+Si pupillus praesens sit, tutorem autem non habeat, pro absente habendus est.
+
+42.4.11
+
+Paulus libro octavo ad Plautium
+
+Si filio familias legatum vel fideicommissum sub condicione relictum sit, dicendum est tam ipsum quam patrem in possessionem mittendos esse, quia ambo spem commodi habent.
+
+42.4.12
+
+Pomponius libro 23 ad Quintum Mucium
+
+Cum legatorum vel fideicommissi servandi causa, vel quia damni infecti nobis non caveatur, bona possidere praetor permittit, vel ventris nomine in possessionem nos mittit, non possidemus, sed magis custodiam rerum et observationem nobis concedit.
+
+42.4.13
+
+Papinianus libro 14 responsorum
+
+Ad cognitionem imperatorum a praeside provinciae remissus etsi in ceteris litibus Romae defendere se non cogitur, tamen in provincia defendendus est: nam et exilio temporario puniti, si defensor non existat, bona veneunt.
+
+42.4.14
+
+Paulus libro secundo quaestionum
+
+pr. Si quis creditorem prohibuerit bona debitoris ingredi, datur in eum actio, quanti ea res sit.
+
+1. Sed et si quis legatorum servandorum causa missus in possessionem admissus non est, si legati condicio pendeat, licet possit deficere, aestimatur tamen id quod legatum est, quia interest eius cautum habere.
+
+2. Creditor autem condicionalis in possessionem non mittitur, quia is mittitur, qui potest bona ex edicto vendere.
+
+42.4.15
+
+Ulpianus libro sexto fideicommissorum
+
+Is, qui rem permutatam accepit, emptori similis est: item is, qui rem in solutum accepit vel qui lite aestimata retinuit vel ex causa stipulationis non ob liberalitatem est consecutus.
+
+
+* 42.5.0. De rebus auctoritate iudicis possidendis seu vendundis.
+
+
+42.5.1
+
+Gaius libro 23 ad edictum provinciale
+
+Venire bona ibi oportet, ubi quisque defendi debet, id est.
+
+42.5.2
+
+Paulus libro 54 ad edictum
+
+Ubi domicilium habet,
+
+42.5.3
+
+Gaius libro 23 ad edictum provinciale
+
+Aut ubi quisque contraxerit. contractum autem non utique eo loco intellegitur, quo negotium gestum sit, sed quo solvenda est pecunia.
+
+42.5.4
+
+Paulus libro 57 ad edictum
+
+Si servus sub condicione heres institutus sit aut dubium sit, an is heres liberque futurus sit, non est iniquum postulantibus creditoribus ita decerni, ut, si ante certum tempus is heres non extiterit, perinde omnia observentur, ac si is heres ita institutus non esset: quod plerumque accideret, si sub condicione dandae alicui pecuniae heres institutus sit nec dies adpositus sit. sed hoc quantum ad bona ita observandum: ceterum libertas ei quandoque competet et a praetore conservanda est, etiamsi certum sit neque heredem neque bonorum possessorem futurum. Si quis tamen heredem se spondendo vel actiones patiendo defunctum defendat, bona defuncti venire non poterunt.
+
+42.5.5
+
+Ulpianus libro 60 ad edictum
+
+Si minor viginti quinque annis, qui habet curatores, a curatoribus non defendatur nec alium defensorem inveniat, bonorum venditionem patitur, etsi non latitet, licet non fraudationis causa latitare videtur, qui sui non est idoneus defensor.
+
+42.5.6
+
+Paulus libro 58 ad edictum
+
+pr. Si non expedierit pupillo hereditatem parentis retinere, praetor bona defuncti venire permittit, ut quod superaverit pupillo restituatur.
+
+1. Si pupillus, antequam abstineret, aliquid gesserit, servandum est, utique si bona fide gessit.
+
+2. Quid ergo, si quibusdam creditoribus solvit, deinde bona venierint? Si quaeritur, an repetitio sit, ex causa id statuendum iulianus ait, ne alterius aut neglegentia aut cupiditas huic, qui diligens fuit, noceat. Quod si utroque instante tibi gratificatus tutor solvit, aequum esse aut prius eandem portionem mihi quaeri aut communicandum quod accepisti: et hoc Iulianus ait. Apparet autem loqui eum, si ex bonis paternis solutum sit. Quid ergo, si aliunde pupillus solverit? Reddi ei debebit nec ne? Et utrum a creditore an ex hereditate? Scaevola noster ait, si aliquid sit in bonis, deducendum ex hereditate solidum exemplo eius, qui gessit negotia: sed si nihil sit in bonis, non esse iniquum adversus creditorem dandam repetitionem quasi indebiti soluti.
+
+42.5.7
+
+Gaius libro 23 ad edictum provinciale
+
+Hereditarium aes alienum intellegitur etiam id, de quo cum defuncto agi non potuit, veluti quod is cum moreretur daturum se promisisset, item quod is, qui pro defuncto fideiussit, post mortem eius solvit.
+
+42.5.8
+
+Ulpianus libro 61 ad edictum
+
+pr. In venditionem bonorum etiam usus fructus venit, quia appellatione domini fructuarius quoque continetur.
+
+1. Si quis fructus ex praedio debitoris capi poterit, hunc creditor, qui in possessionem praedii missus est, vendere vel locare debet: sed hoc ita demum, si ante neque venierit neque locatus erit. Nam si iam a debitore vel locatus erat vel venierat, servabit praetor venditionem et locationem a debitore factam, etsi minoris distractum est vel locatum, nisi si in fraudem creditorum hoc fiat: tunc enim praetor arbitrium dat creditoribus, ut ex integro locationem vel venditionem faciant.
+
+2. De ceterarum quoque rerum fructibus idem erit dicendum, ut, si qui locari possint, locentur, puta mercedes servorum vel iumentorum ceterorumque, quae possunt locari.
+
+3. De tempore locationis nihil praetor locutus est et ideo liberum arbitrium creditoribus datum videtur, quanto tempore locent, quemadmodum illud est in arbitrio eorum, vendant vel locent, scilicet sine dolo malo: ex culpa autem rei non fiunt.
+
+4. Si unus sit, qui possideat bona, expeditum erit de locatione: quod si non unus, sed plures sint, quis eorum debeat locare vel vendere, quaeritur. Et si quidem convenit inter eos, expeditissimum est: nam et omnes possunt locare et uni hoc negotium dare: si vero non convenit, tunc dicendum est praetorem causa cognita eligere debere, qui locet vel vendat.
+
+42.5.9
+
+Ulpianus libro 62 ad edictum
+
+pr. Praetor ait: "Si quis, cum in possessione bonorum esset, quod eo nomine fructus ceperit, ei, ad quem ea res pertinet, non restituat: sive, quod impensae sine dolo malo fecerit, ei non praestabitur: sive dolo malo eius deterior causa possessionis facta esse dicetur, de ea re iudicium in factum dabo".
+
+1. Quod de fructibus ait, etiam de ceteris, quaecumque ex re debitoris pervenerunt, intellegendum est. Et sane debuit hoc ita esse: quid enim, si ex compromisso vel alio casu poenam consecutus est? Nam eam poenam, quam consecutus est, praestare debet.
+
+2. Quod ait praetor "sive quod impensae nomine sine dolo fecit, ei non praestabitur", hoc eo spectat, ut, si quid ipse erogavit creditor, si modo sine dolo malo erogavit, hoc ei praestetur: sufficit igitur sine dolo erogasse, etiamsi nihil profuit erogatio eius rei debitori.
+
+3. His verbis "ad quem ea res pertinet" etiam curator bonis distrahendis datus continebitur et ipse debitor, si contigerit, ne bona eius veneant. Et ipsi itaque creditori adversus hos dabitur actio, quos enumeravimus, sive quid in fructibus percipiendis erogavit sive in familia alenda curandave praediis fulciendis vel reficiendis vel damno infecto promittendo vel servo noxali iudicio defenso, si modo non magis eum expedit dedere quam retinere: quod si dedere expedit, consequens erit repetere eum non debere.
+
+4. Generaliter etiam dicendum est, quidquid impendit in rem, si modo sine dolo malo impendit, repetere eum posse: nam negotiorum gestorum agere non magis potest quam si socius commune aedificium fulsit, quia hic quoque creditor commune, non alienum negotium gessisse videtur.
+
+5. Est praeterea quaesitum, si deteriora praedia facta fuerint sine dolo malo creditoris vel iura eorum amissa vel aedificia diruta vel exusta, item familiae pecorumque acta cura non sit aut possessio alii tradita, sine dolo tamen malo, an teneatur. Et apparet eum non teneri, quia dolo malo caret, eritque melior eius condicio quam in pignore creditoris, qui non tantum dolum malum, verum culpam quoque debet. Eadem causa est curatoris bonorum: nam et is tenetur ut creditores.
+
+6. In eum quoque, qui neque locavit fructum praedii neque vendidit, in factum actionem dat praetor et in hoc condemnabitur, quanto minus propter hoc perceptum est, quia neque vendidit neque locavit. Ceterum si tantum perceptum est, quantum perciperetur, si locatus vel distractus fructus esset, nihil ei imputabitur. Praestat autem per id tantum temporis, quo in possessionem fuit vel ipse vel iussu eius alius, quoad inde de possessione discessum est: nam neque hoc imputatur creditori, cur in possessionem non venerit, neque illud, cur de possessione decesserit, cum voluntarium et suum potius negotium creditor gerat. Aestimatio autem fit, quantum interest eius qui experitur.
+
+7. Hae actiones neque temporariae sunt et tam heredibus quam in heredes dabuntur ceterosque successores.
+
+8. Si possessionis causa deterior facta esse dicetur dolo eius, qui in possessionem missus sit, actio in eum ex dolo datur, quae neque post annum neque in heredes ceterosque successores dabitur, cum ex delicto oriatur poenaeque nomine concipiatur,
+
+42.5.10
+
+Paulus libro 59 ad edictum
+
+Nisi quatenus ad eum pervenit.
+
+42.5.11
+
+Ulpianus libro 62 ad edictum
+
+Heredi autem dabitur, quia et rei continet persecutionem.
+
+42.5.12
+
+Paulus libro 59 ad edictum
+
+pr. Cum unus ex creditoribus postulat in bona debitoris se mitti, quaeritur, utrum solus is qui petit possidere potest, an, cum unus petit et praetor permisit, omnibus creditoribus aditus sit. Et commodius dicitur, cum praetor permiserit, non tam personae solius petentis, quam creditoribus et in rem permissum videri: quod et Labeo putat. Nec videbitur libera persona adquirere alii, quia nec sibi quicquam adquirit, cui praetor permittit, sed aliquid ex ordine facit: et ideo ceteris quoque prodest. Plane si is postulaverit, qui creditor non est, minime dicendum est vel eum, qui creditor est, possidere posse, quia nihil egit talis postulatio: aliter atque si creditor, cui permissum est possidere, postea recepit debitum suum: ceteri enim poterunt peragere bonorum venditionem.
+
+1. Is, qui possidere iubetur, eo loco iussus videtur, cuius cura ad iubentem pertinet.
+
+2. Si propter naturam rei (veluti si praedium inundatum sit) aut propter latronum potentiam non potest possidere, recte dicitur non esse quod possideatur.
+
+42.5.13
+
+Gaius libro 23 ad edictum provinciale
+
+Quamvis possessa non sint bona, quia forte nihil fuerit, quod possideatur, aut sine controversia non possideatur creditor qui in possessionem missus est, perinde habetur, ac si etiam possessa bona fuissententiarum
+
+42.5.14
+
+Paulus libro 59 ad edictum
+
+pr. Creditore in possessionem rerum debitoris misso curator constitui debet, si quaedam actiones periturae sunt.
+
+1. Datur in creditorem actio, qui in possessionem missus est, de eo quod ex bonis debitoris ad eum pervenit: si nondum sit aliquid consecutus, actiones suas praestabit. Datur autem in factum actio adversus eum et omne, quod in actionem negotiorum gestorum veniret, si posset agi, restituendum a creditore.
+
+42.5.15
+
+Ulpianus libro 62 ad edictum
+
+pr. Cum plures creditores in possessionem rerum debitoris mittantur, ne corrumpantur rationes, uni hoc negotium a creditoribus esse dandum, quem maior pars creditorum elegerit. Ego puto creditoribus instrumentorum etiam anagrafyn facere, non ut describant ipsa corpora instrumentorum, sed quot sint, de qua re sint, subnotent sibi et quasi inventarium faciant: quod etiam universorum facere eis erit permittendum. Praeterea nonnumquam praetor causa cognita etiam describere aliquid ex instrumentis creditoribus debebit permittere, si qua idonea causa interveniat.
+
+1. Utrum semel an etiam saepius recognitio et dispunctio concedenda sit creditoribus, videamus. Et ait Labeo amplius quam semel non esse concedendam: si quis tamen, inquit, iuraverit non calumniae causa se postulare neque habere quae dispunxerit, iterum ei faciendam potestatem ait nec amplius quam bis.
+
+42.5.16
+
+Gaius libro 24 ad edictum provinciale
+
+Cum bona veneunt debitoris, in comparatione extranei et eius, qui creditor cognatusve sit, potior habetur creditor cognatusve, magis tamen creditor quam cognatus, et inter creditores potior is, cui maior pecunia debebitur.
+
+42.5.17
+
+Ulpianus libro 63 ad edictum
+
+pr. Quaesitum est, utrum ita demum privilegium habet funeraria, si is cuius bona veneunt funeratus sit, an etiam si proponas alium esse funeratum. Et hoc iure utimur, ut quicumque sit funeratus, id est sive is, cuius de bonis agitur, sive quid is debuit, quod reddere eum, si viveret, funeraria actione cogi oporteret, privilegio locus sit parvique referre dicamus, qua actione hic sumptus repetatur, funeraria an familiae erciscundae an qua alia, dummodo sumptus funeris causa factus sit. Quacumque igitur actione ob funeris sumptum utatur, etiam funerariam ei competere. Quare si in stipulatum funeris impensa deducta est, dicendum est locum esse privilegio, si modo quis non abiciendi privilegii causa stipulatus est.
+
+1. Si sponsa dedit dotem et nuptiis renuntiatum est, tametsi ipsa dotem condicit, tamen aequum est hanc ad privilegium admitti, licet nullum matrimonium contractum est: idem puto dicendum etiam, si minor duodecim annis in domum quasi uxor deducta sit, licet nondum uxor sit:
+
+42.5.18
+
+Paulus libro 60 ad edictum
+
+(interest enim rei publicae et hanc solidum consequi, ut aetate permittente nubere possit)
+
+42.5.19
+
+Ulpianus libro 63 ad edictum
+
+pr. Dabimusque ex his causis ipsi mulieri privilegium.
+
+1. Si quis, cum tutor non esset, pro tutore negotia gessit, privilegio locum esse manifestum est: nec interest, ipse debeat qui gessit sive heres eius ceterique successores. Ipse autem pupillus habet privilegium, sed eius successores non habent. Sed aequissimum erit ceteros quoque, quibus curatores quasi debilibus vel prodigis dantur,
+
+42.5.20
+
+Paulus libro 60 ad edictum
+
+Vel surdo muto,
+
+42.5.21
+
+Gaius libro 24 ad edictum provinciale
+
+Vel fatuo.
+
+42.5.22
+
+Ulpianus libro 63 ad edictum
+
+pr. Idem privilegium competere.
+
+1. Sed si bonis curator datus sit vel absentis vel ab hostibus capti vel dum deliberant scripti heredes de adeunda hereditate, non oportebit privilegium dari: non enim in eadem causa est.
+
+42.5.23
+
+Paulus libro 60 ad edictum
+
+Si negotium impuberis aliquis ex officio amicitiae gesserit, debet bonis eius venditis privilegium pupillo conservari: et ita accepi.
+
+42.5.24
+
+Ulpianus libro 63 ad edictum
+
+pr. Si ventri curator datus sit nec partus editus, privilegium cessabit.
+
+1. Divus marcus ita edixit: "Creditor, qui ob restitutionem aedificiorum crediderit, in pecunia, quae credita erit, privilegium exigendi habebit". Quod ad eum quoque pertinet, qui redemptori domino mandante pecuniam subministravit.
+
+2. In bonis mensularii vendundis post privilegia potiorem eorum causam esse placuit, qui pecunias apud mensam fidem publicam secuti deposuerunt. Sed enim qui depositis nummis usuras a mensulariis acceperunt a ceteris creditoribus non separantur, et merito: aliud est enim credere, aliud deponere. Si tamen nummi exstent, vindicari eos posse puto a depositariis et futurum eum qui vindicat ante privilegia.
+
+3. Eorum ratio prior est creditorum, quorum pecunia ad creditores privilegiarios pervenit. Pervenisse autem quemadmodum accipimus, utrum si statim profecta est ab inferioribus ad privilegiarios an vero et si per debitoris personam, hoc est si ante ei numerata sit et sic debitoris facta creditori privilegiario numerata est? Quod quidem potest benigne dici, si modo non post aliquod intervallum id factum sit.
+
+42.5.25
+
+Ulpianus libro 64 ad edictum
+
+Ait praetor: "Quod postea contractum erit, quam is, cuius bona venierint, consilium receperit fraudare, sciente eo qui contraxerit, ne actio eo nomine detur".
+
+42.5.26
+
+Paulus libro 16 brevis edicti
+
+Qui in navem exstruendam vel instruendam credidit vel etiam emendam, privilegium habet.
+
+42.5.27
+
+Ulpianus libro primo de officio consulis
+
+Si magistratus fideicommissi servandi causa in possessionem miserint, dare arbitrum possunt ad ea distrahenda, quae mora deteriora futura sunt, ita ut pretium ex his redactum apud fideicommissarium in causa depositi sit, donec de fideicommisso quod ei debetur constet.
+
+42.5.28
+
+Iavolenus libro primo epistularum
+
+Pater familias impuberi filio, si ante pubertatem decessisset, substituit heredem: is filius paterna hereditate se abstinuit ideoque bona patris venierunt: postea filio hereditas obvenit, qua adita decessit. Quaero, cum praetor in ipsum pupillum, quamvis postea hereditas obvenisset, creditoribus tamen patris actionem non daret, an in substitutum creditoribus patris danda sit actio, cum ex bonis paternis, quae scilicet ad creditores missos in bona pertinent, nihil adquirat et cum creditores nihil iuris in bonis pupilli habuerint eorumque nihil interfuerit, adiretur necne pupilli hereditas, cum ea bona omissa a substituto hereditate ad creditores non pertinebant. Me illud maxime movet, quod praeceptoribus tuis placet unum esse testamentum. respondit: quod praetor filio, qui a paterna hereditate se abstinet, praestat, ne bonis patris eius venditis in eum actio detur, tametsi postea ei hereditas obvenit, creditoribus non reddat, idem in substituto filio herede servandum non est, quoniam filii pudori parcitur, ut potius patris quam eius bona veneant, itaque in id, quod postea ei obvenit, actio creditoribus denegatur, quia id ex adventicio adquisitum est, non per patrem ad eum pervenit. At cum substitutus filio hereditatem adiit, postquam pupillus se paternae miscuerit hereditati, tunc hereditas et patris et filii una est et in omni aere alieno, quod aut patris aut filii fuerit, etiam invitus heres obligatur: et quemadmodum liberum ei non est obligationem, ut non omnimodo, si non defenditur, ipsius bona veneant, ita ne separare quidem aes alienum patris et filii poterit: quo casu efficietur, ut creditoribus in eum actio dari debeat. quod si substitutus heres hereditatem non adierit, creditoribus patris in id, quod pupillus reliquit, actio dari non debet, quoniam neque pupilli bona venire debent propter aes alienum patris neque in bonis patris est quod pupillus adquisiit.
+
+42.5.29
+
+Paulus libro quinto ad legem Iuliam et Papiam
+
+Fufidius refert statuas in publico positas bonis distractis eius, cuius in honorem positae sunt, non esse emptoris bonorum eius, sed aut publicas, si ornandi municipii causa positae sint, aut eius, cuius in honorem positae sint: et nullo modo eas detrahi posse.
+
+42.5.30
+
+Papirius libro primo de constitutionis
+
+Imperatores Antoninus et Verus Augusti rescripserunt eos, qui bona sua negant iure venisse, praeiudicio experiri debere et frustra principem desiderare rescindi venditionem.
+
+42.5.31
+
+Ulpianus libro secundo de omnibus tribunalibus
+
+pr. Si creditores heredem suspectum putent, satisdationem exigere possunt pro suo debito reddendo. Cuius rei gratia cognoscere praetorem oportet nec statim eum satisdationis necessitati subicere debet, nisi causa cognita constiterit prospici debere his, qui suspectum eum postulaverunt.
+
+1. Sed suspectus heres non isdem modis, quibus suspectus tutor aestimatur: siquidem tutorem non facultates, sed fraudulenta in rebus pupillaribus et callida conversatio suspectum commendet, heredem vero solae facultates.
+
+2. Plane in recenti aditae hereditatis audiendi erunt, qui suspectum postulant: ceterum si probentur passi eum in hereditate morari nec quicquam possint obicere criminis quasi dolose versato eo, non debebit post multum temporis ad hanc necessitatem compelli.
+
+3. Quod si suspectus satisdare iussus decreto praetoris non obtemperaverit, tunc bona hereditatis possideri venumque dari ex edicto suo permittere iubebit.
+
+4. Plane si doceatur nihil ex bonis alienasse nec sit quod ei iuste praeter paupertatem obiciatur, contentus esse praetor debet, ut iubeat eum nihil minuere.
+
+5. Quod si nec inopia laborantem eum creditores ostendere potuerint, iniuriarum actione ei tenebuntur.
+
+42.5.32
+
+Paulus libro singulari regularum
+
+Privilegia non ex tempore aestimantur, sed ex causa, et si eiusdem tituli fuerunt, concurrunt, licet diversitates temporis in his fuerint.
+
+42.5.33
+
+Ulpianus libro tertio regularum
+
+pr. Si pupillus ex contractu suo non defendatur ideoque bona eius creditores possidere coeperint, deminutio ex his bonis fieri debet vescendi pupilli causa.
+
+1. Defendere debitorem sicut ante, quam bona eius possiderentur, licet, ita post bonorum quoque possessionem eius, sive ipse sui, sive alius defensionem eius suscipiat, debet satisdare, ut satisdatione interposita iudicium accipiatur et a possessione discedatur.
+
+42.5.34
+
+Marcianus libro quinto regularum
+
+Quod quis navis fabricandae vel emendae vel armandae vel instruendae causa vel quoquo modo crediderit vel ob navem venditam petat, habet privilegium post fiscum.
+
+42.5.35
+
+Marcianus libro singulari ad formulam hypothecariam
+
+Eum, qui in possessionem missus sit eius, qui rei publicae causa afuit, si apparuerit eum dolo malo rei publicae causa abesse, iure in possessione esse placet, donec solidum solvatur: eum autem, qui rerum eius, qui sine dolo malo rei publicae causa afuit, in possessionem missus sit, pignus non contrahere et ideo discedere oportere de possessione.
+
+42.5.36
+
+Ulpianus libro 45 ad Sabinum
+
+Eum, qui circa columnas se occultet, ut creditorem evitet, latitare placet: nam et eum, qui recedit, hoc est qui supterfugit, ne secum aliqua actio moveatur, latitare placet: tam et qui urbe profugit, utique fraudandi causa: nec enim interest, quod attinet ad latitandum, utrum quis profugerit an vero romae agens copiam sui non facit.
+
+42.5.37
+
+Papinianus libro decimo responsorum
+
+Antiochensium Coelae Syriae civitati, quod lege sua privilegium in bonis defuncti debitoris accepit, ius persequendi pignoris durare constitit.
+
+42.5.38
+
+Paulus libro primo sententiarum
+
+pr. Bonis venditis excipiuntur concubina et liberi naturales.
+
+1. Res publica creditrix omnibus chirographariis creditoribus praefertur.
+
+42.5.39
+
+Paulus libro quinto sententiarum
+
+pr. Pupillus si non defendatur, in possessione creditoribus constitutis minoribus, ex his usque ad pubertatem alimenta praestanda sunt.
+
+1. Eius, qui ab hostibus captus est, bona venire non possunt, quamdiu revertatur.
+
+
+* 42.6.0. De separationibus.
+
+
+42.6.1
+
+Ulpianus libro 64 ad edictum
+
+pr. Sciendum est separationem solere impetrari decreto praetoris.
+
+1. Solet autem separatio permitti creditoribus ex his causis: ut puta debitorem quis Seium habuit: hic decessit: heres ei extitit Titius: hic non est solvendo: patitur bonorum venditionem: creditores Seii dicunt bona Seii sufficere sibi, creditores Titii contentos esse debere bonis Titii et sic quasi duorum fieri bonorum venditionem. Fieri enim potest, ut Seius quidem solvendo fuerit potueritque satis creditoribus suis vel ita semel, etsi non in assem, in aliquid tamen satisfacere, admissis autem commixtisque creditoribus Titii minus sint consecuturi, quia ille non est solvendo aut minus consequantur, quia plures sunt hic. Est igitur aequissimum creditores Seii desiderantes separationem audiri impetrareque a praetore, ut separatim quantum cuiusque creditoribus praestetur.
+
+2. Ex contrario autem creditores Titii non impetrabunt separationem: nam licet alicui adiciendo sibi creditorem creditoris sui facere deteriorem condicionem. Atqui igitur adiit hereditatem debitoris mei, non faciet meam deteriorem condicionem adeundo, quia licet mihi separationem impetrare, suos vero creditores oneravit, dum adiit hereditatem quae solvendo non est, nec poterunt creditores eius separationem impetrare.
+
+3. Sciendum est autem, etiamsi obligata res esse proponatur ab herede iure pignoris vel hypothecae, attamen, si hereditaria fuit, iure separationis hypothecario creditori potiorem esse eum, qui separationem impetravit: et ita Severus et Antoninus rescripserunt.
+
+4. Sed etiam adversus fiscum et municipes impetraretur separatio.
+
+5. Quaesitum est, an interdum etiam heredis creditores possunt separationem impetrare, si forte ille in fraudem ipsorum adierit hereditatem. Sed nullum remedium est proditum: sibi enim imputent, qui cum tali contraxerunt: nisi si extra ordinem putamus praetorem adversus calliditatem eius subvenire, qui talem fraudem commentus est: quod non facile admissum est.
+
+6. Sed si quis suspectam hereditatem dicens compulsus fuerit adire et restituere hereditatem, deinde non sit cui restituat, ex quibus casibus solet hoc evenire. Et ipsi quidem desideranti succurri sibi adversus creditores hereditarios subveniemus: hoc et divus Pius rescripsit, ut perinde testatoris bona venirent, atque si adita hereditas non fuisset, creditoribus quoque huiusmodi heredis desiderantibus hoc idem praestandum puto, licet ipse non desideravit, ut quasi separatio quaedam praestetur.
+
+7. Item videamus, si quis heres parenti extiterit, cum esset impubes, deinde intra pubertatem decesserit et substituti bona veneant, qui impuberis hereditatem adiit, an patris creditores possint separationem impetrare. Et puto posse: hoc amplius puto etiam impuberis creditores posse separationem adversus creditores heredis eius impetrare.
+
+8. Secundum haec videamus, si primus secundum heredem scripserit, secundus tertium et tertii bona veneant, qui creditores possint separationem impetrare. Et putem, si quidem primi creditores petant, utique audiendos et adversus secundi et adversus tertii creditores: si vero secundi creditores petant, adversus tertii utique eos impetrare posse, adversus primi autem non posse. In summa primi quidem creditores adversus omnes impetrare possunt separationem, secundi creditores adversus primi non possunt, adversus tertii possunt.
+
+9. Si filii familias bona veneant, qui castrense peculium habet, an separatio fiat inter castrenses creditores ceterosque, videamus. Simul ergo admittentur, dummodo, si qui cum eo contraxerunt, antequam militaret, fortasse debeant separari: quod puto probandum. Ergo qui ante contraxerunt, si bona castrensia distrahantur, non possunt venire cum castrensibus creditoribus. Item si quid in rem patris versum est, forte poterit et creditori contradici, ne castrense peculium inquietet, cum possit potius cum patre experiri.
+
+10. Illud sciendum est eos demum creditores posse impetrare separationem, qui non novandi animo ab herede stipulati sunt. Ceterum si eum hoc animo secuti sunt, amiserunt separationis commodum (quippe cum secuti sunt nomen heredis) nec possunt iam se ab eo separare, qui quodammodo eum elegerunt. Sed et si usuras ab eo ea mente quasi eum eligendo exegerunt, idem erit probandum.
+
+11. Item quaeritur, si satis acceperunt ab eo, an impetrent separationem. et non puto: hi enim secuti sunt eum. Forte quem movebit: quid ergo, si satis non idoneum acceperunt? Et sibi imputent, cur minus idoneos fideiussores accipiebant.
+
+12. Praeterea sciendum est, posteaquam bona hereditaria bonis heredis mixta sunt, non posse impetrari separationem: confusis enim bonis et unitis separatio impetrari non poterit. Quid ergo si praedia extent vel mancipia vel pecora, vel aliud quod separari potest? Hic utique poterit impetrari separatio nec ferendus est, qui causatur bona contributa, cum praedia contribui non possint, nisi ita coniunctae possessiones et permixtae propriis, ut impossibilem separationem effecerint: quod quidem perraro contingere potest.
+
+13. Quod dicitur post multum temporis separationem impetrari non posse, ita erit accipiendum, ut ultra quinquennium post aditionem numerandum separatio non postuletur.
+
+14. De his autem omnibus, an admittenda separatio sit nec ne, praetoris erit vel praesidis notio, nullius alterius, hoc est eius, qui separationem indulturus est.
+
+15. Si quis pignus ab herede acceperit, non est ei concedenda separatio, quasi eum secutus sit: neque enim ferendus est, qui qualiterqualiter, eligentis tamen mente, heredis personam secutus est.
+
+16. Quaesitum est, si forte sint plures creditores, quidam secuti heredem, quidam non secuti, et hi, qui heredem secuti non sunt, impetraverint separationem, an eos secum admittant, qui secuti sunt. Et putem nihil eis prodesse: hos enim cum creditoribus heredis numerandos.
+
+17. Item sciendum est vulgo placere creditores quidem heredis, si quid superfuerit ex bonis testatoris, posse habere in suum debitum, creditores vero testatoris ex bonis heredis nihil. Cuius rei ratio illa est, quod qui impetravit separationem, sibi debet imputare suam facilitatem, si, cum essent bona idonea heredis, illi maluerint bona potius defuncti sibi separari, heredis autem creditoribus hoc imputari non possit. At si creditores defuncti desiderent, ut etiam in bonis heredis substituantur, non sunt audiendi: separatio enim, quam ipsi petierunt, eos ab istis bonis separavit. Si tamen temere separationem petierunt creditores defuncti, impetrare veniam possunt, iustissima scilicet ignorantiae causa allegata.
+
+18. Item sciendum est necessarium heredem servum cum libertate institutum impetrare posse separationem, scilicet ut, si non attigerit bona patroni, in ea causa sit, ut ei quidquid postea adquisierit separetur: sed et si quid ei a testatore debetur.
+
+42.6.2
+
+Papinianus libro 25 quaestionum
+
+Ab herede vendita hereditate separatio frustra desiderabitur, utique si nulla fraudis incurrat suspicio: nam quae bona fide medio tempore per heredem gesta sunt, rata conservari solent.
+
+42.6.3
+
+Papinianus libro 27 quaestionum
+
+pr. Debitor fideiussori heres extitit eiusque bona venierunt: quamvis obligatio fideiussionis extincta sit, nihilo minus separatio impetrabitur petente eo, cui fideiussor fuerat obligatus, sive solus sit hereditarius creditor sive plures. Neque enim ratio iuris, quae causam fideiussionis propter principalem obligationem, quae maior fuit, exclusit, damno debet adficere creditorem, qui sibi diligenter prospexerat.
+
+1. Quid ergo, si bonis fideiussoris separatis solidum ex hereditate stipulator consequi non possit? Utrum portio cum ceteris heredis creditoribus ei quaerenda erit an contentus esse debebit bonis, quae separari maluit? Sed cum stipulator iste non adita fideiussoris a reo hereditate bonis fideiussoris venditis in residuum pro misceri debitoris creditoribus potuerit, ratio non patitur eum in proposito summoveri.
+
+2. Sed in quolibet alio creditore, qui separationem impetravit, probari commodius est, ut, si solidum ex hereditate servari non possit, ita demum aliquid ex bonis heredis ferat, si proprii creditores heredis fuerint dimissi. Quod sine dubio admittendum est circa creditores heredis dimissis hereditariis.
+
+42.6.4
+
+Papinianus libro 12 responsorum
+
+pr. Creditoribus, qui ex die vel sub condicione debentur et propter hoc nondum pecuniam petere possunt, aeque separatio dabitur, quoniam et ipsis cautione communi consuletur.
+
+1. Legatarios autem in ea tantum parte, quae de bonis servari potuit, habere pignoris causam convenit.
+
+42.6.5
+
+Paulus libro 13 quaestionum
+
+Si creditores hereditarii separationem bonorum impetraverunt et inveniatur non idonea hereditas, heres autem idoneus: non poterunt reverti ad heredem, sed eo, quod semel postulaverunt, stare debent. Sed si post impetratam separationem aliquid heres adquisierit, si quidem ex hereditate, admitti debebunt ad id quod adquisitum est illi qui separationem impetraverunt: sed si illis satisfactum fuerit, quod superest tribuetur propriis heredis creditoribus. At si ex alia causa heres adquisierit, non admittentur hereditarii creditores. Quod si proprii ad solidum pervenerunt, id quod supererit tribuendum hereditariis quidam putant: mihi autem id non videtur: cum enim separationem petierunt, recesserunt a persona heredis et bona secuti sunt et quasi defuncti bona vendiderunt, quae augmenta non possunt recipere. Idemque existimo dicendum, etiamsi circa separationem bonorum decepti minus consecuti sunt quam proprii heredis creditores. Proprii autem heredis creditores habent propria eius bona et personam, quae potest donec vivit adquirere.
+
+42.6.6
+
+Iulianus libro 46 digestorum
+
+pr. Quotiens heredis bona solvendo non sunt, non solum creditores testatoris, sed etiam eos, quibus legatum fuerit, impetrare bonorum separationem aequum est, ita ut, cum in creditoribus solidum adquisitum fuerit, legatariis vel solidum vel portio quaeratur.
+
+1. Si liberta heres instituta bonorum possessionem secundum tabulas petisset eius, qui solvendo non erat, quaesitum est, an bona eius separari ab hereditariis debent. Respondit: non est iniquum succurri patrono, ne oneraretur aere alieno, quod liberta petendo bonorum possessionem secundum tabulas contraxerit.
+
+42.6.7
+
+Marcianus libro secundo regularum
+
+Qui iudicium dictaverunt heredi, separationem quasi hereditarii possunt impetrare, quia ex necessitate hoc fecerunt.
+
+
+* 42.7.0. De curatore bonis dando.
+
+
+42.7.1
+
+Paulus libro 57 ad edictum
+
+pr. Si quis sub condicione heres institutus est, cogendus est condicioni parere, si potest, aut, si responderit se non aditurum, etiamsi condicio extiterit, vendenda erunt bona defuncti.
+
+1. Quod si nihil facere potest, curator bonis constituendus erit aut bona vendenda.
+
+2. Sed si grave aes alienum sit, quod ex poena crescat, per curatorem solvendum aes alienum, sicuti cum venter in possessione sit aut pupillus heres tutorem non habeat, decerni solet.
+
+42.7.2
+
+Ulpianus libro 65 ad edictum
+
+pr. De curatore constituendo hoc iure utimur, ut praetor adeatur isque curatorem curatoresque constituat ex consensu maioris partis creditorum, vel praeses provinciae, si bona distrahenda in provincia sunt:
+
+1. Quaeque per eum eosve, qui ita creatus creative essent, acta facta gestaque sunt, rata habebuntur: eisque actiones et in eos utiles competunt: et si quem curatores mitterent ad agendum vel defendendum, uti ius esset: nec ab eo satis, neque de rato neque iudicatum solvi, nomine eius cuius bona veneant exigetur, sed nomine ipsius curatoris qui eum misit.
+
+2. Si plures autem constituantur curatores, Celsus ait in solidum eos et agere et conveniri, non pro portionibus. Quod si per regiones fuerint constituti curatores, unus forte rei Italicae, alius in provincia, puto regiones eos suas conservare debere.
+
+3. Quaeritur, an invitus curator fieri potest: et Cassius scribit neminem invitum cogendum fieri bonorum curatorem, quod verius est. Voluntarius itaque quaerendus est, nisi et magna necessitate et imperatoris arbitrio hoc procedat, ut et invitus crearetur.
+
+4. Nec omnimodo creditorem esse oportet eum, qui curator constituitur, sed possunt et non creditores.
+
+5. Si tres curatores fuerint et unus ex his nihil attigerit, an in eum, qui nihil tetigit, actio danda est? Et Cassius existimat modum actori non debere constitui posseque eum cum quo vult experiri. Puto Cassii sententiam veriorem: spectandum enim, quid redactum est, non quid ad curatorem unum pervenerit, et ita utimur, nisi invitus factus est: nam si ita est, dicendum non eum conveniendum.
+
+42.7.3
+
+Celsus libro 24 digestorum
+
+Si plures eiusdem bonorum curatores facti sunt, in quem eorum vult actor, in solidum ei datur actio tam quam quivis eorum in solidum aget.
+
+42.7.4
+
+Papirius libro primo de constitutionis
+
+Imperatores Antoninus et Verus augusti rescripserunt bonis per curatorem ex senatus consulto distractis nullam actionem ex ante gesto fraudatori competere.
+
+42.7.5
+
+Iulianus libro 47 digestorum
+
+Si debitor foro cesserit et creditores privato consilio coierint et elegerint unum, per quem bona distrahantur et portio ipsis, quae ex redacto fieret, solveretur, mox exstiterit alius, qui se creditorem dicat: nullam quidem actionem adversus curatorem habebit, sed bona debitoris una cum curatore vendere poterit, ita ut, quae a curatore et a creditore ex bonis contrahantur, omnibus pro portione praestarentur.
+
+
+* 42.8.0. Quae in fraudem creditorum facta sunt ut restituantur.
+
+
+42.8.1
+
+Ulpianus libro 66 ad edictum
+
+pr. Ait praetor: "Quae fraudationis causa gesta erunt cum eo, qui fraudem non ignoraverit, de his curatori bonorum vel ei, cui de ea re actionem dare oportebit, intra annum, quo experiundi potestas fuerit, actionem dabo. Idque etiam adversus ipsum, qui fraudem fecit, servabo".
+
+1. Necessario praetor hoc edictum proposuit, quo edicto consuluit creditoribus revocando ea, quaecumque in fraudem eorum alienata sunt.
+
+2. Ait ergo praetor "Quae fraudationis causa gesta erunt". Haec verba generalia sunt et continent in se omnem omnino in fraudem factam vel alienationem vel quemcumque contractum. Quodcumque igitur fraudis causa factum est, videtur his verbis revocari, qualecumque fuerit: nam late ista verba patent. Sive ergo rem alienavit sive acceptilatione vel pacto aliquem liberavit,
+
+42.8.2
+
+Ulpianus libro 73 ad edictum
+
+Idem erit probandum: et si pignora liberet vel quem alium in fraudem creditorum praeponat.
+
+42.8.3
+
+Ulpianus libro 66 ad edictum
+
+pr. Vel ei praebuit exceptionem sive se obligavit fraudandorum creditorum causa sive numeravit pecuniam vel quodcumque aliud fecit in fraudem creditorum, palam est edictum locum habere.
+
+1. Gesta fraudationis causa accipere debemus non solum ea, quae contrahens gesserit aliquis, verum etiam si forte data opera ad iudicium non adfuit vel litem mori patiatur vel a debitore non petit, ut tempore liberetur, aut usum fructum vel servitutem amittit.
+
+2. Et qui aliquid fecit, ut desinat habere quod habet, ad hoc edictum pertinet.
+
+42.8.4
+
+Paulus libro 68 ad edictum
+
+In fraudem facere videri etiam eum, qui non facit quod debet facere, intellegendum est, id est si non utatur servitutibus:
+
+42.8.5
+
+Gaius libro 26 ad edictum provinciale
+
+Sed et si rem suam pro derelicto habuerit, ut quis eam suam faciat.
+
+42.8.6
+
+Ulpianus libro 66 ad edictum
+
+pr. Quod autem, cum possit aliquid quaerere, non id agit, ut adquirat, ad hoc edictum non pertinet: pertinet enim edictum ad deminuentes patrimonium suum, non ad eos, qui id agunt, ne locupletentur.
+
+1. Unde si quis ideo condicioni non paret, ne committatur stipulatio, in ea condicione est, ne faciat huic edicto locum.
+
+2. Proinde et qui repudiavit hereditatem vel legitimam vel testamentariam, non est in ea causa, ut huic edicto locum faciat: noluit enim adquirere, non suum proprium patrimonium deminuit.
+
+3. Simili modo dicendum est et si filium suum emancipavit, ut suo arbitrio adeat hereditatem, cessare hoc edictum.
+
+4. Sed et illud probandum, si legatum repudiavit, cessare edictum, quod iulianus quoque scribit.
+
+5. Si servum suum heredem institutum alienavit, ut iussu emptoris adeat, si quidem in venditione nulla fraus est, sed in hereditate sit, cessat edictum, quia licuit ei etiam repudiare hereditatem: at si in ipsa servi alienatione fraus est, revocabitur, quemadmodum si eum in fraudem manumisisset.
+
+6. Apud Labeonem scriptum est eum, qui suum recipiat, nullam videri fraudem facere, hoc est eum, qui quod sibi debetur receperat: eum enim, quem praeses invitum solvere cogat, impune non solvere iniquum esse: totum enim hoc edictum ad contractus pertinere, in quibus se praetor non interponit, ut puta pignora venditionesque.
+
+7. Sciendum iulianum scribere eoque iure nos uti, ut, qui debitam pecuniam recepit ante, quam bona debitoris possideantur, quamvis sciens prudensque solvendo non esse recipiat, non timere hoc edictum: sibi enim vigilavit. Qui vero post bona possessa debitum suum recepit, hunc in portionem vocandum exaequandumque ceteris creditoribus: neque enim debuit praeripere ceteris post bona possessa, cum iam par condicio omnium creditorum facta esset.
+
+8. Hoc edictum eum coercet, qui sciens eum in fraudem creditorum hoc facere suscepit, quod in fraudem creditorum fiebat: quare si quid in fraudem creditorum factum sit, si tamen is qui cepit ignoravit, cessare videntur verba edicti.
+
+9. Praeterea illud sciendum est eum, qui consentientibus creditoribus aliquid a fraudatore vel emit vel stipulatus est vel quid aliud contraxit, non videri in fraudem creditorum fecisse: nemo enim videtur fraudare eos, qui sciunt et consentiunt.
+
+10. Si quid cum pupillo gestum sit in fraudem creditorum, Labeo ait omnimodo revocandum, si fraudati sint creditores, quia pupilli ignorantia, quae per aetatem contingit, non debet esse captiosa creditoribus et ipsi lucrosa: eoque iure utimur.
+
+11. Simili modo dicimus et si cui donatum est, non esse quaerendum, an sciente eo, cui donatum, gestum sit, sed hoc tantum, an fraudentur creditores: nec videtur iniuria adfici is qui ignoravit, cum lucrum extorqueatur, non damnum infligatur. In hos tamen, qui ignorantes ab eo qui solvendo non sit liberalitatem acceperunt, hactenus actio erit danda, quatenus locupletiores facti sunt, ultra non.
+
+12. Simili modo quaeritur, si servus ab eo, qui solvendo non sit, ignorante domino ipse sciens rem acceperit, an dominus teneretur. Et ait Labeo hactenus eum teneri, ut restituat quod ad se pervenit aut dumtaxat de peculio damnetur vel si quid in rem eius versum est. Eadem in filio familias probanda sunt. Sed si dominus scit, suo nomine convenietur.
+
+13. Item si necessarius heres legata praestiterit, deinde eius bona venierint, Proculus ait, etiamsi ignoraverint legatarii, tamen utilem actionem dandam: quod nequaquam dubium est:
+
+14. Huius actionis annum computamus utilem, quo experiundi potestas fuit, ex die factae venditionis.
+
+42.8.7
+
+Paulus libro 62 ad edictum
+
+Si debitor in fraudem creditorum minore pretio fundum scienti emptori vendiderit, deinde hi, quibus de revocando eo actio datur, eum petant, quaesitum est, an pretium restituere debent. Proculus existimat omnimodo restituendum esse fundum, etiamsi pretium non solvatur: et rescriptum est secundum Proculi sententiam.
+
+42.8.8
+
+Venuleus Saturninus libro sexto interdictorum
+
+Ex his colligi potest ne quidem portionem emptori reddendam ex pretio: posse tamen dici eam rem apud arbitrum ex causa animadvertendam, ut, si nummi soluti in bonis exstent, iubeat eos reddi, quia ea ratione nemo fraudetur.
+
+42.8.9
+
+Paulus libro 62 ad edictum
+
+Is, qui a debitore, cuius bona possessa sunt, sciens rem emit, iterum alii bona fide ementi vendidit: quaesitum est, an secundus emptor conveniri potest. Sed verior est Sabini sententia bona fide emptorem non teneri, quia dolus ei dumtaxat nocere debeat, qui eum admisit, quemadmodum diximus non teneri eum, si ab ipso debitore ignorans emerit: is autem, qui dolo malo emit, bona fide autem ementi vendidit, in solidum pretium rei, quod accepit, tenebitur.
+
+42.8.10
+
+Ulpianus libro 73 ad edictum
+
+pr. Ait praetor: "Quae Lucius Titius fraudandi causa sciente te in bonis, quibus de ea re agitur, fecit: ea illis, si eo nomine, quo de agitur, actio ei ex edicto meo competere esseve oportet, ei, si non plus quam annus est, cum de ea re, qua de agitur, experiundi potestas est, restituas. Interdum causa cognita et si scientia non sit, in factum actionem permittam".
+
+1. Ita demum revocatur, quod fraudandorum creditorum causa factum est, si eventum fraus habuit, scilicet si hi creditores, quorum fraudandorum causa fecit, bona ipsius vendiderunt. Ceterum si illos dimisit, quorum fraudandorum causa fecit, et alios sortitus est, si quidem simpliciter dimissis prioribus, quos fraudare voluit, alios postea sortitus est, cessat revocatio: si autem horum pecunia, quos fraudare noluit, priores dimisit, quos fraudare voluit, Marcellus dicit revocationi locum fore. Secundum hanc distinctionem et ab imperatore Severo et Antonino rescriptum est eoque iure utimur.
+
+2. Quod ait praetor "sciente", sic accipimus "te consocio et fraudem participante": non enim si simpliciter scio illum creditores habere, hoc sufficit ad contendendum teneri eum in factum actione, sed si particeps fraudis est.
+
+3. Si quis particeps quidem fraudis non fuit, verumtamen vendente debitore testato conventus est a creditoribus, ne emeret, an in factum actione teneatur, si comparaverit? Et magis est, ut teneri debeat: non enim caret fraude, qui conventus testato perseverat.
+
+4. Alias autem qui scit aliquem creditores habere, si cum eo contrahat simpliciter sine fraudis conscientia, non videtur hac actione teneri.
+
+5. Ait praetor "sciente te", id est eo, qui convenietur hac actione. Quid ergo, si forte tutor pupilli scit, ipse pupillus ignoravit? Videamus, an actioni locus sit, ut scientia tutoris noceat: idem et in curatore furiosi et adulescentis. Et putem hactenus istis nocere conscientiam tutorum sive curatorum, quatenus quid ad eos pervenit.
+
+6. Praeterea sciendum est posse quaeri, quod dicitur in fraudem creditorum alienatum revocari posse, si idem sint creditores: et si unus creditor sit ex illis, qui fraudati sunt, sive solus tunc fuit sive, cum ceteris satisfactum est, hic solus remansit, probandum esse adhuc actioni fore locum.
+
+7. Illud certe sufficit, et si unum scit creditorem fraudari, ceteros ignoravit, fore locum actioni.
+
+8. Quid ergo, si ei, quem quis scit, satisfactum est? Numquid deficiat actio, quia qui supersunt, non sunt fraudati? Et hoc puto probandum: non tamen si dicat aliquis: "Offero, quod debetur ei, quem scio creditorem", audiendus erit, ut actionem eludat.
+
+9. Si fraudator heredem habuit et heredis bona venierint, non est in bonis quibus de agitur factum et ideo cessat haec actio.
+
+10. Si quid in fraudem creditorum fecerit filius, qui se poterat abstinere, et in integrum sit restitutus, quod se miscuerat, vel si quis fecit voluntarius etiam vel per aetatem vel quam aliam causam iustam in integrum meruit restitutionem, dicendum erit utilem actionem competere. Idem et in servo necessario. Sane cum illa distinctione hoc admittendum esse Labeo scribit, ut, si quidem protinus bona vendiderunt creditores vel absentibus vel paciscentibus creditoribus se necessarius miscuit, utriusque fraus revocetur, id est testatoris et ipsius: si vero passi sunt necessarium creditores et quasi in creditum habuerunt nomen eius vel dulcitudine usurarum vel qua alia ratione secuti sunt, dicendum est nihil revocari ex his, quae testator alienavit.
+
+11. Si impubes patri heres extiterit eiusque mortui bona veneant, separatione impetrata utriusque fraus erit revocanda, pupilli vel etiam tutoris, item curatoris.
+
+12. Si, cum in diem deberetur, fraudator praesens solverit, dicendum erit in eo, quod sensi commodum in repraesentatione, in factum actioni locum fore: nam praetor fraudem intellegit etiam in tempore fieri.
+
+13. Si cui solutum quidem non fuerit, sed in vetus creditum pignus acceperit, hac actione tenebitur, ut est saepissime constitutum.
+
+14. Si, cum mulier fraudandorum creditorum consilium inisset, marito suo eidemque debitori in fraudem creditorum acceptum debitum fecerit dotis constituendae causa, locum habet haec actio et per hanc omnis pecunia, quam maritus debuerat, exigitur nec mulier de dote habet actionem: neque enim dos in fraudem creditorum constituenda est: et hoc certo certius est et saepissime constitutum. Exitus autem actionis erit, ut stipulatio, quae accepta facta fuerat, ex integro interponatur.
+
+15. Per hanc actionem et usus fructus et huiusmodi stipulatio: "In annos singulos dena dari spondes?" Exigi potest.
+
+16. Si debitorem meum et complurium creditorum consecutus essem fugientem secum ferentem pecuniam et abstulissem ei id quod mihi debeatur, placet Iuliani sententia dicentis multum interesse, antequam in possessionem bonorum eius creditores mittantur, hoc factum sit an postea: si ante, cessare in factum actionem, si postea, huic locum fore.
+
+17. Si ex constitutione divi Marci bona sint addicta alicui libertatium conservandarum causa, dicendum erit actionem cessare: ita enim succedunt, ut rata sint, quae pater familias gesserat.
+
+18. Annus huius in factum actionis computabitur ex die venditionis bonorum.
+
+19. Per hanc actionem res restitui debet cum sua scilicet causa.
+
+20. Et fructus, non tantum qui percepti sunt, verum etiam hi, qui percipi potuerunt a fraudatore, veniunt, sed cum aliquo modo, scilicet ut sumptus facti deducantur: nam arbitrio iudicis non prius cogendus est rem restituere, quam si impensas necessarias consequatur: idemque erit probandum et si quis alios sumptus ex voluntate fideiussorum creditorumque fecerit.
+
+21. Partum quoque in hanc actionem venire puto verius esse.
+
+22. Praeterea generaliter sciendum est ex hac actione restitutionem fieri oportere in pristinum statum, sive res fuerunt sive obligationes, ut perinde omnia revocentur, ac si liberatio facta non esset. Propter quod etiam medii temporis commodum, quod quis consequeretur liberatione non facta, praestandum erit, dum usurae non praestentur, si in stipulatum deductae non fuerunt, aut si talis contractus fuit, in quo usurae deberi potuerunt etiam non deductae.
+
+23. Si condicionalis fuit obligatio, cum sua condicione, si in diem, cum sua die restauranda est. Si tamen ea erat, cuius dies finitur, potest dici restitutionem intra id tempus posse postulari, quod tempus supererat obligationi, non utique intra annum.
+
+24. Haec actio post annum de eo, quod ad eum pervenit, adversus quem actio movetur, competit: iniquum enim praetor putavit in lucro morari eum, qui lucrum sensit ex fraude: idcirco lucrum ei extorquendum putavit. Sive igitur ipse fraudator sit, ad quem pervenit, sive alius quivis, competit actio in id quod ad eum pervenit dolove malo eius factum est, quo minus perveniret.
+
+25. Haec actio heredi ceterisque successoribus competit: sed et in heredes similesque personas datur.
+
+42.8.11
+
+Venuleus Saturninus libro sexto interdictorum
+
+Cassius actionem introduxit in id quod ad heredem pervenit.
+
+42.8.12
+
+Marcellus libro 18 digestorum
+
+Si pater filio familias liberam peculii administrationem dederit, non videtur ei et hoc concessisse, ut in fraudem creditorum alienaret: talem enim alienationem non habet. At si hoc quoque concessit filio pater, ut vel in fraudem creditorum facere possit, videbitur ipse fecisse et sufficient competentes adversus eum actiones. Etenim filii creditores etiam patris sunt creditores, cum eius generis videlicet habebunt actionem, ut his de peculio praestari necesse sit.
+
+42.8.13
+
+Paulus libro 68 ad edictum
+
+Illud constat eum qui pignus tenet hac actione non teneri: suo enim iure et ut pignus, non rei servandae causa possidet.
+
+42.8.14
+
+Ulpianus libro sexto disputationum
+
+Hac in factum actione non solum dominia revocantur, verum etiam actiones restaurantur. Ea propter competit haec actio et adversus eos, qui res non possident, ut restituant, et adversus eos, quibus actio competit, ut actione cedant. Proinde si interposuerit quis personam Titii, ut ei fraudator res tradat, actione mandati cedere debet. Ergo et si fraudator pro filia sua dotem dedisset sciente fraudari creditores, filia tenetur, ut cedat actione de dote adversus maritum.
+
+42.8.15
+
+Iulianus libro 49 digestorum
+
+Si quis, cum haberet Titium creditorem et sciret se solvendo non esse, libertates dederit testamento, deinde dimisso Titio postea Sempronium creditorem habere coeperit et eodem testamento manente decesserit: libertates datae ratae esse debent, etsi hereditas solvendo non sit, quia, libertates ut rescindantur, utrumque in eorumdem persona exigimus et consilium et eventum et, si quidem creditor, cuius fraudandi consilium initum erat, non fraudatur, adversus eum qui fraudatur consilium initum non est. Libertates itaque ratae sunt,
+
+42.8.16
+
+Paulus libro quinto responsorum Papiniani
+
+Nisi priores pecunia posteriorum dimissi probentur.
+
+42.8.17
+
+Iulianus libro 49 digestorum
+
+pr. Omnes debitores, qui in fraudem creditorum liberantur, per hanc actionem revocantur in pristinam obligationem.
+
+1. Lucius Titius cum haberet creditores, libertis suis isdemque filiis naturalibus universas res suas tradidit. Respondit: quamvis non proponatur consilium fraudandi habuisse, tamen qui creditores habere se scit et universa bona sua alienavit, intellegendus est fraudandorum creditorum consilium habuisse: ideoque et si filii eius ignoraverunt hanc mentem patris sui fuisse, hac actione tenentur.
+
+2. Si vir uxori, cum creditores suos fraudare vellet, soluto matrimonio praesentem dotem reddidisset, quam statuto tempore reddere debuit, hac actione mulier tantum praestabit, quanti creditorum intererat dotem suo tempore reddi: nam praetor fraudem etiam in tempore fieri intellegit.
+
+42.8.18
+
+Papinianus libro 26 quaestionum
+
+Etsi pignus vir uxori vel uxor viro remiserit, verior sententia est nullam fieri donationem existimantium. Quod sine dubio, si in fraudem creditorum fiat, actione utili revocabitur. Idemque est et si quivis debitor in fraudem creditorum pignus omiserit.
+
+42.8.19
+
+Papinianus libro 11 responsorum
+
+Patrem, qui non exspectata morte sua fideicommissum hereditatis maternae filio soluto potestate restituit omissa ratione falcidiae, plenam fidem ac debitam pietatem secutus exhibitionis, respondi non creditores fraudasse.
+
+42.8.20
+
+Callistratus libro secundo quaestionum
+
+Debitorem, qui ex senatus consulto Trebelliano totam hereditatem restituit, placet non videri in fraudem creditorum alienasse portionem, quam retinere potuisset, sed magis fideliter facere.
+
+42.8.21
+
+Scaevola libro primo responsorum
+
+Debitor in fraudem creditoris cum vicino de finibus pignori dati fundi pactus est: quaesitum, an is, qui a creditore emit, de finibus agere possit. Respondit secundum ea quae proponerentur non idcirco minus agere posse, quod debitor ignorante creditore pactus esset.
+
+42.8.22
+
+Scaevola libro quinto responsorum
+
+Cum in vetus creditum unus creditor pignora accepisset, quaero, an in fraudem ceterorum creditorum factum nullius momenti esset. Respondit creditorem non idcirco prohibendum a persecutione pignorum, quod, in vetus creditum ut obligaretur, pactus esset, nisi id in fraudem ceterorum creditorum factum sit et ea via iuris occurratur, qua creditorum fraudes rescindi solent.
+
+42.8.23
+
+Scaevola libro 32 digestorum
+
+Primo gradu scripti heredes cum animadverterent bona defuncti vix ad quartam partem aeris alieni sufficere, famae defuncti conservandae gratia ex consensu creditorum auctoritate praesidis provinciae secundum constitutionem ea condicione adierunt hereditatem, ut creditoribus dumtaxat partem praestarent: quaesitum est, an manumissi testamento et libertates et alimenta consequi possint. Respondit libertates quidem, si in fraudem creditorum datae non essent, competere, legata vero, si solvendo hereditas non esset, non deberi.
+
+42.8.24
+
+Scaevola libro singulari quaestionum publice tractatarum
+
+Pupillus patri heres extitit et uni creditorum solvit: mox abstinuit hereditate paterna: bona patris veneunt: an id quod accepit creditor revocandum sit, ne melioris condicionis sit quam ceteri creditores? An distinguimus, per gratificationem acceperit an non, ut, si per gratificationem tutorum, revocetur ad eandem portionem, quam ceteri creditores fuerint laturi: sin vero iuste exegerit, ceteri creditores neglexerint exactionem, interea res deterior facta sit, vel mortalitate vel subductis rebus mobilibus vel rebus soli ad irritum perductis, id quod acceperit creditor revocari nullo pacto potest, quoniam alii creditores suae neglegentiae expensum ferre debeant. Quid ergo, si, cum in eo essent, ut bona debitoris mei venirent, solverit mihi pecuniam, an actione revocari ea possit a me? An distinguendum est, is optulerit mihi an ego illi extorserim invito et <ut> si extorserim invito, revocetur, si non extorseim, non revocetur? Sed vigilavi, meliorem meam condicionem feci, ius civile vigilantibus scriptum est: ideoque non revocatur id quod percepi.
+
+42.8.25
+
+Venuleus Saturninus libro sexto interdictorum
+
+pr. Si fraudator fideiussori suo scienti acceptum tulerit, si et reus non ignoraverit, uterque tenebitur, si minus, is qui scierit. Si tamen ille, cui acceptum factum est, solvendo non sit, videndum est, an in reum, etiamsi ignoraverit, actio danda sit, quia ex donatione capit. Contra si reo scienti acceptum latum sit, fideiussor quoque, si et ipse scierit, tenebitur: si vero ignoraverit, numquid non aeque actio in eum dari debeat, quoniam magis detrimentum non patitur, quam lucrum faciat? In duobus autem reis par utriusque causa est.
+
+1. Si a socero fraudatore sciens gener accepit dotem, tenebitur hac actione et, si restituerit eam, desinit dotem habere: nec quicquam emancipatae divortio facto restituturum Labeo ait, quia haec actio rei restituendae gratia, non poenae nomine daretur ideoque absolvi solet reus, si restituerit. Sed si priusquam creditores cum eo experirentur, reddiderit filiae dotem iudicio dotis nomine conventus, nihilo minus eum hac actione teneri Labeo ait nec ullum regressum habiturum ad mulierem: sin vero sine iudice, videndum, an ulla repetitio competat ei. Quod si is ignoraverit, filia autem scierit, tenebitur filia: si vero uterque scierit, uterque tenebitur. At si neuter scierit, quidam existimant nihilo minus in filiam dandam actionem, quia intellegitur quasi ex donatione aliquid ad eam pervenisse, aut certe cavere eam debere, quod consecuta fuerit se restituturam: in maritum autem, qui ignoraverit, non dandam actionem, non magis quam in creditorem, qui a fraudatore quod ei deberetur acceperit, cum is indotatam uxorem ducturus non fuerit.
+
+2. Item si extraneus filiae familiae nomine fraudandi causa dotem dederit, tenebitur maritus, si scierit: aeque mulier: nec minus et pater, si non ignoraverit, ita ut caveat, si ad se dos pervenerit, restitui eam.
+
+3. Si procurator ignorante domino, cum sciret debitorem eius fraudandi cepisse consilium, iussit servo ab eo accipere, hac actione ipse tenebitur, non dominus.
+
+4. Non solum autem ipsam rem alienatam restitui oportet, sed et fructus, qui alienationis tempore terrae cohaerent, quia in bonis fraudatoris fuerunt, item eos, qui post inchoatum iudicium recepti sint: medio autem tempore perceptos in restitutionem non venire. Item partum ancillae per fraudem alienatae medio tempore editum in restitutionem non venire, quia in bonis non fuerit.
+
+5. Proculus ait, si mulier post alienationem conceperit et antequam ageretur, pepererit, nullam esse dubitationem, quin partus restitui non debeat: si vero, cum alienaretur, praegnas fuerit, posse dici partum quoque restitui oportere.
+
+6. Fructus autem fundo cohaesisse non satis intellegere se Labeo ait, utrum dumtaxat qui maturi an etiam qui inmaturi fuerint, praetor significet: ceterum etiamsi de his senserit, qui maturi fuerint, nihilo magis possessionem restitui oportere. Nam cum fundus alienaretur, quod ad eum fructusque eius attineret, unam quandam rem fuisse, id est fundum, cuius omnis generis alienationem fructus sequi: nec eum, qui hiberno habuerit fundum centum, si sub tempus messis vindemiaeve fructus eius vendere possit decem, idcirco duas res, id est fundum centum et fructus decem eum habere intellegendum, sed unam, id est fundum centum, sicut is quoque unam rem haberet, qui separatim solum aedium vendere possit.
+
+7. Haec actio etiam in ipsum fraudatorem datur, licet Mela non putabat in fraudatorem eam dandam, quia nulla actio in eum ex ante gesto post bonorum venditionem daretur et iniquum esset actionem dari in eum, cui bona ablata essententiarum si vero quaedam disperdidisset, si nulla ratione reciperari possent, nihilo minus actio in eum dabitur et praetor non tam emolumentum actionis intueri videtur in eo, qui exutus est bonis, quam poenam.

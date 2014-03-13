@@ -1,0 +1,1653 @@
+* Index titulorum IUSTINIANI DIGESTA
+  ( Based upon the Latin text of Mommsen's edition, Berlin, 1954 )
+
+** Liber I
+
++ 1.1.  De iustitia et iure
++ 1.2.  De origine iuris et omnium magistratuum et successione prudentium
++ 1.3.  De legibus senatusque consultis et longa consuetudine
++ 1.4.  De constitutionibus principum
++ 1.5.  De statu hominum
++ 1.6.  De his qui sui vel alieni iuris sunt
++ 1.7.  De adoptionibus et emancipationibus et aliis modis quibus potestas solvitur
++ 1.8.  De divisione rerum et qualitate
++ 1.9.  De senatoribus
++ 1.10. De officio consulis
++ 1.11. De officio praefecti praetorio
++ 1.12. De officio praefecti urbi
++ 1.13. De officio quaestoris
++ 1.14. De officio praetorum
++ 1.15. De officio praefecti vigilum
++ 1.16. De officio proconsulis et legati
++ 1.17. De officio praefecti Augustalis
++ 1.18. De officio praesidis
++ 1.19. De officio procuratoris Caesaris vel rationalis
++ 1.20. De officio iuridici
++ 1.21. De officio eius, cui mandata est iurisdictio
++ 1.22. De officio adsessorum
+
+** Liber II
+
++ 2.1.  De iurisdictione
++ 2.2.  Quod quisque iuris in alterum statuerit, ut ipse eodem iure utatur
++ 2.3.  I quis ius dicenti non obtemperaverit
++ 2.4.  De in ius vocando
++ 2.5.  Si quis in ius vocatus non ierit sive quis eum vocaverit, quem ex edicto non debuerit
++ 2.6.  In ius vocati ut eant aut satis vel cautum dent
++ 2.7.  Ne quis eum qui in ius vocabitur vi eximat
++ 2.8.  Qui satisdare cogantur vel iurato promittant vel suae promissioni committantur
++ 2.9.  Si ex noxali causa agatur, quemadmodum caveatur
++ 2.10. De eo per quem factum erit quominus quis in iudicio sistat
++ 2.11. Si quis cautionibus in iudicio sistendi causa factis non obtemperaverit
++ 2.12. De feriis et dilationibus et diversis temporibus
++ 2.13. De edendo
++ 2.14. De pactis
++ 2.15. De transactionibus
+
+** Liber III
+
++ 3.1. De postulando
++ 3.2. De his qui notantur infamia
++ 3.3. De procuratoribus et defensoribus
++ 3.4. Quod cuiuscumque universitatis nomine vel contra eam agatur
++ 3.5. De negotiis gestis
++ 3.6. De calumniatoribus
+
+** Liber IV
+
++ 4.1. De in integrum restitutionibus
++ 4.2. Quod metus causa gestum erit
++ 4.3. De dolo malo
++ 4.4. De minoribus viginti quinque annis
++ 4.5. De capite minutis
++ 4.6. Ex quibus causis maiores viginti quinque annis in integrum restituuntur
++ 4.7. De alienatione iudicii mutandi causa facta
++ 4.8. De receptis: qui arbitrium receperint ut sententiam dicant
++ 4.9. Nautae caupones stabularii ut recepta restituant
+
+** Liber V
+
++ 5.1. De iudiciis: ubi quisque agere vel conveniri debeat
++ 5.2. De inofficioso testamento
++ 5.3. De hereditatis petitione
++ 5.4. Si pars hereditatis petatur
++ 5.5. De possessoria hereditatis petitione
++ 5.6. De fideicommissaria hereditatis petitione
+
+** Liber VI
+
++ 6.1. De rei vindicatione
++ 6.2. De publiciana in rem actione
++ 6.3. Si ager vectigalis, id est emphyteuticarius, petatur
+
+** Liber VII
+
++ 7.1. De usu fructu et quemadmodum quis utatur fruatur
++ 7.2. De usu fructu adcrescendo
++ 7.3. Quando dies usus fructus legati cedat
++ 7.4. Quibus modis usus fructus vel usus amittitur
++ 7.5. De usu fructu earum rerum, quae usu consumuntur vel minuuntur
++ 7.6. Si usus fructus petetur vel ad alium pertinere negetur
++ 7.7. De operis servorum
++ 7.8. De usu et habitatione
++ 7.9. Usufructuarius quemadmodum caveat
+
+** Liber VIII
+
++ 8.1. De servitutibus
++ 8.2. De servitutibus praediorum urbanorum
++ 8.3. De servitutibus praediorum rusticorum
++ 8.4. Communia praediorum tam urbanorum quam rusticorum
++ 8.5. Si servitus vindicetur vel ad alium pertinere negetur
++ 8.6. Quemadmodum servitutes amittuntur
+
+** Liber IX
+
++ 9.1. Si quadrupes pauperiem fecisse dicatur
++ 9.2. Ad legem Aquiliam
++ 9.3. De his, qui effuderint vel deiecerint
++ 9.4. De noxalibus actionibus
+
+** Liber X
+
++ 10.1. Finium regundorum
++ 10.2. Familiae erciscundae
++ 10.3. Communi dividundo
++ 10.4. Ad exhibendum
+
+** Liber XI
+
++ 11.1. De interrogationibus in iure faciendis et interrogatoriis actionibus
++ 11.2. De quibus rebus ad eundem iudicem eatur
++ 11.3. De servo corrupto
++ 11.4. De fugitivis
++ 11.5. De aleatoribus
++ 11.6. Si mensor falsum modum dixerit
++ 11.7. De religiosis et sumptibus funerum et ut funus ducere liceat
++ 11.8. De mortuo inferendo et sepulchro aedificando
+
+** Liber XII
+
++ 12.1. De rebus creditis si certum petetur et de condictione
++ 12.2. De iureiurando sive voluntario sive necessario sive iudiciali
++ 12.3. De in litem iurando
++ 12.4. De condictione causa data causa non secuta
++ 12.5. De condictione ob turpem vel iniustam causam
++ 12.6. De condictione indebiti
++ 12.7. De condictione sine causa
+
+** Liber XIII
+
++ 13.1. De condictione furtiva
++ 13.2. De condictione ex lege
++ 13.3. De condictione triticiaria
++ 13.4. De eo quod certo loco dari oportet
++ 13.5. De pecunia constituta
++ 13.6. Commodati vel contra
++ 13.7. De pigneraticia actione vel contra
+
+** Liber XIV
+
++ 14.1. De exercitoria actione
++ 14.2. De lege Rodia "Rhodia" de iactu
++ 14.3. De institoria actione
++ 14.4. De tributoria actione
++ 14.5. Quod cum eo, qui in aliena potestate est, negotium gestum esse dicetur
++ 14.6. De senatus consulto Macedoniano
+
+** Liber XV
+
++ 15.1. De peculio
++ 15.2. Quando de peculio actio annalis est
++ 15.3. De in rem verso
++ 15.4. Quod iussu
+
+** Liber XVI
+
++ 16.1. Ad senatus consultum Velleianum
++ 16.2. De compensationibus
++ 16.3. Depositi vel contra
+
+** Liber XVII
+
++ 17.1. Mandati vel contra
++ 17.2. Pro socio
+
+** Liber XVIII
+
++ 18.1. De contrahenda emptione et de pactis inter emptorem et venditorem compositis (..)
++ 18.2. De in diem addictione
++ 18.3. De lege commissoria
++ 18.4. De hereditate vel actione vendita
++ 18.5. De rescindenda venditione et quando licet ab emptione discedere
++ 18.6. De periculo et commodo rei venditae
++ 18.7. De servis exportandis: vel si ita mancipium venierit ut manumittatur vel contra
+
+** Liber XIX
+
++ 19.1. De actionibus empti venditi
++ 19.2. Locati conducti
++ 19.3. De aestimatoria
++ 19.4. De rerum permutatione
++ 19.5. De praescriptis verbis et in factum actionibus
+
+** Liber XX
+
++ 20.1. De pignoribus et hypothecis et qualiter ea contrahantur et de pactis eorum
++ 20.2. In quibus causis pignus vel hypotheca tacite contrahitur
++ 20.3. Quae res pignori vel hypothecae datae olbigari non possunt
++ 20.4. Qui potiores in pignore vel hypotheca habeantur et de his qui in priorum creditorum locum (..)
++ 20.5. De distractione pignorum et hypothecarum
++ 20.6. Quibus modis pignus vel hypotheca solvitur
+
+** Liber XXI
+
++ 21.1. De aedilicio edicto et redhibitione et quanti minoris
++ 21.2. De evictionibus et duplae stipulatione
++ 21.3. De exceptione rei venditae et traditae
+
+** Liber XXII
+
++ 22.1. De usuris et fructibus et causis et omnibus accessionibus et mora
++ 22.2. De nautico faenore
++ 22.3. De probationibus et praesumptionibus
++ 22.4. De fide instrumentorum et amissione eorum
++ 22.5. De testibus
++ 22.6. De iuris et facti ignorantia
+
+** Liber XXIII
+
++ 23.1. De sponsalibus
++ 23.2. De ritu nuptiarum
++ 23.3. De iure dotium
++ 23.4. De pactis dotalibus
++ 23.5. De fundo dotali
+
+** Liber XXIV
+
++ 24.1. De donationibus inter virum et uxorem
++ 24.2. De divortiis et repudiis
+
+** INFORTIATUM [Dig. 24.3]
+
++ 24.3. Soluto matrimonio dos quemadmodum petatur
+
+** Liber XXV
+
++ 25.1. De impensis in res dotales factis
++ 25.2. De actione rerum amotarum
++ 25.3. De agnoscendis et alendis liberis vel parentibus vel patronis vel libertis
++ 25.4. De inspiciendo ventre custodiendoque partu
++ 25.5. Si ventris nomine muliere in possessionem missa eadem possessio dolo malo (..)
++ 25.6. Si mulier ventris nomine in possessione calumniae causa esse dicetur
++ 25.7. De concubinis
+
+** Liber XXVI
+
++ 26.1.  De tutelis
++ 26.2.  De testamentaria tutela
++ 26.3.  De confirmando tutore vel curatore
++ 26.4.  De legitimis tutoribus
++ 26.5.  De tutoribus et curatoribus datis ab his qui ius dandi habent (..)
++ 26.6.  Qui petant tutores vel curatores et ubi petantur
++ 26.7.  De administratione et periculo tutorum et curatorum qui gesserint vel non (..)
++ 26.8.  De auctoritate et consensu tutorum et curatorum
++ 26.9.  Quando ex facto tutoris vel curatoris minores agere vel conveniri possunt
++ 26.10. De suspectis tutoribus et curatoribus
+
+** Liber XXVII
+
++ 27.1. De excusationibus
++ 27.2. Ubi pupillus educari vel morari debeat et de alimentis ei praestandis
++ 27.3. De tutelae et rationibus distrahendis et utili curationis causa actione
++ 27.4. De contraria tutelae et utili actione
++ 27.5. De eo qui pro tutore prove curatore negotia gessit
++ 27.6. Quod falso tutore auctore gestum esse dicatur
++ 27.7. De fideiussoribus et nominatoribus et heredibus tutorum et curatorum
++ 27.8. De magistratibus conveniendis
++ 27.9. De rebus eorum, qui sub tutela vel cura sunt, sine decreto non alienandis vel supponendis
++ 27.10. De curatoribus furioso et aliis extra minores dandis
+
+** Liber XXVIII
+
++ 28.1. Qui testamenta facere possunt et quemadmodum tesamenta fiant
++ 28.2. De liberis et postumis heredibus instituendis vel exheredandis
++ 28.3. De iniusto rupto irrito facto testamento
++ 28.4. De his quae in testamento delentur inducuntur vel inscribuntur
++ 28.5. De heredibus instituendis
++ 28.6. De vulgari et pupillari substitutione
++ 28.7. De condicionibus institutionum
++ 28.8. De iure deliberandi
+
+** Liber XXIX
+
++ 29.1. De testamento militis
++ 29.2. De adquirenda vel omittenda hereditate
++ 29.3. Testamenta quemadmodum aperiuntur inspiciantur et describantur
++ 29.4. Si quis omissa causa testamenti ab intestato vel alio modo possideat hereditatem
++ 29.5. De senatus consulto Silaniano et Claudiano: quorum testamenta ne aperiantur
++ 29.6. Si quis aliquem testari prohibuerit vel coegerit
++ 29.7. De iure codicillorum
+
+** Liber XXX
+
++ 30. De legatis et fideicommissis
+
+** Liber XXXI
+
++ 31. De legatis et fideicommissis
+
+** Liber XXXII
+
++ 32. De legatis et fideicommissis
+
+** Liber XXXIII
+
++ 33.1.  De annuis legatis et fideicommissis
++ 33.2.  De usu et de usu fructu et reditu et habitatione et operis per legatum vel fideicommissum datis
++ 33.3.  De servitute legata
++ 33.4.  De dote praelegata
++ 33.5.  De optione vel electione legata
++ 33.6.  De tritico vino vel oleo legato
++ 33.7.  De instructo vel instrumento legato
++ 33.8.  De peculio legato
++ 33.9.  De penu legata
++ 33.10. De suppellectile legata
+
+** Liber XXXIV
+
++ 34.1. De alimentis vel cibariis legatis
++ 34.2. De auro argento mundo ornamentis unguentis veste vel vestimentis et statuis legatis
++ 34.3. De liberatione legata
++ 34.4. De adimendis vel transferendis legatis vel fideicommissis
++ 34.5. De rebus dubiis
++ 34.6. De his quae poenae causa relinquuntur
++ 34.7. De regula Catoniana
++ 34.8. De his quae pro non scriptis habentur
++ 34.9. De his quae ut indignis auferuntur
+
+** Liber XXXV
+
++ 35.1. De condicionibus et demonstrationibus et causis et modis eorum, quae in testamento scribuntur
++ 35.2. Ad legem Falcidiam
++ 35.3. Si cui plus, quam per legem Falcidiam licuerit, legatum esse dicetur
+
+** Liber XXXVI
+
++ 36.1. Ad senatus consultum Trebellianum
++ 36.2. Quando dies legatorum vel fideicommissorum cedat
++ 36.3. Ut legatorum seu fideicommissorum servandorum causa caveatur
++ 36.4. Ut in possessionem legatorum vel fideicommissorum servandorum causa esse liceat
+
+** Liber XXXVII
+
++ 37.1.  De bonorum possessionibus
++ 37.2.  Si tabulae testamenti extabunt
++ 37.3.  De bonorum possessione furioso infanti muto surdo caeco competente
++ 37.4.  De bonorum possessione contra tabulas
++ 37.5.  De legatis praestandis contra tabulas bonorum possessione petita
++ 37.6.  De collatione bonorum
++ 37.7.  De dotis collatione
++ 37.8.  De coniungendis cum emancipato liberis eius
++ 37.9.  De ventre in possessionem mittendo et curatore eius
++ 37.10. De Carboniano edicto
++ 37.11. De bonorum possessione secundum tabulas
++ 37.12. Si a parente quis manumissus sit
++ 37.13. De bonorum possessione ex testamento militis
++ 37.14. De iure patronatus
++ 37.15. De obsequiis parentibus et patronis praestandis
+
+** Liber XXXVIII
+
++ 38.1.  De operis libertorum
++ 38.2.  De bonis libertorum
++ 38.3.  De libertis universitatium
++ 38.4.  De adsignandis libertis
++ 38.5.  Si quid in fraudem patroni factum sit
++ 38.6.  Si tabulae testamenti nullae extabunt, unde liberi
++ 38.7.  Unde legitimi
++ 38.8.  Unde cognati
++ 38.9.  De successorio edicto
++ 38.10. De gradibus et adfinibus et nominibus eorum
++ 38.11. Unde vir et uxor
++ 38.12. De veteranorum et militum successione
++ 38.13. Quibus non competit bonorum possessio
++ 38.14. Ut ex legibus senatusve consultis bonorum possessio detur
++ 38.15. Quis ordo in possessionibus servetur
++ 38.16. De suis et legitimis heredibus
++ 38.17. Ad senatus consultum Tertullianum et Orphitianum
+
+** DIGESTUM NOVUM [Dig. 39]
+** Liber XXXIX
+
++ 39.1. De operis novi nuntiatione
++ 39.2. De damno infecto et de suggrundis et proiectionibus
++ 39.3. De aqua et aquae pluviae arcendae
++ 39.4. De publicanis et vectigalibus et commissis
++ 39.5. De donationibus
++ 39.6. De mortis causa donationibus et capionibus
+
+** Liber XL
+
++ 40.1.  De manumissionibus
++ 40.2.  De manumissis vindicta
++ 40.3.  De manumissionibus quae servis ad universitatem pertinentibus imponuntur
++ 40.4.  De manumissis testamento
++ 40.5.  De fideicommissariis libertatibus
++ 40.6.  De ademptione libertatis
++ 40.7.  De statuliberis
++ 40.8.  Qui sine manumissione ad libertatem perveniunt
++ 40.9.  Qui et a quibus manumissi liberi non fiunt et ad legem Aeliam Sentiam
++ 40.10. De iure aureorum anulorum
++ 40.11. De natalibus restituendis
++ 40.12. De liberali causa
++ 40.13. Quibus ad libertatem proclamare non licet
++ 40.14. Si ingenuus esse dicetur
++ 40.15. Ne de statu defunctorum post quinquennium quaeratur
++ 40.16. De collusione detegenda
+
+** Liber XLI
+
++ 41.1.  De adquirendo rerum dominio
++ 41.2.  De adquirenda vel amittenda possessione
++ 41.3.  De usurpationibus et usucapionibus
++ 41.4.  Pro emptore
++ 41.5.  Pro herede vel pro possessore
++ 41.6.  Pro donato
++ 41.7.  Pro derelicto
++ 41.8.  Pro legato
++ 41.9.  Pro dote
++ 41.10. Pro suo
+
+** Liber XLII
+
++ 42.1. De re iudicata et de effectu sententiarum et de interlocutionibus
++ 42.2. De confessis
++ 42.3. De cessione bonorum
++ 42.4. Quibus ex causis in possessionem eatur
++ 42.5. De rebus auctoritate iudicis possidendis seu vendundis
++ 42.6. De separationibus
++ 42.7. De curatore bonis dando
++ 42.8. Quae in fraudem creditorum facta sunt ut restituantur
+
+** Liber XLIII
+
++ 43.1.  De interdictis sive extraordinariis actionibus, quae pro his competunt
++ 43.2.  Quorum bonorum
++ 43.3.  Quod legatorum
++ 43.4.  De vis fiat ei, qui in possessionem missus erit
++ 43.5.  De tabulis exhibendis
++ 43.6.  Ne quid in loco sacro fiat
++ 43.7.  De locis et itineribus publicis
++ 43.8.  Ne quid in loco publico vel itinere fiat
++ 43.9.  De loco publico fruendo
++ 43.10. De via publica et si quid in ea factum esse dicatur
++ 43.11. De via publica et itinere publico reficiendo
++ 43.12. De fluminibus. ne quid in flumine publico ripave eius fiat, quo peius navigetur
++ 43.13. Ne quid in flumine publico fiat, quo aliter aqua fluat, atque uti priore aestate fluxit
++ 43.14. Ut in flumine publico navigare liceat
++ 43.15. De ripa munienda
++ 43.16. De vi et de vi armata
++ 43.17. Uti possidetis
++ 43.18. De superficiebus
++ 43.19. De itinere actuque privato
++ 43.20. De aqua cottidiana et aestiva
++ 43.21. De rivis
++ 43.22. De fonte
++ 43.23. De cloacis
++ 43.24. Quod vi aut clam
++ 43.25. De remissionibus
++ 43.26. De precario
++ 43.27. De arboribus caedendis
++ 43.28. De glande legenda
++ 43.29. De homine libero exhibendo
++ 43.30. De liberis exhibendis, item ducendis
++ 43.31. Utrubi
++ 43.32. De migrando
++ 43.33. De Salviano interdicto
+
+** Liber XLIV
+
++ 44.1. De exceptionibus praescriptionibus et praeiudiciis
++ 44.2. De exceptione rei iudicatae
++ 44.3. De diversis temporalibus praescriptionibus et de accessionibus possessionum
++ 44.4. De doli mali et metus exceptione
++ 44.5. Quarum rerum actio non datur
++ 44.6. De litigiosis
++ 44.7. De obligationibus et actionibus
+
+** Liber XLV
+
++ 45.1. De verborum obligationibus
++ 45.2. De duobus reis constituendis
++ 45.3. De stipulatione servorum
+
+** Liber XLVI
+
++ 46.1. De fideiussoribus et mandatoribus
++ 46.2. De novationibus et delegationibus
++ 46.3. De solutionibus et liberationibus
++ 46.4. De acceptilatione
++ 46.5. De stipulationibus praetoriis
++ 46.6. Rem pupilli vel adulescentis salvam fore
++ 46.7. Iudicatum solvi
++ 46.8. Ratam rem haberi et de ratihabitione
+
+** Liber XLVII
+
++ 47.1.   De privatis delictis
++ 47.2.   De furtis
++ 47.3.   De tigno iuncto
++ 47.4.   Si is, qui testamento liber esse iussus erit (..)
++ 47.5.   Furti adversus nautas caupones stabularios
++ 47.6.   Si familia furtum fecisse dicetur
++ 47.7.   Arborum furtim caesarum
++ 47.8.   Vi bonorum raptorum et de turba
++ 47.9.   De incendio ruina naufragio rate nave expugnata
++ 47.10.  De iniuriis et famosis libellis
++ 47.11.  De extraordinariis criminibus
++ 47.12.  De sepulchro violato
++ 47.13.  De concussione
++ 47.14.  De abigeis
++ 47.15.  De praevaricatione
++ 47.16.  De receptatoribus
++ 47.17.  De furibus balneariis
++ 47.18.  De effractoribus et expilatoribus
++ 47.19.  Expilatae hereditatis
++ 47.20.  Stellionatus
++ 47.21.  De termino moto
++ 47.22.  De collegiis et corporibus
++ 47.23.  De popularibus actionibus
+
+** Liber XLVIII
+
++ 48.1.   De publicis iudiciis
++ 48.2.   De accusationibus et inscriptionibus
++ 48.3.   De custodia et exhibitione reorum
++ 48.4.   Ad legem Iuliam maiestatis
++ 48.5.   Ad legem Iuliam de adulteriis coercendis
++ 48.6.   Ad legem Iuliam de vi publica
++ 48.7.   Ad legem Iuliam de vi privata
++ 48.8.   Ad legem Corneliam de siccariis et veneficis
++ 48.9.   De lege Pompeia de parricidiis
++ 48.10.  De lege Cornelia de falsis et de senatus consulto liboniano
++ 48.11.  De lege Iulia repetundarum
++ 48.12.  De lege Iulia de annona
++ 48.13.  Ad legem Iuliam peculatus et de sacrilegis et de residuis
++ 48.14.  De lege Iulia ambitus
++ 48.15.  De lege Fabia de plagiariis
++ 48.16.  Ad senatus consultum Turpillianum et de abolitionibus criminum
++ 48.17.  De requirendis vel absentibus damnandis
++ 48.18.  De quaestionibus
++ 48.19.  De poenis
++ 48.20.  De bonis damnatorum
++ 48.21.  De bonis eorum, qui ante sententiam vel mortem (..)
++ 48.22.  De interdictis et relegatis et deportatis
++ 48.23.  De sententiam passis et restitutis
++ 48.24.  De cadaveribus punitorum
+
+** Liber XLIX
+
++ 49.1.  De appellationibus et relegationibus
++ 49.2.  A quibus appellari non licet
++ 49.3.  Quis a quo appelletur
++ 49.4.  Quando appellandum sit et intra quae tempora
++ 49.5.  De appellationibus recipiendis vel non
++ 49.6.  De libellis dimissoriis, qui apostoli dicuntur
++ 49.7.  Nihil innovari appellatione interposita
++ 49.8.  Quae sententiae sine appellatione rescindantur
++ 49.9.  An per alium causae appellationum reddi possunt
++ 49.10. Si tutor vel curator magistratusve creatus appellaverit
++ 49.11. Eum qui appellaverit in provincia defendi
++ 49.12. Apud eum, a quo appellatur, aliam causam agere compellendum
++ 49.13. Si pendente appellatione mors intervenerit
++ 49.14. De iure fisci
++ 49.15. De captivis et de postliminio et redemptis ab hostibus
++ 49.16. De re militari
++ 49.17. De castrensi peculio
++ 49.18. De veteranis
+
+** Liber L
+
++ 50.1.   Ad municipalem et de incolis
++ 50.2.   De decurionibus et filiis eorum
++ 50.3.   De albo scribendo
++ 50.4.   De muneribus et honoribus
++ 50.5.   De vacatione et excusatione munerum
++ 50.6.   De iure immunitatis
++ 50.7.   De legationibus
++ 50.8.   De administratione rerum ad civitates pertinentium
++ 50.9.   De decretis ab ordine faciendis
++ 50.10.  De operibus publicis
++ 50.11.  De nundinis
++ 50.12.  De pollicitationibus
++ 50.13.  De variis et extraordinariis cognitionibus et si iudex
+            litem suam fcisse dicetur
++ 50.14.  De proxeneticis
++ 50.15.  De censibus
++ 50.16.  De verborum significatione
++ 50.17.  De diversis regulis iuris antiqui
+
+* Index titulorum CODICIS IUSTINIANI
+
+** LIBER PRIMUS
+
++ 1.1. De summa trinitate et de fide catholica et ut nemo de ea publice contendere audeat
++ 1.2. De sacrosanctis ecclesiis et de rebus et privilegiis earum
++ 1.3. De episcopis et clericis et orphanotrophis et brephotrophis et xenodochis et asceteriis et monachis et privilegio eorum et castrensi peculio et de redimendis captivis et de nuptiis clericorum vetitis seu permissis
++ 1.4. De episcopali audientia et de diversis capitulis, quae ad ius curamque et reverentiam pontificalem pertinent
++ 1.5. De haereticis et manichaeis et samaritis
++ 1.6. Ne sanctum baptisma iteretur
++ 1.7. De apostatis
++ 1.8. Nemini licere signum salvatoris christi vel in silice vel in marmore aut sculpere aut pingere
++ 1.9. De iudaeis et caelicolis
++ 1.10. Ne christianum mancipium haereticus vel paganus vel iudaeus habeat vel possideat vel circumcidat
++ 1.11. De paganis sacrificiis et templis
++ 1.12. De his qui ad ecclesias confugiunt vel ibi exclamant
++ 1.13. De his qui in ecclesiis manumittuntur
++ 1.14. De legibus et constitutionibus principum et edictis
++ 1.15. De mandatis principum
++ 1.16. De senatus consultis
++ 1.17. De veteri iure enucleando et auctoritate iuris prudentium qui in digestis referuntur
++ 1.18. De iuris et facti ignorantia
++ 1.19. De precibus imperatori offerendis et de quibus rebus supplicare liceat vel non
++ 1.20. Quando libellus principi datus litis contestationem facit
++ 1.21. Ut lite pendente vel post provocationem aut definitivam sententiam nulli liceat imperatori supplicare
++ 1.22. Si contra ius utilitatemve publicam vel per mendacium fuerit aliquid postulatum vel impetratum
++ 1.23. De diversis rescriptis et pragmaticis sanctionibus
++ 1.24. De statuis et imaginibus
++ 1.25. De his qui ad statuas confugiunt
++ 1.26. De officio praefectorum praetorio orientis et illyrici
++ 1.27. De officio praefecti praetorio africae et de omni eiusdem dioeceseos statu
++ 1.28. De officio praefecti urbis
++ 1.29. De officio magistri militum
++ 1.30. De officio quaestoris
++ 1.31. De officio magistri officiorum
++ 1.32. De officio comitis sacrarum largitionum
++ 1.33. De officio comitis rerum privatarum
++ 1.34. De officio comitis sacri patrimonii
++ 1.35. De officio proconsulis et legati
++ 1.36. De officio comitis orientis
++ 1.37. De officio praefecti augustalis
++ 1.38. De officio vicarii
++ 1.39. De officio praetorum
++ 1.40. De officio rectoris provinciae
++ 1.41. Ut nulli patriae suae administratio sine speciali permissu principis permittatur
++ 1.42. De quadrimenstruis tam civilibus quam militaribus brevibus
++ 1.43. De officio praefecti vigilum
++ 1.44. De officio praefecti annonae
++ 1.45. De officio civilium iudicum
++ 1.46. De officio iudicum militarium
++ 1.47. Ne comitibus rei militaris vel tribunis lavacra praestentur
++ 1.48. De officio diversorum iudicum
++ 1.49. Ut omnes tam civiles quam militares iudices post administrationem depositam per quinquaginta dies in civitatibus vel certis locis permaneant
++ 1.50. De officio eius qui vicem alicuius iudicis obtinet
++ 1.51. De adsessoribus et domesticis et cancellariis iudicum
++ 1.52. De annonis et capitu administrantium vel adsessorum aliorumve publicas sollicitudines gerentium vel eorum, qui aliquas consecuti sunt dignitates
++ 1.53. De contractibus iudicum vel eorum qui sunt circa eos et inhibendis donationibus in eos faciendis et ne administrationis tempore proprias aedes aedificent sine sanctione pragmatica
++ 1.54. De modo multarum, quae ab iudicibus infliguntur
++ 1.55. De defensoribus civitatum
++ 1.56. De magistratibus municipalibus
++ 1.57. De officio iuridici alexandriae
+
+** LIBER SECUNDUS
+
++ 2.1. De edendo
++ 2.2. De in ius vocando
++ 2.3. De pactis
++ 2.4. De transactionibus
++ 2.5. De calculi errore
++ 2.6. De postulando
++ 2.7. De advocatis diversorum iudiciorum
+          % NB: 2.7.20 = 2.7(8).20(1)  --- all switch here
++ 2.8(9). De advocatis fisci
++ 2.9. De errore advocatorum vel libellos seu preces concipientium
++ 2.10. Ut quae desunt advocationi partium iudex suppleat
++ 2.11. De causis, ex quibus infamia alicui inrogatur
++ 2.12. De procuratoribus
++ 2.13. Ne liceat potentioribus patrocinium litigantibus praestare vel actiones in se transferre
++ 2.14. De his, qui potentiorum nomine titulos praediis adfigunt vel eorum nomina in lite praetendunt
++ 2.15. Ut nemo privatus titulos praediis suis vel alienis imponat vel vela regalia suspendat
++ 2.16. Ut nemini liceat sine iudicis auctoritate signa imprimere rebus, quas alius tenet
++ 2.17. Ne fiscus vel res publica procurationem alicui patrocinii causa in lite praestet
++ 2.18. De negotiis gestis
++ 2.19. De his quae vi metusve causa gesta sunt
++ 2.20. De dolo malo
++ 2.21. De in integrum restitutione minorum viginti quinque annis
++ 2.22. De filio familias minore
++ 2.23. De fideiussoribus minorum
++ 2.24. Si tutor vel curator intervenerit
++ 2.25. Si in communi eademque causa in integrum restitutio postuletur
++ 2.26. Si adversus rem iudicatam
++ 2.27. Si adversus venditionem
++ 2.28. Si adversus venditionem pignoris
++ 2.29. Si adversus donationem
++ 2.30. Si adversus libertatem
++ 2.31. Si adversus transactionem vel divisionem minor restitui velit
++ 2.32. Si adversus solutionem a debitore vel a se factam
++ 2.33. Si adversus dotem
++ 2.34. Si adversus delictum suum
++ 2.35. Si adversus usucapionem
++ 2.36. Si adversus fiscum
++ 2.37. Si adversus creditorem
++ 2.38. Si ut se hereditate abstineat
++ 2.39. Si ut omissam hereditatem vel bonorum possessionem vel quid aliud adquirat
++ 2.40. In quibus causis in integrum restitutio necessaria non est
++ 2.41. Qui et adversus quos in integrum restitui non possunt
++ 2.42. Si minor se maiorem dixerit vel probatus fuerit
++ 2.43. Si saepius in integrum restitutio postuletur
++ 2.44. De his qui veniam aetatis impetraverunt
++ 2.45. Si maior factus ratum habuerit
++ 2.46. Ubi et apud quem cognitio restitutionis agitanda sit
++ 2.47. De reputationibus, quae fiunt in iudicio in integrum restitutionis
++ 2.48. Etiam per procuratorem causam in integrum restitutionis agi posse
++ 2.49. In integrum restitutione postulata ne quid novi fiat
++ 2.50. De restitutione militum et eorum qui rei publicae causa afuerunt
++ 2.51. De uxoribus militum vel eorum qui rei publicae causa absunt
++ 2.52. De temporibus in integrum restitutionis tam minorum aliarumque personarum, quae restitui possunt, quam heredum eorum
++ 2.53. Quibus ex causis maiores in integrum restituuntur
++ 2.54. De alienatione iudicii mutandi causa facta
++ 2.55. De receptis
++ 2.56. De satisdando
++ 2.57. De formulis et impetratione actionum sublatis
++ 2.58. De iureiurando propter calumniam dando
+
+** LIBER TERTIUS
+
++ 3.1. De iudiciis
++ 3.2. De sportulis et sumptibus in diversis iudiciis faciendis et de exsecutoribus litium
++ 3.3. De pedaneis iudicibus
++ 3.4. Qui pro sua iurisdictione iudices dare darive possunt
++ 3.5. Ne quis in sua causa iudicet vel sibi ius dicat
++ 3.6. Qui legitimam personam in iudiciis habent vel non
++ 3.7. Ut nemo invitus agere vel accusare cogatur
++ 3.8. De ordine iudiciorum
++ 3.9. De litis contestatione
++ 3.10. De plus petitionibus
++ 3.11. De dilationibus
++ 3.12. De feriis
++ 3.13. De iurisdictione omnium iudicum et de foro competenti
++ 3.14. Quando imperator inter pupillos vel viduas vel miserabiles personas cognoscat et ne exhibeantur
++ 3.15. Ubi de criminibus agi oportet
++ 3.16. Ubi de possessione agi oportet
++ 3.17. Ubi fideicommissum peti oportet
++ 3.18. Ubi conveniatur qui certo loco dare promisit
++ 3.19. Ubi in rem actio exerceri debet
++ 3.20. Ubi de hereditate agatur et ubi scripti heredes in possessionem mitti postulare debent
++ 3.21. Ubi agi oportet de ratiociniis tam privatis quam publicis
++ 3.22. Ubi causa status agi debeat
++ 3.23. Ubi quis de curiali vel cohortali aliave condicione conveniatur
++ 3.24. Ubi senatores vel clarissimi civiliter vel criminaliter conveniantur
++ 3.25. In quibus causis militantes fori praescriptione uti non possunt
++ 3.26. Ubi causae fiscales vel divinae domus hominumque eius agantur
++ 3.27. Quando liceat sine iudice unicuique vindicare se vel publicam devotionem
++ 3.28. De inofficioso testamento
++ 3.29. De inofficiosis donationibus
++ 3.30. De inofficiosis dotibus
++ 3.31. De petitione hereditatis
++ 3.32. De rei vindicatione
++ 3.33. De usu fructu et habitatione et ministerio servorum
++ 3.34. De servitutibus et de aqua
++ 3.35. De lege aquilia
++ 3.36. Familiae erciscundae
++ 3.37. Communi dividundo
++ 3.38. Communia utriusque iudicii tam familiae erciscundae quam communi dividundo
++ 3.39. Finium regundorum
++ 3.40. De consortibus eiusdem litis
++ 3.41. De noxalibus actionibus
++ 3.42. Ad exhibendum
++ 3.43. De aleae lusu et aleatoribus
++ 3.44. De religiosis et sumptibus funerum
+
+** LIBER QUARTUS
+
++ 4.1. De rebus creditis et de iureiurando
++ 4.2. Si certum petatur
++ 4.3. De suffragio
++ 4.4. De prohibita sequestratione pecuniae
++ 4.5. De condictione indebiti
++ 4.6. De condictione ob causam datorum
++ 4.7. De condictione ob turpem causam
++ 4.8. De condictione furtiva
++ 4.9. De condictione ex lege et sine causa vel iniusta causa
++ 4.10. De obligationibus et actionibus
++ 4.11. Ut actiones et ab herede et contra heredem incipiant
++ 4.12. Ne uxor pro marito vel maritus pro uxore vel mater pro filio conveniatur
++ 4.13. Ne filius pro patre vel pater pro filio emancipato vel libertus pro patrono conveniatur
++ 4.14. An servus ex suo facto post manumissionem teneatur
++ 4.15. Quando fiscus vel privatus debitoris sui debitores exigere potest
++ 4.16. De actionibus hereditariis
++ 4.17. Ex delictis defunctorum in quantum heredes conveniantur
++ 4.18. De constituta pecunia
++ 4.19. De probationibus
++ 4.20. De testibus
++ 4.21. De fide instrumentorum et amissione eorum et antapochis faciendis et de his quae sine scriptura fieri possunt
++ 4.22. Plus valere quod agitur quam quod simulate concipitur
++ 4.23. De commodato
++ 4.24. De actione pigneraticia
++ 4.25. De exercitoria et institoria actione
++ 4.26. Quod cum eo qui in aliena est potestate negotium gestum esse dicitur, vel de peculio seu quod iussu aut de in rem verso
++ 4.27. Per quas personas nobis adquiritur
++ 4.28. Ad senatus consultum macedonianum
++ 4.29. Ad senatus consultum velleianum
++ 4.30. De non numerata pecunia
++ 4.31. De compensationibus
++ 4.32. De usuris
++ 4.33. De nautico fenore
++ 4.34. Depositi
++ 4.35. Mandati
++ 4.36. Si servus se emi mandaverit
++ 4.37. Pro socio
++ 4.38. De contrahenda emptione
++ 4.39. De hereditate vel actione vendita
++ 4.40. Quae res venire non possunt et qui vendere vel emere vetantur
++ 4.41. Quae res exportari non debeant
++ 4.42. De eunuchis
++ 4.43. De patribus qui filios distraxerunt
++ 4.44. De rescindenda venditione
++ 4.45. Quando liceat ab emptione discedere
++ 4.46. Si propter publicas pensitationes venditio fuerit celebrata
++ 4.47. Sine censu vel reliquis fundum comparari non posse
++ 4.48. De periculo et commodo rei venditae
++ 4.49. De actionibus empti et venditi
++ 4.50. Si quis alteri vel sibi sub alterius nomine vel aliena pecunia emerit
++ 4.51. De rebus alienis non alienandis et de prohibita rerum alienatione vel hypotheca
++ 4.52. De communium rerum alienatione
++ 4.53. Rem alienam gerentibus non interdici rerum suarum alienatione
++ 4.54. De pactis inter emptorem et venditorem compositis
++ 4.55. Si servus exportandus veneat
++ 4.56. Si mancipium ita venierit, ne prostituatur
++ 4.57. Si mancipium ita fuerit alienatum, ut manumittatur vel contra
++ 4.58. De aediliciis actionibus
++ 4.59. De monopoliis et de conventu negotiatorum illicito vel artificum ergolaborumque nec non balneatorum prohibitis illicitisque pactionibus
++ 4.60. De nundinis
++ 4.61. De vectigalibus et commissis
++ 4.62. Vectigalia nova instituti non posse
++ 4.63. De commerciis et mercatoribus
++ 4.64. De rerum permutatione et de praescriptis verbis actione
++ 4.65. De locato et conducto
++ 4.66. De emphyteutico iure
+
+** LIBER QUINTUS
+
++ 5.1. De sponsalibus et arris sponsaliciis et proxeneticis
++ 5.2. Si rector provinciae vel ad eum pertinentes sponsalia dederint
++ 5.3. De donationibus ante nuptias vel propter nuptias et sponsaliciis
++ 5.4. De nuptiis
++ 5.5. De incestis et inutilibus nuptiis
++ 5.6. De interdicto matrimonio inter pupillam et tutorem seu curatorem liberosque eorum
++ 5.7. Si quacumque praeditus potestate vel ad eum pertinentes ad suppositarum iurisdictioni suae adspirare temptaverint nuptias
++ 5.8. Si nuptiae ex rescripto petantur
++ 5.9. De secundis nuptiis
++ 5.10. Si secundo nupserit mulier, cui maritus usum fructum reliquerit
++ 5.11. De dotis promissione vel nuda pollicitatione
++ 5.12. De iure dotium
++ 5.13. De rei uxoriae actione in ex stipulatu actionem transfusa et de natura dotibus praestita
++ 5.14. De pactis conventis tam super dote quam super donatione ante nuptias et paraphernis
++ 5.15. De dote cauta et non numerata
++ 5.16. De donationibus inter virum et uxorem et a parentibus in liberos factis et de ratihabitione
++ 5.17. De repudiis et iudicio de moribus sublato
++ 5.18. Soluto matrimonio dos quemadmodum petatur
++ 5.19. Si dos constante matrimonio soluta fuerit
++ 5.20. Ne fideiussores vel mandatores dotium dentur
++ 5.21. Rerum amotarum
++ 5.22. Ne pro dote mulieri bona mariti addicantur
++ 5.23. De fundo dotali
++ 5.24. Divortio facto apud quem liberi morari vel educari debent
++ 5.25. De alendis liberis ac parentibus
++ 5.26. De concubinis
++ 5.27. De naturalibus liberis et matribus eorum et ex quibus casibus iusti efficiuntur
++ 5.28. De tutela testamentaria
++ 5.29. De confirmando tutore
++ 5.30. De legitima tutela
++ 5.31. Qui petant tutores vel curatores
++ 5.32. Ubi petantur tutores vel curatores
++ 5.33. De tutoribus et curatoribus illustrium vel clarissimarum personarum
++ 5.34. Qui dare tutores vel curatores et qui dari possunt
++ 5.35. Quando mulier tutelae officio fungi potest
++ 5.36. In quibus causis tutorem habenti tutor vel curator dari potest
++ 5.37. De administratione tutorum et curatorum et de pecunia pupillari feneranda vel deponenda
++ 5.38. De periculo tutorum et curatorum
++ 5.39. Quando ex facto tutoris vel curatoris minores agere vel conveniri possunt
++ 5.40. Si ex pluribus tutoribus vel curatoribus omnes vel unus agere pro minore vel conveniri possunt
++ 5.41. Ne tutor vel curator vectigal conducat
++ 5.42. De tutore vel curatore qui satis non dedit
++ 5.43. De suspectis
++ 5.44. De in litem dando tutore vel curatore
++ 5.45. De eo qui pro tutore negotia gessit
++ 5.46. Si mater indemnitatem promiserit
++ 5.47. Si contra matris voluntatem tutor datus sit
++ 5.48. Ut causae post pubertatem adsit tutor
++ 5.49. Ubi pupilli educentur
++ 5.50. De alimentis pupillo praestandis
++ 5.51. Arbitrium tutelae
++ 5.52. De dividenda tutela et pro qua parte quisque tutorum conveniatur
++ 5.53. De in litem iurando
++ 5.54. De heredibus tutorum
++ 5.55. Si tutor non gesserit
++ 5.56. De usuris pupillaribus
++ 5.57. De fideiussoribus tutorum seu curatorum
++ 5.58. De contrario iudicio
++ 5.59. De auctoritate praestanda
++ 5.60. Quando curatores vel tutores esse desinant
++ 5.61. De actore a tutore seu curatore dando
++ 5.62. De excusationibus et temporibus earum
++ 5.63. Si falsis adlegationibus excusatus sit
++ 5.64. Si tutor rei publicae causa aberit
++ 5.65. De excusatione veteranorum
++ 5.66. Qui numero liberorum se excusant
++ 5.67. Qui aetate
++ 5.68. Qui morbo
++ 5.69. Qui numero tutelarum
++ 5.70. De curatore furiosi vel prodigi
++ 5.71. De praediis vel aliis rebus minorum sine decreto non alienandis vel obligandis
++ 5.72. Quando decreto opus non est
++ 5.73. Si quis ignorans rem minoris esse sine decreto comparavit
++ 5.74. Si maior factus sine decreto factam alienationem ratam habuerit
++ 5.75. De magistratibus conveniendis
+
+** LIBER SEXTUS
+
++ 6.1. De fugitivis servis et libertis mancipiisque civitatum artificibus et ad diversa opera deputatis et ad rem privatam vel dominicam pertinentibus
++ 6.2. De furtis et de servo corrupto
++ 6.3. De operis libertorum
++ 6.4. De bonis libertorum et de iure patronatus
++ 6.5. Si in fraudem patroni alienatio facta est
++ 6.6. De obsequiis patronis praestandis
++ 6.7. De libertis et eorum liberis
++ 6.8. De iure aureorum anulorum et de natalibus restituendis
++ 6.9. Qui admitti ad bonorum possessionem possunt et intra quod tempus
++ 6.10. Quando non petentium partes petentibus adcrescunt
++ 6.11. De bonorum possessione secundum tabulas
++ 6.12. De bonorum possessione contra tabulas quam praetor liberis pollicetur
++ 6.13. De bonorum possessione contra tabulas liberti, quae patronis vel liberis eorum datur
++ 6.14. Unde liberi
++ 6.15. Unde legitimi et unde cognati
++ 6.16. De edicto successorio
++ 6.17. De carboniano edicto
++ 6.18. Unde vir et uxor
++ 6.19. De repudianda bonorum possessione
++ 6.20. De collationibus
++ 6.21. De testamento militis
++ 6.22. Qui facere testamentum possunt vel non possunt
++ 6.23. De testamentis: quemadmodum testamenta ordinantur
++ 6.24. De heredibus instituendis et quae personae heredes institui non possunt
++ 6.25. De institutionibus seu substitutionibus sub condicione factis
++ 6.26. De impuberum et de aliis substitutionibus
++ 6.27. De necessariis et servis heredibus instituendis vel substituendis
++ 6.28. De liberis praeteritis vel exheredatis
++ 6.29. De postumis heredibus instituendis vel exheredandis vel praeteritis
++ 6.30. De iure deliberandi et de adeunda vel adquirenda hereditate
++ 6.31. De repudianda vel abstinenda hereditate
++ 6.32. Quemadmodum aperiantur testamenta et inspiciantur et describantur
++ 6.33. De edicto divi hadriani tollendo et quemadmodum scriptus heres in possessionem mittatur
++ 6.34. Si quis aliquem testari prohibuerit vel coegerit
++ 6.35. De his quibus ut indignis auferuntur et ad senatus consultum silanianum
++ 6.36. De codicillis
++ 6.37. De legatis
++ 6.38. De verborum et rerum significatione
++ 6.39. Si omissa sit causa testamenti
++ 6.40. De indicta viduitate et de lege iulia miscella tollenda
++ 6.41. De his quae poenae nomine in testamento vel codicillis relinquuntur
++ 6.42. De fideicommissis
++ 6.43. Communia de legatis et fideicommissis et de in rem missione tollenda
++ 6.44. De falsa causa adiecta legato vel fideicommisso
++ 6.45. De his quae sub modo legata vel fideicommissa relinquuntur
++ 6.46. De condicionibus insertis tam legatis quam fideicommissis et libertatibus
++ 6.47. De usuris et fructibus legatorum vel fideicommissorum
++ 6.49. Ad senatus consultum trebellianum
++ 6.50. Ad legem falcidiam
++ 6.51. De caducis tollendis
++ 6.52. De his qui ante apertas tabulas hereditates transmittunt
++ 6.53. Quando dies legati vel fideicommissi cedit
++ 6.54. Ut in possessionem legatorum vel fideicommissorum servandorum causa mittatur et quando satisdari debet
++ 6.55. De suis et legitimis liberis et ex filia nepotibus ab intestato venientibus
++ 6.56. Ad senatus consultum tertullianum
++ 6.57. Ad senatus consultum orfitianum
++ 6.58. De legitimis heredibus
++ 6.59. Communia de successionibus
++ 6.60. De bonis maternis et materni generis
++ 6.61. De bonis, quae liberis in potestate constitutis ex matrimonio vel aliter adquiruntur, et eorum administratione
++ 6.62. De hereditatibus decurionum naviculariorum cohortalium militum et fabricensium
+
+** LIBER SEPTIMUS
+
++ 7.1. De vindicta libertate et apud consilium manumissione
++ 7.2. De testamentaria manumissione
++ 7.3. De lege fufia caninia tollenda
++ 7.4. De fideicommissariis libertatibus
++ 7.5. De dediticia libertate tollenda
++ 7.6. De latina libertate tollenda et per certos modos in civitatem romanam transfusa
++ 7.7. De servo communi manumisso
++ 7.8. De servo pignori dato manumisso
++ 7.9. De servis rei publicae manumittendis
++ 7.10. De his qui a non domino manumissi sunt
++ 7.11. Qui manumittere non possunt et ne in fraudem creditorum manumittatur
++ 7.12. Qui non possunt ad libertatem pervenire
++ 7.13. Pro quibus causis servi praemium accipiunt libertatem
++ 7.14. De ingenuis manumissis
++ 7.15. Communia de manumissionibus
++ 7.16. De liberali causa
++ 7.17. De adsertione tollenda
++ 7.18. Quibus ad libertatem proclamare non licet et de rebus eorum, qui ad libertatem proclamare non prohibentur
++ 7.19. De ordine cognitionum
++ 7.20. De collusione detegenda
++ 7.21. Ne de statu defunctorum post quinquennium quaeratur
++ 7.22. De longi temporis praescriptione, quae pro libertate et non adversus libertatem opponitur
++ 7.23. De peculio eius qui libertatem meruit
++ 7.24. De senatus consulto claudiano tollendo
++ 7.25. De nudo ex iure quiritium tollendo
++ 7.26. De usucapione pro emptore vel transactione
++ 7.27. De usucapione pro donato
++ 7.28. De usucapione pro dote
++ 7.29. De usucapione pro herede
++ 7.30. Communia de usucapionibus
++ 7.31. De usucapione transformanda et de sublata differentia rerum mancipi et nec mancipi
++ 7.32. De adquirenda et retinenda possessione
++ 7.33. De praescriptione longi temporis decem vel viginti annorum
++ 7.34. In quibus causis cessat longi temporis praescriptio
++ 7.35. Quibus non obiciatur longi temporis praescriptio
++ 7.36. Adversus creditorem. [[VULGATE: Si aduersus creditorem]]
++ 7.37. De quadriennii praescriptione
++ 7.38. Ne rei dominicae vel templorum vindicatio temporis exceptione submoveatur
++ 7.39. De praescriptione xxx vel xl annorum
++ 7.40. De annali exceptione italici contractus tollenda et de diversis temporibus et exceptionibus et praescriptionibus et interruptionibus earum
++ 7.41. De adluvionibus et paludibus et de pascuis ad alium statum translatis
++ 7.42. De sententiis praefectorum praetorio
++ 7.43. Quomodo et quando iudex sententiam proferre debet praesentibus partibus vel una absente
++ 7.44. De sententiis ex periculo recitandis
++ 7.45. De sententiis et interlocutionibus omnium iudicum
++ 7.46. De sententia, quae sine certa quantitate prolata est
++ 7.47. De sententiis, quae pro eo quod interest proferuntur
++ 7.48. Si non a competenti iudice iudicatum esse dicatur
++ 7.49. De poena iudicis, qui male iudicavit, vel eius, qui iudicem vel adversarium corrumpere curavit
++ 7.50. Sententiam rescindi non posse
++ 7.51. De fructibus et litis expensis
++ 7.52. De re iudicata
++ 7.53. De exsecutione rei iudicatae
++ 7.54. De usuris rei iudicatae
++ 7.55. Si plures una sententia condemnati sunt
++ 7.56. Quibus res iudicata non nocet
++ 7.57. Comminationes epistulas programmata subscriptiones auctoritatem rei iudicatae non habere
++ 7.58. Si ex falsis instrumentis vel testimoniis iudicatum erit
++ 7.59. De confessis
++ 7.60. Inter alios acta vel iudicata aliis non nocere
++ 7.61. De relationibus
++ 7.62. De appellationibus et consultationibus
++ 7.63. De temporibus et reparationibus appellationum seu consultationum
++ 7.64. Quando provocare necesse non est
++ 7.65. Quorum appellationes non recipiantur
++ 7.66. Si pendente appellatione mors intervenerit
++ 7.67. De his qui per metum iudicis non appellaverunt
++ 7.68. Si unus ex pluribus appellaverit
++ 7.69. Si de momentaria possessione fuerit appellatum
++ 7.70. Ne liceat in una eademque causa tertio provocare vel post duas sententias iudicum, quas definitio praefectorum roboraverit, eas retractare
++ 7.71. Qui bonis cedere possunt
++ 7.72. De bonis auctoritate iudicis possidendis seu venumdandis et de separationibus
++ 7.73. De privilegio fisci
++ 7.74. De privilegio dotis
++ 7.75. De revocandis his quae per fraudem alienata sunt
+
+** LIBER OCTAVUS
+
++ 8.1.  De interdictis
++ 8.2.  Quorum bonorum
++ 8.3.  Quod legatorum
++ 8.4.  Unde vi
++ 8.5.  Si per vim vel alio modo absentis perturbata sit possessio
++ 8.6.  Uti possidetis
++ 8.7.  De tabulis exhibendis
++ 8.8.  De liberis exhibendis seu de ducendis et de homine libero exhibendo
++ 8.9.  De precario et de salviano interdicto
++ 8.10. De aedificiis privatis
++ 8.11. De operibus publicis
++ 8.12. De ratiociniis operum publicorum et de patribus civitatum
++ 8.13. De pignoribus
++ 8.14. In quibus causis pignus tacite contrahitur
++ 8.15. Si aliena res pignori data sit
++ 8.16. Quae res pignori obligari possunt vel non et qualiter pignus contrahatur
++ 8.17. Qui potiores in pignore habeantur
++ 8.18. De his qui in priorum creditorum locum succedunt
++ 8.19. Si antiquior creditor pignus vendiderit
++ 8.20. Si communis res pignorata sit
++ 8.21. De praetorio pignore et ut in actionibus etiam debitorum missio praetorii pignoris procedat
++ 8.22. Si in in causa iudicati pignus captum sit
++ 8.23. Si pignus pignori datum sit
++ 8.24. De partu pignoris et omni causa
++ 8.25. De remissione pignoris
++ 8.26. Etiam ob chirographariam pecuniam pignus teneri
++ 8.27. De distractione pignorum
++ 8.28. Debitorem venditionem pignorum impedire non posse
++ 8.29. Si vendito pignore agatur
++ 8.30. De luitione pignoris
++ 8.31. Si unus ex pluribus heredibus creditoris vel debitoris partem suam debiti solverit vel acceperit
++ 8.32. Si pignoris conventionem numeratio secuta non sit
++ 8.33. De iure dominii impetrando
++ 8.34. De pactis pignorum et de commissoria lege in pignoribus rescindenda
++ 8.35. De exceptionibus sive praescriptionibus
++ 8.36. De litigiosis
++ 8.37. De contrahenda et committenda stipulatione
++ 8.38. De inutilibus stipulationibus
++ 8.39. De duobus reis stipulandi et duobus reis promittendi
++ 8.40. De fideiussoribus et mandatoribus
++ 8.41. De novationibus et delegationibus
++ 8.42. De solutionibus et liberationibus
++ 8.43. De acceptilationibus
++ 8.44. De evictionibus
++ 8.45. Creditorem evictionem non debere
++ 8.46. De patria potestate
++ 8.47. De adoptionibus
++ 8.48. De emancipationibus liberorum
++ 8.49. De ingratis liberis
++ 8.50. De postliminio et de redemptis ab hostibus
++ 8.51. De infantibus expositis liberis et servis et de his qui sanguinolentos emptos vel nutriendos acceperunt
++ 8.52. Quae sit longa consuetudo
++ 8.53. De donationibus
++ 8.54. De donationibus quae sub modo vel condicione vel ex certo tempore conficiuntur
++ 8.55. De revocandis donationibus
++ 8.56. De mortis causa donationibus
++ 8.57. De infirmandis poenis caelibatus et orbitatis et decimariis sublatis
++ 8.58. De iure liberorum
+
+** LIBER NONUS
+
++ 9.1.  Qui accusare non possunt
++ 9.2.  De accusationibus et inscriptionibus
++ 9.3.  De exhibendis vel transmittendis reis
++ 9.4.  De custodia reorum
++ 9.5.  De privatis carceribus inhibendis
++ 9.6.  Si reus vel accusator mortuus fuerit
++ 9.7.  Si quis imperatori maledixerit
++ 9.8.  Ad legem iuliam maiestatis
++ 9.9.  Ad legem iuliam de adulteriis et de stupro
++ 9.10. Si quis eam cuius tutor fuerit corruperit
++ 9.11. De mulieribus quae servis propriis se iunxerunt
++ 9.12. Ad legem iuliam de vi publica seu privata
++ 9.13. De raptu virginum seu viduarum nec non sanctimonialium
++ 9.14. De emendatione servorum
++ 9.15. De emendatione propinquorum
++ 9.16. Ad legem corneliam de sicariis
++ 9.17. De his qui parentes vel liberos occiderunt
++ 9.18. De maleficiis et mathematicis et ceteris similibus
++ 9.19. De sepulchro violato
++ 9.20. Ad legem fabiam
++ 9.21. Ad legem viselliam
++ 9.22. Ad legem corneliam de falsis
++ 9.23. De his qui sibi adscribunt in testamento
++ 9.24. De falsa moneta
++ 9.25. De mutatione nominis
++ 9.26. Ad legem iuliam de ambitu
++ 9.27. Ad legem iuliam repetundarum
++ 9.28. De crimine peculatus
++ 9.29. De crimine sacrilegii
++ 9.30. De seditiosis et his qui plebem audent contra publicam quietem colligere
++ 9.31. Quando civilis actio criminali praeiudicet et an utraque ab eodem exerceri potest
++ 9.32. De crimine expilatae hereditatis
++ 9.33. Vi bonorum raptorum
++ 9.34. De crimine stellionatus
++ 9.35. De iniuriis
++ 9.36. De famosis libellis
++ 9.37. De abigeis
++ 9.38. De nili aggeribus non rumpendis
++ 9.39. De his qui latrones vel in aliis criminibus reos occultaverint
++ 9.40. De requirendis
++ 9.41. De quaestionibus
++ 9.42. De abolitionibus
++ 9.43. De generali abolitione
++ 9.44. Ut intra certum tempus criminalis quaestio terminetur
++ 9.45. Ad senatus consultum turpillianum
++ 9.46. De calumniatoribus
++ 9.47. De poenis
++ 9.48. Ne sine iussu principis certis iudicibus liceat confiscare
++ 9.49. De bonis conscriptorum seu damnatorum
++ 9.50. De bonis mortem sibi consciscentium
++ 9.51. De sententiam passis et restitutis
+
+** LIBER DECIMUS
+
++ 10.1. De iure fisci
++ 10.2. De conveniendis fisci debitoribus
++ 10.3. De fide et iure hastae fiscalis et de adiectionibus
++ 10.4. De venditione rerum fiscalium cum privatis communium
++ 10.5. Ne fiscus rem quam vendidit evincat
++ 10.6. De his qui ex publicis rationibus mutuam pecuniam acceperunt
++ 10.7. Poenis fiscalibus creditores praeferri
++ 10.8. De fiscalibus usuris
++ 10.9. De sententiis adversus fiscum latis retractandis
++ 10.10. De bonis vacantibus et de incorporatione
++ 10.11. De delatoribus
++ 10.12. De petitionibus bonorum sublatis
++ 10.13. De his qui se deferunt
++ 10.14. Si liberalitatis imperialis socius sine herede defecerit
++ 10.15. De thesauris
++ 10.16. De annona et tributis
++ 10.17. De indictionibus
++ 10.18. De superindicto
++ 10.19. De exactionibus tributorum
++ 10.20. De superexactionibus
++ 10.21. De capiendis et distrahendis pignoribus tributorum causa
++ 10.22. De apochis publicis et descriptionibus curialium
++ 10.23. De canone largitionalium titulorum
++ 10.24. Ne operae a collatoribus exigantur
++ 10.25. De immunitate nemini concedenda
++ 10.26. De conditis in publicis horreis
++ 10.27. Ut nemini liceat in coemptione specierum se excusare et de munere sitoniae
++ 10.28. De collatione donatorum vel relevatorum aut translatorum seu adaeratorum
++ 10.29. De collatione aeris
++ 10.30. De discussoribus
++ 10.32. De decurionibus et filiis eorum et qui decuriones habentur quibus modis a fortuna curiae liberentur
++ 10.33. Si libertus aut servus ad decurionatum adspiraverit
++ 10.34. De praediis curialium sine decreto non alienandis
++ 10.35. Quando et quibus debetur quarta pars ex bonis decurionum et de modo distributionis eorum
++ 10.36. De imponenda lucrativis descriptione
++ 10.37. De praebendo salario
++ 10.38. Si curialis relicta civitate rus habitare maluerit
++ 10.39. De municipibus et originariis
++ 10.40. De incolis et ubi quis domicilium habere videtur et de his qui studiorum causa in alia civitate degunt
++ 10.41. De honoribus et muneribus non continuandis inter patrem et filium et de intervallis
++ 10.42. De muneribus patrimoniorum
++ 10.43. Quemadmodum civilia munera indicuntur
++ 10.44. De his qui sponte munera susceperunt
++ 10.45. De his qui a principe vacationem acceperunt
++ 10.46. De vacatione muneris
++ 10.47. De decretis decurionum super immunitate quibusdam concedenda
++ 10.48. De excusationibus munerum
++ 10.49. De quibus muneribus vel praestationibus nemini liceat se excusare
++ 10.50. Qui aetate se excusant
++ 10.51. Qui morbo
++ 10.52. De his qui numero liberorum vel paupertate excusationem meruerunt
++ 10.53. De professoribus et medicis
++ 10.54. De athletis
++ 10.55. De his qui non impletis stipendiis sacramento soluti sunt
++ 10.56. Quibus muneribus excusantur ii, qui post impletam militiam vel advocationem per provincias suis commodis vacantes commorantur et de privilegiis eorum
++ 10.57. De conductoribus vectigalium fisci
++ 10.58. De libertinis
++ 10.59. De infamibus
++ 10.60. De reis postulatis
++ 10.61. De his qui in exsilium dati vel ordine moti sunt
++ 10.62. De filiis familias et quemadmodum pater pro his teneatur
++ 10.63. De peculo successorum parentis
++ 10.64. De mulieribus in quo loco munera sexui congruentia et honores agnoscant
++ 10.65. De legationibus
++ 10.66. De excusationibus artificum
++ 10.67. De potioribus ad munera nominandis
++ 10.68. Si propter inimicitias creatio facta sit
++ 10.69. De sumptuum recuperatione
++ 10.70. Si post creationem quis decesserit
++ 10.71. De tabulariis scribis logographis et censualibus
++ 10.72. De susceptoribus praepositis et arcariis
++ 10.73. De ponderatoribus et auri illatione
++ 10.74. De auri publici prosecutoribus
++ 10.75. De his quae ex publica collatione illata sunt non usurpandis
++ 10.76. De auro coronario
++ 10.77. De irenarchis
++ 10.78. De argenti pretio quod thesauris infertur
+
+** LIBER UNDECIMUS
+
++ 11.1. De tollenda lustralis auri collatione
++ 11.2. De naviculariis seu naucleris publicas species transportantibus
++ 11.3. De praediis naviculariorum
++ 11.4. De navibus non excusandis
++ 11.5. Ne quid oneri publico imponatur
++ 11.6. De naufragiis
++ 11.7. De metallariis et metallis et procuratoribus metallorum
++ 11.8. De murilegulis et gynaeciariis et procuratoribus gynaecii et de monetariis et bastagariis
++ 11.9. De vestibus holoveris et auratis et de intinctione sacri muricis
++ 11.10. De fabricensibus
++ 11.11. De veteris numismatis potestate
++ 11.12. Nulli licere in frenis et equestribus sellis et in balteis margaritas et smaragdos et hyacinthos aptare et de artificibus palatinis
++ 11.13. De classicis
++ 11.14. De decuriis urbis romae
++ 11.15. De privilegiis corporatorum urbis romae
++ 11.16. De pistoribus
++ 11.17. De suariis et susceptoribus vini et ceteris corporatis
++ 11.18. De collegiatis et chartopratis et nummulariis
++ 11.19. De studiis liberalibus urbis romae et constantinopolitanae
++ 11.20. De honoratorum vehiculis
++ 11.21. De privilegiis urbus constantinopolitanae
++ 11.22. De metropoli beryto
++ 11.23. De canone frumentario urbis romae
++ 11.24. De frumento urbis constantinopolitanae
++ 11.25. De annonis civilibus
++ 11.26. De mendicantibus validis
++ 11.27. De nautis tiberinis
++ 11.28. De frumento alexandrino
++ 11.29. De alexandriae primatibus
++ 11.30. De iure rei publicae
++ 11.31. De administratione rerum publicarum
++ 11.32. De vendendis rebus civitatis
++ 11.33. De debitoribus civitatum
++ 11.34. De periculo nominatorum
++ 11.35. De periculo eorum qui pro magistratibus intervenerunt
++ 11.36. Quo quisque ordine conveniatur
++ 11.37. Ne quis liber invitus actum rei publicae gerere cogatur
++ 11.38. Iniuncti muneris sumptus ad omnes collegas pertinere
++ 11.39. De his qui ex officio quod administraverunt conveniuntur
++ 11.40. De solutionibus et liberationibus debitorum civitatis
++ 11.41. De spectaculis et scaenicis et lenonibus
++ 11.42. De expensis publicorum ludorum
++ 11.43. De aquaeductu
++ 11.44. De gladiatoribus penitus tollendis
++ 11.45. De venatione ferarum
++ 11.46. De maiuma
++ 11.47. Ut armorum usus inscio principe interdictus sit
++ 11.48. De agricolis censitis vel colonis
++ 11.49. De capitatione civium censibus eximenda
++ 11.50. In quibus causis coloni censiti dominos accusare possunt
++ 11.51. De colonis palaestinis
++ 11.52. De colonis thracensibus
++ 11.53. De colonis illyricianis
++ 11.54. Ut nemo ad suum patrocinium suscipiat vicos vel rusticanos eorum
++ 11.55. Ut rusticani ad nullum obsequium devocentur
++ 11.56. Non licere metrocomiae habitatoribus loca sua ad extraneum transferre
++ 11.57. Ut nullus ex vicanis pro alienis debitis vicanorum teneatur
++ 11.58. De censibus et censitoribus et peraequatoribus et inspectoribus
++ 11.59. De omni agro deserto et quando steriles fertilibus imponuntur
++ 11.60. De fundis limitotrophis et terris et paludibus et pascuis limitaneis vel castellorum
++ 11.61. De pascuis publicis vel privatis
++ 11.62. De fundis patrimonialibus et saltuensibus et emphyteuticis et eorum conductoribus
++ 11.63. De mancipiis et colonis patrimonialium et saltuensium et emphyteuticariorum fundorum
++ 11.64. De fugitivis colonis patrimonialibus et emphyteuticis et saltuensibus
++ 11.65. De collatione fundorum patrimonialium et emphyteuticorum
++ 11.66. De fundis rei privatae et saltibus divinae domus
++ 11.67. De fundis et saltibus rei dominicae
++ 11.68. De agricolis et mancipiis dominicis vel fiscalibus sive rei privatae
++ 11.69. De praediis tamiacis et de his qui ex colonis dominicis aliisque liberare condicionis procreantur
++ 11.70. De diversis praediis urbanis et rusticis templorum et civitatum et omni reditu civili
++ 11.71. De locatione praediorum civilium vel fiscalium sive templorum sive rei privatae vel dominicae
++ 11.72. De conductoribus et procuratoribus sive actoribus praediorum fiscalium et domus augustae
++ 11.73. Quibus ad conductionem praediorum fiscalium accedere non licet
++ 11.74. De collatione fundorum fiscalium vel rei privatae vel dominicae vel civitatum vel templorum
++ 11.75. De privilegiis domus augustae vel rei privatae et quarum collationum excusationem habent
++ 11.76. De grege dominico
++ 11.77. De palatiis et domibus dominicis
++ 11.78. De cupressis ex luco daphnensi vel perseis per aegyptum non excidendis vel vendendis
+
+** LIBER DUODECIMUS
+
++ 12.1. De dignitatibus
++ 12.2. De praetoribus et honore praeturae et gleba et folli et septem
+        solidorum functione sublata
++ 12.3. De consulibus et non spargendis ab his pecuniis et de
+        praefectis et magistris militum et patriciis
++ 12.4. De praefectis praetorio sive urbis et magistris militum in
+        dignitatibus exaequandis
++ 12.5. De praepositis sacri cubiculi et de omnibus cubiculariis et
+        privilegiis eorum
++ 12.6. De quaestoribus magistris officiorum comitibus sacrarum
+        largitionum et rei privatae
++ 12.7. De primicerio et secundocerio et notariis
++ 12.8. Ut dignitatum ordo servetur
++ 12.9. De magistris scriniorum
++ 12.10. De comitibus consistorianis
++ 12.11. De comitibus et tribunis scholarum
++ 12.12. De comitibus rei militaris
++ 12.13. De comitibus et archiatris sacri palatii
++ 12.14. De comitibus qui provincias regunt
++ 12.15. De professoribus qui in urbe constantinopolitana docentes ex
+         lege meruerint comitivam
++ 12.16. De decurionibus et silentiariis
++ 12.17. De domesticis protectoribus
++ 12.18. De praepositis labarum
++ 12.19. De proximis sacrorum scriniorum ceterisque qui in sacris
+         scriniis militant
++ 12.20. De agentibus in rebus
++ 12.21. De principibus agentum in rebus
++ 12.22. De curiosis
++ 12.23. De palatinis sacrarum largitionum et rerum privatarum
++ 12.24. De stratoribus
++ 12.25. De castrensianis et ministerianis
++ 12.26. De decanis
++ 12.27. De mensoribus
++ 12.28. De privilegiis eorum qui in sacro palatio militant
++ 12.29. De privilegiis scholarum
++ 12.30. De castrensi omnium palatinorum peculio
++ 12.31. De equestri dignitate
++ 12.32. De perfectissimatus dignitate
++ 12.33. Qui militare possunt vel non et de servis ad militiam vel
+         dignitatem adspirantibus et ut nemo duplici militia vel dignitate et
+         militia simul utatur
++ 12.34. Negotiatores ne militent
++ 12.35. De re militari
++ 12.36. De castrensi peculio militum et praefectianorum
++ 12.37. De erogatione militaris annonae
++ 12.38. De excoctione et translatione militarium annonarum
++ 12.39. De militari veste
++ 12.40. De metatis et epidemeticis
++ 12.41. De salgamo hospitibus non praebendo
++ 12.42. De commeatu
++ 12.43. De tironibus
++ 12.44. De litorum et itinerum custodia
++ 12.45. De desertoribus et occultatoribus eorum
++ 12.46. De veteranis
++ 12.47. De filiis officialium militarium qui in bello moriuntur
++ 12.48. De oblatione votorum
++ 12.49. De numerariis actuariis et chartulariis et adiutoribus
+         scriniariis et exceptoribus sedis excelsae ceterorumque iudicum tam
+         civilium quam militarium
++ 12.50. De cursu publico angariis et parangariis
++ 12.51. De tractoriis et stativis
++ 12.52. De apparitoribus praefectorum praetorio et privilegiis eorum
++ 12.53. De apparitoribus praefecti urbis
++ 12.54. De apparitoribus magistrorum militum et privilegiis eorum
++ 12.55. De apparitoribus proconsulis et legati
++ 12.56. De apparitoribus comitis orientis
++ 12.57. De cohortalibus principibus corniculariis et primipilaribus
++ 12.58. De apparitoribus praefecti annonae
++ 12.59. De diversis officiis et apparitoribus iudicum et probatoriis eorum
++ 12.60. De exsecutoribus et exactoribus
++ 12.61. De lucris advocatorum et concussionibus officiorum sive
+         apparitorum
++ 12.62. De primipilo
++ 12.63. Publicae laetitiae vel consulum nuntiatores vel insinuatores
+         constitutionum et aliarum sacrarum vel iudicialium litterarum ex
+         descriptione vel ab invitis ne quid accipiant immodicum
+
+* Index titulorum INSTITUTIONUM IUSTINIANI
+** LIBER I
+
+
++ 1.1  De iustitia et iure
++ 1.2  De iure naturali, gentium et civili
++ 1.3  De iure personarum
++ 1.4  De ingenuis
++ 1.5  De libertinis
++ 1.6  Qui quibus ex causis manumittere non possunt
++ 1.7  De lege Furia Caninia sublata
++ 1.8  De his qui sui vel alieni iuris sunt
++ 1.9  De patria potestate
++ 1.10  De nuptiis
++ 1.11  De adoptionibus
++ 1.12  Quibus modis ius potestatis solvitur
++ 1.13  De tutelis
++ 1.14  Qui dari tutores testamento possunt
++ 1.15  De legitima adgnatorum tutela
++ 1.16  De capitis minutione
++ 1.17  De legitima patronorum tutela
++ 1.18  De legitima parentum tutela
++ 1.19  De fiduciaria tutela
++ 1.20  De Atiliano tutore vel eo qui ex lege Iulia et Titia dabatur
++ 1.21  De auctoritate tutorum
++ 1.22  Quibus modis tutela finitur
++ 1.23  De curatoribus
++ 1.24  De satisdatione tutorum vel curatorum
++ 1.25  De excusationibus tutorum vel curatorum
++ 1.26  De suspectis tutoribus et curatoribus
+
+** LIBER II
+
+
++ 2.1   De rerum divisione
++ 2.2   De rebus incorporalibus
++ 2.3   De servitutibus
++ 2.4   De usufructu
++ 2.5   De usu et habitatione
++ 2.6   De usucapionibus et longi temporis possessionibus
++ 2.7   De donationibus
++ 2.8   Quibus alienare licet vel non
++ 2.9   Per quas personas nobis adquiritur
++ 2.10  De testamentis ordinandis
++ 2.11  De militari testamento
++ 2.12  Quibus non est permissum testamenta facere
++ 2.13  De exheredatione liberorum
++ 2.14  De heredibus instituendis
++ 2.15  De vulgari substitutione
++ 2.16  De pupillari substitutione
++ 2.17  Quibus modis testamenta infirmantur
++ 2.18  De inofficioso testamento
++ 2.19  De heredum qualitate et differentia
++ 2.20  De legatis
++ 2.21  De ademptione legatorum
++ 2.22  De lege Falcidia
++ 2.23  De fideicommissariis hereditatibus
++ 2.24  De singulis rebus per fideicommissum relictis
++ 2.25  De codicillis
+
+** LIBER III
+
+
++ 3.1   De hereditatibus quae ab intestato deferuntur
++ 3.2   De legitima adgnatorum successione
++ 3.3   De senatusconsulto Tertulliano
++ 3.4   De senatusconsulto Orphitiano
++ 3.5   De successione cognatorum
++ 3.6   De gradibus cognationis
++ 3.7   De successione libertorum
++ 3.8   De adsignatione libertorum
++ 3.9   De bonorum possessionibus
++ 3.10  De adquisitione per adrogationem
++ 3.11  De eo cui libertatis causa bona addicuntur
++ 3.12  De successionibus sublatis, quae fiebant per bonorum
+        venditionem et ex senatusconsulto Claudiano
++ 3.13  De obligationibus
++ 3.14  Quibus modis re contrahitur obligatio
++ 3.15  De verborum obligatione
++ 3.16  De duobus reis stipulandi et promittendi
++ 3.17  De stipulatione servorum
++ 3.18  De divisione stipulationum
++ 3.19  De inutilibus stipulationibus
++ 3.20  De fideiussoribus
++ 3.21  De litterarum obligatione
++ 3.22  De consensu obligatione
++ 3.23  De emptione et venditione
++ 3.24  De locatione et conductione
++ 3.25  De societate
++ 3.26  De mandato
++ 3.27  De obligationibus quasi ex contractu
++ 3.28  Per quas personas nobis obligatio adquiritur
++ 3.29  Quibus modis obligatio tollitur
+
+** LIBER IV
+
+
++ 4.1   De obligationibus quae ex delicto nascuntur
++ 4.2   Vi bonorum raptorum
++ 4.3   De lege Aquilia
++ 4.4   De iniuriis
++ 4.5   De obligationibus quae quasi ex delicto nascuntur
++ 4.6   De actionibus
++ 4.7   Quod cum eo qui in aliena potestate est negotium gestum esse dicitur
++ 4.8   De noxalibus actionibus
++ 4.9   Si quadrupes pauperiem fecisse dicetur
++ 4.10  De his per quos agere possumus
++ 4.11  De satisdationibus
++ 4.12  De perpetuis et temporalibus actionibus et quae ad heredes vel
+        in heredes transeunt
++ 4.13  De exceptionibus
++ 4.14  De replicationibus
++ 4.15  De interdictis
++ 4.16  De poena temere litigantium
++ 4.17  De officio iudicis
++ 4.18  De publicis iudiciis
+
+* Index titulorum NOVELLARUM LEGUM
+#+ Index titulorum Authentici in novem collationes Digesti
+#+ Reprinted from *Seminar*, An Annual extraordinary number of The Jurist
+#+ Vol. 2, 1944
+
+
+# note: A.C. == Auth. Coll
+|-------------------------------------------------------------+------+------|
+| INDEX TITULORUM                                             | A.C. | NOV. |
+|-------------------------------------------------------------+------+------|
+| de administratoribus                                        | 7,6  |   95 |
+| de administrantibus officiis in sacris appellationibus      | 3,7  |   20 |
+| de aequalitate dotis &c.                                    | 7,8  |   97 |
+| de alienatione et emphyteusi &c.                            | 9,3  |  120 |
+| de appllationibus                                           | 8,2  |   93 |
+| de appllationibus et intra quae tempora &c.                 | 4,2  |   23 |
+| apud quos oporteat cuasas dicere monachos &c.               | 6,7  |   79 |
+| de armis                                                    | 6,13 |   85 |
+| de collatoribus et aliis capitulis                          | 9,14 |  128 |
+| de consanguineis et uterinis fratribus                      | 6,12 |   84 |
+| constitutio quae dignatibus et episcopatu &c.               | 6,9  |   81 |
+| constitutionem quae ex adscriptitio &c.                     | 5,7  |   54 |
+| de consulibus                                               | 4,3  |  105 |
+| de defensoribus civitatum                                   | 3,2  |   15 |
+| de deposito et denuntiationibus inquilinorum &c.            | 6,14 |   88 |
+| de duobus reis promittendi                                  | 7,9  |   99 |
+| de ecclesiasticis titulis                                   | 9,6  |  131 |
+| de ecclesiasticarum rerum immobilium alienatione &c.        | 5,1  |   46 |
+| de episcopis - cf. de sanctissimis episcopis                |      |      |
+| de excutoribus &c.                                          | 7,7  |   96 |
+| de exhibendis et introducendis reis &c.                     | 5,6  |   53 |
+| factae novae constituiones - cf. ut factae novae const.     |      |      |
+| de fide instrumentorum - cf. de instrumentorum cautela  &c. |      |      |
+| de fideiussoribus et mandatoribus &c.                       | 1,4  |    4 |
+| de filiis ante dotalia instumenta natis                     | 3,6  |   19 |
+| haec constitutio innovat constitutionem &c.                 | 8,7  |  111 |
+| haec constitutio interpretatur priorem &c.                  | 6,4  |   76 |
+| de heredibus ab intestato venientibus &c.                   | 9,1  |  118 |
+| de heredibus et falcidia &c.                                | 1,1  |    1 |
+| de his (alias iis) qui ingrediuntur ad appellationem        | 5,11 |   49 |
+| de immensis donationibus &c.                                | 7,3  |   92 |
+| in medio litis non fieri sacras formas &c.                  | 8,11 |  113 |
+| de incestis et nefariis nuptiis                             | 2,6  |   12 |
+| de instrumentorum cautela et fide &c.                       | 6,3  |   73 |
+| de interdictis collegiis haereticorum                       | 9,12 |  132 |
+| de iudicibus et ut nullatenus &c.                           | 6,10 |   82 |
+| de iureiurando a moriente praestito &c.                     | 5,2  |   48 |
+| iusiurandum quoad praestatur ab his &c.                     | 2,3  | 8(J) |
+| de lenonibus                                                | 3,1  |   14 |
+| de litigiosis et de decima parte litis &c.                  | 8,8  |  112 |
+| de mandatis principum                                       | 3,4  |   17 |
+| de mensura ordinandorum clericorum                          | 3,3  |   16 |
+| de monachis                                                 | 1,5  |    5 |
+| de naticis usuris (distinguas a tit. 'de us. naut.')        | 8,6  |  110 |
+| neque virum quod ex dote est &c.                            | 8,1  |   98 |
+| de non alienandis aut permutandis ecclesiasticis rebus &c.  | 2,1  |    7 |
+| de non eligendo secundo nubentes mulieres &c.               | 1,2  |    2 |
+| de novi operis nuntiatione &c.                              | 5,15 |   63 |
+| nulli iudicum --- cf. ut nulli iudicum                      |      |      |
+| nullum credentem agricolae &c.                              | 4,5  |   34 |
+| de nuptiis                                                  | 4,1  |   22 |
+| de privilegiis dotis haereticis mulieribus &c.              | 8,5  |  109 |
+| de quaestore                                                | 6,8  |   80 |
+| quibus modis naturales efficiuntur sui &c.                  | 7,1  |   89 |
+| quibus modis naturales filii efficiantur legitimi &c.       | 6,1  |   74 |
+| quomodo oporteat episcopos &c.                              | 1,6  |    6 |
+| de raptis mulieribus &c.                                    | 9,13 |  143 |
+|                                                             |      | =150 |
+| de referendariis sacri palatii                              | 2,5  |   10 |
+| de reis promittendi --- cf. de duobus reis prom.            |      |      |
+| de restitutione fideicommissi &c.                           | 9,8  |  159 |
+| de restitutionibus                                          | 8,4  |  108 |
+| de restitutionibus et ea quae parit &c.                     | 5,4  |   51 |
+| de tabellionibus &c.                                        | 4,7  |   44 |
+| de tempore non solutae pecuniae super dote                  | 7,10 |  100 |
+| de testamentis imperfectis &c.                              | 8,3  |  107 |
+| de testibus                                                 | 7,2  |   90 |
+| de triente et semisse &c.                                   | 3,5  |   18 |
+| de usuris nauticis (distinguas a tit. 'de naut. us.')       | 9,11 |  106 |
+| ut ab illustribus et qui super eam &c.                      | 5,18 |   71 |
+| ut clerici apud proprios episcopos &c.                      | 6,11 |   83 |
+| ut clerici qui recedunt &c.                                 | 5,10 |   57 |
+| ut cum de appellatione cognoscitu &c.                       | 8,12 |  115 |
+| ut de cetero commutationes ecclesiasticarum rerum &c.       | 5,8  |   55 |
+| ut defuncti seu funera eorum &c.                            | 5,13 |   60 |
+| ut determinatus sit numerus clericorum &c.                  | 1,3  |    3 |
+| ut differentes iudices audire &c.                           | 9,10 |   86 |
+| ut divinae iussiones &c.                                    | 8,10 |  114 |
+| ut ea quae cocantur insinuativa &c.                         | 5,9  |   56 |
+| ut ecclesia Romana centum annorum gaudeat praescriptione    | 2,4  |    9 |
+| ut exactione instante dotis &c.                             | 7,5  |   91 |
+| ut factae novae constituiones &c.                           | 5,16 |   66 |
+| ut fratrum filii succedant pariter &c.                      | 9,7  |  127 |
+| ut hi (alias ii) qui obligatas se habere &c.                | 6,2  |   72 |
+| ut immobilia antenuptialis donationis &c.                   | 5.14 |   61 |
+| ut in privatis dominibus sacra mysteria non fiant           | 5,12 |   58 |
+| ut iudices non expectent sacras iussiones &c.               | 9,4  |  125 |
+| ut iudices sine quoquo suffragio fiant                      | 2,2  |    8 |
+| ut liberti de cetero aurea non indigeant (al. egeant) &c.   | 6,6  |   78 |
+| ut liceat matri et aviae &c.                                | 8,13 |  117 |
+| ut litigantes iurent in exordio                             | 9,5  |  124 |
+| ut neque miles neque foederatus &c.                         | 8,9  |  116 |
+| ut non fiant pignorationes pro aliis &c.                    | 5,5  |   52 |
+| ut non luxurientur contra naturam &c.                       | 6,5  |   77 |
+| ut nulli iudicum liceat &c.                                 | 9,9  |  134 |
+| ut nullus fabricet oratorii domos &c.                       | 5,17 |   67 |
+| ut nullus mutuans agricolae &c.                             | 4,4  |   33 |
+| ut omnes oboediant iudicibus prouinciarum &c.               | 5,20 |   69 |
+| ut ordinariae praefecturae &c.                              | 5,19 |   70 |
+| ut praeponatur nomen imperatoris &c.                        | 5,3  |   47 |
+| ut sine prohibitione matres debitrices &c.                  | 7,4  |   94 |
+| ut sponsalicia largitas &c.                                 | 9,2  |  119 |
+|-------------------------------------------------------------+------+------|
+
+
+** Tabula comparationis Authenticum inter (adiectis numeris constitutionum in corpore integro) et Novellas
+
+..
+
+Unde e CXXXIV constitutionibus Authentici XXXVII non esse receptas in
+collationes vulgatae recensionis facile vides, scil. 11, 13, 21,
+24--33, 37--40, 42--44, 49, 52, 60, 63--65, 67, 70, 87, 101, 118,
+121--125, 131. Quae manent XCVII in titulos XCVIII sunt distributae
+collationum, ubi (Coll. 2,3) Iusiurandum const. 8 adnexum proprio
+titulo auctum esse perspicimus
+
+
+** Tabula altera
+
+..

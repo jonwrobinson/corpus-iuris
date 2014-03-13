@@ -1,0 +1,1496 @@
+
+
+DOMINI NOSTRI SACRATISSIMI PRINCIPIS
+IUSTINIANI
+IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
+DIGESTORUM SEU PANDECTARUM
+liber tertius
+
+
+( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
+
+
+
+* 3.1.0. De postulando.
+* 3.2.0. De his qui notantur infamia.
+* 3.3.0. De procuratoribus et defensoribus.
+* 3.4.0. Quod cuiuscumque universitatis nomine vel contra eam agatur.
+* 3.5.0. De negotiis gestis.
+* 3.6.0. De calumniatoribus.
+
+
+
+3.1.0.  De postulando.
+
+
+3.1.1
+
+Ulpianus libro sexto ad edictum
+
+pr. Hunc titulum praetor proposuit habendae rationis causa suaeque dignitatis tuendae et decoris sui causa, ne sine delectu passim apud se postuletur.
+
+1. Eapropter tres fecit ordines: nam quosdam in totum prohibuit postulare, quibusdam vel pro se permisit, quibusdam et pro certis dumtaxat personis et pro se permisit.
+
+2. Postulare autem est desiderium suum vel amici sui in iure apud eum, qui iurisdictioni praeest, exponere: vel alterius desiderio contradicere.
+
+3. Initium autem fecit praetor ab his, qui in totum prohibentur postulare. In quo edicto aut pueritiam aut casum excusavit. Pueritiam: dum minorem annis decem et septem, qui eos non in totum complevit, prohibet postulare, quia moderatam hanc aetatem ratus est ad procedendum in publicum, qua aetate aut Paulo maiore fertur Nerva filius et publice de iure responsitasse. Propter casum surdum qui prorsus non audit prohibet apud se postulare: nec enim erat permittendum ei postulare, qui decretum praetoris exaudire non poterat, quod etiam ipsi erat periculosum futurum: nam non exaudito decreto praetoris, quasi non obtemperasset, poena ut contumax plecteretur.
+
+4. Ait praetor: "si non habebunt advocatum, ego dabo." Nec solum his personis hanc humanitatem praetor solet exhibere, verum et si quis alius sit, qui certis ex causis vel ambitione adversarii vel metu patronum non invenit.
+
+5. Secundo loco edictum proponitur in eos, qui pro aliis ne postulent: in quo edicto excepit praetor sexum et casum, item notavit personas in turpitudine notabiles. Sexum: dum feminas prohibet pro aliis postulare. Et ratio quidem prohibendi, ne contra pudicitiam sexui congruentem alienis causis se immisceant, ne virilibus officiis fungantur mulieres: origo vero introducta est a Carfania improbissima femina, quae inverecunde postulans et magistratum inquietans causam dedit edicto. Casum: dum caecum utrisque luminibus orbatum praetor repellit: videlicet quod insignia magistratus videre et revereri non possit. Refert etiam Labeo publilium caecum asprenatis noni patrem aversa sella a Bruto destitutum, cum vellet postulare. Quamvis autem caecus pro alio postulare non possit, tamen et senatorium ordinem retinet et iudicandi officio fungitur. Numquid ergo et magistratus gerere possit? Sed de hoc deliberabimus. Exstat quidem exemplum eius, qui gessit: Appius denique Claudius Caecus consiliis publicis intererat et in senatu severissimam dixit sententiam de Pyrrhi captivis. Sed melius "milius" est, ut dicamus retinere quidem iam coeptum magistratum posse, adspirare autem ad novum penitus prohiberi: idque multis comprobatur exemplis.
+
+6. Removet autem a postulando pro aliis et eum, qui corpore suo muliebria passus est. Si quis tamen vi praedonum vel hostium stupratus est, non debet notari, ut et Pomponius ait. Et qui capitali crimine damnatus est, non debet pro alio postulare. Item senatus consulto etiam apud iudices pedaneos postulare prohibetur calumniae publici iudicii damnatus. Et qui operas suas, ut cum bestiis depugnaret, locaverit. Bestias autem accipere debemus ex feritate magis, quam ex animalis genere: nam quid si leo sit, sed mansuetus, vel alia dentata mansueta? Ergo qui locavit solus notatur, sive depugnaverit sive non: quod si depugnaverit, cum non locasset operas suas, non tenebitur: non enim qui cum bestiis depugnavit, tenebitur, sed qui operas suas in hoc locavit. Denique eos, qui virtutis ostendendae causa hoc faciunt sine mercede, non teneri aiunt veteres, nisi in harena passi sunt se honorari: eos enim puto notam non evadere. Sed si quis operas suas locaverit, ut feras venetur, vel ut depugnaret feram quae regioni nocet, extra harenam: non est notatus. His igitur personis, quae non virtutis causa cum bestiis pugnaverunt, pro se praetor permittit allegare, pro alio prohibet. Sed est aequissimum, si tutelam vel curam huiusmodi personae administrent, postulare eis pro his, quorum curam gerunt, concedi. Qui adversus ea fecisse monstretur, et pro aliis interdicta postulatione repellitur et pro aestimatione iudicis extra ordinem pecuniaria poena multabitur.
+
+7. Ut initio huius tituli diximus, tres ordines praetor fecit non postulantium: quorum hic tertius est, quibus non in totum denegat postulandi facultatem, sed ne pro omnibus postularent: quasi minus deliquerint quam hi qui superioribus captibus notantur.
+
+8. Ait praetor: "qui lege, plebis scito, senatus consulto, edicto, decreto principum nisi pro certis personis postulare prohibentur: hi pro alio, quam pro quo licebit, in iure apud me ne postulent." Hoc edicto continentur etiam alii omnes, qui edicto praetoris ut infames notantur, qui omnes nisi pro se et certis personis ne postulent.
+
+9. Deinde adicit praetor: "qui ex his omnibus, qui supra scripti sunt, in integrum restitutus non erit." "Eum qui ex his, qui supra scripti sunt" sic accipe: si fuerit inter eos, qui tertio edicto continentur et nisi pro certis personis postulare prohibentur: ceterum si ex superioribus, difficile in integrum restitutio impetrabitur.
+
+10. De qua autem restitutione praetor loquitur? Utrum de ea quae a principe vel a senatu? Pomponius quaerit: et putat de ea restitutione sensum, quam princeps vel senatus indulsit. An autem et praetor restituere possit, quaeritur: et mihi videtur talia praetorum decreta non esse servanda, nisi sicubi ex officio iurisdictionis suae subvenerunt: ut in aetate observatur, si quis deceptus sit, ceterisque speciebus quas sub titulo de in integrum restitutione exsequemur. Pro qua sententia est, quod si quis famoso iudicio condemnatus per in integrum restitutionem fuerit absolutus, Pomponius putat hunc infamia eximi.
+
+11. Deinde adicit praetor: "pro alio ne postulent praeterquam pro parente, patrono patrona, liberis parentibusque patroni patronae": de quibus personis sub titulo de in ius vocando plenius diximus. Item adicit: "liberisve suis, fratre sorore, uxore, socero socru, genero nuru, vitrico noverca, privigno privigna, pupillo pupilla, furioso furiosa, "
+
+3.1.2
+
+Gaius libro primo ad edictum provinciale
+
+"Fatuo fatua": cum istis quoque personis curator detur.
+
+3.1.3
+
+Ulpianus libro sexto ad edictum
+
+pr. "Cui eorum a parente, aut de maioris partis tutorum sententia, aut ab eo cuius de ea re iurisdictio fuit ea tutela curatiove data erit. "
+
+1. Adfinitates non eas accipere debemus, quae quondam fuerunt, sed praesentes.
+
+2. Item Pomponius nurus et generi appellatione et soceri et socrus et ulteriores, quibus pro praepositio solet accedere, contineri ait.
+
+3. In curatoribus debuisse eum adicere: muti ceterorumque, quibus dare solent, id est surdo prodigo et adulescenti:
+
+3.1.4
+
+Paulus libro quinto ad edictum
+
+Item quibus propter infirmitatem curatorem praetor dare solet,
+
+3.1.5
+
+Ulpianus libro nono ad edictum
+
+Et qui negotiis suis aliquo perpetuo morbo superesse non possunt.
+
+3.1.6
+
+Ulpianus libro sexto ad edictum
+
+Puto autem omnes, qui non sponte, sed necessario officio funguntur, posse sine offensa edicti postulare, etiamsi hi sint, qui non nisi pro se postulare possunt. Si quis advocationem praestare fuerit prohibitus, si quidem apud se, ut solent facere, tempore magistratus sui, puto eum postea apud successorem eius adesse posse.
+
+3.1.7
+
+Gaius libro tertio ad edictum provinciale
+
+Quos prohibet praetor apud se postulare, omnimodo prohibet, etiam si adversarius eos patiatur postulare.
+
+3.1.8
+
+Papinianus libro secundo quaestionum
+
+Imperator Titus Antoninus rescripsit eum, cui advocationibus in quinquennio interdictum esset, post quinquennium pro omnibus postulare non prohiberi. Divus quoque Hadrianus rescripserat de exilio reversum postulare posse. Nec adhibetur distinctio, quo crimine silentium vel exilium sit irrogatum, ne scilicet poena tempore determinata contra sententiae fidem ulterius porrigatur.
+
+3.1.9
+
+Papinianus libro primo responsorum
+
+Ex ea causa prohibitus pro alio postulare, quae infamiam non irrogat ideoque ius pro omnibus postulandi non aufert, in ea tantum provincia pro aliis non recte postulat, in qua praeses fuit qui sententiam dixit, in alia vero non prohibetur, licet eiusdem nominis sit.
+
+3.1.10
+
+Paulus libro singulari  regularum
+
+Hi qui fisci causas agunt suam vel filiorum et parentium suorum vel pupillorum quorum tutelas gerunt causam et adversus fiscum agere non prohibentur. Decuriones quoque contra patriam suam causas agere prohibentur, praeter superiores personas.
+
+3.1.11
+
+Tryphoninus libro quinto disputationum
+
+pr. A principe nostro rescriptum est non prohiberi tutorem adesse pupillo in negotio, in quo advocatus contra patrem eius fuisset. Sed et illud permissum ab eo est agere tutorem pupilli causam adversus fiscum, in qua adversus patrem pupilli antea advocatus fisci fuisset.
+
+1. Qui autem inter infames sunt, sequenti titulo explanabitur.
+
+
+3.2.0. De his qui notantur infamia.
+
+
+3.2.1
+
+Iulianus libro primo ad edictum
+
+Praetoris verba dicunt: "infamia notatur qui ab exercitu ignominiae causa ab imperatore eove, cui de ea re statuendi potestas fuerit, dimissus erit: qui artis ludicrae pronuntiandive causa in scaenam prodierit: qui lenocinium fecerit: qui in iudicio publico calumniae praevaricationisve causa quid fecisse iudicatus erit: qui furti, vi bonorum raptorum, iniuriarum, de dolo malo et fraude suo nomine damnatus pactusve erit: qui pro socio, tutelae, mandati depositi suo nomine non contrario iudicio damnatus erit: qui eam, quae in potestate eius esset, genero mortuo, cum eum mortuum esse sciret, intra id tempus, quo elugere virum moris est, antequam virum elugeret, in matrimonium collocaverit: eamve sciens quis uxorem duxerit non iussu eius, in cuius potestate est: et qui eum, quem in potestate haberet, eam, de qua supra comprehensum est, uxorem ducere passus fuerit: quive suo nomine non iussu eius in cuius potestate esset, eiusve nomine quem quamve in potestate haberet bina sponsalia binasve nuptias in eodem tempore constitutas habuerit. "
+
+3.2.2
+
+Ulpianus libro sexto ad edictum
+
+pr. Quod ait praetor: "Qui ab exercitu dimissus erit": dimissum accipere debemus militem caligatum, vel si quis alius usque ad centurionem, vel praefectum cohortis vel alae vel legionis, vel tribunum sive cohortis sive legionis dimissus est. Hoc amplius Pomponius ait etiam eum, qui exercitui praeest, licet consularibus insignibus utitur, ignominiae causa ab imperatore missum hac nota laborare: ergo et si dux cum exercitui praeest dimissus erit, notatur, et si princeps dimiserit et adiecerit ignominiae causa se mittere, ut plerumque facit, non dubitabis et ex edicto praetoris eum infamia esse notatum: non tamen si citra indignationem principis successor ei datus est.
+
+1. Exercitum autem non unam cohortem neque unam alam dicimus, sed numeros multos militum: nam exercitui praeesse dicimus eum, qui legionem vel legiones cum suis auxiliis ab imperatore commissas administrat: sed hic etiam eum, qui ab aliquo numero militum missus est, quasi ab exercitu missum sic accipiemus.
+
+2. "Ignominiae causa missum" : hoc ideo adiectum est, quoniam multa genera sunt missionum. Est honesta, quae emeritis stipendiis vel ante ab imperatore indulgetur: est causaria, quae propter valetudinem laboribus militiae solvit: est ignominiosa. Ignominiosa autem missio totiens est, quotiens is qui mittit addidit nominatim ignominiae causa se mittere: semper enim debet addere, cur miles mittatur. Sed et si eum exauctoraverit, id est insignia militaria detraxerit, inter infames efficit, licet non addidisset ignominiae causa se eum exauctorasse. Est et quartum genus missionis, si quis evitandorum munerum causa militiam subisset: haec autem missio existimationem non laedit, ut est saepissime rescriptum.
+
+3. Miles, qui lege iulia de adulteriis fuerit damnatus, ita infamis est, ut etiam ipsa sententia eum sacramento ignominiae causa solvat.
+
+4. Ignominia autem missis neque in urbe neque alibi, ubi imperator est, morari licet.
+
+5. Ait praetor: "Qui in scaenam prodierit, infamis est". Scaena est, ut Labeo definit, quae ludorum faciendorum causa quolibet loco, ubi quis consistat moveaturque spectaculum sui praebiturus, posita sit in publico privatove vel in vico, quo tamen loco passim homines spectaculi causa admittantur. Eos enim, qui quaestus causa in certamina descendunt et omnes propter praemium in scaenam prodeuntes famosos esse pegasus et nerva filius responderunt.
+
+3.2.3
+
+Gaius libro primo ad edictum provinciale
+
+Qui autem operas suas locavit, ut prodiret artis ludicrae causa neque prodit, non notatur: quia non est ea res adeo turpis, ut etiam consilium puniri debeat.
+
+3.2.4
+
+Ulpianus libro sexto ad edictum
+
+pr. Athletas autem Sabinus et Cassius responderunt omnino artem ludicram non facere: virtutis enim gratia hoc facere. Et generaliter ita omnes opinantur et utile videtur, ut neque thymelici neque xystici neque agitatores nec qui aquam equis spargunt ceteraque eorum ministeria, qui certaminibus sacris deserviunt, ignominiosi habeantur.
+
+1. Designatores autem, quos Graeci brabeutas appellant, artem ludicram non facere Celsus probat, quia ministerium, non artem ludicram exerceant. Et sane locus iste hodie a principe non pro modico beneficio datur.
+
+2. Ait praetor: "qui lenocinium fecerit". Lenocinium facit qui quaestuaria mancipia habuerit: sed et qui in liberis hunc quaestum exercet, in eadem causa est. Sive autem principaliter hoc negotium gerat sive alterius negotiationis accessione utatur ( ut puta si caupo fuit vel stabularius et mancipia talia habuit ministrantia et occasione ministerii quaestum facientia: sive balneator fuerit, velut in quibusdam provinciis fit, in balineis ad custodienda vestimenta conducta habens mancipia hoc genus observantia in officina), lenocinii poena tenebitur.
+
+3. Pomponius et eum, qui in servitute peculiaria mancipia prostituta habuit, notari post libertatem ait.
+
+4. Calumniator ita demum notatur, si fuerit calumniae causa damnatus: neque enim sufficit calumniatum: item praevaricator. Praevaricator autem est quasi varicator, qui diversam partem adiuvat prodita causa sua: quod nomen Labeo a varia certatione tractum ait, nam qui praevaricatur, ex utraque parte constitit, quin immo ex adversa.
+
+5. Item "si qui furti, vi bonorum raptorum, iniuriarum, de dolo malo suo nomine damnatus pactusve erit" simili modo infames sunt,
+
+3.2.5
+
+Paulus libro quinto ad edictum
+
+Quoniam intellegitur confiteri crimen qui paciscitur.
+
+3.2.6
+
+Ulpianus libro sexto ad edictum
+
+pr. "Furti" accipe sive manifesti sive nec manifesti.
+
+1. Sed si furti vel aliis famosis actionibus quis condemnatus provocavit, pendente iudicio nondum inter famosos habetur: si autem omnia tempora provocationis lapsa sunt, retro infamis est: quamvis si iniusta appellatio eius visa sit, hodie notari puto, non retro notatur.
+
+2. Si quis alieno nomine condemnatus fuerit, non laborat infamia: et ideo nec procurator meus vel defensor vel tutor vel curator vel heres furti vel ex alia simili specie condemnatus infamia notabuntur, nec ego, si ab initio per procuratorem causa agitata est.
+
+3. "Pactusve" inquit "erit": pactum sic accipimus, si cum pretio quantocumque pactus est: alioquin et qui precibus impetravit ne secum ageretur erit notatus nec erit veniae ulla ratio, quod est inhumanum.
+
+4. Qui iussu praetoris pretio dato pactus est, non notatur.
+
+4a. Sed et si iureiurando delato iuraverit quis se non deliquisse, non erit notatus: nam quodammodo innocentiam suam iureiurando adprobavit.
+
+5. "Mandati condemnatus": verbis edicti notatur non solum qui mandatum suscepit, sed et is, qui fidem, quam adversarius secutus est, non praestat. Ut puta fideiussi pro te et solvi: mandati te si condemnavero, famosum facio.
+
+6. Illud plane addendum est, quod interdum et heres suo nomine damnatur et ideo infamis fit, si in deposito vel in mandato male versatus sit: non tamen in tutela vel pro socio heres suo nomine damnari potest, quia heres neque in tutelam neque in societatem succedit, sed tantum in aes alienum defuncti.
+
+7. Contrario iudicio damnatus non erit infamis: nec immerito. nam in contrariis non de perfidia agitur, sed de calculo, qui fere iudicio solet dirimi.
+
+3.2.7
+
+Paulus libro quinto ad edictum
+
+In actionibus, quae ex contractu proficiscuntur, licet famosae sint et damnati notantur, attamen pactus non notatur, merito: quoniam ex his causis non tam turpis est pactio quam ex superioribus.
+
+3.2.8
+
+Ulpianus libro sexto ad edictum
+
+"Genero" inquit "mortuo": merito adiecit praetor: "cum eum mortuum esse sciret", ne ignorantia puniatur. Sed cum tempus luctus continuum est, merito et ignoranti cedit ex die mortis mariti: et ideo si post legitimum tempus cognovit, Labeo ait ipsa die et sumere eam lugubria et deponere.
+
+3.2.9
+
+Paulus libro quinto ad edictum
+
+pr. Uxores viri lugere non compelluntur.
+
+1. Sponsi nullus luctus est.
+
+3.2.10
+
+Paulus libro octavo ad edictum
+
+pr. Solet a principi impetrari, ut intra legitimum tempus mulieri nubere liceat.
+
+1. Quae virum eluget, intra id tempus sponsam fuisse non nocet.
+
+3.2.11
+
+Ulpianus libro sexto ad edictum
+
+pr. Liberorum autem et parentium luctus impedimento nuptiis non est.
+
+1. Etsi talis sit maritus, quem more maiorum lugeri non oportet, non posse eam nuptum intra legitimum tempus collocari: praetor enim ad id tempus se rettulit, quo vir elugeretur: qui solet elugeri propter turbationem sanguinis.
+
+2. Pomponius eam, quae intra legitimum tempus partum ediderit, putat statim posse nuptiis se collocare: quod verum puto.
+
+3. Non solent autem lugeri, ut neratius ait, hostes vel perduellionis damnati nec suspendiosi nec qui manus sibi intulerunt non taedio vitae, sed mala conscientia: si quis ergo post huiusmodi exitum mariti nuptum se collocaverit, infamia notabitur.
+
+4. Notatur etiam "qui eam duxit", sed si sciens: ignorantia enim excusatur non iuris, sed facti. Excusatur qui iussu eius, in cuius potestate erat, duxerit, et ipse, qui passus est ducere, notatur, utrumque recte: nam et qui obtemperavit, venia dignus est et qui passus est ducere, notari ignominia.
+
+3.2.12
+
+Paulus libro quinto ad edictum
+
+Qui iussu patris duxit, quamvis liberatus potestate patria eam retinuit, non notatur.
+
+3.2.13
+
+Ulpianus libro sexto ad edictum
+
+pr. Quid ergo si non ducere sit passus, sed posteaquam duxit ratum habuerit? Ut puta initio ignoraverit talem esse, postea scit? Non notabitur: praetor enim ad initium nuptiarum se rettulit.
+
+1. Si quis alieno nomine bina sponsalia constituerit, non notatur, nisi eius nomine constituat, quem quamve in potestate haberet: certe qui filium vel filiam constituere patitur, quodammodo ipse videtur constituisse.
+
+2. Quod ait praetor "eodem tempore " , non initium sponsaliorum eodem tempore factum accipiendum est, sed si in idem tempus concurrant.
+
+3. Item si alteri sponsa, alteri nupta sit, ex sententia edicti punitur.
+
+4. Cum autem factum notetur, etiam si cum ea quis nuptias vel sponsalia constituat, quam uxorem ducere vel non potest vel fas non est, erit notatus.
+
+5. Ex compromisso arbiter infamiam non facit, quia non per omnia sententia est.
+
+6. Quantum ad infamiam pertinet, multum interest, in causa quae agebatur causa cognita aliquid pronuntiatum sit an quaedam extrinsecus sunt elocuta: nam ex his infamia non irrogatur.
+
+7. Poena gravior ultra legem imposita existimationem conservat, ut et constitutum est et responsum. ut puta si eum, qui parte bonorum multari debuit, praeses relegaverit: dicendum erit duriori sententia cum eo transactum de existimatione eius idcircoque non esse infamem. sed si in causa furti nec manifesti in quadruplum iudex condemnavit, oneratum quidem reum poena aucta, nam ex furto non manifesto in duplum conveniri debuit: verum hanc rem existimationem ei non conservasse, quamvis si in poena non pecuniaria eum onerasset, transactum cum eo videtur.
+
+8. Crimen stellionatus infamiam irrogat damnato, quamvis publicum non est iudicium.
+
+3.2.14
+
+Paulus libro quinto ad edictum
+
+Servus, cuius nomine noxale iudicium dominus acceperit, deinde eundem liberum et heredem instituerit, ex eodem iudicio damnatus non est famosus, quia non suo nomine condemnatur: quippe cum initio lis in eum contestata non sit.
+
+3.2.15
+
+Ulpianus libro octavo ad edictum
+
+Notatur quae per calumniam ventris nomine in possessionem missa est, dum se adseverat praegnatem,
+
+3.2.16
+
+Paulus libro octavo ad edictum
+
+Cum non praegnas esset vel ex alio concepisset:
+
+3.2.17
+
+Ulpianus libro octavo ad edictum
+
+Debuit enim coerceri quae praetorem decepit. Sed ea notatur, quae cum suae potestatis esset hoc facit.
+
+3.2.18
+
+Gaius libro tertio ad edictum provinciale
+
+Ea, quae falsa existimatione decepta est, non potest videri per calumniam in possessione fuisse.
+
+3.2.19
+
+Ulpianus libro octavo ad edictum
+
+Non alia autem notatur quam ea, de qua pronuntiatum est calumniae causa eam fuisse in possessionem missam. Idque et in patre erit servandum, qui calumniae causa passus est filiam, quam in potestate habebat, in possessionem ventris nomine mitti.
+
+3.2.20
+
+Papinianus libro primo responsorum
+
+Ob haec verba sententiae praesidis provinciae "callido commento videris accusationis instigator fuisse" pudor potius oneratur, quam ignominia videtur irrogari: non enim qui exhortatur mandatoris opera fungitur.
+
+3.2.21
+
+Paulus libro secundo responsorum
+
+Lucius titius crimen intendit gaio seio quasi iniuriam passus atque in eam rem testationem apud praefectum praetorio recitavit: praefectus fide non habita testationis nullam iniuriam lucium titium passum esse a gaio seio pronuntiavit. quaero, an testes, quorum testimonium reprobatum est, quasi ex falso testimonio inter infames habentur. paulus respondit nihil proponi, cur hi, de quibus quaeritur, infamium loco haberi debeant, cum non oportet ex sententia sive iusta sive iniusta pro alio habita alium praegravari.
+
+3.2.22
+
+Marcellus libro secundo de iudiciis publicis.
+
+Ictus fustium infamiam non importat, sed causa, propter quam id pati meruit, si ea fuit, quae infamiam damnato irrogat. In ceteris quoque generibus poenarum eadem forma statuta est.
+
+3.2.23
+
+Ulpianus libro octavo ad edictum
+
+Parentes et liberi utriusque sexus nec non et ceteri adgnati vel cognati secundum pietatis rationem et animi sui patientiam, prout quisque voluerit, lugendi sunt: qui autem eos non eluxit, non notatur infamia.
+
+3.2.24
+
+Ulpianus libro sexto ad edictum
+
+Imperator Severus rescripsit non offuisse mulieris famae quaestum eius in servitute factum.
+
+3.2.25
+
+Papinianus libro secundo quaestionum
+
+pr. Exheredatum quoque filium luctum habere patris memoriae placuit, idemque et in matre iuris est, cuius hereditas ad filium non pertinet.
+
+1. Si quis in bello ceciderit, etsi corpus eius non compareat, lugebitur.
+
+
+3.3.0. De procuratoribus et defensoribus.
+
+
+3.3.1
+
+Ulpianus libro non ad edictum
+
+pr. Procurator est qui aliena negotia mandatu domini administrat.
+
+1. Procurator autem vel omnium rerum vel unius rei esse potest constitutus vel coram vel per nuntium vel per epistulam: quamvis quidam, ut Pomponius libro vicensimo quarto scribit, non putent unius rei mandatum suscipientem procuratorem esse: sicuti ne is quidem, qui rem perferendam vel epistulam vel nuntium perferendum suscepit, proprie procurator appellatur. Sed verius est eum quoque procuratorem esse qui ad unam rem datus sit.
+
+2. Usus autem procuratoris perquam necessarius est, ut qui rebus suis ipsi superesse vel nolunt vel non possunt, per alios possint vel agere vel conveniri.
+
+3. Dari autem procurator et absens potest,
+
+3.3.2
+
+Paulus libro octavo ad edictum
+
+pr. Dummodo certus sit qui datus intellegetur et is ratum habuerit.
+
+1. Furiosus non est habendus absentis loco, quia in eo animus deest, ut ratum habere non possit.
+
+3.3.3
+
+Ulpianus libro nono ad edictum
+
+Item ad litem futuram et in diem et sub condicione et usque ad diem dari potest.
+
+3.3.4
+
+Paulus libro octavo ad edictum
+
+Et in perpetuum.
+
+3.3.5
+
+Ulpianus libro septimo ad edictum
+
+Praesens habetur et qui in hortis est.
+
+3.3.6
+
+Paulus libro sexto ad edictum
+
+Et qui in foro et qui in urbe et in continentibus aedificiis:
+
+3.3.7
+
+Ulpianus libro septimo ad edictum
+
+Et ideo procurator eius praesentis esse videtur.
+
+3.3.8
+
+Ulpianus libro octavo ad edictum
+
+pr. Filius familias et ad agendum dare procuratorem potest, si qua sit actio, qua ipse experiri potest: non solum si castrense peculium habeat, sed et quivis filius familias: ut puta iniuriam passus dabit ad iniuriarum actionem, si forte neque pater praesens sit nec patris procurator velit experiri, et erit iure ab ipso filio familias procurator datus. Hoc amplius Iulianus scribit et si filio familias patri per filium eius in eadem potestate manentem fiat iniuria neque avus praesens sit, posse patrem procuratorem dare ad ulciscendam iniuriam, quam nepos absentis passus est. Ad defendendum quoque poterit filius familias procuratorem dare. Sed et filia familias poterit dare procuratorem ad iniuriarum actionem. Nam quod ad dotis exactionem cum patre dat procuratorem, supervacuum esse Valerius Severus scribit, cum sufficiat patrem dare ex filiae voluntate. Sed puto, si forte pater absens sit vel suspectae vitae, quo casu solet filiae competere de dote actio, posse eam procuratorem dare. Ipse quoque filius procurator dari poterit et ad agendum et ad defendendum.
+
+1. Invitus procurator non solet dari. Invitum accipere debemus non eum tantum qui contradicit, verum eum quoque qui consensisse non probatur.
+
+2. Veterani procuratores fieri possunt: milites autem nec si velit adversarius procuratores dari possunt, nisi hoc tempore litis contestatae quocumque casu praetermissum est: excepto eo qui in rem suam procurator datus est, vel qui communem causam omnis sui numeri persequatur vel suscipit, quibus talis procuratio concessa est.
+
+3. "Procuratorem ad litem suscipiendam datum, pro quo consentiente dominus iudicatum solvi exposuit", praetor ait, "iudicium accipere cogam". Verum ex causa non debebit compelli. Ut puta inimicitiae capitales intervenerunt inter ipsum procuratorem et dominum: scribit Iulianus debere in procuratorem denegari actionem. Item si dignitas accesserit procuratori: vel rei publicae causa afuturus sit:
+
+3.3.9
+
+Gaius libro tertio ad edictum provinciale
+
+Aut si valetudinem aut si necessariam peregrinationem alleget:
+
+3.3.10
+
+Ulpianus libro octavo ad edictum
+
+Vel hereditas superveniens eum occupet: vel ex alia iusta causa. Hoc amplius et si habeat praesentem dominum, non debere compelli procuratorem,
+
+3.3.11
+
+Paulus libro octavo ad edictum
+
+Si tamen dominus cogi possit.
+
+3.3.12
+
+Gaius libro tertio ad edictum provinciale
+
+Sed etiam ex his causis dicitur aliquando cogendum procuratorem iudicium accipere: veluti si dominus praesens non sit et actor adfirmet tractu temporis futurum ut res pereat.
+
+3.3.13
+
+Ulpianus libro octavo ad edictum
+
+Sed haec neque passim admittenda sunt neque destricte deneganda, sed a praetore causa cognita temperanda.
+
+3.3.14
+
+Paulus libro octavo ad edictum
+
+Si post datum procuratorem capitales inimicitiae intercesserunt, non cogendum accipere iudicium nec stipulationem ob rem non defensam committi, quoniam nova causa sit.
+
+3.3.15
+
+Ulpianus libro octavo ad edictum
+
+pr. Si defunctus sit dominus ante litem contestatam, iudicatum solvi stipulatione pro suo procuratore data, procurator compellendus est ad iudicium accipiendum: ita tamen si hoc dominus sciente procuratore et non contradicente fecit. Quod si aliter actum est, inscium quidem procuratorem teneri satis incivile est, committitur autem ob rem non defensam stipulationis clausula.
+
+1. Qui ad communi dividundo iudicium datus est, ad agendum item et ad defendendum videbitur datus duplici cautela interponenda.
+
+3.3.16
+
+Paulus libro octavo ad edictum
+
+Ante litem contestatam libera potestas est vel mutandi procuratoris vel ipsi domino iudicium accipiendi.
+
+3.3.17
+
+Ulpianus libro nono ad edictum
+
+pr. Post litem autem contestatam reus qui procuratorem dedit mutare quidem eum vel in se litem transferre a vivo procuratore vel in civitate manente potest, causa tamen prius cognita.
+
+1. Non solum autem ipsi qui dedit procuratorem hoc permittitur, sed etiam heredi eius et ceteris successoribus.
+
+2. In causae autem cognitione non solum haec versantur, quae supra diximus in procuratore non compellendo suscipere iudicium, verum et aetas.
+
+3.3.18
+
+Modestinus libro decimo pandectarum
+
+Aut religionis beneficium.
+
+3.3.19
+
+Ulpianus libro nono ad edictum
+
+Item si suspectus sit procurator aut in vinculis aut in hostium praedonumve potestate,
+
+3.3.20
+
+Paulus libro octavo ad edictum
+
+Vel iudicio publico privatove vel valetudine vel maiore re sua distringatur.
+
+3.3.21
+
+Gaius libro tertio ad edictum provinciale
+
+Vel exilio, vel si latitet, vel inimicus postea fiat,
+
+3.3.22
+
+Paulus libro octavo ad edictum
+
+Aut adfinitate aliqua adversario iungatur, vel heres ei existat,
+
+3.3.23
+
+Ulpianus libro nono ad edictum
+
+Aut longa peregrinatio et aliae similes causae impedimento sint,
+
+3.3.24
+
+Paulus libro octavo ad edictum
+
+Mutari debebit vel ipso procuratore postulante.
+
+3.3.25
+
+Ulpianus libro nono ad edictum
+
+Quae omnia non solum ex parte rei, sed etiam in persona actoris observabuntur. Sed si adversarius vel ipse procurator dicat dominum mentiri, apud praetorem haec finiri oportet. Nec ferendus est procurator qui sibi adserit procurationem: nam hoc ipso suspectus est qui operam suam ingerit invito. Nisi forte purgare magis convicium quam procurationem exsequi maluit. Et hactenus erit audiendus, si dicat se procuratione quidem carere velle, sed si id inlaesa existimatione sua fiat: ceterum ferendus erit pudorem suum purgans. Plane si dicat in rem suam se procuratorem datum et hoc probaverit, non debet carere propria lite. Item si retentione aliqua procurator uti velit, non facile ab eo lis erit transferenda,
+
+3.3.26
+
+Paulus libro octavo ad edictum
+
+Nisi dominus ei solvere paratus sit.
+
+3.3.27
+
+Ulpianus libro nono ad edictum
+
+pr. In causae cognitione etiam hoc versabitur, ut ita demum transferri a procuratore iudicium permittatur, si quis omnia iudicii ab eo transferre paratus sit. Ceterum si velit quaedam transferre, quaedam relinquere, iuste procurator hanc inconstantiam recusabit. Sed haec ita, si mandato domini procurator egit. Ceterum si mandatum non est, cum neque in iudicium quicquam deduxerit, nec tu ea comprobasti: quae invito te acta sunt tibi non praeiudicant ideoque translatio earum litium non est tibi necessaria, ne alieno facto onereris. Haec autem cognitio procuratoris mutandi praetoris est.
+
+1. Si ex parte actoris litis transactio fiat, dicimus committi iudicatum solvi stipulationem a reo factam, idque et Neratius probat et Iulianus et hoc iure utimur: scilicet si dominus satis accepit. Sed et si procurator satis accepit et transferatur iudicium in dominum: verius est committi et ex stipulatu actionem a procuratore in dominum transferri. Sed et si a domino vel a procuratore in procuratorem iudicium transferatur, non dubitat Marcellus, quin committatur stipulatio. Et haec vera sunt. Et licet procuratori commissa sit stipulatio, tamen domino erit danda utilis ex stipulatu actio, directa penitus tollenda.
+
+3.3.28
+
+Ulpianus libro primo disputationum
+
+Si procurator meus iudicatum solvi satis acceperit, mihi ex stipulatu actio utilis est, sicuti iudicati actio mihi indulgetur. Sed et si egit procurator meus ex ea stipulatione me invito, nihilo minus tamen mihi ex stipulatu actio tribuetur. Quae res facit ut procurator meus ex stipulatu agendo exceptione debeat repelli: sicuti cum agit iudicati non in rem suam datus nec ad eam rem procurator factus. Per contrarium autem si procurator meus iudicatus solvi satisdederit, in me ex stipulatu actio non datur. Sed et si defensor meus satisdederit, in me ex stipulatu actio non datur, quia nec iudicati mecum agi potest.
+
+3.3.29
+
+Ulpianus libro nono ad edictum
+
+Si actor malit dominum potius convenire quam eum qui in rem suam procurator est, dicendum est ei licere.
+
+3.3.30
+
+Paulus libro primo  sententiarum
+
+Actoris procurator non in rem suam datus propter impensas quas in litem fecit potest desiderare, ut sibi ex iudicatione satisfiat, si dominus litis solvendo non sit.
+
+3.3.31
+
+Ulpianus libro nono ad edictum
+
+pr. Si quis, cum procuratorio nomine condemnatus esset, heres extiterit domino litis: iudicati actionem non recte recusabit. hoc si ex asse. Sin autem ex parte heres extiterit et totum solverit, si quidem ei mandatum est hoc quoque ut solvat, mandati actionem adversus coheredes habebit: si non sit mandatum, negotiorum gestorum actio datur. Quod est et si heres procurator non exstiterit et solverit.
+
+1. Unius litis plurium personarum plures dari procuratores non est prohibitum.
+
+2. Iulianus ait eum, qui dedit diversis temporibus procuratores duos, posteriorem dando priorem prohibuisse videri.
+
+3.3.32
+
+Paulus libro octavo ad edictum
+
+Pluribus procuratoribus in solidum simul datis occupantis melior condicio erit, ut posterior non sit in eo quod prior petit procurator.
+
+3.3.33
+
+Ulpianus libro nono ad edictum
+
+pr. Servum quoque et filium familias procuratorem posse habere aiunt. Et quantum ad filium familias verum est: in servo subsistimus. Et negotia quidem peculiaria servi posse gerere aliquem et hoc casu procuratorem eius esse admittimus, quod et Labeoni videtur: actionem autem intendere vetamus.
+
+1. Eum vero qui de statu suo litigat procuratorem habere posse non dubitamus non solum in administratione rerum, sed etiam in actionibus, quae ei vel adversus eum competant, ex possessione sive servitutis sive libertatis de suo statu litigat. Ex contrario quoque eum procuratorem dari posse manifestum est.
+
+2. Publice utile est absentes a quibuscumque defendi: nam et in capitalibus iudiciis defensio datur. Ubicumque itaque absens quis damnari potest, ibi quemvis verba pro eo facientem et innocentiam excusantem audiri aequum est et ordinarium admittere: quod et ex rescripto imperatoris nostri apparet.
+
+3. Ait praetor: "Cuius nomine quis actionem dari sibi postulabit, is eum viri boni arbitratu defendat: et ei quo nomine aget id ratum habere eum ad quem ea res pertinet, boni viri arbitratu satisdet".
+
+4. Aequum praetori visum est eum, qui alicuius nomine procurator experitur, eundem etiam defensionem suscipere.
+
+5. Si quis in rem suam procurator interveniat, adhuc erit dicendum debere eum defendere: nisi forte ex necessitate fuerit factus.
+
+3.3.34
+
+Gaius libro tertio ad edictum provinciale
+
+Si quis in rem suam procuratorio nomine agit, veluti emptor hereditatis: an debeat invicem venditorem defendere? Et placet, si bona fide et non in fraudem eorum qui invicem agere vellent gestum sit negotium, non oportere eum invicem defendere.
+
+3.3.35
+
+Ulpianus libro nono ad edictum
+
+pr. Sed et hae personae procuratorum debebunt defendere, quibus sine mandatu agere licet: ut puta liberi, licet sint in potestate, item parentes et fratres et adfines et liberti.
+
+1. Patronus libertum et per procuratorem ut ingratum accusare potest et libertus per procuratorem respondere.
+
+2. Non solum autem si actio postuletur a procuratore, sed et si praeiudicium vel interdictum, vel si stipulatione legatorum vel damni infecti velit caveri: debebit absentem defendere in competenti tribunali et eadem provincia. Ceterum cogi eum etiam in provincia de Roma abire vel e contrario vel a provincia in aliam provinciam et defendere durum est.
+
+3. Defendere autem est id facere quod dominus in litem faceret, et cavere idonee: nec debebit durior condicio procuratoris fieri quam est domini, praeterquam in satisdando. Praeter satisdationem procurator ita defendere videtur, si iudicium accipiat. Unde quaesitum est apud Iulianum, an compellatur, an vero sufficiat ob rem non defensam stipulationem committi. Et Iulianus scribit libro tertio digestorum compellendum accipere iudicium: nisi et agendum causa cognita recusaverit vel ex iusta causa remotus fuerit. Defendere videtur procurator et si in possessionem venire patiatur, cum quis damni infecti satis vel legatorum desideret,
+
+3.3.36
+
+Paulus libro octavo ad edictum
+
+Vel in operis novi nuntiatione. Sed et si servum ex causa noxali patiatur duci, defendere videtur: ita tamen, ut in his omnibus ratam rem dominum habiturum caveat.
+
+3.3.37
+
+Ulpianus libro nono ad edictum
+
+pr. Omnium autem actionum nomine debet defendere, etiam earum quae in heredem non dantur.
+
+1. Unde est quaesitum: si adversarius plures intendat actiones et in singulas singuli existant defensores suscipere parati, videri eum recte defendi Iulianus ait. Quo iure nos uti Pomponius scribit.
+
+3.3.38
+
+Ulpianus libro 40 ad edictum
+
+Non tamen eo usque procedendum erit, ut, si decem "milia" petantur et exstant duo defensores parati in quina defendere, audiantur.
+
+3.3.39
+
+Ulpianus libro nono ad edictum
+
+pr. Non solum autem in actionibus et interdictis et in stipulationibus debet dominum defendere, verum in interrogationibus quoque, ut in iure interrogatus ex omnibus causis respondeat, ex quibus dominus. An igitur heres sit absens, respondere debebit et si responderit vel tacuerit, tenebitur.
+
+1. Qui alieno nomine agit quamcumque actionem, id ratum habiturum eum ad quem ea res pertinebit cavere debet. Sed interdum licet suo nomine procurator experiatur, tamen de rato debebit cavere, ut Pomponius libro vicensimo quarto scribit. Ut puta iusiurandum procuratori rettulit, iuravit absenti dari oportere: agit hoc iudicio suo nomine propter suum iusiurandum (neque enim haec actio domino competere potuit): sed debebit de rato cavere. Sed et si procuratori constitutum est et ex ea causa agat: dubitandum non est, quin locus sit de rato cautioni, idque Pomponius scribit.
+
+2. Quaeritur apud Iulianum: utrum dominum solum ratam rem habere debet satisdare an etiam ceteros creditores? Et ait dumtaxat de domino cavendum nec illis verbis "ad quem ea res pertinet" creditores contineri: nam nec ipsi domino haec incumbebat cautio.
+
+3. Si de dote agat pater, cavere debet ratam rem filiam habituram: sed et defendere eam debet, ut et Marcellus scribit.
+
+4. Si pater filii nomine iniuriarum agat, cum duae sint actiones una patris altera filii, cessat de rato cautio.
+
+5. Si status controversiam cui faciat procurator, sive ex servitute in libertatem adversus eum quis litiget sive ipse ex libertate in servitutem petat, debet cavere ratam rem dominum habiturum. Et ita edicto scriptum est, ut ex utroque latere quasi actor habeatur.
+
+6. Est et casus, quo quis eiusdem actionis nomine et de rato caveat et iudicatum solvi. Ut puta postulata est cognitio de in integrum restitutione, cum minor circumscriptus in venditione diceretur: alterius procurator existit: debet cavere hic procurator et ratam rem dominum habiturum, ne forte dominus reversus velit quid petere, item iudicatum solvi, ut si quid forte propter hanc restitutionem in integrum praestari adulescenti debeat, hoc praestetur. Et haec ita Pomponius libro vicensimo quinto ad edictum scribit.
+
+7. Item ait, si suspectus tutor postuletur, defensorem eius oportere etiam de rato cavere, ne reversus ille velit retractare quod actum est. Sed non facile per procuratorem quis suspectus accusabitur, quoniam famae causa est, nisi constet ei a tutore mandatum nominatim, aut si etiam absente tutore, quasi non defenderetur, praetor erat cogniturus.
+
+3.3.40
+
+Ulpianus libro nono ad edictum
+
+pr. Pomponius scribit non omnes actiones per procuratorem posse quem instituere. Denique ut liberi, qui in potestate absentis dicuntur, ducantur, interdictum non posse desiderare ait nisi, ut iulianus ait, causa cognita, id est si et nominatim ei mandatum sit et pater valetudine vel alia iusta causa impediatur.
+
+1. Si stipuletur procurator damni infecti vel legatorum, debebit de rato cavere.
+
+2. Sed et is, qui quasi defensor in rem actione convenitur, praeter solitam satisdationem iudicatum solvi etiam de rato debet cavere. Quid enim si hoc iudicio rem meam esse pronuntietur, reversus ille, cuius defensor extiterat, velit fundum vindicare: nonne ratum non videbitur habere quod iudicatum est? Denique si verus procurator extitisset vel ipse praesens causam suam egisset et victus esset: si a me vindicaret, exceptione rei iudicatae summoveretur, et ita Iulianus libro quinquagensimo digestorum scribit: nam cum iudicatur rem meam esse, simul iudicatur illius non esse.
+
+3. Ratihabitionis autem satisdatio ante litis contestationem a procuratore exigitur: ceterum semel lite contestata non compelletur ad cautionem.
+
+4. In his autem personis, in quibus mandatum non exigimus, dicendum est, si forte evidens sit contra voluntatem eos experiri eorum pro quibus interveniunt, debere eos repelli. Ergo non exigimus ut habeant voluntatem vel mandatum, sed ne contraria voluntas probetur: quamvis de rato offerant cautionem.
+
+3.3.41
+
+Paulus libro nono ad edictum
+
+Feminas pro parentibus agere interdum permittetur causa cognita, si forte parentes morbus aut aetas impediat, nec quemquam qui agat habeant.
+
+3.3.42
+
+Paulus libro octavo ad edictum
+
+pr. Licet in popularibus actionibus procurator dari non possit, tamen dictum est merito eum qui de via publica agit et privato damno ex prohibitione adficitur, quasi privatae actionis dare posse procuratorem. Multo magis dabit ad sepulchri violati actionem is ad quem ea res pertinet.
+
+1.  Ad actionem iniuriarum ex lege Cornelia procurator dari potest: nam etsi pro publica utilitate exercetur, privata tamen est.
+
+2.  Ea obligatio, quae inter dominum et procuratorem consistere solet, mandati actionem parit. Aliquando tamen non contrahitur obligatio mandati: sicut evenit, cum in rem suam procuratorem praestamus eoque nomine iudicatum solvi promittimus: nam si ex ea promissione aliquid praestiterimus, non mandati, sed ex vendito si hereditatem vendidimus, vel ex pristina causa mandati agere debemus: ut fit cum fideiussor reum procuratorem dedit.
+
+3.  Is cui hereditas ex Trebelliano senatus consulto restituta est heredem iure dabit procuratorem.
+
+4.  Sed et dominum pignoris creditor recte dabit procuratorem ad Servianam.
+
+5.  Porro si uni ex reis credendi constitutum sit isque alium in constitutam pecuniam det, non negabimus posse dare. sed et ex duobus reis promittendi alter alterum ad defendendum procuratorem dabit.
+
+6.  Si plures heredes sint et familiae erciscundae aut communi dividundo agatur, pluribus eundem procuratorem non est permittendum dare, quoniam res expediri non potest circa adiudicationes et condemnationes: plane permittendum dare, si uni coheredi plures heredes existant.
+
+7.  Reo latitante post litem contestatam ita demum fideiussores eum defendere videbuntur, si vel unus ex his eum pro solido defendat, vel omnes vel qui ex his unum dederint in quem iudicium transferetur.
+
+3.3.43
+
+Paulus libro nono ad edictum
+
+pr. Mutus et surdus per eum modum qui procedere potest procuratorem dare non prohibentur: forsitan et ipsi dantur non quidem ad agendum, sed ad administrandum.
+
+1 Cum quaeretur, an alicui procuratorem habere liceat, inspiciendum erit, an non prohibeatur procuratorem dare, quia hoc edictum prohibitorium est.
+
+2 In popularibus actionibus, ubi quis quasi unus ex populo agit, defensionem ut procurator praestare cogendus non est.
+
+3 Is, qui curatorem alicui praesenti petat, non aliter audietur nisi adulto consentiente: quod si absenti, ratam rem eum habiturum necesse habet dare.
+
+4 Poena non defendentis procuratoris haec est, ut denegetur ei actio.
+
+5 Si procurator agat et praesens sit absentis servus, atilicinus ait servo cavendum, non procuratori.
+
+6 Qui non cogitur defendere absentem, tamen si iudicatum solvi satisdedit defendendi absentis gratia, cogendum procuratorem iudicium accipere, ne decipiatur is qui satis accepit: nam eos, qui non coguntur rem defendere, post satisdationem cogi. Labeo causa cognita temperandum, et si captio actoris sit propter temporis tractum, iudicium eum accipere cogendum: quod si aut adfinitas dirempta sit aut inimicitiae intercesserint aut bona absentis possideri coeperint.
+
+3.3.44
+
+Ulpianus libro septimo disputationum
+
+Vel si longinquo sit afuturus vel alia iusta causa intervenerit,
+
+3.3.45
+
+Paulus libro nono ad edictum
+
+pr. Non cogendum. Sabinus autem nullas praetoris partes esse ad compellendum defendere, sed ex stipulatu ob rem non defensam agi posse: at si iustas causas habeat, cur iudicium accipere nolit, fideiussores non teneri, quia vir bonus arbitraturus non fuerit, ut qui iustam excusationem adferret, defendere cogeretur. Sed et si satis non dedit, sed repromittenti ei creditum est, idem statuendum est.
+
+1 Qui ita de publico agunt, ut et privatum commodum defendant, causa cognita permittuntur procuratorem dare, et postea alius agens exceptione repelletur.
+
+2 Si procuratori opus novum nuntiatum sit isque interdicto utatur "ne ei vis fiat aedificanti", defensoris partes eum sustinere nec compelli cavere ratam rem dominum habiturum iulianus ait, et si satisdederit, non animadverto, inquit Iulianus, quo casu stipulatio committatur.
+
+3.3.46
+
+Gaius libro tertio ad edictum provinciale
+
+pr. Qui proprio nomine iudicium accepisset, si vellet procuratorem dare, in quem actor transferat iudicium, audiri debet sollemniterque pro iudicatum solvi satisdatione cavere.
+
+1 Ei qui defendit eum, cuius nomine ipse non agat, liberum est vel in unam rem defendere.
+
+2 Qui alium defendit, satisdare cogitur: nemo enim alienae litis idoneus defensor sine satisdatione intellegitur.
+
+3 Item quaeritur, si iudicium acceperit defensor et actor in integrum restitutus sit, an cogendus sit restitutorium iudicium accipere: et magis placet cogendum.
+
+4 Procurator ut in ceteris quoque negotiis gerendis, ita et in litibus ex bona fide rationem reddere debet. Itaque quod ex lite consecutus erit sive principaliter ipsius rei nomine sive extrinsecus ob eam rem, debet mandati iudicio restituere usque adeo, ut et si per errorem aut iniuriam iudicis non debitum consecutus fuerit, id quoque reddere debeat.
+
+5 Item contra quod ob rem iudicatam procurator solverit, contrario mandati iudicio reciperare debet: poenam autem, quam ex suo delicto praestitit, reciperare non debet.
+
+6 Litis impendia bona fide facta vel ab actoris procuratore vel a rei debere ei restitui aequitas suadet.
+
+7 Si duobus mandata sit administratio negotiorum, quorum alter debitor sit mandatoris, an alter cum eo recte acturus sit? Et utique recte: non enim ob id minus procurator intellegitur, quod is quoque cum quo agitur procurator sit.
+
+3.3.47
+
+Iulianus libro quarto ad Urseium Ferocem
+
+Qui duos procuratores omnium rerum suarum reliquit, nisi nominatim praecepit ut alter ab altero pecuniam petat, non videtur mandatum utrilibet eorum dedisse.
+
+3.3.48
+
+Gaius libro tertio ad edictum provinciale
+
+Itaque, si hoc specialiter mandatum est, tunc excipiente eo cum quo agitur "si non mihi mandatum sit, ut a debitoribus peterem" actorem ita debere replicare "aut si mihi mandatum est ut a te peterem".
+
+3.3.49
+
+Paulus libro 54 ad edictum
+
+Ignorantis domini condicio deterior per procuratorem fieri non debet.
+
+3.3.50
+
+Gaius libro 22 ad edictum provinciale
+
+Quacumque ratione procurator tuus a me liberatus est, id tibi prodesse debet.
+
+3.3.51
+
+Ulpianus libro 60 ad edictum
+
+pr. Minor viginti quinque annis si defensor existat, ex quibus causis in integrum restitui possit, defensor idoneus non est, quia et ipsi et fideiussoribus eius per in integrum restitutionem succurritur.
+
+1. Quoniam tamen defendere est eandem vicem quam reus subire, defensor mariti in amplius quam maritus facere possit non est condemnandus.
+
+2. Is qui suscepit defensionem, etsi locupletissimus sit,
+
+3.3.52
+
+Paulus libro  57 ad edictum
+
+Etsi consularis sit,
+
+3.3.53
+
+Ulpianus libro 60 ad edictum
+
+Non videtur defendere, nisi satisdare fuerit paratus.
+
+3.3.54
+
+Paulus libro 50 ad edictum
+
+pr. Neque femina neque miles neque qui rei publicae causa afuturus est aut morbo perpetuo tenetur aut magistratum initurus est aut invitus iudicium pati non potest, idoneus defensor intellegitur.
+
+1. Tutores, qui in aliquo loco administraverunt, eodem loco et defendi debent.
+
+3.3.55
+
+Ulpianus libro 65 ad edictum
+
+Procuratore in rem suam dato praeferendus non est dominus procuratori in litem movendam vel pecuniam suscipiendam: qui enim suo nomine utiles actiones habet, rite eas intendit.
+
+3.3.56
+
+Ulpianus libro 66 ad edictum
+
+Ad rem mobilem petendam datus procurator ad exhibendum recte aget.
+
+3.3.57
+
+Ulpianus libro 74 ad edictum
+
+pr. Qui procuratorem dat, ut confestim agat, is intellegendus est permittere procuratori et postea litem peragere.
+
+1. Si quis remisit exceptionem procuratoriam, non poterit ex paenitentia eam opponere.
+
+3.3.58
+
+Paulus libro 71 ad edictum
+
+Procurator, cui generaliter libera administratio rerum commissa est, potest exigere, novare, aliud pro alio permutare.
+
+3.3.59
+
+Paulus libro decimo ad Plautium
+
+Sed et id quoque ei mandari videtur, ut solvat creditoribus.
+
+3.3.60
+
+Paulus libro quarto responsorum
+
+Mandato generali non contineri etiam transactionem decidendi causa interpositam: et ideo si postea is qui mandavit transactionem ratam non habuit, non posse eum repelli ab actionibus exercendis.
+
+3.3.61
+
+Paulus libro primo ad Plautium
+
+Plautius ait: procuratorem damnatum non debere conveniri, nisi aut in rem suam datus esset aut optulisset se, cum sciret cautum non esse, omnibus placuit. Idem erit observandum et si defensoris loco cum satisdatione se liti optulerit.
+
+3.3.62
+
+Pomponius libro secundo ex Plautio
+
+Ad legatum petendum procurator datus si interdicto utatur adversus heredem de tabulis exhibendis, procuratoria exceptio, quasi non et hoc esset ei mandatum non obstat.
+
+3.3.63
+
+Modestinus libro sexto differentiarum
+
+Procurator totorum bonorum, cui res administrandae mandatae sunt, res domini neque mobiles vel immobiles neque servos sine speciali domini mandatu alienare potest, nisi fructus aut alias res, quae facile corrumpi possunt.
+
+3.3.64
+
+Modestinus libro tertio regularum
+
+Is, cuius nomine defensor exstiterit, si ante litem contestatam in praesentia fuerit et postulet suo nomine litem suscipere, causa cognita audiendus est.
+
+3.3.65
+
+Modestinus libro singulari de heurematicis
+
+Si procuratorem absentem dominus satisdatione relevare velit, litteras suas ad adversarium derigere debebit, quibus significet, quem adversus eum procuratorem et in qua causa fecerit, ratumque se habiturum quod cum eo actum sit: hoc enim casu litteris eius adprobatis velut praesentis procuratorem intervenire intellegendum est. Itaque etsi postea mutata voluntate procuratorem esse noluerit, tamen iudicium, quo quasi procurator expertus est, ratum esse debet.
+
+3.3.66
+
+Papinianus libro nono quaestionum
+
+Si is qui Stichum vel Damam, utrum eorum ipse vellet, stipulatus est et ratum habeat, quod alterum procuratorio nomine titius petit: facit, ut res in iudicium deducta videatur, et stipulationem consumit.
+
+3.3.67
+
+Papinianus libro secundo responsorum
+
+Procurator, qui pro evictione praediorum quae vendidit fidem suam adstrinxit, etsi negotia gerere desierit, obligationis tamen onere praetoris auxilio non levabitur: nam procurator, qui pro domino vinculum obligationis suscepit, onus eius frustra recusat.
+
+3.3.68
+
+Papinianus libro tertio responsorum
+
+Quod procurator ex re domini mandato non refragante stipulatur, invito procuratore dominus petere non potest.
+
+3.3.69
+
+Paulus libro tertio responsorum
+
+Paulus respondit etiam eum, qui ad litem suscipiendam procuratorem dedit, causae suae adesse non prohiberi.
+
+3.3.70
+
+Scaevola libro primo responsorum
+
+Pater filio suo pupillo tutorem dedit Sempronium creditorem suum: is administrata tutela reliquit fratrem suum heredem, qui et ipse decessit et per fideicommissum nomen debitoris titio reliquit eique mandatae sunt actiones ab heredibus: quaero, cum tam tutelae actio quam pecuniae creditae ex hereditate Sempronii descendant, an non aliter mandata actio ei detur, quam si defendat heredes, a quibus ei actiones mandatae sunt. Respondi debere defendere.
+
+3.3.71
+
+Paulus libro primo sententiarum
+
+Absens reus causas absentiae per procuratorem reddere potest.
+
+3.3.72
+
+Paulus libro primo manualium
+
+Per procuratorem non semper adquirimus actiones, sed retinemus: veluti si reum conveniat intra legitimum tempus: vel si prohibeat opus novum fieri, ut interdictum nobis utile sit quod vi aut clam, nam et hic pristinum ius nobis conservat.
+
+3.3.73
+
+Paulus libro singulari  de officio adsessorum
+
+Si reus paratus sit ante litem contestatam pecuniam solvere, procuratore agente quid fieri oportet? Nam iniquum est cogi eum iudicium accipere. propter quod suspectus videri potest, qui praesente domino non optulit pecuniam? Quid si tunc facultatem pecuniae non habuit, numquid cogi debeat iudicium accipere? Quid enim si et famosa sit actio? Sed hoc constat, ut ante litem contestatam praeses iubeat in aede sacra pecuniam deponi: hoc enim fit et in pupillaribus pecuniis. Quod si lis contestata est, hoc omne officio iudicis dirimendum est.
+
+3.3.74
+
+Ulpianus libro quarto opinionum
+
+Nec civitatis actor negotium publicum per procuratorem agere potest.
+
+3.3.75
+
+Iulianus libro tertio digestorum
+
+Qui absentem emptorem eundemque possessorem fundi defendebat et iudicium nomine eius accipiebat, postulabat a venditore fundi, ut ab eo defenderetur: venditor desiderabat caveri sibi ratam rem emptorem habiturum: puto eum venditori de rato satisdare debere, quia si fundum agenti restituerit, nihil prohibet dominum rem petere et cogi venditorem rursus defendere.
+
+3.3.76
+
+Iulianus libro quinto ad Minicium
+
+Titius cum absentem defenderet, satisdedit et prius quam iudicium acciperet desiit reus solvendo esse: quam ob causam defensor recusabat iudicium in se reddi oportere. Quaero, an id ei concedi oporteat. Iulianus respondit: defensor cum satisdedit, domini loco habendus est. Nec multum ei praestaturus est praetor, si eum non coegerit iudicium accipere, cum ad fideiussores eius iri possit et hi quidquid praestiterint a defensore consecuturi sint.
+
+3.3.77
+
+Paulus libro 57 ad edictum
+
+Omnis qui defenditur boni viri arbitratu defendendus est.
+
+3.3.78
+
+Africanus libro sexto quaestionum
+
+pr. Et ideo non potest videri boni viri arbitratu litem defendere is, qui actorem frustrando efficiat, ne ad exitum controversia deducatur.
+
+1. Ad duas res petendas procurator datus si unam rem petat, exceptione non excluditur et rem in iudicium deducit.
+
+
+3.4.0. Quod cuiuscumque universitatis nomine vel contra eam agatur.
+
+
+3.4.1
+
+Gaius libro tertio ad edictum provinciale
+
+pr. Neque societas neque collegium neque huiusmodi corpus passim omnibus habere conceditur: nam et legibus et senatus consultis et principalibus constitutionibus ea res coercetur. Paucis admodum in causis concessa sunt huiusmodi corpora: ut ecce vectigalium publicorum sociis permissum est corpus habere vel aurifodinarum vel argentifodinarum et salinarum. Item collegia Romae certa sunt, quorum corpus senatus consultis atque constitutionibus principalibus confirmatum est, veluti pistorum et quorundam aliorum, et naviculariorum, qui et in provinciis sunt.
+
+1. Quibus autem permissum est corpus habere collegii societatis sive cuiusque alterius eorum nomine, proprium est ad exemplum rei publicae habere res communes, arcam communem et actorem sive syndicum, per quem tamquam in re publica, quod communiter agi fierique oporteat, agatur fiat.
+
+2. Quod si nemo eos defendat, quod eorum commune erit possideri et, si admoniti non excitentur ad sui defensionem, venire se iussurum proconsul ait. Et quidem non esse actorem vel syndicum tunc quoque intellegimus, cum is absit aut valetudine impedietur aut inhabilis sit ad agendum.
+
+3. Et si extraneus defendere velit universitatem, permittit proconsul, sicut in privatorum defensionibus observatur, quia eo modo melior condicio universitatis fit.
+
+3.4.2
+
+Ulpianus libro octavo ad edictum
+
+Si municipes vel aliqua universitas ad agendum det actorem, non erit dicendum quasi a pluribus datum sic haberi: hic enim pro re publica vel universitate intervenit, non pro singulis.
+
+3.4.3
+
+Ulpianus libro nono ad edictum
+
+Nulli permittitur nomine civitatis vel curiae experiri nisi ei, cui lex permittit, aut lege cessante ordo dedit, cum duae partes adessent aut amplius quam duae.
+
+3.4.4
+
+Paulus libro nono ad edictum
+
+Plane ut duae partes decurionum adfuerint, is quoque quem decernent numerari potest.
+
+3.4.5
+
+Ulpianus libro octavo ad edictum
+
+Illud notandum Pomponius ait, quod et patris suffragium filio proderit et filii patri,
+
+3.4.6
+
+Paulus libro nono ad edictum
+
+pr. Item eorum, qui in eiusdem potestate sunt: quasi decurio enim hoc dedit, non quasi domestica persona. Quod et in honorum petitione erit servandum, nisi lex municipii vel perpetua consuetudo prohibeat.
+
+1. Si decuriones decreverunt actionem per eum movendam quem duumviri elegerint, is videtur ab ordine electus et ideo experiri potest: parvi enim refert, ipse ordo elegerit an is cui ordo negotium dedit. Sed si ita decreverint, ut quaecumque incidisset controversia, eius petendae negotium titius haberet, ipso iure id decretum nullius momenti esse, quia non possit videri de ea re, quae adhuc in controversia non sit, decreto datam persecutionem. Sed hodie haec omnia per syndicos solent secundum locorum consuetudinem explicari.
+
+2. Quid si actor datus postea decreto decurionum prohibitus sit, an exceptio ei noceat? Et puto sic hoc accipiendum, ut ei permissa videatur, cui et permissa durat.
+
+3. Actor universitatis si agat, compellitur etiam defendere, non autem compellitur cavere de rato. Sed interdum si de decreto dubitetur, puto interponendam et de rato cautionem. Actor itaque iste procuratoris partibus fungitur et iudicati actio ei ex edicto non datur nisi in rem suam datus sit. Et constitui ei potest. Ex isdem causis mutandi actoris potestas erit, ex quibus etiam procuratoris. Actor etiam filius familias dari potest.
+
+3.4.7
+
+Ulpianus libro decimo ad edictum
+
+pr. Sicut municipum nomine actionem praetor dedit, ita et adversus eos iustissime edicendum putavit. Sed et legato, qui in negotium publicum sumptum fecit, puto dandam actionem in municipes.
+
+1. Si quid universitati debetur, singulis non debetur: nec quod debet universitas singuli debent.
+
+2. In decurionibus vel aliis universitatibus nihil refert, utrum omnes idem maneant an pars maneat vel omnes immutati sint. Sed si universitas ad unum redit, magis admittitur posse eum convenire et conveniri, cum ius omnium in unum recciderit et stet nomen universitatis.
+
+3.4.8
+
+Iavolenus libro 15 ex Cassio
+
+Civitates si per eos qui res earum administrant non defenduntur nec quicquam est corporale rei publicae quod possideatur, per actiones debitorum civitatis agentibus satisfieri oportet.
+
+3.4.9
+
+Pomponius libro 13 ad Sabinum
+
+Si tibi cum municipibus hereditas communis erit, familiae erciscundae iudicium inter vos redditur. Idemque dicendum est et in finium regundorum et aquae pluviae arcendae iudicio.
+
+3.4.10
+
+Paulus libro primo  manualium
+
+Constitui potest actor etiam ad operis novi nuntiationem et ad stipulationes interponendas, veluti legatorum, damni infecti, iudicatum solvi, quamvis servo potius civitatis caveri debeat: sed et si actori cautum fuerit, utilis actio administratori rerum civitatis dabitur.
+
+
+3.5.0. De negotiis gestis.
+
+
+3.5.1
+
+Ulpianus libro decimo ad edictum
+
+Hoc edictum necessarium est, quoniam magna utilitas absentium versatur, ne indefensi rerum possessionem aut venditionem patiantur vel pignoris distractionem vel poenae committendae actionem, vel iniuria rem suam amittant.
+
+3.5.2
+
+Gaius libro 3 ad edictum provinc.
+
+Si quis absentis negotia gesserit licet ignorantis, tamen quidquid utiliter in rem eius impenderit vel etiam ipse se in rem absentis alicui obligaverit, habet eo nomine actionem: itaque eo casu ultro citroque nascitur actio, quae appellatur negotiorum gestorum. Et sane sicut aequum est ipsum actus sui rationem reddere et eo nomine condemnari, quidquid vel non ut oportuit gessit vel ex his negotiis retinet: ita ex diverso iustum est, si utiliter gessit, praestari ei, quidquid eo nomine vel abest ei vel afuturum est.
+
+3.5.3
+
+Ulpianus libro decimo ad edictum
+
+pr. Ait praetor: "Si quis negotia alterius, sive quis negotia, quae cuiusque cum is moritur fuerint, gesserit: iudicium eo nomine dabo. "
+
+1. Haec verba "Si quis" sic sunt accipienda "sive quae": nam et mulieres negotiorum gestorum agere posse et conveniri non dubitatur.
+
+2. "Negotia" sic accipe, sive unum sive plura.
+
+3. "Alterius", inquit: et hoc ad utrumque sexum refertur.
+
+4. Pupillus sane si negotia gesserit, post rescriptum divi Pii etiam conveniri potest in id quod factus est locupletior: agendo autem compensationem eius quod gessit patitur.
+
+5. Et si furiosi negotia gesserim, competit mihi adversus eum negotiorum gestorum actio: curatori autem furiosi vel furiosae adversus eum eamve dandam actionem Labeo ait.
+
+6. Haec verba: "Sive quis negotia, quae cuiusque cum is moritur fuerint, gesserit" significant illud tempus, quo quis post mortem alicuius negotia gessit: de quo fuit necessarium edicere, quoniam neque testatoris iam defuncti neque heredis qui nondum adiit negotium gessisse videtur. Sed si quid accessit post mortem, ut puta partus et fetus et fructus, vel si quid servi adquisierint: etsi his verbis non continentur, pro adiecto tamen debent accipi.
+
+7. Haec autem actio cum ex negotio gesto oriatur, et heredi et in heredem competit.
+
+8. Si exsecutor a praetore in negotio meo datus dolum mihi fecerit, dabitur mihi adversus eum actio.
+
+9. Interdum in negotiorum gestorum actione Labeo scribit dolum solummodo versari: nam si affectione coactus, ne bona mea distrahantur, negotiis te meis optuleris, aequissimum esse dolum dumtaxat te praestare: quae sententia habet aequitatem.
+
+10. Hanc actione tenetur non solum is qui sponte et nulla necessitate cogente immiscuit se negotiis alienis et ea gessit, verum et is qui aliqua necessitate urguente vel necessitatis suspicione gessit.
+
+11. Apud Marcellum libro secundo digestorum quaeritur, si, cum proposuissem negotia Titii gerere, tu mihi mandaveris ut geram, an utraque actione uti possim? Et ego puto utramque locum habere. Quemadmodum ipse Marcellus scribit, si fideiussorem accepero negotia gesturus: nam et hic dicit adversus utrumque esse actionem.
+
+3.5.4
+
+Ulpianus libro 45 ad Sabinum
+
+Sed videamus, an fideiussor hic habere aliquam actionem possit: et verum est negotiorum gestorum eum agere posse, nisi donandi animo fideiussit.
+
+3.5.5
+
+Ulpianus libro decimo ad edictum
+
+pr. Item si, cum putavi a te mihi mandatum, negotia gessi, et hic nascitur negotiorum gestorum actio cessante mandati actione. Idem est etiam, si pro te fideiussero, dum puto mihi a te mandatum esse.
+
+1. Sed et si, cum putavi Titii negotia esse, cum essent Sempronii, ea gessi, solus Sempronius mihi actione negotiorum gestorum tenetur.
+
+2. Iulianus libro tertio digestorum scribit, si pupilli tui negotia gessero non mandato tuo, sed ne tutelae iudicio tenearis, negotiorum gestorum te habebo obligatum: sed et pupillum, modo si locupletior fuerit factus.
+
+3. Item si procuratori tuo mutuam pecuniam dedero tui contemplatione, ut creditorem tuum vel pignus tuum liberet, adversus te negotiorum gestorum habebo actionem, adversus eum cum quo contraxi nullam. Quid tamen si a procuratore tuo stipulatus sum? Potest dici superesse mihi adversus te negotiorum gestorum actionem, quia ex abundanti hanc stipulationem interposui.
+
+4. Si quis pecuniam vel aliam quandam rem ad me perferendam acceperit: quia meum negotium gessit, negotiorum gestorum mihi actio adversus eum competit.
+
+5. Sed et si quis negotia mea gessit non mei contemplatione, sed sui lucri causa, Labeo scripsit suum eum potius quam meum negotium gessisse ( qui enim depraedandi causa accedit, suo lucro, non meo commodo studet): sed nihilo minus, immo magis et is tenebitur negotiorum gestorum actione. Ipse tamen si circa res meas aliquid impenderit, non in id quod ei abest, quia improbe ad negotia mea accessit, sed in quod ego locupletior factus sum habet contra me actionem.
+
+6. Si quis ita simpliciter versatus est, ut suum negotium in suis bonis quasi meum gesserit, nulla ex utroque latere nascitur actio, quia nec fides bona hoc patitur. Quod si et suum et meum quasi meum gesserit, in meum tenebitur: nam et si cui mandavero, ut meum negotium gerat, quod mihi tecum erat commune, dicendum esse Labeo ait, si et tuum gessit sciens, negotiorum gestorum eum tibi teneri.
+
+7. Si quis quasi servus meus negotium meum gesserit, cum esset vel libertus vel ingenuus, dabitur negotiorum gestorum actio.
+
+8. Sed si ego tui filii negotia gessero vel servi, videamus, an tecum negotiorum gestorum habeam actionem. Et mihi videtur verum, quod Labeo distinguit et Pomponius libro vicensimo sexto probat, ut si quidem contemplatione tui negotia gessi peculiaria, tu mihi tenearis: quod si amicitia filii tui vel servi, vel eorum contemplatione, adversus patrem vel dominum de peculio dumtaxat dandam actionem. Idemque est et si sui iuris esse eos putavi. Nam et si servum non necessarium emero filio tuo et tu ratum habueris, nihil agitur ratihabitione eodem loco Pomponius scribit hoc adiecto, quod putat, etsi nihil sit in peculio, quoniam plus patri dominove debetur, et in patrem dandam actionem, in quantum locupletior ex mea administratione factus sit.
+
+9. Sed si hominis liberi qui tibi bona fide serviebat negotia gessero: si quidem putans tuum esse servum gessi, Pomponius scribit earum rerum peculiarium causa, quae te sequi debent, tecum mihi fore negotiorum gestorum actionem, earum vero rerum, quae ipsum sequuntur, non tecum, sed cum ipso. Sed si liberum scivi, earum quidem rerum, quae eum sequuntur, habebo adversus eum actionem, earum vero, quae te sequuntur, adversus te.
+
+10. Si titii servum putans qui erat Sempronii, dedero pecuniam ne occideretur, ut Pomponius ait, habebo negotiorum gestorum adversus Sempronium actionem.
+
+11. Item quaeritur apud Pedium libro septimo, si titium quasi debitorem tuum extra iudicium admonuero et is mihi solverit, cum debitor non esset, tuque postea cognoveris et ratum habueris: an negotiorum gestorum actione me possis convenire. Et ait dubitari posse, quia nullum negotium tuum gestum est, cum debitor tuus non fuerit. Sed ratihabitio, inquit, fecit tuum negotium: et sicut ei a quo exactum est adversus eum datur repetitio qui ratum habuit, ita et ipsi debebit post ratihabitionem adversus me competere actio. Sic ratihabitio constituet tuum negotium, quod ab initio tuum non erat, sed tua contemplatione gestum.
+
+12. Idem ait, si Titii debitorem, cui te heredem putabam, cum esset Seius heres, convenero similiter et exegero, mox tu ratum habueris: esse mihi adversus te et tibi mutuam negotiorum gestorum actionem. Adquin alienum negotium gestum est: sed ratihabitio hoc conciliat: quae res efficit, ut tuum negotium gestum videatur et a te hereditas peti possit.
+
+13. Quid ergo, inquit pedius, si, cum te heredem putarem, insulam fulsero hereditariam tuque ratum habueris, an sit mihi adversus te actio? Sed non fore ait, cum hoc facto meo alter sit locupletatus et alterius re ipsa gestum negotium sit, nec possit, quod alii adquisitum est ipso gestu, hoc tuum negotium videri.
+
+14. Videamus in persona eius, qui negotia administrat, si quaedam gessit quaedam non, contemplatione tamen eius alius ad haec non accessit, et si vir diligens (quod ab eo exigimus) etiam ea gesturus fuit: an dici debeat negotiorum gestorum eum teneri et propter ea quae non gessit? Quod puto verius. Certe si quid a se exigere debuit, procul dubio hoc ei imputabitur. Quamquam enim hoc ei imputari non possit, cur alios debitores non convenerit, quoniam conveniendi eos iudicio facultatem non habuit, qui nullam actionem intendere potuit: tamen a semet ipso cur non exegerit, ei imputabitur: et si forte non fuerit usurarium debitum, incipit esse usurarium, ut divus Pius Flavio Longino rescripsit: nisi forte, inquit, usuras ei remiserat:
+
+3.5.6
+
+Paulus libro nono ad edictum
+
+Quia tantundem in bonae fidei iudiciis officium iudicis valet, quantum in stipulatione nominatim eius rei facta interrogatio.
+
+3.5.7
+
+Ulpianus libro decimo ad edictum
+
+pr. Si autem is fuit qui negotia administravit a quo mandatum non exigebatur, posse ei imputari, cur oblata de rato cautione eum non convenit: si modo facile ei fuerit satisdare. Certe in sua persona indubitatum est: et ideo si ex causa fuit obligatus, quae certo tempore finiebatur, et tempore liberatus est, nihilo minus negotiorum gestorum actione erit obligatus. Idem erit dicendum et in ea causa, ex qua heres non teneretur, ut Marcellus scribit.
+
+1. Item si fundum tuum vel civitatis per obreptionem petiero negotium tuum vel civitatis gerens et ampliores quam oportuit fructus fuero consecutus, debebo hoc ipsum tibi vel rei publicae praestare, licet petere non potuerim.
+
+2. Si quocumque modo ratio compensationis habita non est a iudice, potest contrario iudicio agi: quod si post examinationem reprobatae fuerint pensationes, verius est quasi re iudicata amplius agi contrario iudicio non posse, quia exceptio rei iudicatae opponenda est.
+
+3. Iulianus libro tertio tractat, si ex duobus sociis alter me prohibuerit administrare, alter non: an adversus eum qui non prohibuit habebam negotiorum gestorum actionem? Movetur eo, quod, si data fuerit adversus eum actio, necesse erit et eum pertingi qui vetuit: sed et illud esse iniquum eum qui non prohibuit alieno facto liberari, cum et si mutuam pecuniam alteri ex sociis prohibente socio dedissem, utique eum obligarem. Et puto secundum Iulianum debere dici superesse contra eum qui non prohibuit negotiorum gestorum actionem, ita tamen ut is qui prohibuit ex nulla parte neque per socium neque per ipsum aliquid damni sentiat.
+
+3.5.8
+
+Scaevola libro primo  quaestionum
+
+Pomponius scribit, si negotium a te quamvis male gestum probavero, negotiorum tamen gestorum te mihi non teneri. Videndum ergo ne in dubio hoc, an ratum habeam, actio negotiorum gestorum pendeat: nam quomodo, cum semel coeperit, nuda voluntate tolletur? Sed superius ita verum se putare, si dolus malus a te absit. Scaevola: immo puto et si comprobem, adhuc negotiorum gestorum actionem esse, sed eo dictum te mihi non teneri, quod reprobare non possim semel probatum: et quemadmodum quod utiliter gestum est necesse est apud iudicem pro rato haberi, ita omne quod ab ipso probatum est. Ceterum si ubi probavi, non est negotiorum actio: quid fiet, si a debitore meo exegerit et probaverim? Quemadmodum recipiam? Iitem si vendiderit? Ipse denique si quid impendit, quemadmodum recipiet? Nam utique mandatum non est. Erit igitur et post ratihabitionem negotiorum gestorum actio.
+
+3.5.9
+
+Ulpianus libro decimo ad edictum
+
+pr. Sed an ultro mihi tribuitur actio sumptuum quos feci? Et puto competere, nisi specialiter id actum est, ut neuter adversus alterum habeat actionem.
+
+1. Is autem qui negotiorum gestorum agit non solum si effectum habuit negotium quod gessit, actione ista utetur, sed sufficit, si utiliter gessit, etsi effectum non habuit negotium. Et ideo si insulam fulsit vel servum aegrum curavit, etiamsi insula exusta est vel servus obit, aget negotiorum gestorum: idque et Labeo probat. Sed ut Celsus refert, Proculus apud eum notat non semper debere dari. Quid enim si eam insulam fulsit, quam dominus quasi inpar sumptui deliquerit vel quam sibi necessariam non putavit? Oneravit, inquit, dominum secundum Labeonis sententiam, cum unicuique liceat et damni infecti nomine rem derelinquere. Sed istam sententiam celsus eleganter deridet: is enim negotiorum gestorum, inquit, habet actionem, qui utiliter negotia gessit: non autem utiliter negotia gerit, qui rem non necessariam vel quae oneratura est patrem familias adgreditur. Iuxta hoc est et, quod Iulianus scribit, eum qui insulam fulsit vel servum aegrotum curavit, habere negotiorum gestorum actionem, si utiliter hoc faceret, licet eventus non sit secutus. Ego quaero: quid si putavit se utiliter facere, sed patri familias non expediebat? Dico hunc non habiturum negotiorum gestorum actionem: ut enim eventum non spectamus, debet utiliter esse coeptum.
+
+3.5.10
+
+Pomponius libro 21 ad Quintum Mucium
+
+Si negotia absentis et ignorantis geras, et culpam et dolum praestare debes. Sed Proculus interdum etiam casum praestare debere, veluti si novum negotium, quod non sit solitus absens facere, tu nomine eius geras: veluti venales novicios coemendo vel aliquam negotiationem ineundo. Nam si quid damnum ex ea re secutum fuerit, te sequetur, lucrum vero absentem: quod si in quibusdam lucrum factum fuerit, in quibusdam damnum, absens pensare lucrum cum damno debet.
+
+3.5.11
+
+Ulpianus libro decimo ad edictum
+
+pr. Successori eius, cuius fuerunt negotia, qui apud hostes decessit, haec actio danda erit.
+
+1. Sed si filii familias militis defuncti testamento facto gessi, similiter erit danda actio.
+
+2. Sicut autem in negotiis vivorum gestis sufficit utiliter negotium gestum, ita et in bonis mortuorum, licet diversus exitus sit secutus.
+
+3.5.12
+
+Paulus libro nono ad edictum
+
+Debitor meus, qui mihi quinquaginta debebat, decessit: huius hereditatis curationem suscepi et impendi decem: deinde redacta ex venditione rei hereditariae centum in arca reposui: haec sine culpa mea perierunt. Quaesitum est, an ab herede, qui quandoque extitisset, vel creditam pecuniam quinquaginta petere possim vel decem quae impendi. Iulianus scribit in eo verti quaestionem, ut animadvertamus, an iustam causam habuerim seponendorum centum: nam si debuerim et mihi et ceteris hereditariis creditoribus solvere, periculum non solum sexaginta, sed et reliquorum quadraginta me praestaturum, decem tamen quae impenderim retenturum, id est sola nonaginta restituenda. Si vero iusta causa fuerit, propter quam integra centum custodirentur, veluti si periculum erat, ne praedia in publicum committerentur, ne poena traiecticiae pecuniae augeretur aut ex compromisso committeretur: non solum decem, quae in hereditaria negotia impenderim, sed etiam quinquaginta quae mihi debita sunt ab herede me consequi posse.
+
+3.5.13
+
+Ulpianus libro decimo ad edictum
+
+Si filius familias negotia gessisse proponatur, aequissimum erit in patrem quoque actionem dari, sive peculium habet sive in patris sui vertit: et si ancilla, simili modo.
+
+3.5.14
+
+Paulus libro nono ad edictum
+
+Pomponius libro vicensimo sexto in negotiis gestis initio cuiusque temporis condicionem spectandam ait. Quid enim, inquit, si pupilli negotia coeperim gerere et inter moras pubes factus sit? Vel servi aut filii familias et interea liber aut pater familias effectus sit? Hoc ego verius esse didici, nisi si ab initio quasi unum negotium gesturus accessero, deinde alio animo ad alterum accessero eo tempore, quo iam pubes vel liber vel pater familias effectus est: hic enim quasi plura negotia gesta sunt et pro qualitate personarum et actio formatur et condemnatio moderatur.
+
+3.5.15
+
+Paulus libro septimo ad Plautium
+
+Sed et cum aliquis negotia mea gerat, non multa negotia sunt, sed unus contractus, nisi si ab initio ad unum negotium accessit, ut finito eo discederet: hoc enim casu si nova voluntate aliquid quoque adgredi coeperit, alius contractus est.
+
+3.5.16
+
+Ulpianus libro 35 ad edictum
+
+Eum actum, quem quis in servitute egit, manumissus non cogitur reddere. Plane si quid conexum fuit, ut separari ratio eius quod in servitute gestum est ab eo quod in libertate gessit non possit: constat venire in iudicium vel mandati vel negotiorum gestorum et quod in servitute gestum est. Denique si tempore servitutis aream emerit et in ea insulam aedificaverit eaque corruerit, deinde manumissus fundum locaverit: sola locatio fundorum in iudicio negotiorum gestorum deducetur, quia ex superioris temporis administratione nihil amplius in iudicio deduci potest quam id, sine quo ratio libertatis tempore administratorum negotiorum expediri non potest.
+
+3.5.17
+
+Paulus libro nono ad edictum
+
+Proculus et Pegasus bonam fidem eum, qui in servitute gerere coepit, praestare debere aiunt: ideoque quantum, si alius eius negotia gessisset, servare potuisset, tantum eum, qui a semet ipso non exegerit, negotiorum gestorum actione praestaturum, si aliquid habuit in peculio, cuius retentione id servari potest. Idem Neratius.
+
+3.5.18
+
+Paulus libro secundo ad Neratium
+
+pr. Adquin natura debitor fuit etiam si in peculio nihil habuit, et si postea habuit, sibi postea solvere debet in eodem actu perseverans: sicut is, qui temporali actione tenebatur, etiam post tempus exactum negotiorum gestorum actione id praestare cogitur.
+
+1. Scaevola noster ait putare se, quod Sabinus scribit debere a capite rationem reddendum sic intellegi, ut appareat, quid reliquum fuerit tunc, cum primum liber esse coeperit, non ut dolum aut culpam in servitute admissam in obligationem revocet: itaque si inveniatur vel malo more pecunia in servitute erogata, liberabitur.
+
+2. Si libero homini, qui bona fide mihi serviebat, mandem, ut aliquid agat, non fore cum eo mandati actionem Labeo ait, quia non libera voluntate exsequitur rem sibi mandatam, sed quasi ex necessitate servili: erit igitur negotiorum gestorum actio, quia et gerendi negotii mei habuerit affectionem et is fuit, quem obligare possem.
+
+3. Cum me absente negotia mea gereres, imprudens rem meam emisti et ignorans usucepisti: mihi negotiorum gestorum ut restituas obligatus non es. sed si, antequam usucapias, cognoscas rem meam esse, subicere debes aliquem, qui a te petat meo nomine, ut et mihi rem et tibi stipulationem evictionis committat: nec videris dolum malum facere in hac subiectione: ideo enim hoc facere debes, ne actione negotiorum gestorum tenearis.
+
+4. Non tantum sortem, verum etiam usuras ex pecunia aliena perceptas negotiorum gestorum iudicio praestabimus, vel etiam quas percipere potuimus. Contra quoque usuras, quas praestavimus vel quas ex nostra pecunia percipere potuimus quam in aliena negotia impendimus, servabimus negotiorum gestorum iudicio.
+
+5. Dum apud hostes esset titius, negotia eius administravi, postea reversus est: negotiorum gestorum mihi actio competit, etiamsi eo tempore quo gerebantur dominum non habuerunt.
+
+3.5.19
+
+Ulpianus libro decimo ad edictum
+
+Sin autem apud hostes constitutus decessit, et successori et adversus successorem eius negotiorum gestorum directa et contraria competit.
+
+3.5.20
+
+Paulus libro nono ad edictum
+
+pr. Nam et servius respondit, ut est relatum apud Alfenum libro trigensimo nono digestorum: cum a Lusitanis tres capti essent et unus ea condicione missus, uti pecuniam pro tribus adferret, et nisi redisset, ut duo pro eo quoque pecuniam darent, isque reverti noluisset et ob hanc causam illi pro tertio quoque pecuniam solvissent: servius respondit aequum esse praetorem in eum reddere iudicium.
+
+1. Qui negotia hereditaria gerit, quodammodo sibi hereditatem seque ei obligat: ideoque nihil refert an etiam pupillus heres existat, quia id aes alienum cum ceteris hereditariis oneribus ad eum transit.
+
+2. Si vivo Titio negotia eius administrare coepi, intermittere mortuo eo non debeo: nova tamen inchoare necesse mihi non est, vetera explicare ac conservare necessarium est. Ut accidit, cum alter ex sociis mortuus est: nam quaecumque prioris negotii explicandi causa geruntur, nihilum refert, quo tempore consummentur, sed quo tempore inchoarentur.
+
+3. Mandatu tuo negotia mea Lucius Titius gessit: quod is non recte gessit, tu mihi actione negotiorum gestorum teneris non in hoc tantum, ut actiones tuas praestes, sed etiam quod imprudenter eum elegeris, ut quidquid detrimenti neglegentia eius fecit, tu mihi praestes.
+
+3.5.21
+
+Gaius libro tertio ad edictum provinciale
+
+Sive hereditaria negotia sive ea, quae alicuius essent, gerens aliquis necessario rem emerit, licet ea interierit, poterit quod impenderit iudicio negotiorum gestorum consequi: veluti si frumentum aut vinum familiae paraverit idque casu quodam interierit, forte incendio ruina. Sed ita scilicet hoc dici potest, si ipsa ruina vel incendium sive vitio eius acciderit: nam cum propter ipsam ruinam aut incendium damnandus sit, absurdum est eum istarum rerum nomine, quae ita consumptae sunt, quicquam consequi.
+
+3.5.22
+
+Paulus libro 20 ad edictum
+
+Si quis negotia aliena gerens indebitum exegerit, restituere cogitur: de eo autem, quod indebitum solvit, magis est ut sibi imputare debeat.
+
+3.5.23
+
+Paulus libro 24 ad edictum
+
+Si ego hac mente pecuniam procuratori dem, ut ea ipsa creditoris fieret, proprietas quidem per procuratorem non adquiritur, potest tamen creditor etiam invito me ratum habendo pecuniam suam facere, quia procurator in accipiendo creditoris dumtaxat negotium gessit: et ideo creditoris ratihabitione liberor.
+
+3.5.24
+
+Paulus libro 27 ad edictum
+
+Si quis negotia aliena gerens plus quam oportet impenderit, reciperaturum eum id, quod praestari debuerit.
+
+3.5.25
+
+Modestinus libro primo  responsorum
+
+Cum alicui civitati per fideicommissum restitui iussa esset hereditas, magistratus actores horum bonorum Titium et Seium et Gaium idoneos creaverunt: postmodum hi actores inter se diviserunt administrationem bonorum idque egerunt sine auctoritate et sine consensu magistratuum. Post aliquod tempus testamentum, per quod restitui civitati hereditas fideicommissa esset, irritum probatum est pro tribunali atque ita ab intestato Sempronius legitimus heres defuncti extitit: sed ex his actoribus unus non solvendo decessit et nemo heres eius extitit. Quaero, si Sempronius conveniet actores horum bonorum, periculum inopis defuncti ad quos pertinet? Herennius Modestinus respondit, quod ab uno ex actoribus ob ea quae solus gessit negotiorum gestorum actione servari non potest, ad damnum eius cui legitima hereditas quaesita est pertinere.
+
+3.5.26
+
+Modestinus libro secundo responsorum
+
+pr. Ex duobus fratribus uno quidem suae aetatis, alio vero minore annis, cum haberent communia praedia rustica, maior frater in saltu communi habenti habitationes paternas ampla aedificia aedificaverat: cumque eundem saltum cum fratre divideret, sumptus sibi quasi re meliore ab eo facta desiderabat fratre minore iam legitimae aetatis constituto. Herennius Modestinus respondit ob sumptus nulla re urguente, sed voluptatis causa factos eum de quo quaeritur actionem non habere.
+
+1. Titium, si pietatis respectu sororis aluit filiam, actionem hoc nomine contra eam non habere respondi.
+
+3.5.27
+
+Iavolenus libro octavo ex Cassio
+
+Si quis mandatu Titii negotia Seii gessit, Titio mandati tenetur lisque aestimari debet, quanto Seii et Titii interest: Titii autem interest, quantum is Seio praestare debet, cui vel mandati vel negotiorum gestorum nomine obligatus est. Titio autem actio competit cum eo, cui mandavit aliena negotia gerenda, et antequam ipse quicquam domino praestet, quia id ei abesse videtur in quo obligatus est.
+
+3.5.28
+
+Callistratus libro tertio edicti monitorii
+
+Cum pater testamento postumo tutorem dederit isque tutelam interim administraverit nec postumus natus fuerit, cum eo non tutelae, sed negotiorum gestorum erit agendum: quod si natus fuerit postumus, tutelae erit actio et in eam utrumque tempus veniet, et quo, antequam nasceretur infans, gessit et quo, posteaquam natus sit.
+
+3.5.29
+
+Iulianus libro tertio digestorum
+
+Ex facto quaerebatur: quendam ad siliginem emendam curatorem decreto ordinis constitutum: eidem alium subcuratorem constitutum siliginem miscendo corrupisse atque ita pretium siliginis, quae in publicum empta erat, curatori adflictum esse: quaque actione curator cum subcuratore experiri possit et consequi id, ut ei salvum esset, quod causa eius damnum cepisset. Valerius Severus respondit adversus contutorem negotiorum gestorum actionem tutori dandam: idem respondit, ut magistratui adversus magistratum eadem actio detur, ita tamen, si non sit conscius fraudis, secundum quae etiam in subcuratore idem dicendum est.
+
+3.5.30
+
+Papinianus libro secundo responsorum
+
+pr. Liberto vel amico mandavit pecuniam accipere mutuam: cuius litteras creditor secutus contraxit et fideiussor intervenit: etiamsi pecunia non sit in rem eius versa, tamen dabitur in eum negotiorum gestorum actio creditori vel fideiussori, scilicet ad exemplum institoriae actionis.
+
+1. Inter negotia Sempronii, quae gerebat, ignorans Titii negotium gessit: ob eam quoque speciem Sempronio tenebitur, sed ei cautionem indemnitatis officio iudicis praeberi necesse est adversus Titium, cui datur actio. Idem in tutore iuris est.
+
+2. Litem in iudicium deductam et a reo desertam frustratoris amicus ultro egit, causas absentiae eius allegans iudici: culpam contraxisse non videbitur, quod sententia contra absentem dicta ipse non provocavit. Ulpianus notat: hoc verum est, quia frustrator condemnatus est: ceterum si amicus, cum absentem defenderet condemnatus, negotiorum gestorum aget, poterit ei imputari, si cum posset non appellasset.
+
+3. Qui aliena negotia gerit, usuras praestare cogitur eius scilicet pecuniae, quae purgatis necessariis sumptibus superest.
+
+4. Libertos certam pecuniam accipere testator ad sumptum monumenti voluit: si quid amplius fuerit erogatum, iudicio negotiorum gestorum ab herede non recte petetur nec iure fideicommissi, cum voluntas finem erogationis fecerit.
+
+5. Tutoris heres impubes filius ob ea, quae tutor eius in rebus pupillae paternae gessit, non tenetur, sed tutor proprio nomine iudicio negotiorum gestorum convenietur.
+
+6. Quamquam mater filii negotia secundum patris voluntatem pietatis fiducia gerat, tamen ius actoris periculo suo litium causa constituendi non habebit, quia nec ipsa filii nomine recte agit aut res bonorum eius alienat vel debitorem impuberis accipiendo pecuniam liberat.
+
+7. Uno defendente causam communis aquae sententia praedio datur: sed qui sumptus necessarios ac probabiles in communi lite fecit, negotiorum gestorum actionem habet.
+
+3.5.31
+
+Papinianus libro tertio responsorum
+
+pr. Fideiussor imperitia lapsus alterius quoque contractus, qui personam eius non contingebat, pignora vel hypothecas suscepit et utramque pecuniam creditori solvit, existimans indemnitati suae confusis praediis consuli posse. Ob eas res iudicio mandati frustra convenietur et ipse debitorem frustra conveniet, negotiorum autem gestorum actio utrique necessaria erit: in qua lite culpam aestimari satis est, non etiam casum, quia praedo fideiussor non videtur. Creditor ob id factum ad restituendum iudicio, quod de pignore dato redditur, cum videatur ius suum vendidisse, non tenebitur.
+
+1. Ignorante virgine mater a sponso filiae res donatas suscepit: quia mandati vel depositi cessat actio, negotiorum gestorum agitur.
+
+3.5.32
+
+Papinianus libro decimo responsorum
+
+Heres viri defuncti uxorem, quae res viri tempore nuptiarum in sua potestate habuit, compilatae hereditatis postulare non debet. Prudentius itaque faciet, si ad exhibendum et negotiorum gestorum, si negotia quoque viri gessit, cum ea fuerit expertus.
+
+3.5.33
+
+Paulus libro primo  quaestionum
+
+Nesennius Apollinaris Iulio Paulo salutem. Avia nepotis sui negotia gessit: defunctis utrisque aviae heredes conveniebantur a nepotis heredibus negotiorum gestorum actione: reputabant heredes aviae alimenta praestita nepoti. Respondebatur aviam iure pietatis de suo praestitisse: nec enim aut desiderasse, ut decernerentur alimenta, aut decreta essententiarum praeterea constitutum esse dicebatur, ut si mater aluisset, non posset alimenta, quae pietate cogente de suo praestitisset, repetere. Ex contrario dicebatur tunc hoc recte dici, ut de suo aluisse mater probaretur: at in proposito aviam, quae negotia administrabat, verisimile esse de re ipsius nepotis eum aluisse. Tractatum est, numquid utroque patrimonio erogata videantur. Quaero quid tibi iustius videatur. Respondi: haec disceptatio in factum constitit: nam et illud, quod in matre constitutum est, non puto ita perpetuo observandum. Quid enim si etiam protestata est se filium ideo alere, ut aut ipsum aut tutores eius conveniret? Pone peregre patrem eius obisse et matrem, dum in patriam revertitur, tam filium quam familiam eius exhibuisse: in qua specie etiam in ipsum pupillum negotiorum gestorum dandam actionem divus Pius Antoninus constituit. Igitur in re facti facilius putabo aviam vel heredes eius audiendos, si reputare velint alimenta, maxime si etiam in ratione impensarum ea rettulisse aviam apparebit. Illud nequaquam admittendum puto, ut de utroque patrimonio erogata videantur.
+
+3.5.34
+
+Scaevola libro primo  quaestionum
+
+pr. Divortio facto negotia uxoris gessit maritus: dos non solum dotis actione, verum negotiorum gestorum servari potest. Haec ita, si in negotiis gestis maritus dum gerit facere potuit: alias enim imputari non potest, quod a se non exegerit. Sed et posteaquam patrimonium amiserit, plena erit negotiorum gestorum actio, quamvis si dotis actione maritus conveniatur, absolvendus est. Sed hic quidam modus servandus est, ut ita querellae locus sit "quantum facere potuit, quamvis postea amiserit", si illo tempore ei solvere potuit: non enim e vestigio in officio deliquit, si non protinus res suas distraxit ad pecuniam redigendam: praeterire denique aliquid temporis debebit, quo cessasse videatur. Quod si interea priusquam officium impleat, res amissa est, perinde negotiorum gestorum non tenetur, ac si numquam facere possit. Sed et si facere possit maritus, actio negotiorum gestorum inducitur, quia forte periculum est, ne facere desinat.
+
+1. Illum autem non credimus teneri, qui gerit negotia debitoris, ad reddendum pignus, cum pecunia ei debeatur nec fuerit quod sibi possit exsolvere.
+
+2. Sed nec redhibitoriae speciem venire in negotiorum gestorum actionem et per hoc sex mensibus exactis perire, si vel mancipium in rebus non invenit: vel eo invento quod accessionum nomine additum est, vel quod deterior homo factus esset, vel quod per eum esset adquisitum non ex re emptoris, nec invenit nec recepisset: nec esset in ipsis emptoris negotiis quae gerebat, unde sibi in praesenti redderet.
+
+3. Ceterum si ex alia causa perpetuae obligationis, cum sit locuples, debeat, non est imputandum, quod non solverit, utique si neque usurarum ratio querellam movet. Diversumque est in tutore debitore, quia ibi interfuit ex priore obligatione solvi, ut deberetur ex tutelae actione.
+
+3.5.35
+
+Paulus libro quarto quaestionum
+
+Si liber homo bona fide mihi serviens mutuam pecuniam sumpserit eamque in rem meam verterit, qua actione id, quod in rem nostram vertit, reddere debeam, videndum est: non enim quasi amici, sed quasi domini negotium gessit. Sed negotiorum gestorum actio danda est: quae desinit competere, si creditori eius soluta sit.
+
+3.5.36
+
+Paulus libro primo sententiarum
+
+pr. Litis contestatae tempore quaeri solet, an pupillus, cuius sine tutoris auctoritate negotia gesta sunt, locupletior sit ex ea re factus, cuius patitur actionem.
+
+1. Si pecuniae quis negotium gerat, usuras quoque praestare cogitur et periculum eorum nominum, quae ipse contraxit: nisi fortuitis casibus debitores ita suas fortunas amiserunt, ut tempore litis ex ea actione contestatae solvendo non essententiarum
+
+2. Pater si emancipati filii res a se donatas administravit, filio actione negotiorum gestorum tenebitur.
+
+3.5.37
+
+Tryphoninus libro secundo disputationum
+
+Qui sine usuris pecuniam debebat, creditoris sui gessit negotia: quaesitum est, an negotiorum gestorum actione summae illius usuras praestare debeat. Dixi, si a semet ipso exigere eum oportuit, debiturum usuras: quod si dies solvendae pecuniae tempore quo negotia gerebat nondum venerat, usuras non debiturum: sed die praeterito si non intulit rationibus creditoris cuius negotia gerebat eam pecuniam a se debitam, merito usuras bonae fidei iudicio praestaturum. Sed quas usuras debebit, videamus: utrum eas, quibus aliis idem creditor faenerasset, an et maximas usuras: quoniam ubi quis eius pecuniam, cuius tutelam negotiave administrat, aut magistratus municipii publicam in usus suos convertit, maximas usuras praestat, ut est constitutum a divis principibus. Sed istius diversa causa est, qui non sibi sumpsit ex administratione nummos, sed ab amico accepit et ante negotiorum administrationem. Nam illi, de quibus constitutum est, cum gratuitam certe integram et abstinentem omni lucro praestare fidem deberent, licentia, qua videntur abuti, maximis usuris vice cuiusdam poenae subiciuntur: hic bona ratione accepit ab alio mutuum et usuris, quia non solvit, non quia ex negotiis quae gerebat ad se pecuniam transtulit, condemnandus est. Multum autem refert, incipiat nunc debitum an ante nomen fuerit debitoris, quod satis est ex non usurario facere usurarium.
+
+3.5.38
+
+Gaius libro tertio de verborum obligationibus
+
+Solvendo quisque pro alio licet invito et ignorante liberat eum: quod autem alicui debetur, alius sine voluntate eius non potest iure exigere. Naturalis enim simul et civilis ratio suasit alienam condicionem meliorem quidem etiam ignorantis et inviti nos facere posse, deteriorem non posse.
+
+3.5.39
+
+Paulus libro decimo ad Sabinum
+
+Si communes aedes tecum habeam et pro tua parte damni infecti vicino cavero, dicendum est quod praestitero negotiorum gestorum actione potius quam communi dividundo iudicio posse me petere, quia potui partem meam ita defendere, ut socii partem defendere non cogerer.
+
+3.5.40
+
+Paulus libro 30 ad edictum
+
+Qui servum meum me ignorante vel absente in noxali causa defenderit, negotiorum gestorum in solidum mecum, non de peculio aget.
+
+3.5.41
+
+Paulus libro 32 ad edictum
+
+Si servi mei rogatu negotia mea susceperis, si dumtaxat admonitus a servo meo id feceris, erit inter nos negotiorum gestorum actio: si vero quasi mandatu servi, etiam de peculio et de in rem verso agere te posse responsum est.
+
+3.5.42
+
+Labeo libro sexto posteriorum a Iavoleno epitomatorum
+
+Cum pecuniam eius nomine solveres, qui tibi nihil mandaverat, negotiorum gestorum actio tibi competit, cum ea solutione debitor a creditore liberatus sit: nisi si quid debitoris interfuit eam pecuniam non solvi.
+
+3.5.43
+
+Ulpianus libro sexto disputationum
+
+Is, qui amicitia ductus paterna pupillis tutorem petierit vel suspectos tutores postulavit, nullam adversus eos habet actionem secundum divi Severi constitutionem.
+
+3.5.44
+
+Ulpianus libro quarto opinionum
+
+pr. Quae utiliter in negotia alicuius erogantur, in quibus est etiam sumptus honeste ad honores per gradus pertinentes factus, actione negotiorum gestorum peti possunt.
+
+1. Qui pure testamento libertatem acceperunt, actus, quem viventibus dominis administraverunt, rationem reddere non compelluntur.
+
+2. Titius pecuniam creditoribus hereditariis solvit existimans sororem suam defuncto heredem testamento extitisse. Quamvis animo gerendi sororis negotia id fecisset, veritate tamen filiorum defuncti, qui sui heredes patri sublato testamento erant, gessisset: quia aequum est in damno eum non versari, actione negotiorum gestorum id eum petere placuit.
+
+3.5.45
+
+Africanus libro septimo quaestionum
+
+pr. Mandasti filio meo, ut tibi fundum emeret: quod cum cognovissem, ipse eum tibi emi. Puto referre, qua mente emerim: nam si propter ea, quae tibi necessaria esse scirem, et te eius voluntatis esse, ut emptum habere velles, agemus inter nos negotiorum gestorum, sicut ageremus, si aut nullum omnino mandatum intercessisset, aut Titio mandasses et ego, quia per me commodius negotium possim conficere, emissem. Si vero propterea emerim, ne filius mandati iudicio teneatur, magis est, ut ex persona eius et ego tecum mandati agere possim et tu mecum actionem habeas de peculio, quia et si Titius id mandatum suscepisset et, ne eo nomine teneretur, ego emissem, agerem cum Titio negotiorum gestorum, et ille tecum et tu cum illo mandati. Idem est, et si filio meo mandaveris, ut pro te fideiuberet, et ego pro te fideiusserim.
+
+1. Si proponatur te Titio mandasse, ut pro te fideiuberet, meque, quod is aliqua de causa impediretur quo minus fideiuberet, liberandae fidei eius causa fideiussisse, negotiorum gestorum mihi competit actio.
+
+3.5.46
+
+Paulus libro primo sententiarum
+
+pr. Actio negotiorum gestorum illi datur, cuius interest hoc iudicio experiri.
+
+1. Nec refert directa quis an utili actione agat vel conveniatur, quia in extraordinariis iudiciis, ubi conceptio formularum non observatur, haec suptilitas supervacua est, maxime cum utraque actio eiusdem potestatis est eundemque habet effectum.
+
+3.5.47
+
+Papinianus libro tertio quaestionum
+
+Ignorante quoque sorore si frater negotium eius gerens dotem a viro stipulatus sit, iudicio negotiorum gestorum ut virum liberaret iure convenitur.
+
+3.5.48
+
+Africanus libro octavo quaestionum
+
+Si rem, quam servus venditus subripuisset a me venditore, emptor vendiderit eaque in rerum natura esse desierit, de pretio negotiorum gestorum actio mihi danda sit, ut dari deberet, si negotium, quod tuum esse existimares, cum esset meum, gessisses: sicut ex contrario in me tibi daretur, si, cum hereditatem quae ad me pertinet tuam putares, res tuas proprias legatas solvisses, quandoque de ea solutione liberarer.
+
+
+3.6.0. De calumniatoribus.
+
+
+3.6.1
+
+Ulpianus libro decimo ad edictum
+
+pr. In eum qui, ut calumniae causa negotium faceret vel non faceret, pecuniam accepisse dicetur, intra annum in quadruplum eius pecuniae, quam accepisse dicetur, post annum simpli in factum actio competit.
+
+1. Hoc autem iudicium non solum in pecuniariis causis, sed et ad publica crimina pertinere Pomponius scribit, maxime cum et lege repetundarum teneatur, qui ob negotium faciendum aut non faciendum per calumniam pecuniam accepit.
+
+2. Qui autem accepit pecuniam sive ante iudicium sive post iudicium acceptum, tenetur.
+
+3. Sed et constitutio imperatoris nostri, quae scripta est ad Cassium Sabinum, prohibuit iudici vel adversario in publicis vel privatis vel fiscalibus causis pecuniam dare, et ex hac causa litem perire iussit. Nam tractari potest, si adversarius non per calumniam transigendi animo accepit, an constitutio cessat? Et puto cessare sicuti hoc quoque iudicium: neque enim transactionibus est interdictum, sed sordidis concussionibus.
+
+4. Pecuniam autem accepisse dicemus etiam si aliquid pro pecunia accepimus.
+
+3.6.2
+
+Paulus libro decimo ad edictum
+
+Quin etiam si quis obligatione liberatus sit, potest videri cepisse: idemque si gratuita pecunia utenda data sit, aut minoris locata venditave res sit. Nec refert, ipse pecuniam acceperit an alii dari iusserit vel acceptum suo nomine ratum habuerit.
+
+3.6.3
+
+Ulpianus libro decimo ad edictum
+
+pr. Et generaliter idem erit, si quid omnino compendii sensit propter hoc, sive ab adversario sive ab alio quocumque.
+
+1. Si igitur accepit ut negotium faceret, sive fecit sive non fecit, et qui accepit ne faceret etsi fecit, tenetur.
+
+2. Hoc edicto tenetur etiam is qui depectus est: depectus autem dicitur turpiter pactus.
+
+3. Illud erit notandum, quod qui dedit pecuniam, ut negotium quis pateretur, non habebit ipse repetitionem: turpiter enim fecit: sed ei dabitur petitio, propter quem datum est ut calumnia ei fiat. Quare si quis et a te pecuniam accepit, ut mihi negotium faceret, et a me, ne mihi faceret, duobus iudiciis mihi tenebitur.
+
+3.6.4
+
+Gaius libro quarto ad edictum provinciale
+
+Haec actio heredi quidem non competit, quia sufficere ei debet, quod eam pecuniam quam defunctus dedit repetere potest.
+
+3.6.5
+
+Ulpianus libro decimo ad edictum
+
+pr. In heredem autem competit in id quod ad eum pervenit. Nam est constitutum turpia lucra heredibus quoque extorqueri, licet crimina extinguantur: ut puta ob falsum vel iudici ob gratiosam sententiam datum et heredi extorquebitur et si quid aliud scelere quaesitum.
+
+1. Sed etiam praeter hanc actionem condictio competit, si sola turpitudo accipientis versetur: nam si et dantis, melior causa erit possidentis. Quare si fuerit condictum, utrum tollitur haec actio, an vero in triplum danda sit? An exemplo furis et in quadruplum actionem damus et condictionem? Sed puto sufficere alterutram actionem. Ubi autem condictio competit, ibi non est necesse post annum dare in factum actionem.
+
+3.6.6
+
+Gaius libro quarto ad edictum provinciale
+
+Annus autem in personam quidem eius, qui dedit pecuniam ne secum ageretur, ex eo tempore cedit, ex quo dedit, si modo potestas ei fieret experiundi. In illius vero personam, cum quo ut agatur alius pecuniam dedit, dubitari potest, utrum ex die datae pecuniae numerari debeat, an potius ex quo cognovit datam esse: quia qui nescit, is videtur experiundi potestatem non habere. et verius est ex eo annum numerari, ex quo cognovit.
+
+3.6.7
+
+Paulus libro decimo ad edictum
+
+pr. Si quis ab alio acceperit pecuniam ne mihi negotium faciat, si quidem mandatu meo datum est, vel a procuratore meo omnium rerum, vel ab eo qui negotium meum gerere volebat et ratum habui: ego dedisse intellegor. Si autem non mandatu meo alius licet misericordiae causa dederit ne fiat neque ratum habui, tunc et ipsum repetere et me in quadruplum agere posse.
+
+1. Si ut filio familias negotium fieret acceptum est, etiam "et" patri actio danda est. item si filius familias pecuniam acceperit, ut faceret negotium vel non faceret, in ipsum iudicium dabitur: et si alius non meo mandatu ei dederit ne fiat, tunc etiam ipsum repetere et me in quadruplum agere posse.
+
+2. Cum publicanus mancipia retineret dataque ei pecunia esset quae non deberetur, et ipse ex hac parte edicti in factum actione tenetur.
+
+3.6.8
+
+Ulpianus libro quarto opinionum
+
+Si ab eo, qui innocens fuit, sub specie criminis alicuius, quod in eo probatum non est, pecuniam acceptam is cuius de ea re notio est edoctus fuerit: id quod illicite extortum est secundum edicti formam, quod de his est, qui pecuniam ut negotium facerent aut non facerent accepisse dicerentur, restitui iubeat et ei, qui id commisit, pro modo delicti poenam irroget.
+
+3.6.9
+
+Papinianus libro secundo de adulteriis
+
+De servo qui accusatur, si postuletur, quaestio habetur: quo absoluto in duplum pretium accusator domino damnatur: sed et citra pretii aestimationem quaeritur de calumnia eius. Separatum est etenim calumniae crimen a damno quod in servo propter quaestionem domino datum est.

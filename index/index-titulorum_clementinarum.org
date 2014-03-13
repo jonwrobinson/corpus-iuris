@@ -1,0 +1,64 @@
+#+content: showall
+
+* Bulla «Quoniam nulla iuris sanctio»
+* Liber I
+01. --- De summa trinitate et fide catholica.
+02. --- De rescriptis.
+03. --- De postulatione praelatorum.
+04. --- De renunciatione.
+05. --- De supplenda negligentia praelatorum.
+06. --- De aetate et qualitate et ordine praeficiendorum.
+07. --- De officio vicarii.
+08. --- De officio et potestate iudicis delegati.
+09. --- De officio iudicis ordinarii.
+10. --- De procuratoribus.
+11. --- De in integrum restitutione.
+
+* Liber II
+01. --- De iudiciis.
+02. --- De foro competenti.
+03. --- De causa possessionis et proprietatis.
+04. --- De dolo et contumacia.
+05. --- Ut lite pendente nihil innovetur.
+06. --- De sequestratione possessionum et fructuum.
+07. --- De probationibus.
+08. --- De testibus.
+09. --- De iureiurando.
+10. --- De exceptionibus.
+11. --- De sententia et re iudicata.
+12. --- De appellationibus.
+
+* Liber III
+01. --- De vita et honestate clericorum.
+02. --- De praebendis et dignitatibus.
+03. --- De concessione praebendae et ecclesiae non vacantis.
+04. --- De rebus ecclesiae non alienandis.
+05. --- De rerum permutatione.
+06. --- De testamentis et ultimis voluntatibus.
+07. --- De sepulturis.
+08. --- De decimis, primitiis et oblationibus.
+09. --- De regularibus et transeuntibus ad religionem.
+10. --- De statu monachorum vel canonicorum regularium.
+11. --- De religiosis domibus, ut episcopo sint subiectae.
+12. --- De iure patronatus.
+13. --- De censibus, exactionibus et procurationibus.
+14. --- De celebratione missarum, et sacramento eucharistiae et divinis officiis.
+15. --- De baptismo et eius effectu.
+16. --- De reliquiis et veneratione sanctorum.
+17. --- De immunitate ecclesiarum, coemiterii, et rerum, ad eas pertinentium.
+
+* Liber IV
+01. --- De consanguinitate et affinitate.
+
+* Liber V
+01. --- De magistris, et ne aliquid exigatur pro licentia docendi.
+02. --- De iudaeis et sarracenis.
+03. --- De haereticis.
+04. --- De homicidio voluntario vel casuali.
+05. --- De usuris.
+06. --- De excessibus praelatorum et subditorum.
+07. --- De privilegiis et excessibus privilegiatorum.
+08. --- De poenis.
+09. --- De poenitentiis et remissionibus.
+10. --- De sententia excommunicationis, suspensionis et interdicti.
+11. --- De verborum significatione.

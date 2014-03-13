@@ -1,0 +1,1852 @@
+# -*- mode: org -*-
+
+DOMINI NOSTRI SACRATISSIMI PRINCIPIS
+IUSTINIANI
+IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
+DIGESTORUM SEU PANDECTARUM
+liber quadragensimus nonus
+
+( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
+
+* TITLES
+** 49.1.0. De appellationibus et relegationibus.
+** 49.2.0. A quibus appellari non licet.
+** 49.3.0. Quis a quo appelletur.
+** 49.4.0. Quando appellandum sit et intra quae tempora.
+** 49.5.0. De appellationibus recipiendis vel non.
+** 49.6.0. De libellis dimissoriis, qui apostoli dicuntur.
+** 49.7.0. Nihil innovari appellatione interposita.
+** 49.8.0. Quae sententiae sine appellatione rescindantur.
+** 49.9.0. An per alium causae appellationum reddi possunt.
+** 49.10.0. Si tutor vel curator magistratusve creatus appellaverit.
+** 49.11.0. Eum qui appellaverit in provincia defendi.
+** 49.12.0. Apud eum, a quo appellatur, aliam causam agere compellendum.
+** 49.13.0. Si pendente appellatione mors intervenerit.
+** 49.14.0. De iure fisci.
+** 49.15.0. De captivis et de postliminio et redemptis ab hostibus.
+** 49.16.0. De re militari.
+** 49.17.0. De castrensi peculio.
+** 49.18.0. De veteranis.
+
+
+* 49.1.0. De appellationibus et relegationibus.
+
+
+49.1.1
+
+Ulpianus libro primo de appellationibus
+
+pr. Appellandi usus quam sit frequens quamque necessarius, nemo est qui nesciat, quippe cum iniquitatem iudicantium vel imperitiam recorrigat: licet nonnumquam bene latas sententias in peius reformet, neque enim utique melius pronuntiat qui novissimus sententiam laturus est.
+
+1. Quaesitum est, an adversus rescriptum principis provocari possit, forte si praeses provinciae vel quis alius consulerit et ad consultationem eius fuerit rescriptum: est enim quaesitum, an appellandi ius supersit. Quid enim, si in consulendo mentitus est? De qua re extat rescriptum divi Pii pros to koinon twn vrakwn, quo ostenditur provocari oportere. Verba rescripti ita se habent: "Ean episteily tis hymin ha dia kai antigrafwmen hymeis hotioun, huparcei tois boulomenois epikaleisvai pros tyn apofasin. Ei gar didacaien y qeudws y oux' ohutws exein ta epestalmena, ouden huf' hymwn einai docy prodiegnwsmenon, twn hws heterws exousin tois grafeisin antepestalkotwn" [id est: Si quis nobis quaedam scripserit et ad ea nos qualecumque responsum dederimus, licebit iis quis volent a responso appellare. Nam si docebunt vel falsa esse vel certe aliter se habere ea quae scripta sunt, nihil a nobis praeiudicatum esse videbitur, qui responderimus scriptis alia peoponentibus.].
+
+2. Huic consequenter videtur rescriptum a consultatione iudicis non esse appellandum, si quis forte interlocutus fuit principem se consultaturum, cum possit post rescriptum provocare.
+
+3. Si quis in appellatione erraverit, ut puta cum alium appellare deberet, alium appellaverit, videndum, an error ei nihil offuit. Et si quidem, cum maiorem iudicem appellare deberet, ita erravit, ut minorem appellet, error ei nocebit: si vero maiorem iudicem provocavit, error ei nihil oberit. Et ita multis constitutionibus continetur. Denique cum quidam iudicem ex rescripto principis a consulibus accepisset et praefectum urbi appellasset, errori eius subventum est rescripto divorum fratrum, cuius verba haec sunt: " Cum per errorem factum dicas, uti a iudice, quem ex rescripto nostro ab amplissimis consulibus acceperas, ad iunium rusticum amicum nostrum praefectum urbi provocares, consules amplissimi perinde cognoscant, atque si ad ipsos facta esset provocatio". Si quis ergo vel parem vel maiorem iudicem appellaverit, alium tamen pro alio, in ea causa est, ut error ei non noceat: sed si minorem, nocebit.
+
+4. Libelli qui dantur appellatorii ita sunt concipiendi, ut habeant scriptum et a quo dati sint, hoc est qui appellet, et adversus quem et a qua sententia.
+
+49.1.2
+
+Macer libro primo de appellationibus
+
+Sed si apud acta quis appellaverit, satis erit, si dicat "appello".
+
+49.1.3
+
+Ulpianus libro primo de appellationibus
+
+pr. Scio quaesitum, si quis non addiderit in libellis, contra quem adversarium appellet, an praescriptioni subiciatur: et puto nihil oportere praescribi.
+
+1. Sed illud cecidit in quaestionem, si plures habuerit adversarios et quorundam nomina libellis sint complexa, quorundam non, an aeque praescribi ei possit ab his, quorum nomina comprehensa non sunt, quasi adversus ipsos adquieverit sententiae. Et cum una causa sit, arbitror non esse praescribendum.
+
+2. Certe si plures hi sunt, adversus quos pronuntiatur, et quorundam nomina in libellis sint comprehensa, quorundam non, hi soli appellasse videbuntur, quorum nomina libellis sunt comprehensa.
+
+3. Quid ergo, si causam appellandi certam dixerit, an liceat ei discedere ab hac et aliam causam allegare? An vero quasi forma quadam obstrictus sit? Puto tamen, cum semel provocaverit, esse ei facultatem in agendo etiam aliam causam provocationis reddere persequique provocationem suam quibuscumque modis potuerit.
+
+49.1.4
+
+Macer libro primo de appellationibus
+
+pr. Ab exsecutore sententiae appellare non licet.
+
+1. Sed ab eo, qui sententiam male interpretari dicitur, appellare licet, si tamen is interpretandi potestatem habuit, velut praeses provinciae aut procurator caesaris: ita tamen, ut in causis appellationis reddendis hoc solum quaeratur, an iure interpretatum sit: idque etiam divus Antoninus rescripsit.
+
+2. Alio condemnato is cuius interest appellare potest. Qualis est, qui per procuratorem expertus victus est nec procurator suo nomine appellet.
+
+3. Item si emptor de proprietate victus est, eo cessante auctor eius appellare poterit: aut si auctor egerit et victus sit, non est deneganda emptori appellandi facultas. Quid enim, si venditor, qui appellare noluit, idoneus non est? Quin etiam si auctor appellaverit, deinde in causae defensione suspectus visus sit, perinde defensio causae emptori committenda est, atque si ipse appellasset.
+
+4. Idque ita constitutum est in persona creditoris, cum debitor victus appellasset nec ex fide causam defenderet. Quae constitutio ita accipienda est, si interveniente creditore debitor de pignore victus provocaverit: nam absenti creditori nullum praeiudicium debitor facit, idque statutum est.
+
+5. Si procurator, qui iudicio interfuit, victus sit, an ipse quoque per procuratorem appellare possit, videamus, quia constat procuratorem alium procuratorem facere non posse. Sed meminisse oportet, quod procurator lite contestata dominus litis efficitur: et ideo et per procuratorem appellare potest.
+
+49.1.5
+
+Marcianus libro primo de appellationibus
+
+pr. A sententia inter alios dicta appellari non potest nisi ex iusta causa, veluti si quis in coheredum praeiudicium se condemnari patitur vel similem huic causam (quamvis et sine appellatione tutus est coheres): item fideiussores pro eo pro quo intervenerunt. Igitur et venditoris fideiussor emptore victo appellabit, licet emptor et venditor adquiescant.
+
+1. Si heres institutus victus fuerit ab eo, qui de inofficioso testamento agebat, legatariis et qui libertatem acceperunt permittendum est appellare, si querantur per collusionem pronuntiatum: sicut divus Pius rescripsit.
+
+2. Idem rescripsit legatarios causam appellationis agere posse.
+
+3. Sed et si in fraudem suam transactionem factam ab eo qui appellasset dicerent, idem dicendum est. Sed et sine appellatione si fuerit transactum, similiter rescriptum est.
+
+4. Si quis ipso die inter acta voce appellavit, hoc ei sufficit: sin autem hoc non fecerit, ad libellos appellatorios dandos biduum vel triduum computandum est.
+
+49.1.6
+
+Ulpianus libro secundo de appellationibus
+
+Non tantum ei, qui ad supplicium ducitur, provocare permittitur, verum alii quoque nomine eius, non tantum si ille mandaverit, verum quisquis alius provocare voluerit. Neque distinguitur, utrum necessarius eius sit nec ne: credo enim humanitatis ratione omnem provocantem audiri debere. Ergo et si ipse adquiescit sententiae: nec quaerimus, cuius intersit. Quid ergo, si resistat qui damnatus est adversus provocationem, nec velit admitti eius appellationem perire festinans? Adhuc putem differendum supplicium.
+
+49.1.7
+
+Marcianus libro primo de appellationibus
+
+Cum quidam propter violentiam iudicis non ipsi a quo appellavit dedit libellos, sed publice proposuisset, divus Severus veniam ei dedit et permisit ei causas appellationis agere.
+
+49.1.8
+
+Ulpianus libro quatro de appellationibus
+
+Illud sciendum est eum qui provocavit non debere conviciari ei a quo appellat: ceterum oportebit eum plecti. Et ita divi fratres rescripserunt.
+
+49.1.9
+
+Macer libro secundo de appellationibus
+
+Illud sciendum est neque pupillum neque rem publicam, cum pro libertate iudicatur, in integrum restitui posse, sed appellationem esse necessariam. Idque ita rescriptum est.
+
+49.1.10
+
+Ulpianus libro octavo disputationum
+
+pr. Si qui separatim fuerint condemnati, quamvis ex eadem causa, pluribus eis appellationibus opus est.
+
+1. Si quis, cum una actione ageretur, quae plures species in se habeat, pluribus summis sit condemnatus, quarum singulae notionem principis non faciunt, omnes autem coniunctae faciunt: poterit ad principem appellare.
+
+2. Sed cum adversus plures probatae essent rationes quae eis nocerent, sufficit eis una appellatio, quia uno titulo comprobatarum rationum omnes conveniebantur.
+
+3. Quotiens autem plures in unam summam condemnantur, utrum una sententia est et quasi plures in unam summam rei sint promittendi, ut unusquisque eorum in solidum teneatur, an vero scinditur in personas sententia, quaeritur. Et Papinianus respondit scindi sententiam in personas atque ideo eos qui condemnati sunt viriles partes debere.
+
+4. Quod est rescriptum in communi causa, quotiens alter appellat, alter non, alterius victoriam ei proficere qui non provocavit, hoc ita demum probandum est, si una eademque causa fuit defensionis: ceterum si diversae, alia causa est. Ut in duobus tutoribus procedit, si alter tutelam gesserat, alter non attigerat et is qui non gesserat provocavit: iniquum est enim, qui idcirco adgnoverat sententiam, quoniam gessisse se scit, propter appellationem eius qui non gesserat optinere.
+
+49.1.11
+
+Ulpianus libro tertio de omnibus tribunalibus
+
+Cum ex causa iudicati soluta esset pecunia ex necessitate iudicis ab eo, qui appellatione interposita meruerit meliorem sententiam, recipere eum pecuniam quam solvit oportet.
+
+49.1.12
+
+Ulpianus libro secundo opinionum
+
+Si constet nullo actu ex lege habito duumvirum creatum, sed tantum vocibus popularium postulatum eisque tunc proconsulem, quod facere non debuit, consensisse: appellatio in re aperta supervacua fuit.
+
+49.1.13pr.
+
+Ulpianus libro secundo responsorum
+
+Appellanti nihil obesse, quod in libellis a qua parte sententiae appellaret non significavit.
+
+1. Non solere improbari appellationem eorum, qui vel unam causam appellandi probabilem habuerunt.
+
+49.1.14
+
+Ulpianus libro 14 ad edictum
+
+pr. Si perlusorio iudicio actum sit adversus testamentum, an ius faciat iudex, videndum. Et divus Pius, cum inter coniunctas personas diceretur per collusionem in necem legatariorum et libertatium actum, appellare eis permisit. Et hodie hoc iure utimur, ut possint appellare: sed et agere causam apud ipsum iudicem, qui de testamento cognoscit, si suspicantur non ex fide heredem causam agere.
+
+1. Quotiens herede non respondente secundum adversarium sententia datur, rescriptum est nihil nocere neque legatis neque libertatibus. Et hoc divorum fratrum epistula continetur ad domitium in haec verba: "Quod absente possessore nec quoquam nomine eius respondente pronuntiatum est, non habet rei iudicatae auctoritatem nisi adversus eum solum qui adesse neglexerit. Quare his, qui testamento libertates vel legata vel fideicommissa acceperunt, salvae sunt actiones, si quas habuerunt, perinde ac si nihil esset iudicatum: et ideo adversus eum qui vicit permittimus eis agere".
+
+49.1.15
+
+Marcellus libro primo digestorum
+
+Servi appellare non possunt: sed domini eorum ad opem servo ferendam possunt uti auxilio appellationis, et alius domini nomine id facere potest. Sin vero neque dominus neque alius pro domino appellaverit, ipsi [ipso] servo, qui sententiam tristem passus est, auxilium sibi implorare non denegamus.
+
+49.1.16
+
+Modestinus libro sexto differentiarum
+
+Constitutiones, quae de recipiendis nec non appellationibus loquuntur, ut nihil novi fiat, locum non habent in eorum persona, quos damnatos statim puniri publice interest: ut sunt insignes latrones vel seditionem concitatores vel duces factionum.
+
+49.1.17
+
+Modestinus libro octavo regularum
+
+pr. Cum in una causa separatim duplex sententia divisa datur, veluti una sortis, alia usurarum, duplex appellatio necessaria est, ne alteram adgnovisse, de altera provocasse intellegatur.
+
+1. Tutor pupillo datus si provocet, interim pupillo curator dabitur. Sed si tutoris auctoritas fuerit necessaria, veluti ad adeundam hereditatem, tutor ei necessario dabitur, quoniam curatoris auctoritas ad hoc inutilis est.
+
+49.1.18
+
+Modestinus libro 17 responsorum
+
+Lucius Titius pro servo suo, qui ad bestias datus est, provocationem interposuit: quaero, an huiusmodi appellationis causas per procuratorem reddere possit. Modestinus respondit posse.
+
+49.1.19
+
+Modestinus libro singulari de enucleatis casibus
+
+Si expressim sententia contra iuris rigorem data fuerit, valere non
+debet: et ideo et sine appellatione causa denuo induci potest. Non
+iure profertur sententia, si specialiter contra leges vel senatus
+consultum vel constitutionem fuerit prolata. Unde si quis ex hac
+sententia appellaverit et praescriptione summotus sit, minime
+confirmatur ex hac praescriptione sententia. Unde potest causa ab
+initio agitari.
+
+49.1.20
+
+Modestinus libro singulari de praescriptionibus
+
+pr. Qui suspectum tutorem facit et qui de non recipienda tutela excusationem agitat, alieno nomine agere intellegendus est.
+
+1. Is vero qui in rem suam procurator datus est, intra biduum appellare debet, quia suam causam agit.
+
+2. Militibus appellandi tempora non remittuntur, et victi si non provocaverint et sollemnia fecerint, postea non audiuntur.
+
+49.1.21
+
+Papirius libro primo de constitutionis
+
+pr. Imperatores antoninus et verus rescripserunt appellationes, quae recto ad principem factae sunt omissis his, ad quos debuerunt fieri ex imo ordine, ad praesides remitti.
+
+1. Idem rescripserunt ab iudice, quem a praeside provinciae quis acceperat, non recte imperatorem appellatum esse ideoque reverti eum ad praesidem debere.
+
+2. Si magistratus creatus appellaverit, collegam eius interim utriusque officium sustinere debere: si uterque appellaverit, alium interim in locum eorum creandum: et eum, qui non iuste appellaverit, damnum adgniturum, si quod res publica passa sit: si vero iusta sit appellatio et hoc pronuntietur, eos aestimaturos, cui hoc adscribendum sit. In locum autem curatoris, qui annonam administraturus est, alium interim adsumendum, quoad usque appellatio pendeat.
+
+3. Idem rescripserunt, quamvis usitatum non sit post appellationem fructus agri, de quo disceptatio sit, deponi, tamen, cum populi traherentur ab adversario, aequum sibi videri fructus apud sequestres deponi.
+
+49.1.22
+
+Papinianus libro secundo responsorum
+
+Ad principem remissa cognitio ab eo circumduci potest, qui remisit.
+
+49.1.23
+
+Papinianus libro 19 responsorum
+
+pr. Ex consensu litigantium citra compromissum a praeside provinciae iudice dato victus potest provocare.
+
+1. Cum procurator Caesaris, qui partibus praesidis non fungebatur, in lite privatorum ius dandi iudicis non habuisset, frustra provocatum ab ea sententia constitit, quae non tenebat.
+
+2. Filium familias, cum adversus patrem eius de bonis, quae per ipsum poterant adquiri, pronuntiatum esset, respondi non nisi patris nomine potuisse provocare.
+
+3. Eum, qui cognovit edictum peremptorium, secundum ordinis causam dati placuit non recte provocasse, cum in eius potestate fuerit ante diem praestitutum pro tribunali respondentem aut defensum edicti denuntiationem rumpere.
+
+49.1.24
+
+Scaevola libro quinto responsorum
+
+pr. Negotiorum gestor vel tutor vel curator bona fide condemnati appellaverunt et diu negotium tractum est: quaesitum est appellatione eorum iniusta pronuntiata an, quia tardius iudicatum sit, usurae principalis pecuniae medii temporis debeantur. Respondit secundum ea quae proponerentur dandam utilem actionem.
+
+1. Curator iuvenis adversus tutoris heredes iudicio expertus appellationem interposuit: cum implesset autem vicensimum quintum annum aetatis iuvenis et in militia ageret, exequi appellationem desiit. Quaero, regressus a militia utrum ipse appellationem explicare deberet an vero curatorem in eam rem conveniri oporteret. Respondit ipsum militem litem ad se pertinentem exsequi debere secundum ea quae proponerentur.
+
+49.1.25
+
+Paulus libro 20 responsorum
+
+Autokratwr alecandros tw koinw twn en bivunia hellynwn. ekkaleisvai men pws an tis kwluoito hupo twn dikazontwn, oux' horw, hopote ecestin tyn heteran hodon trepomenon tauto poiein kai vatton pros me afikneisvai. hubrei de kai bia xrysvai pros tous ekkaloumenous kai frouran stratiwtikyn periistan kai haplws eipein apofrattein autois tyn deuro anodon apagoreuomen tois epitropois kai tois hygoumenois twn evnwn. kai peisvysontai tauty mou ty prorrysei, eidotes hoti tosouton moi melei tys twn arxomenwn eleuverias, hoson kai tys eunoias autwn kai peivous. [id est: Imp. Alexander communi Graecorum in Bithynia. Appellare quomodo quis prohibeatur a iudicantibus, non perspicio; cum liceat alteram viam ingresso idem facere et ocius ad me pervenire. Iniuria autem et vi uti adversus appellantes et custodia militari eos coercere et ut brevi dicam viam iis ad nos obstruere procuratoribus praesidibusque provinciarum interdicimus, parebuntque huic meae iussioni, cum sciant tanti me facere subditorum libertatem quanti eorum benevolentiam et oboedientian].
+
+49.1.26
+
+Hermogenianus libro secundo iuris epitomarum
+
+Ad imperatorem causam remissam partibus consentientibus praeses, si ad eius notionem pertinet, audire potest.
+
+49.1.27
+
+Hermogenianus libro quinto iuris epitomarum
+
+Tutor si in negotio pupilli provocaverit vel curator in adulti, heres eius, antequam reddat rationes, appellationis causam persequi debet: nam post redditas rationes nec ipse tutor nec curator appellationis merita probare cogitur.
+
+49.1.28
+
+Scaevola libro 25 digestorum
+
+pr. Creditor cum fideiussoribus egerat: sed post iudicium acceptum ad agendam causam ipse non adfuit et, cum absoluti essent fideiussores, servus eius appellavit. Quaesitum est, an appellatio, quam servus interposuit nomine domini, nullius momenti esset. Respondit eiusmodi appellationem non esse observandam.
+
+1. Iussus a iudice exhibere secundum praeceptum praesidis provinciae rationes, quas apud se esse caverat, instrumentorum gratia data dilatione nec postea exhibuit ideoque secundum constitutionem recitatam, quia per contumaciam instrumenta non exhibuerat, cum petitor quanti sua interesset exhiberi iurasset, facta erat condemnatio. Quaesitum est, an post iusiurandum appellationem interponere possit. Respondit nihil proponi, cur denegandum esset appellationis auxilium.
+
+2. Substituti tutores in locum legitimi tutoris experti cum eo tutelae iudicio, cum arbiter inique condemnavit, quam rei aequitas exigebat, a sententia eius provocaverunt: pendente causa appellationis iuvenes adoleverunt. Quaesitum est, cum omnis exsecutio huius ad adultos pertineat et causam ad se pertinentem idonee tueri possunt, an postulatio eorum, contra quos appellatum erat, dicentium illos debuisse causas appellationis reddere, qui primi sunt experti, admittenda non sit. Respondit eos, quorum tutela gesta esset, si vellent causam exsequi, non prohibendos. Idem et in curatoribus observandum est, si interim adultus ad legitimam aetatem pervenit.
+
+
+* 49.2.0. A quibus appellari non licet.
+
+
+49.2.1
+
+Ulpianus libro primo de appellationibus
+
+pr. Tractandum est, a quibus appellare non liceat.
+
+1. Et quidem stultum est illud admonere a principe appellare fas non esse, cum ipse sit qui provocatur.
+
+2. Sciendum est appellari a senatu non posse principem, idque oratione divi Hadriani effectum.
+
+3. Si quis ante sententiam professus fuerit se a iudice non provocaturum, indubitate provocandi auxilium perdidit.
+
+4. Interdum imperator ita solet iudicem dare, ne liceret ab eo provocare, ut scio saepissime a divo Marco iudices datos. An et alius possit ita iudicem dare, videbimus: et puto non posse.
+
+49.2.2
+
+Paulus libro singulari de appellationibus
+
+Quaesitum est, in arbitros, qui ad fideiussores probandos dantur, an appellare liceat: quamvis hoc casu et sine appellatione quidam putent ab eo, qui eum dedit, sententiam eius corrigi posse.
+
+
+* 49.3.0. Quis a quo appelletur.
+
+
+49.3.1
+
+Ulpianus libro primo de appellationibus
+
+pr. Quod dicitur eum appellari, qui dedit iudicem, sic accipiendum est, ut et successor eius possit appellari. Proinde et si praefectus urbi iudicem dederit vel praetorio, ipse erit provocandus, qui eum dederit iudicem.
+
+1. Ab eo, cui quis mandavit iurisdictionem, non ipse provocabitur: nam generaliter is erit provocandus ab eo cui mandata est iurisdictio, qui provocaretur ab eo qui mandavit iurisdictionem.
+
+49.3.2
+
+Venonius libro secundo de officio proconsulis
+
+Appellari a legatis proconsul potest, et, si multam dixerit, potest de iniquitate eius proconsul cognoscere et quod optimum putaverit statuere.
+
+49.3.3
+
+Modestinus libro octavo regularum
+
+Dato iudice a magistratibus populi Romani cuiuscumque ordinis, etiamsi ex auctoritate principis licet nominatim iudicem declarantis dederint, ipsi tamen magistratus appellabuntur.
+
+
+* 49.4.0. Quando appellandum sit et intra quae tempora.
+
+
+49.4.1
+
+Ulpianus libro primo de appellationibus
+
+pr. Si quidem in insulam deportandum adnotaverit praeses provinciae et
+imperatori scripserit, ut deportetur, videamus, quando sit
+provocandum, utrum cum imperator scripserit an cum ei scribitur? Et
+putem tunc esse appellandum, cum recipi eum praeses iubet sententia
+prolata imperatori scribendum, ut deportetur. Ceterum verendum est, ne
+sero sit, ut tunc provocetur, cum imperator insulam ei adsignaverit:
+comprobata enim sententia praesidis tunc solet insulam
+adsignare. Rursus illud verendum est, si mendaciis apud principem
+oneravit eum, quem deportandum laborabat, intercludi illi viam
+provocandi. Quid ergo est? Recte dicetur humanitate suggerente, ut et
+hoc et illo tempore non frustra provocaretur, quia non adversus
+principem, sed adversus iudicis calliditatem provocavit. Simili modo
+et in decurione erit probandum, quem punire sibi praeses permittere
+non debet, sed recipere eum in carcerem et principi scribere de poena
+eius.
+
+1. Si quis tutor datus fuerit vel testamento vel a quo alio, qui ius
+dandi habet, non oportet eum provocare (hoc enim divus Marcus
+effecit), sed intra tempora praestituta excusationem allegandam habet
+et, si fuerit repulsa, tunc demum appellare debebit: ceterum ante
+frustra appellatur.
+
+2. Alia causa est eorum, qui ad aliquod munus vel honorem vocantur,
+cum dicant se habere excusationem: nam non aliter allegare possunt
+causas immunitatis suae, quam si appellationem interposuerint.
+
+3. Solent plerumque praesides remittere ad ordinem nominatum ut gaium
+seium creent magistratum vel alius quis honor vel munus in eum
+conferatur. Utrum igitur tunc appellandum est, cum ordo decretum
+interposuerit, an vero a remissione, quam praeses fecerit, appellatio
+sit interponenda? Et magis est, ut tunc sit appellandum, cum ordo
+decreverit: magis enim consilium dedisse praeses videtur, quis sit
+creandus, quam ipse constituisse: denique ipse erit appellandus, non
+ab eo provocandum.
+
+4. Sed et si praeses in ordine fuerit (ut fieri adsolet), cum ab
+ordine crearetur quis, ipse erit provocandus, quasi ab ordine, non ab
+ipso fiat appellatio.
+
+5. Biduum vel triduum appellationis ex die sententiae latae
+computandum erit. Quid ergo, si sententia fuerit sub condicione dicta?
+Utrum ex die sententiae tempus computamus ad appellandum an vero ex
+die, quo condicio sententiae extitit? Sane quidem non est sub
+condicione sententia dicenda: sed si fuerit dicta, quid fiet? Et est
+utile statim tempora ad appellandum computari debere.
+
+6. Quod in sententiis praeceptum est, ut vel altera die vel tertia
+provocetur, hoc etiam in ceteris observandum, ex quibus sententia
+quidem non profertur, appellari tamen oportere et posse supra relatum
+est.
+
+7. Dies autem istos, quibus appellandum est, ad aliquid utiles esse
+oratio divi Marci voluit, si forte eius, a quo provocatur, copia non
+fuerit, ut ei libelli dentur: ait enim: "Is dies servabitur, quo primo
+adeundi facultas erit". Quare si forte post sententiam statim ictam
+copiam sui non fecerit is qui pronuntiavit (ut fieri adsolet),
+dicendum est nihil nocere appellatori: nam ubi primum copiam eius
+habuerit, poterit provocare. Ergo si statim se subduxit, similiter
+subveniendum est.
+
+8. Quid igitur, si condicio horae effecit, ut se reciperet? Si forte
+dicta sit sententia iam suprema hora? Utique non videbitur se
+subtraxisse.
+
+9. Adeundi autem facultatem semper accipimus, si in publico sui copiam
+fecit: ceterum si non fecit, an imputetur alicui, quod ad domum eius
+non venerit quodque in hortos non accesserit, et ulterius quod ad
+villam suburbanam? Magisque est, ut non debeat imputari. Quare si in
+publico eius adeundi facultas non fuit, melius dicetur facultatem non
+fuisse adeundi.
+
+10. Si quis ipsius quidem, a quo appellabit, adeundi facultatem non
+habuit, eius autem, quem appellabit, habeat copiam: videndum est, an
+ei praescribi possit, quod eum non adierit. Et hoc iure utimur, ut, si
+alterutrius adeundi fuit copia, praescriptio locum habeat.
+
+11. In propria causa biduum accipitur. Propriam causam ab aliena
+quemadmodum discernimus? Et palam est eam esse propriam causam, cuius
+emolumentum vel damnum ad aliquem suo nomine pertinet.
+
+12. Quare procurator, nisi in suam rem datus est, tertium diem
+habebit: in suam autem rem datus magis est ut alteram diem
+observet. At si in partem proprio nomine, in partem pro alieno
+litigat, ambigi potest, utrum biduum an triduum observetur. Et magis
+est, ut suo nomine biduum, alieno triduum observetur.
+
+13. Tutores, item defensores rerum publicarum et curatores
+adulescentium vel furiosi, tertium diem habere debent, idcirco quia
+alieno nomine appellant. Ex hoc apparet tertio die provocandum
+defensori, si modo quasi defensor causam egit, non suo nomine, cum
+optentu alieni nominis suam causam agens tertio die appellare possit.
+
+14. Si quis suspectum tutorem faciens non optinuerit, appellare eum
+intra triduum debere iulianus libro quadragensimo digestorum scripsit,
+profecto quasi pupilli defensorem.
+
+15. Si adversus absentem fuerit pronuntiatum, biduum vel triduum ex
+quo quis scit computandum est, non ex quo pronuntiatum est. Quod autem
+dicitur absentem posse provocare ex quo scit, sic accipimus, si non in
+causa per procuratorem defensus est: nam si ille non provocavit,
+difficile est, ut hic audiatur.
+
+49.4.2
+
+Macer libro primo de appellationibus
+
+pr. Si procuratorio nomine egeris et victus appellaveris, deinde iniusta appellatio tua fuerit pronuntiata, potest dubitari, num secundo die appellare debeas, quia, cum de tua appellatione iniusta pronuntiatum sit, tua interfuisse videtur. Sed rectius dicetur tertia die appellare te posse, quia nihilo minus alienam causam defenderis.
+
+1. Sed si alius, quam qui iudicio expertus est, appellet, qualis est cuius interest, an etiam tertia die appellare possit, videamus. Sed dicendum est secunda die appellare eum debere, quia verum est eum suam causam defendere. Contrarium ei est. Si dicat idcirco sibi licere intra triduum appellare, quia videtur quasi alieno nomine appellare, quando, si velit causam suam alienam videri, semet ipsum excludit, quia in aliena causa ei, qui iudicio expertus non est, appellare non liceat.
+
+2. Si is, qui ex libertinitate in ingenuitatem se defendebat, victus appellare omiserit, an pater eius appellare possit, maxime si dicat eum in potestate sua esse, quaeritur. Sed si potest, quod magis probatur, secunda die, ut propria causa, appellare debet.
+
+3. Si pro eo, qui capite puniri iussus est, necessaria persona appellet, an tertia die audiri possit, Paulus dubitat. Sed dicendum est hanc quoque personam ut in propria causa secunda die appellare debere, quia qui sua interesse dicit, propriam causam defendit.
+
+49.4.3
+
+Macer libro secundo de appellationibus
+
+Illud videamus, si, cum imperatori scriberetur, exemplum litterarum litigatori editum sit neque is appellaverit et postea contra eum rescriptum sit, an appellare a litteris pridem sibi editis possit? Quia qui tunc non appellavit, vera esse quae scripta sunt consensisse videtur: nec audiendus est, si dicat eventum rescripti sacri se sustinuisse.
+
+
+* 49.5.0. De appellationibus recipiendis vel non.
+
+
+49.5.1
+
+Ulpianus libro 29 ad edictum
+
+pr. Non solent audiri appellantes nisi hi, quorum interest vel quibus mandatum est vel qui negotium alienum gerunt, quod mox ratum habetur.
+
+1. Sed et cum mater filii rem sententia eversam animadverteret, provocaverit, pietati dandum est et hanc audiri debere: et si litem praeparandam curare maluerit, intercedere non videtur, licet ab initio defendere non potest.
+
+49.5.2
+
+Scaevola libro quatro regularum
+
+Ante sententiam appellari potest, si quaestionem in civili negotio habendam iudex interlocutus sit, vel in criminali, si contra leges hoc faciat.
+
+49.5.3
+
+Paulus libro singulari regularum
+
+Intra triduum appellare licet ei, qui de suspecto tutore egit victusque appellat.
+
+49.5.4
+
+Macer libro primo de appellationibus
+
+Eius, qui ideo causam agere frustratur, quod dicit se libellum principi dedisse et sacrum rescriptum expectare, audiri desiderium prohibetur: et si ob eam causam provocaverit, appellatio eius recipi sacris constitutionibus vetatur.
+
+49.5.5
+
+Ulpianus libro quatro de appellationibus
+
+pr. Ei, cuius appellatio non recipitur, sufficit, si possit dicere appellationem suam non esse receptam: quod quaqua ratione doceat, admittetur eius appellatio.
+
+1. Non recepta autem appellatione, si quidem principem appellari oportuit, principi erit supplicandum: sin vero alius appellabatur quam princeps, ille erit adeundus.
+
+2. Sed et si quid aliud post receptam appellationem impedimento factum fuerit, eum adire oportet, quem appellare quis debet.
+
+3. Plane si appellatione non recepta non ipsum adierit, quem debuit, sed principem, pro eo habebitur, atque si is aditus est, qui adiri debuit: idque rescriptis imperatoris nostri Antonini declaratur.
+
+4. Plane si alium pro alio adiit non principem, nihil ei hic error proderit, licet non videatur cessasse.
+
+5. Intra constituta autem appellatoria tempora debet is, cuius appellatio non est recepta, vel competentem iudicem vel principem adire.
+
+49.5.6
+
+Macer libro secundo de appellationibus
+
+Sciendum est, cum appellatio non recipitur, praecipi sacris constitutionibus omnia in eodem statu esse nec quicquam novari, etiamsi contra fiscum appellatum sit: eumque, qui appellationem non receperit, opinionem suam confestim per relationem manifestare et causam, pro qua non recepit appellationem, eiusque exemplum litigatori edere debere mandatis cavetur.
+
+49.5.7
+
+Paulus libro singulari de appellationibus
+
+pr. Si res dilationem non recipiat, non permittitur appellare, velut ne testamentum aperiatur (ut divus Hadrianus constituit), ne frumentum in usum militum, in annonae subsidia contrahatur, neve scriptus heres in possessionem inducatur.
+
+1. Item si ex perpetuo edicto aliquid decernatur, id quo minus fiat, non permittitur appellare.
+
+2. Item quo minus pignus vendere liceat, appellari non potest.
+
+
+* 49.6.0. De libellis dimissoriis, qui apostoli dicuntur.
+
+
+49.6.1
+
+Marcianus libro secundo de appellationibus
+
+pr. Post appellationem interpositam litterae dandae sunt ab eo, a quo appellatum est, ad eum, qui de appellatione cogniturus est, sive principem sive quem alium, quas litteras dimissorias sive apostolos appellant.
+
+1. Sensus autem litterarum talis est: appellasse puta Lucium Titium a sententia illius, quae inter illos dicta est.
+
+2. Sufficit autem petisse intra tempus dimissorias instanter et saepius, ut et si non accipiat, id ipsum contestetur: nam instantiam petentis dimissorias constitutiones desiderant. Aaequum est igitur, si per eum steterit, qui debebat dare litteras, quo minus det, ne hoc accipienti noceat.
+
+
+* 49.7.0. Nihil innovari appellatione interposita.
+
+
+49.7.1
+
+Ulpianus libro quatro de appellationibus
+
+pr. Appellatione interposita, sive ea recepta sit sive non, medio tempore nihil novari oportet: si quidem fuerit recepta appellatio, quia recepta est: si vero non est recepta, ne praeiudicium fiat, quoad deliberetur, utrum recipienda sit appellatio an non sit.
+
+1. Recepta autem appellatione tamdiu nihil erit innovandum, quamdiu de appellatione fuerit pronuntiatum.
+
+2. Si quis ergo forte relegatus fuit et appellaverit, non arcebitur neque in italia neque in provincia, qua relegatus est.
+
+3. Propter eandem rationem et si quis deportatus fuit ab eo, cui deportandi ius est, vel adnotatus, neque vincula patietur neque ullam aliam iniuriam, quam patitur, qui sententiae non adquieverat: integer enim status esse videtur provocatione interposita.
+
+4. Ergo et si abstinere ordine iussus sit et provocaverit, eadem ratione potest coetum participare, cum hoc sit constitutum et sit iuris, ne quid pendente appellatione novetur.
+
+5. Si quis ex pluribus facinoribus condemnatus propter quaedam appellavit, propter quaedam non: utrum differenda poena eius sit an non, quaeritur. Et si quidem graviora sint crimina, ob quae appellatio interposita est, levius autem id, propter quod non appellavit, recipienda est omnimodo appellatio et differenda poena: si vero graviorem sententiam meruit ex ea specie, ex qua non est appellatum, omnimodo poena imponenda est.
+
+
+* 49.8.0. Quae sententiae sine appellatione rescindantur.
+
+
+49.8.1
+
+Macer libro secundo de appellationibus
+
+pr. Illud meminerimus: si quaeratur, iudicatum sit nec ne, et huius quaestionis iudex non esse iudicatum pronuntiaverit: licet fuerit iudicatum, rescinditur, si provocatum non fuerit.
+
+1. Item si calculi error in sententia esse dicatur, appellare necesse non est: veluti si iudex ita pronuntiaverit: "Cum constet Titium Seio ex illa specie quinquaginta, item ex illa specie viginti quinque debere, idcirco Lucium Titium Seio centum condemno": nam quoniam error computationis est, nec appellare necesse est et citra provocationem corrigitur. Sed et si huius quaestionis iudex sententiam centum confirmaverit, si quidem ideo, quod quinquaginta et viginti quinque fieri centum putaverit, adhuc idem error computationis est nec appellare necesse est: si vero ideo, quoniam et alias species viginti quinque fuisse dixerit, appellationi locus est.
+
+2. Item cum contra sacras constitutiones iudicatur, appellationis necessitas remittitur. Contra constitutiones autem iudicatur, cum de iure constitutionis, non de iure litigatoris pronuntiatur. Nam si iudex volenti se ex cura muneris vel tutelae beneficio liberorum vel aetatis aut privilegii excusare, dixerit neque filios neque aetatem aut ullum privilegium ad muneris vel tutelae excusationem prodesse, de iure constituto pronuntiasse intellegitur: quod si de iure suo probantem admiserit, sed idcirco contra eum sententiam dixerit, quod negaverit eum de aetate sua aut de numero liberorum probasse, de iure litigatoris pronuntiasse intellegitur: quo casu appellatio necessaria est.
+
+3. Item cum ex edicto peremptorio, quod neque propositum est neque in notitiam pervenit absentis, condemnatio fit, nullius momenti esse sententiam constitutiones demonstrant.
+
+4. Si apud eundem iudicem invicem petamus, si et mea et tua petitio sine usuris fuit et iudex me priorem tibi condemnavit, quo magis tu prior me condemnatum habeas: non est mihi necesse pro hac causa appellare, quando secundum sacras constitutiones iudicatum a me petere non possis, priusquam de mea quoque petitione iudicetur. Sed magis est, ut appellatio interponatur.
+
+49.8.2
+
+Paulus libro tertio responsorum
+
+pr. Paulus respondit eum, qui in rebus humanis non fuit sententiae dictae tempore, inefficaciter condemnatum videri.
+
+1. Idem respondit adversus eum, qui in rebus humanis non esset, cum iudex datus est, neque iudicis dationem valuisse neque sententiam adversus eum dictam vires habere.
+
+49.8.3
+
+Paulus libro 16 responsorum
+
+pr. Paulus respondit impossibile praeceptum iudicis nullius esse momenti.
+
+1. Idem respondit ab ea sententia, cui pareri rerum natura non potuit, sine causa appellari.
+
+
+* 49.9.0. An per alium causae appellationum reddi possunt.
+
+
+49.9.1
+
+Ulpianus libro quatro de appellationibus
+
+Quaeri solet, an per alium causae appellationis reddi possunt: quae res in rebus pecuniariis et in criminibus agitari consuevit. Et in rebus pecuniariis sunt rescripta posse agi. Verba rescripti ita se habent: "Divi fratres Longino. Ssi tibi qui appellavit mandavit, ut eum de appellatione, quam pollia ad eum fecit, defenderes, et res pecuniaria est: nihil prohibet nomine eius te respondere. Sin autem non sit pecuniaria causa, sed capitalis, per procuratorem agi non licet. Sed et si ea causa sit, ex qua sequi solet poena usque ad relegationem, non oportet per alium causas agi, sed ipsum adesse auditorio debere sciendum est". Plane si pecuniaria causa est, ex qua ignominia sequitur, potest et per procuratorem hoc agi. Idque erit probandum et in ipso accusatore, si appellaverit vel si adversus eum sit appellatum. Et generaliter quae causa per alium agi non potest, eius nec appellationem per alium agi oportet.
+
+49.9.2
+
+Macer libro secundo de appellationibus
+
+Si procurator absentis appellaverit, deinde rationes reddiderit, nihilo minus ipse respondere debet. Sed an eo cessante dominus litis respondere possit exemplo adulescentis, videamus: magis tamen observatur, ut audiri debeat in causis appellationis reddendis is, cuius absentis procurator appellavit.
+
+
+* 49.10.0. Si tutor vel curator magistratusve creatus appellaverit.
+
+
+49.10.1
+
+Ulpianus libro tertio de officio consulis
+
+Si qui ad munera publica nominati appellaverint nec causas probaverint, scient ad periculum suum pertinere, si quid damni per moram appellationis rei publicae acciderit. Qquod si apparuerit eos necessario provocasse, cui adscribendum sit id damnum, praeses vel princeps aestimabit.
+
+49.10.2
+
+Hermogenianus libro quinto iuris epitomarum
+
+Tutor vel curator retentus si provocaverit et ante causam actam moriatur, propter periculum medii temporis successores eius causas appellationis necesse habent reddere.
+
+
+* 49.11.0. Eum qui appellaverit in provincia defendi.
+
+
+49.11.1
+
+Ulpianus libro quatro de appellationibus
+
+Eum, qui appellavit, oportere in provincia defendi in aliis suis causis, etiamsi appellationis causa peregrinetur, divi fratres decimo Philoni rescripserunt.
+
+49.11.2
+
+Marcianus libro secundo de appellationibus
+
+Hoc enim illis praestatur, ne necesse habeant se defendere, qui rei publicae causa absunt.
+
+
+* 49.12.0. Apud eum, a quo appellatur, aliam causam agere compellendum.
+
+
+49.12.1
+
+Ulpianus libro quatro de appellationibus
+
+Si quis ex alia causa appellaverit a iudice, an in alia causa eundem iudicem habere necesse habeat, videamus. Et hodie hoc iure utimur, et, tametsi appellatio interposita sit, tamen apud eundem iudicem, a quo quis provocavit, compelletur alias causas si quas habet agere: nec utetur hoc praetextu, quasi ad offensum iudicem non debeat experiri, cum possit denuo provocare.
+
+
+* 49.13.0. Si pendente appellatione mors intervenerit.
+
+
+49.13.1
+
+Macer libro secundo de appellationibus
+
+pr. Appellatore defuncto, si quidem sine herede, cuiuscumque generis appellatio fuit, evanescit. Quod si appellatori heres extiterit, si quidem nullius alterius interest causas appellationis reddi, cogendus non est peragere appellationem: si vero fisci vel alterius, contra quem appellatum est, interest, heres causas appellationis reddere necesse habet. Nullius autem interest, veluti cum sine ademptione bonorum relegatus est. Nam si ademptis bonis relegatus vel in insulam deportatus vel in metallum datus provocatione interposita decesserit, imperator noster Alexander Plaetorio militi ita rescripsit: "Quamvis pendente appellatione morte rei crimen extinctum sit, data tamen etiam de parte bonorum eius sententia proponitur, adversus quam non aliter is, qui emolumentum successionis habet, optinere potest, quam si in reddendis causis appellationis iniquitatem sententiae detexerit".
+
+1. Tutor quoque in negotio pupilli appellatione interposita si decesserit, heredem eius causas appellationis reddere necesse est, etiamsi rationes tutelae heres reddiderit, quia sufficit mortis tempore ad causas appellationis reddendas obligatum fuisse. Sed divi Severus et Antoninus rescripserunt non cogendum tutorem post rationes redditas causas appellationum reddere.
+
+
+* 49.14.0. De iure fisci.
+
+
+49.14.1
+
+Callistratus libro primo de iure fisci
+
+pr. Variae causae sunt, ex quibus nuntiatio ad fiscum fieri solet. Aut enim se quis, quod tacite relictum est, profitetur capere non posse vel ab alio praeventus defertur: vel quod mors ab heredibus non vindicatur: vel quod indignus quis heres nuntiatur: vel quod princeps heres institutus et testamentum sive codicilli subrepti esse nuntiantur: vel quod dicatur quis thensaurum invenisse: vel magni pretii rem minoris ex fisco comparasse: vel praevaricatione fiscum victum esse: vel eum decessisse, qui in capitali crimine esset: vel etiam post mortem aliquem reum esse: vel domum destructam esse: vel ab accusatione recessum: vel rem litigiosam venumdari: vel poenam fisco ex contractu privato deberi: vel adversus leges commissum factum esse.
+
+1. An bona, quae solvendo non sint, ipso iure ad fiscum pertineant, quaesitum est. Labeo scribit etiam ea, quae solvendo non sint, ipso iure ad fiscum pertinere. Sed contra sententiam eius edictum perpetuum scriptum est, quod ita bona veneunt, si ex his fisco adquiri nihil possit.
+
+2. Divus Pius Coelio Amaranto ita rescripsit vacantium bonorum nuntiationem quadriennio finiri idque tempus ex die, quo certum esse coepit neque heredem neque bonorum possessorem exstare, computari oportere.
+
+3. Praescriptio autem viginti annorum, quae etiam circa requirendorum adnotatorum bona observatur, ex constitutione divi Titi solet ex eo numerari, ex quo quid ad fiscum pertinere potuit.
+
+4. Causae autem, quae statim motae sunt et tractae ultra vicensimum annum, differri possunt etiam post vicensimum annum.
+
+5. Illae quoque causae, quae a priore nuntiatore proditae dicantur, etiam post annos, quibus praescribi diximus, fisco nuntiari possunt.
+
+49.14.2
+
+Callistratus libro secundo de iure fisci
+
+pr. Ex quibusdam causis delatione suscipientium fama non laeditur,
+veluti eorum, qui non praemii consequendi, item eorum, qui ulciscendi
+gratia adversarium suum deferunt, vel quod nomine rei publicae suae
+quis exsequitur causam: et haec ita observari plurifariam
+principalibus constitutionibus praecipitur.
+
+
+
+1. Divus Hadrianus Flavio Arriano in haec verba rescripsit: "Quin ei,
+qui instrumenta ad causam fisci pertinentia, cum possit exhibere, non
+exhibet, nocere debeat, si verum aliter non invenitur, ea subtracta
+esse credantur, quae nocitura causae eius fuerint, dubitatum non
+est. Sed nec alias dubitari oportet, quin non in aliam rem nocere
+debeant, quam in eam qua desiderata sunt".
+
+2. Item divi fratres ad libellum Cornelii Rufi rescripserunt totiens edenda esse instrumenta, quotiens de iure capiendi vel de iure dominii vel de aliqua causa simili re nummaria quaeratur, non si de capitali causa agatur.
+
+3. Senatus censuit, ut, si neque delator neque possessor tribus edictis evocati adfuerint, delatoris quidem fideiussores teneantur et ei postea publicam causam deferendi ius adimatur, possessoris autem ius idem esset, quod si delatus omnino non esset.
+
+4. Quotiens tamen delator adesse iussus cessat nec hoc fraude possessoris factum esse probabitur, divus Hadrianus rescripsit secundum possessorem pronuntiari oportere, ita ut sententia comprehendatur etiam delatores edicto id comprehendisse.
+
+5. Divus Pius Caecilio Maximo rescripsit constitutionem patris sui, qua compelleretur delator edere mandatorem ac, nisi edidisset, ut in vincula deduceretur, eo pertinere, non ut delator poena subduceretur, si mandatorem haberet, sed ut mandator quoque perinde atque si ipse detulisset puniretur.
+
+6. Imperator noster Severus Augustus constituit, ne servi delatores dominorum audiantur, sed ut poena coerceantur: libertos quoque causae mandatores contra patronos a praesidibus provinciarum poenae plectendos.
+
+7. Complura sunt rescripta principalia, quibus cavetur non obesse errorem cuiquam, quod ignotus iuris sui ipse se detulerit. Sed extat eorundem principum rescriptum, ex quo videtur posse defendi ita demum non nocere cuiquam se detulisse, si ea persona sit, quae ignorare propter rusticitatem vel propter sexum femininum ius suum possit.
+
+49.14.3
+
+Callistratus libro tertio de iure fisci
+
+pr. Non intellegitur fraudem legi fecisse, qui rogatus est palam restituere. Sed cum quidam testamento suo ita scripsisset: "Vos rogo, ut in eo, quod a vobis peti, fidem praestetis: perque deum, ut faciatis, rogo" et quaereretur, an id palam datum intellegeretur: Iulianus respondit non quidem apparere, quid ab heredibus ex huiusmodi verbis petitum est. Quaeri autem solere, quando intellegatur quis in fraudem legis fidem suam accommodare: et fere eo iam decursum, ut fraus legi fieri videatur, quotiens quis neque testamento neque codicillis rogaretur, sed domestica cautione et chirographo obligaret se ad praestandum ei qui capere non potest: ideoque dici posse ex supra dictis verbis non esse legi fraudem factam.
+
+1. Si quis palam rogatus et tacite esset, agitabatur, quid magis praevaleret: utrum id ipsum noceret, quod tacite rogatus esset, an prodesset, quod palam petitum esset. Et divus Hadrianus rescripsit in eo, quod cuiusque fidei palam commissum est, non esse existimandum fidem suam in fraudem legis accommodasse.
+
+2. Quando autem fraus interposita videatur, agendum est, id est utrum exitus spectari deberet an consilium: forte si tunc, cum tacite fideicommittebatur, non capiebat is, cui restitui iubebatur, mortis vero tempore capere poterat, vel contra. Et placuit exitum esse spectandum.
+
+3. Tacita autem fideicommissa frequenter sic deteguntur, si proferatur chirographum, quo se cavisset cuius fides eligitur, quod ad eum ex bonis defuncti pervenerit, restituturum. Sed et ex aliis probationibus manifestissimis idem fit.
+
+4. Cum ex causa taciti fideicommissi bona ad fiscum pertinent, omnia, quae in testamento utiliter data sunt, valent: et ita divus Pius rescripsit.
+
+5. Divi fratres rescripserunt in venditionibus fiscalibus fidem et diligentiam a procuratore exigendam et iusta pretia non ex praeterita emptione, sed ex praesenti aestimatione constitui: sicut enim diligenti cultura pretia praediorum ampliantur, ita, si neglegentius habita sint, minui ea necesse est.
+
+6. Cum quinquennium, in quo quis pro publico conductore se obligavit, excessit, sequentis temporis nomine non tenetur: idque principalibus rescriptis exprimitur. Divus etiam Hadrianus in haec verba rescripsit: "Valde inhumanus mos est iste, quo retinentur conductores vectigalium publicorum et agrorum, si tantidem locari non possint. Nam et facilius invenientur conductores, si scierint fore ut, si peracto lustro discedere voluerint, non teneantur".
+
+7. Si posteriori creditori fiscus successerit, eo iure utitur, quo is usurus erat, cui successit.
+
+8. Multa principalia sunt rescripta, quibus cavetur non aliter fiscum debitorum suorum debitores convenire, nisi principales debitores defecerint, vel ex ratione fisci nomina facta liquido probentur, vel ex contractu fiscali debitores conveniantur.
+
+9. Divus Hadrianus Flavio Proculo rescripsit, cum in libertatem proclamat qui ex bonis ad fiscum pertinentibus esse dicitur, iudicium dari praesentibus et agentibus etiam his, qui negotiis fisci solent intervenire: et huiusmodi liberales causae, si non interveniente fisci advocato decisae sint, in integrum restituuntur.
+
+10. Si in locis fiscalibus vel publicis religiosisve aut in monumentis thensauri reperti fuerint, divi fratres constituerunt, ut dimidia pars ex his fisco vindicaretur. Item si in Caesaris possessione repertus fuerit, dimidiam aeque partem fisco vindicari.
+
+11. Deferre autem se nemo cogitur, quod thensaurum invenerit, nisi ex eo thensauro pars fisco debeatur. Qui autem, cum in loco fisci thensaurum invenerit, partem ad fiscum pertinentem suppresserit, totum cum altero tanto cogitur solvere.
+
+49.14.4
+
+Ulpianus libro sexto ad edictum
+
+In fisci causis pacti cum delatoribus pro confessis habentur, si modo pretium vel modicum dederunt.
+
+49.14.5
+
+Ulpianus libro 16 ad edictum
+
+pr. Si curator caesaris rem aliquam vendiderit, quamvis duplum vel triplum pro evictione promiserit, tamen fiscus simplum praestabit.
+
+1. Si ab eo, cui ius distrahendi res fisci datum est, fuerit distractum quid fisci, statim fit emptoris, pretio tamen soluto.
+
+49.14.6
+
+Ulpianus libro 63 ad edictum
+
+pr. Fiscus cum in privati ius succedit, privati iure pro anterioribus suae successionis temporibus utitur: ceterum posteaquam successit, habebit privilegium suum. Sed utrum statim atque coepit ad eum pertinere nomen, an vero posteaquam convenit debitorem, an posteaquam relatum est inter nomina debitorum, quaeritur. Et quidem usuras exinde petit fiscales, etsi breviores debeantur, ex quo convenit certum debitorem et confitentem. At in privilegio varie rescriptum est: puto tamen exinde privilegio esse locum, ex quo inter nomina debitorum relatum nomen est.
+
+1. Quodcumque privilegii fisco competit, hoc idem et Caesaris ratio et Augustae habere solet.
+
+49.14.7
+
+Ulpianus libro 54 ad edictum
+
+Si fiscus alicui status controversiam faciat, fisci advocatus adesse debet. Quare si sine fisci advocato pronuntiatum sit, divus Marcus rescripsit nihil esse actum et ideo ex integro cognosci oportere.
+
+49.14.8
+
+Modestinus libro quinto regularum
+
+Bonorum fisco vindicatorum actores venundari a procuratoribus non possunt, et, si distrahantur, irritam fieri venditionem rescriptum est.
+
+49.14.9
+
+Modestinus libro 17 responsorum
+
+Lucius Titius fecit heredes sororem suam ex dodrante, uxorem Maeviam et socerum ex reliquis portionibus: eius testamentum postumo nato ruptum est, qui postumus brevi et ipse decessit, atque ita omnis hereditas ad matrem postumi devoluta est. Soror testatoris Maeviam veneficii in Lucium Titium accusavit: cum non optinuisset, provocavit: interea decessit rea: nihilo minus tamen apostoli redditi sunt. Quaero, an putes extincta rea cognitionem appellationis inducendam propter hereditatem quaesitam. Modestinus respondit morte reae crimine extincto persecutionem eorum, quae scelere adquisita probari possunt, fisco competere posse.
+
+49.14.10
+
+Modestinus libro singulari de praescriptionibus
+
+Non puto delinquere eum, qui in dubiis quaestionibus contra fiscum facile responderit.
+
+49.14.11
+
+Iavolenus libro nono epistularum
+
+Non possunt ulla bona ad fiscum pertinere, nisi quae creditoribus superfutura sunt: id enim bonorum cuiusque esse intellegitur, quod aeri alieno superest.
+
+49.14.12
+
+Callistratus libro sexto de cognitionibus
+
+In metallum damnatis libertas adimitur, cum etiam verberibus servilibus coercentur. Sane per huiusmodi personam fisco nihil adquiri divus Pius rescripsit: et ideo quod legatum erat ei, qui postea in metallum damnatus erat, ad fiscum non pertinere rescripsit magisque ait poenae eos quam fisci servos esse.
+
+49.14.13
+
+Paulus libro septimo ad legem Iuliam et Papiam
+
+pr. Edicto divi Traiani, quod proposui, significatur, ut, si quis, antequam causa eius ad aerarium deferatur, professus esset eam rem quam possideret capere sibi non licere, ex ea partem fisco inferret, partem ipse retineret.
+
+1. Idem postea edicto significavit, ut, quaecumque professa esset vel palam vel tacite relictum sibi quod capere non posset et probasset iam id ad fiscum pertinere: etiamsi id non possideret, ex eo, quod redactum esset a praefectis aerario, partem dimidiam ferat.
+
+2. Nihil autem interest, quae causa impediat ius capiendi.
+
+3. Id autem deferri debet, quod latet, non id quod fisci est.
+
+4. Ad heredes eius, qui se detulerat, non videbatur praemium transire: sed divus Hadrianus rescripsit, ut, licet ante decessisset is qui se detulerat, antequam id quod detulerat fisco addiceretur, heredi eius praemium daretur.
+
+5. Exstat eiusdem Hadriani epistula, ut, si is qui se deferre poterat morte praeventus fuerit, heres eius, si detulerit, praemium consequatur: "Si tamen", inquit, "liquebit defunctum eius animi fuisse, ut se vellet deferre": si vero idcirco dissimulaverit, dum rem occultari sperat, heredem eius ultra vulgare praemium nihil consecuturum.
+
+6. Item divi fratres rescripserunt heredes eorum, quibus tacitum fideicommissum relictum est, ita demum ex beneficio Traiani deferre se posse, si is, cui datum fuerat, morte praeventus esset et ideo per angustias temporis deferre se non potuerit.
+
+7. Cum ante apertum testamentum tacitum fideicommissum nuntiatum esset ab his, qui fidem tacitam susceperunt, deinde post apertas a fideicommissario delatum esset, divus Antoninus recipi professionem eius iussit: neque enim dignam esse praemio tam praecipitem festinationem prioris, et cum quis se nuntiet non capere, potius confiteri de suo iure quam aliud deferre videtur.
+
+8. Ad eos beneficium Traiani pertinet, qui ex defuncti voluntate relictum sibi capere non possunt. Ergo nec illud, quod servo meo relictum est, deferre potero.
+
+9. Eos, qui quasi indigni repelluntur, summovendos esse ab eiusmodi praemio: id est eos, qui de inofficioso egerunt vel falsum dixerunt testamentum, qui usque ad finem litis obpugnaverunt testamentum.
+
+10. Ei, qui per errorem se detulit, cum capere solidum posset, non nocere hoc divus Hadrianus et divus Pius et fratres rescripserunt.
+
+49.14.14
+
+Gaius libro 11 ad legem Iuliam et Papiam
+
+Dicitur, ex asse hereditates ex Silaniano cum fiscus vindicasset, ut nec libertates nec legata tueatur. Qquod aperte nullam habet rationem, cum ex quibuslibet aliis causis fisco vindicatis hereditatibus et libertates et legata maneant.
+
+49.14.15
+
+Mauricius libro tertio ad legem Iuliam et Papiam
+
+pr. Senatus censuit, si delator abolitionem petat, quod errasse se dicat, ut idem iudex cognoscat, an iusta causa abolitionis sit, et si errasse videbitur, det imprudentiae veniam, si autem calumniae, hoc ipsum iudicet eaque causa accusatori perinde cedat, ac si causam egisset et prodidisset.
+
+1. Si quis delatorem subiecerit, tantum in aerarium deferat, quantum praemii nomine delator consecuturus fuisset, si vincisset.
+
+2. Divus Hadrianus rescripsit eandem poenam delatorem ferre debere, si citatus ad edictum non responderit, qua teneretur, si causam non probasset.
+
+3. Senatus Hadriani temporibus censuit, cum quis se ad aerarium detulerit, quod capere non potuerit, ut totum in aerarium colligatur et ex eo pars dimidia sibi secundum beneficium divi Traiani restituatur.
+
+4. Quod si tribus edictis a praefecto aerario adesse delator iussus venire noluerit, secundum possessorem sit pronuntiandum: sed ab eo, qui ita adesse iussus respondente possessore non adfuerit, tantum exigendum, quantum apud aerarium ex ea causa quam detulerit remaneret, si professionem eam implesset.
+
+5. Senatus censuit, ut perinde rationes ad aerarium deferat is, a quo tota hereditas fisco evicta est vel universa legata, atque is deferre deberet, a quo pars hereditatis vel legati evicta sit.
+
+6. Si quis arguetur falsas rationes detulisse, de eo praefectus aerarii cognoscat, quantam fraudem invenerit, ut tantam pecuniam in aerario iubeat inferri.
+
+49.14.16
+
+Ulpianus libro 18 ad legem Iuliam et Papiam
+
+Ait divus Traianus: "Quicumque professus fuerit". "Quicumque" accipere debemus tam masculum quam feminam: nam feminis quoque, quamvis delationibus prohibentur, tamen ex beneficio Traiani deferre se permissum est. Nec non illud aeque non intererit, cuius aetatis sit is qui se defert, utrum iustae an pupillaris: nam pupillis etiam permittitur deferre se, ex quibus non capiunt.
+
+49.14.17
+
+Modestinus libro secundo de poenis
+
+In summa sciendum est omnium fiscalium poenarum petitionem creditoribus postponi.
+
+49.14.18
+
+Marcianus libro singulari de delatoribus
+
+pr. Deferre non possunt mulieres propter sexus infirmitatem, et ita sacris constitutionibus cautum est.
+
+1. Item clarissimi viri deferre non possunt.
+
+2. Item damnati deferre non possunt, ut divi fratres de eo rescripserunt, qui fustibus caesus in opus publicum erat datus.
+
+3. Item constitutionibus principum prohibentur deferre illi, qui in metallum dati sunt. hoc ideo, ne desperati ad delationem facile possint sine causa confugere.
+
+4. Sed eas causas, quas ante damnationem coeperunt deferre, posse eos etiam post damnationem exequi rescriptum est.
+
+5. Veterani quoque sacris constitutionibus delatores esse prohibentur propter honorem utique et merita militiae.
+
+6. Item milites propter honorem stipendiorum quae merent deferre prohibentur.
+
+7. Sed communem causam sibi cum fisco quivis deferre potest, hoc est vindicare, nec per hoc famosus est, licet in causa sua non optinuerit.
+
+8. Item eos, qui tutores vel curatores fuerunt, non oportere deferre causas pupillorum vel adulescentium suorum divi Severus et Antoninus rescripserunt. Quod consequens est observari et in eo, qui quasi procurator negotia gessit: et ita idem principes rescripserunt. Idem decreverunt nulla constitutione prohibitum esse procuratorem interrogari, sed accusare eum, cuius negotia gessit. Et tutorem, qui aut detulit aut mandavit, severissime puniendum rescripserunt.
+
+9. Sed ne quidem is, qui aliquam vendidit rem, eandem deferre debet vel per se vel per subiectam personam, ne alioquin poenam patiatur dignam suae personae, ut et constitutum esse refertur.
+
+10. Papinianus tam libro sexto quam undecimo responsorum scribit ita demum publicam auferri pecuniam ei, qui, cum erat creditor, in solutum pecuniam accepit, si aut sciebat, cum accipiebat, publicum quoque esse debitorem, aut postea cognovit, antequam consumeret pecuniam. Sed placet omnimodo ei pecuniam auferendam esse, etiamsi ignoravit, cum consumeret: et postea quidam principes directam actionem competere ablata pecunia rescripserunt, ut et Marcellus libro septimo digestorum scribit.
+
+49.14.19
+
+Papinianus libro decimo responsorum
+
+Denique non esse praestandas usuras, cum pecunia revocatur, convenit, quoniam res, non persona convenitur.
+
+49.14.20
+
+Papinianus libro 11 responsorum
+
+Sed revocata pecunia in fideiussorem liberatum utilis actio dabitur.
+
+49.14.21
+
+Paulus libro tertio quaestionum
+
+Titius, qui mihi sub pignoribus pecuniam debebat, cum esset fisci debitor, solvit mihi quae debebat: postea fiscus iure suo usus abstulit mihi pecuniam. Quaerebatur, an liberata essent pignora. Marcellus recte existimabat, si id quod mihi solutum est fiscus abstulit, non competere pignorum liberationem. Neque differentiam admittendam esse existimo interesse putantium, id ipsum quod solutum est an tantundem repetatur.
+
+49.14.22
+
+Marcianus libro singulari de delatoribus
+
+pr. Res, quae in controversia sunt, non debent a procuratore Caesaris distrahi, sed differenda est eorum venditio, ut divus quoque Severus et Antoninus rescripserunt, et defuncto maiestatis reo, parato herede purgare innocentiam mortui, distractionem bonorum suspendi iusserunt, et generaliter prohibuerunt rem distrahi a procuratore, quae esset in controversia.
+
+1. Res autem nexas pignori distrahere procuratores possunt. Sed si ante alii res obligatae sunt iure pignoris, non debet procurator ius creditorum laedere: sed si quidem superfluum est in re, permittitur procuratori vendere ea lege, ut imprimis creditoribus praecedentibus satisfiat et si quid superfluum est, fisco inferatur, aut, si acceperit totum fiscus, solvat ipse: vel simpliciter si vendidit procurator, iubebit pecuniam, quam deberi creditori privato fuerit probatum, exsolvi ei. Et ita divus Severus et Antoninus rescripserunt.
+
+2. Lites donatas se non suscipere divus Pius rescripsit, licet bona relicturum se quis profiteatur: vel partem bonorum donatam non suscipere. Et adiecit et illum dignum fuisse puniri pro tam turpi tamque invidioso commento, et nisi durum esse videbatur in ultro venientem poenam statuere.
+
+3. Sicut nuntiare causam nemo cogitur, ita liberum arbitrium desistendi ei non datur qui detulit: et ita divi Severus et Antoninus rescripserunt: et idem esse, licet alieno mandato detulisset. Plane rescripserunt delatorem audiendum volentem a lite desistere, si sibi mandatorem subtractum queratur.
+
+49.14.23
+
+Callistratus libro secundo de iure fisci
+
+De eo delatore, qui causam solus agere instituerat non habita mentione mandatoris, si postea desistat, praetendens mandatorem causae decessisse, puniendum divi fratres rescripserunt.
+
+49.14.24
+
+Marcianus libro singulari de delatoribus
+
+Non tantum delator punitur, si non probaverit, sed et mandator: quem exhibere debet delator.
+
+49.14.25
+
+Ulpianus libro 19 ad Sabinum
+
+Est et decretum ab imperatore Severo et constitutum nullo modo exigendum quem probare, unde habeat, circa delationes fiscales, sed delatorem probare debere quod intendit.
+
+49.14.26
+
+Ulpianus libro 31 ad Sabinum
+
+Cum quidam capitis reus emancipasset filium, ut hereditatem adiret, rescriptum est non videri in fraudem fisci factum, quod adquisitum non est.
+
+49.14.27
+
+Ulpianus libro 34 ad edictum
+
+Cum mortem maritus uxoris necatae non defendit, divus Severus rescripsit dotem fisco vindicandam, prout ad maritum pertineat.
+
+49.14.28
+
+Ulpianus libro tertio disputationum
+
+Si qui mihi obligaverat quae habet habiturusque esset cum fisco contraxerit, sciendum est in re postea adquisita fiscum potiorem esse debere Papinianum respondisse: quod et constitutum est. Praevenit enim causam pignoris fiscus.
+
+49.14.29
+
+Ulpianus libro octavo disputationum
+
+pr. Eius, qui delatorem corrupit, ea condicio est, ut pro victo habeatur: nam in fiscalibus causis id constitutum est. Sed enim haec poena magis est ut adversus ipsum locum habeat, qui delatorem redemit: ceteroquin adversus heredem eius transire non debet. Nec enim exinde perit causa, ex quo redempta est, vel actio peremitur vel condemnatio facta videtur, verum oportet constare prius et de crimine pronuntiare. Plane si forte de retractanda causa agatur, quae semel iudicata est, per delatoris corruptelam, mortuus corruptor non efficiet, quo minus agi possit atque retractari causa: hic enim non poenae, sed causae restitutio est.
+
+1. Eum, qui falsum testamentum dixit, posse adire hereditatem constat: sed denegatis ei actionibus fisco locus erit.
+
+2. Et obligationes, quas adeundo confudit, non restituuntur: nam et in eo, qui post aditam hereditatem defuncti mortem non defendit, imperator noster cum patre rescripsit obligationes confusas non resuscitari.
+
+49.14.30
+
+Marcianus libro tertio institutionum
+
+Ne procuratores Caesaris bonorum actores, quae ad fiscum devoluta sunt, alienent, imperatores Severus et Antoninus rescripserunt: et, si manumissi fuerint, revocantur ad servitutem.
+
+49.14.31
+
+Marcianus libro quatro institutionum
+
+Divus Commodus rescripsit obsidum bona sicut captivorum omnimodo in fiscum esse cogenda:
+
+49.14.32
+
+Marcianus libro 14 institutionum
+
+Sed si accepto usu togae Romanae ut cives Romani semper egerint, divi fratres procuratoribus hereditatium rescripserunt sine dubitatione ius eorum ab obsidis condicione separatum esse beneficio principali, ideoque idem ius eis servandum, quod habent, si a legitimis civibus Romanis heredes instituti fuissententiarum
+
+49.14.33
+
+Ulpianus libro primo responsorum
+
+Eum, qui debitoris fisci adiit hereditatem, privilegiis fisci coepisse esse subiectum.
+
+49.14.34
+
+Macer libro secundo publicorum
+
+Imperatores Severus et Antoninus Asclepiadi ita rescripserunt: "Tu, qui defensione omissa redimere sententiam maluisti, cum tibi crimen obiceretur, non immerito quingentos solidos inferre fisco iussus es: omissa enim ipsius causae inquisitione ipse te huic poenae subdidisti. Optinendum est enim, ut hi, quibus negotia fiscalia moventur, ad defensiones causae bona fide veniant, non adversarios aut iudices redimere temptent".
+
+49.14.35
+
+Pomponius libro 11 epistularum
+
+Apud Iulianum scriptum est: si privatus ad se pertinere hereditatem lucii titii dicat, altero eandem hereditatem fisco vindicante: quaeritur, utrum ius fisci ante excutiendum sit et sustinendae actiones ceterorum, an nihilo minus inhibendae petitiones creditorum singulorum, ne publicae causae praeiudicetur.  Idque senatus consultis expressum est.
+
+49.14.36
+
+Papinianus libro tertio responsorum
+
+Praediis a fisco distractis praeteriti temporis tributum eorundem praediorum onus emptorem spectare placuit.
+
+49.14.37
+
+Papinianus libro decimo responsorum
+
+Quod placuit fisco non esse poenam petendam, nisi creditores suum reciperaverint, eo pertinet, ut privilegium in poena contra creditores non exerceatur, non ut ius commune privatorum fiscus amittat.
+
+49.14.38
+
+Papinianus libro 13 responsorum
+
+pr. Fiscus in quaestione falsi testamenti non optinuit: priusquam autem ea quaestio decideretur, alio nuntiante bona postea vacare constitit. Fructus post primam litem absumi non oportuisse respondi: neque enim ad senatus consulti beneficium scriptum heredem pertinere controversia mota.
+
+1. Delatoris opera non esse functum respondi, qui fisci pecuniam, quam alius tenebat, ad sui temporis administrationem pertinere, quamvis probare non potuisset, contendit, quoniam propriam causam egerat.
+
+49.14.39
+
+Papinianus libro 16 responsorum
+
+pr. Bona fisco citra poenam exilii perpetuam adiudicari sententia non oportet.
+
+1. Eum, qui periculum communis condemnationis dividi postulavit, quod participes iudicati solvendo essent revocatis alienationibus quas fraudulenter fecerant, non videri causam pecuniae fisco nuntiasse respondi.
+
+49.14.40
+
+Paulus libro 21 quaestionum
+
+pr. Ita fidei heredis commisit: "Rogo fundum Titio des, de quo te rogavi". Si Titius capere non possit, non evitabit heres poenam taciti fideicommissi: non enim est palam relinquere, quod ex testamento sciri non potest, cum recitatum est. Quemadmodum nec ille palam dat, qui ita scribit: "Rogo vos, heredes, in eo, quod a vobis peti, fidem praestetis". Immo in priore specie maiorem fraudem excogitasse videtur, qui non tantum legem circumvenire voluit, sed etiam interpretationem legis, quae circa tacitum fideicommissum habetur: quamvis enim fundum nominaverit, non tamen cognosci potest, de quo sit rogatus heres, cum diversitas rerum obscurum faciat legatum.
+
+1. Patronus si tacite in fidem suam recipiat, ut ex portione sua praestet, cessare fraudem dicitur, quia de suo largitur.
+
+49.14.41
+
+Paulus libro 21 responsorum
+
+Eum, qui bona vacantia a fisco comparavit, debere actionem, quae contra defunctum competebat, excipere.
+
+49.14.42
+
+Valens libro quinto fideicommissorum
+
+pr. Arrianus Severus praefectus aerarii, cum eius, qui tacite rogatus fuerat non capienti fideicommissum reddere, bona publicata erant, pronuntiavit nihilo minus ius deferendi ex constitutione divi Traiani habere eum cui fideicommissum erat relictum.
+
+1. Quia autem nonnulli ingrati adversus beneficium divi Traiani post professionem quoque de tacito fideicommisso factam cum possessoribus transigunt atque tribus edictis evocati non respondent, placuit senatui tantum ab eo qui id fecisset exigi, quantum apud aerarium ex ea causa quam detulerat remanere oporteret, si professionem suam implesset: et si possessoris quoque fraus apud praefectum convicta fuisset, ab eo quoque quod convictus inferre debuisset exigi.
+
+49.14.43
+
+Ulpianus libro sexto fideicommissorum
+
+Imperator noster rescripsit fiscum in rem habere actiones ex tacito fideicommisso.
+
+49.14.44
+
+Paulus libro primo sententiarum
+
+Delator non est, qui protegendae causae suae gratia aliquid ad fiscum nuntiat.
+
+49.14.45
+
+Paulus libro quinto sententiarum
+
+pr. In fraudem fisci non solum per donationem, sed quocumque modo res alienatae revocantur, idemque iuris est et si non quaeratur: aeque enim in omnibus fraus punitur.
+
+1. Bona eorum, qui in custodia vel in vinculis vel compedibus decesserunt, heredibus eorum non auferuntur, sive testato sive intestato decesserunt.
+
+2. Eius bona, qui sibi mortem conscivit, non ante ad fiscum coguntur, quam prius constiterit, cuius criminis gratia manus sibi intulerit. Eius bona, qui sibi ob aliquod admissum flagitium mortem conscivit et manus intulit, fisco vindicantur: quod si id taedio vitae aut pudore aeris alieni vel valetudinis alicuius impatientia admisit, non inquietabuntur, sed suae successioni relinquuntur.
+
+3. A debitore fisci in fraudem datas libertates retrahi placuit: sane ipsum ita ab alio emere mancipium, ut manumittat, non est prohibitum: ergo tunc et libertatem praestare possit.
+
+4. Ex his bonis, quae ad fiscum delata sunt, instrumenta vel chirographa, acta etiam ad ius privatorum pertinentia restitui postulantibus convenit.
+
+5. Neque instrumenta neque acta a quoquam adversus fiscum edi oportet.
+
+6. Ipse autem fiscus actorum suorum exempla hac condicione edit, ut is, cui describendi fit potestas, adversus se vel rem publicam his actis ne utatur: de quo cavere compellitur, ut, si usus is contra interdictum fuerit, causa cadat.
+
+7. Quotiens apud fiscum agitur, actorum potestas postulanda est, ut merito is uti liceat, eaque manu commentariensis adnotanda sunt. Quod si ea aliter proferantur, is qui ita protulerit causa cadit.
+
+8. Quotiens iterum apud fiscum eadem causa tractatur, priorum actorum, quorum usus non fuerat postulatus, ex officio recitatio iure poscetur.
+
+9. Qui pro alio a fisco conventus debitum exsolvit, non inique postulat persecutionem bonorum eius pro quo solvit: in quo etiam adiuvari per officium solet.
+
+10. Fiscalibus debitoribus petentibus ad comparandam pecuniam dilationem negari non placuit. Cuius rei aestimatio ita arbitrio iudicantis conceditur, ut in maioribus summis non plus quam tres menses, in minoribus vero non plus quam duo prorogentur: prolixioris autem temporis spatium ab imperatore postulandum est.
+
+11. Si principalis rei bona ad fiscum devoluta sint, fideiussores liberantur: nisi forte minus idonei sint et in reliquum non exsolutae quantitatis accesserint.
+
+12. Si plus servatum est ex bonis debitoris a fisco distractis, iure ac merito restitui postulatur.
+
+13. Conductor ex fundo fiscali nihil transferre potest nec cupressi materiam vendere vel olivae non substitutis aliis ceterasque arbores pomiferas caedere: et facta eius rei aestimatione in quadruplum convenitur.
+
+14. Minoribus viginti quinque annis neque fundus neque vectigalia locanda sunt, ne adversus ea beneficio aetatis utantur.
+
+49.14.46
+
+Hermogenianus libro sexto iuris epitomarum
+
+pr. Aufertur ei quasi indigno successio, qui, cum heres institutus esset ut filius, post mortem eius, qui pater dicebatur, suppositus declaratus est.
+
+1. Qui aliquid sciens in fraudem fisci suscepit, non solum rem, in qua fraudis ministerium suscepit, sed alterum tantum restituere cogitur.
+
+2. Quod a praeside seu procuratore vel quolibet alio in ea provincia, in qua administrat, licet per suppositam personam comparatum est, infirmato contractu vindicatur et aestimatio eius fisco infertur: nam et navem in eadem provincia, in qua quis administrat, aedificare prohibetur.
+
+3. Fiscus semper habet ius pignoris.
+
+4. Qui compensationem opponit fisco, intra duos menses debitum sibi docere debet.
+
+5. Ut debitoribus fisci quod fiscus debet compensetur, saepe constitutum est: excepta causa tributoria et stipendiorum, item pretio rei a fisco emptae et quod ex causa annonaria debetur.
+
+6. In reatu constitutus bona sua administrare potest, eique debitor recte bona fide solvit.
+
+7. Actores, qui aliquod officium gerunt, in bonis quae distrahunt procuratores venundare inconsultis principibus prohibentur, et, si veneant, venditio nullas vires habebit.
+
+8. Servus Caesaris si iussu procuratoris adiit hereditatem, Caesari volenti adquirit.
+
+9. Si multi fisco fraudem fecerint, non ut in actione furti singuli solidum, sed omnes semel quadrupli poenam pro virili portione debent. Sane pro non idoneis qui sunt idonei conveniuntur.
+
+49.14.47
+
+Paulus libro primo decretorum
+
+pr. Moschis quaedam, fisci debitrix ex conductione vectigalis, heredes habuerat, a quibus post aditam hereditatem Faria Senilla et alii praedia emerant. Cum convenirentur propter Moschidis reliqua et dicebant heredes Moschidis idoneos esse et multos alios ex isdem bonis emisse, aequum putavit imperator prius heredes conveniri debere, in reliquum possessorem omnem: et ita pronuntiavit.
+
+1. Aemilius Ptolemaeus conduxerat a fisco possessionem eamque paulatim pluribus locaverat maiore quantitate quam ipse susceperat: conveniebatur a procuratoribus Caesaris in eam quantitatem quam ipse perciperet. Hoc iniquum et inutile fisco videbatur, ut tamen suo periculo ipse eos quibus locaverat conveniret: ideoque pronuntiavit in eam solam quantitatem eum conveniri debere, qua ipse conductor exstiterat.
+
+49.14.48
+
+Paulus libro secundo decretorum
+
+pr. Statius Florus testamento scripto heredis sui Pompeii tacitae fidei commiserat, ut non capienti fundum et certam pecuniae quantitatem daret, et eo nomine cautionem a Pompeio exigi curaverat se restituturum ea, quae ei per praeceptionem dederat. Postea idem Florus facto secundo testamento et eodem Pompeio et Faustino heredibus institutis nullas praeceptiones Pompeio dederat. Haec persona, quae capere non poterat, se detulerat. Consulti imperatores a procuratoribus rescripserant, si non probaretur mutatam voluntatem esse, praestandum fideicommissum: atque ita Pompeius condemnatus desiderabat onus esse id hereditatis oportere, quia praeceptiones non acceperat, nec posse videri pro parte in prima voluntate testatorem perseverasse, sed in universo. Pronuntiavit nec testamentum prius exstare nec, si dedisset in primo testamento, ex posteriore peti potuisse, nisi petitum esset. Placuit, quia non probabat sibi datas praeceptiones ex sola sua cautione, solum fideicommissum praestare debere.
+
+1. Cornelio Felici mater scripta heres rogata erat restituere hereditatem post mortem suam. Cum heres scripta condemnata esset a fisco et omnia bona mulieris occuparentur, dicebat felix se ante poenam esse (hoc enim constitutum est). Sed si nondum dies fideicommissi venisset, quia posset prius ipse mori vel etiam mater alias res adquirere, repulsus est interim a petitione.
+
+49.14.49
+
+Paulus libro singulari de tacitis fideicommissis
+
+Cum tacitum fideicommissum is cui datum erat capere se nihil posse detulisset, in quaestionem venit, dodrantis an totius assis partem dimidiam ex beneficio divi Traiani recipere debeat. De qua re exstat rescriptum imperatoris Antonini in haec verba: "Imperator Antoninus Iulio Rufo. Qui tacitam fidem accommodavit, ut non capienti restitueret hereditatem, si deducta parte quarta restituit, nihil retinere debet. Quadrans autem qui heredi imponitur ipsius eripiatur et ad fiscum transferatur". Unde dodrantis semissem solum capit qui se detulit.
+
+49.14.50
+
+Paulus libro tertio decretorum
+
+Valerius Patruinus procurator imperatoris Flavio Stalticio praedia certo pretio addixerat. Deinde facta licitatione idem Stalticius recepta ea licitatione optinuerat et in vacuam possessionem inductus erat. De fructibus medio tempore perceptis quaerebatur: Patruinus fisci esse volebat. Plane si medio tempore inter primam licitationem et sequentem adiectionem percepti fuissent, ad venditorem pertinerent (sicut solet dici, cum in diem addictio facta est, deinde melior condicio allata est) nec moveri deberemus, quod idem fuisset, cui et primo addicta fuerant praedia. Sed cum utraque addictio intra tempus vindemiarum facta fuisset, recessum est ab hoc tractatu itaque placebat fructus emptoris esse. Papinianus et messius novam sententiam induxerunt, quia sub colono erant praedia, iniquum esse fructus ei auferri universos: sed colonum quidem percipere eos debere, emptorem vero pensionem eius anni accepturum, ne fiscus colono teneretur, quod ei frui non licuisset: atque si hoc ipsum in emendo convenisset. Pronuntiavit tamen secundum illorum opinionem, quod quidem domino colerentur, universos fructus habere: si vero sub colono, pensionem accipere. Tryphonino suggerente, quid putaret de aridis fructibus, qui ante percepti in praediis fuissent, respondit, si nondum dies pensionis venisset, cum addicta sunt, eos quoque emptorem accepturum.
+
+
+* 49.15.0. De captivis et de postliminio et redemptis ab hostibus.
+
+
+49.15.1
+
+Marcellus libro 22 digestorum
+
+Quod servus eius, qui ab hostibus captus est, postea stipulatus est, aut si legatum sit servo eius, posteaquam ille ad hostes pervenit, hoc habebunt heredes eius, quia et si captivitatis tempore decessisset, adquisitum foret heredi.
+
+49.15.2
+
+Marcellus libro 39 digestorum
+
+pr. Navibus longis atque onerariis propter belli usum postliminium est, non piscatoriis aut si quas actuarias voluptatis causa paraverunt.
+
+1. Equus item aut equa freni patiens recipitur postliminio: nam sine culpa equitis proripere se potuerunt.
+
+2. Non idem in armis iuris est, quippe nec sine flagitio amittuntur: arma enim postliminio reverti negatur, quod turpiter amittantur:
+
+49.15.3
+
+Pomponius libro 37 ad Quintum Mucium
+
+Item vestis.
+
+49.15.4
+
+Modestinus libro tertio regularum
+
+Eos, qui ab hostibus capiuntur vel hostibus deduntur, iure postliminii reverti antiquitus placuit. An qui hostibus deditus reversus nec a nobis receptus civis Romanus sit, inter Brutum et Scaevolam varie tractatum est: et consequens est, ut civitatem non adipiscatur.
+
+49.15.5
+
+Pomponius libro 37 ad Quintum Mucium
+
+pr. Postliminii ius competit aut in bello aut in pace.
+
+1. In bello, cum hi, qui nobis hostes sunt, aliquem ex nostris ceperunt et intra praesidia sua perduxerunt: nam si eodem bello is reversus fuerit, postliminium habet, id est perinde omnia restituuntur ei iura, ac si captus ab hostibus non esset. Antequam in praesidia perducatur hostium, manet civis. Tunc autem reversus intellegitur, si aut ad amicos nostros perveniat aut intra praesidia nostra esse coepit.
+
+2. In pace quoque postliminium datum est: nam si cum gente aliqua neque amicitiam neque hospitium neque foedus amicitiae causa factum habemus, hi hostes quidem non sunt, quod autem ex nostro ad eos pervenit, illorum fit, et liber homo noster ab eis captus servus fit et eorum: idemque est, si ab illis ad nos aliquid perveniat. Hoc quoque igitur casu postliminium datum est.
+
+3. Captivus autem si a nobis manumissus fuerit et pervenerit ad suos, ita demum postliminio reversus intellegitur, si malit eos sequi quam in nostra civitate manere. Et ideo in Atilio Regulo, quem Carthaginienses Romam miserunt, responsum est non esse eum postliminio reversum, quia iuraverat Carthaginem reversurum et non habuerat animum Romae remanendi. Et ideo in quodam interprete Menandro, qui posteaquam apud nos manumissus erat, missus est ad suos, non est visa necessaria lex, quae lata est de illo, ut maneret civis Romanus: nam sive animus ei fuisset remanendi apud suos, desineret esse civis, sive animus fuisset revertendi, maneret civis, et ideo esset lex supervacua.
+
+49.15.6
+
+Pomponius libro primo ex variis lectionibus
+
+Mulier in opus salinarum ob maleficium data et deinde a latrunculis exterae gentis capta et iure commercii vendita ac redempta in causam suam reccidit. Cocceio autem firmo centurioni pretium ex fisco reddendum est.
+
+49.15.7
+
+Proculus libro octavo epistularum
+
+pr. Non dubito, quin foederati et liberi nobis externi sint, nec inter nos atque eos postliminium esse: etenim quid inter nos atque eos postliminio opus est, cum et illi apud nos et libertatem suam et dominium rerum suarum aeque atque apud se retineant et eadem nobis apud eos contingant?
+
+1. Liber autem populus est is, qui nullius alterius populi potestati est subiectus: sive is foederatus est item, sive aequo foedere in amicitiam venit sive foedere comprehensum est, ut is populus alterius populi maiestatem comiter conservaret. Hoc enim adicitur, ut intellegatur alterum populum superiorem esse, non ut intellegatur alterum non esse liberum: et quemadmodum clientes nostros intellegimus liberos esse, etiamsi neque auctoritate neque dignitate neque viri boni nobis praesunt, sic eos, qui maiestatem nostram comiter conservare debent, liberos esse intellegendum est.
+
+2. At fiunt apud nos rei ex civitatibus foederatis et in eos damnatos animadvertimus.
+
+49.15.8
+
+Paulus libro tertio ad legem Iuliam et Papiam
+
+Non ut a patre filius, ita uxor a marito iure postliminii recuperari potest, sed tunc, cum et voluerit mulier et adhuc alii post constitutum tempus nupta non est: quod si noluerit nulla causa probabili interveniente, poenis discidii tenebitur.
+
+49.15.9
+
+Ulpianus libro quatro ad legem Iuliam et Papiam
+
+Apud hostes susceptus filius si postliminio redierit, filii iura habet: habere enim eum postliminium nulla dubitatio est post rescriptum imperatoris Antonini et divi patris eius ad Ovinium Tertullum praesidem provinciae Mysiae inferioris.
+
+49.15.10
+
+Papinianus libro 29 quaestionum
+
+pr. Pater instituto impuberi filio substituerat et ab hostibus captus ibi decessit: postea defuncto impubere legitimum admitti quibusdam videbatur neque tabulas secundas in eius persona locum habere, qui vivo patre sui iuris effectus fuisset. Verum huic sententiae refragatur iuris ratio, quoniam, si pater, qui non rediit, iam tunc decessisse intellegitur, ex quo captus est, substitutio suas vires necessario tenet.
+
+1. Si mortuo patre capiatur impubes institutus vel exheredatus, in promptu est dicere legem Corneliam de tabulis secundis nihil locutam eius dumtaxat personam demonstrasse, qui testamenti factionem habuisset. Plane captivi etiam impuberis legitimam hereditatem per legem Corneliam deferri, quoniam verum est ne impuberem quidem factionem testamenti habuisse: et ideo non esse alienum praetorem subsequi non minus patris quam legis voluntatem et utiles actiones in hereditatem substituto dare.
+
+49.15.11
+
+Papinianus libro 31 quaestionum
+
+pr. Quod si filius ante moriatur in civitate, nihil est quod de secundis tabulis tractari possit, sive quoniam vivo patre filius familias mori intellegitur, sive quoniam non reverso eo exinde sui iuris videtur fuisse, ex quo pater hostium potitus est.
+
+1. Sed si ambo apud hostes et prior pater decedat, sufficiat lex Cornelia substituto non alias, quam si apud hostes patre defuncto postea filius in civitate decessisset.
+
+49.15.12
+
+Tryphoninus libro quatro disputationum
+
+pr. In bello postliminium est, in pace autem his, qui bello capti erant, de quibus nihil in pactis erat comprehensum. Quod ideo placuisse servius scribit, quia spem revertendi civibus in virtute bellica magis quam in pace Romani esse voluerunt. Verum in pace qui pervenerunt ad alteros, si bellum subito exarsisset, eorum servi efficiuntur, apud quos iam hostes suo facto deprehenduntur. Quibus ius postliminii est tam in bello quam in pace, nisi foedere cautum fuerat, ne esset his ius postliminii.
+
+1. Si quis capiatur ab hostibus, hi, quos in potestate habuit, in incerto sunt, utrum sui iuris facti an adhuc pro filiis familiarum computentur: nam defuncto illo apud hostes, ex quo captus est, patres familiarum, reverso numquam non in potestate eius fuisse credentur. Ideo et de his, quae medio tempore adquirunt stipulatione traditione legato (nam hereditate non possunt), tractatum est, ubi non est reversus, si forte alii vel in totum (his exheredatis testamento) vel in partem instituti sunt heredes, utrum in hereditate captivi, quae lege Cornelia inducitur, an propria ipsorum sint. Quod verius est: diversumque in his, quae per servos adquiruntur, merito: quia hi bonorum fuerunt et esse perseverant, hi sui iuris exinde sibique ideo adquisisse intelleguntur.
+
+2. Facti autem causae infectae nulla constitutione fieri possunt. Ideo eorum, quae usucapiebat per semet ipsum possidens qui postea captus est, interrumpitur usucapio, quia certum est eum possidere desisse. Eorum vero, quae per subiectas iuri suo personas possidebat usuque capiebat, vel si qua postea peculiari nomine comprehenduntur, Iulianus scribit credi suo tempore impleri usucapionem remanentibus isdem personis in possessione. Marcellus nihil interesse, ipse possedisset an subiecta ei persona. Sed Iuliani sententiam sequendum est.
+
+3. Medio tempore filius, quem habuit in potestate captivus, uxorem ducere potest, quamvis consentire nuptiis pater eius non posset: nam utique nec dissentire. Susceptus ergo nepos in reversi captivi potestate ut avi erit suusque heres ei quodammodo invito, cum nuptiis non consenserit. Non mirum, quia illius temporis condicio necessitasque faciebat et publica nuptiarum utilitas exigebat.
+
+4. Sed captivi uxor, tametsi maxime velit et in domo eius sit, non tamen in matrimonio est.
+
+5. Codicilli, si quos in tempore captivitatis scripserit, non creduntur iure suptili confirmati testamento, quod in civitate fecerat. Sed nec fideicommissum ex his peti potest, quia non sunt ab eo facti, qui testamenti factionem habuit. Sed quia merum principium eorum in civitate constituto captivo factum est, id est in testamento confirmatio codicillorum, et is postea reversus est et postliminio ius suum recepit, humanitatis rationi congruum est eos codicillos ita suum effectum habere, quasi in medio nulla captivitas intercessisset.
+
+6. Cetera quae in iure sunt, posteaquam postliminio redit pro eo habentur, ac si numquam iste hostium potitus fuisset.
+
+7. Si quis servum captum ab hostibus redemerit, protinus est redimentis, quamvis scientis alienum fuisse: sed oblato ei pretio quod dedit postliminio redisse aut receptus esse servus credetur.
+
+8. Et si ignorans captivum, existimans vendentis esse redemit, an quasi usucepisse videatur, scilicet ne post legitimum tempus offerendi pretii priori domino facultas sit, videamus. Nam occurrit, quod constitutio, quae de redemptis lata est, eum redimentis servum facit, et quod meum iam usucapere me intellegi non potest. Rursum cum constitutio non deteriorem causam redimentium, sed si quo meliorem effecerit, peremi ius bonae fidei emptoris vetustissimum et iniquum et contra mentem constitutionis est: ideoque transacto tempore, quanto, nisi constitutio eum proprium fecisset, usucapi potuisset, nihil ex constitutione domino superesse recte dicetur.
+
+9. Manumittendo autem utrum desinit tantum dominus esse et relictus ab eo servus in ius prioris domini redit? An et liberum eum facit, ne praestatio libertatis dominii fiat translatio? Certe apud hostes manumissus liberatur, et tamen si eum nanctus dominus ipsius vetus intra praesidia nostra fuisset, quamvis non secutum res nostras, sed dum eo consilio venisset, ut ad illos reverteretur, servum retineret iure postliminii. Quod in liberis aliter erat: non enim postliminio revertebatur, nisi qui hoc animo ad suos venisset, ut eorum res sequeretur illosque relinqueret, a quibus abisset: quia, ut Sabinus scribit, de sua qua civitate cuique constituendi facultas libera est, non de dominii iure. Verum hoc non multum onerat praesentem inspectationem, quia hostium iure manumissio obesse civi nostro domino servi non potuit, at is de quo quaeritur lege nostra, quam constitutio fecit, civem Romanum dominum habuit, et an ab eo possit libertatem adsequi, tractamus. Quid enim, si numquam ille pretium eius offerat? Si nec conveniendi eius sit facultas? Liber erit servus, qui nullo merito suo poterit a domino libertatem consequi? Quod est iniquum et contra institutum a maioribus libertatis favorem. Certe et veteri iure si ab hoc, qui sciens alienum esse redemisset, alius bona fide emisset, usucapere ad libertatemque perducere potuit, et isto quoque modo prior dominus, qui ante captivitatem fuerat, ius suum amittebat. Quare igitur iste non habet ius manumittendi?
+
+10. Si statuliber fuerit, antequam ab hostibus caperetur, redemptus pendente condicione suam causam retinebit.
+
+11. Quid ergo, si ita libertatem acceperat, si decem milia dederit? Quaesitum est, unde dare debebit, quoniam etsi concessum est statulibero de peculio dare, hoc tamen, quod apud hunc qui redemit habet, numquid vice illius sit, quod apud hostes quaesisset? Utique, si ex re illius aut ex operis suis quaesitum est: ex alia autem causa parto peculio potest dare, ita ut condicioni benigne eum paruisse credamus.
+
+12. Si pignori servus datus fuerat ante captivitatem, post dimissum redemptorem in veterem obligationem revertitur, et si creditor obtulerit ei qui redemit, quanto redemptus est, habet obligationem et in priorem debiti causam et in eam summam qua eum liberavit, quasi ea obligatione quadam constitutione inducta: ut cum posterior creditor priori satisfacit confirmandi sui pignoris causa: nisi quod in hoc conversa res est et posterior, quia eum servum, ut apud nos esset, efficit, ab eo, qui tempore prior fuit, ut infirmiore dimittendus est.
+
+13. Si plurium servus fuerat et omnium nomine ei qui redemit restitutum pretium erit, in communionem redibit: si unius tantum vel quorundam nec omnium, ad eum eosve qui solverunt pertinebit, ita ut in portione sua pristinum ius optineant et in parte ceterorum ei qui redemit succedant.
+
+14. Si fideicommissa libertas debita captivo fuerit, redemptus nondum eam petere poterit, nisi redemptori satisfecerit.
+
+15. Si deportatum ab insula hostes ceperunt, redemptus quibus casibus redit, in eam causam veniet, in qua futurus esset, si captus non fuisset: deportabitur igitur.
+
+16. Sed si in captivo servo talis praecesserat causa, quae eius vel ad tempus vel in perpetuum libertatem impediret, nec redemptione ab hostibus mutabitur: veluti si in legem Faviam commisisse eum constiterat, vel ita venierat ne manumitteretur: habebit autem interim sine poena sua qui redemit.
+
+17. Ergo de metallo captus redemptus in poenam suam revertetur, nec tamen ut transfuga metalli puniendus erit, sed redemptor a fisco pretium recipiet quod etiam constitutum est ab imperatore nostro et divo Severo.
+
+18. Si natum ex Pamphila legatum tibi fuerit tuque matrem redemeris et ea apud te pepererit, non videri te partum ex causa lucrativa habere, sed officio arbitrioque iudicis aestimandum constituto pretio partus, perinde atque si, quanto mater est empta, simul et partus venisset. Quod si iam natum apud hostes, quod eo tempore quo capiebatur utero gerebat, cum matre redimatur ab eodem uno pretio: oblato tanto, quantum ex pretio, quod pro utroque unum datum est, aestimationem contingere partus: et videtur is postliminio reversus. Multo magis, si diversi emptores utriusque extiterint vel unius. Sed si suo quemque pretio redemerit, id offerri pro singulis oportebit redemptori, quod hosti pro quoque datum est, ut separatim quoque postliminio reverti possint.
+
+49.15.13
+
+Paulus libro secundo ad Sabinum
+
+Si me tibi adrogandum dedissem, emancipato me reversum ab hostibus filium meum loco nepotis tibi futurum constat.
+
+49.15.14
+
+Pomponius libro tertio ad Sabinum
+
+pr. Cum duae species postliminii sint, ut aut nos revertamur aut aliquid recipiamus: cum filius revertatur, duplicem in eo causam esse oportet postlimini, et quod pater eum reciperet et ipse ius suum.
+
+1. Non ut pater filium, ita uxorem maritus iure postliminii recipit: sed consensu redintegratur matrimonium.
+
+49.15.15
+
+Ulpianus libro 12 ad Sabinum
+
+Si patre redempto et ante luitionem defuncto filius post mortem eius redemptionis quantitatem offerat, dicendum est suum ei posse existere. Nisi forte quis suptilius dicat hunc dum moritur, quasi iure pignoris finito, nactum postliminium et sine obligatione debiti obisse, ut potuerit suum habere. Quod non sine ratione dicetur.
+
+49.15.16
+
+Ulpianus libro 13 ad Sabinum
+
+Retro creditur in civitate fuisse, qui ab hostibus advenit.
+
+49.15.17
+
+Paulus libro secundo ad Sabinum
+
+Postliminio carent, qui armis victi hostibus se dederunt.
+
+49.15.18
+
+Ulpianus libro 35 ad Sabinum
+
+In omnibus partibus iuris is, qui reversus non est ab hostibus, quasi tunc decessisse videtur, cum captus est.
+
+49.15.19
+
+Paulus libro 16 ad Sabinum
+
+pr. Postliminium est ius amissae rei recipiendae ab extraneo et in statum pristinum restituendae inter nos ac liberos populos regesque moribus legibus constitutum. Nam quod bello amissimus aut etiam citra bellum, hoc si rursus recipiamus, dicimur postliminio recipere. Idque naturali aequitate introductum est, ut qui per iniuriam ab extraneis detinebatur, is, ubi in fines suos redisset, pristinum ius suum reciperet.
+
+1. Indutiae sunt, cum in breve et in praesens tempus convenit, ne invicem se lacessant: quo tempore non est postliminium.
+
+2. A piratis aut latronibus capti liberi permanent.
+
+3. Postliminio redisse videtur, cum in fines nostros intraverit, sicuti amittitur, ubi fines nostros excessit. Sed et si in civitatem sociam amicamve aut ad regem socium vel amicum venerit, statim postliminio redisse videtur, quia ibi primum nomine publico tutus esse incipiat.
+
+4. Transfugae nullum postliminium est: nam qui malo consilio et proditoris animo patriam reliquit, hostium numero habendus est. Sed hoc in libero transfuga iuris est, sive femina sive masculus sit.
+
+5. Si vero servus transfugerit ad hostes, quoniam, et cum casu captus est, dominus in eo postliminium habet, rectissime dicitur etiam ei postliminium esse, scilicet ut dominus in eo pristinum ius recipiat, ne contrarium ius non tam ipsi iniuriosum sit, qui servus semper permanet, quam domino damnosum constituatur.
+
+6. Si statuliber transfuga reversus sit, existente condicione postquam redit, liber efficitur. Diversum est, si condicio extitisset, dum apud hostes est: in eo enim casu neque sibi reverti potest, ut liber sit, neque heredi in eo ius postliminii est, quia non potest queri, cum nullum damnum patiatur, libertate iam optingente, si non impediret, quod transfuga factus est.
+
+7. Filius quoque familias transfuga non potest postliminio reverti neque vivo patre, quia pater sic illum amisit, quemadmodum patria, et quia disciplina castrorum antiquior fuit parentibus Romanis quam caritas liberorum.
+
+8. Transfuga autem non is solus accipiendus est, qui aut ad hostes aut in bello transfugit, sed et qui per indutiarum tempus aut ad eos, cum quibus nulla amicitia est, fide suscepta transfugit.
+
+9. Si is, qui emat ab hostibus, pluris alii ius pignoris quod in redempto habet cesserit, non eam quantitatem, sed priorem redemptus reddere debet, et emptor habet actionem adversus eum qui vendidit ex empto.
+
+10. Postliminium hominibus est, cuiuscumque sexus condicionisve sint: nec interest, liberi an servi sint. Nec enim soli postliminio recipiuntur, qui pugnare possunt, sed omnes homines, quia eius naturae sunt, ut usui esse vel consilio vel aliis modis possint.
+
+49.15.20
+
+Pomponius libro 36 ad Sabinum
+
+pr. Si captivus, de quo in pace cautum fuerat ut rediret, sua voluntate apud hostes mansit, non est ei postea postliminium.
+
+1. Verum est expulsis hostibus ex agris quos ceperint dominia eorum ad priores dominos redire nec aut publicari aut praedae loco cedere: publicatur enim ille ager qui ex hostibus captus sit.
+
+2. Redemptio facultatem redeundi praebet, non ius postliminii mutat.
+
+49.15.21
+
+Ulpianus libro quinto opinionum
+
+pr. Si quis ingenuam ab hostibus redemptam eo animo secum habuerit, ut ex ea susciperet liberos, et postea ex se natum sub titulo naturalis filii cum matre manumiserit: ignorantia mariti eiusdemque patris neque statui eorum, quos manumisisse visus est, officere debet, et exinde intellegi oportet remissum matri pignoris vinculum, ex quo de ea suscipere liberos optaverat: ideoque eam, quae postliminio reversa erat libera et ingenua, ingenuum peperisse constat. Quod si publice praeda virtute militum reciperata nulli pretium matris pater numeraverit, protinus postliminio reversa non cum domino, sed cum marito fuisse declaratur.
+
+1. In civilibus dissensionibus quamvis saepe per eas res publica laedatur, non tamen in exitium rei publicae contenditur: qui in alterutras partes discedent, vice hostium non sunt eorum, inter quos iura captivitatium aut postliminiorum fuerint. Et ideo captos et venumdatos posteaque manumissos placuit supervacuo repetere a principe ingenuitatem, quam nulla captivitate amiserant.
+
+49.15.22
+
+Iulianus libro 62 digestorum
+
+pr. Bona eorum, qui in hostium potestatem pervenerint atque ibi decesserint, sive testamenti factionem habuerint sive non habuerint, ad eos pertinent, ad quos pertinerent, si in potestatem hostium non pervenissent: idemque ius in eadem causa omnium rerum iubetur esse lege Cornelia, quae futura esset, si hi, de quorum hereditatibus et tutelis constituebatur, in hostium potestatem non pervenissententiarum
+
+1. Apparet ergo eadem omnia pertinere ad heredem eius, quae ipse, qui hostium potitus est, habiturus esset, si postliminio revertisset. Porro quaecumque servi captivorum stipulantur vel accipient, adquiri dominis intelleguntur, cum postliminio redierint: quare necesse est etiam ad eos pertineant, qui ex lege Cornelia hereditatem adierint. Quod si nemo ex lege Cornelia heres extiterit, bona publica fient. Legata quoque servis eorum praesenti die vel sub condicione ad heredes pertinebunt. Item si servus ab extero heres institutus fuerit, iussu heredis captivi adire poterit.
+
+2. Quod si filius eius, qui in hostium potestate est, accipit aut stipulatur, id patre priusquam postliminio rediret mortuo ipsi adquisitum intellegitur, etsi vivo patre decesserit, ad heredem patris pertinebit. Nam status hominum, quorum patres in hostium potestate sunt, in pendenti est, et reverso quidem patre existimatur nunquam suae potestatis fuisse, mortuo tunc pater familias fuisse, cum pater eius in hostium potestate perveniret.
+
+2a. Pater familias qui habebat filios in potestate duos et [in bonis] viginti milia, ab hostibus captus est: alter ex filiis acceptis decem milibus alia decem milia adquisivit: quaeritur patre apud hostes defuncto quid filii habituri sint. Respondit, si reversus esset pater, etiam postea adquisita decem milia eius futura fuisse: at cum in captivitate mortuus sit, communia non fore, sed eius qui adquisivit. Viginti autem milia aequaliter dividenda.
+
+3. Quae peculiari nomine servi captivorum possident, in suspenso sunt: nam si domini postliminio redierint, eorum facta intelleguntur, si ibi decesserint, per legem Corneliam ad heredes eorum pertinebunt.
+
+4. Si quis, cum praegnatem uxorem haberet, in hostium potestatem pervenerit, nato deinde filio et mortuo, ibi decesserit, eius testamentum nullum est, quia et eorum, qui in civitate manserunt, hoc casu testamenta rumpuntur.
+
+49.15.23
+
+Iulianus libro 69 digestorum
+
+Si quis praegnate uxore relicta in hostium potestatem pervenerit, mox natus filius eius uxore ducta filium vel filiam procreaverit ac tunc postliminio avus reversus fuerit: omnia iura nepotis nomine perinde capiet, ac si filius natus in civitate fuisset.
+
+49.15.24
+
+Ulpianus libro primo institutionum
+
+Hostes sunt, quibus bellum publice populus Romanus decrevit vel ipse populo Romano: ceteri latrunculi vel praedones appellantur. Et ideo qui a latronibus captus est, servus latronum non est, nec postliminium illi necessarium est: ab hostibus autem captus, ut puta a Germanis et Parthis, et servus est hostium et postliminio statum pristinum recuperat.
+
+49.15.25
+
+Marcianus libro 14 institutionum
+
+Divi Severus et Antoninus rescripserunt, si uxor cum marito ab hostibus capta fuerit et ibidem ex marito enixa sit: si reversi fuerint, iustos esse et parentes et liberos et filium in potestate patris, quemadmodum iure postliminii reversus sit: quod si cum matre sola revertatur, quasi sine marito natus, spurius habebitur.
+
+49.15.26
+
+Florentinus libro sexto institutionum
+
+Nihil interest, quomodo captivus reversus est, utrum dimissus an vi vel fallacia potestatem hostium evaserit, ita tamen, si ea mente venerit, ut non illo reverteretur: nec enim satis est corpore domum quem redisse, si mente alienus est. Sed et qui victis hostibus recuperantur, postliminio redisse existimantur.
+
+49.15.27
+
+Iavolenus libro nono ex posterioribus Labeonis
+
+Latrones tibi servum eripuerant: postea is servus ad Germanos pervenerat: inde in bello victis Germanis servus venierat. Negant posse usucapi eum ab emptore Labeo Ofilius Trebatius, quia verum esset eum subreptum esse, nec quod hostium fuisset aut postliminio redisset, ei rei impedimento esse.
+
+49.15.28
+
+Labeo libro quatro pithanon a Paulo epitomarum
+
+Si quid bello captum est, in praeda est, non postliminio redit. Paulus. Immo si in bello captus pace facta domum refugit, deinde renovato bello capitur, postliminio redit ad eum, a quo priore bello captus erat, si modo non convenerit in pace, ut captivi redderentur.
+
+49.15.29
+
+Labeo libro sexto pithanon a Paulo epitomarum
+
+Si postliminio redisti, nihil, dum in hostium potestate fuisti, usucapere potuisti. Paulus. Immo si quid servus tuus peculii nomine, dum in eo statu esses, possederit, id eo quoque tempore usucapere poteris, quoniam eas res etiam inscientes usucapere solemus et eo modo etiam hereditas nondum nato postumo aut nondum adita augeri per servum hereditarium solet.
+
+49.15.30
+
+Labeo libro octavo pithanon a Paulo epitomarum
+
+Si id, quod nostrum hostes ceperunt, eius generis est, ut postliminio redire possit: simul atque ad nos redeundi causa profugit ab hostibus et intra fines imperii nostri esse coepit, postliminio redisse existimandum est. Paulus. Immo cum servus civis nostri ab hostibus captus inde aufugit et vel in urbe Roma ita est, ut neque in domini sui potestate sit neque ulli serviat, nondum postliminio redisse existimandum est.
+
+
+* 49.16.0. De re militari.
+
+
+49.16.1
+
+Ulpianus libro sexto ad edictum
+
+Miles, qui in commeatu agit, non videtur rei publicae causa abesse.
+
+49.16.2
+
+Menenius libro primo de re militari
+
+pr. Militum delicta sive admissa aut propria sunt aut cum ceteris communia: unde et persecutio aut propria aut communis est. Proprium militare est delictum, quod quis uti miles admittit.
+
+1. Dare se militem, cui non licet, grave crimen habetur: et augetur, ut in ceteris delictis, dignitate gradu specie militiae.
+
+49.16.3
+
+Modestinus libro quatro de poenis
+
+pr. Desertorum auditum ad suum ducem cum elogio praeses mittet, praeterquam si quid gravius ille desertor in ea provincia, in qua repertus est, admiserit: ibi enim eum plecti poena debere, ubi facinus admissum est, divi Severus et Antoninus rescripserunt.
+
+1. Poenae militum huiuscemodi sunt: castigatio, pecuniaria multa, munerum indictio, militiae mutatio, gradus deiectio, ignominiosa missio. Nam in metallum aut in opus metalli non dabuntur nec torquentur.
+
+2. Emansor est, qui diu vagatus ad castra regreditur.
+
+3. Desertor est, qui per prolixum tempus vagatus reducitur.
+
+4. Is, qui exploratione emanet hostibus insistentibus aut qui a fossato recedit, capite puniendus est.
+
+5. Qui stationis munus relinquit, plus quam emansor est: itaque pro modo delicti aut castigatur aut gradu militiae deicitur.
+
+6. Si praesidis vel cuiusvis praepositi ab excubatione quis desistat, peccatum desertionis subibit.
+
+7. Si ad diem commeatus quis non veniat, perinde in eum statuendum est, ac si emansisset vel deseruisset, pro numero temporis, facta prius copia docendi, num forte casibus quibusdam detentus sit, propter quos venia dignus videatur.
+
+8. Qui militiae tempus in desertione implevit, emerito privatur.
+
+9. Si plures simul primo deseruerint, deinde intra certum tempus reversi sint, gradu pulsi in diversa loca distribuendi sunt. Sed tironibus parcendum est: qui si iterato hoc admiserint, poena competenti adficiuntur.
+
+10. Is, qui ad hostem confugit et rediit, torquebitur ad bestiasque vel in furcam damnabitur, quamvis milites nihil eorum patiantur.
+
+11. Et is, qui volens transfugere adprehensus est, capite punitur.
+
+12. Sed si ex improviso, dum iter quis facit, capitur ab hostibus, inspecto vitae eius praecedentis actu venia ei dabitur, et, si expleto tempore militiae redeat, ut veteranus restituetur et emerita accipiet.
+
+13. Miles, qui in bello arma amisit vel alienavit, capite punitur: humane militiam mutat.
+
+14. Qui aliena arma subripuit, gradu militiae pellendus est.
+
+15. In bello qui rem a duce prohibitam fecit aut mandata non servavit, capite punitur, etiamsi res bene gesserit.
+
+16. Sed qui agmen excessit, ex causa vel fustibus caeditur vel mutare militiam solet.
+
+17. Nec non et si vallum quis transcendat aut per murum castra ingrediatur, capite punitur.
+
+18. Si vero quis fossam transiluit, militia reicitur.
+
+19. Qui seditionem atrocem militum concitavit, capite punitur:
+
+20. Si intra vociferationem aut levem querellam seditio mota est, tunc gradu militiae deicitur.
+
+21. Et cum multi milites in aliquod flagitium conspirent vel si legio deficiat, avocari militia solent.
+
+22. Qui praepositum suum protegere noluerunt vel deseruerunt, occiso eo capite puniuntur.
+
+49.16.4
+
+Menenius libro primo de re militari
+
+pr. Qui cum uno testiculo natus est quive amisit, iure militabit secundum divi Traiani rescriptum: nam et duces Sulla et Cotta memorantur eo habitu fuisse naturae.
+
+1. Ad bestias datus si profugit et militiae se dedit, quandoque inventus capite puniendus est: idemque observandum est in eo, qui legi se passus est.
+
+2. In insulam deportatus si effugiens militiae se dedit lectusve dissimulavit, capite puniendus est.
+
+3. Temporarium exilium voluntario militi insulae relegationem adsignat, dissimulatio perpetuum exilium.
+
+4. Ad tempus relegatus si expleto spatio fugae militem se dedit, causa damnationis quaerenda est, ut, si contineat infamiam perpetuam, idem observetur, si transactum de futuro sit et in ordinem redire potest et honores petere, militiae non prohibetur.
+
+5. Reus capitalis criminis voluntarius miles secundum divi Traiani rescriptum capite puniendus est, nec remittendus est eo, ubi reus postulatus est, sed, ut accedente causa militiae, audiendus:
+
+6. si dicta causa sit vel requirendus adnotatus, ignominia missus ad iudicem suum remittendus est nec recipiendus postea volens militare, licet fuerit absolutus.
+
+7. Adulterii vel aliquo iudicio publico damnati inter milites non sunt recipiendi.
+
+8. Non omnis, qui litem habuit et ideo militaverit, exauctorari iubetur, sed qui eo animo militiae se dedit, ut sub optentu militiae pretiosiorem se adversario faceret. Nec tamen facile indulgendum, iudicationis qui negotium antehabuerunt: sed si in transactione reccidit, indulgendum est. Exauctoratus eo nomine non utique infamis erit nec prohibendus lite finita militiae eiusdem ordinis se dare: alioquin et si relinquat litem vel transigat, retinendus est.
+
+9. Qui post desertionem in aliam militiam nomen dederunt legive passi sunt, imperator noster rescripsit et hos militariter puniendos.
+
+10. Gravius autem delictum est detrectare munus militiae quam adpetere: nam et qui ad dilectum olim non respondebant, ut proditores libertatis in servitutem redigebantur. Sed mutato statu militiae recessum a capitis poena est, quia plerumque voluntario milite numeri supplentur.
+
+11. Qui filium suum subtrahit militiae belli tempore, exilio et bonorum parte multandus est: si in pace, fustibus caedi iubetur et requisitus iuvenis vel a patre postea exhibitus in deteriorem militiam dandus est: qui enim se sollicitavit ab alio, veniam non meretur.
+
+12. Eum, qui filium debilitavit dilectu per bellum indicto, ut inhabilis militiae sit, praeceptum divi Traiani deportavit.
+
+13. Edicta Germanici Caesaris militem desertorem faciebant, qui diu afuisset, ut is inter emansores haberetur. Sed sive redeat quis et offerat se, sive deprehensus offeratur, poenam desertionis evitat: nec interest, cui se offerat vel a quo deprehendatur.
+
+14. Levius itaque delictum emansionis habetur, ut erronis in servis, desertionis gravius, ut in fugitivis.
+
+15. Examinantur autem causae semper emansionis et cur et ubi fuerit et quid egerit: et datur venia valetudini, affectioni parentium et adfinium, et si servum fugientem persecutus est vel si qua huiusmodi causa sit. Sed et ignoranti adhuc disciplinam tironi ignoscitur.
+
+49.16.5
+
+Menenius libro secundo de re militari
+
+pr. Non omnes desertores similiter puniendi sunt, sed habetur et ordinis stipendiorum ratio, gradus militiae vel loci, muneris deserti et anteactae vitae: sed et numerus, si solus vel cum altero vel cum pluribus deseruit, aliudve quid crimen desertioni adiunxerit: item temporis, quo in desertione fuerit: et eorum, quae postea gesta fuerint. Sed et si fuerit ultro reversus, non cum necessitudine, non erit eiusdem sortis.
+
+1. Qui in pace deseruit, eques gradu pellendus est, pedes militiam mutat. In bello idem admissum capite puniendum est.
+
+2. Qui desertioni aliud crimen adiungit, gravius puniendus est: et si furtum factum sit, veluti alia desertio habebitur: ut si plagium factum vel adgressura abigeatus vel quid simile accesserit.
+
+3. Desertor si in urbe inveniatur, capite puniri solet: alibi adprehensus ex prima desertione restitui potest, iterum deserendo capite puniendus est.
+
+4. Qui in desertione fuit, si se optulerit, ex indulgentia imperatoris nostri in insulam deportatus est.
+
+5. Qui captus, cum poterat redire, non rediit, pro transfuga habetur. Item eum, qui in praesidio captus est, in eadem condicione esse certum est: si tamen ex improviso, dum iter facit aut epistulam fert, capiatur quis, veniam meretur.
+
+6. A barbaris remissos milites ita restitui oportere Hadrianus rescripsit, si probabunt se captos evasisse, non transfugisse. Sed hoc licet liquido constare non possit, argumentis tamen cognoscendum est. Et si bonus miles antea aestimatus fuit, prope est, ut adfirmationi eius credatur: si remansor aut neglegens suorum aut segnis aut extra contubernium agens, non credetur ei.
+
+7. Si post multum temporis redit qui ab hostibus captus est et captum eum, non transfugisse constiterit: ut veteranus erit restituendus et praemia et emeritum capit.
+
+8. Qui transfugit et postea multos latrones adprehendit et transfugas demonstravit, posse ei parci divus Hadrianus rescripsit: ei tamen pollicenti ea nihil permitti oportere.
+
+49.16.6
+
+Menenius libro tertio de re militari
+
+pr. Omne delictum est militis, quod aliter, quam disciplina communis exigit, committitur: veluti segnitiae crimen vel contumaciae vel desidiae.
+
+1. Qui manus intulit praeposito, capite puniendus est. Augetur autem petulantiae crimen dignitate praepositi.
+
+2. Contumacia omnis adversus ducem vel praesidem militis capite punienda est.
+
+3. Qui in acie prior fugam fecit, spectantibus militibus propter exemplum capite puniendus est.
+
+4. Exploratores, qui secreta nuntiaverunt hostibus, proditores sunt et capitis poenas luunt.
+
+5. Sed et caligatus, qui metu hostium languorem simulavit, in pari causa eis [eius] est.
+
+6. Si quis commilitonem vulneravit, si quidem lapide, militia reicitur, si gladio, capital admittit.
+
+7. Qui se vulneravit vel alias mortem sibi conscivit, imperator Hadrianus rescripsit, ut modus eius rei statutus sit, ut, si impatientia doloris aut taedio vitae aut morbo aut furore aut pudore mori maluit, non animadvertatur in eum, sed ignominia mittatur, si nihil tale praetendat, capite puniatur. Per vinum aut lasciviam lapsis capitalis poena remittenda est et militiae mutatio irroganda.
+
+8. Qui praepositum suum non protexit, cum posset, in pari causa factori habendus est: si resistere non potuit, parcendum ei.
+
+9. Sed et in eos, qui praefectum centuriae a latronibus circumventum deseruerunt, animadverti placuit.
+
+49.16.7
+
+Tarruntius libro secundo de re militari
+
+Proditores transfugae plerumque capite puniuntur et exauctorati torquentur: nam pro hoste, non pro milite habentur.
+
+49.16.8
+
+Ulpianus libro octavo disputationum
+
+Qui status controversiam patiuntur, licet re vera liberi sunt, non debent per id tempus nomen militiae dare, maxime lite ordinata, sive ex libertate in servitutem sive contra petantur. Nec hi quidem, qui ingenui bona fide serviunt: sed nec qui ab hostibus redempti sunt, priusquam se luant.
+
+49.16.9
+
+Marcianus libro tertio institutionum
+
+pr. Milites prohibentur praedia comparare in his provinciis, in quibus militant, praeterquam si paterna eorum fiscus distrahat: nam hanc speciem Severus et Antoninus remiserunt. Sed et stipendiis impletis emere permittuntur. Fisco autem vindicatur praedium illicite comparatum, si delatus fuerit. Sed et si nondum delata causa stipendia impleta sint vel missio contigerit, delationi locus non est.
+
+1. Milites si heredes extiterint, possidere ibi praedia non prohibentur.
+
+49.16.10
+
+Paulus libro singulari regularum
+
+pr. Qui excubias palatii deseruerit, capite punitur.
+
+1. Sed ex causa desertionis restitutus in militiam non aliter medii temporis stipendium et donativa accipit, nisi hoc liberalitas principalis ei specialiter indulserit.
+
+49.16.11
+
+Marcianus libro secundo regularum
+
+Ab omni militia servi prohibentur: alioquin capite puniuntur.
+
+49.16.12
+
+Macer libro primo de re militari
+
+pr. Officium regentis exercitum non tantum in danda, sed etiam in observanda disciplina constitit.
+
+1. Paternus quoque scripsit debere eum, qui se meminerit armato praeesse, parcissime commeatum dare, equum militarem extra provinciam duci non permittere, ad opus privatum piscatum venatum militem non mittere. Nam in disciplina Augusti ita cavetur: "Etsi scio fabrilibus operibus exerceri milites non esse alienum, vereor tamen, si quicquam permisero, quod in usum meum aut tuum fiat, ne modus in ea re non adhibeatur, qui mihi sit tolerandus".
+
+2. Officium tribunorum est vel eorum, qui exercitui praesunt, milites in castris continere, ad exercitationem producere, claves portarum suscipere, vigilias interdum circumire, frumentationibus commilitonum interesse, frumentum probare, mensorum fraudem coercere, delicta secundum suae auctoritatis modum castigare, principiis frequenter interesse, querellas commilitonum audire, valetudinarios inspicere.
+
+49.16.13
+
+Macer libro secundo de re militari
+
+pr. Milites agrum comparare prohibentur in ea provincia, in qua bellica opera peragunt, scilicet ne studio culturae militia sua avocentur. Et ideo domum comparare non prohibentur. Sed et agros in alia provincia comparare possunt. Ceterum in ea provincia, in quam propter proelii causam venerunt, ne sub alieno quidem nomine eis agrum comparare licet: alioquin fisco vindicabitur.
+
+1. Is autem, qui contra disciplinam agrum comparaverit, si nulla de ea re quaestione mota missionem acceperit, inquietari prohibetur.
+
+2. Illud constat huius praescriptionis commodum ad eos, qui ignominiae causa missi sunt, non pertinere, quod praemii loco veteranis concessum intellegitur: et ideo et ad eum, qui causaria missus est, potest dici pertinere, cum huic quoque praemium praestatur.
+
+3. Missionum generales causae sunt tres: honesta causaria ignominiosa. Honesta est, quae tempore militiae impleto datur: causaria, cum quis vitio animi vel corporis minus idoneus militiae renuntiatur: ignominiosa causa est, cum quis propter delictum sacramento solvitur. Et is, qui ignominia missus est, neque Romae neque in sacro comitatu agere potest. Et si sine ignominiae mentione missi sunt, nihilo minus ignominia missi intelleguntur.
+
+4. Inreverens miles non tantum a tribuno vel centurione, sed etiam a principali coercendus est. Nam eum, qui centurioni castigare se volenti restiterit, veteres notaverunt: si vitem tenuit, militiam mutat: si ex industria fregit vel manum centurioni intulit, capite punitur.
+
+5. Eius fugam, qui, cum sub custodia vel in carcere esset discesserit, in numero desertorum non computandam menander scripsit, quia custodiae refuga, non militiae desertor est. Eum tamen, qui carcere effracto fugerit, etiamsi ante non deseruerit, capite puniendum Paulus scripsit.
+
+6. Desertorem, qui a patre suo fuerat oblatus, in deteriorem militiam divus pius dari iussit, ne videatur, inquit, pater ad supplicium filium optulisse. Item divus Severus et Antoninus eum, qui post quinquennium desertionis se optulit, deportari iusserunt. Quod exemplum et in ceteris sequi nos debere Menander scripsit.
+
+49.16.14
+
+Paulus libro singulari de poenis militum
+
+pr. Qui commeatus spatium excessit, emansoris vel desertoris loco habendus est. Habetur tamen ratio dierum, quibus tardius reversus est: item temporis navigationis vel itineris. Et si se probet valetudine impeditum vel a latronibus detentum similive casu moram passum, dum non tardius a loco profectum se probet, quam ut occurrere posset intra commeatum, restituendus est.
+
+1. Arma alienasse grave crimen est et ea culpa desertioni exaequatur, utique si tota alienavit: sed et si partem eorum, nisi quod interest. Nam si tibiale vel umerale alienavit, castigari verberibus debet, si vero loricam scutum galeam gladium, desertori similis est. Tironi in hoc crimine facilius parcetur armorumque custodi plerumque ea culpa imputatur, si arma militi commisit non suo tempore.
+
+49.16.15
+
+Papinianus libro 19 responsorum
+
+Ex causa desertionis notatus ac restitutus temporis, quod in desertione fuerit, impendiis expungitur. Quod si ratio constiterit neque desertorem fuisse apparuerit, omnia stipendia citra temporis finem redduntur.
+
+49.16.16
+
+Paulus libro quinto sententiarum
+
+pr. Qui metu criminis, in quo iam reus fuerat postulatus, nomen militiae dedit, statim sacramento solvendus est.
+
+1. Miles turbator pacis capite punitur.
+
+
+* 49.17.0. De castrensi peculio.
+
+
+49.17.1
+
+Ulpianus libro 14 ad edictum
+
+Filii familias militis si peculium apud patrem remansit sine testamento filio defuncto, pater ipsi heres non fit, sed tamen heres is fiet, quibus filius fuit.
+
+49.17.2
+
+Ulpianus libro 67 ad edictum
+
+Si filius familias miles decesserit, si quidem intestatus, bona eius non quasi hereditas, sed quasi peculium patri deferuntur: si autem testamento facto, hic pro hereditate habetur castrense peculium.
+
+49.17.3
+
+Ulpianus libro octavo ad legem Iuliam et Papiam
+
+Si mulier filio viri militi ad castrenses vel militares forte res comparandas reliquerit pecuniam, utique castrense peculio ea quae comparantur adnumerari incipiunt.
+
+49.17.4
+
+Tertullianus libro singulari de castrensi peculio
+
+pr. Miles praecipua habere debet, quae tulit secum in castra concedente patre.
+
+1. Actionem persecutionemque castrensium rerum semper filius etiam invito patre habet.
+
+2. Si pater familias militiae tempore vel post missionem adrogandum se praebuerit, videndum erit, ne huic quoque permissa intellegatur earum rerum administratio, quas ante adrogationem in castris adquisierit, quamvis constitutiones principales de his loquantur, qui ab initio cum essent filii familias militaverint. Quod admittendum est.
+
+49.17.5
+
+Ulpianus libro sexto ad Sabinum
+
+Miles filius familias a commilitone vel ab eo, quem per militiam cognovit, heres institutus et citra iussum patris suo arbitrio recte pro herede geret.
+
+49.17.6
+
+Ulpianus libro 32 ad Sabinum
+
+Si militi filio familias uxor servum manumittendi causa donaverit, an suum libertum fecerit, videamus, quia peculiares et servos et libertos potuit habere. Et magis est, ut hoc castrensi peculio non adnumeretur, quia uxor ei non propter militiam nota esset. Plane si mihi proponas ad castra eunti marito uxorem servos donasse, ut manumittat et habiles ad militiam libertos habeat, potest dici sua voluntate sine patris permissu manumittentem ad libertatem perducere.
+
+49.17.7
+
+Ulpianus libro 33 ad edictum
+
+Si castrense peculium maritus habeat, in quantum facere potest condemnabitur, quia etiam non castrensibus creditoribus ex eo peculio magis est eum cogi respondere.
+
+49.17.8
+
+Ulpianus libro 45 ad edictum
+
+Si forte uxor vel cognatus vel quis alius non ex castris notus filio familias donaverit quid vel legaverit et expresserit nominatim, ut in castrensi peculio habeat: an possit castrensi peculio adgregari? Et non puto: veritatem enim spectamus, an vero castrensis notitia vel affectio fuit, non quod quis finxit.
+
+49.17.9
+
+Ulpianus libro quarto disputationum
+
+Proponebatur filius familias miles testamento facto extraneum heredem scripsisse, patre deinde superstite decessisse, pater deliberante herede instituto et ipse diem functus, deinde heres institutus repudiasse hereditatem. Quaerebatur, ad quem castrense peculium pertineret. Dicebam castrense peculium filii familias, si quidem testatus decessit, quasi hereditatem deferri heredi scripto, sive extraneum scripsit heredem sive patrem. Sed cum nihil de peculio decernit filius, non nunc obvenisse patri, sed non esse ab eo profectum creditur. Denique si servo filii castrensi libertatem pater adscripserit moxque filius vivo patre defunctus sit, non impeditur libertas, cum, si filius patri supervixerit, impediatur libertas. Unde Marcellus putat necessarium quoque heredem servum filii peculiarem patri existere posse, si filio pater supervixerit. Idem referebam et si rem peculiarem filii pater legaverit: nam eodem casu, quo libertatem competere diximus, legatum quoque vel debebitur vel impedietur. Quibus ita praemissis et in proposito dicebam, cum heres non adiit hereditatem, retro peculium patris bonis accessisse: unde posse dici etiam aucta patris bona per hanc repudiationem. Nec est novum, ut ex postfacto aliquis successorem habuisse videatur. Nam et si filius eius, qui ab hostibus captus est, decesserit patre captivo vivo, si quidem pater regrederetur, quasi filius familias peculium haberet: enimvero si ibidem pater decesserit, quasi pater familias legitimum habebit successorem, et retro habuisse creditor eius successor ea quoque, quae medio tempore filius iste quaesiit, nec heredi patris, sed ipsi filio quaesita videbuntur.
+
+49.17.10
+
+Pomponius libro singulari regularum ex nota Marcelli
+
+Constat nec patribus aliquid ex castrensibus bonis filiorum deberi.
+
+49.17.11
+
+Macer libro secundo de re militari
+
+Castrense peculium est, quod a parentibus vel cognatis in militia agenti donatum est vel quod ipse filius familias in militia adquisiit, quod, nisi militaret, adquisiturus non fuisset. Nam quod erat et sine militia adquisiturus, id peculium eius castrense non est.
+
+49.17.12
+
+Papinianus libro 14 quaestionum
+
+Pater, qui dat in adoptionem filium militem, peculium ei auferre non potest, quod semel iure militiae filius tenuit. Qua ratione nec emancipando filium peculium ei aufert, quod nec in familia retento potest auferre.
+
+49.17.13
+
+Papinianus libro 16 quaestionum
+
+Divus Hadrianus rescripsit in eo, quem militantem uxor heredem instituerat filium, extitisse heredem et ab eo servos hereditarios manumissos proprios eius libertos fieri.
+
+49.17.14
+
+Papinianus libro 27 quaestionum
+
+pr. Filius familias miles si captus apud hostes vita fungatur, lex Cornelia subveniet scriptis heredibus: quibus cessantibus iure pristino peculium pater habebit.
+
+1. Proxima species videtur, ut scriptis heredibus deliberantibus, quod servus interim stipulatus est vel ab alio sibi traditum accepit, quod quidem ad patris personam attinet, si forte peculium apud eum resederit, nullius momenti videatur, cum in illo tempore non fuerit servus patris: quod autem ad scriptos heredes, in suspenso fuisse traditio itemque stipulatio intellegatur: ut enim hereditarius fuisse credatur, post aditam fit hereditatem. Sed paterna verecundia nos movet, quatenus et in illa specie, ubi iure pristino apud patrem peculium remanet, etiam adquisitio stipulationis vel rei traditae per servum fiat.
+
+2. Legatum, quod ei servo relictum est, quamvis tunc propter incertum nulli sit adquisitum, omisso testamento patri tunc primum per servum adquiretur, cum, si fuisset exemplo hereditatis peculio adquisitum, ius patris hodie non consideraretur.
+
+49.17.15
+
+Papinianus libro 35 quaestionum
+
+pr. Pater militi filio reverso quod donat, castrensis peculii non facit, sed alterius peculii, perinde ac si filius numquam militasset.
+
+1. Si stipulanti filio spondeat, si quidem ex causa peculii castrensis, tenebit stipulatio: ceterum ex qualibet alia causa non tenebit.
+
+2. Si pater a filio stipulatur, eadem distinctio servabitur.
+
+3. Servus peculii, quod ad filium spectat, ab extero si stipuletur aut per traditionem accipiat, sine distinctione causarum res ad filium pertinebit: non enim ut filius duplex ius sustinet patris et filii familias, ita servus, qui peculii castrensis est quique nullo iure, quamdiu filius vivit, patri subiectus est, aliquid adquirere simpliciter stipulando vel accipiendo patri potest. Quae ratio suadet, ut, si ab ipso patre servus, qui ad filium pertinet, stipuletur ex quacumque causa vel traditum accipiat, sic adquiratur filio res et stipulatio, quemadmodum si exter promisisset, quoniam persona stipulantis et accipientis ea est, ut sine differentia causarum quod per eum agitur emolumentum filii spectet.
+
+4. Si servi pater usum fructum amiserit, cuius proprietatem in castrensi peculio filius habebat, plenam proprietatem habebit filius.
+
+49.17.16
+
+Papinianus libro 19 responsorum
+
+pr. Dotem filio familias datam vel promissam in peculio castrensi non esse respondi. Nec ea res contraria videbitur ei, quod divi Hadriani temporibus filium familias militem uxori heredem extitisse placuit et hereditatem in castrense peculium habuisse. Nam hereditas adventicio iure quaeritur, dos autem matrimonio cohaerens oneribus eius ac liberis communibus, qui sunt in avi familia, confertur.
+
+1. Hereditatem castrensi peculio non videri quaesitam respondi, quam frater patruelis in alia provincia stipendia merens fratri patrueli, cum quo numquam militavit, reliquit: sanguinis etenim ratio, non militiae causa meritum hereditatis accipiendae praebuerat.
+
+49.17.17
+
+Papinianus libro secundo definitionum
+
+pr. Pater, qui castrense peculium intestati filii retinebit, aes alienum intra modum eius et annum utilem iure praetorio solvere cogitur: idem, si testamento scriptus heres extiterit, perpetuo civiliter ut heres convenietur.
+
+1. Pater a filio milite vel qui militavit heres institutus testamenti causam omisit et castrense peculium possidet: legitimi heredis exemplo cogetur ad finem peculii perpetuo legata praestare. Quod si filius post annum quam militare desierat iure communi testamento facto vita decessit, ratione Falcidiae retinebitur quarta. Ceterum si testamenti causam pater omisit, cum peculium creditoribus solvendo non esset, nihil dolo videbitur fecisse, quamvis temporis incurrat compendium.
+
+49.17.18
+
+Maecenatus libro primo fideicommissorum
+
+pr. Ex castrensi peculio servus a patre heres institui potest et filium necessarium heredem patri facit.
+
+1. Et in summa ea res hi actus patris, qui ad praesens alienationem alicuius iuris de castrensi peculio praestant, impediuntur: hi vero, qui non statim quidem, sed postea efficere solent, eo tempore animadvertentur, quo habere effectum consuerunt, ut, si sit filius, cui auferatur, nihil agatur, si ante decesserit, actus patris non impediatur.
+
+2. Itaque negabimus patrem filio salvo communi dividundo agentem proprietatem alienaturum, exemplo dotalis praedii. Sed nec si socius ultro cum eo agat, quicquam agetur, veluti si cum eo ageret, cui bonis interdictum est.
+
+3. Servos ex eo peculio usu fructu, item praedia tam usu fructu quam ceteris servitutibus pater liberare poterit: sed et servitutes his adquirere. Id enim et eum, cui bonis interdictum est, verum est consequi posse. Neque autem servis ex eo peculio neque praediis usum fructum vel servitutem imponere pater potest.
+
+4. Si quando ex eo peculio filius rem alienam bona fide tenebit, an pater eius in rem vel ad exhibendum actionem pati debeat, ut ceterorum nomine, quaeritur. Sed verius est, cum hoc peculium a patris bonis separetur, defensionis necessitatem patri non imponendam.
+
+5. Sed nec cogendus est pater aes alienum, quod filius peculii nomine, quod in castris adquisiit, fecisse dicetur, de peculio actionem pati: et, si sponte patiatur, ut quilibet defensor satisdato filium in solidum, non peculio tenus defendere debet. Sed et eius filii nomine non aliter movere actiones potest, quam si satis dederit eum ratam rem habiturum.
+
+49.17.19
+
+Tryphoninus libro 18 disputationum
+
+pr. De hereditate ab adgnato commilitone data Scaevola noster dubitabat, quia potuit et ante notus et amicus dare, potuit et non dare, nisi commilitium caritatem auxisset. Nobis ita videtur, si ante commilitium factum sit testamentum, non esse peculii castrensis eam hereditatem, si postea, contra.
+
+1. Sed si servus peculii castrensis a quocumque sit heres scriptus, iussu militis adire debebit hereditatem eaque fiet bonorum castrensis peculii.
+
+2. Filius familias paganus de peculio castrensi fecit testamentum et, dum ignorat patri se suum heredem extitisse, decessit. Non potest videri pro castrensibus bonis testatus, pro paternis intestatus decessisse, quamvis id in milite etiamnunc rescriptum sit, quia miles ab initio pro parte testatus, pro parte intestatus potuerat mori, quod ius iste non habuerit, non magis quam sine observatione legum facere testamentum. Necessario ergo castrensis peculii heres scriptus universa bona habebit, perinde ac si pauperrimus facto testamento decessisset ignorans se locupletatum per servos alio loco agentes.
+
+3. Pater peculii castrensis filii servum testamento liberum esse iussit: intestato defuncto filio familias, mox patre quaeritur, an libertas servo competat. Occurrebat enim non posse dominium apud duos pro solido fuisse: denique filium posse manumittere talis peculii servum Hadrianus constituit: et si testamento tam filii quam patris idem servus accepisset libertatem et utrique pariter decessissent, non dubitaretur ex testamento filii liberum eum esse. Sed in superiore casu pro libertate a patre data illa dici possunt, numquid, quoad utatur iure concesso filius in castrensi peculio, eousque ius patris cessaverit, quod si intestatus decesserit filius, postliminii cuiusdam similitudine pater antiquo iure habeat peculium retroque videatur habuisse rerum dominia.
+
+4. Non tamen ut heres vivo filio vindictam servo imposuit, dicatur eum post mortem intestati filii ex illa manumissione liberum factum esse.
+
+5. Quid autem, si testamentum fecerit filius et non sit eius adita hereditas? Non tam facile est dicere continuatum patri post mortem filii rerum peculii dominium, cum medium tempus, quo deliberant instituti heredes, imaginem successioni praestiterit. Alioquin et si adita sit ab instituto hereditas filii, dicetur a patre ad eum transisse proprietatem, quod absurdum est. Si in pendenti, ut in aliis, et in hac specie habeamus dominia, ut ex facto retro fuisse aut non fuisse patris credamus? Secundum quod difficile erit expedire, si, dum deliberant heredes, dies cesserit legati servo dati istius peculii testamento eius, ex quo pater nihil capere potuisset, an id ad ipsum pertineat, cum utique ad heredem filii pertineret. Facilior tamen de libertate servi deliberatio est in specie, in qua intestatus filius decessisse proponitur. Non est ergo ratio respondendi competere libertatem eo tempore datam, quo non fuit in dominio patris? Favorabilem tamen sententiam contrariam in utroque casu non negamus.
+
+49.17.20
+
+Paulus libro singulari ad regularum Catonianam
+
+Sed si ponas filium testamentum fecisse et patrem heredem instituisse: cum utique pater testamento suo servo filii libertatem dedisset, qui ad eum ex testamento filii pertinere coeperit, videndum est, numquid ei comparari debeat, qui, cum manumitteretur, alienus erat, deinde postea adquisitus est. Sed favorabile est libertatem a patre relictam admittere: et ab initio patris esse eum videri ex hoc, quod postea contigit, ostenditur.
+
+
+* 49.18.0. De veteranis.
+
+
+49.18.1
+
+Menenius libro tertio de re militari
+
+Veteranorum privilegium inter cetera etiam in delictis habet praerogativam, ut separentur a ceteris in poenis. Nec ad bestias itaque veteranus datur nec fustibus caeditur.
+
+49.18.2
+
+Ulpianus libro tertio opinionum
+
+pr. Honeste sacramento solutis data immunitas etiam in eis civitatibus, apud quas incolae sunt, valet: nec labefactatur, si quis eorum voluntate sua honorem aut munus susceperit.
+
+1. Vectigalia et patrimoniorum onera sollemnia omnes sustinere oportet.
+
+49.18.3
+
+Marcianus libro secundo regularum
+
+Veteranis et liberis veteranorum idem honor habetur, qui et decurionibus: igitur nec in metallum damnabuntur nec in opus publicum vel ad bestias, nec fustibus caeduntur.
+
+49.18.4
+
+Ulpianus libro quarto de officio proconsulis
+
+pr. Viae sternendae immunitatem veteranos non habere Iulio Sossiano veterano rescriptum est. Nam nec ab intributionibus, quae possessionibus fiunt, veteranos esse excusatos palam est.
+
+1. Sed et naves eorum angariari posse Aelio Firmo et Antonio Claro veteranis rescriptum est.
+
+49.18.5
+
+Paulus libro singulari de cognitionibus
+
+pr. Veteranos divus magnus Antoninus cum patre suo rescripsit a navium fabrica excusari.
+
+1. Sed et ab exactione tributorum habent immunitatem, hoc est ne exactores tributorum constituantur.
+
+2. Sed veterani, qui passi sunt in ordinem legi, muneribus fungi coguntur.

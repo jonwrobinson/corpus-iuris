@@ -1,0 +1,1743 @@
+
+ 
+DOMINI NOSTRI SACRATISSIMI PRINCIPIS
+IUSTINIANI
+IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
+DIGESTORUM SEU PANDECTARUM
+liber tricesimus tertius
+ 
+ 
+( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
+ 
+
+
+    * 33.1.0. De annuis legatis et fideicommissis.
+    * 33.2.0. De usu et de usu fructu et reditu et habitatione et operis per legatum (..)
+    * 33.3.0. De servitute legata.
+    * 33.4.0. De dote praelegata.
+    * 33.5.0. De optione vel electione legata.
+    * 33.6.0. De tritico vino vel oleo legato.
+    * 33.7.0. De instructo vel instrumento legato.
+    * 33.8.0. De peculio legato.
+    * 33.9.0. De penu legata
+    * 33.10.0. De suppellectile legata.
+
+ 
+
+  33.1.0. De annuis legatis et fideicommissis.
+
+ 
+33.1.1
+
+Pomponius libro quinto ad Sabinum
+
+Cum in annos singulos quid legatum sit neque adscriptum, quo loco detur: quocumque loco petetur dari debet, sicuti ex stipulatu aut nomine facto petatur.
+
+33.1.2
+
+Pomponius libro sexto ad Sabinum
+
+In annos singulos heres damnatus sinere me frui fundo si initio anni, quo colere deberem, moram fecerit, licet postea patiatur, quia cultura sim exclusus, tamen totius anni nomine mihi tenebitur: quemadmodum si diurnas operas Stichi dare damnatus non a mane sed a sexta diei hora det, totius diei nomine tenetur.
+
+33.1.3
+
+Ulpianus libro 24 ad Sabinum
+
+pr. Si legatum sit relictum annua bima trima die, triginta forte, dena per singulos debentur annos, licet non fuerit adiectum "aequis pensionibus".
+
+1. Proinde et si adiectum fuerit "pensionibus", licet non sit insertum "aequis", item si scriptum fuerit "aequis", licet non sit adiectum "pensionibus", dicendum erit aequas fieri.
+
+2. Sed si adiectum "pensionibus inaequis", inaequales debebuntur: quae ergo debeantur, videamus. Et puto eas deberi (nisi specialiter testator electionem heredi dedit), quas vir bonus fuerit arbitratus, ut pro facultatibus defuncti et depositione patrimonii debeantur.
+
+3. Sed et si fuerit adiectum "viri boni arbitratu", hoc sequemur, ut pro positione patrimonii sine vexatione et incommodo heredis fiat.
+
+4. Quid si ita "pensionibus, quas putaverit legatarius?" an totum [tostum] petere possit, videamus. Et puto totum non petendum simul, sicut et in heredis electione. Fieri enim pensiones debere testator voluit, quantitates dumtaxat pensionum in arbitrio heredis aut legatarii contulit.
+
+5. Sed si ita sit legatum "heres meus Titio decem trima die dato", utrum pensionibus an vero post triennium debeatur? Et puto sic accipiendum, quasi pater familias de annua bima trima die sensisse proponatur.
+
+6. Si cui certa quantitas legetur et, quoad praestetur, in singulos annos certum aliquid velut usuras iusserit testator praestari, legatum valet: sed in usuris hactenus debet valere, quatenus modum probabilem usurarum non excedit.
+
+33.1.4
+
+Paulus libro 62 ad edictum
+
+Si in singulos annos alicui legatum sit, Sabinus, cuius sententia vera est, plura legata esse ait et primi anni purum, sequentium condicionale: videri enim hanc inesse condicionem "si vivat" et ideo mortuo eo ad heredem legatum non transire.
+
+33.1.5
+
+Modestinus libro decimo responsorum
+
+"A vobis quoque, ceteri heredes, peto, ut uxori meae praestetis, quoad viveret, annuos decem aureos". Uxor supervixit marito quinquennio et quattuor mensibus: quaero, an heredibus eius sexti anni legatum integrum debeatur. Modestinus respondit integri sexti anni legatum deberi.
+
+33.1.6
+
+Modestinus libro 11 responsorum
+
+Annuam pecuniam ad ludos civitati reliquit, quibus praesidere heredes voluit: successores heredum negant se debere, quasi testator tamdiu praestari voluisset, quamdiu praesiderent heredes: quaero igitur, an, cum praesidendi mentionem fecerit, ad tempus fideicommissum an perpetuo praestari voluerit. Modestinus respondit fideicommissum quotannis in perpetuum rei publicae praestandum esse.
+
+33.1.7
+
+Pomponius libro octavo ad Quintum Mucium
+
+Quintus Mucius ait: Si quis in testamento ita scripsit: "Filii filiaeque meae ibi sunto, ubi eos mater sua esse volet, eisque heres meus in annos singulos inque pueros puellasque singulas damnas esto dare cibarii nomine aureos decem": si tutores eam pecuniam dare nolunt ei, apud quem pueri atque puellae sunt, nihil est, quod ex testamento agere possit: nam ea res eo pertinet, uti tutores sciant, quae voluntas testatoris fuit, uti possint eam pecuniam sine periculo dare. Pomponius. In testamentis quaedam scribuntur, quae ad auctoritatem dumtaxat scribentis referuntur nec obligationem pariunt. Haec autem talia sunt. Si te heredem solum instituam et scribam, uti monumentum mihi certa pecunia facias: nullam enim obligationem ea scriptura recipit, sed ad auctoritatem meam conservandam poteris, si velis, facere. Aliter atque si coherede tibi dato dem scripsero: nam sive te solum damnavero, uti monumentum facias, coheres tuus agere tecum poterit familiae herciscundae, uti facias, quoniam interest illius: quin etiam si utrique iussi estis hoc facere, invicem actionem habebitis. Ad auctoritatem scribentis hoc quoque pertinet, cum quis iussit in municipio imagines poni: nam si non honoris municipii gratia id fecisset, sed sua, actio eo nomine nulli competit. Itaque haec Quinti Mucii scriptura: "Liberi mei ibi sunto, ubi eos mater sua esse volet" nullam obligationem parit, sed ad auctoritatem defuncti conservandam id pertinebit, ut ubi iusserit ibi sint. Nec tamen semper voluntas eius aut iussum conservari debet, veluti si praetor doctus sit non expedire pupillum eo morari, ubi pater iusserit, propter vitium, quod pater forte ignoravit in eis personis esse, apud quas morari iussit. Si autem pro cibariis eorum in annos singulos aurei decem relicti sint, sive hoc sermone significantur, apud quos morari mater pupillos voluerit, sive ita acceperimus hunc sermonem, ut ipsis filiis id legatum debeatur, utile erit: et magis enim est, ut providentia filiorum suorum hoc fecisse videatur. Et in omnibus, ubi auctoritas sola testatoris est, neque omnimodo spernenda neque omnimodo observanda est. Sed interventu iudicis haec omnia debent, si non ad turpem causam feruntur, ad effectum perduci.
+
+33.1.8
+
+Gaius libro quinto ad legem Iuliam et Papiam
+
+In singulos annos relictum legatum simile est usui fructui, cum morte finiatur. Sane capitis deminutione non finitur, cum usus fructus finiatur: et usus fructus ita legari potest: "Titio usum fructum fundi lego et quotiensque capite minutus erit, eundem usum fructum ei do". Illud certe amplius est in hoc legato, quod in ingressu cuiuslibet anni si decesserit legatarius, eius anni legatum heredi suo relinquit: quod in usu fructu non ita est, cum fructuarius, etiamsi maturis fructibus, nondum tamen perceptis decesserit, heredi suo eos fructus non relinquet.
+
+33.1.9
+
+Papinianus libro septimo responsorum
+
+Fundus, quem pater familias libertis legatorum nomine, quae in annos singulos relinquit, pignus esse voluit, ex causa fideicommissi rei servandae gratia recte petetur. Paulus notat: hoc admittendum est et in aliis rebus hereditariis, ut et in eas legatarius mittatur.
+
+33.1.10
+
+Papinianus libro octavo responsorum
+
+pr. "Seio amico fidelissimo, si voluerit, sicut meis negotiis interveniebat, eodem modo filiorum meorum intervenire, annuos senos aureos et habitationem qua utitur praestari volo". Non ideo minus annua Seio pro parte hereditaria viventis filiae deberi placuit, quod ex tribus filiis Titiae duo aliis heredibus institutis vita decesserunt, cum tam labor quam pecunia divisionem reciperent.
+
+1. "Medico Sempronio quae viva praestabam, dari volo": ea videntur relicta, quae certam formam erogationis annuae, non incertam liberalitatis voluntatem habuerunt.
+
+2. "Uxori praeter id, quod a me vivo annui nomine accipiebat, aureos centum dari volo": annum videtur et semel centum aureos reliquisse.
+
+3. "Libertis dari volo quae viva praestabam": et habitatio praestabitur: sumptus iumentorum non debebitur, quem actori domina praestare solita fuit utilitatis suae causa: ideo nec sumptum medicamentorum medicus libertus recte petet, quem ut patronam eiusque familiam curaret, acceptabat.
+
+33.1.11
+
+Paulus libro 21 quaestionum
+
+Cum in annos singulos legatur, plura legata esse placet et per singula legata ius capiendi inspicietur. Idem in servo inspiciendum est ex persona dominorum.
+
+33.1.12
+
+Paulus libro 13 responsorum
+
+Gaius Seius praedia diversis pagis Maeviae et Seiae legavit et ita cavit: "Praestari autem volo ex praediis Potitianis praediis Lutatianis annua harundinis milia trecena et salicis mundae annua librarum singula milia": quaero, an id legatum defuncta legataria exstinctum sit. Paulus respondit servitutem iure constitutam non videri neque in personam neque in rem: sed fideicommissi petitionem competisse ei, cui praedia lutatiana legata sunt, et ideo, cum annua legata fuerint, mortua legataria finitum legatum videri.
+
+33.1.13
+
+Scaevola libro quarto responsorum
+
+pr. Maevia nepotem ex Maevio puberem heredem instituit et Lucio Titio ita legavit: "Lucio Titio viro bono, cuius obsequio gratias ago, dari volo annuos quamdiu vivat aureos decem, si rebus nepotis mei interveniat omnemque administrationem rerum nepotis mei ad sollicitudinem suam revocaverit". Quaero, cum Lucius Titius aliquo tempore Maevii negotia gesserit et per eum non stet, quo minus gerat, Publius autem Maevius nollet eum administrare, an fideicommissum praestari debeat. Respondi, si non propter fraudem aliamve quam iustam causam improbandae operae causa remotus esset a negotiis, quae administrare secundum defuncti voluntatem vellet, percepturum legatum.
+
+1. Uxore herede scripta ita cavit: "Libertis meis omnibus alimentorum nomine singulis annuos denarios duodecim ab herede dari volo, si ab uxore mea non recesserint". Quaero, cum pater familias sua voluntate de civitate difficile profectus sit, ea autem adsidue proficiscatur, an liberti cum ea proficisci debeant. Respondi non posse absolute responderi, cum multa oriri possint, quae pro bono sint aestimanda: ideoque huiusmodi varietas viri boni arbitrio dirimenda est. Item quaeritur, cum proficiscens eis nihil amplius optulerit ac per hoc eam secuti non sint, an legatum debeatur. Respondit et hoc ex longinquis brevibusque excursionibus et modo legati aestimandum esse.
+
+33.1.14
+
+Ulpianus libro secundo fideicommissorum
+
+Si cui annuum fuerit relictum sine adiectione summae, nihil videri huic adscriptum mela ait: sed est verior Nervae sententia, quod testator praestare solitus fuerat, id videri relictum: si minus, ex dignitate personae statui oportebit.
+
+33.1.15
+
+Valens libro septimo fideicommissorum
+
+Iavolenus eum, qui rogatus post decem annos restituere pecuniam ante diem restituerat, respondit, si propter capientis personam, quod rem familiarem tueri non posset, in diem fideicommissum relictum probetur et perdituro ei id heres ante diem restituisset, nullo modo liberatum esse: quod si tempus heredis causa prorogatum esset, ut commodum medii temporis ipse sentiret, liberatum eum intellegi: nam et plus eum praestitisse quam debuisset.
+
+33.1.16
+
+Paulus libro tertio ad Neratium
+
+Servus post decem annos liber esse iussus est legatumque ei ex die mortis domini in annos singulos relictum est. Eorum quidem annorum, quibus iam liber erit, legatum debebitur: interim autem heres ei alimenta praestare compellitur.
+
+33.1.17
+
+Labeo libro secundo posteriorum a Iavoleno epitomatorum
+
+pr. Legatum ita est: "Attiae, donec nubat, quinquaginta damnas esto heres meus dare" neque adscriptum est "in annos singulos". Labeo Trebatius praesens legatum deberi putat, sed rectius dicetur id legatum in annos singulos deberi.
+
+1. "Vini Falerni, quod domi nasceretur, quotannis in annos singulos binos culeos heres meus Attio dato". Etiam pro eo anno, quo nihil vini natum est, deberi duos culeos, si modo ex vindemia ceterorum annorum dari possit.
+
+33.1.18
+
+Scaevola libro 14 digestorum
+
+pr. Codicillis testamento confirmatis fundum libertis legavit eumque alienari vetuit, sed pertinere voluit et ad filios libertorum vel ex his natos: deinde haec verba adiecit: "A quibus praestari volo heredi ex reditu eius fundi decem per annos singulos usque ad annos triginta quinque a die mortis meae". Quaesitum est, cum heres a Titio institutus intra trigesimum quintum annum aetatis decesserit, an residui temporis fideicommissum ex verbis supra scriptis heredis quoque heredi debeatur. Respondit deberi, nisi ostendatur a libertis testatorem ad heredis trigesimum quintum annum respexisse.
+
+1. Sticho alumno suo centum et menstruos decem et annuos centum dari voluit et Semproniam, quam heredem ex triente instituerat, rogavit in haec verba: "Fidei tuae committo, Sempronia soror, uti legata, quae alumnis meis reliqui, ex medio recipias et apud te habeas, quoad usque commendatos habeas". Quaesitum est, cum Sempronia, cuius fidei commissum sit, abstinuerat se hereditate antequam secundum voluntatem defuncti perciperet pecuniam alumnis relictam, an Sticho de legatis actio etiam ante vicesimum quintum annum competat. Respondit competere.
+
+33.1.19
+
+Scaevola libro 17  digestorum
+
+pr. Titia herede Seia scripta usum fructum fundi Maevio legavit eiusque fidei commisit in haec verba: "A te, Maevi, ex reditu fundi Speratiani praestari volo arrio Pamphilo et arrio Sticho ex die mortis meae annuos sescentos quotannis, quoad vivent". Quaesitum est, cum Maevius annua alimenta praestiterit, post mortem autem eius fundus ad heredem Titiae pleno iure redierit, an alimenta ex fideicommisso Pamphilo et Sticho debeantur. Respondi nihil proponi, cur debeant praestari ab heredibus Titiae, cum ab usufructuario alimenta relicta sunt. Idem quaesiit, an ab heredibus Maevii legatarii praestanda sint. Respondit nihil ab herede legatarii, nisi testatorem manifeste probetur voluisse etiam finito usu fructu praestari, si modo id, quod ex usu fructu receptum esset, ei rei parandae sufficeret.
+
+1. Qui Marco homini docto certa annua praestabat, testamento cavit: "Domina sanctissima, scio te de amicis meis curaturam, ne quid his desit: verum tamen et marco dari octingenta": quaesitum est, an Marcus praestitis sibi ex causa legati octingentis annua quoque consequi debeat. Respondit nihil proponi, cur non secundum ea, quae in consultatione collata essent, debeantur.
+
+2. "Lucio Titio auri pondo tria, quae viva praestabam". Quaero, cum testatrix quadraginta Titio, quoad viveret, salarii nomine certam summam et amplius festorum dierum nomine certum pondus argenti aut pro eo pretium praestiterit, an eadem ex causa legati vel fideicommissi ab heredibus eius Titio praestari debeant. Respondit nihil proponi, cur praestanda non sunt.
+
+33.1.20
+
+Scaevola libro 18  digestorum
+
+pr. Annua his verbis legavit: "Si morarentur cum matre mea, quam heredem ex parte institui": quaesitum est, an mortua matre condicio adposita defecisse videatur ac per hoc neque cibaria neque vestiaria his debeantur. Respondit secundum ea quae proponerentur deberi.
+
+1. Attia fideicommissum his verbis reliquit: "Quisquis mihi heres erit, fidei eius committo, uti det ex reditu cenaculi mei et horrei post obitum sacerdoti et hierophylaco et libertis, qui in illo templo erunt, denaria decem die nundinarum, quas ibi posui". Quaero, utrum his dumtaxat, qui eo tempore quo legabatur in rebus humanis et in eo officio fuerint, debitum sit, an etiam his qui in loco eorum successerunt. Respondit secundum ea quae proponerentur ministerium nominatorum designatum, ceterum datum templo. Item quaero, utrum uno dumtaxat anno decem fideicommissi nomine debeantur an etiam in perpetuum decem annua praestanda sint. Respondit in perpetuum.
+
+33.1.21
+
+Scaevola libro 22  digestorum
+
+pr. Liberto suo ita legavit: "Praestari volo Philoni, usque dum vivet, quinquagesimam omnis reditus, quae praediis a colonis vel emptoribus fructus ex consuetudine domus meae praestantur". Heredes praedia vendiderunt, ex quorum reditu quinquagesima relicta est: quaesitum est, an pretii usurae, quae ex consuetudine in provincia praestarentur, quinquagesima debeatur. Respondit reditus dumtaxat quinquagesimas legatas, licet praedia vendita sunt.
+
+1. A liberto, cui fundum legaverat ferentem annua sexaginta, per fideicommissum dederat Pamphilae annua dena: quaesitum est, si lex Falcidia liberto legatum minuerit, an Pamphilae quoque annuum fideicommissum minutum videatur, cum ex reditu legata sint, qui largitur, etiamsi Falcidia partem dimidiam fundi abstulerit, annuam Pamphilae praestationem. Respondit secundum ea quae proponerentur non videri minutum, nisi si alia mens testatoris probaretur.
+
+2. Filium ex dodrante, uxorem ex quadrante instituit heredes et filii fidei commisit, ut novercae restitueret hereditatem: ab ea autem petit, ut infirmitatem filii commendatam haberet eique menstruos aureos denos praestaret, donec ad vicesimum quintum annum aetatis pervenerit, cum autem implesset eam aetatem, partem dimidiam hereditatis ei restitueret. Filius deducta dodrantis parte quarta, ex qua institutus erat, novercae hereditatem restituit et postea implevit vicesimum quintum annum aetatis. Quaesitum est, cum noverca universae hereditatis haberet dodrantem semunciam et sicilicum, an eius partem dimidiam privigno suo restitueret. Respondit secundum ea quae proponerentur tantum restituendum, quantum cum eo, quod Falcidiae nomine filius deduxisset, semissem faceret. Idem quaesiit, an, quod infirmitati filii pater consulere voluerit, fructus quoque medii temporis noverca ei restituere deberet. Respondit secundum ea quae proponerentur debere.
+
+3. Lucius Titius testamento patriae suae civitati Sebastenorum centum legavit, uti alternis annis ex usuris eiusdem certamina sub nomine ipsius celebrarentur, et adiecit haec verba: "Quod si condicione supra scripta recipere legatam sibi pecuniam civitas Sebastenorum noluerit, nullo modo heredes meos obligatos ei esse volo, sed habere sibi pecuniam". Postea praeses provinciae ex nominibus debitorum hereditariorum elegit idonea nomina et in causam legati rei publicae adiudicavit, post cuius sententiam res publica a plerisque adiudicatis sibi pecunias percepit. Quaesitum est, an, si res publica condicionibus testamento adscriptis postea non paruerit, legatum ad filios heredes pertineat. Respondit rem publicam voluntati testatoris parere compellendam ac, nisi faciat, in his quidem summis, quae per numerationem vel novationem solutae sunt, utili repetitione heredes adiuvandos: ab his vero nominibus, quae neque solverunt rei publicae neque novatione abscesserunt a pristina obligatione, non prohibendos, quo minus debitum petant.
+
+4. Largius Eurippianus consuluit alumno certam pecuniam patronum testamento legasse deque ea re testamento ita cavisse: "Pecuniam, quam Titio liberto et alumno meo legavi, esse volo penes Publium Maevium usque ad annum vicesimum quintum aetatis eius proque ea computari cum eo usuras quadrantes: quantum autem in sumptum ei statuendum sit, tu, Publi Maevi, cum patris affectum ei praestare debeas, aestimabis". Quaesitum est, an heredes a Publio Maevio satis accipere debuerint solventes eam pecuniam. Respondit, cum testamento nulla exigendae satisdationis commemoratio fiat, satis habuisse heredes secundum voluntatem defuncti Publio Maevio pecuniam numerare: et ideo nec Titius alumnus vel heredes eius audiri debeant adversus heredes patroni agentes, quod satis non exegerunt: ex ea enim numeratione etiam a Titio ac proinde etiam ab heredibus eius liberatos esse supra scriptos heredes, nisi vivente testatore Publius Maevius solvendo esse desierit: tunc enim cautio ab eo exigenda est.
+
+5. Pater duos filios aequis ex partibus instituit heredes, maiorem et minorem, qui etiam impubes erat, et in partem eius certa praedia reliquit et, cum quattuordecim annos impleverit, certam pecuniam ei legavit idque fratris eius fidei commisit, a quo petit in haec verba: "A te peto, Sei, ut ab annis duodecim aetatis ad studia liberalia fratris tui inferas matri eius annua tot usque ad annos quattuordecim: eo amplius tributa fratris tui pro censu eius dependas, donec bona restituas: et ad te reditus praediorum illorum pertineant, quoad perveniat frater tuus ad annos quattuordecim". Quaesitum est, defuncto maiore fratre herede alio relicto utrum omnis condicio percipiendi reditus fundorum, anniversaria praestetur alia, quae praestaturus esset, si viveret, Seius, ad heredem eius transierint, an vero id omne protinus ad pupillum et tutores transferri debeat. Respondit: secundum ea quae proponerentur intellegitur testator quasi cum tutore locutus, ut tempore, quo tutela restituenda est, haec, quae pro annuis praestari iussisset percipiendisque fructibus, finiantur: sed cum maior frater morte praeventus est, omnia, quae relicta sunt, ad pupillum et tutores eius confestim post mortem fratris transisse.
+
+33.1.22
+
+Alfenus libro secundo a Paulo epitomatorum
+
+"Filiae meae, quotienscumque vidua erit, in annos singulos centum heres meus dato": quaeritur, si filia minus annui temporis vidua fuisset, numquid minus ei centum deberentur. Respondit sibi videri, tametsi totus annus nondum fuisset, tamen deberi.
+
+33.1.23
+
+Marcianus libro sexto institutionum
+
+Cum quidam decurionibus divisiones dari voluisset die natalis sui, divi Severus et Antoninus rescripserunt non esse verisimile testatorem de uno anno sensisse, sed de perpetuo legato.
+
+33.1.24
+
+Marcianus libro octavo institutionum
+
+Cum erat certa pecunia, id est centum, rei publicae Sardianorum relicta per quadriennium certaminis Chrysanthiani, divi Severus et Antoninus rescripserunt videri perpetuam pensitationem reliquisse testatorem per quadriennium, non in primum quadriennium.
+
+33.1.25
+
+Valens libro secundo fideicommissorum
+
+Filio familias, quoad in potestate patris sit, in annos singulos dena dari possunt.
+  
+
+33.2.0. De usu et de usu fructu et reditu et habitatione et operis per legatum vel fideicommissum datis.
+
+ 
+33.2.1
+
+Paulus libro tertio ad Sabinum
+
+Nec usus nec usus fructus itineris actus viae aquaeductus [aequaeductus] legari potest, quia servitus servitutis esse non potest: nec erit utile ex senatus consulto, quo cavetur, ut omnium quae in bonis sint usus fructus legari possit, quia id neque ex bonis neque extra bona sit. Sed incerti actio erit cum herede, ut legatario, quamdiu vixerit, eundi agendi ducendi facultatem praestet aut ea servitus constituatur sub hac cautione, ut, si decesserit legatarius vel capite deminutus ex magna causa fuerit, restituatur.
+
+33.2.2
+
+Papinianus libro 17 quaestionum
+
+Hominis operae legatae capitis deminutione vel non utendo non amittuntur. Et quoniam ex operis mercedem percipere legatarius potest, etiam operas eius ipse locare poterit, quas si prohibeat heres capi, tenebitur. Idem est et si servus se locaverit. Et quia legatarius fructuarius non est, ad heredem suum operarum legatum transmittit: sed servo usu capto legatum perit.
+
+33.2.3
+
+Paulus libro tertio ad Sabinum
+
+Hominis quoque liberi operae legari possunt, sicut locari et in stipulationem deduci.
+
+33.2.4
+
+Ulpianus libro 18 ad Sabinum
+
+Si pure proprietas legata erit, ea ad legatarium perveniet, quamvis fructuarius heres sit institutus.
+
+33.2.5
+
+Paulus libro tertio ad Sabinum
+
+Usum fructum "cum moriar" inutiliter stipulor: idem est in legato, quia et constitutus usus fructus morte intercidere solet.
+
+33.2.6
+
+Pomponius libro 15 ad Sabinum
+
+Si usus fructus mihi in biennium continuum a morte testatoris legatus sit et per heredem steterit, quo minus eum mihi daret, praeterito biennio nihilo minus tenetur (quemadmodum teneretur, si res legata in rerum natura esse desisset, quam quis deberet, moratusque esset in ea danda), ut peti quidem iam usus fructus qui legatus sit non possit, quia alius futurus sit quam qui legatus fuerit, sed aestimatio eius bima dumtaxat facienda sit.
+
+33.2.7
+
+Ulpianus libro 26 ad edictum
+
+Operae testamento relictae quando cedere debeant, utrum ex quo petit eas legatarius an ex quo adita hereditas est? Et cui pereant dies, quibus aeger servus fuit? Et puto ex die petitionis eas cedere: quare si post petitas aeger esse servus coeperit, legatario peribunt.
+
+33.2.8
+
+Gaius libro tertio de legatis ad edictum provinciale
+
+Si usus fructus municipibus legatus erit, quaeritur, quousque in eo usu fructu tuendi sint: nam si quis eos perpetuo tuetur, nulla utilitas erit nudae proprietatis semper abscedente usu fructu. Unde centum annos observandos esse constat, qui finis vitae longissimus esset.
+
+33.2.9
+
+Ulpianus libro octavo disputationum
+
+Si ab eo, cui legatus esset usus fructus, fideicommissum fuerit relictum, licet usus fructus ad legatarium non pervenerit, heres tamen, penes quem usus fructus remanet, fideicommissum praestat. Quod et in militis testamento erit dicendum, si legatarius, a quo fideicommissum relictum est, repudiaverit legatum vel vivo testatore decesserit.
+
+33.2.10
+
+Iulianus libro 78  digestorum
+
+Si Titio fundus et eiusdem fundi usus fructus legatus fuerit, erit in potestate eius, fundum an usum fructum vindicare malit. Et si fundum elegerit, necessario plenam proprietatem habebit, licet usum fructum a se reppulerit: si vero usum fructum habere maluerit et proprietatem fundi reppulerit, solum usum fructum habebit.
+
+33.2.11
+
+Iulianus libro primo ex Minicio
+
+Habitationis legatum in singulos annos ab initio anni deberi constat.
+
+33.2.12
+
+Alfenus libro secundo a Paulo epitomatorum
+
+Heres in fundo, cuius usus fructus legatus est, villam posuit: eam invito fructuario demolire non potest, nihilo magis quam si, quam arborem posuisset, ex fundo is evellere vellet: sed si antequam usufructuarius prohibuerit, demolierit, impune facturum.
+
+33.2.13
+
+Paulus libro 13 ad Plautium
+
+Cum usus fructus alternis annis legatur, non unum, sed plura legata sunt. Aliud est in servitute aquae et viae: viae enim servitus una est, quia natura sui habet intermissionem.
+
+33.2.14
+
+Celsus libro 18  digestorum
+
+Duos separatim uti frui sinere damnatus heres communiter uti frui passus est: quaerebatur, an utrique ex testamento teneretur. Dixi teneri, si testator utrumque solidum habere voluit: nam ipsius onus est, ut solidum singulis legatum praestaret: qua parte igitur alterum uti frui sineret heres, ea parte eum non sinere alterum uti frui, ideoque per aestimationem unicuique quod deest replere debet.
+
+33.2.15
+
+Marcellus libro 13  digestorum
+
+pr. "Damnas esto heres Titium sinere in illa domo habitare, quoad vivet": unum videtur esse legatum.
+
+1. Qui duos fundos habebat, unum legavit et alterius fundi usum fructum alii legavit: quaero, si fructuarius ad fundum aliunde viam non habeat quam per illum fundum qui legatus est, an fructuario servitus debeatur. Respondit, quemadmodum, si in hereditate esset fundus, per quem fructuario potest praestari via, secundum voluntatem defuncti videtur id exigere ab herede, ita et in hac specie non aliter concedendum esse legatario fundum vindicare, nisi prius ius transeundi usufructuario praestet, ut haec forma in agris servetur, quae vivo testatore optinuerit, sive donec usus fructus permanet sive dum ad suam proprietatem redierit.
+
+33.2.16
+
+Modestinus libro nono responsorum
+
+Legatum civitati relictum est, ut ex reditibus quotannis in ea civitate memoriae conservandae defuncti gratia spectaculum celebretur, quod illic celebrari non licet: quaero, quid de legato existimes. Respondit, cum testator spectaculum edi voluerit in civitate, sed tale, quod ibi celebrari non licet, iniquum esse hanc quantitatem, quam in spectaculum defunctus destinaverit, lucro heredum cedere: igitur adhibitis heredibus et primoribus civitatis dispiciendum est, in quam rem converti debeat fideicommissum, ut memoria testatoris alio et licito genere celebretur.
+
+33.2.17
+
+Scaevola libro tertio responsorum
+
+Quidam praedia rei publicae legavit, de quorum reditu quotannis ludos edi voluit, et adiecit: "Quae legata peto, decuriones, et rogo, ne in aliam speciem aut alios usus convertere velitis". Res publica per quadriennium continuum ludos non edidit: quaero, an reditus, quos quadriennio res publica percepit, heredibus restituere debeat vel compensare in aliam speciem legati ex eodem testamento. Respondit et invitis heredibus possessione adprehensa perceptos fructus restituendos esse et non erogatum secundum defuncti voluntatem in alia quae deberentur compensari.
+
+33.2.18
+
+Modestinus libro nono responsorum
+
+Qui plures habebat libertos, testamento suo dixit se habitationem relinquere iis quos codicillis designasset: cum nullos postea designaverit, quaero, an omnes admitti debeant. Respondit, si patronus, qui se designaturum personas libertorum pollicitus est, nullum postea designavit, legatum habitationis perfectum esse non videtur, non existente cui datum intellegi possit.
+
+33.2.19
+
+Modestinus libro singulari de heurematicis
+
+Si alii fundum, alii usum fructum eiusdem fundi testator legaverit: si eo proposito fecit, ut alter nudam proprietatem haberet, errore labitur. Nam detracto usu fructu proprietatem eum legare oportet eo modo: "Titio fundum detracto usu fructu lego: vel Seio eiusdem fundi usum fructum heres dato". Quod nisi fecerit, usus fructus inter eos communicabitur, quod interdum plus valet scriptura quam peractum sit.
+
+33.2.20
+
+Pomponius libro octavo ad Quintum Mucium
+
+Si servum sub condicione liberum esse iubeam et usum fructum eius tibi legavero, valet legatum.
+
+33.2.21
+
+Paulus libro septimo ad legem Iuliam et Papiam
+
+Titio usus fructus Stichi aut, si navis ex Asia venerit, decem legata sunt. Non petet usum fructum, antequam condicio decem existat vel deficiat, ne potestas heredi utrum velit dandi auferatur.
+
+33.2.22
+
+Ulpianus libro 15 ad legem Iuliam et Papiam
+
+"Patrimonii mei reditum omnibus annis uxori meae dari volo". Aristo respondit ad heredem uxoris non transire, quia aut usui fructui simile esset aut huic legato "in annos singulos".
+
+33.2.23
+
+Mauricius libro secundo ad legem Iuliam et Papiam
+
+Licet testatori repetere legatum usus fructus, ut etiam post capitis deminutionem deberetur et hoc nuper imperator Antoninus ad libellum rescripsit. Tunc tantum esse huic constitutioni locum, cum in annos singulos relegaretur.
+
+33.2.24
+
+Papinianus libro septimo responsorum
+
+pr. Uxori fructu bonorum legato faenus quoque sortium, quas defunctus collocavit, post impletam ex senatus consulto cautionem praestabitur. Igitur usuras nominum in hereditate relictorum ante cautionem interpositam debitas velut sortes in cautionem deduci necesse est. Non idem servabitur nominibus ab herede factis: tunc enim sortes dumtaxat legatario dabuntur aut, quod propter moram usuras quoque reddi placuit, super his non cavebitur.
+
+1. "Scorpum servum meum Semproniae concubinae meae servire volo". Non videtur proprietas servi relicta, sed usus fructus.
+
+33.2.25
+
+Papinianus libro octavo responsorum
+
+Qui fructus praediorum uxori reliquit, post mortem eius praedia cum reditibus ad heredes suos redire voluit, imperitia lapsus. Nullum fideicommissum dominus neque proprietatis neque fructus ad eos reverti dedit: etenim reditus futuri, non praeteriti temporis demonstrati videbantur.
+
+33.2.26
+
+Paulus libro decimo quaestionum
+
+pr. Sempronius Attalus ab herede suo fundum in Italiam Gaio post decennium deducto usu fructu dari iussit: quaero, cum medio hoc decennii spatio heres vita functus sit, an post tempus decennii plenus fundus ad legatarium pertineat. Movet enim me, quod dies legati huius sive fideicommissi cesserit ac per hoc et ad heredem legatarii pertinere potuerit, et ideo quasi circa debitum iam legatum mortuo herede usus fructus exstinctus sit nec ad heredem heredis pertinere possit. Respondi: dies quidem fideicommissi vel legati cedit statim, cum post tempus certum heres dare rogatur sive iubetur: sed usus fructus nondum est heredis, nisi cum dominium deducto usu fructu praestitit, et ideo capitis deminutione vel morte perire non potest quod nondum habuit. Idem evenit, si proprietas deducto usu fructu sub condicione legata sit et pendente condicione heres decesserit: tunc enim ab heredis herede incipit usus fructus, qui ex persona eius finietur. Sed his casibus de sententia testatoris quaerendum est, qui utique de eo usu fructu detrahendo sensit, qui coniunctus esset heredis personae: quo extincto solidam proprietatem ad legatarium voluit pertinere nec plus transmitti ad successorem suum, qui nondum habere coepit usum fructum, quam si iam habere coepisset.
+
+1. Si fundus duobus, alii usus fructus legatus sit, non trientes in usu fructu, sed semisses constituuntur: idemque est ex contrario, si duo sint fructuarii et alii proprietas legata est. Et inter eos tantum adcrescendi ius est.
+
+33.2.27
+
+Scaevola libro primo responsorum
+
+Uxori maritus per fideicommissum usum fructum et alia et dotem praelegavit: heredes usum fructum ei concesserunt: post biennium illicitum matrimonium fuisse pronuntiatum est: quaesitum est, an id, quod praeterito tempore possedit, ab ea repeti possit. Respondit id, quod fructus nomine percepisset, repeti posse.
+
+33.2.28
+
+Paulus libro 13 responsorum
+
+Quaero, si usus fructus fundi legatus est et eidem fundo indictiones temporariae indictae sint, quid iuris sit. Paulus respondit idem iuris esse et in his speciebus quae postea indicuntur, quod in vectigalibus dependendis responsum est: ideoque hoc onus ad fructuarium pertinet.
+
+33.2.29
+
+Gaius libro primo fideicommissorum
+
+Si quis usum fructum legatum sibi alii restituere rogatus sit eumque in fundum induxerit fruendi causa: licet iure civili morte et capitis deminutione ex persona legatarii pereat usus fructus, quod huic ipso iure adquisitus est, tamen praetor iurisdictione sua id agere debet, ut idem servetur, quod futurum esset, si ei, cui ex fideicommisso restitutus esset, legati iure adquisitus fuisset.
+
+33.2.30
+
+Iavolenus libro secundo ex posterioribus Labeonis
+
+pr. Cui usus fructus legatus esset, donec ei totius dotis satisfieret, cum ei heres pro sua parte satis dedisset, quamvis reliqui satis non darent, tamen pro ea parte usum fructum desinere habere mulierem ait Labeo: idem fieri et si per mulierem mora fieret, quo minus satis acciperet.
+
+1. Colono suo dominus usum fructum fundi, quem is colebat, legaverat: agat colonus cum herede ita, ut iudex cogat heredem ex locationis actione eum liberare.
+
+33.2.31
+
+Labeo libro secundo posteriorum a Iavoleno epitomatorum
+
+Is qui fundum tecum communem habebat usum fructum fundi uxori legaverat: post mortem eius tecum heres arbitrum communi dividundo petierat. Blaesus ait Trebatium respondisse, si arbiter certis regionibus fundum divisisset, eius partis, quae tibi optigerit, usum fructum mulieri nulla ex parte deberi, sed eius, quod heredi optigisset, totius usum fructum eam habituram. Ego hoc falsum puto: nam cum ante arbitrum communi dividundo coniunctus pro indiviso ex parte dimidia totius fundi usus fructus mulieris fuisset, non potuisse arbitrum inter alios iudicando alterius ius mutare: quod et receptum est.
+
+33.2.32
+
+Scaevola libro 15  digestorum
+
+pr. Generali capite praeposito quidam in testamento suo ita adiecit: "Felici, quem liberum esse iussi, usum fructum fundi Vestigiani lego: cuius proprietatem puto te consecuturum, si non contenderis cum herede meo, sed potius concordaveris: sed et tu, heres, omnia fac, ut amici sitis: hoc enim vobis expedit": quaesitum est, an vivente herede exigere possit Felix fundi proprietatem. Respondit nihil proponi, cur Felici proprietas fundi legata videretur.
+
+1. Filios ex Seio et filiam ex alio marito heredes instituit aequis portionibus et matri ita legaverat: "Aeliae Dorcadi matri meae dari volo, quoad vivat, usum fructum bonorum meorum, ita ut post obitum eius ad liberos meos aut ad eum, qui ex his vivet, pertineat". Filii post aditam hereditatem decesserant: quaesitum est mortua matre superstite filia testatricis usus fructus utrum ad solam filiam an vero pro portione hereditatis pertineret. Respondit ad eos redire, apud quos proprietas esset. Claudius: non credidit ipsum usum fructum in vicem portionum hereditariarum post mortem aviae inter ipsos datum, eo magis, quod aequis partibus heredes erant scripti.
+
+2. Uxori usum fructum domuum et omnium rerum, quae in his domibus erant, excepto argento legaverat, item usum fructum fundorum et salinarum: quaesitum est, an lanae cuiusque coloris mercis causa paratae, item purpurae, quae in domibus erat, usus fructus ei deberetur. Respondit excepto argento et his, quae mercis causa comparata sunt, ceterorum omnium usum fructum legatariam habere.
+
+3. Idem quaesiit, cum in salinis, quarum usus fructus legatus esset, salis inventus sit non minimus modus, an ad uxorem ex causa fideicommissi usus fructus pertineat. Respondit de his legandis, quae venalia ibi essent, non sensisse testatorem.
+
+4. Idem quaesiit, cum eodem testamento ita caverit: "A te peto, uxor, uti ex usu fructu, quem tibi praestari volo in annum quintum decimum, contenta sis annuis quadringentis, quod amplius fuerit, rationibus heredis heredumve meorum inferatur", an recessum videatur a superiore capite ideoque uxor non amplius habeat ex usu fructu, quam annuos quadringentos. Respondit satis id, quod quaereretur, aperte verba quae proponerentur declarare.
+
+5. Lucius Titius testamento suo Publio Maevio fundum Tusculanum reliquit eiusque fidei commisit, uti eiusdem fundi partem dimidiam usus fructus Titiae praestaret: Publius Maevius villam vetustate corruptam cogendis et conservandis fructibus necessariam aedificavit: quaero, an sumptus partem pro portione usus fructus Titia adgnoscere debeat. Respondit, si prius, quam usum fructum praestaret, necessario aedificavit, non alias cogendum restituere, quam eius sumptus ratio habeatur.
+
+6. Duas filias et filium mente captum heredes scripsit, filii portionis mente capti datae usum fructum legavit in haec verba: "Hoc amplius Publia Clementiana praecipiet sibi quartae partis hereditatis meae, ex qua iulium iustum filium meum heredem institui: petoque a te, Publia Clementiana, uti fratrem tuum Iulium iustum alas tuearis dependas pro eo: pro quo tibi usum fructum portionis eius reliqui, donec mentis compos fiat et convalescat". Quaesitum est, cum filius in eodem furore in diem mortis suae perseverans decesserit, an usus fructus interciderit. Respondit verbis quae proponerentur perseverare legatum, nisi manifestissime probetur aliud testatorem sensisse.
+
+7. Heredis instituti fidei commisit filio suo annua decem praestare aut ea praedia emere et adsignare, ut usum fructum haberet, reditum efficientia annua decem: filius fundos sibi ab herede secundum matris voluntatem traditos locavit: et quaesitum est, defuncto eo reliqua colonorum utrumne ad heredem filii fructuarii an vero ad heredem Seiae testatricis pertineant. Respondit nihil proponi, cur ad heredem Seiae pertineant.
+
+8. Usum fructum tertiae partis bonorum suorum uni ex heredibus legaverat: quaesitum est, an pecuniae, quae ex rebus divisis secundum aestimationem effecta est, tertia praestanda sit. Respondit heredis esse electionem, utrum rerum an aestimationis usum fructum praestare vellet.
+
+9. Item quaesitum est, tributa praeterea, quae vel pro praediis aut moventibus deberi et reddi necesse est, an eximenda sint ex quantitate, ut reliquae dumtaxat pecuniae, si hoc heres elegerit, reddi debeat. Respondit reliquae pecuniae tertiam praestandam.
+
+33.2.33
+
+Scaevola libro 17 digestorum 
+
+pr. "Sempronio ea, quae vivus praestabam, dari volo": is etiam habitabat in testatoris domo, quae uni ex heredibus praelegata erat: quaesitum est, an habitatio quoque debeatur. Respondit nihil proponi, cur non debeatur.
+
+1. Ex his verbis testamenti: "Libertis meis, quibus nominatim nihil reliqui, quae vivus praestabam dari volo" quaesitum est, an libertis, qui cum patrono suo in diem mortis habitabant, etiam habitatio relicta videatur. Respondit videri.
+
+2. Codicillis ita scripsit: "Negidium Titium Dionem libertos meos senes et infirmos peto in locis, in quibus nunc agunt, senescere patiamini": quaero, an ex hoc capite liberti supra scripti ex fideicommisso fructus locorum, quibus morantur, recipere debeant, cum alia, quae eis specialiter legata sunt, sine controversia consecuti sunt. Respondit verbis quae proponerentur id petitum, ut ad eum modum paterentur heredes ibi eos esse, ad quem modum ipsa patiebatur.
+
+33.2.34
+
+Scaevola libro 18 digestorum
+
+pr. Codicillis fideicommissa in haec verba dedit: "Libertis libertabusque meis et quos in codicillis manumisi fundum, ubi me humari volui, dari volo, ut qui ab his decesserit, portio eius reliquis adcrescat, ita ut ad novissimum pertineat: post cuius novissimi decessum ad rem publicam Arelatensium pertinere volo. Hoc amplius libertis libertabusque meis habitationes in domo, quamdiu vivent: Pactiae et Trophimae diaetas omnes, quibus uti consuevit: habitet quam domum post mortem eorum ad rem publicam pertinere volo". Quaesitum est, rei publicae fideicommissum utrum ab herede an a libertis datum sit. Respondit secundum ea quae proponerentur posse ita verba accipi, ut eius legatarii, qui novissimus decederet, fidei commissum videatur. Idem quaesiit defunctis quibusdam ex libertis, quibus habitatio relicta erat, an portiones domus, in quibus hi habitaverant, iam ad rem publicam pertineant. Respondit, quoad aliquis eorum vivat, fideicommissum rei publicae non deberi.
+
+1. Qui Semproniam ex parte decima et Maeviam ex parte decima, alumnum ex reliquis partibus instituerat heredes, curatorem alumno dedit, cum iure facere putaret: et curatoris fidei commisit, ne pateretur fundum venire, sed cum Sempronia et Maevia nutricibus suis frueretur reditu eius: et ima parte testamenti ita adiecit: "Omnem voluntatem meam fidei heredum meorum committo". Quaesitum est, an tertias partes usus fructus fundi nutrices ex fideicommisso petere possint, quamvis curator ei receptus sit, quem iure dare non poterit alumno. Respondit secundum ea quae proponerentur utiliter fideicommisso voluntatem suam confirmasse: id igitur cuique dedisse, ut et nutrices una cum alumno reditu fundi uterentur.
+
+33.2.35
+
+Scaevola libro 22 digestorum
+
+Uxori usum fructum villae legavit in quinquennium a die mortis suae, deinde haec verba adiecit: "Et peracto quinquennio, cum eius usus fructus esse desierit, tunc eum fundum illi et illi libertis dari volo". Quaesitum est, cum uxor intra quinquennium decesserit, an libertis proprietatis petitio iam an vero impleto quinquennio competat, quia "peracto quinquennio" testator proprietatem legaverat. Respondit post completum quinquennium fundum ad libertos pertinere.
+
+33.2.36
+
+Scaevola libro 25 digestorum
+
+pr. Sticho testamento manumisso fundi usus fructus erat legatus et, cum is uti fruique desisset, fidei heredum testator commisit, uti eum fundum darent Lucio Titio: sed Stichus testamento suo eiusdem fundi proprietatem nepotibus suis legavit et heredes Stichi ex testamento eius legatariis nepotibus eum fundum tradiderunt. Quaesitum est, cum nepotes legatarii ignoraverint condicionem fundi supra scripti priore testamento datam et plus quam tempore statuto possederint, an eum fundum sibi adquisierint. Respondit secundum ea quae proponerentur legatarios sibi adquisisse.
+
+1. Idem quaesiit, si aliquo casu legatariis auferri possit, an repetitionem ab heredibus Stichi eius nepotes habere possint. Respondit supra quidem de adquisitione responsum: verum si ex alia causa adquisitio cessasset, videri Stichum, si post mortem eorum, quibus proprietas legata esset, testamentum fecisset, potius quod habere se crederet, quam quod onerare heredes vellet, legasse.
+
+33.2.37
+
+Scaevola libro 33 digestorum
+
+"Uxori meae usum fructum lego bonorum meorum, usque dum filia mea annos impleat octodecim": quaesitum est, an praediorum tam rusticorum quam urbanorum et mancipiorum et supellectilis itemque calendarii usus fructus ad uxorem pertineat. Respondit secundum ea quae proponerentur omnium pertinere.
+
+33.2.38
+
+Scaevola libro tertio responsorum
+
+"Fundi Aebutiani reditus uxori meae quoad vivat dari volo": quaero, an possit tutor heredis fundum vendere et legatario offerre quantitatem annuam, quam vivo patre familias ex locatione fundi redigere consueverat. Respondit posse. Item quaero, an habitare impune prohiberi possit. Respondit non esse obstrictum heredem ad habitationem praestandam. Item quaero, an compellendus sit heres reficere praedium. Respondit, si heredis facto minores reditus facti essent, legatarium recte desiderare, quod ob eam rem deminutum sit. iItem quaero, quo distat hoc legatum ab usu fructu. Respondit ex his, quae supra responsa essent, intellegi differentiam.
+
+33.2.39
+
+Scaevola libro sexto responsorum
+
+Filios heredes instituit, uxori vestem mundum muliebrem lanam linum et alias res legavit et adiecit: "Proprietatem autem eorum, quae supra scripta sunt, reverti volo ad filias meas quaeve ex his tunc vivent": quaesitum est, utrum usus fructus an proprietas earum rerum data sit. Respondit proprietatem legatam videri.
+
+33.2.40
+
+Alfenus libro octavo a Paulo epitomatorum
+
+"Illi cum illo habitationem lego": perinde est, ac si ita "illi et illi" legasset.
+
+33.2.41
+
+Iavolenus libro secundo ex posterioribus Labeonis
+
+Cum ita legatum esset: "Fructus annuos fundi Corneliani Publio Maevio do lego", perinde putat accipiendum esse Labeo, ac si usus fructus fundi similiter esset legatus, quia haec mens fuisse testatoris videatur.
+
+33.2.42
+
+Iavolenus libro quinto ex posterioribus Labeonis
+
+In fructu id esse intellegitur, quod ad usum hominis inductum est: neque enim maturitas naturalis hic spectanda est, sed id tempus, quo magis colono dominove eum fructum tollere expedit. Itaque cum olea immatura plus habeat reditus, quam si matura legatur, non potest videri, si immatura lecta est, in fructu non esse.
+
+33.2.43
+
+Venonius libro decimo actionum
+
+Nihil interest, utrum bonorum quis an rerum tertiae partis usum fructum legaverit: nam si bonorum usus fructus legabitur, etiam aes alienum ex bonis deducetur, et quod in actionibus erit, computabitur. At si certarum rerum usus fructus legatus erit, non idem observabitur.
+   
+
+33.3.0. De servitute legata.
+
+ 
+33.3.1
+
+Iulianus libro primo ex Minicio
+
+Qui duas tabernas coniunctas habebat, eas singulas duobus legavit: quaesitum est, si quid ex superiore taberna in inferiorem inaedificatum esset, num inferior oneri ferundo in superioris tabernae loco contineretur. Respondit servitutem impositam videri. Iulianus notat: videamus, ne hoc ita verum sit, si aut nominatim haec servitus imposita est aut ita legatum datum est: "Tabernam meam uti nunc est do lego".
+
+33.3.2
+
+Marcellus libro 13 digestorum
+
+Fundum communem habentibus legari potest via, cum et communis servus recte viam stipulatur et, cum duo ei qui ipse viam stipulatus fuerit heredes exstiterint, non corrumpitur stipulatio.
+
+33.3.3
+
+Marcellus libro 29  digestorum
+
+Si fundum Maevio et ad eum viam per alium fundum et eundem fundum sine via Titio legasset, si uterque fundum vindicasset, sine via legato fundum cessurum, quia neque adquiri per partem servitus possit. Et si prius Maevius fundum vindicaret altero deliberante, posse dubitari, an, si postea Titius omisisset, viae legatum salvum esset, et hoc magis videbatur: quamquam si sub condicione quis fundum legasset, viam pure, aut pro parte fundum pure, pro parte sub condicione et viam sine condicione, si pendente ea legati dies cessisset, interiturum fore viae legatum: ut responsum est, cum alteri ex vicinis, qui fundum communem habebant, viam sub condicione, alteri pure legasset et pendente condicione decessisset, quia alterius legatarii persona impedimento esset, quo minus solidus fundus cum via vindicaretur.
+
+33.3.4
+
+Iavolenus libro nono epistularum
+
+Si is qui duas aedes habebat unas mihi, alteras tibi legavit et medius paries, qui utrasque aedes distinguat, intervenit, eo iure eum communem nobis esse existimo, quo, si paries tantum duobus nobis communiter esset legatus, ideoque neque me neque te agere posse ius non esse alteri ita immissas habere: nam quod communiter socius habet, et in iure eum habere constitit: itaque de ea re arbiter communi dividundo sumendus est.
+
+33.3.5
+
+Papinianus libro 16 quaestionum
+
+Etsi maxime testamenti factio cum servis alienis ex persona dominorum est, ea tamen quae servis relinquuntur ita valent, si liberis relicta possent valere: sic ad fundum domini via servo frustra legatur.
+
+33.3.6
+
+Papinianus libro septimo responsorum
+
+Pater filiae domum legavit eique per domus hereditarias ius transeundi praestari voluit. Si filia domum suam habitet, viro quoque ius transeundi praestabitur: alioquin filiae praestari non videbitur. Quod si quis non usum transeundi personae datum, sed legatum servitutis esse plenum intellegat, tantundem iuris ad heredem quoque transmittetur: quod hic nequaquam admittendum est, ne, quod affectu filiae datum est, hoc et ad exteros eius heredes transire videatur.
+
+33.3.7
+
+Paulus libro 21 quaestionum
+
+Cum a pluribus heredibus institutis via legata est, quia partem non recipit, singuli heredes in solidum conveniuntur, quia et uno ex heredibus adeunte vindicari potest.
+  
+
+33.4.0. De dote praelegata.
+
+ 
+33.4.1
+
+Ulpianus libro 19 ad Sabinum
+
+pr. Cum dos relegatur, verum est id dotis legato inesse, quod actione de dote inerat.
+
+1. Et ideo si inter virum et uxorem convenerat, ut morte viri soluto matrimonio filio communi interveniente dos apud mariti heredem remaneret, et maritus decedens dotem relegaverit, stari pacto non debet ob hoc quod dos relegata est. Verum et citra relegationem hoc probari debet: nam quod est admissum posse deteriorem condicionem dotis fieri intervenientibus liberis, totiens locum habet, quotiens ipsa in matrimonio decedit vel divortium intervenit.
+
+2. Et verum est commodum in dote relegata esse repraesentationis, quamvis annua die dos praestaretur:
+
+3. Est et illud, quod ob res donatas hodie post senatus consultum nulla fit exactio, si modo voluntatem non mutavit testator.
+
+4. Impensae autem ipso iure dotem minuunt. Sed quod diximus ipso iure dotem impensis minui, non ad singula corpora, sed ad universitatem erit referendum.
+
+5. Adeo autem dotis actionem continet dotis relegatio, ut, si vivus eam uxori (scilicet quibus licet casibus) solverit, cesset legatum.
+
+6. Sed et si mancipia fuerint in dote non aestimata et haec demortua sint, legatum dotis in his evanescit.
+
+7. Sed et si dotem promiserit mulier neque dederit et decedens maritus uxori dotem praelegaverit, mulier nihil amplius quam liberationem habebit: nam et si quis ita legaverit "centum quae in arca habeo" aut "quae ille apud me deposuit", si nulla sint, nihil deberi constat, quia nulla corpora sint.
+
+8. Si quis uxori fundum Titianum his verbis legasset: "Is enim fundus propter illam ad me pervenit", omnimodo debetur fundus: nam quidquid demonstratae rei additur satis demonstratae, frustra est.
+
+9. Celsus libro vicesimo digestorum scribit, si socer nurui dotem relegavit, si quidem ius actionis de dote voluit relegare, nullius momenti esse legatum, quippe nupta est: sed si voluit eam recipere dotalem pecuniam, inquit, utile erit legatum. Si tamen haec dotem receperit, nihilo minus maritus dotis persecutionem habebit, sive heres institutus esset, familiae herciscundae iudicio, sive non, utili actione. Ego puto, quoniam non hoc voluit socer, ut bis dotem heres praestet, mulierem agentem ex testamento cavere debere defensu iri heredem adversus maritum. Ergo et maritus idem debebit cavere adversus mulierem defensu iri, si prior agat.
+
+10. Per contrarium apud Iulianum libro trigesimo septimo quaeritur, si socer filio suo exheredato dotem nurus legasset: et ait agi quidem cum marito exheredato de dote non posse, verumtamen ipsum dotem persecuturum ex causa legati: sed non alias eum legatum consecuturum, quam si caverit heredes adversus mulierem defensu iri. Et differentiam facit inter eum, cui dos relegata est, et orcinum libertum, cui peculium legatum est: namque eum de peculio posse conveniri ait, heredem non posse, quia peculium desiit penes se habere: at dotis actio nihilo minus competit, etsi dotem desierit habere.
+
+11. Idem Iulianus quaerit, si dotem marito relegaverit socer, an dote soluta mulieri legatum mariti extinguatur. Et dicit extingui, quia nihil esset iam, quod marito posset praestari.
+
+12. Idem quaerit, si dos alii legata esset eamque rogatus sit mulieri restituere, an lex fFalcidia in legato locum haberet. Et dicit habere: sed quod minus est in fideicommisso, mulierem dotis actione consecuturam. Ego quaero, an commoda repraesentationis in hoc legato sic observentur atque si dos ipsi mulieri fuisset relegata. Et puto habere.
+
+13. Idem Iulianus quaerit, si mulieri dos sit relegata eaque rogata dotem restituere, an Falcidia locum habeat. Et negat habere, quoniam fideicommissum quoque negat valere. Quod si praeterea quid uxori legatum sit, putat ex residuo fideicommissum praestari: quod utique habita ratione Falcidiae mulieri praestabitur. Sed et marito ex parte heredi instituto a socero dote praelegata legatum dotis Falcidiam passurum, videlicet quia adhuc constante matrimonio indebita dos videtur relegata, verum quod Falcidia reccidit, in familiae herciscundae iudicio maritum praecepturum, quemadmodum totam dotem praeciperet, si non esset relegata.
+
+14. Mela scripsit, si fundus in dote sit et specialiter sit legatus, mox generaliter dos relegata, non bis, sed semel deberi fundum.
+
+15. Ibidem Mela coniungit, si fundus in dote fuit locatus a marito ad certum tempus, uxorem non alias fundum ex relegatione consequi, quam si caverit se passuram colonum frui, dummodo ipsa pensiones percipiat.
+
+33.4.2
+
+Ulpianus libro quinto disputationum
+
+pr. Cum quis uxori suae dotem relegat fideique commissum ab ea relinquit, hoc fideicommissum ex commodo, quod ex relegatione mulier sentit, aestimabitur, et ita Celsus quoque libro vicesimo digestorum scripsit. Quod si necessariae fuerunt impensae, quae ipso iure dotem minuunt, amplius dici potest, si tanta quantitas dotis, quam maritus accepit, ei relegata est, oportere dici etiam eam quantitatem posse fideicommissum erogare, quae ipso iure dotem minuit: esse enim mulierem legatariam nemo est qui dubitet. Sed et si non dos, sed pro dote aliquid uxori fuerit legatum, adhuc quasi dos relegata accipitur. Hoc amplius Iulianus scripsit, etsi non fuerit adiectum pro dote esse legatum, hoc tamen animo relictum, adhuc eius esse condicionis. Uxor igitur si rogetur vel dotem vel quod pro dote legatum est vel quod in vicem dotis ei adscriptum est restituere, non cogetur nisi eatenus, quatenus diximus, restituere: et ideo heres instituta rogataque quantitatem hereditatis restituere id demum restituet, quod quantitatem dotis excedit idque quod ex repraesentationis commodo sentit. Nam et si quis, cum a nuru dotem accepisset, filium suum heredem instituerit eumque rogaverit, quidquid ad eum ex hereditate pervenisset, restituere, mox morte uxoris dotem fuerit lucratus, id non restituet quod ex dote percepit, quia matrimonii causa id lucratus est, non ex patris iudicio.
+
+1. Mulier dotem promisit quadringentorum et dedit fundos duos in ducenta, praeterea nomina debitorum in residua ducenta: mox maritus eius decedens pro dote fundos ei duos non eos, quos in dotem acceperat, reliquit et praeterea duos illos dotales, quos aestimatos acceperat, reliquit fideique eius commisit, ut, quidquid ad se ex hereditate eius pervenisset, id restitueret Seio cum moreretur: quaerebatur, quantum esset in fideicommisso muliere defuncta. Dicebam uxorem hanc, quae rogata est, quidquid ad se pervenerit ex testamento, restituere, in ea esse condicione, ut id demum restituere rogetur, quod deducta dotis quantitate ad eam pervenit: dotem enim recepisse eam magis quam accepisse, salvo eo, quod ex commodo repraesentationis ab ea fideicommitti potuit. Proinde id quidem, quod pro dote maritus ei reliquit, non cogetur restituere, nisi plus fuit in eo quam in quantitate dotis: residuum vero, quod praeterea illi relictum est, cum fructibus cogetur restituere. Habebit igitur praecipuam dotem cum suis fructibus: id vero, quod extrinsecus ei relictum est, cum fructibus, qui ad eam pervenerint, restituet.
+
+33.4.3
+
+Iulianus libro 34 digestorum
+
+Qui ita legat uxori suae: "Titiae amplius quam dotem aureos tot heres meus damnas esto dare", manifestus est dotem quoque relegasse.
+
+33.4.4
+
+Africanus libro quinto quaestionum
+
+Cum volgari modo dies legatorum profertur, nihil eam rem ad dotis relegationem pertinere ait, quia suum diem habeat.
+
+33.4.5
+
+Marcianus libro tertio regularum
+
+Dote relegata non est heres audiendus, si velit ob donationes in mulierem factas solutionem differre vel ob impensas alias, quam quae ipso iure dotem minuunt: aliud est enim minorem esse factam dotem, quod per necessarias impensas accidit, aliud pignoris nomine retineri dotem ob ea, quae mulierem invicem praestare aequum est.
+
+33.4.6
+
+Labeo libro secundo posteriorum a Iavoleno epitomatorum
+
+pr. Cum scriptum esset: "Quae pecunia propter uxorem meam ad me venit quinquaginta, tantundem pro ea dote heres meus dato", quamvis quadraginta dotis fuissent, tamen quinquaginta debere Alfenus Varus Servium respondisse scribit, quia proposita summa quinquaginta adiecta sit.
+
+1. Item ei, quae dotem nullam habebat, vir sic legaverat: "Quanta pecunia dotis nomine" et reliqua, "pro ea quinquaginta heres dato". Deberi ei legatum Ofilius Cascellius, item et Servii auditores rettulerunt: perinde habendum esse ac si servus alicui mortuus aut pro eo centum legata essententiarum quod verum est, quia his verbis non dos ipsa, sed pro dote pecunia legata videtur.
+
+33.4.7
+
+Papinianus libro 18 quaestionum
+
+pr. Pater dotem a nuru acceptam filio exheredato legavit: heres patris opposita doli exceptione non ante solvere legatum cogendus est, quam ei cautum fuerit de indemnitate soluto matrimonio.
+
+1. Sed si, priusquam legatum filio solveretur, mulier dotem suam reciperavit, frustra filius de legato aget.
+
+2. Sed si lex Falcidia locum in legato dotis adversus filium exheredatum habuerit et mulier solutionem ratam fecerit, propter eam quantitatem, quam heres retinuerit, utilis actio dotis ei dabitur. quod si ratum non habeat, defendi quidem debebit heres a viro, qui se defensurum promisit: sed si totam litem vir solus subierit, actio iudicati, si cautum non erit, pro ea quantitate, quae iure Falcidiae petenda est, adversus heredem dabitur.
+
+3. Sed si, priusquam legatum filio solveretur, mulier divertit, quamquam ipsa nondum praecipere dotem possit, non ideo tamen actio filii differtur: quia tunc isdem diebus filio solvi dotem responsum est, cum patri pro parte heres exstitit et ad praeceptionem dotis soluto matrimonio, postquam heres exstitit, admissus est.
+
+4. Si forte per errorem cautio defensionis omissa sit ex causa fideicommissi filius dotem acceperit, ut indebitum fideicommissum non repeteretur: cautiones enim praestandae necessitas solutionem moratur, non indebitum facit quod fuit debitum: sed non erit iniquum heredi subveniri.
+
+5. Quid ergo si patris heres solvendo non sit? Nonne iuste mulieri dabitur adversus virum utilis actio dotis? Cui dos perire non debet, quia non interposuit per errorem heres cautionem.
+
+33.4.8
+
+Papinianus libro septimo responsorum
+
+Vir uxori, quae dotem in mancipiis habebat, pecuniam pro dote legaverat: vivo viro mancipiis mortuis uxor post virum vita decessit. Ad heredem eius actio legati recte transmittitur, quoniam mariti voluntas servanda est.
+
+33.4.9
+
+Papinianus libro octavo responsorum
+
+"Uxori meae fundum Cornelianum et quae nuptura optulit aestimata in speciebus restitui volo". Respondi non aestimatum praedium in dotem datum exceptum non videri, sed universa dote praelegata rerum aestimatarum pretium non relictum, verum ipsas res, quales invenirentur.
+
+33.4.10
+
+Scaevola libro octavo quaestionum
+
+Si Seiae pro dote centum fundus legatus sit idemque Maevio: quod Maevio Falcidia aufert, pro eo quasi concursus non fuerit, mulier plus vindicet, quia amplius sit in dote mulieris.
+
+33.4.11
+
+Paulus libro septimo responsorum
+
+Seia cum nuberet Lucio Titio, dedit dotis nomine centum aureos et adhibuit Quintum Mucium, qui nihil numeravit, sed dotem stipulatus est, si morte mulieris solutum fuerit matrimonium. Seia moriens testamento suo ita cavit: "Lucio Titio marito meo, cui maximas gratias ago, dari volo super dotem, quam ei dedi, tot aureos". Quaero, cum instituit Lucium Titium convenire Quintus Mucius ex stipulatu actione, an repellere eum maritus possit ex verbis testamenti. Respondit, si Quintus Mucius mandante Seia non donationis causa stipulatus est, heredibus mulieris eum teneri et ideo Quintum Mucium exceptione repellendum esse. Quod si donationis causa Seia stipulari permisisset, videri eum in eum casum, qui morte mulieris exstitit mortis causa stipulatum: et ideo fidei eius committi potuisse in eum casum dicendum fore.
+
+33.4.12
+
+Scaevola libro tertio responsorum
+
+Qui dotem in pecunia numerata et aestimatis rebus acceperat, uxori ita legavit: "Seiae uxori meae, si omnes res, quae tabulis dotalibus contineantur, heredi meo exhibuerit et tradiderit, summam dotis, quam mihi pro ea pater eius intulit, dari volo: hoc amplius denarios decem". Quaesitum est, cum res in dotem datae plures ipso usu finitae essent nec moriente marito fuerant, an quasi sub impossibili condicione legatum datum debeatur. Respondi videri condicioni paritum, si quod ex rebus in dotem datis supererat, in potestatem heredis pervenit.
+
+33.4.13
+
+Labeo libro primo pithanon a Paulo epitomarum
+
+Paulus: si filius familias, uxorem cum haberet, dotem ab ea acceperat, deinde pater familias factus dotem ei ut solet legavit: quamvis patri heres non erit, tamen id legatum debebitur.
+
+33.4.14
+
+Scaevola libro 15 digestorum 
+
+Theopompus testamento facto duas filias et filium aequis partibus instituit heredes et codicillis ita cavit: "Tyn vugatera mou Krispinan, hyn yuxomyn ekdounai, hw an ohi filoi mou kai ohi suggeneis dokimaswsi, pronoysei ekdovynai Pollianos eidws mou tyn gnwmyn epi tois isois, ef' ohis kai tyn adelfyn autys ecedwka" [id est: Filiae meae Crispinae, quam collocari cupiebam viro amicis cognatisque probato, collocandae providebit Pollianus, qui voluntatem meam bovit, eadem condicione qua etiam sororem eius collocavi]. Pollianus a marito puellae iuratus scripsit voluisse patrem eandem quantitatem in dotem accipere etiam minorem filiam, quam maior accepisset. Quaero, an eandem summam dotis nomine coheredes extra partem hereditatis minori filiae praestare debeant. Respondit eum cuius notio est aestimaturum, ut eadem quantitas ex communi praecipua minori filiae dotis nomine detur.
+
+33.4.15
+
+Gaius libro secundo de legatis ad edictum praetoris
+
+Licet placeat pigneratas res vel in publicum obligatas heredem, qui dare iussus est, liberare debere, tamen si is qui tales res in dotem accepit dotem praelegaverit, non cogetur heres liberare eas, nisi aliud specialiter testator dixerit.
+
+33.4.16
+
+Paulus libro secundo ad Vitellium
+
+Qui dotem a matre uxoris acceperat et stipulanti ei promiserat, testamento uxori dotem legavit. Cum quaesitum esset, an uxor dotis summam consequi posset, respondit Scaevola non videri dari uxori, quod necesse sit matri reddi. Alias sic respondit non videri, nisi manifeste uxor docuisset eam testantis voluntatem fuisse, ut onerare heredes duplici praestatione dotis vellet.
+
+33.4.17
+
+Scaevola libro tertio responsorum
+
+pr. Uxori ita legavit: "Uxor mea quidquid ei comparavi et quod mihi dedit e medio sibi sumat": quaero, an dos praelegata videatur. Respondit verbis quae proponerentur videri et de dote legata loqui, nisi aliud testatorem voluisse probaretur.
+
+1. "Titiae uxori meae, quanta pecunia ad me inve stipulationem dotis eius nomine pervenit, quae dos est dotalibus duobus consignatis instrumentis centum aureorum". Quaesitum est, an utramque summam consequi possit. Respondit nihil proponi, cur non possit.
+  
+
+33.5.0. De optione vel electione legata.
+
+ 
+33.5.1
+
+Ulpianus libro secundo ad Sabinum
+
+Divus Pius Caecilio Proculo rescripsit eum, cui servorum legata sit electio, tres posse eligere.
+
+33.5.2
+
+Ulpianus libro 20 ad Sabinum
+
+pr. Quotiens servi electio vel optio datur, legatarius optabit quem velit:
+
+1. Sed et homine generaliter legato arbitrium eligendi quem acciperet ad legatarium pertinet.
+
+2. Data igitur optione si quis optaverit alienum servum vel hominem liberum, videndum est, an consumpserit optionem: et puto non consumi.
+
+3. Eum, cui centum amphorarum electio data sit, acetum eligentem non consumere optionem, si id acetum elegerit, quod vini numero pater familias non habuit:
+
+33.5.3
+
+Ulpianus libro 23 ad Sabinum
+
+Scilicet si ante exhibitionem, hoc est ante degustationem acetum elegerit.
+
+33.5.4
+
+Paulus libro tertio ad Sabinum
+
+Scyphi electione data si non omnibus Scyphis exhibitis legatarius elegisset, integram ei optionem manere placet (nisi ex his dumtaxat eligere voluisset, cum sciret et alios esse):
+
+33.5.5
+
+Africanus libro quinto quaestionum
+
+Nec solum si fraude heredis, sed etiam si alia qualibet causa id evenerit.
+
+33.5.6
+
+Pomponius libro sexto ad Sabinum
+
+Mancipiorum electio legata est. Ne venditio, quandoque eligente legatario, interpelletur, decernere debet praetor, nisi intra tempus ab ipso praefinitum elegisset, actionem legatorum ei non competere. Quid ergo si die praeterito, sed antequam venderet heres, vindicare legatarius velit? Quia non est damnum subiturus heres, propter quod decernere praetor id solet. Et quid si die praeterito, quem finierit praetor, heres aliquos ex servis vel omnes manumiserit? Nonne praetor eorum tuebitur libertatem? Ergo totiens actio deneganda non est, si omnia in integro sint. Idem est et si pignori aliquos ex his servis heres dederit post diem vel vendiderit.
+
+33.5.7
+
+Paulus libro decimo quaestionum
+
+Immo et si quosdam servos distraxit, quosdam retinuit, non est audiendus legatarius, si velit optare ex retentis ab herede, cum iam disposuerit familiam heres.
+
+33.5.8
+
+Pomponius libro sexto ad Sabinum
+
+pr. Si tibi electio servi et mihi reliqui legati sunt, decernendum est a praetore, nisi intra certum tempus optaveris, petitionem tibi non datu iri.
+
+1. Si ex quattuor viriolis duae, quas elegissem, mihi legatae sint, sive duae solae relictae sint sive ab initio duae solae fuerint, valet legatum.
+
+2. Unius hominis mihi et tibi optio data est: cum ego optassem, si non mutassem voluntatem, deinde tu eundem optaveris, utriusque nostrum servum futurum: quod si ante decessissem vel furiosus factus essem, non futurum communem, quia non videor consentire, qui sentire non possim: humanius autem erit, ut et in hoc casu quasi semel electione facta fiat communis.
+
+3. Si rerum depositarum electio mihi relicta sit, et ad exhibendum cum eo, apud quem depositae sint, agere potero et cum herede agere, ut is depositi agendo facultatem mihi eligendi praestet.
+
+33.5.9
+
+Iulianus libro 32 digestorum 
+
+pr. Cum ita legatur: "Titio Stichum do lego, si Pamphilum non elegerit: eidem Titio Pamphilum, si Stichum non elegerit", simile est, atque si ita legatum fuisset: "Titio Stichum aut Pamphilum, utrum eorum volet, do lego".
+
+1. Quaesitum est, si Stichus sub condicione liber esse iussus sit et mihi optio servi data esset vel servus generaliter legatus esset, quid iuris esset. Dixi Commodius constitui eum, qui sub condicione libertatem Sticho det et optionem servorum, non cogitare de Sticho, sicuti constat non cogitare eum de eo, cui praesentem libertatem dederit: secundum quod si Stichum optavero vel elegero, nihil agam et ex ceteris nihilo minus optabo.
+
+2. In eodem casu quaesitum est, si optione servorum data, antequam optarem, condicio statutae libertatis defecisset, an Stichum optare possim. Puto Mucianae sententiae adsentiendum, qua placet ipsa libertate legatum peremi, non datione statutae libertatis: quare sive vivo testatore sive post mortem eius et ante aditam hereditatem condicio statutae libertatis defecerit, legatum erit utile: nam sicut pura libertas, ita statuta libertas aditae hereditatis tempore vires accipit. Ideoque Stichum optare possum.
+
+33.5.10
+
+Iulianus libro 34 digestorum
+
+Si Pamphilo servo Lucii Titii servus generaliter legatus sit, deinde dominus Pamphili, postquam dies legati cesserit, eum manumisisset: si quidem Titius servum vindicaverit, exstinguitur Pamphili legatum, quia non esset in hereditate qui possit optari. Si vero Titius legatum a se repudiasset, Pamphilum optare posse legatum constat: licet enim manumissione Pamphili duae personae constituerentur Titii et Pamphili, unius tamen rei legatum inter eas vertitur et Titio vindicante optio exstinguitur, repudiante Pamphilus optare potest.
+
+33.5.11
+
+Iulianus libro 36 digestorum 
+
+Si Eros Seio legatus sit et Eroti fundus, deinde optio servi Maevio data fuerit isque Erotem optaverit, fundus ad solum Seium pertinebit, quoniam aditae hereditatis tempore is solus erit, ad quem posset legatum pertinere. Nam et cum servo communi alter ex sociis legat, idcirco ad solum socium totum legatum pertinet, quoniam die legati cedente solus est, qui per eum servum possit adquirere.
+
+33.5.12
+
+Iulianus libro primo ex Minicio
+
+Servo generaliter legato verius est omnes heredes, si eis electio data est, eundem dare debere: si non consentiant heredes, ex testamento eos teneri.
+
+33.5.13
+
+Paulus libro octavo ad Plautium
+
+pr. Si optio servi data mihi fuerit et Sticho aliquid testator sine libertate legasset, tunc sequens legatum consistit, cum tota familia ad unum, id est Stichum recciderit, ut quasi pure legato utiliter sit legatum. Nec adversatur Catoniana, si voluntarius heres institutus sit, quia potest ante aditam hereditatem, etiamsi statim decesserit, familia minui: quod si necessarius heres institutus sit, sequens legatum propter Catonianam inutile est.
+
+1. Pomponius scribit emptore hereditatis postulante, ut is, cui servi optio legata sit, optet, videndum esse, an praetor ut id faciat cogere debeat legatarium, quemadmodum si heres institutus id postularet, quia potest per heredem id emptor consequi: et quare non possit, non video.
+
+33.5.14
+
+Iavolenus libro secundo ex Cassio
+
+Si, cum optio servi ex universa familia legata esset, heres aliquem priusquam optaretur manumisit, ad libertatem eum interim non perducit, servum tamen quem ita manumiserit amittit, quia is aut electus legato cedit aut relictus tunc liber ostenditur.
+
+33.5.15
+
+Iavolenus libro secundo epistularum
+
+Servo sine libertate legavi, deinde optionem servorum Maevio dedi: is eundem servum optavit: quaero, an id quoque quod legatum est ei deberetur. Respondit: non puto legatum huius servi nomine ad dominum pertinere.
+
+33.5.16
+
+Clementius libro 15 ad legem Iuliam et Papiam
+
+Optione legata placet non posse ante aditam hereditatem optari et nihil agi, si optaretur.
+
+33.5.17
+
+Clementius libro 17 ad legem Iuliam et Papiam
+
+Cum optio duorum servorum Titio data sit, reliqui Maevio legati sint, cessante primo in electione "reliquorum" appellatione omnes ad Maevium pertinent.
+
+33.5.18
+
+Scaevola libro 13 quaestionum
+
+Homine legato Neratius ait nihil agi repudiato Pamphilo itaque eum ipsum eligi posse.
+
+33.5.19
+
+Paulus libro tertio sententiarum
+
+"Illud aut illud, utrum elegerit legatarius": nullo a legatario electo decedente eo post diem legati cedentem ad heredem transmitti placuit.
+
+33.5.20
+
+Labeo libro secundo posteriorum a Iavoleno epitomatorum
+
+Apud Aufidium libro primo rescriptum est, cum ita legatum est: "Vestimenta quae volet triclinaria sumito sibique habeto", si is dixisset quae vellet, deinde, antequam ea sumeret, alia se velle dixisset, mutare voluntatem eum non posse, ut alia sumeret, quia omne ius legati prima testatione, qua sumere se dixisset, consumpsit, quoniam res continuo eius fit, simul ac si dixerit eam sumere.
+
+33.5.21
+
+Scaevola libro 22 digestorum 
+
+Filium et uxorem heredes scripsit, filiam exheredavit et ei legatum dedit, cum in familia nuberet, centum et, cum in familia nupserit, his verbis: "Insuper arbitratu Semproniae matris eius mancipia decem, quae confestim post aditam hereditatem meam a Sempronia uxore mea eligi volo: quae mancipia, cum in familiam nupserit, dari volo. Et si antequam nupserit, aliquod ex mancipiis decesserit, tunc in locum eius arbitratu Semproniae matris eius dari volo, dum ad eam plenus numerus perveniat. Quod si Sempronia mater eius non elegerit, tunc ipsa sibi quae volet eligat". Quaesitum est, cum mater elegerit, an ea, quae ex his mancipiis ante nuptias adgnata sunt, ad puellam supra numerum decem mancipiorum pertineant. Respondit, cum mancipiorum legatum in tempus nuptiarum testator transtulit, id quod medio tempore ancillae enixae sunt ad filiam non pertinere. Idem quaesiit, ante nuptias eorundem mancipiorum fructus et usus an ad Semproniam matrem pertineant. Respondit nihil proponi, cur ad matrem pro solido pertineant.
+
+33.5.22
+
+Scaevola libro 17 digestorum 
+
+Maritus uxori suae codicillis per fideicommissum dedit praedia, item lances quas elegerit quattuor: quaesitum est, an ex his lancibus, quae mortis tempore sint, eligere possit. Respondit posse.
+ 
+
+33.6.0. De tritico vino vel oleo legato.
+
+ 
+33.6.1
+
+Ulpianus libro 20 ad Sabinum
+
+Vino legato acetum quoque continetur, quod pater familias vini numero habuit.
+
+33.6.2
+
+Pomponius libro sexto ad Sabinum
+
+pr. Cum alii penum, alii vinum legatum esset, excepto vino omne penum ad alium legatarium pertinebit.
+
+1. Si centum amphorae quas velles tibi legatae sint, ex testamento agendo consequi potes, ut degustare tibi liceat: aut, quanti interfuerit licere tibi degustare, ad exhibendum agere potes.
+
+33.6.3
+
+Ulpianus libro 23 ad Sabinum
+
+pr. Si cui vinum sit legatum centum amphorarum, cum nullum vinum reliquisset, vinum heredem empturum et praestaturum, non acetum, quod vini numero fuit.
+
+1. Si vinum legatum sit, videamus, an cum vasis debeatur. Et Celsus inquit vino legato, etiamsi non sit legatum cum vasis, vasa quoque legata videri, non quia pars sunt vini vasa, quemadmodum emblemata argenti (Scyphorum forte vel speculi), sed quia credibile est mentem testantis eam esse, ut voluerit accessioni esse vino amphoras: et sic, inquit, loquimur habere non amphoras mille, ad mensuram vini referentes. In doliis non puto verum, ut vino legato et dolia debeantur, maxime si depressa in cella vinaria fuerint aut ea sunt, quae per magnitudinem difficile moventur. In cuppis autem sive cuppulis puto admittendum et ea deberi, nisi pari modo immobiles in agro velut instrumentum agri erant. Vino legato utres non debebuntur: nec culleos quidem deberi dico.
+
+33.6.4
+
+Paulus libro quarto ad Sabinum
+
+Cum certum pondus olei non adiecta qualitate legatur, non solet quaeri, cuius generis oleo uti solitus fuerit testator aut cuius generis oleum istius regionis homines in usu habeant: et ideo liberum est heredi, cuius vellet generis oleum legatario solvere.
+
+33.6.5
+
+Iulianus libro 15 digestorum 
+
+Cum certus numerus amphorarum vini legatus esset ex eo, quod in fundo Semproniano natum esset, et minus natum esset, non amplius deberi placuit et quasi taxationis vicem optinere haec verba "quod natum erit".
+
+33.6.6
+
+Proculus libro quinto epistularum
+
+Cui vinum heres dare damnatus est, quod in amphoris et cadis diffusum est dari debet, etiamsi vasorum mentio facta non est. Item quamvis cum vasis cadis legatum est, tamen id quoque, quod in doliis, legatum esse videtur, sicuti, si servos omnes cum peculio cuiusque eorum legasset, etiam eos, quibus peculii nihil esset, legasse videretur.
+
+33.6.7
+
+Iavolenus libro secundo ex posterioribus Labeonis
+
+pr. Quidam heredem damnaverat dare uxori suae vinum oleum frumentum acetum mella salsamenta. Trebatius aiebat ex singulis rebus non amplius deberi, quam quantum heres mulieri dare voluisset, quoniam non adiectum esset, quantum ex quaque re daretur. Ofilius Cascellius Tubero omne, quantum pater familias reliquisset, legatum putant: Labeo id probat idque verum est.
+
+1. "Lucio Titio tritici modios centum, qui singuli pondo centum pendeant, heres dato". Ofilius nihil legatum esse, quod et Labeo probat, quoniam eiusmodi triticum in rerum natura non esset: quod verum puto.
+
+33.6.8
+
+Pomponius libro sexto epistularum
+
+Si heres damnatus sit dare vinum, quod in doliis esset, et per legatarium stetit, quo minus accipiat, periculose heredem facturum, si id vinum effundet: sed legatarium petentem vinum ab herede doli mali exceptione placuit summoveri, si non praestet id, quod propter moram eius damnum passus sit heres.
+
+33.6.9
+
+Ulpianus libro 23 ad Sabinum
+
+pr. Si quis vinum legaverit, omne continetur, quod ex vinea natum vinum permansit. Sed si mulsum sit factum, vini appellatione non continebitur proprie, nisi forte pater familias etiam de hoc sensit. Certe zythum, quod in quibusdam provinciis ex tritico vel ex hordeo vel ex pane conficitur, non continebitur: simili modo nec camum nec cervesia continebitur nec hydromeli. Quid conditum? Nec hoc puto, nisi alia mens testantis fuit. Oenomeli plane id est dulcissimum vinum continebitur: et passum, nisi contraria sit mens, continebitur: defrutum non continebitur, quod potius conditurae loco fuit. Acinaticium plane vino continebitur. Cydoneum et si qua alia sunt, quae non ex vinea fiunt, vini appellatione non continebuntur. Item acetum vini appellatione non continebitur. Haec omnia ita demum vini nomine non continentur, si modo vini numero a testatore non sunt habita: alioquin Sabinus scribit omnia vini appellatione contineri, quae vini numero pater familias habuit: igitur et acetum, quod vini numero pater familias habuit, et Zzthum et camum et cetera, quae pro hominum affectione atque usu vini numero habebuntur. Quod si totum vinum, quod pater familias habuit, coacuit, non exstinguitur legatum.
+
+1. Si acetum quis legaverit, non continebitur legato acetum quod vini numero testator habuit: embamma autem continebitur, quia aceti numero fuit.
+
+2. Item si quis vinum quod habuit legavit, deinde hoc coacuit, licet postea in aceti locum translatum sit a patre familias, vino legato continebitur, quia id, quod testamenti facti tempore vinum fuit, demonstratum est: et est hoc verum, nisi voluntas adversetur.
+
+3. Vino autem paterno legato id demum legatum videtur, quod testator vini numero habuit, non quod pater. Item si peculiare vinum legatum sit, id continebitur, quod servi habuerunt. Cur tam diverse? Quod paternum vinum iam coepit usus ipsius testatoris esse, at peculiare in usu servorum remansit.
+
+4. Item si vinum vetus sit legatum,
+
+33.6.10
+
+Hermogenianus libro secundo iuris epitomarum
+
+Ex usu testatoris legatum aestimabitur, id est quot annorum vino pro vetere utebatur. Quod si non appareat,
+
+33.6.11
+
+Ulpianus libro 23 ad Sabinum
+
+Vetus accipietur, quod non est novum: id est et anni prioris vinum appellatione veteris continebitur:
+
+33.6.12
+
+Paulus libro quarto ad Sabinum
+
+Nam aliter observantibus quis finis aut quod initium veteris vini sumeretur?
+
+33.6.13
+
+Ulpianus libro 23 ad Sabinum
+
+"Ex eo vino quod in illo fundo nascetur, heres meus amphoras decem quotannis in annos singulos dato". Quo anno natum non fuisset, ex superiore anno eius fundi eum numerum amphorarum heredem daturum Sabinus existimat. Quae sententia, si voluntas non adversetur, mihi quoque placet.
+
+33.6.14
+
+Pomponius libro sexto ad Sabinum
+
+Vino legato ea demum vasa sequuntur, quae ita diffusa sunt, ut non ad perpetuum usum vasa reservarentur, veluti amphorae et cadi.
+
+33.6.15
+
+Proculus libro secundo epistularum
+
+Vinum cum vasis legavit. Negat Trebatius quod in doliis sit deberi et sensum testatoris alium putat esse, verborum alium: ceterum dolia in vasis vinariis non essententiarum ego et si dolia in vasis vinariis non sunt, tamen non concederem Trebatio vinum quod in doliis esset, id est quod in vasis non esset, non esse legatum. Illud verum esse puto, cui vinum cum vasis legatum erit, ei amphoras cados, in quibus vina diffusa servamus, legatos esse: vinum enim in amphoras et cados hac mente diffundimus, ut in his sit, donec usus causa probetur, et scilicet id vendimus cum his amphoris et cadis: in dolia autem alia mente coicimus, scilicet ut ex his postea vel in amphoras et cados diffundamus vel sine ipsis doliis veneat.
+
+33.6.16
+
+Proculus libro tertio ex posterioribus Labeonis
+
+pr. Qui vinum surrentinum in urnalibus habebat diffusum, is tibi vinum legaverat in amphoris omne. Illud quoque vinum, quod in urnalibus fuisset, legatum esse Labeo et Trebatius responderunt.
+
+1. Cui dulcia legata essent, si nihil aliud testamento significetur, omnia haec esse legata: mulsum passum defrutum et similes potiones, item uvas ficos palmas caricas.
+
+2. Quod si ita esset legatum: "Vinum amphorarium aminaeum Graecum et dulcia omnia", nihil inter dulcia, nisi quod potionis fuisset, legatum putat Labeo ex collatione vini amphorarii: quod non improbo.
+  
+
+33.7.0. De instructo vel instrumento legato.
+
+ 
+33.7.1
+
+Paulus libro quarto ad Sabinum
+
+pr. Sive cum instrumento fundus legatus est sive instructus, duo legata intelleguntur.
+
+1. Fundo cum instrumento legato et alienato instrumentum non vindicabitur ex sententia defuncti.
+
+33.7.2
+
+Papinianus libro septimo responsorum
+
+pr. Cum pater pluribus filiis heredibus scriptis duobus praeceptionem bonorum aviae praeter partes hereditarias dedisset, pro partibus coheredum viriles habituros legatarios placuit.
+
+1. Dotes praediorum, quae Graeco vocabulo envykai appellantur, cum non instructa legantur, legatario non praestantur.
+
+33.7.3
+
+Papinianus libro octavo responsorum
+
+pr. Fundum instructum libertis patronus testamento legavit: postea codicillis petit, ut morientes partes suas fundi superstitibus restituerent, nec instructi mentionem habuit. Talem in causam fideicommissi deductum videri placuit, qualis fuerat legatus, sed medii temporis augmenta fetuum et partuum, item detrimenta fatalium fideicommisso contineri.
+
+1. Minor viginti annis instructa praedia consobrinae suae dari voluit et quosdam servos praediorum vivus manumisit. Non idcirco servi manumissi praestabuntur, quod ad libertatem pervenire non possunt. Idem iuris est, cum ex quavis alia causa libertas non competit.
+
+33.7.4
+
+Iavolenus libro secundo ex posterioribus Labeonis
+
+Cum quidam duos fundos iunctos haberet et ex altero boves, cum opus fecissent, in alterum reverterentur, utrumque fundum cum instrumento legaverat. Labeo Trebatius boves ei fundo cessuros putant, ubi opus fecissent, non ubi manere consuevissent: Cascellius contra. Labeonis sententiam probo.
+
+33.7.5
+
+Labeo libro primo pithanon
+
+Si cui fundum et instrumentum eius legare vis, nihil interest, quomodo leges "fundum cum instrumento" an "fundum et instrumentum" an "fundum instructum". Paulus. Immo contra: nam inter ea legata hoc interest, quod, si fundo alienato mortuus fuerit qui ita legavit, ex hac scriptura "fundum cum instrumento" nihil erit legatum, ex ceteris poterit instrumentum esse legatum.
+
+33.7.6
+
+Scaevola libro 16 digestorum
+
+Nepoti legaverat quae certa regione praedia habuerat ut instructa sunt, cum vino grano calendario, et adiecerat haec verba: "Quidquid erit cum moriar in illa regione, et quidquid in quacumque specie erit in illa regione, vel quod meum erit". Viva testatrice unus ex debitoribus condemnatus vivente testatrice satis non fecit: quaesitum est, an quod ex sententia iudicis deberetur ad nepotem pertineret. Respondit nihil proponi, cur non deberetur.
+
+33.7.7
+
+Scaevola libro 22 digestorum 
+
+Tabernam cum caenaculo pardulae manumisso testamento legaverat cum mercibus et instrumentis et suppellectili quae ibi esset, item horreum vinarium cum vino et vasis et instrumento et institoribus, quos secum habere consueverat. Quaesitum est, cum vivo testatore insula, in qua caenaculum fuit quod ei legatum erat, exusta sit, et post biennium eodem loco constituta nova, et horreum, quod eidem legatum erat, a testatore venierit, vini autem venditio dilata sit, ut ex eo commodo venirent, an universa legata pardula consequi possit. Respondit ea, in quibus voluntas mutata esset, non deberi.
+
+33.7.8
+
+Ulpianus libro 20 ad Sabinum
+
+pr. In instrumento fundi ea esse, quae fructus quaerendi cogendi conservandi gratia parata sunt, Sabinus libris ad Vitellium evidenter enumerat. Quaerendi, veluti homines qui agrum colunt, et qui eos exercent praepositive sunt is, quorum in numero sunt vilici et monitores: praeterea boves domiti, et pecora stercorandi causa parata, vasaque utilia culturae, quae sunt aratra ligones sarculi falces putatoriae bidentes et si qua similia dici possunt. Cogendi, quemadmodum torcularia corbes falcesque messoriae falces fenariae quali vindemiatorii exceptoriique, in quibus uvae comportantur. Conservandi, quasi dolia, licet defossa non sint, et cuppae.
+
+1. Quibusdam in regionibus accedunt instrumento, si villa cultior est, veluti atrienses scoparii, si etiam virdiaria sint, topiarii, si fundus saltus pastionesque habet, greges pecorum pastores saltuarii.
+
+33.7.9
+
+Paulus libro quarto ad Sabinum
+
+De grege ovium ita distinguendum est, ut, si ideo comparatus sit, ut ex eo fructus caperetur, non debeatur: si vero ideo, quia non aliter ex saltu fructus percipi poterit, contra erit, quia per greges fructus ex saltu percipiuntur.
+
+33.7.10
+
+Ulpianus libro 20 ad Sabinum
+
+Si reditus etiam ex melle constat, alvei apesque continentur.
+
+33.7.11
+
+Iavolenus libro secundo ex Cassio
+
+Eadem ratio est in avibus, quae in insulis maritimis aluntur.
+
+33.7.12
+
+Ulpianus libro 20 ad Sabinum
+
+pr. Quaesitum est, an frumentum, quod cibariis cultorum paratum foret, instrumento cederet. Et plurimis non placet, quia consumeretur: quippe instrumentum est apparatus rerum diutius mansurarum, sine quibus exerceri nequiret possessio: accedit eo, quod cibaria victus magis quam colendi causa pararentur. Sed ego puto et frumentum et vinum ad cibaria paratum instrumento contineri: et ita servium respondisse auditores eius referunt. Item nonnullis visum est frumentum, quod serendi causa sepositum est, instrumento contineri, puto quia et instar culturae esset et ita consumitur, ut semper reponeretur: sed causa seminis nihil a cibariis differt.
+
+1. Conservandi fructus causa, veluti granaria, quia in his fructus custodiuntur, Urceos Capsellas, in quibus fructus componuntur: sed et ea, quae exportandorum fructuum causa parantur, instrumenti esse constat, veluti iumenta et vehicula et naves et cuppae et culei.
+
+2. Alfenus autem, si quosdam ex hominibus aliis legaverit, ceteros, qui in fundo fuerunt, non contineri instrumento ait, quia nihil animalis instrumenti esse opinabatur: quod non est verum: constat enim eos, qui agri gratia ibi sunt, instrumento contineri.
+
+3. Quaeritur, an servus, qui quasi colonus in agro erat, instrumento legato contineatur. Et Labeo et Pegasus recte negaverunt, quia non pro instrumento in fundo fuerat, etiamsi solitus fuerat et familiae imperare.
+
+4. Saltuarium autem Labeo quidem putat eum demum contineri, qui fructuum servandorum gratia paratus sit, eum non, qui finium custodiendorum causa: sed Neratius etiam hunc, et hoc iure utimur, ut omnes saltuarii contineantur.
+
+5. Trebatius amplius etiam pistorem et tonsorem, qui familiae rusticae causa parati sunt, putat contineri, item fabrum, qui villae reficiendae causa paratus sit, et mulieres quae panem coquant quaeque villam servent: item molitores, si ad usum rusticum parati sunt: item focariam et vilicam, si modo aliquo officio virum adiuvet: item lanificas quae familiam rusticam vestiunt, et quae pulmentaria rusticis coquant.
+
+6. Sed an instrumenti instrumentum legato instrumento continetur, quaeritur: haec enim, quae rusticorum causa parantur, lanificae et lanae et tonsores et fullones et focariae non agri sunt instrumentum, sed instrumenti. Puto igitur etiam focariam [focarium] contineri: sed et lanificas et ceteros, qui supra enumerati sunt: et ita servium respondisse auditores eius referunt.
+
+7. Uxores quoque et infantes eorum, qui supra enumerati sunt, credendum est in eadem villa agentes voluisse testatorem legato contineri: neque enim duram separationem iniunxisse credendus est.
+
+8. Si aliqua parte anni in fundo pascantur pecora, aliqua parte his pabulum conducitur, vel servi, si aliqua parte anni per eos ager colitur, aliqua parte in mercedem mittuntur, nihilo minus instrumento continentur.
+
+9. Cellararium quoque, id est ideo praepositum, ut rationes salvae sint, item ostiarium mulionemque instrumenti esse constat.
+
+10. Et molas et machinas, fenum stipulas, asinum machinarium, machinam frumentariam, vas aeneum, in quo sapa coqueretur et defrutum fiat et aqua ad bibendum lavandamque familiam paratur, instrumenti esse, et cribra, et plaustra quibus stercus evehatur.
+
+11. Ea vero, quae solo continentur, instrumenti fundi non esse cassius scribit, veluti harundineta et salicta, antequam caesa sint, quia fundus fundi instrumentum esse non potest: sed si caesa sint, puto contineri, quia quaerendo fructui deserviunt. Idem et in palis erit dicendum.
+
+12. Si in agro venationes sint, puto venatores quoque et vestigatores et canes et cetera quae ad venationem sunt necessaria instrumento contineri, maxime si ager et ex hoc reditum habuit.
+
+13. Et si ab aucupio reditus fuit, aucupes et plagae et huius rei instrumentum agri instrumento continebitur: nec mirum, cum et aves instrumento exemplo apium contineri Sabinus et Cassius putaverunt.
+
+14. Si quis eodem instrumento in plurimis agris utatur, cuius agri sit instrumentum, quaeritur. Et ego arbitror, si quidem apparet voluntas patris familiae, cui potius agro destinaverat, eius esse instrumentum: ceteri enim agri ab hoc agro veluti mutuantur: si non appareat, nullius instrumento cedet: neque enim pro parte dividemus instrumentum.
+
+15. Supellex ceteraque, si qua in agro fuerunt, quo instructior esset pater familias, instrumento fundi non continentur.
+
+16. Si domus sit instrumentum legatum, videndum quid contineatur. Et Pegasus ait instrumentum domus id esse, quod tempestatis arcendae aut incendii causa paratur, non quod voluptatis gratia: itaque neque specularia neque vela quae frigoris causa vel umbrae in domo sunt deberi. Quae sententia Cassii fuit, qui dicebat inter instrumentum et ornamentum multum interesse: instrumenti enim ea esse, quae ad tutelam domus pertinent, ornamenti, quae ad voluntatem, sicuti tabulas pictas.
+
+17. Vela autem Cilicia instrumenti esse Cassius, quae ideo parantur, ne aedificia vento vel pluvia laborent.
+
+18. Acetum quoque, quod exstinguendi incendii causa paratur, item centones sifones, perticae quoque et scalae, et formiones et spongias et amas et scopas contineri plerique et Pegasus aiunt.
+
+19. Tegulam autem et tignum eius rei causa paratum instrumento contineri, si ad huiusmodi causam habeat tigna parata ad alios usus non deservientia. Proinde et fulcimenta si qua habebat huic rei necessaria, etiam ea instrumento domus continebuntur.
+
+20. De velis, quae in hypaethris extenduntur, item de his, quae sunt circa columnas, Celsus scribit magis suppellectili adnumeranda et ita Sabinum et Cassium putare.
+
+21. Canales autem et harpagones et amas instrumento contineri constat.
+
+22. Item perticae, quibus araneae detergantur, item spongiae, quibus columnae pavimenta podia extergantur, scalae, quae ad lacunaria admoveantur, instrumenti sunt, quia mundiorem domum reddunt.
+
+23. Papinianus quoque libro septimo responsorum ait: sigilla et statuae adfixae instrumento domus non continentur, sed domus portio sunt: quae vero non sunt adfixa, instrumento non continentur, inquit: suppellectili enim adnumerantur, excepto horologio aereo, quod non est adfixum: nam et hoc instrumento domus putat contineri, sicut prothyrum domus, si velamen est, inquit, instrumento domus continetur.
+
+24. Fistulae autem et canales et crateres et si qua sunt alia ad aquas salientes necessaria, item serae et claves magis domus portio quam domus instrumentum sunt.
+
+25. Specularia quoque adfixa magis puto domus esse partem: nam et in emptione domus et specularia et pegmata cedere, sive in aedificio sunt posita sive ad tempus detracta. Sed si non sint, reposita ad hoc tamen sint, ut suppleantur, si qua desint: instrumento potius continebuntur.
+
+26. Cancellos quoque instrumento contineri puto.
+
+27. Sed si fundus non sit cum instrumento legatus, sed ita ut instructus sit, quaesitum est, an plus contineatur, quam si cum instrumento legatus esset. Et Sabinus libris ad Vitellium scribit fatendum esse plus esse, cum instructus fundus legetur, quam si cum instrumento: quam sententiam cottidie increscere et invalescere videmus. Quanto igitur hoc legatum uberius est, videndum est. Et sSbinus definit et Cassius apud Vitellium notat: omnia quae eo collocata sunt, ut instructior esset pater familias, instructo, inquit, continebuntur, id est quae ibi habuit, ut instructior esset. Hoc ergo legato non agri instrumentum, sed proprium suum instrumentum reliquisse videtur.
+
+28. Proinde si fundus sit instructus legatus, et suppellex continebitur, quae illic fuit usus ipsius gratia, et vestis non solum stragula, sed et qua ibi uti solebat: mensae quoque eboreae vel si quae aliae, item vitrea et aurum et argentum: vina quoque, si qua ibi fuerint usus ipsius causa, continentur, et si quid aliud utensilium.
+
+29. Sed si qua eo congesserat non usus ipsius causa, sed custodiae gratia, non continebuntur: vina etiam, quae in apothecis sunt, non cedent: et hoc iure utimur, ut quae ibi pater familias quasi in horreo habuit, haec non contineantur.
+
+30. Celsus quoque libro nono decimo digestorum scribit fructus ibi repositos, ut venirent vel in alium usum quam fundi converterentur, instructo fundo non contineri.
+
+31. Idem Celsus eodem libro ait etiam suppellecticarios et ceteros hoc genus servos contineri, id est ministeria, quibus instructus erat in eo fundo (extra ea quae libertatem acceperunt), et qui rure morari solebant.
+
+32. Si instructum fundum legasset, ea paedagogia, quae ibi habebat, ut, cum ibi venisset, praesto essent in triclinio, legato continentur.
+
+33. Contubernales quoque servorum, id est uxores, et natos, instructo fundo contineri verum est.
+
+34. Instructo autem fundo et bibliothecam et libros, qui illic erant, ut quotiens venisset uteretur, contineri constat. Sed si quasi apotheca librorum utebatur, contra erit dicendum.
+
+35. Neratius quoque libro quarto epistularum Rufino respondit instructo fundo et suppellectilem et vina et mancipia non solum ad cultum custodiamve villae, sed etiam quae ut ipsi patri familias in ministerio ibi essent, legato cedere.
+
+36. Imagines quoque hae solae legatae videntur, quae in aliquo ornatu villae fuerunt.
+
+37. Papinianus quoque praediis instructis legatis mancipia non contineri, quae temporis causa illic fuerunt ac non eo animo transtulit pater familias, ut aut fundi aut suum instrumentum faceret.
+
+38. Idem respondit praediis instructis legatis actorem ex his in provinciam missum, ut ordinatis negotiis ad pristinum actum rediret, legato praediorum cedere, quamvis nondum redierit.
+
+39. Idem respondit instructis hortis legatis etiam vina, quae ibi fuerunt, quo dominus esset instructior, contineri: aliud esse, si horrea ibi habuit, unde instruebatur vel in urbe vel in aliis praediis.
+
+40. Idem respondit domo per fideicommissum relicta cum supellectili Claudio Hieronymiano clarissimo viro ab Umbrio Primo et mensas et ceteram suppellectilem, quam in hortis pater familias in proconsulatum profecturus contulerat, ut tutiore loco essent, contineri.
+
+41. Idem respondit Theriacam quoque et cetera medicamenta, quae secessus causa dominus ibi habuit, et vestem propter secessum ibi depositam instructo fundo legato inesse.
+
+42. Idem respondit domo ita, ut instructa est, cum omni iure suo legata urbanam familiam, item artifices, quorum operae ceteris quoque praediis exhibebantur, legato non contineri: ostiarii autem, inquit, vel topiarii diaetarii aquarii domui tantum deservientes continebuntur. Sed quod de artificibus ait, falsum est, si eius domus causa parati sunt, licet aliis quoque praediis commodabantur.
+
+43. Idem respondit domo instructa legata mensas eboreas et libros non contineri: sed et hoc falsum est: nam omne, quidquid in domo fuit, quo instructior ibi esset pater familias, continebitur, suppellectilem autem patris familiae instrumentum esse nemo dubitat. Denique Neratius libro quarto epistularum Marcello fratri suo respondit et vestem domus instructae legato contineri: maxime, inquit, in proposita specie: proponebatur enim, qui legaverat, argentum et rationes excepisse: nam qui haec, inquit, excepit, non potest non videri de ceteris rebus, quae in ea essent, sensisse. Sed et ipse Papinianus eodem libro responsorum ait patrem mercatorem ac faeneratorem, qui duos filios totidemque filias heredes instituerat, ita legasse: "Filiis maribus domum meam instructam do lego darique iubeo", merces et pignora an contineantur, quaeri posse: sed facilem iudici voluntatis coniecturam fore ceteris patris facultatibus examinatis.
+
+44. Celsus scribit servis qui in fundo morarentur legatis, vicarios eorum non contineri, nisi appareat et de vicariis eum sensisse.
+
+45. Papinianus quoque libro septimo responsorum uxori, cui vir omnia, quae in domo erant, ab herede filia praestari voluit, cautiones debitorum emptionesque servorum non videri legatas respondit, nisi, inquit, ex alia parte et de servis eum cogitasse apparuerit, scilicet ut eorum servorum ei legasse videatur emptiones, quos et ipsos voluit ad eam pertinere.
+
+46. Si quis fundum ita ut instructus est legaverit et adiecerit cum supellectili vel mancipiis vel una aliqua re, quae nominatim expressa non erat, utrum minuit legatum adiciendo speciem an vero non, quaeritur. Et Papinianus respondit non videri minutum, sed potius ex abundanti adiectum.
+
+47. Idem Papinianus libro septimo responsorum ait: instructis hortis filio legatis mater argentum muliebre filiae legaverat: respondit etiam id argentum muliebre, quod in hortis habuit, ut ibi esset instructior, ad filiam pertinere.
+
+33.7.13
+
+Paulus libro quarto ad Sabinum
+
+pr. Tabernae cauponiae instrumento legato etiam institores contineri Neratius existimat: sed videndum, ne inter instrumentum tabernae cauponiae et instrumentum cauponae sit discrimen, ut tabernae non nisi loci instrumenta sint, ut dolia vasa ancones calices trullae, quae circa cenam solent traici, item urnae aereae et congiaria sextaria et similia: cauponae autem, cum negotiationis nomen sit, etiam institores.
+
+1. Instrumento balneario legato etiam balneatorem contineri Neratius respondit:
+
+33.7.14
+
+Paulus libro secundo ad Vitellium
+
+Continetur autem et fornicator.
+
+33.7.15
+
+Pomponius libro sexto ad Sabinum
+
+pr. Si ita testamento scriptum sit: "Quae tabernarum exercendarum instruendarum pistrini Cauponae causa facta parataque sunt, do lego", his verbis Servius respondit et caballos, qui in pistrinis essent, et pistores, et in Cauponio institores et focariam, mercesque, quae in his tabernis essent, legatas videri.
+
+1. Domo instructa responsum est [et] suppellectilem legatam, non etiam vina, quia domus vinis instructa intellegi non potest.
+
+2. Mulier villae custos perpetua fundo qui cum instrumento legatus esset aut instructo continebitur, sicuti saltuarius: par enim ratio est: nam desiderant tam villae quam agri custodiam, illic, ne quid vicini aut agri aut fructuum occupent, hic, ne quid ceterarum rerum quae in villa continentur: villa autem sine ulla dubitatione pars fundi habetur.
+
+33.7.16
+
+Alfenus libro secundo a Paulo epitomatorum
+
+pr. Villae instrumento legato supellectilem non contineri verius est.
+
+1. Vinea et instrumento eius legato instrumentum vineae nihil esse servius respondit: qui eum consulebat, cornelium respondisse aiebat palos perticas rastros ligones instrumenti vineae esse: quod verius est.
+
+2. Quidam uxori fundum, uti instructus esset, in quo ipse habitabat, legavit. consultus de mulieribus lanificis an instrumento continerentur, respondit non quidem esse instrumenti fundi, sed quoniam ipse pater familias, qui legasset, in eo fundo habitasset, dubitari non oportere, quin et ancillae et ceterae res, quibus pater familias in eo fundo esset instructus, omnes legatae viderentur.
+
+33.7.17
+
+Marcianus libro septimo institutionum
+
+pr. Item pictoris instrumento legato cerae colores similiaque horum legato cedunt, item peniculi et cauteria et conchae.
+
+1. Instrumento piscatorio contineri Aristo ait Naucellas, quae piscium capiendorum causa comparatae sunt: sed et piscatores contineri verius est.
+
+2. Instrumento balneatorio legato dictum est balneatorem sic instrumento contineri balneario, quomodo instrumento fundi saltuarium et topiarios, et instrumento Cauponio institorem, cum balneae sine balneatoribus usum suum praebere non possint.
+
+33.7.18
+
+Paulus libro secundo ad Vitellium
+
+pr. Cum de Lanionis instrumento quaeritur, semota carne mensas pondera ferramentaque laniandae carnis causa praeparata, item trutinas cultros dolabras instrumento relinquimus.
+
+1. Instrumento legato aliquando etiam personas legantium necesse est inspici. Ut ecce pistorio instrumento legato ita ipsi pistores inesse videri possunt, si pater familias pistrinum exercuit: nam plurimum interest, instrumentum pistoribus an pistrino paratum sit.
+
+2. Asinam molendariam et molam negat Neratius instrumento fundi contineri.
+
+3. Item caccabos et patinas in instrumento fundi esse dicimus, quia sine his pulmentarium coqui non potest. Nec multum refert inter caccabos et aenum, quod supra focum pendet: hic aqua ad potandum calefit, in illis pulmentarium coquitur. Quod si aenum instrumento continetur, urcei quoque, quibus aqua in aenum infunditur, in idem genus rediguntur, ac deinceps in infinitum primis quibusque proxima copulata procedunt. Optimum ergo esse Pedius ait non propriam verborum significationem scrutari, sed in primis quid testator demonstrare voluerit, deinde in qua praesumptione sunt qui in quaque regione commorantur.
+
+4. Cum de vilico quaereretur et an instrumento inesset et dubitaretur, Scaevola consultus respondit, si non pensionis certa quantitate, sed fide dominica coleretur, deberi.
+
+5. Idem consultus de meta molendaria respondit, si rusticis eius fundi operariis moleretur, eam quoque deberi. Est autem meta inferior pars molae, Catillus superior.
+
+6. De bubulco quoque ita respondit, sive de eo, qui bubus ibi araret, sive de eo, qui boves eius fundi aratores pasceret, quaereretur, deberi.
+
+7. De putatoribus quoque ita respondit, si eius fundi causa haberentur, inesse:
+
+8. Pastores quoque et fossores ad legatarium pertinere.
+
+9. Item cum fundus ita legatus esset: "Maevio fundum Seianum, ita ut optimus maximusque est, cum omni instrumento rustico et urbano et mancipiis quae ibi sunt" et quaereretur, an semina deberentur, respondit verius esse deberi, nisi aliud testatorem sensisse heres probaret. Idem respondit de frumento reposito ad mancipiorum exhibitionem.
+
+10. In instrumento medici esse collyria et emplastra et cetera eius generis cassius scribit.
+
+11. Cui fundum instructum legaverat, nominatim mancipia legavit: quaesitum est, an reliqua mancipia, quae non nominasset, instrumento cederent. Cassius ait responsum esse, tametsi mancipia instructi fundi sint, tamen videri eos solos legatos esse, qui nominati essent, quod appareret non intellexisse patrem familias instrumento quoque servos adnumeratos esse.
+
+12. Sabinus. Cui fundus quaeque ibi sint legata sunt, ei fundus et omnia, quae in eo solita sunt esse quaeque ibi maiore parte anni morari et hi, qui in eum manendi causa recipere se consueverunt, legati videntur: at si qua consulto in fundo congesta contractave sunt, quo legatum cumularetur, ea non videntur legata esse.
+
+13. Quidam cum ita legasset: "Villam meam ita ut ipse possedi cum suppellectile mensis mancipiis, quae ibi deputabuntur, urbanis et rusticis, vinis, quae in diem mortis meae ibi erunt, et decem aureis", et quaereretur, cum in diem mortis ibi libros et vitreamina et vesticulam habuerit, an eadem omnia legato cederent, quoniam quaedam enumerasset: Scaevola respondit specialiter expressa, quae legato cederent.
+
+14. Domum instructam legavit cum omnibus adfixis: quaeritur de instrumentis debitorum, an ea legatarius habere potest. Respondit secundum ea quae proponerentur non posse.
+
+33.7.19
+
+Paulus libro 13 responsorum
+
+pr. Si mancipia quae, post testamentum factum in fundum Seiae relictum a testatore inducta, fundi colendi gratia in eodem fundo fuerint, ea quoque instrumento fundi contineri respondi: quamvis enim ea mancipia testator demonstrasset, quae tunc ibi essent cum legaret, tamen non minuendi legati, sed augendi causa mancipiorum quoque fecit mentionem. Ceterum instrumento fundi mancipia quoque colendi agri causa inducta contineri non ambigitur.
+
+1. Paulus respondit villae instrumento neque fructus repositos neque equitium contineri, suppellectile autem legato cedere: servum vero arte fabrica peritum, qui annuam mercedem praestabat, instrumento villae non contineri.
+
+33.7.20
+
+Scaevola libro tertio responsorum
+
+pr. Seiae ex parte heredi institutae, si heres erit, fundos per praeceptionem dederat instructos cum suis vilicis et reliquis colonorum et codicillis ita scripsit: "Postea mihi venit in mentem: Seiae fundos quos reliqui, ita ut sunt instructi rustico instrumento suppellectile pecore et vilicis cum reliquis colonorum et apotheca habere volo". Quaesitum est, an etiam ea, quae patris familias usus cottidiani causa in fundis fuerunt, legato continerentur. Respondit testamento quidem ut proponeretur Seiae, insuper fundum, legatum, verum non amplius deberi, quam in codicillis (quos sane post oblivionem testamentariae scripturae fecisset) instructi appellatione contineri velle se manifeste ostendisset.
+
+1. Liberto suo quidam praedia legavit his verbis: "Seio liberto meo fundos illum et illum do lego ita ut instructi sunt cum dotibus et reliquis colonorum et saltuariis cum contubernalibus suis et filiis et filiabus". Quaesitum est, an Stichus servus, qui praedium unum ex his coluit et reliquatus est amplam summam, ex causa fideicommissi Seio debeatur. Respondit, si non fide dominica, sed mercede, ut extranei coloni solent, fundum coluisset, non deberi.
+
+2. "Gaio Seio alumno meo fundos meos illum et illum, ita ut instructi sunt, et domum superiorem dari volo": quaesitum est, an etiam domum instructam dari voluerit. Respondit secundum ea quae proponerentur ita videri dedisse, nisi is, a quo peteretur, aliud testatorem sensisse manifeste doceret: at si habitationis, id est aedificii instrumentum legasset, non cedere servos operae aliive rei paratos.
+
+3. Praedia ut instructa sunt cum dotibus et reliquis colonorum et vilicorum et mancipiis et pecore omni legavit et peculiis et cum actore: quaesitum est, an reliqua colonorum, qui finita conductione interposita cautione de colonia discesserant, ex verbis supra scriptis legato cedant. Respondit non videri de his reliquis esse cogitatum.
+
+4. Idem quaesiit in actore legato, an uxor et filia legato cedant, cum actor non in praediis, sed in civitate moratus sit. Respondit nihil proponi, cur cedant.
+
+5. Idem quaesiit, cum testator facto testamento in provinciam sit profectus, an ea mancipia, quae post profectionem eius aut mortem sine cuiusquam auctoritate sponte sua ad parentes et notos sibi homines in fundos legatos transiere, legato cedant. Respondit non legatos eos, qui forte veluti commeantes transissententiarum
+
+6. "Pamphilae libertae meae dari volo fundum Titianum cum instrumento et his quae in eodem erunt cum moriar". Quaesitum est, si Stichus servus, ex eo fundo ante annum mortis testatoris abductus et in disciplinam traditus, postea in eum fundum non reversus sit, an debeatur. Respondit, si studendi causa misisset, non quo a fundo eum aliorsum transferat, deberi.
+
+7. "Tyrannae sorori meae fundum meum Graecianum cum stabulo et instrumento rustico omni relinquo". Quaeritur, an fundi appellatione etiam pascua, quae ad eum simul cum fundo pervenerint et quae semper in usibus huius possessionis habuerat, legato cederent. Respondit, si prata fundo Graeciano ita coniunxisset, uti sub una fundi appellatione haberentur, ea quoque deberi.
+
+8. Instructis domibus legatis crabattus argento inaurato tectus mortis Titiae tempore in domibus non est repertus, sed in horreis tantisper conditus: quaero, an is quoque praestandus sit. Respondit, si in domo esse soleret et quo tutiore loco haberetur, interim in horreo allatus esset, nihilo minus praestandum.
+
+8. Quod adiecit testator "uti possedi" an hoc significet "sicut instructa in diem mortis habuit", id est cum mancipiis pecoribus instrumento rustico? Respondit: non de iure quaeritur.
+
+33.7.21
+
+Pomponius libro primo fideicommissorum
+
+Cum fundus sine instrumento legatus sit, dolia molae olivariae et praelum et quaecumque infixa inaedificataque sunt fundo legato continentur, nulla autem ex his rebus quae moveri possunt paucis exceptis fundi appellatione continentur. De molis tum quaeri solet, cum ita adfixae itave inaedificatae sint, ut partes aedificiorum esse videantur.
+
+33.7.22
+
+Paulus libro tertio sententiarum
+
+pr. Fundo legato "ut optimus maximusque est" retia apraria et cetera venationis instrumenta continebuntur: quod etiam ad instrumenta pertinet, si quaestus fundi ex maxima parte in venationibus consistat.
+
+1. Fundo legato cum mancipiis et pecoribus et omni instrumento rustico et urbano peculium actoris ante testatorem defuncti, si ex eodem fundo fuerit, magis placet ad legatarium pertinere.
+
+33.7.23
+
+Neratius libro secundo responsorum
+
+Cum quaeratur, quod sit tabernae instrumentum, interesse, quod genus negotiationis in ea exerceri solitum sit.
+
+33.7.24
+
+Paulus libro tertio ad Neratium
+
+Fundus, qui locatus erat, legatus est cum instrumento: instrumentum, quod colonus in eo habuit, legato cedit. Paulus: an quod coloni fuit an tantum id quod testatoris fuit? Et hoc magis dicendum est, nisi nullum domini fuit.
+
+33.7.25
+
+Iavolenus libro secundo ex posterioribus Labeonis
+
+pr. Fundi instrumento legato id pecus cedere putabat Tubero, quod is fundus sustinere potuisset: Labeo contra. Quid enim fiet, inquit, si, cum mille oves fundus sustinere potuisset, duo milia ovium in eo fundo fuerint? Quas oves potissimum legato cessuras existimabimus? Nec quaerendum esse, quid debuisset parari pecoris instrumenti fundi causa, sed quid paratum esset: non enim ex numero aut multitudine legata aestimandum esse. Labeonis sententiam probo.
+
+1. Quidam cum in fundo figlinas haberet, figulorum opera maiore parte anni ad opus rusticum utebatur, deinde eius fundi instrumentum legaverat. Labeo Trebatius non videri figulos in instrumento fundi esse.
+
+2. Item cum instrumentum omne legatum esset excepto pecore, pastores oviliones, ovilia quoque legato contineri Ofilius non recte putat.
+
+33.7.26
+
+Iavolenus libro quinto ex posterioribus Labeonis
+
+pr. Dolia fictilia, item plumbea, quibus terra adgesta est, et in his viridiaria posita aedium esse Labeo Trebatius putant. Ita id verum puto, si ita illigata sint aedibus, ut ibi perpetuo posita sint.
+
+1. Molas manuarias quidem suppellectilis, iumentarias autem instrumenti esse Ofilius ait. Labeo Cascellius Trebatius neutras suppellectilis, sed potius instrumenti putant esse, quod verum puto.
+
+33.7.27
+
+Scaevola libro sexto digestorum 
+
+pr. Praedia maritima cum servis qui ibi erunt et omni instrumento et fructibus qui ibi erunt et reliquis colonorum nutritori suo legavit. Quaesitum est, an servi piscatores, qui solebant in ministerio testatoris esse et ubicumque eum sequi et urbicis rationibus expungebantur nec mortis testatoris tempore in praediis legatis deprehensi fuerant, legati esse videantur. Respondit secundum ea quae proponerentur non esse legatos.
+
+1. Adfini suo ita legavit: "Fundum Cornelianum Titio ita ut est instructus cum omnibus rebus et mancipiis et reliquis colonorum dari volo". Haec testatrix Romae litis causa ex Africa veniens mancipia quaedam ex fundo supra scripto, quo citius per hiemem operam elegeret, secum abduxit: quaesitum est, an ea mancipia fideicommisso cedant, cum quaedam ex his rusticis officiis ad tempus peregrinationis abducta sunt relictis conservabus et filiis suis et quaedam matribus et patribus. Respondit mancipia, de quibus quaereretur, secundum ea quae proponerentur ex causa fideicommissi deberi.
+
+2. Idem quaesiit, an fructus eiusdem fundi, qui ibi in diem mortis coacti manserint, fideicommisso cedant, cum plenissima testatoris erga adfinem voluntas ab eo quoque manifestetur, quo reliqua colonorum eiusdem possessionis ad eum pertinere voluerit. Respondit in huiusmodi scriptura posse responderi hoc solum quaerendum, an manifeste appareat defuncta id, de quo quaereretur, dari noluisse.
+
+3. Liberto, quem heredem in parte rescripsit, fundum per praeceptionem dedit in haec verba: "Pamphile liberte, praecipito tibique habeto fundum meum Titianum et agellum Sempronianum cum instrumento et his, quae in eodem erunt cum moriar, familiaque, quae in eo fundo moratur, exceptis quos manumisero". Quaesitum est, cum testator in eo fundo aliquantum vini in doliis habuerit, quod vivus totum vendiderat et partem tertiam pretii pro eo acceperat, an vinum in doliis remanens ad libertum ex causa praeceptionis pertineat. Respondit verbis quae proponerentur contineri, nisi manifeste contrariam voluntatem coheredes approbant. In eo fundo instrumenta calendarii et nummos reliquit. Responsum est de nummis quoque, ut supra responsum.
+
+4. Ita legatum est: "Septiciae sorori meae fundi paterni mei Seiani partem dari volo sic ut est, et alteram partem ita, ut in diem mortis fuerit": quaesitum est, an ex verbis supra scriptis aggeres et praela iam posita parataque, ut immittantur aedificio, item instrumentum urbanum et rusticum cum mancipiis, quae fundi causa erant, ad legatarios pertineant. Respondit: potest haec verba "sic ut est" ad instructum referri.
+
+5. Fundos legavit in haec verba: "Sempronio fratri meo hoc amplius fundos meos ita, ut instructi sunt, Cassianum Nonianum cum suis salictis et silvis". Quaesitum est, cum silvae et salicta non in fundis supra scriptis, sed in adiectis agellis et quos simul testator comparavit nec sine his fundi coli possint, an legato cederent. Respondit id tantum cedere legato, quod verbis comprehendisset.
+
+33.7.28
+
+Scaevola libro 23 digestorum
+
+Lucius Titius fundum, uti erat instructus, legaverat. Quaesitum est, fundus instructus quemadmodum dari debeat, utrum sic ut instructus fuit mortis patris familiae tempore, ut quae medio tempore adgnata aut in fundum illata sunt heredis sint? An vero instructus fundus eo tempore inspici debeat, quo factum est testamentum? An vero eo tempore, quo fundus peti coeperit, ut quidquid eo tempore instrumenti deprehendatur, legatario proficiat? Respondit ea quibus instructus sit fundus secundum verba legati quae sint in eadem causa, cum dies legati cedat, instrumento contineri.
+
+33.7.29
+
+Labeo libro primo pithanon
+
+Si navem cum instrumento emisti, praestari tibi debet scapha navis. Paulus: immo contra. Etenim scapha navis non est instrumentum navis: etenim mediocritate, non genere ab ea differt, instrumentum autem cuiusque rei necesse est alterius generis esse atque ea quaequae sit: quod Pomponio libro septimo epistularum placuit.
+ 
+
+33.8.0. De peculio legato.
+
+ 
+33.8.1
+
+Paulus libro quarto ad Sabinum
+
+Servo legato cum peculio et alienato vel manumisso vel mortuo legatum etiam peculii exstinguitur.
+
+33.8.2
+
+Gaius libro 18 ad edictum provinciale
+
+Nam quae accessionum locum optinent, exstinguuntur, cum principales res peremptae fuerint.
+
+33.8.3
+
+Paulus libro quarto ad Sabinum
+
+At si ancilla cum suis natis legata sit, etiam mortua ea vel alienata vel manumissa nati ad legatarium pertinebunt, quia duo legata sunt separata.
+
+33.8.4
+
+Gaius libro 18 ad edictum provinciale
+
+Sed et si cum vicariis suis legatus sit servus, durat vicariorum legatum et mortuo eo aut alienato aut manumisso.
+
+33.8.5
+
+Paulus libro quarto ad Sabinum
+
+Peculio legato constat heredem nomina peculiaria persequi posse, et insuper ipsum si quid debeat servo, reddere legatario debere.
+
+33.8.6
+
+Ulpianus libro 25 ad Sabinum
+
+pr. Si peculium legetur et sit in corporibus, puta fundi vel aedes, si quidem nihil sit, quod servus domino vel conservis liberisve domini debeat, integra corpora vindicabuntur: sin vero sit, quod domino vel supra scriptis personis debeatur, deminui singula corpora pro rata debebunt. Et ita et Iulianus et Celsus putant.
+
+1. Et si fuerit legatum peculium non deducto aere alieno, verendum, ne inutile legatum sit, quia quod adicitur contra naturam legati sit. Sed puto verum hanc adiectionem non vitiare legatum, sed nihil ei adicere: nec enim potest crescere vindicatio peculii per hanc adiectionem. Plane si proponas legatarium nactum possessionem rerum, exceptione doli adversus heredem vindicantem uti potest: habet enim in solidis rebus voluntatem aeris alieni non deducendi. Sed et si dominus remittere se servo quod debet vel nihil sibi servum debere significaverit, valet haec adiectio, quia nuda voluntate potest dominus servo remittere quod ei debet.
+
+2. Vicario autem meo mihi legato an et vicarii mei peculium ad me pertineat, quaeritur. Et putamus contineri legato vicarii eius peculium, nisi adversa sit voluntas testatoris.
+
+3. Si servus et vicarius eius liberi esse iussi sint eisque peculia sua legata sint, verba secundum voluntatem testatoris exaudienda, tamquam de duobus separatisque peculiis testatore locuto: et secundum haec vicarius vicarii non communicabitur, nisi haec mens fuit testantis.
+
+4. Sicut autem aes alienum, hoc est quod debetur domino, minuit legatum peculium, ita per contrarium id quod dominus debet servo augere debet. Sed huic sententiae adversatur rescriptum imperatoris nostri et patris eius, quod ita est: "Cum peculium servo legatur, non etiam id conceditur, ut petitionem habeat pecuniae, quam se in rationem domini impendisse dicit". Quid tamen si haec voluntas fuit testatoris? Cur non possit consequi? Certe compensari debet hoc quod impendit cum eo quod domino debetur. An et quod dominus scripsisset se servo debere, peculio legato cederet? Pegasus negat: idem Nerva: et cum Gnaeus Domitius filiae suae peculium quod eius esset legasset, et annuum, quod ei solitus erat dare, biennio non dedisset, sed in rationibus suis rettulisset filiae se debere quinquaginta, Atilicinus existimavit legato non cedere, quod verum est, quia consonat rescripto.
+
+5. Non solum autem quod domino debetur peculio legato deducitur, sed et si quid heredi debitum fuit.
+
+33.8.7
+
+Pomponius libro septimo ad Sabinum
+
+Si quis creditori suo adrogandum se dederit et agetur de peculio cum adrogatore, idem puto dicendum, quod de herede dicitur.
+
+33.8.8
+
+Ulpianus libro 25 ad Sabinum
+
+pr. Denique Pegasus respondit, si statulibero, cui peculium legatum sit, heres interim crediderit, id ipso iure detrahi et corpora singula etiam per hoc aes alienum deminui.
+
+1. Proinde si pure libertatem accipiet et heres vel vivo domino vel ante aditam hereditatem servo crediderit, legatum peculii minuetur secundum Iuliani sententiam, licet dominus servi numquam fuerit.
+
+2. Qui Stichum et Pamphilum servos habebat, testamento eos manumisit et unicuique peculium suum legavit. Placet, quod alter alteri debet, de peculio eius decedere et alterius accedere legato.
+
+3. Item quaeritur, si servo libertas data sit, si decem dedisset heredi, peculiumque ei legatum sit, an decem, quae dedisset heredi, debeant de peculio decedere. Et est verum quod Sabino placuit, hoc minus esse in peculio legato.
+
+4. Plus ait Sabinus, si statuliber servum heredi vendiderit, perinde desinere eum in peculio esse, atque si extraneo vendidisset.
+
+5. His consequenter quaeritur, si servus cum domino de libertate pactus fuerit et partem pecuniae dederit et ante quam residuum dederit dominus decesserit liberumque esse testamento iusserit cum peculio legato, an quod domino dederit in peculio sit imputandum. Et ait Labeo de peculio decedere. Plane si nondum dederat, sed, donec totum traderet, pro deposito apud eum fuerit, id in peculio esse placuit.
+
+6. Item si servo peculium sit legatum et a debitore eius peculiari heres vetitus sit petere, verum est hoc minus esse in legato peculio, hoc est detrahendum id quod debitori legatum est.
+
+7. Interdum etsi non sit legatum peculium, velut legatum sic accipitur, id est in huiusmodi specie: quidam servo libertatem, si rationes reddidisset, dederat, et si heredibus centum intulisset. Imperator igitur noster cum patre rescripsit, peculium quidem non nisi legatum deberi: "verum", inquit, " si condicionibus praescriptis paruit servus, testatorem voluisse eum retinere peculium interpretamur": videlicet ex eo, quod ex peculio eum iusserat centum inferre.
+
+8. Utrum autem id demum peculium accipimus, quod mortis tempore fuit, an vero et quod postea accessit applicamus vel quod decessit detrahimus? Et Iulianus alias accipiendum legatum peculii ait, si ipsi servo legetur, alias, si alii: nam si ipsi, id tempus in legato spectandum, quo dies legati cedit: si vero extraneo, mortis tempus, sic tamen, ut incrementa ex rebus peculiaribus ad eum perveniant, ut puta partus ancillarum vel fetus pecorum: quod autem ex operis suis vel ex alia re accedit, id, si alii quam ipsi legetur peculium, non debebitur. Hoc utrumque Iulianus secundum voluntatem testatoris scribit: cum enim ipsi suum peculium legatur, verisimile est eum omne augmentum ad ipsum pertinere voluisse, cui patrimonium manumisso futurum est, cum alii, non: sic tamen, ut, si in alterius persona hoc eum sensisse appareat, idem dicas.
+
+33.8.9
+
+Paulus libro quarto ad Sabinum
+
+pr. Id quod servo, qui in ipsius peculio est, debetur, non deducitur ex legato peculio, quamvis conservus eius sit.
+
+1. Si conservum suum vulneraverit servus et viliorem fecerit, Marcellus non esse dubitandum deduci ex peculio, quod domino interesset (nam quid interest, conservum vulneret an scindat aliquid vel frangat an subripiat? quo casu sine dubio minuitur peculium), sed non ultra simplum.
+
+2. Sed si se vulneravit vel etiam occidit, nihil est deducendum hoc nomine: alioquin dicemus et si fugerit, deducendum id, quanto vilior sit factus propter fugam.
+
+33.8.10
+
+Pomponius libro septimo ad Sabinum
+
+Si peculium servo vel filio praelegare velis, ne deducatur id quod tibi debebitur, specialiter ea quae in peculio erunt leganda sunt.
+
+33.8.11
+
+Ulpianus libro 29 ad edictum
+
+Ei quoque, qui nihil in peculio habet, potest peculium legari: non enim tantum praesens, sed etiam futurum peculium legari potest.
+
+33.8.12
+
+Iulianus libro 37 digestorum
+
+Tunc inutile legatum peculii fit, cum servus vivo testatore decedit: ceterum si mortis tempore servus vixerit, peculium legato cedet:
+
+33.8.13
+
+Celsus libro 19 digestorum
+
+Aliter atque si servus vestitus legatus foret.
+
+33.8.14
+
+Alfenus libro quinto digestorum 
+
+Quidam in testamento ita scripserat: "Pamphilus servus meus peculium suum cum moriar sibi habeto liberque esto". Consulebatur, rectene Pamphilo peculium legatum videretur, quod prius quam liber esset peculium sibi habere iussus esset. Respondit in coniunctionibus ordinem nullum esse neque quicquam interesse, utrum eorum primum diceretur aut scriberetur: quare recte peculium legatum videri, ac si prius liber esse, deinde peculium sibi habere iussus est.
+
+33.8.15
+
+Alfenus libro secundo a Paulo epitomatorum
+
+Servo manumisso peculium legatum erat: alio capite omnes ancillas suas uxori legaverat: in peculio servi ancilla fuit. servi eam esse respondit neque referre, utri prius legatum esset.
+
+33.8.16
+
+Africanus libro quinto quaestionum
+
+Stichus habet in peculio Pamphilum: hunc dominus noxali iudicio defendit et damnatus litis aestimationem solvit: deinde Stichum testamento manumisit eique peculium legavit: quaesitum est, an quod Pamphili nomine praestitum sit, ex peculio vel ipsius Pamphili vel Stichi deducendum sit. Respondit Pamphili quidem de peculio utique deducendum, quantacumque ea summa esset, id est etiam si eum noxae dedere expedisset: quidquid enim pro capite servi praestitum sit, in eo debitorem eum domini constitui. Quod si Pamphili peculium non sufficiat, tunc ex peculio Stichi non ultra pretium Pamphili deduci debere.
+
+1. Quaesitum est, si ex alia qua causa Pamphilus pecuniam domino debuisset nec ea ex peculio eius servari posset, an usque ad pretium eius ex peculio Stichi possit deducere. Negavit: neque enim simile id superiori esse. Ibi enim propterea pretium vicarii deducendum, quod eo nomine ipse Stichus ob defensionem vicarii sui domino debitor constituatur, at in proposito quia Stichus nihil debeat, ex eius peculio nihil esse deducendum, sed ex Pamphili dumtaxat, qui certe ipse in suo peculio esse intellegi non potest.
+
+33.8.17
+
+Iavolenus libro secundo ex Cassio
+
+Qui peculium servi legaverat, iudicium eo nomine acceperat, deinde decesserat. Placuit non aliter peculium ex causa legati praestari, quam si de accepto iudicio heredi caveretur.
+
+33.8.18
+
+Marcianus libro sexto institutionum
+
+Si servo manumisso peculium legatum fuerit, in eum sine dubio creditoribus peculiariis actiones non competunt: sed non alias heres peculium praestare debet, nisi ei caveatur defensu iri adversus creditores peculiarios.
+
+33.8.19
+
+Papinianus libro septimo responsorum
+
+pr. Cum dominus servum vellet manumittere, professionem edi sibi peculii iussit atque ita servus libertatem accepit. Res peculii professioni subtractas non videri manumisso tacite concessas apparuit.
+
+1. Testamento data libertate peculium legaverat eundemque postea manumiserat: libertus, ut et nominum peculii actiones ei praestarentur, ex testamento consequetur.
+
+2. Filius familias, cui pater peculium legavit, servum peculii vivo patre manumisit: servus communis omnium heredum est exemptus peculio propter filii destinationem, quia id peculium ad legatarium pertinet, quod in ea causa moriente patre inveniatur:
+
+33.8.20
+
+Marcianus libro septimo institutionum
+
+Nihilque interest, ante legatus, deinde inutiliter manumissus sit an contra.
+
+33.8.21
+
+Scaevola libro octavo quaestionum
+
+Si Sticho manumisso peculium legatum sit et Titio servus peculiaris, quantum peculio detractum erit ob id quod domino debetur, tantum ei accedere, cui vicarius legatus est, Iulianus ait.
+
+33.8.22
+
+Labeo libro secundo posteriorum a Iavoleno epitomatorum
+
+pr. Dominus servum testamento manumiserat et ei peculium legaverat: is servus mille nummos domino debuerat et eos heredi solvit. Respondi omnes eas res deberi orcino, si pecuniam orcinus quam debuerat solvisset.
+
+1. Dominus servum, qui cum eo vicarium communem habebat, testamento manumiserat et peculium ei legaverat, deinde ipsum vicarium, qui communis erat, nominatim et ipsi et libertae suae legaverat. Respondi partem quartam libertae, reliquam partem quartam liberti futuram: quod et Trebatius.
+
+33.8.23
+
+Scaevola libro 15 digestorum
+
+pr. Dominus Sticho servo suo, qui bona liberti eius gessit, cui pro parte dimidia testamento heres exstiterat, in quibus negotiis gestis et kalendaria fuerunt, testamento suo libertatem dederat, si rationem reddidisset, eique peculium suum per fideicommissum dedit: Stichus summas, quibus reliquatus erat tam ex kalendario quam ex variis causis, reddidit manentibus debitoribus, pro quibus ipse pecuniam heredibus patroni refuderat, libertatemque adeptus decessit. Quaesitum est, an heredibus Stichi adversus nomina debitorum, pro quibus Stichus pecuniam heredibus patroni intulit, heredes patroni ex causa fideicommissi compellendi sint actiones praestare, cum nihil aliud a Sticho patrono debitum fuerit. Respondit praestandum.
+
+1. Testamento codicillisve servos manumisit et peculia legavit et de Sticho ita cavit: "Stichum servum meum liberum esse volo eique volo dari decem aureos et quidquid ex ratione loculorum meorum habet: rationes autem heredibus meis dari volo. His omnibus, quos hoc testamento manumisi, peculia sua concedi volo". Quaesitum est, an, quod amplius rationi loculorum in diem mortis erogavit Stichus ex peculio suo, ab heredibus recipere debeat, cum ex consuetudine domus esset, ut quidquid amplius ex suo in ratione loculorum erogasset, dominica ratio ei deberet atque exsolveret. Respondit secundum ea, quae propter consuetudinem proponerentur, id quoque peculio legato contineri, quod et dominica ratio deberet et solita erat reddere.
+
+2. Servis libertates legataque dederat et condicionem ita scripserat: "Hosous katelipon eleuverous kai ta lygata autois, toutous boulomai einai anecetastous" [id est: quos liberos reliqui quibusque legata dedi, ab iis rationes exigi nolo]. Quaesitum est, an peculia quoque legata his videbuntur. Respondit secundum ea quae proponerentur non videri legata.
+
+3. Item quaesitum est, an ex isdem verbis reliqua rationum quasi legata retinere possint, aut si res dominicas apud se habuerint, aut, si qui eorum coloni praediorum fuerunt, pensiones. Respondit supra responsum.
+
+33.8.24
+
+Ulpianus libro 43 ad Sabinum
+
+Si legatus fuerit servus, peculium excipere non est necesse, quia non sequitur, nisi legetur.
+
+33.8.25
+
+Celsus libro 19 digestorum
+
+Si servus liber esse iussus sit eique peculium legatum sit, vicariorum eius vicarii legato continentur.
+
+33.8.26
+
+Scaevola libro tertio responsorum
+
+"Titi fili, e medio praecipito sumito tibique habeto domum illam, item aureos centum": alio deinde capite peculia filiis praelegavit. Quaesitum est, an peculio praelegato et centum aurei et usurae eorum debentur, cum rationibus breviariis in aere alieno et sortem et usuras inter ceteros creditores complexus sit. Respondit, si id faenus nomine filii exercuisset et usuras ita, ut proponeretur, filio adscripsisset, id quoque peculio legato deberi.
+ 
+
+33.9.0. De penu legata
+
+ 
+33.9.1
+
+Ulpianus libro 24 ad Sabinum
+
+Uxori suae in annos singulos penoris aliquid heres dare iussus est, si non dedisset, nummos dare damnatus est: quaeritur, an penus legata peti possit an vero solummodo sit in praestatione et, si non praestetur, tunc quantitas petatur. Et si quidem semel penus sit legata, non per singulos annos, certo iure utimur, ut et Marcellus libro trigesimo nono digestorum apud Iulianum notat, in praestatione esse dumtaxat penum, quantitatem vero et peti posse. Habebit igitur heres oblationem tamdiu, quamdiu lis cum eo de pecunia contestetur, nisi forte aliud tempus vel mente vel verbis testator praestituit. Quod si in annos singulos penus legata sit, per singulos annos penus adhuc poterit praestari, si minus, summae per singulos annos petentur. Quid ergo, si una summa legata sit et primo penus non sit praestita? Utrum tota summa debeatur, quasi toto penoris legato transfuso, an vero quantitas primi anni aestimationis sola sit translata, dubitari potest. Puto tamen sic voluntatem sequendam testatoris, ut tota summa ilico, postquam cessaverit heres dare penum uxori, praestetur, heredis indevotione coercenda.
+
+33.9.2
+
+Marcianus libro tertio regularum
+
+Penu certa cum vasis certis legata et consumpta ne vasa quidem cedunt legato exemplo peculii.
+
+33.9.3
+
+Ulpianus libro 22 ad Sabinum
+
+pr. Qui penum legat quid legato complectatur, videamus. Et Quintus Mucius scribit libro secundo iuris civilis penu legata contineri, quae esui potuique sunt. Idem Sabinus libris ad Vitellium scribit: quae harum, inquit, patris familiae uxoris liberorumve eius vel familiae, quae circa eos esse solet, item iumentorum, quae dominici usus causa parata sunt.
+
+1. Sed Aristo notat etiam quae esui potuique non sunt contineri legato, ut puta ea, in quibus esse solemus, oleum forte, garum muriam mel ceteraque his similia.
+
+2. Plane, inquit, si penus esculenta legetur, Labeo libro nono posteriorum scribit nihil eorum cedere, quia non haec esse, sed per ea solemus. Trebatius in melle contra scribit, merito, quia mel esse solemus. Sed Proculus omnia haec contineri recte scribit, nisi contraria mens testatoris appareat.
+
+3. Esculenta, utrum ea quae esse, an et ea per quae esse solemus, legaverit? Et ea quoque legato contineri credendum, nisi contraria mens patris familias doceatur. Mella certe semper esculentae penui cedere, lacertas quoque cum muria sua contineri nec Labeo negavit.
+
+4. Poculenta penu ea, quae vini loco pater familias habuit, continebuntur, supra scripta vero non continebuntur.
+
+5. Penori acetum quoque cedere nemo dubitat, nisi exstinguendi ignis causa fuit paratum: tunc enim esui potuique non fuit: et ita ofilius libro sexto decimo actionum scribit.
+
+6. Sed quod diximus "usus sui gratia paratum" accipiendum erit et amicorum eius et clientium et universorum, quos circa se habet, non etiam eius familiae, quam neque circa se neque circa suos habet: puta si qui sunt in villis deputati. Quos Quintus Mucius sic definiebat, ut eorum cibaria contineri putet, qui opus non facerent: sed materiam praebuit servio notandi, ut textorum et textricum cibaria diceret contineri: sed Mucius eos voluit significare, qui circa patrem familias sunt.
+
+7. Simili modo et iumentorum cibaria penui continentur, sed eorum iumentorum, quae usibus ipsius et amicorum deserviunt: ceterum si qua iumenta agris deserviebant vel locabantur, legato non cedere cibaria eorum.
+
+8. Sive autem frumentum sive quid leguminis in cella penuaria habuit, penori legato continebitur, sed et hordeum sive familiae sive iumentorum gratia: et ofilius scribit libro sexto decimo actionum.
+
+9. Ligna et carbones ceteraque, per quae penus conficeretur, an penori legato contineantur, quaeritur. Et Quintus Mucius et Ofilius negaverunt: non magis quam molae, inquiunt, continentur. Idem et tus et ceras contineri negaverunt. Sed Rutilius et Ligna et Carbones, quae non vendendi causa parata sunt, contineri ait. Sextus autem Caecilius etiam tus et cereos in domesticum usum paratos contineri legato scribit.
+
+10. Servius apud melam et unguentum et chartas epistulares penoris esse scribit et est verius haec omnia, odores quoque contineri: sed et chartas ad ratiunculam vel ad logarium paratas contineri.
+
+11. Vasa quoque penuaria quin contineantur, nulla dubitatio est. Aristo autem scribit dolia non contineri, et est verum secundum illam distinctionem, quam supra in vino fecimus. Nec frumenti nec leguminum thecae (arculae forte vel sportae) vel si qua alia sunt, quae horrei penuarii vel cellae penuariae instruendae gratia habentur, non continebuntur, sed ea sola continentur, sine quibus penus haberi non recte potest.
+
+33.9.4
+
+Paulus libro quarto ad Sabinum
+
+pr. Nam quod liquidae materiae sit quia per se esse non potest, rapit secum in accessionis locum id sine quo esse non potest: vasa autem accessio legatae penus, non legata sunt: denique penu consumpta vasa non debentur. Sed et si penum cum vasis specialiter sit legatum, vasa non debebuntur vel consumpta penu vel adempta.
+
+1. Si cui quae in promptuario sint legata fuerint, non omnis penus legata est.
+
+2. Item si quis solitus fructus suos vendere penum legaverit, non omnia, quae et promercii causa habuit, legasse videtur, sed ea sola, quae in penum sibi separabat. Quod si promiscue uti solebat, tunc quantum ad annuum usum ei sufficeret familiaeque eius ceterorumque, qui circa eum sunt, legato cedet: quod fere, inquit Sabinus, evenit in personis mercatorum aut quotiens cella est olei et vini, quae venire solebant, in hereditate relicta.
+
+3. Nomen autem penus mihi traditum est omnibus generibus dictum.
+
+4. Si ita legetur "penum, quae Romae sit", utrum quae est intra continentia, legata videtur an vero ea sola, quae est intra murum? Et quidem urbes fere omnes muro tenus finiri, Romam continentibus, et urbem Romam aeque continentibus.
+
+5. Quod si urbana penus sit legata, omnem, quae ubique est, legatam videri Labeo ait, etiam si in villis agrisve sit, si illa sit urbico usui destinata, sicuti urbica ministeria dicimus et quae extra urbem nobis ministrare consueverunt. Si autem extra urbem, Romae tamen sit, sed et si in hortis sit urbi iunctis, idem erit dicendum.
+
+6. Si cui penus legata sit praeter vinum, omnis penus legata videtur excepto vino: sed si ita scriptum sit "omnem penum praeter vinum quod Romae erit", sola penus quae Romae est legata videtur: et ita et Pomponius libro sexto ad Sabinum scribit.
+
+33.9.5
+
+Paulus libro quarto ad Sabinum
+
+pr. Non omne quod bibetur in penu habetur: alioqui necesse est, ut omnia medicamenta quae biberentur contineantur. Itaque ea demum penoris esse, quae alendi causa biberentur, quo in numero antidotum non est. Et sane vere Cassius sensit.
+
+1. Sed quod quidam negaverunt piper et ligusticum et careum et laser et cetera huiusmodi in penu non esse, improbatum est.
+
+33.9.6
+
+Paulus libro decimo ad Sabinum
+
+Instrumentum pistrini, item universa vasa cocitatoria penu non continentur.
+
+33.9.7
+
+Scaevola libro tertio responsorum
+
+"Penum meam omnem ad matrem liberosque meos, qui cum matre sunt, pertinere volo". Quaero, si tutores pupilli eam solummodo penum deberi, quae in caenaculo esset, dicant, sint autem et in horreis anphorae [amphorae], an hae quoque deberentur. Respondit, quidquid penoris usus causa ubicumque habuisset, deberi.
+ 
+
+33.10.0. De suppellectile legata.
+
+ 
+33.10.1
+
+Pomponius libro sexto ad Sabinum
+
+Supellex est domesticum patris familiae instrumentum, quod neque argento aurove facto vel vesti adnumeretur.
+
+33.10.2
+
+Florentinus libro 11 institutionum
+
+Id est res moventes non animales.
+
+33.10.3
+
+Paulus libro quarto ad Sabinum
+
+pr. Suppellectili legata haec continentur: mensae, trapezophora, delficae, subsellia, scamna, lecti etiam inargentati, culcitae, toralia, imperia, vasa aquaria, pelves, aquiminalia, candelabra, lucernae, trulla,
+
+1. Item vasa aenea vulgaria, id est quae non proprie essent loco adtributa:
+
+2. Praeterea capsae, armaria. Sed sunt qui recte putant capsas et armaria, si librorum aut vestium aut armamentorum gratia parata sint, non esse in suppellectili, quia ne hae quidem ipsae res, quibus adtributae essent, suppellectilis instrumento cederent.
+
+3. Vitrea escaria et potoria in supellectili sunt sic ut fictilia, nec solum vulgaria, sed etiam quae in pretio magno sunt: nam et pelves argenteas et aquiminalia argentae et mensas et lectos inargentatos vel inauratos atque gemmatos in supellectili esse non dubitatur, usque adeo, ut idem iuris sit et si tota argentea vel aurea sint.
+
+4. De murrinis et crystallinis dubitari potest an debeant adnumerari supellectili propter eximium usum et pretium: sed et de his idem dicendum est,
+
+5. Nec interest, cuius materiae sunt res, quae sunt in suppellectili. Sed craterem argenteum non esse in supellectili nec ullum vas argenteum secundum saeculi severitatem nondum admittentis supellectilem argenteam hodie, propter usum imperitorum si in argento relatum sit candelabrum argenteum, argenti esse videtur, et error ius facit.
+
+33.10.4
+
+Paulus libro singulari de instrumenti significatione
+
+Redae et sedularia suppellectili adnumerari solent.
+
+33.10.5
+
+Paulus libro quarto ad Sabinum
+
+pr. De tapetis quaeri potest, subsellia cathedraria quibus insterni solent utrum in veste sint, sicut stragula, an in suppellectili, sicut toralia, quae propria stragulorum non sunt. Et hoc magis placuit ea supellectili contineri.
+
+1. De tapetis autem vel linteis, quibus insternuntur vehicula, dubitari potest, an sint in suppellectili. Sed dicendum est potius instrumenti viatorii ea esse, sicut pelles, quibus involvuntur vestimenta, lora quoque, quibus hae pelles constringi solent.
+
+33.10.6
+
+Alfenus libro tertio a Paulo epitomatorum
+
+pr. Supellectilis eas esse res puto, quae ad usum communem patris familias paratae essent, quae nomen sui generis separatim non haberent: quare quae ad artificii genus aliquod pertinerent neque ad communem usum patris familias accommodatae essent, supellectilis non esse.
+
+1. Sed nec pugillares et codices in supellectili sunt.
+
+33.10.7
+
+Celsus libro 19 digestorum
+
+pr. Labeo ait originem fuisse supellectilis, quod olim his, qui in legationem proficiscerentur, locari solerent, quae sub pellibus usui forent.
+
+1. Tubero hoc modo demonstrare supellectilem temptat: instrumentum quoddam patris familiae rerum ad cottidianum usum paratarum, quod in aliam speciem non caderet, ut verbi gratia penum argentum vestem ornamenta instrumenta agri aut domus. Nec mirum est moribus civitatis et usu rerum appellationem eius mutatam esse: nam fictili aut lignea aut vitrea aut aerea denique supellectili utebantur, nunc ex ebore atque testudine et argento, iam ex auro etiam atque gemmis supellectili utuntur. Quare speciem potius rerum, quam materiam intueri oportet, suppellectilis potius an argenti, an vestis sint.
+
+2. Servius fatetur sententiam eius qui legaverit aspici oportere, in quam rationem ea solitus sit referre: verum si ea, de quibus non ambigeretur, quin in alieno genere essent, ut puta escarium argentum aut paenulas et togas, supellectili quis adscribere solitus sit, non idcirco existimari oportere supellectili legata ea quoque contineri: non enim ex opinionibus singulorum, sed ex communi usu nomina exaudiri debere. Id Tubero parum sibi liquere ait: nam quorsum nomina, inquit, nisi ut demonstrarent voluntatem dicentis? Equidem non arbitror quemquam dicere, quod non sentiret, ut maxime nomine usus sit, quo id appellari solet: nam vocis ministerio utimur: ceterum nemo existimandus est dixisse, quod non mente agitaverit. Sed etsi magnopere me Tuberonis et ratio et auctoritas movet, non tamen a servio dissentio non videri quemquam dixisse, cuius non suo nomine usus sit. Nam etsi prior atque potentior est quam vox mens dicentis, tamen nemo sine voce dixisse existimatur: nisi forte et eos, qui loqui non possunt, conato ipso et sono quodam kai ty anarvrw fwny [id est: voce inarticulata] dicere existimamus.
+
+33.10.8
+
+Modestinus libro nono responsorum
+
+Cum quidam uxori suae legaverat domum cum iure suo omni et instrumento et supellectili, quaerebatur, an videretur et argentum escale et potorium legato contineri. Respondit, si quid in supellectili argentum est, deberi, escale autem vel potorium argentum non deberi, nisi hoc quoque testatorem sensisse legatarius doceat.
+
+33.10.9
+
+Papinianus libro septimo responsorum
+
+pr. Legata supellectili cum species ex abundanti per imperitiam enumerentur, generali legato non derogatur: si tamen species certi numeri demonstratae fuerint, modus generi datus in his speciebus intellegitur. Idem servabitur instructo praedio legato, si quaedam species numerum certum acceperint.
+
+1. Supellectilis mensas esse cuiuscumque materiae, scilicet vel argenteas vel argento inclusas placet: nam et argenteos lectos, item argentea candelabra supellectili cedere posterior aetas recepit: cum et Ulixem ex auro et argento lectum viventis arboris truncis aedificatum ornasse, quem Penelopa recognoscendi viri signum accepit, ut voluit Homerus.
+
+2. Supellectili sua omni legata acceptum argentum pignori non continebitur, quia supellectilem suam legavit, utique si non in usu creditoris id argentum voluntate debitoris fuit, sed propositum propter contractus fidem ac restituendae rei vinculum.
+
+33.10.10
+
+Iavolenus libro tertio ex posterioribus Labeonis
+
+Qui vestem omnem et res plurium generum supellectilis expenso ferre solitus erat, is uxori supellectilem legaverat. Recte negabant vestem legato cessuram Labeo Ofilius Cascellius, quia non posset videri vestis appellatione supellectilis contineri.
+
+33.10.11
+
+Iavolenus libro decimo ex posterioribus Labeonis
+
+Vasa aenea salientis aquae posita, item si quid aliud magis deliciarum quam usus causa paratum esset, non esse supellectilis Labeo Trebatius putant. Murrea autem vasa et vitrea, quae ad usum, edendi et bibendi causa, parata essent, in supellectili dicuntur esse.
+
+33.10.12
+
+Labeo libro quarto pithanon a Paulo epitomarum
+
+Quemadmodum urbanus servus et rusticus distinguitur non loco, sed genere usus, ita urbana penus et supellex ad usum urbanum, non ad locum urbanum aut peregrinum dirigenda est, multumque interest, penus et supellex ea quae in urbe sit an urbana legetur vel promittatur.
+
+33.10.13
+
+Modestinus libro nono responsorum
+
+Respondit: numquam ex eo, quod supellectilem legavit maritus testamento, habitationem, in qua supellex fuit, legasse videtur. Quare contra defuncti voluntatem habitationem sibi mulierem vindicare procul dubio est.
+
+33.10.14
+
+Callistratus libro tertio de cognitionibus
+
+Fundo legato instrumentum eius non aliter legato cedit, nisi specialiter id expressum sit: nam et domo legata neque instrumentum eius neque supellex aliter legato cedit, quam si id ipsum nominatim expressum a testatore fuerit.
+   
+ 
+

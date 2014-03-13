@@ -1,0 +1,2276 @@
+BOOK XLII.
+
++ TITLE I. Concerning res judicata and the effect of decisions, and
+  interlocutory decrees, 228
++ TITLE II. Concerning confessions, 244
++ TITLE III. Concerning assignment for the benefit of creditors, 246
++ TITLE IV. Concerning the reasons for possession being granted, 247
++ TITLE V. Concerning the possession and sale of property by judicial
+  authority, 254
++ TITLE VI. Concerning the privileges of creditors, 259
++ TITLE VII. Concerning the separation of the property of an estate, 264
++ TITLE VIII. Concerning the appointment of a curator of property, 269
++ TITLE IX. Concerning restitution where fraudulent acts have been
+  committed against creditors, 271
+
+
+* THE DIGEST OR PANDECTS. BOOK XLII.
+
+* TITLE I. CONCERNING RES JUDICATA AND THE EFFECT OF DECISIONS, AND INTERLOCUTORY DECREES.
+
+1. Modestinus, Pandects, Book VII.
+By res judicata,is meant the termination of a controversy by the judgment of a
+court. This is accomplished either by an adverse decision, or by discharge from
+liability.
+2. Ulpianus, On the Edict, Book VI.
+The magistrate having jurisdiction of a suit does not always observe the time
+prescribed by law, for sometimes he shortens, and sometimes he extends it,
+dependent upon the nature of the case, the amount of property in dispute, or
+the obedience or obstinacy of the parties; but rarely is the judgment executed
+within the time fixed by law, as, for example, where the question of support is
+to be determined, or relief is to be granted to a minor of twenty-five years of
+age.
+3. Paulus, On the Edict, Book XVII.
+He who has power to condemn has also power to discharge from liability.
+4. Ulpianus, On the Edict, Book LVII1.
+If an agent does not appear, an action to enforce judgment against him will be
+refused, and will be granted against his principal; but if he does appear, it
+will be granted against him. In this instance, however, he is not held to have
+appeared in court who has been appointed agent in a case in which he is
+interested; for there is another reason why he cannot refuse to plead in an
+action to enforce judgment, and that is because he has become an agent in his
+own behalf, and not in that of another.
+(1) A guardian and a curator are in such a position that they are not
+considered to have appeared in court, and therefore, an action to enforce
+judgment should not be granted against them.
+(2) The agent of a municipality can avoid execution in a case where judgment
+has been rendered, for an action to enforce judgment should be granted against
+the citizens.
+(3) The Prsetor says: "I will grant an action to compel the party against whom
+a decision has been rendered to pay the money." Hence the party who has lost
+his case is required to make payment. But what should be done, and what shall
+we say, if he is not prepared to make payment, but is ready to satisfy the
+claim in some other way ? Labeo says that it should be added, "If the party who
+had lost his case should not satisfy the claim," for it may happen that he has
+a solvent person to offer in his stead. The reason, however, for requiring
+payment is that the Prater was unwilling that a new obligation should be
+created out of the former one; and therefore he provides that the money shall
+be paid. The opinion of Labeo should be adopted for good and sufficient
+reasons.
+(4) If, after the decision and by agreement of the litigants, security is
+furnished by the party who lost his case, the rule will be relaxed with
+reference to him if a new contract is made; but if this is not done for the
+purpose of entering into a new contract, the order of execution will stand. If,
+however, pledges are accepted, or securities are furnished to provide for the
+execution of the judgment, the result will be that we must hold that the
+execution will remain just as if something had been added to the decision in
+the case, and nothing had been withdrawn from it. The same rule should be
+gbserved in the case of a party whose agent had judgment rendered against him.
+(5) When a decision is rendered against anyone requiring him to make payment
+within a certain time, from what date must we compute the time for the action
+to enforce judgment? Shall we do so from the day when the decision was
+rendered, or from the day when the time prescribed in cases of this kind has
+elapsed? If the judge fixed a shorter time than that prescribed by law, what is
+lacking through his decision must be supplied by the law. If, however, the
+judge, in fixing the period, included a greater number of days than those
+legally allowed, the unsuccessful party will be granted not only the time
+prescribed by law, but also that which the judge granted in.addition.
+(6) We must understand a person who has been condemned to be one who has had a
+judgment legally rendered against him in such a way that it will stand. If,
+however, for any reason, the judgment should prove to be of no effect, it must
+be said that the term "condemnation" will not be applicable.
+(7) We should understand a discharge from liability to mean not only that the
+party pays the claim, but that he is entirely released from the obligation upon
+which the judgment was founded.
+(8) Celsus says that if you had a decision rendered against you in a noxal
+action, and by way of reparation you gave up a slave in whom another had the
+usufruct, you will still be liable to the action to enforce judgment; but if
+the usufruct should be extinguished, he states that you will be released.
+5. The Same, On the Edict, Book LIX.
+The Pra?tor says, "The decision with reference to the property was rendered by
+the magistrate having jurisdiction." It would be better if he had said, "By him
+who had cognizance of the matter," for the word "cognizance" also has reference
+to judges who have no jurisdiction of these questions, but who have the right
+to examine certain other cases.
+(1) If a judge should decide against anyone as follows, "Let So-and-So deliver
+to Titius what he has received under the will or codicil of Msevius," we must
+understand this to mean the same as if he had expressly mentioned the amount
+which had been left by the will or the codicil.
+The same rule will apply if he had decided that a verbal trust should be
+executed.
+6. The Same, On the Edict, Book LXVI.
+Where a decision is rendered against a soldier, who has completed his term of
+military service, he is only compelled to pay what his resources will permit.
+(1) Where a party to a suit has been condemned to pay ten aurei,or to surrender
+the cause of the damage by way of reparation, he will be compelled, by the
+action to enforce judgment, to pay the sum of ten aurei,because he obtains from
+the law the power of surrendering the animal which caused the damage. He,
+however, who stipulated for either the payment of ten aureior the surrender of
+the animal, or slave, by way of reparation, cannot claim the ten aurei,because
+each of these things is included in the agreement and we were able to stipulate
+for them separately. A decision calling for the surrender of the slave or
+animal by way of reparation will be void, but it follows a judgment requiring
+the payment of the money, and therefore proceedings to collect the ten
+aureishould be instituted under the judgment, for it has reference to them
+alone, and the surrender of the animal or the slave by way of reparation is
+granted by the law.
+(2) He who, by his own authority, sells the property of anyone whom, he has
+defeated in a lawsuit, will be liable to an action of theft, as well as one of
+robbery with violence.
+(3) The action to enforce the execution of a judgment is a perpetual one,
+includes the pursuit of the property, and lies both for and against an heir.
+7. Gaius, On the Edict of the Urban Prsetor, Title: On Res Judicata.
+There is, at present, no doubt that he against whom judgment has been rendered
+can be released in many ways within the time prescribed for execution;
+although, during that time, proceedings in execution can not be instituted
+against him, because, where a case has been decided, the time fixed by law has
+been established in favor of the party who lost his case, and not against him.
+8. Paulus, On Plautius, Book V.
+If a slave who is claimed under the terms of a stipulation dies after issue has
+been joined in a case, the defendant will not be released from liability, and
+it has been decided that he must render an account of the profits.
+9. Pomponius, On Plautius, Book V.
+Judgment cannot be rendered by a magistrate or an arbiter against a person who
+is insane.
+10. Marcellus, Digest, Book II.
+A man who falsely represents himself to be the head of a household, who borrows
+money, and who has been disinherited by his father, should have judgment
+rendered against him, even though he cannot make payment.
+11. Celsus, Digest, Book V.
+If I have stipulated for something to be done on the Kalendsof a certain month,
+and judgment has been rendered some time after the Kalendsof that month, the
+amount of damages must be estimated in proportion to my interest in having the
+work done on the date above mentioned; for if the estimate is made from that
+time, I would have no further interest than in what could be paid later.
+12. Marcellus, Digest, Book IV. tIn decisions having reference to deposits or
+loans for use, although the property may have been lost through the fraud of
+the defendant, it is customary to grant him relief by compelling the owner to
+transfer to him his rights of action.
+13. Celsus, Digest, Book VI.
+Where anyone stipulated for ten aureito be paid by one person and security to
+be given by another, the amount of damages should be estimated in proportion to
+the interest of the stipulator in having security furnished him. This interest
+can amount to as much as what is due, or to less, or sometimes even to nothing;
+for no estimate can be made of groundless fear. If, however, the debt should be
+paid,
+there will be no remaining interest to be estimated, and if a certain amount of
+it has been paid, the value of the interest will decrease in proportion.
+(1) When anyone promises that he will prevent the stipulator from sustaining
+any loss, and he does so, and the stipulator does not suffer any damage, he is
+considered to have done what he agreed to. If he fails to do this, judgment
+will be rendered against him for a certain sum of money, for the reason that he
+did not do what he promised, as happens in all kinds of obligations which
+relate to the performance of certain acts.
+14. The Same, Digest, Book XXV.
+Whatever the Praetor ordered or forbade to be done he can annul by a contrary
+decision, or renew; but this does not apply to final decrees.
+15. Ulpianus, On the Duties of Consul, Book HI.
+It was stated by the Divine Pius in a Rescript addressed to the magistrates of
+the Roman people, that those who appoint judges or arbitrators must authorize
+the execution of the judgments rendered by them.
+(1) Our Emperor and his Father stated in a Rescript that even the governor of a
+province could execute a judgment pronounced at Rome, if he was directed to do
+so.
+(2) Hence, in the judicial sale of anything which has been taken in execution,
+movable property, such as animals, must first be sold. If the price of this is
+sufficient to satisfy the claim, well and good; if it is not, then the real
+property should be ordered to be taken in execution and sold. Where, however,
+there is no movable property, the land must be levied upon and sold, in the
+beginning. Courts are accustomed to decide that, if there is no movable
+property, the land must be taken into execution, for it is not usual in the
+beginning to take the land. If the land is not sufficient to pay the debt, or
+the debtor has none, then any credits which he may have are taken in execution
+and sold. It is thus that the governors of provinces execute judgment.
+(3) If property taken in execution does not find a purchaser, it was stated in
+a Rescript by our Emperor and his Divine Father that it shall be adjudged to
+him in whose favor the decision against the party who lost the case was
+rendered.
+The property is adjudged to him in proportion to the amount which is due, for
+if the creditor prefers to accept it in satisfaction of his claim he must be
+content with it, and the Rescript states that he cannot demand any more than he
+is entitled to; because, if he is content with the property taken in execution,
+he is considered as having mad.e an agreement for the satisfaction of his
+claim; nor can he say that he held the property in pledge for a certain amount
+and bring an action to recover the balance.
+(4) If a controversy arises concerning property taken in execution, it has been
+decided by our Emperor that those who are executing the judgment shall make an
+examination of it, and if they ascertain that it belongs to the party who was
+defeated, they must execute the judgment. It must, however, be noted that they
+are obliged to make this examination summarily; nor can their decision
+prejudice the debtor, if they think that the property should be released as
+belonging to the party who raised the controversy, and not to him in whose name
+it was taken in execution; nor should he to whom it is delivered be immediately
+entitled to it by virtue of the decree, if the property is such that it can be
+recovered from him in the ordinary course of law. Hence, the result is that the
+matter will remain in its original condition and the property affected by the
+judgment can only benefit the aforesaid party by usucaption. It must, however,
+be said that where a dispute arises with reference to what has been taken in
+execution it should be relinquished, and other property be taken with respect
+to which no controversy exists.
+(5) Let us see, if the property taken in execution has been pledged, whether it
+can be sold, so that the creditor having been satisfied, any remainder can be
+applied to the judgment. And, although a creditor cannot be compelled to sell
+property which he received by way of pledge, it can, however, be kept until
+execution on the judgment is issued, and if the property seized should find a
+purchaser, who, after the creditor has been satisfied, is ready to pay any
+balance remaining, the sale of this property also may be allowed.
+It is not held that the condition of the creditor becomes any worse, as he has
+obtained that to which he was entitled, nor should his right of pledge be
+released before his claim has been satisfied.
+(6) If, after the property taken in execution has been adjudged, any
+controversy arises with reference to the purchaser, let us see whether the
+magistrate who executed the judgment will have jurisdiction of the matter. I do
+not think that there is any ground for further inquiry, as, when the purchase
+has once been perfected, he who bought the property must assume the risk; and
+certainly, after the purchaser has been given possession, the duty of the judge
+is at an end.
+The same rule will apply, if the property is adjudged to him in favor of whom
+the decision was rendered.
+(7) If the purchaser to whom the property was adjudged by the court does not
+pay the price, let us see whether the magistrates, whose duty it is to execute
+the judgment, should call him to account. I do not think that they can go any
+farther, otherwise the proceedings would become interminable.
+But what can we say in a case .of this kind? Shall they render judgment against
+the purchaser, and issue execution against him? Or shall they immediately
+consider the case as decided? And what must be done if the purchaser denies
+that he bought the property, or alleges that he has paid for it? The better
+opinion will be for the judge not to interfere, and especially since the party
+in whose favor the judg-
+ment was rendered has no right of action against him who obtains the property,
+and besides suffers no wrong; as it is necessary for property taken in
+execution and sold to be paid for in cash, and not that the money shall be paid
+after a certain time. And, indeed, if the court should interfere, it ought only
+to do so to the extent of taking and selling the property which had been
+adjudged, just as if it had not been released from the lien of the judgment.
+(8) Magistrates can also execute a judgment by taking the claims of the debtor,
+if there is nothing else subject to execution, for our Emperor stated in a
+Rescript that a promissory note could be taken in execution.
+(9) But let us see whether only a credit which is acknowledged by the debtor
+can be levied on, or whether this can be done if he denies his liability. The
+better opinion is, that only that should be levied on which he admits to be
+due. If, however, he should deny that he owes the claim, it would be perfectly
+proper not to include it; unless someone, following the example of the seizure
+of movable property, should proceed still farther, and say that the judges
+themselves ought to make an investigation of the claim, as they do in the case
+of other personal effects, but it is stated differently in a rescript.
+(10) Again, what shall we say where the judges themselves take action with
+reference to the claim, and require the amount of the debt to be paid on the
+judgment; or if they should sell the claim, as they are accustomed to do, where
+other personal property is taken in execution? It is necessary that they should
+do whatever seems to them best in order to execute the judgment.
+(11) If the party against whom the judgment is rendered has money deposited
+with bankers, it can also be taken into execution. And further, if there is any
+money in the hands of anyone else, which should be paid to the party who lost
+the case, it is customary to levy on it, and apply it to the payment of the
+judgment.
+(12) Moreover, money which has been deposited with anyone for safe-keeping, or
+placed in a chest for the same purpose, can be levied on for the purpose of
+satisfying a judgment. Again, where money belonging to a ward has been placed
+in a chest for the purchase of land, it can be taken by the judge charged with
+the execution of the judgment, without the permission of the Praetor, and
+employed for the payment of the claim.
+16. The Same, On the Edict, Book LXIIL
+There are persons who can only be sued for amounts which they are able to pay;
+that is to say, without deducting their debts. Such persons are those against
+whom suit is brought on account of some partnership, for a partnership is
+understood to include all property.
+The same rule applies to ascendants,
+17. The Same, On the Edict, Book X.
+As well as to a patron, a patroness, their children and their ascendants.
+Likewise a husband, when sued for a dowry, is only liable for what he can pay.
+18. The Same, On the Edict, Book LXVI.
+A soldier also, who has had judgment rendered against him, is after his
+discharge only compelled to pay to the extent of his means.
+19. Paulus, On Plautius, Book VI.
+Where there are several persons to whom money is due for the same reason, the
+position of the most diligent is preferable; and no deduction is made of what
+is due to persons of equal rank, as is the case in an action De peculio;for, in
+this instance, the position of the one who first proceeds is the most
+advantageous. The indebtedness should not, however, be deducted where suit is
+brought against a father or a patron, especially where the debt is due to
+persons of the same condition, as to other children or other freedmen.
+(1) He, also, against whom an action is brought on account of a donation, can
+only have judgment rendered against me for the amount which he is able to pay;
+and he, in fact, is the only one with reference to whom the indebtedness should
+be deducted. So far as those to whom money is due for the same reason is
+concerned, the position of the most diligent is preferable. And, indeed, I do
+not think that everything that he has should be extorted from him, but that
+care should be taken not to reduce him to poverty.
+20. Modestinus, Differences, Book II.
+Ahusband can have judgment rendered against him in the case of a dowry, to the
+amount that he is able to pay; but, when he is sued by his wife on account of
+some other contract, by a Constitution of the Divine Pius he can also have
+judgment rendered against him to the extent of his means.
+Equity also suggests that this same rule should apply where a wife is sued by
+her husband.
+21. Paulus, On Plautius, Book VI.
+Moreover, just as in the case of a husband, so also a father-in-law cannot have
+judgment rendered against him beyond his ability to pay. If, however, an action
+based on his promise of a dowry is brought against the father-in-law, can
+judgment be rendered against him to the extent of his means? This seems to be
+equitable, but it is not our practice, as Neratius states.
+22. Pomponius, On Quintus Mucius, Book XXI.
+This, however, is understood to mean where an action is brought against a
+father-in-law, to recover a dowry which has been promised after the marriage
+has been dissolved. But if suit is brought to recover the dowry, during the
+continuance of the marriage, relief should be granted him, in order that he may
+not have judgment rendered against him for more than he is able to pay.
+(1) With reference to what has been stated as to the case of partners, namely,
+that they can have judgment rendered against them to the extent of their
+pecuniary resources, the Prsetor says in his Edict
+that he will act if proper cause is shown. This will take place to prevent
+relief being granted to anyone who denies that he is a partner, or who is
+liable on account of fraud.
+23. Paulus, On Plautius, Book VI.
+If an action to recover a dowry is brought against an agent of the husband, and
+judgment is rendered during the lifetime of the latter, it can only be for the
+amount which he is able to pay, for the defender of the husband can only have
+judgment rendered against him for that amount; but if the husband should be
+dead, the judgment will include the entire dowry.
+24. Pomponius, On Plautius, Book IV.
+If a surety has been accepted for the payment of the debt or the judgment, it
+will be no advantage to him if the person for whom he bound himself has
+judgment rendered against him for the amount which he is able to pay.
+(1) If the husband should not be solvent, he can take advantage of the fact
+that he is not able to make payment; for this privilege is granted to him
+personally, and will not profit his heir.
+25. Paulus, On the Edict, Book LX.
+It must be noted that the heirs of such persons are not liable to the extent of
+their ability to make payment, but for the entire amount.
+26. Ulpianus, On the Edict, Book LXXVII.
+If litigants should agree as to the amount for which judgment shall be
+rendered, it will not be improper for the judge to decide accordingly.
+27. Modestinus, Opinions, Book 1.
+The Governor of a province rendered a decision that a party should pay compound
+interest, contrary to the laws and the Imperial Constitutions, and, on this
+ground, Lucius Titius took an appeal from the unjust decision of the Governor.
+As Titius did not take his appeal in accordance with law, I ask whether the
+money can be collected under the judgment. Modestinus answered that if the
+judgment was for a specified sum, there was nothing in the case stated why
+execution could not be issued.
+28.' The Same, Opinions, Book II.
+Two judges rendered two different decisions. Modestinus gave it as his opinion
+that they should remain in suspense until a competent magistrate had confirmed
+one of them.
+29. The Same, Pandects, Book VII.
+The time granted to a party to satisfy a judgment rendered against him is also
+granted to his heirs and other successors, at least the time that has not
+expired, because the privilege is conceded rather to the case than to the
+person.
+30. Pomponius, Various Passages, Book VII.
+Where a certain sum of money is promised as a donation, and it is probable that
+the resources of the donor will be exhausted to such an extent that he will
+have almost nothing left, an action should be granted against him for what he
+is able to pay, so that enough may remain in his hands to enable him to live.
+This rule ought, by all means, to be observed between children and parents.
+31. Callistratus, Judicial Inquiries, Book II.
+Time for payment should not only be granted to debtors who request it, but it
+should also be prolonged, if circumstances demand it. Where, however, anyone
+defers payment, rather through obstinacy than because he cannot obtain the
+money, he should be compelled to pay by taking his property in execution to
+satisfy the claim, according to the following rule which the Divine Pius
+prescribed to the Proconsul Cassius, namely, "Time for payment should be
+granted to those who admit that they owe a debt, or who are required to pay by
+a judgment, and the time should be such as appears to be sufficient in
+accordance with their means. If they do not make payment within the time
+granted in the beginning, or after it has been prolonged, their property <:an
+be levied on and sold, if they do not satisfy the claim or the judgment within
+two months; and if anything remains out of the price, it shall be returned to
+him whose property was taken in execution."
+32. The Same, Judicial Inquiries, Book III.
+Where a judge rules against constitutions which are cited, for the reason that
+he does not think them to be applicable to the case in question, he is not
+considered to have ruled against them improperly, and therefore an appeal can
+be taken from his decision; otherwise the matter will be held to have been
+finally determined.
+33. The Same, Judicial Inquiries, Book V.
+The Divine Hadrian, having been presented with a petition by Julius Tarentinus,
+in which he alleged that a decision had been rendered against him through the
+judge having been deceived by forged evidence, and by a conspiracy of his
+adversaries, wh'o had corrupted witnesses with money, the Emperor stated in a
+Rescript that he was entitled to complete restitution, as follows: "I have
+ordered a copy of the petition which was presented to me by Julius Tarentinus
+to be sent to you. If he proves that he has been oppressed by a conspiracy of
+his adversaries, and that their witnesses have been corrupted with money, you
+will inflict severe punishment; and if the decision of the judge was induced by
+false representations, you will grant complete restitution."
+34. Licinius Rufinus, Rules, Book XIII.
+If anyone objects to a party against whom judgment has been rendered retaining
+any provisions, or his bed, a penal praetorian action
+should be granted against him; or, as some authorities hold, he can be sued for
+injury sustained.
+35. Papirius Justus, Constitutions, Book II.
+The Emperors Antoninus and Verus stated in a Rescript that, although it is not
+necessary to again begin proceedings on the ground of new documentary evidence
+having been discovered, they will, nevertheless, in matters relating to public
+business, permit such evidence to be used, if proper cause is shown.
+36. Paulus, On the Edict, Book XVII.
+Pomponius, in the Thirty-seventh Book on the Edict, says that where there are
+several judges investigating a matter involving freedom, and one of them is not
+sufficiently informed to render a decision, and the others agree; if the former
+swears that he is not sufficiently informed, and does not take further part in
+the proceedings, the others, who have agreed, can render judgment; because,
+even though the judge aforesaid may dissent, the decision of the majority will
+stand.
+37. Marcellus, Digest, Book V.
+All the judges are understood to have rendered a decision when they are all
+present.
+38. Paulus, On the Edict, Book XVII.
+When the number of judges is equal, and different opinions are given in a case
+involving freedom, judgment shall be rendered in favor of freedom (in
+accordance with the Constitution of the Divine Pius), but, in all other cases,
+judgment shall be rendered in favor of the defendant.
+This rule must also be observed in criminal cases.
+(1) If judges render decisions for different amounts, Julianus says that that
+for the smallest one must be adopted.
+39. Celsus, Digest, Book HI.
+Where three judges are appointed to hear a case, two of them cannot decide it,
+if one is absent, as all three have been ordered to hear it. If, however, the
+third is present, and does not concur with the others, the judgment of the two
+shall stand. For it is certainly true that all of them have rendered a
+decision.
+40. Papinianus, Opinions, Book X.
+It has been established that a party against whom a judgment has been rendered
+shall be deprived of the advantages attaching to the rewards given on account
+of the sacred crowns won in public contests, and that this money can be taken
+in execution for the satisfaction of the judgment.
+41. Paulus, Questions, Book XIV.
+Nesehnius Appollinaris: If you are about to make a donation to me, and I
+delegate you to pay my creditor, can an action be brought
+against you for the entire amount? And if you are sued for the entire amount,
+do you think that it will be different, if I should not appoint you to pay my
+creditor, but someone to whom I desire to give an equal sum? And what must be
+done in the case of one who, desiring to give a donation to a woman, promises a
+dowry to her husband?
+The answer was that the creditor cannot be barred by an exception, although the
+person who was delegated can avail himself of one against him in whose name he
+made the promise. The case of the husband is the same; and especially so, if he
+brings an action during the existence of the marriage. And, as the heir of the
+donor can have judgment rendered against him in full, so the surety, who
+rendered himself liable for the donation, can also be sued for the entire
+amount, as well as anyone else to whom the donation was not given.
+(1) A certain person donated a tract of land. If he did not deliver it, he can
+have judgment rendered against him just like any other possessor. If, however,
+he delivered the land, judgment may be rendered against him for the entire
+crop, if he has not consumed it, and he cannot be released from liability, even
+if he surrenders it immediately. If he has ceased to hold possession through
+fraud, the donee shall be sworn in court, and judgment shall be rendered in
+accordance with the sum to which he makes oath.
+(2) A donor, against whom judgment has been rendered for the full amount of the
+donation, is not liable to a sum beyond his ability to pay, which is an
+advantage conferred by the constitutions.
+42. The Same, Opinions, Book HI.
+Paulus gave it as his opinion that the Prsetor could not set aside a judgment
+which he had already rendered, but that he could, even on the same day when it
+was rendered, supply anything which had been omitted in the judgment, either
+for or against the defendant, and which had reference to matters contained
+therein.
+43. The Same, Opinions, Book XVI.
+Paulus also gave it as his opinion that where a number of parties had had
+judgment rendered against them for a certain sum of money, they could not by
+the same decision be compelled to pay any more than their respective shares. If
+judgment was rendered against three parties, and Titius paid his share, an
+action could Hot be brought against him under the same judgment to compel him
+to pay the shares of the others.
+44. Scasvola, Opinions, Book V.
+Suit was brought against a female ward on a contract agreed to by her father
+and authorized by her guardian, and she lost her case. Her guardians afterwards
+caused her to reject her father's estate, and hence it passed into the hands of
+the substitute, or her co-heirs.
+The question arose whether or not they would be liable by virtue of the
+decision. It was held that an action should be granted against them, unless
+judgment had been rendered against the ward through the fault of her guardians.
+45. Paulus, Decisions, Book I.
+Proceedings which have begun can be dismissed on the day of trial, if the
+parties consent, and the judge permits this to be done; provided that the
+matter or the suit has not been judicially terminated.
+(1) Nothing can be done to increase or diminish penal damages after judgment
+has been rendered, unless this is authorized by the Emperor.
+(2) No judgment can be rendered against minors who are not defended, and have
+no guardian or curator.
+46. Hermogenianus, Epitomes of Law, Book II.
+It is not forbidden to amend the pleadings, provided the tenor of the decision
+remains unchanged.
+47. Paulus, Decisions, Book V.
+In every case judgment must be rendered in the presence of all the parties
+interested, otherwise it will only take effect with reference to those who are
+present.
+(1) Where parties who have been repeatedly summoned neglect to defend their
+cause before the Treasury, they are liable to an action on judgment. This is
+understood to be the case where, having been notified several times, they
+refused to appear.
+48. Tryphoninus, Disputations, Book II.
+Decisions must be rendered by the Praetor in Latin.
+49. Paulus, Manuals, Book II.
+A son who has been disinherited, or who has rejected the estate of his father,
+cannot have judgment rendered against him, on a contract of his own, for more
+than he is able to pay. Let us see to what extent he shall be considered
+solvent, whether this relates to what remains after all his debts have been
+paid, as in the case of one who is sued on account of a donation, or does it
+apply to a husband and a patron, whose indebtedness is not deducted? It is
+unquestionably the law that payment should be made as in the case of a husband
+or a patron, for we should be more indulgent to a donor than to one who is
+obliged to discharge an actual debt,
+50. Tryphoninus, Disputations, Book XII.
+In order to prevent a donor from becoming impoverished by his own liberality.
+51. Paulus, Manuals, Book II.
+If anyone should cause his property to be fraudulently sold, he will be liable
+in full.
+(1) -Where anyone refuses to admit a creditor to take possession of his
+property, which has been granted to him for its preservation,
+and the vendor pays the creditor all that he is entitled to, the question
+arises whether the debtor will be released. I think that he would act
+dishonorably who wishes to obtain a second time what he has already received.
+52. Tryphoninus, Disputations, Book XII.
+If suit is brought against a husband for having appropriated the property of
+his wife, although this proceeding is said to have its origin in the
+partnership existing between husband and wife, the husband should have judgment
+rendered against him for the entire amount, as in this instance, it is based on
+an illegal act and a crime.
+53. Hermogenianus, Epitomes of Law, Book I.The contumacy of those who refused
+to obey the summons of the court is punished by the loss of the case.
+(1) He is considered to be contumacious who, after having been served with
+notice three times, or with the one which is ordinarily called peremptory
+instead of three, refuses to appear.
+(2) He is not liable to the penalty for contumacy whom bad health, or business
+of great importance prevents from appearing.
+(3) Persons are not held to be contumacious, unless being obliged to obey they
+decline to do so; that is to say, if they refuse to obey those who have
+jurisdiction over them.
+54. Paulus, Decisions, Book I.
+A peremptory summons issued against a warfl who is undefended, a person who is
+absent on business for the State, or a minor of twenty-five years of age, is of
+no force or effect.
+(1) He who is summoned before a higher tribunal is not considered contumacious
+if he leaves the case unfinished in the lower court.
+55. Ulpianus, On Sabinus, Book LI.
+After a judge has once rendered his decision, he ceases to be judge so far as
+this case is concerned. It is our practice that a magistrate who has once
+rendered judgment for a larger or a smaller sum than was claimed cannot amend
+it, because he has performed the duty of his office well or ill, once for all.
+56. The Same, On the Edict, Book XXVII.
+According to a Rescript of the Divine Marcus, nothing can be demanded after a
+decision has been rendered, or a case has been decided by oath, or the
+defendant has confessed judgment in court, for the reason that a confession of
+judgment made in court is considered the same as a judgment.1
+57. The Same, Disputations, Book II.
+Advice was taken whether a decision rendered by a judge, who is under twenty-
+five years of age, is valid. It is perfectly correct to
+1 "Confessus in judicia, pro judicata habetur, et quodammodo sua sententia
+damnatur." --- ED.
+hold that such a decision is valid, unless he was less than eighteen years of
+age. If a minor holds the office of a magistrate, it must certainly be said
+that his jurisdiction ought not to be questioned. If a judge, who is a minor,
+should be appointed with the consent of the parties, and they know his age, and
+agree that he shall preside in the case, it is most properly held that his
+decision will be valid. Hence, if a Praetor or a Consul, who is a minor,
+expounds the law and gives an opinion, his act will be valid; for the Emperor
+who appointed him a magistrate by his decree conferred upon him authority to
+transact all the business of his office.
+58. The Same, Disputations, Book VII.
+Property which has been taken in execution and sold can be recovered, if this
+was done without a judgment having been previously rendered.
+59. The Same, On All Tribunals, Book IV.
+In rendering judgment, it is sufficient if the judge mentions the amount, and
+orders it to be paid or furnished, or makes use of any other term which has
+this signification.
+(1) It is, moreover, set forth in a rescript, that even if the amount is not
+stated in the decision, but the party who brought suit mentioned it, and the
+judge says, "Pay what is claimed," or "As much as is claimed," the decision
+will be yalid.
+(2) When magistrates render a judgment for the principal, and with reference to
+the interest add, "If any interest is due, let it be paid," "Or let what
+interest is due be paid," their judgment is not valid; for they ought to
+ascertain the amount of interest and establish it by their decision.
+(3) If anyone, having received a peremptory summons, has judgment rendered
+against him after his death, it will not be valid, because a peremptory summons
+is of no effect after the death of the defendant; and hence the judge must take
+cognizance of the case, just as if matters remained unchanged, and decide as
+seems to him best.
+60. Julianus, Digest, Book V.
+The following question has been raised. One of several litigants who was
+attacked by fever withdrew from the case; if the judge renders a decision in
+his absence, will he be considered to have acted according to law? The answer
+was, that dangerous illness demands delay, even if the parties and the judge
+are unwilling to grant it. Moreover, an illness is considered to be dangerous
+which offers an impediment to the transaction of business by anyone. What,
+however, can be a greater impediment to a lawsuit than that revolt of the body
+against nature which is designated fever ? Hence, if one of the parties has a
+fever at the time when the decision is rendered, it is considered as not
+rendered at all. Still, it can be said that there is a considerable difference
+in fevers, for if a person is otherwise healthy and robust, and at the time
+when the decision was rendered has a slight attack
+of fever, or if he has a chronic or a quartan fever, and, nevertheless, is able
+to attend to his affairs, it may be said that his illness is not serious.
+61. The Same, Digest, Book XLV.
+In the action to enforce judgment, the plaintiff in favor of whom a decision
+was first rendered against the defendant is not entitled to preference.
+62. Alfenus Varus, Epitomes of the Digest of Paulus, Book VI.
+The question was raised whether a judge who had rendered an improper decision
+could render another on the same day. The answer was that he could not do so.
+63. Macer, On Appeals, Book II.
+It has often been stated in the Imperial Constitutions that judgments obtained
+by certain persons do not prejudice the rights of others. This, however, admits
+of a certain distinction, for in some instances a judgment rendered against
+certain persons does prejudice others who have knowledge of it, but, in other
+cases, does not injure even those against whom it was rendered.
+A judgment is of no disadvantage to those who have knowledge of it, as where
+one of two heirs of a debtor has judgment rendered against him; for the right
+of the other to defend himself remains unimpaired, even if he knew that he was
+sued with his co-heir. Moreover, where one of two plaintiffs, having lost his
+case, acquiesces in the decision, the claim of the other is not prejudiced.
+This has been stated in a rescript. A decision rendered against certain parties
+injures others who are aware of it, when anyone who has a right to bring or
+defend an action before another suffers someone else to do so; as, for
+instance, where a creditor permits his debtor to bring suit involving the right
+to a pledge; or a husband allows his father-in-law, or his wife to institute
+proceedings to determine the ownership of property received by way of dowry; or
+a possessor permits the vendor to bring an action to establish the title to
+property which he has purchased. These points are understood to have been
+settled by many constitutions. For why should knowledge injure these parties,
+when it does not injure those previously mentioned? The reason for this is,
+that when anyone knows that his co-heir brings suit, he cannot prevent him from
+using any means which he may be able to employ in bringing or defending an
+action in which he is interested.
+He, however, who suffers a former owner of the property in dispute to defend an
+action is, on account of his knowledge, barred by an exception, even though the
+suit was decided with reference to others; because the decision was rendered
+with his consent, so far as any right derived from the party appearing in the
+case was concerned. For if, through my intervention, my freedman is decided to
+be the slave or the freedman of another, my rights will be prejudiced.
+A distinction, however, arises where Titius brings suit against you to recover
+a tract of land, which I allege belongs to me directly, and not through Titius;
+for even though judgment has been rendered against Titius with my knowledge, I
+still do not suffer any prejudice to my rights, as I do not claim the land by
+the same title under which Titius was defeated; and I cannot interfere to
+prevent him from availing himself of his alleged right, just as was the case
+with the co-heir above mentioned.
+64. Scssvola, Digest, Book XXV.
+A certain man employed in transacting the business of others having had
+judgment rendered against him, appealed, and the case was not disposed of for a
+long time. The appeal, having been held to have been taken on insufficient
+grounds, and the execution of the judgment prolonged, the question arose
+whether interest should be calculated for the time of the original judgment
+until the appeal was decided. The answer was that, according to the facts
+stated, a praetorian action should be granted.
+
+
+* TITLE II. CONCERNING CONFESSIONS.
+
+1. Paulus, On the Edict, Book LVI.
+He who confesses in court is held to have had judgment rendered against him,
+for he himself is, as it were, condemned by his own sentence.
+2. Ulpianus, On the Edict, Book LVIII.
+He who makes a mistake does not confess unless he is ignorant of the law.
+3. Paulus, On Plautius, Book IX.
+Julianus says that he who confesses that he owes a legacy should by all means
+be compelled to pay it, even if the property had never been in existence, or
+had ceased to exist. He, however, can be adjudged to pay the appraised value of
+the property for the reason that he who confesses is considered as having had
+judgment rendered against him.
+4. The Same, On Plautius, Book XV.
+If he against whom proceedings have been instituted under the Aquilian Law
+confesses that he has killed a slave, even though he may not have done so, and
+the slave is found to have been killed, he will be liable on account of his
+confession.
+5. Ulpianus, On the Edict, Book XXVII.
+Where anyone confesses that he owes Stichus, judgment should be rendered"
+against him; even if Stichus is already dead, or died after issue was joined in
+the case.
+6. The Same, On All Tribunals, Book V.
+He who confesses that he owes a specified sum of money is considered as having
+had judgment rendered against him; but this rule does not apply where the
+amount is uncertain.
+(1) When anyone admits that he owes an uncertain amount of money, or something
+which is not specifically designated, as, for instance, if he says that he is
+obliged to deliver either Stichus or a tract of land, he must be urged to make
+his allegations more definite.
+The same rule applies to him who admits that he owes some property, to compel
+him to state the amount.
+(2) If I bring an action to recover a tract of land which is mine, and you
+admit that it is mine, you will occtipy the same position as if a judgment had
+been rendered declaring the land to belong to me. And, in any other kind of
+civil or honorary actions, and in all interdicts for the production of
+property, or its restitution, including prohibitory interdicts, if the party
+who is sued admits the indebtedness, it may be said that the Praetor must
+follow the provision of the Rescript of the Divine Marcus, and everything which
+he confesses to be due is held to have been judicially decided. Therefore, in
+actions in which time is granted for the restitution of property, it will also
+be granted for restitution to the party who confesses judgment; and if
+restitution should not be made, the value of the property shall be appraised in
+court.
+(3) If anyone admits that a claim is valid in the absence of his adversary, let
+us see whether he should not be considered to have had judgment rendered
+against him; because he who makes oath with reference to his services is not
+liable, and it is not customary to condemn anyone in his absence. It is certain
+that it is sufficient for the confession to be made in the presence of an
+agent, a guardian, or a curator.
+(4) Let us see whether it will be sufficient for an agent, a guardian, or a
+curator, to make the confession. I do not think that it will be sufficient.
+(5) In the case of a confession by a ward, we require the authority of his
+guardian, we grant complete restitution to a minor against his confession.
+(6) Those who have confessed judgment are entitled to time for payment after
+making their confession, just as parties are after judgment has been rendered.
+7. Africanus, Questions, Book V.
+Where suit was brought to compel the execution of a trust, the heir having
+admitted that he owed it, an arbiter was appointed to see that the property was
+delivered, who ascertained that nothing was due. The question arose whether the
+heir could be released from liability. I answered that it was important to
+learn why nothing was due, for if the reason was that the trust was void, the
+heir would not be released. But if it was because the testator was not solvent,
+or the heir had alleged before the Praetor that everything was paid, and
+as a controversy had arisen, and a computation was difficult, a condition of
+affairs had caused the appointment of an arbiter, he could release the heir
+without exceeding his authority. For it is duty to discharge the heir, if,
+after the computation has been made, nothing is found with which to execute the
+trust; but, in the first instance, he should send the heir before the Prsetor
+in order that he may be discharged.
+8. Paulus, On Sabinus, Book IV.
+A party who confesses judgment should not have a decision absolutely rendered
+against him, when he acknowledged that he owes property the existence of which
+is uncertain.
+
+
+* TITLE III. CONCERNING ASSIGNMENT. FOR THE BENEFIT OF CREDITORS.
+
+1. Ulpianus, On the Edict, Book XVII.
+The privilege of collecting money loaned for the repair of buildings is granted
+to a creditor.
+
+2. The Same, On the Edict, Book XXI.
+In personal actions, those Who have subsequently made contracts, and whose
+money has been paid to former creditors, are subrogated to them.
+
+3. The Same, On the Edict, Book LVIII.
+He who has made an assignment of his property is not deprived of it before the
+sale; and therefore, if he is ready to set up a defence, his property will not
+be sold.
+
+4. The Same, On the Edict, Book LIX.
+If he who makes an assignment afterwards acquires any property, he can be sued
+to the extent of his ability to pay.
+(1) Sabinus and Cassius think that he who has made an assignment cannot any
+longer be annoyed, even by others to whom he is indebted.
+
+5. Paulus, On the Edict, Book L.
+He who repents of having made an assignment can, by setting up a defence,
+prevent it from being sold.
+
+6. Ulpianus, On the Edict, Book LXIV.
+If a man who has made an assignment acquires anything else of trifling value,
+after the sale has taken place, his property cannot be sold a second time. But,
+in what way can we make an estimate of this, in order to determine its value?
+Must it be determined by the quantity of the property which has been acquired, or by its quality? I think that the question should be decided with reference to the quantity, provided we know that something has been left with him through compassion, as, for instance, a sum to be paid monthly or annually for his support; and in such a case, it is not necessary for his property to be sold a second time, for he should not be deprived of his daily subsistence.  The same rule will apply if the usufruct of property from which he only receives a sum sufficient for his support has been either granted or bequeathed to him.
+
+7. Modestinus, Pandects, Book II.
+When the property of a debtor is sold; upon the demand of creditors, a second
+sale of his property is allowed to be made until his entire indebtedness is
+discharged, provided the debtor has made acquisitions sufficient to justify the
+Praestor in taking action.
+
+8. Ulpianus, Book XXVI.
+He who makes an assignment before he acknowledges his indebtedness, and before
+judgment is rendered against him, or he confesses in court, should not be
+heard.
+
+9. Marcianus, Institutes, Book V.
+An assignment can not only be made in court, but out of it. It is sufficient
+for it to be established by means of a messenger or a letter.
+
+
+* TITLE IV. CONCERNING THE REASONS FOR POSSESSION BEING GRANTED.
+
+1. Ulpianus, On the Edict, Book XII.
+There are about three causes for which it is customary to place a creditor in
+possession of the property of his debtor: first, in order to protect it;
+second, to preserve a legacy; and third, in behalf of an unborn child. When
+possession is granted for the prevention of threatened injury, if security is
+not furnished, alj the property is not included, but only that from whose fall
+damage is expected to result.
+2. The Same, On the Edict, Book V.
+The Prsetor says: "I will order possession to be taken of the property of him
+who gave a surety for his appearance in court, if he does not permit access to
+himself, and is not defended."
+(1) He does not give access to himself who acts in such a way as to prevent his
+adversary from approaching him. Hence, if the Praetor orders possession to be
+taken of the property of a person who conceals himself.
+(2) But what if he does not conceal himself, but, being absent, is not
+defended? Can it be held that he does not permit access to himself?
+(3) He is considered to be in a position to defend himself who does not render
+the condition of his adversary any worse by his absence.
+(4) The words, "If he is not defended," are capable of a broader and more
+extensive interpretation, so that it is not sufficient if the party has begun
+to defend himself, and his defence does not continue; and it is no disadvantage
+to him if, at present, he offers to defend himself for the first time.
+3. The Same, On the Edict, Book LIX.
+The following question is raised by Julianus. If the father of a minor holds
+property in joint ownership with Titius, and an action in partition is brought
+against the minor, but is not defended, there will be no reason, on this
+account, for judgment to be rendered against the father; but must the property
+of the father be sold, or can it be taken possession of for its preservation,
+in behalf of the plaintiff?
+Julianus says that if the father has collected any of the crops, or caused the
+property in question to deteriorate, his own property can be sold. If, however,
+there is no reason why the property of the father should be sold, possession of
+that of the minor can be taken.
+Marcellus, however, observes that it would be unjust for him who had not made
+any contract with the minor to be compelled to wait till he arrives at puberty;
+which opinion is reasonable. Therefore, as the contract is derived from the
+father, it must be held that it is not necessary to wait until the minor
+reaches the age of puberty.
+(1) It can be said that there is a contract with a minor, where one has been
+entered into with a slave, for, in this case an action De peculiowill lie
+against him; hence the rule should be adopted that an action must be granted in
+every case where one can be brought against the ward; and there is much more
+reason for doing this in the case of a slave, who was acting for the benefit of
+his master, or by his order, or has been appointed to represent him in some
+transaction.
+(2) I think that where a contract has been made with his guardian, on account
+of which an action is granted against the ward, the better opinion is that
+there will be ground for the application of the Edict, just as if the contract
+had been made directly with the ward.
+(3) If a minor becomes the heir of anyone, and, for this reason, is charged
+with the payment of a legacy, let us see whether there is ground for the
+application of this Edict. The better opinion is, as Marcellus says, that
+possession can be taken of the property of a minor, and that the creditors of
+the estate have the right to choose what course they prefer to adopt; for a
+minor under the age of puberty is held to make a contract when he accepts an
+estate.
+4. Paulus, On the Edict, Book LVIII.
+He, likewise, who interferes with matters connected with the estate, is
+considered to enter into a contract.
+5. Ulpianus, On the Edict, Book LIX.
+These things also occur whenever a minor is not defended by anyone, nor by a
+guardian or a curator, whether he has a guardian or not. If, however, someone
+appears who is ready to defend him, possession for the purpose of preserving
+the property will not take place.
+(1) It should be known that the minor is not defended, and the Pra?tor must
+ascertain this fact, in order to permit possession to be taken of the property.
+This can be effected in the following manner. The guardians of the ward should
+be summoned before the Praetor, in order to undertake his defence. If he has no
+guardian, his relatives, or those connected with him by affijiity, or any other
+whom it is probable will not fail to conduct the defence of the male or female
+minor, either on account of their near relationship, or because of the
+affection they may entertain towards him, or her, or for any other reason,
+shall be called upon for this purpose. Even freedmen, if they "are qualified,
+can be summoned and required to conduct the defence. Where, however, they
+refuse to do so, or while not absolutely refusing, keep silent, the Praetor
+shall then grant possession, so long as the minor is not defended. As soon,
+however, as the defence of the minor is undertaken, the property will cease to
+be possessed under the order of the Praetor.
+The same rule applies in the case of insane persons.
+(2) The Praetor says: "If the male or female minor should reach the age of
+puberty and is properly defended, I shall order those who are in the possession
+of his or her property to relinquish it."
+(3) Let us see what the words, "Properly defended," mean: whether it is
+sufficient for the party to appear and be ready to comply with the judgment, or
+whether security must be given under all circumstances. The terms of the Edict
+do not merely refer to the persons of the parties desiring to defend
+themselves, but it also has reference to the property itself. And the words,
+"Properly defended," mean to be defended by themselves, or by any other person
+whomsoever. If the defence is undertaken by another, security must be
+furnished, but if the minor defends himself, I do not think that this is
+requisite; therefore, if a defence is offered, the Praetor can eject the party
+in possession by means of an interdict.
+6. Paulus, On the Edict, Book LVIL
+A creditor is usually placed in possession, even where the money is promised
+conditionally. '
+(1) Where it is stated, "And let his property which is in possession of the
+creditors be sold, unless he is a minor, or absent on public business, without
+fraud," we must understand that the property of anyone who is absent with
+fraudulent intent can be sold.
+(2) When anyone is captured by the enemy, his creditors should be placed in
+possession of his property, in such a way, however, that it shall not be sold
+immediately, but that, in the meantime, a curator-may be appointed.
+7. Ulpianus, On the Edict, Book LIX.
+Fulcinius thinks that creditors placed in possession of property for its
+preservation should not be supported by means of the said property.
+(1) The Praetor says: "I will order the property of anyone who fraudulently
+conceals himself to be taken possession of and sold, if he is not defended in
+such a way as to be approved by a good citizen."
+(2) For this Edict to become applicable, it will not be sufficient for the
+party to conceal himself, but this must be done with fraudulent intent. Nor in
+order to authorize possession and sale of the property, will it be sufficient
+for him to be guilty of fraud without concealment, but he must conceal himself
+for the purpose of committing fraud. This is the most frequent cause for
+granting possession, as it is customary for the property of debtors who conceal
+themselves to be seized.
+(3) If anyone should obtain possession of the property of another on the ground
+that he is concealing himself, when in fact he has not done so, and sells it,
+the result will be that the sale will be held to be of no force or effect.
+(4) But let us see what is understood by concealment. Concealment is not (as
+Cicero defines it) a dishonorable seclusion of one's self, for anyone can
+conceal himself for some reason which is not dishonorable; as for instance,
+if'he fears the cruelty of a tyrant, the violence of enemies, or domestic
+sedition.
+(5) He, however, who conceals himself fraudulently, but not on account of his
+creditors (although concealment of this kind defrauds his creditors), is still
+not in such a position that possession can be taken of his property on this
+ground, because he does not conceal himself with a view to defraud his
+creditors. Hence, the intention of the person in concealing himself must be
+ascertained, whether it is for the purpose of defrauding his creditors, or for
+some other reason.
+(6) But what if he had two or more motives for concealment, and among them that
+of defrauding his creditors; could the sale of his property legally take place?
+I think the opinion should be adopted that, if there were several reasons for
+his concealment, and the intent to defraud his creditors was one of them, this
+would be prejudicial, and his property could be sold on this account.
+(7) If, however, he intended to conceal himself from some of his creditors, and
+not from others; what shall we say in this instance? Pomponius very properly
+holds that it is not necessary to require that the debtor should conceal
+himself from all his creditors, but that, if he only conceals himself from one
+of them, with the intention of deceiving and defrauding him by means of his
+seclusion, this will be sufficient.
+Then will all his creditors have a right to take and sell his property, because
+he remains concealed, that is to say, even those from whom he does not hide,
+merely because it is a fact that he is concealed; or can only that creditor
+whom he is avoiding do so? And.
+indeed, it is a fact that he is hidden for the sake of committing fraud, even
+though he may not hide himself from me.
+If he is only concealing himself from me, Pomponius thinks that it should be
+considered whether I alone will have the right to sell his property for this
+reason.
+(8) The term "conceal himself" refers to concealment during a considerable
+time; just as the word factitaresignifies to do anything frequently.
+(9) Moreover, to such an extent does concealment demand the existence of
+fraudulent intent and desire of the party secluding himself, that it has been
+very properly held that an insane person cannot render himself liable to have
+his property sold on this ground, because a man who is not of sound mind cannot
+conceal himself.
+(10) If it is evident that an insane person is not defended, a curator should
+be appointed for him, or permission to take possession of his property should
+expressly be granted. Moreover, Labeo says that if no curator or defender can
+be found for an insane person, or if the curator who has been appointed does
+not undertake his defence, he should then be removed, and the Praetor must
+appoint another curator, in order that no more property of the said insane
+person may be sold than is necessary.
+Labeo holds that the same formalities should be observed as where an unborn
+child is placed in possession.
+(11) It is clear that sometimes his property should be sold, after proper cause
+is shown, if the payment of his debts is urgent, and delay may injure his
+creditors. The sale, however, should be made in such a way that any surplus may
+be returned to the insane person; because the condition of a man of this kind
+does not differ greatly from that of a minor. This opinion is not unreasonable.
+(12) The same rule must be said to apply to the case of a spendthrift, and to
+others who require the services of a guardian, but no one can properly say that
+they are trying to conceal themselves.
+(13) It should be noted that anyone can stay in the same city and remain
+concealed, or in another city, and not be concealed. For, let us see whether
+one who is in another city, and shows himself in public, and appears
+everywhere, can be considered as lying concealed. Our practice at present is,
+that a person is held to conceal himself if he avoids meeting his creditors in
+any place where he may be, whether in the same town where they are, or in
+another, or in a distant country. In short, the ancient authorities were of the
+opinion that a person was to be considered as concealing himself, even if he
+was in the Public Forum, and hid behind columns of buildings, for the purpose
+of avoiding his creditors. Anyone can conceal himself from one creditor and not
+from another. Moreover, it was established that the creditor from whom the
+debtor conceals himself is the one who can sell his property.
+(14) If a man who owes a debt payable after a certain time, or under some
+condition, conceals himself, his property cannot be sold before the time
+arrives, or the condition is complied with. For what differ-
+ence is there between a person who is not a debtor, and one who cannot yet be
+sued ? The same rule must be adopted if there is no debtor; and it also applies
+where a creditor is entitled to an action which can be barred by an exception.
+(15) If anyone who is liable to an action De peculia,on account of his son or
+his slave, conceals himself, it is our practice to permit his property to be
+seized and sold, even though nothing may be found in the peculium,because
+something might eventually be found there; and, at the time that the judgment
+is rendered, we ascertain whether there is anything in the peculiumor not, for
+the reason that the action will lie even when there is nothing in the peculium.
+(16) Let us see whether the property of a man who conceals himself to avoid
+appearing in a real action can be taken in execution and sold. An opinion of
+Neratius is extant in which he says that his property can be sold. This is also
+stated in a Rescript of Hadrian, and is our practice at present.
+(17) Celsus, in reply to Sextus, gave it as his opinion that, if Titius is in
+possession of a tract of land which I intend to bring suit to recover and he,
+being absent, is not defended, it would be better for me to be placed in
+possession of the said land than to levy on all his property.
+It must, however, be noted that Celsus was consulted with reference to a person
+who was absent, and not with reference to one who purposely concealed himself.
+(18) Celsus also thinks that if a person from whom I intend to claim an estate
+conceals himself, the best plan would be to place me in possession of the
+property, which is held in the capacity of either heir or possessor. If,
+however, he was guilty of fraud in order to avoid remaining in possession, all
+his property should be levied on and sold.
+(19) The Divine Pius stated in a Rescript, with reference to a man who, being
+in possession of an estate, secluded himself, that his adversary should be
+placed in possession of the property of the estate. In the same Rescript he
+also directed that he who is placed in possession of the property of an estate
+on account of the contumacy of a former possessor of the same shall be entitled
+to the income from said property.
+8. The Same, On the Edict, Book LX.
+If it remains uncertain for a long time whether there is any heir to an estate
+or not, after proper cause has been shown, permission should be granted for
+possession to be taken of the property for the purpose of preserving it. If the
+matter is urgent, or a condition must be complied with, it would, be well to
+obtain permission to appoint a curator.
+9. Paulus, On the Edict, Book LVII.He shall be one of the creditors.
+(1) If one of two heirs deliberates as to whether he will accept an estate
+within the time prescribed by law, and the other refuses
+to accept it, let us see what step should be taken by the creditors. It is
+established that, in the meantime, they shall be placed in possession of the
+estate, for the purpose of taking care of it, until the heir who is
+deliberating determines whether he will accept or reject his share.
+10. Ulpianus, On the Edict, Book LXXXI.
+If a ward is present, but has no guardian, he should be considered as being
+absent.
+11. Paulus, On Plautius, Book Vill.
+Where a legacy or a trust has been conditionally bequeathed to a son under
+paternal control, it must be said.that he himself, as well as his father, ought
+to be placed in possession, for the reason that both of them anticipate a
+benefit.
+. 12. Pomponius, On Quintus Mucius, Book XXIII.
+When, for the purpose of preserving a legacy or a trust, or because security is
+not furnished us against threatened injury, we are permitted by the Praetor to
+take possession of property or he places us in possession in the name of an
+unborn child, we do not actually hold possession, but he merely grants us power
+to guard and watch over the property.
+13. Papinianus, Opinions, Book XIV.
+A man who is sent by the Governor of a province before the Tribunal of the
+Emperor is not compelled to defend any other action at Rome, and he still
+should be defended in the province; for the property of a person who is
+punished by temporary exile can be sold if a defender does not appear for him
+in court.
+14. Paulus, Questions, Book II.
+If anyone should prevent a creditor from obtaining possession of the property
+of his debtor, an action for the amount of the value of the property shall be
+granted against him in favor of the creditor.
+(1) Where anyone is placed in possession of property for the purpose of
+preserving his legacy, he will not be permitted to take possession, if the
+condition on which the legacy is dependent is in suspense; and although it may
+fail to be fulfilled, still, the property bequeathed should be appraised,
+because it is to the interest of the legatee to have security.
+(2) Moreover, a creditor, the payment of whose claim is conditional, is not
+placed in possession; because he only is given possession who has a right to
+sell the property under the Edict.
+15. Ulpianus, Trusts, Book VI.
+He who has received property in exchange resembles a purchaser, and he also who
+receives property in payment, and one who accepts the amount of its
+appraisement in court, as well as he who acquires anything by virtue of a
+stipulation, and not through liberality, occupy the same legal position.
+
+
+* TITLE V. CONCERNING THE POSSESSION AND SALE OF PROPERTY BY JUDICIAL AUTHORITY.
+
+1. Gaius, On the Provincial Edict, Book XXV.
+The property of a debtor must be sold in the place where he should defend the
+action; that is to say,
+2. Paulus, On the Edict, Book LIV.Where he has his domicile:
+3. Gaius, On the Provincial Edict, Book XXIII.
+Or where he made the contract. The contract, however, is understood not to have
+been made in the place where the transaction was concluded, but where the money
+should be paid.
+4. Paulus, On the Edict, Book LVH.
+If a slave has been appointed heir under a condition, or if there is a doubt
+whether he will become free, and the heir, it is not unjust for a decree to be
+issued, provided the creditors request it; but if he does not become the heir
+before a specified time, everything shall proceed just as if he had not been
+appointed at all. This happens very frequently where a slave is appointed heir
+under the condition of paying a certain person a sum' of money, and no date was
+fixed for doing so.
+This rule shall be observed with reference to the property of the estate, but
+as the slave will, at some time or other, obtain his freedom, the Praetor must
+preserve it for him, even if it is certain that he will never be the heir, or
+acquire praetorian possession of the estate.
+(1) If, however, anyone appears to defend the deceased, either by promising
+that he will be the heir, or by permitting actions to be brought against him,
+the property of the decedent cannot be sold.
+5. Ulpianus, On the Edict, Book LX.
+A minor of twenty-five years of age, who has curators, but is not defended by
+them, and can find no one else to appear for him, must suffer the sale of his
+property, even if he does not conceal himself; although he who is not capable
+of protecting his own interests is not considered to have fraudulently hidden
+himself.
+6. Paulus, On the Edict, Book LVIII.
+If it is not advisable for a minor to keep the estate of his father, the
+Praetor will permit the property of the deceased to be sold, in order that
+anything which remains may be delivered to the minor.
+(1) If the minor, before he rejects the estate, should transact any business
+relating to it, what he did should be considered valid, provided he.acted in
+good faith.
+(2) But what if, after having paid some of his creditors, his property should
+afterwards be sold by others? If inquiry is made as to
+whether there can be any recovery, Julianus says that, if proper cause is
+shown, the matter should be decided in such a way as to prevent the rights of a
+diligent creditor from being prejudiced by either the negligence or cupidity of
+another. But if both creditors pressed their claims for payment at the same
+time, and the guardian only paid you, it is but just that I should either
+obtain as much, or that you should contribute out of what you had received.
+This is what Julianus says. It is evident, however, that he refers to the case
+of a ward, where payment was made out of the property of the estate of his
+father. What course then should be pursued, if the ward had obtained the money
+for payment from some other source? Would he be required to return it or not?
+And should it be refunded by the creditor, or taken from the estate? Our
+Scsevola says that if there is anything in the estate, it should be entirely
+deducted; just as in the case of a person who transacts the business of
+another. If, however, nothing remains in the estate, it would not be
+inequitable to grant an action for recovery against the creditor, for money
+which was paid without being due.
+7. Gaius, On the Provincial Edict, Book XXIII.
+The indebtedness of an estate is also understood to be that for which suit can
+not be brought against the deceased, as, for instance, where he promised to pay
+at the time of his death; as well as where someone who had become surety for
+the deceased paid the debt after he died.
+8. Ulpianus,-On the Edict, Book LXI.
+The usufruct of property is also included in the sale, because an usufructuary
+is embraced in the term "owner."
+(1) If anyone has a right to take the crops from the land of his debtor, a
+creditor, who has been placed in possession of the land, can either sell or
+lease the said crops. This, however, can only be done where they have not been
+sold or leased beforehand; for if the debtor did this, the Praetor will sustain
+the sale or the lease made by him, even though the crops may have been disposed
+of for less than they were worth; unless this was done for the purpose of
+defrauding the creditors, for then the Praetor can authorize the creditors to
+make a new lease or sale.
+(2) The same rule will apply to the income from other things, so that if they
+can be leased, this should be done; as for example, the wages of slaves, or the
+hire of beasts of burden, qr the revenue from other property which can be
+rented.
+(3) The Praetor does not say anything about the time that the lease is to run.
+Therefore, free power is held to have been granted to creditors to lease the
+property as long as they may deem it advisable; just as they have the right to
+sell or lease according to their judgment, of course, where no fraud exists.
+They, however, are not responsible for negligence.
+(4) If one of the creditors is in possession of the property, the-question of
+leasing it will be easily disposed of. But where there is
+not only one, but several creditors, it may be asked which of them should sell
+or lease the property? This will be readily decided if they are agreed, for all
+of them can lease it, or appoint one of their number to do so. If, however,
+they do not agree, then it must be said that the Przetor after proper cause is
+shown must select one of them to lease or sell it.
+9. The Same, On the Edict, Book LXII.
+The Praetor says: "I will grant an action in factum,where anyone is in
+possession of property, and for this reason has gathered the crops, and refuses
+to return them to the person to whom the property belongs, or is unwilling to
+refund to him any expenses which he may have incurred without fraud, or where
+the condition of the property has become worse through the fraudulent acts of
+the possessor."
+(1) What the Praetor says with reference to the income must also be understood
+to refer to everything else which is obtained from the property of the debtor.
+And, indeed, this ought to be the case, for what would happen if the party in
+possession should obtain a penalty either through a submission to arbitration,
+or in some other way? He would be obliged to refund the penalty which he had
+obtained.
+(2) When the Praetor says, "If he is unwilling to refund to him any expenses
+which he may have incurred without fraud," this means that, if the creditor
+himself has incurred any expenses, he should be reimbursed for them, provided
+he did not incur them fraudulently. Hence, it is sufficient for the expenses to
+have been incurred without fraud, even if their payment did not, in any way,
+benefit the property of the debtor.
+(3) In the words, "To the person to whom the property belongs," the curator
+appointed for the sale of the property and the debtor himself are included, if
+the sale should not take place. An action is also granted to the creditor
+against the parties whom we have mentioned, if he incurred any expense in
+gathering the crops, or in supporting and caring for the slaves, or in keeping
+up and repairing the land, or in indemnifying a neighbor for threatened injury,
+or in defending a slave in a noxal action, provided it was not more
+advantageous to surrender the slave than to keep him. For if it is better to
+surrender him, the result will be that he cannot recover the expense of
+defending him.
+(4) Generally speaking, it must be said that the party in possession can
+recover anything which he has expended upon the property, provided this was not
+done fraudulently. For he can no more bring the action based on voluntary
+agency than if, as a joint-owner, he had repaired a building held in common,
+because the creditor also is considered to have transacted the business in
+which he himself was jointly interested, and not that of another.
+(5) Moreover, the question has been asked if, where lands have deteriorated
+without any bad faith on the part of the creditor; or rights attaching to them
+have been lost; or buildings have been demolished, or burned; or proper care
+has not been taken of the slaves or
+cattle; or possession delivered to another without fraudulent intent; whether
+the possessor will be liable. It is evident that he will not be liable, because
+he is not guilty of fraud. His position will be better than that of a creditor
+when a pledge is concerned, for he is responsible not only for fraud, but also
+for negligence.
+The same rule applies to the curator of property, for he also is liable as
+creditors are.
+(6) The Praetor also grants an action in factumagainst him who neither leased
+nor sold the crops on the land, and judgment will be rendered against him for
+what he has collected, because he neither sold nor leased it.
+If, however, he has only collected as npteh as he would have done if the crop
+had been leased, or sold, he will- not be liable for anything. He must,
+however, be responsible for the time In which either he himself, or someone
+else by his direction was in possession, until he relinquished it. For the
+creditor should not be considered responsible for not taking possession, or for
+relinquishing it, as he transacts the business voluntarily as his own. The
+appraisement should be made in proportion to the interest of the party who
+brings suit.
+(7) These actions are not temporary ones, and they are granted for and against
+heirs and other successors. If the condition of the property is said to have
+become deteriorated through the fraud of the party placed in possession, an
+action on the ground of bad faith should be granted against him; but this will
+not be granted either against the heirs or other successors, after the
+expiration of a year, because it is derived from a criminal offence and
+involves a penalty:
+10. Paulus, On the Edict, Book LIX.
+Unless it is brought for the amount which came into his hands.
+11. Ulpianus, On the Edict, Book LXII.
+This action is also granted to the heir, because it includes the pursuit of the
+property.
+12. Paulus, On the Edict, Book LIX.
+When one of several creditors asks to be placed in possession of the property
+of a debtor, the question arises whether he alone who makes the request, can
+take -possession. Or whether, where only one makes the request, and the Praetor
+grants it, all the creditors will be permitted to enter upon the property. It
+is more convenient to hold that when the Praetor places a party in possession
+he is considered to have granted permission not only to him who makes the
+request, but to ^all the creditors as well. This opinion is also held by Labeo.
+In this case, it is not considered that possession is acquired by a free
+person, because he whom the Praetor permits to take possession does not acquire
+anything for himself, but performs an act which is customary and therefore the
+others profit by it.
+It is clear that if anyone who is not a creditor should ask for. possession, it
+can, by no means, be held that a creditor can acquire posses-
+sion, because a demand of this kind is of no effect. It is otherwise, however,
+if a creditor, to whom permission has been given to take possession, afterwards
+receives payment of his debt, for the other creditors can follow up the sale of
+the property.
+(1) He who is ordered to take possession is understood to be directed to do so
+in some place which is subject to the jurisdiction of the court.
+(2) If possession cannot be taken on account of the nature of the property, or
+because land has been inundated, or is in the power of robbers, it is very
+properly held that there is nothing of which to take possession.
+13. Gaius, On the Provincial Edict, Book XXIII.
+Although there may not be actual possession of the property, for the reason
+that there is nothing of which possession can be obtained, or because it cannot
+be acquired without a controversy, the creditor who has been placed in
+possession will be considered to be in the same position as if it had been
+obtained by him.
+14. Paulus, On the Edict, Book LIX.
+Where a creditor is placed in possession of the property of a debtor, a curator
+should be appointed, if there is any danger of rights of action being
+extinguished.
+(1) An action is granted against a creditor who has been placed in possession,
+with reference to any property of the debtor which may have come into his
+hands. If he has not yet obtained anything, he must assign his rights of
+action. An action in factumwill be granted against him, and everything included
+in one for voluntary agency must be surrendered by the creditor, if this action
+can be brought under the circumstances.
+15. Ulpianus, On the Edict, Book LXII.
+When several creditors are placed in possession of the property of a debtor,
+one of their number should be selected by the majority to see that his accounts
+are not tampered with. I think that a list of the documents in the hands of the
+debtor should be made by the creditors; not that they ought to copy the
+documents themselves, but that they should take notes for their own benefit,
+and, make, as it were, an inventory, showing the number of the said documents,
+and to what matters they relate; a course of proceeding which they should be
+allowed to follow with reference to all other property. Moreover, the Praetor
+should sometimes, where proper cause is shown, permit the creditors to make
+extracts.from the said documents, if any good reason exists for doing so.
+(1) Let us see whether the creditors should be permitted to review and examine
+the papers of the debtor only once, or several times. Labeo says that this
+privilege should not be granted more than once. He, however, holds that if
+anyone swears that he is not requesting this for the purpose of annoyance, and
+that he no longer has the extracts which he tabulated, he should be granted the
+power to make a second examination, but that this should not be done more than
+twice.
+
+
+* TITLE VI. CONCERNING THE PRIVILEGES OP CREDITORS.
+
+1. Gaius, On the Provincial Edict, Book XXIV.
+When the property of a debtor is sold, a creditor who is a blood-relative is
+preferred to a stranger. Where there are several creditors, and all of them are
+not relations of the debtor, he to whom the largest sum of money is due shall
+be preferred.
+2. Ulpianus, On the Edict, Book LXIII.
+The question arose whether the funeral/expenses were only privileged, where the
+person whose property was sold was buried, or whether this was also the case
+where they were incurred for the interment of another. The present rule is that
+there will be ground for the privilege when anyone is buried (that is to say
+where it is necessary for an action for the funeral expenses to be brought,
+whether this is done for one whose property is about to be sold, or for someone
+who was indebted to another, and against whom such an action could have been
+brought, if he had lived).
+We hold that it makes very little difference by what kind of a proceeding
+expense of this kind is recovered, whether it be one to collect funeral
+expenses, or a suit in partition, or any other, provided that the expenses were
+actually incurred on account of the burial. Therefore, no matter what action is
+brought for this purpose, the party will also be entitled to one based on
+funeral expenses. Hence, if, by reason of a stipulation, the expenses of the
+funeral were deducted, it must be said that there is ground for the privilege,
+provided no one entered into the stipulation for the purpose of renouncing the
+privilege.
+(1) If a betrothed woman gives a dowry, and the marriage does not take place,
+although she can recover her dowry by an action, still it is only just that she
+should be allowed to enjoy this privilege, even though the marriage was not
+solemnized.
+I think that the same rule will apply even if a minor under the age of twelve
+years is married, although she cannot yet be considered a wife.
+3. Paulus, On the Edict, Book LX.
+It is to the interest of the public for her to recover her entire dowry, in
+order that she may be able to marry when her age permits her to do so. ,
+4. Ulpianus, On the Edict, Book LXXI.
+In cases of this kind we also grant the privilege to the woman.
+(1) If any person, at a time when he was not a guardian, transacts business as
+one, it is clear that there will be ground for the privilege. Nor does it make
+any difference whether he who transacts the business owes anything himself, or
+whether his heirs or other successors are debtors. Moreover, the ward himself
+is entitled to the privilege, but his heirs are not. It is, however, perfectly
+just that others to
+whom curators are given, as, for instance, those who are under age, or are
+spendthrifts,
+5. Paulus, On the Edict, Book XC,Or who are deaf or dumb,
+6. Gaius, On the Provincial Edict, Book XIV.Or idiotic,
+7. Ulpianus, On the Edict, Book LV.
+Should enjoy the same privilege.
+(1) Where, however, a curator is appointed for the property of a person who is
+absent, or has been captured by the enemy, or while the appointed heirs are
+deliberating as to the acceptance of the estate, it is not necessary for the
+privilege to be granted, for the same reason does not exist.
+8. Paulus, On the Edict, Book LX.
+Where anyone, through motives of friendship, transacts the business of a minor
+under the age of puberty, he must preserve for him the privilege to which he is
+entitled, when his property is sold. This opinion I have accepted.
+9. Ulpianus, On the Edict, Book LXIII.
+When a curator is appointed for an unborn child, and the child has not yet been
+brought forth, the privilege will not take effect.
+(1) The Divine Marcus issued an Edict as follows, "If a creditor should lend
+money for the repair of buildings, will he be preferred to other creditors to
+the extent of his loan?" This only applies to him who, by the direction of the
+owner of the property, furnished the money to the person who made the repairs.
+(2) In selling the property of a banker, it has been established that those
+will come after the preferred creditors who, in accordance with the public
+faith, have deposited their money in the bank. Those, however, who have
+received interest on their deposits from the banker, will not be distinguished
+from the ordinary creditors; and this is reasonable, for it is one thing to
+lend money, and another to deposit it.
+If, however, the money is still in existence, I think that it can be recovered
+by those who have deposited it, and that he who claims it will be preferred to
+the privileged creditors.
+(3) Those creditors are given the preference whose money has come into the
+hands of the privileged creditors. But how shall we understand this to have
+been done ? Is it as if the money immediately passed from the other creditors
+to those who are privileged, or shall we hold that it passed through the person
+of the debtor, that is to say, that it was paid to a privileged creditor before
+it was counted, and thus became the property of the debtor? Without being too
+exacting, this can be held to be the rule, provided payment was not made after
+a long interval.
+10. The Same, On the Edict, Book LXXV.
+The Praetor says: "Any contract which is made after the party whose property is
+sold has made up his mind to commit fraud, if he who made the contract is aware
+of this, will not admit of an action being granted on this ground."
+11. Paulus, On the Short Edict, Book XVI.
+Anyone who has lent money for the purpose of building, equipping, or even
+purchasing a ship, is entitled to this privilege.
+12. Ulpianus, On the Duties of Consul, Book I.
+If magistrates have placed anyone in possession for the purpose of executing a
+trust, they can appoint an arbiter for the purpose of selling any property
+which will become deteriorated by delay; in order that the price obtained for
+said property may be left in the hands of the beneficiary, by way of deposit,
+until it is ascertained what is due to him under the terms of the trust.
+13. Javolenus, Epistles, Book I.
+The head of a household substituted an heir for his son, who was under the age
+of puberty, in case the latter should die before reaching that age. The son
+rejected the estate of his father, and therefore the property of the deceased
+was sold by the creditors. An estate subsequently came to the son, who died
+after having accepted it. I ask whether the Praetor should not grant an action
+to the creditors of the father against the said minor, although he obtained the
+estate afterwards, or should an action be granted to the creditors of the
+father against the substitute, who obtained nothing from the father's estate
+which, of course, went into the hands of the creditors, and as the latter had
+no right to the property of the minor, it was no concern of the heirs whether
+his estate was entered upon or not, as the property found by the substitute in
+the estate of the son did not belong to his father's creditors.
+This opinion perplexes me exceedingly, because it was decided by your
+preceptors that there was only one will. The answer was that the Praetor
+benefited the son, who did not accept the estate of his father, by not allowing
+an action to be granted against him, after the sale of his father's property
+(although he subsequently obtained an estate), to compel him to pay the
+creditors; but the same rule should not be observed with reference to the heir
+who was substituted for the son, as allowance was made for the honor of the
+latter, by causing the property of his father to be sold, rather than his own.
+Therefore an action will be refused the creditors, as far as the property Which
+was afterwards acquired by the son is concerned, for the reason that it came to
+him from another than his father. But if the substitute for the son had entered
+upon the father's estate, after the minor had taken some action with reference
+to it, then the estates of the father and the son became identical, and the
+heir, even if unwilling, would be liable for all debts incurred by either the
+father or the
+son; and, as, after an obligation had been contracted, he could, by no means,
+prevent his own property from being sold, if no defence was made; so in like
+manner, the indebtedness of the father and the son could not be separated, in
+which case the result would be that an action must be granted to the creditors
+against him.
+If, however, the substituted heir should not enter upon the estate, an action
+ought not to be granted to the creditors of the father with reference to the
+estate left by the minor, as neither the property of the latter should be sold
+to discharge the debts of the father, nor should the estate which the minor
+acquired be included in that of his father.
+14. Paulus, On the Lex Julia, et Papia, Book V.
+Aufidius says that statues erected in public places for the purpose of honoring
+anyone whose property has been sold by his creditors cannot be acquired by a
+purchaser, but are public, whether they have been donated for the purpose of
+ornamenting the city, or remain the property of him in whose honor they have
+been raised, and that, under no circumstances, can they be removed.
+15. Papirius Justus, On the Constitutions, Book I.
+The Emperors Antoninus and Verus stated in a Rescript that those who deny that
+their property has been legally sold should bring an action, and that they will
+vainly apply to the Emperor to set aside the sale.
+16. Ulpianus, On All Tribunals, Book II.
+If the creditors of an estate consider the heir to be suspicious, they can
+require him to give security for the payment of what is due to them, and the
+Praetor should take cognizance of the case. He ought not, however, without
+proper examination, to subject the heir to the necessity of furnishing
+security, unless after proper cause has been shown, he should decide to protect
+the interests of those who consider the heir as liable to suspicion.
+(1) An heir is not considered suspicious in the same sense that a guardian is;
+for fraudulent acts or deceitful conduct with reference to the affairs of his
+ward render a guardian liable to suspicion, and not his want of means, while
+the latter alone will render an heir suspicious.
+(2) It is- clear that those who accuse an heir- of being suspicious should only
+be heard within a short time after his acceptance of the estate. If, however,
+it is proved that they suffered him to remain in possession of the estate for a
+considerable period, and can accuse him of nothing criminal, as, for example,
+that he has been guilty of some fraudulent act, he should not, after a long
+time has elapsed, be reduced to the necessity of giving security.
+(3) If the heir who is ordered to furnish security on the ground of being
+liable to suspicion does not obey the decree of the Praetor, the latter shall
+then order possession to be taken of the property of the estate, and permit it
+to be sold in conformity with the Edict.
+(4) It is evident that if it should be ascertained that nothing belonging to
+the estate has been sold, and that no other objection can justly be raised
+against the heir except his poverty, the Praetor must be content to order him
+to take nothing from the estate.
+(5) If the creditors cannot prove that the heir is suffering from poverty, they
+will be liable to him in an action on the ground of injury sustained.1
+17. Paulus, Opinions.
+The privileges of creditors are not estimated by the time, but by the nature of
+the debt; and if several of them hold under the same title they will share
+alike, although their claims'may be of different dates.
+18. Ulpianus, Rules, Book HI.
+Where a minor is sued on a contract, and offers no defence, and, fqr this
+reason, his creditors obtain possession of his property, an amount should be
+deducted from it for his maintenance.
+(1) As it is permitted to defend a debtor before his creditors have obtained
+possession of his property, this can also be done after possession of it has
+been obtained; and, whether he himself undertakes his defence, or someone else
+does so for him, security must be given that the decision of the court will be
+complied with, and possession relinquished.
+19. Marcianus, Rules, Book V.
+Anyone is entitled to be a privileged creditor, after the Treasury, if he has
+lent money for the purpose of building, repairing, arming, or equipping a ship,
+as well as where he brings suit to collect the price of a ship which has been
+sold.
+20. The Same, On the Hypothecary Formula.
+It is established that anyone placed in possession of the property of a debtor
+who is absent on public business can legally hold it until the debt is paid in
+full, if it appears that the debtor is fraudulently absent, under the pretense
+of attending to business for the State. Where, however, he is absent on public
+business, in good faith, and a creditor is placed in possession under a writ of
+execution, the proceeding is void, and hence he must relinquish possession of
+the property.
+21. Ulpianus, On Sabinus, Book XLV.
+It is settled that anyone who hides behind columns, in order to avoid his
+creditor, conceals himself. It is also held that he is concealing
+1 'Asalready stated, it was one of the presumptions of Roman jurisprudence that
+in the administration of offices of trust, as well as in the giving of
+testimony, indigence and integrity were, generally speaking, incompatible; in
+other words, that the temptation to bribery was so great under such
+circumstances that no confidence was to be reposed in a man who was poor. This
+atrocious doctrine, unknown to the Common Law of England, was, to a certain
+extent, adopted by other nations whose legal systems were directly derived from
+that of Rome. --- ED.
+himself who goes into seclusion, that is to say, who secretes himself to avoid
+an action being brought against him. Such a person is he who leaves the city
+for the purpose of defrauding his creditors; for there is no difference, so far
+as concealing one's self is concerned, whether a man leaves the city, or,
+remaining at Rome, does not appear in public.
+22. Papinianus, Opinions, Book X.
+It has been decided that the City of Antioch, in Syria, retained the privilege
+conferred upon it by a special law, with reference to the pursuit of the
+property of a deceased debtor that had been taken in execution.
+23. Paulus, Decisions, Book I.
+Aconcubine and her natural children are excepted from property which can be
+sold by creditors.
+(1) Where the public is the creditor, it is preferred to all others whose
+claims are evidenced by written instruments.
+24. The Same, Decisions, Book V.
+If no defence is made for a minor, his creditors are placed in possession of
+his property, but provision for his maintenance until he arrives at the age of
+puberty should be made out of said property.
+(1) The property of anyone who has been captured by the enemy cannot be sold
+for the payment of his debts until he returns.
+
+
+* TITLE VII. CONCERNING THE SEPARATION OF THE PROPERTY OF AN ESTATE.
+
+1. Ulpianus, On the Edict, Book LXIV.
+It must be noted that a separation of the property of an estate is generally
+obtained by a decree of the Praetor.
+(1) A separation is ordinarily granted to creditors for the following reasons,
+for instance, where a creditor has Seius for his debtor, and the latter dies,
+leaving Titius his heir; and Titius not being solvent, his property is offered
+for sale. The creditors of Seius allege that his estate is sufficient to
+satisfy their claims; and that the creditors of Titius should be content with
+the estate of the latter, and hence there is, as it were, a sale of the
+property of two different debtors. It may, however, happen that Seius was
+solvent, and would have been able to satisfy his creditors, if not for the
+entire indebtedness, at least for a portion of it. If, however, their
+obligations are merged with those of the creditors of Titius, they will not
+receive so much, because Titius was insolvent, and they will receive still
+less, because there are more of them. It is, therefore, perfectly just that the
+creditors of Seius who desire a separation of property should be heard, and
+obtain from the Praetor permission for the payment of each class of creditors
+separately.
+(2) On the other hand, however, the creditors of Titius cannot obtain a
+separation of property, although anyone by obtaining another
+creditor may make the condition of his former creditor worse. Therefore, he who
+accepts the estate of my debtor will not, by doing so, make my condition any
+worse, because I have the right to obtain a separation of property. He,
+however, will render the condition of his creditors worse, if he enters upon an
+estate which is not solvent, for the creditors cannot demand a separation of
+property.
+(3) Moreover, it should be noted that even if it is suggested that the estate
+had been encumbered by the heir, by means of a pledge, or an hypothecation,
+still, if the property belonged to the estate, he who obtained a separation of
+it would, for this reason, be preferred to a creditor to whom the property had
+been hypothecated. This was stated by Severus and Antoninus in a Rescript.
+(4) A separation of property can also be obtained against the Treasury, or any
+municipality.
+.(5) The question arose whether the creditors of the heir could sometimes
+obtain a separation of property, if he had committed fraud against them when he
+entered upon the estate. No remedy is, however, afforded, for they must blame
+themselves if they entered into a contract with such a man, unless we hold that
+the Praetor can make use of an extraordinary proceeding for relief against the
+deceit of him who has contrived such a fraud.
+It is, however, difficult to adopt such an opinion.
+(6) If, however, an heir, even though he may allege that he thinks the estate
+is insolvent, should be compelled to accept and transfer it, and there is no
+one to whom he can deliver it, for this happens under some circumstances, we
+must come to his relief (if he asks it), against the creditors of the estate.
+This the Divine Pius stated in a Rescript, which enabled the property of the
+testator to be sold, just as if the estate had not been accepted. I think that
+this relief should also be granted to the creditors of the heir, if they
+request it, even if the heir himself did not ask for it, just as any separation
+of the claims is granted.
+. (7) Let us see if, in the case where a minor under the age of puberty becomes
+the heir of his father, and dies before reaching that age, and property in the
+hands of the substitute, who had accepted the estate of the minor, is sold, the
+creditors of the father can demand a separation of property." I think that they
+can do so, and I go still further, and hold that the creditors of the minor can
+also demand a separation as against the creditors of his heir.
+(8) In accordance with this, let us see if Primus should appoint Secundus his
+heir, and Secundus appoint Tertius his own heir, and the property of Tertius is
+sold by his creditors, what creditors can claim a separation of property. I
+think that if the creditors of Primus request this, they should be heard,
+against both the creditors of Secundus and Tertius; if the creditors of
+Secundus ask for a separation, they can obtain it against the heirs of Tertius,
+but not against those of Primus. In a word, the creditors of Primus can obtain
+a separation of property against all the other creditors; the creditors of
+Secundus can
+obtain one against the creditors of Tertius, but not against those of Primus.
+(9) Where the property of a son under paternal control is sold by his
+creditors, and he has a castrense peculium,can a distinction be made between
+the creditors of the castrense peculiumand the other creditors? They should all
+be admitted together, unless the claims of those who made the contract before
+the son entered the military service ought, perhaps, to be separated. I think
+that this opinion should be adopted. Therefore, if the creditors, who made
+contracts before the son entered the service, should sell the castrensian
+property, they cannot come in with the subsequent creditors. Moreover, if any
+of the property has been employed for the benefit of the father, the creditor
+may perhaps be prevented from touching the castrense peculium,as he has a right
+to bring a special action against the father.
+(10) It should be noted that only those creditors can obtain a separation of
+property who have not stipulated with the heir with the intention of entering
+into a new obligation. If, however, they have approached him with this
+intention, they will lose the benefit of a separation of property, because,
+having obtained the claim of the heir, they cannot now separate themselves from
+him whom, to a certain extent, they have chosen as their debtor. But if, in
+selecting the heir as their debtor, they have required interest from him in
+that capacity, the same rule should be adopted.
+(11) It is also asked whether they can obtain a separation of property, if they
+have received security from the heir. I do not think that they can do so, for
+they have followed him who have induced them to change. But what if they
+accepted insufficient security? They themselves are to blame for not having
+received sureties who were solvent.
+(12) It must also be remembered that after the property of the estate is merged
+with that of the heir, a separation of property cannot be obtained, for where
+property is united and mingled together, a separation cannot be demanded. But
+what if it consisted of distinct tracts of land, slaves, cattle, or anything
+else which can be divided? Under these circumstances, a separation can be
+demanded, nor will anyone who maintains that the property is merged be heard,
+as tracts of land cannot be merged, unless the possession of different persons
+is so joined and mingled that a separation cannot be effected, which very
+rarely occurs.
+(13) When we have stated that a separation of property cannot be obtained after
+a long period of time, this must be understood to mean that it cannot be
+demanded after five years from the time when the estate was accepted have
+elapsed.
+(14) In all these cases, in order to determine whether a separation of property
+should take place or not, the opinion of the Praetor or the Governor, and that
+of no one else must be obtained, that is to say, the opinion of him who can
+grant the separation.
+(15) If a creditor should take a pledge from the heir, a separation of property
+should not be conceded to him, because he looks to the heir for payment. For he
+should not be heard who asserts that the
+heir is liable, having with that intention accepted him as his debtor in any
+manner whatsoever.
+(16) Where there are several creditors, some of whom have claims against the
+heir as their debtor, and others have not, and the latter obtain a separation,
+the question arose whether they can admit the former to share with them. I
+think that this will not profit them, for they should be included among the
+creditors of the heir himself.
+(17) It should also be noted that it is commonly held that the creditors of an
+heir can have anything of the residue of the property of the testator applied
+to the payment of their claims, but that the creditors of the testator can
+obtain nothing from the^ property of the heir. The reason for this is, that
+they who obtained the separation can only blame themselves, if, when the
+property of the heir was sufficient to pay them, they preferred that the estate
+of the deceased should be separated for their benefit, but the creditors of the
+heir are not to blame for anything of this kind.
+If, however, the creditors of the deceased petition to share in the property of
+the heir, they should not be heard; for the separation which they themselves
+demand removes them from all participation in the said property. But where the
+creditors of the deceased carelessly demand a separation of property, they are
+excusable, because their ignorance of the condition of the estate may be
+alleged as a just cause for their doing so.
+(18) It must be remembered that a slave who has been appointed a necessary
+heir, with the grant of his freedom, can obtain a separation of property; so
+that if he does not meddle with the estate of his patron, he will be in a
+position to have whatever he may hereafter acquire separately together with
+anything which is due to him from the testator.
+2. Papinianus, Questions, Book XXV.
+Where the estate has been sold by the heir, a separation of it cannot legally
+be demanded, if there is no suspicion of fraud; for any acts performed by the
+heir in good faith, in the meantime, are usually considered to be legal.
+3. The Same, Questions, Book XXVII.
+A debtor became the heir of his surety, and the creditors of the latter sold
+his property. Although the liability of the security was extinguished, still, a
+separation of property will be granted on the demand of him to whom the surety
+was liable, whether he was the only creditor of the estate or whether there
+were several. For the rule of law which excludes the obligation of the security
+on account of the principal obligation, which is the greater, should not
+prejudice the rights of the creditor who has diligently provided for his own
+interest. (1) But what if, after the separation of the property of the surety,
+the stipulator should be unable to collect his entire claim from the estate?
+Can his share be demanded along with those of the other creditors of the heir,
+or must he remain content with the property
+which he preferred to be separated? As,however, this stipulator could have
+shared with the creditors of the debtor in any balance which remained, if the
+estate of the surety had not been accepted by the creditor of the principal
+debtor, after the sale of the property of the surety, reason does not permit
+that he should be excluded in the case proposed. (2) But with reference to
+every other creditor who has obtained a separation of property, it is more
+advantageous to hold that if he can not collect his entire debt from the
+estate, he can still recover something from the property of the heir, if the
+personal creditors of the heir have been satisfied, because there is no doubt
+that he should be admitted to share with the creditors of the heir, after those
+of the estate have been satisfied.
+4. The Same, Opinions, Book XII.
+A separation of property shall also be granted to creditors where the debt is
+due after a certain time, or under some condition, on account of which they
+have not yet been able to bring suit to recover the money, since provision has
+also been made for them by double security.
+(1) It is established that legatees are considered to have a lien only upon
+that part of an estate which remains after the debts are paid.
+5. Paulus, Questions, Book XIII.
+If the creditors of an estate obtain a separation of property and the estate is
+found to be insolvent, but the heir is solvent, they cannot have recourse to
+the latter, but must adhere to the separation which they have already demanded.
+If, however, the heir should acquire property after the separation has been
+obtained, and any of it is derived from the estate, they who obtained the
+separation must, along with the personal creditors of the heir, be admitted to
+share in what had been acquired. But where their claims have been satisfied,
+any residue shall be paid to the creditors of the heir; but if the latter
+acquires any property from some other source, the creditors of the estate will
+not be permitted to take it. If, however, the personal creditors of the heir
+are paid in full, some authorities think that anything which remains should be
+turned over to the creditors of the estate; but I do not accept this opinion,
+for when they demanded a separation of property they no longer looked to the
+heir personally for payment, but had recourse to the estate, and, as it were,
+sold the property of the estate, which was not capable of augmentation.
+I thinks that the same rule should be held to apply, even if the creditors were
+deceived with reference to the separation of the property, and obtained less
+than the personal creditors of the heir. The latter, however, have, as their
+security, his property and his person, which they can obtain during his
+lifetime.
+6. Julianus, Digest, Book XLVI.
+Whenever an heir is insolvent, it is equitable that not only the creditors of
+the testator, but also those to whom bequests have been made, should obtain a
+separation of property, so that, after the claims of the
+creditors have been fully satisfied, the legatees may obtain their legacies
+entirely, or in part.
+(1) If a freedwoman, who has been appointed heir, demands praetorian possession
+in accordance with the provisions of the will of the testator, who was not
+solvent, the question arises whether her own property should be separated from
+that of the estate. The answer is that relief should be granted to her patron,
+to prevent him from being oppressed by the indebtedness which his freedwoman
+contracted by retaining possession of the estate in accordance with the
+provisions of the will.
+7. Marcianus, Rules, Book II. /
+The creditors of an estate who have filed-claims against the heir can,
+nevertheless, obtain a separation of property, because they took this step from
+necessity.
+
+
+* TITLE VIII. CONCERNING THE APPOINTMENT OF A CURATOR OP PROPERTY.
+
+1. Paulus, On the Edict, Book LVII.
+Where an heir is appointed under a condition, he should be forced to comply
+with it, if he can do so; but if he says that he will not accept the estate,
+even if the condition is fulfilled, the property of the deceased must be sold
+by his creditors.
+(1) If, however, the heir can do nothing, a curator of the estate should be
+appointed, or the property sold.
+(2) If there is a considerable amount of indebtedness due from the estate,
+which may be increased by the addition of a penalty, the debts should be paid
+by the curator; just as is usually done when a pregnant woman is placed in
+possession in the name of her unborn child, or the heir is a minor who has no
+guardian.
+2. Ulpianus, On the Edict, Book LXV.
+In the appointment of a curator, it is our practice to apply to the Prsetor, in
+order that he may appoint one or more curators with the consent of the majority
+of the creditors, or to the Governor of the province, if the property is to be
+sold therein.
+(1) Anything which may have been done or performed by the curator or curators
+appointed, that is, any acts or deeds, or any business which has been
+transacted, should be ratified. They are entitled to actions against others,
+and praetorian actions will lie against them. If the curators appoint anyone to
+bring a suit, or defend one, as the case may be, the security exacted from him
+with reference to the ratification of his acts, or the payment of the judgment,
+shall not be taken in the name of him whose property is sold, but in that of
+the curator himself, who appointed him.
+(2) But where several curators are appointed, Celsus says that-they must sue
+and be sued together, and not separately. If, however,
+the said curators are appointed for different districts, one, for instance, for
+property in Italy, and another for property in a province, I think that they
+will have control over their respective districts.
+(3) The question arises whether a curator can be appointed against his will.
+Cassius says that no one can be compelled to become a curator of property
+against his consent, which is correct. Therefore, one must be found who is
+willing, unless imperative necessity exists; and the authority of the Emperor
+must be invoked for a curator to be appointed against his will.
+(4) It is not absolutely essential that the person appointed curator should be
+a creditor; but those who are not creditors can be appointed.
+(5) If there are three curators, and one of them did not transact any business
+relating to his office, can an action be granted against him? Cassius thinks
+that no restriction should be imposed upon a plaintiff under such
+circumstances, and that any one creditor, who desires to do so, can institute
+proceedings against him. I think that the opinion of Cassius is perfectly
+correct, and that what has been obtained from the estate, and not what has come
+into the hands of one of the curators, should be taken into consideration.
+This is our practice, unless the curator was appointed against his consent;
+for, if this is the case, it must be held that an action should not be brought
+against him.
+3. Celsus, Digest, Book XXIV.
+Where several curators are appointed for the property of the same person, an
+action to recover the entire amount will be granted against any one of them
+that the plaintiff may select; just as each one of them can sue a debtor of the
+estate for the entire amount he owes.
+4. Papirius Justus, On the Constitutions, Book I.
+The Emperors Antoninus and Verus stated in a Rescript that where property has
+been sold by a curator under the Decree of the Senate, no action would lie
+against a fraudulent debtor for any act committed before that time.
+5. Julianus, Digest, Book XLVII.
+If a debtor fails in business, and his creditors assemble and select one by
+whom his property may be sold, the amount due to each one of them to be paid
+from the proceeds of the sale, and another person afterwards appears, who
+alleges that he also is a creditor, he will not be entitled to an action
+against the curator, but he, along with the curator, can sell the property of
+the debtor, so that whatever is realized from the sale of .the property by the
+curator and the said creditor may be paid to all the creditors in proportion to
+their claims.
+
+
+* TITLE IX. CONCERNING RESTITUTION WHERE FRAUDULENT ACTS HAVE BEEN COMMITTED AGAINST CREDITORS.
+
+1. Ulpianus, On the Edict, Book LXVI.
+The Praetor says: "I will grant an action to the curator of property, or to
+anyone else to whom it is necessary to grant one, in a case of this kind,
+within the year in which he has a right to institute such a proceeding, where
+any act has been committed for the purpose of fraud with anyone who was not
+ignorant of said fraud, and I will also maintain this right of action against
+^ःhe party himself who committed it."
+(1) The Praetor was compelled to introduce this Edict in order to protect the
+rights of creditors, by revoking any alienations of property which had been
+made for the purpose of defrauding them.
+(2) The Praetor says, "where any act has been committed for the purpose of
+fraud." These words have a general application, and include every kind of fraud
+which is committed, as well as every alienation, and every contract. Therefore,
+everything that is done for the purpose of committing fraud, no matter what it
+may be, is considered to be revoked by these words, for they have a broad
+application. If, therefore, the debtor should alienate any property, or give a
+release from liability for a debt to anyone or release anyone from an
+agreement;
+2. The Same, On the Edict, Book LXXHI.
+The same rule should be adopted. And if he releases a pledge, or pays any
+person for the purpose of defrauding his creditors:
+3. The Same, On the Edict, Book LXXI.
+Or if he provides one who owes him with an exception, or obligates himself for
+the purpose of defrauding his creditors; or pays money; or commits any other
+act to cheat them; it is obvious that the Edict will become operative.
+(1) We should understand as fraudulent acts not only such as the debtor
+performs while making a contract, but also where he intentionally fails to
+appear in court, or permits an action to come to an end, or does not bring suit
+against a debtor, in order that he may be released by lapse of time, or
+intentionally loses an usufruct or a servitude.
+(2) This Edict also applies to a person who commits any act for the purpose of
+parting with property which he has in his hands.
+4. Paulus, On the Edict, Book LXVIII.
+A debtor is understood to intend to defraud his creditors who does not do what
+he ought to do, for instance, if he does not make use of servitudes to which he
+is entitled.
+5. Gaius, On the Provincial Edict, Book XXVI.
+Or if he should abandon some of his own property, in order that anyone may
+obtain it.
+6. Ulpianus, On the Edict, Book LXVI.
+This Edict, however, is not applicable to a person who does not take means to
+acquire property which he can obtain, for it only has reference to such as
+diminish their patrimony, and not to those who act in such a way as not to
+become more wealthy.
+(1) Therefore he who fails to comply with the condition imposed, in order that
+a stipulation may not become operative, does not, by doing so, cause this Edict
+to take effect.
+(2) Hence, if anyone rejects an estate whether it conies to him by law or by
+the terms of a will, he will not give cause for the application of the Edict,
+for while he refuses to acquire property, he does not diminish his own
+patrimony.
+(3) In like manner, it must be said that, if a debtor emancipates his son, in
+order to enable him to accept an estate according to his own judgment, this
+Edict will not apply.
+(4) The opinion also stated by Julianus should be adopted; that is, if a debtor
+refuses to accept a legacy, the Edict will not apply.
+(5) If a debtor should sell his slave, who had been appointed an heir, in order
+that he might enter upon the estate by the direction of the purchaser, and not
+the sale, but only what related to the acceptance of the estate was fraudulent,
+the Edict will not apply, because he has a right to reject the estate. If,
+however, any fraud attached to the sale of the slave, it shall be revoked; just
+as if the debtor had fraudulently manumitted him.
+(6) It was stated by Labeo that anyone who receives what belongs to him should
+not be considered to have committed fraud, that is to say, where anyone
+receives a debt to which he is entitled; for it would be unjust to hold that a
+debtor whom a Governor forces to make payment against his will can refuse to do
+so with impunity.
+This entire Edict has reference to contracts in which the Praetor does not
+intervene, as, for example, those involving pledges and sales.
+(7) It should be noted that Julianus has said (and this is also our practice)
+that where anyone receives money that is due to him, before possession is taken
+of the property of the debtor, even though he is perfectly aware that the
+latter is insolvent, he does not come within the terms of this Edict, for he
+has only provided for his own interest.
+Any creditor, however, who receives what is due to him after the property of
+the debtor has been levied on, can be compelled to contribute his share, and be
+placed on the same footing as the other creditors; for he ought not to deprive
+them of anything after the property has been taken in execution, as, for this
+reason, the position of all the creditors becomes the same.
+(8) -This Edict punishes him who, knowing that a debtor has the intention of
+cheating his creditors, receives from him the property of
+which they have been defrauded. Hence, if any act is done for the purpose of
+defrauding creditors, and he who received the property was ignorant of the
+fact, the provisions of the Edict are not considered
+to apply.
+(9) Moreover, it must be noted that where anyone either purchases or stipulates
+for any property belonging to a debtor, who has the intention of cheating his
+creditors (even though the latter may give their consent), or makes any other
+contract, he will not be held to have done anything to defraud his creditors;
+for no one is considered to defraud those who are aware of the fact, and give
+their consent.
+(10) Where any business is done with: a minor for the purpose of defrauding his
+creditors, Labeo says that it must, by all means, be annulled, if the creditors
+are defrauded; for the reason that the ignorance of a minor, which results from
+his age, should not be injurious to his creditors, and profitable to himself.
+This is our practice.
+(11) In like manner, we say where a donation is fraudulently made to anyone,
+there should be no inquiry as to whether the person to whom the article was
+given was aware of the nature of the transaction or not, but only whether the
+creditors were defrauded. He who was ignorant of the fraud is not understood to
+have been injured by it, as he only loses a source of gain, and no loss is
+inflicted upon him. Against those, however, who have experienced the generosity
+of one whom they did not know to be insolvent, an action should only be granted
+to the extent to which they have become pecuniarily benefited, and no farther.
+(12) In like manner, if a slave receives an article from a person whom he
+himself knows to be insolvent, but his master is not aware of the fact, the
+question arises, will the master be liable? Labeo says that he will be liable
+to the extent of being compelled to return what came into his hands; or an
+action De peculiocan be brought against him, or one De in rem verso,if he has
+profited by the transaction.
+The same rule should be adopted in the case of a son under paternal control.
+If, however, the owner of the slave was aware that the debtor was insolvent, he
+can be sued in his own name.
+(13) Again, if the necessary heir has paid the legacies, and afterwards his
+property is sold, Proculus says that, even if the legatees were ignorant of his
+insolvency, an equitable action should, nevertheless, be granted. There is no
+doubt as to this.
+(14) The available days of the year, during which suit can be brought from the
+date of the sale, should be computed by us in this
+action.
+i
+7. Paulus, On the Edict, Book LXH.
+Where a debtor, with the intention of defrauding his creditors, sells a tract
+of land for less than its value to a purchaser who is aware of the fact, and
+then the creditors, to whom an action to set aside the sale was granted, claim
+the land, the question arises whether they should refund the price. Proculus
+thinks that the land must by all
+means be returned, even if the price is not refunded. The opinion of Proculus
+is confirmed by a rescript.
+8. Venuleius Saturninus, Interdicts, Book VI.
+From this it may be gathered that not even a part of the price paid by the
+purchaser should be returned to him. It can, however, be said that the matter
+ought to be investigated by an arbiter, to the end that he may order the money
+to be refunded, if it still is among the effects of the debtor; because, in
+this way, no one will be defrauded.
+9. Paulm, On the Edict, Book LXII.
+A certain man knowingly purchased an article from a debtor whose property had
+been taken in execution, and then sold it to a bona fidepurchaser. The question
+arose whether an action could be brought against the second purchaser. The
+opinion of Sabinus, that a bona, fidepurchaser is not liable, is the better
+one; because fraud should only   injure him who commits it, just as we hold
+that a purchaser will not be liable if, being ignorant of the facts, he bought
+the property from the debtor himself. But he who bought it fraudulently, and
+afterwards sold it to a bona fidepurchaser, will be liable for the entire sum
+which he received for the property.
+10. Ulpianus, On the Edict, Book LXX1II.
+The Prastor says: "Where Lucius Titius, with your privity and to your
+advantage, has disposed of any property for the purpose of defrauding his
+creditors, so that an action under my Edict will lie against him for the
+property in question, when no more than a year 'has elapsed, as an action with
+reference to said property can be brought, you must grant restitution, after
+proper cause has been shown; and even if you were not aware of the fact, I will
+grant an action in factum."
+(1) When anything is done for the purpose of defrauding creditors, it is only
+set aside where fraud actually results, that is to say, where the creditors
+whom the person intended to defraud have sold his property. If, however, he has
+satisfied the claims of those whom he intended to defraud, and has obligated
+himself to other creditors, or if he has simply paid those whom he intended to
+defraud, and afterwards become indebted to others, annulment will not take
+place; but if he satisfied the claims of the first ones whom he intended to
+defraud by paying them the money of the others whom he had no intention of
+defrauding, Marcellus says that there will be ground for the annulment of the
+transaction.
+This distinction is mentioned in a Rescript of the Emperors Severus and
+Antoninus, and is recognized in our present practice.
+(2) Where the Pra?tor says, "aware of the fact," we must understand this to
+mean that I know that you are committing a fraud; for if I merely know that you
+have creditors, it will not be sufficient to render me liable to an action in
+factum,for I must have participated in the fraud.
+(3) If anyone is not a participant in a fraud, and still, at the time of the
+sale of the debtor's property, should be summoned by the creditors and notified
+by them in the presence of witnesses not to purchase the property, will he be
+liable to an action in factumif he should do so? The better opinion is that he
+will be liable, for anyone who is notified not to purchase in the presence of
+witnesses, and does so, is not free from fraud.
+(4) It is, however, otherwise where anyone knows that another has creditors,
+and makes an absolute contract with him, without being aware of the fraud; for
+he is not considered to be liable to this ac^
+tion.
+(5) The Praetor says, "aware of the fact," that is to say, he is meant against
+whom this action can be -brought. But what if the guardian of a ward was aware
+of the fraud, and his ward was not? Let us see whether there will be ground for
+an action based upon the knowledge of the guardian, and whether the same rule
+will apply to the curator of an insane person, or a minor? I think that the
+knowledge of the guardian or the curator will only injure the ward or the minor
+to the amount of property which comes into their hands.
+(6) It should also be noted that, where it is alleged that a sale of property
+made for the purpose of defrauding creditors can be set aside, if the creditors
+are the same, even if one of them is of the number of those who have been
+defrauded (whether he is the only one remaining, or the claims of the others
+along with his have been satisfied), it must be held that there will still be
+ground for this action.
+(7) It is certain that it can be brought, even if the contracting party knew
+that one of the creditors had been defrauded, although he was not aware that
+this was also the case with the others.
+(8) But what if he who was supposed to have been defrauded has been paid; will
+he be liable to an action for the reason that the remaining creditors have not
+been the victims of fraud ? I think that this opinion should be adopted. And if
+anyone, for the purpose of avoiding an action, should say, "I tender what is
+due to him whom I know to be acreditor," he should not be heard.
+(9) If the person intending to commit fraud has an heir, and the property of
+the latter is sold by his creditors, as this has no reference to the property
+in question, this action will not lie.
+(10) If a son, who" has the right to reject an estate, should commit some act
+for the purpose of defrauding the creditors, and obtain complete restitution
+because he interfered in the affairs of the estate, or if even a voluntary heir
+should commit a fraudulent act for the same purpose, and is entitled to
+complete restitution on account of his age, or for any other good reason, it
+must be said that an equitable action can" be brought against him. The same
+rule applies to a slave who is a necessary heir.
+Labeo, however, says that this rule should be adopted with an exception, for if
+the creditors sell the property of an estate, and the necessary heirs commit
+any act with reference to it during the absence,. or with the consent of the
+creditors, the fraudulent act of both parties,
+that is to say, of the testator and his slaves, will be revoked. If, however,
+the creditors permitted the necessary heir to act, and had faith in him, or,
+tempted by the prospect of a high rate of interest, or for some other reason,
+were induced to trust him, it must be held that any sale of the property made
+by the testator ought not to be set aside.
+(11) If a minor, under the age of puberty, becomes the heir of his father, and
+dies, and his property is sold by his creditors after a separation has been
+obtained, any fraudulent sale made by the ward, or by his guardian or curator
+can be set aside.
+(12) When a debt is due to me within a certain time, and the person intending
+to commit a fraud pays it before it is due, it must be said that the benefit
+which I have obtained from being paid in advance will afford ground for an
+action in factum,for the Praetor understands that the fraud was committed with
+reference to the time.
+(13) Where a creditor has not been paid, but has received a pledge as security
+for an old claim, he will be liable to this action; as has been frequently set
+forth in constitutions.
+(14) If a woman, with a view to defrauding her creditors, marries one of her
+debtors, and releases him from his obligation for the purpose of obtaining the
+amount as dowry, in fraud of her creditors, this action will lie; and, by means
+of it, all the money which her husband owed can be collected. The woman will
+not be entitled to bring suit to recover her dowry, for the dowry was
+constituted in fraud of her creditors; and this is absolutely certain, and has
+been frequently promulgated in constitutions. The effect of the action will be
+to reestablish unimpaired the stipulation from which her husband had been
+released.
+(15) By means of this action an usufruct, as well as a stipulation in the
+following terms, "Do you promise to pay ten aureievery year ?" can be enforced.
+(16) If I pursue and arrest a debtor of mine who has several creditors, and had
+absconded, and I recover the money which he has stolen, and take from him what
+belongs to me, it was the opinion of Julianus that it made a great deal of
+difference whether this was done before the creditors of the debtor were placed
+in possession of his property, or afterwards. If it was done before, an action
+in factumwill not lie; if it was done afterwards, there will be ground for the
+action.
+(17) If the property of a deceased person has been adjudged to anyone, by the
+Constitution of the Divine Marcus, it must be held that for the purpose of
+preserving freedom this action will not lie; for he to whom it was adjudged
+succeeds to the estate with the understanding that whatever was done by the
+deceased was valid.
+(18) The year during which the action in factummust be brought is reckoned from
+the day of the sale of the property.
+(19) "By means of this action, the property must be restored, but, of course,
+with any charges imposed upon it.
+(20) The income derived from the property, not only that which has been
+collected, but also what could have been collected by the person guilty of
+fraud, is included. This rule, however, is capable of modification, for any
+expenses which have been incurred should be deducted, as he cannot be compelled
+by the decision of the court to restore the property, before he has been
+reimbursed for his necessary expenses.
+This rule should also be adopted where any other person has incurred expense
+with the consent of the sureties and the creditors.
+(21) I think that the better opinion is that the offspring of a slave is
+included in this action.
+(22) Moreover, generally speaking, it should be noted that by this action
+everything should be restored to its former condition, whether it consists of
+property or of obligations, so that whatever may have been done is set aside,
+just as if no release had been made. In consequence of this, any profit which
+would have been obtained in the meantime by the debtor, if no release had been
+given, must be returned; or if interest, which was not included in the
+stipulation, was not paid; or if the contract was of such a nature that
+interest could be collected under it, even if it was not agreed upon.
+(23) If the obligation was conditional or had reference to a certain time, it
+must be re-established with the condition or the time. If, however, it was of
+such a character that the time upon which it was dependent had elapsed, it can
+be said that restitution could be asked for within the time which remains, for
+the discharge of the obligation, without waiting until the year had expired.
+(24) This action can be brought after the year has elapsed, where any property
+which has come into the hands of him who is the object of it is involved; for
+the Praetor thought that it would be unjust to permit him to have any benefit
+who had profited by the fraud, and therefore he decided that he should be
+deprived of all gain. Therefore, whether the party in question himself
+committed the fraud, or someone else profited by it, the action can be brought
+with reference to. whatever has come into his hands, or if he has acted
+fraudulently to avoid acquiring it.
+(25) This action is granted in favor of the heir and other successors, and
+against the heir and persons of this kind.
+11. Venuleius Saturninus, Interdicts, Book VI.Cassius introduced an action
+having reference to property which comes into the hands of an heir.
+12. Marcellus, Digest, Book XVIII.
+If a father grants the free administration of his peculiumto a son under his
+control, he is not held to have done so for the purpose of alienating it to
+defraud his creditors, for he himself has not the power to make an alienation
+of this kind. If, however, the father should grant the peculium,to his son with
+a view to defrauding his creditors, he will be held to have done this himself,
+and there will be sufficient
+ground for actions to be brought against him. For the creditors of the son are
+also the creditors of the father, as they will be entitled to an action of this
+kind in case it is necessary for money to be paid to them out of the peculium.
+13. Paulus, On the Edict, Book LXVIII.
+It is established that anyone who holds a pledge is not liable under this
+action, for he is in possession of it in his own right, and does not hold it
+for the purpose of preserving the property.
+14. Ulpianus, Disputations, Book VI.
+By this action in factum,not only the ownership of the property, but also the
+rights of action of the debtor are restored. Therefore, it will lie to compel
+those who are not in possession of the property to restore it, and also against
+those who have a right of action to compel them to assign it. Hence, if he who
+is guilty of fraud has introduced Titius, in order that he may transfer the
+property to him, he should be compelled to assign his right by an action on
+mandate. Therefore, if the fraudulent debtor gives a dowry for his daughter to
+anyone, knowing that his creditors are defrauded thereby, the daughter will be
+liable, and will be forced to assign the right of action to recover the dowry,
+to which she is entitled against her husband.
+15. Julianus, Digest, Book XLIX.
+If anyone who has Titius as his creditor, being well aware that he is not
+solvent, makes a testamentary grant of freedom, and then, after having paid
+Titius in full, has Sempronius as his creditor, and dies, without making any
+change in his will, the grants of freedom should be confirmed, even if the
+estate is not insolvent; because, for grants of freedom to be rescinded, we
+require two conditions to exist, namely, the intention to commit fraud, and the
+perpetration of the same.
+And if the creditor, whom it was the intention to defraud in the beginning, was
+not cheated, there was originally no intention to deceive him who was actually
+defrauded. Therefore grants of freedom are confirmed :
+16. Paulus, Opinions of Papinianus, Book V.
+Unless the creditors having prior claims are paid with the money of subsequent
+ones.
+17. Julianus, Digest, Book XLIX.
+All debtors who are released for the purpose of defrauding creditors are, by
+this action, restored to their former liabilities.
+(1) Lucius Titius, having creditors, transferred all his property to his
+freedmen, who were also his natural children. The opinion was given that,
+although it was not suggested that Titius proposed to commit fraud, still, as
+he knew that he had creditors, and alienated all his property, he should be
+understood to have had the intention
+of defrauding them; and, therefore, although his children were not aware that
+this was the intention of their father, they would be liable under this action.
+(2) If a husband, intending to defraud his creditors, after the dissolution of
+his marriage, returns his wife's dowry before the time prescribed by law for
+him to return it, the wife will be liable under this action for the amount of
+the interest of the creditors in having her dowry returned at the proper time;
+for the Praetor understands that payment made before the designated time is
+fraudulent.
+18. Papinianus, Questions, Book XXVI.
+If a husband returns a pledge given him by his wife, or a wife returns one
+given to her by her husband", the better opinion is that of those who think
+that no donation was made. There is, however, no doubt if this was done for the
+purpose of defrauding creditors that the transfer can be set aside by a
+praetorian action.
+The same rule applies where anyone relinquishes a pledge for the purpose of
+defrauding the creditors of his debtor.
+19. The Same, Opinions, Book XL
+I gave it as my opinion that a father had not defrauded his creditors who,
+without waiting for his death, transferred the estate of his wife which had
+been left in trust to their son, after having released him from his control,
+without taking any account of the Falcidian portion; and I held that the father
+had fully executed his trust, and had perfectly discharged the duty required of
+him.
+20. Callistratus, Questions, Book II.
+It is settled that a debtor who has transferred an entire estate, in accordance
+with the Trebellian Decree of the Senate, is not considered to have defrauded
+his creditors, if he also transfers the portion which he was entitled to retain
+by law, but that he has, with the greatest fidelity, complied with the wishes
+of the deceased.
+21. ScsRVola, Opinions, Book I.
+A debtor, with the intention of defrauding his creditor, entered into an
+agreement with a neighbor with reference to the boundaries of a tract of land
+which he had hypothecated. The question arose whether he who purchased the land
+from the creditor could bring an action to establish the boundaries. The answer
+was that, according to the facts stated, he would not be any the less entitled
+to bring the action, because the debtor made the agreement without the
+knowledge of his creditor.
+22. The Same, Opinions, Book V.
+Where a creditor receives a pledge to secure an old claim, I ask whether his
+act is of no effect, as having been performed for the purpose of defrauding the
+other creditors. The answer was that the creditor should not be prevented from
+pursuing the pledge, because he had
+agreed that it should be given as security for an old debt, unless this was
+done for the purpose of defrauding other creditors, and legal proceedings
+should be taken by which acts defrauding creditors are usually rescinded.
+23. The Same, Digest, Book XXXII.
+When certain heirs, appointed in the first degree, ascertained that the estate
+of the deceased was scarcely sufficient to satisfy the fourth part of his
+indebtedness, for the purpose of preserving his reputation with the consent of
+the creditors, and by the authority of the Governor of the province entered
+upon the estate on condition of only paying a portion of their claims to the
+creditors; the question arose whether the slaves manumitted by the will could
+obtain their freedom and the means of support which had been bequeathed to
+them. The answer was that the grants of freedom would take effect, provided
+they had not been left for the purpose of defrauding the creditors, but that
+the legacies would not be due if the estate was insolvent.
+24. The Same, Questions Discussed in Public.
+A minor became the heir of his father, paid one of the creditors, and
+afterwards rejected his father's estate. The property of his father was sold.
+Should what the creditor received be returned, to prevent him from enjoying a
+greater advantage than the other creditors; or shall we make a distinction if
+he received this as a favor, so that if he was treated with partiality by the
+guardians, his share may be reduced in proportion to those of the other
+creditors? If, however, he collected his claim legally, and the other creditors
+neglected to collect theirs, and, in the meantime, the property became
+deteriorated either by death, by the theft of chattels, or by the depreciation
+in value of the land; that which the said creditor received can, by no means,
+be recovered, as the other creditors should pay the penalty for their
+negligence.
+But what if matters were in such a condition that the property of my debtor
+being about to be sold, he should pay me my debt; can the money be recovered
+from me by an action? Should a distinction be made where he tendered me the
+money, and where I compelled him to pay me against his consent? And if I forced
+him to make payment involuntarily, can it be recovered, but if not, will this
+be done? But I have watched over my interests; I have improved my condition;
+the Civil Law was made for those who are diligent in protecting their own
+rights; and hence what I received cannot be recovered.
+25. Venuleius, Interdicts, Book VI.
+When a fraudulent debtor gives a release to someone who owes him, with the
+knowledge of the surety of the latter, and the principal debtor was not
+ignorant of the fact, both parties will be liable, or at least the one who was
+familiar with the circumstances. Where, however, he who was released was not
+solvent, let us see whether the action should be granted against the principal
+debtor, even if he was ignorant of the facts, because he received the debt as a
+donation.
+On the other hand, if the release was given to the principal debtor and he was
+aware of the fraud, his surety will also be liable, if he also was aware of it;
+but if he did not know of it, why should not an action also be granted against
+him, as he does not sustain any more damage than he obtains benefit?
+Where there are two principal debtors, the case of both is the same.
+(1) Where a son-in-law accepts a dowry from his father-in-law, knowing that he
+intends to defraud his creditors, he will be liable under this action. If he
+returns the property, he will cease to have the dowry, and Labeo says that
+nothing should be returned to an emancipated daughter, after a divorce has
+taken place, because this action is granted for the purpose of recoyering the
+property and not to inflict a penalty; and hence the defendant, by making
+restitution, is discharged from liability.
+If, however, before the creditors have brought suit against the father-in-law,
+the son-in-law should return the dowry to the daughter, he can be sued in an
+action on dowry; and Labeo holds that he will still be liable under this
+action, without having any recourse against the woman.
+But let us see whether he will have a right to claim anything without
+instituting judicial proceedings. If he was ignorant of the fraudulent intent
+of the father-in-law, but the daughter knew it, she will be liable; and if both
+of them knew it, they will both be liable. If neither of them knew it, some
+authorities hold that an action against the daughter ought, nevertheless, to be
+granted, because it is understood that something in the form of a donation has
+come into her hands; or, at all events, she should give security to return
+whatever she may obtain. An action, however, should not be granted against the
+husband, if he was ignorant of the intended fraud, as he would not have married
+a wife who had no dowry; any more than it should be granted against a creditor
+who receives what is due to him from a debtor intending to commit a fraudulent
+act.
+(2) Likewise, if a stranger, for the purpose of defrauding his creditors, gives
+a dowry to a girl under paternal control, her husband will be liable if he was
+aware of his intent, and the woman also, as well as her father, if he was not
+ignorant of it; so that the husband must give security to return the dowry if
+it should come into his hands.
+(3) If an agent, without the knowledge of his principal, orders a slave to
+receive property from a debtor who has the intention of defrauding his
+creditors, and he is aware of this, he himself, and not his principal, will be
+liable to this action.
+(4) Not only must the property which has been alienated be returned, but also
+any crops which have taken root in the earth at the time of the alienation,'
+because they constitute part of the property of the fraudulent debtor, as well
+as those which were gathered after the suit was begun. Any crops gathered in
+the meantime will not, however, be included in the restitution.
+In like manner, the offspring of a female slave who has been fraudulently
+alienated, which was born in the meantime, will not be included in the
+restitution, because it did not form part of the property of the debtor.
+(5) Proculus says that, if a female slave conceives after the alienation took
+place, and has a child before suit is brought, there is no doubt that the child
+should not be returned. If, however, she was pregnant at the time she was sold,
+it may be said that the child must also be returned.
+(6) With reference to crops attached to the soil, Labeo says that by this
+expression it is not clear whether the Praetor meant the crops which were ripe,
+or also those which had not yet matured. Moreover, if he referred to those
+which were ripe, possession need not be restored on that account, for when a
+tract of land is alienated, the land and everything attached to it are held to
+constitute but one thing, that is to say, the crops are included in an
+alienation of any kind; nor should he be understood to have two different
+things, who, during the winter, has a tract of land which is worth a hundred
+aurei,and at the time of harvest or vintage, can sell the crops for ten
+aurei,that is to say, the land is worth a hundred aurei,and the crops are worth
+ten; but as he has but one thing, that is, the tract of land worth a hundred
+aurei,so also he has but one thing who can sell his house separate from the
+land.
+(7) This action is also granted against a fraudulent debtor, although Mela does
+not think that it ought to be done, because none is granted against him for
+anything which took place before the sale of his property, and it would be
+unjust for an action to be granted against one who had been deprived of all his
+possessions.
+If, however, he should lose some of them and they cannot be recovered in any
+way, an action will, nevertheless, be granted against him. The Praetor is not
+considered to take into account the benefit of this proceeding in the case of
+one who had been deprived of his property by way of penalty.
+VVOOLL.. 99]
+]

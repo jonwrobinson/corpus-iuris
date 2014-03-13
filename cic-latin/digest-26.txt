@@ -1,0 +1,1866 @@
+# -*- mode: org -*-
+
+DOMINI NOSTRI SACRATISSIMI PRINCIPIS
+IUSTINIANI
+IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
+DIGESTORUM SEU PANDECTARUM
+liber vicesimus sextus
+
+
+( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
+
+* TITLES
+**  26.1.0. De tutelis.
+**  26.2.0. De testamentaria tutela.
+**  26.3.0. De confirmando tutore vel curatore.
+**  26.4.0. De legitimis tutoribus.
+**  26.5.0. De tutoribus et curatoribus datis ab his qui ius dandi habent (..)
+**  26.6.0. Qui petant tutores vel curatores et ubi petantur.
+**  26.7.0. De administratione et periculo tutorum et curatorum qui gesserint vel non (..)
+**  26.8.0. De auctoritate et consensu tutorum et curatorum.
+**  26.9.0. Quando ex facto tutoris vel curatoris minores agere vel conveniri possunt.
+**  26.10.0. De suspectis tutoribus et curatoribus.
+
+
+
+* 26.1.0. De tutelis.
+
+
+26.1.1
+
+Paulus libro 38 ad edictum
+
+pr. Tutela est, ut servius definit, vis ac potestas in capite libero ad tuendum eum, qui propter aetatem sua sponte se defendere nequit, iure civili data ac permissa.
+
+1. Tutores autem sunt qui eam vim ac potestatem habent, exque re ipsa nomen ceperunt: itaque appellantur tutores quasi tuitores atque defensores, sicut aeditui dicuntur qui aedes tuentur.
+
+2. Mutus tutor dari non potest, quoniam auctoritatem praebere non potest.
+
+3. Surdum non posse dari tutorem plerique et Pomponius libro sexagesimo nono ad edictum probant, quia non tantum loqui, sed et audire tutor debet.
+
+26.1.2
+
+Pomponius libro tertio ad Sabinum
+
+Non est exigendum a pupillo, ut sibi tutorem petat aut ut ad tutorem suum proficiscatur.
+
+26.1.3
+
+Ulpianus libro 37 ad Sabinum
+
+pr. Qui habet tutorem pupillus vel pupilla si furere coeperint, in ea causa sunt, ut in tutela nihilo minus durent: quae sententia Quinti quoque Mucii fuit et a Iuliano probatur eoque iure utimur, ut cesset cura, si tutelae aetas indigeat. Quare si tutores habent, per furorem in curam non rediguntur, sive non habent et furor eis accesserit, nihilo minus tutores accipere poterunt: quia lex duodecim tabularum ita accepta est, ut ad pupillos vel pupillas non pertineat.
+
+1. Quia autem in pupillorum persona adgnatos curatores non admittimus, idcirco putavi et si minor viginti quinque annis furiosus sit, curatorem ei non ut furioso, sed ut adulescenti dari, quasi aetatis esset impedimentum. Et ita definiemus ei, quem aetas curae vel tutelae subicit, non esse necesse quasi dementi quaeri curatorem, et ita imperator Antoninus Augustus rescripsit, cum magis aetati quam dementiae tantisper sit consulendum.
+
+2. Si pupillus pupillave cum iusto tutore tutorve cum eorum quo litem agere vult et curator in eam rem petitur, utrum ipsis poscentibus datur an vero et adversario? Et sciendum est, sive agant sive conveniantur, dari hunc curatorem posse, sed non alias, quam si ipse petat, cui dari eum oportet. Denique Cassius libro sexto scripsit talem curatorem neminem dari posse nisi praesentem neque cuique nisi praesenti et postulanti, itaque infanti non potest dari. Idem Cassius ait, si pupillus curatorem poscere non vult, quo minus cum eo agatur, cogi eum a praetore debuisse.
+
+3. Quolibet loco et tempore hunc curatorem dari posse Pomponius libro sexto decimo ad Sabinum scripsit.
+
+4. Si pupillus petat talem curatorem nec addat in quam rem, an in omnes controversias datus sit? Et ait Celsus servium constituisse in omnes res datum videri.
+
+26.1.4
+
+Paulus libro octavo ad Sabinum
+
+pr. Quod dicitur, si indistincte datus sit curator, in totam litem datum videri, fortasse eo spectet, si familiae herciscundae aut communi dividundo aut finium regundorum actio esset cum tutore, et si indistincte datus esset, non solum eo nomine curator esset, quod ageret pupillus pupillave, sed invicem quoque quod cum his ageretur.
+
+1. Possunt autem vel plures in plurium locum vel unus in plurium vel unus unius loco vel in unam litem vel in plures curator peti.
+
+26.1.5
+
+Pomponius libro 17 ad Sabinum
+
+pr. Cum semel petitus sit talis curator, quamdiu is curator maneat, alius in eandem litem curator peti non potest.
+
+1. Etsi Titius verbi gratia adversus Seium curator petitus sit, idem Titius adversus alium tutorem dari poterit, ut ex diversis causis unus duorum curatorum locum optineat. Quod quidem et adversus eundem accidet, si in diversas lites in diversis temporibus idem petatur.
+
+26.1.6
+
+Ulpianus libro 38 ad Sabinum
+
+pr. Muto itemque mutae impuberibus tutorem dari posse verum est: sed an auctoritas eis accommodari possit, dubitatur. Et si potest tacenti, et muto potest. Est autem verius, ut Iulianus libro vicesimo primo digestorum scripsit, etiam tacentibus auctoritatem posse accommodare.
+
+1. Sub condicione a praesidibus provinciarum non posse dari tutorem placet et, si datus sit, nullius esse momenti dationem: et ita Pomponius ait: hanc autem adiectionem, quam praesides provinciarum faciunt "tutorem do, si satisdederit" non condicionem in se habere, sed admonitionem, non aliter ei tutelam committi, quam si satisdederit, hoc est non aliter ei gerere permittendum, quam si rem salvam fore caverit.
+
+2. Tutoris datio neque imperii est neque iurisdictionis, sed ei soli competit, cui nominatim hoc dedit vel lex vel senatus consultum vel princeps.
+
+3. Surdo impuberi poterit tutor dari.
+
+4. Ei cuius pater in hostium potestate est tutorem dari non posse palam est: sed si datus sit, an in pendenti sit datio, quaeri potest. Et non puto dationem valere: sic enim post patris regressum reccidit in potestatem, atque si numquam pater ab hostibus captus fuisset. Immo curator substantiae dari debet, ne in medio pereat.
+
+26.1.7
+
+Ulpianus libro secundo disputationum
+
+Si filius familias tutor a praetore datus sit, si quidem pater tutelam agnovit, in solidum debet teneri, si non adgnovit, dumtaxat de peculio. Adgnovisse autem videtur, sive gessit sive gerenti filio consensit sive omnino attigit tutelam. Unde cum quidam filio scripsisset, ut diligenter tutelam gereret, "cum scias", inquit, "periculum ad nos pertinere", dixi hunc quoque videri adgnovisse: plane si solum monuit filium, non videtur agnita.
+
+26.1.8
+
+Ulpianus libro primo opinionum
+
+Patronus quoque tutor liberti sui fidem exhibere debet, et si qua in fraudem debitorum quamvis pupilli liberti gesta sunt, revocari ius publicum permittit.
+
+26.1.9
+
+Marcianus libro tertio institutionum
+
+In eos extra ordinem animadvertitur, qui probentur nummis datis tutelam occupasse vel pretio accepto operam dedisse, ut non idoneus tutor daretur, vel consulto in edendo patrimonio quantitatem minuerit, vel evidenti fraude pupillorum bona alienasset.
+
+26.1.10
+
+Ulpianus libro secundo ad edictum
+
+Etiam non municeps tutor dari potest, dummodo municipi detur.
+
+26.1.11
+
+Paulus libro tertio ad Vitellium
+
+Furiosus si tutor datus fuerit, potest intellegi ita dari, cum suae mentis esse coeperit.
+
+26.1.12
+
+Paulus libro decimo responsorum
+
+Quaesitum est, an hi, qui in locum absentis rei publicae causa tutores dati sunt, mortuo illo tutores perseverent, an alii petendi essententiarum Paulus respondit eos, qui in locum absentis dati sunt, non reverso eo in eadem causa perseverare usque ad tempus pubertatis.
+
+26.1.13
+
+Pomponius libro secundo enchir.
+
+pr. Solet etiam curator dari aliquando tutorem habenti propter adversam tutoris valetudinem vel senium aetatis: qui magis administrator rerum, quam curator esse intellegitur.
+
+1. Est etiam adiutor tutelae, quem solet praetor permittere tutoribus constituere, qui non possunt sufficere administrationi tutelae, ita tamen ut suo periculo eum constituant.
+
+26.1.14
+
+Ulpianus libro 37 ad Sabinum
+
+pr. Si adrogati sunt adhuc impuberes vel deportati sint pupilli, tutores habere desinunt.
+
+1. Item si in servitutem pupillus redigatur, utique finitur tutela.
+
+2. Aliis quoque modis desinunt esse tutores, si forte quis ab hostibus fuerit captus vel pupillus vel tutor.
+
+3. Sed et si ad tempus fuerit quis datus, tempore finito tutor esse desinit.
+
+4. Praeterea si suspectus quis fuerit remotus, desinit esse tutor.
+
+5. Sed et si ad certam condicionem datus sit, aeque evenit, ut desinat esse tutor exsistente condicione.
+
+26.1.15
+
+Ulpianus libro 38 ad Sabinum
+
+Si quis tutor non sit captus ab hostibus, sed missus ad eos quasi legatus, aut etiam receptus ab eis, aut transfugerit, quia servus non efficitur, tutor manet, sed interim a praesidibus alius tutor dabitur.
+
+26.1.16
+
+Gaius libro 12 ad edictum provinciale
+
+pr. Tutela plerumque virile officium est.
+
+1. Et sciendum est nullam tutelam hereditario iure ad alium transire: sed ad liberos virilis sexus perfectae aetatis descendunt legitimae, ceterae non descendunt.
+
+26.1.17
+
+Paulus libro octavo ad Sabinum
+
+Complura senatus consulta facta sunt, ut in locum furiosi et muti et surdi tutoris alii tutores dentur.
+
+26.1.18
+
+Neratius libro tertio regularum
+
+Feminae tututores dari non possunt, quia id munus masculorum est, nisi a principe filiorum tutelam specialiter postulent.
+
+
+* 26.2.0. De testamentaria tutela.
+
+
+26.2.1
+
+Gaius libro 12 ad edictum provinciale
+
+pr. Lege duodecim tabularum permissum est parentibus liberis suis sive feminini sive masculini sexus, si modo in potestate sint, tutores testamento dare.
+
+1. Item scire debemus etiam postumis filiis vel nepotibus vel ceteris liberis licere parentibus testamento tutores dare, qui modo in ea causa sint, ut, si vivo eo nati fuerint, in potestate eius futuri sint neque testamentum rupturi.
+
+2. Item ignorandum non est eum, qui filium in potestate et nepotem ex eo aeque in potestate habebit, si nepoti tutorem dederit, ita recte dedisse videri, si nepos post mortem eius in patris sui potestatem recasurus non sit: quod evenit, si vivo testatore filius in potestate eius esse desierit.
+
+26.2.2
+
+Ulpianus libro secundo ad Sabinum
+
+Nec militem liberis recasuris in potestatem tutorem dare posse a divis fratribus rescriptum est.
+
+26.2.3
+
+Ulpianus libro 35 ad edictum
+
+pr. Testamento datos tutores accipere debemus etiam eos, qui codicillis testamento confirmatis scripti sunt.
+
+1. Sed eos demum testamento datos accipere nos oportet, qui iure dati sunt.
+
+26.2.4
+
+Modestinus libro septimo differentiarum
+
+Pater heredi instituto filio vel exheredato tutorem dare potest, mater autem non nisi instituto, quasi in rem potius quam in personam tutorem dare videatur. Sed et inquiri in eum, qui matris testamento datus est tutor, oportebit, cum a patre datus, quamvis minus iure datus sit, tamen sine inquisitione confirmatur, nisi si causa, propter quam datus videbatur, in eo mutata sit, veluti si ex amico inimicus vel ex divite pauperior effectus sit.
+
+26.2.5
+
+Ulpianus libro 15 ad Sabinum
+
+Si quis filiabus suis vel filiis tutores dederit, etiam postumae videtur dedisse, quia filiae appellatione etiam postuma continetur.
+
+26.2.6
+
+Ulpianus libro 39 ad Sabinum
+
+Quid si nepotes sint? An appellatione filiorum et ipsis tutores dati sint, videndum. Et magis est, ut ipsis quoque dati videantur, si modo liberos dixit: ceterum si filios, non continebuntur: aliter enim filii, aliter nepotes appellantur. Plane si postumis dederit, tam filii postumi quam ceteri liberi continebuntur.
+
+26.2.7
+
+Paulus libro tertio ad Sabinum
+
+Tutores non ab herede, sed a testatore protinus proficiscuntur, simul atque aliquis heres exstitisset: nam et ipse heres tutor dari potest et post mortem heredis tutor recte dari potest.
+
+26.2.8
+
+Ulpianus libro 24 ad Sabinum
+
+pr. Tutor datus vetari tutor esse potest vel testamento vel codicillis.
+
+1. Sed si sub condicione fuerit tutor datus, deficiente condicione tutor non erit.
+
+2. Tutorem autem et a certo tempore dare et usque ad certum tempus licet et sub condicione et usque ad condicionem.
+
+3. In tutoris dationem utrum levissima condicio an novissima, ut in legato, spectanda est? Ut puta "Titius cum poterit tutor esto": "Titius si navis ex asia venerit tutor esto". Et Iulianus libro vicesimo digestorum recte scripsit novissimam scripturam esse spectandam.
+
+26.2.9
+
+Pomponius libro tertio ad Quintum Mucium
+
+Si nemo hereditatem adierit, nihil valet ex his, quae testamento scripta sunt: si vero unus ex pluribus adierit, tutelae statim valent nec exspectandum erit, ut omnes hereditatem adeant.
+
+26.2.10
+
+Ulpianus libro 36 ad Sabinum
+
+pr. Si hereditas nondum adita sit, ex qua tutor speratur, verius est alium tutorem posse dari, quasi nondum sit, nec speretur.
+
+1. In tutelis testamentariis id sequimur quod novissimum est, et si saepius tutor datus sit, novissimam scripturam intuemur.
+
+2. Qui filium et ex eo nepotem habebat, si nepoti tutorem dederit, habet disceptationem, an aliquo casu non sit utilis datio: ut puta si proponas filium vivo patre decessisse et nepotem ex eo successisse vivo avo. Et fortius dicendum est tutelam quoque e lege Iunia Vellea confirmatum: nam et Pomponius libro sexto decimo ex Sabino scripsit valere tutoris dationem. Cum enim confirmatum sit testamentum, consequenter tutoris quoque datio valebit in eo testamento scripta quod valet, id est ubi nepos vel heres institutus sit vel nominatim exheredatus sit.
+
+3. Si furiosus testamento tutor detur, si quidem, cum furere desierit, tutorem esse recte datum Proculus existimat: quod si datus sit pure, negat Proculus valere dationem. Sed est verius, quod et Pomponius ait, recte videri datum et tunc fore tutorem, cum sapere coeperit.
+
+4. Servus alienus ita dari tutor potest "si liber erit, tutor esto". Quin immo et si pure datus sit, videtur inesse haec condicio "cum liber erit". Potest autem quis et extraneo servo defendere ex hac causa fideicommissariam libertatem: quid enim interest, suum servum an alienum tutorem scripserit, cum pupilli favore et publicae utilitatis adsumpta libertas sit in persona eius, qui tutor scriptus est? Potest igitur et huic fideicommissaria libertas defendi, si voluntas apertissime non refragetur.
+
+26.2.11
+
+Ulpianus libro 37 ad Sabinum
+
+pr. Si quis sub condicione vel ex die tutorem dederit, medio tempore alius tutor dandus est, quamvis legitimum tutorem pupillus habeat: sciendum est enim, quamdiu testamentaria tutela speratur, legitimam cessare.
+
+1. Et si semel ad testamentarium devoluta fuerit tutela, deinde excusatus sit tutor testamentarius, adhuc dicimus in locum excusati dandum, non ad legitimum tutorem redire tutelam.
+
+2. Idem dicimus et si fuerit remotus: nam et hic idcirco abit, ut alius detur.
+
+3. Quod si tutor testamento datus decesserit, ad legitimum tutela redit, quia hic senatus consultum cessat.
+
+4. Plane si duo pluresve fuerint tutores testamentarii, in locum eius, qui decessit vel in civitate esse desiit, poterit dari alius: ceterum si nullus supersit vel in civitate sit, legitima tutela succedit.
+
+26.2.12
+
+Ulpianus libro 38 ad Sabinum
+
+Ceterarum rerum vel causarum testamento tutor dari non potest nec deductis rebus.
+
+26.2.13
+
+Pomponius libro 17 ad Sabinum
+
+Et si datus fuerit, tota datio nihil valebit,
+
+26.2.14
+
+Marcianus libro secundo institutionum
+
+quia personae, non rei vel causae datur.
+
+26.2.15
+
+Ulpianus libro 38 ad Sabinum
+
+Si tamen tutor detur rei Africanae vel rei Syriaticae, utilis datio est: hoc enim iure utimur.
+
+26.2.16
+
+Ulpianus libro 39 ad Sabinum
+
+pr. Si quis ita dederit "filiis meis tutorem do", in ea condicione est, ut tam filiis quam filiabus dedisse videatur: filiorum enim appellatione et filiae continentur.
+
+1. Si quis filio tutorem dederit et plures filios habeat, an omnibus filiis dedisse videatur? Et de hoc Pomponius dubitat: magis autem est, ut omnibus dedisse videatur.
+
+2. Si quis liberis tutores dederit vel filiis et habeat quosdam apud hostes, etiam ipsis dedisse videbitur, si non aliud aperte probetur testatorem sensisse.
+
+3. Si quis cum ignoraret se filium Titium habere, filiis tutores dederit, utrum his solis dedisse videatur, quos in potestate scit an ei quoque, quem ignoravit se habere? Et magis est, ut huic dedisse non videatur, licet nomen filiorum admittit et ipsum: sed quia de ipso non sensisset, dicendum est cessare in personam eius dationem.
+
+4. Proinde et si certus fuit filium decessisse, qui supererat, idem erit dicendum: nec enim videtur ei dedisse, quem obisse credebat.
+
+5. Si postumis dederit tutores hique vivo nascantur, an datio valeat? Et magis est, ut utilis datio fiat etiam si vivo eo nascantur.
+
+26.2.17
+
+Ulpianus libro 35 ad edictum
+
+pr. Testamento datos tutores non esse cogendos satisdare rem salvam fore certo certius est: sed nihilo minus cum quis offert satisdationem, ut solus administret, audiendus est, ut edicto cavetur. Sed recte praetor etiam ceteris detulit hanc condicionem, si et ipsi velint satisdare: nam et si ipsi parati sunt satisdare, non debent excludi alterius oblatione, sed impleta videlicet ab omnibus satisdatione omnes gerent, ut qui contentus est magis satis accipere quam gerere, securus esset.
+
+1. Non omnimodo autem is qui satisdet praeferendus est: quid enim si suspecta persona sit vel turpis, cui tutela committi nec cum satisdatione debeat? Vel quid si iam multa flagitia in tutela admisit? Nonne magis repelli et reici a tutela, quam solus administrare debeat? Nec satis non dantes temere repelluntur, quia plerumque bene probati et idonei atque honesti tutores, etiamsi satis non dent, non debent reici: quin immo nec iubendi sunt satisdare.
+
+2. Duplex igitur causae cognitio est, una ex persona eius qui optulerit satisdationem, quis et qualis est, alia contutorum, quales sunt, num forte eius existimationis vel eius honestatis sunt, ut non debeant hanc contumeliam satisdationis subire.
+
+26.2.18
+
+Callistratus libro tertio edicti monitorii
+
+Quod si plures satisdare parati sint, tunc idonior praeferendus erit, ut et tutorum personae inter se et fideiussorum comparentur.
+
+26.2.19
+
+Ulpianus libro 35 ad edictum
+
+pr. Si nemo tutorum provocet ad satisdationem, sed exsistat quidam qui tutor non est desideraretque, ut aut satisdent tutores, aut, si non dent, parato sibi satisdare committant tutelam, non est audiendus: neque enim aut extero committenda tutela est, aut testamento dati tutores contra ius satisdationi subiciendi sunt.
+
+1. Hoc edictum de satisdatione ad tutores testamentarios pertinet: sed et si ex inquisitione dati sint tutores, Marcellus ait et ad hos pertinere hoc edictum et id oratione etiam divorum fratrum significari. Ideoque et illi clausulae sunt subiecti, ut, si cui maior pars tutorum decernat, is gerat quem maior pars eligat, quamvis verba edicti ad testamentarios pertineant.
+
+2. Testamento datus postumo tutor nondum est tutor, nisi postumus edatur: datur tamen adversus eum substituto pupilli negotiorum gestorum actio. Sed si partus editus fuerit, deinde hic tutor, priusquam quicquam gereret, remotus a tutela fuerit, et hic eadem actione tenebitur. Si quid plane gessit post editum partum, de eo quoque, quod ante gessit, tutelae iudicio tenebitur et omnis administratio in hac actione veniet.
+
+26.2.20
+
+Paulus libro 38 ad edictum
+
+pr. Tutor incertus dari non potest.
+
+1. Testamento quemlibet possumus tutorem dare, sive is praetor sive consul sit, quia lex duodecim tabularum id confirmat.
+
+26.2.21
+
+Paulus libro octavo brevium
+
+Testamento tutores hi dari possunt, cum quibus testamenti factio est.
+
+26.2.22
+
+Ulpianus libro 45 ad edictum
+
+Si quis tutorem dederit filio suo servum, quem putabat liberum esse, cum esset servus, is neque liber neque tutor erit.
+
+26.2.23
+
+Africanus libro octavo quaestionum
+
+pr. Tutor ita recte non datur: "Illi aut illi filiis meis, utri eorum volet, Titius tutor esto"; quid enim dicemus, si Titius constituere nolit, utri ex filiis tutor esse velit?
+
+1. Ita autem recte tutor dabitur: "Titius si volet illi filio meo tutor esto".
+
+26.2.24
+
+Iavolenus libro quinto ex Cassio
+
+Si plures tutores sint, a praetore curatorem posci litis causa supervacuum est, quia altero auctore cum altero agi potest.
+
+26.2.25
+
+Modestinus libro quarto pandectarum
+
+Duobus pupillis tutor datus etsi alterius tutela se excusare potest, cum res separatae sint, attamen alterius tutor manet.
+
+26.2.26
+
+Papinianus libro quarto responsorum
+
+pr. Iure nostro tutela communium liberorum matri testamento patris frustra mandatur, nec, si provinciae praeses imperitia lapsus patris voluntatem sequendam decreverit, successor eius sententiam, quam leges nostrae non admittunt, recte sequetur.
+
+1. Honoris causa tutor datus non videtur, quem pater a ceteris tutoribus, quibus negotia gerenda mandavit, rationes accipere voluit.
+
+2. Propter litem inofficiosi testamenti ordinandam exheredato filio, cui tutorem pater dedit, eundem a praetore confirmari oportet: eventus iudicatae rei declarabit, utrum ex testamento patris an ex decreto praetoris auctoritatem acceperit.
+
+26.2.27
+
+Tryphoninus libro 14 disputationum
+
+pr. Idem fiet, si intestatum decessisse patrem pupilli nomine defendatur falsumve testamentum nomine pupilli dicatur et si patruus exstet legitimus tutor futurus ab intestato, quia tutorem habenti tutor dari non potest. Nam commodius ipse, qui scriptura continetur, a praetore dabitur, ut sine ullo litis praeiudicio iustus tutor auctor pupillo ad eam litem fiat.
+
+1. Cum autem ipse patruus, quem tutorem legitimum sibi dicebat pupillus esse, subiectum filium criminaretur et ad se legitimam hereditatem pertinere contenderet, alium tutorem petendum Iulianus respondit.
+
+26.2.28
+
+Papinianus libro quarto responsorum
+
+pr. Qui tutelam testamento mandatam excusationis iure suscipere noluit, ab his quoque legatis summovendus erit, quae filiis eius relicta sunt, modo si legata filii non affectione propria, sed in honorem patris meruerunt.
+
+1. Verbis fidecommissi manumissus non iure tutor testamento datur: post libertatem itaque redditam ex voluntate testatoris ad tutelam vocatur.
+
+2. Impuberi liberto patronus frustra tutorem dabit, sed voluntatem eius, si fides inquisitionis congruat, praetor sequetur.
+
+26.2.29
+
+Papinianus libro 15 responsorum
+
+Ex sententia senatus consulti Liboniani tutor non erit, qui se testamento pupillo tutorem scripsit: cum autem patris voluntas hoc ipsum manu sua declarantis ambigua non esset, eum, quamvis alii tutores essent, curatorem dandum respondi, nec admittendam excusationem, quam iure publico habebat, quoniam promisisse videbatur, nec ut suspectum removeri.
+
+26.2.30
+
+Paulus libro sexto quaestionum
+
+Duo sunt Titii, pater et filius: datus est tutor Titius nec apparet, de quo sensit testator: quaero, quid sit iuris. Respondit: is datus est, quem dare se testator sensit: si id non apparet, non ius deficit, sed probatio, igitur neuter est tutor.
+
+26.2.31
+
+Scaevola libro quarto quaestionum
+
+Si pater exheredatae filiae tutores dederit et testamentum eius ruptum dicatur nato postumo, commodissimum est eosdem tutores pupillae dari ad petendam intestati hereditatem.
+
+26.2.32
+
+Paulus libro nono responsorum
+
+pr. Quaero, an non eiusdem civitatis cives testamento quis tutores dare possit? Paulus respondit posse.
+
+1. Idem Paulus respondit eum quoque, qui propter rerum notitiam tutor datus est, perinde in omnibus et administrationis et accessionis iure conveniri posse atque ceteros tutores, qui eodem testamento dati sunt.
+
+2. Lucius Titius heredes instituit filios suos pupillaris aetatis eisque tutores his verbis dedit: "Filiis meis tutores sunto Gaius Maevius et Lucius eros", cui eroti libertatem non dedit: fuit autem eros intra viginti quinque annos aetatis: quaero an possit libertatem sibi vindicare. Paulus respondit, quoniam placet eum, qui a domino tutor datus est, libertatem quoque meruisse videri, eum quoque de quo quaeritur in eadem causa habendum et liberum quidem ab adita hereditate esse, tutela autem post legitimam aetatem onerari.
+
+26.2.33
+
+Iavolenus libro octavo ex posterioribus Labeonis
+
+Tutoribus ita datis: "Lucium Titium tutorem do. Si is non vivit, tum Gaium Plautium tutorem do" Titius vixerat et tutelam gesserat, deinde mortuus erat. Trebatius negat ad Plautium pertinere tutelam, Labeo contra, Proculus quod Labeo. Ego Trebatii sententiam probo, quia illa verba ad mortis tempus referuntur.
+
+26.2.34
+
+Scaevola libro decimo digestorum
+
+Cum codicillis ideo alios tutores dare significasset, quoniam testamento datos quosdam defunctos aut excusationem habere posse comperisset, an nihilo minus qui eorum viverent nec excusati essent, tutores permanerent? Respondit nihil proponi, cur non permanerent.
+
+
+* 26.3.0. De confirmando tutore vel curatore.
+
+
+26.3.1
+
+Modestinus libro sexto excusationum
+
+pr. Hina myde peri twn bebaiwvynai dunamenwn epitropwn paraleiqwmen, braxea kai peri toutwn skeqwmeva. [id est: Ut non omittamus ne hoc quidem, qui tutores confirmari possint, breviter de iis quoque videamus.]
+
+1. Eisi tines ohi didomenoi orvws kata diavykas epitropoi, tout' esti kai huf' hwn exryn kai ohis exryn kai hon tropon exryn kai hopou exryn. patyr gar uhiois y ekgonois, ohus exei en ecousiai, orvws didwsin epitropon all' en diavyky. ean de y proswpon toiouton ho my dunatai dounai, ohion mytyr y patrwn y allotrios tis, y proswpon hw my dunatai dounai, ohion patyr uhiw tw my onti en ecousiai y vugatri, y ean eipy "parakalw epimelesvai twn pragmatwn", y en kwdikillois my bebaiwveisi dw epitropon y kouratora, tote to endeon anaplyrousvai ek tys tou hupatikou ecousias ahi diataceis sunexwrysan kai kata tyn gnwmyn bebaiousvai tous epitropous. [id est: Sunt qui recte [testamento] tutores dantur, scillicet et a quibus oportet et quibus oportet et quo modo oportet et ubi oportet. Pater enim filiis nepotibusve, quos in potestate habet, recte tutorem dat testamento. Sed si aut ea persona est, quae dare non potest, ut mater vel patronus vel extraneus quis: aut persona est, cui dari non potest, ut filio filiaeve qui non est in potestate: aut si dixerum: "rogo te rerum curam agas": aut in codocillis non confirmatis tutorem [vel curatorem] dem, tum quod deest ut suppleatur consularis potestate, constitutiones permiserunt et secundum voluntatem ut confirmentur tutores.]
+
+2. Kai ean men patyr y ho dedwkws, peraiterw ouden hws epi to pleiston polupragmonei ho hygoumenos, alla haplws auton bebaioi: ean de allos tis, tote polupragmonei, to proswpon ei estin epitydeion. [id est: Et si quidem pater est qui dederit, plerumque praeses non inquirit, sed datum simpliciter confirmat: si vero alius dedit, inquirere solet, an idoneus sit.]
+
+3. Eti eidenai dei hoti kouratwr kata diavykas oude hupo patros orvws didotai, alla doveis eiwve bebaiousvai hupo tou hygoumenou. [id est: Praeterea sciendum est curatorem testamento ne a patre quidem recte dari; sed si datur, solet confirmari a potestate.]
+
+26.3.2
+
+Neratius libro tertio regularum
+
+pr. Mulier liberis non recte testamento tutorem dat: sed si dederit, decreto praetoris vel proconsulis ex inquisitione confirmabitur nec satisdabit pupillo rem salvam fore.
+
+1. Sed et si curator a matre testamento datus sit filiis eius, decreto confirmatur ex inquisitione.
+
+26.3.3
+
+Iulianus libro 21 digestorum
+
+Qui a patre tutor scriptus est aut non iusto testamento aut non ut lege praecipiebatur, confirmandus est ad tutelam gerendam perinde ac si ex testamento tutor esset, id est ut satisdatio ei remittatur.
+
+26.3.4
+
+Paulus libro singulari de excusationum tutelarum.
+
+Si patronus vel quivis extraneus impuberi, quem heredem instituerit, tutorem dederit et extra ea nihil in bonis habeat pupillus, non male dicetur iudicium eius sequendum esse, qui et personam eius, quem tutorem esse voluerit, noverit et impuberem ita dilexit, ut eum heredem institueret.
+
+26.3.5
+
+Papinianus libro 11 quaestionum
+
+Tutores a patruo testamento datos iussit praetor magistratus confirmare: hi cautionem quoque accipere debuerunt nec voluntas eius, qui tutorem dare non potuit, neglegentiam magistratuum excusat. Denique praetor non ante decretum interponere potest quam per inquisitionem idoneis pronuntiatis. Unde sequitur, ut, si tutelae tempore solvendo non fuerunt, in id, quod de bonis eorum servari non possit, contra magistratus actio decernatur.
+
+26.3.6
+
+Papinianus libro quinto responsorum
+
+Si filio puberi pater tutorem aut impuberi curatorem dederit, citra inquisitionem praetor eos confirmare debebit.
+
+26.3.7
+
+Hermogenianus libro secundo iuris epitomarum
+
+pr. Naturali filio, cui nihil relictum est, tutor frustra datur a patre nec sine inquisitione confirmatur.
+
+1. Si quaeratur, an ex inquisitione recte datus sit tutor, quattuor haec consideranda sunt: an hic dederit qui dare potuit, et ille acceperit cui fuerat dandus, et is datur cuius dandi facultas erat, et pro tribunali decretum interpositum.
+
+26.3.8
+
+Tryphoninus libro 14 disputationum
+
+In confirmando tutore hoc praetor inquirere debet, an duraverit patris voluntas: quod in facili est, si proximo mortis tempore tutores non iure vel curatores scripserit pater. Nam si ante annos, ut spatio medio potuerit facultatium dati non iure tutoris a patre fieri deminutio, vel morum ante celata vel ignorata emersit improbitas, aut inimicitiae cum patre exarserunt,
+
+26.3.9
+
+Paulus libro singulari de cognitionibus
+
+Vel cum fisco aliquem contractum damnosum miscuissent,
+
+26.3.10
+
+Tryphoninus libro 14 disputationum
+
+utilitatem pupillorum praetor sequitur, non scripturam testamenti vel codicillorum. Nam patris voluntatem praetor ita accipere debet, si non fuit ignarus scilicet eorum, quae ipsa praetor de tutore comperta habet. Quid denique si postea de eo, quem pater testamento codicillisve non iure dedit, scripsit tutorem esse nolle? Nempe non sequitur primam voluntatem praetor, a qua pater discessit.
+
+26.3.11
+
+Scaevola libro 20 digestorum
+
+pr. Avia nepotibus curatorem dedit fideicommisso ei relicto: quaesitum est, an administrare curator compelli debeat. Respondit curatorem quidem non esse, sed cum aliquid ei testamento datum esset, teneri eum ex fideicommisso, si non curam susciperet, nisi id quod ei datum esset nollet petere aut reddere esset paratus.
+
+1. Item quaesitum est, an iste curator satisdare nepotibus debeat. Respondit quasi curatorem non debere, sed cum fideicommissum ab eo peti posset, fideicommissi nomine satisdare debere.
+
+
+* 26.4.0. De legitimis tutoribus.
+
+
+26.4.1
+
+Ulpianus libro 14 ad Sabinum
+
+pr. Legitimae tutelae lege duodecim tabularum adgnatis delatae sunt et consanguineis, item patronis, id est his qui ad legitimam hereditatem admitti possint: hoc summa providentia, ut qui sperarent hanc successionem, idem tuerentur bona, ne dilapidarentur.
+
+1. Interdum alibi est hereditas, alibi tutela, ut puta si sit consanguinea pupillo: nam hereditas quidem ad adgnatam pertinet, tutela autem ad adgnatum. Item in libertinis, si sit patrona et patroni filius: nam tutelam patroni filius, hereditatem patrona optinebit: tantundemque erit et si sit patroni filia et nepos.
+
+2. Si apud hostes sit frater, inferioris gradus adgnato tutela non defertur: nam et si patronus apud hostes sit, patroni filio tutela non defertur: sed interim a praetore datur.
+
+3. Interdum autem etiam sine hereditate tutela defertur, interdum hereditas sine tutela, ut puta in eo qui latitavit, cum servum suum rogatus esset manumittere: nam generaliter divus Pius rescripsit Aurelio Basso ius patroni eum non habere, his verbis: "Plane tergiversatio eorum, qui subvertere fideicommissam libertatem velint, eo modo puniatur, ne ius patroni adquirant in eo, quem liberum esse nolunt". Idem erit, si filiae adsignatus libertus sit: tutela quidem apud fratres remanebit, ut Marcellus notat, legitima autem hereditas ad sororem pertinebit.
+
+26.4.2
+
+Ulpianus libro 37 ad Sabinum
+
+Legitimam tutelam capitis deminutione pupilli etiam ea, quae salva civitate contingit, amitti nulla dubitatio est.
+
+26.4.3
+
+Ulpianus libro 38 ad Sabinum
+
+pr. Tutela legitima, quae patronis defertur e lege duodecim tabularum, non quidem specialiter vel nominatim delata est, sed per consequentias hereditatium, quae ex ipsa lege patronis datae sunt.
+
+1. Ergo manumissor ex lege duodecim tabularum tutor est, sive sponte manumisit sive etiam compulsus ex causa fideicommissi manumisit.
+
+2. Sed et si hac lege emit, ut manumitteret, et ex constitutione divi Marci ad Aufidium Victorinum pervenit ad libertatem, dicendum est tutorem esse.
+
+3. Plane si forte Rubriano senatus consulto pervenerit ad libertatem, non habebit tutorem eum qui rogatus est, sed Orcinus libertus effectus ad familiam testatoris pertinebit. In qua specie incipit tutela ad liberos patroni primos pertinere, quae ad patronos non pertinuit: quod quidem in omnibus Orcinis libertis locum habet testamento manumissis.
+
+4. Si duo pluresve manumittant, omnes tutores sunt: sed si mulier sit inter manumissores, dicendum est solos masculos fore tutores.
+
+5. Sed si aliquis ex patronis decesserit, tutela penes ceteros patronos est, quamvis ille filium reliquerit. Sed et si ab hostibus fuerit captus, interim soli compatroni tutores sunt. Simili modo et si in servitutem redactus sit, apparet ceteros esse tutores.
+
+6. Sed si omnes patroni decesserint, tunc tutela ad liberos eorum incipit pertinere.
+
+7. Proinde si alter ex patronis filium, alter nepotem reliquerit, utrum ad solum filium an vero et ad nepotem tutela pertineat, quia et nepos in familia patris sui proximus est? Hoc apparebit ex legitimis hereditatibus: legitima autem hereditas ad solum filium pertinet. Ergo et tutela ad solum filium descendit, post filium tunc ad nepotem.
+
+8. Quaeri potest, si patroni filius sit remotus vel excusatus, an nepoti tutela deferatur. Et Marcellus in ea sententia est, ut succedi non posse scribat: idcirco enim abierunt tutela, ut alii in locum eorum dentur, non ut successio admittatur.
+
+9. Non tantum autem morte, verum etiam capitis deminutione successio debet in legitima tutela admitti: quare si proximior capite deminutus est, qui post eum est succedit in tutelae administratione.
+
+10. Si parens filium vel filiam vel nepotem vel neptem vel deinceps impuberes, quos in potestate habeat, emancipet, vicem legitimi tutoris sustinet:
+
+26.4.4
+
+Modestinus libro quarto differentiarum
+
+Quo defuncto si liberi perfectae aetatis exsistant, fiduciarii tutores fratris vel sororis efficiuntur.
+
+26.4.5
+
+Ulpianus libro 35 ad edictum
+
+pr. Legitimos tutores nemo dat, sed lex duodecim tabularum fecit tutores.
+
+1. Sed etiam hos cogi satisdare certum est, in tantum ut etiam patronum et patroni filium ceterosque liberos eius cogi rem salvam fore satisdare plerisque videatur. Sed hoc causa cognita praetorem statuere debere melius est, utrum debeat satisdare patronus liberique eius an non, ut, si persona honesta sit, remittatur ei satisdatio et maxime, si substantia modica sit: si autem patroni persona vulgaris vel minus honesta sit, ibi dicendum est satisdationem locum habere: ut aut modus tutelae aut persona aut causa admittat satisdationem.
+
+2. In legitimis et in his, qui a magistratibus dantur, quaesitum est, an uni decerni tutela possit. et ait Labeo et uni recte tutelam decerni: posse enim aliquos vel absentes vel furiosos esse: quae sententia utilitatis gratia admittenda est, ut uni decernatur administratio.
+
+3. An ergo et provocare se invicem secundum superiorem clausulam possint? Et magis est, ut, si omnes satis non dederint vel si finita est satisdatio (nonnumquam enim satisdatio ab eis non petitur, aut satis desinit esse cautum, aut magistratus municipales ab his quos dederint aut non potuerunt aut noluerunt satis exigere), posse dici etiam in his, quo casu cautum non est, admittendam provocationem.
+
+4. An ergo et in patronis idem sit dicendum, maxime ubi cessat satisdatio? Et puto in patronis non oportere admitti provocationem nisi ex magna causa, ne quis spem successionis deminuat: nam si patrono tutela non fuerit commissa, poterit per compatronum damno adfici, qui solus rem pupilli male administrat.
+
+5. Si legitimus tutor capite minutus sit, dicendum est desinere eum esse tutorem et locum esse iudicio tutelae finita tutela.
+
+26.4.6
+
+Paulus libro 38 ad edictum
+
+Intestato parente mortuo adgnatis defertur tutela. Intestatus autem videtur non tantum is qui testamentum non fecit, sed et is qui testamento liberis suis tutores non dedit: quantum enim ad tutelam pertinet, intestatus est. Idem dicemus, si tutor testamento datus adhuc filio impubere manente decesserit: nam tutela eius ad adgnatum revertitur.
+
+26.4.7
+
+Gaius libro primo institutionum
+
+Sunt autem adgnati, qui per virilis sexus personas cognatione iuncti sunt, quasi a patre cognati, veluti frater eodem patre natus, fratris filius neposve ex eo, item patruus et patrui filius neposve ex eo.
+
+26.4.8
+
+Paulus libro 38 ad edictum
+
+Si reliquero filium impuberem et fratrem et nepotem ex alio filio, constat utrosque esse tutores, si perfectae aetatis sunt, quia eodem gradu sunt.
+
+26.4.9
+
+Gaius libro 12 ad edictum provinciale
+
+Si plures sunt adgnati, proximus tutelam nanciscitur et, si eodem gradu plures sint, omnes tutelam nanciscuntur.
+
+26.4.10
+
+Hermogenianus libro secundo iuris epitomarum
+
+pr. Adgnato propior femina, quo minus sit impuberis adgnati tutor, non obicitur, ideoque patruus sororem consanguineam habentis fratris filii legitimus erit tutor, nec amita patruo magno vel matertera fratris filiis ne sint tutores obstat.
+
+1. Surdus et mutus nec legitimi tutores esse possunt, cum nec testamento nec alio modo utiliter dari possint.
+
+26.4.11
+
+Paulus libro 16 ad Plautium
+
+Minus autem audiens potest.
+
+
+* 26.5.0. De tutoribus et curatoribus datis ab his qui ius dandi habent, et qui et in quibus causis specialiter dari possunt.
+
+
+26.5.1
+
+Ulpianus libro 39 ad Sabinum
+
+pr. Sive proconsul sive praeses sive etiam praefectus Aegypti sive proconsulatum optineat provinciae vel temporis causa praeside defuncto vel quia ipsi provincia regenda commissa est, tutorem dare poterit.
+
+1. Legatus quoque proconsulis ex oratione divi Marci tutorem dare potest.
+
+2. Quod autem permittitur tutorem dare provinciae praesidi, eis tantum permittitur, qui [cui] sunt eiusdem provinciae vel ibidem domicilium habent.
+
+26.5.2
+
+Ulpianus libro 35 ad edictum
+
+Cum quidam tutores dati appellassent, quidam autem non adessent, divus pius rescripsit dandum temporarium tutorem, qui tutela fungatur.
+
+26.5.3
+
+Ulpianus libro 36 ad edictum
+
+Ius dandi tutores datum est omnibus magistratibus municipalibus eoque iure utimur, sed illum, qui ab eodem municipio vel agro eiusdem municipii est.
+
+26.5.4
+
+Ulpianus libro nono ad legem Iuliam et Papiam
+
+Praetor ipse se tutorem dare non potest, sicut nec pedaneus iudex nec compromissarius ex sua sententia fieri potest.
+
+26.5.5
+
+Gaius libro 12 ad edictum provinciale
+
+Illud semper constitit praesidem posse tutorem dare tam absentem quam praesentem et tam praesenti quam absenti.
+
+26.5.6
+
+Ulpianus libro octavo de omnibus tribunalibus
+
+Nec non ignoranti et invito.
+
+26.5.7
+
+Ulpianus libro primo de omnibus tribunalibus
+
+Non tantum ad dotem dandam nupturae curatorem dari oportet, verum etiam ei quoque, quae iam nupta est. Sed et ad dotem augendam datur et mutandae quoque dotis gratia curator dari potest.
+
+26.5.8
+
+Ulpianus libro octavo de omnibus tribunalibus
+
+pr. Nec mandante praeside alius tutorem dare poterit.
+
+1. Si praetor vel praeses provinciae in furore aut dementia constitutus dederit tutorem, non puto valere: quamvis enim praetor vel praeses sit nec furor ei magistratum abroget, attamen datio nullius erit momenti.
+
+2. Dari tutor omni die poterit.
+
+3. Furioso et furiosae et muto et surdo tutor vel curator a praetore vel praeside dari poterit.
+
+26.5.9
+
+Marcianus libro nono institutionum
+
+Impuberi ad hereditatem adeundam ut tutor detur, ex causa permissum est.
+
+26.5.10
+
+Marcianus libro quinto regularum
+
+Tutor si petitus fuerit habenti, sed absente eo quasi non habenti datus sit, datio nulla est: nam et quoquo modo in petitione tutoris si erratum fuerit in facti causa, maxime post constitutionem divorum fratrum non valet tutoris datio.
+
+26.5.11
+
+Celsus libro 11 digestorum
+
+Curator pupillo vel pupillae non datur, si tutor eorum afuerit.
+
+26.5.12
+
+Ulpianus libro tertio de officio proconsulis
+
+pr. His qui in ea causa sunt, ut superesse rebus suis non possint, dare curatorem proconsulem oportebit.
+
+1. Nec dubitabit filium quoque patri curatorem dare: quamvis enim contra sit apud Celsum et apud alios plerosque relatum, quasi indecorum sit patrem a filio regi, attamen divus Pius instio celeri, item divi fratres rescripserunt filium, si sobrie vivat, patri curatorem dandum magis quam extraneum.
+
+2. Divus Pius matris querellam de filiis prodigis admisit, ut curatorem accipiant, in haec verba: "Non est novum quosdam, etsi mentis suae videbuntur ex sermonibus compotes esse, tamen sic tractare bona ad se pertinentia, ut, nisi subveniatur is, deducantur in egestatem. Eligendus itaque erit, qui eos consilio regat: nam aequum est prospicere nos etiam eis, qui quod ad bona ipsorum pertinet, furiosum faciunt exitum".
+
+26.5.13
+
+Papinianus libro 11 quaestionum
+
+pr. Si impuberi libertas et hereditas per fideicommissum data sit et institutus adire nolit, senatus censuit eum, si impuberis nomine desideretur, adire cogendum, ut tamen pupillo pupillae tutor ab eo, cui ius dandi erit, detur, qui tutelam retineat, quoad restituatur hereditas et rem salvam fore ab herede caveatur. Postea divus Hadrianus, ut idem in eo servetur, cui directa libertas data fuerit, rescripsit.
+
+1. Quamvis autem a patrono rem salvam pupillo fore non facile cautio exigatur, tamen senatus pro extraneo haberi voluit eum, qui, quod in ipso fuit, etiam libertate privavit impuberem: et ius quidem liberti, quod habet, quia ex causa fideicommissi manumittit, non est ei ablatum, tutela vero sine vinculo cautionis non committitur. Quid ergo si non caveat? Non dubie tutela non erit apud patronum.
+
+2. Sed si puella duodecimum annum impleverit, tutor desinit esse: quoniam tamen minoribus annorum desiderantibus curatores dari solent, si curator patronus petatur, fides inquisitionis pro vinculo cedet cautionis.
+
+26.5.14
+
+Papinianus libro 12 quaestionum
+
+Libertus non aliis patroni patronaeve liberis tutor esse cogitur, quam qui iura patronatus sperare possunt.
+
+26.5.15
+
+Paulus libro secundo ad edictum
+
+In omnem rem curator dandus est in eius tutoris locum, qui rei publicae causa afuit:
+
+26.5.16
+
+Paulus libro 73 ad edictum
+
+Nec ille desinit tutor esse. Quod et in omnibus, qui ad tempus excusantur, iuris est.
+
+26.5.17
+
+Ulpianus libro nono ad edictum
+
+Ei, qui de statu suo litigat, tutorem dari posse Pomponius scribit et verum est, ut ita demum teneat datio, si liber est.
+
+26.5.18
+
+Ulpianus libro 61 ad edictum
+
+In dando tutore ex inquisitione et in eum inquiritur, qui senator est: et ita Severus rescripsit.
+
+26.5.19
+
+Paulus libro 16 ad Plautium
+
+pr. Ubi absunt hi, qui tutores dare possunt, decuriones iubentur dare tutores, dummodo maior pars conveniat: ubi non est dubium, quin unum ex se dare possint.
+
+1. Magistratus municipalis collegam suum quin dare tutorem possit, non est dubium.
+
+26.5.20
+
+Modestinus libro septimo differentiarum
+
+pr. Ventri tutor a magistratibus populi Romani dari non potest, curator potest: nam de curatore constituendo edicto comprehensum est.
+
+1. Curatorem habenti quo minus alius curator detur, regula iuris non est impedimento.
+
+26.5.21
+
+Modestinus libro primo excusationum
+
+pr. Eidenai dei tous arxontas, hoti kouratoras afylici gunaikas ou xeirotonysousin. [id est: Scire oportet magistratus curatores minoribus mulieres non dari.]
+
+1. Ean mytyr epi tauty ty ahiresei graqy uhious klyronomous ean apoluvwsi tys tou patros ecousias, apoluventwn toutwn kai dia touto klyronomysantwn autos ho patyr kouratwr xeirotonyvynai ou dunatai, kan boulytai, hina my ally hodw touto hoper ouk yboulyvy hy diavemeny genytai. kai touto ohutws hupo tou veiou sebyrou nenomovetytai. [id est: Si mater sub hac condicione filios heredes scribat, si emancipati fuerint a patre, emancipatis iis et ita heredibus factis ipse pater curator dari non potest, etiamsi velit, ne alia via id fiat quod testatrix fieri noluit. Et ita constitutum est a divo Severo.]
+
+2. Alla kan tis apo gonewn kwluvy epitropeuein, touton oute xheirotoneisvai prosykei: kan xeirotonyveis my paraitysytai, kwluesvai auton epitropeuein menousys tys epitimias. [id est: Sed si quis a parentibus tutor esse prohibetur, hunc nec dari tutorem oportet, et datus etsi se non excuset, a tutela prohibetur existimatione salva.]
+
+3. Tous en presbeiai ontas my xeirotoneitwsan epitropous y kouratoras ohi arxontes, epeidyper par' hon xronon presbeuousin, ho kindunos autois ou diaferei. [id est: Qui in legatione sunt, eos tutores aut curatores magistratus ne danto, nam quamdiu in legatione sunt, periculum ad eos non pertinet.]
+
+4. Ean eparxiakon anvrwpon presbeuonta ho en Hrwmy arxwn dw epitropon, afevysetai. [id est: Si ex provincia hominem qui Romae magistratu fungitur tutorem det, excusabitur.]
+
+5. Pros tois loipois dikaiois dei ton arxonta kai tous tropous twn mellontwn xeirotonyvysesvai skopein: oute gar ousia oute aciwma ohutws hikanon pros pistin, hws agavy proairesis kai xrystoi tropoi. [id est: Praeter reliqua respicere: neque enim tam facultas dignitasve faciunt ad fidem habendam quam bona indolem et probi mores.]
+
+6. Dia pantos de malista touto paratyreitwsan ohi arxontes my xeirotonein tous boulomenous epirriptein ehautous, hina xeirotonyvwsi, kai argurion didontas: toutous gar kai kolasei hupeuvunous einai nenomovetytai. [id est: Omnino autem hoc vel maxime magistratus animadvertant, ne dent qui studeant ingerere se ut creentur et pecuniam ob id dent: nam hos poenae quoque obnoxios esse constitutum est.]
+
+26.5.22
+
+Modestinus libro quinto excusationum
+
+Kai ohi my bouleutai bouleutwn paisi xeirotonountai epitropoi, hwsper kai bouleutai tois my ek bouleutwn. [id est: Etiam qui non sunt decuriones, decurionum liberis tutores dantur, ut etiam decuriones liberis eorum qui non sunt decuriones.]
+
+26.5.23
+
+Modestinus libro quarto pandectarum
+
+Simul plures tutores dari possunt.
+
+26.5.24
+
+Paulus libro nono responsorum
+
+"Divi Marcus et Verus Cornelio Proculo. Si quando desint in civitate, ex qua pupilli oriundi sunt, qui idonei videantur esse tutores, officium sit magistratuum inquirere ex vicinis civitatibus honestissimum quemque et nomina praesidi provinciae mittere, non ipsos arbitrium dandi sibi vindicare".
+
+26.5.25
+
+Paulus libro decimo responsorum
+
+Curatorem impuberi datum quacumque ex causa perseverare in diem pubertatis in eadem cura respondi: ergo post pubertatem alium curatorem sibi petere debebit.
+
+26.5.26
+
+Scaevola libro secundo responsorum
+
+Seiae egressae annos duodecim decreto praetoris ex inquisitione datus est tutor quasi minori: quaero an excusare se deberet. Respondi secundum ea quae proponerentur neque excusationem necessariam esse neque obligari quod non gereret.
+
+26.5.27
+
+Hermogenianus libro secundo iuris epitomarum
+
+pr. Pupillo, qui tam Romae quam in provincia facultates habet, rerum quae sunt Romae praetor, provincialium praeses tutorem dare potest.
+
+1. Libertino tutores liberti dandi sunt: sed et si ingenuus detur nec se excusaverit, tutor perseverabit.
+
+26.5.28
+
+Paulus libro secundo decretorum
+
+Romanius appulus ab iudice appellaverat dicens se non debuisse dari in tutela collegam ei, quem ipse, cum magistratus esset, nominasset suo periculo, ne in una tutela duplex periculum sustineret. Decrevit imperator posse quem et fideiussorem pro tutore esse et nihilo minus tutorem dari: itaque detentus est in tutela.
+
+26.5.29
+
+Paulus libro singulari de cognitionibus
+
+Si peregre agant qui tutores vel curatores dati sunt, ut intra diem trigesimum notum his a magistratibus fiat, divus Marcus rescripsit.
+
+
+* 26.6.0. Qui petant tutores vel curatores et ubi petantur.
+
+
+26.6.1
+
+Modestinus libro septimo differentiarum
+
+Matris sollicitudo in petendis filio tutoribus, non etiam curatoribus observatur, nisi quo casu impuberi curator petendus est.
+
+26.6.2
+
+Modestinus libro primo excusationum
+
+pr. Ean ohi afylikes my exwsi tous ek twn nomwn kydemonas, ean men epitropwn dewntai dia tyn hylikian, dunantai aitysai autois epitropous katastavynai ohi te suggeneis kai ohi kat' epigamian [epigamin] oikeioi gonewn arrenwn te kai vyleiwn: dunantai kai filoi twn gonewn kai trofeis autwn twn paidwn touto aitysai. [id est: Si minores non habeant qui ex legibus curam eorum agant, si quidem tutorum indigeant propter aetatem, tutores ut iis constituantur petere possunt, cognati et affines tam paterni quam materni possunt, etiam amici parentum ipsorum puerorum educatores hoc petere.]
+
+1. Hoi men oun alloi ek proairesews aitousin epitropous: eisi de tines ohis epanagkes estin aitein epitropous, ohion mytyr kai apeleuveroi: ek toutwn gar ahi men zymiountai, ohi de kai kolazontai, ean my aityswsi tous ek twn nomwn kydemonas. Hy men gar mytyr ecelaunetai tys tou paidos nomimou klyronomias, hws ousa anacia labein klyron nomimon, my frontisasa autw katastavynai epitropon. Kai ou monon ean my aitysy, alla kai, hon an aitysy, hosias xarin aitysy ton afevynai dunamenon, eita afeventos autou y kai apoblyventos allon my aitysy palin, y ecepitydes kakous aitysy. apeleuveroi de ek toutwn twn aitiwn katygoryventes epi tou hygoumenou kolazontai epistrefws, ean fainwntai y di' ameleian y dia kakian my ytykotes. [id est: Et reliqui ex voluntate tutores petunt: sunt autem quidam quibus necesse est tutores petere, ut mater et liberti: ex his enim illa multatur, hi vero etiam castigantur, nisi petant, qui curam eorum secundum leges agant. Mater enim arcetur a filii legitima hereditate, utpote indigna quae ex lege heres fiat, si neglegat tutorem ei constitui: et non solum si non petat, sed etiam si, cum petat, dicis causa petat excusatione liberandum, deinde dimisso eo vel etiam reiecto alium rursus non petat, vel si data opera malos petat. Liberti autem propter has causas accusati apud praesidem graviter puniuntur, si appareat eos aut neglegentia sua aut etiam mala fraude non petivisse.]
+
+2. Ta de peri tys mytros proeirymena dyloutai en epistoly Sebyrou, hys ta hrymata hupotetaktai. [id est: De matre vero quae diximus, intelleguntur ex epistula Severi, cuius verba subiecimus.] "Divus Severus Cuspio Rufino. Omnem me rationem adhibere subveniendis pupillis, cum ad curam publicam pertineat, liquere omnibus volo. Et ideo quae mater vel non petierit tutores idoneos filiis suis vel prioribus excusatis reiectisve non confestim aliorum nomina dederit, ius non habeat vindicandorum sibi bonorum intestatorum filiorum".
+
+3. Ean mentoi tis y daneistys y legatarios y allyn anagkaian exy pros ton orfanon sustasin, autos men ouk aitysei epitropon tw orfanw, alla tous aitein dunamenous aciwsei aitysai, y ean ohutoi apoknyswsi, tote proselvwn tw hygoumenw auto touto erei, hina katastaventos epitropou nomimou he pros ton orfanon genytai sustasis. [id est: Si vero quis vel creditor vel legatarius sit vel aliam necessariam cum pupillo habeat controversiam, ipse quidem non petet tutorem pupillo, sed qui petere possunt ut petant roget, vel si hi defugiant, tum praesidem adeat et id ipsum dicat, ut constituto tutore controversia cum pupillo finiatur.]
+
+4. Tauta men peri epitropwn: kouratoras de heautois aitysousin ohi afylikes, ean men parwsi, di' heautwn: ean de apodymy tis autwn, aitysei dia frontistou. [id est: Haec de tutoribus. Curatores autem sibi ipsi minores petunt, si quidem adsunt, per se ipsos, si vero eorum quis peregre sit, petet per procuratorem.]
+
+5. Ei de allos aitysai kouratora dunatai tw afyliki, ezytyvy. Kai oulpianos ho kratistos ohutws grafei, hws deon allon autw my aitein, alla auton heautw, [id est: An alius curatorem minori petere possit, quaesitum est. Et scribut praestantissimus Ulpianus alium ei petere non debere, sed sibi ipsum.] et apud Paulum libro nono responsorum ita relatum est curatorem ignorante nec mandante pupilla non recte ei a tutore petitum videri periculumque eorum, quae curator non iure datus gessit, non sine ratione eum qui petit cogendum agnoscere. Et alia parte eiusdem libri ita respondit, si matris iudicium princeps secutus curatores filiae eius dedit, periculum administrationis eorum eam respicere debere.
+
+6. Ohi hopwsoun afeventes di' excusationos tys epitropys anagkyn ouk exousin aitein tois orfanois epitropon, hws fysi Sebyrou kai Antwninou diatacis. [id est: Qui quocumque modo per excusationem tutela liberati sunt, necesse non habent pupillis tutorem petere, ut ait Severi et Antonini constitutio.]
+
+26.6.3
+
+Paulus libro decimo responsorum
+
+Decreto decurionum et ipsum magistratum curatorem dari potuisse respondi.
+
+26.6.4
+
+Tryphoninus libro 13 disputationum
+
+pr. Credendum est et eam matrem constitutione contineri, quae a patre non legitime tutores testamento vel codicillis datos filiis impuberibus non postulavit decreto confirmari.
+
+1. Sin autem idoneis datis tutoribus pluribus unus eorum vel decessit vel temporalem excusationem accepit, mater, quae propterea in loco illius alium non petit, quia numerus reliquorum administrationi tutelae sufficiebat, incidit quidem in verba constitutionis, sed sententia excusatur.
+
+2. Sed si suspecto tutore pupilli accusato decretum erit ei adiungi alios, mater eos quoque petere debet et, si non petit, incidet in sententiam constitutionis.
+
+3. Haec autem mater ab omni quidem bonorum vindicatione intestatorum filiorum repellitur. Si vero maritus ei fideicommissum a filio reliquerit, cui mulier non petit tutorem, "si sine liberis decesserit", vel sub hac ipsa condicione "si intestatus mortuus erit", fideicommissi petitio, quae ex alieno iudicio descendit, non est perempta.
+
+4. Quae autem suspectum tutorem non fecit, nec verbis nec sententia constitutionis in poenam incidit, quod eiusmodi facta diiudicare et aestimare virilis animi est et potest etiam delicta ignorare mater, satisque est eam petisse talem, qui inquisitione per praetorem habita idoneus apparuit. Et ideo nec iudicium eius sufficit ad eligendos tutores, sed inquisitio fit, etiamsi maxime in bona propria liberis suis testamento tutores dederit.
+
+
+* 26.7.0. De administratione et periculo tutorum et curatorum qui gesserint vel non et de agentibus vel conveniendis uno vel pluribus.
+
+
+26.7.1
+
+Ulpianus libro 35 ad edictum
+
+pr. Gerere atque administrare tutelam extra ordinem tutor cogi solet.
+
+1. Ex quo scit se tutorem datum si cesset tutor, suo periculo cessat: id enim a divo Marco constitutum est, ut, qui scit se tutorem datum nec excusationem si quam habet allegat intra tempora praestituta, suo periculo cesset.
+
+2. Sufficit tutoribus ad plenam defensionem, sive ipsi iudicium suscipiant sive pupillus ipsis auctoribus, nec cogendi sunt tutores cavere, ut defensores solent. Licentia igitur erit, utrum malint ipsi suscipere iudicium an pupillum exhibere, ut ipsis auctoribus iudicium suscipiatur: ita tamen, ut pro his, qui fari non possunt vel absint, ipsi tutores iudicium suscipiant, pro his autem, qui supra septimum annum aetatis sunt et praesto fuerint, auctoritatem praestent.
+
+3. In causis autem adultorum licentia erit agentibus vel ipsum adultum praesentem in iudicium vocare, ut consensu curatoris conveniatur, vel contra curatorem agere, ut ipse litem suscipiat. In absentibus autem adultis omnimodo contra curatorem agendum.
+
+4. Non denegari autem neque tutoribus neque curatoribus etiam debitores pupillorum vel adultorum ex persona sua prospectu officii in iudicium vocare vel eis hoc facientibus suum accommodare consensum.
+
+26.7.2
+
+Ulpianus libro nono ad edictum
+
+pr. Si tutor condemnavit sive ipse condemnatus est, pupillo et in pupillum potius actio iudicati datur et maxime, si non se liti optulit, sed cum non posset vel propter absentiam pupilli vel propter infantiam auctor ei esse ad accipiendum iudicium. Et hoc etiam divus Pius rescripsit et exinde multis rescriptis declaratum est in pupillum dandam actionem iudicati semper tutore condemnato, nisi abstineatur: tunc enim nec in tutorem nec in pupillum. Nec pignora tutoris capienda esse saepe rescriptum est.
+
+1. Amplius Marcellus libro vicesimo primo digestorum scribit et si satisdedit tutor, mox abstinuit pupillus, fideiussoribus quoque eius debere subveniri: sed et si pupillus non abstinuit, quemadmodum ipsi, ita et fideiussoribus eius subveniri, maxime si pro absente pupillo vel pro infante satisdedit.
+
+26.7.3
+
+Ulpianus libro 35 ad edictum
+
+pr. Si plures curatores dati sunt, Pomponius libro sexagesimo octavo ad edictum scripsit ratum haberi debere etiam quod per unum gestum est: nam et in furiosi curatoribus, ne utilitates furiosi impediantur, praetor uni eorum curationem decernet ratumque habebit, quod per eum sine dolo malo gestum est.
+
+1. Si parens vel pater qui in potestate habet destinaverit testamento, quis tutorum tutelam gerat, illum debere gerere praetor putavit, meritoque parentis statur voluntati, qui utique recte filio prospexit. Tantundem praetor facit et de his, quos parens destinavit testamento, ipse autem confirmavit, ut, si parens declaravit, quem velit tutelam administrare, ille solus administret.
+
+2. Ceteri igitur tutores non administrabunt, sed erunt hi, quos vulgo honorarios appellamus. Nec quisquam putet ad hos periculum nullum redundare: constat enim hos quoque, excussis prius facultatibus eius qui gesserit, conveniri oportere: dati sunt enim quasi observatores actus eius et custodes, imputabiturque eis quandoque, cur, si male eum conversari videbant, suspectum eum non fecerunt. Adsidue igitur et rationem ab eo exigere eos oportet et sollicite curare, qualiter conversetur, et si pecunia sit, quae deponi possit, curare, ut deponatur ad praediorum comparationem: blandiuntur enim sibi, qui putant honorarios tutores omnino non teneri: tenentur enim secundum ea quae supra ostendimus.
+
+3. Quamvis autem ei potissimum se tutelam commissurum praetor dicat, cui testator delegavit, attamen nonnumquam ab hoc recedet, ut puta si pater minus penso consilio hoc fecit, forte minor viginti quinque annis, vel eo tempore fecit, quo iste tutor bonae vitae vel frugi videbatur, deinde postea idem coepit male conversari ignorante testatore, vel si contemplatione facultatium eius res ei commissa est, quibus postea exutus est.
+
+4. Nam et si unum pater dederit tutorem, nonnumquam ei adiunguntur curatores: nam imperator noster cum patre rescripsit, cum duos quis libertos suos tutores dedisset, unum rerum Italicarum, alium rerum Africanarum, curatores eis adiungendos, nec patris secuti sunt voluntatem.
+
+5. Quod in tutoribus scriptum est, et in curatoribus erit observandum, quos pater testamento destinavit a praetore confirmandos.
+
+6. Apparet igitur praetori curae fuisse, ne tutela per plures administretur, quippe etsi pater non destinaverit quis gerere debeat, attamen id agit, ut per unum administretur: sane enim facilius unus tutor et actiones exercet et excipit.
+
+7. Ne per multos tutela spargatur, si non erit a testatore electus tutor aut gerere nolet, tum is gerat, cui maior pars tutorum tutelam decreverit: praetor igitur iubebit eos convocari aut, si non coibunt aut coacti non decernent, causa cognita ipse statuet, quis tutelam geret.
+
+8. Plane si non consentiant tutores praetori, sed velint omnes gerere, quia fidem non habeant electo nec patiuntur succedanei esse alieni periculi, dicendum est praetorem permittere eis omnibus gerere.
+
+9. Item si dividi inter se tutelam velint tutores, audiendi sunt, ut distribuatur inter eos administratio.
+
+26.7.4
+
+Ulpianus libro nono ad edictum
+
+Vel in partes vel in regiones, et si ita fuerit divisa, unusquisque exceptione summovebitur pro ea parte vel regione, quam non administrat.
+
+26.7.5
+
+Ulpianus libro 35 ad edictum
+
+pr. Ita autem depositioni pecuniarum locus est, si ea summa corradi, id est colligi possit, ut comparari ager possit: si enim tam exiguam esse tutelam facile probatur, ut ex nummo refecto praedium puero comparari non possit, depositio cessat. Quae ergo tutelae quantitas depositionem inducat, videamus. Et cum causa depositionis exprimatur, ut praedia pupillis comparentur, manifestum est, ut ad minimas summas non videatur pertinere: quibus modus praefiniri generaliter non potest, cum facilius causa cognita per singulos possit examinari. Nec tamen auferenda facultas est etiam minores summas interdum deponi postulare, si suspecti tutores esse videantur.
+
+1. Gessisse autem videtur tutor, qui quid omnino pupillare attigit etiamsi modicum, cessantque partes eorum, qui solent cessantes cogere administrare.
+
+2. Quod si posteaquam gessit, tunc se gestu abstinuit, etiam suspecti postulatio succedit.
+
+3. Quod si quis tutelam mandaverit gerendam gestaque fuerit ab eo cui mandatum est, locus erit tutelae actioni: videtur enim gessisse qui per alium gessit. Quod si non accessit is cui mandatum est, utili actioni convenitur.
+
+4. Debitor patris, qui tutelam administravit filii, tutealae iudicio tenebitur etiam ob id quod patri debuit.
+
+5. Si tutor pupillum suum puberem factum non admonuerit, ut sibi curatores peteret (sacris enim constitutionibus hoc facere iubetur qui tutelam administravit), an tutelae iudicio teneatur? Et magis puto sufficere tutelae iudicium, quasi conexum sit hoc tutelae officio, quamvis post pubertatem admittatur.
+
+6. Post completum vicesimum quintum annum aetatis si nondum rationes redditae sunt nec ad causam instrumenta pertinentia, fidei ac verecundiae curatorum convenit, ut consilio suo coeptam litem perficiant. Si igitur cessent in his quae constituta sunt faciendis, magis puto sufficere negotiorum gestorum iudicium etiam si iam actum est, si tamen huius rei ratio reddita non est.
+
+7. Iulianus libro vicesimo primo digestorum huiusmodi speciem proponit: quidam decedens filiis suis dederat tutores et adiecerat: "Eosque aneclogistos esse volo". Et ait Iulianus tutores, nisi bonam fidem in administratione praestiterint, damnari debere, quamvis testamento comprehensum sit, ut aneclogisti essent: nec eo nomine ex causa fideicommissi quicquam consequi debebunt, ut ait Iulianus, et est vera ista sententia: nemo enim ius publicum remittere potest huiusmodi cautionibus nec mutare formam antiquitus constitutam. Damnum vero, quodcumque ex tutela quis senserit, et legari et per fideicommissum ei relinqui potest.
+
+8. Papinianus libro quinto responsorum ita scribit: pater tutelam filiorum consilio matris geri mandavit et eo nomine tutores liberavit. Non idcirco minus officium tutorum integrum erit, sed viris bonis conveniet salubre consilium matris admittere, tametsi neque liberatio tutoris neque voluntas patris aut intercessio matris tutoris officium infringat.
+
+9. Usque adeo autem licet tutoribus patris praeceptum neglegere, ut, si pater caverit, ne quid rei suae distraheretur vel ne mancipia distrahantur vel ne vestis vel ne domus vel ne aliae res periculo subiectae, liceat eis contemnere hanc patris voluntatem.
+
+10. Ex quo innotuit tutori se tutorem esse, scire debet periculum tutelae ad eum pertinere. Innotescere autem qualiterqualiter sufficit, non utique testato eum conveniri: nam etsi citra testationem, scilicet undecumque cognovit, nulla dubitatio est, quin debeat periculum ad ipsum respicere.
+
+26.7.6
+
+Ulpianus libro 36 ad edictum
+
+Hoc autem, quod cognovit tutor, pupillus probare debebit.
+
+26.7.7
+
+Ulpianus libro 35 ad edictum
+
+pr. Tutor, qui repertorium non fecit, quod vulgo inventarium appellatur, dolo fecisse videtur, nisi forte aliqua necessaria et iustissima causa allegari possit, cur id factum non sit. Si quis igitur dolo inventarium non fecerit, in ea condicione est, ut teneatur in id quod pupilli interest, quod ex iureiurando in litem aestimatur. Nihil itaque gerere ante inventarium factum eum oportet, nisi id quod dilationem nec modicam exspectare possit.
+
+1. Si tutor cessaverit in distractione earum rerum quae tempore depereunt, suum periculum facit: debuit enim confestim officio suo fungi. Quid si contutores exspectabat vel differentes vel etiam volententes se excusare, an ei ignoscatur? Et non facile ignoscetur: debuit enim partibus suis fungi non quidem praecipiti festinatione, sed nec moratoria cunctatione.
+
+2. Competet adversus tutores tutelae actio, si male contraxerint, hoc est si praedia comparaverint non idonea per sordes aut gratiam. Quid ergo si neque sordide neque gratiose, sed non bonam condicionem elegerint? Recte quis dixerit solam latam neclegentiam eos praestare in hac parte debere.
+
+3. Si post depositionem pecuniae comparare praedia tutores neglexerunt, incipient in usuras conveniri: quamquam enim a praetore cogi eos oportet ad comparandum, tamen, si cessent, etiam usuris plectendi sunt tarditatis gratia, nisi si per eos factum non est quo minus compararent.
+
+4. Pecuniae, quam in usus suos converterunt tutores, legitimas usuras praestant, sed hoc ita demum, si evidenter doceantur pecuniam in usus suos convertisse: ceterum non utique qui non faeneravit vel non deposuit, in suos usus vertit, et ita divus Severus decrevit. Doceri igitur debet in usus suos pecuniam vertisse.
+
+5. Vertisse in suos usus non accipimus eum, qui debitor patris pupilli fuit, deinde ipse sibi non solvit: hic enim eas usuras praestabit, quas patri promiserat.
+
+6. Si tutor pecuniam pupillarem suo nomine faeneravit, ita demum cogetur usuras quas percepit praestare, si suscipiat pupillus ceterorum nominum periculum.
+
+7. Si deponi oporteat pecunias ad praediorum comparationem, si quidem factum est, usurae non current: sin vero factum non est, si quidem nec praeceptum est, ut deponantur, pupillares praestabuntur, si praeceptum est et neglectum, de modo usurarum videndum est. Et solent praetores comminari, ut, si non fiat depositio vel quanto tardius fiat, legitimae usurae praestentur: si igitur comminatio intercessit, iudex qui quandoque cognoscet decretum praetoris sequetur.
+
+8. Idem solent facere praetores etiam circa eos tutores, qui negant habere ad alendos pupillos penes se aliquid, ut quidquid constiterit penes eos esse, eius gravissima usura pendatur: et hoc persequi oportere iudicem palam est cum et alia poenae adiectione.
+
+9. Residuarum autem summarum pupillares usuras pendi oportet.
+
+10. Quae autem sunt pupillares usurae, videndum est. Et apparet hanc esse formam usurarum, ut eius quidem pecuniae, quam quis in usus suos convertit, legitimam usuram praestet. Sed et si negavit apud se esse pecuniam et praetor pronuntiavit contra eum, legitimas solvere debebit, vel si moram depositioni fecit et praetor irrogavit ei legitimas. Sed et si, dum negat aliquam quantitatem penes se esse, pupillis ad onera sua expedienda imposuit necessitatem mutuam pecuniam legitimis usuris accipiendi, tenebitur in legitimis. Item si a debitoribus legitimas exegit. Ex ceteris causis secundum morem provinciae praestabit usuras aut quincunces aut trientes aut si quae aliae leviores in provincia frequentantur.
+
+11. Usurae a tutoribus non statim exiguntur, sed interiecto tempore ad exigendum et ad collocandum duum mensum, idque in iudicio tutelae servari solet: quod spatium seu laxamentum temporis tribui non oportet his, qui nummos impuberum vel adulescentium in suos usus converterunt.
+
+12. Si usuras exactas tutor vel curator usibus suis retinuerint, earum usuras agnoscere eos oportet: sane enim parvi refert, utrum sortem pupillarem an usuras in usus suos converterint.
+
+13. Pecuniae, quae in arca fuit, etiam heredes curatoris tamdiu usuras praestabunt, quamdiu non interpellaverint, ut loco defuncti curator constituatur.
+
+14. Si tutor pro contutore condemnetur, an etiam in usuras condemnandus sit, quaeritur. Et placet, ut multis rescriptis continetur et Papinianus libro duodecimo quaestionum ait, etiam in usuras eum condemnandum, si suspectum facere supersedit, et quidem eas demum usuras cogendum praestare, quas etiam suae administrationis cogitur.
+
+15. Sciendum est tutorem et post officium finitum usuras debere in diem, quo tutelam restituit.
+
+26.7.8
+
+Ulpianus libro 23 ad edictum
+
+Si tutelae agat is, cuius tutela administrata est, dicendum est nonnumquam diem creditae pecuniae exspectandam, si forte tutor pecunias crediderit pupilli nomine, quarum exigendarum dies nondum venit. Sane quod ad pecunias attinet, ita demum verum est, si potuit et debuit credere: ceterum si non debet credere, non exspectabitur.
+
+26.7.9
+
+Ulpianus libro 36 ad edictum
+
+pr. Quotiens tutor pecuniam pupillarem faenori dat, stipulatio hoc ordine facienda est. Stipulari enim debet aut pupillus aut servus pupilli: quod si neque pupillus eius aetatis erit, ut stipulari possit, neque servum habebit, tunc ipse tutor quive in eius potestate erit, quo casu Iulianus saepissime scripsit utilem actionem pupillo dandam. Sed et si absens sit pupillus, oportere tutorem suo nomine stipulari nequaquam ambigendum est.
+
+1. Si pater familias eum, pro quo fideiussit, tutorem dederit filio suo, officio tutoris convenit, ut, cum dies pecuniae praeterierit, creditori debitum solvat: et ideo cessante eo si pupillus suae tutelae factus solverit ex causa fideiussoria, non solum mandati, sed etiam tutelae agere poterit: hoc enim ei imputatur, cur pro se non solverit. Quod si in diem debitor fuit iste tutor, quibusdam videtur non venire in tutelae iudicium, si modo is dies post tutelam finitam supervenit: quod si dies adhuc durante tutela venit, putant omnimodo devolvi in tutelae iudicium. Ego et hoc et superius ita verum puto, si facultatibus labi tutor coepit: ceterum si idoneus tutor fuit, nihil venire in tutelae iudicio. Nec quisquam putet nullum effectum hoc habere: namque si quis dixerit in tutelae iudicium devolvi, et privilegio locus est et fideiussores tenebuntur, si rem salvam fore cautum est.
+
+2. Item si temporali actione fuit obligatus tutor, dicendum est locum esse tutelae iudicio, ut perpetua actio sit.
+
+3. Et generaliter quod adversus alium praestare debuit pupillo suo, id adversus se quoque praestare debet, fortassis et plus: adversus alios enim experiri sine actione non potuit, adversus se potuit.
+
+4. Sed si sub usuris gravioribus patri pupilli pecuniam debuit quam sint pupillares, videndum est, an ei aliquid imputetur. Et si quidem solvit, nihil est quod ei imputetur: potuit enim solvere nec onerare se usuris: si vero non solvit, usuras cogendus est agnoscere, quas a se exigere debuit.
+
+5. Sicut autem solvere tutor quod debet, ita et exigere quod sibi debetur potest, si creditor fuit patris pupilli: nam et sibi solvere potest, si modo fuit pecunia unde solvat, et si usurae fuerunt graviores quae ei debebantur, relevabitur eis pupillus, quia tutor se potuit liberare, sicut aliis quoque solvere et potuit et debuit.
+
+6. Nec utique necesse habet, si conveniatur, per iudicem solvere, idcircoque si mala causa pupillaris est, denuntiare sibi verum debet. Denique imperator Antoninus cum patre etiam honoraria eos imputare pupillo prohibuit, si supervacaneam litem instituissent, cum convenirentur a vero creditore: nec enim prohibentur tutores bonam fidem agnoscere.
+
+7. Non tantum autem sibi solvere tutor, verum etiam sibi creditam pecuniam scribere potest, ut Marcellus libro octavo digestorum scripsit, seque mutua pecunia poterit obligare sibi mutuam proscribendo.
+
+8. Constat eum, qui ad augmentum datur, ut puta ad bona materna quae postea accesserunt vel ad quid aliud augmentum, administrare bona pristina non solere. Si autem suspectum facere priorem tutorem supersedit vel satis ab eo exigere, plectetur.
+
+9. Per contrarium autem qui datus est simpliciter tutor pupillo vel curator, si quid postea augmenti accesserit, periculo tenetur, quamvis soleat ad augmentum dari curator: quae res non facit, ut ipsa augmenta non pertineant ad curam priorum, ad quos omnis utilitas pupillorum debet pertinere. Sive igitur datus est, communicatur periculum cum prioribus, sive datus non est, tenetur administrationis necessitate is qui antea erat datus.
+
+26.7.10
+
+Ulpianus libro 49 ad edictum
+
+Generaliter quotienscumque non fit nomine pupilli quod quivis pater familias idoneus facit, non videtur defendi: sive igitur solutionem sive iudicium sive stipulationem detrectat, defendi non videtur.
+
+26.7.11
+
+Ulpianus libro 33 ad edictum
+
+Circa pupillum, cuius tutor servus erat pronuntiatus, divus Pius rescripsit in rebus, quas ex pecunia pupilli servus comparaverat, dominum non posse uti praerogativa deductionis. Quod et in curatore observandum est.
+
+26.7.12
+
+Paulus libro 38 ad edictum
+
+pr. Cum plures tutelam gerunt, nulli eorum in contutorem actio pupilli nomine datur.
+
+1. Quae bona fide a tutore gesta sunt, rata habentur etiam ex rescriptis Traiani et Hadriani: et ideo pupillus rem a tutore legitime distractam vindicare non potest: nam et inutile est pupillis, si administratio eorum non servatur, nemine scilicet emente. Nec interest, tutor solvendo fuerit nec ne, cum, si bona fide res gesta sit, servanda sit, si mala fide, alienatio non valet.
+
+2. Nimium est licere tutori respectu existimationis pupilli erogare ex bonis eius, quod ex suis non honestissime fuisset erogaturus.
+
+3. Cum tutor non rebus dumtaxat, sed etiam moribus pupilli praeponatur, imprimis mercedes praeceptoribus, non quas minimas poterit, sed pro facultate patrimonii, pro dignitate natalium constituet, alimenta servis libertisque, nonnumquam etiam exteris, si hoc pupillo expediet, praestabit, sollemnia munera parentibus cognatisque mittet. Sed non dabit dotem sorori alio patre natae, etiamsi aliter ea nubere non potuit: nam etsi honeste, ex liberalitate tamen fit, quae servanda arbitrio pupilli est.
+
+4. Si tutor pecuniam pupillarem credere non potuit, quod non erat cui crederet, pupillo vacabit.
+
+26.7.13
+
+Gaius libro 12 ad edictum provinciale
+
+pr. Tutor secundum dignitatem facultatesque pupilli modum servorum aestimare debet, qui circa eum futuri sunt.
+
+1. Non est audiendus tutor, cum dicat ideo cessasse pupillarem pecuniam, quod idonea nomina non inveniret, si arguatur eo tempore suam pecuniam bene collocasse.
+
+2. In solvendis legatis et fideicommissis attendere debet tutor, ne cui non debitum solvat, nec nuptiale munus matri pupilli vel sorori mittere. Aliud est, si matri forte aut sorori pupilli tutor ea quae ad victum necessaria sunt praestiterit, cum semet ipsa sustinere non possit: nam ratum id habendum est: nec enim eadem causa est eius, quod in eam rem impenditur et quod muneris legatorumve nomine erogatur.
+
+26.7.14
+
+Paulus libro octavo brevium
+
+Etiam contutoris factum imputatur collegae, si potuit et debuit suspectum facere: interdum et si debuit satis petere: nam si idoneus subito lapsus est, nihil collegae imputari potest.
+
+26.7.15
+
+Paulus libro secundo sententiarum
+
+Si tutor constitutus quos invenerit debitores non convenerit ac per hoc minus idonei efficiantur, vel intra sex primos menses pupillares pecunias non collocaverit, ipse in debitam pecuniam et in usuras eius pecuniae quam non faeneravit convenitur.
+
+26.7.16
+
+Paulus libro sexto ad Sabinum
+
+Cum quaeritur iudicio tutelae, quae nomina a tutore facta agnoscere pupillus debeat, Marcellus putabat, si tutor pecuniam pupilli mutuam dedisset et suo nomine stipulatus esset, posse dici nomina integra pupillo salva esse, deperdita et male contracta ad tutorem pertinere. Sed verius se putare posse tutorem eam condicionem adulescenti deferre, ut id quod gessisset tutor in contrahendis nominibus aut in totum agnoscere aut a toto recedere, ita ut perinde esset ac si tutor sibi negotium gessisset. Idem est et si pupilli nomine credidisset.
+
+26.7.17
+
+Pomponius libro 17 ad Sabinum
+
+Qui iussus est ab eo, qui ius iubendi habet, tutelam gerere, si cessasset, ex quo iussus est indemnem pupillum praestare debebit, non ex quo tutor esse coepit.
+
+26.7.18
+
+Iulianus libro 21 digestorum
+
+pr. Qui tutor negotia pupilli gessit, quamvis in nulla re auctor pupillo fuerit, quin tutelae iudicio teneatur, dubitari non oportet: quid enim prohibet ita patrimonium pupilli compositum esse, ut nihil gerere necesse sit, in quo tutoris auctoritas interponi debeat?
+
+1. Ex duobus tutoribus si cum altero actum fuerit, alter non liberabitur.
+
+26.7.19
+
+Ulpianus libro primo responsorum
+
+Actus sui rationem concuratori reddere non esse compellendum: sed nisi cum eo administrationem communicet aut si non ex fide curam gerat, suspectum postulari posse.
+
+26.7.20
+
+Ulpianus libro quinto de officio proconsulis
+
+Tutor vel curator, cuius iniusta appellatio pronuntiata erit cuiusve excusatio recepta non sit, ex quo accedere ad administrationem debuit erit obligatus.
+
+26.7.21
+
+Marcellus libro singulari responsorum
+
+Lucius Titius Gaium Seium filium familias testamento filio suo tutorem dedit: Gaius Seius sciente et consentiente patre tutelam administravit: quaero, an defuncto Gaio Seio actio tutelae adversus patrem eius et in quantum competat. Marcellus respondit secundum ea quae proposita essent actione de peculio et de in rem verso patrem teneri: nec multum videri in hoc casu facere patris scientiam et consensum ad obligandum eum in solidum, nisi forte contutore vel alio quo volente eum facere suspectum intercessit et quasi in se periculum recepit.
+
+26.7.22
+
+Paulus libro tertio ad edictum
+
+Tutor ad utilitatem pupilli et novare et rem in iudicium deducere potest: donationes autem ab eo factae pupillo non nocent.
+
+26.7.23
+
+Ulpianus libro nono ad edictum
+
+Vulgo observatur, ne tutor caveat ratam rem pupillum habiturum, quia rem in iudicium deducit. Quid tamen si dubitetur, an tutor sit vel an duret tutor vel an gestus illi commissus sit? Aequum est adversarium non decipi. Idem et in curatore est, ut Iulianus scripsit.
+
+26.7.24
+
+Paulus libro nono ad edictum
+
+pr. Decreto praetoris actor constitui periculo tutoris solet, quotiensque aut diffusa negotia sint aut dignitas vel aetas aut valetudo tutoris id postulet: si tamen nondum fari pupillus potest, ut procuratorem facere possit, aut absens sit, tunc actor necessario constituendus est.
+
+1. Si duobus simul tutela gerenda permissa est vel a parente vel a contutoribus vel a magistratibus, benigne accipiendum est etiam uni agere permissum, quia duo simul agere non possunt.
+
+26.7.25
+
+Ulpianus libro 13 ad edictum
+
+Si minoris actum fuerit cum tutoribus adsistentibus curatoribus et pupillus ob hoc egerit cum curatoribus et ei sint condemnati in id quod sua intererat minoris tutores culpa eorum condemnatos non esse: an restitutio adversus tutores cesset? Et Papinianus responsorum libro secundo ait nihilo minus posse restitui et idcirco curatores, si nondum iudicatum fecerunt, posse provocantes per exceptionem doli consequi, ut eis mandentur adversus tutores actiones. Quid tamen si iam fecerunt iudicatum curatores? Proderit hoc tutoribus, quoniam nihil minori abest, qui de praeda magis quam de damno sollicitus est, nisi forte mandare actiones paratus sit curatoribus.
+
+26.7.26
+
+Paulus libro 24 ad edictum
+
+Cum curatore et pro tutore etiam manente administratione agi potest.
+
+26.7.27
+
+Paulus libro septimo ad Plautium
+
+Tutor, qui tutelam gerit, quantum ad providentiam pupillarem domini loco haberi debet.
+
+26.7.28
+
+Marcellus libro octavo digestorum
+
+pr. Tutor pro pupillo in iudicium vocatus sollemniter cavit: si inter moras puer ad pubertatem pervenit, non est cogendus accipere iudicium.
+
+1. Tutor, qui post pubertatem pupilli negotiorum eius administratione abstinuit, usuras praestare non debet ex quo optulit pecuniam: quin etiam iustius mihi videtur eum per quem non stetit, quo minus conventus restitueret tutelam, ad praestationem usurarum non compelli. Ulpianus notat: non sufficit optulisse, nisi et deposuit obsignatam tuto in loco,
+
+26.7.29
+
+Marcellus libro octavo digestorum
+
+Maximeque heredem tutoris: nam periniquum est eum, cui forte post viginti annos vel amplius in mentem venit tutelam reposcere, etiam usuras postulare.
+
+26.7.30
+
+Marcellus libro 21 digestorum
+
+Tutoris praecipuum est officium, ne indefensum pupillum relinquat.
+
+26.7.31
+
+Modestinus libro primo excusationum
+
+Divi Severus et Antoninus Augusti Sergio Iuliano. "Forma, qua singuli tutores, prout quisque gessit tutelam, nonnunquam in solidum tenentur, dumtaxat intra pubertatis tempora locum habet, non etiam si post pubertatem administraverint".
+
+26.7.32
+
+Modestinus libro sexto responsorum
+
+pr. Sine herede tutor decessit: quaero, an curator pupillo datus, cum neque inventaria neque alia instrumenta a fideiussore tutoris exhibeantur, possit eundem fideiussorem convenire ex stipulatione, quanti pupilli interest. Modestinus respondit in id quod tutor conveniri potuit, fideiussorem quoque conveniri posse.
+
+1. Modestinus respondit damnum si quod accidit eo, quia cautiones soluti vectigalis inventae non sunt, ad tutorem, cuius nulla culpa admissa proponitur, minime pertinere.
+
+2. Modestinus respondit tutorem eorum redituum nomine rationem pupillae reddere debere, qui ex fundo bona fide percipi potuerunt.
+
+3. Item respondit, si minus a servo tutor percepit, quam bona fide ex fundo percipi potuit, ex eo, de quo pupillae sit obstrictus, quantum ex peculio servi servari possit, eidem tutori proficere debere, scilicet si non perdituro servo administrationem credidit.
+
+4. Interposito curatore adulescens fundum Titio vendidit: postea [posteo] adgnita fraude in integrum restitutus in possessionem induci iussus est: quaero, an, cum ex hac venditione melior factus non est neque in rem suam quicquam versum probetur, pretium emptori restituere non debeat. Modestinus respondit pretium fundi ab adulescente venumdati, si rationibus eius non profuit nec quicquam de eo a iudicante de in integrum restitutione statutum est, emptorem frustra postulare.
+
+5. Item respondit sumptibus voluptatis causa ab emptore factis adulescentem onerandum non esse: qui tamen ab eodem aedificio ita auferri possunt, ut in facie pristina, id est quae fuit ante venditionem, aedificium esse possit, emptori auferre permitti oportere.
+
+6. Lucius Titius coheres et curator sororis suae, cum esset ex civitate, in qua usitatum erat ipsos dominos praediorum, non conductores onera annonarum et contributionum temporariarum sustinere, morem hunc et consuetudinem semper observatam secutus et ipse pro communi et individua hereditate annonas praestitit: quaero, an in rationibus dandis opponi curatori possit, quia non recte pro parte sororis tales impensas fecerat. Modestinus respondit in id demum curatorem adultae reputare ex causa de qua quaeritur posse, quod ipsa, si rem suam administraret, erogare compelleretur.
+
+7. Tutores duo post venditionem pupillarium rerum factam pecuniam inter se diviserant, post quam divisionem alter eorum in exilium datus est durante tutela: quaerebatur, an actore constituto contutor eius partem pupillaris pecuniae petere ab eo poterit. Modestinus respondit: si hoc quaeritur, an contutore relegato contutor eius tutelae actionem exercere possit, non posse respondi.
+
+26.7.33
+
+Callistratus libro quarto de cognitionibus
+
+pr. A tutoribus et curatoribus pupillorum eadem diligentia exigenda est circa administrationem rerum pupillarium, quam pater familias rebus suis ex bona fide praebere debet.
+
+1. Officium tutorum curatoribus constitutis finem accipit ideoque omnia negotia, quae inita sunt, ad fidem curatorum pertinent: idque etiam divus Marcus cum filio suo Commodo rescripsit.
+
+2. Heredibus quoque pupillorum electio eadem adversus tutores, in quo potissimum consistere velint, competit, quae ipsis quorum tutela administrata sit, principalibus constitutionibus declaratur.
+
+3. Sumptuum, qui bona fide in tutelam, non qui in ipsos tutores fiunt, ratio haberi solet, nisi ab eo qui eum dat certum solacium ei constitutum est.
+
+26.7.34
+
+Aquila libro responsorum
+
+Respondit ad instruendam diligentiam iudicantis et pupillorum utilitatem admittendam servos quoque eorum interrogari posse.
+
+26.7.35
+
+Papinianus libro secundo quaestionum
+
+Tutor sive curator nomina, quae iuste putat non esse idonea, a priore tutore vel curatore suscipere quidem cogitur, non tamen exactionem periculo suo facere.
+
+26.7.36
+
+Papinianus libro tertio quaestionum
+
+Inter tutores divisa tutela est: aequitas, quae merum ius compensationis inducit, propter officium et personam agentis tutoris non differtur: nam divisio tutelae, quae non iuris, sed iurisdictionis est, modum administrationi facit et inter ipsos locum habet nec experiri cum pupillo volentibus obstare debet.
+
+26.7.37
+
+Papinianus libro 11 quaestionum
+
+pr. Tutorem, qui tutelam gerit, Sabinus et Cassius, prout gerit, in singulas res per tempora velut ex pluribus causis obligari putaverunt.
+
+1. Secundum quam sententiam servus institor dominicae mercis vel praepositus debitis exigendis si liber factus in eodem actu perseveret, quamvis tempore servitutis obligari non potuerit, praeteriti temporis nomine actione negotiorum gestorum non inutiliter convenietur, earum scilicet rerum, quae conexam rationem cum his, quae postea gesta sunt, habuerunt: sic enim et tutelae iudicium earum quoque rerum causa tenere placuit, quae post pubertatem administrantur, si posterior actus priori cohaereat neque divisus propriam rationem habet.
+
+2. Inde descendit quaestio, quae volgo circa filium familias tractata est, qui tutor testamento datus post tutelam gestam emancipatus in eodem officio perseveravit. Et secundum Sabini et Cassii sententiam eveniet, ut de eo quidem, quod post emancipationem gestum est, in solidum conveniri possit, de praeterito autem, sive peculium non sit ademptum sive ademptum sit, in id quod facere possit. Quod si superioris temporis nomine patrem de peculio pupillus convenire maluerit (annus enim utilis ex quo tutela agi posse coepit computabitur): ne capiatur pater inducta totius temporis causa, tempus, quo filius familias tutelam gessit, comprehendendum erit.
+
+26.7.38
+
+Papinianus libro 12 quaestionum
+
+pr. Si plures tutelam non administraverint et omnes solvendo sint, utrum, quia nullae partes administrationis inveniuntur, electioni locus erit an ut eiusdem pecuniae debitores excipere debebunt periculi societatem? Quod magis ratio suadet.
+
+1. Si quidam ex his idonei non sint, onerabuntur sine dubio ceteri, nec inique, cum singulorum contumacia pupillo damnum in solidum dederit.
+
+2. Unde quaerendum est, an actiones pupillus ei, qui solus convenitur, in alterum pro parte scilicet praestare debeat. Sed cum propria cuiusque contumacia puniatur, qua fronte poterit hoc desiderari?
+
+26.7.39
+
+Papinianus libro quinto responsorum
+
+pr. Tutores, qui post finem tutelae per errorem officii durantes rerum administrationem retinuerunt, nominum paternorum periculum, quae post pubertatem adulescentis idonea fuerunt, praestare cogendi non erunt, cum actionem inferre non potuerunt.
+
+1. Curator a patre testamento datus impuberis negotiis se per errorem immiscuit: postea a praetore tutoribus aliis datis periculum futuri temporis ille, qui postea nihil gessit, non praestabit.
+
+2. Qui se negotiis impuberis non iure tutor datus secundum patris voluntatem immiscuit, errore comperto tutorem a praetore constitui consultius petet, ne forte, si rem coeptam deseruerit, fraudis vel culpae causa condemnetur. Non idem servatur, si quis ultro negotium alienum gesserit, cum satis abundeque sufficiat vel in una specie per amici laborem domino consuli.
+
+3. Heres institutus, qui non habuit substitutum, priusquam hereditatem adiret, quam impuberi restituere debuit, vita decessit: cum hereditas in Italia esset, scriptus autem heres in provincia vita decessisset, tutores provincialium rerum culpae nomine condemnandos existimavi, si causam testamenti non ignorantes utilitatem impuberis deseruerunt: nam hereditatis in provincia fideicommisso restituto causam quidem iuris expediri potuisse, rerum autem administrationem ad eos recidere debuisse, qui tutelam in italia suscepissententiarum
+
+4. Adversus tutorem, qui pupillum hereditate patris abstinuit, actionem denegari non oportet creditori, qui cum ipso tutore contraxit, quamvis tutor pecuniam in rem impuberis verteret.
+
+5. Curatores adulescentis mutui periculi gratia cautionem invicem sibi praebuerunt et in eam rem pignora dederunt: cum officio deposito solvendo fuissent, irritam cautionem esse factam et pignoris vinculum solutum apparuit.
+
+6. Tutor datus adversus ipsam creationem provocavit: heres eius postea victus praeteriti temporis periculum praestabit, quia non videtur levis culpa contra iuris auctoritatem mandatum tutelae officium detrectare.
+
+7. Rerum provincialium tutores in urbe causas appellationis impuberum agentes, rerum Italicarum curatores ut impuberibus constituantur, ad officium suum revocare debent: alioquin si prius in provinciam redierint, dolum aut culpam eorum in ea quoque parte recte iudex conveniet.
+
+8. Patruus testamento fratris filio tutor datus cum in Italia domicilium haberet, tam Italicarum rerum quam provincialium administrationem suscepit atque ita pecuniam ex venditionibus Romae refectam in provinciam traiecit et in calendarium pupilli convertit: tutor in locum eius romae substitutus administrationem pecuniae, quae non pertinet ad tutelam suam, suscipere non cogitur.
+
+9. Curatores testamento vel tutores inutiliter dati neque decreto praetoris confirmati negotia gesserunt. Vice mutua periculum praestare coguntur, cum officium sponte citra iuris adminiculum iniverint et qui fuit idoneus, decretum praetoris curatores vel tutores constituentis implorare debuerit.
+
+10. Tutoribus idoneis diem functis vice mutua periculum ad heredes eorum non redundat, quod non habuit locum officio tutelae manente.
+
+11. In eum, qui tutelam gerere noluit, post ceteros qui gesserunt actionem utilem tutelae dari placuit. Quod tamen ex tutela non pervenit ad eos, qui se negotiis miscuerunt, sed communi neglegentia perit, citra substitutionis ordinem aequaliter omnium periculum spectat.
+
+12. Tutores pubere pupillo constituto litem appellationis inchoatam iussu consulum ob notitiam rei perfecerunt: cum iudicatum persequi non potuerunt, periculo culpae non subiciuntur.
+
+13. Ab eo, qui restitutionis auxilio non iuvatur, quaestio culpae tutorum conventione remitti potest, nec donatum, sed transactum videtur.
+
+14. Neglegentiae tutorum periculo nominum, quae pater usuris maioribus fecit, adscripto pupilla quidem actionem calendarii praestare cogitur, exactas autem usuras tutelae tempore citra ullam compensationem retinet.
+
+15. Adulescens tutoribus conventis, a quibus totum servari non potuit, adversus curatores, qui tutelam ad se neglegentia non transtulerunt, integram actionem retinet: neque enim tutelae iudicio consumptum videtur, quod alterius officii querellam habuit.
+
+16. Tutor, qui tutoris idoneum heredem convenire pupilli nomine noluit, damni vicarius substituitur, ut is, qui non idoneum tutelae tempore suspectum facere supersedit.
+
+17. Tutelae iudicium ideo differri non oportet, quod fratris et coheredis impuberis idem tutelam sustineat.
+
+18. Quod de peculio servi actoris, quem adulescens postquam res suas administrare coepit manumisit, retinuit aut retinere potuit, in ratione reddenda curatori per iudicem accepto feretur.
+
+26.7.40
+
+Papinianus libro sexto responsorum
+
+Impuberi filio centurio curatorem dedit. Decreto praetoris non secuto si nihil curator datus administret, periculo contumaciae vel neglegentiae non adstringetur: nam privilegium militum ad alienam iniuriam porrigi non oportet nec in aliis circa supremam voluntatem imperitiae venia datur quam in bonis militum, filii vero tutela iure patriae potestatis, non militiae praemio mandatur.
+
+26.7.41
+
+Papinianus libro septimo responsorum
+
+Qui plures tutores habuit, unum, qui solvendo non fuit, rationem actus sui vetuit reddere. Quoniam eius liberatio, quod ex tutela percepit aut dolo contraxit, non est relicta, contutores, qui suspectum facere neglexerunt, ex culpa recte conveniuntur: tutor enim legatarius ex culpa, quae testamento remissa est, non tenetur.
+
+26.7.42
+
+Papinianus libro primo definitionum
+
+Ex pluribus tutoribus in solidum unum tutorem iudex condemnavit. In rem suam iudicatus procurator datus privilegium pupilli non habebit, quod nec heredi pupilli datur: non enim causae, sed personae succurritur, quae meruit praecipuum favorem.
+
+26.7.43
+
+Paulus libro septimo quaestionum
+
+pr. Cum post mortem pupilli desinit esse nomen idoneum, tutor periculo eximitur.
+
+1. Qui, cum esset fratris sui filiae curator, quadringenta dotis nomine marito eius se daturum promisit: quaero, an succurrendum sit ei, cum postea aere alieno emergente supra vires patrimonii eius dos promissa sit, quoniam in instrumento ita scriptum sit "ille patruus et curator stipulanti spopondit". Movet quaestionem, quod non ut de suo dotem daret, sed cum crederet rationem pupillarem sufficere, promisit. Praeterea et illud hic potest tractari, ut, si sciens curator non sufficere promiserit, vel donasse videatur vel, quoniam dolo fecit, non illi succurratur. Respondi: curator cum officium suum egressus sponte se obligaverit, non puto ei a praetore subveniri debere, non magis quam si creditori puellae pecuniam se daturum spopondisset: sed is de quo tractamus si non donandi animo, sed negotii gerendi causa dotem promisit, habet mulierem obligatam et poterit dici etiam manente matrimonio eam teneri (quia habet dotem sic ut in collatione bonorum dicitur) vel certe post divortium (sive exacta sit dos sive maneat nomen), quia potest efficere, ut ei accepto feratur. Quod si mulier suum curatorem adimplere id, quod supra vires patrimonii eius in dotem dare promisit, non queat, curatorem quidem in hoc, quod superfluum est, per exceptionem relevari: mulier vero cautionem in maritum exponere debet, quod, si quandoque locupletior constante matrimonio facta fuerit, dotis reliquum marito servat.
+
+26.7.44
+
+Paulus libro 13 quaestionum
+
+pr. Qui nominibus a curatoribus prioribus susceptis sive tutoribus nomina adgnoverunt, periculum in se transferunt.
+
+1. Sed si pupillus post pubertatem rationibus a tutore acceptis reliquationem eius secutus usuras acceptaverit, privilegium suum non amittit in bonis tutoris venditis: praetor enim privilegium ei servare debet.
+
+26.7.45
+
+Paulus libro 14 quaestionum
+
+Si pupillus alterum ex tutoribus post pubertatem liberasset, improbe alterum illius nomine conabitur interpellare. Idemque dicemus in duobus magistratibus collegis, quorum alterum res publica convenit. Sed haec in magistratibus tractavi, quasi duo rei eiusdem debiti essent omnimodo: quod non ita est. Nam si uterque idoneus est, electio locum non habet: is autem, qui tempore liberatus est, non ei similis est qui nihil habet, sed ei qui satisfecit: habet enim quod obiciat petitori.
+
+26.7.46
+
+Paulus libro nono responsorum
+
+pr. Lucius Titius curator Gaii Seii tempore curae fundum Cornelianum locavit Sempronio, qui Sempronius reliqua traxit: pupillus aetate probata eundem quondam colonum Sempronium fecit procuratorem: quaero, an ex eo, quod ille ut procurator egit, omne debitum adulescens agnovisse videatur eoque nomine curatorem suum liberasset. Paulus respondit non ex eo, quod adultus eum, qui praedia eius coluit, procuratorem habere voluit, debitum, quod ex conductione reliquatus est, adgnovisse eum videri.
+
+1. Sempronii, qui ex pollicitatione debitor patriae suae exstiterat, bona res publica iussu praesidis possedit: quorum bonorum magistratus rei publicae tres curatores constituerunt, qui apud Graecos epimelytai vocantur, qui postea inter se sine consensu rei publicae administrationem bonorum Sempronii diviserunt: ex quibus quidam, cum reliqua traherent, idonei in ipso tempore administrationis esse desierunt: postea pupillus heres Sempronii, qui abstentus erat, ab imperatore impetravit, ut bona paterna ei restituerentur: quaero, an ex bonis eorum, qui idonei sunt, indemnitati pupilli prospici debeat, cum individuum his officium curae a magistratibus iniunctum sit. Paulus respondit, si pupillo in curatores bonorum actiones decerni placuerit, pro eius portione, qui idoneus non sit, magistratus conveniri oportere: alia enim causa est tutorum, alia eorum, qui rei publicae negotia administrant.
+
+2. Tutorem, qui pecuniam pupillarem quamvis suo nomine faeneravit, non videri contra constitutiones fecisse, quae prohibent pecuniam pupillarem in usus suos convertere.
+
+3. Quaesitum est, an eius pecuniae, qua tutor usus est, post finitam quoque tutelam in diem iudicii accepti easdem usuras praestare debeat. Paulus respondit finita administratione eas usuras debere computari, quae in tutelae iudicio computantur.
+
+4. Paulus respondit propter ea, quae post pubertatem nulla necessitate cogente, sed ex voluntate sua tutor administravit, fideiussorem, qui salvam rem fore cavit, non teneri.
+
+5. Tutelae iudicio tutor conventus edidit librum rationum et secundum eum condemnatus solvit: postea cum a debitoribus paternis, quorum nomina libro rationum non inerant, exigere vellet pupillus, prolatae sunt ab his apochae tutoris: quaesitum est, utrum adversus tutorem an adversus debitores actio ei competat. Paulus respondit, si tempore administrandae tutelae tutori tutelam gerenti debitores solvissent, liberatos eos ipso iure a pupillo: sed si cum tutore actum esset, posse eundem adulescentem propter eam causam tutelae experiri et adversus exceptionem rei iudicatae doli mali uti replicatione.
+
+6. Cum testamento duo tutores dati essent pupillo et alter ex his vita defunctus fuisset, in locum eius petente matre ex praesidis provinciae praecepto a magistratibus alius tutor datus est, a quo magistratus satis exegerunt rem salvam fore: tutor testamento datus postea datum suspectum fecit: quaesitum est, in quantum teneatur. Paulus respondit tutorem testamento datum pro ea parte conveniri oportere, pro qua parte administravit: pro contutoris autem portione prius eos conveniri debere, qui pro eo se obligaverunt vel magistratus qui eum dederunt: tunc si solidum pupillus consequi non potuerit, de officio contutoris quaerendum, an suspectum facere debuerit, praesertim cum suspectum quoque eum postulasse dicatur. Alias quidem cum magistratus plures tutores dant, non prius ad eos reverti pupillus potest, quam omnes tutores excussi fuerint: in proposito cum unus a magistratibus datus proponeretur, non est visum prius collegam conveniendum, qui et suspectum fecit et testamento datus est, perindeque habendos singulos, ac si in partes dimidias tutores dati essententiarum
+
+7. Tutoribus concessum est a debitoribus pupilli pecuniam exigere, ut ipso iure liberentur, non etiam donare vel etiam deminuendi causa cum iis transigere: et ideo eum, qui minus tutori solvit, a pupillo in reliquum conveniri posse.
+
+26.7.47
+
+Scaevola libro secundo responsorum
+
+pr. Titium et Maevium tutores quis dedit et cavit: boulomai kai parakalw pantas ginesvai meta tys maibiou tou adelfou mou gnwmys, kai dixa autou to ginomenon akuron estw. [id est: volo et rogo, ut omnia fiant ex fratris mei Maevii sententia, et quidquid sine eo fiet, ratum ne sit.] Titius solus a debitoribus exegit: an liberati essent? Respondi, si et administrationem Maevio dedisset, non recte solutum.
+
+1. "Quantum autem filio meo diurnum sufficiat, Marina et Ianuaria aestimabunt": quaero, an contenti esse debeant tutores arbitrio mulierum. Respondi sumptum boni viri arbitrio faciendum.
+
+2. Tutores dati ad res Italicas instrumenta Romae reppererunt debitorum provincialium, ut pecunia Romae aut ubicumque petitum fuerit solvatur: quaero, cum neque debitores in Italia essent neque eorum praedia, an haec exactio ad Italicae rei tutores pertineat. Respondi, si provincialis contractus esset, non pertinere, respicere tamen ad officium eorum, ne instrumentorum ignorantia contractus eos, ad quos administratio pertineret, lateret.
+
+3. A matre datus testamento tutor cum putaret se tutorem esse, distraxit bona materna et paterna pupillorum et decessit non solvendo: quaeritur, an pupillus res possit vindicare. Respondi, si manent res pupilli, vindicari ab eo posse.
+
+4. Praefectus legionis ita testamento cavit: "Volo, ut sit in arbitrio tutorum filii mei, si voluerint, huius summae uncias inferre usurarum nomine ita, ne nummi dispargantur"; quaero, si apparuerit pecunia faenerata a tutoribus, iudicio tutelae uncias usuras an vero eas quas stipulati sunt praestare debeant. Respondi, si secundum voluntatem defuncti elegissent usurarum praestationem neque pupilli nomine in faenus dedissent, id praestatur, quod testator voluisset.
+
+5. Lucius Titius mutuam pecuniam a tutore accepit et rem hereditariam pignori ei dedit: post triennium iam puberibus his, quorum tutela administrata est, fisco bona defuncti adiudicata sunt, quia mortem eius heres non est ultus: quaeritur, an id nomen pupillus recusare possit. Respondi secundum ea quae proponuntur id nomen ad onus tutorum non pertinere.
+
+6. Altero ex duobus fratribus sociis bonorum et negotiationis defuncto, herede filio, patruus tutor venditis omnibus communis negotiationis mercibus et sibi redemptis negotium suo nomine exercuit: quaesitum est, utrum compendium negotii an usuras pecuniae praestare debeat. Respondi secundum ea quae proponuntur pupillo usuram, non compendium praestandum.
+
+7. Tutor rerum Italicarum conventus a creditore provinciali, ubi rem pupillus habuit, solvit: quaesitum est, an id tutelae iudicio reputari potest. Respondi nihil proponi, cur non possit.
+
+26.7.48
+
+Hermogenianus libro primo iuris epitomarum
+
+Inter bonorum ventrisque curatorem et inter curatorem furiosi itemque prodigi pupillive magna est differentia, quippe cum illis quidem plane rerum administratio, duobus autem superioribus sola custodia et rerum, quae deteriores futurae sunt, venditio committitur.
+
+26.7.49
+
+Paulus libro secundo sententiarum
+
+Ob faenus pupillaris pecuniae per contumaciam non exercitum aut fundorum omissam comparationem tutor, si non ad damnum resarciendum idoneus est, extra ordinem coercebitur.
+
+26.7.50
+
+Hermogenianus libro secundo iuris epitomarum
+
+Si res pupillaris incursu latronum pereat vel argentarius, cui tutor pecuniam dedit, cum fuisset celeberrimus, solidum reddere non possit, nihil eo nomine tutor praestare cogitur.
+
+26.7.51
+
+Venonius libro sexto stipulationum
+
+Si duo pluresve tutores tutelam administrent, in fideiussorem quidem in solidum per quemlibet eorum committitur stipulatio: at si inter eos divisa sit tutela regionibus, quod plerumque fit, et alius urbica negotia, alius peregrina administraret, tunc ex substantia cuiusque rei aut committi contra fideiussorem stipulationem aut non committi dicemus: nam licet omnes tutores sint et tutelam gerant, tamen cum quis de ea re, quae extra suam regionem erit, experiri vel ad iudicium vocari coeperit, perinde non committitur stipulatio, atque si ei administratio tutelae permissa non esset: quantum enim facit in totum denegata, tantundem valet, si in ea re de qua agitur denegata sit.
+
+26.7.52
+
+Neratius libro primo responsorum
+
+Curator pro minore non tantum dotem dare debet, sed etiam impendia, quae ad nuptias facienda sunt.
+
+26.7.53
+
+Paulus libro secundo decretorum
+
+Aemilius dexter magistratus sui tempore datis tutoribus cessaverat in exigenda satisdatione, deinde quibusdam excusatis a sequentibus magistratibus dexter tutor adsumptus fuerat: creatus conveniebatur in solidum duplici ratione, quod cum magistratus esset et tutores dedisset satisdationem non exegisset. Ex diverso dictum est, licet satis exactum non esset, tamen in diem tutelae finitae idoneos fuisse tutores neque cessationem curatorum obesse tutoribus debere. Pronuntiavit, si in diem finitae tutelae idonei permansissent tutores, licet et satis non esset exactum, curatorum esse periculum, si minus, tutorum et magistratuum: hoc est tunc esse periculum eius, qui suspectum non fecisset aut satis non exegisset, cum finita tutela non inveniretur idoneus fuisse.
+
+26.7.54
+
+Tryphoninus libro secundo disputationum
+
+Non existimo maximis usuris subiciendum eum, qui a contutoribus suis mutuam pecuniam pupilli accepit et cavit certasque usuras promisit, quas et alii debitores pupillo dependunt, quia hic sibi non consumpsit nec clam nec quasi sua pecunia licenter abutitur et, nisi his usuris a contutore mutuum ei daretur, aliunde accepisset: et multum refert, palam aperteque debitorem se ut extraneum et quemlibet faceret pupillo an sub administratione tutelae pupillique utilitate latente sua commoda pupilli pecunia iuvaret.
+
+26.7.55
+
+Tryphoninus libro 14 disputationum
+
+pr. Tres tutores pupillo dati sunt, unus tutelam gessit et solvendo non est, secundus Titio gerendam mandavit et Titius quaedam administravit, tertius nihil omnino gessit: quaesitum est, quatenus quisque eorum teneatur. Et tutorum quidem periculum commune est in administratione tutelae et in solidum universi tenentur. Plane si pecunia numerata pupilli inter eos distributa est, non in maiorem summam quisque eorum quam accepit tenetur.
+
+1. Sed si ipsi tutores rem pupilli furati sunt, videamus, an ea actione, quae proponitur ex lege duodecim tabularum adversus tutorem in duplum, singuli in solidum teneantur et, quamvis unus duplum praestiterit, nihilo minus etiam alii teneantur: nam in aliis furibus eiusdem rei pluribus non est propterea ceteris poenae deprecatio, quod ab uno iam exacta est. Sed tutores propter admissam administrationem non tam invito domino contrectare eam videntur quam perfide agere: nemo denique dicet unum tutorem et duplum hac actione praestare et quasi specie condictionis aut ipsam rem aut eius aestimationem.
+
+2. Non solum ergo gessisse tutelam is creditur, qui alii gerendam mandavit, sed et qui satis a contutore accepit rem salvam pupillo futuram eique permisit administrationem totius tutelae, nec potest se defendere constitutionibus, quae iubent ante conveniri eum qui gessit.
+
+3. Item in eo quod nemo gessit non utique eius periculum est, qui quaedam gessit, sed communiter omnium: exigi autem ab eo solo periculum ob alia quae non gessit non oportet, nisi si qua talia sunt, quae vel consummationem coeptorum ab eo desiderabant vel ita coniuncta fuerunt, ut separari non debuerunt.
+
+4. Quod autem dicitur desisse solvendo esse vel non esse contutores praestare debere, videamus, qualem intellectum habet, id est utrum sufficit nihil deminutum esse de facultatibus contutoris, ex quo tempore datus est, sed eandem faciem patrimonii permansisse, an, etsi nihil post accidit, quod palam faciat deminutionem patrimonii, debet tamen contutor inquirere fortunas contutoris. Sed hoc et ex personae qualitate et ex temporis intercapedine, quo testamentum factum est, usque ad mortem patris aliam aestimationem accipere debet: nam aperte prodigo vel cuius bona venierunt (licet obreptum fuerit praetori, qui decreto eum dedit) permittere contutori administrationem non debet, et potuit aliquid pater eorum post testamentum factum accidens ignorasse aut, cum destinatum haberet mutare testamentum, id non fecisse.
+
+26.7.56
+
+Scaevola libro quarto digestorum
+
+Tutor rerum et animalium pupilli venditionem fecit, sed quaedam animalia emptoribus pretium non solventibus retinuit et apud se habuit, pretium idem rationibus pupilli accepto tulit: ex his aliquot nata sunt: defuncto tutore heres eius eandem tutelam administravit et animalia annis plurimis possedit: quaesitum est, an, cum is cuius tutela administrata est annis viginti quattuor esset, iure animalia vindicaret. Respondit secundum ea quae proponerentur pupillum ea vindicare non posse.
+
+26.7.57
+
+Scaevola libro decimo digestorum
+
+pr. Chirographis debitorum incendio exustis cum ex inventario tutores convenire eos possent ad solvendam pecuniam aut novationem faciendam cogere, cum idem circa priores debitores propter eundem casum fecissent, id omisissent circa debitores pupillorum, an, si quid propter hanc cessationem eorum pupilli damnum contraxerunt, iudicio tutelae consequantur? Respondit, si adprobatum fuerit eos tutores hoc per dolum vel culpam praetermisisse, praestari ab his hoc debere.
+
+1. Ab eo, qui sententia praesidis bonis ademptis relegatus erat, cum ex permissu principis appellatio eius recepta sit, quam is qui pronuntiaverat non receperat, fundum emerat pupillus intervenientibus tutoribus et appellatione iniusta pronuntiata fundus ei ablatus est: quaesitum est, an tutelae iudicio pretium fundi pupillus consequi a tutoribus possit. Respondit, si scientes emerunt ab eo, qui in ea causa esset, ut obnoxius sententiae priori esset, tutelae iudicio eos teneri.
+
+26.7.58
+
+Scaevola libro 11 digestorum
+
+pr. Qui negotiationem per Pamphilum et Diphilum prius servos, postea libertos exercebat, suo testamento eos tutores reliquit et cavit, ut negotium eodem more exerceretur, quo se vivo exercebatur: hique tutelam administraverunt non tantum, cum impubes patroni filius fuisset, sed etiam post pubertatem eius. Sed Diphilus quidem cum incremento negotiationis rationes optulit, Pamphilus autem putavit reddere oportere non ad incrementum negotiationis, sed ad computationem usurarum, ut in tutelae iudicio solet. Quaesitum est, an secundum voluntatem defuncti exemplo Diphili Pamphilus quoque rationem reddere debeat. Respondit debere. Claudius Tryphoninus: quia lucrum facere ex tutela non debet.
+
+1. Ex duobus tutoribus pupilli altero defuncto adhuc impubere pupillo, qui supererat ex persona pupilli sui iudice accepto consecutus est cum usuris, quantum ex tutela ad tutorem defunctum pervenerat: quaesitum est, iudicio tutelae, quo experitur pubes factus, utrum eius tantum portionis, quae ab initio quod ex tutelae ratione pervenerat ad defunctum contutorem, usurae veniant, an etiam eius summae, quae ex sortis usuris pupillo aucta post mortem eius ad superstitem aeque cum sorte translata sit aut transferri debuit. Respondit, si eam pecuniam in se vertisset, omnium pecuniarum usuras praestandas: quod si pecunia mansisset in rationibus pupilli, praestandum, quod bona fide percepisset aut percipere potuisset, sed, faenori dare cum potuisset, neglexisset, cum id, quod ab alio debitore nomine usurarum cum sorte datur, ei qui accipit totum sortis vice fungitur vel fungi debet.
+
+2. Testamento dati tutores, quod ruptum videbatur, cessaverunt in administratione tutelae et a praeside tutor datus est pupillo, iussi autem sunt etiam hi, qui dati erant testamento tutores, tutelam administrare coniuncto eo, qui a praeside datus coeperat administrare: quaesitum est, ex testamento datos periculum antecedentis temporis administrationis utrum ex apertis tabulis, an ex quo iussi sunt, pertineat ad eos. Respondit ad eos de quibus quaereretur nullum antecedentis temporis periculum pertinere.
+
+3. Pupillo herede instituto filiae exheredatae duo milia nummorum aureorum legavit eosdemque tutores utrisque dedit: quaesitum est, an ex eo die, quo duo milia potuerunt a substantia hereditatis et in nomina collocare neglexerint, usurarum nomine pupillae tutelae iudicio teneantur. Respondit teneri.
+
+4. Quaesitum est, an usurae pupillaris pecuniae, quas tutores debuerunt, cum ad curatorem transferuntur, in sortem computantur et universae summae usuras debere curatores incipiant. Respondit omnis pecuniae, quae ad curatores transit, parem causam esse, quia omnis sors efficitur.
+
+26.7.59
+
+Scaevola libro 26 digestorum
+
+Cum hereditas patris aere alieno gravaretur et res in eo statu videretur, ut pupilla ab hereditate paterna abstineretur, unus ex tutoribus cum plerisque creditoribus ita decidit, ut certa crediti portione contenti essent acciperentque: idem curatores iam viripotenti accepti cum plerisque creditoribus deciderunt: quaesitum est, an, si aliquis tutorum creditor patris pupillae solidam pecuniam expensam sibi ex re pupillae cum usuris fecerit, revocari a curatoribus pupillae ad portiones eas possit, quas ceteri quoque creditores acceperunt. Respondit eum tutorem, qui ceteros ad portionem vocaret, eadem parte contentum esse debere.
+
+26.7.60
+
+Pomponius libro octavo epistularum
+
+Si tutoris heres exsecutus est quae tutor inchoavit, tutelae etiam eo nomine tenetur.
+
+26.7.61
+
+Pomponius libro 20 epistularum
+
+Apud Aristonem ita scriptum est: quod culpa tutoris pupillus ex hereditate desiit possidere, eius aestimatio in petitione hereditatis sine ulla dubitatione fieri debebit ita, si pupillo de hereditate cautum sit: cautum autem esse videtur etiam si tutor erit idoneus, a quo servari possit id, quod pupillus ex litis aestimatione subierit. Sed si tutor solvendo non est, videndum erit, utrum calamitas pupilli an detrimentum petitoris esse debeat perindeque haberi debet, ac si res fortuito casu interisset, similiter atque ipse pupillus expers culpae quid ex hereditate deminuisset corrupisset perdidisset. De possessore quoque furioso quaeri potest, si quid ne in rerum natura esset, per furorem eius accidisset. Tu quid putas? Pomponius: puto eum vere dicere. Sed quare cunctatus es, si solvendo non sit tutor, cuius damnum esse debeat? Cum alioquin elegantius dicere poterit actiones dumtaxat, quas haberet cum tutore pupillus, venditori hereditatis praestandas esse, sicuti heres vel bonorum possessor si nihil culpa eius factum sit (veluti si fundo hereditario vi deiectus sit aut servus hereditarius vulneratus ab aliquo sit sine culpa possessoris), nihil plus quam actiones, quas eo nomine habet, praestare debeat. Idem dicendum est et si per curatorem furiosi culpa vel dolo quid amissum fuerit, quemadmodum si quid stipulatus tutor vel curator fuisset aut vendidisset rem hereditariam. Impune autem puto admittendum, quod per furorem alicuius accidit, quo modo si casu aliquo sine facto personae id accidisset.
+
+
+* 26.8.0. De auctoritate et consensu tutorum et curatorum.
+
+
+26.8.1
+
+Ulpianus libro primo ad Sabinum
+
+pr. Quamquam regula sit iuris civilis in rem suam auctorem tutorem fieri non posse, tamen potest tutor proprii sui debitoris hereditatem adeunti pupillo auctoritatem accommodare, quamvis per hoc debitor eius efficiatur: prima enim ratio auctoritatis ea est, ut heres fiat, per consequentias contingit, ut debitum subeat. Se tamen auctore ab eo stipulari non potest. Et cum quidam auctoritatem accommodaret pupillae suae, ut servo suo stipulanti sponderet, divus Pius Antoninus rescripsit iure pupillam non teneri, sed in quantum locupletior facta est, dandam actionem. Sed si auctor fiat, ut filio suo quid tradatur, nulla erit auctoritas: evidenter enim sua auctoritate rem adquirit.
+
+1. Tutor si invitus retentus sit per vim, non valet quod agitur: neque enim praesentia corporis sufficit ad auctoritatem, ut si somno aut morbo comitiali occupatus tacuisset.
+
+26.8.2
+
+Ulpianus libro 24 ad Sabinum
+
+Nulla differentia est, non interveniat auctoritas tutoris an perperam adhibeatur.
+
+26.8.3
+
+Paulus libro octavo ad Sabinum
+
+Etiamsi non interrogatus tutor auctor fiat, valet auctoritas eius, cum se probare dicit id quod agitur: hoc est enim auctorem fieri.
+
+26.8.4
+
+Pomponius libro 17 ad Sabinum
+
+Etsi pluribus datis tutoribus unius auctoritas sufficiat, tamen si tutor auctoretur, cui administratio tutelae concessa non est, id ratum a praetore haberi non debet. Et ideo puto verius esse, quod Ofilio placebat, si eo tutore auctore, qui tutelam non gerat, emam a pupillo sciens alium eius tutelam gerere, dominum me non posse fieri: item si eo auctore emam, qui a tutela fuerit remotus: nec enim id ratum haberi.
+
+26.8.5
+
+Ulpianus libro 40 ad Sabinum
+
+pr. Pupillus obligari tutori eo auctore non potest. Plane si plures sint tutores, quorum unius auctoritas sufficit, dicendum est altero auctore pupillum ei posse obligari, sive mutuam pecuniam ei det sive stipuletur ab eo. Sed et cum solus sit tutor mutuam pecuniam pupillo dederit vel ab eo stipuletur, non erit obligatus tutori: naturaliter tamen obligabitur in quantum locupletior factus est: nam in pupillum non tantum tutori, verum cuivis actionem in quantum locupletior factus est dandam divus Pius rescripsit.
+
+1. Pupillus vendendo sine tutoris auctoritate non obligetur sed nec in emendo, nisi in quantum locupletior factus est.
+
+2. Item ipse tutor et emptoris et venditoris officio fungi non potest: sed enim si contutorem habeat, cuius auctoritas sufficit, procul dubio emere potest. Sed si mala fide emptio intercesserit, nullius erit momenti ideoque nec usucapere potest. Sane si suae aetatis factus comprobaverit emptionem, contractus valet.
+
+3. Sed si per interpositam personam rem pupilli emerit, in ea causa est, ut emptio nullius momenti sit, quia non bona fide videtur rem gessisse: et ita est rescriptum a divo Severo et Antonino.
+
+4. Sane si ipse quidem emit palam, dedit autem nomen non mala fide sed simpliciter, ut solent honestiores non pati nomina sua instrumentis inscribi, valet emptio: quod si callide, idem erit ac si per interpositam personam emisset.
+
+5. Sed et si creditor pupilli distrahat, aeque emere bona fide poterit.
+
+6. Si filius tutoris vel quae alia persona iuri eius subiecta emerit, idem erit atque si ipse emisset.
+
+26.8.6
+
+Pomponius libro 17 ad Sabinum
+
+Tutores, quibus administratio decreta non esset, tamquam extraneos recte a pupillo emere placet.
+
+26.8.7
+
+Ulpianus libro 40 ad Sabinum
+
+pr. Quod dicimus in rem suam auctoritatem accommodare tutorem non posse, totiens verum est, quotiens per semet vel subiectas sibi personas adquiritur ei stipulatio: ceterum negotium ei geri per consequentias, ut dictum est, nihil prohibet auctoritas.
+
+1. Si duo rei sint stipulandi et alter me auctore a pupillo stipuletur, alter altero tutore auctore, dicendum est stipulationem valere, sic tamen, si auctoritas tutoris unius sufficiat: ceterum si non sufficiat, dicendum erit inutilem esse stipulationem.
+
+2. Si et pater et filius qui in potestate eius fuit tutores fuerunt et pater sit stipulatus filio auctore, nullius momenti erit stipulatio idcirco, quia in rem patris auctor esse filius non potest.
+
+26.8.8
+
+Ulpianus libro 48 ad Sabinum
+
+Etsi condicionalis contractus cum pupillo fiat, tutor debet pure auctor fieri: nam auctoritas non condicionaliter, sed pure interponenda est, ut condicionalis contractus confirmetur.
+
+26.8.9
+
+Gaius libro 12 ad edictum provinciale
+
+pr. Obligari ex omni contractu pupillus sine tutoris auctoritate non potest: adquirere autem sibi stipulando et per traditionem accipiendo etiam sine tutoris auctoritate potest: sed credendo obligare sibi non potest, quia sine tutoris auctoritate nihil alienare potest.
+
+1. Ex hoc autem, quod pupillus nullam rem sine tutoris auctoritate alienare potest, apparet nec manumittere eum sine tutoris auctoritate posse. Hoc amplius licet tutoris auctoritate manumittat, debet e lege Aelia Sentia apud consilium causam probare.
+
+2. Pupillus ex omnibus causis solvendo sine tutoris auctoritate nihil agit, quia nullum dominium transferre potest: si tamen creditor bona fide pecuniam pupilli consumpserit, liberabitur pupillus.
+
+3. Hereditatem adire pupillus sine tutoris auctoritate non potest, quamvis lucrosa sit nec ullum habeat damnum.
+
+4. Nec ex senatus consulto Trebelliano hereditatem recipere pupillus sine tutoris auctoritate potest.
+
+5. Tutor statim in ipso negotio praesens debet auctor fieri, post tempus vero aut per epistulam interposita eius auctoritas nihil agit.
+
+6. Etiamsi non exaudiat tutoris auctoritatem is qui cum pupillo contrahit, scriptis tamen hoc adprobetur, recte negotium geritur, veluti si absenti pupillo per epistulam vendam aliquid aut locem et is tutoris auctoritate consentiat.
+
+26.8.10
+
+Paulus libro 24 ad edictum
+
+Tutor, qui per valetudinem vel absentiam vel aliam iustam causam auctor fieri non potuit, non tenetur.
+
+26.8.11
+
+Gaius libro 15 ad edictum provinciale
+
+Si ad pupillum aut furiosum bonorum possessio pertineat, expediendarum rerum gratia et in agnoscenda et in repudianda bonorum possessione voluntatem tutoris curatorisque spectari debere placuit: qui scilicet si quid eorum contra commodum pupilli furiosive fecerint, tutelae curationisve iudicio tenebuntur.
+
+26.8.12
+
+Iulianus libro 21 digestorum
+
+Si servus communis tuus et Titii a pupilla tua te auctore aliquam rem per traditionem acceperit, tota ad Titium pertinebit. Marcellus notat: nam quodcumque ad omnes dominos non potest pertinere, id pro solido ad eum, cui adquiri potest, pertinere veteres comprobaverunt.
+
+26.8.13
+
+Iulianus libro 21 digestorum
+
+Impuberes tutore auctore obligantur, etiamsi taceant: nam cum pecuniam mutuam acceperint, quamvis nihil dicant, auctoritate tutoris interposita tenentur. Quare et si non debita pecunia his personis soluta fuerit, quamvis tacuerint, interposita tutoris auctoritas sufficit, ut condictione teneantur.
+
+26.8.14
+
+Iulianus libro 31 digestorum
+
+Non multum interest, afuerit tutor, cum negotium contraheretur, an praesens ignoraverit, quale esset quod contrahebatur.
+
+26.8.15
+
+Marcianus libro secundo regularum
+
+Accipientis et edentis iudicium idem tutor auctor utrique fit. Sed hoc utrum ita est, si bis auctor factus est, an et una auctoritas sufficiat eo animo, ut ad utrumque pertineat? Dubitat quidem Pomponius, sed fortiter defenditur sufficere unam auctoritatem.
+
+26.8.16
+
+Paulus libro primo ad lege Aelio Sentio sententiarum
+
+Etiamsi tutor caecus factus sit, auctor fieri potest.
+
+26.8.17
+
+Paulus libro sexto ad edictum
+
+Si tutor pupillo nolit auctor fieri, non debet eum praetor cogere, primum quia iniquum est, etiamsi non expedit pupillo, auctoritatem eum praestare, deinde etsi expedit, tutelae iudicio pupillus hanc iacturam consequitur.
+
+26.8.18
+
+Paulus libro primo ad Plautium
+
+Potest pupillus tutore auctore debitorem suum Titio delegare: sed cum tutor debet pupillo, dicendum est neque delegari eum neque procuratorem adversus tutorem dari ipso tutore auctore posse, quia futurum sit, ut auctoritate sua liberetur.
+
+26.8.19
+
+Paulus libro nono responsorum
+
+Curatorem etiam impuberi dari posse, sed ad ea, quae sollemnitatem iuris desiderant, explicanda tutore auctore opus esse.
+
+26.8.20
+
+Scaevola libro decimo digestorum
+
+Inter pupillos paternae hereditatis divisio facta est praesente tutore, sed non adsignante instrumento divisionis: quaesitum est, an ei stari oporteret. Respondit, si tutor auctor fuisset, non idcirco minus standum esse divisioni, quod non adsignasset.
+
+26.8.21
+
+Scaevola libro 26 digestorum
+
+Defendente tutore pupillus condemnatus ex contractu patris accepit curatorem, inter quem et creditorem acta facta sunt apud procuratorem Caesaris infra scripta. Priscus procurator Caesaris dixit: "Faciat iudicata". Novellius curator dixit: "Abstineo pupillum". Priscus procurator Caesaris dixit: "Responsum habes: scis, quid agere debeas". Quaesitum est, an secundum haec acta adulescens a bonis patris abstentus sit. Respondit proponi abstentum.
+
+26.8.22
+
+Labeo libro quinto pithanon
+
+Si quid est, quod pupillus agendo tutorem suum liberaturus est, id ipso tutore auctore agi recte non potest.
+
+
+* 26.9.0. Quando ex facto tutoris vel curatoris minores agere vel conveniri possunt.
+
+
+26.9.1
+
+Pomponius libro 29 ad Sabinum
+
+Ob dolum malum vel culpam tutoris aristo ait pupillum possessorem condemnandum, sed non puto, quanti actor in litem iuraret: et tamen illud ita est, si rem a tutore pupillus servare possit.
+
+26.9.2
+
+Ulpianus libro primo opinionum
+
+Si tutor vel curator pecunia eius, cuius negotia administrat, mutua data ipse stipulatus fuerit vel praedia in nomen suum emerit, utilis actio ei, cuius pecunia fuit, datur ad rem vindicandam vel mutuam pecuniam exigendam.
+
+26.9.3
+
+Papinianus libro 20 quaestionum
+
+Dolus tutorum puero neque nocere neque prodesse debet: quod autem vulgo dicitur tutoris dolum pupillo non nocere, tunc verum est, cum ex illius fraude locupletior pupillus factus non est. Quare merito Sabinus tributoria actione pupillum conveniendum ex dolo tutoris existimavit, scilicet si per iniquam distributionem pupilli rationibus favit. Quod in depositi quoque actione dicendum est, item hereditatis petitione, si modo, quod tutoris dolo desiit, pupilli rationibus illatum probetur.
+
+26.9.4
+
+Ulpianus libro 64 ad edictum
+
+At si extrinsecus aliquid tutor dolo admiserit, pupillo nihil nocere oportet.
+
+26.9.5
+
+Papinianus libro quinto responsorum
+
+pr. Post mortem furiosi non dabitur in curatorem qui negotia gessit
+iudicati actio, non magis quam in tutores, si modo nullam ex consensu
+post depositum officium novationem factam et in curatorem vel tutorem
+obligationem esse translatam constabit.
+
+1. Tutor, qui pecuniam se soluturum cavit, quam pater pupilli
+condemnatus fuerat, actionem post tutelam finitam recte recusat. Non
+idem in eo placuit, qui suo nomine mutuam pecuniam accepit et
+iudicatum pro pupillo fecit, nisi forte creditor ideo contraxit, ut in
+causam iudicati pecunia transiret.
+
+26.9.6
+
+Papinianus libro secundo definitionum
+
+Tutor interposito decreto praetoris actorem reliquit. Secundum eum sententia dicta iudicati transfertur ad pupillum actio non minus, quam si tutor optinuisset.
+
+26.9.7
+
+Scaevola libro 13 quaestionum
+
+Tutori, qui infantem defendit, succurritur, ut in pupillum iudicati actio detur.
+
+26.9.8
+
+Scaevola libro quinto responsorum
+
+Tutor, qui et coheres pupillo erat, cum conveniretur fideicommissi nomine, in solidum ipse cavit: quaesitum est, an in adultum pupillum pro parte danda sit utilis actio. Respondit danda [dandam].
+
+
+* 26.10.0. De suspectis tutoribus et curatoribus.
+
+
+26.10.1
+
+Ulpianus libro 35 ad edictum
+
+pr. Haec clausula et frequens et pernecessaria est: cottidie enim suspecti tutores postulantur.
+
+1. Primum igitur tractemus, unde descendat suspecti crimen et apud quos postulari quis possit suspectus tutor vel curator, deinde quis et a quo et ex quibus causis removetur, deque poena suspecti.
+
+2. Sciendum est suspecti crimen e lege duodecim tabularum descendere.
+
+3. Damus autem ius removendi suspectos tutores Romae praetoribus, in provinciis praesidibus earum.
+
+4. An autem apud legatum proconsulis suspectus postulari possit, dubium fuit: sed imperator Antoninus cum divo Severo Braduae Maurico proconsuli Africae rescripsit posse, quia mandata iurisdictione officium ad eum totum iuris dicundi transit. Ergo et si praetor mandet iurisdictionem, simili modo dicendum est suspectum posse apud eum postulari cui mandata est: cum enim sit in provincia hoc rescriptum, consequens erit dicere et eum, cui a praetore mandata est iurisdictio, posse de suspecto cognoscere.
+
+5. Ostendimus, qui possunt de suspecto cognoscere: nunc videamus, qui suspecti fieri possunt. Et quidem omnes tutores possunt, sive testamentarii sint, sive non sint, sed alterius generis tutores. Quare et si legitimus sit tutor, accusari poterit. Quid si patronus? Adhuc idem erit dicendum, modo ut meminerimus patrono parcendum.
+
+6. Consequens est, ut videamus, qui possunt suspectos postulare: et sciendum est quasi publicam esse hanc actionem, hoc est omnibus patere.
+
+7. Quin immo et mulieres admittuntur, sed hae solae, quae pietate necessitudinis ductae ad hoc procedunt, ut puta mater. Nutrix quoque et avia possunt. Potest et soror, nam in sorore et rescriptum exstat divi Severi: et si qua alia mulier fuerit, cuius praetor perpensam pietatem intellexerit non sexus verecundiam egredientis, sed pietate productam non continere iniuriam pupillorum, admittet eam ad accusationem.
+
+8. Si quis de plebeis ob facta atrociora in tutela admissa fuerit apud praetorem accusatus, remittitur ad praefectum urbis graviter puniendus.
+
+26.10.2
+
+Ulpianus libro primo de omnibus tribunalibus
+
+Libertus quoque si fraudulenter gessisse tutelam filiorum patroni probetur, ad praefectum urbis remittetur puniendus.
+
+26.10.3
+
+Ulpianus libro 35 ad edictum
+
+pr. Tutor quoque contutorem potest suspectum facere, sive duret adhuc tutor, sive iam desierit ipse, contutor autem maneat tutor: et ita divus Severus rescripsit. Plus divus Pius Caecilio Paetino rescripsit posse tutorem suspectum remotum contutores suos suspectos facere.
+
+1. Liberti quoque pupillorum grate facient, si tutores vel curatores eorum male gerentes rem patronorum vel liberorum patronorum suspectos fecerint: sed si patronum suum ut suspectum in tutela facere velint, melius est libertos ab accusatione repelli, ne in ipsa cognitione gravius aliquid emergat, cum hoc aliis omnibus pateat.
+
+2. Non tantum autem adulescentis curator, sed etiam furiosi vel prodigi ut suspectus removeri potest.
+
+3. Sed et si quis curam ventris bonorumve administrat, non carebit huius criminis metu.
+
+4. Praeterea videndum, an et sine accusatione possit suspectus repelli. Et magis est, ut repelli debeat, si praetori liqueat ex apertissimis rerum argumentis suspectum eum esse: quod favore pupillorum accipiendum est.
+
+5. Nunc videamus, ex quibus causis suspecti removeantur. Et sciendum est aut ob dolum in tutela admissum suspectum licere postulare, si forte grassatus in tutela est aut sordide egit vel perniciose pupillo vel aliquid intercepit ex rebus pupillaribus iam tutor. Quod si quid admisit, ante tamen admisit, quam tutor esset, quamvis in bonis pupilli vel in tutela, non potest suspectus tutor postulari, quia delictum tutelam praecessit. Proinde si pupilli substantiam expilavit, sed antequam tutor esset, accusari debet expilatae hereditatis crimine, si minus, furti.
+
+6. Quaeri potest, si tutor fuerit pupilli idemque sit curator confirmatus adulescenti, an possit ex delictis tutelae suspectus postulari. Et cum possit tutelae a concuratoribus conveniri, consequens erit dicere cessare suspecti accusationem, quia tutelae agi possit deposito officio et alio sumpto.
+
+7. Idem erit quaerendum et si proponas aliquem desisse esse tutorem et rursum coepisse (ut puta usque ad tempus vel ad condicionem erat datus, deinde iterum vel superveniente condicione testamentaria vel etiam a praetore postea datus est), an suspectus postulari possit. Et quia duae tutelae sunt, si est, qui eum tutelae iudicio conveniat, aequissimum erit dicere cessare crimen suspecti.
+
+8. Si autem ipse tutor est solus, numquid, quia tutelae cessat, removendus sit ab hac administratione, quasi in hac suspectus ex eo, quod in alia male versatus sit? Ergo et in eo, qui curator solus post finitam tutelam confirmatus est, idem dici potest.
+
+9. Quod si quis ita tutor datus sit: "Quoad in Italia erit, tutor esto" vel "quoad trans mare non ierit", an possit suspectus postulari ex eo gestu, quem administravit, antequam trans mare abesset? Et magis est, ut postulari possit, quasi una tutela sit habens intervalla.
+
+10. Si quis afuturus rei publicae causa desideravit in locum suum constitui alium tutorem, an reversus ex ante gesto suspectus postulari possit? Et quia potest ex priore gestu utili actione conveniri, cessabit postulatio.
+
+11. Si curator ventri bonisque datus fraudulenter versatus sit, deinde tutor datus, an postulari suspectus propter fraudes in cura admissas possit, dubitari potest. Et si quidem habet contutores, non poterit postulari, quia conveniri potest, si non habet, amoveri potest.
+
+12. Si tutor inimicus pupillo parentibusve eius sit et generaliter si qua iusta causa praetorem moverit, cur non debeat in ea tutela versari, reicere eum debebit.
+
+13. Severus et Antoninus rescripserunt Epicurio tutores, qui res vetitas sine decreto distraxerunt, nihil quidem egisse, verum si per fraudem id fecerunt, removeri eos oportere.
+
+14. Tutor, qui ad alimenta pupillo praestanda copiam sui non faciat, suspectus est poteritque removeri.
+
+15. Sed si non latitet, sed praesens nihil posse decerni contendit quasi inopibus, si datis pupillo advocatis in mendacio revincatur, ad praefectum urbis remittendus est: neque enim interest id agere quemquam, ut corrupta fide inquisitionis tutor constituatur, an bona fide constitutum velut praedonem bonis alienis incumbere: hic ergo non quasi suspectus removebitur, sed remittetur puniendus ea poena, qua solent adfici, qui tutelam corruptis ministeriis praetoris redemerunt.
+
+16. Qui pecuniam ad praediorum emptionem conferre neque pecuniam deponere pervicaciter perstant, quoad emptionis occasio inveniatur, vinculis publicis iubentur contineri, et insuper pro suspectis habentur. Sed sciendum est non omnes hac severitate debere tractari, sed utique humiliores: ceterum eos, qui sunt in aliqua dignitate positi, non opinor vinculis publicis contineri oportere.
+
+17. Is tutor, qui inconsideranter pupillum vel dolo abstinuit hereditate, potest suspectus postulari.
+
+18. Qui ob segnitiam vel rusticitatem inertiam simplicitatem vel ineptiam remotus sit, in hac causa est, ut integra existimatione tutela vel cura abeat. Sed et si quis ob fraudem non removebit aliquem, sed ei adiunxerit, non erit famosus, quia non est abire tutela iussus.
+
+26.10.4
+
+Ulpianus libro primo de omnibus tribunalibus
+
+pr. Hae enim causae faciunt, ut integra existimatione tutela vel cura quis abeat.
+
+1. Decreto igitur debebit causa removendi significari, ut appareat de existimatione.
+
+2. Quid ergo si non significaverit causam remotionis decreto suo? Papinianus ait debuisse dici hunc integrae esse famae, et est verum.
+
+3. Si praetor sententia sua non removerit tutela, sed gerere prohibuit, dicendum est magis esse, ut et hic desinat tutor esse.
+
+4. Qui nihil gesserunt, non possunt suspecti postulari, verum ob ignaviam vel neglegentiam vel dolum, si dolo fecerunt, possunt removeri.
+
+26.10.5
+
+Ulpianus libro tertio disputationum
+
+Suspectus fieri is quoque, qui satis dederit vel nunc offerat, potest: expedit enim pupillo rem suam salvam fore, quam tabulas rem salvam fore cautionis habere: nec ferendus est contutor, qui ideo collegam suum suspectum non fecit, quoniam cautum erat pupillo,
+
+26.10.6
+
+Callistratus libro quarto de cognitionibus
+
+quia satisdatio propositum tutoris malevolum non mutat, sed diutius grassandi in re familiari facultatem praestat.
+
+26.10.7
+
+Ulpianus libro primo de omnibus tribunalibus
+
+pr. Impuberibus quidem non permittitur suspectos facere: adulescentibus plane volentibus suspectos facere curatores suos permittitur, dummodo ex consilio necessariorum id faciant.
+
+1. Si fraus non sit admissa, sed lata neglegentia, quia ista prope fraudem accedit, removeri hunc quasi suspectum oportet.
+
+2. Praeterea accesserunt quaedam species ex epistula imperatoris nostri et divi Severi ad Atrium Clonium: nam adversus eos, qui, ne alimenta decernantur, sui copiam perseverant non facere, ut suis rebus careant praecipitur reique servandae causa pupillus in possessionem mittatur eius, qui suspectus sententia sua factus est quaeque mora deteriora futura sunt curatore dato distrahi iubentur.
+
+3. Item si quis tutor datus non compareat, solet edictis evocari, novissimeque si copiam sui non fecerit, ut suspectus removeri ob hoc ipsum, quod copiam sui non fecit. Quod et perraro et diligenti habita inquisitione faciendum est.
+
+26.10.8
+
+Ulpianus libro 61 ad edictum
+
+Suspectum tutorem eum putamus, qui moribus talis est, ut suspectus sit: enimvero tutor quamvis pauper est, fidelis tamen et diligens, removendus non est quasi suspectus.
+
+26.10.9
+
+Modestinus libro singulari de heurematicis
+
+Si tutor aliquo vinculo necessitudinis vel adfinitatis pupillo coniunctus sit vel si patronus pupilli liberti tutelam gerit et quis eorum a tutela removendus videatur, optimum factum est curatorem ei potius adiungi quam eundem cum notata fide et existimatione removeri.
+
+26.10.10
+
+Papinianus libro 12 quaestionum
+
+Decreto praetoris ut suspectus remotus periculum futuri temporis non timet: iniquum enim videtur removeri quidem a tutela vel cura, in futurum autem non esse securum.
+
+26.10.11
+
+Papinianus libro quinto responsorum
+
+Post finitam tutelam cognitio suspecti tutoris quamvis pridem recepta solvitur.
+
+26.10.12
+
+Aquila libro responsorum
+
+Nihil proponi, cur praescribere curator possit in cognitione suspecti, quo minus religio praetoris a pupillari servo detegente fraudes instruatur.

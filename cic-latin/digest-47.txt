@@ -1,0 +1,2554 @@
+# -*- mode: org -*-
+
+DOMINI NOSTRI SACRATISSIMI PRINCIPIS
+IUSTINIANI
+IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
+DIGESTORUM SEU PANDECTARUM
+liber quadragensimus septimus
+
+( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
+
+* TITLES
++ 47.1.0.  De privatis delictis.
++ 47.2.0.  De furtis.
++ 47.3.0.  De tigno iuncto.
++ 47.4.0.  Si is, qui testamento liber esse iussus erit (..)
++ 47.5.0.  Furti adversus nautas caupones stabularios.
++ 47.6.0.  Si familia furtum fecisse dicetur.
++ 47.7.0.  Arborum furtim caesarum.
++ 47.8.0.  Vi bonorum raptorum et de turba.
++ 47.9.0.  De incendio ruina naufragio rate nave expugnata.
++ 47.10.0. De iniuriis et famosis libellis.
++ 47.11.0. De extraordinariis criminibus.
++ 47.12.0. De sepulchro violato.
++ 47.13.0. De concussione.
++ 47.14.0. De abigeis.
++ 47.15.0. De praevaricatione.
++ 47.16.0. De receptatoribus.
++ 47.17.0. De furibus balneariis.
++ 47.18.0. De effractoribus et expilatoribus.
++ 47.19.0. Expilatae hereditatis.
++ 47.20.0. Stellionatus.
++ 47.21.0. De termino moto.
++ 47.22.0. De collegiis et corporibus.
++ 47.23.0. De popularibus actionibus.
+
+
+
+* 47.1.0. De privatis delictis.
+
+
+47.1.1
+
+Ulpianus libro 41 ad Sabinum
+
+pr. Civilis constitutio est poenalibus actionibus heredes non teneri nec ceteros quidem successores: idcirco nec furti conveniri possunt. Sed quamvis furti actione non teneantur, attamen ad exhibendum actione teneri eos oportet, si possideant aut dolo fecerint quo minus possideant: sed enim et vindicatione tenebuntur re exhibita. Item condictio adversus eos competit.
+
+1. Heredem autem furti agere posse aeque constat: exsecutio enim quorundam delictorum heredibus data est: ita et legis Aquiliae actionem heres habet. Sed iniuriarum actio heredi non competit.
+
+2. Non tantum in furti, verum in ceteris quoque actionibus, quae ex delictis oriuntur, sive civiles sunt sive honorariae, id placet, ut noxa caput sequatur.
+
+47.1.2
+
+Ulpianus libro 43 ad Sabinum
+
+pr. Numquam plura delicta concurrentia faciunt, ut ullius impunitas detur: neque enim delictum ob aliud delictum minuit poenam.
+
+1. Qui igitur hominem subripuit et occidit, quia subripuit, furti, quia occidit, Aquilia tenetur, neque altera harum actionum alteram consumit.
+
+2. Idem dicendum, si rapuit et occidit: nam et vi bonorum raptorum et Aquilia tenebitur.
+
+3. Quaesitum est, si condictus fuerit ex causa furtiva, an nihilo minus lege Aquilia agi possit. Et scripsit Pomponius agi posse, quia alterius aestimationis est legis Aquiliae actio, alterius condictio ex causa furtiva: namque Aquilia eam aestimationem complectitur, quanti eo anno plurimi fuit, condictio autem ex causa furtiva non egreditur retrorsum iudicii accipiendi tempus. Sed si servus sit, qui haec admisit, ex quacumque actione noxae fuerit deditus, perempta est altera actio.
+
+4. Item si quis subreptum flagello ceciderit, duabus actionibus tenetur furti et iniuriarum: et si forte hunc eundem occiderit, tribus actionibus tenebitur.
+
+5. Item si quis ancillam alienam subripuit et flagitaverit, utraque actione tenebitur, nam et servi corrupti agi poterit et furti.
+
+6. Item si quis servum vulneravit, quem subripuerat, aeque duae actiones locum habebunt Aquiliae et furti.
+
+47.1.3
+
+Ulpianus libro secundo de officio proconsulis
+
+Si quis actionem, quae ex maleficiis oritur, velit exsequi: si quidem pecuniariter agere velit, ad ius ordinarium remittendus erit nec cogendus erit in crimen subscribere: enimvero si extra ordinem eius rei poenam exerceri velit, tunc subscribere eum in crimen oportebit.
+
+* 47.2.0. De furtis.
+
+
+47.2.1
+
+Paulus libro 39 ad edictum
+
+pr. Furtum a furvo, id est nigro dictum Labeo ait, quod clam et obscuro fiat et plerumque nocte: vel a fraude, ut Sabinus ait: vel a ferendo et auferendo: vel a Graeco sermone, qui fwras appellant fures: immo et Graeci apo tou ferein fwras dixerunt.
+
+1. Inde sola cogitatio furti faciendi non facit furem.
+
+2. Sic is, qui depositum abnegat, non statim etiam furti tenetur, sed ita, si id intercipiendi causa occultaverit.
+
+3. Furtum est contrectatio rei fraudulosa lucri faciendi gratia vel ipsius rei vel etiam usus eius possessionisve. Quod lege naturali prohibitum est admittere.
+
+47.2.2
+
+Gaius libro 13 ad edictum
+
+Furtorum genera duo sunt, manifestum et nec manifestum.
+
+47.2.3
+
+Ulpianus libro 41 ad Sabinum
+
+pr. Fur est manifestus, quem Graeci ep' autofwrw appellant, hoc est eum, qui deprehenditur cum furto.
+
+1. Et parvi refert, a quo deprehendatur, utrum ab eo cuius res fuit an ab alio.
+
+2. Sed utrum ita demum fur sit manifestus, si in faciendo furto deprehendatur, an vero et si alicubi fuerit deprehensus? Et magis est, ut et Iulianus scripsit, etsi non ibi deprehendatur, ubi furtum fecit, adtamen esse furem manifestum, si cum re furtiva fuerit adprehensus, priusquam eo loci rem pertulerit, quo destinaverat.
+
+47.2.4
+
+Paulus libro nono ad Sabinum
+
+"Quo destinaverit quis auferre "sic accipiendum est" quo destinaverit eo die manere cum eo furto"
+
+47.2.5
+
+Ulpianus libro 41 ad Sabinum
+
+pr. Sive igitur in publico sive in privato deprehendatur, antequam ad locum destinatum rem perferret, in ea causa est, ut fur manifestus sit, si cum re furtiva deprehendatur: et ita Cassius scripsit.
+
+1. Sed si pertulit quo destinavit, tametsi deprehendatur cum re furtiva, non est manifestus fur.
+
+47.2.6
+
+Paulus libro nono ad Sabinum
+
+Quamvis enim saepe furtum contrectando fiat, tamen initio, id est faciendi furti tempore, constituere visum est, manifestus nec ne fur esset.
+
+47.2.7
+
+Ulpianus libro 41 ad Sabinum
+
+pr. Si quis in servitute furtum fecerit et manumissus deprehendatur, an fur manifestus sit, videamus. Et ait Pomponius libro nono decimo ex Sabino non posse eum manifesti conveniri, quia origo furti in servitute facti non fuit manifesti.
+
+1. Ibidem Pomponius eleganter scripsit deprehensione fieri manifestum furem: ceterum si, cum tibi furtum facerem de domo tua, abscondisti te, ne te occidam, etiamsi vidisti furtum fieri, attamen non est manifestum.
+
+2. Sed Celsus deprehensioni hoc etiam adicit, si, cum vidisses eum subripientem et ad comprehendendum eum accurrisses, abiecto furto effugit, furem manifestum esse:
+
+3. Parvique referre putat, dominus an vicinus an quilibet transiens adprehendat.
+
+47.2.8
+
+Gaius libro 13 ad edictum provinciale
+
+Nec manifestum furtum quid sit, apparet: nam quod manifestum non est, hoc scilicet nec manifestum est.
+
+47.2.9
+
+Pomponius libro sexto ad Sabinum
+
+pr. Ei, qui furti actionem habet, adsidua contrectatione furis non magis furti actio nasci potest, ne in id quidem, in quod crevisset postea res subrepta.
+
+1. Sed si eam a fure vindicassem, condictio mihi manebit. Sed potest dici officio iudicis, qui de proprietate cognoscit, contineri, ut non aliter iubeat restitui, quam si condictionem petitor remitteret: quod si ex condictione ante damnatus reus litis aestimationem sustulerit, ut aut omnimodo absolvat reum aut (quod magis placet), si paratus esset petitor aestimationem restituere nec restituetur ei homo, quanti in litem iurasset, damnaretur ei possessor.
+
+47.2.10
+
+Ulpianus libro 29 ad Sabinum
+
+Cuius interfuit non subripi, is actionem furti habet.
+
+47.2.11
+
+Paulus libro nono ad Sabinum
+
+Tum is cuius interest furti habet actionem, si honesta causa interest.
+
+47.2.12
+
+Ulpianus libro 29 ad Sabinum
+
+pr. Itaque fullo, qui curanda poliendave vestimenta accepit, semper agit: praestare enim custodiam debet. Si autem solvendo non est, ad dominum actio redit: nam qui non habet quod perdat, eius periculo nihil est.
+
+1. Sed furti actio malae fidei possessori non datur, quamvis interest eius rem non subripi, quippe cum res periculo eius sit: sed nemo de improbitate sua consequitur actionem et ideo soli bonae fidei possessori, non etiam malae fidei furti actio datur.
+
+2. Sed et si res pignori data sit, creditori quoque damus furti actionem, quamvis in bonis eius res non sit: quin immo non solum adversus extraneum dabimus, verum et contra ipsum quoque dominum furti actionem, et ita Iulianus scripsit. Nec non et ipsi domino dari placet, et sic fit, ut non teneatur furti et agat. Ideo autem datur utrique, quia utriusque interest. Sed utrum semper creditoris interest an ita demum, si debitor solvendo non est? Et putat Pomponius semper eius interesse pignus habere, quod et Papinianus libro duodecimo quaestionum probat: et verius est ubique videri creditoris interesse, et ita et Iulianus saepissime scripsit.
+
+47.2.13
+
+Paulus libro quinto ad Sabinum
+
+Is, cui ex stipulatu res debetur, furti actionem non habet, si ea subrepta sit, cum per debitorem stetisset, quo minus eam daret.
+
+47.2.14
+
+Ulpianus libro 29 ad Sabinum
+
+pr. Eum qui emit, si non tradita est ei res, furti actionem non habere, sed adhuc venditoris esse hanc actionem Celsus scripsit. Mandare eum plane oportebit emptori furti actionem et condictionem et vindicationem, et si quid ex his actionibus fuerit consecutus, id praestare eum emptori oportebit: quae sententia vera est, et ita et Iulianus. Et sane periculum rei ad emptorem pertinet, dummodo custodiam venditor ante traditionem praestet.
+
+1. Adeo autem emptor ante traditionem furti non habet actionem, ut sit quaesitum, an ipse subripiendo rem emptor furti teneatur. Et Iulianus libro vicensimo tertio digestorum scribit: si emptor rem, cuius custodiam venditorem praestare oportebat, soluto pretio subripuerit, furti actione non tenetur. Plane si antequam pecuniam solveret, rem subtraxerit, furti actione teneri, perinde ac si pignus subtraxisset.
+
+2. Praeterea habent furti actionem coloni, quamvis domini non sint, quia interest eorum.
+
+3. Is autem, apud quem res deposita est, videamus, an habeat furti actionem. Et cum dolum dumtaxat praestet, merito placet non habere eum furti actionem: quid enim eius interest, si dolo careat? Quod si dolo fecit, iam quidem periculum ipsius est, sed non debet ex dolo suo furti quaerere actionem.
+
+4. Iulianus quoque libro vicensimo secundo digestorum scribit: quia in omnium furum persona constitutum est, ne eius rei nomine furti agere possint, cuius ipsi fures sunt, non habebit furti actionem is, apud quem res deposita est, quamvis periculo eius esse res coeperit qui eam contrectavit.
+
+5. Papinianus tractat, si duos servos ob decem aureos pignori acceperim et alter subripiatur, cum alter quoque, qui sit retentus, non minoris decem valeret: utrum usque ad quinque tantum habeam furti actionem, quia in alio habeo salvos quinque? An vero, quia mori potest, dici debeat in decem fore actionem, etiamsi magni pretii sit is qui retinetur? Et ita putat: non enim respicere debemus pignus, quod subreptum non est, sed id quod subtractum est.
+
+6. Idem scribit, si, cum mihi decem deberentur, servus pignori datus subtractus sit, si actione furti consecutus fuero decem, non competere mihi furti actionem, si iterum subripiatur, quia desiit mea interesse, cum semel sim consecutus. Hoc ita, si sine culpa mea subripiatur: nam si culpa mea, quia interest eo quod teneor pigneraticia actione, agere potero. Quod si culpa abest, sine dubio domino competere actio videtur, quae creditori non competit. Quam sententiam Pomponius quoque libro decimo ad Sabinum probat.
+
+7. Idem dicunt, et si duo servi subrepti sint simul, competere utriusque nomine furti actionem creditori, sed non in totum, sed pro qua parte, in singulos diviso eo quod ei debetur, eius interest: seperatim autem duobus subreptis, si unius nomine solidum consecutus sit, alterius nihil consequetur.
+
+8. Item Pomponius libro decimo ex Sabino scripsit, si is cui commodavi dolo fecerit circa rem commodatam, agere eum furti non posse.
+
+9. Idem Pomponius probat et in eo, qui rem mandato alicuius accepit perferendam.
+
+10. An pater, cuius filio commodata res est, furti actionem habeat, quaeritur. Et Iulianus ait patrem hoc nomine agere non posse, quia custodiam praestare non debeat: sicut, inquit, is qui pro eo, cui commodata res est, fideiussit, non habet furti actionem. Neque enim, inquit, is, cuiuscumque intererit rem non perire, habet furti actionem, sed qui ob eam rem tenetur, quod ea res culpa eius perierit: quam sententiam Celsus quoque libro duodecimo digestorum probat.
+
+11. Is qui precario servum rogaverat subrepto eo potest quaeri an habeat furti actionem. Et cum non est contra eum civilis actio (quia simile donato precarium est) ideoque et interdictum necessarium visum est, non habebit furti actionem. Plane post interdictum redditum puto eum etiam culpam praestare et ideo et furti agere posse.
+
+12. Quod si conduxerit quis, habebit furti actionem, si modo culpa eius subrepta sit res.
+
+13. Si filius familias subreptus sit, patrem habere furti actionem palam est.
+
+14. Si res commodata est et is cui commmodata est decesserit: quamvis hereditati furtum fieri non possit et ideo nec heres eius cui commodata est possit agere, tamen commodator poterit furti agere: idemque et in re pignerata vel in re locata. Licet enim hereditati furti actio non adquiratur, tamen alii, cuius interest, adquiritur.
+
+15. Non solum autem in re commodata competit ei cui commodata est furti actio, sed etiam in ea, quae ex ea adgnata est, quia et huius custodia ad eum pertinet. Nam et si servum tibi commodavero, et vestis eius nomine furti ages, quamvis vestem, qua vestitus est, tibi non commodaverim. Item si iumenta tibi commodavero, quorum sequella erat eculeus, puto competere furti actionem etiam eius nomine, quamvis ipse non sit commodatus.
+
+16. Qualis ergo furti actio detur ei, cui res commodata est, quaesitum est. Et puto omnibus, quorum periculo res alienae sunt, veluti commodati, item locati pignorisve accepti, si hae subreptae sint, omnibus furti actiones competere: condictio autem ei demum competit, qui dominium habet.
+
+17. Si epistula, quam ego tibi misi, intercepta sit, quis furti actionem habeat? Et primum quaerendum est, cuius sit epistula, utrum eius qui misit, an eius ad quem missa est? Et si quidem dedi servo eius, statim ipsi quaesita est, cui misi: si vero procuratori, aeque (quia per liberam personam possessio quaeri potest) ipsius facta est, maxime si eius interfuit eam habere. Quod si ita misi epistulam, ut mihi remittatur, dominium meum manet, quia eius nolui amittere vel transferre dominium. Quis ergo furti aget? Is cuius interfuit eam non subripi, id est ad cuius utilitatem pertinebant ea quae scripta sunt. Et ideo quaeri potest, an etiam is, cui data est perferenda, furti agere possit. Et si custodia eius ad eum pertineat, potest: sed et si interfuit eius epistulam reddere, furti habebit actionem. Finge eam epistulam fuisse, quae continebat, ut ei quid redderetur fieretve: potest habere furti actionem: vel si custodiam eius rei recepit vel mercedem perferendae accipit. Et erit in hunc casum similis causa eius et cauponis aut magistri navis: nam his damus furti actionem, si sint solvendo, quoniam periculum rerum ad eos pertinet.
+
+47.2.15
+
+Paulus libro quinto ad Sabinum
+
+pr. Creditoris, cuius pignus subreptum est, non credito tenus interest, sed omnimodo in solidum furti agere potest: sed et pigneraticia actione id quod debitum excedit debitori praestabit.
+
+1. Dominus, qui rem subripuit, in qua usus fructus alienus est, furti usufructuario tenetur.
+
+2. Sed eum qui tibi commodaverit, si eam rem subripiat, non teneri furti placuisse Pomponius scripsit, quoniam nihil tua interesset, utpote cum nec commodati tenearis. Ergo si ob aliquas impensas, quas in rem commodatam fecisti, retentionem eius habueris, etiam cum ipso domino, si eam subripiat, habebis furti actionem, quia eo casu quasi pignoris loco ea res fuit.
+
+47.2.16
+
+Paulus libro septimo ad Sabinum
+
+Ne cum filio familias pater furti agere possit, non iuris constitutio, sed natura rei impedimento est, quod non magis cum his, quos in potestate habemus, quam nobiscum ipsi agere possumus.
+
+47.2.17
+
+Ulpianus libro 39 ad Sabinum
+
+pr. Servi et filii nostri furtum quidem nobis faciunt, ipsi autem furti non tenentur: neque enim qui potest in furem statuere, necesse habet adversus furem litigare: idcirco nec actio ei a veteribus prodita est.
+
+1. Unde est quaesitum, si fuerit alienatus vel manumissus, an furti actione teneatur. Et placet non teneri: neque enim actio, quae non fuit ab initio nata, oriri potest adversus hunc furem. Plane si manumissus contrectabit, dicendum erit teneri eum furti iudicio, quia hodie furtum fecit.
+
+2. Cum autem servus, quem emi traditusque mihi est, a me redhibeatur, non est in ea causa, ut perinde habeatur, atque si meus numquam fuisset, sed et fuit et desiit. Idcirco dicit Sabinus eum, si furtum fecit, in ea esse causa, ut furti eius nomine is qui redhibuit agere non possit. Sed etsi non possit, attamen ratio haberi debet eius quod fecit, cum redhiberi coeperit, idque actione redhibitoria continetur.
+
+3. Illud quaesitum est, si, cum in fuga esset servus, furtum domino fecisset, an aeque posset habere actionem adversus eum, qui in potestatem domini non regressum bona fide possidere coeperit. Movet quaestionem, quod, quamvis possidere servum eo tempore, quo in fuga est, videor, attamen furti actione non teneor, quasi non sit in mea potestate: quod enim videor possidere, ad usucapionem tantum mihi proficere Iulianus scribit. Dicit igitur Pomponius libro septimo decimo ex Sabino competere furti actionem huic domino, cuius servus in fuga fuit.
+
+47.2.18
+
+Paulus libro nono ad Sabinum
+
+Quod dicitur noxam caput sequi, tunc verum est, ut quae initio adversus aliquem nata est caput nocentis sequatur: ideoque si servus tuus furtum mihi fecerit et dominus eius effectus eum vendidero, non posse me agere cum emptore cassiani putant.
+
+47.2.19
+
+Ulpianus libro 40 ad Sabinum
+
+pr. In actione furti sufficit rem demonstrari, ut possit intellegi.
+
+1. De pondere autem vasorum non est necesse loqui: sufficiet igitur ita dici "lancem" vel "discum" vel "pateram": sed adscribenda etiam materia est, utrum argentea an aurea an alia quae sit.
+
+2. Quod si quis argentum infectum petat, et massam argenteam dicere et pondus debebit ponere.
+
+3. Signati argenti numerum debebit complecti, veluti aureos tot pluresve furto ei abesse.
+
+4. De veste quaeritur, an color eius dicendus sit. Et verum est colorem eius dici oportere ut, quemadmodum in vasis dicitur patera aurea, ita et in veste color dicatur. Plane si quis iuret pro certo se colorem dicere non posse, remitti ei huius rei necessitas debet.
+
+5. Qui rem pignori dat eamque subripit, furti actione tenetur.
+
+6. Furtum autem rei pigneratae dominus non tantum tunc facere videtur, cum possidenti sive tenenti creditori aufert, verum et si eo tempore abstulerit, quo non possidebat, ut puta si rem pigneratam vendidit: nam et hic furtum eum facere constat. Et ita et Iulianus scripsit.
+
+47.2.20
+
+Paulus libro nono ad Sabinum
+
+pr. Cum aes pignori datur, etiamsi aurum esse dicitur, turpiter fit, furtum non fit. Sed si datum est aurum, deinde, cum dixisset se ponderare aut obsignare velle, aes subiecit, furtum fecit: rem enim pignori datam intervertit.
+
+1. Si bona fide rem meam emeris eamque ego subripuero, vel etiam tuus usus fructus sit et eam contrectavero, tenebor tibi furti actione, etsi dominus rei sum. Sed his casibus usucapio quasi furtivae rei non impedietur, quoniam et si alius subripiat et in meam potestatem reversa res fuerit, usucapiebatur.
+
+47.2.21
+
+Paulus libro 40 ad Sabinum
+
+pr. Volgaris est quaestio, an is, qui ex Acervo frumenti modium sustulit, totius rei furtum faciat an vero eius tantum quod abstulit. Ofilius totius Acervi furem esse putat: nam et qui aurem alicuius tetigit, inquit Trebatius totum eum videri tetigisse: proinde et qui dolium aperuit et inde parvum vini abstulit, non tantum eius quod abstulit, verum totius videtur fur esse. Sed verum est in tantum eos furti actione teneri, quantum abstulerunt. Nam et si quis armarium, quod tollere non poterat, aperuerit et omnes res, quae in eo erant, contrectaverit atque ita discesserit, deinde reversus unam ex his abstulerit et antequam se reciperet, quo destinaverat, deprehensus fuerit, eiusdem rei et manifestus et nec manifestus fur erit. Sed et qui segetem luce secat et contrectat, eius quod secat manifestus et nec manifestus fur est.
+
+1. Si is, qui viginti nummorum saccum deposuisset, alium saccum, in quo scit triginta esse, errante eo qui dabat acceperit, putavit autem illic sua viginti esse, teneri furti decem nomine placet.
+
+2. Si quis aes subripuit, dum aurum se subripere putat, vel contra, ex libro octavo Pomponii ad Sabinum aut minus esse, cum plus esset: eius quod subripuit, furtum committit: idem Ulpianus.
+
+3. Sed et si quis subripuit furto duos sacculos, unum decem alterum viginti, quorum alterum suum putavit, alterum scit alienum: profecto dicemus tantum unius, quem putavit alienum, furtum eum facere, quemadmodum si duo pocula abstulerit, quorum alterum suum putavit, alterum scit alienum: nam et hic unius fit furtum.
+
+4. Sed si ansam in poculo suam putavit vel vere fuit, totius poculi eum furtum facere Pomponius scripsit.
+
+5. Sed si de navi onerata furto quis sextarium frumenti tulerit, utrum totius oneris an vero sextarii tantum furtum fecerit? Facilius hoc quaeritur in horreo pleno: et durum est dicere totius furtum fieri. Et quid si cisterna vini sit, quid dicet? Aut aquae cisterna? Quid deinde si nave vinaria (ut sunt multae, in quas vinum effunditur), quid dicemus de eo, qui vinum hausit? An totius oneris fur sit? Et magis est [et], ut et hic non totius dicamus.
+
+6. Certe si proponas in apotheca amphoras esse vini easque subtractas, singularum furtum fit, non totius apothecae, quemadmodum si ex pluribus rebus moventibus in horreo reclusis unam tulerit.
+
+7. Qui furti faciendi causa conclave intravit, nondum fur est, quamvis furandi causa intravit. Quid ergo? Qua actione tenebitur? Utique iniuriarum: aut de vi accusabitur, si per vim introivit.
+
+8. Item si maioris ponderis quid aperuit aut refregit, quod tollere non possit, non est omnium rerum cum eo furti actio, sed earum tantum quas tulit, quia totum tollere non potuit. Proinde si involucrum, quod tollere non potuit, solvit, ut contrectet, deinde contrectavit quasdam res: quamvis singulas res, quae in eo fuerunt, tollere potuerit, si tamen totum involucrum tollere non potuerit, singularum rerum, quas tulerit, fur est, ceterarum non est. Quod si totum vas tollere potuit, dicimus eum totius esse furem, licet solverit, ut singulas vel quasdam tolleret: et ita et Sabinus ait.
+
+9. Si duo pluresve unum tignum furati sunt, quod singuli tollere non potuerint, dicendum est omnes eos furti in solidum teneri, quamvis id contrectare nec tollere solus posset, et ita utimur: neque enim potest dicere pro parte furtum fecisse singulos, sed totius rei universos: sic fiet singulos furti teneri.
+
+10. Quamvis autem earum quoque rerum, quas quis non abstulit, furti teneatur, attamen condici ei non potest, idcirco quia condici ea res, quae ablata est, potest: et ita et Pomponius scribit.
+
+47.2.22
+
+Paulus libro nono ad Sabinum
+
+pr. Si quid fur fregerit aut ruperit, quod non etiam furandi causa contrectaverit, eius nomine cum eo furti agere non potest.
+
+1. Si eo consilio arca refracta sit, ut uniones puta tollerentur, hique furti faciendi causa contrectati sint, eorum tantummodo furtum factum videri: quod est verum. Nam ceterae res, quae seponuntur, ut ad uniones perveniatur, non furti faciendi causa contrectantur.
+
+2. Qui lancem rasit, totius fur est et furti tenetur ad id, quod domini interest.
+
+47.2.23
+
+Ulpianus libro 41 ad Sabinum
+
+Impuberem furtum facere posse, si iam doli capax sit, Iulianus libro vicensimo secundo digestorum scripsit: item posse cum impubere damni iniuria agi, quia id furtum ab impubere fit. Sed modum esse adhibendum ait: nam in infantes id non cadere. Non putamus cum impubere culpae capace Aquilia agi posse. Item verum est, quod Labeo ait, nec ope impuberis furto facto teneri eum.
+
+47.2.24
+
+Paulus libro nono ad Sabinum
+
+Nec minus etiam condici ei posse Iulianus scripsit.
+
+47.2.25
+
+Ulpianus libro 41 ad Sabinum
+
+pr. Verum est, quod plerique probant, fundi furti agi non posse.
+
+1. Unde quaeritur, si quis de fundo vi deiectus sit, an condici ei possit qui deiecit. Labeo negat: sed Celsus putat posse condici possessionem, quemadmodum potest re mobili subrepta.
+
+2. Eorum, quae de fundo tolluntur, ut puta arborum vel lapidum vel harenae vel fructuum, quos quis furandi animo decerpsit, furti agi posse nulla dubitatio est.
+
+47.2.26
+
+Paulus libro nono ad Sabinum
+
+pr. Si apes ferae in arbore fundi tui apes fecerint, si quis eas vel favum abstulerit, eum non teneri tibi furti, quia non fuerint tuae: easque constat captarum terra mari caelo numero esse.
+
+1. Item constat colonum, qui nummis colat, cum eo, qui fructus stantes subripuerit, acturum furti, quia, ut primum decerptus esset, eius esse coepisset.
+
+47.2.27
+
+Ulpianus libro 41 ad Sabinum
+
+pr. Qui tabulas vel cautiones amovet, furti tenetur non tantum pretii ipsarum tabularum, verum eius quod interfuit: quod ad aestimationem refertur eius summae, quae in his tabulis continetur, scilicet si tanti interfuit, ut puta si chirographa aureorum decem tabulae fuerint, dicimus hoc duplicari. Quod si iam erant inanes, quia solutum proponebatur, numquid ipsarum tantum tabularum pretii videatur esse aestimatio facienda? Quid enim interfuit huius? Sed potest dici, quia nonnumquam debitores tabulas sibi restitui petant, quia nonnumquam calumniantur debitores quasi indebito soluto, ab his interesse creditoris tabulas habere, ne forte controversiam super ea re patiatur. Et generaliter dicendum est in id quod interest duplari.
+
+1. Inde potest quaeri, si quis, cum alias probationes mensaeque scripturam haberet, chirographi furtum passus sit, an aestimari duplo chirographi quantitas debeat. Et numquid non, quasi nihil intersit? Quantum enim interest, cum possit debitum aliunde probare? Quemadmodum si in binis tabulis instrumentum scriptum sit: nam nihil videtur deperdere, si futurum est, ut alio chirographo salvo securior sit creditor.
+
+2. Apocha quoque si fuerit subrepta, aeque dicendum est furti actionem in id quod interest locum habere: sed nihil mihi videtur interesse, si sint et aliae probationes solutae pecuniae.
+
+3. Sed si quis non amovit huiusmodi instrumenta, sed interlevit, non tantum furti actio locum habet, verum etiam legis Aquiliae: nam rupisse videtur qui corrupit.
+
+47.2.28
+
+Paulus libro nono ad Sabinum
+
+Sed si subripuit, priusquam deleat, tanto tenetur, quanti domini interfuit non subripi: delendo enim nihil ad poenam adicit.
+
+47.2.29
+
+Ulpianus libro 41 ad Sabinum
+
+Hoc amplius et ad exhibendum agi potest: et interdicto quorum bonorum agi poterit,
+
+47.2.30
+
+Ulpianus libro nono ad Sabinum
+
+Si hereditariae tabulae deletae sint.
+
+47.2.31
+
+Ulpianus libro 41 ad Sabinum
+
+pr. Sed et si imaginem quis vel librum deleverit, et hic tenetur damno iniuriae, quasi corruperit.
+
+1. Si quis tabulas instrumentorum rei publicae municipii alicuius aut subripuerit aut interleverit, Labeo ait furti eum teneri: idemque scribit et de ceteris rebus publicis deque societatibus.
+
+47.2.32
+
+Paulus libro nono ad Sabinum
+
+pr. Quidam tabularum dumtaxat aestimationem faciendam in furti actione existimant, quia, si iudici, apud quem furti agatur, possit probari, quantum debitum fuerit, possit etiam apud eum iudicem eadem probare, apud quem pecuniam petat: si vero in furti iudicio probare non potest, ne illud quidem posse ostendi, quanti eius intersit. Sed potest post furtum factum tabulas nanctus esse actor, ut ex eo probet, quanti sua interfuerit, si tabulas nanctus non esset.
+
+1. De lege Aquilia maior quaestio est, quemadmodum possit probari, quanti eius intersit: nam si potest alias probare, non patitur damnum. Quid ergo, si forte pecuniam sub condicione credidit et interim testium ei copia est, testimonio quorum probationem habeat, qui possunt mori pendente condicione? Aut puta me petisse creditum et, quia testes et signatores, qui rem meminissent, praesentes non haberem, victum rem amisisse: nunc vero, cum furti agam, eorum memoria et praesentia ad fidem creditae pecuniae uti possum.
+
+47.2.33
+
+Ulpianus libro 41 ad Sabinum
+
+Tutor administrationem quidem rerum pupillarium habet, intercipiendi autem potestas ei non datur: et ideo si quid furandi animo amoverit, furtum facit nec usucapi res potest. Sed et furti actione tenetur, quamvis et tutelae agi cum eo possit. Quod in tutore scriptum est, idem erit et in curatore adulescentis ceterisque curatoribus.
+
+47.2.34
+
+Paulus libro nono ad Sabinum
+
+Is, qui opem furtum facienti fert, numquam manifestus est: itaque accidit, ut is quidem, qui opem tulit, furti nec manifesti, is autem, qui deprehensus est, ob eandem rem manifesti teneatur.
+
+47.2.35
+
+Pomponius libro 19 ad Sabinum
+
+pr. Si quis perferendum acceperit et scierit furtivum esse, constat, si deprehendatur, ipsum dumtaxat furem manifestum esse, si nescierit, neutrum, hunc, quia fur non sit, furem, quia deprehensus non sit.
+
+1. Si unus servus tuus hausisset et abstulisset, alter hauriendo deprehensus esset, prioris nomine nec manifesti, alterius manifesti teneberis.
+
+47.2.36
+
+Ulpianus libro 41 ad Sabinum
+
+pr. Qui servo persuasit, ut fugeret, fur non est: nec enim qui alicui malum consilium dedit, furtum facit, non magis quam si ei persuasit, ut se praecipitet aut manus sibi inferret: haec enim furti non admittunt actionem. Sed si alius ei fugam persuaserit, ut ab alio subripiatur, furti tenebitur is qui persuasit, quasi ope consilio eius furtum factum sit. Plus Pomponius scripsit eum, qui persuasit, quamvis interim furti non teneretur, tunc tamen incipere teneri, cum quis fugitivi fur esse coeperit, quasi videatur ope consilio eius furtum factum.
+
+1. Item placuit eum, qui filio vel servo uxori opem fert furtum facientibus, furti teneri, quamvis ipsi furti actione non conveniantur.
+
+2. Idem Pomponius ait, si cum rebus aufugerit fugitivus, posse furti actione sollicitatorem conveniri rerum nomine, quia opem consilium contrectatori tulit. Quod et Sabinus significat.
+
+3. Si duo servi invicem sibi persuaserunt et ambo simul aufugerunt, alter alterius fur non est. Quid ergo, si invicem se celaverunt? Fieri enim potest, ut invicem fures sint. Et potest dici alterum alterius furem esse, quemadmodum, si alii singulos subripuissent, tenerentur, quasi alter alterius nomine opem tulisset: quemadmodum rerum quoque nomine teneri eos furti Sabinus scripsit.
+
+47.2.37
+
+Pomponius libro 19 ad Sabinum
+
+Si pavonem meum mansuetum, cum de domo mea effugisset, persecutus sis, quoad is perit, agere tecum furti ita potero, si aliquis eum habere coeperit.
+
+47.2.38
+
+Paulus libro nono ad Sabinum
+
+pr. Mater filii subrepti furti actionem non habet.
+
+1. Liberarum personarum nomine, licet furti actio sit, condictio tamen nusquam est.
+
+47.2.39
+
+Ulpianus libro 41 ad Sabinum
+
+Verum est, si meretricem alienam ancillam rapuit quis vel celavit, furtum non esse: nec enim factum quaeritur, sed causa faciendi: causa autem faciendi libido fuit, non furtum. Et ideo etiam eum, qui fores meretricis effregit libidinis causa, et fures non ab eo inducti, sed alias ingressi meretricis res egesserunt, furti non teneri. An tamen vel Fabia teneatur, qui subpressit scortum libidinis causa? Et non puto teneri, et ita etiam ex facto, cum incidisset, dixi: hic enim turpius facit, quam qui subripit, sed secum facti ignominiam compensat, certe fur non est.
+
+47.2.40
+
+Paulus libro nono ad Sabinum
+
+Qui iumenta sibi commodata longius duxerit alienave re invito domino usus sit, furtum facit.
+
+47.2.41
+
+Ulpianus libro 41 ad Sabinum
+
+pr. Si, cum quis in hostium potestate esset, furtum ei factum sit et postliminio redierit, poterit quis dicere eum furti habere actionem.
+
+1. Adrogatorem posse furti agere, scilicet eius furti nomine, quod factum est ei quem adrogavit, antequam eum adrogaret, certum est: ceterum si postea, nulla erit dubitatio.
+
+2. Quamdiu vivit is qui furtum fecit, non perit furti actio: aut enim sui iuris est is qui furtum fecit, et cum ipso actio est, aut alieni iuris esse coepit, et actio furti cum eo est, cuius potestati subiectus est: et hoc est quod dicitur "noxa caput sequitur".
+
+3. Si quis post noxam admissam hostium servus fuerit factus, videndum est, an extinguatur actio. Et Pomponius scripsit extingui actionem, et si fuerit reversus, postliminio vel quo alio iure renasci eam actionem debere: et ita utimur.
+
+47.2.42
+
+Paulus libro nono ad Sabinum
+
+pr. Si servus navem exerceat non voluntate domini, de eo, quod ibi perit, volgaris formula in dominum danda est, ut quod alter admisit "dumtaxat de peculio", quod ipse exercitor, adiciatur "ut noxae dederet". Igitur si manumissus sit, persecutio quidem in peculio manebit adversus dominum intra annum, noxalis ipsum sequetur.
+
+1. Interdum et manumissus et qui eum manumisit, ob furtum tenetur, si ideo manumisit, ne furti cum eo agi possit: sed si cum domino actum fuerit, ipso iure manumissum liberari sabinus respondit, quasi decisum sit.
+
+47.2.43
+
+Ulpianus libro 41 ad Sabinum
+
+pr. Falsus creditor (hoc est is, qui se simulat creditorem) si quid acceperit, furtum facit nec nummi eius fient.
+
+1. Falsus procurator furtum quidem facere videtur. Sed Neratius videndum esse ait, an haec sententia cum distinctione vera sit, ut, si hac mente ei dederit nummos debitor, ut eos creditori perferret, procurator autem eos intercipiat, vera sit: nam et manent nummi debitoris, cum procurator eos non eius nomine accepit, cuius eos debitor fieri vult, et invito domino eos contrectando sine dubio furtum facit. Quod si ita det debitor, ut nummi procuratoris fiant, nullo modo eum furtum facere ait voluntate domini eos accipiendo.
+
+2. Si is, qui indebitum accipiebat, delegaverit solvendum, non erit furti actio, si eo absente solutum sit: ceterum si praesente, alia causa est et furtum fecit.
+
+3. Si quis nihil in persona sua mentitus est, sed verbis fraudem adhibuit, fallax est magis quam furtum facit: ut puta si dixit se locupletem, si in mercem se collocaturum quod accepit, si fideiussores idoneos daturum vel pecuniam confestim se soluturum: nam ex his omnibus magis decepit quam furtum fecit, et ideo furti non tenetur. Sed quia dolo fecit, nisi sit alia adversus eum actio, de dolo dabitur.
+
+4. Qui alienum quid iacens lucri faciendi causa sustulit, furti obstringitur, sive scit cuius sit sive ignoravit: nihil enim ad furtum minuendum facit, quod cuius sit ignoret.
+
+5. Quod si dominus id dereliquit, furtum non fit eius, etiamsi ego furandi animum habuero: nec enim furtum fit, nisi sit cui fiat: in proposito autem nulli fit, quippe cum placeat sabini et cassii sententia existimantium statim nostram esse desinere rem, quam derelinquimus.
+
+6. Sed si non fuit derelictum, putavit tamen derelictum, furti non tenetur.
+
+7. Sed si neque fuit neque putavit, iacens tamen tulit, non ut lucretur, sed redditurus ei cuius fuit, non tenetur furti.
+
+8. Proinde videamus, si nescit cuius esset, sic tamen tulit quasi redditurus ei qui desiderasset vel qui ostendisset rem suam, an furti obligetur. Et non puto obligari eum. Solent plerique etiam hoc facere, ut libellum proponant continentem invenisse se et redditurum ei qui desideraverit: hi ergo ostendunt non furandi animo se fecisse.
+
+9. Quid ergo, si ehuretra quae dicunt petat? Nec hic videtur furtum facere, etsi non probe petat aliquid.
+
+10. Si quis sponte rem iecit vel iactavit, non quasi pro derelicto habiturus, tuque hanc rem tuleris, an furti tenearis, Celsus libro duodecimo digestorum quaerit. Et ait: si quidem putasti pro derelicto habitam, non teneris. Quod si non putasti, hic dubitari posse ait: et tamen magis defendit non teneri, quia, inquit, res non intervertitur ei, qui eam sponte reiecit.
+
+11. Si iactum ex nave factum alius tulerit, an furti teneatur? Quaestio in eo est, an pro derelicto habitum sit. Et si quidem derelinquentis animo iactavit, quod plerumque credendum est, cum sciat periturum, qui invenit suum fecit nec furti tenetur. Si vero non hoc animo, sed hoc, ut, si salvum fuerit, haberet: ei qui invenit auferendum est, et si scit hoc qui invenit et animo furandi tenet, furti tenetur. Enimvero si hoc animo, ut salvum faceret domino, furti non tenetur. Quod si putans simpliciter iactatum, furti similiter non tenetur.
+
+12. Etiamsi partis dimidiae nanciscar dominium in servo, qui mihi antea furtum fecerat, magis est, ut extinguatur actio etiam parte redempta, quia et si ab initio quis partem in servo habebat, furti agere non poterat. Plane si usus fructus meus in eo servo esse coeperit, dicendum est furti actionem non extingui, quia fructuarius dominus non est.
+
+47.2.44
+
+Pomponius libro 19 ad Sabinum
+
+pr. Si iussu debitoris ab alio falsus procurator creditoris accepit, debitori iste tenetur furti et nummi debitoris erunt.
+
+1. Si rem meam quasi tuam tibi tradidero scienti meam esse, magis est furtum te facere, si lucrandi animo id feceris.
+
+2. Si servus hereditarius nondum adita hereditate furtum heredi fecerit, qui testamento domini manumissus est, furti actio adversus eum competit, quia nullo tempore heres dominus eius factus est.
+
+47.2.45
+
+Ulpianus libro 41 ad Sabinum
+
+Si socius communis rei furtum fecerit (potest enim communis rei furtum facere), indubitate dicendum est furti actionem competere.
+
+47.2.46
+
+Ulpianus libro 42 ad Sabinum
+
+pr. Inter omnes constat, etiamsi exstincta sit res furtiva, attamen furti remanere actionem adversus furem. Proinde mortuo quoque homine, quem quis furto abstulit, viget furti actio. Sed nec manumissio furti actionem extinguit: nec enim dissimilis est morti manumissio quod ad subtrahendum domino servum. Apparet itaque, qualiterqualiter domino sit servus subtractus, attamen superesse adversus furem furti actionem, eoque iure utimur: competit enim actio non ideo, quia nunc abest, sed quia umquam beneficio furis afuit. Hoc idem in condictione quoque placet: nam condici furi potest, etiamsi res sit aliqua ratione extincta. Hoc idem dicendum, si res in potestatem hostium pervenerit: nam constat posse de ea furti agi. Sed et si pro derelicto sit postea a domino habita, furti nihilo minus agi poterit.
+
+1. Si servus fructuarius subreptus est, uterque, et qui fruebatur et dominus, actionem furti habet. Dividetur igitur actio inter dominum et fructuarium: fructuarius aget de fructibus vel quanti interfuit eius furtum factum non esse eius, dupli: proprietarius vero aget, quod interfuit eius proprietatem non esse subtractam.
+
+2. Quod dicimus dupli, sic accipere debemus etiam quadrupli competere actionem, si manifestum furtum sit.
+
+3. Haec actio et si sit, qui in eo servo habeat usum tantum, poterit ei competere.
+
+4. Et si quis proposuerit hunc servum etiam pigneratum esse, eveniet, ut etiam is qui pignori accepit habeat furti actionem: hoc amplius etiam debitor, si modo plus valeat, quam pro pignore debetur, habet furti actionem.
+
+5. Usque adeo autem diversae sunt actiones, quae eis competunt, ut, si quis eorum pro fure damnum deciderit, dici oporteat solummodo actionem sibi competentem amisisse eum, ceteris vero superesse. Nam et si proponas communem servum subreptum et alium ex dominis pro fure damnum decidisse, is qui non decidit habebit furti actionem.
+
+6. Proprietarius quoque agere adversus fructuarium potest iudicio furti, si quid celandae proprietatis vel subprimendae causa fecit.
+
+7. Recte dictum est, qui putavit se domini voluntate rem attingere, non esse furem: quid enim dolo facit, qui putat dominum consensurum fuisse, sive falso id sive vere putet? Is ergo solus fur est, qui adtrectavit, quod invito domino se facere scivit.
+
+8. Per contrarium quaeritur, si ego me invito domino facere putarem, cum dominus vellet, an furti actio sit. Et ait Pomponius furtum me facere: verum tamen est, ut, cum ego velim eum uti, licet ignoret, ne furti sit obligatus.
+
+9. Si furtiva res ad dominum rediit et iterum contrectata est, competit alia furti actio.
+
+47.2.47
+
+Paulus libro nono ad Sabinum
+
+Si dominium rei subreptae quacumque ratione mutatum sit, domino furti actio competit, veluti heredi et bonorum possessori et patri adoptivo et legatario.
+
+47.2.48
+
+Ulpianus libro 42 ad Sabinum
+
+pr. Qui vas argenteum perdiderat eoque nomine furti egerit: de pondere vasis controversia cum esset et actor maius fuisse diceret, fur vas protulit: id is cuius erat abstulit ei: qui subripuerat dupli nihilo minus condemnatus est. Rectissime iudicatum est: nam in actionem poenalem non venit ipsa res quae subrepta est, sive manifesti furti sive nec manifesti agatur.
+
+1. Qui furem novit, sive indicet eum sive non indicet, fur non est, cum multum intersit, furem quis celet an non indicet: qui novit, furti non tenetur, qui celat, hoc ipso tenetur.
+
+2. Qui ex voluntate domini servum recepit, quin neque fur neque plagiarius sit, plus quam manifestum est: quis enim voluntatem domini habens fur dici potest?
+
+3. Quod si dominus vetuit et ille suscepit, si quidem non celandi animo, non est fur, si celavit, tunc fur esse incipit. Qui igitur suscepit nec celavit etsi invito domino, fur non est. vetare autem dominum accipimus etiam eum qui ignorat, hoc est eum qui non consensit.
+
+4. Si ego tibi poliendum vestimentum locavero, tu vero inscio aut invito me commodaveris Titio et Titio furtum factum sit: et tibi competit furti actio, quia custodia rei ad te pertinet, et mihi adversus te, quia non debueras rem commodare et id faciendo furtum admiseris: ita erit casus, quo fur furti agere possit.
+
+5. Ancilla si subripiatur praegnas vel apud furem concepit, partus furtivus est, sive apud furem edatur sive apud bonae fidei possessorem: sed in hoc posteriore casu furti actio cessat. Sed si concepit apud bonae fidei possessorem ibique pepererit, eveniet, ut partus furtivus non sit, verum etiam usucapi possit. Idem et in pecudibus servandum est et in fetu eorum, quod in partu.
+
+6. Ex furtivis equis nati statim ad bonae fidei emptorem pertinebunt, merito, quia in fructu numerantur: at partus ancillae non numeratur in fructu.
+
+7. Cum fur rem furtivam vendidisset eique nummos pretii dominus rei per vim extorsit, furtum eum nummorum fecisse recte responsum est: idem etiam vi bonorum raptorum actione tenebitur. Quod enim ex re furtiva redigitur, furtivum non esse nemini dubium est: nummus ergo hic, qui redactus est ex pretio rei furtivae, non est furtivus.
+
+47.2.49
+
+Gaius libro decimo ad edictum provinciale
+
+pr. Interdum accidit, ut non habeat furti actionem is, cuius interest rem salvam esse. ut ecce creditor ob rem debitoris subreptam furti agere non potest, etsi aliunde creditum servare non possit: loquimur autem scilicet de ea re, quae pignoris iure obligata non sit.
+
+1. Item rei dotalis nomine, quae periculo mulieris est, non mulier furti actionem habet, sed maritus.
+
+47.2.50
+
+Ulpianus libro 37 ad edictum
+
+pr. In furti actione non quod interest quadruplabitur vel duplabitur, sed rei verum pretium. Sed et si res in rebus humanis esse desierit, cum iudicatur, nihilo minus condemnatio facienda est. Itemque et si nunc deterior sit, aestimatione relata in id tempus, quo furtum factum est. Quod si pretiosior facta sit, eius duplum, quanti tunc, cum pretiosior facta est, fuerit, aestimabitur, quia et tunc furtum eius factum esse verius est.
+
+1. Ope consilio furtum factum Celsus ait non solum, si idcirco fuerit factum, ut socii furarentur, sed et si non, ut socii furarentur, inimicitiarum tamen causa fecerit.
+
+2. Recte pedius ait, sicut nemo furtum facit sine dolo malo, ita nec consilium vel opem ferre sine dolo malo posse.
+
+3. Consilium autem dare videtur, qui persuadet et impellit atque instruit consilio ad furtum faciendum: opem fert, qui ministerium atque adiutorium ad subripiendas res praebet.
+
+4. Cum eo, qui pannum rubrum ostendit fugavitque pecus, ut in fures incideret, si quidem dolo malo fecit, furti actio est: sed et si non furti faciendi causa hoc fecit, non debet impunitus esse lusus tam perniciosus: idcirco Labeo scribit in factum dandam actionem.
+
+47.2.51
+
+Gaius libro 13 ad edictum provinciale
+
+Nam et si praecipitata sint pecora, utilis actio damni iniuriae quasi ex lege Aquilia dabitur.
+
+47.2.52
+
+Ulpianus libro 37 ad edictum
+
+pr. Si quis uxori res mariti subtrahenti opem consiliumve accommodaverit, furti tenebitur.
+
+1. Sed et si furtum cum ea fecit, tenebitur furti, cum ipsa non teneatur.
+
+2. Ipsa quoque si opem furi tulit, furti non tenebitur, sed rerum amotarum.
+
+3. Servi vero sui nomine furti eam teneri nequaquam ambigendum est.
+
+4. Idem dicendum est et in filio familias milite: nam ipse patri furti non tenebitur, servi autem sui nomine castrensis tenebitur, si patri servus furtum fecerit.
+
+5. Sed si filius meus, qui habet castrense peculium, furtum mihi fecerit, an possim actione utili adversus eum agere, videndum est, cum habeat, unde satisfaciat. Et potest defendi agendum.
+
+6. An autem pater filio teneatur, si rem eius castrensis peculii subtraxerit, videamus: et putem teneri: non tantum igitur furtum faciet filio, sed etiam furti tenebitur.
+
+7. Eum creditorem, qui post solutam pecuniam pignus non reddat, teneri furti mela ait, si celandi animo retineat: quod verum esse arbitror.
+
+8. Si sulpurariae sunt in agro et inde aliquis terram egessisset abstulissetque, dominus furti aget: deinde colonus conducti actione consequetur, ut id ipsum sibi praestaretur.
+
+9. Si servus tuus vel filius polienda vestimenta susceperit, an furti actionem habeas, quaeritur. Et si quidem peculium servi solvendo sit, potes habere furti actionem, si non fuerit solvendo, dicendum est non competere furti actionem.
+
+10. Sed et si rem furtivam imprudens quis emerit et ei subrepta sit, habebit furti actionem.
+
+11. Apud Labeonem relatum est, si siliginario quis dixerit, ut quisquis nomine eius siliginem petisset, ei daret, et quidam ex transeuntibus cum audisset, petiit eius nomine et accepit: furti actionem adversus eum, qui suppetet, siliginario competere, non mihi: non enim mihi negotium, sed sibi siliginarius gessit.
+
+12. Si fugitivum meum quis quasi suum ad duumviro vel ab aliis qui potestatem habent de carcere vel custodia dimitteret, an is furti teneatur? Et placet, si fideiussores dedit, in eos domino actionem dandam, ut hi actiones suas mihi mandent: quod si non acceperint fideiussorem, sed tamquam suum accipienti ei tradiderint, dominum furti actionem adversus plagiarium habiturum.
+
+13. Si quis de manu alicuius nummos aureos vel argenteos vel aliam rem excusserit, ita furti tenetur, si ideo fecit, ut alius tolleret, isque sustulerit.
+
+14. Si quis massam meam argenteam subripuerit et pocula fecerit, possum vel poculorum vel massae furti agere vel condictione. Idem est et in uvis et in musto et in vinaceis: nam et uvarum et musti et vinaceorum nomine furti agere potest, sed et condici.
+
+15. Servus, qui se liberum adfirmavit, ut sibi pecunia crederetur, furtum non facit: namque hic nihil amplius quam idoneum se debitorem adfirmat. Idem est et in eo, qui se patrem familias finxit, cum esset filius familias, ut sibi promptius pecunia crederetur.
+
+16. Iulianus libro vicensimo secundo digestorum scripsit, si pecuniam quis a me acceperit, ut creditori meo solvat, deinde, cum tantam pecuniam eidem creditori deberet, suo nomine solverit, furtum eum facere.
+
+17. Si Titius alienam rem vendidit et ab emptore accepit nummos, non videtur nummorum furtum fecisse.
+
+18. Si ex duobus sociis omnium bonorum unus rem pignori acceperit eaque subrepta sit, Mela scripsit eum solum furti habere actionem, qui pignori accepit, socium non habere.
+
+19. Neque verbo neque scriptura quis furtum facit: hoc enim iure utimur, ut furtum sine contrectatione non fiat. Quare et opem ferre vel consilium dare tunc nocet, cum secuta contrectatio est.
+
+20. Si quis asinum meum coegisset et in equas suas tys gonys dumtaxat xarin admisisset, furti non tenetur, nisi furandi quoque animum habuit. Quod et Herennio Modestino studioso meo de Dalmatia consulenti rescripsi circa equos, quibus eiusdem rei gratia subiecisse quis equas suas proponebatur, furti ita demum teneri, si furandi animo id fecisset, si minus, in factum agendum.
+
+21. Cum Titio honesto viro pecuniam credere vellem, subiecisti mihi alium Titium egenum, quasi ille esset locuples, et nummos acceptos cum eo divisisti: furti tenearis, quasi ope tua consilioque furtum factum sit: sed et Titius furti tenebitur.
+
+22. Maiora quis pondera tibi commodavit, cum emeres ad pondus: furti eum venditori teneri mela scribit: te quoque, si scisti: nam [] non [enim] ex voluntate venditoris accipis, cum erret in pondere.
+
+23. Si quis servo meo persuaserit, ut nomen suum ex instrumento puta emptionis tolleret, et Mela scripsit et ego puto furti agendum.
+
+24. Sed si servo persuasum sit, ut tabulas meas describeret, puto, si quidem servo persuasum sit, servi corrupti agendum, si ipse fecit, de dolo actionem dandam.
+
+25. Si linea margaritarum subrepta sit, dicendus est numerus. Sed et si de vino furti agatur, necesse est dici, quot amphorae subreptae sint. Si vasa subrepta sint, numerus erit dicendus.
+
+26. Si servus meus, qui habebat peculii administrationem liberam, pactus sit cum eo non donationis causa, qui rem eius peculiarem subripuerat, recte transactum videtur: quamvis enim domino quaeratur furti actio, attamen in peculio servi est. Sed et si tota poena furti dupli servo soluta sit, non dubie fur liberabitur. Cui consequens est, ut, si forte a fure acceperit servus, quod ei rei satis esse videatur, similiter recte transactum videatur.
+
+27. Si quis iuraverit se furtum non fecisse, deinde rem furtivam contrectet, furti quidem actio peremitur, rei tamen persecutio domino servatur.
+
+28. Si servus subreptus heres institutus fuerit, furti iudicio actor consequetur etiam pretium hereditatis, si modo servus, antequam iussu domini adeat, mortuus fuerit. Condicendo quoque mortuum idem consequetur.
+
+29. Si statuliber subreptus sit vel res sub condicione legata, deinde, antequam adeatur, extiterit condicio, furti iam agi non potest, quia desiit interesse heredis: pendente autem condicione tanti aestimandus est, quanti emptorem potest invenire.
+
+47.2.53 (52,30)
+
+Ulpianus libro 38 ad edictum
+
+Si quis ex domo, in qua nemo erat, rapuerit, actione de bonis raptis in quadruplum convenietur, furti non manifesti, videlicet si nemo eum deprehenderit tollentem.
+
+47.2.54 (53)
+
+Paulus libro 39 ad edictum
+
+pr. Qui iniuriae causa Ianuam effregit, quamvis inde per alios res amotae sint, non tenetur furti: nam maleficia voluntas et propositum delinquentis distinguit.
+
+1. Si servus commodatoris rem subripuerit et solvendo sit is cui subreptum est, Sabinus ait posse et commodati agi cum eo et contra dominum furti servi nomine: sed si pecuniam, quam dominus exegit, reddat, evanescere furti actionem: idem et si remittat commodati actionem.
+
+2. Quod si servus tuus rem tibi commodatam subripuerit, furti tecum actio non est, quia tuo periculo res sit, sed tantum commodati.
+
+3. Qui alienis negotiis gerendis se optulit, actionem furti non habet, licet culpa eius res perierit: sed actione negotiorum gestorum ita damnandus est, si dominus actione ei cedat. Eadem sunt in eo, qui pro tutore negotia gerit, vel in eo tutore, qui diligentiam praestare debeat, veluti qui ex pluribus tutoribus testamento datis oblata satisdatione solus administrationem suscepit.
+
+4. Si ex donatione alterius rem meam teneas et eam subripiam, ita demum furti te agere mecum posse Iulianus ait, si intersit tua retinere possessionem, veluti si hominem donatum noxali iudicio defendisti vel aegrum curaveris, ut adversus vindicantem iustam retentionem habiturus sis.
+
+47.2.55 (54)
+
+Gaius libro 13 ad edictum provinciale
+
+pr. Si pignore creditor utatur, furti tenetur.
+
+1. Eum, qui quod utendum accepit ipse alii commodaverit, furti obligari responsum est. Ex quo satis apparet furtum fieri et si quis usum alienae rei in suum lucrum convertat. Nec movere quem debet, quasi nihil lucri sui gratia faciat: species enim lucri est ex alieno largiri et beneficii debitorem sibi adquirere. Unde et is furti tenetur, qui ideo rem amovet, ut eam alii donet.
+
+2. Furem interdiu deprehensum non aliter occidere lex duodecim tabularum permisit, quam si telo se defendat. Teli autem appellatione et ferrum et fustis et lapis et denique omne, quod nocendi causa habetur, significatur.
+
+3. Cum furti actio ad poenae persecutionem pertineat, condictio vero et vindicatio ad rei reciperationem, apparet recepta re nihilo minus salvam esse furti actionem, vindicationem vero et condictionem tolli: sicut ex diverso post solutam dupli aut quadrupli poenam salva est vindicatio et condictio.
+
+4. Qui ferramenta sciens commodaverit ad effringendum ostium vel armarium, vel scalam sciens commodaverit ad ascendendum: licet nullum eius consilium principaliter ad furtum faciendum intervenerit, tamen furti actione tenetur.
+
+5. Si tutor qui negotia gerit aut curator transegerit cum fure, evanescit furti actio.
+
+47.2.56 (55)
+
+Ulpianus libro tertio disputationum
+
+Cum creditor rem sibi pigneratam aufert, non videtur contrectare, sed pignori suo incumbere.
+
+47.2.57 (56)
+
+Iulianus libro 22 digestorum
+
+pr. Interdum fur etiam manente poenae obligatione in quibusdam casibus rursus obligatur, ut cum eo saepius eiusdem rei nomine furti agi possit. Primus casus occurrit, si possessionis causa mutata esset, veluti si res in domini potestatem redisset eandemque idem subriperet vel eidem domino vel ei, cui is commodasset aut vendidisset. Sed et si persona domini mutata esset, altera poena obligatur.
+
+1. Qui furem deducit ad praefectum vigilibus vel ad praesidem, existimandus est elegisse viam, qua rem persequeretur: et si negotium ibi terminatum et damnato fure recepta est pecunia sublata in simplum, videtur furti quaestio sublata, maxime si non solum rem furtivam fur restituere iussus fuerit, sed amplius aliquid in eum iudex constituerit. Sed et si nihil amplius quam furtivam rem restituere iussus fuerit, ipso, quod in periculum maioris poenae deductus est fur, intellegendum est quaestionem furti sublatam esse.
+
+2. Si res peculiaris subrepta in potestatem servi redierit, solvitur furti vitium et incipit hoc casu in peculio esse et a domino possideri.
+
+3. Cum autem servus rem suam peculiarem furandi consilio amovet, quamdiu eam retinet, condicio eius non mutatur (nihil enim domino abest): sed si alii tradiderit, furtum faciet.
+
+4. Qui tutelam gerit, transigere cum fure potest et, si in potestatem suam redegerit rem furtivam, desinit furtiva esse, quia tutor domini loco habetur. Sed et circa curatorem furiosi eadem dicenda sunt, qui adeo personam domini sustinet, ut etiam tradendo rem furiosi alienare existimetur. Condicere autem rem furtivam tutor et curator furiosi eorum nomine possunt.
+
+5. Si duo servi tui vestem et argentum subripuerint et alterius nomine tecum de veste actum fuerit, alterius de argento agatur: nulla exceptio dari debebit ob eam rem, quod iam de veste actum fuerit.
+
+47.2.58 (57)
+
+Alfenus libro quarto digestorum a Paulo epitomatorum
+
+Si cretae fodiundae causa specum quis fecisset et cretam abstulisset, fur est, non quia fodisset, sed quia abstulisset.
+
+47.2.59 (58)
+
+Iulianus libro quarto ad Urseium Ferocem
+
+Si filio familias furtum factum esset, recte is pater familias factus eo nomine aget. Sed et si res ei locata subrepta fuerit, pater familias factus itidem agere poterit.
+
+47.2.60 (59)
+
+Iulianus libro tertio ex Minicio
+
+Si is, qui rem commodasset, eam rem clam abstulisset, furti cum eo agi non potest, quia suum recepisset et ille commodati liberatus esset. Hoc tamen ita accipiendum est, si nullas retinendi causas is cui commodata res erat habuit: nam si impensas necessarias in rem commodatam fecerat, interfuit eius potius per retentionem eas servare quam ultro commodati agere, ideoque furti actionem habebit.
+
+47.2.61 (60)
+
+Africanus libro septimo quaestionum
+
+Ancilla fugitiva quemadmodum sui furtum facere intellegitur, ita partum quoque contrectando furtivum facit.
+
+47.2.62 (62)
+
+Africanus libro octavo quaestionum
+
+pr. Si servus communis uni ex dominis furtum fecerit, communi dividundo agi debere placet et arbitrio iudicis contineri, ut aut damnum praestet aut parte cedat. Cui consequens videtur esse, ut etiam, si alienaverit suam partem, similiter et cum emptore agi possit, ut quodammodo noxalis actio caput sequatur. Quod tamen non eo usque producendum ait, ut etiam, si liber sit factus, cum ipso agi posse dicamus, sicuti non ageretur etiam, si proprius fuisset. Ex his igitur apparere et mortuo servo nihil esse, quod actor eo nomine consequi possit, nisi forte quid ex re furtiva ad socium pervenerit.
+
+1. His etiam illud consequens esse ait, ut et si is servus, quem mihi pignori dederis, furtum mihi fecerit, agendo contraria pigneraticia consequar, uti similiter aut damnum decidas aut pro noxae deditione hominem relinquas.
+
+2. Idem dicendum de eo, quem convenisset in causa redhibitionis esse, uti, quemadmodum accessiones et fructus emptor restituere cogitur, ita et e contrario venditor quoque vel damnum decidere vel pro noxae deditione hominem relinquere cogatur.
+
+3. Nisi quod in his amplius sit, quod, si sciens quis ignoranti furem pignori dederit, omni modo damnum praestare cogendus est: id enim bonae fidei convenire:
+
+4. Sed in actione empti praecipue spectandum esse, qualem servum venditor repromiserit.
+
+5. Quod vero ad mandati actionem attinet, dubitare se ait, num aeque dicendum sit omni modo damnum praestari debere, et quidem hoc amplius quam in superioribus causis servandum, ut, etiamsi ignoraverit is, qui certum hominem emi mandaverit, furem esse, nihilo minus tamen damnum decidere cogatur. Iustissime enim procuratorem allegare non fuisse se id damnum passurum, si id mandatum non suscepisset: idque evidentius in causa depositi apparere. Nam licet alioquin aequum videatur non oportere cuiquam plus damni per servum evenire, quam quanti ipse servus sit, multo tamen aequius esse nemini officium suum, quod eius, cum quo contraxerit, non etiam sui commodi causa susceperit, damnosum esse, et sicut in superioribus contractibus, venditione locatione pignore, dolum eius, qui sciens reticuerit, puniendum esse dictum sit, ita in his culpam eorum, quorum causa contrahatur, ipsis potius damnosam esse debere. Nam certe mandantis culpam esse, qui talem servum emi sibi mandaverit, et similiter eius qui deponat, quod non fuerit diligentior circa monendum, qualem servum deponeret.
+
+6. Circa commodatum autem merito aliud existimandum, videlicet quod tunc eius solius commodum, qui utendum rogaverit, versetur. Itaque eum qui commodaverit, sicut in locatione, si dolo quid fecerit non ultra pretium servi quid amissurum: quin etiam Paulo remissius circa interpretationem doli mali debere nos versari, quoniam, ut dictum sit, nulla utilitas commodantis interveniat.
+
+7. Haec ita puto vera esse, si nulla culpa ipsius, qui mandatum vel depositum susceperit, intercedat: ceterum si ipse ultro ei custodiam argenti forte vel nummorum commiserit, cum alioquin nihil umquam dominus tale quid fecisset, aliter existimandum est.
+
+8. Locavi tibi fundum, et (ut adsolet) convenit, uti fructus ob mercedem pignori mihi essententiarum si eos clam deportaveris, furti tecum agere posse aiebat. Sed et si tu alii fructus pendentes vendideris et emptor eos deportaverit, consequens erit, ut in furtivam causam eos incidere dicamus. Etenim fructus, quamdiu solo cohaereant, fundi esse et ideo colonum, quia voluntate domini eos percipere videatur, suos fructus facere. Quod certe in proposito non aeque dicitur: qua enim ratione coloni fieri possint, cum emptor eos suo nomine cogat?
+
+9. Statuliberum, qui, si decem dederit, liber esse iussus erat, heres noxali iudicio defenderat: pendente iudicio servus datis decem heredi ad libertatem pervenit: quaeritur, an non aliter absolutio fieri debeat, quam si decem, quae accepisset, heres actori dedisset. Referre existimavit, unde ea pecunia data esset, ut, si quidem aliunde quam ex peculio, haec saltem praestet, quoniam quidem si nondum ad libertatem servus pervenisset, noxae deditus ei, cui deditus esset, daturus fuerit: si vero ex peculio, quia nummos heredis dederit, quos utique is passurus eum non fuerit ei dare, contra statuendum.
+
+47.2.63 (62)
+
+Marcianus libro quarto regularum
+
+Furtum non committit, qui fugitivo iter monstravit.
+
+47.2.64 (63)
+
+Macer libro secundo publicorum iudiciorum
+
+Non poterit praeses provinciae efficere, ut furti damnatum non sequatur infamia.
+
+47.2.65 (64)
+
+Neratius libro primo membranarum
+
+A Titio herede homo Seio legatus ante aditam hereditatem Titio furtum fecit. Si adita hereditate Seius legatum ad se pertinere voluerit, furti eius servi nomine aget cum eo Titius, quia neque tunc, cum faceret furtum, eius fuit, et (ut maxime quis existimet, si servus esse coeperit eius, cui furtum fecerat, tolli furti actionem, ut nec si alienatus sit, agi possit eo nomine) ne post aditam quidem hereditatem Titii factus est, quia ea, quae legantur, recta via ab eo qui legavit ad eum cui legata sunt transeunt.
+
+47.2.66 (65)
+
+Ulpianus libro primo ad edictum aedilis curulis
+
+Qui ea mente alienum quid contrectavit, ut lucri faceret, tametsi mutato consilio id domino postea reddidit, fur est: nemo enim tali peccato paenitentia sua nocens esse desinit.
+
+47.2.67 (66)
+
+Paulus libro septimo ad Plautium
+
+pr. Si is, qui rem pignori dedit, vendiderit eam: quamvis dominus sit, furtum facit, sive eam tradiderat creditori sive speciali pactione tantum obligaverat: idque et Iulianus putat.
+
+1. Si is, cui res subrepta sit, dum apud furem sit, legaverat eam mihi, an, si postea fur eam contrectet, furti actionem habeam? Et secundum octaveni sententiam mihi soli competit furti actio, cum heres suo nomine non habeat, quia, quacumque ratione dominium mutatum sit, domino competere furti actionem constat.
+
+2. Eum, qui mulionem dolo malo in ius vocasset, si interea mulae perissent, furti teneri veteres responderunt.
+
+3. Iulianus respondit eum, qui pecuniis exigendis praepositus est, si manumissus exigat, furti teneri. Quod ei consequens est dicere et in tutore, cui post pubertatem solutum est.
+
+4. Si tu Titium mihi commendaveris quasi idoneum, cui crederem, et ego in Titium inquisii, deinde tu alium adducas quasi Titium, furtum facies, quia Titium esse hunc credo, scilicet si et ille qui adducitur scit: quod si nesciat, non facies furtum, nec hic qui adduxit opem tulisse potest videri cum furtum factum non sit: sed dabitur actio in factum in eum qui adduxit.
+
+5. Si stipulatus de te sim "per te non fieri, quo minus homo eros intra kalendas illas mihi detur", quamvis mea interesset eum non subripi (cum subrepto eo ex stipulatu non teneris, si tamen per te factum non sit quo minus mihi daretur), non tamen furti actionem me habere.
+
+47.2.68 (67)
+
+Celsus libro 12 digestorum
+
+pr. Infitiando depositum nemo facit furtum (nec enim furtum est ipsa infitiatio, licet prope furtum est): sed si possessionem eius apiscatur intervertendi causa, facit furtum. Nec refert, in digito habeat anulum an dactyliotheca quem, cum deposito teneret, habere pro suo destinaverit.
+
+1. Si tibi subreptum est, quod nisi die certa dedisses, poenam promisisti, ideoque sufferre eam necesse fuit, furti actione hoc quoque coaestimabitur.
+
+2. Infans apud furem adolevit: tam adulescentis furtum fecit ille quam infantis, et unum tamen furtum est: ideoque dupli tenetur, quanti umquam apud eum plurimi fuit. Nam quod semel dumtaxat furti agi cum eo potest, quid refert propositae quaestioni? Quippe, si subreptus furi foret ac rursus a fure altero eum recuperasset, etiam si duo furta fecisset, non amplius quam semel cum eo furti agi posset. Nec dubitaverim, quin adulescentis potius quam infantis aestimationem fieri oporteret. Et quid tam ridiculum est quam meliorem furis condicionem esse propter continuationem furti existimare?
+
+3. Cum servus inemptus factus sit, non posse emptorem furti agere cum venditore ob id, quod is servus post emptionem, antequam redderetur, subripuisset.
+
+4. Quod furi ipsi furtum fecerit furtivus servus, eo nomine actionem cum domino furem habiturum placet, ne facinora talium servorum non solum ipsis impunitatem, sed dominis quoque eorum quaestui erunt: plerumque enim eius generis servorum furtis peculia eorundem augentur.
+
+5. Si colonus post lustrum conductionis anno amplius fructus invito domino perceperit, videndum, ne messis et vindemiae furti cum eo agi possit. Et mihi dubium non videtur, quin fur et si consumpserit rem subreptam, repeti ea ab eo possit.
+
+47.2.69 (68)
+
+Marcellus libro octavo digestorum
+
+Hereditariae rei furtum fieri Iulianus negabat, nisi forte pignori dederat defunctus aut commodaverat:
+
+47.2.70 (69)
+
+Scaevola libro quarto quaestionum
+
+Aut in qua usus fructus alienus est.
+
+47.2.71 (70)
+
+Marcellus libro octavo digestorum
+
+His enim casibus putabat hereditariarum rerum fieri furtum et usucapionem impediri idcircoque heredi quoque actionem furti competere posse.
+
+47.2.72 (71)
+
+Iavolenus libro 15 ex Cassio
+
+pr. Si is, cui commodata res erat, furtum ipsius admisit, agi cum eo et furti et commodati potest: et, si furti actum est, commodati actio exstinguitur, si commodati, actioni furti exceptio obicitur.
+
+1. Eius rei, quae pro herede possidetur, furti actio ad possessorem non pertinet, quamvis usucapere quis possit, quia furti agere potest is, cuius interest rem non subripi, interesse autem eius videtur qui damnum passurus est, non eius qui lucrum facturus esset.
+
+47.2.73 (72)
+
+Modestinus libro septimo responsorum
+
+Sempronia libellos composuit quasi datura centurioni, ut ad officium transmitterentur, sed non dedit: Lucius pro tribunali eos recitavit quasi officio traditos: non sunt inventi in officio neque centurioni traditi: quaero, quo crimini subiciatur, qui ausus est libellos de domo subtractos pro tribunali legere, qui non sint dati? Modestinus respondit, si clam subtraxit, furtum commissum.
+
+47.2.74 (73)
+
+Iavolenus libro 15 ex Cassio
+
+Si is, qui pignori rem accepit, cum de vendendo pignore nihil convenisset, vendidit, aut ante, quam dies venditionis veniret pecunia non soluta, id fecit: furti se obligat.
+
+47.2.75 (74)
+
+Iavolenus libro quarto epistularum
+
+Furtivam ancillam bona fide duorum aureorum emptam cum possiderem, subripuit mihi Attius, cum quo et ego et dominus furti agimus: quaero, quanta aestimatio pro utroque fieri debet. Respondit: emptori duplo, quanti eius interest, aestimari debet, domino autem duplo, quanti ea mulier fuerit. Nec nos movere debet, quod duobus poena furti praestabitur, quippe, cum eiusdem rei nomine praestetur, emptori eius possessionis, domino ipsius proprietatis causa praestanda est.
+
+47.2.76 (75)
+
+Pomponius libro 21 ad Quintum Mucium
+
+Si is, qui simulabat se procuratorem esse, effecisset, ut vel sibi vel cui me delegavit promitterem, furti cum eo agere non possum, quoniam nullum corpus intervenisset, quod furandi animo contrectaretur.
+
+47.2.77 (76)
+
+Pomponius libro 38 ad Quintum Mucium
+
+pr. Qui re sibi commodata vel apud se deposita usus est aliter atque accepit, si existimavit se non invito domino id facere, furti non tenetur. Sed nec depositi ullo modo tenebitur: commodati an teneatur, in culpa aestimatio erit, id est an non debuerit existimare id dominum permissurum.
+
+1. Si quis alteri furtum fecerit et id quod subripuit alius ab eo subripuit, cum posteriore fure dominus eius rei furti agere potest, fur prior non potest, ideo quod domini interfuit, non prioris furis, ut id quod subreptum est salvum esset. Haec Quintus Mucius refert et vera sunt: nam licet intersit furis rem salvam esse, quia condictione tenetur, tamen cum eo is cuius interest furti habet actionem, si honesta ex causa interest. Nec utimur Servii sententia, qui putabat, si rei subreptae dominus nemo exstaret nec exstaturus esset, furem habere furti actionem: non magis enim tunc eius esse intellegitur, qui lucrum facturus sit. Dominus igitur habebit cum utroque furti actionem, ita ut, si cum altero furti actionem inchoat, adversus alterum nihilo minus duret: sed et condictionem, quia ex diversis factis tenentur.
+
+47.2.78 (77)
+
+Pomponius libro 13 ex variis lectionibus
+
+Qui saccum habentem pecuniam subripit, furti etiam sacci nomine tenetur, quamvis non sit ei animus sacci subripiendi.
+
+47.2.79 (78)
+
+Papinianus libro octavo quaestionum
+
+Rem inspiciendam quis dedit: si periculum spectet eum qui accepit, ipse furti agere potest.
+
+47.2.80 (79)
+
+Papinianus libro nono quaestionum
+
+Si debitor pignus subripuit, quod actione furti solvit nullo modo recipit.
+
+47.2.81 (80)
+
+Papinianus libro 12 quaestionum
+
+pr. Si vendidero neque tradidero servum et is sine culpa mea subripiatur, magis est, ut mihi furti competat actio: et mea videtur interesse, quia dominium apud me fuit vel quoniam ad praestandas actiones teneor.
+
+1. Cum autem iure dominii defertur furti actio, quamvis non alias, nisi nostra intersit, competat, tamen ad aestimationem corporis, si nihil amplius intersit, utilitas mea referenda est, idque et in statuliberis et in legato sub condicione relicto probatur: alioquin diversum probantibus statui facile quantitas non potest. Quia itaque tunc sola utilitas aestimationem facit, cum cessante dominio furti actio nascitur, in istis causis ad aestimationem corporis furti actio referri non potest.
+
+2. Si ad exhibendum egissem optaturus servum mihi legatum et unus ex familia servus subreptus, heres furti habebit actionem: eius interest: nihil enim refert, cur praestari custodia debeat.
+
+3. Cum raptor omnimodo furtum facit, manifestus fur existimandus est:
+
+4. Is autem, cuius dolo fuerit raptum, furti quidem non tenebitur, sed vi bonorum raptorum.
+
+5. Si Titius, cuius nomine pecuniam perperam falsus procurator accepit, ratum habeat, ipse quidem Titius negotiorum gestorum aget, ei vero, qui pecuniam indebitam dedit, adversus Titium erit indebiti condictio, adversus falsum procuratorem furtiva durabit: electo Titio non inique per doli exceptionem, uti praestetur ei furtiva condictio, desiderabitur. Quod si pecunia fuit debita, ratum habente Titio furti actio evanescit, quia debitor liberatur.
+
+6. Falsus autem procurator ita demum furtum pecuniae faciet, si nomine quoque veri procuratoris, quem creditor habuit, adsumpto debitorem alienum circumvenerit. Quod aeque probatur et in eo, qui sibi deberi pecuniam ut heredi Sempronii creditoris adseveravit, cum esset alius.
+
+7. Qui rem Titii agebat, eius nomine falso procuratori creditoris solvit et Titius ratum habuit: non nascitur ei furti actio, quae statim, cum pecunia soluta est, ei qui dedit nata est, cum Titii nummorum dominium non fuerit neque possessio. Sed condictionem indebiti quidem Titius habebit, furtivam autem qui pecuniam dedit: quae, si negotiorum gestorum actione Titius conveniri coeperit, arbitrio iudicis ei praestabitur.
+
+47.2.82 (81)
+
+Papinianus libro primo responsorum
+
+Ob pecuniam civitati subtractam actione furti, non crimine peculatus tenetur.
+
+47.2.83 (82)
+
+Paulus libro secundo sententiarum
+
+pr. Fullo et sarcinator, qui polienda vel sarcienda vestimenta accepit, si forte his utatur, ex contrectatione eorum furtum fecisse videtur, quia non in eam causam ab eo videntur accepta.
+
+1. Frugibus ex fundo subreptis tam colonus quam dominus furti agere possunt, quia utriusque interest rem persequi.
+
+2. Qui ancillam non meretricem libidinis causa subripuit, furti actione tenebitur et, si subpressit, poena legis Fabiae coercetur.
+
+3. Qui tabulas cautionesve subripuit, in adscriptam summam furti actione tenebitur: nec refert, cancellatae nec ne sint, quia ex his debitum magis solutum esse comprobari potest.
+
+47.2.84 (83)
+
+Neratius libro primo responsorum
+
+pr. Si quis ex bonis eius, quem putabat mortuum, qui vivus erat, pro herede res adprehenderit, eum furtum non facere.
+
+1. Ei, cum quo suo nomine furti actum est, si servi nomine de alia re adversus eum agatur, non dandam exceptionem furti una facti.
+
+47.2.85 (84)
+
+Paulus libro secundo ad Neratium
+
+Quamvis res furtiva, nisi ad dominum redierit, usucapi non possit, tamen, si eo nomine lis aestimata fuerit vel furi dominus eam vendiderit, non interpellari iam usucapionis ius dicendum est.
+
+47.2.86 (85)
+
+Paulus libro secundo manualium
+
+Is, cuius interest non subripi, furti actionem habet, si et rem tenuit domini voluntate, id est veluti is cui res locata est. Is autem, qui sua voluntate vel etiam pro tutore negotia gerit, item tutor vel curator ob rem sua culpa subreptam non habet furti actionem. Item is, cui ex stipulatu vel ex testamento servus debetur, quamvis intersit eius, non habet furti actionem: sed nec is, qui fideiussit pro colono.
+
+47.2.87 (86)
+
+Tryphoninus libro nono disputationum
+
+Si ad dominum ignorantem perveniret res furtiva vel vi possessa, non videatur in potestatem domini reversa, ideo nec si post talem domini possessionem bona fide ementi venierit, usucapio sequitur.
+
+47.2.88 (87)
+
+Paulus libro primo decretorum
+
+Creditori actio furti in summam pignoris, non debiti competit. Sed ubi debitor ipse subtraxisset pignus, contra probatur, ut in summam pecuniae debitae et usurarum eius furti conveniretur.
+
+47.2.89 (88)
+
+Paulus libro singulari de concurrentibus actionibus
+
+Si quis egerit vi bonorum raptorum, etiam furti agere non potest: quod si furti elegerit in duplum agere, potest et vi bonorum raptorum agere sic, ut non excederet quadruplum.
+
+47.2.90 (89)
+
+Paulus libro singulari de poenis paganorum
+
+Si libertus patrono vel cliens, vel mercennarius ei qui eum conduxit, furtum fecerit, furti actio non nascitur.
+
+47.2.91 (90)
+
+Iavolenus libro nono ex posterioribus Labeonis
+
+pr. Fullo actione locati de domino liberatus est: negat eum furti recte acturum Labeo. Item si furti egisset, priusquam ex locato cum eo ageretur et, antequam de furto iudicaretur, locati actione liberatus esset, et fur ab eo absolvi debet. Quod si nihil eorum ante accidisset, furem ei condemnari oportere. Haec idcirco, quoniam furti eatenus habet actionem, quatenus eius interest.
+
+1. Nemo opem aut consilium alii praestare potest, qui ipse furti faciendi consilium capere non potest.
+
+47.2.92 (91)
+
+Labeo libro secundo pithanon a Paulo epitomatorum
+
+Si quis, cum sciret quid sibi subripi, non prohibuit, non potest furti agere. Paulus. Immo contra: nam si quis scit sibi rapi et, quia non potest prohibere, quievit, furti agere potest. At si potuit prohibere nec prohibuit, nihilo minus furti aget: et hoc modo patronus quoque liberto et is, cuius magna verecundia ei, quem in praesentia pudor ad resistendum impedit, furtum facere solet.
+
+47.2.93 (92)
+
+Ulpianus libro 38 ad edictum
+
+Meminisse oportebit nunc furti plerumque criminaliter agi et eum qui agit in crimen subscribere, non quasi publicum sit iudicium, sed quia visum est temeritatem agentium etiam extraordinaria animadversione coercendam. Non ideo tamen minus, si qui velit, poterit civiliter agere.
+
+* 47.3.0. De tigno iuncto.
+
+
+47.3.1
+
+Ulpianus libro 37 ad edictum
+
+pr. Lex duodecim tabularum neque solvere permittit tignum furtivum aedibus vel vineis iunctum neque vindicare (quod providenter lex effecit, ne vel aedificia sub hoc praetextu diruantur vel vinearum cultura turbetur): sed in eum, qui convictus est iunxisse, in duplum dat actionem.
+
+1. Tigni autem appellatione continetur omnis materia, ex qua aedificium constet, vineaeque necessaria. Unde quidam aiunt tegulam quoque et lapidem et testam ceteraque, si qua aedificiis sunt utilia (tigna enim a tegendo dicta sunt), hoc amplius et calcem et harenam tignorum appellatione contineri. Sed et in vineis tigni appellatione omnia vineis necessaria continentur, ut puta perticae pedamenta.
+
+2. Sed et ad exhibendum danda est actio: nec enim parci oportet ei, qui sciens alienam rem aedificio inclusit vinxitve: non enim sic eum convenimus quasi possidentem, sed ita, quasi dolo malo fecerit, quo minus possideat.
+
+47.3.2
+
+Ulpianus libro 42 ad Sabinum
+
+Sed si proponas tigni furtivi nomine aedibus iuncti actum, deliberari poterit, an extrinsecus sit rei vindicatio. Et esse non dubito.
+
+* 47.4.0. Si is, qui testamento liber esse iussus erit, post mortem domini ante aditam hereditatem subripuisse aut corrupisse quid dicetur.
+
+
+47.4.1
+
+Ulpianus libro 38 ad edictum
+
+pr. Si dolo malo eius, qui liber esse iussus erit, post mortem domini ante aditam hereditatem in bonis, quae eius fuerunt, qui eum liberum esse iusserit, factum esse dicetur, quo minus ex his bonis ad heredem aliquid perveniret: in eum intra annum utilem dupli iudicium datur.
+
+1. Haec autem actio, ut Labeo scripsit, naturalem potius in se quam civilem habet aequitatem, si quidem civilis deficit actio: sed natura aequum est non esse impunitum eum, qui hac spe audacior factus est, quia neque ut servum se coerceri posse intellegit spe imminentis libertatis, neque ut liberum damnari, quia hereditati furtum fecit, hoc est dominae, dominus autem dominave non possunt habere furti actionem cum servo suo, quamvis postea ad libertatem pervenerit vel alienatus sit, nisi si postea quoque contrectaverit. E re itaque esse praetor putavit calliditatem et protervitatem horum, qui hereditates depopulantur, dupli actione coercere.
+
+2. Non alias tenebitur iste libertus, quam si dolo quid dissipasse proponatur. culpa autem neglegentiaque servi post libertatem excusata est, sed culpa dolo proxima dolum repraesentat. Proinde si quid damni dedit sine dolo, cessabit ista actio, quamvis alias Aquilia tenetur ob hoc, quod damnum qualiterqualiter dederit. Habet itaque certum finem ista actio, ut et dolo fecerit iste et post mortem domini et ante aditam hereditatem. Ceterum si sine dolo, aut dolo quidem, verum vivo domino, non tenebitur hac actione: quin immo et si post mortem post aditam hereditatem, cessabit actio: nam ubi adita hereditas est, iam quasi liber conveniri potest.
+
+3. Quid tamen, si sub condicione accepit libertatem? Ecce nondum liber est: sed ut servus potest coerceri: idcirco dicendum est cessare hanc actionem.
+
+4. Sed ubi libertas competit continuo, dicendum est posse et debere hanc actionem dari adversus eum, qui pervenit ad libertatem.
+
+5. Si servus pure legatus ante aditam hereditatem quid admiserit in hereditate, dicendum est, quia dominium in eo mutatur, huic actioni locum esse.
+
+6. Et generaliter dicimus, quo casu in servo dominium vel mutatur vel amittitur vel libertas competit post intervallum modicum aditae hereditatis, eo casu hanc actionem indulgendam.
+
+7. Sed si fideicommissaria libertas servo data sit, quidquid in hereditate maleficii admisit, numquid non prius cogatur heres manumittere, quam si satisfecerit? Est autem saepissime et a divo Marco et ab imperatore nostro cum patre rescriptum non impediri fideicommissariam libertatem, quae pure data est. Divus sane Marcus rescripsit arbitrum ex continenti dandum, apud quem ratio ponatur: sed hoc rescriptum ad rationem ponendam pertinet actus, quem servus administravit. Arbitror igitur et hic posse hanc actionem competere.
+
+8. "Ante aditam hereditatem" sic accipere debemus "antequam vel ab uno adeatur hereditas": nam ubi vel unus adit, competit libertas.
+
+9. Si pupillus heres institutus sit et a substituto eius libertas data medioque tempore quaedam admittantur: si quidem vivo pupillo quid fuerit factum, locum non esse huic actioni: sin vero post mortem, antequam quis pupillo succederet, actionem istam locum habere.
+
+10. Haec actio locum habet non tantum in rebus, quae in bonis fuerunt testatoris, sed et si heredis interfuit dolum malum admissum non esse, quo minus ad se perveniret. Et ideo Scaevola plenius tractat et si eam rem subripuisset servus, quam defunctus pignori acceperat, hanc actionem honorariam locum habere: plenius enim causam bonorum hic accipimus pro utilitate. Nam si in locum deficientis furti actionis propter servitutem hanc actionem substituit praetor, verisimile est in omnibus causis eum, in quibus furti agi potuit, substituisse. Et in summa probatur hanc actionem et in rebus pigneratis et in rebus alienis bona fide possessis locum habere: idem et de re commodata testatori.
+
+11. Item si fructus post mortem testatoris perceptos hic servus, qui libertatem prospicit, contrectaverit, locus erit huic actioni: sed et si partus vel fetus post mortem adgnatos, tantundem erit dicendum.
+
+12. Praeterea si impubes post mortem patris quaesierit rei dominium eaque, antequam impuberis hereditas adeatur, subripiatur, locum habere istam actionem dicendum est.
+
+13. Sed et in omnibus, quae interfuit heredis non esse aversa, locum habet haec actio.
+
+14. Non tantum autem ad sola furta ista actio pertinet, sed etiam ad omnia damna, quaecumque hereditati servus dedit.
+
+15. Scaevola ait possessionis furtum fieri: denique si nullus sit possessor, furtum negat fieri: idcirco autem hereditati furtum non fieri, quia possessionem hereditas non habet, quae facti est et animi. Sed nec heredis est possessio, antequam possideat, quia hereditas in eum id tantum transfundit, quod est hereditatis, non autem fuit possessio hereditatis.
+
+16. Illud verum est, si potest alias heres ad suum pervenire, non esse honorariam hanc actionem tribuendam, cum in id quod intersit condemnatio fiat.
+
+17. Praeter hanc actionem esse et vindicationem rei constat, cum haec actio ad similitudinem furti competat.
+
+18. Item heredi ceterisque successoribus competere istam actionem dicendum est.
+
+19. Si plures servi libertatem acceperunt et dolo malo quid admiserint, singuli convenientur in solidum, hoc est in duplum. Et cum ex delicto conveniantur, exemplo furti nullus eorum liberatur, etsi unus conventus praestiterit.
+
+47.4.2
+
+Gaius libro 13 ad edictum provinciale
+
+Si paulo ante, quam statuta libertas optigerit, amoverit aliquid servus aut corruperit, ignorantia domini non introducit hanc actionem: ideoque licet maxime ignoraverit heres a statulibero aut quilibet alius dominus a servo suo amotum aliquid corruptumve esse, non impetrat post libertatem eius ullam actionem, quamvis in pluribus aliis causis iusta ignorantia excusationem mereatur.
+
+47.4.3
+
+Ulpianus libro 13 ad edictum
+
+Labeo putavit sub condicione manumissum res [rem] amoventem, si cito condicio extitit, hac actione conveniendum.
+
+* 47.5.0. Furti adversus nautas caupones stabularios.
+
+
+47.5.1
+
+Ulpianus libro 38 ad edictum
+
+pr. In eos, qui naves cauponas stabula exercebunt, si quid a quoquo eorum quosve ibi habebunt furtum factum esse dicetur, iudicium datur, sive furtum ope consilio exercitoris factum sit, sive eorum cuius, qui in ea navi navigandi causa esset.
+
+1. Navigandi autem causa accipere debemus eos, qui adhibentur, ut navis naviget, hoc est nautas.
+
+2. Et est in duplum actio.
+
+3. Cum enim in caupona vel in navi res perit, ex edicto praetoris obligatur exercitor navis vel caupo ita, ut in potestate sit eius, cui res subrepta sit, utrum mallet cum exercitore honorario iure an cum fure iure civili experiri.
+
+4. Quod si receperit salvum fore caupo vel nauta, furti actionem non dominus rei subreptae, sed ipse habet, quia recipiendo periculum custodiae subit.
+
+5. Servi vero sui nomine exercitor noxae dedendo se liberat. Cur ergo non exercitor condemnetur, qui servum tam malum in nave admisit? Et cur liberi quidem hominis nomine tenetur in solidum, servi vero non tenetur? Nisi forte idcirco, quod liberum quidem hominem adhibens statuere debuit de eo, qualis esset, in servo vero suo ignoscendum sit ei quasi in domestico malo, si noxae dedere paratus sit. Si autem alienum adhibuit servum, quasi in libero tenebitur.
+
+6. Caupo praestat factum eorum, qui in ea caupona eius cauponae exercendae causa ibi sunt, item eorum, qui habitandi causa ibi sunt: viatorum autem factum non praestat. Namque viatorem sibi eligere caupo vel stabularius non videtur nec repellere potest iter agentes: inhabitatores vero perpetuos ipse quodammodo elegit, qui non reiecit, quorum factum oportet eum praestare. In navi quoque vectorum factum non praestatur.
+
+* 47.6.0. Si familia furtum fecisse dicetur.
+
+
+47.6.1
+
+Ulpianus libro 38 ad edictum
+
+pr. Utilissimum id edictum praetor proposuit, quo dominis prospiceret adversus maleficia servorum, videlicet ne, cum plures furtum admittunt, evertant domini patrimonium, si omnes dedere aut pro singulis aestimationem litis offerre cogatur. Datur igitur arbitrium hoc edicto, ut, si quidem velit dicere noxios servos, possit omnes dedere, qui participaverunt furtum: enimvero si maluerit aestimationem offerre, tantum offerat, quantum, si unus liber furtum fecisset, et retineat familiam suam.
+
+1. Haec autem facultas domino tribuitur totiens, quotiens ignorante eo furtum factum est: ceterum si sciente, facultas ei non erit data: nam et suo nomine et singulorum nomine conveniri potest noxali iudicio, nec una aestimatione, quam homo liber sufferret, defungi poterit: is autem accipitur scire, qui scit et potuit prohibere: scientiam enim spectare debemus, quae habet et voluntatem: ceterum si scit, prohibuit tamen, dicendum est usurum edicti beneficio.
+
+2. Si plures servi damnum culpa dederint, aequissimum est eandem facultatem domino dari.
+
+3. Cum plures servi eiusdem rei furtum faciunt et unius nomine cum domino lis contestata sit, tamdiu aliorum nomine actio sustineri debebit, quamdiu priore iudicio potest actor consequi, quantum consequeretur, si liber id furtum fecisset,
+
+47.6.2
+
+Iulianus libro 23 digestorum
+
+Id est et poenae nomine duplum et condictionis simplum.
+
+47.6.3
+
+Ulpianus libro 38 ad edictum
+
+pr. Quotiens tantum praestat dominus, quantum praestaretur, si unus liber fecisset, cessat ceterorum nomine actio, non adversus ipsum, verum etiam adversus emptorem dumtaxat, si forte quis eorum, qui simul fecerant, venierit. Idemque et si fuerit manumissus. Quod si prius fuerit ablatum a manumisso, tunc dabitur adversus dominum familiae nomine: nec enim potest dici, quod a manumisso praestitum est, quasi a familia esse praestitum. Plane si emptor praestiterit, puto denegandam in venditorem actionem: quodammodo enim hoc a venditore praestitum est, ad quem nonnumquam regressus est ex hac causa, maxime si furto [furtis] noxaque solutum esse promisit.
+
+1. Sed an, si legati servi nomine vel eius, qui donatus est, actum sit cum legatario vel eo, cui donatus est, agi possit etiam cum domino ceterorum, quaeritur: quod admittendum puto.
+
+2. Huius edicti levamentum non tantum ei, qui servos possidens condemnatus praestitit tantum, quantum, si unus liber fecisset, datur, verum ei quoque, qui idcirco condemnatus est, quia dolo fecerat quo minus possideret.
+
+47.6.4
+
+Iulianus libro 22 digestorum
+
+Etiam heredibus eius, cui plures eiusdem familiae furtum fecerint, eadem actio competere debet, quae testatori competebat, id est ut omnes non amplius consequantur, quam consequerentur, si id furtum liber fecisset.
+
+47.6.5
+
+Marcellus libro octavo digestorum
+
+Familia communis sciente altero furtum fecit: omnium nomine cum eo qui scit furti agi poterit, cum altero ad eum modum, qui edicto comprehensus est: quod ille praestiterit non totius familiae nomine, ab hoc socio partem consequeretur. Et si servus communis alterius iussu damnum dederit, etiam quod praestiterit alter, si modo cum eo quoque ex lege Aquilia vel ex duodecim tabulis agi potest, repetat a socio, sicuti cum communi rei nocitum est. Si ergo dumtaxat duos habuerim servos communes, cum eo, quo non ignorante factum est, agetur utriusque servi nomine, sed non amplius consequentur a socio, quam si unius nomine praestitisset: quod si cum eo, quo ignorante factum est, agere volet, duplum tantum consequetur. Et videamus, an iam in socium alterius servi nomine non sit dandum iudicium, quemadmodum si omnium nomine socius decidisset: nisi forte hoc casu severius a praetore constituendum est nec servorum conscio parcendum est.
+
+47.6.6
+
+Scaevola libro quarto quaestionum
+
+pr. Labeo putat, si coheres meus, quod furtum familia cuius fecisset, duplum abstulisset, me non impediri, quo minus dupli agam, eoque modo fraudem edicto fieri esseque iniquum plus heredes nostros ferre, quam ferremus ipsi.
+
+1. Idem, si defunctus minus duplo abstulit, adhuc singulos heredes recte experiri. Scaevola respondit: verius puto partes eius heredes persecuturos, sed ut cum eo, quod defunctus abstulit, uterque heres non plus duplo ferat.
+
+* 47.7.0. Arborum furtim Caesarum.
+
+
+47.7.1
+
+Paulus libro nono ad Sabinum
+
+Si furtim arbores caesae sint, et ex lege Aquilia et ex duodecim tabularum dandam actionem Labeo ait: sed Trebatius ita utramque dandam, ut iudex in posteriore deducat id quod ex prima consecutus sit et reliquo condemnet.
+
+47.7.2
+
+Gaius libro primo ad legem duodecim tabularum
+
+Sciendum est autem eos, qui arbores et maxime vites ceciderint, etiam tamquam latrones puniri.
+
+47.7.3
+
+Ulpianus libro 42 ad Sabinum
+
+pr. Vitem arboris appellatione contineri plerique veterum existimaverunt.
+
+1. Ederae quoque et harundines arbores non male dicentur.
+
+2. Idem de salicteto dicendum est.
+
+3. Sed si quis saligneas virgas instituendi salicti causa defixerit haeque, antequam radices coegerint, succidantur aut evellantur, recte Pomponius scripsit non posse agi de arboribus succisis, cum nulla arbor proprie dicatur, quae radicem non conceperit.
+
+4. Quod si quis ex seminario, id est stirpitus arborem transtulerit, eam, quamvis nondum comprehenderit terram, arborem tamen videri Pomponius libro nono decimo ad sabinum probat.
+
+5. Ideo ea quoque arbor esse videtur, cuius radices desinent vivere.
+
+5a. Radix autem arboris non videtur arboris appellatione contineri, quamvis adhuc terra contineatur: quam sententiam Labeo quoque probat.
+
+6. Labeo etiam eam arborem recte dici putat, quae subversa a radicibus etiamnunc reponi potest, aut quae ita translata est, ut poni possit.
+
+7. Stirpes oleae arbores esse magis est, sive iam egerunt radices sive nondum.
+
+8. Omnium igitur harum arborum, quas enumeravimus, nomine agi poterit.
+
+47.7.4
+
+Gaius libro ad legem duodecim tabularum
+
+Certe non dubitatur, si adhuc adeo tenerum sit, ut herbae loco sit, non debere arboris numero haberi.
+
+47.7.5
+
+Paulus libro nono ad Sabinum
+
+pr. Caedere est non solum succidere, sed etiam ferire caedendi causa. cingere est deglabrare. Subsecare est subsecuisse: non enim poterat cecidisse intellegi, qui serra secuisset.
+
+1. Eius actionis eadem causa est, quae est legis Aquiliae.
+
+2. Is, cuius usus fructus est in fundo, hanc actionem non habet: qui autem fundum vectigalem habet, hanc actionem habet, sicut aquae pluviae arcendae actionem et finium regundorum.
+
+47.7.6
+
+Pomponius libro 20 ad Sabinum
+
+pr. Si plures eandem arborem furtim ceciderint, cum singulis in solidum agetur.
+
+1. At si eadem arbor plurium fuerit, universis dumtaxat una et semel poena praestabitur.
+
+2. Si arbor in vicini fundum radices porrexit, recidere eas vicino non licebit, agere autem licebit non esse ei ius (sicuti tignum aut protectum) immissum habere. Si radicibus vicini arbor aletur, tamen eius est, in cuius fundo origo eius fuerit.
+
+47.7.7
+
+Ulpianus libro 38 ad edictum
+
+pr. Furtim caesae arbores videntur, quae ignorante domino celandique eius causa caeduntur.
+
+1. Nec esse hanc furti actionem scribit Pedius, cum et sine furto fieri possit, ut quis arbores furtim caedat.
+
+2. Si quis radicitus arborem evellerit vel exstirpaverit, hac actione non tenetur: neque enim vel caedit vel succidit vel subsecuit: Aquilia tamen tenetur, quasi ruperit.
+
+3. Etiamsi non tota arbor caesa sit, recte tamen agetur quasi caesa.
+
+4. Sive autem quis suis manibus, sive dum imperat servo arbores cingi subsecari caedi, hac actione tenetur. Idem et si libero imperet.
+
+5. Quod si servo suo non praeceperit dominus, sed ipse sua voluntate id amiserit, Sabinus ait competere noxale, ut in ceteris maleficiis: quae sententia vera est.
+
+6. Haec actio etiamsi poenalis sit, perpetua est. Sed adversus heredem non datur: heredi ceterisque successoribus dabitur.
+
+7. Condemnatio autem eius duplum continet.
+
+47.7.8
+
+Paulus libro 39 ad edictum
+
+pr. Facienda aestimatione, quanti domini intersit non laedi: ipsarumque arborum pretium deduci oportet et eius quod superest fieri aestimationem.
+
+1. Furtim arborem caedit, qui clam caedit.
+
+2. Igitur si ceciderit et lucri faciendi causa contrectaverit, etiam furti tenebitur lignorum causa et condictione et ad exhibendum.
+
+3. Qui per vim sciente domino caedit, non incidit in hanc actionem.
+
+47.7.9
+
+Gaius libro 13 ad edictum provinciale
+
+Si colonus sit, qui ceciderit arbores, etiam ex locato cum eo agi potest. Plane una actione contentus esse debet actor.
+
+47.7.10
+
+Iulianus libro tertio ex Minicio
+
+Si gemina arbor esset et supra terram iunctura eius emineret, una arbor videtur esse. Sed si id qua iungeretur non exstaret, totidem arbores sunt, quot species earum supra terram essententiarum
+
+47.7.11
+
+Paulus libro 22 ad edictum
+
+Sed si de arboribus caesis ex lege Aquilia actum sit, interdicto quod vi aut clam reddito absolvetur, si satis prima condemnatione gravaverit reum, manente nihilo minus actione ex lege duodecim tabularum.
+
+47.7.12
+
+Iavolenus libro 15 ex Cassio
+
+Qui agrum vendidit, nihilo minus furtim arborum caesarum agere potest.
+
+* 47.8.0. Vi bonorum raptorum et de turba.
+
+
+47.8.1
+
+Paulus libro 22 ad edictum
+
+Qui rem rapuit, et furti nec manifesti tenetur in duplum et vi bonorum raptorum in quadruplum. Sed si ante actum sit vi bonorum raptorum, deneganda est furti: si ante furti actum est, non est illa deneganda, ut tamen id quod amplius in ea est consequatur.
+
+47.8.2
+
+Ulpianus libro 56 ad edictum
+
+pr. Praetor ait: "Si cui dolo malo hominibus coactis damni quid factum esse dicetur sive cuius bona rapta esse dicentur, in eum, qui id fecisse dicetur, iudicium dabo. Item si servus fecisse dicetur, in dominum iudicium noxale dabo".
+
+1. Hoc edicto contra ea, quae vi committuntur, consuluit praetor. Nam si quis se vim passum docere possit, publico iudicio de vi potest experiri, neque debet publico iudicio privata actione praeiudicari quidam putant: sed utilius visum est, quamvis praeiudicium legi Iuliae de vi privata fiat, nihilo minus tamen non esse denegandam actionem eligentibus privatam persecutionem.
+
+2. "Dolo" autem "malo facere" potest (quod edictum ait) non tantum is qui rapit, sed et qui praecedente consilio ad hoc ipsum homines colligit armatos, ut damnum det bonave rapiat.
+
+3. Sive igitur ipse quis cogat homines sive ab alio coactis utitur ad rapiendum, dolo malo facere videtur.
+
+4. Homines coactos accipere debemus ad hoc coactos, ut damnum daretur.
+
+5. Neque additur, quales homines: qualescumque sive liberos sive servos.
+
+6. Sed et si unus homo coactus sit, adhuc dicemus homines coactos.
+
+7. Item si proponas solum damnum dedisse, non puto deficere verba: hoc enim, quod ait "hominibus coactis", ut sive solus vim fecerit sive etiam hominibus coactis, sic accipere debemus etiam hominibus coactis vel armatis vel inermibus hoc edicto teneatur.
+
+8. Doli mali mentio hic et vim in se habet. Nam qui vim facit, dolo malo fecit, non tamen qui dolo malo facit, utique et vi facit. Ita dolus habet in se et vim: et sine vi si quid callide admissum est, aeque continebitur.
+
+9. "Damni" praetor inquit: omnia ergo damna continet et clandestina. Sed non puto clandestina, sed ea, quae violentia permixta sunt. Etiam quis recte definiet, si quid solus admiserit quis non vi, non contineri hoc edicto, et si quid hominibus coactis, etiamsi sine vi, dummodo dolo sit admissum, ad hoc edictum spectare.
+
+10. Ceterum neque furti actio neque legis Aquiliae contributae sunt in hoc edicto, licet interdum communes sint cum hoc edicto: nam Iulianus scribit eum qui vi rapit furem esse improbiorem, et si quid damni coactis hominibus dederit, utique etiam Aquilia poterit teneri.
+
+11. "Vel cuius bona rapta esse dicuntur". Quod ait praetor "bona rapta", sic accipiemus: etiam si una res ex bonis rapta sit.
+
+12. Si quis non homines ipse coegerit, sed inter coactos ipse fuerit et quid aut rapuerit aut damni dederit, hac actione tenetur. Sed utrum hoc solum contineat edictum, quod dolo malo hominibus a reo coactis damnum datum sit vel raptum, an vero quod dolo malo rei raptum vel damnum datum sit, licet ab alio homines sint coacti, quaeritur. Et melius esse dicitur etiam hoc contineri, ut omnia haec contineantur et quod ex coactis ab alio damnum datum sit, ut et is qui coegit et is qui coactus est contineri videatur.
+
+13. In hac actione intra annum utilem verum pretium rei quadruplatur, non etiam quod interest.
+
+14. Haec actio etiam familiae nomine competit, non imposita necessitate ostendendi, qui sunt ex familia homines qui rapuerunt vel etiam damnum dederunt. Familiae autem appellatio servos continet, hoc est eos, qui in ministerio sunt, etiamsi liberi esse proponantur vel alieni bona fide nobis servientes.
+
+15. Hac actione non puto posse actorem singulorum servorum nomine agere adversus dominum eorum, quia sufficit dominum semel quadruplum offerre.
+
+16. Ex hac actione noxae deditio non totius familiae, sed eorum tantum vel eius, qui dolo fecisse comperietur, fieri debet.
+
+17. Haec actio volgo vi bonorum raptorum dicitur.
+
+18. Hac actione is demum tenetur, qui dolum malum adhibuit. Si quis igitur suam rem rapuit, vi quidem bonorum raptorum non tenebitur, sed aliter multabitur. Sed et si quis fugitivum suum, quem bona fide aliquis possidebat, rapuit, aeque hac actione non tenebitur, quia rem suam aufert. Quid ergo, si sibi obligatam? Debebit teneri.
+
+19. Vi bonorum raptorum actio in impuberem, qui doli mali capax non est, non dabitur: nisi servus ipsius vel familia eius admisisse proponantur, et servi et familiae nomine noxali vi bonorum raptorum actione tenetur.
+
+20. Si publicanus pecus meum abduxerit, dum putat contra legem vectigalis aliquid a me factum: quamvis erraverit, agi tamen cum eo vi bonorum raptorum non posse Labeo ait: sane dolo caret: si tamen ideo inclusit, ne pascatur et ut fame periret, etiam utili lege Aquilia.
+
+21. Si per vim abductum pecus incluserit quis, utique vi bonorum raptorum conveniri poterit.
+
+22. In hac actione non utique spectamus rem in bonis actoris esse: sive in bonis sit sive non sit, si tamen ex bonis sit, locum haec actio habebit. Quare sive commodata res sit sive locata sive etiam pignerata proponatur sive deposita apud me sic, ut intersit mea eam non auferri, sive bona fide a me possideatur, sive usum fructum in ea habeam vel quod aliud ius, ut intersit mea non rapi: dicendum est competere mihi hanc actionem, ut non dominium accipiamus, sed illud solum, quod ex bonis meis, hoc est ex substantia mea res ablata esse proponatur.
+
+23. Et generaliter dicendum est, ex quibus causis furti mihi actio competit in re clam facta, ex hisdem causis habere me hanc actionem. Dicet aliquis: adquin ob rem depositam furti actionem non habemus. Sed ideo addidi "si intersit nostra non esse raptam": nam et furti actionem habeo, si in re deposita culpam quoque repromissi vel pretium depositionis non quasi mercedem accepi.
+
+24. Utilius dicendum est et si cesset actio furti ob rem depositam, esse tamen vi bonorum raptorum actionem, quia non minima differentia est inter eum qui clam facit et eum qui rapit, cum ille celet suum delictum, hic publicet et crimen etiam publicum admittat. Si quis igitur interesse sua vel modice docebit, debet habere vi bonorum raptorum actionem.
+
+25. Si fugitivus meus quasdam res instruendi sui causa emerit eaeque raptae sint, quia in bonis meis hae sunt res, possum de his vi bonorum raptorum actione agere.
+
+26. Rerum raptarum nomine etiam furti vel damni iniuriae vel condictione agi potest vel certe singulae res vindicari possunt.
+
+27. Haec actio heredi ceterisque successoribus dabitur. Adversus heredes autem vel ceteros successores non dabitur, quia poenalis actio in eos non datur. An tamen in id, quod locupletiores facti sunt, dari debeat, videamus. Et ego puto ideo praetorem non esse pollicitum in heredes in id quod ad eos pervenit, quia putavit sufficere condictionem.
+
+47.8.3
+
+Paulus libro 54 ad edictum
+
+Si servus rapuerit et cum libero agatur, etiam, si cum domino experiundi potestas fuit, non recte cum manumisso post annum agetur, quia cum quocumque experiundi potestas fuerit, excluditur actor. Si cum domino intra annum actum sit, deinde cum manumisso agatur, rei iudicatae exceptionem nocere Labeo ait.
+
+47.8.4
+
+Ulpianus libro 56 ad edictum
+
+pr. Praetor ait: "Cuius dolo malo in turba damnum quid factum esse dicetur, in eum in anno, quo primum de ea re experiundi potestas fuerit, in duplum, post annum in simplum iudicium dabo".
+
+1. Hoc edictum de eo damno proponitur, quod quis in turba dedit.
+
+2. Turbam autem appellatam Labeo ait ex genere tumultus idque verbum ex Graeco tractum apo tou vorubein [id est: a tumultuando].
+
+3. Turbam autem ex quo numero admittimus? Si duo rixam commiserint, utique non accipiemus in turba id factum, quia duo turba non proprie dicentur: enimvero si plures fuerunt, decem aut quindecim homines, turba dicetur. Quid ergo, si tres aut quattuor? Turba utique non erit. Et rectissime Labeo inter turbam et rixam multum interesse ait: namque turbam multitudinis hominum esse turbationem et coetum, rixam etiam duorum.
+
+4. Hoc autem edicto tenetur non solus, qui damnum in turba dedit, sed et is, qui dolo malo fecerit, ut in turba damni quid daretur, sive illo venerit sive non fuerit praesens: dolus enim malus etiam absentis esse potest.
+
+5. Hoc edicto dicendum est etiam eum teneri, qui venit et in turba fuit auctor damni dandi, si tamen et ipse inter turbam fuit, cum damnum daretur, et dolo malo fuit: nam et huius dolo malo in turba damni quid factum esse negari non potest.
+
+6. Si quis adventu suo turbam concitavit vel contraxit, vel clamore vel facto aliquo vel dum criminatur aliquem vel dum misericordiam provocat: si dolo malo eius damnum datum sit, etiamsi non habuit consilium turbae cogendae, tenetur. Verum est enim dolo malo eius in turba damni quid datum: neque enim exigit praetor, ut ab ipso sit turba convocata, sed hoc, ut dolo alicuius in turba damnum datum sit. Eritque haec differentia inter hoc edictum et superius, quod ibi de eo damno praetor loquitur, quod dolo malo hominibus coactis datum est vel raptum etiam non coactis hominibus: at hic de eo damno, quod dolo malo in turba datum est, etiamsi non ipse turbam coegit, sed ad clamorem eius vel dicta vel misericordiam turba contracta est, vel si alius contraxit vel ipse ex turba fuit.
+
+7. Idcirco illud quidem edictum propter atrocitatem facti quadrupli poenam comminatur, at hoc dupli.
+
+8. Sed et hoc et illud intra annum tribuit experiundi facultatem: post annum in simplum competit.
+
+9. Loquitur autem hoc edictum de damno dato et de amisso, de rapto non: sed superiori edicto vi bonorum raptorum agi poterit.
+
+10. Amissa autem dicuntur ea, quae corrupta alicui relinquuntur, scissa forte vel fracta.
+
+11. Haec autem actio in factum est et datur in duplum, quanti ea res erit: quod ad pretium verum rei refertur. Et praesentis temporis fit aestimatio: et semper in duplum intra annum est.
+
+12. Docereque actor in turba damnum esse datum debet: ceterum si alibi datum sit quam in turba, cessabit haec actio.
+
+13. Si, cum servum meum Titius pulsaret, turba fuerit collecta isque servus in ea turba aliquid perdiderit, cum eo qui pulsabat agere possum, quippe cum in turba dolo malo damnum datum sit: sic tamen, si, ut damnum daret, ideo coeperat caedere. Ceterum si alia causa verberandi fuit, cessat actio.
+
+14. Sed et si quis ipse turbam convocasset, ut turba coram servum verberaret iniuriae faciendae causa, non damni dandi consilio, locum habet edictum. Verum est enim eum, qui per iniuriam verberat, dolo facere et eum, qui causam praebuit damni dandi, damnum dedisse.
+
+15. In servum autem et in familiam praetor dat actionem.
+
+16. Quae de heredibus ceterisque successoribus in vi bonorum raptorum actione diximus, et hic erunt repetita.
+
+47.8.5
+
+Gaius libro 21 ad edictum provinciale
+
+Non prodest ei qui vi rapuit ad evitandam poenam, si ante iudicium restituat rem quam rapuit.
+
+47.8.6
+
+Venuleius libro 17 stipulationum
+
+Quod vi possessum raptumve sit, antequam in potestatem domini heredisve eius perveniat, usucapi lex vetat.
+
+* 47.9.0. De incendio ruina naufragio rate nave expugnata.
+
+
+47.9.1
+
+Ulpianus libro 56 ad edictum
+
+pr. Praetor ait: "In eum, qui ex incendio ruina naufragio rate nave expugnata quid rapuisse recepisse dolo malo damnive quid in his rebus dedisse dicetur: in quadruplum in anno, quo primum de ea re experiundi potestas fuerit, post annum in simplum iudicium dabo. Item in servum et in familiam iudicium dabo".
+
+1. Huius edicti utilitas evidens et iustissima severitas est, si quidem publice interest nihil rapi ex huiusmodi casibus. Et quamquam sint de his facinoribus etiam criminum executiones, attamen recte praetor fecit, qui forenses quoque actiones criminibus istis praeposuit.
+
+2. "Ex incendio" quemadmodum accipimus, utrum ex ipso igne an vero ex eo loco, ubi incendium fit? Et melius sic accipietur propter incendium, hoc est propter tumultum incendii vel trepidationem incendii, rapit: quemadmodum solemus dicere in bello amissum, quod propter causam belli amittitur. Proinde si ex adiacentibus praediis, ubi incendium fiebat, raptum quid sit, dicendum sit edicto locum esse, quia verum est ex incendio rapi.
+
+3. Item ruinae appellatio refertus ad id tempus, quo ruina fit, non tantum si ex his quae ruerunt tulerit quis, sed etiam si ex adiacentibus.
+
+4. Si suspicio fuit incendii vel ruinae, incendium vel ruina non fuit, videamus, an hoc edictum locum habeat. Et magis est, ne habeat, quia neque ex incendio neque ex ruina quid raptum est.
+
+5. Item ait praetor: "Si quid ex naufragio". Hic illud quaeritur, utrum, si quis eo tempore tulerit, quo naufragium fit, an vero et si alio tempore, hoc est post naufragiumque: nam res ex naufragio etiam hae dicuntur, quae in litore post naufragium iacent. Et magis est, ut de eo tempore.
+
+47.9.2
+
+Gaius libro 21 ad edictum provinciale
+
+Et loco,
+
+47.9.3
+
+Ulpianus libro 56 ad edictum
+
+pr. Quo naufragium fit vel factum est, si quis rapuerit, incidisse in hoc edictum videatur. Qui autem rem in litore iacentem, postea quam naufragium factum est, abstulit, in ea condicione est, ut magis fur sit quam hoc edicto teneatur, quemadmodum is, qui quod de vehiculo excidit tulit. Nec rapere videtur, qui in litore iacentem tollit.
+
+1. Deinde ait praetor "rate navi expugnata". Expugnare videtur, qui in ipso quasi proelio et pugna adversus navem et ratem aliquid rapit, sive expugnet sive praedonibus expugnantibus rapiat.
+
+2. Labeo scribit aequum fuisse, ut, sive de domo sive in villa expugnatis aliquid rapiatur, huic edicto locus sit: nec enim minus in mari quam in villa per latrunculos inquietamur vel infestari possumus.
+
+3. Non tantum autem qui rapuit, verum is quoque, qui recepit ex causis supra scriptis, tenetur, quia receptores non minus delinquunt quam adgressores. Sed enim additum est "dolo malo", quia non omnis qui recipit statim etiam delinquit, sed qui dolo malo recipit. Quid enim, si ignarus recipit? Aut quid, si ad hoc recepit, ut custodiret salvaque faceret ei qui amiserat? Utique non debet teneri.
+
+4. Non solum autem qui rapuit, sed et qui abstulit vel amovit vel damnum dedit vel recepit, hac actione tenetur.
+
+5. Aliud esse autem rapi, aliud amoveri palam est, si quidem amoveri aliquid etiam sine vi possit: rapi autem sine vi non potest.
+
+6. Qui eiecta nave quid rapuit, hoc edicto tenetur. "Eiecta" hoc est quod Graeci aiunt ecebrasvy.
+
+7. Quod ait praetor de damno dato, ita demum locum habet, si dolo damnum datum sit: nam si dolus malus absit, cessat edictum. Quemadmodum ergo procedit, quod Labeo scribit, si defendendi mei causa vicini aedificium orto incendio dissipaverim, et meo nomine et familiae iudicium in me dandum? Cum enim defendendarum mearum aedium causa fecerim, utique dolo careo. Puto igitur non esse verum, quod Labeo scribit. An tamen lege Aquilia agi cum hoc possit? Et non puto agendum: nec enim iniuria hoc fecit, qui se tueri voluit, cum alias non posset. Et ita Celsus scribit.
+
+8. Senatus consultum Claudianis temporibus factum est, ut, si quis ex naufragio clavos vel unum ex his abstulerit, omnium rerum nomine teneatur. Item alio senatus consulto cavetur eos, quorum fraude aut consilio naufragi suppressi per vim fuissent, ne navi vel ibi periclitantibus opitulentur, legis Corneliae, quae de sicariis lata est, poenis adficiendos: eos autem, qui quid ex miserrima naufragorum fortuna rapuissent lucrative fuissent dolo malo, in quantum edicto praetoris actio daretur, tantum et fisco dare debere.
+
+47.9.4
+
+Paulus libro 54 ad edictum
+
+pr. Pedius posse etiam dici ex naufragio rapere, qui, dum naufragium fiat, in illa trepidatione rapiat.
+
+1. Divus Antoninus de his, qui praedam ex naufragio diripuissent, ita rescripsit: "Quod de naufragiis navis et ratis scripsisti mihi, eo pertinet, ut explores, qua poena adficiendos eos putem, qui diripuisse aliqua ex illo probantur. Et facile, ut opinor, constitui potest: nam plurimum interest, peritura collegerint an quae servari possint flagitiose invaserint. Ideoque si gravior praeda vi adpetita videbitur, liberos quidem fustibus caesos in triennium relegabis aut, si sordidiores erunt, in opus publicum eiusdem temporis dabis: servos flagellis caesos in metallum damnabis. Si non magnae pecuniae res fuerint, liberos fustibus, servos flagellis caesos dimittere poteris". Et omnino ut in ceteris, ita huiusmodi causis ex personarum condicione et rerum qualitate diligenter sunt aestimandae, ne quid aut durius aut remissius constituatur, quam causa postulabit.
+
+2. Hae actiones heredibus dantur. In heredes eatenus dandae sunt, quatenus ad eos pervenit.
+
+47.9.5
+
+Gaius libro 21 ad edictum provinciale
+
+Si quis ex naufragio vel ex incendio ruinave servatam rem et alio loco positam subtraxerit aut rapuerit, furti scilicet aut alias vi bonorum raptorum iudicio tenetur, maxime si non intellegebat ex naufragio vel incendio ruinave eam esse. Iacentem quoque rem ex naufragio, quae fluctibus expulsa sit, si quis abstulerit, plerique idem putant. Quod ita verum est, si aliquod tempus post naufragium intercesserit: alioquin si in ipso naufragii tempore id acciderit, nihil interest, utrum ex ipso mari quisque rapiat an ex naufragiis an ex litore. de eo quoque, quod ex rate nave expugnata raptum sit, eandem interpretationem adhibere debemus.
+
+47.9.6
+
+Callistratus libro primo edicti monitorii
+
+Expugnatur navis, cum spoliatur aut mergitur aut dissolvitur aut pertunditur aut funes eius praeciduntur aut vela conscinduntur aut ancorae involantur de mare.
+
+47.9.7
+
+Callistratus libro secundo quaestionum
+
+Ne quid ex naufragiis diripiatur vel quis extraneus interveniat colligendis eis, multifariam prospectum est. Nam et divus Hadrianus edicto praecepit, ut hi, qui iuxta litora maris possident, scirent, si quando navis vel inficta vel fracta intra fines agri cuiusque fuerit, ne naufragia diripiant, in ipsos iudicia praesides his, qui res suas direptas queruntur, reddituros, ut quidquid probaverint ademptum sibi naufragio, id a possessoribus recipiant. De his autem, quos diripuisse probatum sit, praesidem ut de latronibus gravem sententiam dicere. Ut facilior sit probatio huiusmodi admissi, permisit his et quidquid passos se huiusmodi queruntur, adire praefectos et ad eum testari reosque petere, ut pro modo culpae vel vincti vel sub fideiussoribus ad praesidem remittantur. A domino quoque possessionis, in qua id admissum dicatur, satis accipi, ne cognitioni desit, praecipitur. Sed nec intervenire naufragiis colligendis aut militem aut privatum aut libertum servumve principis placere sibi ait senatus.
+
+47.9.8
+
+Neratius libro secundo responsorum
+
+Ratis vi fluminis in agrum meum delatae non aliter potestatem tibi faciendam, quam si de praeterito quoque damno mihi cavisses.
+
+47.9.9
+
+Gaius libro quarto ad legem duodecim tabularum
+
+Qui aedes acervumve frumenti iuxta domum positum conbusserit, vinctus verberatus igni necari iubetur, si modo sciens prudensque id commiserit. Si vero casu, id est neglegentia, aut noxiam sarcire iubetur aut, si minus idoneus sit, levius castigatur. Appellatione autem aedium omnes species aedificii continentur.
+
+47.9.10
+
+Ulpianus libro primo opinionum
+
+Ne piscatores nocte lumine ostenso fallant navigantes, quasi in portum aliquem delaturi, eoque modo in periculum naves et qui in eis sunt deducant sibique execrandam praedam parent, praesidis provinciae religiosa constantia efficiat.
+
+47.9.11
+
+Marcianus libro 14 institutionum
+
+Si fortuito incendium factum sit, venia indiget, nisi tam lata culpa fuit, ut luxuria aut dolo sit proxima.
+
+47.9.12
+
+Ulpianus libro octavo de officio proconsulis
+
+pr. Licere unicuique naufragium suum impune colligere constat: idque imperator Antoninus cum divo patre suo rescripsit.
+
+1. Qui data opera in civitate incendium fecerint, si humiliore loco sint, bestiis obici solent: si in aliquo gradu id fecerint, capite puniuntur aut certe in insulam deportantur.
+
+* 47.10.0. De iniuriis et famosis libellis.
+
+
+47.10.1
+
+Ulpianus libro 56 ad edictum
+
+pr. Iniuria ex eo dicta est, quod non iure fiat: omne enim, quod non iure fit, iniuria fieri dicitur. Hoc generaliter. Specialiter autem iniuria dicitur contumelia. Interdum iniuriae appellatione damnum culpa datum significatur, ut in lege Aquilia dicere solemus: interdum iniquitatem iniuriam dicimus, nam cum quis inique vel iniuste sententiam dixit, iniuriam ex eo dictam, quod iure et iustitia caret, quasi non iuriam, contumeliam autem a contemnendo.
+
+1. Iniuriam autem fieri Labeo ait aut re aut verbis: re, quotiens manus inferuntur: verbis autem, quotiens non manus inferuntur, convicium fit.
+
+2. Omnemque iniuriam aut in corpus inferri aut ad dignitatem aut ad infamiam pertinere: in corpus fit, cum quis pulsatur: ad dignitatem, cum comes matronae abducitur: ad infamiam, cum pudicitia adtemptatur.
+
+3. Item aut per semet ipsum alicui fit iniuria aut per alias personas. Per semet, cum directo ipsi cui patri familias vel matri familias fit iniuria: per alias, cum per consequentias fit, cum fit liberis meis vel servis meis vel uxori nuruive: spectat enim ad nos iniuria, quae in his fit, qui vel potestati nostrae vel affectui subiecti sint.
+
+4. Et si forte cadaveri defuncti fit iniuria, cui heredes bonorumve possessores exstitimus, iniuriarum nostro nomine habemus actionem: spectat enim ad existimationem nostram, si qua ei fiat iniuria. Idemque et si fama eius, cui heredes exstitimus, lacessatur.
+
+5. Usque adeo autem iniuria, quae fit liberis nostris, nostrum pudorem pertingit, ut etiamsi volentem filium quis vendiderit, patri suo quidem nomine competit iniuriarum actio, filii vero nomine non competit, quia nulla iniuria est, quae in volentem fiat.
+
+6. Quotiens autem funeri testatoris vel cadaveri fit iniuria, si quidem post aditam hereditatem fiat, dicendum est heredi quodammodo factam (semper enim heredis interest defuncti existimationem purgare): quotiens autem ante aditam hereditatem, magis hereditati, et sic heredi per hereditatem adquiri. Denique Iulianus scribit, si corpus testatoris ante aditam hereditatem detentum est, adquiri hereditati actiones dubium non esse. Idemque putat et si ante aditam hereditatem servo hereditario iniuria facta fuerit: nam per hereditatem actio heredi adquiretur.
+
+7. Labeo scribit, si quis servum hereditarium testamento manumissum ante aditam hereditatem verberaverit, iniuriarum heredem agere posse: at si post aditam hereditatem verberatus sit, sive scit se liberum sive ignorat, ipsum agere posse.
+
+8. Sive autem sciat quis filium meum esse vel uxorem meam, sive ignoraverit, habere me meo nomine actionem Neratius scripsit.
+
+9. Idem ait Neratius ex una iniuria interdum tribus oriri iniuriarum actionem neque ullius actionem per alium consumi. Ut puta uxori meae filiae familias iniuria facta est: et mihi et patri eius et ipsi iniuriarum actio incipiet competere.
+
+47.10.2
+
+Paulus libro 50 ad edictum
+
+Quod si viro iniuria facta sit, uxor non agit, quia defendi uxores a viris, non viros ab uxoribus aequum est.
+
+47.10.3
+
+Ulpianus libro 56 ad edictum
+
+pr. Illud relatum peraeque est eos, qui iniuriam pati possunt, et facere posse.
+
+1. Sane sunt quidam, qui facere non possunt, ut puta furiosus et impubes, qui doli capax non est: namque hi pati iniuriam solent, non facere. Cum enim iniuria ex affectu facientis consistat, consequens erit dicere hos, sive pulsent sive convicium dicant, iniuriam fecisse non videri.
+
+2. Itaque pati quis iniuriam, etiamsi non sentiat, potest, facere nemo, nisi qui scit se iniuriam facere, etiamsi nesciat cui faciat.
+
+3. Quare si quis per iocum percutiat aut dum certat, iniuriarum non tenetur.
+
+4. Si quis hominem liberum ceciderit, dum putat servum suum, in ea causa est, ne iniuriarum teneatur.
+
+47.10.4
+
+Paulus libro 50 ad edictum
+
+Si, cum servo meo pugnum ducere vellem, in proximo te stantem invitus percusserim, iniuriarum non teneor.
+
+47.10.5
+
+Ulpianus libro 56 ad edictum
+
+pr. Lex Cornelia de iniuriis competit ei, qui iniuriarum agere volet ob eam rem, quod se pulsatum verberatumve domumve suam vi introitam esse dicat. Qua lege cavetur, ut non iudicet, qui ei qui agit gener socer, vitricus privignus, sobrinusve est propiusve eorum quemquem ea cognatione adfinitateve attinget, quive eorum eius parentisve cuius eorum patronus erit. Lex itaque cornelia ex tribus causis dedit actionem: quod quis pulsatus verberatusve domusve eius vi introita sit. Apparet igitur omnem iniuriam, quae manu fiat, lege Cornelia contineri.
+
+1. Inter pulsationem et verberationem hoc interest, ut ofilius scribit: verberare est cum dolore caedere, pulsare sine dolore.
+
+2. Domum accipere debemus non proprietatem domus, sed domicilium. Quare sive in propria domu quis habitaverit sive in conducto vel gratis sive hospitio receptus, haec lex locum habebit.
+
+3. Quid si quis in villa habitet vel in hortis? Idem erit probandum.
+
+4. Et si dominus fundum locaverit inque eum impetus factus sit, colonus aget, non dominus.
+
+5. Si tamen in fundum alienum, qui domino colebatur, introitum sit, Labeo negat esse actionem domino fundi ex lege Cornelia, quia non possit ubique domicilium habere, hoc est per omnes villas suas. Ego puto ad omnem habitationem, in qua pater familias habitat, pertinere hanc legem, licet ibi quis domicilium non habeat. Ponamus enim studiorum causa Romae agere: romae utique domicilium non habet et tamen dicendum est, si vi domus eius introita fuerit, Corneliam locum habere. Tantum igitur ad meritoria vel stabula non pertinebit: ceterum ad hos pertinebit, qui inhabitant non momenti causa, licet ibi domicilium non habeant.
+
+6. Illud quaeritur, an pater filio familias iniuriam passo ex lege Cornelia iniuriarum agere possit: et placuit non posse deque ea re inter omnes constat. Sed patri quidem praetoria iniuriarum actio competit, filio vero legis Corneliae.
+
+7. In lege Cornelia filius familias agere potest ex omni causa nec cavere debet ratam rem patrem habiturum: nam nec alias agentem filium iniuriarum ad cautionem de rato compellendum Iulianus scribit.
+
+8. Hac lege permittitur actori ius iurandum deferre, ut reus iuret iniuriam se non fecisse. Sed Sabinus in adsessorio etiam praetores exemplum legis secuturos ait: et ita res se habet.
+
+9. Si quis librum ad infamiam alicuius pertinentem scripserit composuerit ediderit dolove malo fecerit, quo quid eorum fieret, etiamsi alterius nomine ediderit vel sine nomine, uti de ea re agere liceret et, si condemnatus sit qui id fecit, intestabilis ex lege esse iubetur.
+
+10. Eadem poena ex senatus consulto tenetur etiam is, qui epigrammata aliudve quid sine scriptura in notam aliquorum produxerit: item qui emendum vendendumve curaverit.
+
+11. Et ei, qui indicasset, sive liber sive servus sit, pro modo substantiae accusatae personae aestimatione iudicis praemium constituitur, servo forsitan et libertate praestanda. Quid enim si publica utilitas ex hoc emergit?
+
+47.10.6
+
+Paulus libro 55 ad edictum
+
+Quod senatus consultum necessarium est, cum nomen adiectum non est eius, in quem factum est: tunc ei, quia difficilis probatio est, voluit senatus publica quaestione rem vindicari. Ceterum si nomen adiectum sit, et iure communi iniuriarum agi poterit: nec enim prohibendus est privato agere iudicio, quod publico iudicio praeiudicatur, quia ad privatam causam pertinet. Plane si actum sit publico iudicio, denegandum est privatum: similiter ex diverso.
+
+47.10.7
+
+Ulpianus libro 57 ad edictum
+
+pr. Praetor edixit: "qui agit iniuriarum, certum dicat, quid iniuriae factum sit": quia qui famosam actionem intendit, non debet vagari cum discrimine alienae existimationis, sed designare et certum specialiter dicere, quam se iniuriam passum contendit.
+
+1. Si dicatur homo iniuria occisus, numquid non debeat permittere praetor privato iudicio legi Corneliae praeiudicari? Idemque et si ita quis agere velit "quod tu venenum dedisti hominis occidendi causa?" rectius igitur fecerit, si huiusmodi actionem non dederit. Adquin solemus dicere, ex quibus causis publica sunt iudicia, ex his causis non esse nos prohibendos, quo minus et privato agamus. Est hoc verum, sed ubi non principaliter de ea re agitur, quae habet publicam exsecutionem. Quid ergo de lege Aquilia dicimus? Nam et ea actio principaliter hoc continet, hominem occisum non principaliter: nam ibi principaliter de damno agitur, quod domino datum est, at in actione iniuriarum de ipsa caede vel veneno ut vindicetur, non ut damnum sarciatur. Quid ergo, si quis idcirco velit iniuriarum agere, quod gladio caput eius percussum est? Labeo ait non esse prohibendum: neque enim utique hoc, inquit, intenditur, quod publicam habet animadversionem. Quod verum non est: cui enim dubium est etiam hunc dici posse Cornelia conveniri?
+
+2. Praeterea illo spectat dici certum de iniuria, quam passus quis sit, ut ex qualitate iniuriae sciamus, an in patronum liberto reddendum sit iniuriarum iudicium. Etenim meminisse oportebit liberto adversus patronum non quidem semper, verum interdum iniuriarum dari iudicium, si atrox sit iniuria quam passus sit, puta servilis. Ceterum levem cohercitionem utique patrono adversus libertum dabimus nec patietur eum praetor querentem, quasi iniuriam passus sit, nisi atrocitas eum moverit: nec enim ferre praetor debet heri servum, hodie liberum conquerentem, quod dominus ei convicium dixerit vel quod leviter pulsaverit vel emendaverit. Sed si flagris, si verberibus, si vulneravit non mediocriter: aequissimum erit praetorem ei subvenire.
+
+3. Sed et si quis ex liberis, qui non sunt in potestate, cum parente velit experiri, non temere iniuriarum actio danda est, nisi atrocitas suaserit. Certe his, qui sunt in potestate, prorsus nec competit, etiamsi atrox fuerit.
+
+4. Quod autem praetor ait "quid iniuriae factum sit, certum dicat", quemadmodum accipiendum sit? Certum eum dicere Labeo ait, qui dicat nomen iniuriae, neque sub alternatione, puta illud aut illud, sed illam iniuriam se passum.
+
+5. Si mihi plures iniurias feceris, puta turba et coetu facto domum alicuius introeas et hoc facto efficiatur, et simul et convicium patiar et verberer: an possim separatim tecum experiri de singulis iniuriis, quaeritur. Et Marcellus secundum Neratii sententiam hoc probat cogendum iniurias, quas simul passus est, coniungere.
+
+6. Posse hodie de omni iniuria, sed et de atroci civiliter agi imperator noster rescripsit.
+
+7. Atrocem iniuriam quasi contumeliosiorem et maiorem accipimus.
+
+8. Atrocem autem iniuriam aut persona aut tempore aut re ipsa fieri Labeo ait. Persona atrocior iniuria fit, ut cum magistratui, cum parenti patrono fiat. tempore, si ludis et in conspectu: nam praetoris in conspectu an in solitudine iniuria facta sit, multum interesse ait, quia atrocior est, quae in conspectu fiat. Re atrocem iniuriam haberi Labeo ait, ut puta si vulnus illatum vel os alicui percussum.
+
+47.10.8
+
+Paulus libro 55 ad edictum
+
+Vulneris magnitudo atrocitatem facit et nonnumquam locus vulneris, veluti oculo percusso.
+
+47.10.9
+
+Ulpianus libro 57 ad edictum
+
+pr. Sed est quaestionis, quod dicimus re iniuriam atrocem fieri, utrum, si corpori inferatur, atrox sit, an et si non corpori, ut puta vestimentis scissis, comite abducto vel convicio dicto. Et ait Pomponius etiam sine pulsatione posse dici atrocem iniuriam, persona atrocitatem faciente.
+
+1. Sed et si in theatro vel in foro caedit et vulnerat, quamquam non atrociter, atrocem iniuriam facit.
+
+2. Parvi autem refert, utrum patri familias an filio familias iniuria facta sit: nam et haec atrox aestimabitur.
+
+3. Si atrocem iniuriam servus fecerit, si quidem dominus praesens sit, potest agi de eo: quod si afuerit, praesidi offerendus est, qui eum flagris rumpat.
+
+4. Si quis tam feminam quam masculum, sive ingenuos sive libertinos, impudicos facere adtemptavit, iniuriarum tenebitur. Sed et si servi pudicitia adtemptata sit, iniuriarum locum habet.
+
+47.10.10
+
+Paulus libro 55 ad edictum
+
+Adtemptari pudicitia dicitur, cum id agitur, ut ex pudico impudicus fiat.
+
+47.10.11
+
+Ulpianus libro 57 ad edictum
+
+pr. Non solum is iniuriarum tenetur, qui fecit iniuriam, hoc est qui percussit, verum ille quoque continetur, qui dolo fecit vel qui curavit, ut cui mala pugno percuteretur.
+
+1. Iniuriarum actio ex bono et aequo est et dissimulatione aboletur. Si quis enim iniuriam dereliquerit, hoc est statim passus ad animum suum non revocaverit, postea ex paenitentia remissam iniuriam non poterit recolere. Secundum haec ergo aequitas actionis omnem metum eius abolere videtur, ubicumque contra aequum quis venit. Proinde et si pactum de iniuria intercessit et si transactum et si iusiurandum exactum erit, actio iniuriarum non tenebit.
+
+2. Agere quis iniuriarum et per se et per alium potest, ut puta procuratorem tutorem ceterosque, qui pro aliis solent intervenire.
+
+3. Si mandatu meo facta sit alicui iniuria, plerique aiunt tam me qui mandavi quam eum qui suscepit iniuriarum teneri.
+
+4. Proculus recte ait, si in hoc te conduxerim, ut iniuriam facias, cum utroque nostrum iniuriarum agi posse, quia mea opera facta sit iniuria:
+
+5. Idemque ait et si filio meo mandavero, ut tibi iniuriam faciat.
+
+6. Atilicinus autem ait et si persuaserim alicui alias nolenti, ut mihi ad iniuriam faciendam oboediret, posse iniuriarum mecum agi.
+
+7. Quamquam adversus patronum liberto iniuriarum actio non detur, verum marito libertae nomine cum patrono actio competit: maritus enim uxore sua iniuriam passa suo nomine iniuriarum agere videtur. Quod et Marcellus admittit. Ego autem apud eum notavi non de omni iniuria hoc esse dicendum me putare: levis enim coercitio etiam in nuptam vel convici non impudici dictio cur patrono denegetur? Si autem colliberto nupta esset, diceremus omnino iniuriarum marito adversus patronum cessare actionem, et ita multi sentiunt. Ex quibus apparet libertos nostros non tantum eas iniurias adversus nos iniuriarum actione exequi non posse, quaecumque fiunt ipsis, sed ne eas quidem, quae eis fiunt, quos eorum interest iniuriam non pati.
+
+8. Plane si forte filius liberti vel uxor velint iniuriarum experiri: quia patri maritove non datur, denegandum non erit, quia suo nomine experiuntur.
+
+9. Ei, qui servus dicitur seque adserit in libertatem, iniuriarum actionem adversus dicentem se dominum competere nulla dubitatio est. Et hoc verum est, sive ex libertate in servitutem petatur sive ex servitute in libertatem proclamet: nam hoc iure indistincte utimur.
+
+47.10.12
+
+Gaius libro 22 ad edictum provinciale
+
+Si quis de libertate aliquem in servitutem petat, quem sciat liberum esse, neque id propter evictionem, ut eam sibi conservet, faciat: iniuriarum actione tenetur.
+
+47.10.13
+
+Ulpianus libro 57 ad edictum
+
+pr. Iniuriarum actio neque heredi neque in heredem datur. Idem est et si in servum meum iniuria facta sit: nam nec hic heredi meo iniuriarum actio datur. Semel autem lite contestata hanc actionem etiam ad successores pertinere.
+
+1. Is, qui iure publico utitur, non videtur iniuriae faciendae causa hoc facere: iuris enim executio non habet iniuriam.
+
+2. Si quis, quod decreto praetoris non obtemperavit, ductus sit, non est in ea causa, ut agat iniuriarum, propter praetoris praeceptum.
+
+3. Si quis per iniuriam ad tribunal alicuius me interpellaverit vexandi mei causa, potero iniuriarum experiri.
+
+4. Si quis de honoribus decernendis alicuius passus non sit decerni ut puta imaginem alicui vel quid aliud tale: an iniuriarum teneatur? Et ait Labeo non teneri, quamvis hoc contumeliae causa faciet: etenim multum interest, inquit, contumeliae causa quid fiat an vero fieri quid in honorem alicuius quis non patiatur.
+
+5. Idem Labeo scribit, si, cum alium contingeret legatio, alii hoc onus duumvir indixerit, non posse agi iniuriarum ob laborem iniunctum: aliud enim esse laborem iniungere, aliud iniuriam facere. Idem ergo erit probandum et in ceteris muneribus atque honoribus, quae per iniuriam iniunguntur. Ergo si quis per iniuriam sententiam dixerit, idem erit probandum.
+
+6. Quae iure potestatis a magistratu fiunt, ad iniuriarum actionem non pertinent.
+
+7. Si quis me prohibeat in mari piscari vel everriculum (quod Graece sagyny dicitur) ducere, an iniuriarum iudicio possim eum convenire? Sunt qui putent iniuriarum me posse agere: et ita Pomponius et plerique esse huic similem eum, qui in publicum lavare vel in cavea publica sedere vel in quo alio loco agere sedere conversari non patiatur, aut si quis re mea uti me non permittat: nam et hic iniuriarum conveniri potest. Conductori autem veteres interdictum dederunt, si forte publice hoc conduxit: nam vis ei prohibenda est, quo minus conductione sua fruatur. Si quem tamen ante aedes meas vel ante praetorium meum piscari prohibeam, quid dicendum est? Me iniuriarum iudicio teneri an non? Et quidem mare commune omnium est et litora, sicuti aer, et est saepissime rescriptum non posse quem piscari prohiberi: sed nec aucupari, nisi quod ingredi quis agrum alienum prohiberi potest. Usurpatum tamen et hoc est, tametsi nullo iure, ut quis prohiberi possit ante aedes meas vel praetorium meum piscari: quare si quis prohibeatur, adhuc iniuriarum agi potest. In lacu tamen, qui mei dominii est, utique piscari aliquem prohibere possum.
+
+47.10.14
+
+Paulus libro 13 ad Plautium
+
+Sane si maris proprium ius ad aliquem pertineat, uti possidetis interdictum ei competit, si prohibeatur ius suum exercere, quoniam ad privatam iam causam pertinet, non ad publicam haec res, utpote cum de iure fruendo agatur, quod ex privata causa contingat, non ex publica. Ad privatas enim causas accommodata interdicta sunt, non ad publicas.
+
+47.10.15
+
+Ulpianus libro 77 ad edictum
+
+pr. Item apud Labeonem quaeritur, si quis mentem alicuius medicamento aliove quo alienaverit, an iniuriarum actio locum haberet. Et ait iniuriarum adversus eum agi posse.
+
+1. Si quis pulsatus quidem non est, verum manus adversus eum levatae et saepe territus quasi vapulaturus, non tamen percussit: utili iniuriarum actione tenetur.
+
+2. Ait praetor: "Qui adversus bonos mores convicium cui fecisse cuiusve opera factum esse dicetur, quo adversus bonos mores convicium fieret: in eum iudicium dabo".
+
+3. Convicium iniuriam esse Labeo ait.
+
+4. Convicium autem dicitur vel a concitatione vel a conventu, hoc est a collatione vocum. Cum enim in unum complures voces conferuntur, convicium appellatur quasi convocium.
+
+5. Sed quod adicitur a praetore "adversus bonos mores" ostendit non omnem in unum collatam vociferationem praetorem notare, sed eam, quae bonis moribus improbatur quaeque ad infamiam vel invidiam alicuius specatret.
+
+6. Idem ait "adversus bonos mores" sic accipiendum non eius qui fecit, sed generaliter accipiendum adversus bonos mores huius civitatis.
+
+7. Convicium non tantum praesenti, verum absenti quoque fieri posse Labeo scribit. Proinde si quis ad domum tuam venerit te absente, convicium factum esse dicitur. Idem et si ad stationem vel tabernam ventum sit, probari oportere.
+
+8. Fecisse convicium non tantum is videtur, qui vociferatus est, verum is quoque, qui concitavit ad vociferationem alios vel qui summisit ut vociferentur.
+
+9. "Cui" non sine causa adiectum est: nam si incertae personae convicium fiat, nulla executio est.
+
+10. Si curaverit quis convicium alicui fieri, non tamen factum sit, non tenebitur.
+
+11. Ex his apparet non omne maledictum convicium esse: sed id solum, quod cum vociferatione dictum est,
+
+12. Sive unus sive plures dixerint, quod in coetu dictum est, convicium est: quod autem non in coetu nec vociferatione dicitur, convicium non proprie dicitur, sed infamandi causa dictum.
+
+13. Si quis astrologus vel qui aliquam illicitam divinationem pollicetur consultus aliquem furem dixisset, qui non erat, iniuriarum cum eo agi non potest, sed constitutiones eos tenent.
+
+14. Iniuriarum, quae ex convicio nascitur, in heredes non est reddenda: sed nec heredi.
+
+15. Si quis virgines appellasset, si tamen ancillari veste vestitas, minus peccare videtur: multo minus, si meretricia veste feminae, non matrum familiarum vestitae fuissententiarum si igitur non matronali habitu femina fuerit et quis eam appellavit vel ei comitem abduxit, iniuriarum tenetur.
+
+16. Comitem accipere debemus eum, qui comitetur et sequatur et (ut ait Labeo) sive liberum sive servum sive masculum sive feminam: et ita comitem Labeo definit "qui frequentandi cuiusque causa ut sequeretur destinatus in publico privatove abductus fuerit". Inter comites utique et paedagogi erunt.
+
+17. Abduxisse videtur, ut Labeo ait, non qui abducere comitem coepit, sed qui perfecit, ut comes cum eo non esset.
+
+18. Abduxisse autem non tantum is videtur, qui per vim abduxit, verum is quoque, qui persuasit comiti, ut eam desereret.
+
+19. Tenetur hoc edicto non tantum qui comitem abduxit, verum etiam si quis eorum quem appellavisset adsectatusve est.
+
+20. Appellare est blanda oratione alterius pudicitiam adtemptare: hoc enim non est convicium, sed adversus bonos mores adtemptare.
+
+21. Qui turpibus verbis utitur, non temptat pudicitiam, sed iniuriarum tenetur.
+
+22. Aliud est appellare, aliud adsectari: appellat enim, qui sermone pudicitiam adtemptat, adsectatur, qui tacitus frequenter sequitur: adsiduo enim frequentia quasi praebet nonnullam infamiam.
+
+23. Meminisse autem oportebit non omnem, qui adsectatus est, nec omnem, qui appellavit, hoc edicto conveniri posse (neque enim si quis colludendi, si quis officii honeste faciendi gratia id facit, statim in edictum incidit), sed qui contra bonos mores hoc facit.
+
+24. Sponsum quoque ad iniuriarum actionem admittendum puto: etenim spectat ad contumeliam eius iniuria, quaecumque sponsae eius fiat.
+
+25. Ait praetor: "Ne quid infamandi causa fiat. Si quis adversus ea fecerit, prout quaeque res erit, animadvertam".
+
+26. Hoc edictum supervacuum esse Labeo ait, quippe cum ex generali iniuriarum agere possumus. Sed videtur et ipsi Labeoni (et ita se habet) praetorem eandem causam secutum voluisse etiam specialiter de ea re loqui: ea enim, quae notabiliter fiunt, nisi specialiter notentur, videntur quasi neclecta.
+
+27. Generaliter vetuit praetor quid ad infamiam alicuius fieri. Proinde quodcumque quis fecerit vel dixerit, ut alium infamet, erit actio iniuriarum. Haec autem fere sunt, quae ad infamiam alicuius fiunt: ut puta ad invidiam alicuius veste lugubri utitur aut squalida, aut si barbam demittat vel capillos submittat, aut si carmen conscribat vel proponat vel cantet aliquod, quod pudorem alicuius laedat.
+
+28. Quod ait praetor: "Si quis adversus ea fecerit, prout quaqua re erit, animadvertam", sic intellegendum est, ut plenior esset praetoris animadversio, id est ut quodcumque eum moverit vel in persona eius qui agit iniuriarum actionem vel eius adversus quem agitur vel etiam in re ipsa, in qualitate iniuriae, non audiat eum qui agit.
+
+29. Si quis libello dato vel principi vel ali cui famam alienam insectatus fuerit, iniuriarum erit agendum: Papinianus ait.
+
+30. Idem ait eum, qui eventum sententiae velut daturus pecuniam vendidit, fustibus a praeside ob hoc castigatum iniuriarum damnatum videri: utique autem apparet hunc iniuriam ei fecisse, cuius sententiam venditavit.
+
+31. Si quis bona alicuius vel rem unam per iniuriam occupaverit, iniuriarum actione tenetur.
+
+32. Item si quis pignus proscripserit venditurus, tamquam a me acceperit, infamandi mei causa, servius ait iniuriarum agi posse.
+
+33. Si quis non debitorem quasi debitorem appellaverit iniuriae faciendi causa, iniuriarum tenetur.
+
+34. Praetor ait: "Qui servum alienum adversus bonos mores verberavisse deve eo iniussu domini quaestionem habuisse dicetur, in eum iudicium dabo. Item si quid aliud factum esse dicetur, causa cognita iudicium dabo".
+
+35. Si quis sic fecit iniuriam servo, ut domino faceret, video dominum iniuriarum agere posse suo nomine: si vero non ad suggillationem domini id fecit, ipsi servo facta iniuria inulta a praetore relinqui non debuit, maxime si verberibus vel quaestione fieret: hanc enim et servum sentire palam est.
+
+36. Si communem quis servum verberaverit, utique hac actione non tenebitur, cum iure domini id fecerit.
+
+37. Nec si fructuarius id fecerit, dominus cum eo agit, vel si proprietarius fecerit, fructuarius eum conveniet.
+
+38. Adicitur "adversus bonos mores", ut non omnis omnino qui verberavit, sed qui adversus bonos mores verberavit, teneatur: ceterum si quis corrigendi animo aut si quis emendandi, non tenetur.
+
+39. Unde quaerit Labeo, si magistratus municipalis servum meum loris ruperit, an possim cum eo experiri, quasi adversus bonos mores verberaverit. Et ait iudicem debere inquirere, quid facientem servum meum verberaverit: nam si honorem ornamentaque petulanter adtemptantem ceciderit, absolvendum eum.
+
+40. "Verberasse" dicitur abusive et qui pugnis ceciderit.
+
+41. "Quaestionem" intellegere debemus tormenta et corporis dolorem ad eruendam veritatem. Nuda ergo interrogatio vel levis territio non pertinet ad hoc edictum. Quaestionis verbo etiam ea, quam malam mansionem dicunt, continebitur. Cum igitur per vim et tormenta habita quaestio est, tunc quaestio intellegitur.
+
+42. Sed et si iussu domini quis quaestionem habeat, modum tamen excesserit, teneri eum debere Labeo ait.
+
+43. Praetor ait: "Si quid aliud factum esse dicetur, causa cognita iudicium dabo". Proinde si quidem verberatus sit servus vel tormentis de eo quaestio habita est, sine causae cognitione iudicium in eum competit, si vero aliam iniuriam passus sit, non aliter competit quam causa cognita.
+
+44. Itaque praetor non ex omni causa iniuriarum iudicium servi nomine promittit: nam si leviter percussus sit vel maledictum ei leviter, non dabit actionem: at si infamatus sit vel facto aliquo vel carmine scripto puto causae cognitionem praetoris porrigendam et ad servi qualitatem: etenim multum interest, qualis servus sit, bonae frugi, ordinarius, dispensator, an vero vulgaris vel mediastinus an qualisqualis. Et quid si compeditus vel male notus vel notae extremae? Habebit igitur praetor rationem tam iniuriae, quae admissa dicitur, quam personae servi, in quem admissa dicitur, et sic aut permittet aut denegabit actionem.
+
+45. Interdum iniuria servo facta ad dominum redundat, interdum non: nam si pro libero se gerentem aut cum eum alterius potius quam meum existimat quis, non caesurus eum, si meum scisset, non posse eum, quasi mihi iniuriam fecerit, sic conveniri mela scribit.
+
+46. Si quis servo verberato iniuriarum egerit, deinde postea damni iniuriae agat, Labeo scribit eandem rem non esse, quia altera actio ad damnum pertineret culpa datum, altera ad contumeliam.
+
+47. Si usum fructum in servo habeam, tu proprietatem isque verberatus sit vel quaestio de eo habita, iniuriarum actio magis proprietario quam mihi competit. Idemque probatur et si servum meum, quem bona fide possidebam, cecideris: domino enim magis competit iniuriarum actio.
+
+48. Item, si liberum hominem, qui mihi bona fide serviebat, quis ceciderit, distinguendum est, ut, si in contumeliam pulsatus sit, competat mihi iniuriarum actio. Idem ergo et si in servo alieno bona fide mihi serviente, ut totiens admittamus iniuriarum actionem, quotiens in meam contumeliam iniuria ei facta sit. Nam ipsius quidem servi nomine domino dabimus iniuriarum actionem. Si autem me tangat et pulset, iniuriarum mihi quoque est. Ergo et in fructuario idem distingui potest.
+
+49. Si servum complurium cecidero, competere iniuriarum actionem omnibus plus quam manifestum est:
+
+47.10.16
+
+Paulus libro 45 ad edictum
+
+Sed non esse aequum pro maiore parte, quam pro qua dominus est, damnationem fieri pedius ait: et ideo officio iudicis portiones aestimandae erunt.
+
+47.10.17
+
+Ulpianus libro 57 ad edictum
+
+pr. Sed si unius permissu id fecero, si quidem solius eius esse putavi, nulli competit iniuriarum actio. Plane si scii plurium, ei quidem, qui permisit, non competit iniuriarum actio, ceteris competit.
+
+1. Si iussu tutoris aut procuratoris vel curatoris quaestio habita sit, consequens erit dicere cessare iniuriarum actionem.
+
+2. Servus meus opera vel querella tua flagellis caesus est a magistratu nostro. Mela putat dandam mihi iniuriarum adversus te, in quantum ob eam rem aequum iudici videbitur, et si servus decesserit, dominum eius agere posse Labeo ait, quia de damno, quod per iniuriam factum est, agatur. Et ita Trebatio placuit.
+
+3. Quaedam iniuriae a liberis hominibus factae leves (non nullius momenti) videntur, enimvero a servis graves sunt: crescit enim contumelia ex persona eius qui contumeliam fecit.
+
+4. Cum servus iniuriam facit, maleficium eum admittere palam est: merito igitur sicuti ex ceteris delictis, ita et ex hoc iniuriarum noxalis actio datur. Sed in arbitrio domini est, an velit eum verberandum exhibere, ut ita satisfiat ei qui iniuriam passus est: neque erit necesse domino utique eum verberandum praestare, sed dabitur ei facultas praestare ei servum verberandum aut, si de eo verberibus satis non fiat, noxae dedendum vel litis aestimationem sufferendam.
+
+5. Ait praetor "arbitratu iudicis": utique quasi viri boni, ut ille modum verberum imponat.
+
+6. Si ante iudicem dominus verberandum servum exhibuerit, ut satis verberibus ei fieret, et erit factum arbitratu alicuius, postea actor agere iniuriarum perseverat, non est audiendus: qui enim accepit satisfactionem, iniuriam suam remisit. Nam et si nuda voluntate iniuriam remisit, indubitate dicendum est extingui iniuriarum actionem non minus, quam si tempore abolita fuerit iniuria.
+
+7. Si iussu domini servus iniuriam fecerit, utique dominus conveniri poterit etiam suo nomine. Sed si proponatur servus manumissus, placet Labeoni dandam in eum actionem, quia et noxa caput sequitur nec in omnia servus domino parere debet: ceterum et si occiderit iussu domini, Cornelia eum eximemus.
+
+8. Plane si defendendi domini gratia aliquid fecerit, rationem ei constare apparet, inque eam rem adversus agentem exceptio obicienda erit.
+
+9. Si servus, in quo usus fructus meus est, iniuriam mihi fecerit, adversus dominum noxali iudicio experiri potero: neque debeo deterioris condicionis ob hoc esse, quod usum fructum in eo habeo, quam si non haberem. Aliter atque si servus communis esset: tunc enim non daremus socio actionem, eapropter, quia et ipse iniuriarum actione tenetur.
+
+10. Ait praetor: "Si ei, qui in alterius potestate erit, iniuria facta esse dicetur et neque is, cuius in potestate est, praesens erit neque procurator quisquam existat, qui eo nomine agat: causa cognita ipsi, qui iniuriam accepisse dicetur, iudicium dabo".
+
+11. Filio familias iniuriam passo, si praesens sit pater, agere tamen non possit propter furorem vel quem alium casum dementiae, puto competere iniuriarum actionem: nam et hic pater eius absentis loco est.
+
+12. Plane si praesens agere nolit, vel quia differt vel quia remittit atque donat iniuriam, magis est, ut filio actio non detur: nam et cum abest, idcirco datur filio actio, quia verisimile est patrem, si praesens fuisset, acturum fuisse.
+
+13. Interdum tamen putamus et si pater remittat, iniuriarum actionem filio dandam, ut puta si patris persona vilis abiectaque sit, filii honesta: neque enim debet pater vilissimus filii sui contumeliam ad suam vilitatem metiri. Ponamus esse eum patrem, cui iure meritoque curator a praetore constitueretur.
+
+14. Sed si pater lite contestata coeperit abesse vel etiam neclegere executionem pater vilis, dicendum est causa cognita translationem filio competere. Idem et si emancipatus filius esse proponatur.
+
+15. Procuratorem patris praetulit praetor ipsis personis, quae iniuriam passae sunt. Si tamen procurator aut neglegat aut colludat aut non sufficiat adversus personas, quae iniuriam fecerunt, ipsi potius, qui passus est iniuriam, actio iniuriarum competit.
+
+16. Procuratorem autem accipere debemus non utique eum, cui specialiter mandata est procuratio actionis iniuriarum, verum sufficit eum esse, cui omnium rerum administratio mandata est.
+
+17. Quod autem ait praetor causa cognita ipsi, qui iniuriam accepisse dicetur, iudicium permitti, ita accipiendum est, ut in cognitione causae hoc versetur, quam longe pater absit et quando superventurus, et numquid is, qui iniuriarum vult actionem movere, segnitior vel inutilis admodum, qui non sufficiat ad rei cuius administrationem ac per hoc nec ad actionem.
+
+18. Quod deinde ait "qui iniuriam accepit", interdum ita accipiendum est, ut patri eius competat actio. Ut puta nepoti facta iniuria est, pater praesens est, avus abest: scribit Iulianus patri potius dandam iniuriarum actionem quam ipsi nepoti: ad cuius, inquit, officium pertinet etiam vivente avo filium suum in omnibus tueri.
+
+19. Idem Iulianus scribit filium non tantum ipsum agere debere, verum procuratorem dare posse: alioquin, inquit, nisi ei permiserimus procuratorem dare, futurum est, ut, si valetudine impediatur neque sit qui iniuriarum actionem exequatur, impediatur actio.
+
+20. Idem ait, et si nepoti facta sit iniuria et nemo sit, qui avi nomine agat, permittendum esse patri experiri, et is procuratorem dabit. Omnibus enim, qui suo nomine actionem habent, procuratoris dandi esse potestatem: intellegi autem filium, inquit, familias suo nomine agere, cum patre cessante praetor ei agere permittat.
+
+21. Si filius familias iniuriarum egerit, patri actio non competit.
+
+22. Idem ait filio familias iniuriarum nomine actionem dari, quotiens nemo est, qui patris nomine experiatur, et hoc casu quasi patrem familiae constitui. Quare sive emancipatus sit sive ex parte heres scriptus fuerit vel etiam exheredatus sive paterna hereditate abstinuerit, executionem litis ei dandam: esse enim perabsurdum, quem praetor manente patria potestate ad actionem admittendum probaverit, ei patri familias ultionem iniuriarum suarum eripi et transferri ad patrem, qui eum, quantum in ipso est, omiserit, aut, quod est indignius, ad heredes patris, ad quos non pertinere iniuriam filio familias factam procul dubio est.
+
+47.10.18
+
+Paulus libro 55 ad edictum
+
+pr. Eum, qui nocentem infamavit, non esse bonum aequum ob eam rem condemnari: peccata enim nocentium nota esse et oportere et expedire.
+
+1. Si servus servo fecerit iniuriam, perinde agendum, quasi si domino fecisset.
+
+2. Si nupta filia familiae iniuriam acceperit et vir et pater iniuriarum agant, Pomponius recte putat tanti patri condemnandum esse reum, quanti condemnetur, si ea vidua esset, viro tanti, quanti condemnaretur, si ea in nullius potestate esset, quod sua cuiusque iniuria propriam aestimationem haberet. Et ideo si nupta in nullius potestate sit, non ideo minus eam iniuriarum agere posse, quod et vir suo nomine agat.
+
+3. Si iniuria mihi fiat ab eo, cui sim ignotus, aut si quis putet me Lucium Titium esse, cum sim Gaius Seius: praevalet, quod principale est, iniuriam eum mihi facere velle: nam certus ego sum, licet ille putet me alium esse quam sum, et ideo iniuriarum habeo.
+
+4. At cum aliquis filium familias patrem familias putat, non potest videri iniuriam patri facere, non magis quam viro, si mulierem viduam esse credat, quia neque in personam eorum confertur iniuria nec transferri personae putationem ex persona filiorum ad eos potest, cum affectus iniuriam facientis in hunc tamquam in patrem familias consistat.
+
+5. Quod si scisset filium familias esse, tamen, si nescisset, cuius filius esset, dicerem, inquit, patrem suo nomine iniuriarum agere posse: nec minus virum, si ille nuptam esse sciret: nam qui haec non ignorat, cuicumque patri, cuicumque marito per filium, per uxorem vult facere iniuriam.
+
+47.10.19
+
+Gaius libro 22 ad edictum provinciale
+
+Si creditor meus, cui paratus sum solvere, in iniuriam meam fideiussores meos interpellaverit, iniuriarum tenetur.
+
+47.10.20
+
+Modestinus libro 12 responsorum
+
+Si iniuriae faciendae gratia seia domum absentis debitoris signasset sine auctoritate eius, qui concedendi ius potestatemve habuit, iniuriarum actionem intendi posse respondit.
+
+47.10.21
+
+Iavolenus libro nono epistularum
+
+Iniuriarum aestimatio non ad id tempus, quo iudicatur, sed ad id, quo facta est, referri debet.
+
+47.10.22
+
+Ulpianus libro primo ad edictum praetoris
+
+Si liber pro fugitivo adprehensus erit, iniuriarum cum eo agit.
+
+47.10.23
+
+Paulus libro quarto ad edictum
+
+Qui in domum alienam invito domino introiret, quamvis in ius vocat, actionem iniuriarum in eum competere Ofilius ait.
+
+47.10.24
+
+Ulpianus libro 15 ad edictum praetoris
+
+Si quis proprium servum distrahere prohibetur a quolibet, iniuriarum experiri potest.
+
+47.10.25
+
+Ulpianus libro 18 ad edictum
+
+Si stuprum serva passa sit, iniuriarum actio dabitur: aut, si celavit mancipium vel quid aliud furandi animo fecit, etiam furti: vel, si virginem immaturam stupraverit, etiam legis Aquiliae actionem competere quidam putant.
+
+47.10.26
+
+Paulus libro 19 ad edictum
+
+Si quis servum meum vel filium ludibrio habeat licet consentientem, tamen ego iniuriam videor accipere: veluti si in popinam duxerit illum, si alea luserit. Sed hoc utcumque tunc locum habere potest, quotiens ille qui suadet animum iniuriae faciendae habet. Atquin potest malum consilium dare et qui dominum ignoret: et ideo incipit servi corrupti actio necessaria esse.
+
+47.10.27
+
+Paulus libro 27 ad edictum
+
+Si statua patris tui in monumento posita saxis caesa est, sepulchri violati agi non posse, iniuriarum posse Labeo scribit.
+
+47.10.28
+
+Ulpianus libro 34 ad Sabinum
+
+Iniuriarum actio in bonis nostris non computatur, antequam litem contestemur.
+
+47.10.29
+
+Paulus libro decimo ad Sabinum
+
+Si servum, cuius nomine iniuriarum actio tibi competit, manumiseris aut alienaveris, superest tibi iniuriarum actio.
+
+47.10.30
+
+Ulpianus libro 42 ad Sabinum
+
+pr. Servo autem manumisso non competere actionem ob iniuriam, quam in servitute passus est, quis dubitet?
+
+1. Si filio iniuria facta sit, cum utrique tam filio quam patri adquisita actio sit, non eadem utique facienda aestimatio est,
+
+47.10.31
+
+Paulus libro decimo ad Sabinum
+
+Cum possit propter filii dignitatem maior ipsi quam patri iniuria facta esse.
+
+47.10.32
+
+Ulpianus libro 42 ad Sabinum
+
+Nec magistratibus licet aliquid iniuriose facere. Si quid igitur per iniuriam fecerit magistratus vel quasi privatus vel fiducia magistratus, iniuriarum potest conveniri. Sed utrum posito magistratu an vero et quamdiu est in magistratu? Sed verius est, si is magistratus est, qui sine fraude in ius vocari non potest, exspectandum esse, quoad magistratu abeat. Quod et si ex minoribus magistratibus erit, id est qui sine imperio aut potestate sunt magistratus, et in ipso magistratu posse eos conveniri.
+
+47.10.33
+
+Paulus libro decimo ad Sabinum
+
+Quod rei publicae venerandae causa secundum bonos mores fit, etiamsi ad contumeliam alicuius pertinet, quia tamen non ea mente magistratus facit, ut iniuriam faciat, sed ad vindictam maiestatis publicae respiciat, actione iniuriarum non tenetur.
+
+47.10.34
+
+Gaius libro 13 ad edictum provinciale
+
+Si plures servi simul aliquem ceciderint aut convicium alicui fecerint, singulorum proprium est maleficium et tanto maior iniuria, quanto a pluribus admissa est. Immo etiam tot iniuriae sunt, quot et personae iniuriam facientium.
+
+47.10.35
+
+Ulpianus libro tertio de omnibus tribunalibus
+
+Si quis iniuriam atrocem fecerit, qui contemnere iniuriarum iudicium possit ob infamiam suam et egestatem, praetor acriter exequi hanc rem debet et eos, qui iniuriam fecerunt, coercere.
+
+47.10.36
+
+Iulianus libro 45 digestorum
+
+Si filii nomine cum patre iniuriarum agere velim et is procuratorem det, non intellegitur filius defendi, nisi iudicatum solvi satisdetur: et ideo actio adversus filium, tamquam a patre non defendatur, danda erit.
+
+47.10.37
+
+Marcianus libro 14 institutionum
+
+pr. Constitutionibus principalibus cavetur ea, quae infamandi alterius causa in monumenta publica posita sunt, tolli de medio.
+
+1. Etiam ex lege Cornelia iniuriarum actio civiliter moveri potest condemnatione aestimatione iudicis facienda.
+
+47.10.38
+
+Scaevola libro quarto regularum
+
+Senatus consulto cavetur, ne quis imaginem imperatoris in invidiam alterius portaret: et qui contra fecerit, in vincula publica mittetur.
+
+47.10.39
+
+Venuleius libro secundo publicorum iudiciorum
+
+Vestem sordidam rei nomine in publico habere capillumve summittere nulli licet, nisi ita coniunctus est adfinitati, ut invitus in reum testimonium dicere cogi non possit.
+
+47.10.40
+
+Macer libro secundo publicorum iudiciorum
+
+Divus Severus Dionysio Diogeni ita scripsit: "Atrocis iniuriae damnatus in ordine decurionum esse non potest. Nec prodesse tibi debet error praesidum aut eius, qui de te aliquid pronuntiavit, aut eorum, qui contra formam iuris mansisse te in ordine decurionum putaverunt".
+
+47.10.41
+
+Neratius libro quinto membranarum
+
+Pater, cuius filio facta est iniuria, non est impediendus, quo minus duobus iudiciis et suam iniuriam persequatur et filii.
+
+47.10.42
+
+Paulus libro quinto sententiarum
+
+Iudici ab appellatoribus convicium fieri non oportet: alioquin infamia notantur.
+
+47.10.43
+
+Gaius libro tertio regularum
+
+Qui iniuriarum actionem per calumniam instituit, extra ordinem damnatur: id est exilium aut relegationem aut ordinis amotionem patiatur.
+
+47.10.44
+
+Iavolenus libro nono ex posterioribus Labeonis
+
+Si inferiorum dominus aedium superioris vicini fumigandi causa fumum faceret, aut si superior vicinus in inferiores aedes quid aut proiecerit aut infuderit, negat Labeo iniuriarum agi posse: quod falsum puto, si tamen iniuriae faciendae causa immittitur.
+
+47.10.45
+
+Hermogenianus libro quinto epitomarum
+
+De iniuria nunc extra ordinem ex causa et persona statui solet. Et servi quidem flagellis caesi dominis restituuntur, liberi vero humilioris quidem loci fustibus subiciuntur, ceteri autem vel exilio temporali vel interdictione certae rei coercentur.
+
+* 47.11.0. De extraordinariis criminibus.
+
+
+47.11.1
+
+Paulus libro quinto sententiarum
+
+pr. Sollicitatores alienarum nuptiarum itemque matrimoniorum interpellatores et si effectu sceleris potiri non possunt, propter voluntatem perniciosae libidinis extra ordinem puniuntur.
+
+1. Fit iniuria contra bonos mores, veluti si quis fimo corrupto aliquem perfuderit, caeno luto oblinierit, aquas spurcaverit, fistulas lacus quidve aliud ad iniuriam publicam contaminaverit: in quos graviter animadverti solet.
+
+2. Qui puero stuprum abducto ab eo vel corrupto comite persuaserit aut mulierem puellamve interpellaverit quidve impudicitiae gratia fecerit, domum praebuerit pretiumve, quo is persuadeat, dederit: perfecto flagitio punitur capite, imperfecto in insulam deportatur: corrupti comites summo supplicio adficiuntur.
+
+47.11.2
+
+Ulpianus libro quarto opinionum
+
+Sub praetextu religionis vel sub specie solvendi voti coetus illicitos nec a veteranis temptari oportet.
+
+47.11.3
+
+Ulpianus libro tertio de adulteriis
+
+Stellionatus vel expilatae hereditatis iudicia accusationem quidem habent, sed non sunt publica.
+
+47.11.4
+
+Marcianus libro primo regularum
+
+Divus Severus et Antoninus rescripserunt eam, quae data opera abegit, a praeside in temporale exilium dandam: indignum enim videri potest impune eam maritum liberis fraudasse.
+
+47.11.5
+
+Ulpianus libro quinto de officio proconsulis
+
+In eum, cuius instinctu ad infamandum dominum servus ad statuam confugisse compertus erit, praeter corrupti servi actionem, quae ex edicto perpetuo competit, severe animadvertitur.
+
+47.11.6
+
+Ulpianus libro octavo de officio proconsulis
+
+pr. Annonam adtemptare et vexare vel maxime dardanarii solent: quorum avaritiae obviam itum est tam mandatis quam constitutionibus. mandatis denique ita cavetur: "Praeterea debebis custodire, ne dardanarii ullius mercis sint, ne aut ab his, qui coemptas merces supprimunt, aut a locupletioribus, qui fructus suos aequis pretiis vendere nollent, dum minus uberes proventus exspectant, annona oneretur". Poena autem in hos varie statuitur: nam plerumque, si negotiantes sunt, negotiatione eis tantum interdicitur, interdum et relegari solent, humiliores ad opus publicum dari.
+
+1. Onerant annonam etiam staterae adulterinae, de quibus divus Traianus edictum proposuit, quo edicto poenam legis Corneliae in eos statuit, perinde ac si lege testamentaria, quod testamentum falsum scripsisset signasset recitasset, damnatus esset.
+
+2. Sed et divus Hadrianus eum, qui falsas mensuras habuit, in insulam relegavit.
+
+47.11.7
+
+Ulpianus libro nono de officio proconsulis
+
+Saccularii, qui vetitas in sacculos artes exercentes partem subducunt, partem subtrahunt, item qui derectarii appellantur, hoc est hi, qui in aliena cenacula se dirigunt furandi animo, plus quam fures puniendi sunt: idcircoque aut ad tempus in opus dantur publicum, aut fustibus castigantur et dimittuntur, aut ad tempus relegantur.
+
+47.11.8
+
+Ulpianus libro nono de officio proconsulis
+
+Sunt praeterea crimina, quae ad executionem praesidis pertinent: ut puta si quis instrumenta sua prodita esse dicat: nam huius rei executio praefecto urbis a divis fratribus data est.
+
+47.11.9
+
+Ulpianus libro nono de officio proconsulis
+
+Sunt quaedam, quae more provinciarum coercitionem solent admittere: ut puta in provincia Arabia skopelismon crimen appellant, cuius rei admissum tale est: plerique inimicorum solent praedium inimici skopelizein, id est lapides ponere indicio futuros, quod, si quis eum agrum coluisset, malo leto periturus esset insidiis eorum, qui scopulos posuissent: quae res tantum timorem habet, ut nemo ad eum agrum accedere audeat crudelitatem timens eorum qui scopelismon fecerunt. Hanc rem praesides exequi solent graviter usque ad poenam capitis, quia et ipsa res mortem comminatur.
+
+47.11.10
+
+Ulpianus libro nono de officio proconsulis
+
+In Aegypto qui chomata rumpit vel dissolvit (hi sunt aggeres, qui quidem solent aquam niloticam continere), aeque plectitur extra ordinem: et pro condicione sua et pro admissi mensura quidam opere publico, alii autem metallo plectuntur, et metallo quidem secundum suam dignitatem. Si quis arborem sycaminonem exciderit, nam et haec res vindicatur extra ordinem non levi poena, idcirco quod hae arbores colligunt aggeres niloticos, per quos incrementa nili dispensantur et coercentur. Et deminutiones aeque coercentur: chomata etiam et diacopi, qui in aggeribus fiunt, plecti efficiunt eos, qui id [] admiserint.
+
+47.11.11
+
+Paulus libro primo sententiarum
+
+In circulatores, qui serpentes circumferunt et proponunt, si cui ob eorum metum damnum datum est, pro modo admissi actio dabitur.
+
+* 47.12.0. De sepulchro violato.
+
+
+47.12.1
+
+Ulpianus libro secundo ad edictum praetoris
+
+Sepulchri violati actio infamiam irrogat.
+
+47.12.2
+
+Ulpianus libro 18 ad edictum praetoris
+
+Si sepulchrum quis diruit, cessat Aquilia: quod vi tamen aut clam agendum erit: et ita de statua de monumento evolsa Celsus scribit. Idem quaerit, si neque adplumbata fuit neque adfixa, an pars monumenti effecta sit an vero maneat in bonis nostris: et Celsus scribit sic esse monumenti ut ossuaria et ideo quod vi aut clam interdicto locum fore.
+
+47.12.3
+
+Ulpianus libro 25 ad edictum praetoris
+
+pr. Praetor ait: "Cuius dolo malo sepulchrum violatum esse dicetur, in eum in factum iudicium dabo, ut ei, ad quem pertineat, quanti ob eam rem aequum videbitur, condemnetur. Si nemo erit, ad quem pertineat, sive agere nolet: quicumque agere volet, ei centum aureorum actionem dabo. Si plures agere volent, cuius iustissima causa esse videbitur, ei agendi potestatem faciam. Si quis in sepulchro dolo malo habitaverit aedificiumve aliud, quamque sepulchri causa factum sit, habuerit: in eum, si quis eo nomine agere volet, ducentorum aureorum iudicium dabo".
+
+1. Prima verba ostendunt eum demum ex hoc plecti, qui dolo malo violavit. Si igitur dolus absit, cessabit eiusdem. Personae igitur doli non capaces, ut admodum impuberes, item omnes, qui non animo violandi accedunt, excusati sunt.
+
+2. Sepulchri autem appellatione omnem sepulturae locum contineri existimandum est.
+
+3. Si quis in hereditarium sepulchrum inferat, quamvis heres, tamen potest sepulchri violati teneri, si forte contra voluntatem testatoris intulit: licet enim cavere testatori, ne quis eo inferatur, ut rescripto imperatoris Antonini cavetur: servari enim voluntatem eius oportere. Ergo et si cavit, ut unus tantum heredum inferret, servabitur, ut solus inferat.
+
+4. Non perpetuae sepulturae tradita corpora posse transferri edicto divi severi continetur, quo mandatur, ne corpora detinerentur aut vexarentur aut prohiberentur per territoria oppidorum transferri. Divus tamen Marcus rescripsit nullam poenam meruisse eos, qui corpus in itinere defuncti per vicos aut oppidum transvexerunt, quamvis talia fieri sine permissu eorum, quibus permittendi ius est, non debeant.
+
+5. Divus Hadrianus rescripto poenam statuit quadraginta aureorum in eos qui in civitate sepeliunt, quam fisco inferri iussit, et in magistratus eadem qui passi sunt, et locum publicari iussit et corpus transferri. Quid tamen, si lex municipalis permittat in civitate sepeliri? Post rescripta principalia an ab hoc discessum sit, videbimus, quia generalia sunt rescripta et oportet imperialia statuta suam vim optinere et in omni loco valere.
+
+6. Si quis in sepulchro habitasset aedificiumve habuisset, ei qui velit agendi potestas fit.
+
+7. Adversus eos, qui cadavera spoliant, praesides severius intervenire, maxime si manu armata adgrediantur, ut, si armati more latronum id egerint, etiam capite plectantur, ut divus Severus rescripsit, si sine armis, usque ad poenam metalli procedunt.
+
+8. Qui de sepulchri violati actione iudicant, aestimabunt, quatenus intersit, scilicet ex iniuria quae facta est, item ex lucro eius qui violavit, vel ex damno quod contigit, vel ex temeritate eius qui fecit: numquam tamen minoris debent condemnare, quam solent extraneo agente.
+
+9. Si ad plures ius sepulchri pertineat, utrum omnibus damus actionem an ei qui occupavit? Labeo omnibus dandam dicit recte, quia in id, quod uniuscuiusque interest, agitur.
+
+10. Si is cuius interest sepulchri violati agere nollet, potest paenitentia acta, antequam lis ab alio contestetur, dicere velle se agere et audietur.
+
+11. Si servus in sepulchro habitat vel aedificavit, noxalis actio cessat et in eum praetor hanc actionem pollicetur. Si tamen non habitet, sed domunculam ibi habeat servus, noxale iudicium erit dandum, si modo habere posse videtur.
+
+12. Haec actio popularis est.
+
+47.12.4
+
+Paulus libro 27 ad edictum praetoris
+
+Sepulchra hostium religiosa nobis non sunt: ideoque lapides inde sublatos in quemlibet usum convertere possumus: non sepulchri violati actio competit.
+
+47.12.5
+
+Pomponius libro sexto ex Plautio
+
+Utimur eo iure, ut dominis fundorum, in quibus sepulchra fecerint, etiam post venditos fundos adeundorum sepulchrorum sit ius. Legibus namque praediorum vendundorum cavetur, ut ad sepulchra, quae in fundis sunt, item eius aditus ambitus funeri faciendi sit.
+
+47.12.6
+
+Iulianus libro decimo digestorum
+
+Sepulchri violati actio in primis datur ei, ad quem res pertinet. Quo cessante si alius egerit, quamvis rei publicae causa afuerit dominus, non debebit ex integro adversus eum, qui litis aestimationem sustulerit, dari. Nec potest videri deterior fieri condicio eius, qui rei publicae causa afuit, cum haec actio non ad rem familiarem eiusdem, magis ad ultionem pertineat.
+
+47.12.7
+
+Marcianus libro tertio institutionum
+
+Sepulchri deteriorem condicionem fieri prohibitum est: sed corruptum et lapsum monumentum corporibus non contactis licet reficere.
+
+47.12.8
+
+Macer libro primo publicorum
+
+Sepulchri violati crimen potest dici ad legem iuliam de vi publica pertinere ex illa parte, qua de eo cavetur, qui fecerit quid, quo minus aliquis funeretur sepeliaturve: quia et qui sepulchrum violat, facit, quo quis minus sepultus sit.
+
+47.12.9
+
+Macer libro secundo publicorum iudiciorum
+
+De sepulchro violato actio quoque pecuniaria datur.
+
+47.12.10
+
+Papinianus libro octavo quaestionum
+
+Quaesitum est, an ad heredem necessarium, cum se bonis non miscuisset, actio sepulchri violati pertineret. Dixi recte eum ea actione experiri, quae in bonum et aequum concepta est: nec tamen si egerit, hereditarios creditores timebit, cum etsi per hereditatem optigit haec actio, nihil tamen ex defuncti capiatur voluntate, neque id capiatur, quod in rei persecutione, sed in sola vindicta sit constitutum.
+
+47.12.11
+
+Paulus libro quinto sententiarum
+
+Rei sepulchrorum violatorum, si corpora ipsa extraxerint vel ossa eruerint, humilioris quidem fortunae summo supplicio adficiuntur, honestiores in insulam deportantur. Alias autem relegantur aut in metallum damnantur.
+
+* 47.13.0. De concussione.
+
+
+47.13.1
+
+Ulpianus libro quinto opinionum
+
+Si simulato praesidis iussu concussio intervenit, ablatum eiusmodi terrore restitui praeses provinciae iubet et delictum coercet.
+
+47.13.2
+
+Macer libro primo publicorum iudiciorum
+
+Concussionis iudicium publicum non est: sed si ideo pecuniam quis
+accepit, quod crimen minatus sit, potest iudicium publicum esse ex
+senatus consultis, quibus poena legis Corneliae teneri iubentur, qui
+in accusationem innocentium coierint quive ob accusandum vel non
+accusandum, denuntiandum vel non denuntiandum testimonium pecuniam
+acceperit.
+
+* 47.14.0. De abigeis.
+
+
+47.14.1
+
+Ulpianus libro octavo de officio proconsulis
+
+pr. De abigeis puniendis ita divus Hadrianus consilio Baeticae rescripsit: "Abigei cum durissime puniuntur, ad gladium damnari solent. Puniuntur autem durissime non ubique, sed ubi frequentius est id genus maleficii: alioquin et in opus et nonnumquam temporarium dantur".
+
+1. Abigei autem proprie hi habentur, qui pecora ex pascuis vel ex armentis subtrahunt et quodammodo depraedantur, et abigendi studium quasi artem exercent, equos de gregibus vel boves de armentis abducentes. Ceterum si quis bovem aberrantem vel equos in solitudine relictos abduxerit, non est abigeus, sed fur potius.
+
+2. Sed et qui porcam vel capram vel vervicem abduxit, non tam graviter quam qui maiora animalia abigunt, plecti debent.
+
+3. Quamquam autem Hadrianus metalli poenam, item operis vel etiam gladii praestituerit, attamen qui honestiore loco nati sunt, non debent ad hanc poenam pertinere, sed aut relegandi erunt aut movendi ordine. Sane qui cum gladio abigunt, non inique bestiis obiciuntur.
+
+4. Qui pecora, de quorum proprietate faciebat controversiam, abegit, ut Saturninus quidem scribit, ad examinationem civilem remittendus est. Sed hoc ita demum probandum est, si non color abigeatus quaesitus est, sed vere putavit sua iustis rationibus ductus.
+
+47.14.2
+
+Macer libro primo publicorum iudiciorum
+
+Abigeatus crimen publici iudicii non est, quia furtum magis est. Sed quia plerumque abigei et ferro utuntur, si deprehendentur, ideo graviter et puniri eorum admissum solet.
+
+47.14.3
+
+Callistratus libro sexto de cognitionibus
+
+pr. Oves pro numero abactarum aut furem aut abigeum faciunt. Quidam decem oves gregem esse putaverunt: porcos etiam quinque vel quattuor abactos, equum bovem vel unum abigeatus crimen facere.
+
+1. Eum quoque plenius coercendum, qui a stabulo abegit domitum pecus, non a silva nec grege.
+
+2. Qui saepius abegerunt, licet semper unum vel alterum pecus subripuerint, tamen abigei sunt.
+
+3. Receptores abigeorum qua poena plecti debeant, epistula divi Traiani ita cavetur, ut extra terram Italiam decem annis relegarentur.
+
+* 47.15.0. De praevaricatione.
+
+
+47.15.1
+
+Ulpianus libro sexto ad edictum praetoris
+
+pr. Praevaricator est quasi varicator, qui diversam partem adiuvat prodita causa sua. Quod nomen Labeo a varia certatione tractum ait: nam qui praevaricatur, ex utraque parte constitit, quin immo ex altera.
+
+1. Is autem praevaricator proprie dicitur, qui publico iudicio accusaverit: ceterum advocatus non proprie praevaricator dicitur. Quid ergo de eo fiet? Sive privato iudicio sive publico praevaricatus sit, hoc est prodiderit causam, hic extra ordinem solet puniri.
+
+47.15.2
+
+Ulpianus libro nono de officio proconsulis
+
+Sciendum, quod hodie is, qui praevaricati sunt, poena iniungitur extraordinaria.
+
+47.15.3
+
+Macer libro primo publicorum iudiciorum
+
+pr. Praevaricationis iudicium aliud publicum, aliud moribus inductum est.
+
+1. Nam si reus accusatori publico iudicio ideo praescribat, quod dicat se eodem crimine ab alio accusatum et absolutum, cavetur lege iulia publicorum, ut non prius accusetur, quam de prioris accusatoris praevaricatione constiterit et pronuntiatum fuerit. Huius ergo praevaricationis pronuntiatio publici iudicii intellegitur.
+
+2. Quod si advocato praevaricationis crimen intendatur, publicum iudicium non est: nec interest, publico an privato iudicio praevaricatus dicatur.
+
+3. Si ideo quis accusetur, quod dicatur crimen iudicii publici destituisse, iudicium publicum non est, quia neque lege aliqua de hac re cautum est, neque per senatus consultum, quo poena quinque auri librarum in desistentem statuitur, publica accusatio inducta est.
+
+47.15.4
+
+Macer libro secundo publicorum iudiciorum
+
+Si is, de cuius calumnia agi prohibetur, praevaricator in causa iudicii publici pronuntiatus sit, infamis erit.
+
+47.15.5
+
+Venuleius Saturninus libro secundo publicorum iudiciorum
+
+Accusator in praevaricatione convictus postea ex lege non accusat.
+
+47.15.6
+
+Paulus libro singulari de iudicis publicis
+
+Ab imperatore nostro et patre eius rescriptum est, ut in criminibus, quae extra ordinem obiciuntur, praevaricatores eadem poena adficiantur, qua tenerentur, si ipsi in legem commisissent, qua reus per praevaricationem absolutus est.
+
+47.15.7
+
+Ulpianus libro quarto de censibus
+
+In omnibus causis, praeterquam in sanguine, qui delatorem corrupit, ex senatus consulto pro victo habetur.
+
+* 47.16.0. De receptatoribus.
+
+
+47.16.1
+
+Marcianus libro secundo publicorum iudiciorum
+
+Pessimum genus est receptatorum, sine quibus nemo latere diu potest: et praecipitur, ut perinde puniantur atque latrones. In pari causa habendi sunt, qui, cum adprehendere latrones possent, pecunia accepta vel subreptorum parte dimiserunt.
+
+47.16.2
+
+Paulus libro singulari de poenis paganorum
+
+Eos, apud quos adfinis vel cognatus latro conservatus est, neque absolvendos neque severe admodum puniendos: non enim par est eorum delictum et eorum, qui nihil ad se pertinentes latrones recipiunt.
+
+* 47.17.0. De furibus balneariis.
+
+
+47.17.1
+
+Ulpianus libro octavo de officio proconsulis
+
+Fures nocturni extra ordinem audiendi sunt et causa cognita puniendi, dummodo sciamus in poena eorum operis publici temporarii modum non egrediendum. Idem et in balneariis furibus. Sed si telo se fures defendunt vel effractores vel ceteri his similes nec quemquam percusserunt, metalli poena vel honestiores relegationis adficiendi erunt.
+
+47.17.2
+
+Marcianus libro secundo iudiciorum publicorum
+
+Sed si interdiu furtum fecerunt, ad ius ordinarium remittendi sunt.
+
+47.17.3
+
+Paulus libro singulari de poenis militum
+
+Miles, qui in furto balneario adprehensus est, ignominia mitti debet.
+
+* 47.18.0. De effractoribus et expilatoribus.
+
+
+47.18.1
+
+Ulpianus libro octavo de officio proconsulis
+
+pr. De his, qui carcere effracto evaserunt, sumendum supplicium divi fratres Aemilio Tironi rescripserunt. Saturninus etiam probat in eos, qui de carcere eruperunt sive effractis foribus sive conspiratione cum ceteris, qui in eadem custodia erant, capite puniendos: quod si per neglegentiam custodum evaserunt, levius puniendos.
+
+1. Expilatores, qui sunt atrociores fures (hoc enim est expilatores), in opus publicum vel perpetuum vel temporarium dari solent, honestiores autem ordine ad tempus moveri vel fines patriae iuberi excedere. Quibus nulla specialis poena rescriptis principalibus imposita est: idcirco causa cognita liberum erit arbitrium statuendi ei qui cognoscit.
+
+2. Simili modo et sacculari et derectarii erunt puniendi, item effractores. Sed enim divus Marcus effractorem equitem romanum, qui effracto perforatoque pariete pecuniam abstulerat, quinquennio abstinere iussit provincia Africa, unde erat, et urbe et Italia. Oportebit autem aeque et in effractores et in ceteros supra scriptos causa cognita statui, prout admissum suggerit, dummodo ne quis in plebeio operis publici poenam vel in honestiore relegationis excedat.
+
+47.18.2
+
+Paulus libro singulari de officio praefecti vigiliae
+
+Inter effractores varie animadvertitur. Atrociores enim sunt nocturni effractores, et ideo hi fustibus caesi in metallum dari solent: diurni vero effractores post fustium castigationem in opus perpetuum vel temporarium dandi sunt.
+
+* 47.19.0. Expilatae hereditatis.
+
+
+47.19.1
+
+Marcianus libro tertio institutionum
+
+Si quis alienam hereditatem expilaverit, extra ordinem solet coerceri per accusationem expilatae hereditatis, sicut et oratione divi Marci cavetur.
+
+47.19.2
+
+Ulpianus libro nono de officio proconsulis
+
+pr. Si expilatae hereditatis crimen intendatur, praeses provinciae cognitionem suam accommodare debet: cum enim furti agi non potest, solum superest auxilium praesidis.
+
+1. Apparet autem expilatae hereditatis crimen eo casu intendi posse, quo casu furti agi non potest, scilicet ante aditam hereditatem, vel post aditam antequam res ab herede possessae sunt. Nam in hunc casum furti actionem non competere palam est: quamvis ad exhibendum agi posse, si qui vindicaturus exhiberi desideret, palam sit.
+
+47.19.3
+
+Marcianus libro secundo publicorum iudiciorum
+
+Divus Severus et Antoninus rescripserunt electionem esse, utrum quis velit crimen expilatae hereditatis extra ordinem apud praefectum urbi vel apud praesides agere an hereditatem a possessoribus iure ordinario vindicare.
+
+47.19.4
+
+Paulus libro tertio responsorum
+
+Res hereditarias omnium heredum fuisse communes, et ideo eum, qui expilatae hereditatis crimen obicit et optinuit, etiam coheredi profuisse videri.
+
+47.19.5
+
+Hermogenianus libro secundo iuris epitomarum
+
+Uxor expilatae hereditatis crimine idcirco non accusatur, quia nec furti cum ea agitur.
+
+47.19.6
+
+Paulus libro primo ad Neratium
+
+Si rem hereditariam, ignorans in ea causa esse, subripuisti, furtum te facere respondit. Paulus: rei hereditariae furtum non fit sicut nec eius, quae sine domino est, et nihil mutat existimatio subripientis.
+
+* 47.20.0. Stellionatus.
+
+
+47.20.1
+
+Papinianus libro primo responsorum
+
+Actio stellionatus neque publicis iudiciis neque privatis actionibus continetur.
+
+47.20.2
+
+Ulpianus libro octavo ad Sabinum
+
+Stellionatus iudicium famosum quidem non est, sed coercitionem extraordinariam habet.
+
+47.20.3
+
+Ulpianus libro octavo de officio proconsulis
+
+pr. Stellionatus accusatio ad praesidis cognitionem spectat.
+
+1. Stellionatum autem obici posse his, qui dolo quid fecerunt, sciendum est, scilicet si aliud crimen non sit quod obiciatur: quod enim in privatis iudiciis est de dolo actio, hoc in criminibus stellionatus persecutio. Ubicumque igitur titulus criminis deficit, illic stellionatus obiciemus. Maxime autem in his locum habet: si quis forte rem alii obligatam dissimulata obligatione per calliditatem alii distraxerit vel permutaverit vel in solutum dederit: nam hae omnes species stellionatum continent. Sed et si quis merces supposuerit vel obligatas averterit vel si corruperit, aeque stellionatus reus erit. Item si quis imposturam fecerit vel collusionem in necem alterius, stellionatus poterit postulari. Et ut generaliter dixerim, deficiente titulo criminis hoc crimen locum habet, nec est opus species enumerare.
+
+2. Poena autem stellionatus nulla legitima est, cum nec legitimum crimen sit. Solent autem ex hoc extra ordinem plecti, dummodo non debeat opus metalli haec poena in plebeis egredi. In his autem, qui sunt in aliquo honore positi, ad tempus relegatio vel ab ordine motio remittenda est.
+
+3. Qui merces suppressit, specialiter hoc crimine postulari potest.
+
+47.20.4
+
+Modestinus libro tertio de poenis
+
+De periurio, si sua pignora esse quis in instrumento iuravit, crimen stellionatus fit, et ideo ad tempus exulat.
+
+* 47.21.0. De termino moto.
+
+
+47.21.1
+
+Modestinus libro octavo regularum
+
+Terminorum avulsorum non multa pecuniaria est, sed pro condicione admittentium coercitione transigendum.
+
+47.21.2
+
+Callistratus libro tertio de cognitionibus
+
+Divus Hadrianus in haec verba rescripsit: "Quin pessimum factum sit eorum, qui terminos finium causa positos propulerunt, dubitari non potest. De poena tamen modus ex condicione personae et mente facientis magis statui potest: nam si splendidiores personae sunt, quae convincuntur, non dubie occupandorum alienorum finium causa id admiserunt, et possunt in tempus, ut cuiusque patiatur aetas, relegari, id est si iuvenior, in longius, si senior, recisius. Si vero alii negotium gesserunt et ministerio functi sunt, castigari et ad opus biennio dari. Quod si per ignorantiam aut fortuito lapides furati sunt, sufficiet eos verberibus decidere".
+
+47.21.3
+
+Callistratus libro quinto de cognitionibus
+
+pr. Lege agraria, quam Gaius Caesar tulit, adversus eos, qui terminos statutos extra suum gradum finesve moverint dolo malo, pecuniaria poena constituta est: nam in terminos singulos, quos eiecerint locove moverint, quinquaginta aureos in publico dari iubet: et eius actionem petitionem ei qui volet esse iubet.
+
+1. Alia quoque lege agraria, quam divus Nerva tulit, cavetur, ut, si servus servave insciente domino dolo malo fecerit, ei capital esse, nisi dominus dominave multam sufferre maluerit.
+
+2. Hi quoque, qui finalium quaestionum obscurandarum causa faciem locorum convertunt, ut ex arbore arbustum aut ex silva novale aut aliquid eiusmodi faciunt, poena plectendi sunt pro persona et condicione et factorum violentia.
+
+* 47.22.0. De collegiis et corporibus.
+
+
+47.22.1
+
+Marcianus libro tertio institutionum
+
+pr. Mandatis principalibus praecipitur praesidibus provinciarum, ne patiantur esse collegia sodalicia neve milites collegia in castris habeant. Sed permittitur tenuioribus stipem menstruam conferre, dum tamen semel in mense coeant, ne sub praetextu huiusmodi illicitum collegium coeat. Quod non tantum in urbe, sed et in Italia et in provinciis locum habere divus quoque Severus rescripsit.
+
+1. Sed religionis causa coire non prohibentur, dum tamen per hoc non fiat contra senatus consultum, quo illicita collegia arcentur.
+
+2. Non licet autem amplius quam unum collegium licitum habere, ut est constitutum et a divis fratribus: et si quis in duobus fuerit, rescriptum est eligere eum oportere, in quo magis esse velit, accepturum ex eo collegio, a quo recedit, id quod ei competit ex ratione, quae communis fuit.
+
+47.22.2
+
+Ulpianus libro sexto de officio proconsulis
+
+Quisquis illicitum collegium usurpaverit, ea poena tenetur, qua tenentur, qui hominibus armatis loca publica vel templa occupasse iudicati sunt.
+
+47.22.3
+
+Marcianus libro secundo iudiciorum publicorum
+
+pr. Collegia si qua fuerint illicita, mandatis et constitutionibus et senatus consultis dissolvuntur: sed permittitur eis, cum dissolvuntur, pecunias communes si quas habent dividere pecuniamque inter se partiri.
+
+1. In summa autem, nisi ex senatus consulti auctoritate vel caesaris collegium vel quodcumque tale corpus coierit, contra senatus consultum et mandata et constitutiones collegium celebrat.
+
+2. Servos quoque licet in collegio tenuiorum recipi volentibus dominis, ut curatores horum corporum sciant, ne invito aut ignorante domino in collegium tenuiorum reciperent, et in futurum poena teneantur in singulos homines aureorum centum.
+
+47.22.4
+
+Gaius libro quarto ad legem duodecim tabularum
+
+Sodales sunt, qui eiusdem collegii sunt: quam Graeci hetaireian vocant. His autem potestatem facit lex pactionem quam velint sibi ferre, dum ne quid ex publica lege corrumpant. Sed haec lex videtur ex lege Solonis tralata esse. Nam illuc ita est: ean de dymos y fratores y hierwn orgiwn y nautai y sussitoi y homotafoi y viaswtai y epi leian oixomenoi y eis emporian, hoti an toutwn diavwntai pros allylous, kurion einai, ean my apagoreusy dymosia grammata [id est: quod si pagus vel curiales vel sacrarum epularum (?) vel mensae vel sepulcri communione iuncti vel sodales vel qui ad praedam faciendam negotiationemve proficiscuntur quidquid horum inter se constituerint, id ratum esse, nisi publicae leges obstent.]
+
+* 47.23.0. De popularibus actionibus.
+
+
+47.23.1
+
+Paulus libro octavo ad edictum
+
+Eam popularem actionem dicimus, quae suum ius populi tuetur.
+
+47.23.2
+
+Paulus libro primo ad edictum
+
+Si plures simul agant populari actione, praetor eligat idoneiorem.
+
+47.23.3
+
+Ulpianus libro primo ad edictum
+
+pr. Sed si ex eadem causa saepius agatur [agetur], cum idem factum sit, exceptio vulgaris rei iudicatae opponitur.
+
+1. In popularibus actionibus is cuius interest praefertur.
+
+47.23.4
+
+Paulus libro tertio ad edictum
+
+Popularis actio integrae personae permittitur, hoc est cui per edictum postulare licet.
+
+47.23.5
+
+Paulus libro octavo ad edictum
+
+Qui populari actione convenietur, ad defendendum procuratorem dare potest: is autem, qui eam movet, procuratorem dare non potest.
+
+47.23.6
+
+Ulpianus libro 25 ad edictum
+
+Mulieri et pupillo populares actiones non dantur, nisi cum ad eos res pertineat.
+
+47.23.7
+
+Paulus libro 41 ad edictum
+
+pr. Populares actiones non transeunt ad eum, cui restituta est hereditas ex trebelliano senatus consulto.
+
+1. Item qui habet has actiones, non intellegitur esse locupletior.
+
+47.23.8
+
+Ulpianus libro primo ad edictum
+
+Omnes populares actiones neque in heredes dantur neque supra annum extenduntur.

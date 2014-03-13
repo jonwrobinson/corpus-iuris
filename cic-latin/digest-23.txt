@@ -1,0 +1,1724 @@
+# -*- mode: org -*-
+
+DOMINI NOSTRI SACRATISSIMI PRINCIPIS
+IUSTINIANI
+IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
+DIGESTORUM SEU PANDECTARUM
+liber vicesimus tertius
+
+
+( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
+
+
+* 23.1.0. De sponsalibus.
+* 23.2.0. De ritu nuptiarum.
+* 23.3.0. De iure dotium.
+* 23.4.0. De pactis dotalibus.
+* 23.5.0. De fundo dotali.
+
+
+
+* 23.1.0. De sponsalibus.
+
+
+23.1.1
+
+Florentinus libro tertio institutionum
+
+Sponsalia sunt mentio et repromissio nuptiarum futurarum.
+
+23.1.2
+
+Ulpianus libro singulari de sponsalibus
+
+Sponsalia autem dicta sunt a spondendo: nam moris fuit veteribus stipulari et spondere sibi uxores futuras.
+
+23.1.3
+
+Florentinus libro tertio institutionum
+
+Unde et sponsi sponsaeque appellatio nata est.
+
+23.1.4pr.
+
+Ulpianus libro 35 ad Sabinum
+
+Sufficit nudus consensus ad constituenda sponsalia.
+
+1. Denique constat et absenti absentem desponderi posse, et hoc cottidie fieri:
+
+23.1.5
+
+Pomponius libro 16 ad Sabinum
+
+Haec ita, si scientibus his qui absint sponsalia fiant aut si postea ratum habuerint.
+
+23.1.6
+
+Ulpianus libro 36 ad Sabinum
+
+Si puellae tutores ad finienda sponsalia nuntium miserunt, non putarem suffecturum ad dissolvendam nuptiarum spem hunc nuntium, non magis quam sponsalia posse eos solos constituere, nisi forte omnia ista ex voluntate puellae facta sint.
+
+23.1.7
+
+Paulus libro 35 ad edictum
+
+pr. In sponsalibus nihil interest, utrum testatio interponatur an aliquis sine scriptura spondeat.
+
+1. In sponsalibus etiam consensus eorum exigendus est, quorum in nuptiis desideratur. Intellegi tamen semper filiae patrem consentire, nisi evidenter dissentiat, Iulianus scribit.
+
+23.1.8
+
+Gaius libro 11 ad edictum provinciale
+
+Furor quin sponsalibus impedimento sit, plus quam manifestum est: sed postea interveniens sponsalia non infirmat.
+
+23.1.9
+
+Ulpianus libro 35 ad edictum
+
+Quaesitum est apud Iiulianum, an sponsalia sint, ante duodecimum annum si fuerint nuptiae collatae. Et semper Labeonis sententiam probavi existimantis, si quidem praecesserint sponsalia, durare ea, quamvis in domo loco nuptae esse coeperit: si vero non praecesserint, hoc ipso quod in domum deducta est non videri sponsalia facta. Quam sententiam Papinianus quoque probat.
+
+23.1.10
+
+Ulpianus libro tertio disputationum
+
+In potestate manente filia pater sponso nuntium remittere potest et sponsalia dissolvere. Enimvero si emancipata est, non potest neque nuntium remittere neque quae dotis causa data sunt condicere: ipsa enim filia nubendo efficiet dotem esse condictionemque extinguet, quae causa non secuta nasci poterit. Nisi forte quis proponat ita dotem patrem pro emancipata filia dedisse, ut, si nuptiis non consentiret, vel contractis vel non contractis repeteret quae dederat: tunc enim habebit repetitionem.
+
+23.1.11
+
+Iulianus libro 16 digestorum
+
+Sponsalia sicut nuptiae consensu contrahentium fiunt: et ideo sicut nuptiis, ita sponsalibus filiam familias consentire oportet:
+
+23.1.12
+
+Ulpianus libro singulari de sponsalibus
+
+pr. Sed quae patris voluntati non repugnat, consentire intellegitur.
+
+1. Tunc autem solum dissentiendi a patre licentia filiae conceditur, si indignum moribus vel turpem sponsum ei pater eligat.
+
+23.1.13
+
+Paulus libro quinto ad edictum
+
+Filio familias dissentiente sponsalia nomine eius fieri non possunt.
+
+23.1.14
+
+Modestinus libro quarto differentiarum
+
+In sponsalibus contrahendis aetas contrahentium definita non est ut in matrimoniis. Quapropter et a primordio aetatis sponsalia effici possunt, si modo id fieri ab utraque persona intellegatur, id est, si non sint minores quam septem annis.
+
+23.1.15
+
+Modestinus libro singulari de enucleatis casibus
+
+Tutor factam pupillam suam nec ipse uxorem ducere nec filio suo in matrimonio adiungere potest. Scias tamen, quod de nuptiis tractamus, et ad sponsalia pertinere.
+
+23.1.16
+
+Ulpianus libro tertio ad legem Iuliam et Papiam
+
+Oratio imperatorum Antonini et Commodi, quae quasdam nuptias in personam senatorum inhibuit, de sponsalibus nihil locuta est. Recte tamen dicitur etiam sponsalia in his casibus ipso iure nullius esse momenti, ut suppleatur quod orationi deest.
+
+23.1.17
+
+Gaius libro primo ad legem Iuliam et Papiam
+
+Saepe iustae ac necessariae causae non solum annum vel biennium, sed etiam triennium et quadriennium et ulterius trahunt sponsalia, veluti valetudo sponsi sponsaeve vel mortes parentium aut capitalia crimina aut longiores peregrinationes quae ex necessitate fiunt.
+
+23.1.18
+
+Ulpianus libro sexto ad edictum
+
+In sponsalibus constituendis parvi refert, per se (et coram an per internuntium vel per epistulam) an per alium hoc factum est: et fere plerumque condiciones interpositis personis expediuntur.
+
+
+* 23.2.0. De ritu nuptiarum.
+
+
+23.2.1
+
+Modestinus libro primo regularum
+
+Nuptiae sunt coniunctio maris et feminae et consortium omnis vitae, divini et humani iuris communicatio.
+
+23.2.2
+
+Paulus libro 35 ad edictum
+
+Nuptiae consistere non possunt nisi consentiant omnes, id est qui coeunt quorumque in potestate sunt.
+
+23.2.3
+
+Paulus libro primo ad Sabinum
+
+Si nepotem ex filio et neptem ex altero filio in potestate habeam, nuptias inter eos me solo auctore contrahi posse Pomponius scribit et verum est.
+
+23.2.4
+
+Pomponius libro tertio ad Sabinum
+
+Minorem annis duodecim nuptam tunc legitimam uxorem fore, cum apud virum explesset duodecim annos.
+
+23.2.5
+
+Pomponius libro quarto ad Sabinum
+
+Mulierem absenti per litteras eius vel per nuntium posse nubere placet, si in domum eius deduceretur: eam vero quae abesset ex litteris vel nuntio suo duci a marito non posse: deductione enim opus esse in mariti, non in uxoris domum, quasi in domicilium matrimonii.
+
+23.2.6
+
+Ulpianus libro 35 ad Sabinum
+
+Denique Cinna scribit: eum, qui absentem accepit uxorem, deinde rediens a cena iuxta Tiberim perisset, ab uxore lugendum responsum est.
+
+23.2.7
+
+Paulus libro singulari ad lege Falcidia
+
+Ideoque potest fieri, ut in hoc casu aliqua virgo et dotem et de dote habeat actionem.
+
+23.2.8
+
+Pomponius libro quinto ad Sabinum
+
+Libertinus libertinam matrem aut sororem uxorem ducere non potest, quia hoc ius moribus, non legibus introductum est.
+
+23.2.9
+
+Ulpianus libro 26 ad Sabinum
+
+pr. Si nepos uxorem velit ducere avo furente, omnimodo patris auctoritas erit necessaria: sed si pater furit, avus sapiat, sufficit avi voluntas.
+
+1. Is cuius pater ab hostibus captus est, si non intra triennium revertatur, uxorem ducere potest.
+
+23.2.10
+
+Paulus libro 35 ad edictum
+
+Si ita pater absit, ut ignoretur ubi sit et an sit, quid faciendum est, merito dubitatur. Et si triennium effluxerit, postquam apertissime fuerit pater ignotus, ubi degit et an superstes sit, non prohibentur liberi eius utriusque sexus matrimonium vel nuptias legitimas contrahere.
+
+23.2.11
+
+Iulianus libro 62 digestorum
+
+Si filius eius qui apud hostes est vel absit ante triennium captivitatis vel absentiae patris uxorem duxit vel si filia nupserit, puto recte matrimonium vel nuptias contrahi, dummodo eam filius ducat uxorem vel filia tali nubat, cuius condicionem certum sit patrem non repudiaturum.
+
+23.2.12
+
+Ulpianus libro 26 ad Sabinum
+
+pr. Si qua mihi uxor fuit, deinde a me repudiata nupsit seio, quem ego postea adrogavi, non sunt nuptiae incestae.
+
+1. Inter me et sponsam patris mei nuptiae contrahi non possunt: quamquam noverca mea non proprie dicatur.
+
+2. Sed et per contrarium sponsa mea patri meo nubere non poterit, quamvis nurus non proprie dicatur.
+
+3. Si uxor mea post divortium alii nupserit et filiam susceperit, putat Iulianus hanc quidem privignam non esse, verum nuptiis eius abstinendum.
+
+4. Adoptivae sororis filiam possum uxorem ducere: cognata enim mea non est filia eius, quia avunculus nemo fit per adoptionem et eae demum cognationes contrahuntur in adoptionibus, quae legitimae essent, id est quae adgnatorum ius haberent. Pari ratione et sororem patris mei adoptivi possum ducere, si non fuit eodem patre nata.
+
+23.2.13
+
+Ulpianus libro 34 ad Sabinum
+
+Si patrona tam ignobilis sit, ut ei honestae sint vel saltem liberti sui nuptiae, officio iudicis super hoc cognoscentis hae prohiberi non debent.
+
+23.2.14
+
+Paulus libro 35 ad edictum
+
+pr. Adoptivus filius si emancipetur, eam quae patris adoptivi uxor fuit ducere non potest, quia novercae locum habet.
+
+1. Item si quis filium adoptaverit, uxorem eiusdem quae nurus loco est ne quidem post emancipationem filii ducere poterit, quoniam aliquando nurus ei fuit.
+
+2. Serviles quoque cognationes in hoc iure observandae sunt. Igitur suam matrem manumissus non ducet uxorem: tantundem iuris est et in sorore et sororis filia. Idem e contrario dicendum est, ut pater filiam non possit ducere, si ex servitute manumissi sint, etsi dubitetur patrem eum esse. Unde nec volgo quaesitam filiam pater naturalis potest uxorem ducere, quoniam in contrahendis matrimoniis naturale ius et pudor inspiciendus est: contra pudorem est autem filiam uxorem suam ducere.
+
+3. Idem tamen, quod in servilibus cognationibus constitutum est, etiam in servilibus adfinitatibus servandum est, veluti ut eam, quae in contubernio patris fuerit, quasi novercam non possim ducere, et contra eam, quae in contubernio filii fuerit, patrem quasi nurum non ducere: aeque nec matrem eius, quam quis in servitute uxorem habuit, quasi socrum. Cum enim cognatio servilis intellegitur, quare non et adfinitas intellegatur? Sed in re dubia certius et modestius est huiusmodi nuptiis abstinere.
+
+4. Nunc videamus, quomodo noverca et privigna et socrus et nurus intellegantur, ut sciamus, quas non liceat ducere. Quidam novercam per se patris uxorem et nurum filii uxorem et privignam uxoris ex alio marito filiam intellegunt: sed quod ad hanc causam verius est nec avi uxorem nec proavi duci posse. Duas ergo vel plures novercas ducere non poterit: non mirum, nam et is qui adoptivus est nec naturalis patris nec adoptivi uxorem ducere potest: sed et si plures uxores pater habuerit, nullam earum ducere possum. Itaque socrus appellatione non tantum uxoris meae mater, sed et avia et proavia intellegitur, ut nullam earum ducere possim. Nurus quoque appellatione non tantum filii uxor, sed et nepotis et pronepotis continetur, licet quidam has pronurus appellant. Privigna quoque non solum ea mihi intellegitur quae uxoris meae filia est, sed et neptis et proneptis, ut nullam earum ducere possim. Item eius matrem, quam sponsam habui, non posse me uxorem ducere Augustus interpretatus est: fuisse enim eam socrum.
+
+23.2.15
+
+Papinianus libro quarto responsorum
+
+Uxorem quondam privigni coniungi matrimonio vitrici non oportet nec in matrimonium convenire novercam eius qui privignae maritus fuit.
+
+23.2.16
+
+Paulus libro 35 ad edictum
+
+pr. Oratione divi Marci cavetur, ut, si senatoris filia libertino nupsisset, nec nuptiae essent: quam et senatus consultum secutum est.
+
+1. Nepote uxorem ducente et filius consentire debet: neptis vero si nubat, voluntas et auctoritas avi sufficiet.
+
+2. Furor contrahi matrimonium non sinit, quia consensu opus est, sed recte contractum non impedit.
+
+23.2.17
+
+Gaius libro 11 ad edictum provinciale
+
+pr. Per adoptionem quaesita fraternitas eousque impedit nuptias, donec manet adoptio: ideoque eam, quam pater meus adoptavit et emancipavit, potero uxorem ducere. Aeque et si me emancipato illam in potestate retinuerit, poterimus iungi matrimonio.
+
+1. Itaque volenti generum adoptare suadetur, ut filiam emanciparet [emancipet]: similiter suadetur ei, qui nurum velit adoptare, ut emancipet filium.
+
+2. Amitam quoque et materteram, item magnam quoque amitam et materteram magnam prohibemur uxorem ducere, quamvis magna amita et matertera quarto gradu sint. Utique autem amitam et amitam magnam prohibemur uxorem ducere, etsi per adoptionem nobis coniunctae sint.
+
+23.2.18
+
+Iulianus libro 16 digestorum
+
+Nuptiae inter easdem personas nisi volentibus parentibus renovatae iustae non habentur.
+
+23.2.19
+
+Marcianus libro 16 institutionum
+
+Capite trigesimo quinto legis Iuliae qui liberos quos habent in potestate iniuria prohibuerint ducere uxores vel nubere, vel qui dotem dare non volunt ex constitutione divorum Severi et Antonini, per proconsules praesidesque provinciarum coguntur in matrimonium collocare et dotare. Prohibere autem videtur et qui condicionem non quaerit.
+
+23.2.20
+
+Paulus libro singulari ad orationem divi Antonini et Commodi
+
+Sciendum est ad officium curatoris non pertinere, nubat pupilla an non, quia officium eius in administratione negotiorum constat: et ita Severus et Antoninus rescripserunt in haec verba: "Ad officium curatoris administratio pupillae pertinet: nubere autem pupilla suo arbitrio potest".
+
+23.2.21
+
+Clementius libro tertio ad legem Iuliam et Papiam
+
+Non cogitur filius familias uxorem ducere.
+
+23.2.22
+
+Celsus libro 15 digestorum
+
+Si patre cogente ducit uxorem, quam non duceret, si sui arbitrii esset, contraxit tamen matrimonium, quod inter invitos non contrahitur: maluisse hoc videtur.
+
+23.2.23
+
+Celsus libro 30 digestorum
+
+Lege Papia cavetur omnibus ingenuis praeter senatores eorumque liberos libertinam uxorem habere licere.
+
+23.2.24
+
+Modestinus libro primo regularum
+
+In liberae mulieris consuetudine non concubinatus, sed nuptiae intellegendae sunt, si non corpore quaestum fecerit.
+
+23.2.25
+
+Modestinus libro secundo regularum
+
+Filius emancipatus etiam sine consensu patris uxorem ducere potest et susceptus filius ei heres erit.
+
+23.2.26
+
+Modestinus libro quinto responsorum
+
+Respondit reas adulterii factas nec ante damnationem vidente marito uxores duci posse.
+
+23.2.27
+
+Ulpianus libro tertio ad legem Iuliam et Papiam
+
+Si quis in senatorio ordine agens libertinam habuerit uxorem, quamvis interim uxor non sit, attamen in ea condicione est, ut, si amiserit dignitatem, uxor esse incipiat.
+
+23.2.28
+
+Marcianus libro decimo institutionum
+
+Invitam libertam uxorem ducere patronus non potest:
+
+23.2.29
+
+Ulpianus libro tertio ad legem Iuliam et Papiam
+
+Quod et Ateius Capito consulatu suo fertur decrevisse. Hoc tamen ita observandum est, nisi patronus ideo eam manumisit, ut uxorem eam ducat.
+
+23.2.30
+
+Gaius libro secundo ad legem Iuliam et Papiam
+
+Simulatae nuptiae nullius momenti sunt.
+
+23.2.31
+
+Ulpianus libro sexto ad legem Iuliam et Papiam
+
+Si senatori indulgentia principis fuerit permissum libertinam iustam uxorem habere, potest iusta uxor esse.
+
+23.2.32
+
+Marcellus libro primo ad legem Iuliam et Papiam
+
+Sciendum est libertinum, qui se ingenuo dedit adrogandum, quamvis in eius familia ingenui iura sit consecutus, ut libertinum tamen a senatoriis nuptiis repellendum esse.
+
+23.2.33
+
+Marcellus libro tertio ad legem Iuliam et Papiam
+
+Plerique opinantur, cum eadem mulier ad eundem virum revertatur, id matrimonium idem esse: quibus adsentior, si non multo tempore interposito reconciliati fuerint nec inter moras aut illa alii nupserit aut hic aliam duxerit, maxime si nec dotem vir reddiderit.
+
+23.2.34
+
+Papinianus libro quarto responsorum
+
+pr. Generali mandato quaerendi mariti filiae familias non fieri nuptias rationis est: itaque personam eius patri demonstrari, qui matrimonio consenserit, ut nuptiae contrahantur, necesse est.
+
+1. Ream adulterii, quam vir iure mariti postulavit, non prohibetur post abolitionem uxorem denuo ducere: sed et si non iure mariti ream postulavit, iure contractum matrimonium videbitur.
+
+2. Inter privignos contrahi nuptiae possunt, etsi fratrem communem ex novo parentium matrimonio susceptum habeant.
+
+3. Filiam senatoris nuptias libertini secutam patris casus non faciat uxorem: nam quaesita dignitas liberis propter crimen patris auferenda non est.
+
+23.2.35
+
+Papinianus libro sexto responsorum
+
+Filius familias miles matrimonium sine patris voluntate non contrahit.
+
+23.2.36
+
+Paulus libro quinto quaestionum
+
+Tutor vel curator adultam uxorem ducere non potest, nisi a patre desponsa destinatave testamentove nominata condicione nuptiis secuta fuerit.
+
+23.2.37
+
+Paulus libro septimo responsorum
+
+Libertum curatoris puellae prohiberi oportet uxorem eandem ducere.
+
+23.2.38
+
+Paulus libro secundo sententiarum
+
+pr. Si quis officium in aliqua provincia administrat, inde oriundam vel ibi domicilium habentem uxorem ducere non potest, quamvis sponsare non prohibeatur, ita scilicet, ut, si post officium depositum noluerit mulier nuptias contrahere, liceat [libeat] ei hoc facere arris tantummodo redditis quas acceperat.
+
+1. Veterem sponsam in provincia, qua quis administrat, uxorem ducere potest et dos data non fit caduca.
+
+2. Qui in provincia aliquid administrat, in ea provincia filias suas in matrimonium collocare et dotem constituere non prohibetur.
+
+23.2.39
+
+Paulus libro sexto ad Plautium
+
+pr. Sororis proneptem non possum ducere uxorem, quoniam parentis loco ei sum.
+
+1. Si quis ex his, quas moribus prohibemur uxores ducere, duxerit, incestum dicitur committere.
+
+23.2.40
+
+Pomponius libro quarto ex Plautio
+
+Aristo respondit privignae filiam non magis uxorem duci posse quam ipsam privignam.
+
+23.2.41
+
+Marcellus libro 26 digestorum
+
+pr. Probrum intellegitur etiam in his mulieribus esse, quae turpiter viverent volgoque quaestum facerent, etiamsi non palam.
+
+1.  Et si qua se in concubinatu alterius quam patroni tradidisset, matris familias honestatem non habuisse dico.
+
+23.2.42
+
+Modestinus libro singulari de ritu nuptiarum
+
+pr. Semper in coniunctionibus non solum quid liceat considerandum est, sed et quid honestum sit.
+
+1. Si senatoris filia neptis proneptis libertino vel qui artem ludicram exercuit cuiusve pater materve id fecerit, nupserit, nuptiae non erunt.
+
+23.2.43
+
+Ulpianus libro primo ad legem Iuliam et Papiam
+
+pr. Palam quaestum facere dicemus non tantum eam, quae in lupanario se prostituit, verum etiam si qua (ut adsolet) in taberna cauponia vel qua alia pudori suo non parcit.
+
+1. Palam autem sic accipimus passim, hoc est sine dilectu: non si qua adulteris vel stupratoribus se committit, sed quae vicem prostitutae sustinet.
+
+2. Item quod cum uno et altero pecunia accepta commiscuit, non videtur palam corpore quaestum facere.
+
+3. Octavenus tamen rectissime ait etiam eam, quae sine quaestu palam se prostituerit, debuisse his connumerari.
+
+4. Non solum autem ea quae facit, verum ea quoque quae fecit, etsi facere desiit, lege notatur: neque enim aboletur turpitudo, quae postea intermissa est.
+
+5. Non est ignoscendum ei, quae obtentu paupertatis turpissimam vitam egit.
+
+6. Lenocinium facere non minus est quam corpore quaestum exercere.
+
+7. Lenas autem eas dicimus, quae mulieres quaestuarias prostituunt.
+
+8. Lenam accipiemus et eam, quae alterius nomine hoc vitae genus exercet.
+
+9. Si qua cauponam exercens in ea corpora quaestuaria habeat (ut multae adsolent sub praetextu instrumenti cauponii prostitutas mulieres habere), dicendum hanc quoque lenae appellatione contineri.
+
+10. Senatus censuit non conveniens esse ulli senatori uxorem ducere aut retinere damnatam publico iudicio, quo iudicio cuilibet ex populo experiri licet, nisi si cui lege aliqua accusandi publico iudicio non est potestas.
+
+11. Si qua calumniae iudicio damnata sit ex causa publici iudicii et quae praevaricationis damnata est, publico iudicio damnata esse non videtur.
+
+12. Quae in adulterio deprehensa est, quasi publico iudicio damnata est. Proinde si adulterii condemnata esse proponatur, non tantum quia deprehensa est erit notata, sed quia et publico iudicio damnata est. Quod si non sit deprehensa, damnata autem, idcirco notetur, quia publico iudicio damnata est, at si deprehensa quidem sit, damnata autem non sit, notata erit? Ego puto, etsi absoluta sit post deprehensionem, adhuc tamen notam illi obesse debere, quia verum est eam in adulterio deprehensam, quia factum lex, non sententiam notaverit.
+
+13. Non adicitur hic ut in lege Iulia de adulteriis a quo vel ubi deprehensam: proinde sive maritus sive quis alius deprehendisse proponatur, videtur notata: sed et si non in domo mariti vel patris sui deprehensa sit, erit notata secundum verba legis.
+
+23.2.44
+
+Paulus libro primo ad legem Iuliam et Papiam
+
+pr. Lege Iulia ita cavetur: "Qui senator est quive filius neposve ex filio proneposve ex filio nato cuius eorum est erit, ne quis eorum sponsam uxoremve sciens dolo malo habeto libertinam aut eam, quae ipsa cuiusve pater materve artem ludicram facit fecerit. Neve senatoris filia neptisve ex filio proneptisve ex nepote filio nato nata libertino eive qui ipse cuiusve pater materve artem ludicram facit fecerit, sponsa nuptave sciens dolo malo esto neve quis eorum dolo malo sciens sponsam uxoremve eam habeto".
+
+1. Hoc capite prohibetur senator libertinam ducere eamve, cuius pater materve artem ludicram fecerit: item libertinus senatoris filiam ducere.
+
+2. Non obest avum et aviam artem ludicram fecisse.
+
+3. Nec distinguitur, pater in potestate habeat filiam nec ne: tamen iustam patrem intellegendum octavenus ait, matrem etiam si volgo conceperit.
+
+4. Item nihil refert, naturalis sit pater an adoptivus.
+
+5. An et is noceat, qui antequam adoptaret artem ludicram fecerit? Atque si naturalis pater antequam filia nasceretur fecerit? Et si huius notae homo adoptaverit, deinde emancipaverit, an non possit duci? Ac si talis pater naturalis decessisset? Sed de hoc casu contrariam legis sententiam esse Pomponius recte putat, ut eis non connumerentur.
+
+6. Si postea ingenuae uxoris pater materve artem ludicram facere coeperit, iniquissimum est dimittere eam debere, cum nuptiae honeste contractae sint et fortasse iam liberi procreati sint.
+
+7. Plane si ipsa artem ludicram facere coeperit, utique dimittenda erit.
+
+8. Eas, quas ingenui ceteri prohibentur ducere uxores, senatores non ducent.
+
+23.2.45
+
+Ulpianus libro tertio ad legem Iuliam et Papiam
+
+pr. In eo iure, quod dicit invito patrono libertam, quae ei nupta est, alii nubere non posse, patronum accipimus (ut rescripto imperatoris nostri et divi patris eius continetur) et eum qui hac lege emit, ut manumittat, quia manumissa liberta emptoris habetur.
+
+1. Qui autem iuravit se patronum, hoc idem non habebit.
+
+2. Ne is quidem debet habere, qui non suis nummis comparavit.
+
+3. Plane si filius familias miles esse proponatur, non dubitamus, si castrensis peculii ancillam manumiserit, competere ei hoc ius: est enim patronus secundum constitutiones nec patri eius hoc ius competit.
+
+4. Hoc caput ad nuptam tantum libertam pertinet, ad sponsam non pertinet: et ideo invito patrono nuntium sponsa liberta si miserit, cum alio conubium habet.
+
+5. Deinde ait lex "invito patrono": invitum accipere debemus eum, qui non consentit ad divortium: idcirco nec a furioso divertendo solvit se huius legis necessitate nec si ab ignorante divorterit: rectius enim hic invitus dicitur quam qui dissensit.
+
+6. Si ab hostibus patronus captus esse proponatur, vereor ne possit ista conubium habere nubendo, quemadmodum haberet, si mortuus esset. Et qui Iuliani sententiam probant, dicerent non habituram conubium: putat enim Iulianus durare eius libertae matrimonium etiam in captivitate propter patroni reverentiam. Certe si in aliam servitutem patronus sit deductus, procul dubio dissolutum esset matrimonium.
+
+23.2.46
+
+Gaius libro octavo ad legem Iuliam et Papiam
+
+Illud dubitationis est, an et qui communem libertam uxorem duxerit ad hoc ius admittatur. Iavolenus negavit, quia non proprie videtur eius liberta, quae etiam alterius sit: aliis contra visum est, quia libertam eius esse negari non potest, licet alterius quoque sit liberta: quam sententiam plerique recte probaverunt.
+
+23.2.47
+
+Paulus libro secundo ad legem Iuliam et Papiam
+
+Senatoris filia, quae corpore quaestum vel artem ludicram fecerit aut iudicio publico damnata fuerit, impune libertino nubit: nec enim honos ei servatur, quae se in tantum foedus deduxit.
+
+23.2.48
+
+Clementius libro octavo ad legem Iuliam et Papiam
+
+pr. Filio patroni in libertam paternam eandemque uxorem idem iuris, quod ipsi patrono daretur, ex sententia legis accommodatur. Idemque dicendum erit et si alterius patroni filius vivo altero libertam eorum uxorem duxerit.
+
+1. Si ignominiosam libertam suam patronus uxorem duxerit, placet, quia contra legem maritus sit, non habere eum hoc legis beneficium.
+
+2. Si uni ex filiis adsignatam alter uxorem duxerit, non idem ius quod in patrono tribuendum: nihil enim iuris habebit, quia senatus omne ius libertorum adsignatorum ad eum transtulit, cui id pater tribuit.
+
+23.2.49
+
+Marcellus libro primo ad legem Iuliam et Papiam
+
+Observandum est, ut inferioris gradus homines ducant uxores eas, quas hi qui altioris dignitatis sunt ducere legibus propter dignitatem prohibentur: at contra antecedentis gradus homines non possunt eas ducere, quas his qui inferioris dignitatis sunt ducere non licet.
+
+23.2.50
+
+Marcellus libro tertio ad legem Iuliam et Papiam
+
+Proxime constitutum dicitur, ut, cum quis libertam suam duxerit uxorem, quam ex fideicommissi causa manumiserit, liceat libertae invito eo nuptias contrahere: puto, quia non erat ferendus is qui ex necessitate manumisit, non suo arbitrio: magis enim debitam libertatem praestitit quam ullum beneficium in mulierem contulit.
+
+23.2.51
+
+Licinius libro primo regularum
+
+pr. Matrimonii causa ancilla manumissa a nullo alio uxor duci potest quam a quo manumissa est, nisi patronus matrimonio eius renuntiaverit.
+
+1. Si autem filius familias matrimonii causa iussu patris ancillam manumiserit, Iulianus putat perinde eam haberi atque si a patre eius manumissa esset: et ideo potest eam uxorem ducere.
+
+23.2.52
+
+Paulus libro sexto ad Sabinum
+
+Incestae nuptiae neque dotem habent et ideo omne quod perceptum est licet fructuum nomine auferetur.
+
+23.2.53
+
+Gaius libro 11 ad edictum provinciale
+
+Nuptiae consistere non possunt inter eas personas quae in numero parentium liberorumve sunt, sive proximi sive ulterioris gradus sint usque ad infinitum.
+
+23.2.54
+
+Scaevola libro primo regularum
+
+Et nihil interest, ex iustis nuptiis cognatio descendat an vero non: nam et volgo quaesitam sororem quis vetatur uxorem ducere.
+
+23.2.55
+
+Gaius libro 11 ad edictum provinciale
+
+pr. Quin etiam nefas existimatur eam quoque uxorem ducere, quae per adoptionem filia neptisve esse coeperit, in tantum, ut et, si per emancipationem adoptio dissoluta sit, idem iuris maneat.
+
+1. Patris adoptivi mei matrem aut materteram aut neptem ex filio uxorem ducere non possum, scilicet si in familia eius sim: alioquin si emancipatus fuero ab eo, sine dubio nihil impedit nuptias, scilicet quia post emancipationem extraneus intellegor.
+
+23.2.56
+
+Ulpianus libro tertio disputationum
+
+Etiam si concubinam quis habuerit sororis filiam, licet libertinam, incestum committitur.
+
+23.2.57
+
+Marcianus libro secundo institutionum
+
+Qui in provincia officium aliquid gerit, prohibetur etiam consentire filio suo uxorem ducenti.
+
+23.2.57a
+
+Marcianus notum ad Papiniani libro secundo de adulterio
+
+Divus Marcus et Lucius imperatores Flaviae Tertullae per mensorem libertum ita rescripserunt: "Movemur et temporis diuturnitate, quo ignara iuris in matrimonio avunculi tui fuisti, et quod ab avia tua collocata es, et numero liberorum vestrorum: idcircoque cum haec omnia in unum concurrunt, confirmamus statum liberorum vestrorum in eo matrimonio quaesitorum, quod ante annos quadraginta contractum est, perinde atque si legitime concepti fuissent".
+
+23.2.58
+
+Marcianus libro quarto regularum
+
+A divo Pio rescriptum est, si libertina senatorem deceperit quasi ingenua et ei nupta est, ad exemplum praetoris edicti dandam in eam actionem, quia ex dote nullum lucrum habet quae nulla est.
+
+23.2.59
+
+Paulus libro singulari de adsignatione libertorum
+
+Senatus consulto, quo cautum est, ne tutor pupillam vel filio suo vel sibi nuptum collocet, etiam nepos significatur.
+
+23.2.60
+
+Paulus libro singulari ad oratium divi Antonini et Commodi
+
+pr. Si quis tutor quidem non sit, periculum tamen tutelae ad eum pertineat, an sententia orationis contineatur? Veluti si pupilla ab hostibus capta fuerit aut falsis allegationibus a tutela se excusaverit, ut ex sacris constitutionibus periculum ad eum pertineat? Et dicendum est hos quoque ad senatus consultum pertinere: nam et huiusmodi periculum in numerum trium tutelarum computari comprobatum est.
+
+1. Sed si propter alterius personam periculum ad eum pervenit, videamus ne extra sententiam senatus consulti sit: veluti si magistratus in in tutelae periculum incidit vel fideiusserit quis pro tutore vel curatore, quia nec in numerum trium tutelarum haec imputantur: et consequens est hoc probare.
+
+2. Quid ergo si honoris causa tutor datus sit? Quatenus nec huiusmodi tutela in numerum computatur, numquid idem sit? Sed ratio in contrarium ducit, quod dictum est et honorarium tutorem periculum solere pati, si male passus sit administrari tutelam.
+
+3. Quin autem ille, qui, cum datus est tutor, cessat in administratione, pertineat ad orationem, non est dubitandum, quia perinde tenetur ex sacris constitutionibus atque si gessisset.
+
+4. Quid ergo si, cum se vellet excusare aliquo titulo nec in promptu probationes haberet, excusationis negotium fuerit dilatum et inter moras pupilla adoleverit, an ad senatus consultum pertineat? Quaestio in eo est, an et post pubertatem officio finito excusationem eius recipi oporteat: nam si recipitur et excusaverit, impune potest ducere: si vero non debeat recipi post officium finitum, non recte ducit. Et ait Papinianus libro quinto responsorum officio finito excusationem recipi non oportere et ideo exacti temporis periculum ad eum pertinere. Sed mihi hoc nequaquam placet: iniquum enim est propter dilationem, quae forte non dolo, sed quae ex necessitate contingit, non excusari vel nuptias impediri excusatione recepta.
+
+5. Quamvis verbis orationis cautum sit, ne uxorem tutor pupillam suam ducat, tamen intellegendum est ne desponderi quidem posse: nam cum qua nuptiae contrahi non possunt, haec plerumque ne quidem desponderi potest: nam quae duci potest, iure despondetur.
+
+6. Quid ergo si adoptivus filius tutoris duxerit pupillam illicite posteaque emancipatus fuerit? Credendum est de adoptivis emancipatis senatum non sensisse, quia post emancipationem in totum adoptivae familiae obliviscuntur.
+
+7. Naturales liberi licet in adoptionem dati fuerint, senatus consulto continentur.
+
+8. Quid ergo si tutor datus provocavit et postea heres eius victus est? Praeteriti temporis periculum praestare debet. An vero si filius heres fuerit et victus est, ad orationem pertineat? Et consequens est hoc probare, quoniam rationem debet reddere.
+
+23.2.61
+
+Papinianus libro 32 quaestionum
+
+Dote propter illicitum matrimonium caduca facta exceptis impensis necessariis, quae dotem ipso iure minuere solent, quod iudicio de dote redditurus esset maritus solvere debet.
+
+23.2.62
+
+Papinianus libro quarto responsorum
+
+pr. Quamquam in arbitrio matris pater esse voluerit, cui nuptum filia communis collocaretur, frustra tamen ab ea tutor datus eligetur: neque enim intellegitur pater de persona tutoris cogitasse, cum ideo maxime matrem praetulit, ne filiae nuptias tutori committeret.
+
+1. Mulier liberto viri ac patroni sui mala ratione coniungitur.
+
+2. Tutor, qui rationes curatori reddidit, puellam suam ante constitutum tempus aetatis eius uxorem ducere nec matrem ex alio matrimonio factam potest.
+
+23.2.63
+
+Papinianus libro primo definitionum
+
+Praefectus cohortis vel equitum aut tribunus contra interdictum eius provinciae duxit uxorem, in qua officium gerebat: matrimonium non erit: quae species pupillae comparanda est, cum ratio potentatus nuptias prohibuerit. Sed an huic quoque si virgo nupsit, non sit auferendum quod testamento relictum est, deliberari potest: exemplo tamen pupillae nuptae tutori, quod relictum est potest mulier consequi. Pecuniam tamen in dotem datam mulieris heredi restitui necesse est.
+
+23.2.64
+
+Callistratus libro secundo quaestionum
+
+pr. Libertum eundemque tutorem pupillae eo, quod in matrimonium collocata ipsi tutori suo vel filio eius est, senatus relegandum censuit.
+
+1. Senatus consulti, quo prohibentur tutores et filii eorum pupillas suas ducere, puto heredem quoque tutoris extraneum sententia adprehendi, cum ideo prohibuerit huiusmodi nuptias, ne pupillae in re familiari circumscribantur ab his, qui rationes eis gestae tutelae reddere compelluntur.
+
+2. Tutor autem pupilli non prohibetur filiam suam collocare pupillo suo in matrimonium.
+
+23.2.65
+
+Paulus libro septimo responsorum
+
+pr. Eos, qui in patria sua militant, non videri contra mandata ex eadem provincia uxorem ducere idque etiam quibusdam mandatis contineri.
+
+1. Idem eodem. Respondit mihi placere, etsi contra mandata contractum sit matrimonium in provincia, tamen post depositum officium, si in eadem voluntate perseverat, iustas nuptias effici: et ideo postea liberos natos ex iusto matrimonio legitimos esse
+
+23.2.66
+
+Paulus libro secundo sententiarum
+
+pr. Non est matrimonium, si tutor vel curator pupillam suam intra vicesimum et sextum annum non desponsam a patre nec testamento destinatam ducat uxorem vel eam filio suo iungat: quo facto uterque infamatur et pro dignitate pupillae extra ordinem coercetur. Nec interest, filius sui iuris an in patris potestate sit.
+
+1. Curatoris libertum eam pupillam, cuius patronus res administrat, uxorem ducere satis incivile est.
+
+23.2.67
+
+Tryphoninus libro nono disputationum
+
+pr. Non solum vivo tutore, sed et post mortem eius filius tutoris ducere uxorem prohibetur eam, cuius tutelae rationi obstrictus pater fuit: nec puto interesse, exstiterit ei heres filius an abstinuerit paterna hereditate an nec heres fuit (forte exheredatus aut praeteritus emancipatus): nam et fieri potest, ut per fraudem in eum collocata bona patris propter tutelam revocari oporteat.
+
+1. De uno dubitari potest, si avus tutelam gessit neptis ex filio emancipato natae, an nepoti ex altero filio eam collocare possit sive emancipato sive manenti in potestate, quia par affectionis causa suspicionem fraudis amovet. Sed etsi senatus consultum stricto iure contra omnes tutores nititur, attamen summae affectionis avitae intuitu huiusmodi nuptiae concedendae sunt.
+
+2. Sed et si filius familias tutor puellae vel curator fuit, puto vel magis patri eius non oportere eam nubere: numquid nec fratri, qui est in eiusdem potestate?
+
+3. Sed videamus, si Titii filius duxerit uxorem eam, quae tua pupilla fuit, deinde Titium vel filium eius adoptaveris, an peremuntur nuptiae (ut in genero adoptato dictum est) an adoptio impeditur? Quod magis dicendum est et si curator, dum gerit curam, adoptaverit maritum eius puellae, cuius curator est. Nam finita iam tutela et nupta puella alii vereor, ne longum sit adoptionem mariti eius impedire, quasi propter hoc interponatur, ut ratio tutelae reddendae cohibeatur, quam causam prohibitionis nuptiarum contrahendarum oratio divi Marci continet.
+
+4. Et si quis curator ventri bonisque datus sit, prohibitionem eiusdem senatus consulti inducit: nam et hic debet rationem reddere. Nec spatium administrationis movere nos debet, quia nec in tutore nec curatore discrimen maioris aut minoris temporis, quo in huiusmodi munere quis fuerit, habitum esse.
+
+5. Si puellae tutelam titius administravit vel curator negotia gessit eaque nondum recepta ratione decessit filia herede relicta, quaerenti, an eam filio suo posset Titius collocare in matrimonium, dixi posse, quia ratio hereditaria esset et sit simplex debitum: alioquin omnis debitor eam, cui obligatus esset ex aliqua ratione, prohibetur sibi filioque suo coniungere.
+
+6. Sed et is, qui pupillam abstinet bonis patris sui, rationem eius rei praestare debet et fieri potest, ut etsi inconsultius hoc fecerit, et hoc nomine condemnari debeat. Sed et si optimo consilio usus sit auxilio praetoriae iurisdictionis, quia non solvendo pater eius decesserat, nihilo minus tamen, quia iudicio hoc probari oportet, impediuntur nuptiae: nam qui bene tutelam et ex fide administravit, nihilo minus prohibetur.
+
+23.2.68
+
+Paulus libro singulari ad senatusconsultum Turpillianum
+
+Iure gentium incestum committit, qui ex gradu ascendentium vel descendentium uxorem duxerit. Qui vero ex latere eam duxerit quam vetatur, vel adfinem quam impeditur, si quidem palam fecerit, levius, si vero clam hoc commiserit, gravius punitur. Cuius diversitatis illa ratio est: circa matrimonium quod ex latere non bene contrahitur palam delinquentes ut errantes maiore poena excusantur, clam committentes ut contumaces plectuntur.
+
+
+* 23.3.0. De iure dotium.
+
+
+23.3.1
+
+Paulus libro 14 ad Sabinum
+
+Dotis causa perpetua est, et cum voto eius qui dat ita contrahitur, ut semper apud maritum sit.
+
+23.3.2
+
+Paulus libro 60 ad edictum
+
+Rei publicae interest mulieres dotes salvas habere, propter quas nubere possunt.
+
+23.3.3
+
+Ulpianus libro 63 ad edictum
+
+Dotis appellatio non refertur ad ea matrimonia, quae consistere non possunt: neque enim dos sine matrimonio esse potest. Ubicumque igitur matrimonii nomen non est, nec dos est.
+
+23.3.4
+
+Paulus libro sexto ad Sabinum
+
+Si proprietati nudae in dotem datae usus fructus accesserit, incrementum videtur dotis, non alia dos, quemadmodum si quid alluvione accessisset.
+
+23.3.5
+
+Ulpianus libro 31 ad Sabinum
+
+pr. Profecticia dos est, quae a patre vel parente profecta est de bonis vel facto eius.
+
+1. Sive igitur parens dedit dotem sive procurator eius sive iussit alium dare sive, cum quis dedisset negotium eius gerens, parens ratum habuerit, profecticia dos est.
+
+2. Quod si quis patri donaturus dedit, Marcellus libro sexto digestorum scripsit hanc quoque a patre profectam esse: et est verum.
+
+3. Sed et si curator furiosi vel prodigi vel cuiusvis alterius dotem dederit, similiter dicemus dotem profecticiam esse.
+
+4. Sed et si proponas praetorem vel praesidem decrevisse, quantum ex bonis patris vel ab hostibus capti aut a latronibus oppressi filiae in dotem detur, haec quoque profecticia videtur.
+
+5. Si pater repudiaverit hereditatem dotis constituendae causa (forte quod maritus erat substitutus aut qui potuit ab intestato hereditatem vindicare), dotem profecticiam non esse Iulianus ait. Sed et si legatum in hoc repudiaverit pater, ut apud generum heredem remaneat dotis constituendae causa, Iulianus probat non esse profectum id de bonis, quia nihil erogavit de suo pater, sed non adquisivit.
+
+6. Si pater non quasi pater, sed alio dotem promittente fideiussit et quasi fideiussor solverit, Neratius ait non esse profecticiam dotem, quamvis pater servare a reo id quod solvit non possit.
+
+7. Sed si pater dotem promisit et fideiussorem vel reum pro se dedit, ego puto profecticiam esse dotem: sufficit enim, quod pater sit obligatus sive reo sive fideiussori.
+
+8. Si filius familias mutuatus creditorem delegavit, ut daret pro filia dotem, vel etiam ipse accepit et dedit, videri dotem ab avo profectam Neratius ait hactenus, quatenus avus esset dotaturus neptem suam: id enim in rem avi videri versum.
+
+9. Si quis certam quantitatem patri donaverit ita, ut hanc pro filia daret, non esse dotem profecticiam Iulianus libro septimo decimo digestorum scripsit: obstrictus est enim ut det aut, si non dederit, condictione tenetur. Hoc et in matre iuris esse ait, si forte sub ea condicione uxor marito det, ut pro filia genero in dotem daret, nec videri uxorem marito donasse rectissime ergo ait, ut non sit interdicta donatio iure civili: non enim ad hoc dedit, ut ipse habeat, sed ut genero pro filia expendat: denique si non dederit, condictione tenetur. Esse igitur dotem istam adventiciam Iulianus ait: et ita utimur.
+
+10. Si filius familias dotem promiserit et sui iuris factus dederit, profecticiam esse dotem: non enim pro hereditate patris aes alienum solvit, sed suum aes alienum susceptum, dum filius familias esset, pater familias factus exoneravit.
+
+11. Si pater pro filia emancipata dotem dederit, profecticiam nihilo minus dotem esse nemini dubium est, quia non ius potestatis, sed parentis nomen dotem profecticiam facit: sed ita demum, si ut parens dederit: ceterum si, cum deberet filiae, voluntate eius dedit, adventicia dos est.
+
+12. Papinianus libro decimo quaestionum ait, cum pater curator suae filiae iuris sui effectae dotem pro ea constituisset, magis eum quasi patrem id quam quasi curatorem fecisse videri.
+
+13. Iulianus libro nono decimo digestorum adoptivum quoque patrem, si ipse dotem dedit, habere eius repetitionem ait.
+
+14. Si quis pro aliena filia dotem promiserit et promissori pater heres exstiterit, Iulianus distinguit interesse, ante nuptias pater heres exstiterit et dotem dederit an postea: si ante, videri dotem ab eo profectam (potuit enim nuntium remittendo resolvere dotem), quod si post nuptias, non esse profecticiam.
+
+23.3.6
+
+Pomponius libro 14 ad Sabinum
+
+pr. Iure succursum est patri, ut filia amissa solacii loco cederet, si redderetur ei dos ab ipso profecta, ne et filiae amissae et pecuniae damnum sentiret.
+
+1. Si pater alienum fundum bona fide emptum in dotem dedit, ab ipso profectus intellegitur.
+
+2. Si in dote danda circumventus sit alteruter, etiam maiori annis viginti quinque succurrendum est, quia bono et aequo non conveniat aut lucrari aliquem cum damno alterius aut damnum sentire per alterius lucrum.
+
+23.3.7
+
+Ulpianus libro 31 ad Sabinum
+
+pr. Dotis fructum ad maritum pertinere debere aequitas suggerit: cum enim ipse onera matrimonii subeat, aequum est eum etiam fructus percipere.
+
+1. Si fructus constante matrimonio percepti sint, dotis non erunt: si vero ante nuptias percepti fuerint, in dotem convertuntur, nisi forte aliquid inter maritum futurum et destinatam uxorem convenit: tunc enim quasi donatione facta fructus non redduntur.
+
+2. Si usus fructus in dotem datus sit, videamus, utrum fructus reddendi sunt nec ne. Et Celsus libro decimo digestorum ait interesse, quid acti sit, et nisi appareat aliud actum, putare se ius ipsum in dote esse, non etiam fructus qui percipiuntur.
+
+3. Si res in dote dentur, puto in bonis mariti fieri accessionemque temporis marito ex persona mulieris concedendam. Fiunt autem res mariti, si constante matrimonio in dotem dentur. Quid ergo, si ante matrimonium? Si quidem sic dedit mulier, ut statim eius fiant, efficiuntur: enimvero si hac condicione dedit, ut tunc efficiantur, cum nupserit, sine dubio dicemus tunc eius fieri, cum nuptiae fuerint secutae. Proinde si forte nuptiae non sequantur nuntio remisso, si quidem sic dedit mulier, ut statim viri res fiant, condicere eas debebit misso nuntio: enimvero si sic dedit, ut secutis nuptiis incipiant esse, nuntio remisso statim eas vindicabit. Sed ante nuntium remissum si vindicabit, exceptio poterit nocere vindicanti aut doli aut in factum: doti enim destinata non debebunt vindicari.
+
+23.3.8
+
+Callistratus libro secundo quaestionum
+
+Sed nisi hoc evidenter actum fuerit, credendum est hoc agi, ut statim res sponsi fiant et, nisi nuptiae secutae fuerint, reddantur.
+
+23.3.9
+
+Ulpianus libro 31 ad Sabinum
+
+pr. Si ego Seiae res dedero, ut ipsa suo nomine in dotem det, efficientur eius, licet non in dotem sint datae: sed condictione tenebitur. Quod si pro ea res ego dem, si quidem ante nuptias, interest qua condicione dedi, utrum ut statim fiant accipientis an secutis nuptiis: si statim, nuntio misso condicam: sin vero non statim, potero vindicare, quia meae res sunt. Quare et si sequi nuptiae non possunt propter matrimonii interdictionem, ex posteriore casu res meae remanebunt.
+
+1. Si res alicui tradidero, ut nuptiis secutis dotis efficiantur, et ante nuptias decessero, an secutis nuptiis dotis esse incipiant? Et vereor, ne non possint in dominio eius effici cui datae sunt, quia post mortem incipiat dominium discedere ab eo qui dedit, quia pendet donatio in diem nuptiarum et cum sequitur condicio nuptiarum, iam heredis dominium est, a quo discedere rerum non posse dominium invito eo fatendum est. Sed benignius est favore dotium necessitatem imponi heredi consentire ei quod defunctus fecit aut, si distulerit vel absit, etiam nolente vel absente eo dominium ad maritum ipso iure transferri, ne mulier maneat indotata.
+
+2. Dotis autem causa data accipere debemus ea, quae in dotem dantur.
+
+3. Ceterum si res dentur in ea, quae Graeci paraferna dicunt quaeque Galli peculium appellant, videamus, an statim efficiuntur mariti. Et putem, si sic dentur ut fiant, effici mariti, et cum distractum fuerit matrimonium, non vindicari oportet, sed condici, nec dotis actione peti, ut divus Marcus et imperator noster cum patre rescripserunt. Plane si rerum libellus marito detur, ut romae volgo fieri videmus (nam mulier res, quas solet in usu habere in domo mariti neque in dotem dat, in libellum solet conferre eumque libellum marito offerre, ut is subscribat, quasi res acceperit, et velut chirographum eius uxor retinet res quae libello continentur in domum eius se intulisse): hae igitur res an mariti fiant, videamus. Et non puto, non quod non ei traduntur (quid enim interest, inferantur volente eo in domum eius an ei tradantur?), sed quia non puto hoc agi inter virum et uxorem, ut dominium ad eum transferatur, sed magis ut certum sit in domum eius illata, ne, si quandoque separatio fiat, negetur: et plerumque custodiam earum maritus repromittit, nisi mulieri commissae sint. Videbimus harum rerum nomine, si non reddantur, utrum rerum amotarum an depositi an mandati mulier agere possit. Et si custodia marito committitur, depositi vel mandati agi poterit: si minus, agetur rerum amotarum, si animo amoventis maritus eas retineat, aut ad exhibendum, si non amovere eas connisus est.
+
+23.3.10
+
+Ulpianus libro 34 ad Sabinum
+
+pr. Plerumque interest viri res non esse aestimatas idcirco, ne periculum rerum ad eum pertineat, maxime si animalia in dotem acceperit vel vestem, qua mulier utitur: eveniet enim, si aestimata sit et eam mulier adtrivit, ut nihilo minus maritus aestimationem eorum praestet. Quotiens igitur non aestimatae res in dotem dantur, et meliores et deteriores mulieri fiunt.
+
+1. Si praediis inaestimatis aliquid accessit, hoc ad compendium mulieris pertinet: si aliquid decessit, mulieris damnum est.
+
+2. Si servi subolem ediderunt, mariti lucrum non est.
+
+3. Sed fetus dotalium pecorum ad maritum pertinent, quia fructibus computantur, sic tamen, ut suppleri proprietatem prius oporteat et summissis in locum mortuorum capitum ex adgnatis residuum in fructum maritus habeat, quia fructus dotis ad eum pertineat.
+
+4. Si ante matrimonium aestimatae res dotales sunt, haec aestimatio quasi sub condicione est: namque hanc habet condicionem "si matrimonium fuerit secutum". Secutis igitur nuptiis aestimatio rerum perficitur et fit vera venditio.
+
+5. Inde quaeri potest, si ante nuptias mancipia aestimata deperierint, an mulieris damnum sit, et hoc consequens est dicere: nam cum sit condicionalis venditio, pendente autem condicione mors contingens exstinguat venditionem, consequens est dicere mulieri perisse, quia nondum erat impleta venditio, quia aestimatio venditio est.
+
+6. Si res in dotem datae fuerint quamvis aestimatae, verum convenerit, ut aut aestimatio aut res praestentur, si quidem fuerit adiectum "utrum mulier velit", ipsa eliget, utrum malit petere rem aestimationem: verum si ita fuerit adiectum "utrum maritus velit", ipsius erit electio. Aut si nihil de electione adiciatur, electionem habebit maritus, utrum malit res offerre an pretium earum: nam et cum illa aut illa res promittitur, rei electio est, utram praestet. Sed si res non exstet, aestimationem omnimodo maritus praestabit.
+
+23.3.11
+
+Paulus libro septimo ad Sabinum
+
+Sane et deteriorem factam reddere poterit.
+
+23.3.12
+
+Ulpianus libro 34 ad Sabinum
+
+pr. Si res aestimata post contractum matrimonium donationis causa adprobetur, nulla est aestimatio, quia nec res distrahi donationis causa potest, cum effectum inter virum et uxorem non habeat: res igitur in dote remanebit. Sed si ante matrimonium, magis est, ut in matrimonii tempus collata donatio videatur: atque ideo non valet.
+
+1. Si mulier se dicat circumventam minoris rem aestimasse, ut puta servum, si quidem in hoc circumventa est, quod servum dedit, non tantum in hoc, quod minoris aestimavit: in eo acturam, ut servus sibi restituatur. Enimvero si in aestimationis modo circumventa est, erit arbitrium mariti, utrum iustam aestimationem an potius servum praestet. Et haec, si servus vivit. Quod si decessit, Marcellus ait magis aestimationem praestandam, sed non iustam, sed eam quae facta est: quia boni consulere mulier debet, quod fuit aestimatus: ceterum, si simpliciter dedisset, procul dubio periculo eius moreretur, non mariti. Idemque et in minore circumventa Marcellus probat. Plane si emptorem habuit mulier iusti pretii, tunc dicendum iustam aestimationem praestandam idque dumtaxat uxori minori annis praestandum Marcellus scribit: Scaevola autem in marito notat, si dolus eius adfuit, iustam aestimationem praestandam: et puto verius, quod Scaevola ait.
+
+2. Si cum marito debitore mulier pacta sit, ut id quod debeat in dotem habeat, dotis actione scilicet eam agere posse existimo: licet enim ipso iure priore debito liberatus non sit, sed tamen exceptionem habere potest.
+
+23.3.13
+
+Modestinus libro singulari de differentiarum dotis
+
+Si mulier post divortium, antequam ex stipulatu de dote agat, ad eundem virum fuerit reversa, Constantius dicetur per doli exceptionem inefficacem fieri ex stipulatu actionem, usque quo matrimonium durat.
+
+23.3.14
+
+Ulpianus libro 34 ad edictum
+
+Si rem aestimatam mulier in dotem dederit, deinde ea moram faciente in traditione in rerum natura esse desierit, actionem eam habere non puto.
+
+23.3.15
+
+Pomponius libro 14 ad Sabinum
+
+Quod si per eam non stetisset, perinde pretium aufert ac si tradidisset, quia quod evenit emptoris periculo est.
+
+23.3.16
+
+Ulpianus libro 34 ad Sabinum
+
+Quotiens res aestimata in dotem datur, evicta ea virum ex empto contra uxorem agere et quidquid eo nomine fuerit consecutus, dotis actione soluto matrimonio ei praestare oportet. Quare et si duplum forte ad virum pervenerit, id quoque ad mulierem redigetur. Quae sententia habet aequitatem, quia non simplex venditio sit, sed dotis causa, nec debeat maritus lucrari ex damno mulieris: sufficit enim maritum indemnem praestari, non etiam lucrum sentire.
+
+23.3.17
+
+Paulus libro septimo ad Sabinum
+
+pr. In rebus dotalibus virum praestare oportet tam dolum quam culpam, quia causa sua dotem accipit: sed etiam diligentiam praestabit, quam in suis rebus exhibet.
+
+1. Si re aestimata data nuptiae secutae non sint, videndum est, quid repeti debeat, utrum res an aestimatio. Sed id agi videtur, ut ita demum aestimatio rata sit, si nuptiae sequantur, quia nec alia causa contrahendi fuerit, res igitur repeti debeat, non pretium.
+
+23.3.18
+
+Pomponius libro 14 ad Sabinum
+
+Si mancipia in dotem aestimata accepisti et pactum conventum factum est, ut tantidem aestimata divortio facto redderes, manere partum eorum apud te Labeo ait, quia et mancipia tuo periculo fuerint.
+
+23.3.19
+
+Ulpianus libro 34 ad Sabinum
+
+Etiamsi alii iussu mariti dos detur, nihilo minus maritus de dote obligatur.
+
+23.3.20
+
+Paulus libro septimo ad Sabinum
+
+Iulianus scribit valere talem stipulationem: "cum morieris, dotis nomine tot dari?" quia et pacisci soleant, ne a viva exhibeatur. Quod non esse simile accepi: aliud est enim differre exactionem, aliud ab initio in id tempus stipulari, quo matrimonium futurum non sit. Idque et Aristoni et Neratio et Pomponio placet.
+
+23.3.21
+
+Ulpianus libro 35 ad Sabinum
+
+Stipulationem, quae propter causam dotis fiat, constat habere in se condicionem hanc "si nuptiae fuerint secutae", et ita demum ex ea agi posse (quamvis non sit expressa condicio), si nuptiae, constat: quare si nuntius remittatur, defecisse condicio stipulationis videtur.
+
+23.3.22
+
+Paulus libro septimo ad Sabinum
+
+Et licet postea eidem nupserit, non convalescit stipulatio.
+
+23.3.23
+
+Ulpianus libro 35 ad Sabinum
+
+Quia autem in stipulatione non est necessaria dotis adiectio, etiam in datione tantundem ducimus.
+
+23.3.24
+
+Pomponius libro 15 ad Sabinum
+
+Si filia familias nuptura ex peculio, cuius administrationem habet, dotem viro dedit, deinde, cum in eadem causa peculium eius esset, divortium fecerit, dos ei recte solvitur quasi a quolibet peculiari debitore.
+
+23.3.25
+
+Paulus libro septimo ad Sabinum
+
+Si ei nuptura mulier, qui Stichum debebat, ita cum eo pacta est: "pro Sticho, quem mihi debes, decem tibi doti erunt", secundum id quod placuit rem pro re solvi posse et liberatio contingit et decem in dotem erunt, quia et permutatio dotium conventione fieri potest.
+
+23.3.26
+
+Modestinus libro primo regularum
+
+Ita constante matrimonio permutari dotem posse dicimus, si hoc mulieri utile sit, si ex pecunia in rem aut ex re in pecuniam: idque probatum est.
+
+23.3.27
+
+Ulpianus libro 36 ad Sabinum
+
+Quod si fuerit factum, fundus vel res dotalis efficitur.
+
+23.3.28
+
+Paulus libro septimo ad Sabinum
+
+Post nuptias pater non potest deteriorem causam filiae facere, quia nec reddi ei dos invita filia potest.
+
+23.3.29
+
+Ulpianus libro 36 ad Sabinum
+
+Cum pater dotem pro filia promittit et dotem legat, si quidem marito legavit, videndum est, an legatum valeat, et non puto valere: nam cum creditori debitor legat id quod debet, nullum legatum est. Quod si filiae legavit, valet legatum: dos enim ex promissione marito debetur, legatum filiae. Et si quidem hoc animo testatorem esse filia ostenderit, ut duplicaret ei legatum, habebit utrumque, dotem quam maritus persecutus fuerit et legatum ex causa legati. Quod si alterutrum voluit habere: si mulier legatum petat, opposita doli exceptione non alias cogetur ei heres legatum solvere, quam si caverit indemnem hoc nomine heredem futurum adversus maritum ex promissione agentem. Sed si maritus agat, nihil de indemnitate eum cavere oportebit, verum mulier post eum agens exceptione repelletur, quia semel dos praestita est.
+
+23.3.30
+
+Paulus libro septimo ad Sabinum
+
+Dotem, quae in prius matrimonium data est, non aliter converti in posterius matrimonium dicendum est, quam cum hoc agitur: dum hoc agi semper interpretemur, nisi probetur aliud convenisse.
+
+23.3.31
+
+Papinianus libro quarto responsorum
+
+Quod si non divortium, sed iurgium fuit, dos eiusdem matrimonii manebit.
+
+23.3.32
+
+Pomponius libro 16 ad Sabinum
+
+Si ex lapidicinis dotalis fundi lapidem vel arbores, quae fructus non essent, sive superficium aedificii dotalis voluntate mulieris vendiderit, nummi ex ea venditione recepti sunt dotis.
+
+23.3.33
+
+Ulpianus libro sexto ad Sabinum
+
+Si extraneus sit qui dotem promisit isque defectus sit facultatibus, imputabitur marito, cur eum non convenerit, maxime si ex necessitate, non ex voluntate dotem promiserat: nam si donavit, utcumque parcendum marito, qui eum non praecipitavit ad solutionem qui donaverat quemque in id quod facere posset, si convenisset, condemnaverat. Hoc enim divus Pius rescripsit eos, qui ex liberalitate conveniuntur, in id quod facere possunt condemnandos. Sed si vel pater vel ipsa promiserunt, Iulianus quidem libro sexto decimo digestorum scribit etiam si pater promisit, periculum respicere ad maritum: quod ferendum non est. Debebit igitur mulieris esse periculum: nec enim quicquam iudex propriis auribus audiet mulierem dicentem, cur patrem, qui de suo dotem promisit, non urserit ad exsolutionem, multo minus, cur ipsam non convenerit. Recte itaque Sabinus disposuit, ut diceret quod pater vel ipsa mulier promisit viri periculo non esse, quod debitor, id viri esse, quod alius, scilicet donaturus, eius periculo ait, cui adquiritur: adquiri autem mulieri accipiemus, ad quam rei commodum respicit.
+
+23.3.34
+
+Ulpianus libro 33 ad Sabinum
+
+Mater cum filiae aurum dedisset utendum, pater puellae id aurum in dotem viro adpendit: dein mortua est mater. Si inscia invitave uxore vir id aurum in dotem dedisset, manet id aurum heredis matris vindicarique potest et eo minorem dotem viro datam esse placuit: quia res evicta est, marito competit adversus socerum actio.
+
+23.3.35
+
+Ulpianus libro 47 ad Sabinum
+
+Dotem a patre vel a quovis alio promissam si vir novandi causa stipuletur, coepit viri esse periculum, cum ante mulieris fuisset.
+
+23.3.36
+
+Ulpianus libro 48 ad Sabinum
+
+Debitor mulieris iussu eius pecuniam viro expromisit, deinde vir acceptam eam iussu mulieris fecit. Res mulieri perit. Hoc quomodo accipimus? Utrum dotis nomine an et si alia ex causa? Et videtur de eo debitore dictum, qui dotis nomine promisit. Illud adhuc subest, utrum ante nuptias an post nuptias id factum sit: multum enim interesse videtur. Nam si secutis nuptiis id factum est, dote iam constituta maritus accepto ferendo perdit, si autem antequam nuptiae sequerentur, nihil videtur doti constitutum esse.
+
+23.3.37
+
+Paulus libro 12 ad Sabinum
+
+Non enim alias perit mulieri actio, quam si nuptiae secutae fuerint: nam si secutae non sunt, manet debitor mulieri obligatus.
+
+23.3.38
+
+Ulpianus libro 48 ad Sabinum
+
+Sane videndum est, an marito mulier, quae iussit accepto ferri, obligetur. Et putem obligari mandati actione et hoc ipsum in dotem converti, quod mulier mandati iudicio obligata est. Et quod dicitur rem mulieri perire, consequens est: nam si coeperit velle de dote agere, ipsa secum debebit compensare iussum suum.
+
+23.3.39
+
+Ulpianus libro 33 ad edictum
+
+pr. Si serva servo quasi dotem dederit, deinde constante coniunctione ad libertatem ambo pervenerint peculio eis non adempto et in eadem coniunctione permanserint, ita res moderetur, ut, si quae ex rebus corporalibus velut in dotem tempore servitutis datis exstiterint, videantur ea tacite in dotem conversa, ut earum aestimatio mulieri debeatur.
+
+1. Si spadoni mulier nupserit, distinguendum arbitror, castratus fuerit necne, ut in castrato dicas dotem non esse: in eo qui castratus non est, quia est matrimonium, et dos et dotis actio est.
+
+23.3.40
+
+Ulpianus libro 34 ad edictum
+
+Divus Severus rescripsit Pontio Lucriano in haec verba: "Si mulier, quae dotem dederat, post divortium rursus in matrimonium redit non revocatis instrumentis, non dubitabit is, apud quem res agetur, secundum voluntatem mulieris, quae utique non indotata redire in matrimonium voluit, partibus suis fungi quasi renovata dote".
+
+23.3.41
+
+Paulus libro 35 ad edictum
+
+pr. Promittendo dotem omnes obligantur, cuiuscumque sexus condicionisque sint.
+
+1. Sed si nuptiae secutae non fuerint, ex stipulatu agi non potest: magis enim res quam verba intuenda sunt.
+
+2. Accepti quoque latione dos constituitur, cum debitori marito acceptum feratur dotis constituendae causa.
+
+3. Si a debitore mulieris sub condicione dos promittatur et postea, sed antequam maritus petere posset, debitor solvendo esse desierit, magis periculum ad mulierem pertinere placet: nec enim videri maritum nomen secutum eo tempore, quo exigere non poterit. Quod si iam tunc debitor, cum sub condicione promitteret, solvendo non fuerit, periculum viri esse, quod sciens tale nomen secutus videretur, quale initio obligationis fuerit.
+
+4. Si debitor mulieris dotem promiserit et mulierem heredem reliquerit, labeo perinde habendum ait, ac si mulier ipsa dotem promisisset. Cuius sententiam Iulianus quoque probat: nec enim aequum esse ait, ut ei damnetur eius pecuniae nomine, quam ipsa debeat, et satis esse acceptilatione eam liberari.
+
+23.3.42
+
+Gaius libro 11 ad edictum provinciale
+
+Res in dotem datae, quae pondere numero mensura constant, mariti periculo sunt, quia in hoc dantur, ut eas maritus ad arbitrium suum distrahat et quandoque soluto matrimonio eiusdem generis et qualitatis alias restituat vel ipse vel heres eius.
+
+23.3.43
+
+Ulpianus libro tertio disputationum
+
+pr. Licet soleat dos per acceptilationem constitui, tamen, si ante matrimonium acceptilatio fuerit interposita nec nuptiae secutae, Scaevola ait matrimonii causa acceptilationem interpositam non secutis nuptiis nullam esse atque ideo suo loco manere obligationem: quae sententia vera est.
+
+1. Quotiens autem extraneus accepto fert debitori dotis constituendae causa, si quidem nuptiae insecutae non fuerint, liberatio non sequetur: nisi forte sic accepto tulit, ut velit mulieri in totum donatum: tunc enim credendum est brevi manu acceptum a muliere et marito datum: ceterum mulieri per liberam personam condictio adquiri non potest.
+
+2. Plane secutis nuptiis mulier soluto matrimonio dotis exactionem habebit, nisi forte sic accepto tulit extraneus, ut ipse, quoquo modo solutum fuerit matrimonium, condictionem habeat: tunc enim non habebit mulier actionem. Secundum quae constituta dote per acceptilationem et secutis nuptiis is effectus erit dotis exactioni, ut, si quidem pura sit obligatio quae accepto lata est, non ipsa iam restituenda sit, sed solvenda dos secundum sua tempora. Sin vero obligatio in diem fuit nec ante solutum matrimonium dies obligationis praeteriit, restauranda est in diem pristinum obligatio et, si debitum cum satisdatione fuerit, satisdatio renovanda est. Similique modo et si condicionalis fuerit obligatio quae in dotem conversa est et pendente obligatione divortium fuerit secutum, verius obligationem sub eadem condicione restitui debere: sed si condicio exstiterit constante matrimonio, ex die divortii tempora exactionis numerantur.
+
+23.3.44
+
+Iulianus libro 16 digestorum
+
+pr. Si pater filiae nomine dotem promisisset et eam ante nuptias emancipasset, non resolvitur promissio: nam et cum ante nuptias pater moreretur, nihilo minus heredes eius ex promissione obligati manebunt.
+
+1. Quae debitorem filium familias habet, si patri eius ita dotem promiserit: "Quod mihi debes vel quod mihi filius tuus debet, doti tibi erunt", non obligatur, sed efficit, ut id, quod actione de peculio servari a patre poterat, in dote sit. Marcellus. Sive igitur cum filio post hac sive cum patre agere instituerit, exceptione pacti conventi summovebitur: actione autem de dote si experietur, consequetur quod in peculio fuisse apparuerit eo tempore quo dos promittebatur: utique si post nuptias promissa dos est. Nam dote ante nuptias promissa eius temporis peculium aestimari debet, quo nuptiae fierent.
+
+23.3.45
+
+Tryphoninus libro octavo disputationum
+
+pr. Quod si nuptura debitori filio familias actionem dumtaxat de peculio promisit, id, quod ex ea causa sibi deberetur nuptiarum tempore, inspicitur.
+
+1. Si vero alii nuptura iussit filium familias debitorem de peculio dotem promittere, tempus inspicitur, quo dos promissa est, ut tantum in peculio esse aestimaretur.
+
+23.3.46
+
+Iulianus libro 16 digestorum
+
+pr. Quemadmodum invito domino servus stipulatus adquirit, ita, si dotem domini nomine sibi promitti patiatur, obligatio domino adquiritur. Sed neque periculum dominus praestare debebit (si forte debitor mulieris dotem promiserit) neque culpam. Traditione quoque rei dotalis in persona servi vel filii familias facta dos constituitur ita, ut neque periculum nec culpam dominus aut pater praestet. Igitur hanc dotem periculo mulieris esse dico, quamdiu dominus vel pater ratam promissionem vel donationem habuerit: ideoque etiam manente matrimonio res quas tradiderit condictione repetituram, item incerti condictione consecuturam, ut promissione liberetur.
+
+1. Si debitori suo mulier nuptura ita dotem promisisset: "Quod mihi debes aut fundus Sempronianus doti tibi erit", utrum mulier vellet, id in dote erit: et si quidem debitum maluisset dotis nomine apud virum remanere, potest ea exceptione se tueri adversus petentem fundum: quod si fundum dedisset, pecuniam marito condicet.
+
+2. Pater etiamsi falso existimans se filiae debitorem esse dotem promisisset, obligabitur.
+
+23.3.47
+
+Iulianus libro 18 digestorum
+
+Si servo in dotem ante nuptias dato donatum aliquid vel legatum ante nuptias fuisset, ampliatur dos, sicut ex fructibus fundi, qui ante nuptias traditus est.
+
+23.3.48
+
+Iulianus libro secundo ad Urseium Ferocem
+
+pr. Tali facta stipulatione: "Decem in anno proximo dotis nomine dare spondes?" Quaesitum est, annus ex quo tempore esset numerandus, utrum ex die stipulationis factae an ex eo die, quo dos esse potuisset, id est nuptiarum. Et responsum est ex die nuptiarum annum esse numerandum, ne, si aliter observaremus, si intra annum nuptiae factae non sint, videri possit dos ex ea obligatione deberi.
+
+1. Socer genero suo sic legaverat: "Lucio Titio filiae meae nomine centum heres meus damnas esto dare". Hanc pecuniam generum petere debere, exactam acceptam legatis referri, sed divortio facto de dote actione mulieri reddendam Proculus respondit et nihilo minus dotis esse factam. Iulianus notat: immo nec filiae, si voluerit, deneganda est huiusmodi actio.
+
+23.3.49
+
+Iulianus libro quinto ex Minicio
+
+Vir ab eo, qui uxori eius dotem facere volebat, certam pecuniam eo nomine stipulatus est, deinde acceptam eam fecit: quaerebatur, essetne ea pecunia in dotem. Respondit, si acceptam non fecisset et promissor solvendo esse desisset, quaereremus, an culpa mariti ea pecunia exacta non esset: cum vero acceptam fecit, omnimodo periculum ad eum pertinebit: perinde enim est, ac si acceperit pecuniam et eandem promissori donaverit.
+
+23.3.50
+
+Africanus libro octavo quaestionum
+
+pr. Quae fundum in dote habebat, divortio facto cum in matrimonium rediret, pacta est cum viro, uti decem in dotem acciperet et fundum sibi restitueret, ac datis decem, priusquam fundus ei restitueretur, in matrimonio decessit. Illud ex bona fide est et negotio contracto convenit, ut fundus, quasi sine causa penes maritum esse coeperit, condicatur.
+
+1. Et hoc evidentius circa actionem pigneraticiam apparebit. Etenim si, cum fundum Cornelianum pignoris causa tibi tradidissem, postea ex conventione fundum Titianum in hoc tibi tradiderim, ut Cornelianum mihi restitueres: minime puto dubitandum erit, quin statim recte pigneraticia ad recipiendum Cornelianum agere possim.
+
+23.3.51
+
+Ulpianus libro secundo responsorum
+
+Si res, quas filiae emancipatae pater donavit, ex voluntate eius postea in dotem pro ea datae sunt, a filia dotem, non a patre videri datam.
+
+23.3.52
+
+Marcianus libro tertio regularum
+
+Non solum si aestimatus fundus, sed etiam si non aestimatus in dotem datus est et alias, cum necesse non habeat mulier duplum promittere, promisit: quia ipse fundus est in dote, quodcumque propter eum consecutus fuerit a muliere maritus, quandoque restituet mulieri de dote agenti.
+
+23.3.53
+
+Neratius libro tertio membranarum
+
+Cum vir uxori donare vellet, debitor mulieris qui solvendo non erat dotem ei promisit. Ad id dumtaxat, ad quod solvendo fuit, viri periculo ea res est: et si quid debitori ad solvendum facultatis accesserit, periculum ad eam summam quae accesserit crescet permanebitque etiam, si rursus pauperior factus erit: quia neque tum, cum dos promitteretur, donatio facta est nisi eius pecuniae quae a debitore servari non poterat, neque cum solvendo is esse coepit, donationis causa permaneat, cum eo loco res sit, quo esset, si tum quoque, cum promitteretur dos, locuples fuisset.
+
+23.3.54
+
+Gaius libro ad edictum praetoris titulo de praediatoribus
+
+Res, quae ex dotali pecunia comparatae sunt, dotales esse videntur.
+
+23.3.55
+
+Paulus libro primo ad Plautium
+
+Cum dotis causa aliquid expromittitur, fideiussor eo nomine datus tenetur.
+
+23.3.56
+
+Paulus libro sexto ad Plautium
+
+pr. Si is qui Stichum mulieri debet in dotem delegatus sit et antequam solveret debitor, Stichus decesserit, cum neque per debitorem stetisset quo minus solveret, neque maritus in agendo moram fecisset: periculo mulieris Stichus morietur: quamquam etiamsi moram maritus fecerit in exigendo, si tamen etiam apud maritum moriturus Stichus fuerit, actione dotis maritus non teneatur.
+
+1. Ibi dos esse debet, ubi onera matrimonii sunt.
+
+2. Post mortem patris statim onera matrimonii filium sequuntur, sicut liberi, sicut uxor.
+
+3. Quod dicitur necessarias impensas ipso iure dotem minuere, non eo pertinet, ut, si forte fundus in dote sit, desinat aliqua ex parte dotalis esse, sed, nisi impensa reddatur, aut pars fundi aut totus retineatur. Sed si tantum in fundum dotalem impensum sit per partes, quanti fundus est, desinere eum dotalem esse Scaevola noster dicebat, nisi mulier sponte marito intra annum impensas obtulerit. si pecunia et fundus in dote sint et necessariae impensae in fundum factae, Nerva ait dotem pecuniariam minui. Quid ergo si mulier impensas marito solverit, utrum crescet dos an ex integro data videbitur? Cuius rei manifestior iniquitas in fundo est secundum Scaevolae nostri sententiam: nam si desinit dotalis esse, poterit alienari: rursus quemadmodum poterit fieri dotalis data pecunia? An iam pecunia in dote esse videbitur? Et magis est, ut ager in causam dotis revertatur, sed interim alienatio fundi inhibeatur.
+
+23.3.57
+
+Iavolenus libro primo ex Plautio
+
+Nuptura filio familias si socero dotem ita promiserit: "quod filius tuus mihi debet, id doti tibi erit", interesse puto, utrum filii obligatio an patris persecutio et in rem versum promissioni contineatur. Nam si id quod filium dare oportet significatum est, tota pecunia, in quam filius obligatus est, promissioni dotis continebitur: sin autem id, quod patrem de peculio vel in rem verso praestare oportebit, aestimare debebit quantum sit eo tempore id quod promittitur, ut ea summa dotis esse videatur, qua patrem eo tempore filii nomine condemnari oportebit. Quod si non evidenter apparuit, de cuius mulier obligatione sensit, praesumptionem ad filii debitum spectare verisimile est, nisi evidentissime contrarium adprobetur.
+
+23.3.58
+
+Celsus libro 19 digestorum
+
+pr. Si sponsalibus nondum factis titio dotem seiae nomine promiseris, cum ea nubere ei nollet, tamen, si postea nupserit, dotem debebis, nisi aliae nuptiae mediae intervenis sententiarum
+
+1. Si mulier ancillam Pamphilam a Titio stipulata, deinde ei nuptura quod is sibi debebat doti habere permisit, etiamsi non erit viri Pamphila, an ipsa tamen Pamphila in dote et mulieris periculo erit? An et quod ea pepererit, reddi mulieri debebit? Quia si in sua causa prior stipulatio mansisset, non redderetur. Nisi forte refert, habuerit rem quam debebat vir, quo tempore dos constituebatur: nam ita poterit videri res ipsa ad eum pervenisse: an non habuerit: nam si non habuerit, magis est, ut liberatio obligationis potius quam res ipsa ad eum ita pervenisse videatur ideoque partus eius non debetur.
+
+23.3.59
+
+Marcellus libro septimo digestorum
+
+pr. Si mulier ita dotem promiserit: "decem tibi aut titio doti erunt", hoc casu dici potest vel Titio dari posse, sed de dote virum teneri, quemadmodum si Titio iussisset dari. Nec mirum, cum etiam promissura viro dotem possit delegante eo alteri promittere, etsi dici solet alii quam marito dotis nomine mulierem non posse obligari. His enim casibus viro dos quaeritur. Non enim existimabimus illam ita promisisse, cum vel de Titii nuptiis cogitaret.
+
+1. Ex asse heres institutus rogatusque mulieri dodrantem hereditatis restituere iussu eius quod debet doti promisit marito. Vereor, non sit obligatus: nam mulieri in hoc tenetur, ut hereditatem restituendo transferat actiones et quas habet et quibus est obstrictus, quas transferre ad alium, quam cui debet fideicommissum, non potest. Aliquis dixerit incerti cum eo agi posse, fideicommissi praestet aestimationem. Huic ego consentire non possum: nam obligari mulieris debitorem ita aequum est, si accipere id ipsum quod ei debetur vir potest. Sed ne indotata mulier esse videatur, dicendum est ipsi mulieri ex Trebelliano restituendam esse partem hereditatis quae ei relicta est, ut ea suo marito pro dote eam solveret, quia et ad eam fideicommissum et onera eius pertinent delegatione propter nimiam suptilitatem et casus necessitatem minime optinente.
+
+2. Eius nomine quae libera videbatur decem in dote dedisti: eo casu habebis condictionem, quo habere potuisses, si mulieris liberae nomine dedisses nec nuptiae secutae essententiarum si manumissa nupserit, ita demum dos erit, si ea mente dedisti, ut quandoque secutis nuptiis dos esset. Igitur si mulieri donaturus dedisti, dominus condicet, quemadmodum si eum qui sibi donaturus esset mulier ipsam donare iussisset.
+
+23.3.60
+
+Celsus libro 11 digestorum
+
+Quaero, quantae pecuniae dotem promittenti adultae mulieri curator consensum accommodare debeat. Respondit: modus ex facultatibus et dignitate mulieris maritique statuendus est, quousque ratio patitur.
+
+23.3.61
+
+Clementius libro tertio ad legem Iuliam et Papiam
+
+pr. Sive generalis curator sive dotis dandae causa constitutus sit et amplius doti promissum est quam facultates mulieris valent, ipso iure promissio non valet, quia lege rata non habetur auctoritas dolo malo facta. Quaerendum tamen est, utrum tota obligatio an quod amplius promissum est, quam promitti oportuit, infirmetur? Et utilius est dicere id quod superfluum est tantummodo infirmare.
+
+1. Iste autem curator res dotis nomine tradere debet, non etiam ut vendat cuilibet et pretium eius in dotem det. Dubitari autem potest, an hoc verum sit: quid enim si aliter honeste nubere non possit, quam ut pecuniam in dotem det idque ei magis expediat? Atquin possunt res in dotem datae plerumque alienari et pecunia in dotem converti. Sed ut expediatur quaestio, si quidem res in dotem maritus accipere maluerit, nihil amplius quaerendum est: sin autem non aliter contrahere matrimonium vir patitur nisi pecuniis in dotem datis, tunc officium est curatoris apud eundem intrare iudicem, qui eum constituit, ut iterum ei causa cognita etiam viro absente permittat rerum venditione celebrata dotem constituere.
+
+23.3.62
+
+Modestinus libro quinto responsorum
+
+Titia cum esset minor viginti quinque annis, quartam hereditatis matris suae communem sibi cum fratribus mutavit et accepit pro ea parte fundum quasi emptione inter se facta: hunc fundum cum aliis rebus doti dedit. Quaero, si in integrum restituatur et partem suam accipiat quartam et reddat fundum, quid debeat maritus facere? An contentus esse debeat aliis rebus in dotem datis? Item quaero, si haec decesserit et heredes eius in integrum restitutionem ex persona eius petierint et ipsi petant quartam partem et illi fundum, an maritus cogatur restituere fundum contentus in retentione lucri dotis ceteris rebus? Modestinus respondit nihil proponi, cur marito dos auferenda sit: sed in veram aestimationem praedii mulier vel eius heredes condemnandi sunt in hoc tempus referendam, quo in dotem datus est.
+
+23.3.63
+
+Modestinus libro singulari de heurematicis
+
+Stipulatio de dote reddenda ab extraneo interposita facto divortio statim committitur nec redintegrato matrimonio actio stipulatori quaesita intercidit: denuo igitur consentiente stipulatore dos constituenda est, ne sequenti matrimonio mulier indotata sit: si modo ea dos non ab ipsa profecta sit, quam alius permissu eius stipulatus est, tunc enim consensus eius non est necessarius.
+
+23.3.64
+
+Iavolenus libro quarto ex Cassio
+
+Post divortium mulier si de dote maritus nihil cavit et, cum alii nupsisset, postea ad priorem virum rediit, tacite dos ei redintegratur.
+
+23.3.65
+
+Pomponius libro quinto ad Quintum Mucium
+
+Si legato aut hereditate aliquid servo dotali obvenit, quod testator noluit ad maritum pertinere, id soluto matrimonio reddendum est mulieri.
+
+23.3.66
+
+Pomponius libro octavo ad Quintum Mucium
+
+Si usus fructus fundi, cuius proprietatem mulier non habebat, dotis nomine mihi a domino proprietatis detur, difficultas erit post divortium circa reddendum ius mulieri, quoniam diximus usum fructum a fructuario cedi non posse nisi domino proprietatis et, si extraneo cedatur, id est ei qui proprietatem non habeat, nihil ad eum transire, sed ad dominum proprietatis reversurum usum fructum. Quidam ergo remedii loco recte putaverunt introducendum, ut vel locet hunc usum fructum mulieri maritus vel vendat nummo uno, ut ipsum quidem ius remaneat penes maritum, perceptio vero fructuum ad mulierem pertineat.
+
+23.3.67
+
+Proculus libro septimo epistularum
+
+Proculus Nepoti suo salutem. Ancilla quae nupsit dotisque nomine pecuniam viro tradidit, sive sciat se ancillam esse sive ignoret, non poterit eam pecuniam viri facere eaque nihilo minus mansit eius cuius fuerat antequam eo nomine viro traderetur, nisi forte usucapta est. Nec postea quam apud eundem virum libera facta est, eius pecuniae causam mutare potuit. Itaque nec facto quidem divortio aut dotis iure aut per condictionem repetere recte potest, sed is cuius pecunia est recte vindicat eam. Quod si vir eam pecuniam pro suo possidendo usucepit, scilicet quia existimavit mulierem liberam esse, propius est, ut existimem eum lucrifecisse, utique si, antequam matrimonium esse inciperet, usucepit. Et in eadem opinione sum, si quid ex ea pecunia paravit, antequam ea dos fieret, ita, ut nec possideat eam nec dolo fecerit, quo minus eam possideret.
+
+23.3.68
+
+Papinianus libro decimo quaestionum
+
+Dotis promissio non ideo minus valebit, quod ignorante initio patre nuptiae non fuerint, si postea consenserit, cum omnis dotis promissio futuri matrimonii tacitam condicionem accipiat. Nam et si minor annis duodecim ut maior deducta sit, tunc primum petetur, cum maior annis apud eundem esse coeperit: quod enim volgatum est dotis promissionem in primis dumtaxat nuptiis destinare neque durare obligationem, si post alterius matrimonium ei nubat cui dotem promiserat, tunc locum habet, cum intercesserunt aliae nuptiae.
+
+23.3.69
+
+Papinianus libro quarto responsorum
+
+pr. Cum post divortium viro sciente mulier in possessionem praediorum quae in dotem promisit longo tempore fuerit, convenisse tacite videtur, ne dos quae promissa fuerat petatur, et, si petere ea coeperit, pacti exceptione a muliere repellitur.
+
+1. Mulier pecuniam sibi debitam a Seio cum usuris futuri temporis in dote promittenda demonstravit: eas quoque dotis portionem esse, quarum dies post nuptias cessit, rationis est.
+
+2. Usuras dotis in stipulatum cum dote post divortium deductas ex die secundi matrimonii non esse praestandas placuit, quia nec sortis exactio locum habere coepit: medii autem temporis debebuntur.
+
+3. In domum absentis uxore deducta, nullis in eam interea ex bonis viri sumptibus factis, ad exhibitionem uxoris promissas usuras reversus vir improbe petit.
+
+4. Gener a socero dotem arbitratu soceri certo die dari non demonstrata re vel quantitate stipulatus fuerat: arbitrio quoque detracto stipulationem valere placuit, nec videri simile, quod fundo non demonstrato nullum esse legatum vel stipulationem fundi constaret, cum inter modum constituendae dotis et corpus ignotum differentia magna sit: dotis etenim quantitas pro modo facultatium patris et dignitate mariti constitui potest.
+
+5. Nuptiis ex voluntate patris puellae cum filio tutoris iure contractis dos pro modo facultatium et dignitate natalium recte per tutorem constitui potest.
+
+6. Patrona dotem pro liberta iure promissam, quod exstiterit ingrata, non retinebit.
+
+7. Cum res in dotem aestimatas soluto matrimonio reddi placuit, summa declaratur, non venditio contrahitur: ideoque rebus evictis, si mulier bona fide eas dederit, nulla est actio viro: alioquin de dolo tenetur.
+
+8. In dotem rebus aestimatis et traditis, quamvis eas mulier in usu habeat, viri dominium factum videretur.
+
+9. Partum dotalium ancillarum dotis esse portionem convenit ideoque frustra pacisci virum, ut inter uxorem et se partus communis sit.
+
+23.3.70
+
+Paulus libro sexto quaestionum
+
+In ambiguis pro dotibus respondere melius est.
+
+23.3.71
+
+Paulus libro 13 quaestionum
+
+Cum dotem mulieris nomine extraneus promisit, mulieris periculum est: sed si maritus nomen secutus usuras exegerit, periculum eius futurum respondetur.
+
+23.3.72
+
+Paulus libro octavo responsorum
+
+pr. Mulier bona sua omnia in dotem dedit: quaero, an maritus quasi heres oneribus respondere cogatur. Paulus respondit eum quidem, qui tota ex repromissione dotis bona mulieris retinuit, a creditoribus conveniri eius non posse, sed non plus esse in promissione bonorum quam quod superest deducto aere alieno.
+
+1. Paulus respondit in rebus dotalibus etiam patrem mariti dolum et culpam praestare debere.
+
+2. Paulus respondit, si mulier de suo dotem dedit et adhibuit matrem quae stipularetur, potuisse eam postea instrumentum dotale mutare.
+
+23.3.73
+
+Paulus libro secundo sententiarum
+
+pr. Mutus surdus caecus dotis nomine obligantur, quia et nuptias contrahere possunt.
+
+1. Manente matrimonio non perditurae uxori ob has causas dos reddi potest: ut sese suosque alat, ut fundum idoneum emat, ut in exilium vel in insulam relegato parenti praestet alimonia, aut ut egentem virum fratrem sororemve sustineat.
+
+23.3.74
+
+Hermogenianus libro quinto epitomarum
+
+Si sponsa dotem dederit nec nupserit vel minor duodecim annis ut uxor habeatur, exemplo dotis condictioni favoris ratione privilegium, quod inter personales actiones vertitur, tribui placuit.
+
+23.3.75
+
+Tryphoninus libro sexto disputationum
+
+Quamvis in bonis mariti dos sit, mulieris tamen est, et merito placuit, ut, si in dotem fundum inaestimatum dedit, cuius nomine duplae stipulatione cautum habuit, isque marito evictus sit, statim eam ex stipulatione agere posse. Porro cuius interest non esse evictum quod in dote fuit quodque ipsa evictionem pati creditur ob id, quod eum in dotem habere desiit, huius etiam constante matrimonio, quamvis apud maritum dominium sit, emolumenti potestatem esse creditur, cuius etiam matrimonii onera maritus sustinet.
+
+23.3.76
+
+Tryphoninus libro nono disputationum
+
+Si pater mulieris mortis suae causa dotem promiserit, valet promissio: nam et si in tempus, quo ipse moreretur, promisisset, obligaretur. Sed si convaluerit, cur ei non remittatur obligatio per condictionem, atque si stipulanti quivis alius promisisset aut dotem alicuius nomine? Nam ut corporis vel pecuniae translatae, ita obligationis constitutae mortis causa condictio est. Non idem dicendum est in persona mulieris, si mulier mortis suae causa dotem promiserit, quia nisi matrimonii oneribus serviat, dos nulla est.
+
+23.3.77
+
+Tryphoninus libro decimo disputationum
+
+Si mulier debitori suo, qui sub usuris debebat, nuptura dotem promisisset quod is sibi deberet, post contractas nuptias secuti temporis usuras non esse dotales, quia illa obligatio tota tolleretur, perinde ac si solutum debitum mulieri in dotem ab ea datum esse.
+
+23.3.78
+
+Tryphoninus libro 11 disputationum
+
+pr. Cum in fundo mariti habens mulier usum fructum dotis causa eum marito dedit, quamvis ab ea usus fructus decesserit, maritus tamen non usum fructum habet, sed suo fundo quasi dominus utitur, consecutus per dotem plenam fundi proprietatem, non separatam usu fructu, nec est, quod non utendo maritus amittat. Divortio autem facto constituet in eodem fundo usum fructum mulieri. Quod si in matrimonio decesserit uxor, nihil emolumenti ob dotem habere videtur maritus, quia et si uxorem eam non duxisset, fructuariae morte finitus usus fructus ad proprietatem rediret: ideoque nec in funus confert mulieris.
+
+1. Plane si pater filiae nomine, qui in fundo generi usum fructum habebit, dotis constituendae gratia eum dederit, et in matrimonio mortua fuerit, habebit ex sua persona usus fructus petitionem.
+
+2. Quod si mulier in fundo suo marito usum fructum dotis causa constituerit, tunc ex mariti persona erit usus fructus proprie, qui et non utendo ipsius pereat: quod si acciderit, videamus, an etiamnunc dotata sit mulier. Et si quidem dominium apud mulierem est fundi, ad quem reversus est usus fructus, nihil iam in dote habet, quod actione dotis consequatur ab eo, cui quod non utendo amisit usum fructum imputari non potest, ex quo ipsa lucrum habet: ideoque indotata erit. Quod si alienaverit uxor proprietatem, quae sine ullo mulieris emolumento plenior facta est: adhuc dotata est, quia dotis actione teneri debet maritus, qui quando licuit usu fructu uti amisit eum non utendo. Nam si habere perseverasset usum fructum ad divortium, commodo mulieris cederet eius restitutio, quia etsi non protinus ad ipsam transiret, tamen vel si pretio vel beneficio sine incommodo mulieris ad proprietatem revertetur. Si autem usum fructum maritus non amiserit, morte mulieris non finitur usus fructus apud maritum. Divortio autem facto primo videamus et in hac et in superiore specie, an pro rata temporis eius anni dividantur fructus: quod probandum est. Ipsius autem restitutio ita fiet, ut habenti mulieri fundum usus fructus cedatur et ita cum proprietate consolidetur. Sed et si non sit fundi domina, nihilo minus competit dotis actio, ut dimittat a se maritus usum fructum: nam vel ex empto actione adhuc, ut usum fructum praestet, mulier tenetur, aut pretium eius consequi sperat, aut cuivis magis gratiam praestare quam relinquere apud inimicum ius ad se translatum licere ei civile est.
+
+3. Uxor viro usum fructum dotis nomine dedit, manente matrimonio eidem fundum vendidit: quaesitum est, divortio facto quid dotis iudicio reciperare debeat. Dixi referre, quanti fundus venisset: nam si nudae proprietatis aestimatio facta fuisset, mulier dotis iudicio pretium usus fructus reciperare debet. Quid ergo est, si vir ante litem contestatam mortuus fuisset? Heredes eius nihil praestituros: nam etsi quilibet alius emptor proprietatis exstitisset, heres viri nihil mulieri praestaret scilicet usu fructu reverso ad proprietatem. Ceterum si fundus totus vensisset, quanti debet venire non detracto usu fructu, intellegi mulierem dotem manente matrimonio recepisse.
+
+4. Si fundus communis in dotem datus erit et socius egerit cum marito communi dividundo adiudicatusque fundus socio fuerit, in dote erit quantitas, qua socius marito damnatus fuerit aut, si omissa licitatione extraneo addictus is [si] fundus fuerit, pretii portio, quae distracta est, sed ita, ut non vice corporis habeatur nec divortio secuto praesenti die quod in numero est restituatur, sed statuto tempore solvi debeat. Quod si marito fundus fuerit adiudicatus, pars utique data in dotem dotalis manebit: divortio autem facto sequetur restitutionem, propter quam ad maritum pervenit, etiam altera portio, scilicet ut recipiat tantum pretii nomine a muliere, quantum dedit ex condemnatione socio: nec audiri debebit alteruter eam aequitatem recusans, aut mulier in suscipienda parte altera quoque aut vir in restituenda. Sed an constante matrimonio non sola pars dotalis sit, quae data fuit in dotem, sed etiam altera portio, videamus. Iulianus de parte tantum dotali loquitur, et ego dixi in auditorio illam solam dotalem esse.
+
+5. Si marito dotis nomine stipulanti promisit per errorem is qui exceptione tutus erat ne solvat, cogetur ei solvere et habebit condictionem adversus mulierem aut patrem, uter eorum delegavit, ob id quod indebitum marito promisit aut solvit.
+
+23.3.79
+
+Labeo libro sexto posteriorum a Iavoleno epitomatorum
+
+pr. Avus neptis nomine filio natae genero dotem dedit et moritur. Negat servius dotem ad patrem reverti et ego cum servio sentio, quia non potest videri ab eo profecta, quia nihil ex his sui habuisset.
+
+1. Pater filiae nomine centum doti ita promisit "cum commodissimum esset". Ateius scripsit Servium respondisse, cum primum sine turpitudine et infamia dari possit, deberi.
+
+23.3.80
+
+Iavolenus libro sexto ex posterioribus Labeonis
+
+Si debitor mulieris dotem sponso promiserit, posse mulierem ante nuptias a debitore eam pecuniam petere neque eo nomine postea debitorem viro obligatum futurum ait Labeo. Falsum est, quia ea promissio in pendenti esset, donec obligatio in ea causa est.
+
+23.3.81
+
+Papinianus libro octavo quaestionum
+
+Pater filiae nomine nummos alienos, quos mutuos acceperat aut in causam crediti receperat, in dotem dedit. Consumptis his dos profecticia efficitur.
+
+23.3.82
+
+Proculus libro quinto epistularum
+
+Cum uxor virum suum quam pecuniam sibi deberet in dotem filiae communis dare iusserit et id fecisse dicatur, puto animadvertendum esse, utrum eam dotem suo an uxoris nomine dedit: si suo, nihilo minus uxori eum debere pecuniam: si uxoris nomine dederit, ipsum ab uxore liberatum esse.
+
+23.3.83
+
+Iavolenus libro sexto ex posterioribus Labeonis
+
+Si debitor mulieris dotem sponso promiserit, non posse mulierem ante nuptias a debitore eam pecuniam petere, quia ea promissio in pendenti esset, donec obligatio in ea causa est.
+
+23.3.84
+
+Labeo libro sexto pithanon a Paulo epitomarum
+
+Si de dote promissa agitur, non oportet in quantum facere potest condemnari eum qui promisit. Paulus: immo quod ad extraneum attinet, semper hoc verum est. Ceterum si manente adfinitate dotem promissam gener a socero petit, utique in quantum facere potest socer condemnabitur. Si dirempto matrimonio petitur, ex causa et persona id tribuendum puto: quid enim si socer specie futurae dotis induxerit generum et cum sciret se praestare dotem non posse, id egerit, ut genero insidiaretur?
+
+23.3.85
+
+Scaevola libro octavo digestorum
+
+Fundum filiae nomine pater in dotem dederat: huius heredi filiae ex asse creditoribus urguentibus patris utilius videtur potius fundum qui dotalis est distrahere, quod minus fructuosus sit, et alios hereditarios uberiore reditu retinere: maritus consentit, si nulla in ea re captio sit futura. Quaero, an ea pars dotis, quae in hoc fundo est, mulieri manente matrimonio recte solvatur. Respondit, si pretium creditori solvatur, recte solutum.
+
+
+* 23.4.0. De pactis dotalibus.
+
+
+23.4.1
+
+Iavolenus libro quarto ex Cassio
+
+pr. Pacisci post nuptias, etiamsi nihil ante convenerit, licet.
+
+1. Pacta quae de reddenda dote fiunt, inter omnes fieri oportet, qui
+repetere dotem et a quibus repeti potest, ne ei, qui non interfuit,
+apud arbitrum cognoscentem pactum non prosit.
+
+23.4.2
+
+Ulpianus libro 19 ad Sabinum
+
+Si convenerit, ut, quoquo modo dissolutum sit matrimonium, liberis intervenientibus dos apud virum remaneret, Papinianus Iuniano praetori respondit morte mariti finito matrimonio neque convenisse videri dotem remanere, et, si convenisset, non esse servandum pactum contra dotem, cum mariti mortalitas intervenit.
+
+23.4.3
+
+Paulus libro tertio ad Sabinum
+
+Pacta conventa, quae in divortii tempus collocata sunt, non facto divortio locum non habent.
+
+23.4.4
+
+Ulpianus libro 31 ad Sabinum
+
+Si convenerit, ut fructus in dotem converteretur, an valeat conventio? Et Marcellus ait libro octavo digestorum conventionem non valere: prope enim indotatam mulierem hoc pacto fieri. Sed ita distinguit, ut, si quidem fundum in dotem dederit mulier ita, ut maritus fructus redderet, non esse ratum pactum: idemque esse et si usum fructum in dotem hoc pacto dedit. Quod si convenisset de fructibus reddendis, hoc est ut in dote essent fructus quosquos percepisset, et fundus vel usus fructus in hoc traditus est, non ut fundus vel fructus fieret dotalis, sed ut fructus perciperet dotis futuros, cogendum de dote actione fructus reddere. Erunt igitur in dote fructus et fruetur iste usuris, quae ex fructibus collectis et in sortem redactis percipi possunt. Ego utrubique arbitror interesse, qua contemplatione dos sit data, ut, si ob hoc ei maiorem dotem mulier dedit, quia fructus volebat esse dotis contento marito ea pecunia quae ex usuris redituum colligitur, posse dici conventionem valere: nec enim videtur sterilis esse dos. Finge quadragena annua esse reditus apud eum, qui non acciperet in dotem, nisi hoc convenisset, plus trecentum: uti boni consuleret tam uberem dotem consecutus. Et quid dicimus, si pactum tale intervenit, ut maritus fructus in dotem converteret et mulier se suosque aleret tuereturve et universa onera sua expediret? Quare non dicas conventionem valere?
+
+23.4.5
+
+Paulus libro septimo ad Sabinum
+
+pr. Illud convenire non potest, ne de moribus agatur vel plus vel minus exigatur, ne publica coercitio privata pactione tollatur.
+
+1. Ac ne illa quidem pacta servanda sunt, ne ob res donatas vel amotas ageretur, quia altero pacto ad furandum mulieres invitantur, altero ius civile impugnatur.
+
+2. Et si convenerit, ne ob impensas necessarias ageretur, pactum non est servandum, quia tales impensae dotem ipso iure minuunt.
+
+23.4.6
+
+Ulpianus libro quarto ad edictum
+
+Pomponius ait maritum non posse pacisci, ut dolum solummodo in dotem praestet, videlicet propter utilitatem nubentium: quamvis pacisci possit, ne sit periculo eius nomen debitoris qui ei dotem promisit: nam et ut sit dos periculo mulieris, pacisci eum posse probat, et per contrarium, ut ea dos quae periculo mulieris est sit periculo mariti.
+
+23.4.7
+
+Pomponius libro 15 ad Sabinum
+
+Cum dos filiae nomine datur, optimum est pactum conventum cum utroque generum facere, quamquam initio dotis dandae legem quam velit etiam citra personam mulieris is qui dat dicere possit. Si vero post datam pacisci velit, utriusque persona in paciscendo necessaria est, quoniam iam adquisita mulieri dos tum esset. Quo casu si solus pater pactus esset sine filia, sive solus agat sive adiuncta filiae persona, ei soli nocebit et proderit pactum conventum nec, si sola filia aget, neque proderit neque nocebit ei. Si vero filia sola pacta fuerit, quo pacto melior condicio patris fiet, proderit et patri, quoniam per filiam patri adquiri potest, per patrem filiae non potest. Si vero sic pacta sit filia, ut noceat, ipsi quandoque filiae agenti nocebit pactum, patri vero nullo modo nocebit, nisi adiecta quoque filiae persona experiatur. Dicendum est paciscendo filiam patris condicionem deteriorem facere non posse eo casu, quo mortua ea in matrimonio dos ad patrem reversura est.
+
+23.4.8
+
+Paulus libro septimo ad Sabinum
+
+Quotiens patre furente vel ab hostibus capto filius familias ducit uxorem filiaque familias nubit, necessario etiam pacto cum ipsis dumtaxat dotis nomine fieri poterit.
+
+23.4.9
+
+Pomponius libro 16 ad Sabinum
+
+Si ita conveniat, ut, si vivo socero mortua sit filia, ipsi socero, si mortuo, filio eius, si filio quoque defuncto totum suo heredi reddatur, benigna interpretatione potest defendi utilem stipulationem esse.
+
+23.4.10
+
+Pomponius libro 26 ad Sabinum
+
+Avus pactus est, cum dotem pro nepote suscepisset, ne a se neve a filio dos peteretur, ab alio vero quam filio herede ut dos peteretur. Exceptione conventionis filius tuendus erit, quippe heredi nostro cavere concessum est, nec quicquam obstat quo minus certae personae, si heres erit sibi, caveri possit, quod non idem et in ceteris heredibus cavetur: et ita Celsus scribit.
+
+23.4.11
+
+Ulpianus libro 34 ad edictum
+
+Cum pater dotem pollicitus fuerit et paciscatur, ne se vivo petatur neve constante matrimonio dos petatur, ita pactum interpretandum divus Severus constituit, quasi adiectum esset se vivo: hoc enim ita accipiendum esse contemplatione paternae pietatis et contrahentium voluntatis, ut posterior quoque pars conventionis ad vitam patris relata videatur, ne diversa sententia fructum dotis ab oneribus matrimonii separet quodque indignissimum est, inducat ut non habuisse dotem existimetur. Quo rescripto hoc effectum est, ut, si quidem vivo patre decesserit filia aut sine culpa sua divorterit, omnimodo dos peti non possit, constante autem matrimonio mortuo patre peti possit.
+
+23.4.12
+
+Paulus libro 35 ad edictum
+
+pr. Si pater dotem dederit et pactus sit, ut mortua in matrimonio filia dos apud virum remaneret, puto pactum servandum, etiamsi liberi non interveniant.
+
+1. Ex pactis conventis, quae ante nuptias vel post nuptias interponi solent, alia ad voluntatem pertinent, ut mulier dote promissa se alat et donec nupta sit, dos ab ea non petatur, aut certam summam viro praestet et ab eo alatur, et his similia: alia ad ius pertinent, veluti quando dos petatur, quemadmodum reddatur, in quibus non semper voluntas contrahentium servatur. Ceterum si convenerit, ne omnino dos petatur, indotata erit mulier.
+
+2. Si mulier pacta sit, ne amplius quam pars dimidia dotis a se petatur et poenam stipulata sit, mela ait alterutro eam contentam esse oportere: vel exceptione pacti et acceptam facere poenae obligationem, vel, si ex stipulatu agat, denegandam ei exceptionem.
+
+3. Si fundo aestimato in dotem dato pacta sit mulier, ut, quanto pluris venierit, id in dote sit, mela ait servandum, cum et ex contrario convenire possit, ut, si minoris venierit, ipsa debeat.
+
+4. Si pacta sit mulier, ut sive pluris sive minoris fundus aestimatus venierit, pretium quanto res venierit in dote sit, stari eo pacto oportet: sed si culpa mariti minoris venierit, et id ipsum mulierem consequi.
+
+23.4.13
+
+Iulianus libro 17 digestorum
+
+Item si non venierit, aestimatio praestari debebit.
+
+23.4.14
+
+Paulus libro 35 ad edictum
+
+De die reddendae dotis hoc iuris est, ut liceat pacisci, qua die reddatur, dum ne mulieris deterior condicio fiet,
+
+23.4.15
+
+Gaius libro 11 ad edictum provinciale
+
+Id est, ut citeriore die reddatur:
+
+23.4.16
+
+Paulus libro 35 ad edictum
+
+Ut autem longiore die solvatur dos, convenire non potest, non magis quam ne omnino reddatur.
+
+23.4.17
+
+Proculus libro 11 epistularum
+
+Atilicinus Proculo suo salutem. Cum inter virum et uxorem pactum conventum ante nuptias factum sit, ut quibus diebus dos data esset, isdem divortio facto redderetur, post quinquennium quam nuptiae factae sunt uxor viro dotem dedit: divortio facto quaero, utrum quinquennii die vir uxori dotem redderet an statuto legibus tempore. Proculus respondit: quod ad diem reddendae dotis attinet, pacto existimo meliorem condicionem mulieris fieri posse, deteriorem non posse: itaque si cautum est, ut propiore tempore, quam legibus constitutum est, reddatur, stari eo debere, si ut longiore, nec valere id pactum conventum. Cuius sententiae conveniens est dicere, si pacto convento cautum est, ut quanto serius quaeque et post nuptias data fuerit, tanto post divortium reddatur, si propiore, quam in reddenda dote constitutum est, data sit, valere pactum conventum, si longiore, non valere.
+
+23.4.18
+
+Iulianus libro 18 digestorum
+
+Licet manente matrimonio non possit inter virum et uxorem conveniri, ut longiore dos reddatur, post divortium tamen si iusta causa conventionis fuerit, custodiri id pactum debet.
+
+23.4.19
+
+Alfenus libro tertio  a Paulo epitomarum
+
+Aliud est, si pater pro filia dotem promisit, ut annua bima trima quadrima quinto anno dos a se redderetur, et convenit, ut isdem diebus dos soluto matrimonio redderetur: hoc enim pactum ita valet, si patri filia heres exstitisset et interveniente ea pactum conventum fuerit.
+
+23.4.20
+
+Paulus libro 35 ad edictum
+
+pr. Ob res quoque donatas vel amotas vel impensas factas tunc facta pactio valebit, id est post divortium.
+
+1. Si extraneus de suo daturus sit dotem, quidquid vult pacisci et ignorante muliere, sicut et stipulari potest: legem enim suae rei dicit: postquam vero dederit, pacisci consentiente muliere debet.
+
+2. Si convenerit, ne a muliere neve a patre dos petatur, heres non habebit exceptionem. Sed si convenerit, ne manente matrimonio vivo patre petatur, mortuo patre statim exigitur, et, si non petierit maritus, tenebitur huius culpae nomine, si dos exigi potuerit: nisi forte ante diremptum sit matrimonium, quam facultatem petendi haberet.
+
+23.4.21
+
+Iulianus libro 17 digestorum
+
+Si mulier dotis causa promiserit certam summam et pro ea mancipia in dotem dederit ea condicione, ut periculo eius essent et si quid ex his natum esset ad eam pertineat, stari pacto convento oportebit: nam constat posse inter uxorem et virum conveniri, ut dos, quae in pecunia numerata esset, permutaretur et transferatur in corpora, cum mulieri prodest.
+
+23.4.22
+
+Iulianus libro secundo ad Urseium Ferocem
+
+Quidam fundum dotis causa ab uxore sua acceperat interque eos convenerat, ut mercedes eius fundi vir uxori annui nomine daret: deinde eum fundum vir matri [marti] mulieris certa pensione colendum locaverat eaque, cum mercedes eius fundi deberet, decesserat et filiam suam solam heredem reliquerat et divortium factum erat: vir deinde petebat a muliere mercedes, quas mater debuerat. Placuit exceptionem mulieri dari non debere "ac si inter se et virum non convenisset, ut hae mercedes sibi alimentorum nomine darentur", cum futurum sit, ut quodammodo donationes inter virum et uxorem confirmentur: nam quod annui nomine datur, species est donationis.
+
+23.4.23
+
+Africanus libro septimo quaestionum
+
+Pater cum filiae suae nomine dotem daret, pactus est, ut mortua filia uno pluribusve liberis superstitibus deducta parte tertia reliqua dos sibi aut post mortem suam illi aut illi filiis quos in potestate habebat reddatur: deinde haec ita fieri stipulatus est: post mortem eius mulier in matrimonio decesserat relictis filiis: quaesitum est, an ex stipulatione duas partes illi petere possint. Respondi posse: etenim vim eius stipulationis hanc esse, ut, si in matrimonio mortua esset, dos patri redderetur, et perinde habendum, ac si talis stipulatio interposita fuisset: "Si navis ex Asia venerit, mihi aut post mortem meam Lucio Titio dari spondes?" Nam et si post mortem stipulatoris navis venisset, heredi deberi.
+
+23.4.24
+
+Florentinus libro tertio institutionum
+
+Si inter virum et uxorem pactum est, ut certa pars dotis vel tota ob unum vel plures liberos intervenientes retineatur, etiam eorum liberorum nomine, qui ante nati sunt, quam dos daretur aut amplietur, conventio rata est: nam sufficit eos ex eo matrimonio nasci, in quo dos data est.
+
+23.4.25
+
+Ulpianus libro primo responsorum
+
+Quod de reddenda dote, si data fuisset, mortua in matrimonio filia convenit, idem de non petenda quoque videri convenisse ac patrem pacti conventi exceptionem nanctum ad heredem suum transmisisse.
+
+23.4.26
+
+Papinianus libro quarto responsorum
+
+pr. Inter socerum et generum convenit, ut, si filia mortua superstitem anniculum filium habuisset, dos ad virum pertineret: quod si vivente matre filius obisset, vir dotis portionem uxore in matrimonio defuncta retineret. Mulier naufragio cum anniculo filio periit. Quia verisimile videbatur ante matrem infantem perisse, virum partem dotis retinere placuit.
+
+1. Vir dotem, quam ex pacto filiae nomine retinere potuit, si lapsus errore non retinuit, filiam, quae patris sola, matri pro parte heres exstiterit, apud arbitrum divisionis non improbe dotis perperam a patre solutae praeceptionem desiderare constitit.
+
+2. Cum inter patrem et generum convenit, ut in matrimonio sine liberis defuncta filia dos patri restituatur, id actum inter contrahentes intellegi debet, ut liberis superstitibus filia defuncta dos retineatur, nec separabitur portio dotis additamenti causa data, si postea nihil aliud conveniat.
+
+3. Convenit, ut mulier viri sumptibus quoquo iret veheretur, atque ideo mulier pactum ad litteras viri secuta provinciam, in qua centurio merebat, petit. Non servata fide conventionis licet directa actio nulla competit, utilis tamen in factum danda est.
+
+4. Filia cum pro se dotem promitteret, pepigit, ut, si in matrimonio sine liberis decessisset, matri suae dos solvatur. Pacto filiae nulla matri quaeritur actio: si tamen heres puellae matri pecuniam dotis solverit, viro contra placita petenti dotem obstabit exceptio.
+
+5. Pater, si filia nupta mortem obisset, dotem dari stipulatus est: constante matrimonio capitali crimine damnatus est. Divortio secuto vel morte viri soluto matrimonio stipulationis condicio deficit: quod si mulier in matrimonio decesserit, ex stipulato fisco dotis actio quaereretur: post verum autem divortium renovatis nuptiis non committitur fisco stipulatio, licet defuncta sit in matrimonio filia, quoniam ad primas nuptias pertinet.
+
+23.4.27
+
+Papinianus libro primo definitionum
+
+Si liberis sublatis reversa post iurgium per dissimulationem mulier veluti venali concordio ne dotata sit conveniat, conventio secundum ordinem rei gestae moribus improbanda est.
+
+23.4.28
+
+Paulus libro quinto quaestionum
+
+Quaeris, si pacta sit mulier vel ante nuptias vel post nuptias, ut ex fundi fructibus quem dedit in dotem creditor mulieris dimittatur, an valeat pactum? Dico, si ante nuptias id convenerit, valere pactum eoque modo minorem dotem constitutam: post nuptias vero cum onera matrimonii fructus relevaturi sunt, iam de suo maritus paciscitur ut dimittat creditorem, et erit mera donatio.
+
+23.4.29
+
+Scaevola libro secundo responsorum
+
+pr. Cum maritus, qui aestimata praedia in dotem acceperat, manente matrimonio pactus est circumscribendae mulieris gratia, ut praedia inaestimata essent, ut sine periculo suo ea deteriora faceret: quaesitum est, an secundum priores dotales tabulas praedia aestimata remanerent et periculum eorum ad maritum pertineret. Respondi non idcirco pactum de quo quaereretur impediri, quod in matrimonio factum esset, si deteriore loco dos non esset: nihilo minus eo pacto admisso, si deteriora praedia faceret, eo etiam nomine dotis eum actione teneri.
+
+1. Titius mulieris nomine dotem dedit et stipulatus est in casum mortis et divortii: divortio secuto non repetita dote Titius decessit: mulier ex voluntate heredis eius redintegravit matrimonium: quaesitum est, an ex stipulatu dotem petere possit. Respondi heredem Titii, si consensisset, ut ea quantitas, quam ex stipulatu consequi potuerat, dotis reconciliato matrimonio fieret, posse pacti exceptione summoveri.
+
+2. Mulier de dote quam dedit pacta est, ut, si in matrimonio decessisset, fratri eius redderetur isque in eum casum stipulatus est: mulier decedens quasdam res dotales marito legavit et aliis, quosdam ex servis dotalibus manumisit. Quaesitum est, an maritus earum nomine, quas legavit mulier, et servorum, quos manumisit, fratri tenetur. Respondi nihil proponi, cur non teneretur, cum et iam heredes defunctae tam legatariis quam libertatibus obnoxii sint.
+
+23.4.30
+
+Tryphoninus libro decimo disputationum
+
+Baebius Marcellus Baebio Marullo dotis filiae suae nomine centena promiserat et convenerat inter eos, ne ea dos constante matrimonio peteretur, vel si post mortem patris in matrimonio sine liberis filia decessisset, ut dimidia dos apud Marullum remaneret, dimidia fratri mulieris restitueretur: eaque etiam in stipulationem deducta erant. Mortuo Marcello, filio et filia superstitibus, dote universa filiae praelegata Marullus nata filia diverterat et mulier decesserat fratre suo et filia ex partibus aequis heredibus relictis. Apud Petronium Magnum praetorem Marullus ab herede filio Marcelli ex dotis promissione universam dotem petebat illa coniectura, quasi inter duos placuisset nullo filiorum exstante mortua muliere partem dotis remanere apud maritum, magis convenisset utique totam eius esse dotem, si filium filiamve habuisset. Ex diverso respondebatur pacti quidem vulgaris exceptionem etiam heredi proficere: sed in specie, quae proponitur, non quasi heres mulieris ex persona defunctae se exceptione pacti tuebitur, sed ipse erat ille, qui etiam viva muliere, si ab eo dos peteretur, potuisset ea exceptione Marullum, quia divortium factum erat, summovere, eandemque defensionem etiam post mortem sororis suae retinebat. Itaque placuit eum ab ea petitione absolvi nulla ex hac sententia facta derogatione fideicommissi petitioni, quam iure hereditario per filiam heres uxoris Marullus in parte dimidia habebat.
+
+23.4.31
+
+Scaevola libro tertio quaestionum
+
+Si inter virum et uxorem convenit, ut extremi anni matrimonii fructus nondum percepti mulieris lucro fiant, huiusmodi pactum valet.
+
+23.4.32
+
+Iavolenus libro sexto ex posterioribus Labeonis
+
+pr. Uxor viro fundum aestimatum centum in dotem dederat, deinde cum viro pactum conventum fecerat, ut divortio facto eodem pretio uxori vir fundum restitueret: postea volente uxore vir eum fundum ducentorum vendiderat, et divortium erat factum. Labeo putat viro potestatem fieri debere, utrum velit ducenta vel fundum reddere, neque ei pactum conventum remitti oportere. Idcirco puto hoc Labeonem respondisse, quoniam voluntate mulieris fundus veniit: alioquin omnimodo fundus erat restituendus.
+
+1. Si pater filiae nomine certam pecuniam in dotem promiserat et pactus est, ne invitus eam solveret: nihil ab eo exigendum puto, quia id, quod pacto convento ne invitus exigeretur convenerit, in dotis causam esse non videretur.
+
+
+* 23.5.0. De fundo dotali.
+
+
+23.5.1
+
+Paulus libro 36 ad edictum
+
+pr. Interdum lex Iulia de fundo dotali cessat: si ob id, quod maritus damni infecti non cavebat, missus sit vicinus in possessionem dotalis praedii, deinde iussus sit possidere: hic enim dominus vicinus fit, quia haec alienatio non est voluntaria.
+
+1. Sed et per universitatem transit praedium, secundum quod possibile est, ad alterum, veluti ad heredem mariti, cum suo tamen iure, ut alienari non possit.
+
+23.5.2
+
+Ulpianus libro quinto de adulteriis
+
+Si maritus fuerit in servitutem redactus, an dominus alienare hunc fundum non possit? Quod puto esse verius. Quare et si ad fiscum pervenerit, nihilo minus venditio fundi impeditur, quamvis fiscus semper idoneus successor sit et solvendo.
+
+23.5.3
+
+Paulus libro 36 ad edictum
+
+pr. Fundus dotali servo legatus ad legem Iuliam pertinet quasi dotalis.
+
+1. Totiens autem non potest alienari fundus, quotiens mulieri actio de dote competit aut omnimodo competitura est.
+
+23.5.4
+
+Gaius libro 11 ad edictum provinciale
+
+Lex Iulia, quae de dotali praedio prospexit ne id marito liceat obligare aut alienare, plenius interpretanda est, ut etiam de sponso idem iuris sit quod de marito.
+
+23.5.5
+
+Ulpianus libro secundo de omnibus tribunalibus
+
+Iulianus libro sexto decimo digestorum scripsit neque servitutes fundo debitas posse maritum remittere neque ei alias imponere.
+
+23.5.6
+
+Ulpianus libro quinto de adulteriis
+
+Sed nec libertas servitutis urbano praedio dotali debitae competit, ne per hoc deterior condicio praedii fiat.
+
+23.5.7
+
+Iulianus libro 16 digestorum
+
+pr. Si maritus fundum Titii servientem dotali praedio adquisierit, servitus confunditur et hoc casu maritus litis aestimationem praestabit: quod si maritus solvendo non erit, utiles actiones adversus Titium mulieri ad restaurandam servitutem dantur.
+
+1. Sed cum uxor fundum cui praedia viri servitutem debebant in dotem dat, fundus ad maritum pervenit amissa servitute et ideo non potest videri per maritum ius fundi deterius factum. Quid ergo est? Officio de dote iudicantis continebitur, ut redintegrata servitute iubeat fundum mulieri vel heredi eius reddi.
+
+23.5.8
+
+Alfenus libro tertio a Paulo epitomarum
+
+Vir in fundo dotali uxoris rogatu olivetum succiderat ad hoc, ut novellum reponeret: postea vir mortuus erat et uxori dotem relegaverat. Ligna, quae ex oliveto excisa essent, oportere mulieri reddi respondit.
+
+23.5.9
+
+Africanus libro octavo quaestionum
+
+pr. Si marito debitori fundi id quod debet doti mulier promiserit, dotalem fundum effici.
+
+1. Quod si ei promittat, qui fundum aut decem debuit, in arbitrio esse mariti, quid in dote sit.
+
+2. Quod si Stichum aut fundum debuit maritus et quod debet, doti ei promissum sit, Sticho mortuo fundum in dotem esse.
+
+3. His consequens esse ait, ut, si Cornelianum aut Sempronianum fundum debenti id quod debet doti promissum sit, utrum eorum dotalem esse malit. Plane utrum velit, alienaturum: alterum alienari non posse. Si tamen alienum rursus redimat, adhuc in eius potestate est, an eum, quem retinuisset, alienari velit.
+
+23.5.10
+
+Paulus libro quinto quaestionum
+
+Erit ergo potestas legis ambulatoria, quia dotalis fuit obligatio. Numquid ergo etiam illo nondum redempto alterum quoque alienare possit, quia potest alterum redimere? An hoc non debet recipi, ut nullus in dote sit? Certe ex post facto videbitur recte alienatus illo postea redempto.
+
+23.5.11
+
+Africanus libro octavo quaestionum
+
+Quod si fundus in dotem aestimatus datus sit, ut electio esset mulieris, negavit alienari fundum posse: quod si arbitrio mariti sit, contra esse.
+
+23.5.12
+
+Papinianus libro primo de adulteriis
+
+pr. Etiam si dirempto matrimonio dotale praedium esse intellegitur.
+
+1. Soceri voluntas in distrahendo dotali praedio nulla est.
+
+23.5.13
+
+Ulpianus libro quinto de adulteriis
+
+pr. Dotale praedium accipere debemus tam urbanum quam rusticum: ad omne enim aedificium lex Iulia pertinebit.
+
+1. Praedii appellatione etiam pars continetur. Proinde sive totum praedium in dotem sit datum sive pars praedii, alienari non poterit: et hoc iure utimur.
+
+2. Dotale praedium sic accipimus, cum dominium marito quaesitum est, ut tunc demum alienatio prohibeatur.
+
+3. Heredi quoque mulieris idem auxilium praestabitur, quod mulieri praestabatur.
+
+4. Si uxore herede instituta fundus dotalis fuerit legatus, si quidem deductis legatis mulier quantitatem dotis in hereditatem habitura est, valet legatum, si minus, an non valeat, quaeritur. Scaevola, et si non totus, sed vel aliqua pars ex eo vindicari possit, si modo aliqua pars ad dotem supplendam desit, id dumtaxat ex eo remanere apud mulierem ait, quod quantitati dotis deest.
+
+23.5.14
+
+Paulus libro tertio de adulteriis
+
+pr. Si nuptura Titio voluntate eius fundum dotis nomine Maevio tradit, dos eius condicionis erit, cuius esset, si ipsi Titio fundum tradidisset.
+
+1. Si mulieris nomine quis fundum in dotem dederit, dotalis fundus erit: propter uxorem enim videtur is fundus ad maritum pervenisse.
+
+2. Si fundum alienum mulieri debeat maritus eumque mulier ei dotis nomine promiserit, in pendenti erit et tunc fiet dotalis, cum ad eum pervenerit.
+
+3. Si fundum legatum sibi dotis causa mulier repudiaverit vel etiam substituto viro omiserit hereditatem vel legatum, erit fundus dotalis.
+
+23.5.15
+
+Papinianus libro tertio responsorum
+
+Dotale praedium, cuius vir possessionem retinuit post litteras ad uxorem emissas, quibus dotis non fore praedium declaravit, in matrimonio defuncta muliere virum retinere placuit, quia mulier actionem ex pacto non habuit.
+
+23.5.16
+
+Tryphoninus libro 11 disputationum
+
+Si fundum, quem Titius possidebat bona fide longi temporis possessione poterat sibi quaerere, mulier ut suum marito dedit in dotem eumque petere neglexerit vir, cum id facere posset, rem periculi sui fecit: nam licet lex Iulia, quae vetat fundum dotalem alienari, pertineat etiam ad huiusmodi adquisitionem, non tamen interpellat eam possessionem, quae per longum tempus fit, si ante, quam constitueretur dotalis fundus, iam coeperat. Plane si paucissimi dies ad perficiendam longi temporis possessionem superfuerunt, nihil erit, quod imputabitur marito.
+
+23.5.17
+
+Marcianus libro septimo digestorum
+
+Fundum dotalem maritus vendidit et tradidit: si in matrimonio mulier decesserit et dos lucro mariti cessit, fundus emptori avelli non potest.
+
+23.5.18
+
+Iavolenus libro sexto ex posterioribus Labeonis
+
+pr. Vir in fundo dotali lapidicinas marmoreas aperuerat: divortio facto quaeritur, marmor quod caesum neque exportatum esset cuius esset et impensam in lapidicinas factam mulier an vir praestare deberet. Labeo marmor viri esse ait: ceterum viro negat quidquam praestandum esse a muliere, quia nec necessaria ea impensa esset et fundus deterior esset factus. Ego non tantum necessarias, sed etiam utiles impensas praestandas a muliere existimo nec puto fundum deteriorem esse, si tales sunt lapidicinae, in quibus lapis crescere possit.
+
+1. Si per mulierem mora fieret, quo minus aestimationem partis fundi viro solveret et fundum reciperet, cum hoc pactum erat: fructus interim perceptos ad virum pertinere ait Labeo. Puto potius pro portione fructus virum habiturum, reliquos mulieri restituturum: quo iure utimur.
