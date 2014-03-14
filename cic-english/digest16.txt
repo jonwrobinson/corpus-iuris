@@ -1,43 +1,37 @@
 BOOK XVI.
 
-TITLE I. ON THE VELLEIAN DECREE OF THE SENATE .........................
-272
-
-TITLE II. CONCERNING SET-OFF
-............................................. 284
-
-TITLE III. CONCERNING THE DIRECT AND CONTRARY ACTIONS ON DEPOSIT........
-288
-
+** TITLE I. ON THE VELLEIAN DECREE OF THE SENATE
+** TITLE II. CONCERNING SET-OFF
+** TITLE III. CONCERNING THE DIRECT AND CONTRARY ACTIONS ON DEPOSIT
 
 
 THE DIGEST OR PANDECTS. BOOK XVI.
 
-TITLE I. ON THE VELLEIAN DECREE OF THE SENATE.
+* TITLE I. ON THE VELLEIAN DECREE OF THE SENATE.
 
-\1. *Paulus, On the Edict, Book XXX.*
+1. *Paulus, On the Edict, Book XXX.*
 
 The Velleian Decree of the Senate very fully provides that women cannot
 become sureties for anyone.
 
-\(1) For as, by our customs, women are deprived of civil office and very
+(1) For as, by our customs, women are deprived of civil office and very
 many things which they do are void by mere operation of law, much more
 should they be deprived of the power to perform an act in which not only
 their services and the mere employment of the same are involved, but
 also the risk of their entire private property.
 
-\(2) It seems to be just to come to the relief of a woman in this
+(2) It seems to be just to come to the relief of a woman in this
 manner, so that an action should be granted against an old debtor, or
 against a party who had rendered a woman liable in his behalf, for the
 reason that he, rather than the creditor, had taken advantage of her.
 
-\2. *Ulpianus, On the Edict, Book XXIX.*
+2. *Ulpianus, On the Edict, Book XXIX.*
 
 In the first place, during the reign of the Divine Augustus, and
 subsequently during that of Claudius, it was forbidden by Imperial
 Edicts that women should become sureties for their husbands.
 
-\(1) Afterwards, a Decree of the Senate was enacted by which relief was
+(1) Afterwards, a Decree of the Senate was enacted by which relief was
 granted in the most perfect manner to all women. The terms of this
 Decree of the Senate are as follows: "Whereas, Marcus Silanus and
 Velleius Tutor, Consuls, have made statements concerning the obligations
@@ -54,13 +48,13 @@ properly and in conformity with the established mode of procedure, and
 exert themselves so that the will of the Senate with respect to this
 matter may be observed."
 
-\(2) Therefore, let us examine the terms of this Decree of the Senate,
+(2) Therefore, let us examine the terms of this Decree of the Senate,
 after having previously eulogized the forethought of this most
 distinguished body of men which has brought relief to women on account
 of the weakness of their sex, in many supposed, as well as actual
 instances.
 
-\(3) Relief is only granted to them, however, where they have not been
+(3) Relief is only granted to them, however, where they have not been
 guilty of deceit, and this the Divine Pius and Severus stated in a
 Rescript, for assistance is rendered to those who have been deceived,
 but not to such as are guilty of fraud; and this is set forth in the
@@ -69,18 +63,18 @@ Decree of the Senate is not for the purpose of aiding women who are
 guilty of deception, for it is the infirmity of women, and not their
 cunning, that deserves assistance.
 
-\(4) Every kind of obligation is included in the Velleian Decree of the
+(4) Every kind of obligation is included in the Velleian Decree of the
 Senate, whether women have rendered themselves liable verbally, by the
 delivery of property, or by any other contract whatsoever.
 
-\(5) Where a woman even appears voluntarily in defence of anyone, there
+(5) Where a woman even appears voluntarily in defence of anyone, there
 is no doubt that she binds herself in his favor, for she assumes the
 obligation of another, since she exposes herself to have judgment
 rendered against him in a matter of this kind. Hence a woman is not
 permitted to undertake the defence of her husband, her child, or her
 father.
 
-\3. *Paulus, On the Edict, Book XXX.*
+3. *Paulus, On the Edict, Book XXX.*
 
 Where, however, a woman appears for the defence of a party who, if he
 has judgment rendered against him, will have recourse against her, (as,
@@ -88,14 +82,14 @@ for instance, where she appears in defence of the vendor of an estate
 which she has sold to him or to a surety of hers) she is not held to
 have bound herself in his behalf.
 
-\4. *Ulpianus, On the Edict, Book XXIX.*
+4. *Ulpianus, On the Edict, Book XXIX.*
 
 If, however, I make a contract in the beginning, when I am ignorant for
 whom she wishes this to be done, the Decree of the Senate undoubtedly
 will not apply; and this the Divine Pius and our present Emperor stated
 in a Rescript.
 
-\(1) Hence, if when she wished to make a gift to Titius, she borrowed a
+(1) Hence, if when she wished to make a gift to Titius, she borrowed a
 sum of money from me, and gave it to Titius, the Decree of the Senate
 will not apply; but if she was about to give it to you, and pays the
 money to your creditor, she does not bind herself, for the Senate
@@ -103,7 +97,7 @@ intended to give relief to a woman who had obligated herself, and not to
 one who had made a donation; and this was done for the reason that a
 woman incurs an obligation with more facility than she makes donations.
 
-\5. *Gaius, On the Provincial Edict, Book IX.*
+5. *Gaius, On the Provincial Edict, Book IX.*
 
 It makes no difference whether the woman has paid the money for the
 purpose of discharging the debt, or has given in payment any of her
@@ -113,7 +107,7 @@ substituted the purchaser to another creditor, I do not think that the
 Decree of the Senate will be operative, so far as the creditor of
 another party is concerned.
 
-\6. *Ulpianus, On the Edict, Book XXIX.*
+6. *Ulpianus, On the Edict, Book XXIX.*
 
 Where persons bind themselves as sureties in behalf of the defender of a
 son who is absent, by the direction of his mother; the question arises
@@ -126,7 +120,7 @@ who accepted the said sureties was ignorant that the mother directed
 them to assume the obligation, the exception based on the Decree of the
 Senate can be met with a reply on the ground of fraud.
 
-\7. *Papinianus, Questions, Book IX.*
+7. *Papinianus, Questions, Book IX.*
 
 Therefore, although the surety, having filed a replication on the ground
 of fraud, loses the defence based on the exception, he will,
@@ -137,7 +131,7 @@ granted against a defender; because it is established by the Decree of
 the Senate that a proceeding on the ground of mandate is void, and he is
 released by payment of the money by the surety.
 
-\8. *Ulpianus, On the Edict, Book XXIX.*
+8. *Ulpianus, On the Edict, Book XXIX.*
 
 Although the giving of a pledge establishes an obligation, still,
 Julianus states in the Twelfth Book of the Digest that the restoration
@@ -145,13 +139,13 @@ of a pledge does not constitute the giving of security, if a woman, who
 is the creditor, releases to the debtor the property which she received
 in pledge.
 
-\(1) Where a woman appears before the guardians of her son to prevent
+(1) Where a woman appears before the guardians of her son to prevent
 them from selling his land, and promises to indemnify them; Papinianus,
 in the Ninth Book of Questions, does not think that she bound herself as
 surety, for she did not accept either the old or new obligation with
 reference to another, but she herself contracted this obligation.
 
-\(2) Where a woman binds herself to Primus in behalf of Secundus, and
+(2) Where a woman binds herself to Primus in behalf of Secundus, and
 afterwards binds herself in behalf of Primus to his creditor; Julianus
 states in the Twelfth Book of the Digest that she has bound herself
 twice, once for Primus to Secundus, and again for Primus to his
@@ -172,7 +166,7 @@ having judgment rendered against her, or even before this takes place,
 she will certainly be entitled to a personal action against the party by
 whom she has been substituted.
 
-\(3) Sometimes a suit for recovery will lie in favor of a woman who
+(3) Sometimes a suit for recovery will lie in favor of a woman who
 gives security, to recover what she has paid, or if she has not yet paid
 anything, to obtain her release from liability, for example, where,
 having bound herself in violation of the Decree of the Senate, she
@@ -183,25 +177,25 @@ debtor
 
 makes payment.
 
-\(4) But if he who has been substituted by the woman is not indebted to
+(4) But if he who has been substituted by the woman is not indebted to
 her, he can avail himself of the exception based on the Decree of the
 Senate, as he could have done if he had been her surety.
 
-\(5) It is evident that if a woman, being about to bind herself,
+(5) It is evident that if a woman, being about to bind herself,
 substitutes her debtor, the Decree of the Senate will not apply,
 because, even though she paid the money, it will not be applicable; for
 the woman is granted relief by the Decree of the Senate, but does not
 make restitution of property which has been lost.
 
-\(6) If, however, she has substituted some one who was not her debtor, a
+(6) If, however, she has substituted some one who was not her debtor, a
 fraud is held to have been committed against the Decree of the Senate,
 and therefore an exception will be granted.
 
-\(7) Where a woman becomes bound for a debtor, the former action is
+(7) Where a woman becomes bound for a debtor, the former action is
 granted against him, even though he may have been discharged from
 liability by a release before the woman obligated herself.
 
-\(8) Where a creditor has agreed with his debtor that the latter shall
+(8) Where a creditor has agreed with his debtor that the latter shall
 provide some one in his place, and this proposition having been
 accepted, he is thereupon released, and he then gives a woman as surety
 who can have recourse for aid to the Decree of the Senate, a personal
@@ -210,26 +204,26 @@ surety; for what difference is there between not giving any, and giving
 one of this kind? Therefore, a prætorian action will not be necessary,
 since a personal action for recovery will lie.
 
-\(9) Marcellus also states that, if a creditor releases a woman after
+(9) Marcellus also states that, if a creditor releases a woman after
 she has become a surety, an action for restitution should, nevertheless,
 be granted to the creditor, for he has released an obligation which
 
 is void.
 
-\(10) If a woman, after having become a surety, makes payment in such a
+(10) If a woman, after having become a surety, makes payment in such a
 way that she cannot recover, the former debtor can very properly refuse
 to defend an action brought against him; but, as the principal debtor is
 released, and the woman makes payment in such a way that she cannot
 recover, he cannot recover from her either, if he should pay, and the
 creditor should release him in the same manner.
 
-\(11) Although the action is restored against all those who are
+(11) Although the action is restored against all those who are
 released, this is, however, not done in favor of all creditors; as, for
 instance, where there are two creditors who enter into a stipulation,
 and a woman becomes surety to one of them, the obligation is restored in
 the case of him alone to whom she became surety.
 
-\(12) Where a creditor becomes the heir of a woman who has assumed an
+(12) Where a creditor becomes the heir of a woman who has assumed an
 obligation of this kind, it should be considered whether the action for
 restitution will not be available. Julianus says in the Twelfth Book
 that he is, nevertheless, entitled to the action for restitution, and
@@ -237,13 +231,13 @@ this is not unreasonable, as he in fact succeeded to a woman not legally
 bound, and therefore this debt will not be taken into account in the
 administration of the *Lex Falcidia.*
 
-\(13) It is evident that, if you propose to me the case of a woman who
+(13) It is evident that, if you propose to me the case of a woman who
 has succeeded as heir to an original debtor, it must be said that she
 can be sued in an action for restitution as well as in a direct action,
 for it makes no difference whatever under which action proceedings are
 brought.
 
-\(14) If, when I am about to make a contract with you, a woman appears,
+(14) If, when I am about to make a contract with you, a woman appears,
 and I prefer to make a contract with her, she is held to have
 
 bound herself as surety, and, in this instance, an action will be
@@ -253,7 +247,7 @@ same kind of an obligation as that by which the woman is bound; for
 example, if the woman is bound by a stipulation, you also can be sued as
 under a stipulation.
 
-\(15) It should be considered whether, if a woman offered herself as a
+(15) It should be considered whether, if a woman offered herself as a
 surety for a party who was not bound when a contract was made with him,
 he should be liable to this action; as, for instance, where a woman
 became surety for a ward without the sanction of his guardian. I think
@@ -264,20 +258,20 @@ while a son under paternal control, he entered into a contract in
 violation of the Decree of the Senate, he will be entitled to the same
 privilege.
 
-\9. *Paulus, Rules, Book VI.*
+9. *Paulus, Rules, Book VI.*
 
 Where a woman becomes surety for the slave of another, the action will
 be restored against the master, just as it would have been against the
 head of the family as the principal debtor.
 
-\10. *Ulpianus, On the Edict, Book XXIX.*
+10. *Ulpianus, On the Edict, Book XXIX.*
 
 These actions which are granted against those in whose behalf a woman
 has become surety, and against their heirs, are perpetual; for they have
 in view the recovery of the property, and they will be granted also in
 favor of prætorian successors as well as against them.
 
-\11. *Paulus, On the Edict, Book XXX.*
+11. *Paulus, On the Edict, Book XXX.*
 
 Where a woman borrows money under the pretext of using it for her own
 purposes, but in fact with the intention of lending it to another; there
@@ -285,12 +279,12 @@ is no ground for the application of the Decree of the Senate, otherwise,
 no one would contract with women, because he would be ignorant what
 their intentions were.
 
-\12. *The Same, Abridgments, Book VI.*
+12. *The Same, Abridgments, Book VI.*
 
 The Decree of the Senate will, however, certainly be operative when the
 creditor is aware that the woman has become a surety.
 
-\13. *Gaius, On the Provincial Edict, Book IX.*
+13. *Gaius, On the Provincial Edict, Book IX.*
 
 Sometimes, although a woman may have assumed an obligation in behalf of
 another, she is not assisted by this Decree of the Senate, which happens
@@ -302,13 +296,13 @@ assumes the very obligation which the debtor owes; or where a woman
 purchases an estate, and assumes the debts of the estate herself, or
 where she becomes the guarantor of her own surety.
 
-\(1) A creditor has no need of a new action with reference to the
+(1) A creditor has no need of a new action with reference to the
 pledges of a former debtor, as the Servian Action (which is also
 designated the hypothecary action) is available in instances of this
 kind; since it is true that an agreement has been made with reference to
 pledges, and that the money has not been paid.
 
-\(2) If a woman appears as surety for another party under a certain
+(2) If a woman appears as surety for another party under a certain
 condition, or with reference to a certain time; while the condition is
 pending, an action for restitution should be granted to the creditor
 against the former debtor, if he wishes it; for what advantage will it
@@ -316,7 +310,7 @@ be to wait for the fulfillment of the condition, or for the expiration
 of the time, since the former debtor is in such a position that he must,
 by all means, defend the action brought against him?
 
-\14. *Julianus, Digest, Book XII.*
+14. *Julianus, Digest, Book XII.*
 
 Where a woman has become surety for another in violation of the Decree
 of the Senate, it is but just that the action should be restored for the
@@ -325,7 +319,7 @@ against his sureties; for when the responsibility of the woman was taken
 away from the creditor on account of the Decree of the Senate, the
 former cause of action should be restored unimpaired.
 
-\15. *The Same, Digest, Book XV.*
+15. *The Same, Digest, Book XV.*
 
 Where I pay a woman what I owe you, and I stipulate with her that you
 will ratify her act, and you do not do so; I can institute proceedings
@@ -337,7 +331,7 @@ the debt, and she herself profits by the transaction; and she may rather
 be held to have returned what was not due, than to have paid it out in
 behalf of another.
 
-\16. *The Same, On Urseius Ferox, Book IV.*
+16. *The Same, On Urseius Ferox, Book IV.*
 
 If a woman has become surety for me to Titius, in violation of the
 Velleian Decree of the Senate, and Titius sues her for the money
@@ -346,7 +340,7 @@ which I have paid her, she cannot avail herself of the exception based
 on the Decree of the Senate, for she was in no danger of losing the
 money, since she already has it in her possession.
 
-\(1) If I have accepted a surety for a woman who has bound herself in
+(1) If I have accepted a surety for a woman who has bound herself in
 violation of the Decree of the Senate, Gaius Cassius answered that an
 exception should be granted to the said surety, only to the extent that
 the woman had asked him to be responsible for her.
@@ -357,7 +351,7 @@ mandate against the woman; for the reason that the Senate disapproves of
 the entire obligation, and the liability of the former debtor to the
 creditor is reestablished by the Prætor.
 
-\17. *Africanus, Questions, Book IV.*
+17. *Africanus, Questions, Book IV.*
 
 A husband, desiring to make a present to his wife, sold her property at
 a very low price, and substituted her for that price to one of his
@@ -373,7 +367,7 @@ anyone contracts with a woman in the first place, or transfers the
 obligation of another to her, for then the creditor should be more
 diligent.
 
-\(1) If a woman should say that she had received certain property in
+(1) If a woman should say that she had received certain property in
 pledge to secure her dowry as well as the payment of a sum of money, and
 a creditor who was about to take the same property in pledge, should see
 that the dowry was paid, and, being in possession, opposes her when she
@@ -383,7 +377,7 @@ Senate, will be of no advantage to the woman, unless the creditor was
 aware that other money, exclusive of that of the dowry, was also due to
 her.
 
-\(2) A woman and Titius borrowed money for the purpose of *expending *it
+(2) A woman and Titius borrowed money for the purpose of *expending *it
 upon property belonging to them in common, and they became joint-debtors
 for the said money. I said that the woman could not, by any means, be
 held to have given security for the share of her partner; for if they
@@ -399,12 +393,12 @@ the entire amount, he
 
 would be barred by an exception with reference to a portion of the same.
 
-\18. *Paulus, On Plautius, Book VIII.*
+18. *Paulus, On Plautius, Book VIII.*
 
 The same rule applies where Titius and the woman become sureties, as two
 debtors, for my debtor.
 
-\19. *Africanus, Questions, Book IV.*
+19. *Africanus, Questions, Book IV.*
 
 The guardian of a ward died after having appointed Titius his heir. The
 latter hesitated to accept the estate, because the guardianship was
@@ -417,7 +411,7 @@ denied that an exception based on the Decree of the Senate would be
 available, for it is scarcely to be supposed that any woman would become
 surety for a party in his presence.
 
-\(1) A proposition not unlike the one above mentioned was proposed,
+(1) A proposition not unlike the one above mentioned was proposed,
 namely: A certain man of Prætorian rank died leaving two sons, one of
 whom had not arrived at puberty, and the other who was the legal
 guardian of the first. The former wished to reject his father's estate,
@@ -429,7 +423,7 @@ had had judgment rendered against him in a case brought by the ward on
 this account; and that he would not have been prevented by the Decree of
 the Senate from recovering damages from the woman.
 
-\(2) In this connection, the following point should be discussed, that
+(2) In this connection, the following point should be discussed, that
 is, if he who had entered upon the estate by the direction of the woman,
 suffers any loss because the debtors of the estate are insolvent, would
 the Decree of the Senate be applicable, since the woman had, to a
@@ -440,19 +434,19 @@ be available on this ground, since she did not intend to become surety
 for them, but her intention was to guarantee the guardian against the
 ward, and perhaps the estate against other creditors.
 
-\(3) Finally, if we suppose that the woman suffered some loss on account
+(3) Finally, if we suppose that the woman suffered some loss on account
 of the purchase of the estate, because the debtors of the same were not
 solvent; I do not think that there can be any doubt that the Decree of
 the Senate will not apply, even though she was obliged to pay a certain
 amount to the creditors.
 
-\(4) But what if Titius should hesitate to enter upon the estate,
+(4) But what if Titius should hesitate to enter upon the estate,
 because the obligations of the debtors seem to be of doubtful value; and
 the woman promised that she, herself, would make good whatever he failed
 to collect from any of said debtors? It is probable that, in this
 instance, she has become liable.
 
-\(5) You have Titius for your debtor, and the woman desires to become
+(5) You have Titius for your debtor, and the woman desires to become
 surety for him, and you did not accept her on account of the
 
 Decree of the Senate; whereupon she applied to me for the purpose of
@@ -488,24 +482,24 @@ is made, the woman is not bound; but in the case stated she transfers
 the obligation of another to herself, which it is certain the Senate did
 not wish to be done.
 
-\20. *The Same, Questions, Book VIII.*
+20. *The Same, Questions, Book VIII.*
 
 If a woman becomes surety for one debtor, where there are two, the
 action is restored to the creditor as against both.
 
-\21. *Callistratus, Institutes, Book III.*
+21. *Callistratus, Institutes, Book III.*
 
 Where a woman becomes surety for another party, and what has been paid
 is employed for her benefit, the exception based on the Decree of the
 Senate will not apply, because she has suffered no loss.
 
-\(1) Likewise, a woman will not be protected by the Decree of the
+(1) Likewise, a woman will not be protected by the Decree of the
 Senate, if she has committed a generous act; as, for instance, where she
 binds herself for her father to prevent his being annoyed by the payment
 of a judgment which has been rendered against him, for the Senate gives
 relief to the burdens of such persons.
 
-\22. *Paulus, Rules, Book VI.*
+22. *Paulus, Rules, Book VI.*
 
 If I give money to a woman in order that she may pay my creditor, or she
 promises to pay the debt; Pomponius states that where she makes such a
@@ -514,7 +508,7 @@ promise the Decree of the Senate will not be available,
 because she has rendered herself liable to an action on mandate, and is
 held to have bound herself with reference to her own affairs.
 
-\23. *The Same, On the Velleian Decree of the Senate.*
+23. *The Same, On the Velleian Decree of the Senate.*
 
 Where a woman interrogated in court answered that she was the heir, and
 she did so well knowing that she was not the heir; she will, by no
@@ -524,41 +518,41 @@ deceived as to this, answered in this way; many authorities are of the
 opinion that an action will be granted against her, but that she can
 have recourse to an exception based on the Decree of the Senate.
 
-\24. *The Same, Concerning the Obligations Contracted by Women for
+24. *The Same, Concerning the Obligations Contracted by Women for
 Others.*
 
 Where a woman who was substituted as a debtor by a creditor, made a
 promise in behalf of the party for whom she was substituted, she cannot
 avail herself of an exception,
 
-\(1) But if she promised to pay money in order to avoid being
+(1) But if she promised to pay money in order to avoid being
 substituted, she is held to have obligated herself, and can do so.
 
-\(2) In a case where the benefit of the Decree of the Senate is
+(2) In a case where the benefit of the Decree of the Senate is
 available, the question arises whether an action will lie against the
 former debtor at the time when the woman obligated herself, or whether
 the latter can bring suit for the recovery of what was paid? I think
 that this can be done at once, and that it is not necessary to wait for
 payment.
 
-\(3) Where a woman binds herself for a party who was liable to an action
+(3) Where a woman binds herself for a party who was liable to an action
 limited by time, this temporary action will be restored to the creditor,
 so that the time will run after the date of the restitution of the
 action growing out of the preceding circumstances, although he could
 have availed himself of it at the very instant that the woman became
 surety.
 
-\25. *Modestinus, On Undertakings.*
+25. *Modestinus, On Undertakings.*
 
 Where a woman orders credit to be given to her slave, she will be liable
 to a prætorian action.
 
-\(1) If she has given security for him, and suit has been brought
+(1) If she has given security for him, and suit has been brought
 against her, she can protect herself by means of the exception under the
 Velleian Decree of the Senate, unless she did this on account of some
 affair of her own.
 
-\26. *Ulpianus, On the Edict, Book XXXVII.*
+26. *Ulpianus, On the Edict, Book XXXVII.*
 
 Where a woman, with the intention of obligating herself for another,
 states in court that the slave of someone else belongs to her, she can
@@ -567,7 +561,7 @@ having bound herself for another. It is evident that if she made this
 answer with reference to one who was serving her as a slave in good
 faith, she will not be considered to have bound herself for another.
 
-\27. *Papinianus, Opinions, Book III.*
+27. *Papinianus, Opinions, Book III.*
 
 Where a party having made a contract with a woman in good faith proceeds
 against her because the money which he borrowed has been
@@ -575,7 +569,7 @@ against her because the money which he borrowed has been
 employed in transactions between husband and wife; he will not be barred
 by an exception based on the Decree of the Senate.
 
-\(1) Where slaves who have been appointed for the transaction of
+(1) Where slaves who have been appointed for the transaction of
 business, in contracting with another, bring suit against a woman whose
 obligation they think to be valid, an exception based on the Decree of
 the Senate will bar their owner; nor will the position of the latter be
@@ -583,13 +577,13 @@ held to be prejudiced by the act of the slave, for nothing has been
 obtained by the owner, any more than when a slave buys land which is in
 litigation, or a man who is free.
 
-\(2) A wife substituted another woman as her debtor to her husband, and
+(2) A wife substituted another woman as her debtor to her husband, and
 the husband paid the money to her creditor. If she guaranteed the
 solvency of the woman who was substituted to her husband, the exception
 based on the Decree of the Senate will not be available, because the
 woman is transacting her own business.
 
-\28. *Scævola, Opinions, Book I.*
+28. *Scævola, Opinions, Book I.*
 
 Seia bought some slaves, and having borrowed money with her husband as
 surety, paid the vendor. Her husband afterwards died insolvent, and, for
@@ -607,7 +601,7 @@ Senate. I answered that, if Numerius was aware that she had obligated
 herself for another, the Decree of the Senate would apply in the case
 stated.
 
-\29. *Paulus, Opinions, Book XVI.*
+29. *Paulus, Opinions, Book XVI.*
 
 *A* certain man wished to contract with the heirs of Lucius Titius and
 to lend them money, but as he suspected that they were not solvent, he
@@ -627,12 +621,12 @@ action against the principal creditors, for the purpose of relieving the
 woman from responsibility, as well as against the property which had
 been encumbered by them to her.
 
-\(1) Paulus states that everything which can be proved to have been
+(1) Paulus states that everything which can be proved to have been
 planned to evade the provisions of the Decree of the Senate enacted with
 reference to the obligations incurred by women for others, should not be
 considered valid.
 
-\30. *The Same, Sentences, Book II.*
+30. *The Same, Sentences, Book II.*
 
 Where a woman becomes surety for another with the intention to deceive,
 or when she knew that she could not be held liable, an exception based
@@ -640,19 +634,19 @@ on the Decree of the Senate will not be granted her; for the most Noble
 Order of the Senate does not exclude the action which will lie on
 account of fraud committed by a woman.
 
-\(1) If an agent obligates himself for another by the direction of a
+(1) If an agent obligates himself for another by the direction of a
 woman, he can have recourse to the exception based on the Velleian
 Decree of the Senate, lest, otherwise, the right of action may be
 extinguished.
 
-\31. *The Same, On Neratius, Book I.*
+31. *The Same, On Neratius, Book I.*
 
 Paulus says if a woman does not wish to recover what she paid on account
 of her becoming bound to another, but prefers to bring an action on
 mandate, and to reimburse herself for indemnifying the debtor, she
 should be heard.
 
-\32. *Pomponius, Decrees of the Senate, Book I.*
+32. *Pomponius, Decrees of the Senate, Book I.*
 
 Where a woman enters upon the estate of anyone in order to assume
 payment of the debts due from it, it will be difficult for her to obtain
@@ -661,7 +655,7 @@ for a woman ought not to be considered as, in every respect, occupying
 the position of a minor under twenty-five years of age who has been
 overreached.
 
-\(1) When a woman wishes to recover property given in pledge by her at
+(1) When a woman wishes to recover property given in pledge by her at
 the time she became surety for another, she should also receive the
 crops and the offspring of slaves, and, if the property has been
 deteriorated, a larger sum should be paid on this account. Where,
@@ -671,7 +665,7 @@ think that an action should be granted to her, even against a purchaser
 in good faith; because the position of a purchaser should not be better
 than that of the vendor.
 
-\(2) Likewise, if a woman sells a tract of land to the creditor of her
+(2) Likewise, if a woman sells a tract of land to the creditor of her
 husband, and delivers it on condition that the purchaser will apply the
 money received to the payment of her husband's debt, and she brings suit
 to recover said land, she can be met by an exception on the ground of
@@ -684,7 +678,7 @@ may be deprived of it in this manner. The same rule applies where the
 woman has transferred her property, not in behalf of her husband, but in
 behalf of some other debtor.
 
-\(3) Where a woman, to avoid binding herself for another, directs a
+(3) Where a woman, to avoid binding herself for another, directs a
 third party to do this for her, will the Decree of the Senate apply to
 this person who has acted at the request of the woman? The entire
 substance of the Decree of the Senate has reference to the denial of the
@@ -699,35 +693,35 @@ but I should be aware of them, then, if I bring an action on mandate
 against the woman, I will be barred, but I will still be liable to the
 creditor.
 
-\(4) Where a woman is ready to join issue in behalf of the party for
+(4) Where a woman is ready to join issue in behalf of the party for
 whom she obligated herself, in order that an action may not be granted
 against the first debtor, as she can plead the exception based on the
 Decree of the Senate, she must give security that she will not avail
 herself of the exception, and then proceed to trial.
 
-\(5) A woman is also understood to bind herself for another, even when
+(5) A woman is also understood to bind herself for another, even when
 she does this for one who cannot be bound; as, for instance, where she
 obligates herself for a slave belonging to another, but her obligation
 will be extinguished if the action should be restored against the master
 of the slave.
 
-TITLE II. CONCERNING SET-OFF.
+* TITLE II. Concerning Set-Off.
 
-\1. *Modestinus, Pandects, Book VI.*
+1. *Modestinus, Pandects, Book VI.*
 
 Set-off is a contribution made between a debt and a credit.
 
-\2. *Julianus, Digest, Book XC.*
+2. *Julianus, Digest, Book XC.*
 
 Any one can bar his creditor, who is also his debtor, when he brings an
 action against him if he is prepared to set off his claim.
 
-\3. *Pomponius, On Sabinus, Book XXV.*
+3. *Pomponius, On Sabinus, Book XXV.*
 
 Set-off is therefore necessary, because it is more to our interest not
 to pay, than to bring an action to recover what has been paid.
 
-\4. *Paulus, On Sabinus, Book III.*
+4. *Paulus, On Sabinus, Book III.*
 
 The opinion of Neratius, which is also held by Pomponius, is correct,
 namely: that what the principal debtor can retain as set-off the surety
@@ -737,7 +731,7 @@ not proceed properly, and thus the security is not liable in strict law
 for a larger amount than the principal debtor can be compelled to pay as
 a judgment.
 
-\5. *Gaius, On the Provincial Edict, Book IX.*
+5. *Gaius, On the Provincial Edict, Book IX.*
 
 Where a claim is demanded from a surety, it is perfectly just for the
 latter to choose whether he prefers to set off what is due to himself
@@ -745,17 +739,17 @@ latter to choose whether he prefers to set off what is due to himself
 or what is due to the principal debtor. He should also be heard if he
 wishes to make a set-off against the claims of both,
 
-\6. *Ulpianus, On Sabinus, Book XXX.*
+6. *Ulpianus, On Sabinus, Book XXX.*
 
 Whatever is due in consequence of a natural obligation can also become
 the subject of set-off.
 
-\7. *The Same, On the Edict, Book XXVIII.*
+7. *The Same, On the Edict, Book XXVIII.*
 
 What is due at a certain time cannot be set off before the time arrives,
 even though it may be necessary for it to be paid.
 
-\(1) Where the judge does not consider the set-off, the right of action
+(1) Where the judge does not consider the set-off, the right of action
 is saved to the creditor, for an exception based on the ground of a
 decision rendered cannot be interposed.
 
@@ -763,28 +757,28 @@ I hold that the case is different if the judge has refused to consider
 the set-off on the ground that no debt existed; for then an exception
 based on a decision rendered will prejudice my case.
 
-\8. *Gaius, On the Provincial Edict, Book IX.*
+8. *Gaius, On the Provincial Edict, Book IX.*
 
 That also is included in a set-off for the recovery of which suit has
 already been brought against the plaintiff, in order to prevent the
 condition of the more diligent party from becoming worse if the set-off
 should be refused him.
 
-\9. *Paulus, On the Edict, Book XXXII.*
+9. *Paulus, On the Edict, Book XXXII.*
 
 Where a partnership has been contracted with a son under paternal
 control or a slave, and the father or the master brings suit, we include
 the whole amount in a set-off; although if we should bring suit, only
 that which has reference to the *peculium* must be made good.
 
-\(1) But where suit is brought against a son under paternal control, the
+(1) But where suit is brought against a son under paternal control, the
 question arises whether the son can, by way of set-off, claim, what is
 owing to the father? It is better to hold that he can, because there is
 only one contract, but this should be done under the condition that he
 gives security that his father will ratify his act, that is to say, that
 he will not, in the future demand what his son has set off.
 
-\10. *Ulpianus, On the Edict, Book LXIII.*
+10. *Ulpianus, On the Edict, Book LXIII.*
 
 Where two of us, being partners, have been guilty of the same negligence
 in matters affecting the partnership, it must be said that we cease to
@@ -796,31 +790,31 @@ estimated at the same amount, set-off is held to have taken place, as
 well as the release of liability of both parties to one another by
 operation of law.
 
-\(1) Therefore, where anyone, being able to make a set-off pays, he can
+(1) Therefore, where anyone, being able to make a set-off pays, he can
 bring suit to recover the money as having been paid when it was
 
 not due.
 
-\(2) Whenever a right of action arises from a breach of the law, as, for
+(2) Whenever a right of action arises from a breach of the law, as, for
 instance, from theft and other offences, if only a suit involving
 
 money is brought, a set-off can be admitted. The same rule applies where
 an action is brought for the recovery of stolen property. But if a party
 is sued in a noxal action, he can claim a set-off.
 
-\(3) Set-off can also take place in stipulations which resemble certain
+(3) Set-off can also take place in stipulations which resemble certain
 forms of action, that is to say, prætorian ones; and, according to
 Julianus, set-off can be claimed as well with reference to a stipulation
 itself, as in the action based upon it.
 
-\11. *The Same, On the Edict, Book XXXII.*
+11. *The Same, On the Edict, Book XXXII.*
 
 When one party owes another a sum of money without interest, and the
 latter owes the other a sum bearing interest; it was decreed by the
 Divine Severus that interest was not due on the sums owed to one another
 by the two parties respectively.
 
-\12. *The Same, On the Edict, Book LXIV.*
+12. *The Same, On the Edict, Book LXIV.*
 
 This law is applicable not only to the affairs of private individuals,
 but also those connected with the Treasury. Where, however, the money
@@ -828,18 +822,18 @@ borrowed by the parties from one another bears interest, but the
 interest is at different rates, a set-off can, nevertheless, take place
 with reference to the sums due to the parties respectively.
 
-\13. *The Same, On the Edict, Book LXVI.*
+13. *The Same, On the Edict, Book LXVI.*
 
 Labeo says, and not without reason, that where a set-off is expressly
 intended to be made against a certain claim, opposition should not be
 made to its application to other claims.
 
-\14. *Javolenus, On Cassius, Book XV.*
+14. *Javolenus, On Cassius, Book XV.*
 
 Any claim that can be destroyed by an exception cannot be included in a
 set-off.
 
-\15. *The Same, Epistles, Book II.*
+15. *The Same, Epistles, Book II.*
 
 I stipulated for a certain sum of money to be paid by Titius at a
 certain place, he demands of me a sum of money which I owe him; I ask
@@ -851,14 +845,14 @@ done with reference to his case also, that is to say, the interest
 Titius had in having the sum of money owing to him paid in a place
 agreed upon must be taken into consideration.
 
-\16. *Papinianus, Questions, Book III.*
+16. *Papinianus, Questions, Book III.*
 
 Where a soldier has two heirs, one of whom inherits his *peculium
 castrense*, and the other the remainder of his property, a party who is
 indebted to one of the heirs, who wishes to set off what is due to him
 from the other, shall not be heard.
 
-\(1) Where a party against whom judgment has been rendered in favor of
+(1) Where a party against whom judgment has been rendered in favor of
 Titius, brings an action against the same Titius within the time granted
 for the execution of the judgment, who, himself, had previously had
 judgment rendered against him in favor of the other
@@ -867,24 +861,24 @@ party, set-off will be admitted; for it is one thing for the day of the
 obligation not to arrive, and another to grant time for payment through
 motives of humanity.
 
-\17. *The Same, Opinions, Book I.*
+17. *The Same, Opinions, Book I.*
 
 An ædile, who has had judgment rendered against him because he
 distributed a smaller supply of provisions during his term of office
 than he should have done, cannot be held to be a debtor for money spent
 for grain; he will therefore be entitled to set-off.
 
-\18. *The Same, Opinions, Book III.*
+18. *The Same, Opinions, Book III.*
 
 Where an agent is appointed to conduct his own case in court, and, after
 issue has been joined, suit is brought against him for a loan, he will
 justly be entitled to a set-off.
 
-\(1) A creditor is not obliged to set off what he owes to anyone else
+(1) A creditor is not obliged to set off what he owes to anyone else
 than his debtor, even though the creditor of him in whose behalf the
 party is sued for his own debt may desire to make use of a set-off.
 
-\19. *The Same, Opinions, Book XI.*
+19. *The Same, Opinions, Book XI.*
 
 Where a debtor who has paid a tax to a public slave, but without the
 consent of those to whom he should properly have paid the debt, the
@@ -892,14 +886,14 @@ former obligation will continue to be in force; but a set-off will be
 granted to the extent of the *peculium* which the public slave has in
 his possession.
 
-\20. *The Same, Opinions, Book XIII.*
+20. *The Same, Opinions, Book XIII.*
 
 Where a person having charge of furnishing supplies to troops in an
 expedition, has judgment rendered against him on this account, it is
 held that he cannot retain the money by the right of set-off, as it is
 not subject to it.
 
-\21. *Paulus, Questions, Book I.*
+21. *Paulus, Questions, Book I.*
 
 Since it has generally been held that what persons owe one another is
 set off by mere operation of law, if the agent of a person who is absent
@@ -907,29 +901,27 @@ is sued, he need not give security that his act will be ratified,
 because nothing can be set off, but a smaller sum can be demanded from
 him in the beginning.
 
-\22. *Scævola, Questions, Book II.*
+22. *Scævola, Questions, Book II.*
 
 If you owe anyone ten thousand sesterces or a slave, whichever he may
 choose, set-off of the debt will be admitted, if he states openly which
 he prefers.
 
-\23. *Paulus, Opinions, Book IX.*
+23. *Paulus, Opinions, Book IX.*
 
 Where a guardian makes a demand in the name of his wards for what is due
 to them, the debtor cannot ask that his debt be set-off against one that
 the guardian himself owes him.
 
-\24. *The Same, Decrees, Book III.*
+24. *The Same, Decrees, Book III.*
 
 The Emperor ordered that a party should be heard who desired to prove
 that an amount was owing to him from the Treasury equal to that for
 which he himself was sued.
 
-TITLE III.
+* TITLE III. Concerning the Direct and Contrary Actions On Deposit.
 
-CONCERNING THE DIRECT AND CONTRARY ACTIONS ON DEPOSIT.
-
-\1. *Ulpianus, On the Edict, Book XXX.*
+1. *Ulpianus, On the Edict, Book XXX.*
 
 A deposit is what is given to another for safe-keeping. It is derived
 from the word *ponere*, to place, and the preposition *de* adds to the
@@ -937,7 +929,7 @@ meaning of the term, and indicates that everything which pertains to the
 safe-keeping of the article in question is entrusted to the good faith
 of the party.
 
-\(1) The Prætor says: "Where property has been deposited, I will grant
+(1) The Prætor says: "Where property has been deposited, I will grant
 an action for simple damages, for any other cause than a tumult, a fire,
 the ruin of a building, or a shipwreck. I will grant one for double
 damages against the depositary in those cases which are mentioned above.
@@ -946,17 +938,17 @@ alleged to have been guilty of bad faith with reference to the property
 deposited, and I will grant an action for double damages where the heir
 himself has been guilty of fraud."
 
-\(2) The Prætor, very properly placed by themselves those cases of
+(2) The Prætor, very properly placed by themselves those cases of
 deposit which result from necessity occasioned by accidental
 circumstances, and which do not depend upon the will of the party making
 the same.
 
-\(3) A person is understood to have made a deposit on account of a
+(3) A person is understood to have made a deposit on account of a
 tumult, or of a fire, or for other causes, when he has no other reason
 to make it than the imminent danger arising from the above mentioned
 catastrophes.
 
-\(4) This distinction of causes is reasonable, since when anyone relies
+(4) This distinction of causes is reasonable, since when anyone relies
 upon the faith of the depositary, and the deposit is not returned, he
 should be content with an action for the mere recovery of the property,
 or its value. When, however, he makes a deposit through necessity, the
@@ -964,27 +956,27 @@ crime of perfidy increases in its seriousness, and the public welfare
 demands retribution, for it is injurious to violate a trust in cases of
 this kind.
 
-\(5) The accessories to property which is deposited are not included;
+(5) The accessories to property which is deposited are not included;
 as, for instance, where a slave who is clothed is deposited this does
 not apply to his garments, nor is a halter deposited with a horse, for
 the horse alone is deposited.
 
-\(6) If it is agreed upon that the party shall be responsible for
+(6) If it is agreed upon that the party shall be responsible for
 negligence with reference to the deposit, the agreement is valid, for
 the law of contracts depends upon the agreement.
 
-\(7) It will not be held that damage resulting from fraud shall not be
+(7) It will not be held that damage resulting from fraud shall not be
 made good, even if this should be agreed upon; for a contract of this
 kind is contrary to good faith and good morals, and therefore should not
 be observed.
 
-\(8) Where clothing given to the keeper of a bath to be taken care of is
+(8) Where clothing given to the keeper of a bath to be taken care of is
 lost, if he received no compensation for the care of it, I am of the
 opinion that he will be liable for the deposit only where he has been
 guilty of bad faith; but if he received compensation, an action can be
 brought against him on the ground of hiring.
 
-\(9) Where anyone compels a slave, who has been entrusted to him for
+(9) Where anyone compels a slave, who has been entrusted to him for
 safe-keeping, to work in a mill, and he receives any remuneration for
 guarding him, I think that an action on hiring will lie against the
 miller. If, however, I myself received pay for the slave whom the miller
@@ -996,7 +988,7 @@ If, however, the party furnished the slave nothing else but food, and no
 agreement was made with reference to his labor, an action on deposit
 will lie.
 
-\(10) In leasing and hiring, and in matters in which an action should be
+(10) In leasing and hiring, and in matters in which an action should be
 granted on the terms of the contract, the parties who received the slave
 will be responsible for fraud and negligence; but, if they only
 furnished him with food, they will merely be responsible for fraud,
@@ -1005,7 +997,7 @@ upon, provided we know what it is; and if anything was prescribed, the
 parties who received the slave will only be responsible for any fraud
 which is involved in the deposit.
 
-\(11) If I request you to take some article of mine to Titius, in order
+(11) If I request you to take some article of mine to Titius, in order
 that he may take care of it; Pomponius asks by what action I can
 institute proceedings against you? He thinks that I would be entitled to
 an action on mandate against you, but to one on deposit against the
@@ -1014,22 +1006,21 @@ name, you and he will be liable to me in an action on mandate, and he
 will be liable to you in an action on deposit, and this right of action
 you can assign to me when I sue you on mandate.
 
-\(12) Where I have given you any property on condition that you will
+(12) Where I have given you any property on condition that you will
 take care of it if Titius should not be willing to receive it, and he
 does not receive it; it should be considered whether merely an action on
 deposit, or also one on mandate will lie. Pomponius is in doubt on this
 point, but I think that an action on mandate will lie, because the
 mandate is of greater scope with reference to the condition of safe
-
 custody.
 
-\(13) Pomponius also asks if I direct you to keep safely some property
+(13) Pomponius also asks if I direct you to keep safely some property
 received from another in my name, and you should do this, will you be
 liable to an action on mandate, or to one on deposit? He rather holds
 that there should be an action on mandate, because this is the first
 contract.
 
-\(14) Pomponius also asks, where you are willing for me to make a
+(14) Pomponius also asks, where you are willing for me to make a
 deposit with you, and you direct it to be made with your freedman,
 whether I can proceed against you by an action on deposit? He says if I
 had deposited the property in your name, that is to say, with the
@@ -1049,7 +1040,7 @@ ward, or should die without leaving an heir, a possessor of, or a
 successor to his estate? He will, therefore, be liable to make good what
 is customary in an action on deposit.
 
-\(15) The question arises whether an action on deposit can be granted
+(15) The question arises whether an action on deposit can be granted
 against a ward with whom a deposit has been made without the authority
 of his guardian? It must be held that he can bring an action on the
 ground of fraud, if the deposit was made with him when he was old enough
@@ -1057,31 +1048,31 @@ to be guilty of the offence, for an action will be granted against him
 for the amount by which he would have been pecuniarily benefited if he
 had not been guilty of fraud.
 
-\(16) Where the property deposited is returned in a deteriorated
+(16) Where the property deposited is returned in a deteriorated
 condition, an action on deposit can be granted, just as if it had not
 been returned at all; for when property is returned in a worse condition
 than it was in the first place, it can be said that it has not been
 returned at all on account of fraud.
 
-\(17) If my slave has made a deposit, I will, nevertheless, be entitled
+(17) If my slave has made a deposit, I will, nevertheless, be entitled
 to an action on deposit.
 
-\(18) If I make a deposit with a slave, and bring suit against him after
+(18) If I make a deposit with a slave, and bring suit against him after
 he has been manumitted, Marcellus says that the action will not lie;
 although we are accustomed to hold that anyone should be liable for
 fraud committed even in servitude, because both crimes and damages
 follow the person of the guilty, and therefore, in this instance
 recourse must be had to other actions which can be brought.
 
-\(19) This action will lie in favor of the possessor of property and
+(19) This action will lie in favor of the possessor of property and
 other possessors, as well as in favor of him to whom restitution of an
 estate is granted under the Trebellian Decree of the Senate.
 
-\(20) Not only is fraud previously committed involved in an action on
+(20) Not only is fraud previously committed involved in an action on
 deposit, but also that which may be committed subsequently, that is to
 say, after issue has been joined.
 
-\(21) Hence, Neratius states that if property which has been deposited
+(21) Hence, Neratius states that if property which has been deposited
 is lost without fraudulent contrivance, and is recovered after issue has
 been joined, the defendant will nevertheless, properly be required to
 make restitution, and that he should not be released from liability
@@ -1095,11 +1086,10 @@ against you, you should be condemned unless you do so, because the
 property is in your hands; for inquiry should then be made whether you
 acted in bad faith since you did not have the property.
 
-\(22) It is stated by Julianus in the Thirteenth Book of the Digest,
+(22) It is stated by Julianus in the Thirteenth Book of the Digest,
 that anyone who deposits property can immediately bring an action on
 deposit, since he who received it is guilty of an act of bad faith
 because
-
 he does not return it when demanded. Marcellus, however, stated that he
 who does not return it to the person who claims it, cannot always be
 held to have acted fraudulently; for what if the property was in the
@@ -1107,46 +1097,44 @@ province, or in a warehouse which could not be opened at the time
 judgment was rendered, or the condition upon which the deposit depended
 had not been fulfilled?
 
-\(23) There is no doubt that this action is a *bona-fide* one.
+(23) There is no doubt that this action is a *bona-fide* one.
 
-\(24) And, for this reason, the crops, all accessories, and the yield of
+(24) And, for this reason, the crops, all accessories, and the yield of
 flocks should be embraced in this action, lest only the bare article
 itself should be included.
 
-\(25) If you sold the property which was deposited, and you subsequently
+(25) If you sold the property which was deposited, and you subsequently
 purchased it on account of the deposit, even if it should afterwards be
 destroyed without bad faith on your part, you will be liable for the
 deposit, because you once acted fraudulently when you sold the
-
 property.
 
-\(26) In an action on deposit also, a judicial oath is taken with
+(26) In an action on deposit also, a judicial oath is taken with
 reference to the value of the property.
 
-\(27) It seems to be perfectly just that I should be granted this
+(27) It seems to be perfectly just that I should be granted this
 action, not only if my slave, but if one who is serving me as a slave in
 good faith, deposited the property, if he deposited it as belonging to
-
 me.
 
-\(28) In like manner, I can bring this action if I have an usufruct in a
+(28) In like manner, I can bring this action if I have an usufruct in a
 slave, and what he deposited was part of his *peculium*, which belonged
 to me or was my property.
 
-\(29) Moreover, if a slave belonging to an estate makes a deposit, the
+(29) Moreover, if a slave belonging to an estate makes a deposit, the
 heir, who afterwards enters upon the estate, can bring the action.
 
-\(30) Where a slave makes a deposit, whether he lives or dies, the
+(30) Where a slave makes a deposit, whether he lives or dies, the
 master can properly bring this action; if, however, the slave is
 manumitted he cannot bring it. But if the slave should be alienated, he
 who owned him at the time when the deposit was made will still have a
 right of action, for the beginning of the contract must be taken into
 account.
 
-\(31) Where a slave belonging to two parties makes a deposit, each of
+(31) Where a slave belonging to two parties makes a deposit, each of
 his masters can bring an action on deposit for his share.
 
-\(32) If you restore property to Titius which has been deposited with
+(32) If you restore property to Titius which has been deposited with
 you by a slave of whom you thought Titius to be the master, when he was
 not; you will not be liable to an action on deposit, so Celsus says,
 because there is no fraud on your part; but the master of the slave can
@@ -1154,21 +1142,16 @@ bring an action against Titius to whom the property was delivered. If he
 produces the property, it can be recovered by an action, but if he used
 it up when he knew it belonged to someone else, judgment will be
 rendered against him, because he acted fraudulently to avoid remaining
-
 in possession.
 
-\(33) The following question is very appropriately asked by Julianus. If
+(33) The following question is very appropriately asked by Julianus. If
 a servant deposited money with me in order for me to pay it to his
 master for his freedom, and I paid the money, will I be liable to an
 action on deposit? He states in the Thirteenth Book of the Digest that
 if I pay money in this manner which was, as it were, deposited with me
-for this purpose, and I notify you of the fact, you will not be
-
-. entitled to an action on deposit, because you, knowing the fact,
+for this purpose, and I notify you of the fact, you will not be. entitled to an action on deposit, because you, knowing the fact,
 received the money, and therefore I have not been guilty of fraud; but
-if
-
-I pay the money, as if it was mine, for the purpose of obtaining the
+if I pay the money, as if it was mine, for the purpose of obtaining the
 freedom of the slave, I will be liable.
 
 This opinion appears to me to be correct; for, in this instance, not
@@ -1176,18 +1159,18 @@ only did the depositary not restore the property without bad faith, but
 he did not restore it at all, for it is one thing to restore it, and
 another to pay it out as if it was one's own.
 
-\(34) Where money has been deposited with you with the understanding
+(34) Where money has been deposited with you with the understanding
 that you can use it, if you think best, you will be liable to an action
 on deposit before you make use of it.
 
-\(35) It frequently happens that property or money which is deposited,
+(35) It frequently happens that property or money which is deposited,
 is left at the risk of the party to whom it is entrusted, for example,
 where the parties have especially agreed to this. Julianus states,
 however, that if anyone has offered himself as a depositary, he assures
 the risk of the deposit, so that he must be responsible not only for
 fraud, but also for negligence and safe-keeping, but not for accidents.
 
-\(36) Where money is deposited in a bag which is sealed, and one of the
+(36) Where money is deposited in a bag which is sealed, and one of the
 heirs of the person who made the deposit appears and claims it; it
 should be considered in what way the depositary must satisfy him. The
 money ought to be taken out of the bag either in the presence of the
@@ -1207,7 +1190,7 @@ proper security that he will be responsible for all above his share; but
 where security is not furnished, the depositary should place the
 property in a temple, and be released from liability to any action.
 
-\(37) Another example is given by Julianus in the Thirteenth Book of the
+(37) Another example is given by Julianus in the Thirteenth Book of the
 Digest. He says that if the depositor dies, and two persons appear
 disputing with each other, each one asserting that he is the sole heir,
 the property should be delivered to him who is ready to defend it
@@ -1218,34 +1201,28 @@ to undertake the defence. Therefore, it is necessary for the property to
 be deposited in some temple until the right to the estate is judicially
 decided.
 
-\(38) Where anyone, in the presence of several persons reads a will
+(38) Where anyone, in the presence of several persons reads a will
 which has been deposited with him, Labeo says that an action on deposit
 can properly be brought against him on account of the will; but I am of
-the opinion that an action for injury can also be brought, if the con-
-
-tents of the will were read in the presence of those parties with the
+the opinion that an action for injury can also be brought, if the contents of the will were read in the presence of those parties with the
 intention that the secret provisions made by the testator should be -
-
 divulged.
 
-\(39) If a depredator or a thief makes a deposit, Marcellus states in
+(39) If a depredator or a thief makes a deposit, Marcellus states in
 the Sixth Book of the Digest that either of them will lawfully be
 entitled to an action on deposit; for it is to his interest to have it,
-because
+because he may be held liable.
 
-he may be held liable.
-
-\(40) Where anyone demands a deposit of gold or silver should the
+(40) Where anyone demands a deposit of gold or silver should the
 article only be designated or should the weight also be included? The
 better opinion is that both should be included; as, for instance, the
 dish, or cup, or bowl should be mentioned, and the material and weight
 should be added. Where, however, the article is purple which has not
 been used, or wool, the weight should in like manner be added; except
 where uncertainty exists as to the amount of the weight, and recourse
-
 is had to an oath.
 
-\(41) Where a chest which has been sealed is deposited, but the chest
+(41) Where a chest which has been sealed is deposited, but the chest
 alone is claimed, should its contents be included? Trebatius says that
 the chest can be claimed, and that an action should not be brought for
 the individual articles of the deposit; but if the property is first
@@ -1257,10 +1234,9 @@ who received the deposit was ignorant that the property was there? It
 does not make much difference, since he received the deposit; and I
 think that an action can be brought for the property forming the
 deposit, even though the chest was sealed when placed in the hands of
-
 the depositary.
 
-\(42) It is established that a son under paternal control is liable for
+(42) It is established that a son under paternal control is liable for
 a deposit, because he is liable to other actions; but suit can also be
 brought against his father, but only with reference to the son's
 *peculium.* The same rule applies to a slave, for he can be sued along
@@ -1271,7 +1247,7 @@ has been committed by him under whose authority they are, or by the
 parties with whom the contract was made, their bad faith may become
 apparent.
 
-\(43) Where property is deposited with two persons, an action can be
+(43) Where property is deposited with two persons, an action can be
 brought against either of them, nor will one of them be released if suit
 is brought against the other, for they are discharged from liability not
 by the choice of the depositor but by payment. Hence, if both are guilty
@@ -1284,23 +1260,23 @@ The same rule applies where one of them was not guilty of fraud, and
 therefore was discharged, for, in this instance, recourse can be had to
 the other.
 
-\(44) Where, however, two parties made a deposit, and both of them bring
+(44) Where, however, two parties made a deposit, and both of them bring
 suit, if, indeed, they made the deposit with the understanding that one
 could remove all of it, he can bring an action for the entire amount;
 but if the understanding was that only the share in which each of them
 was interested could be removed by him, then it must be said that
 judgment should be rendered against a depositary for the share of each.
 
-\(45) If I make a deposit with you with the understanding that it shall
+(45) If I make a deposit with you with the understanding that it shall
 be returned after your death, I can bring an action on deposit against
 you, and against your heir, for I can change my mind, and claim the
 deposit before your death.
 
-\(46) Hence, if I make a deposit with you to be returned after my death,
+(46) Hence, if I make a deposit with you to be returned after my death,
 both I and my heir can bring an action on deposit, if I have changed my
 mind.
 
-\(47) For the reason that only bad faith is involved in this proceeding,
+(47) For the reason that only bad faith is involved in this proceeding,
 the question arose whether, if the heir sold the property deposited with
 the testator or lent to him for use, he being ignorant that the said
 property had been deposited or lent, will he be liable. For the reason
@@ -1310,13 +1286,13 @@ which came into his hands? The better opinion is that he will be liable,
 for he was guilty of bad faith in not giving up what came into his
 hands.
 
-\2. *Paulus, On the Edict, Book XXXI.*
+2. *Paulus, On the Edict, Book XXXI.*
 
 But what if he had not yet collected the purchase-money, or had sold the
 property for a smaller sum than he should have done? He must only assign
 his rights of action.
 
-\3. *Ulpianus, On the Edict, Book XXXI.*
+3. *Ulpianus, On the Edict, Book XXXI.*
 
 It is clear that, if he could buy the property back, and return it, and
 does not wish to do so, he is not free from negligence; just as if he
@@ -1324,13 +1300,13 @@ was unwilling to return it if it had been bought back or had come into
 his possession in any other way, alleging as an excuse that he sold it
 once while ignorant of the facts.
 
-\4. *Paulus, On Plautius, Book V.*
+4. *Paulus, On Plautius, Book V.*
 
 Even if the person is not the heir, but thinks that he is, and sells the
 property, the profit he has obtained must be wrested from him in the
 same way.
 
-\5. *Ulpianus, On the Edict, Book XXX.*
+5. *Ulpianus, On the Edict, Book XXX.*
 
 The counter action of deposit is granted in favor of the party with whom
 the deposit is alleged to have been made, and in this action it is not
@@ -1338,16 +1314,15 @@ necessary for an oath to be taken as to the amount; for proceedings are
 instituted, not on account of broken faith, but in order that the party
 who received the deposit may be indemnified.
 
-\(1) An action on deposit can be brought against a sequestrator, if,
+(1) An action on deposit can be brought against a sequestrator, if,
 however, an agreement is made with the latter that he should produce the
 property deposited, at a certain place, and he does not do so, it is
-
 clear that he will be liable. But, if the agreement had reference to
 several places, it is in his discretion at which of them he will produce
 it, ' but where no agreement was made, he must be notified to produce
 the property before the Prætor.
 
-\(2) If the sequestrator wishes to relinquish his office, what course
+(2) If the sequestrator wishes to relinquish his office, what course
 must be taken? Pomponius says that he must appear before the Prætor and
 having with his consent notified the parties who selected him, he must
 return the property to the one who appeared.
@@ -1360,13 +1335,13 @@ permitted, the property should be very rarely restored to the party who
 appears, but it ought to be deposited in some temple in accordance with
 the decision of a court.
 
-\6. *Paulus, On the Edict, Book II.*
+6. *Paulus, On the Edict, Book II.*
 
 A deposit is properly made with a sequestrator which is delivered in its
 entirety by several persons, to be kept safely and returned under a
 certain condition.
 
-\7. *Ulpianus, On the Edict, Book XXX.*
+7. *Ulpianus, On the Edict, Book XXX.*
 
 Where a slave is deposited with a sequestrator in order that he may be
 put to the torture, and because of his being chained or confined in an
@@ -1376,7 +1351,7 @@ purpose for which the slave was destined, he displayed his compassion at
 an improper time, since he should rather not have undertaken such a task
 than to have been guilty of deceit.
 
-\(1) The action on deposit is granted for the whole amount against an
+(1) The action on deposit is granted for the whole amount against an
 heir on account of the bad faith of the deceased, for even though we are
 not usually liable for the fraudulent act of a deceased person, except
 with reference to that portion of the estate which comes into our hands;
@@ -1385,7 +1360,7 @@ gives rise to an action to recover the property, and therefore a single
 heir will be liable for the entire amount, but where there are several
 heirs, each one will be liable for his share.
 
-\(2) Whenever bankers become bankrupt, the accounts of the depositors
+(2) Whenever bankers become bankrupt, the accounts of the depositors
 must, in the first place, be considered; that is to say, those of such
 as have money on deposit which they have not placed at interest with the
 said bankers, or left with them to make use of. Therefore, if the
@@ -1394,14 +1369,13 @@ their money before the privileged creditors; but this will only be done
 where the parties have not afterwards received interest, as they will be
 considered to have renounced their deposits.
 
-\(3) The question also arises whether the order in which the parties
+(3) The question also arises whether the order in which the parties
 made their deposits shall be considered, or whether all the deposits
 together shall be taken into account. And it has been established that
-
 they were all on the same footing, for this has been settled by an
 Imperial Rescript.
 
-\8. *Papinianus, Questions, Book IX.*
+8. *Papinianus, Questions, Book IX.*
 
 The depositary can exercise his privilege, not only with reference to
 the remainder of the deposit which may be found among the assets of the
@@ -1411,7 +1385,7 @@ of public utility. It is evident that the expenses necessarily incurred
 are always preferred claims, for, after they have been deducted, it is
 customary to make an appraisement of the property.
 
-\9. *Paulus, On the Edict, Book VII.*
+9. *Paulus, On the Edict, Book VII.*
 
 Where, in the action on deposit, suit is brought against one of several
 heirs on account of an act of the deceased, I must sue him for his share
@@ -1420,12 +1394,12 @@ I do not sue him for a share, this is reasonable, because the measure of
 damages has reference to the act of bad faith which the heir himself
 committed.
 
-\10. *Julianus, On Minicius, Book II.*
+10. *Julianus, On Minicius, Book II.*
 
 The action on deposit does not lie against co-heirs who are not guilty
 of fraud.
 
-\11. *Ulpianus, On Sabinus, Book XLI.*
+11. *Ulpianus, On Sabinus, Book XLI.*
 
 Where a slave makes a deposit, the party with whom it is made is
 authorized by good faith, and most justly, to return the property to the
@@ -1452,15 +1426,14 @@ reasons; for instance, if he returned it not knowing that the slave had
 been manumitted or alienated. Pomponius states that the same rule should
 be observed in the case of all debtors.
 
-\12. *Pomponius, On Sabinus, Book XXII.*
+12. *Pomponius, On Sabinus, Book XXII.*
 
 Where a deposit was made in Asia to be returned at Rome, it is held that
 the intention was that this should be at the expense of the
-
 party who made the deposit, and not at that of him with whom it was.
 placed.
 
-\(1) A deposit should be returned to the place in which it is found,
+(1) A deposit should be returned to the place in which it is found,
 without any fraudulent act of the party with whom the property was
 deposited. It, indeed, makes no difference where the deposit was made.
 The same principles apply generally to all *bona fide* actions. It must
@@ -1468,17 +1441,17 @@ be said, however, that if the plaintiff wishes the property to be
 transported to Rome at his expense and risk, he should be heard; for
 this is also done in the action for production.
 
-\(2) An action on deposit can properly be brought against a
+(2) An action on deposit can properly be brought against a
 sequestrator, and it is also granted against his heir.
 
-\(3) Just as where property which must be delivered in compliance with
+(3) Just as where property which must be delivered in compliance with
 the terms of a stipulation or a will, is destroyed after issue has been
 joined; so, also, a deposit from the day on which it was made will be at
 the risk of the party in whose hands it was placed, if, at the time
 issue was joined, the defendant could have restored it, but did not do
 so.
 
-\13. *Paulus, On Sabinus, Book XXXI.*
+13. *Paulus, On Sabinus, Book XXXI.*
 
 Where a person refuses to return property, not to the owner of the same
 but to someone who demands it, and whom he does not think to be the
@@ -1488,12 +1461,12 @@ claimant had authority, an action can be brought against him, since he
 now begins to be guilty of bad faith, if he refuses to return the
 property.
 
-\(1) A personal action for recovery will also lie on account of property
+(1) A personal action for recovery will also lie on account of property
 deposited, but not before fraud has been committed; for no one is liable
 to a personal action for recovery merely because he has received the
 deposit, but only when he has been guilty of fraud.
 
-\14. *Gaius, On the Provincial Edict, Book IX.*
+14. *Gaius, On the Provincial Edict, Book IX.*
 
 Where there are several heirs of the party who made the deposit it is
 held that if the majority of them appear the property should be returned
@@ -1501,7 +1474,7 @@ to those who are present. The majority should be understood to mean, not
 the larger number of persons, but the greater amount of the shares of
 the estate, and proper security must be furnished.
 
-\(1) Whether proceedings are instituted against him with whom the
+(1) Whether proceedings are instituted against him with whom the
 property was deposited or against his heir, and the property naturally
 perished before a decision is rendered, for instance, if a slave whose
 ownership was in dispute should die; Sabinus and Cassius say that the
@@ -1510,7 +1483,7 @@ because it is only just that the natural loss of the property should be
 borne by the plaintiff, since it would have perished even if it had been
 returned to him.
 
-\15. *Julianus, Digest, Book III.*
+15. *Julianus, Digest, Book III.*
 
 He who allows his own property to be deposited with him or requests
 permission to use it, is not liable to an action on deposit or on one
@@ -1519,7 +1492,7 @@ of loan for use, just as in the case of a party who rents his own
 property, or asks to hold it by sufferance, for he is not liable in
 either instance.
 
-\16. *Africanus, Questions, Book VII.*
+16. *Africanus, Questions, Book VII.*
 
 If he with whom you deposit property makes a deposit of the same with
 another, and the latter is guilty of fraud; he with whom you deposited
@@ -1527,7 +1500,7 @@ the property will be liable for the bad faith of him with whom it was
 subsequently deposited, to the extent that he must assign his rights of
 action to him.
 
-\17. *Florentinus, Institutes, Book VII.*
+17. *Florentinus, Institutes, Book VII.*
 
 It is lawful for several persons, just as it is for one, to make a
 deposit; nevertheless, only several persons can make one with a
@@ -1536,12 +1509,12 @@ therefore, in this instance, each one is held to have made the deposit
 in its entirety. The case is otherwise where several joint-owners
 deposit property held in common.
 
-\(1) Ownership of the article deposited remains with the depositor, as
+(1) Ownership of the article deposited remains with the depositor, as
 well as possession, unless it is deposited with a sequestrator; for then
 the latter has possession; for in making the deposit it is the intention
 that neither shall have possession during the time that it is so held.
 
-\18. *Neratius, Parchments, Book II.*
+18. *Neratius, Parchments, Book II.*
 
 In case a deposit is made on account of a tumult, a fire, the
 destruction of a house, or a shipwreck, the action brought against the
@@ -1550,12 +1523,12 @@ estate, and for simple damages, and it also must be brought within a
 year; but where it is brought against the heir himself it is granted for
 the entire amount, for double damages, and without reference to time.
 
-\19. *Ulpianus, On the Edict, Book XVII.*
+19. *Ulpianus, On the Edict, Book XVII.*
 
 Julianus and Marcellus are of the opinion that a son under paternal
 control can properly bring an action on deposit.
 
-\20. *Paulus, On the Edict, Book XVIII.*
+20. *Paulus, On the Edict, Book XVIII.*
 
 If you, without having been guilty of fraud, have lost property which
 has been deposited with you, you will not be liable to an action on
@@ -1563,20 +1536,19 @@ deposit, nor should you give security to return the property if you
 should again obtain possession of it. If, however, it should come into
 your hands a second time, you will be liable to an action on deposit.
 
-\21. *The Same, On the Edict, Book LX.*
+21. *The Same, On the Edict, Book LX.*
 
 Where property has been deposited with a son under paternal control, and
 he still retains it after having been emancipated, the father cannot be
 sued on the *peculium* within a year, but the son can be.
 
-\(1) Trebatius goes still farther, for he thinks that if the deposit was
+(1) Trebatius goes still farther, for he thinks that if the deposit was
 made with the slave, and he, having been manumitted, retains the
 property, an action should be granted against him, and not against his
-
-master; although an action is not granted against a manumitted person 
+master; although an action is not granted against a manumitted person
 in other cases.
 
-\22. *Marcellus, Digest, Book V.*
+22. *Marcellus, Digest, Book V.*
 
 Where two heirs fraudulently interfere with property which has been
 deposited with the deceased, they will, in some instances, only be
@@ -1595,13 +1567,13 @@ whom suit has been brought cannot be released but must have judgment
 rendered against him, if the property was not restored in proportion of
 the share of the estate to which he was heir.
 
-\23. *Modestinus, Differences, Book II.*
+23. *Modestinus, Differences, Book II.*
 
 Where anyone is sued in an action on deposit, he can properly institute
 proceedings before the same judge on account of food which has been
 furnished a slave.
 
-\24. *Papinianus, Questions, Book IX.*
+24. *Papinianus, Questions, Book IX.*
 
 Lucius Titius to Sempronius Greeting: "I notify you by this letter
 written by my own hand, that the hundred pieces of money which you
@@ -1628,20 +1600,20 @@ money, is in default in returning it. If, however, the agreement was
 that interest should be paid from the beginning, the condition of the
 contract shall be observed.
 
-\25. *The Same, Opinions, Book III.*
+25. *The Same, Opinions, Book III.*
 
 Where a father received the presents given to his daughter, who was her
 own mistress, on the day of her betrothal, or afterwards, his heir can
 properly be sued in an action on deposit to compel him to produce the
 property.
 
-\(1) Anyone who converts to his own use money which had been deposited
+(1) Anyone who converts to his own use money which had been deposited
 with him, but not sealed up, with the understanding that he should
 return the same amount, and should have judgment rendered against him,
 in an action on deposit, for the interest from the time when he was in
 default.
 
-\26. *Paulus, Opinions, Book IV.*
+26. *Paulus, Opinions, Book IV.*
 
 Publia Mævia, when about to depart to visit her husband, entrusted to
 Gaia Seia a closed box containing clothing and written documents, and
@@ -1651,7 +1623,7 @@ I had by my first husband." The woman having died intestate, I wish to
 know to whom the property which she had entrusted to the other should be
 delivered, to her son, or to her husband? Paulus answered, to her son.
 
-\(1) Lucius Titius made the following statement: "I have received, and
+(1) Lucius Titius made the following statement: "I have received, and
 have in my hands as a deposit the sum of ten thousand *denarii* of
 silver, and I promise and bind myself to return all the said amount, as
 agreed upon between us; and, in accordance with the contract entered
@@ -1662,7 +1634,7 @@ reference has been made exceeds the limit of a deposit of money, and
 therefore, in accordance with the agreement, interest can be claimed in
 an action on deposit.
 
-\(2) Titus, to the members of the family of Sempronius, Greeting: "I
+(2) Titus, to the members of the family of Sempronius, Greeting: "I
 have received from you the weight of about ten pieces of gold, two
 discs, and a sealed sack, on which you owe me ten pieces, which you have
 deposited with Titius, and you also owe ten to Trophimas; and you also
@@ -1676,7 +1648,7 @@ prove that a deposit of property was made. The judge must determine
 whether the party, who bound himself for ten pieces of gold in the same
 letter, can prove what he wrote.
 
-\27. *The Same, Opinions, Book VII.*
+27. *The Same, Opinions, Book VII.*
 
 Lucius Titius had a daughter named Seia under his control, he gave her
 in marriage to a slave named Pamphilus, who did not belong to him, and
@@ -1697,7 +1669,6 @@ Greeting. I notify you by this letter that I have received and entered
 in my account-book the receipts of the twenty-five pieces of money which
 you have remitted to me, and at the first opportunity I will take care
 that this money shall not be idle, that is to say, that you
-
 will receive interest thereon."
 
 The question arose whether interest can also be collected on account of
@@ -1705,22 +1676,22 @@ this letter. I answered that interest will be due in a *bona fide*
 action, if the party collected it, or used the money for his own
 purposes.
 
-\29. *Paulus, Sentences, Book II.*
+29. *Paulus, Sentences, Book II.*
 
 If I make a deposit of silver in a bag or sealed, and the person with
 whom I deposited the same makes use of it without my consent, I will be
 entitled to an action on deposit, as well as one for theft against him.
 
-\(1) If he with whom the deposit was made uses it with my permission, he
+(1) If he with whom the deposit was made uses it with my permission, he
 will be compelled to pay me interest on this account, just as in other
 *bona fide* actions.
 
-\30. *Neratius, Opinions, Book I.*
+30. *Neratius, Opinions, Book I.*
 
 If your surety has judgment rendered against him for damages on account
 of property deposited with you, the said property becomes yours.
 
-\31. *Tryphoninus, Disputations, Book IX.*
+31. *Tryphoninus, Disputations, Book IX.*
 
 Good faith, which is required in contracts, demands the greatest degree
 of equity; but should we estimate that equity with reference to the Law
@@ -1735,12 +1706,11 @@ the Public Treasury, for he who has deserved ill of the people should be
 oppressed by poverty, in order to serve as an example to others for the
 prevention of crime.
 
-\(1) Another point comes up here for examination, that is, whether we
+(1) Another point comes up here for examination, that is, whether we
 should hold that good faith ought to be limited to the parties who have
 contracted with one another, without paying any attention to other
 persons who are interested in the matter under consideration. For
 example, a thief deposited with Seius, who was not aware of his
-
 criminality, some plunder which he had taken from me, should Seius
 restore the property to the thief, or to me?
 
@@ -1770,7 +1740,7 @@ where, in a case of this kind, property placed on deposit is given up by
 its owner who was not aware of the facts, a personal action for the
 recovery of something that was not due will lie.
 
-\32. *Celsus, Digest, Book XL*
+32. *Celsus, Digest, Book XL*
 
 While a statement of Nerva that gross negligence is fraudulent, is not
 accepted by Proculus, it seems to me to be perfectly true. For, even if
@@ -1780,7 +1750,7 @@ to a deposit which is customary with him; for good faith will not be
 maintained if he shows less diligence with reference to said deposit
 than he exhibits concerning his own property.
 
-\33. *Labeo, Last Epitomes of Javolenus, Book VI.*
+33. *Labeo, Last Epitomes of Javolenus, Book VI.*
 
 Your slave deposited, in sequestration, a certain sum of money with
 Attius at the house of Mævius, on condition that it should be delivered
@@ -1791,7 +1761,7 @@ that is, for its production, and having been produced, an action could
 be brought for its recovery, because your slave, in making the deposit,
 could not prejudice your rights.
 
-\34. *The Same, Probabilities, Book II.*
+34. *The Same, Probabilities, Book II.*
 
 You can bring an action on deposit against anyone who refuses to return
 your deposit on any other terms than that you pay him money, even though

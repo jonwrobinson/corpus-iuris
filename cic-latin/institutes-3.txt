@@ -1,3 +1,5 @@
+# -*- mode: org -*-
+
 IMPERATORIS IVSTINIANI INSTITVTIONVM LIBER TERTIVS
 
 LIBER TERTIUS: TITULORUM CONSPECTUS.
@@ -13,10 +15,10 @@ III:VIII  De adsignatione libertorum
 III:IX  De bonorum possessionibus
 III:X  De adquisitione per adrogationem
 III:XI  De eo cui libertatis causa bona addicuntur
-III:XII  De successionibus sublatis, quae fiebant per bonorum venditionem et ex senatusconsulto Claudiano 
+III:XII  De successionibus sublatis, quae fiebant per bonorum venditionem et ex senatusconsulto Claudiano
 III:XIII  De obligationibus
 III:XIV  Quibus modis re contrahitur obligatio
-III:XV  De verborum obligatione 	
+III:XV  De verborum obligatione
 III:XVI  De duobus reis stipulandi et promittendi
 III:XVII  De stipulatione servorum
 III:XVIII  De divisione stipulationum
@@ -356,14 +358,14 @@ secundum imaginem rerum proprietatis et ususfructus, quam nostra
 discrevit constitutio: ut, quod ab actione commodum perveniat, huius
 usumfructum quidem habeat pater, proprietas autem filio servetur,
 scilicet patre actionem movente secundum novellae nostrae
-constitutionis divisionem. 
+constitutionis divisionem.
 
 1.  Item per liberos homines, et alienos servos
 quos bona fide possidetis, adquiritur vobis, sed tantum ex duabus
-causis, id est si quid ex operis suis vel ex re vestra adquirant. 
+causis, id est si quid ex operis suis vel ex re vestra adquirant.
 
 2.  Per eum quoque servum in quo usumfructum vel usum habetis, similiter
-ex duabus istis causis vobis adquiritur. 
+ex duabus istis causis vobis adquiritur.
 
 3.  Communem servum pro dominica parte dominis adquirere certum est,
 excepto eo quod uni nominatim stipulando aut per traditionem
@@ -395,6 +397,3 @@ HABEO ACCEPTUM vel et ACCEPTUM TULI.
     Praeterea novatione tollitur obligatio. veluti si id quod tu Seio debeas, a Titio dari stipulatus sit. nam interventu novae personae nova nascitur obligatio et prima tollitur translata in posteriorem, adeo ut interdum, licet posterior stipulatio inutilis sit, tamen prima novationis iure tollatur: veluti si id quod Titio tu debebas a pupillo sine tutoris auctoritate stipulatus fuerit, quo casu res amittitur: nam et prior debitor liberatur et posterior obligatio nulla est. non idem iuris est, si a servo quis stipulatus fuerit: nam tunc prior proinde obligatus manet ac si postea nullus stipulatus fuisset. sed si eadem persona sit a qua postea stipuleris, ita demum novatio fit, si quid in posteriore stipulatione novi sit, forte si condicio aut dies aut fideiussor adiciatur aut detrahatur. quod autem diximus, si condicio adiciatur novationem fieri, sic intellegi oportet, ut ita dicamus factam novationem si condicio extiterit: alioquin si defecerit, durat prior obligatio. Sed cum hoc quidem inter veteres constabat, tunc fieri novationem cum novandi animo in secundam obligationem itum fuerat: per hoc autem dubium erat, quando novandi animo videretur hoc fieri, et quasdam de hoc praesumptiones alii in aliis casibus introducebant: ideo nostra processit constitutio, quae apertissime definivit, tunc solum fieri novationem, quotiens hoc ipsum inter contrahentes expressum fuerit quod propter novationem prioris obligationis convenerunt; alioquin manere et pristinam obligationem et secundam ei accedere, ut maneat ex utraque causa obligatio secundum nostrae constitutionis definitiones, quas licet ex ipsius lectione apertius cognoscere.
 
 Hoc amplius eae obligationes quae consensu contrahuntur contraria voluntate dissolvuntur. nam si Titius et Seius inter se consenserunt ut fundum Tusculanum emptum Seius haberet centum aureorum, deinde re nondum secuta, id est neque pretio soluto neque fundo tradito, placuerit inter eos ut discederetur ab emptione et venditione, invicem liberantur. idem est et in conductione et locatione et omnibus contractibus qui ex consensu descendunt, sicut iam dictum est.
-
-Ius Romanum 	Justinian 	The Latin Library 	The Classics Page
-

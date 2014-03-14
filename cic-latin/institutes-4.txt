@@ -1,3 +1,5 @@
+# -*- mode: org -*-
+
 IMPERATORIS IVSTINIANI INSTITVTIONVM LIBER QVARTVS
 
 LIBER QUARTUS: TITULORUM CONSPECTUS.
@@ -396,5 +398,3 @@ Item lex Cornelia de falsis, quae etiam testamentaria vocatur, poenam irrogat ei
 Item lex Iulia de vi publica seu privata adversus eos exoritur qui vim vel armatam vel sine armis commiserint. sed si quidem armata vis arguatur, deportatio ei ex lege Iulia de vi publica irrogatur: si vero sine armis, in tertiam partem bonorum publicatio imponitur. sin autem per vim raptus virginis vel viduae vel sanctimonialis, velatae vel aliae, fuerit perpetratus, tunc et peccatores et ii qui opem flagitio dederunt, capite puniuntur secundam nostrae constitutionis definitionem, ex qua haec apertius possibile est scire. Lex Iulia peculatus eos punit qui pecuniam vel rem publicam vel sacram vel religiosam furati fuerint. sed si quidem ipsi iudices tempore administrationis publicas pecunias subtraxerunt, capitali animadversione puniuntur, et non solum hi, sed etiam qui ministerium eis ad hoc adhibuerunt vel qui subtracta ab his scientes susceperunt: alii vero qui in hanc legem inciderint poenae deportationis subiugantur. Est et inter publica iudicia lex Fabia de plagiariis, quae interdum capitis poenam ex sacris constitutionibus irrogat interdum leviorem. Sunt praeterea publica iudicia lex Iulia ambitus et lex Iulia repetundarum et lex Iulia de annona et lex Iulia de residuis, quae de certis capitulis loquuntur et animae quidem amissionem non irrogant, aliis autem poenis eos subiciunt qui praecepta earum neglexerint.
 
 Sed de publicis iudiciis haec euimus, ut vobis possibile sit summo digito et quasi per indicem ea tetigisse. alioquin diligentior eorum scientia vobis ex latioribus digestorum sive pandectarum libris deo propitio adventura est.
-
-Ius Romanum 	Justinian 	The Latin Library 	The Classics Page

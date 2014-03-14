@@ -1,3 +1,5 @@
+# -*- mode: org -*-
+
 IMPERATORIS IVSTINIANI INSTITVTIONVM LIBER SECVNDVS
 
 LIBER SECVNDVS: TITULORUM CONSPECTUS.
@@ -518,5 +520,3 @@ DE CODICILLIS.
 Ante Augusti tempora constat ius codicillorum non fuisse, sed primus Lucius Lentulus, ex cuius persona etiam fideicommissa coeperunt, codicillos introduxit. nam cum decederet in Africa scripsit codicillos testamento confirmatos, quibus ab Augusto petiit per fideicommissum ut faceret aliquid: et cum divus Augustus voluntatem eius implesset, cuius deinceps reliqui auctoritatem secuti, fideicommissa praestabant, et filia Lentuli legata quae iure non debebat solvit, dicitur Augustus convocasse prudentes, inter quos Trebatium quoque, cuius tunc auctoritas maxima erat, et quaesisse, an possit hoc recipi nec absonans a iuris ratione codicillorum usus esset: et Trebatium suasisse Augusto, quod diceret, utilissimum et necessarium hoc civibus esse propter magnas et longas peregrinationes, quae apud veteres fuissent, ubi, si quis testamentum facere non posset, tamen codicillos posset. post quae tempora cum et Labeo codicillos fecisset, iam nemini dubium erat quin codicilli iure optimo admitterentur.
 
 Non tantum autem testamento facto potest quis codicillos facere, sed et intestatus quis decedens fideicommittere codicillis potest. sed cum ante testamentum factum codicilli facti erant, Papinianus ait, non aliter vires habere quam si speciali postea voluntate confirmentur. sed divi Severus et Antoninus rescripserunt, ex his codicillis qui testamentum praecedunt posse fideicommissum peti, si appareat eum qui postea testamentum fecerat a voluntate quam codicillis expresserat non recessisse. Codicillis autem hereditas neque dari neque adimi potest, ne confundatur ius testamentorum et codicillorum, et ideo nec exheredatio scribi. directo autem hereditas codicillis neque dari neque adimi potest: nam per fideicommissum hereditas codicillis iure relinquitur. nec condicionem heredi instituto codicillis adicere neque substituere directo potest. Codicillos autem etiam plures quis facere potest: et nullam sollemnitatem ordinationis desiderant.
-
-Ius Romanum 	Justinian 	The Latin Library 	The Classics Page

@@ -1,60 +1,62 @@
+# -*- mode: org -*-
+
 DOMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI CODEX
 
-LIBER NONUS
+* LIBER NONUS
 
-CJ.9.1.0. Qui accusare non possunt.
-CJ.9.2.0. De accusationibus et inscriptionibus.
-CJ.9.3.0. De exhibendis vel transmittendis reis.
-CJ.9.4.0. De custodia reorum.
-CJ.9.5.0. De privatis carceribus inhibendis.
-CJ.9.6.0. Si reus vel accusator mortuus fuerit.
-CJ.9.7.0. Si quis imperatori maledixerit.
-CJ.9.8.0. Ad legem iuliam maiestatis.
-CJ.9.9.0. Ad legem iuliam de adulteriis et de stupro.
-CJ.9.10.0. Si quis eam cuius tutor fuerit corruperit.
-CJ.9.11.0. De mulieribus quae servis propriis se iunxerunt.
-CJ.9.12.0. Ad legem iuliam de vi publica seu privata.
-CJ.9.13.0. De raptu virginum seu viduarum nec non sanctimonialium.
-CJ.9.14.0. De emendatione servorum.
-CJ.9.15.0. De emendatione propinquorum.
-CJ.9.16.0. Ad legem corneliam de sicariis.
-CJ.9.17.0. De his qui parentes vel liberos occiderunt.
-CJ.9.18.0. De maleficiis et mathematicis et ceteris similibus.
-CJ.9.19.0. De sepulchro violato.
-CJ.9.20.0. Ad legem fabiam.
-CJ.9.21.0. Ad legem viselliam.
-CJ.9.22.0. Ad legem corneliam de falsis.
-CJ.9.23.0. De his qui sibi adscribunt in testamento.
-CJ.9.24.0. De falsa moneta.
-CJ.9.25.0. De mutatione nominis.
-CJ.9.26.0. Ad legem iuliam de ambitu.
-CJ.9.27.0. Ad legem iuliam repetundarum.
-CJ.9.28.0. De crimine peculatus.
-CJ.9.29.0. De crimine sacrilegii.
-CJ.9.30.0. De seditiosis et his qui plebem audent contra publicam quietem colligere.
-CJ.9.31.0. Quando civilis actio criminali praeiudicet et an utraque ab eodem exerceri potest.
-CJ.9.32.0. De crimine expilatae hereditatis.
-CJ.9.33.0. Vi bonorum raptorum.
-CJ.9.34.0. De crimine stellionatus.
-CJ.9.35.0. De iniuriis.
-CJ.9.36.0. De famosis libellis.
-CJ.9.37.0. De abigeis.
-CJ.9.38.0. De nili aggeribus non rumpendis.
-CJ.9.39.0. De his qui latrones vel in aliis criminibus reos occultaverint.
-CJ.9.40.0. De requirendis.
-CJ.9.41.0. De quaestionibus.
-CJ.9.42.0. De abolitionibus.
-CJ.9.43.0. De generali abolitione.
-CJ.9.44.0. Ut intra certum tempus criminalis quaestio terminetur.
-CJ.9.45.0. Ad senatus consultum turpillianum.
-CJ.9.46.0. De calumniatoribus.
-CJ.9.47.0. De poenis.
-CJ.9.48.0. Ne sine iussu principis certis iudicibus liceat confiscare.
-CJ.9.49.0. De bonis conscriptorum seu damnatorum.
-CJ.9.50.0. De bonis mortem sibi consciscentium.
-CJ.9.51.0. De sententiam passis et restitutis.
++ 9.1.0. Qui accusare non possunt.
++ 9.2.0. De accusationibus et inscriptionibus.
++ 9.3.0. De exhibendis vel transmittendis reis.
++ 9.4.0. De custodia reorum.
++ 9.5.0. De privatis carceribus inhibendis.
++ 9.6.0. Si reus vel accusator mortuus fuerit.
++ 9.7.0. Si quis imperatori maledixerit.
++ 9.8.0. Ad legem iuliam maiestatis.
++ 9.9.0. Ad legem iuliam de adulteriis et de stupro.
++ 9.10.0. Si quis eam cuius tutor fuerit corruperit.
++ 9.11.0. De mulieribus quae servis propriis se iunxerunt.
++ 9.12.0. Ad legem iuliam de vi publica seu privata.
++ 9.13.0. De raptu virginum seu viduarum nec non sanctimonialium.
++ 9.14.0. De emendatione servorum.
++ 9.15.0. De emendatione propinquorum.
++ 9.16.0. Ad legem corneliam de sicariis.
++ 9.17.0. De his qui parentes vel liberos occiderunt.
++ 9.18.0. De maleficiis et mathematicis et ceteris similibus.
++ 9.19.0. De sepulchro violato.
++ 9.20.0. Ad legem fabiam.
++ 9.21.0. Ad legem viselliam.
++ 9.22.0. Ad legem corneliam de falsis.
++ 9.23.0. De his qui sibi adscribunt in testamento.
++ 9.24.0. De falsa moneta.
++ 9.25.0. De mutatione nominis.
++ 9.26.0. Ad legem iuliam de ambitu.
++ 9.27.0. Ad legem iuliam repetundarum.
++ 9.28.0. De crimine peculatus.
++ 9.29.0. De crimine sacrilegii.
++ 9.30.0. De seditiosis et his qui plebem audent contra publicam quietem colligere.
++ 9.31.0. Quando civilis actio criminali praeiudicet et an utraque ab eodem exerceri potest.
++ 9.32.0. De crimine expilatae hereditatis.
++ 9.33.0. Vi bonorum raptorum.
++ 9.34.0. De crimine stellionatus.
++ 9.35.0. De iniuriis.
++ 9.36.0. De famosis libellis.
++ 9.37.0. De abigeis.
++ 9.38.0. De nili aggeribus non rumpendis.
++ 9.39.0. De his qui latrones vel in aliis criminibus reos occultaverint.
++ 9.40.0. De requirendis.
++ 9.41.0. De quaestionibus.
++ 9.42.0. De abolitionibus.
++ 9.43.0. De generali abolitione.
++ 9.44.0. Ut intra certum tempus criminalis quaestio terminetur.
++ 9.45.0. Ad senatus consultum turpillianum.
++ 9.46.0. De calumniatoribus.
++ 9.47.0. De poenis.
++ 9.48.0. Ne sine iussu principis certis iudicibus liceat confiscare.
++ 9.49.0. De bonis conscriptorum seu damnatorum.
++ 9.50.0. De bonis mortem sibi consciscentium.
++ 9.51.0. De sententiam passis et restitutis.
 
-CJ.9.1.0. Qui accusare non possunt.
+* CJ.9.1.0. Qui accusare non possunt.
 
 CJ.9.1.1: Imperatores Severus, Antoninus
 
@@ -152,7 +154,7 @@ CJ.9.1.21: Imperatores Honorius, Theodosius
 
 Liberti si accusatores manumissorum heredumve esse praesumpserint, eodem quo servi supplicio tenebuntur, luituri poenas ante prohibitae delationis exordium. * honor. et theodos. aa. conss. praetoribus tribunis plebi senatui s.D.* <a 423 d. viii id. aug. ravennae asclepiodoto et mariniano conss.>
 
-CJ.9.2.0. De accusationibus et inscriptionibus.
+* CJ.9.2.0. De accusationibus et inscriptionibus.
 
 CJ.9.2.1: Imperator Alexander Severus
 
@@ -246,7 +248,7 @@ CJ.9.2.17.1: Imperatores Honorius, Theodosius
 
 Nemo tamen sibi blandiatur obiectu cuiuslibet criminis de se in quaestione confessus, veniam sperans propter flagitia adiuncti, vel communione criminis consortium personae superioris optans, aut inimici supplicio in ipsa supremorum suorum sorte sociandus, aut eripi se posse confidens aut studio aut privilegio nominati, cum veteris iuris auctoritas de se confessos ne interrogari quidem de aliorum conscientia sinat. nemo igitur de proprio crimine confitentem super conscientia scrutetur aliena. <a 423 d.Viii id. aug. ravennae asclepiodoto et mariniano conss.>
 
-CJ.9.3.0. De exhibendis vel transmittendis reis.
+* CJ.9.3.0. De exhibendis vel transmittendis reis.
 
 CJ.9.3.1: Imperatores Valentinianus, Valens
 
@@ -272,7 +274,7 @@ CJ.9.3.3: Imperatores Valentinianus, Theodosius, Arcadius
 
 Neminem iudicio exhibendum esse praecipimus, nisi de cuius exhibitione iudex pronuntiaverit. * valentin. theodos. et arcad. aaa. drepanio procons. africae. * <a 390 d. prid. non. febr. mediolani valentiniano a. iiii et neoterio conss.>
 
-CJ.9.4.0. De custodia reorum.
+* CJ.9.4.0. De custodia reorum.
 
 CJ.9.4.1pr.: Imperator Constantinus
 
@@ -326,7 +328,7 @@ CJ.9.4.5.1: Imperatores Gratianus, Valentinianus, Theodosius
 
 Iubemus autem, ut intra tricesimum diem semper commentariensis ingesserit numerum personarum, varietatem delictorum, clausorum ordinem aetatemque vinctorum. officium viginti libras auri aerario nostro iubemus inferre, iudicem desidem ac resupina cervice tantum titulum gerentem extorrem impetrata fortuna decem libras auri multandum esse censemus. <a 380 d. iii k. ian. constantinopoli gratiano v et theodosio aa. conss.>
 
-CJ.9.5.0. De privatis carceribus inhibendis.
+* CJ.9.5.0. De privatis carceribus inhibendis.
 
 CJ.9.5.1pr.: Imperator Zeno
 
@@ -340,7 +342,7 @@ CJ.9.5.1.2: Imperator Zeno
 
 Nam illud perspicuum est eos qui hoc criminum genus commiserint pro veterum etiam legum et constitutionum tenore tamquam ipsius maiestatis violatores ultimo subiugandos esse supplicio. <a 486 d.K.Iul.Constantinopoli longino vc.Cons.>
 
-CJ.9.6.0. Si reus vel accusator mortuus fuerit.
+* CJ.9.6.0. Si reus vel accusator mortuus fuerit.
 
 CJ.9.6.2: Imperator Antoninus
 
@@ -374,7 +376,7 @@ CJ.9.6.6.2: Imperator Gordianus
 
 Sin autem relegationis poenam sustinuit et in parte bonorum damnatus appellatione usus est, etiam post mortem eius nihilo minus appellationis ratio examinabitur, cum desideretur, utrum valeat nec ne particularis publicatio. <a 239 pp.Vi k.Aug.Gordiano a. et aviola conss.>
 
-CJ.9.7.0. Si quis imperatori maledixerit.
+* CJ.9.7.0. Si quis imperatori maledixerit.
 
 CJ.9.7.1pr.: Imperatores Theodosius, Arcadius, Honorius
 
@@ -384,7 +386,7 @@ CJ.9.7.1.1: Imperatores Theodosius, Arcadius, Honorius
 
 Unde integris omnibus ad nostram scientiam referatur, ut ex personis hominum dicta pensemus et, utrum praetermitti an exsequi rite debeat, censeamus, <a 393 d.V id.Aug.Constantinopoli theodosio a. iii et abundantio conss.>
 
-CJ.9.8.0. Ad legem iuliam maiestatis.
+* CJ.9.8.0. Ad legem iuliam maiestatis.
 
 CJ.9.8.1: Imperator Alexander Severus
 
@@ -458,7 +460,7 @@ CJ.9.8.6.4
 
 In hac causa in caput domini servi torquentur, id est propter causam maiestatis. et si decesserit quis, propter incertam personam successoris bona observantur, si in causa maiestatis fuisse mortuus arguatur, ut severus et antoninus litteris ad rationales missis rescripserunt. . . <a xxx d. iii non. mart.>
 
-CJ.9.9.0. Ad legem iuliam de adulteriis et de stupro.
+* CJ.9.9.0. Ad legem iuliam de adulteriis et de stupro.
 
 CJ.9.9.1: Imperatores Severus, Antoninus
 
@@ -684,13 +686,13 @@ CJ.9.9.35.3: Imperator Justinianus
 
 Sancimus itaque duos etiam menses post mortem mulieris servari, ut intra eos ante dicti servi permaneant et facultatem maritus habeat probationes adulterii per eos praestare: transacto vero memorato tempore licentiam habere heredem mulieris libertatem eis imponere, nisi per culpam eius maritus prohibitus fuerit causam adulterii, ipse videlicet imminens, exercere. <a 532 d. v k. nov. constantinopoli post consulatum lampadii et orestis vv. cc. anno secundo.>
 
-CJ.9.10.0. Si quis eam cuius tutor fuerit corruperit.
+* CJ.9.10.0. Si quis eam cuius tutor fuerit corruperit.
 
 CJ.9.10.1: Imperator Constantinus
 
 Si tutor pupillam quondam suam violata castitate stupraverit, deportatione subiugetur atque universae eius facultates fisci viribus vindicentur, quamvis eam poenam debuerit sustinere, quam raptori leges imponunt. * const. a. ad bassum vic. italiae. * <a 326 d. prid. non. april. aquileiae constantino a. vii et constantio c. conss.>
 
-CJ.9.11.0. De mulieribus quae servis propriis se iunxerunt.
+* CJ.9.11.0. De mulieribus quae servis propriis se iunxerunt.
 
 CJ.9.11.1pr.: Imperator Constantinus
 
@@ -708,7 +710,7 @@ CJ.9.11.1.3: Imperator Constantinus
 
 Successio autem mulieris ab intestato vel filiis, si erunt legitimi, vel proximis cognatisque deferatur vel ei, quem ratio iuris admittit: ita ut et quod ille qui quondam amatus est et quod ex eo suscepti filii quolibet casu in sua videantur habuisse substantia, mulieris dominio sociatum a memoratis successoribus vindicetur. <a 326 d.Iiii k.Iun.Serdicae constantino a. vii et constantio c. conss.>
 
-CJ.9.12.0. Ad legem iuliam de vi publica seu privata.
+* CJ.9.12.0. Ad legem iuliam de vi publica seu privata.
 
 CJ.9.12.1: Imperatores Severus, Antoninus
 
@@ -778,7 +780,7 @@ CJ.9.12.10.2: Imperatores Leo, Anthemius
 
 Viri quoque clarissimi provinciarum rectores in speculis esse debebunt, ne quis audeat statuta nostrae mansuetudinis in aliquo violare, scientes, quod ex dissimulatione dignitatis et administrationis cingulo privabuntur et post centum librarum auri multam salutis vitaeque suae periculum sustinebunt: primatibus videlicet apparitionis suae personis praeter amissionem fortunarum suarum capitali quoque supplicio feriendis. <a 468 d. v k. sept. anthemio a. ii cons.>
 
-CJ.9.13.0. De raptu virginum seu viduarum nec non sanctimonialium.
+* CJ.9.13.0. De raptu virginum seu viduarum nec non sanctimonialium.
 
 CJ.9.13.1pr.: Imperator Justinianus
 
@@ -848,7 +850,7 @@ CJ.9.13.1.6: Imperator Justinianus
 
 Quae de sanctimonialibus etiam virginibus et viduis locum habere sancimus. <a 533 d.Xv k.Dec.Constantinopoli dn.Iustiniano pp.A.Iii cons.>
 
-CJ.9.14.0. De emendatione servorum.
+* CJ.9.14.0. De emendatione servorum.
 
 CJ.9.14.1pr.: Imperator Constantinus
 
@@ -858,7 +860,7 @@ CJ.9.14.1.1: Imperator Constantinus
 
 Nec vero immoderate suo iure utatur, sed tunc reus homicidii sit, si voluntate eum ictu fustis aut lapidis occiderit vel certe telo usus letale vulnus inflixerit aut suspendi laqueo praeceperit vel iussione taetra praecipitandum esse mandaverit aut veneni virus infuderit vel dilaniaverit poenis publicis corpus, ferarum unguibus latera persecando vel exurendo oblatis ignibus membra, aut tabescentes artus atro sanguine permixta sanie defluentes prope in ipsis adegerit cruciatibus vitam relinquere saevitia immanium barbarorum. <a 319 d.V id.Mai.Romae constantino a.V et licinio conss.>
 
-CJ.9.15.0. De emendatione propinquorum.
+* CJ.9.15.0. De emendatione propinquorum.
 
 CJ.9.15.1pr.: Imperatores Valentinianus, Valens
 
@@ -872,7 +874,7 @@ CJ.9.15.1.2: Imperatores Valentinianus, Valens
 
 Quod si atrocitas facti ius domesticae emendationis excedit, placet enormis delicti reos dedi iudicum notioni. <a 365 d.Prid.K.Dec.Valentiniano et valente aa. conss.>
 
-CJ.9.16.0. Ad legem corneliam de sicariis.
+* CJ.9.16.0. Ad legem corneliam de sicariis.
 
 CJ.9.16.1pr.: Imperator Antoninus
 
@@ -910,13 +912,13 @@ CJ.9.16.8: Imperatores Gratianus, Valentinianus, Theodosius, Arcadius
 
 Si forte mulier marito mortis parasse insidias vel quolibet alio genere voluntatem occidendi habuisse inveniatur, vel forte maritus eo modo insectetur uxorem, in eadem quaestione ab omni familia non solum mariti, sed etiam uxoris, quae tamen tunc temporis domi fuerit, quaerendum est sine cuiusquam defensione. * grat. valentin. theodos. et arcad. aaaa. cynegio pp. * <a 385 d.Iii id.Dec.Arcadio a. et bautone conss.>
 
-CJ.9.17.0. De his qui parentes vel liberos occiderunt.
+* CJ.9.17.0. De his qui parentes vel liberos occiderunt.
 
 CJ.9.17.1: Imperator Constantinus
 
 Si quis in parentis aut filii aut omnino adfectionis eius quae nuncupatione parricidii continetur fata properaverit, sive clam sive palam id fuerit enisus, poena parricidii punietur neque gladio neque ignibus neque ulla alia sollemni poena subiugetur, sed insutus culleo et inter eius ferales angustias comprehensus serpentium contuberniis misceatur et, ut regionis qualitas tulerit, vel in vicinum mare vel in amnem proiciatur, ut omni elementorum usu vivus carere incipiat, ut ei caelum superstiti, terra mortuo auferatur. * const. a. ad verinum vic. africae. * <a 318-319 d.Xvi k.Dec.Licinio v et crispo c. conss. accepta prid.Id.Mart carthagine constantino a.V et licinio c. conss.>
 
-CJ.9.18.0. De maleficiis et mathematicis et ceteris similibus.
+* CJ.9.18.0. De maleficiis et mathematicis et ceteris similibus.
 
 CJ.9.18.1: Imperator Antoninus
 
@@ -970,7 +972,7 @@ CJ.9.18.9.1: Imperatores Valentinianus, Theodosius, Arcadius
 
 Quod si quisquam ex agitatoribus ( id est aurigis) seu ex quolibet alio genere hominum contra hoc interdictum venire temptaverit aut clandestinis suppliciis etiam manifestum reum maleficae artis oppresserit, ultimum supplicium non evadat geminae suspicionis obnoxius, quod aut publicum reum, ne facinoris socios publicaret, severitati legum et debitae subtraxerit quaestioni aut proprium fortassis inimicum sub huiusmodi vindictae nomine consilio atrociore confecerit. <a 389 d.Xvii k.Sept.Romae timasio et promoto conss.>
 
-CJ.9.19.0. De sepulchro violato.
+* CJ.9.19.0. De sepulchro violato.
 
 CJ.9.19.1: Imperator Gordianus
 
@@ -1012,7 +1014,7 @@ CJ.9.19.6: Imperator Justinus
 
 Cum sit iniustum et nostris alienum temporibus iniuriam fieri reliquiis defunctorum ab his, qui debitorem sibi esse mortuum dicendo debitumque exigendo sepulturam eius impediunt, ne in posterum eadem iniuria procederet cogendis his ad quos funus mortui pertinet sua iura perdere, ea quidem, quae mortuo posito ante sepulturam eius facta fuerint vel exigendo quod debitum esse dicitur vel confessiones aliquas aut fideiussorem aut pignora capiendo, penitus amputari praecipimus: redditis vero pignoribus vel pecuniis quae solutae sunt vel absolutis fideiussoribus et generaliter omnibus sine ulla innovatione in pristinum statum reducendis principale negotium ex integro disceptari: eum vero, qui in huiusmodi deprehensus fuerit flagitio, quinquaginta libras auri dependere vel, si minus idoneus sit ad persolvendum, suo corpore sub competenti iudice poenas luere. * iustinus a. theodoto pu. * <a 526 d.K.Dec.Constantinopoli olybrio vc.Cons.>
 
-CJ.9.20.0. Ad legem fabiam.
+* CJ.9.20.0. Ad legem fabiam.
 
 CJ.9.20.1: Imperator Antoninus
 
@@ -1086,7 +1088,7 @@ CJ.9.20.16.1: Imperator Constantinus
 
 Si quis tamen eiusmodi reus fuerit oblatus, posteaquam super crimine patuerit, servus quidem vel libertate donatus bestiis obiciatur, ingenuus autem gladio consumatur. <a 315 d.K.Aug.Constantino a.Iiii et licinio iiii conss.>
 
-CJ.9.21.0. Ad legem viselliam.
+* CJ.9.21.0. Ad legem viselliam.
 
 CJ.9.21.1pr.: Imperatores Diocletianus, Maximianus
 
@@ -1096,7 +1098,7 @@ CJ.9.21.1.1: Imperatores Diocletianus, Maximianus
 
 Qui autem libertinus se dicit ingenuum, tam de operis civiliter quam etiam lege visellia criminaliter poterit perurgueri: in curiam autem se immiscens damno quidem cum infamia adficitur: muneribus vero personalibus in patria patroni, quae congruunt huiusmodi hominibus, singulos pro viribus adstrictos esse non dubium est. <a 300? pp.Ii id.Febr.Antiochiae cc.Conss.>
 
-CJ.9.22.0. Ad legem corneliam de falsis.
+* CJ.9.22.0. Ad legem corneliam de falsis.
 
 CJ.9.22.1: Imperator Antoninus
 
@@ -1230,7 +1232,7 @@ CJ.9.22.24: Imperatores Valentinianus, Theodosius, Arcadius
 
 Praebemus licentiam, ut civiliter sive criminaliter, ut actor elegerit, super prolatis codicillis vel aliis instrumentis requiratur et incumbat probatio fidei instrumenti ei primitus, qui scripturam obtulerit, deinde ei, qui stricta instantia falsum arguere paratus est. * valentin. theodos. et arcad. aaa. proculo pu. * <a 389 d.Mediolani x.K.Febr.Timasio et promoto conss.>
 
-CJ.9.23.0. De his qui sibi adscribunt in testamento.
+* CJ.9.23.0. De his qui sibi adscribunt in testamento.
 
 CJ.9.23.1: Imperator Antoninus
 
@@ -1260,7 +1262,7 @@ CJ.9.23.6: Imperatores Diocletianus, Maximianus
 
 Si libertatem tibi manu tua imperante domino adscripsisti, cum proponas dominium non subscripsisse et suis litteris tuam libertatem expressim agnovisse, ad impetrandam libertatem senatus consulti auctoritas tibi obest. poena tamen falsi tibi remittitur, quoniam non potueras contra domini voluntatem venire. * diocl. et maxim. aa. aufidio. * <a 290 pp. vi id. dec. ipsis iiii et iii aa. conss.>
 
-CJ.9.24.0. De falsa moneta.
+* CJ.9.24.0. De falsa moneta.
 
 CJ.9.24.1pr.: Imperator Constantinus
 
@@ -1302,13 +1304,13 @@ CJ.9.24.3: Imperatores Valentinianus, Theodosius, Arcadius
 
 Si quis super cudendo aere vel rescripto aliquo vel etiam adnotatione nostra sibi eripuerit facultatem, non solum fructum propriae petitionis amittat, verum etiam poenam quam meretur excipiat. * valentin. theodos. et arcad. aaa. rufino pp. * <a 393 d. iiii id. iul. constantinopoli theodosio a. iii et abundantio conss.>
 
-CJ.9.25.0. De mutatione nominis.
+* CJ.9.25.0. De mutatione nominis.
 
 CJ.9.25.1: Imperatores Diocletianus, Maximianus
 
 Sicut initio nominis cognominis praenominis recognoscendi singulos imposito privatim libera est, ita horum mutatio innocentibus periculosa non est.Mutare itaque nomen sive praenomen sine aliqua fraude licito iure, si liber es, secundum ea quae saepe statuta sunt minime prohiberis, nulli ex hoc praeiudicio futuro. * diocl. et maxim. aa. et cc.Iuliano. * <a 293 s.Xv k.Ian.Aa. conss.>
 
-CJ.9.26.0. Ad legem iuliam de ambitu.
+* CJ.9.26.0. Ad legem iuliam de ambitu.
 
 CJ.9.26.1pr.: Imperatores Arcadius, Honorius
 
@@ -1318,7 +1320,7 @@ CJ.9.26.1.1: Imperatores Arcadius, Honorius
 
 Ac si quispiam promotorum denuo ad munus etiam per sacras litteras inrepserit, quod ante docebitur gessisse, cassatis quae hoc modo sunt impetrata, ad solutionem debiti primitus artetur, et qui contra fecerint poenam deportationis ad instar legis iuliae ambitus excipiant. <a 400 d.Prid.K.Iun.Mediolani stilichone et aureliano conss.>
 
-CJ.9.27.0. Ad legem iuliam repetundarum.
+* CJ.9.27.0. Ad legem iuliam repetundarum.
 
 CJ.9.27.1: Imperatores Gratianus, Valentinianus, Theodosius
 
@@ -1352,13 +1354,13 @@ CJ.9.27.6.1: Imperatores Theodosius, Valentinianus
 
 Et licet neminem divini timoris contemnendo iureiurando arbitramur immemorem, ut saluti propriae ullum commodum anteponat, tamen, ut ad salutis timorem et necessitas periculi subiungatur, tunc si quis ausus fuerit praebita sacramenta neglegere, non modo adversus accipientem, sed etiam adversus dantem accusandi cunctis tamquam crimen publicum concedimus facultatem, quadrupli poena eo qui convictus fuerit modis omnibus feriendo. <a 439 d. vi k. dec. constantinopoli theodosio a. xvii et festo conss.>
 
-CJ.9.28.0. De crimine peculatus.
+* CJ.9.28.0. De crimine peculatus.
 
 CJ.9.28.1: Imperatores Theodosius, Arcadius, Honorius
 
 Iudices, qui tempore administrationis publicas pecunias subtraxerunt, lege iulia peculatus obnoxii sunt et capitali animadversioni eos subdi iubemus: his nihilo minus, qui ministerium eis ad hoc adhibuerunt vel qui subtracta ab his scientes susceperunt, eadem poena percellendis. * theodos. arcad. et honor. aaa. rufino pp. * <a 415 d. iii non. mart. constantinopoli honorio x et theodosio vi aa. conss.>
 
-CJ.9.29.0. De crimine sacrilegii.
+* CJ.9.29.0. De crimine sacrilegii.
 
 CJ.9.29.1: Imperatores Gratianus, Valentinianus, Theodosius
 
@@ -1372,7 +1374,7 @@ CJ.9.29.3: Imperatores Gratianus, Valentinianus, Theodosius
 
 Ne quis sine sacrilegii crimine desiderandum intellegat gerendae ac suscipiendae administrationis officium intra eam provinciam, in qua provincialis et civis habetur, nisi hoc cuidam ultronea liberalitate per divinos adfatus imperator indulgeat. * grat. valentin. et theodos. aaa. et arcad. a. eutropio pp. * <a 385 d. xvi k. aug. arcadio a. et bautone conss.>
 
-CJ.9.30.0. De seditiosis et his qui plebem audent contra publicam
+* CJ.9.30.0. De seditiosis et his qui plebem audent contra publicam
 quietem colligere.
 
 CJ.9.30.1: Imperatores Gratianus, Valentinianus, Theodosius
@@ -1387,7 +1389,7 @@ CJ.9.30.2: Imperator Leo
 
 In nullis locis aut civitatibus tumultuosis clamoribus cuiusquam interpellatio contumeliosa procedat nec ad solam cuiusquam invidiam petulantia verba iactentur : scituris his, qui huiusmodi voces emiserint moverintque tumultus, se quidem fructum ex his quae postulant nullatenus habituros, subdendos autem poenis his, quas de seditionum et tumultus auctoribus vetustissima decreta sanxerunt. * leo a. erythrio pp. * <a 466 d. ii non. mart. constantinopoli leone a. iii cons.>
 
-CJ.9.31.0. Quando civilis actio criminali praeiudicet et an utraque ab eodem exerceri potest.
+* CJ.9.31.0. Quando civilis actio criminali praeiudicet et an utraque ab eodem exerceri potest.
 
 CJ.9.31.1pr.: Imperatores Valens, Gratianus, Valentinianus
 
@@ -1405,7 +1407,7 @@ CJ.9.31.1.3: Imperatores Valens, Gratianus, Valentinianus
 
 Qua iuris definitione non ambigitur etiam falsi crimen, de quo civiliter iam actum est, criminaliter esse repetendum. <a 378 d. prid. id. ian. treviris valente vi et valentiniano ii aa. conss.>
 
-CJ.9.32.0. De crimine expilatae hereditatis.
+* CJ.9.32.0. De crimine expilatae hereditatis.
 
 CJ.9.32.1: Imperatores Severus, Antoninus
 
@@ -1439,7 +1441,7 @@ CJ.9.32.6: Imperator Philippus
 
 Expilatae hereditatis crimen loco deficientis actionis intendi consuevisse non est iuris ambigui. * philipp. a.Et c.Basiliae. * <a 249 pp. x k. mart. aemiliano et aquilino conss.>
 
-CJ.9.33.0. Vi bonorum raptorum.
+* CJ.9.33.0. Vi bonorum raptorum.
 
 CJ.9.33.1: Imperator Gordianus
 
@@ -1461,7 +1463,7 @@ CJ.9.33.4: Imperatores Diocletianus, Maximianus
 
 Sive negotiorum gestorum contra novercam tuam sive actione vi bonorum raptorum, quae in quadruplum intra annum utilem ac post in simplum constituta est, putaveris agendum, notione praesidali poteris experiri. * diocl. et maxim. aa. et cc. dominae. * <a 293 s. vii id. ian. sirmi aa. conss.>
 
-CJ.9.34.0. De crimine stellionatus.
+* CJ.9.34.0. De crimine stellionatus.
 
 CJ.9.34.1: Imperator Alexander Severus
 
@@ -1483,7 +1485,7 @@ CJ.9.34.4.1: Imperator Philippus
 
 Proinde sive ignorantiam tuam debitor circumvenire temptaverit, seu obligatione rite perfecta participato fraudis consilio per subiectam quasi anteriorem personam dispendium tuum ad occultum compendium suum pertemptat, adire suum iudicem potes congruentem iuri ac debitae religioni sententiam relaturum. <a 244 pp. vi id. mai. peregrino et aemiliano conss.>
 
-CJ.9.35.0. De iniuriis.
+* CJ.9.35.0. De iniuriis.
 
 CJ.9.35.1: Imperator Alexander Severus
 
@@ -1529,7 +1531,7 @@ CJ.9.35.11: Imperator Zeno
 
 Si quando iniuriarum actio, quam inter privata delicta veteris iuris auctores connumerant, a quibuslibet illustribus viris, militantibus seu sine cingulo constitutis, vel uxoribus eorum vel liberis masculini sexus vel filiabus, superstitibus videlicet patribus aut maritis illustribus, vel si adversus aliquam huiusmodi personam criminaliter forte movetur, ipsos quidem, qui super iniuria queruntur, inscribere aliaque omnia, quae in huiusmodi causis de more procedunt, sollemniter observare decernimus: licere autem illustri accusatori vel reo, uxori vel liberis masculini sexus seu filiae itidem illustris superstitis causam iniuriarum in quocumque iudicio competenti per procuratorem criminaliter suscipere vel movere, sententiam iudice contra eum qui procuratorem dederit, etsi ipse non adesset iudiciis nec causam per procuratorem diceret, legibus prolaturo: ita tamen, ut nullus alius idem sibi audeat vindicare vel a nostro numine postulare: sed in ceteris mos iudiciorum qui hactenus obtinuit et in posterum servetur intactus. * zeno a. alexandro viro illustri. * <a 478 d. v non. constantinopoli illo vc. cons.>
 
-CJ.9.36.0. De famosis libellis.
+* CJ.9.36.0. De famosis libellis.
 
 CJ.9.36.2pr.: Imperatores Valentinianus, Valens
 
@@ -1547,19 +1549,19 @@ CJ.9.36.2.3: Imperatores Valentinianus, Valens
 
 Sin vero minime haec vera ostenderit, capitali poena plectetur. huiusmodi autem libellus alterius opinionem non laedat. <a 365 d. xiiii k. mart. constantinopoli valentiniano et valente aa. conss.>
 
-CJ.9.37.0. De abigeis.
+* CJ.9.37.0. De abigeis.
 
 CJ.9.37.1: Imperatores Arcadius, Honorius
 
 Abacti animalis accusatio non solum cum inscriptionibus, sed etiam sine ea observatione proponitur. * arcad. et honor. aa. pasiphilo. * <a 395 d.Viii k.Ian.Mediolani olybrio et probino conss.>
 
-CJ.9.38.0. De nili aggeribus non rumpendis.
+* CJ.9.38.0. De nili aggeribus non rumpendis.
 
 CJ.9.38.1: Imperatores Honorius, Theodosius
 
 Si quis posthac per aegyptum intra duodecimum cubitum fluminis nili ulla fluenta de propriis ac vetustis usibus praeter fas praeterque morem antiquitatis usurpaverit, flammis eo loco consumatur, in quo vetustatis reverentiam et propemodum ipsius imperii appetierit securitatem: consciis et consortibus eius deportatione constringendis, ita ut numquam supplicandi eis vel recipiendi civitatem vel dignitatem vel substantiam licentia tribuatur. * honor. et theodos. aa. anthemio pp. * <a 409 d.X k.Oct.Constantinopoli honorio viii et theodosio iii aa.Conss. >
 
-CJ.9.39.0. De his qui latrones vel in aliis criminibus reos occultaverint.
+* CJ.9.39.0. De his qui latrones vel in aliis criminibus reos occultaverint.
 
 CJ.9.39.1pr.: Imperatores Valentinianus, Valens, Gratianus
 
@@ -1589,7 +1591,7 @@ CJ.9.39.2.3: Imperator Marcianus
 
 Si vero post exhibitionem eorum qui accusantur innocentes eos esse et nihil criminis admisisse patuerit, accusatores poenam quae in calumniatores exercenda est subire cogantur. exemplo autem grave est sic latronem requirere, ut innocentibus periculum fiat. <a 451 d.Xii k.Ian.Constantinopoli marciano a. cons.>
 
-CJ.9.40.0. De requirendis.
+* CJ.9.40.0. De requirendis.
 
 CJ.9.40.1pr.: Imperator Antoninus
 
@@ -1607,7 +1609,7 @@ CJ.9.40.3: Imperatores Honorius, Theodosius
 
 In pecuniariis causis edictum contra latentem propositum existimationem eius non laedit. criminalis vero programmatis tenor hanc tantum ferat de iure censuram, ut inter reos adnotati non iam patrimonium debeat transferre, sed famae existimationem laedere. * honor. et theodos. aa. palladio pp. * <a 421 d.Viii id.Iul.Ravennae eustathio et agricola conss.>
 
-CJ.9.41.0. De quaestionibus.
+* CJ.9.41.0. De quaestionibus.
 
 CJ.9.41.1pr.: Imperatores Severus, Antoninus
 
@@ -1709,7 +1711,7 @@ CJ.9.41.18: Imperator Justinianus
 
 De tormentis hereditariorum servorum sancimus, nullo discrimine secundum anteriores leges et constitutiones interposito, sive de iure hereditatis aliqua moveatur inter heredes quaestio sive de corporibus tantum hereditariis sive de utroque eorum, servos de corporibus tantum hereditariis interrogari: et licere servos eos tantummodo, qui res regendas detinent, sive in servitute relicti sunt sive libertatem adipisci per ultimam testatoris voluntatem praecepti sunt, in quaestionem rerum hereditariarum deduci et ex his ea quae occultata sunt revelari: prius sacramento super his a nobis statuto praestando. * iust. a. demostheni pp. * <a 529 d.Xv k.Oct.Chalcedone decio vc.Cons.>
 
-CJ.9.42.0. De abolitionibus.
+* CJ.9.42.0. De abolitionibus.
 
 CJ.9.42.1: Imperatores Diocletianus, Maximianus
 
@@ -1747,7 +1749,7 @@ CJ.9.42.3.4: Imperatores Valentinianus, Valens, Gratianus
 
 Sin autem testibus tormenta minime sunt illata, et sic abolitio non dabitur in illis criminibus, ut in violata maiestate aut patria oppugnata vel prodita aut peculatus admissio aut sacramentis desertis, omniaque quae iuri veteri continentur: in quibus iudex non minus accusatorem ad docenda quae detulit, quam reum purganda quae negat debet urguere. <a 369 d prid.Id.Oct.Treviris valentiniano np.Et victore conss.>
 
-CJ.9.43.0. De generali abolitione.
+* CJ.9.43.0. De generali abolitione.
 
 CJ.9.43.1: Imperator Antoninus
 
@@ -1761,7 +1763,7 @@ CJ.9.43.3: Imperatores Valentinianus, Valens, Gratianus
 
 Indulgentia, patres conscripti, quos liberat notat nec infamiam criminis tollit, sed poenae gratiam facit. * valentin. valens et grat. aaa. ad senatum. * <a 371 d.Xiiii k.Iun.Treviris gratiano a.Ii et probo conss.>
 
-CJ.9.44.0. Ut intra certum tempus criminalis quaestio terminetur.
+* CJ.9.44.0. Ut intra certum tempus criminalis quaestio terminetur.
 
 CJ.9.44.1: Imperatores Valentinianus, Theodosius, Arcadius
 
@@ -1779,7 +1781,7 @@ CJ.9.44.3: Imperator Justinianus
 
 Criminales causas omnimodo intra duos annos a contestatione litis connumerandos finiri censemus nec ulla occasione ad ampliora produci tempora, sed post bienii excessum minime ulterius lite durante accusatum absolvi, scientibus iudicibus eorumque officiis, quod, si litigatoribus admonentibus ipsis litis introductionem vel examinationem distulerint, poena vicenarum librarum auri ferientur. * iust. a. menae. pp. * <a 529 d.K.April.Decio vc.Cons.>
 
-CJ.9.45.0. Ad senatus consultum turpillianum.
+* CJ.9.45.0. Ad senatus consultum turpillianum.
 
 CJ.9.45.1: Imperator Antoninus
 
@@ -1805,7 +1807,7 @@ CJ.9.45.6: Imperatores Diocletianus, Maximianus
 
 In exsecutionibus criminum obtinuisse videtur illos destitisse, qui animum accusationis implendae prorsus deseruerunt. cum igitur aliis ex causis vel simplicitatis ratione necdum te ad finem vindictae pervenisse preces tuae testentur, poteris postposita formidine impedimenti super aliquantulo silentio institutam accusationem secundum leges perferens quam probabis tibi debitam vindictam reportare. * diocl. et maxim. aa. et cc.Luciliano. * <a xxx pp.Iii k.Iul.Diocletiano vi et maximiano aa.Conss.>
 
-CJ.9.46.0. De calumniatoribus.
+* CJ.9.46.0. De calumniatoribus.
 
 CJ.9.46.1: Imperator Alexander Severus
 
@@ -1855,7 +1857,7 @@ CJ.9.46.10: Imperatores Honorius, Theodosius
 
 Quisquis crimen intendit, non impunitam fore noverit licentiam mentiendi, cum calumniantes ad vindictam poscat similitudo supplicii. * honor. et theodos. aa. conss. praett. tribb. plebis senatui s.D.* <a 423 d.Viii id.Aug. ravennae asclepiodoto et mariniano conss.>
 
-CJ.9.47.0. De poenis.
+* CJ.9.47.0. De poenis.
 
 CJ.9.47.1: Imperator t. ael. ant.
 
@@ -1981,13 +1983,13 @@ CJ.9.47.25: Imperatores Honorius, Theodosius
 
 His, qui conficiendi naves incognitam ante peritiam barbaris tradiderunt, capitale supplicium proponi decernimus. * honor. et theodos. aa. monaxio pp. * <a 419 d.Viii k.Oct.Constantinopoli monaxio et plinta conss.>
 
-CJ.9.48.0. Ne sine iussu principis certis iudicibus liceat confiscare.
+* CJ.9.48.0. Ne sine iussu principis certis iudicibus liceat confiscare.
 
 CJ.9.48.1: Imperator Theodosius
 
 Nulli iudicum liceat, exceptis his, qui in summa administrationis sunt positi potestate, proscriptionis tempestate totius substantiae aliquem percellere, nisi ad nostras aures hoc ipsum referatur. * theodos. a. et valentin. c.Ad hierium pp. * <a 425 d.X k.Febr.Constantinopoli theodosio a.Xi et valentiniano c. conss.>
 
-CJ.9.49.0. De bonis conscriptorum seu damnatorum.
+* CJ.9.49.0. De bonis conscriptorum seu damnatorum.
 
 CJ.9.49.1pr.: Imperator Antoninus
 
@@ -2089,7 +2091,7 @@ CJ.9.49.10.5: Imperatores Theodosius, Valentinianus
 
 Excepta sola maiestatis quaestione: quam si quis sacrilego animo adsumpserit, iuste poenam ad suos etiam posteros mittit. <a 426 d.X k.Febr.Constantinopoli theodosio xii et valentiniano ii aa. conss.>
 
-CJ.9.50.0. De bonis mortem sibi consciscentium.
+* CJ.9.50.0. De bonis mortem sibi consciscentium.
 
 CJ.9.50.1pr.: Imperator Antoninus
 
@@ -2103,7 +2105,7 @@ CJ.9.50.2: Imperator Alexander Severus
 
 Eorum, qui in reatu diem suum functi sunt, si non perduellionis causam sustinuerunt nec ob metum criminis mortem sibi consciverunt, bona ad successores transmittuntur. * alex. a. rustico. * <a 226 d.Id.Mai.Alexandro a.Iterum et Marcello conss.>
 
-CJ.9.51.0. De sententiam passis et restitutis.
+* CJ.9.51.0. De sententiam passis et restitutis.
 
 CJ.9.51.1: Imperator Antoninus
 
@@ -2184,6 +2186,3 @@ Sententia vero deportationis nullo patrem praeiudicio deminuat. quem si comperta
 CJ.9.51.13.3: Imperator Constantinus
 
 Ideoque tantum ad restitutionem indulgentia valeat, quantum ad correctionem sententia valuit, utque deportationis ipsum per se nomen rerum omnium spoliatio est , ita indulgentiae restitutio bonorum ac dignitatis uno nomine amissorum omnium sit recuperatio. et filii emancipationem a patribus officiis petant, ut libertatem non damnationis, sed lenitatis paternae testem habeant. <a 321 d. xviii k. oct. sirmi crispo ii et constantino ii cc. conss.>
-
-Ius Romanum 	Justinian 	The Latin Library 	The Classics Page
-
