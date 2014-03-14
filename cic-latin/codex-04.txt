@@ -1163,10 +1163,7 @@ Si mutuam pecuniam accipere demetriano domitianus mandavit et hoc posse probare 
 Qui secutus domini voluntatem cum servo ipsius habuit contractum, ad instar actionis institoriae recte de solido dominum convenit. * diocl. et maxim. aa. et cc. onesimae. * <a 294 d. xiiii k. dec. cc. conss.>
 
 
-
-* 4.26.0.
-Quod cum eo qui in aliena est potestate negotium gestum esse dicitur,
-vel de peculio seu quod iussu aut de in rem verso.
+* 4.26.0. Quod cum eo qui in aliena est potestate negotium gestum esse dicitur, vel de peculio seu quod iussu aut de in rem verso.
 
 
 4.26.1: Imperatores Severus, Antoninus

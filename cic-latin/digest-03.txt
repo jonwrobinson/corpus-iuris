@@ -1,26 +1,14 @@
+# -*- mode: org -*-
 
+* LIBER III
++ 3.1.0. De postulando.
++ 3.2.0. De his qui notantur infamia.
++ 3.3.0. De procuratoribus et defensoribus.
++ 3.4.0. Quod cuiuscumque universitatis nomine vel contra eam agatur.
++ 3.5.0. De negotiis gestis.
++ 3.6.0. De calumniatoribus.
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber tertius
-
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
-
-* 3.1.0. De postulando.
-* 3.2.0. De his qui notantur infamia.
-* 3.3.0. De procuratoribus et defensoribus.
-* 3.4.0. Quod cuiuscumque universitatis nomine vel contra eam agatur.
-* 3.5.0. De negotiis gestis.
-* 3.6.0. De calumniatoribus.
-
-
-
-3.1.0.  De postulando.
+* 3.1.0.  De postulando.
 
 
 3.1.1
@@ -119,8 +107,7 @@ pr. A principe nostro rescriptum est non prohiberi tutorem adesse pupillo in neg
 
 1. Qui autem inter infames sunt, sequenti titulo explanabitur.
 
-
-3.2.0. De his qui notantur infamia.
+* 3.2.0. De his qui notantur infamia.
 
 
 3.2.1
@@ -339,8 +326,7 @@ pr. Exheredatum quoque filium luctum habere patris memoriae placuit, idemque et 
 
 1. Si quis in bello ceciderit, etsi corpus eius non compareat, lugebitur.
 
-
-3.3.0. De procuratoribus et defensoribus.
+* 3.3.0. De procuratoribus et defensoribus.
 
 
 3.3.1
@@ -931,8 +917,7 @@ pr. Et ideo non potest videri boni viri arbitratu litem defendere is, qui actore
 
 1. Ad duas res petendas procurator datus si unam rem petat, exceptione non excluditur et rem in iudicium deducit.
 
-
-3.4.0. Quod cuiuscumque universitatis nomine vel contra eam agatur.
+* 3.4.0. Quod cuiuscumque universitatis nomine vel contra eam agatur.
 
 
 3.4.1
@@ -1011,8 +996,7 @@ Paulus libro primo  manualium
 
 Constitui potest actor etiam ad operis novi nuntiationem et ad stipulationes interponendas, veluti legatorum, damni infecti, iudicatum solvi, quamvis servo potius civitatis caveri debeat: sed et si actori cautum fuerit, utilis actio administratori rerum civitatis dabitur.
 
-
-3.5.0. De negotiis gestis.
+* 3.5.0. De negotiis gestis.
 
 
 3.5.1
@@ -1417,8 +1401,7 @@ Africanus libro octavo quaestionum
 
 Si rem, quam servus venditus subripuisset a me venditore, emptor vendiderit eaque in rerum natura esse desierit, de pretio negotiorum gestorum actio mihi danda sit, ut dari deberet, si negotium, quod tuum esse existimares, cum esset meum, gessisses: sicut ex contrario in me tibi daretur, si, cum hereditatem quae ad me pertinet tuam putares, res tuas proprias legatas solvisses, quandoque de ea solutione liberarer.
 
-
-3.6.0. De calumniatoribus.
+* 3.6.0. De calumniatoribus.
 
 
 3.6.1

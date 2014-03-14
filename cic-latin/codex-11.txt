@@ -84,7 +84,6 @@ DOMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI CODEX
 + 11.78.0. De cupressis ex luco daphnensi vel perseis per aegyptum non excidendis vel vendendis.
 
 
-
 * TODO 11.1.0. De tollenda lustralis auri collatione.
 
 [Greek text.]

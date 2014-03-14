@@ -1,28 +1,21 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber secundus
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-* TITLES
-** 2.1.0. De iurisdictione.
-** 2.2.0. Quod quisque iuris in alterum statuerit, ut ipse eodem iure utatur.
-** 2.3.0. Si quis ius dicenti non obtemperaverit.
-** 2.4.0. De in ius vocando.
-** 2.5.0. Si quis in ius vocatus non ierit sive quis eum vocaverit, quem ex edicto non debuerit.
-** 2.6.0. In ius vocati ut eant aut satis vel cautum dent.
-** 2.7.0. Ne quis eum qui in ius vocabitur vi eximat.
-** 2.8.0. Qui satisdare cogantur vel iurato promittant vel suae promissioni committantur.
-** 2.9.0. Si ex noxali causa agatur, quemadmodum caveatur.
-** 2.10.0. De eo per quem factum erit quominus quis in iudicio sistat.
-** 2.11.0. Si quis cautionibus in iudicio sistendi causa factis non obtemperaverit.
-** 2.12.0. De feriis et dilationibus et diversis temporibus.
-** 2.13.0. De edendo.
-** 2.14.0. De pactis.
-** 2.15.0. De transactionibus.
+* LIBER II
++ 2.1.0. De iurisdictione.
++ 2.2.0. Quod quisque iuris in alterum statuerit, ut ipse eodem iure utatur.
++ 2.3.0. Si quis ius dicenti non obtemperaverit.
++ 2.4.0. De in ius vocando.
++ 2.5.0. Si quis in ius vocatus non ierit sive quis eum vocaverit, quem ex edicto non debuerit.
++ 2.6.0. In ius vocati ut eant aut satis vel cautum dent.
++ 2.7.0. Ne quis eum qui in ius vocabitur vi eximat.
++ 2.8.0. Qui satisdare cogantur vel iurato promittant vel suae promissioni committantur.
++ 2.9.0. Si ex noxali causa agatur, quemadmodum caveatur.
++ 2.10.0. De eo per quem factum erit quominus quis in iudicio sistat.
++ 2.11.0. Si quis cautionibus in iudicio sistendi causa factis non obtemperaverit.
++ 2.12.0. De feriis et dilationibus et diversis temporibus.
++ 2.13.0. De edendo.
++ 2.14.0. De pactis.
++ 2.15.0. De transactionibus.
 
 * 2.1.0.  De iurisdictione.
 
@@ -164,7 +157,6 @@ Paulus libro primo ad edictum
 
 Extra territorium ius dicenti impune non paretur. Idem est, et si supra iurisdictionem suam velit ius dicere.
 
-
 * 2.2.0. Quod quisque iuris in alterum statuerit, ut ipse eodem iure utatur.
 
 
@@ -210,7 +202,6 @@ Gaius libro primo ad edictum provinciale
 
 Illud eleganter praetor excipit: "praeterquam si quis eorum contra eum fecerit, qui ipse eorum quid fecisset": et recte, ne scilicet vel magistratus, dum studet hoc edictum defendere, vel litigator, dum vult beneficio huius edicti uti, ipse in poenam ipsius edicti committat.
 
-
 * 2.3.0. Si quis ius dicenti non obtemperaverit.
 
 
@@ -227,7 +218,6 @@ pr. Omnibus magistratibus, non tamen duumviris, secundum ius potestatis suae con
 3. Non solum autem reum, qui non obtemperavit, hoc edicto teneri Labeo ait, verum etiam petitorem.
 
 4. Hoc iudicium non ad id quod interest, sed quanti ea res est concluditur: et cum meram poenam contineat, neque post annum neque in heredem datur.
-
 
 * 2.4.0. De in ius vocando.
 
@@ -420,7 +410,6 @@ Modestinus libro primo de poenis
 
 Si sine venia edicti impetrata libertus patronum in ius vocaverit, ex querella patroni vel supradictam poenam, id est quinquaginta aureos dat vel a praefecto urbi quasi inofficiosus castigatur, si inopia dinoscitur laborare.
 
-
 * 2.5.0. Si quis in ius vocatus non ierit sive quis eum vocaverit, quem ex edicto non debuerit.
 
 
@@ -443,7 +432,6 @@ pr. Ex quacumque causa ad praetorem vel alios, qui iurisdictioni praesunt, in iu
 Ulpianus libro 47 ad Sabinum
 
 Cum quis in iudicio sisti promiserit neque adiecerit poenam, si status non esset: incerti cum eo agendum esse in id quod interest verissimum est, et ita celsus quoque scribit.
-
 
 * 2.6.0. In ius vocati ut eant aut satis vel cautum dent.
 
@@ -478,7 +466,6 @@ Ulpianus libro 48 ad edictum
 Qui duos homines in iudicio sisti promisit, si alterum exhibet,
 alterum non, ex promissione non videtur eos stetisse, cum alter eorum
 non sit exhibitus.
-
 
 * 2.7.0. Ne quis eum qui in ius vocabitur vi eximat.
 
@@ -540,7 +527,6 @@ pr. Si per alium quis exemerit, hac clausula tenetur, sive praesens fuit sive ab
 Ulpianus libro 35 ad edictum
 
 Is qui debitorem vi exemit, si solverit, reum non liberat, quia poenam suam solvit.
-
 
 * 2.8.0. Qui satisdare cogantur vel iurato promittant vel suae promissioni committantur.
 
@@ -683,7 +669,6 @@ Paulus libro sexto ad edictum
 
 Qui iurato promisit iudicio sisti, non videtur peierasse, si ex concessa causa hoc deseruerit.
 
-
 * 2.9.0. Si ex noxali causa agatur, quemadmodum caveatur.
 
 
@@ -727,7 +712,6 @@ Paulus libro 11 ad Sabinum
 
 Sed si statu liberum sisti promissum sit, in eadem causa sisti videtur, quamvis liber sistatur, quod implicitus ei casus libertatis fuerit.
 
-
 * 2.10.0. De eo per quem factum erit quominus quis in iudicio sistat.
 
 
@@ -768,7 +752,6 @@ pr. Ex hoc edicto adversus eum, qui dolo fecit, quo minus quis in iudicium vocat
 3. Si et stipulator dolo promissoris et promissor dolo stipulatoris impeditus fuerit quo minus ad iudicium veniret: neutri eorum praetor succurrere debebit, ab utraque parte dolo compensando.
 
 4. Si a fideiussore quinquaginta stipulatus fuero, si in iudicium reus non venerit, petiturus a reo centum, et dolo malo Sempronii factum fuerit, ne in iudicium reus veniat: centum a Sempronio consequar. Tanti enim mea interfuisse videtur, quia, si venisset in iudicium, actio mihi centum adversus reum vel adversus heredem eius competebat, licet fideiussor minorem summam mihi promiserit.
-
 
 * 2.11.0. Si quis cautionibus in iudicio sistendi causa factis non obtemperaverit.
 
@@ -903,7 +886,6 @@ Papinianus libro secundo quaestionum
 
 Si tutor iudicio sisti promiserit et stipulationi non obtemperaverit, et interea pupillus adoleverit aut mortem obierit aut etiam abstentus sit hereditate: denegabitur ex stipulatu actio. Nam et ipsius rei, quae petebatur, si tutor iudicatus fuerit et eorum quid acciderit, non esse dandam in eum actionem iudicati probatum est.
 
-
 * 2.12.0. De feriis et dilationibus et diversis temporibus.
 
 
@@ -974,7 +956,6 @@ Divus Traianus Minicio natali rescripsit ferias a forensibus tantum negotiis dar
 Paulus libro quinto sententiarum
 
 In pecuniariis causis omnibus dilatio singulis causis plus semel tribui non potest: in capitalibus autem reo tres dilationes, accusatori duae dari possunt: sed utrumque causa cognita.
-
 
 * 2.13.0. De edendo.
 
@@ -1114,7 +1095,6 @@ Feminae remotae videntur ab officio argentarii, cum ea opera virilis sit.
 Ulpianus libro quarto ad edictum
 
 Haec actio neque post annum neque in heredem nisi ex suo facto dabitur. Heredi autem dabitur.
-
 
 * 2.14.0. De pactis.
 
@@ -1642,7 +1622,6 @@ Nemo paciscendo efficere potest, ne sibi locum suum dedicare liceat aut ne sibi 
 Furius libro primo ad edictum
 
 Si reus, postquam pactus sit a se non peti pecuniam ideoque coepit id pactum fideiussori quoque prodesse, pactus sit ut a se peti liceat: an utilitas prioris pacti sublata sit fideiussori, quaesitum est. Sed verius est semel adquisitam fideiussori pacti exceptionem ulterius ei invito extorqueri non posse.
-
 
 * 2.15.0. De transactionibus.
 

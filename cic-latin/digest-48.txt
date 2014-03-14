@@ -1,41 +1,30 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber quadragensimus octavus
-
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
-
-* 48.1.0.  De publicis iudiciis.
-* 48.2.0.  De accusationibus et inscriptionibus.
-* 48.3.0.  De custodia et exhibitione reorum.
-* 48.4.0.  Ad legem Iuliam maiestatis.
-* 48.5.0.  Ad legem Iuliam de adulteriis coercendis.
-* 48.6.0.  Ad legem Iuliam de vi publica.
-* 48.7.0.  Ad legem Iuliam de vi privata.
-* 48.8.0.  Ad legem Corneliam de siccariis et veneficis.
-* 48.9.0.  De lege Pompeia de parricidiis.
-* 48.10.0. De lege Cornelia de falsis et de senatus consulto liboniano.
-* 48.11.0. De lege Iulia repetundarum.
-* 48.12.0. De lege Iulia de annona.
-* 48.13.0. Ad legem Iuliam peculatus et de sacrilegis et de residuis.
-* 48.14.0. De lege Iulia ambitus.
-* 48.15.0. De lege Fabia de plagiariis.
-* 48.16.0. Ad senatus consultum Turpillianum et de abolitionibus criminum.
-* 48.17.0. De requirendis vel absentibus damnandis.
-* 48.18.0. De quaestionibus.
-* 48.19.0. De poenis.
-* 48.20.0. De bonis damnatorum.
-* 48.21.0. De bonis eorum, qui ante sententiam vel mortem (..)
-* 48.22.0. De interdictis et relegatis et deportatis.
-* 48.23.0. De sententiam passis et restitutis.
-* 48.24.0. De cadaveribus punitorum.
-
+* LIBER XLVIII
++ 48.1.0.  De publicis iudiciis.
++ 48.2.0.  De accusationibus et inscriptionibus.
++ 48.3.0.  De custodia et exhibitione reorum.
++ 48.4.0.  Ad legem Iuliam maiestatis.
++ 48.5.0.  Ad legem Iuliam de adulteriis coercendis.
++ 48.6.0.  Ad legem Iuliam de vi publica.
++ 48.7.0.  Ad legem Iuliam de vi privata.
++ 48.8.0.  Ad legem Corneliam de siccariis et veneficis.
++ 48.9.0.  De lege Pompeia de parricidiis.
++ 48.10.0. De lege Cornelia de falsis et de senatus consulto liboniano.
++ 48.11.0. De lege Iulia repetundarum.
++ 48.12.0. De lege Iulia de annona.
++ 48.13.0. Ad legem Iuliam peculatus et de sacrilegis et de residuis.
++ 48.14.0. De lege Iulia ambitus.
++ 48.15.0. De lege Fabia de plagiariis.
++ 48.16.0. Ad senatus consultum Turpillianum et de abolitionibus criminum.
++ 48.17.0. De requirendis vel absentibus damnandis.
++ 48.18.0. De quaestionibus.
++ 48.19.0. De poenis.
++ 48.20.0. De bonis damnatorum.
++ 48.21.0. De bonis eorum, qui ante sententiam vel mortem (..)
++ 48.22.0. De interdictis et relegatis et deportatis.
++ 48.23.0. De sententiam passis et restitutis.
++ 48.24.0. De cadaveribus punitorum.
 
 
 * 48.1.0. De publicis iudiciis.
@@ -132,7 +121,6 @@ pr. Accusatore defuncto res ab alio, iudicante praeside provinciae, peragi potes
 Papinianus libro 16 responsorum
 
 Generi servis a socero veneficii accusatis praeses provinciae patrem calumniam intulisse pronuntiaverat. Inter infames patrem defunctae non habendum respondi, quoniam et si publicum iudicium inter liberos de morte filiae constitisset, citra periculum pater vindicaretur.
-
 
 * 48.2.0. De accusationibus et inscriptionibus.
 
@@ -303,7 +291,6 @@ Papinianus libro 16 responsorum
 
 Alterius provinciae reus apud eos accusatur et damnatur, apud quos crimen contractum ostenditur. Quod etiam in militibus esse observandum optimi principes nostri generaliter rescripserunt.
 
-
 * 48.3.0. De custodia et exhibitione reorum.
 
 
@@ -415,7 +402,6 @@ pr. Non est facile tironi custodia credenda: nam ea prodita is culpae reus est, 
 
 7. Quod si fugitivum domino reddendum prodiderit, si facultates habeat, domino pretium reddere iuberi Saturninus probat.
 
-
 * 48.4.0. Ad legem Iuliam maiestatis.
 
 
@@ -520,7 +506,6 @@ Maiestatis crimine accusari potest, cuius ope consilio dolo malo provincia vel c
 Ulpianus libro octavo disputationum
 
 Is, qui in reatu decedit, integri status decedit: extinguitur enim crimen mortalitate. Nisi forte quis maiestatis reus fuit: nam hoc crimine nisi a successoribus purgetur, hereditas fisco vindicatur. Plane non quisque legis Iuliae maiestatis reus est, in eadem condicione est, sed qui perduellionis reus est, hostili animo adversus rem publicam vel principem animatus: ceterum si quis ex alia causa legis Iuliae maiestatis reus sit, morte crimine liberatur.
-
 
 * 48.5.0. Ad legem Iuliam de adulteriis coercendis.
 
@@ -1059,7 +1044,6 @@ Papinianus libro quarto responsorum
 
 Defuncta quoque socru gener incesti postulabitur, ut adulter post mortem mulieris.
 
-
 * 48.6.0. Ad legem Iuliam de vi publica.
 
 
@@ -1159,7 +1143,6 @@ Paulus libro singulari ad senatus consultum Turpillianum
 
 Qui nova vectigalia exercent, lege Iulia de vi publica tenentur.
 
-
 * 48.7.0. Ad legem Iuliam de vi privata.
 
 
@@ -1222,7 +1205,6 @@ Creditores si adversus debitores suos agant, per iudicem id, quod deberi sibi pu
 Modestinus libro secundo de poenis
 
 Si creditor sine auctoritate iudicis res debitoris occupet, hac lege tenetur et tertia parte bonorum multatur et infamis fit.
-
 
 * 48.8.0. Ad legem Corneliam de siccariis et veneficis.
 
@@ -1359,7 +1341,6 @@ Paulus libro quinto sententiarum
 
 Si in rixa percussus homo perierit, ictus unius cuiusque in hoc collectorum contemplari oportet.
 
-
 * 48.9.0. De lege Pompeia de parricidiis.
 
 
@@ -1426,7 +1407,6 @@ pr. Poena parricidii more maiorum haec instituta est, ut parricida virgis sangui
 Paulus libro singulari de poenis omnium legum.
 
 Eorum, qui parricidii poena teneri possunt, semper accusatio permittitur.
-
 
 * 48.10.0. De lege Cornelia de falsis et de senatus consulto Liboniano.
 
@@ -1729,7 +1709,6 @@ Modestinus libro tertio de poenis
 
 Si quis falsis constitutionibus nullo auctore habito utitur, lege Cornelia aqua et igni ei interdicitur.
 
-
 * 48.11.0. De lege Iulia repetundarum.
 
 
@@ -1801,7 +1780,6 @@ Papinianus libro 15 responsorum
 
 Qui munus publice mandatum accepta pecunia ruperunt, crimine repetundarum postulantur.
 
-
 * 48.12.0. De lege Iulia de annona.
 
 
@@ -1828,7 +1806,6 @@ Papirius libro primo de constitutionis
 pr. Imperatores Antoninus et Verus Augusti in haec verba rescripserunt: "Minime aequum est decuriones civibus suis frumentum vilius quam annona exigit vendere".
 
 1. Item scripserunt ius non esse ordini cuiusque civitatis pretium grani quod invenitur statuere. Item in haec verba rescripserunt: "Etsi non solent hoc genus nuntiationis mulieres exercere, tamen quia demonstraturam te quae ad utilitatem annonae pertinent polliceris, praefectum annonae docere potes".
-
 
 * 48.13.0. Ad legem Iuliam peculatus et de sacrilegis et de residuis.
 
@@ -1959,7 +1936,6 @@ Papinianus libro 36 quaestionum
 
 Publica iudicia peculatus et de residuis et repetundarum similiter adversus heredem exercentur, nec immerito, cum in his quaestio principalis ablatae pecuniae moveatur.
 
-
 * 48.14.0. De lege Iulia ambitus.
 
 
@@ -1976,7 +1952,6 @@ pr. Haec lex in urbe hodie cessat, quia ad curam principis magistratuum creatio 
 3. Item is, qui novum vectigal instituerit, ex senatus consulto hac poena plectitur.
 
 4. Et si qui reus vel accusator domum iudicis ingrediatur, per legem Iuliam iudiciariam in legem ambitus committit, id est aureorum centum fisco inferre iubetur.
-
 
 * 48.15.0. De lege Fabia de plagiariis.
 
@@ -2034,7 +2009,6 @@ pr. Non statim plagiarium esse, qui furti crimine ob servos alienos interceptos 
 Hermogenianus libro quinto iuris epitomarum
 
 Poena pecuniaria statuta lege Fabia in usu esse desiit: nam in hoc crimine detecti pro delicti modo coercentur et plerumque in metallum damnantur.
-
 
 * 48.16.0. Ad senatus consultum Turpillianum et de abolitionibus criminum.
 
@@ -2209,7 +2183,6 @@ pr. Imperatores Antoninus et Verus Augusti Iulio Vero rescripserunt, cum satis d
 
 2. Item rescripserunt, cum in crimine capitali abolitionem ut in re pecuniaria petitam esse diceret, restaurandam esse nihilo minus cognitionem, ita ut, si non probasset hoc quod proponeret, non impune eum laturum.
 
-
 * 48.17.0. De requirendis vel absentibus damnandis.
 
 
@@ -2262,7 +2235,6 @@ pr. Mandatis cavetur intra annum requirendorum bona obsignari, ut, si redierint 
 2. Sed et divus Traianus inter moventia fructus quoque haberi rescripsit.
 
 3. Curandum est autem, ne quid ei qui profugit medio tempore a debitoribus eius solvatur, ne per hoc fuga eius instruatur.
-
 
 * 48.18.0. De quaestionibus.
 
@@ -2506,7 +2478,6 @@ Quaestionis habendae causa neminem esse damnandum divus Hadrianus rescripsit.
 Paulus libro primo sententiarum
 
 Qui sine accusatoribus in custodiam recepti sunt, quaestio de his habenda non est, nisi si aliquibus suspicionibus urgueantur.
-
 
 * 48.19.0. De poenis.
 
@@ -2954,7 +2925,6 @@ pr. Imperator Antoninus Aaurelio Atiliano rescripsit: "Praeses ultra administrat
 
 1. Idem respondit eum, qui suo admisso decurionum honorem amisit, non posse in poenis evitandis decurionis filii honorem vindicare.
 
-
 * 48.20.0. De bonis damnatorum.
 
 
@@ -3054,7 +3024,6 @@ pr. Si quis damnatus appellaverit et pendente appellatione decesserit, bona eius
 
 1. Qui reus est non maiestatis, bona administrare potest et pecuniam credere debitamque sibi recipere, si bona fide debitores ei solvunt: in fraudem autem quae alienavit, post condemnationem revocantur.
 
-
 * 48.21.0. De bonis eorum, qui ante sententiam vel mortem sibi consciverunt vel accusatorem corruperunt.
 
 
@@ -3093,7 +3062,6 @@ pr. Qui rei postulati vel qui in scelere deprehensi metu criminis imminentis mor
 7. Si qui autem sub incerto causae eventu in vinculis vel sub fideiussoribus decesserint, horum bona non esse confiscanda mandatis cavetur.
 
 8. De illo videamus, si quis conscita morte nulla iusta causa praecedente in reatu decesserit, an, si parati fuerint heredes causam suscipere et innocentem defunctum ostendere, audiendi sint nec prius bona in fiscum cogenda sint, quam si de crimine fuerit probatum: an vero omnimodo publicanda sunt. Sed divus Pius Modesto Taurino rescripsit, si parati sint heredes defensiones suscipere, non esse bona publicanda, nisi de crimine fuerit probatum.
-
 
 * 48.22.0. De interdictis et relegatis et deportatis.
 
@@ -3268,7 +3236,6 @@ pr. Relegatus morari non potest Romae, etsi id sententia comprehensum non est, q
 
 1. Cum adversus homines liberos eiusmodi sententia fertur, per quam bona eorum publicantur, qualis est deportationis in insulam, ea ipsa sententia priorem condicionem amittunt et statim poenis sibi irrogatis per eam traduntur, nisi quid cum maiestate coniunctum requirit, ut poena exacerbetur.
 
-
 * 48.23.0. De sententiam passis et restitutis.
 
 
@@ -3297,7 +3264,6 @@ In insulam deportati bona fiscus poena remissa retinuit: creditores ex ante gest
 Paulus libro 17 quaestionum
 
 In metallum damnata mulier eum quem prius conceperat edidit, deinde a principe restituta est. Humanius dicetur etiam cognationis iura huic restituta videri.
-
 
 * 48.24.0. De cadaveribus punitorum.
 

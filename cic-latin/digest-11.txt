@@ -1,30 +1,17 @@
+# -*- mode: org -*-
 
- 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber undecimus
- 
- 
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
- 
- 
+* LIBER XI
++ 11.1.0. De interrogationibus in iure faciendis et interrogatoriis actionibus.
++ 11.2.0. De quibus rebus ad eundem iudicem eatur.
++ 11.3.0. De servo corrupto.
++ 11.4.0. De fugitivis.
++ 11.5.0. De aleatoribus.
++ 11.6.0. Si mensor falsum modum dixerit.
++ 11.7.0. De religiosis et sumptibus funerum et ut funus ducere liceat.
++ 11.8.0. De mortuo inferendo et sepulchro aedificando.
 
-    * 11.1.0. De interrogationibus in iure faciendis et interrogatoriis actionibus.
-    * 11.2.0. De quibus rebus ad eundem iudicem eatur.
-    * 11.3.0. De servo corrupto.
-    * 11.4.0. De fugitivis.
-    * 11.5.0. De aleatoribus.
-    * 11.6.0. Si mensor falsum modum dixerit.
-    * 11.7.0. De religiosis et sumptibus funerum et ut funus ducere liceat.
-    *
-      11.8.0. De mortuo inferendo et sepulchro aedificando.
+* 11.1.0.  De interrogationibus in iure faciendis et interrogatoriis actionibus.
 
-   
-
-11.1.0.  De interrogationibus in iure faciendis et interrogatoriis actionibus.
- 
 
 11.1.1
 
@@ -214,13 +201,12 @@ Ubicumque iudicem aequitas moverit, aeque oportere fieri interrogationem dubium 
 
  11.1.22
 
-Scaevola libro quarto digestorum 
+Scaevola libro quarto digestorum
 
 Procuratore Caesaris ob debitum fiscale interrogante unus ex filiis, qui nec bonorum possessionem acceperat nec heres erat, respondit se heredem esse: an quasi interrogatoria creditoribus ceteris teneatur? Respondit ab his, qui in iure non interrogassent, ex responso suo conveniri non posse.
- 
 
-11.2.0. De quibus rebus ad eundem iudicem eatur.
- 
+* 11.2.0. De quibus rebus ad eundem iudicem eatur.
+
 
 11.2.1
 
@@ -233,10 +219,9 @@ Si inter plures familiae erciscundae agetur et inter eosdem communi dividundo au
 Papinianus libro secundo quaestionum
 
 Cum ex pluribus tutoribus unus, quod ceteri non sint idonei, convenitur, postulante eo omnes ad eundem iudicem mittuntur: et hoc rescriptis principum continetur.
- 
 
-11.3.0. De servo corrupto.
- 
+* 11.3.0. De servo corrupto.
+
 
 11.3.1
 
@@ -389,10 +374,9 @@ Dominus servum dispensatorem manumisit, postea rationes ab eo accepit et cum eis
 Marcianus libro quarto regularum
 
 Servi corrupti nomine et constante matrimonio marito in mulierem datur actio, sed favore nuptiarum in simplum.
- 
 
-11.4.0. De fugitivis.
- 
+* 11.4.0. De fugitivis.
+
 
 11.4.1
 
@@ -441,10 +425,9 @@ Limenarchae et stationarii fugitivos deprehensos recte in custodiam retinent. Ma
 Tryphoninus libro primo disputationum
 
 Si in harenam fugitivus servus se dederit, ne isto quidem periculo, discriminis vitae tantum, sibi irrogato potestatem domini evitare poterit: nam divus Pius rescripsit omnimodo eos dominis suis reddere sive ante pugnam ad bestias sive post pugnam, quoniam interdum aut pecunia interversa aut commisso aliquo maiore maleficio ad fugiendam inquisitionem vel iustitiam animadversionis in harenam se dare mallent. Reddi ergo eos oportet.
- 
 
-11.5.0. De aleatoribus.
- 
+* 11.5.0. De aleatoribus.
+
 
 11.5.1
 
@@ -483,10 +466,9 @@ pr. Quod in convivio vescendi causa ponitur, in eam rem familia ludere permittit
 1. Si servus vel filius familias victus fuerit, patri vel domino competit repetitio. Item si servus acceperit pecuniam, dabitur in dominum de peculio actio, non noxalis, quia ex negotio gesto agitur: sed non amplius cogendus est praestare, quam id quod ex ea re in peculio sit.
 
 2. Adversus parentes et patronos repetitio eius quod in alea lusum est utilis ex hoc edicto danda est.
- 
 
-11.6.0. Si mensor falsum modum dixerit.
- 
+* 11.6.0. Si mensor falsum modum dixerit.
+
 
 11.6.1
 
@@ -559,10 +541,9 @@ pr. Vel cuius alterius rei, tenebitur.
 3. Hoc exemplo etiam adversus architectum actio dari debet qui fefellit: nam et divus Severus adversus architectum et redemptorem actiones dandas decreverit.
 
 4. Ego etiam adversus tabularium puto actiones dandas, qui in computatione fefellit.
- 
 
-11.7.0. De religiosis et sumptibus funerum et ut funus ducere liceat.
- 
+* 11.7.0. De religiosis et sumptibus funerum et ut funus ducere liceat.
+
 
 11.7.1
 
@@ -746,7 +727,7 @@ Sed si nondum pater dotem reciperaverit, vir solus convenietur reputaturus patri
 
  11.7.18
 
-Iulianus libro decimo digestorum 
+Iulianus libro decimo digestorum
 
 impensa enim funeris aes alienum dotis est:
 
@@ -866,7 +847,7 @@ Si locus sub condicione legatus sit, interim heres inferendo mortuum non facit l
 
  11.7.35
 
-Marcellus libro quinto digestorum 
+Marcellus libro quinto digestorum
 
 Minime maiores lugendum putaverunt eum, qui ad patriam delendam et parentes et liberos interficiendos venerit: quem si filius patrem aut pater filium occidisset, sine scelere, etiam praemio adficiendum omnes constituerunt.
 
@@ -941,10 +922,9 @@ pr. Si plura praedia quis habuit et omnium usum fructum separatim legaverit, pot
 1. Si heres mulieris inferat mortuam in hereditarium fundum, a marito qui debet in funus conferre pro aestimatione loci consequatur.
 
 2. Ei, cui vestimenta legantur, si in funus erogata sint, utilem actionem in heredem dandam placuit et privilegium funerarium.
- 
 
-11.8.0. De mortuo inferendo et sepulchro aedificando.
- 
+* 11.8.0. De mortuo inferendo et sepulchro aedificando.
+
 
 11.8.1
 
@@ -999,6 +979,3 @@ Ulpianus libro primo opinionum
 pr. Si in eo monumento, quod imperfectum esse dicitur, reliquiae hominis conditae sunt, nihil impedit quominus id perficiatur.
 
 1. Sed si religiosus locus iam factus sit, pontifices explorare debent, quatenus salva religione desiderio reficiendi operis medendum sit.
- 
-  
-

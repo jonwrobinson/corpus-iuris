@@ -1,20 +1,9 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber sextus
-
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
-* TITLES
-** 6.1.0. De rei vindicatione.
-** 6.2.0. De publiciana in rem actione.
-** 6.3.0. Si ager vectigalis, id est emphyteuticarius, petatur.
-
+* LIBER VI
++ 6.1.0. De rei vindicatione.
++ 6.2.0. De publiciana in rem actione.
++ 6.3.0. Si ager vectigalis, id est emphyteuticarius, petatur.
 
 
 * 6.1.0.  De rei vindicatione.

@@ -1,23 +1,12 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber octavus
-
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
-* TITLES
-** 8.1.0. De servitutibus.
-** 8.2.0. De servitutibus praediorum urbanorum.
-** 8.3.0. De servitutibus praediorum rusticorum.
-** 8.4.0. Communia praediorum tam urbanorum quam rusticorum.
-** 8.5.0. Si servitus vindicetur vel ad alium pertinere negetur.
-** 8.6.0. Quemadmodum servitutes amittuntur.
-
+* LIBER VIII
++ 8.1.0. De servitutibus.
++ 8.2.0. De servitutibus praediorum urbanorum.
++ 8.3.0. De servitutibus praediorum rusticorum.
++ 8.4.0. Communia praediorum tam urbanorum quam rusticorum.
++ 8.5.0. Si servitus vindicetur vel ad alium pertinere negetur.
++ 8.6.0. Quemadmodum servitutes amittuntur.
 
 * 8.1.0.  De servitutibus.
 
@@ -155,7 +144,6 @@ Ei fundo, quem quis vendat, servitutem imponi, et si non utilis sit, posse exist
 Iavolenus libro quinto ex posterioribus Labeonis
 
 Quotiens via aut aliquid ius fundi emeretur, cavendum putat esse labeo per te non fieri, quo minus eo iure uti possit, quia nulla eiusmodi iuris vacua traditio esset. Ego puto usum eius iuris pro traditione possessionis accipiendum esse ideoque et interdicta veluti possessoria constituta sunt.
-
 
 * 8.2.0. De servitutibus praediorum urbanorum.
 
@@ -448,7 +436,6 @@ pr. Olympico habitationem et horreum, quod in ea domo erat, quoad viveret, legav
 
 1. Lucius Titius aperto pariete domus suae, quatenus stillicidii rigor et tignorum protectus competebat, ianuam in publico aperuit: quaero, cum neque luminibus Publii Maevii vicini neque itineri vicini officeret neque stillicidium ne vicini domo cadat, an aliquam actionem Publius Maevius vicinus ad prohibendum haberet. Respondi secundum ea quae proponerentur nullam habere.
 
-
 * 8.3.0. De servitutibus praediorum rusticorum.
 
 
@@ -722,7 +709,6 @@ Paulus libro primo manualium
 
 Flumine interveniente via constitui potest, si aut vado transiri potest aut pontem habeat: diversum, si pontonibus traicitur. Haec ita, si per unius praedia flumen currat: alioquin si tua praedia mihi vicina sint, deinde flumen, deinde Titii praedia, deinde via publica, in quam iter mihi adquiri volo, dispiciamus ne nihil vetet a te mihi viam dari usque ad flumen, deinde a Titio usque ad viam publicam. Sed videamus, num et si tu eorum praediorum dominus sis, quae trans flumen intra viam publicam sint, idem iuris sit, quia via consummari solet vel civitate tenus vel usque ad viam publicam vel usque ad flumen, in quo pontonibus traiciatur vel usque ad proprium aliud eiusdem domini praedium: quod si est, non videtur interrrumpi servitus, quamvis inter eiusdem domini praedia flumen publicum intercedat.
 
-
 * 8.4.0. Communia praediorum tam urbanorum quam rusticorum.
 
 
@@ -849,7 +835,6 @@ Si precario vicinus in tuo maceriam duxerit, interdicto "quod precario habet" ag
 Paulus libro primo manualium
 
 Receptum est, ut plures domini et non pariter cedentes servitutes imponant vel adquirant, ut tamen ex novissimo actu etiam superiores confirmentur perindeque sit, atque si eodem tempore omnes cessissententiarum et ideo si is qui primus cessit vel defunctus sit vel alio genere vel alio modo partem suam alienaverit, post deinde socius cesserit, nihil agetur: cum enim postremus cedat, non retro adquiri servitus videtur, sed perinde habetur, atque si, cum postremus cedat, omnes cessissent: igitur rursus hic actus pendebit, donec novus socius cedat. Idem iuris est et si uni ex dominis cedatur, deinde in persona socii aliquid horum acciderit. Ergo et ex diverso si ei, qui non cessit, aliquid tale eorum contigerit, ex integro omnes cedere debebunt: tantum enim tempus eis remissum est, quo dare facere possunt, vel diversis temporibus possint, et ideo non potest uni vel unus cedere. Idemque dicendum est et si alter cedat, alter leget servitutes. Nam si omnes socii legent servitutes et pariter eorum adeatur hereditas, potest dici utile esse legatum: si diversis temporibus, inutiliter dies legati cedit: nec enim sicut viventium, ita et defunctorum actus suspendi receptum est.
-
 
 * 8.5.0. Si servitus vindicetur vel ad alium pertinere negetur.
 
@@ -1041,7 +1026,6 @@ pr. Testatrix fundo, quem legaverat, casas iunctas habuit: quaesitum est, si hae
 Labeo libro primo pithanon a Paulo epitomarum
 
 Si qua aqua nondum apparet, eius iter ductus constitui non potest. Paulus: immo puto idcirco id falsum esse, quia cedi potest, ut aquam quaereres et inventam ducere liceret.
-
 
 * 8.6.0. Quemadmodum servitutes amittuntur.
 

@@ -80,7 +80,6 @@ DOMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI CODEX
 + 7.74.0. De privilegio dotis.
 + 7.75.0. De revocandis his quae per fraudem alienata sunt.
 
-
 * 7.1.0. De vindicta libertate et apud consilium manumissione.
 
 7.1.1: Imperator Antoninus

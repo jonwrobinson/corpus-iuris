@@ -82,7 +82,6 @@ DOMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI CODEX
 + 10.77.0. De irenarchis.
 + 10.78.0. De argenti pretio quod thesauris infertur.
 
-
 * 10.1.0. De iure fisci.
 
 10.1.1: Imperatores Severus, Antoninus

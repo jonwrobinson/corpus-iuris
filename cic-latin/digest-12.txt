@@ -1,27 +1,16 @@
+# -*- mode: org -*-
+
+* LIBER XII
++ 12.1.0. De rebus creditis si certum petetur et de condictione.
++ 12.2.0. De iureiurando sive voluntario sive necessario sive iudiciali.
++ 12.3.0. De in litem iurando.
++ 12.4.0. De condictione causa data causa non secuta.
++ 12.5.0. De condictione ob turpem vel iniustam causam.
++ 12.6.0. De condictione indebiti.
++ 12.7.0. De condictione sine causa.
 
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber duodecimus
-
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
-
-* 12.1.0. De rebus creditis si certum petetur et de condictione.
-* 12.2.0. De iureiurando sive voluntario sive necessario sive iudiciali.
-* 12.3.0. De in litem iurando.
-* 12.4.0. De condictione causa data causa non secuta.
-* 12.5.0. De condictione ob turpem vel iniustam causam.
-* 12.6.0. De condictione indebiti.
-* 12.7.0. De condictione sine causa.
-
-
-
-12.1.0.  De rebus creditis si certum petetur et de condictione.
+* 12.1.0.  De rebus creditis si certum petetur et de condictione.
 
 
 12.1.1
@@ -332,8 +321,7 @@ pr. Si ego decem stipulatus a Titio deinceps stipuler a Seio, quanto minus a Tit
 
  1. Labeo ait, cum decem dari curari stipulatus sis, ideo non posse te decem dare oportere intendere, quia etiam reum locupletiorem dando promissor liberari possit: quo scilicet significat non esse cogendum eum accipere iudicium, si reum locupletem offerat.
 
-
-12.2.0. De iureiurando sive voluntario sive necessario sive iudiciali.
+* 12.2.0. De iureiurando sive voluntario sive necessario sive iudiciali.
 
 
 12.2.1
@@ -704,8 +692,7 @@ pr. Creditore, qui de mutua pecunia contra pupillum contendebat, iusiurandum def
 
  3. item si reus iuravit, fideiussor tutus sit, quia res iudicata secundum alterutrum eorum utrique proficeret.
 
-
-12.3.0. De in litem iurando.
+* 12.3.0. De in litem iurando.
 
 
 12.3.1
@@ -790,8 +777,7 @@ Paulus libro tertio responsorum
 
 De periurio eius, qui ex necessitate iuris in litem iuravit, quaeri facile non solere.
 
-
-12.4.0. De condictione causa data causa non secuta.
+* 12.4.0. De condictione causa data causa non secuta.
 
 
 12.4.1
@@ -918,8 +904,7 @@ Celsus libro tertio digestorum
 
 Dedi tibi pecuniam, ut mihi Stichum dares: utrum id contractus genus pro portione emptionis et venditionis est, an nulla hic alia obligatio est quam ob rem dati re non secuta? In quod proclivior sum: et ideo, si mortuus est Stichus, repetere possum quod ideo tibi dedi, ut mihi Stichum dares. Finge alienum esse Stichum, sed te tamen eum tradidisse: repetere a te pecuniam potero, quia hominem accipientis non feceris: et rursus, si tuus est Stichus et pro evictione eius promittere non vis, non liberaberis, quo minus a te pecuniam repetere possim.
 
-
-12.5.0. De condictione ob turpem vel iniustam causam.
+* 12.5.0. De condictione ob turpem vel iniustam causam.
 
 
 12.5.1
@@ -994,8 +979,7 @@ pr. Si vestimenta utenda tibi commodavero, deinde pretium, ut reciperem, dedisse
 
 1. Si rem locatam tibi vel venditam a te vel mandatam ut redderes, pecuniam acceperis, habebo tecum ex locato vel vendito vel mandati actionem: quod si, ut id, quod ex testamento vel ex stipulatu debebas, redderes mihi, pecuniam tibi dederim, condictio dumtaxat pecuniae datae eo nomine erit. Idque et Pomponius scribit.
 
-
-12.6.0. De condictione indebiti.
+* 12.6.0. De condictione indebiti.
 
 
 12.6.1
@@ -1527,8 +1511,7 @@ pr. Stichus testamento eius, quem dominum suum arbitrabatur, libertate accepta, 
 
 4. Lucius Titius Gaio Seio minori annis viginti quinque pecuniam certam credidit et ab eo aliquantum usurarum nomine accepi, et Gaii Seii minoris heres adversus Publium Maevium a praeside provinciae in integrum restitutus est, ne debitum hereditarium solveret, et nec quicquam de usuris eiusdem sortis, quas Seius minor annis viginti quinque exsolveret, repetendis tractatum apud praesidem aut ab eo est pronuntiatum: quaero, an usuras, quas Gaius Seius minor annis viginti quinque quoad viveret creditori exsolveret, heres eius repetere possit. Respondit secundum ea quae proponerentur condici id, quod usurarum nomine defunctus solvisset, non posse. Item quaero, si existimes repeti non posse, an ex alio debito heres retinere eas possit. Respondit ne hoc quidem.
 
-
-12.7.0. De condictione sine causa.
+* 12.7.0. De condictione sine causa.
 
 
 12.7.1

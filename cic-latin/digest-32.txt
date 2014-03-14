@@ -1,16 +1,6 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber tricesimus duo
-
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
-
+* LIBER XXXII
 * 32.0. De legatis et fideicommissis.
 
 32.1

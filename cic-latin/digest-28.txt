@@ -1,25 +1,14 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber vicesimus octavus
-
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
-* TITLES
-** 28.1.0. Qui testamenta facere possunt et quemadmodum tesamenta fiant.
-** 28.2.0. De liberis et postumis heredibus instituendis vel exheredandis.
-** 28.3.0. De iniusto rupto irrito facto testamento.
-** 28.4.0. De his quae in testamento delentur inducuntur vel inscribuntur.
-** 28.5.0. De heredibus instituendis.
-** 28.6.0. De vulgari et pupillari substitutione.
-** 28.7.0. De condicionibus institutionum.
-** 28.8.0. De iure deliberandi.
-
+* LIBER XXVIII
++ 28.1.0. Qui testamenta facere possunt et quemadmodum tesamenta fiant.
++ 28.2.0. De liberis et postumis heredibus instituendis vel exheredandis.
++ 28.3.0. De iniusto rupto irrito facto testamento.
++ 28.4.0. De his quae in testamento delentur inducuntur vel inscribuntur.
++ 28.5.0. De heredibus instituendis.
++ 28.6.0. De vulgari et pupillari substitutione.
++ 28.7.0. De condicionibus institutionum.
++ 28.8.0. De iure deliberandi.
 
 
 * 28.1.0. Qui testamenta facere possunt et quemadmodum tesamenta fiant.
@@ -292,7 +281,6 @@ Singulos testes, qui in testamento adhibentur, proprio chirographo adnotare conv
 Paulus libro quinto sententiarum
 
 Eius bona, qui se imperatorem facturum heredem esse iactaverat, a fisco occupari non possunt.
-
 
 * 28.2.0. De liberis et postumis heredibus instituendis vel exheredandis.
 
@@ -567,7 +555,6 @@ Marcianus libro secundo regularum
 
 Si filio emancipato exheredato is qui in potestate est praeteritus sit, ipse quidem emancipatus si contra tabulas petat, nihil agit, ab intestato autem et suus et emancipatus venient.
 
-
 * 28.3.0. De iniusto rupto irrito facto testamento.
 
 
@@ -737,7 +724,6 @@ Scaevola libro 13 digestorum
 
 Lucius Titius integra mente et valetudine testamentum fecit uti oportet, postea cum in valetudinem adversam incidisset, mente captus tabulas easdem incidit: quaero, an heredes his tabulis instituti adire possint hereditatem. Respondit secundum ea quae proponerentur non ideo minus adiri posse.
 
-
 * 28.4.0. De his quae in testamento delentur inducuntur vel inscribuntur.
 
 
@@ -774,7 +760,6 @@ Proxime in cognitione principis cum quidam heredum nomina induxisset et bona eiu
 Papinianus libro sexto responsorum
 
 Pluribus tabulis eodem exemplo scriptis unius testamenti voluntatem eodem tempore dominus sollemniter complevit. Si quasdam tabulas in publico depositas abstulit atque delevit, quae iure gesta sunt, praesertim cum ex ceteris tabulis quas non abstulit res gesta declaretur, non constituentur irrita. Paulus notat: sed si, ut intestatus moreretur, incidit tabulas et hoc adprobaverint hi qui ab intestato venire desiderant, scriptis avocabitur hereditas.
-
 
 * 28.5.0. De heredibus instituendis.
 
@@ -1564,7 +1549,6 @@ Paulus libro primo imperialium sententiarum in cognitionibus prolatarum ex libri
 
 1. Pactumeius Androsthenes Pactumeiam Magnam filiam Pactumeii Magni ex asse heredem instituerat, eique patrem eius substituerat. Pactumeio Magno occiso et rumore perlato, quasi filia quoque eius mortua, mutavit testamentum Noviumque Rufum heredem instituit hac praefatione: "Quia heredes, quos volui habere mihi contingere non potui, Novius Rufus heres esto". Pactumeia Magna supplicavit imperatores nostros et cognitione suscepta, licet modus institutioni contineretur, quia falsus non solet obesse, tamen ex voluntate testantis putavit imperator ei subveniendum. Igitur pronuntiavit hereditatem ad Magnam pertinere, sed legata ex posteriore testamento eam praestare debere, proinde atque si in posterioribus tabulis ipsa fuisset heres scripta.
 
-
 * 28.6.0. De vulgari et pupillari substitutione.
 
 
@@ -1950,7 +1934,6 @@ pr. Servum communem habemus: hic heres scriptus est et, si heres non sit, Maeviu
 
 2. Si pupillus substitutum sibi servum alienaverit eumque emptor liberum heredemque instituerit, numquid iste in substitutione habeat substitutum universum? Ut, si quidem pupillus ad pubertatem pervenerit, necessarius ex testamento emptoris heres exstitit, sin vero intra pubertatem decesserit, ex substitutione quidem liber et heres sit et necessarius patri pupilli, emptori autem voluntarius heres exstitit.
 
-
 * 28.7.0. De condicionibus institutionum.
 
 
@@ -2151,7 +2134,6 @@ pr. Quidam in suo testamento heredem scripsit sub tali condicione "si reliquias 
 Papinianus libro 13 quaestionum
 
 Si filius sub condicione heres erit et nepotes ex eo substituantur, cum non sufficit sub qualibet condicione filium heredem institui, sed ita demum testamentum ratum est, si condicio fuit in filii potestate, consideremus, numquid intersit, quae condicio fuerit adscripta, utrum quae moriente filio impleri non potuit, veluti "si Alexandriam ierit, filius heres esto" isque Romae decessit, an vero quae potuit etiam extremo vitae momento impleri, veluti "si Titio decem dederit, filius heres esto", quae condicio nomine filii per alium impleri potest. Nam superior quidem species condicionis admittit vivo filio nepotes ad hereditatem, qui si neminem substitutum haberet, dum moritur, legitimus patri heres exstiterit, argumentoque est, quod apud servium quoque relatum est: quendam enim refert ita heredem institutum, si in Capitolium ascenderit, quod si non ascendisset, legatum ei datum, eumque antequam ascenderet mortem obisse: de quo respondit servius condicionem morte defecisse ideoque moriente eo legati diem cessisse. Altera vero species condicionis vivo filio non admittit nepotes ad hereditatem, qui substituti si non essent, intestato avo heredes existerent: neque enim filius videretur obstitisse, post cuius mortem patris testamentum destituitur, quemadmodum si exheredato eodem filio nepotes, cum filius moreretur, heredes fuissent instituti.
-
 
 * 28.8.0. De iure deliberandi.
 

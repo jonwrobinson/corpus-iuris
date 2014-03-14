@@ -1,22 +1,10 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber tricesimus sextus
-
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
-* TITLES
-** 36.1.0. Ad senatus consultum Trebellianum.
-** 36.2.0. Quando dies legatorum vel fideicommissorum cedat.
-** 36.3.0. Ut legatorum seu fideicommissorum servandorum causa caveatur.
-** 36.4.0. Ut in possessionem legatorum vel fideicommissorum servandorum causa esse liceat.
-
-
+* LIBER XXXVI
++ 36.1.0. Ad senatus consultum Trebellianum.
++ 36.2.0. Quando dies legatorum vel fideicommissorum cedat.
++ 36.3.0. Ut legatorum seu fideicommissorum servandorum causa caveatur.
++ 36.4.0. Ut in possessionem legatorum vel fideicommissorum servandorum causa esse liceat.
 
 * 36.1.0. Ad senatus consultum Trebellianum.
 
@@ -933,7 +921,6 @@ Iulius foebus testamento facto, cum tres liberos heredes institueret, Foebum et 
 
 . . . . . . . . . .. Si filio familias hereditas restituta sit, videamus , quatenus <recte> actiones hereditariae post emancipationem ei et in eum dentur <dantur>.
 
-
 * 36.2.0. Quando dies legatorum vel fideicommissorum cedat.
 
 
@@ -1203,7 +1190,6 @@ Scaevola libro 14 digestorum
 
 Uxori ex parte sextante heredi institutae substituit et heredem fidei commisit, si uxor heres non erit, dotem ei et alia quaedam dari: post mortem mariti uxor ante condicionem et priusquam adeat hereditatem decessit. Quaesitum est, an dies fideicommissi cum moritur cessisse videatur ideoque heredibus eius debeatur. Respondi, si uxor prius decessit, quam hereditatem adiret, videri diem fideicommissi cessisse.
 
-
 * 36.3.0. Ut legatorum seu fideicommissorum servandorum causa caveatur.
 
 
@@ -1374,7 +1360,6 @@ pr. Quae filium legitimum relinquebat, patrem eundemque collibertum ex asse scri
 1. Idem quaesiit: testatricem apud maritum suum, ex quo filium reliquerat, res deposuisse non exacta cautione depositionis: an ea res patri heredi restitui debeat? An vero quoniam emolumentum totius hereditatis ad filium defunctae reverti deberet, apud maritum remaneret, apud quem dos remansisset? Respondit, quod mulieris mansisset nec in dote fuisset, restituendum esse heredi.
 
 2. Tutor, qui et coheres pupilli erat, absente pupillo, cum admonuerunt eum legatarii, fideicommissi nomine in solidum ipse cavit. Quaesitum est, an in pupillum adultum factum danda sit utilis actio. Respondit dandam.
-
 
 * 36.4.0. Ut in possessionem legatorum vel fideicommissorum servandorum causa esse liceat.
 

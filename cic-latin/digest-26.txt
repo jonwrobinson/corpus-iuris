@@ -1,26 +1,16 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber vicesimus sextus
-
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-* TITLES
-**  26.1.0. De tutelis.
-**  26.2.0. De testamentaria tutela.
-**  26.3.0. De confirmando tutore vel curatore.
-**  26.4.0. De legitimis tutoribus.
-**  26.5.0. De tutoribus et curatoribus datis ab his qui ius dandi habent (..)
-**  26.6.0. Qui petant tutores vel curatores et ubi petantur.
-**  26.7.0. De administratione et periculo tutorum et curatorum qui gesserint vel non (..)
-**  26.8.0. De auctoritate et consensu tutorum et curatorum.
-**  26.9.0. Quando ex facto tutoris vel curatoris minores agere vel conveniri possunt.
-**  26.10.0. De suspectis tutoribus et curatoribus.
-
+* LIBER XXVI
++  26.1.0. De tutelis.
++  26.2.0. De testamentaria tutela.
++  26.3.0. De confirmando tutore vel curatore.
++  26.4.0. De legitimis tutoribus.
++  26.5.0. De tutoribus et curatoribus datis ab his qui ius dandi habent (..)
++  26.6.0. Qui petant tutores vel curatores et ubi petantur.
++  26.7.0. De administratione et periculo tutorum et curatorum qui gesserint vel non (..)
++  26.8.0. De auctoritate et consensu tutorum et curatorum.
++  26.9.0. Quando ex facto tutoris vel curatoris minores agere vel conveniri possunt.
++  26.10.0. De suspectis tutoribus et curatoribus.
 
 
 * 26.1.0. De tutelis.
@@ -173,7 +163,6 @@ Complura senatus consulta facta sunt, ut in locum furiosi et muti et surdi tutor
 Neratius libro tertio regularum
 
 Feminae tututores dari non possunt, quia id munus masculorum est, nisi a principe filiorum tutelam specialiter postulent.
-
 
 * 26.2.0. De testamentaria tutela.
 
@@ -446,7 +435,6 @@ Scaevola libro decimo digestorum
 
 Cum codicillis ideo alios tutores dare significasset, quoniam testamento datos quosdam defunctos aut excusationem habere posse comperisset, an nihilo minus qui eorum viverent nec excusati essent, tutores permanerent? Respondit nihil proponi, cur non permanerent.
 
-
 * 26.3.0. De confirmando tutore vel curatore.
 
 
@@ -527,7 +515,6 @@ Scaevola libro 20 digestorum
 pr. Avia nepotibus curatorem dedit fideicommisso ei relicto: quaesitum est, an administrare curator compelli debeat. Respondit curatorem quidem non esse, sed cum aliquid ei testamento datum esset, teneri eum ex fideicommisso, si non curam susciperet, nisi id quod ei datum esset nollet petere aut reddere esset paratus.
 
 1. Item quaesitum est, an iste curator satisdare nepotibus debeat. Respondit quasi curatorem non debere, sed cum fideicommissum ab eo peti posset, fideicommissi nomine satisdare debere.
-
 
 * 26.4.0. De legitimis tutoribus.
 
@@ -635,7 +622,6 @@ pr. Adgnato propior femina, quo minus sit impuberis adgnati tutor, non obicitur,
 Paulus libro 16 ad Plautium
 
 Minus autem audiens potest.
-
 
 * 26.5.0. De tutoribus et curatoribus datis ab his qui ius dandi habent, et qui et in quibus causis specialiter dari possunt.
 
@@ -850,7 +836,6 @@ Paulus libro singulari de cognitionibus
 
 Si peregre agant qui tutores vel curatores dati sunt, ut intra diem trigesimum notum his a magistratibus fiat, divus Marcus rescripsit.
 
-
 * 26.6.0. Qui petant tutores vel curatores et ubi petantur.
 
 
@@ -897,7 +882,6 @@ pr. Credendum est et eam matrem constitutione contineri, quae a patre non legiti
 3. Haec autem mater ab omni quidem bonorum vindicatione intestatorum filiorum repellitur. Si vero maritus ei fideicommissum a filio reliquerit, cui mulier non petit tutorem, "si sine liberis decesserit", vel sub hac ipsa condicione "si intestatus mortuus erit", fideicommissi petitio, quae ex alieno iudicio descendit, non est perempta.
 
 4. Quae autem suspectum tutorem non fecit, nec verbis nec sententia constitutionis in poenam incidit, quod eiusmodi facta diiudicare et aestimare virilis animi est et potest etiam delicta ignorare mater, satisque est eam petisse talem, qui inquisitione per praetorem habita idoneus apparuit. Et ideo nec iudicium eius sufficit ad eligendos tutores, sed inquisitio fit, etiamsi maxime in bona propria liberis suis testamento tutores dederit.
-
 
 * 26.7.0. De administratione et periculo tutorum et curatorum qui gesserint vel non et de agentibus vel conveniendis uno vel pluribus.
 
@@ -1496,7 +1480,6 @@ Pomponius libro 20 epistularum
 
 Apud Aristonem ita scriptum est: quod culpa tutoris pupillus ex hereditate desiit possidere, eius aestimatio in petitione hereditatis sine ulla dubitatione fieri debebit ita, si pupillo de hereditate cautum sit: cautum autem esse videtur etiam si tutor erit idoneus, a quo servari possit id, quod pupillus ex litis aestimatione subierit. Sed si tutor solvendo non est, videndum erit, utrum calamitas pupilli an detrimentum petitoris esse debeat perindeque haberi debet, ac si res fortuito casu interisset, similiter atque ipse pupillus expers culpae quid ex hereditate deminuisset corrupisset perdidisset. De possessore quoque furioso quaeri potest, si quid ne in rerum natura esset, per furorem eius accidisset. Tu quid putas? Pomponius: puto eum vere dicere. Sed quare cunctatus es, si solvendo non sit tutor, cuius damnum esse debeat? Cum alioquin elegantius dicere poterit actiones dumtaxat, quas haberet cum tutore pupillus, venditori hereditatis praestandas esse, sicuti heres vel bonorum possessor si nihil culpa eius factum sit (veluti si fundo hereditario vi deiectus sit aut servus hereditarius vulneratus ab aliquo sit sine culpa possessoris), nihil plus quam actiones, quas eo nomine habet, praestare debeat. Idem dicendum est et si per curatorem furiosi culpa vel dolo quid amissum fuerit, quemadmodum si quid stipulatus tutor vel curator fuisset aut vendidisset rem hereditariam. Impune autem puto admittendum, quod per furorem alicuius accidit, quo modo si casu aliquo sine facto personae id accidisset.
 
-
 * 26.8.0. De auctoritate et consensu tutorum et curatorum.
 
 
@@ -1662,7 +1645,6 @@ Labeo libro quinto pithanon
 
 Si quid est, quod pupillus agendo tutorem suum liberaturus est, id ipso tutore auctore agi recte non potest.
 
-
 * 26.9.0. Quando ex facto tutoris vel curatoris minores agere vel conveniri possunt.
 
 
@@ -1722,7 +1704,6 @@ Tutori, qui infantem defendit, succurritur, ut in pupillum iudicati actio detur.
 Scaevola libro quinto responsorum
 
 Tutor, qui et coheres pupillo erat, cum conveniretur fideicommissi nomine, in solidum ipse cavit: quaesitum est, an in adultum pupillum pro parte danda sit utilis actio. Respondit danda [dandam].
-
 
 * 26.10.0. De suspectis tutoribus et curatoribus.
 

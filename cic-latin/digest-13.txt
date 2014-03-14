@@ -1,24 +1,13 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber tertius decimus
-
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
-* TITLES
-** 13.1.0. De condictione furtiva.
-** 13.2.0. De condictione ex lege.
-** 13.3.0. De condictione triticiaria.
-** 13.4.0. De eo quod certo loco dari oportet.
-** 13.5.0. De pecunia constituta.
-** 13.6.0. Commodati vel contra.
-** 13.7.0. De pigneraticia actione vel contra.
-
+* LIBER XIII
++ 13.1.0. De condictione furtiva.
++ 13.2.0. De condictione ex lege.
++ 13.3.0. De condictione triticiaria.
++ 13.4.0. De eo quod certo loco dari oportet.
++ 13.5.0. De pecunia constituta.
++ 13.6.0. Commodati vel contra.
++ 13.7.0. De pigneraticia actione vel contra.
 
 
 * 13.1.0.  De condictione furtiva.
@@ -168,7 +157,6 @@ Tryphoninus libro 15 disputationum
 
 Licet fur paratus fuerit excipere condictionem et per me steterit, dum in rebus humanis res fuerat, condicere eam, postea autem perempta est, tamen durare condictionem veteres voluerunt, quia videtur, qui primo invito domino rem contrectaverit, semper in restituenda ea, quam nec debuit auferre, moram facere.
 
-
 * 13.2.0. De condictione ex lege.
 
 
@@ -177,7 +165,6 @@ Licet fur paratus fuerit excipere condictionem et per me steterit, dum in rebus 
 Paulus libro secundo ad Plautium
 
 Si obligatio lege nova introducta sit nec cautum eadem lege, quo genere actionis experiamur, ex lege agendum est.
-
 
 * 13.3.0. De condictione triticiaria.
 
@@ -207,7 +194,6 @@ In hac actione si quaeratur, res quae petita est cuius temporis aestimationem re
 Gaius libro nono ad edictum provinciale
 
 Si merx aliqua, quae certo die dari debebat, petita sit, veluti vinum oleum frumentum, tanti litem aestimandam Cassius ait, quanti fuisset eo die, quo dari debuit: si de die nihil convenit, quanti tunc, cum iudicium acciperetur. Idemque iuris in loco esse, ut primum aestimatio sumatur eius loci, quo dari debuit, si de loco nihil convenit, is locus spectetur, quo peteretur. Quod et de ceteris rebus iuris est.
-
 
 * 13.4.0. De eo quod certo loco dari oportet.
 
@@ -291,7 +277,6 @@ Is qui certo loco dare promittit, nullo alio loco, quam in quo promisit, solvere
 Paulus libro quarto quaestionum
 
 Si post moram factam, quo minus Capuae solveretur, cum arbitraria vellet agere, fideiussor acceptus sit eius actionis nomine, videamus, ne ea pecunia, quae ex sententia iudicis accedere potest, non debeatur nec sit in obligatione, adeo ut nunc quoque sorte soluta vel si Capuae petatur, arbitrium iudicis cesset: nisi si quis dicat, si iudex centum et viginti condemnare debuerit, centum solutis ex universitate, tam ex sorte quam ex poena solutum videri, ut supersit petitio eius quod excedit sortem, et accedat poena pro eadem quantitate. Quod non puto admittendum, tanto magis, quod creditor accipiendo pecuniam etiam remisisse poenam videtur.
-
 
 * 13.5.0. De pecunia constituta.
 
@@ -556,7 +541,6 @@ Scaevola libro quinto digestorum
 
 Lucius Titius Seiorum debitor decessit: hi persuaserunt Publio Maevio, quod hereditas ad eum pertineret et fecerunt, ut epistulam in eos exponat debitorem sese esse quasi heredem patrui sui confitentem, qui et addidit epistulae suae, quod in rationes suas eadem pecunia pervenit. Quaesitum est, cum ad Publium Maevium ex hereditate Lucii Titii nihil pervenerit, an ex scriptura proposita de constituta pecunia conveniri possit et an doli exceptione uti possit. Respondit nec civilem eo nomine actionem competere: sed nec de constituta secundum ea quae proponerentur. Idem quaesiit, usurarum nomine quod ex causa supra scripta datum sit, an repeti possit. Respondit secundum ea quae proponerentur posse.
 
-
 * 13.6.0. Commodati vel contra.
 
 
@@ -780,7 +764,6 @@ Si servus, quem tibi commodaverim, furtum fecerit, utrum sufficiat contraria com
 Pomponius libro 21 ad Quintum Mucium
 
 Si commodavero tibi equum, quo utereris usque ad certum locum, si nulla culpa tua interveniente in ipso itinere deterior equus factus sit, non teneris commodati: nam ego in culpa ero, qui in tam longum iter commodavi, qui eum laborem sustinere non potuit.
-
 
 * 13.7.0. De pigneraticia actione vel contra.
 

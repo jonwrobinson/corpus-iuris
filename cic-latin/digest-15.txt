@@ -1,26 +1,13 @@
+# -*- mode: org -*-
 
- 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber quintus decimus
- 
- 
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
- 
- 
+* LIBER XV
++ 15.1.0.De peculio.
++ 15.2.0. Quando de peculio actio annalis est.
++ 15.3.0. De in rem verso.
++ 15.4.0. Quod iussu.
 
-    * 15.1.0.De peculio.
-    * 15.2.0. Quando de peculio actio annalis est.
-    * 15.3.0. De in rem verso.
-    *
-      15.4.0. Quod iussu.
+* 15.1.0.  De peculio.
 
-   
-
-15.1.0.  De peculio.
- 
 
 15.1.1
 
@@ -46,7 +33,7 @@ Pomponius libro quinto ad Sabinum
 
 Ex ea causa, ex qua soleret servus fructuarius vel usuarius adquirere, in eum, cuius usus fructus vel usus sit, actio dumtaxat de peculio ceteraeque honorariae dantur, ex reliquis in dominum proprietatis.
 
-15.1.3 
+15.1.3
 
 Ulpianus libro 29 ad edictum
 
@@ -78,7 +65,7 @@ pr. Licet tamen praetor, si cum eo qui in potestate sit gestum sit polliceatur a
 
 13. Si filius familias duumvir pupillo rem salvam fore caveri non curavit, Papinianus libro nono quaestionum de peculio actionem competere ait. Nec quicquam mutare arbitror, an voluntate patris decurio factus sit, quoniam rem publicam salvam fore pater obstrictus est.
 
-15.1.4 
+15.1.4
 
 Pomponius libro septimo ad Sabinum
 
@@ -96,7 +83,7 @@ pr. Peculii est non id, cuius servus seorsum a domino rationem habuerit, sed quo
 
 6. Non solum id in peculio vicariorum ponendum est, cuius rei a domino, sed etiam id cuius ab eo cuius in peculio sint seorsum rationem habeant.
 
-15.1.5 
+15.1.5
 
 Ulpianus libro 29 ad edictum
 
@@ -112,11 +99,11 @@ pr. Depositi nomine pater vel dominus dumtaxat de peculio conveniuntur et si qui
 
 15.1.6
 
-Celsus libro sexto digestorum 
+Celsus libro sexto digestorum
 
 Definitio peculii quam Tubero exposuit, ut Labeo ait, ad vicariorum peculia non pertinet, quod falsum est: nam eo ipso, quod dominus servo peculium constituit, etiam vicario constituisse existimandus est.
 
-15.1.7 
+15.1.7
 
 Ulpianus libro 29 ad edictum
 
@@ -126,7 +113,7 @@ pr. Quam Tuberonis sententiam et ipse Celsus probat.
 
 2. Scire autem non utique singulas res debet, sed paxumeresteron [id est: magis in universum], et in hanc sententiam Pomponius inclinat.
 
-3. Pupillum autem tam filium quam servum peculium habere posse Pedius libro quinto decimo scribit, cum in hoc, inquit, totum ex domini constitutione pendeat. Ergo et si furere coeperit servus vel filius, retinebunt peculium. 
+3. Pupillum autem tam filium quam servum peculium habere posse Pedius libro quinto decimo scribit, cum in hoc, inquit, totum ex domini constitutione pendeat. Ergo et si furere coeperit servus vel filius, retinebunt peculium.
 
 4. In peculio autem res esse possunt omnes et mobiles et soli: vicarios quoque in peculium potest habere et vicariorum peculium: hoc amplius et nomina debitorum.
 
@@ -142,7 +129,7 @@ Paulus libro quarto ad Sabinum
 
 Non statim quod dominus voluit ex re sua peculii esse, peculium fecit, sed si tradidit aut, cum apud eum esset, pro tradito habuit: desiderat enim res naturalem dationem. Contra autem simul atque noluit, peculium servi desinit peculium esse.
 
-15.1.9 
+15.1.9
 
 Ulpianus libro 29 ad edictum
 
@@ -170,7 +157,7 @@ Gaius libro nono ad edictum provinciale
 
 Si vero adhuc in suspenso est prius iudicium de peculio et ex posteriore iudicio res iudicaretur, nullo modo debet prioris iudicii ratio haberi in posteriore condemnatione, quia in actione de peculio occupantis melior est condicio, occupare autem videtur non qui prior litem contestatus est, sed qui prior ad sententiam iudicis pervenit.
 
-15.1.11 
+15.1.11
 
 Ulpianus libro 29 ad edictum
 
@@ -206,7 +193,7 @@ Ulpianus libro 29 ad edictum
 
 Sed in emptore et venditore vera non est, item in fructuario et proprietario et ceteris qui non sunt socii, et in domino et bonae fidei emptore: nam et Iulianus libro duodecimo scribit neutrum horum deducere id quod alteri debetur.
 
-15.1.14 
+15.1.14
 
 Iulianus libro 12 digestorum
 
@@ -238,7 +225,7 @@ Paulus libro quarto quaestionum
 
 Cui consequens est, ut, si Sticho peculium suum legatum sit isque ex testamento agit, non aliter cogetur id, quod vicarius eius testatori debet, relinquere, nisi is, id est vicarius peculium habeat.
 
-15.1.19 
+15.1.19
 
 Ulpianus libro 29 ad edictum
 
@@ -254,7 +241,7 @@ Paulus libro 30 ad edictum
 
 nam inter se agere socii de peculio non possunt.
 
-15.1.21 
+15.1.21
 
 Ulpianus libro 29 ad edictum
 
@@ -296,7 +283,7 @@ Paulus libro 30 ad edictum
 
 Si semel ex ea causa, id est quod dolo fecerit, dominus praestiterit de peculio conventus, ceteris ex eadem causa nihil praestabit. Sed et si tantundem servus ei debeat quantum dolo minuit, non erit condemnandus. His consequens erit, ut manumisso quoque vel alienato servo ex causa etiam doli intra annum teneatur.
 
-15.1.27 
+15.1.27
 
 Gaius libro nono ad edictum provinciale
 
@@ -320,11 +307,11 @@ pr. Et ancillarum nomine et filiarum familias in peculio actio datur: maxime si 
 
 15.1.28
 
-Iulianus libro 12 digestorum 
+Iulianus libro 12 digestorum
 
 Quare et si socio neque heres neque bonorum possessor exstitisset, eatenus damnari debet is cum quo actum fuerit, quatenus peculium apud eum erit et quantum ex bonis consequi potest.
 
-15.1.29 
+15.1.29
 
 Gaius libro nono ad edictum provinciale
 
@@ -332,7 +319,7 @@ pr. Si quis servum testamento liberum esse iusserit relictis heredibus his, qui 
 
 1. Etiamsi prohibuerit contrahi cum servo dominus, erit in eum de peculio actio.
 
-15.1.30 
+15.1.30
 
 Ulpianus libro 29 ad edictum
 
@@ -358,7 +345,7 @@ Paulus libro 30 ad edictum
 
 Sed si ipse heres dolo fecit, solidum praestat.
 
-15.1.32 
+15.1.32
 
 Ulpianus libro secundo disputationum
 
@@ -392,9 +379,9 @@ Ulpianus libro secundo disputationum
 
 In bonae fidei contractibus quaestionis est, an de peculio an in solidum pater vel dominus tenerentur: ut est in actione de dote agitatum, si filio dos data sit, an pater dumtaxat de peculio conveniretur. Ego autem arbitror non solum de peculio, sed et si quid praeterea dolo malo patris capta fraudataque est mulier, competere actionem: nam si habeat res nec restituere sit paratus, aequum est eum quanti ea res est condemnari. Nam quod in servo, cui res pignori data est, expressum est, hoc et in ceteris bonae fidei iudiciis accipiendum esse Pomponius scripsit. Namque si servo res pignori data sit, non solum de peculio et in rem verso competit actio, verum hanc quoque habet adiectionem "et si quid dolo malo domini captus fraudatusque actor est". Videtur autem dolo facere dominus, qui, cum haberet restituendi facultatem, non vult restituere.
 
-15.1.37 
+15.1.37
 
-Iulianus libro 12 digestorum 
+Iulianus libro 12 digestorum
 
 pr. Si creditor filii tui heredem te instituerit et tu hereditatem eius vendideris, illa parte stipulationis "quanta pecunia ex hereditate ad te pervenerit" teneberis de peculio.
 
@@ -404,7 +391,7 @@ pr. Si creditor filii tui heredem te instituerit et tu hereditatem eius vendider
 
 3. Si actum sit de peculio cum eo qui usum fructum in servo habet et minus consecutus sit creditor, non est iniquum, ut ex universo eius peculio, sive apud fructuarium sive apud proprietarium erit, rem consequatur. Nihil interest, operas suas conduxerit servus a fructuario an pecuniam mutuam ab eo acceperit. Dari itaque debebit actio ei adversus dominum proprietatis deducto eo, quod servus peculii nomine apud fructuarium habet.
 
-15.1.38 
+15.1.38
 
 Africanus libro octavo quaestionum
 
@@ -422,7 +409,7 @@ Florentinus libro 11 institutionum
 
 Peculium et ex eo consistit, quod parsimonia sua quis paravit vel officio meruerit a quolibet sibi donari idque velut proprium patrimonium servum suum habere quis voluerit.
 
-15.1.40 
+15.1.40
 
 Marcianus libro quinto regularum
 
@@ -466,7 +453,7 @@ Paulus libro 60 ad edictum
 
 Qui peculii administrationem concedit, videtur permittere generaliter, quod et specialiter permissurus est.
 
-15.1.47 
+15.1.47
 
 Paulus libro quartum ad Plautium
 
@@ -484,7 +471,7 @@ pr. Quotiens in taberna ita scriptum fuisset "cum ianuario servo meo geri negoti
 
 6. Quae diximus in emptore et venditore, eadem sunt et si alio quovis genere dominium mutatum sit, ut legato, dotis datione, quia quasi patrimonium liberi hominis peculium servi intellegitur, ubicumque esset.
 
-15.1.48 
+15.1.48
 
 Paulus libro 17 ad Plautium
 
@@ -492,7 +479,7 @@ pr. Libera peculii administratio non permanet neque in fugitivo neque in subrept
 
 1. Cui peculii administratio data est, delegare debitorem suum potest.
 
-15.1.49 
+15.1.49
 
 Pomponius libro quarto ad Quintum Mucium
 
@@ -502,7 +489,7 @@ pr. Non solum id peculium est, quod dominus servo concessit, verum id quoque, qu
 
 2. Ut debitor vel servus domino vel dominus servo intellegatur, ex causa civili computandum est: ideoque si dominus in rationes suas referat se debere servo suo, cum omnino neque mutuum acceperit neque ulla causa praecesserat debendi, nuda ratio non facit eum debitorem.
 
-15.1.50 
+15.1.50
 
 Papinianus libro nono quaestionum
 
@@ -520,7 +507,7 @@ Scaevola libro secundo quaestionum
 
 Quod debetur servo ab extraneis, agenti de peculio non omnimodo dominus ad quantitatem debiti condemnandus est, cum et sumptus in petendo et eventus exsecutionis possit esse incertus et cogitanda sit mora temporis quod datur iudicatis, aut venditionis bonorum, si id magis faciendum erit. Ergo si paratus sit actiones mandare, absolvetur. Quod enim dicitur, si cum uno ex sociis agatur, universum peculium computandum quia sit cum socio actio, in eodem redibit, si actiones paratus sit praestare: et in omnibus, quos idcirco teneri dicimus quia habent actionem, delegatio pro iusta praestatione est.
 
-15.1.52 
+15.1.52
 
 Paulus libro quarto quaestionum
 
@@ -552,7 +539,7 @@ Paulus libro secundo ad Neratium
 
 Quod servus meus pro debitore meo mihi expromisit, ex peculio deduci debet et a debitore nihilo minus debetur. Sed videamus, ne credendum sit peculiare fieri nomen eius, pro quo expromissum est. Paulus: utique si de peculio agente aliquo deducere velit, illud nomen peculiare facit.
 
-15.1.57 
+15.1.57
 
 Tryphoninus libro octavo disputationum
 
@@ -564,15 +551,14 @@ pr. Si filius vel servus, cuius nomine dumtaxat de peculio actum est, ante finit
 
 15.1.58
 
-Scaevola libro quinto digestorum 
+Scaevola libro quinto digestorum
 
 Uni ex heredibus praedia legavit ut instructa erant cum servis et ceteris rebus et quidquid ibi esset: hi servi domino debitores fuerunt tam ex aliis causis quam ex ratione kalendarii: quaesitum est, an ceteris heredibus adversus eum pecuniae ab his debitae actio de peculio competit. Respondit non competere.
- 
 
-15.2.0. Quando de peculio actio annalis est.
- 
+* 15.2.0. Quando de peculio actio annalis est.
 
-15.2.1 
+
+15.2.1
 
 Ulpianus libro 29 ad edictum
 
@@ -598,7 +584,7 @@ pr. Praetor ait: "Post mortem eius qui in alterius potestate fuerit, posteave qu
 
 10. Quaesitum est apud Labeonem, si, cum filius viveret, tu credens eum mortuum annali actione egeris et, quia annus praeterierat, exceptione sis repulsus, an rursus experiri tibi comperto errore permittendum est. Et ait permitti debere dumtaxat de peculio, non etiam de in rem verso: nam priore iudicio de in rem verso recte actum est, quia annua exceptio ad peculium, non ad in rem versum pertinet.
 
-15.2.2 
+15.2.2
 
 Paulus libro 30 ad edictum
 
@@ -611,12 +597,11 @@ pr. Cum post mortem filii familias annua adversus patrem actio est, quemadmodum 
 Pomponius libro quarto ad Quintum Mucium
 
 Definitione peculii interdum utendum est etiam, si servus in rerum natura esse desiit et actionem praetor de peculio intra annum dat: nam et tunc et accessionem et decessionem quasi peculii recipiendam (quamquam iam desiit morte servi vel manumissione esse peculium), ut possit ei accedere ut peculio fructibus vel pecorum fetu ancillarumque partubus et decedere, veluti si mortuum sit animal vel alio quolibet modo perierit.
- 
 
-15.3.0. De in rem verso.
- 
+* 15.3.0. De in rem verso.
 
-15.3.1 
+
+15.3.1
 
 Ulpianus libro 29 ad edictum
 
@@ -632,7 +617,7 @@ Iavolenus libro 12 ex Cassio
 
 Qui nummis acceptis servum manumisit, agi cum eo de in rem verso non potest, quia dando libertatem locupletior ex nummis non fit.
 
-15.3.3 
+15.3.3
 
 Ulpianus libro 29 ad edictum
 
@@ -664,7 +649,7 @@ Gaius libro nono ad edictum provinciale
 
 Sed dicendum est occupantis meliorem condicionem esse debere: nam utrisque condemnari dominum de in rem verso iniquum est.
 
-15.3.5 
+15.3.5
 
 Ulpianus libro 29 ad edictum
 
@@ -682,7 +667,7 @@ Tryphoninus libro primo disputationum
 
 Nam si hoc verum esset, etiam antequam venderet rem peculiarem, de in rem verso teneretur, quia hoc ipso, quod servus rem in peculio haberet, locupletior fieret, quod aperte falsum est.
 
-15.3.7 
+15.3.7
 
 Ulpianus libro 29 ad edictum
 
@@ -710,7 +695,7 @@ Iavolenus libro 12 ex Cassio
 
 Si vero pater dotem daturus non fuit, in rem patris versum esse non videtur.
 
-15.3.10 
+15.3.10
 
 Ulpianus libro 29 ad edictum
 
@@ -756,7 +741,7 @@ Si in rem alterius ex dominis versum sit, utrum is solus in cuius rem versum est
 
 15.3.14
 
-Iulianus libro 11 digestorum 
+Iulianus libro 11 digestorum
 
 Marcellus notat: interdum et propter hoc quod in rem alterius socii versum est de in rem verso cum altero agi potest, qui conventus a socio petere potest id in quo damnatus fuerit. Quid enim dicemus, si peculium servo ab altero ademptum fuerit? Paulus: ergo haec quaestio ita procedit, si de peculio agi non potest.
 
@@ -768,11 +753,11 @@ Si filius familias constituerit quod pater debuit, videndum est, an de in rem ve
 
 15.3.16
 
-Alfenus libro secundo digestorum 
+Alfenus libro secundo digestorum
 
 Quidam fundum colendum servo suo locavit et boves ei dederat: cum hi boves non essent idonei, iusserat eos venire et his nummis qui recepti essent alios reparari: servus boves vendiderat, alios redemerat, nummos venditori non solverat, postea conturbaverat: qui boves vendiderat nummos a domino petebat actione de peculio aut quod in rem domini versum esset, cum boves pro quibus pecunia peteretur penes dominum essententiarum respondit non videri peculii quicquam esse, nisi si quid deducto eo, quod servus domino debuisset, reliquum fieret: illud sibi videri boves quidem in rem domini versos esse, sed pro ea re solvisse tantum, quanti priores boves venissent: si quo amplioris pecuniae posteriores boves essent, eius oportere dominum condemnari.
 
-15.3.17 
+15.3.17
 
 Africanus libro octavo quaestionum
 
@@ -792,7 +777,7 @@ Paulus libro quarto quaestionum
 
 Filius familias togam emit: mortuo deinde eo pater ignorans et putans suam esse dedicavit eam in funus eius. Neratius libro responsorum ait in rem patris versum videri: in actione autem de peculio quod in rerum natura non esset uno modo aestimari debere, si dolo malo eius quocum agatur factum esset. Atquin si filio pater togam emere debuit, in rem patris res versa est non nunc quo funerabitur, sed quo tempore emit (funus enim filii aes alienum patris est: et hoc Neratius quoque, qui de in rem verso patrem teneri putavit, ostendit negotium hoc, id est sepulturam et funus filii patris esse aes alienum, non filii): factus est ergo debitor peculii, quamvis res non exstet, ut etiam de peculio possit conveniri, in quam actionem venit et quod in rem versum est: quae tamen adiectio tunc necessaria est, cum annus post mortem filii excessit.
 
-15.3.20 
+15.3.20
 
 Scaevola libro primo responsorum
 
@@ -802,15 +787,14 @@ pr. Pater pro filia dotem promisit et convenit, ut ipse filiam aleret: non praes
 
 15.3.21
 
-Scaevola libro quinto digestorum 
+Scaevola libro quinto digestorum
 
 Filiam familias duxit uxorem patre dotem promittente et convenit inter omnes personas, uti eam pater aut ipsa se tueretur: maritus ei mutuos nummos dedit, cum iuste putaret patrem eius ministraturum tantum salarium, quantum dare filiae suae instituerat: eos nummos illa in usus necessarios sibi et in servos quos secum habebat consumpsit, aliquantum et (cum ei res familiares creditae essent) ex pecunia mariti in easdem causas convertit: deinde priusquam pater salarium expleret, moritur filia: pater impensam recusat: maritus res mulieris retinet: quaero, an de in rem verso adversus patrem actio competat. Respondit, si ad ea id quod creditum est erogatum esset, sine quibus aut se tueri aut servos paternos exhibere non posset, dandam de in rem verso utilem actionem.
- 
 
-15.4.0. Quod iussu.
- 
+* 15.4.0. Quod iussu.
 
-15.4.1 
+
+15.4.1
 
 Ulpianus libro 29 ad edictum
 
@@ -834,7 +818,7 @@ pr. Merito ex iussu domini in solidum adversus eum iudicium datur, nam quodammod
 
 9. Si curatore adulescentis vel furiosi vel prodigi iubente cum servo contractum sit, putat Labeo dandam quod iussu actionem in eos quorum servus fuerit: idem et in vero procuratore. Sed si procurator verus non sit, in ipsum potius dandam actionem idem Labeo ait.
 
-15.4.2 
+15.4.2
 
 Paulus libro 30 ad edictum
 
@@ -856,13 +840,10 @@ Ulpianus libro decimo ad edictum
 
 Si iussu eius, qui administrationi rerum civitatis praepositus est, cum servo civitatis negotium contractum sit, Pomponius scribit quod iussu cum eo agi posse.
 
-15.4.5 
+15.4.5
 
 Paulus libro quarto ad Plautium
 
 pr. Si dominus vel pater pecuniam mutuam accepturus iusserit servo filiove numerari, nulla quaestio est, quin ipsi condici possit: immo hoc casu de iussu actio non competit.
 
 1. Si unus ex servi dominis iussit contrahi cum eo, is solus tenebitur: sed si duo iusserunt, cum quovis in solidum agi potest, quia similes sunt duobus mandantibus.
- 
-  
-

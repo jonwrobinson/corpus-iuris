@@ -1,26 +1,15 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber tricesimus quartus
-
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
-* TITLES
-** 34.1.0. De alimentis vel cibariis legatis.
-** 34.2.0. De auro argento mundo ornamentis unguentis veste vel vestimentis et statuis legatis.
-** 34.3.0. De liberatione legata.
-** 34.4.0. De adimendis vel transferendis legatis vel fideicommissis.
-** 34.5.0. De rebus dubiis.
-** 34.6.0. De his quae poenae causa relinquuntur.
-** 34.7.0. De regula Catoniana.
-** 34.8.0. De his quae pro non scriptis habentur.
-** 34.9.0. De his quae ut indignis auferuntur.
-
+* LIBER XXXIV
++ 34.1.0. De alimentis vel cibariis legatis.
++ 34.2.0. De auro argento mundo ornamentis unguentis veste vel vestimentis et statuis legatis.
++ 34.3.0. De liberatione legata.
++ 34.4.0. De adimendis vel transferendis legatis vel fideicommissis.
++ 34.5.0. De rebus dubiis.
++ 34.6.0. De his quae poenae causa relinquuntur.
++ 34.7.0. De regula Catoniana.
++ 34.8.0. De his quae pro non scriptis habentur.
++ 34.9.0. De his quae ut indignis auferuntur.
 
 * 34.1.0. De alimentis vel cibariis legatis.
 

@@ -1,28 +1,16 @@
+# -*- mode: org -*-
 
- 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber vicesimus secundus
- 
- 
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
- 
- 
-
-    * 22.1.0. De usuris et fructibus et causis et omnibus accessionibus et mora.
-    * 22.2.0. De nautico faenore.
-    * 22.3.0. De probationibus et praesumptionibus.
-    * 22.4.0. De fide instrumentorum et amissione eorum.
-    * 22.5.0. De testibus.
+* LIBER XXII
++ 22.1.0. De usuris et fructibus et causis et omnibus accessionibus et mora.
++ 22.2.0. De nautico faenore.
++ 22.3.0. De probationibus et praesumptionibus.
++ 22.4.0. De fide instrumentorum et amissione eorum.
++ 22.5.0. De testibus.
     *
-      22.6.0. De iuris et facti ignorantia.
++ 22.6.0. De iuris et facti ignorantia.
 
-   
+* 22.1.0.  De usuris et fructibus et causis et omnibus accessionibus et mora.
 
-22.1.0.  De usuris et fructibus et causis et omnibus accessionibus et mora.
- 
 
 22.1.1
 
@@ -224,7 +212,7 @@ pr. Si quis solutioni quidem moram fecit, iudicium autem accipere paratus fuit, 
 
 22.1.25
 
-Iulianus libro septimo digestorum 
+Iulianus libro septimo digestorum
 
 pr. Qui scit fundum sibi cum alio communem esse, fructus, quos ex eo perceperit invito vel ignorante socio, non maiore ex parte suos facit quam ex qua dominus praedii est: nec refert, ipse an socius an uterque eos severit, quia omnis fructus non iure seminis, sed iure soli percipitur: et quemadmodum, si totum fundum alienum quis sciens possideat, nulla ex parte fructus suos faciet, quoquo modo sati fuerint, ita qui communem fundum possidet, non faciet suos fructus pro ea parte, qua fundus ad socium eius pertinebit.
 
@@ -425,10 +413,9 @@ Maritus uxori suae usum fructum tertiae partis et, cum liberos habuisset, propri
 Iavolenus libro tertio ex posterioribus Labeonis
 
 Fructus rei est vel pignori dare licere.
- 
 
-22.2.0. De nautico faenore.
- 
+* 22.2.0. De nautico faenore.
+
 
 22.2.1
 
@@ -487,10 +474,8 @@ Servius ait pecuniae traiecticiae poenam peti non posse, si per creditorem steti
 Labeo libro quinto pithanon a Paulo epitomarum
 
 Si traiecticiae pecuniae poena (uti solet) promissa est, quamvis eo die, qui primus solvendae pecuniae fuerit, nemo vixerit, qui eam pecuniam deberet, tamen perinde committi poena potest, ac si fuisset heres debitoris.
- 
 
-22.3.0. De probationibus et praesumptionibus.
- 
+* 22.3.0. De probationibus et praesumptionibus.
 
 22.3.1
 
@@ -689,10 +674,9 @@ Scaevola libro nono digestorum
 pr. Imperatores Antoninus et Verus Augusti Claudio Apolinari [Apollinari] rescripserunt in haec verba: "Probationes quae de filiis dantur, non in sola adfirmatione testium consistunt, sed et epistulas, quae uxoribus missae allegarentur, si de fide earum constet, nonnullam vicem instrumentorum optinere decretum est".
 
 1. Mulier gravida repudiata, filium enixa, absente marito ut spurium in actis professa est. Quaesitum est an is in potestate patris sit et matre intestata mortua iussu eius hereditatem matris adire possit nec obsit professio a matre irata facta. Respondit veritati locum superfore.
- 
 
-22.4.0. De fide instrumentorum et amissione eorum.
- 
+* 22.4.0. De fide instrumentorum et amissione eorum.
+
 
 22.4.1
 
@@ -729,10 +713,9 @@ Si res gesta sine litterarum quoque consignatione veritate factum suum praebeat,
 Ulpianus libro 50 ad edictum
 
 Si de tabulis testamenti deponendis agatur et dubitetur, cui eas deponi oportet, semper seniorem iuniori et amplioris honoris inferiori et marem feminae et ingenuum libertino praeferemus.
- 
 
-22.5.0. De testibus.
- 
+* 22.5.0. De testibus.
+
 
 22.5.1
 
@@ -909,10 +892,9 @@ Testes eos, quos accusator de domo produxerit, interrogari non placuit.
 Aurelius Arcadius Charisius magister libellorum libro singulari de testibus
 
 Mandatis cavetur, ut praesides attendant, ne patroni in causa cui patrocinium praestiterunt testimonium dicant. Quod et in exsecutoribus negotiorum observandum est.
- 
 
-22.6.0. De iuris et facti ignorantia.
- 
+* 22.6.0. De iuris et facti ignorantia.
+
 
 22.6.1
 
@@ -995,6 +977,3 @@ pr. Regula est iuris quidem ignorantiam cuique nocere, facti vero ignorantiam no
 Papinianus libro sexto responsorum
 
 Impuberes sine tutore agentes nihil posse vel scire intelleguntur.
- 
-  
-

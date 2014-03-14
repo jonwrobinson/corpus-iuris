@@ -1,27 +1,16 @@
+# -*- mode: org -*-
 
- 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber quartus decimus
- 
- 
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
- 
- 
+* LIBER XIV
++ 14.1.0. De exercitoria actione.
++ 14.2.0. De lege Rodia [Rhodia] de iactu.
++ 14.3.0. De institoria actione.
++ 14.4.0. De tributoria actione.
++ 14.5.0. Quod cum eo, qui in aliena potestate est, negotium gestum esse dicetur.
++ 14.6.0. De senatus consulto Macedoniano.
 
-    * 14.1.0. De exercitoria actione.
-    * 14.2.0. De lege Rodia [Rhodia] de iactu.
-    * 14.3.0. De institoria actione.
-    * 14.4.0. De tributoria actione.
-    * 14.5.0. Quod cum eo, qui in aliena potestate est, negotium gestum esse dicetur.
-    * 14.6.0. De senatus consulto Macedoniano.
 
-  
+* 14.1.0.  De exercitoria actione.
 
-14.1.0.  De exercitoria actione.
- 
 
 14.1.1
 
@@ -91,7 +80,7 @@ Paulus libro 29 ad edictum
 
 Nec quicquam facere, quotam quisque portionem in nave habeat, eumque qui praestiterit societatis iudicio a ceteris consecuturum.
 
-14.1.4 
+14.1.4
 
 Ulpianus libro 29 ad edictum
 
@@ -105,7 +94,7 @@ pr. Si tamen plures per se navem exerceant, pro portionibus exercitionis conveni
 
 4. Hae actiones perpetuo et heredibus et in heredes dabuntur: proinde et si servus, qui voluntate domini exercuit, decessit, etiam post annum dabitur haec actio, quamvis de peculio ultra annum non detur.
 
-14.1.5 
+14.1.5
 
 Paulus libro 29 ad edictum
 
@@ -115,7 +104,7 @@ pr. Si eum, qui in mea potestate sit, magistrum navis habeas, mihi quoque in te 
 
 2. Si unus ex his exercitoribus cum magistro navis contraxerit, agere cum aliis exercitoribus poterit,
 
-14.1.6 
+14.1.6
 
 Paulus libro sexto brevium
 
@@ -123,7 +112,7 @@ pr. si servus non voluntate domini navem exercuerit, si sciente eo, quasi tribut
 
 1. Si communis servus voluntate dominorum exerceat navem, in singulos dari debebit in solidum actio.
 
-14.1.7 
+14.1.7
 
 Africanus libro octavo quaestionum
 
@@ -132,10 +121,9 @@ pr. Lucius Titius Stichum magistrum navis praeposuit: is pecuniam mutuatus cavit
 1. Interdum etiam illud aestimandum, an in eo loco pecunia credita sit, in quo id, propter quod credebatur, comparari potuerit: quid enim, inquit, si ad velum emendum in eiusmodi insula pecuniam quis crediderit, in qua omnino velum comparari non potest? Et in summa aliquam diligentiam in ea creditorem debere praestare.
 
 2. Eadem fere dicenda ait et si de institoria actione quaeratur: nam tunc quoque creditorem scire debere necessariam esse mercis comparationem, cui emendae servus sit praepositus, et sufficere, si in hoc crediderit, non etiam illud exigendum, ut ipse curam suscipiat, an in hanc rem pecunia eroganda est.
- 
 
-14.2.0. De lege Rodia [Rhodia] de iactu.
- 
+* 14.2.0. De lege Rodia [Rhodia] de iactu.
+
 
 14.2.1
 
@@ -143,7 +131,7 @@ Paulus libro secundo sententiarum
 
 Lege Rodia [Rhodia] cavetur, ut si levandae navis gratia iactus mercium factus est, omnium contributione sarciatur quod pro omnibus datum est.
 
-14.2.2 
+14.2.2
 
 Paulus libro 34 ad edictum
 
@@ -187,7 +175,7 @@ Papinianus libro 19 responsorum
 
 Cum arbor aut aliud navis instrumentum removendi communis periculi causa deiectum est, contributio debetur.
 
-14.2.4 
+14.2.4
 
 Callistratus libro secundo quaestionum
 
@@ -197,7 +185,7 @@ pr. Navis onustae levandae causa, quia intrare flumen vel portum non potuerat cu
 
 2. Cum autem iactus de nave factus est et alicuius res, quae in navi remanserunt, deteriores factae sunt, videndum, an conferre cogendus sit, quia non debet duplici damno onerari et collationis et quod res deteriores factae sunt. Sed defendendum est hunc conferre debere pretio praesente rerum: itaque verbi gratia si vicenum merces duorum fuerunt et alterius aspargine decem esse coeperunt, ille cuius res integrae sunt pro viginti conferat, hic pro decem. Potest tamen dici etiam illa sententia distinguentibus nobis, deteriores ex qua causa factae sunt, id est utrum propter iacta nudatis rebus damnum secutum est an vero alia ex causa, veluti quod alicubi iacebant merces in angulo aliquo et unda penetravit. Tunc enim conferre debebit: an ex priore causa collationis onus pati non debet, quia iactus etiam hunc laesit? Adhuc numquid et si aspargine propter iactum res deteriores factae sunt? Sed distinctio suptilior adhibenda est, quid plus sit, in damno an in collatione: si verbi gratia hae res viginti fuerunt et collatio quidem facit decem, damnum autem duo, deducto hoc, quod damnum passus est, reliquum conferre debeat. Quid ergo, si plus in damno erit quam in collatione? Ut puta decem aureis res deteriores factae sunt, duo autem collationis sunt. Indubitate utrumque onus pati non debet: sed hic videamus, num et ipsi conferre oporteat. Quid enim interest iactatas res meas amiserim an nudatas deteriores habere coeperim: nam sicut ei qui perdiderit subvenitur, ita et ei subveniri oportet, qui deteriores propter iactum res habere coeperit. Haec ita Papirius fronto respondit.
 
-14.2.5 
+14.2.5
 
 Hermogenianus libro secundo iuris epitomarum
 
@@ -213,7 +201,7 @@ Navis adversa tempestate depressa ictu fulminis deustis armamentis et arbore et 
 
 14.2.7
 
-Paulus libro tertio epitomarum Alfeni digestorum 
+Paulus libro tertio epitomarum Alfeni digestorum
 
 Cum depressa navis aut deiecta esset, quod quisque ex ea suum servasset, sibi servare respondit, tamquam ex incendio.
 
@@ -229,7 +217,7 @@ Maecianus ex lege Rhodia
 
 Aciwsis Eudaimonos Nikomydews pros Antwninon basilea. Kurie basileu Antwnine, naufragion poiysantes en ty Italia diyrpagymen hupo twn dymosiwn twn tas Kukladas nysous oikountwn. Antwninos eipen Eudaimoni. Egw men tou kosmou kurios, ho de nomos tys valassys. Tw nomw twn Hrodiwn krinesvw tw nautikw, en ohis mytis twn hymeterwn autw nomos enantioutai. Touto de auto kai ho veiotatos Augoustos ekrinen. [Id est: Petitio Eudaemonis Nicomedensis ad imperatorem Antoninum. Domine imperator Antonine, cum naufragium fecissemus in Italia [immo in Icaria], direpti sumus a publicis [immo a publicanis], qui in Cycladibus insulis habitant. Antoninus dicit Eudaemoni. Ego orbis terrarum dominus sum, lex autem maris, lege Rhodia de re nautica res iudicetur, quatenus nulla lex ex nostris ei contraria est. Idem etiam divus Augustus iudicavit.]
 
-14.2.10 
+14.2.10
 
 Labeo libro primo pithanon a Paulo epitomarum
 
@@ -238,10 +226,9 @@ pr. Si vehenda mancipia conduxisti, pro eo mancipio, quod in nave mortuum est, v
 1. Si ea condicione navem conduxisti, ut ea merces tuae portarentur easque merces nulla nauta necessitate coactus in navem deteriorem, cum id sciret te fieri nolle, transtulit et merces tuae cum ea nave perierunt, in qua novissime vectae sunt, habes ex conducto locato cum priore nauta actionem. Paulus: immo contra, si modo ea navigatione utraque navis periit, cum id sine dolo et culpa nautarum factum esset. Idem iuris erit, si prior nauta publice retentus navigare cum tuis mercibus prohibitus fuerit. Idem iuris erit, cum ea condicione a te conduxisset, ut certam poenam tibi praestaret, nisi ante constitutum diem merces tuas eo loci exposuisset, in quem devehendas eas merces locasset, nec per eum staret, quo minus remissa sibi ea poena spectaret. Idem iuris in eodem genere cogitationis observabimus, si probatum fuerit nautam morbo impeditum navigare non potuisse. Idem dicemus, si navis eius vitium fecerit sine dolo malo et culpa eius.
 
 2. Si conduxisti navem amphorarum duo milium et ibi amphoras portasti, pro duobus milibus amphorarum pretium debes. Paulus: immo si aversione navis conducta est, pro duobus milibus debetur merces: si pro numero impositarum amphorarum merces constituta est, contra se habet: nam pro tot amphoris pretium debes, quot portasti.
- 
 
-14.3.0. De institoria actione.
- 
+* 14.3.0. De institoria actione.
+
 
 14.3.1
 
@@ -267,7 +254,7 @@ Paulus libro 30 ad edictum
 
 cum interdum etiam ad homines honestos adferant merces et ibi vendant. Nec mutat causam actionis locus vendendi emendive, cum utroque modo verum sit institorem emisse aut vendidisse.
 
-14.3.5 
+14.3.5
 
 Ulpianus libro 28 ad edictum
 
@@ -315,7 +302,7 @@ Paulus libro 30 ad edictum
 
 Sed et in ipsum procuratorem, si omnium rerum procurator est, dari debebit institoria.
 
-14.3.7 
+14.3.7
 
 Ulpianus libro 28 ad edictum
 
@@ -343,7 +330,7 @@ Gaius libro nono ad edictum provinciale
 
 Eatenus tamen dabitur in eum actio, quatenus ex ea re locupletior est.
 
-14.3.11 
+14.3.11
 
 Ulpianus libro 28 ad edictum
 
@@ -371,7 +358,7 @@ Iulianus libro 11 digestorum
 
 et ideo utilis institoria actio adversus me tibi competet, mihi vero adversus te vel de peculio dispensatoris, si ex conducto agere velim, vel de peculio vicarii, quod ei mercem vendendam mandaverim: pretiumque, quo emisti, in rem tuam versum videri poterit eo, quod debitor servi tui factus esses.
 
-14.3.13 
+14.3.13
 
 Ulpianus libro 28 ad edictum
 
@@ -399,7 +386,7 @@ Paulus libro 29 ad edictum
 
 Si cum vilico alicuius contractum sit, non datur in dominum actio, quia vilicus propter fructus percipiendos, non propter quaestum praeponitur. Si tamen vilicum distrahendis quoque mercibus praepositum habuero, non erit iniquum exemplo institoriae actionem in me competere.
 
-14.3.17 
+14.3.17
 
 Paulus libro 30 ad edictum
 
@@ -421,7 +408,7 @@ Paulus libro singulari de variis lectionibus
 
 Institor est, qui tabernae locove ad emendum vendendumve praeponitur quique sine loco ad eundem actum praeponitur.
 
-14.3.19 
+14.3.19
 
 Papinianus libro tertio responsorum
 
@@ -438,12 +425,11 @@ pr. In eum, qui mutuis accipiendis pecuniis procuratorem praeposuit, utilis ad e
 Scaevola libro quinto digestorum
 
 Lucius Titius mensae nummulariae quam exercebat habuit libertum praepositum: is Gaio Seio cavit in haec verba: "Octavius Terminalis rem agens Octavii Felicis Domitio Felici salutem. Habes penes mensam patroni mei denarios mille, quos denarios vobis numerare debebo pridie kalendas Maias. "Quaesitum est, Lucio Titio defuncto sine herede bonis eius venditis an ex epistula iure conveniri Terminalis possit. Tespondit nec iure his verbis obligatum nec aequitatem conveniendi eum superesse, cum id institoris officio ad fidem mensae protestandam scripsisset.
- 
 
-14.4.0. De tributoria actione.
- 
+* 14.4.0. De tributoria actione.
 
-14.4.1 
+
+14.4.1
 
 Ulpianus libro 29 ad edictum
 
@@ -465,7 +451,7 @@ Paulus libro 30 ad edictum
 
 ut tamen merx, qua peculiariter negotietur, ad nos pertineat.
 
-14.4.3 
+14.4.3
 
 Ulpianus libro 29 ad edictum
 
@@ -481,7 +467,7 @@ Paulus libro 30 ad edictum
 
 Si pupillus, cuius tutor scierit, pubes factus vel furiosus sanae mentis dolum admittant, tenentur ex hoc edicto.
 
- 14.4.5 
+ 14.4.5
 
 Ulpianus libro 29 ad edictum
 
@@ -531,7 +517,7 @@ Paulus libro 30 ad edictum
 
 Non enim haec actio sic ut de peculio occupantis meliorem causam facit, sed aequalem condicionem quandoque agentium.
 
-14.4.7 
+14.4.7
 
 Ulpianus libro 29 ad edictum
 
@@ -553,7 +539,7 @@ Iulianus libro 11 digestorum
 
 Quia non de dolo est, sed rei persecutionem continet: quare etiam mortuo servo dominus, item heres eius perpetuo teneri debebit propter factum defuncti: quamvis non aliter quam dolo interveniente competat.
 
-14.4.9 
+14.4.9
 
 Ulpianus libro 29 ad edictum
 
@@ -580,10 +566,9 @@ aliquando etiam agentibus expedit potius de peculio agere quam tributoria: nam i
 Iulianus libro 12 digestorum
 
 Alius dumtaxat de peculio, alius tributoria servi nomine cum domino agit: quaesitum est, an deducere dominus de peculio debeat, quod tributoria agenti praestaturus sit. Respondit: tributoria actione tunc demum agi potest, cum dominus in distribuendo pretio mercis edicto praetoris non satisfecit, id est cum maiorem partem debiti sui deduxit quam creditoribus tribuit, veluti si, cum in merce triginta fuissent, in quam ipse quidem quindecim crediderat, duo autem extranei triginta, tota quindecim deduxerit, et creditoribus reliqua quindecim dederit, cum deberet sola decem deducere, extraneis dena tribuere. Cum igitur hoc fecit, nec intellegendus est servum a se liberasse eo, quod quinque adhuc nomine eius tributoria actione praestaturus sit: quare si agi de peculio coeperit, cum forte extra mercem peculium esset, quinque tamquam adhuc creditor servi deducere debebit.
- 
 
-14.5.0. Quod cum eo, qui in aliena potestate est, negotium gestum esse dicetur.
- 
+* 14.5.0. Quod cum eo, qui in aliena potestate est, negotium gestum esse dicetur.
+
 
 14.5.1
 
@@ -591,7 +576,7 @@ Gaius libro nono ad edictum provinciale
 
 Omnia proconsul agit, ut qui contraxit cum eo, qui in aliena potestate sit, etiamsi deficient superiores actiones, id est exercitoria institoria tributoriave, nihilo minus tamen in quantum ex bono et aequo res patitur suum consequatur. Sive enim iussu eius, cuius in potestate sit, negotium gestum fuerit, in solidum eo nomine iudicium pollicetur: sive non iussu, sed tamen in rem eius versum fuerit, eatenus introducit actionem, quatenus in rem eius versum fuerit: sive neutrum eorum sit, de peculio actionem constituit.
 
-14.5.2 
+14.5.2
 
 Ulpianus libro 29 ad edictum
 
@@ -605,7 +590,7 @@ Ulpianus libro tertio disputationum
 
 Sed an hic detrahi debeat quod aliis debetur, tractari potest. Et si quidem sint creditores, qui, cum esset alienae potestatis, cum eo contraxerunt, recte dicetur occupantis meliorem esse condicionem, nisi si quis privilegiarius veniat: huius enim non sine ratione prioris ratio habebitur. Quod si qui sint, qui, posteaquam sui iuris factus est, cum eo contraxerunt, puto horum rationem habendam.
 
-14.5.4 
+14.5.4
 
 Ulpianus libro 29 ad edictum
 
@@ -621,7 +606,7 @@ pr. Sed si ex parte non modica sit heres scriptus filius, in arbitrio est credit
 
 5. Is qui de peculio egit, cum posset quod iussu, in ea causa est, ne possit quod iussu postea agere, et ita Proculus existimat: sed si deceptus de peculio egit, putat Celsus succurrendum ei: quae sententia habet rationem.
 
-14.5.5 
+14.5.5
 
 Paulus libro 30 ad edictum
 
@@ -648,12 +633,11 @@ Pater filio permisit mutuam pecuniam accipere et per epistulam creditori mandavi
 Paulus libro primo decretorum
 
 Titianus primus praeposuerat servum mutuis pecuniis dandis et pignoribus accipiendis: is servus etiam negotiatoribus hordei solebat pro emptore suscipere debitum et solvere. Cum fugisset servus et is, cui delegatus fuerat dare pretium hordei, conveniret dominum nomine institoris, negabat eo nomine se conveniri posse, quia non in eam rem praepositus fuisset. Cum autem et alia quaedam gessisse et horrea conduxisse et multis solvisse idem servus probaretur, praefectus annonae contra dominum dederat sententiam. Dicebamus quasi fideiussionem esse videri, cum pro alio solveret debitum, non pro aliis suscipit debitum: non solere autem ex ea causa in dominum dari actionem nec videtur hoc dominum mandasse. Sed quia videbatur in omnibus eum suo nomine substituisse, sententiam conservavit imperator.
- 
 
-14.6.0. De senatus consulto Macedoniano.
- 
+* 14.6.0. De senatus consulto Macedoniano.
 
-14.6.1 
+
+14.6.1
 
 Ulpianus libro 29 ad edictum
 
@@ -671,7 +655,7 @@ Ulpianus libro 64 ad edictum
 
 Usque ad quantitatem castrensis peculii, cum filii familias in castrensi peculio vice patrum familiarum fungantur.
 
-14.6.3 
+14.6.3
 
 Ulpianus libro 29 ad edictum
 
@@ -703,7 +687,7 @@ Scaevola libro secundo quaestionum
 
 Contra etiam recte dicetur, si a patre familias stipulatus sis, credas postea filio familias facto, senatus potestatem exercendam, quia expleta est numeratione substantia obligationis.
 
-14.6.7 
+14.6.7
 
 Ulpianus libro 29 ad edictum
 
@@ -747,7 +731,7 @@ Paulus libro 30 ad edictum
 
 Cum tamen a curatore per ignorantiam solutum sit, repeti debet.
 
-14.6.9 
+14.6.9
 
 Ulpianus libro 29 ad edictum
 
@@ -828,6 +812,3 @@ Iulianus scribit exceptionem senatus consulti Macedoniani nulli obstare, nisi qu
 Pomponius libro quinto senatus consultorum
 
 Si is, cui, dum in potestate patris esset, mutua pecunia data fuerat, pater familias factus per ignorantiam facti novatione facta eam pecuniam expromisit, si petatur ex ea stipulatione, in factum excipiendum erit.
- 
-  
-

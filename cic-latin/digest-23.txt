@@ -1,22 +1,11 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber vicesimus tertius
-
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
-* 23.1.0. De sponsalibus.
-* 23.2.0. De ritu nuptiarum.
-* 23.3.0. De iure dotium.
-* 23.4.0. De pactis dotalibus.
-* 23.5.0. De fundo dotali.
-
-
+* LIBER XXIII
++ 23.1.0. De sponsalibus.
++ 23.2.0. De ritu nuptiarum.
++ 23.3.0. De iure dotium.
++ 23.4.0. De pactis dotalibus.
++ 23.5.0. De fundo dotali.
 
 * 23.1.0. De sponsalibus.
 
@@ -134,7 +123,6 @@ Saepe iustae ac necessariae causae non solum annum vel biennium, sed etiam trien
 Ulpianus libro sexto ad edictum
 
 In sponsalibus constituendis parvi refert, per se (et coram an per internuntium vel per epistulam) an per alium hoc factum est: et fere plerumque condiciones interpositis personis expediuntur.
-
 
 * 23.2.0. De ritu nuptiarum.
 
@@ -696,7 +684,6 @@ pr. Non solum vivo tutore, sed et post mortem eius filius tutoris ducere uxorem 
 Paulus libro singulari ad senatusconsultum Turpillianum
 
 Iure gentium incestum committit, qui ex gradu ascendentium vel descendentium uxorem duxerit. Qui vero ex latere eam duxerit quam vetatur, vel adfinem quam impeditur, si quidem palam fecerit, levius, si vero clam hoc commiserit, gravius punitur. Cuius diversitatis illa ratio est: circa matrimonium quod ex latere non bene contrahitur palam delinquentes ut errantes maiore poena excusantur, clam committentes ut contumaces plectuntur.
-
 
 * 23.3.0. De iure dotium.
 
@@ -1349,7 +1336,6 @@ Scaevola libro octavo digestorum
 
 Fundum filiae nomine pater in dotem dederat: huius heredi filiae ex asse creditoribus urguentibus patris utilius videtur potius fundum qui dotalis est distrahere, quod minus fructuosus sit, et alios hereditarios uberiore reditu retinere: maritus consentit, si nulla in ea re captio sit futura. Quaero, an ea pars dotis, quae in hoc fundo est, mulieri manente matrimonio recte solvatur. Respondit, si pretium creditori solvatur, recte solutum.
 
-
 * 23.4.0. De pactis dotalibus.
 
 
@@ -1580,7 +1566,6 @@ Iavolenus libro sexto ex posterioribus Labeonis
 pr. Uxor viro fundum aestimatum centum in dotem dederat, deinde cum viro pactum conventum fecerat, ut divortio facto eodem pretio uxori vir fundum restitueret: postea volente uxore vir eum fundum ducentorum vendiderat, et divortium erat factum. Labeo putat viro potestatem fieri debere, utrum velit ducenta vel fundum reddere, neque ei pactum conventum remitti oportere. Idcirco puto hoc Labeonem respondisse, quoniam voluntate mulieris fundus veniit: alioquin omnimodo fundus erat restituendus.
 
 1. Si pater filiae nomine certam pecuniam in dotem promiserat et pactus est, ne invitus eam solveret: nihil ab eo exigendum puto, quia id, quod pacto convento ne invitus exigeretur convenerit, in dotis causam esse non videretur.
-
 
 * 23.5.0. De fundo dotali.
 

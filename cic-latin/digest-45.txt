@@ -1,20 +1,9 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber quadragesimus quintus
-
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
-* TITLES
+* LIBER XLV
 + 45.1.0. De verborum obligationibus.
 + 45.2.0. De duobus reis constituendis.
 + 45.3.0. De stipulatione servorum.
-
 
 * 45.1.0. De verborum obligationibus.
 

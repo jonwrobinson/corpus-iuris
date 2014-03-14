@@ -80,7 +80,6 @@ DOMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI CODEX
 + 5.74.0. Si maior factus sine decreto factam alienationem ratam habuerit.
 + 5.75.0. De magistratibus conveniendis.
 
-
 * 5.1.0. De sponsalibus et arris sponsaliciis et proxeneticis.
 
 5.1.1: Imperatores Diocletianus, Maximianus

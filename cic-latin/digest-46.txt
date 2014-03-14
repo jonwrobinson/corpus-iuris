@@ -1,15 +1,6 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber quadragesimus sextus
-
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-* TITLES
+* LIBER XLVI
 + 46.1.0. De fideiussoribus et mandatoribus.
 + 46.2.0. De novationibus et delegationibus.
 + 46.3.0. De solutionibus et liberationibus.
@@ -18,8 +9,6 @@ liber quadragesimus sextus
 + 46.6.0. Rem pupilli vel adulescentis salvam fore.
 + 46.7.0. Iudicatum solvi.
 + 46.8.0. Ratam rem haberi et de ratihabitione.
-
-
 
 * 46.1.0. De fideiussoribus et mandatoribus.
 
@@ -587,7 +576,6 @@ et ideo magno condemnatus est: in amplius fideiussores non tenentur:
 hoc enim non debet imputari fideiussoribus, quod ille propter suam
 poenam praestitit.
 
-
 * 46.2.0. De novationibus et delegationibus.
 
 
@@ -824,7 +812,6 @@ pr. Dubitari non debet, quin filius servusve, cui administratio peculii permissa
 1. Adgnatum furiosi aut prodigi curatorem novandi ius habere minime dubitandum est, si hoc furioso vel prodigo expediat.
 
 2. In summa admonendi sumus nihil vetare una stipulatione plures obligationes novari, veluti si ita stipulemur: "Quod Titium et Seium mihi dare oportet, id dari spondes?" Licet enim ex diversis causis singuli fuerant obligati, utrique tamen novationis iure liberantur, cum utriusque obligatio in huius personam, a quo nunc stipulemur, confluat.
-
 
 * 46.3.0. De solutionibus et liberationibus.
 
@@ -1653,7 +1640,6 @@ Paulus libro secundo manualium
 
 Ei, qui mandatu meo post mortem meam stipulatus est, recte solvitur, quia talis est lex obligationis: ideoque etiam invito me recte ei solvitur. Ei autem, cui iussi debitorem meum post mortem meam solvere, non recte solvitur, quia mandatum morte dissolvitur.
 
-
 * 46.4.0. De acceptilatione.
 
 
@@ -1839,7 +1825,6 @@ Labeo libro quinto pithanon a Paulo epitomarum
 
 Si ego tibi acceptum feci, nihilo magis ego a te liberatus sum. Paulus: immo cum locatio conductio, emptio venditio conventione facta est et nondum res intercessit, utrimque per acceptilationem, tametsi ab alterutra parte dumtaxat intercessit, liberantur obligatione.
 
-
 * 46.5.0. De stipulationibus praetoriis.
 
 
@@ -1935,7 +1920,6 @@ Venonius libro octavo actionum
 
 In eiusmodi stipulationibus, quae "quanti ea res est" promissionem habent, commodius est certam summam comprehendere, quoniam plerumque difficilis probatio est, quanti cuiusque intersit, et ad exiguam summam deducitur.
 
-
 * 46.6.0. Rem pupilli vel adulescentis salvam fore.
 
 
@@ -2026,7 +2010,6 @@ Cum rem salvam fore pupillo cavetur, committitur stipulatio, si, quod ex tutela 
 Papinianus libro 12 quaestionum
 
 Si plures fideiussores a tutore pupillo dati sunt, non esse eum distringendum, sed in unum dandam actionem ita, ut ei, qui conveniretur, actiones praestarentur. Nec quisquam putaverit ab iure discessum, postquam pro ea parte placuit tutores condemnari, quam administraverunt, et ita demum in solidum, si res a ceteris non servetur et idonea culpa detegatur, quod suspectum facere supersederit: nam aequitas arbitri atque officium viri boni videtur eam formam iuris desiderasse. Ceterum fideiussores civiliter in solidum obligati ceteris quidem agentibus, ut dividatur actio, impetrare possunt: pupillo vero agente, qui non ipse contraxit, sed in tutorem incidit et ignorat omnia, beneficium dividendae actionis iniuriam habere visum est, ne ex una tutelae causa plures ac variae quaestiones apud diversos iudices constituerentur.
-
 
 * 46.7.0. Iudicatum solvi.
 
@@ -2200,7 +2183,6 @@ Cum apud Sempronium iudicem datum reus defenderetur, stipulatione cautum est, ut
 Scaevola libro singulari quaestionum publice tractatarum
 
 Si unus ex fideiussoribus ob rem non defensam conventus sit, deinde postea res defendatur, alter fideiussorum ob rem iudicatam conveniri potest. Et si reus promittendi duobus heredibus relictis decesserit, alter rem non defendat, alter defendat: is qui non defendat ob rem non defensam conveniri potest, ille qui defendat ob rem iudicatam, quoniam in unius eiusdemque persona non posse committi has duas clausulas creditur et nos dicimus semper praevalere rei iudicatae clausulam eamque solam committi.
-
 
 * 46.8.0. Ratam rem haberi et de ratihabitione.
 

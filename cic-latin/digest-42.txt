@@ -1,25 +1,14 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber quadragesimus duo
-
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
-* TITLES
-** 42.1.0. De re iudicata et de effectu sententiarum et de interlocutionibus.
-** 42.2.0. De confessis.
-** 42.3.0. De cessione bonorum.
-** 42.4.0. Quibus ex causis in possessionem eatur.
-** 42.5.0. De rebus auctoritate iudicis possidendis seu vendundis.
-** 42.6.0. De separationibus.
-** 42.7.0. De curatore bonis dando.
-** 42.8.0. Quae in fraudem creditorum facta sunt ut restituantur.
-
+* LIBER XLII
++ 42.1.0. De re iudicata et de effectu sententiarum et de interlocutionibus.
++ 42.2.0. De confessis.
++ 42.3.0. De cessione bonorum.
++ 42.4.0. Quibus ex causis in possessionem eatur.
++ 42.5.0. De rebus auctoritate iudicis possidendis seu vendundis.
++ 42.6.0. De separationibus.
++ 42.7.0. De curatore bonis dando.
++ 42.8.0. Quae in fraudem creditorum facta sunt ut restituantur.
 
 
 * 42.1.0. De re iudicata et de effectu sententiarum et de interlocutionibus.
@@ -493,7 +482,6 @@ Scaevola libro 25 digestorum
 
 Negotiorum gestorum condemnatus appellavit et diu negotium tractum est: quaesitum est appellatione eius iniusta pronuntiata, an, quo tardius iudicatum sit, usurae pecuniae in condemnatum deductae medii temporis debeantur. Respondit secundum ea quae proponentur dandam utilem actionem.
 
-
 * 42.2.0. De confessis.
 
 
@@ -559,7 +547,6 @@ Paulus libro quarto ad Sabinum
 
 Non omnimodo confessus condemnari debet rei nomine, quae, an in rerum natura esset, incertum sit.
 
-
 * 42.3.0. De cessione bonorum.
 
 
@@ -618,7 +605,6 @@ Qui cedit bonis, antequam debitum adgnoscat, condemnetur vel in ius confiteatur,
 Marcianus libro 15 institutionum
 
 Bonis cedi non tantum in iure, sed etiam extra ius potest. Et sufficit et per nuntium vel per epistulam id declarari.
-
 
 * 42.4.0. Quibus ex causis in possessionem eatur.
 
@@ -780,7 +766,6 @@ pr. Si quis creditorem prohibuerit bona debitoris ingredi, datur in eum actio, q
 Ulpianus libro sexto fideicommissorum
 
 Is, qui rem permutatam accepit, emptori similis est: item is, qui rem in solutum accepit vel qui lite aestimata retinuit vel ex causa stipulationis non ob liberalitatem est consecutus.
-
 
 * 42.5.0. De rebus auctoritate iudicis possidendis seu vendundis.
 
@@ -1083,7 +1068,6 @@ pr. Pupillus si non defendatur, in possessione creditoribus constitutis minoribu
 
 1. Eius, qui ab hostibus captus est, bona venire non possunt, quamdiu revertatur.
 
-
 * 42.6.0. De separationibus.
 
 
@@ -1173,7 +1157,6 @@ Marcianus libro secundo regularum
 
 Qui iudicium dictaverunt heredi, separationem quasi hereditarii possunt impetrare, quia ex necessitate hoc fecerunt.
 
-
 * 42.7.0. De curatore bonis dando.
 
 
@@ -1220,7 +1203,6 @@ Imperatores Antoninus et Verus augusti rescripserunt bonis per curatorem ex sena
 Iulianus libro 47 digestorum
 
 Si debitor foro cesserit et creditores privato consilio coierint et elegerint unum, per quem bona distrahantur et portio ipsis, quae ex redacto fieret, solveretur, mox exstiterit alius, qui se creditorem dicat: nullam quidem actionem adversus curatorem habebit, sed bona debitoris una cum curatore vendere poterit, ita ut, quae a curatore et a creditore ex bonis contrahantur, omnibus pro portione praestarentur.
-
 
 * 42.8.0. Quae in fraudem creditorum facta sunt ut restituantur.
 

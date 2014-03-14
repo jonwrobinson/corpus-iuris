@@ -1,21 +1,10 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber vicesimus quartus
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
+* LIBER XXIV
++ 24.1.0. De donationibus inter virum et uxorem.
++ 24.2.0. De divortiis et repudiis.
++ 24.3.0. Soluto matrimonio dos quemadmodum petatur.
 * 24.1.0. De donationibus inter virum et uxorem.
-* 24.2.0. De divortiis et repudiis.
-* 24.3.0. Soluto matrimonio dos quemadmodum petatur.
-
-
-
-24.1.0. De donationibus inter virum et uxorem.
 
 
 24.1.1
@@ -652,8 +641,7 @@ Labeo libro secundo pithanon a Paulo epitomatorum
 
 Si uxor nummis a viro aut ab eo qui in eius potestate esset sibi donatis servum emerit, deinde, cum eius factus fuerit, eum ipsum donationis causa viro tradiderit, rata erit traditio, quamvis ea mente facta fuerit qua ceterae donationes, neque ulla actio eius nomine dari potest.
 
-
-24.2.0. De divortiis et repudiis.
+* 24.2.0. De divortiis et repudiis.
 
 
 24.2.1
@@ -732,8 +720,7 @@ pr. Quod ait lex: "divortii faciendi potestas libertae, quae nupta est patrono, 
 
 2. Illud rectissime placuit, qualiquali voluntate intellegi possit patronus animum habere desisse quasi in uxorem, finiri legis huius beneficium. Proinde cum patronus rerum amotarum cum liberta, quae ab invito eo divorterat, vellet experiri, imperator noster cum divo patre suo rescripsit intellegi eum hoc ipso nolle nuptam sibi, qui eam actionem vel aliam importet, quae non solet nisi ex divortio oriri. Quare si accusare eam adulterii coeperit vel alio crimine postulare, quod uxori nemo obicit, magis est, ut diremptum sit matrimonium: etenim meminisse oportet ideo adimi cum alio conubium, quia patronus sibi nuptam cupit. Ubicumque igitur vel tenuis intellectus videri potest nolentis nuptam, dicendum est iam incipere libertae cum alio esse conubium. Proinde si patronus sibi desponderit aliam vel destinaverit vel matrimonium alterius appetierit, credendus est nolle hanc nuptam: et si concubinam sibi adhibuerit, idem erit probandum.
 
-
-24.3.0. Soluto matrimonio dos quemadmodum petatur.
+* 24.3.0. Soluto matrimonio dos quemadmodum petatur.
 
 
 24.3.1

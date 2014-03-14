@@ -66,7 +66,6 @@ DOMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI CODEX
 + 6.61.0. De bonis, quae liberis in potestate constitutis ex matrimonio vel aliter adquiruntur, et eorum administratione.
 + 6.62.0. De hereditatibus decurionum naviculariorum cohortalium militum et fabricensium.
 
-
 * 6.1.0. De fugitivis servis et libertis mancipiisque civitatum artificibus et ad diversa opera deputatis et ad rem privatam vel dominicam pertinentibus.
 
 6.1.1: Imperatores Diocletianus, Maximianus
@@ -1276,7 +1275,6 @@ Si vero unus aut duo vel plures scierint litteras, liceat his pro ignorantibus l
 6.23.31.5: Imperator Justinianus
 
 Quod igitur quisque rusticorum, sicut praedictum est, pro suis rebus disposuerit , hoc omnimodo legum subtilitate remissa firmum validumque consistat. <a 534 d. iii non. iul. constantinopoli dn. iustiniano a. iiii et paulino vc. conss.>
-
 
 * 6.24.0. De heredibus instituendis et quae personae heredes institui non possunt.
 

@@ -1,39 +1,28 @@
+# -*- mode: org -*-
 
- 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber tricesimus octavus
- 
- 
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
- 
+* LIBER XXXVIII
++ 38.1.0. De operis libertorum.
++ 38.2.0. De bonis libertorum.
++ 38.3.0. De libertis universitatium.
++ 38.4.0. De adsignandis libertis.
++ 38.5.0. Si quid in fraudem patroni factum sit.
++ 38.6.0. Si tabulae testamenti nullae extabunt, unde liberi.
++ 38.7.0. Unde legitimi.
++ 38.8.0. Unde cognati.
++ 38.9.0. De successorio edicto.
++ 38.10.0. De gradibus et adfinibus et nominibus eorum.
++ 38.11.0. Unde vir et uxor.
++ 38.12.0. De veteranorum et militum successione.
++ 38.13.0. Quibus non competit bonorum possessio.
++ 38.14.0. Ut ex legibus senatusve consultis bonorum possessio detur.
++ 38.15.0. Quis ordo in possessionibus servetur.
++ 38.16.0. De suis et legitimis heredibus.
++ 38.17.0. Ad senatus consultum Tertullianum et Orphitianum.
 
 
-    * 38.1.0. De operis libertorum.
-    * 38.2.0. De bonis libertorum.
-    * 38.3.0. De libertis universitatium.
-    * 38.4.0. De adsignandis libertis.
-    * 38.5.0. Si quid in fraudem patroni factum sit.
-    * 38.6.0. Si tabulae testamenti nullae extabunt, unde liberi.
-    * 38.7.0. Unde legitimi.
-    * 38.8.0. Unde cognati.
-    * 38.9.0. De successorio edicto.
-    * 38.10.0. De gradibus et adfinibus et nominibus eorum.
-    * 38.11.0. Unde vir et uxor.
-    * 38.12.0. De veteranorum et militum successione.
-    * 38.13.0. Quibus non competit bonorum possessio.
-    * 38.14.0. Ut ex legibus senatusve consultis bonorum possessio detur.
-    * 38.15.0. Quis ordo in possessionibus servetur.
-    * 38.16.0. De suis et legitimis heredibus.
-    * 38.17.0. Ad senatus consultum Tertullianum et Orphitianum.
+* 38.1.0. De operis libertorum.
 
-  
 
-38.1.0. De operis libertorum.
-
- 
 38.1.1
 
 Paulus libro singulari de variis lectionibus
@@ -406,7 +395,7 @@ Hermogenianus libro secundo iuris epitomarum
 
 pr. Sicut patronus, ita etiam patroni filius et nepos et pronepos, qui libertae nuptiis consensit, operarum exactionem amittit: nam haec, cuius matrimonio consensit, in officio mariti esse debet.
 
-1. Si autem nuptiae, quibus patronus consensit, nullas habeant vires, operas exigere patronus non prohibetur. 
+1. Si autem nuptiae, quibus patronus consensit, nullas habeant vires, operas exigere patronus non prohibetur.
 
 2. Patronae, item filiae et nepti et pronepti patroni, quae libertae nuptiis consensit, operarum exactio non denegatur, quia his nec ab ea quae nupta est indecore praestantur.
 
@@ -429,11 +418,10 @@ pr. Operarum editionem pendere ex existimatione edentis: nam dignitati facultati
 Paulus libro secundo manualium
 
 Interdum operarum manet petitio, etiamsi ius patroni non sit: ut evenit in fratribus eius, cui adsignatus est libertus, aut nepote alterius patroni extante alterius patroni filio.
-  
 
-38.2.0. De bonis libertorum.
+* 38.2.0. De bonis libertorum.
 
- 
+
 38.2.1
 
 Ulpianus libro 42 ad edictum
@@ -778,7 +766,7 @@ Patrono libertus fundum, quem ab eo alienum emerat, legavit et constituit patron
 
 38.2.32
 
-Marcellus libro decimo digestorum 
+Marcellus libro decimo digestorum
 
 Si libertus meus in servitutem redactus postea ab alio liberatus est et eius coeperit esse libertus, praefertur mihi in contra tabulas bonorum possessione qui eum manumisit.
 
@@ -929,11 +917,10 @@ pr. Nihil interest, ipse patronus scriptus heres ex minore parte adierit heredit
 Labeo libro primo pithanon a Paulo epitomarum
 
 Si eundem libertum et tu capitis accusasti et pater tuus manumisit, non poterit tibi eius liberti bonorum possessio ex edicto praetoris dari. Paulus: immo contra accidet, si quem servum accusaveris, deinde is patris tui fuerit factus et is postea eum manumisit.
-  
 
-38.3.0. De libertis universitatium.
+* 38.3.0. De libertis universitatium.
 
- 
+
 38.3.1
 
 Ulpianus libro 49 ad edictum
@@ -943,11 +930,10 @@ pr. Municipibus plenum ius in bonis libertorum libertarum defertur, hoc est id i
 1. Sed an omnino petere bonorum possessionem possint, dubitatur: movet enim, quod consentire non possunt, sed per alium possunt petita bonorum possessione ipsi adquirere. Sed qua ratione senatus censuit, ut restitui eis ex Trebelliano hereditas possit: qua ratione alio senatus consulto heredibus eis institutis a liberto adquirere hereditatem permissum est: ita bonorum quoque possessionem petere dicendum est.
 
 2. Temporaque bonorum possessionis petendae cedere municipibus exinde, ex quo decernere de petenda potuerunt. Qquod et Papinianus respondit.
- 
 
-38.4.0. De adsignandis libertis.
+* 38.4.0. De adsignandis libertis.
 
- 
+
 38.4.1
 
 Ulpianus libro 14 ad Sabinum
@@ -1067,11 +1053,10 @@ pr. Testamento potest quis et servum manumittere et eundem ut libertum adsignare
 2. Quod inquit senatus "si ex liberis quis in civitate esse desisset", eum significat, qui in perpetuum in civitate esse desierit, non etiam si quis ab hostibus captus reverti possit.
 
 3. Ex die quoque certa adsignari potest, sed usque in diem certum vix potest: nam ipse senatus huic negotio finem praeposuit.
- 
 
-38.5.0. Si quid in fraudem patroni factum sit.
+* 38.5.0. Si quid in fraudem patroni factum sit.
 
- 
+
 38.5.1
 
 Ulpianus libro 44 ad edictum
@@ -1219,11 +1204,10 @@ Libertus cum fraudandi patroni causa fundum Seio tradere vellet, Seius Titio man
 Paulus libro decimo ad legem Iuliam et Papiam
 
 Constitutione divi Pii cavetur de impubere adoptando, ut ex bonis, quae mortis tempore illius qui adoptavit fuerunt, pars quarta ad eum pertineat, qui adoptatus est: sed et bona ei, quae adquisiit patri, restitui iussit: si causa cognita emancipatus fuerit, quartam perdit. Si quid itaque in fraudem eius alienatum fuerit, quasi per Calvisianam vel Favianam actionem revocandum est.
- 
 
-38.6.0. Si tabulae testamenti nullae extabunt, unde liberi.
+* 38.6.0. Si tabulae testamenti nullae extabunt, unde liberi.
 
- 
+
 38.6.1
 
 Ulpianus libro 44 ad edictum
@@ -1301,11 +1285,10 @@ Filius familias ut proximus cognatus patre consentiente possessionem adgnovit: q
 Paulus libro 11 responsorum
 
 Si postea, quam filius emancipatus bonorum possessionem patris petit, statum suum mutavit, nihil obesse ei, quo minus id quod adquisiit retineat: quod si prius condicionem suam mutavit, bonorum possessionem eum petere non posse.
- 
 
-38.7.0. Unde legitimi.
+* 38.7.0. Unde legitimi.
 
- 
+
 38.7.1
 
 Iulianus libro 27 digestorum
@@ -1334,7 +1317,7 @@ Generaliter igitur sciendum est, quotienscumque vel lex vel senatus defert hered
 
 38.7.4
 
-Iulianus libro 27 digestorum 
+Iulianus libro 27 digestorum
 
 Si ex duobus fratribus alter decesserit testamento iure facto, dein deliberante herede alter quoque intestato decesserit et scriptus heres omiserit hereditatem, patruus legitimam hereditatem habebit: nam haec bonorum possessio "tum quem heredem esse oportet" ad id tempus refertur, quo primum ab intestato bonorum possessio peti potuisset.
 
@@ -1351,11 +1334,10 @@ pr. Inter adgnatos et cognatos hoc interest, quod in adgnatis et cognati contine
 Hermogenianus libro tertio iuris epitomarum
 
 Nati post mortem patris vel post captivitatem sive deportationem, sed et hi, qui tempore, quo capiebatur vel deportabatur pater, in potestate fuerunt, ius inter se consanguinitatis habent, etsi heredes patri non extiterint, sicuti exheredati.
- 
 
-38.8.0. Unde cognati.
+* 38.8.0. Unde cognati.
 
- 
+
 38.8.1
 
 Ulpianus libro 46 ad edictum
@@ -1439,11 +1421,10 @@ pr. Octavi gradus adgnato iure legitimi heredis, etsi non extiterit heres, posse
 Scaevola libro secundo responsorum
 
 Intestata reliquit sororem septiciam diverso patre natam et praegnatem matrem ex alio marito: quaero, si mater hereditatem repudiaverit, dum adhuc praegnas est, posteaque enixa fuerit Semproniam, an etiam Sempronia bonorum Titiae possessionem accipere possit. Respondit, si mater hereditate exclusa est, eam quae, ut proponeretur, postea nata est, accipere posse.
- 
 
-38.9.0. De successorio edicto.
+* 38.9.0. De successorio edicto.
 
- 
+
 38.9.1
 
 Ulpianus libro 49 ad edictum
@@ -1487,11 +1468,10 @@ pr. Successorium edictum idcirco propositum est, ne bona hereditaria vacua sine 
 Papinianus libro sexto responsorum
 
 Inferioris gradus cognatus beneficium edicti successorii non habuit, cum prior ex propria parte possessionem accepisset: nec ad rem pertinuit, quod abstinendi facultatem ob auxilium aetatis prior cognatus acceperat. Igitur fisco vacantia bona recte deferri placuit.
- 
 
-38.10.0. De gradibus et adfinibus et nominibus eorum.
+* 38.10.0. De gradibus et adfinibus et nominibus eorum.
 
- 
+
 38.10.1
 
 Gaius libro octavo ad edictum provinciale
@@ -1623,15 +1603,15 @@ pr. Iuris consultus cognatorum gradus et adfinium nosse debet, quia legibus here
 14. Tertio gradu personae continentur triginta duo. Pproavus, qui quadrifariter intellegitur: est enim avi paterni aut materni pater, item aviae paternae aut aviae maternae pater. Proavia quoque quattuor personas complectitur: est enim aut avi paterni aut aviae paternae mater, item avi materni et similiter aviae maternae mater. Patruus, is autem est patris frater et ipse dupliciter intellegendus est ex patre vel matre. Avia paterna mea nupsit patri tuo, peperit te, aut avia paterna tua nupsit patri meo, peperit me: ego tibi patruus sum et tu mihi. Id evenit, si mulieres altera alterius filio nupserit: nam qui ex his masculi nati fuerint, invicem patrui sunt, quae feminae, invicem amitae, item masculi feminis similiter patrui, feminae illis amitae. Si vir et mulier ille filiam eius duxerit, illa filio eius nupserit: qui ex patre adulescentis nati erunt, ex matre puellae natos fratris filios, illi eos patruos et amitas appellabunt. Avunculus est matris frater eadem significatione, qua in patruo diximus contigit. Si duo viri alter alterius filiam duxerint, qui ex his masculi nati fuerint, invicem avunculi, quae feminae, invicem materterae erunt, et eadem ratione masculi puellis avunculi et illae illis erunt materterae. Amita est patris soror sicut supra accipiendi. Matertera est matris soror similiter ut supra. Illud notandum est non, quemadmodum patris matrisque fratres et sorores patrui amitae, avunculi materterae dicuntur, ita fratris sororisque filios filias nomen speciale cognationis habere, sed ita demonstrari fratris sororisque filios filias: quod quidem et in aliis accidere ex posterioribus apparebit. Pronepos quoque et proneptis quadrifariter intelleguntur: aut enim ex nepote ex filio aut ex nepote ex filia descendunt, aut ex nepte ex filio aut ex nepte ex filia propagantur.
 
 15. Quarto gradu personae continentur octoginta. Abavus, cuius intellectus in octo personas porrigitur: est enim proavi paterni aut materni pater, quos singulos duplici modo intellegendos diximus, aut proaviae paternae aut maternae pater, quae et ipsae singulae dupliciter accipiuntur. Abavia: et haec octies numeratur: est enim proavi paterni aut materni, item proaviae paternae aut maternae mater. Patruus magnus est frater avi: qui avus, item frater cum duobus modis intelleguntur, quattuor personas hoc nomen amplectitur, ut sit avi paterni vel materni frater, qui vel eodem patre, id est proavo, vel tantum matre eadem, id est proavia natus est: qui autem mihi patruus magnus est, is patri meo vel matri meae patruus est. Amita magna est avi soror: avus autem, item soror, ut supra diximus, dupliciter intelleguntur et ideo hic quoque quattuor personas intellegimus: similiter quae patris mei vel matris meae amita est, mihi erit amita magna. Avunculus magnus est aviae frater: quattuor personae huic nomini eadem ratione subiectae sunt mihique is est avunculus magnus, qui patri meo vel matri meae avunculus est. Matertera magna est aviae soror: quattuor modis et haec ob eandem causam intellegitur: ea, quae patri meo vel matri meae matertera est, mihi matertera magna vocatur. Eodem gradu sunt et illi qui vocantur fratres patrueles, item sorores patrueles, amitini amitinae, consobrini consobrinae: hi autem sunt, qui ex fratribus vel sororibus nascuntur. quos quidam ita distinxerunt, ut eos quidem, qui ex fratribus nati sunt, fratres patrueles, item eas, quae ex fratribus natae sunt, sorores patrueles: ex fratre autem et sorore amitinos amitinas: eos vero et eas, qui quaeve ex sororibus nati nataeve sunt, consobrinos consobrinas quasi consororinos: sed plerique hos omnes consobrinos vocant, sicut Trebatius. Sub hac appellatione nominum personae cadunt sedecim hae. Patrui filius, item filia bifariam sicut supra numerantur (nam patris mei frater esse potest vel ex patre solo vel etiam ex matre sola): amitae filius, item filia: avunculi filius, item filia: materterae filius, item filia, amita avunculo matertera acceptis duplici intellectu secundum eandem rationem. Fratris sororisque nepos ac neptis eodem gradu sunt: sed et frater, item soror, neposve et neptis dupliciter accepti continebunt personas sedecim sic.
- 
+
   fratris eodem patre nati nepos ex filio 	  nepos ex filia
   fratris eadem matre, alio patre nati nepos ex filio 	  nepos ex filia
   fratris eodem patre nati neptis ex filio 	  neptis ex filia
   fratris alio patre eadem matre nati 	  neptis ex filio neptis ex filia
 
- 
+
 eademque causa octo personae efficient, ut aliae octo accedunt ex sorore natorum nepotes neptesque et similiter numerantur a nobis. Fratris autem mei nepos neptisque me patruum magnum appellant: sororum fratrumque meorum nepotes neptesque, item mei inter se consobrini sunt. Abnepos, abneptis: hi sunt pronepotis proneptis filius filia, nepotis neptisve nepos neptis, filii filiaeve pronepos proneptis, nepote vel ex filio nato vel ex filia, nepte vel ex filio nata vel ex filia acceptis, ut ad singulas personas gradu descendamus sic.
-  
+
 filius 	nepos 	pronepos 	abnepos
 filius 	nepos 	pronepos 	abneptis
 filius 	nepos 	proneptis 	abnepos
@@ -1641,11 +1621,11 @@ filius 	neptis 	pronepos 	abneptis
 filius 	neptis 	proneptis 	abnepos
 filius 	neptis 	proneptis 	abneptis
 
- 
+
 similiter hae personae enumerabuntur proposita filia et sic fient sedecim.
 
 16. Quinto gradu personae continentur centum octaginta quattuor. Atavus scilicet et atavia: atavus est abavi vel abaviae pater, proavi vel proaviae avus, avi aviaeque proavus, patris vel matris abavus: huius appellatio personas complectitur sedecim, enumeratione facta tam per mares quam per feminas, ut sic ad singulas perveniamus.
- 
+
 pater 	avus 	proavus 	abavus 	atavus
 pater 	avus 	proavus 	abavia 	atavus
 pater 	avus 	proavia 	abavus 	atavus
@@ -1655,19 +1635,19 @@ pater 	avia 	proavus 	abavia 	atavus
 pater 	avia 	proavia 	abavus 	atavus
 pater 	avia 	proavia 	abavia 	atavus
 
- 
+
 similiter matris persona proposita enumeratio fiet. Atavia totidem personas continet eadem ratione numeratas, id est sedecim. Patruus maior est proavi frater, patris vel matris patruus magnus: sub hoc nomine erunt personae octo et sic enumerabuntur:
- 
+
 pater 	avus 	proavus 	abavus 	frater proavi
 pater 	avus 	proavus 	abavia 	frater proavi
 pater 	avia 	proavus 	abavus 	frater proavi
 pater 	avia 	proavus 	abavia 	frater proavi
 
- 
+
 totidem erunt matris persona et proavo eius propositis. Ideo autem fratrem proavi enumerantes ante abavum ponimus, quod, ut supra significavimus, non aliter pervenietur ad eum de quo quaeritur, nisi per eos transitum erit, ex quibus nascitur. Avunculus maior: is est proaviae frater, patris vel matris avunculus magnus: eadem denumeratione hic quoque octo personas computabimus, hoc tantum immutato, ut is frater proaviae ponatur. Amita maior: ea est proavi soror, patris vel matris amita magna: quod ad numerum et expositionem personarum eadem erunt immutato hoc, ut proavi soror ad extremum ponatur. Matertera maior: haec est soror proaviae, patris vel matris matertera magna: numerus personarum idem est, ut in novissimo ponatur proaviae soror. Hos omnes a patruo maiore quos rettulimus quidam appellant ita: propatruus proavunculus, proamita promatertera: quos tamen ego ita nomino, illi contra fratris vel sororis pronepotem me demonstrant. patrui magni filius filia: hi sunt avi fratris filius filia, proavi aut proaviae nepos neptis ex filio, patris vel matris consobrinus consobrina: octo personas et hic computabimus, quod avus et frater, ut iam dictum est, dupliciter accipiuntur et ideo patrui magni filius quattuor implet, totidem filia. Amitae magnae filius filia: hi sunt avi sororis filius filia, proavi proaviae nepos neptis ex filia, patris vel matris consobrinus consobrina: numerus personarum idem qui supra. Avunculi magni filius filia: hi sunt aviae fratris filius filia, proavi aut proaviae nepos neptis ex filio, patris vel matris consobrinus aut consobrina: numerus idem. Materterae magnae filius filia: hi sunt aviae sororis filius filia, proavi proaviae nepos neptis ex filia, patris vel matris consobrinus consobrina: computatio eadem. personae quas enumeravimus a patrui magni filio ei, de cuius cognatione quaeritur, propius sobrinis vocantur: nam, ut massurius ait, quem quis appellat propiorem sobrino, qui est patris matrisve consobrinus aut consobrina, ab eo consobrini consobrinaeve filius filia nominatur. Patrui nepos neptis: hi sunt avi paterni vel aviae paternae pronepos proneptis ex nepote vel ex nepte filio natis, consobrini consobrinae filius filia: octo personas continebunt, quattuor nepos, quattuor neptis, quia et patruus dupliciter accipitur et nepos vel neptis sub singulis patruorum personis duplicatur. Amitae nepos vel neptis: hi sunt avi paterni vel aviae paternae pronepos proneptis ex nepote vel nepte filia natis, consobrini consobrinae filius filia: numerus idem est. Avunculi nepos neptis: hi sunt avi materni vel aviae maternae pronepos proneptis: cetera eadem, quae in patrui nepote vel nepte. His omnibus, quos a patrui nepote proposuimus, is, de cuius cognatione quaeritur, propius sobrino est: nam patris vel matris eorum consobrinus est. Fratris pronepos proneptis: continebunt hi personas sedecim fratre dupliciter et pronepote et pronepte singulis quadrifariam, ut supra demonstravimus, acceptis. Sororis pronepos proneptis similiter sedecim personas continent. Adnepos adneptis: hi sunt abnepotis vel abneptis filius filia, pronepotis vel proneptis nepos neptis, nepotis vel neptis pronepos proneptis, filii vel filiae abnepos abneptis: numerabuntur sub hac appellatione triginta duo personae, quia abnepos sedecim habet et totidem abneptis.
 
 17. Sexto gradu continentur personae quadringentae quadraginta octo hae. Tritavus: est autem tritavus patris et matris atavus, avi vel aviae abavus, proavi proaviae proavus, abavi vel abaviae avus, atavi vel ataviae pater, dictus quasi tertius avus: personas autem complectitur triginta duo: geminetur enim necesse est numerus, qui in atavo fuit immutatione per singulas personas propter ataviam facta, ut sedecies tritavus intellegatur atavi pater et totiens ataviae. Tritavia similiter numerata faciet personas triginta duo. Patruus maximus: is est abavi frater, atavi et ataviae filius, patris vel matris patruus maior: personas continebit sedecim sic.
- 
+
 pater 	avus 	proavus 	abavus 	atavus 	abavi frater
 pater 	avus 	proavus 	abavus 	atavia 	frater abavi
 pater 	avus 	proavia 	abavus 	atavus 	frater abavi
@@ -1677,9 +1657,9 @@ pater 	avia 	proavus 	abavus 	atavia 	frater abavi
 pater 	avia 	proavia 	abavus 	atavus 	frater abavi
 pater 	avia 	proavia 	abavus 	atavia 	frater abavi
 
- 
+
 totidem erunt matris appellatione proposita. Avunculus maximus: is est abaviae frater, patris vel matris avunculus maior: et numerus idem et personarum expositio eadem quae supra hoc dumtaxat immutato, ut pro abavi fratre abaviae fratrem ponas. Amita maxima: ea est abavi soror, patris vel matris amita maior: cetera ut in patruo maximo immutato hoc tantum, ut ubi est abavi frater ponatur abavi soror. Matertera maxima: ea est abaviae soror, patris vel matris matertera maior: cetera ut supra ad extremum dumtaxat pro abaviae fratre proposita abaviae sorore. Hos omnes, quos a patruo maximo posuimus, quidam his nominibus designant: abpatruus abavunculus, abamita abmatertera: itaque et nos indifferenter hos ponemus. Quos ego autem appello abpatruos abavunculos, abamitas abmaterteras, illi me demonstrant fratris sororisque abnepotem. Patrui maioris filius filia: hi sunt proavi fratris filius filia, abavi abaviae per proavum nepos neptis ex filio: personae sub hoc erunt sedecim, enumeratione sic ducta ut in quinto gradu, cum patruum maiorem demonstraremus, fecimus, adiecto dumtaxat filio filia, quia filius patrui maioris totidem necesse est personas complectatur, quot patruus maior, id est octo. Totidem ex filiae persona computatis is numerus efficietur, quem supra posuimus. Amitae maioris filius filia: hi sunt proavi sororis filius filia, abavi abaviae per proavum nepos neptis ex filia: et hic eadem ratione personas dinumerabimus totidem. Avunculi maioris filius filia: hi sunt proaviae fratris filius filia, abavi abaviae per proaviam nepos neptis ex filio. Eadem hic dinumeratio facienda est, quae in patrui maioris filio filia. Materterae maioris filius filia: hi sunt proaviae sororis filius filia, abavi abaviaeve per proaviam nepos neptis ex filia: circa numerum personarum et expositionem ut supra. Hi omnes, quos proposuimus a patrui maioris filio, avo aviaeve [aviae] eius, de cuius cognatione quaeritur, fratribus et sororibus eorum consobrini consobrinaeve sunt: at patri matrique eiusdem fratribusque et sororibus utrius eorum propius sobrinis. Patrui magni nepos vel neptis, amitae magnae nepos vel neptis, avunculi magni nepos vel neptis, materterae magnae nepos vel neptis: haec singula nomina continent personas sexaginta quattuor: nam cum patrui magni verbi gratia persona quadrifariam intellegatur, nepotis bifariam, geminatur is numerus nepote dumtaxat adnumerato et quadruplatur is qui geminatus erat: duplicatur etiam nepte computata. Et tantum unius denumerationem proponimus exempli gratia:
- 
+
 pater 	avus 	proavus 	  frater avi qui est
   patruus magnus 	filius
 eius 	  nepos eiusdem
@@ -1697,9 +1677,9 @@ pater 	avus 	proavia 	  frater avi qui est
 eius 	  nepos eiusdem
   ex filia 	item neptis
 
- 
+
 totidem et eadem ratione exponuntur matris nomine anteposito, id est ut avi materni fratris nepotes et neptes computemus. Item in amita magna, id est avi sororis, nepotes neptesque enumerabimus: idemque in avunculo magno, id est aviae fratris: eadem ratione in materterae magnae, id est aviae sororis: ex quibus universus numerus completur sexaginta quattuor. Hi omnes proavi aut proaviae eius, de cuius cognatione quaeritur, pronepotes et proneptes, eiusdem avi aviaeve fratris sororisve nepotes neptesve: et contra horum eiusdem avus avia patruus magnus amita magna, avunculus magnus matertera magna: erunt autem pater materve eiusdem fratresque et sorores utrius eorum propii [proprii] sobrini: ipse his sobrinus est et invicem huic illi sobrini. Patrui pronepos patrui proneptis: continent personas octo: nam utriusque sexus fiunt sedecim sic:
- 
+
 pater 	avus 	patruus 	  filius
   patrui 	  nepos eiusdem
   ex filio 	  pronepos eiusdem
@@ -1741,9 +1721,9 @@ pater 	avia 	patruus 	  filia
   filia nata 	  item
   proneptis
 
- 
+
 amitae pronepos proneptis: totidem personas eadem ratione et is continet, tantum pro patruo amita sumpta. Item avunculi pronepos proneptis, item pro patruo avunculo posito. Materterae pronepos proneptis: et hic ubi patruus positus est, matertera enumerata eundem numerum personarum inveniemus. Hi omnes eius, de cuius cognatione quaeritur, consobrinorum nepotes neptesve sunt. Fratris sororisque abnepos abneptis: efficiunt personas sexaginta quattuor, ut ex supra scriptis apparere potest. Trinepos trineptis: hi sunt filii filiaeve adnepos adneptis, nepotis neptis abnepos abneptis, pronepotis proneptisve pronepos proneptis, abnepotis abneptisve nepos neptisve, adnepotis adneptis filius filia. Hae appellationes demonstrant personas sexaginta quattuor, nam triginta duo trinepos complet, totidem trineptis. Ab nepote enim numerus quadruplatus in se efficit triginta duo, ipso nepote duas significante, pronepote quattuor, abnepote octo, adnepote sedecim: his accedunt trinepos trineptis, una ex adnepote nati, altera ex adnepte. Per singulos autem gradus ideo geminatio fit, quia maribus adiciuntur feminae, ex quibus proximus quisque progenitur, et numerabuntur sic:
- 
+
    filius  	nepos 	pronepos 	abnepos 	adnepos 	trinepos 	   item
    trineptis
    filia 	nepos 	pronepos 	abnepos 	adnepos 	trinepos 	   item
@@ -1809,13 +1789,12 @@ amitae pronepos proneptis: totidem personas eadem ratione et is continet, tantum
    filia 	neptis 	proneptis 	abneptis 	atneptis 	trinepos 	   item
    trineptis
 
- 
+
 18. Septimo gradu personae continentur mille viginti quattuor hae: tritavi itemque tritaviae pater mater: personas efficiunt centum viginti octo: tritavi enim patres tot sunt quot ipsius tritavi, item eiusdem matres totidem, fiunt sexaginta quattuor: idem numerus tritaviae patris matrisque. atavi ataviae frater sororve: hi sunt tritavi filius filia, abavi abaviaeve patruus avunculus amita matertera, proavi proaviae patruus magnus avunculus magnus amita magna matertera magna, avi aviaeve propatruus proavunculus proamita promatertera, patris vel matris abpatruus abavunculus abamita abmatertera: fiunt personae atavi fratris triginta duo: nam sedecim, quas atavus explet, accedunt totidem propter fratris duplicem personam: necesse est nam sedecim fratres atavi ex patre computentur, sedecim ex matre. Similiter atavi sorores triginta duo: fiunt sexaginta quattuor: et totidem ataviae fratris, item sororis. Patrui maximi filius filia: hi sunt atavi nepos neptis ex filio, abavi fratris filius filia. amitae maximae filius filia: hi sunt atavi nepos neptis ex filia, abavi sororis filius filia. Avunculi maximi filius filia: hi sunt atavi nepos neptis ex filio, abaviae fratris filius filia. Materterae maximae filius filia: hi sunt atavi nepos neptis ex filia, abaviae sororis filius filia. Hae omnes personae, quas a patrui maximi filio enumeravimus, proavi proaviaeque eius, de cuius cognatione quaeritur, consobrinae sunt, avi aviaeque eiusdem propius sobrinis. Singulae appellationes continent personas sedecim, quia, cum patruus maximus sedecim efficiat, filius eius eandem habet enumerationem totidemque filia: et fit ex omnibus his, quas a patrui maximi filio comprehendimus, ductis per octo sedecies, centum viginti octo. patrui maioris nepos personas continet sedecim (est enim abavi abaviaeve pronepos) et cum abavus octies numeretur, nepotes bis octies computati supra scriptum numerum efficiunt. Patrui maioris neptis item. Avunculi maioris nepos neptis eadem ratione personas complebunt triginta duo. Amitae maioris nepos neptis eadem ratione item. Materterae maioris nepos neptis item. Et sic ex omnibus colliguntur centum viginti octo. His personis avus avia eius, de cuius cognatione quaeritur, propius sobrinis sunt, pater mater sobrinus sobrina: is de cuius cognatione quaeritur, sobrino natus est: hic proximo nomine definitur parentis sui sobrinus, ut Trebatius ait, rationemque nominis hanc reddit, quod ultimi cognationum gradus sobrinorum fiunt itaque sobrini filium recte proximum nomen. Ab eo ipso huius sobrini filius dicetur, et ideo eos, qui ex sobrinis nati sunt, inter se proximum nomen appellare: hos enim nullum proprium habere nomen, quo inter se vocentur. Patrui magni pronepos proneptis. Avunculi magni pronepos proneptis. Amitae magnae pronepos proneptis. Materterae magnae pronepos proneptis. Ex his omnibus centum viginti octo personae efficiuntur, quia singulae appellationes sedecim complent: nam cum exempli gratia patruus magnus quadrifariam intellegitur, ad singulorum patruorum magnorum personas quadruplicatus pronepos, item proneptis triginta duo personas reddet, totque quater numeratae illam, quae proposita est, summam efficiunt. Eorum patres matresque ei, de cuius cognatione quaeritur, sobrini sobrinaeque sunt, ipse autem isdem sobrino sobrinave natus. Patrui abnepos abneptis. Avunculi abnepos abneptis. Amitae abnepos abneptis. Materterae abnepos abneptis. Haec singula vocabula senas denas continent personas: verbi enim gratia patrui abnepos sic enumerabitur, ut bifariam patruo accepto quater pronepos, totiens proneptis ducatur et sic ad eorum filios veniatur sedecies computatos: eadem ratione ad filiam: item in ceteros: et per hoc ex omnibus efficietur numerus personarum centum viginti octo. Hi sunt ei, de cuius cognatione quaeritur, consobrinorum nepotes neptesque, ipsi eorum, de cuius cognatione quaeritur, patrui maximi avunculi maximi amitae maximae materterae maximae filius filia, item proavi proaviae consobrinus. Fratris sororisque adnepos adneptis: personas continent centum viginti octo. Trinepotis filius, item filia: trineptis filius, item filia. Hi centum viginti octo fiunt, quod, cum trinepos trineptisque, ut supra demonstravimus, sexaginta quattuor impleant, filius eorum eadem enumeratione totidemque filia computabitur.
-  
 
-38.11.0. Unde vir et uxor.
+* 38.11.0. Unde vir et uxor.
 
-  
+
 38.11.1
 
 Ulpianus libro 47 ad edictum
@@ -1823,11 +1802,10 @@ Ulpianus libro 47 ad edictum
 pr. Ut bonorum possessio peti possit unde vir et uxor, iustum esse matrimonium oportet. Ceterum si iniustum fuerit matrimonium, nequaquam bonorum possessio peti poterit, quemadmodum nec ex testamento adiri hereditas vel secundum tabulas peti bonorum possessio potest: nihil enim capi propter iniustum matrimonium potest.
 
 1. Ut autem haec bonorum possessio locum habeat, uxorem esse oportet mortis tempore. Sed si divortium quidem secutum sit, verumtamen iure durat matrimonium, haec successio locum non habet. Hoc autem in huiusmodi speciebus procedit. Liberta ab invito patrono divortit: lex Iulia de maritandis ordinibus retinet istam in matrimonio, dum eam prohiberet alii nubere invito patrono. Item iulia de adulteriis, nisi certo modo divortium factum sit, pro infecto habet.
- 
 
-38.12.0. De veteranorum et militum successione.
+* 38.12.0. De veteranorum et militum successione.
 
- 
+
 38.12.1
 
 Macer libro secundo de re militari
@@ -1839,21 +1817,19 @@ Militi, qui capite puniri meruit, testamentum facere concedendum Paulus et Menan
 Papinianus libro 16 responsorum
 
 Bona militis intestati defuncti castrensia fisco non vindicantur, cum heres legitimus ad finem quinti gradus exstitit aut proximus cognatus eiusdem gradus intra tempus possessionem acceperit.
- 
 
-38.13.0. Quibus non competit bonorum possessio.
+* 38.13.0. Quibus non competit bonorum possessio.
 
- 
+
 38.13.1
 
 Iulianus libro 28 digestorum
 
 Servo meo herede instituto dolo feci, ne testamentum mutaretur, eumque postea manumisi: quaesitum est, an actiones ei denegandae essententiarum respondi: hic casus verbis edicti non continetur. Sed aequum est, si dominus dolo fecerit, ne testamentum mutaretur, quo servus eius heres scriptus erat, quamvis manumissus adierit hereditatem, ei denegari, cum etiam emancipato filio denegetur, si pater dolo fecerit, ne testamentum mutaretur.
-  
 
-38.14.0. Ut ex legibus senatusve consultis bonorum possessio detur.
+* 38.14.0. Ut ex legibus senatusve consultis bonorum possessio detur.
 
- 
+
 38.14.1
 
 Ulpianus libro 49 ad edictum
@@ -1863,11 +1839,10 @@ pr. Praetor ait: "Uti me quaque lege senatus consulto bonorum possessionem dare 
 1. Numquam bonorum possessio, quae ex alia parte edicti adgnita est, impedit istam bonorum possessionem.
 
 2. Cum ex lege duodecim tabularum quis habet hereditatem, hinc non petit, sed inde "tum quem ei heredem esse oportet", quippe cum non alias hinc competat bonorum possessio, quam si lex specialiter deferat bonorum possessionem.
- 
 
-38.15.0. Quis ordo in possessionibus servetur.
+* 38.15.0. Quis ordo in possessionibus servetur.
 
- 
+
 38.15.1
 
 Modestinus libro sexto pandectarum
@@ -1910,18 +1885,17 @@ pr. Si coheredi tuo substitutus fuisses et bonorum possessionem acceperis, quand
 
 38.15.5
 
-Marcellus libro nono digestorum  
+Marcellus libro nono digestorum
 
 pr. Cum filio familias bonorum possessio delata est, dies, quibus certiorare patrem non potest, ut vel iubeat adgnosci bonorum possessionem vel ratam habeat agnitionem bonorum possessionis, non cedunt. Fingamus statim primo die, quo fuerit delata, adgnovisse eum bonorum possessionem, certiorare patrem, ut comprobet, non posse, non cedent dies centum: incipient autem cedere, cum certior fieri potuit. Praeteritis autem centum diebus frustra ratum habebit.
 
 1. Quaeri potest, si, cum posset filius petere bonorum possessionem, patre ita absente, ut certiorare eum non possit, vel etiam furente, petere neglexerit, an peti amplius non possit. Sed quid noceat non petitam bonorum possessionem, quae, si petita esset, tamen non ante adquireretur, quam pater comprobasset?
 
 2. Si servus alienus heres institutus venisset, quaeritur, an posteriori domino dies bonorum possessionis petendae imputari oporteret. Et placet, quantum priori domino superfuerit, ei imputari.
- 
 
-38.16.0. De suis et legitimis heredibus.
+* 38.16.0. De suis et legitimis heredibus.
 
-  
+
 38.16.1
 
 Ulpianus libro 12 ad Sabinum
@@ -2014,19 +1988,19 @@ Si quis, cum haberet fratrem et patruum, decesserit testamento facto, deinde pen
 
 38.16.6
 
-Iulianus libro 59 digestorum  
+Iulianus libro 59 digestorum
 
 Titius exheredato filio extraneum heredem sub condicione instituit: quaesitum est, si post mortem patris pendente condicione filius uxorem duxisset et filium procreasset et decessisset, deinde condicio instituti heredis defecisset, an ad hunc postumum nepotem legitima hereditas avi pertineret. Respondit: qui post mortem avi sui concipitur, is neque legitimam hereditatem eius tamquam suus heres neque bonorum possessionem tamquam cognatus accipere potest, quia lex duodecim tabularum eum vocat ad hereditatem, qui moriente eo, de cuius bonis quaeritur, in rerum natura fuerit,
 
 38.16.7
 
-Celsus libro 28 digestorum 
+Celsus libro 28 digestorum
 
 Vel si vivo eo conceptus est, quia conceptus quodammodo in rerum natura esse existimatur.
 
 38.16.8
 
-Iulianus libro 59 digestorum 
+Iulianus libro 59 digestorum
 
 pr. Item praetor edicto suo proximitatis nomine bonorum possessionem pollicetur his, qui defuncto mortis tempore cognati fuerint. Nam quod in consuetudine nepotes cognati appellantur etiam eorum, post quorum mortem concepti sunt, non proprie, sed per abusionem vel potius anaforikws accidit.
 
@@ -2079,11 +2053,10 @@ Si pater apud hostes moriatur, defunctum iam in civitate filium credimus patrem 
 Papinianus libro 12 responsorum
 
 Pater instrumento dotali comprehendit filiam ita dotem accepisse, ne quid aliud ex hereditate patris speraret: eam scripturam ius successionis non mutasse constitit: privatorum enim cautiones legum auctoritate non censeri.
- 
 
-38.17.0. Ad senatus consultum Tertullianum et Orphitianum.
+* 38.17.0. Ad senatus consultum Tertullianum et Orphitianum.
 
- 
+
 38.17.1
 
 Ulpianus libro 12 ad Sabinum
@@ -2269,6 +2242,3 @@ Pomponius libro secundo senatua consultorum
 pr. Si filius familias miles non sit testatus de his, quae in castris adquisierit, an ea ad matrem pertineant, videndum est. sed non puto: magis enim iudicio militum hoc beneficium concessum est, non ut omnimodo quasi patres familiarum in ea re sint.
 
 1. Quando in pendenti est, an quaedam personae possint obstare matri, et casus tulerit, ut non inducerentur, matris ius integrum erit, quod medio tempore appenderit: veluti si filio intestato mortuo postumus ei filius potuerit nasci nec natus sit aut mortuus editus, vel quod etiam filius qui in hostium potestate erat postliminio non sit reversus.
-  
-  
-

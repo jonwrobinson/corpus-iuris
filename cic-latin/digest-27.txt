@@ -1,27 +1,16 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber vicesimus septimus
-
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
-* TITLES
-** 27.1.0.  De excusationibus.
-** 27.2.0.  Ubi pupillus educari vel morari debeat et de alimentis ei praestandis.
-** 27.3.0.  De tutelae et rationibus distrahendis et utili curationis causa actione.
-** 27.4.0.  De contraria tutelae et utili actione.
-** 27.5.0.  De eo qui pro tutore prove curatore negotia gessit.
-** 27.6.0.  Quod falso tutore auctore gestum esse dicatur.
-** 27.7.0.  De fideiussoribus et nominatoribus et heredibus tutorum et curatorum.
-** 27.8.0.  De magistratibus conveniendis.
-** 27.9.0.  De rebus eorum, qui sub tutela vel cura sunt, sine decreto non alienandis vel supponendis.
-** 27.10.0. De curatoribus furioso et aliis extra minores dandis.
-
+* LIBER XXVII
++ 27.1.0.  De excusationibus.
++ 27.2.0.  Ubi pupillus educari vel morari debeat et de alimentis ei praestandis.
++ 27.3.0.  De tutelae et rationibus distrahendis et utili curationis causa actione.
++ 27.4.0.  De contraria tutelae et utili actione.
++ 27.5.0.  De eo qui pro tutore prove curatore negotia gessit.
++ 27.6.0.  Quod falso tutore auctore gestum esse dicatur.
++ 27.7.0.  De fideiussoribus et nominatoribus et heredibus tutorum et curatorum.
++ 27.8.0.  De magistratibus conveniendis.
++ 27.9.0.  De rebus eorum, qui sub tutela vel cura sunt, sine decreto non alienandis vel supponendis.
++ 27.10.0. De curatoribus furioso et aliis extra minores dandis.
 
 
 * 27.1.0. De excusationibus.
@@ -555,7 +544,6 @@ pr. Qui in collegio pistorum sunt, a tutelis excusantur, si modo per semet pistr
 
 2. Sed et hoc genus excusationis est, si quis se dicit ibi domicilium non habere, ubi ad tutelam datus est: idque imperator Antoninus cum divo patre significavit.
 
-
 * 27.2.0. Ubi pupillus educari vel morari debeat et de alimentis ei praestandis.
 
 
@@ -618,7 +606,6 @@ Si disceptetur, ubi morari vel ubi educari pupillum oporteat, causa cognita id p
 Tryphoninus libro 14 disputationum
 
 Si absens sit tutor et alimenta pupillus desideret, si quidem neglegentia et nimia cessatio in administratione tutoris obiciatur, quae etiam ex hoc arguatur, quod per absentiam eius deserta derelictaque sunt pupilli negotia, evocatis adfinibus atque amicis tutoris praetor edicto proposito causa cognita etiam absente tutore vel removendum eum, qui dignus tali nota videbitur, decernet vel adiungendum curatorem: et ita qui datus erit, expediet alimenta pupillo. Si vero necessaria absentia tutoris et improvisa acciderit, forte quod subito ad cognitionem principalem profectus nec rei suae providere nec consulere pupillo potuerit et speratur redire et idoneus sit tutor nec expediat alium adiungi et pupillus alimenta de re sua postulet: recte constituetur ad hoc solum, ut ex re pupilli alimenta expediat.
-
 
 * 27.3.0. De tutelae et rationibus distrahendis et utili curationis causa actione.
 
@@ -851,7 +838,6 @@ Hermogenianus libro quinto iuris epitomarum
 
 Non solum tutelae privilegium datur in bonis tutoris, sed etiam eius, qui pro tutela negotium gessit: vel ex curatione pupilli pupillaeve furiosi furiosaeve debebitur, si eo nomine cautum non sit.
 
-
 * 27.4.0. De contraria tutelae et utili actione.
 
 
@@ -925,7 +911,6 @@ Paulus libro quinto ad Plautium
 
 Si tutor pro pupillo se obligavit, habet contrariam actionem et antequam solvat.
 
-
 * 27.5.0. De eo qui pro tutore prove curatore negotia gessit.
 
 
@@ -976,7 +961,6 @@ Qui pro tutore negotia gerit, eandem fidem et diligentiam praestat, quam tutor p
 Ulpianus libro decimo ad edictum
 
 Ei qui pro tutore negotia gessit contrarium iudicium competit.
-
 
 * 27.6.0. Quod falso tutore auctore gestum esse dicatur.
 
@@ -1083,7 +1067,6 @@ Ulpianus libro primo responsorum
 
 Ex eo, quod interrogatus tutorem se esse respondit, nulla eum actione teneri: si tamen, cum tutor non esset, responso suo in aliquam captionem adulescentem induxit, utilem actionem adversus eum dandam.
 
-
 * 27.7.0. De fideiussoribus et nominatoribus et heredibus tutorum et curatorum.
 
 
@@ -1144,7 +1127,6 @@ Paulus libro nono responsorum
 pr. Heredes eius, qui non iure tutor vel curator datus administrationi se non immiscuit, dolum et culpam praestare non debere.
 
 1. Paulus respondit tale iudicium in heredem tutoris transferri oportere, quale defunctus suscepit. Hoc eo pertinet, ut non excusetur heres, si dicat se instrumenta tutelaria non invenisse: nam cum ex omnibus bona fide iudiciis propter dolum defuncti heres teneatur, idem puto observandum et in tutelae actione. Sed constitutionibus subventum est ignorantiae heredum. Hoc tamen tunc observandum est, cum post mortem tutoris heres conveniatur, non si lite contestata tutor decesserit: nam litis contestatione et poenales actiones transmittuntur ab utraque parte et temporales perpetuantur.
-
 
 * 27.8.0. De magistratibus conveniendis.
 
@@ -1236,7 +1218,6 @@ Magistratus a curatoribus adulti cautionem exegerunt rem salvam fore: ex his alt
 Modestinus libro quarto pandectarum
 
 An in magistratus actione data cum usuris sors exigi debeat, an vero usurae peti non possint, quoniam constitutum est poenarum usuras peti non posse, quaesitum est. Et rescriptum est a divis Severo et Antonino et usuras peti posse, quoniam eadem in magistratibus actio datur, quae competit in tutores.
-
 
 * 27.9.0. De rebus eorum, qui sub tutela vel cura sunt, sine decreto non alienandis vel supponendis.
 
@@ -1394,7 +1375,6 @@ pr. Si fundus sit sterilis vel saxosus vel pestilens, videndum est, an alienare 
 Paulus libro nono responsorum
 
 Paulus respondit, etsi testamentum patris postea irritum esse apparuit, tamen tutores pupilli sive curatores filii nihil contra orationem divorum principum fecisse videri, si secundum voluntatem defuncti testamento scriptam praedium rusticum pupillare vendiderunt.
-
 
 * 27.10.0. De curatoribus furioso et aliis extra minores dandis.
 

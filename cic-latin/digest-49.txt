@@ -1,33 +1,24 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber quadragensimus nonus
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-* TITLES
-** 49.1.0. De appellationibus et relegationibus.
-** 49.2.0. A quibus appellari non licet.
-** 49.3.0. Quis a quo appelletur.
-** 49.4.0. Quando appellandum sit et intra quae tempora.
-** 49.5.0. De appellationibus recipiendis vel non.
-** 49.6.0. De libellis dimissoriis, qui apostoli dicuntur.
-** 49.7.0. Nihil innovari appellatione interposita.
-** 49.8.0. Quae sententiae sine appellatione rescindantur.
-** 49.9.0. An per alium causae appellationum reddi possunt.
-** 49.10.0. Si tutor vel curator magistratusve creatus appellaverit.
-** 49.11.0. Eum qui appellaverit in provincia defendi.
-** 49.12.0. Apud eum, a quo appellatur, aliam causam agere compellendum.
-** 49.13.0. Si pendente appellatione mors intervenerit.
-** 49.14.0. De iure fisci.
-** 49.15.0. De captivis et de postliminio et redemptis ab hostibus.
-** 49.16.0. De re militari.
-** 49.17.0. De castrensi peculio.
-** 49.18.0. De veteranis.
-
+* LIBER XLIX
++ 49.1.0. De appellationibus et relegationibus.
++ 49.2.0. A quibus appellari non licet.
++ 49.3.0. Quis a quo appelletur.
++ 49.4.0. Quando appellandum sit et intra quae tempora.
++ 49.5.0. De appellationibus recipiendis vel non.
++ 49.6.0. De libellis dimissoriis, qui apostoli dicuntur.
++ 49.7.0. Nihil innovari appellatione interposita.
++ 49.8.0. Quae sententiae sine appellatione rescindantur.
++ 49.9.0. An per alium causae appellationum reddi possunt.
++ 49.10.0. Si tutor vel curator magistratusve creatus appellaverit.
++ 49.11.0. Eum qui appellaverit in provincia defendi.
++ 49.12.0. Apud eum, a quo appellatur, aliam causam agere compellendum.
++ 49.13.0. Si pendente appellatione mors intervenerit.
++ 49.14.0. De iure fisci.
++ 49.15.0. De captivis et de postliminio et redemptis ab hostibus.
++ 49.16.0. De re militari.
++ 49.17.0. De castrensi peculio.
++ 49.18.0. De veteranis.
 
 * 49.1.0. De appellationibus et relegationibus.
 
@@ -274,7 +265,6 @@ pr. Creditor cum fideiussoribus egerat: sed post iudicium acceptum ad agendam ca
 
 2. Substituti tutores in locum legitimi tutoris experti cum eo tutelae iudicio, cum arbiter inique condemnavit, quam rei aequitas exigebat, a sententia eius provocaverunt: pendente causa appellationis iuvenes adoleverunt. Quaesitum est, cum omnis exsecutio huius ad adultos pertineat et causam ad se pertinentem idonee tueri possunt, an postulatio eorum, contra quos appellatum erat, dicentium illos debuisse causas appellationis reddere, qui primi sunt experti, admittenda non sit. Respondit eos, quorum tutela gesta esset, si vellent causam exsequi, non prohibendos. Idem et in curatoribus observandum est, si interim adultus ad legitimam aetatem pervenit.
 
-
 * 49.2.0. A quibus appellari non licet.
 
 
@@ -298,7 +288,6 @@ Paulus libro singulari de appellationibus
 
 Quaesitum est, in arbitros, qui ad fideiussores probandos dantur, an appellare liceat: quamvis hoc casu et sine appellatione quidam putent ab eo, qui eum dedit, sententiam eius corrigi posse.
 
-
 * 49.3.0. Quis a quo appelletur.
 
 
@@ -321,7 +310,6 @@ Appellari a legatis proconsul potest, et, si multam dixerit, potest de iniquitat
 Modestinus libro octavo regularum
 
 Dato iudice a magistratibus populi Romani cuiuscumque ordinis, etiamsi ex auctoritate principis licet nominatim iudicem declarantis dederint, ipsi tamen magistratus appellabuntur.
-
 
 * 49.4.0. Quando appellandum sit et intra quae tempora.
 
@@ -450,7 +438,6 @@ Macer libro secundo de appellationibus
 
 Illud videamus, si, cum imperatori scriberetur, exemplum litterarum litigatori editum sit neque is appellaverit et postea contra eum rescriptum sit, an appellare a litteris pridem sibi editis possit? Quia qui tunc non appellavit, vera esse quae scripta sunt consensisse videtur: nec audiendus est, si dicat eventum rescripti sacri se sustinuisse.
 
-
 * 49.5.0. De appellationibus recipiendis vel non.
 
 
@@ -512,7 +499,6 @@ pr. Si res dilationem non recipiat, non permittitur appellare, velut ne testamen
 
 2. Item quo minus pignus vendere liceat, appellari non potest.
 
-
 * 49.6.0. De libellis dimissoriis, qui apostoli dicuntur.
 
 
@@ -525,7 +511,6 @@ pr. Post appellationem interpositam litterae dandae sunt ab eo, a quo appellatum
 1. Sensus autem litterarum talis est: appellasse puta Lucium Titium a sententia illius, quae inter illos dicta est.
 
 2. Sufficit autem petisse intra tempus dimissorias instanter et saepius, ut et si non accipiat, id ipsum contestetur: nam instantiam petentis dimissorias constitutiones desiderant. Aaequum est igitur, si per eum steterit, qui debebat dare litteras, quo minus det, ne hoc accipienti noceat.
-
 
 * 49.7.0. Nihil innovari appellatione interposita.
 
@@ -545,7 +530,6 @@ pr. Appellatione interposita, sive ea recepta sit sive non, medio tempore nihil 
 4. Ergo et si abstinere ordine iussus sit et provocaverit, eadem ratione potest coetum participare, cum hoc sit constitutum et sit iuris, ne quid pendente appellatione novetur.
 
 5. Si quis ex pluribus facinoribus condemnatus propter quaedam appellavit, propter quaedam non: utrum differenda poena eius sit an non, quaeritur. Et si quidem graviora sint crimina, ob quae appellatio interposita est, levius autem id, propter quod non appellavit, recipienda est omnimodo appellatio et differenda poena: si vero graviorem sententiam meruit ex ea specie, ex qua non est appellatum, omnimodo poena imponenda est.
-
 
 * 49.8.0. Quae sententiae sine appellatione rescindantur.
 
@@ -580,7 +564,6 @@ pr. Paulus respondit impossibile praeceptum iudicis nullius esse momenti.
 
 1. Idem respondit ab ea sententia, cui pareri rerum natura non potuit, sine causa appellari.
 
-
 * 49.9.0. An per alium causae appellationum reddi possunt.
 
 
@@ -595,7 +578,6 @@ Quaeri solet, an per alium causae appellationis reddi possunt: quae res in rebus
 Macer libro secundo de appellationibus
 
 Si procurator absentis appellaverit, deinde rationes reddiderit, nihilo minus ipse respondere debet. Sed an eo cessante dominus litis respondere possit exemplo adulescentis, videamus: magis tamen observatur, ut audiri debeat in causis appellationis reddendis is, cuius absentis procurator appellavit.
-
 
 * 49.10.0. Si tutor vel curator magistratusve creatus appellaverit.
 
@@ -612,7 +594,6 @@ Hermogenianus libro quinto iuris epitomarum
 
 Tutor vel curator retentus si provocaverit et ante causam actam moriatur, propter periculum medii temporis successores eius causas appellationis necesse habent reddere.
 
-
 * 49.11.0. Eum qui appellaverit in provincia defendi.
 
 
@@ -628,7 +609,6 @@ Marcianus libro secundo de appellationibus
 
 Hoc enim illis praestatur, ne necesse habeant se defendere, qui rei publicae causa absunt.
 
-
 * 49.12.0. Apud eum, a quo appellatur, aliam causam agere compellendum.
 
 
@@ -637,7 +617,6 @@ Hoc enim illis praestatur, ne necesse habeant se defendere, qui rei publicae cau
 Ulpianus libro quatro de appellationibus
 
 Si quis ex alia causa appellaverit a iudice, an in alia causa eundem iudicem habere necesse habeat, videamus. Et hodie hoc iure utimur, et, tametsi appellatio interposita sit, tamen apud eundem iudicem, a quo quis provocavit, compelletur alias causas si quas habet agere: nec utetur hoc praetextu, quasi ad offensum iudicem non debeat experiri, cum possit denuo provocare.
-
 
 * 49.13.0. Si pendente appellatione mors intervenerit.
 
@@ -649,7 +628,6 @@ Macer libro secundo de appellationibus
 pr. Appellatore defuncto, si quidem sine herede, cuiuscumque generis appellatio fuit, evanescit. Quod si appellatori heres extiterit, si quidem nullius alterius interest causas appellationis reddi, cogendus non est peragere appellationem: si vero fisci vel alterius, contra quem appellatum est, interest, heres causas appellationis reddere necesse habet. Nullius autem interest, veluti cum sine ademptione bonorum relegatus est. Nam si ademptis bonis relegatus vel in insulam deportatus vel in metallum datus provocatione interposita decesserit, imperator noster Alexander Plaetorio militi ita rescripsit: "Quamvis pendente appellatione morte rei crimen extinctum sit, data tamen etiam de parte bonorum eius sententia proponitur, adversus quam non aliter is, qui emolumentum successionis habet, optinere potest, quam si in reddendis causis appellationis iniquitatem sententiae detexerit".
 
 1. Tutor quoque in negotio pupilli appellatione interposita si decesserit, heredem eius causas appellationis reddere necesse est, etiamsi rationes tutelae heres reddiderit, quia sufficit mortis tempore ad causas appellationis reddendas obligatum fuisse. Sed divi Severus et Antoninus rescripserunt non cogendum tutorem post rationes redditas causas appellationum reddere.
-
 
 * 49.14.0. De iure fisci.
 
@@ -1135,7 +1113,6 @@ Paulus libro tertio decretorum
 
 Valerius Patruinus procurator imperatoris Flavio Stalticio praedia certo pretio addixerat. Deinde facta licitatione idem Stalticius recepta ea licitatione optinuerat et in vacuam possessionem inductus erat. De fructibus medio tempore perceptis quaerebatur: Patruinus fisci esse volebat. Plane si medio tempore inter primam licitationem et sequentem adiectionem percepti fuissent, ad venditorem pertinerent (sicut solet dici, cum in diem addictio facta est, deinde melior condicio allata est) nec moveri deberemus, quod idem fuisset, cui et primo addicta fuerant praedia. Sed cum utraque addictio intra tempus vindemiarum facta fuisset, recessum est ab hoc tractatu itaque placebat fructus emptoris esse. Papinianus et messius novam sententiam induxerunt, quia sub colono erant praedia, iniquum esse fructus ei auferri universos: sed colonum quidem percipere eos debere, emptorem vero pensionem eius anni accepturum, ne fiscus colono teneretur, quod ei frui non licuisset: atque si hoc ipsum in emendo convenisset. Pronuntiavit tamen secundum illorum opinionem, quod quidem domino colerentur, universos fructus habere: si vero sub colono, pensionem accipere. Tryphonino suggerente, quid putaret de aridis fructibus, qui ante percepti in praediis fuissent, respondit, si nondum dies pensionis venisset, cum addicta sunt, eos quoque emptorem accepturum.
 
-
 * 49.15.0. De captivis et de postliminio et redemptis ab hostibus.
 
 
@@ -1411,7 +1388,6 @@ Labeo libro octavo pithanon a Paulo epitomarum
 
 Si id, quod nostrum hostes ceperunt, eius generis est, ut postliminio redire possit: simul atque ad nos redeundi causa profugit ab hostibus et intra fines imperii nostri esse coepit, postliminio redisse existimandum est. Paulus. Immo cum servus civis nostri ab hostibus captus inde aufugit et vel in urbe Roma ita est, ut neque in domini sui potestate sit neque ulli serviat, nondum postliminio redisse existimandum est.
 
-
 * 49.16.0. De re militari.
 
 
@@ -1645,7 +1621,6 @@ pr. Qui metu criminis, in quo iam reus fuerat postulatus, nomen militiae dedit, 
 
 1. Miles turbator pacis capite punitur.
 
-
 * 49.17.0. De castrensi peculio.
 
 
@@ -1808,7 +1783,6 @@ pr. De hereditate ab adgnato commilitone data Scaevola noster dubitabat, quia po
 Paulus libro singulari ad regularum Catonianam
 
 Sed si ponas filium testamentum fecisse et patrem heredem instituisse: cum utique pater testamento suo servo filii libertatem dedisset, qui ad eum ex testamento filii pertinere coeperit, videndum est, numquid ei comparari debeat, qui, cum manumitteretur, alienus erat, deinde postea adquisitus est. Sed favorabile est libertatem a patre relictam admittere: et ab initio patris esse eum videri ex hoc, quod postea contigit, ostenditur.
-
 
 * 49.18.0. De veteranis.
 

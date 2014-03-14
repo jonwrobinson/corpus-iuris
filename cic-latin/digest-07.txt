@@ -1,26 +1,15 @@
+# -*- mode: org -*-
 
-
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber septimus
-
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
-
-* 7.1.0. De usu fructu et quemadmodum quis utatur fruatur.
-* 7.2.0. De usu fructu adcrescendo.
-* 7.3.0. Quando dies usus fructus legati cedat.
-* 7.4.0. Quibus modis usus fructus vel usus amittitur.
-* 7.5.0. De usu fructu earum rerum, quae usu consumuntur vel minuuntur.
-* 7.6.0. Si usus fructus petetur vel ad alium pertinere negetur.
-* 7.7.0. De operis servorum
-* 7.8.0. De usu et habitatione.
-* 7.9.0. Usufructuarius quemadmodum caveat.
-
+* LIBER VII
++ 7.1.0. De usu fructu et quemadmodum quis utatur fruatur.
++ 7.2.0. De usu fructu adcrescendo.
++ 7.3.0. Quando dies usus fructus legati cedat.
++ 7.4.0. Quibus modis usus fructus vel usus amittitur.
++ 7.5.0. De usu fructu earum rerum, quae usu consumuntur vel minuuntur.
++ 7.6.0. Si usus fructus petetur vel ad alium pertinere negetur.
++ 7.7.0. De operis servorum
++ 7.8.0. De usu et habitatione.
++ 7.9.0. Usufructuarius quemadmodum caveat.
 
 
 * 7.1.0.  De usu fructu et quemadmodum quis utatur fruatur.
@@ -637,7 +626,6 @@ Gaius libro septimo ad edictum provinciale
 
 Si Sticho servo tuo et Pamphilo meo legatus fuerit usus fructus, tale est legatum, quale si mihi et tibi legatus esset: et ideo dubium non est, quin aequaliter ad nos pertineat.
 
-
 * 7.2.0. De usu fructu adcrescendo.
 
 
@@ -729,7 +717,6 @@ Ulpianus libro 17 ad Sabinum
 
 cum alius ab alio herede usum fructum vindicat.
 
-
 * 7.3.0. Quando dies usus fructus legati cedat.
 
 
@@ -746,7 +733,6 @@ pr. Quamquam usus fructus ex fruendo consistat, id est facto aliquo eius qui fru
 3. Item si ex die usus fructus legetur, dies eius nondum cedet, nisi cum dies venit: posse enim usum fructum ex die legari et in diem constat.
 
 4. Non solum autem usus fructus ante aditam hereditatem dies non cedit, sed nec actio de usu fructu: idemque et si ex die fuerit legatus usus fructus: denique Scaevola ait agentem ante diem usus fructus nihil facere, quamvis alias qui ante diem agit, male agit.
-
 
 * 7.4.0. Quibus modis usus fructus vel usus amittitur.
 
@@ -985,7 +971,6 @@ Pomponius libro quarto ad Quintum Mucium
 
 Cum gregis usus fructus legatus est et usque eo numerus pervenit gregis, ut grex non intellegatur, perit usus fructus.
 
-
 * 7.5.0. De usu fructu earum rerum, quae usu consumuntur vel minuuntur.
 
 
@@ -1076,7 +1061,6 @@ Marcianus libro septimo institutionum
 
 Cum pecunia erat relicta Titio ita, ut post mortem legatarii ad Maevium rediret, quamquam adscriptum sit, ut usum eius Titius haberet, proprietatem tamen ei legatam et usus mentionem factam, quia erat restituenda ab eo pecunia post mortem eius, divi Severus et Antoninus rescripserunt.
 
-
 * 7.6.0. Si usus fructus petetur vel ad alium pertinere negetur.
 
 
@@ -1138,7 +1122,6 @@ Paulus libro 21 ad edictum
 
 Qui de usu fructu iudicium accepit, si desierit possidere sine dolo, absolvetur: quod si liti se obtulit et quasi possessor actionem de usu fructu accepit, damnabitur.
 
-
 * 7.7.0. De operis servorum
 
 
@@ -1183,7 +1166,6 @@ pr. Cum de servi operis artificis agitur, pro modo restituendae sunt, sed medias
 2. Item voluptatis vel affectionis aestimatio non habebitur, veluti si dilexerit eum dominus aut in deliciis habuerit.
 
 3. Ceterum deductis necessariis impensis fiet aestimatio.
-
 
 * 7.8.0. De usu et habitatione.
 
@@ -1369,7 +1351,6 @@ pr. Divus Hadrianus, cum quibusdam usus silvae legatus esset, statuit fructum qu
 Paulus libro primo ad Neratium
 
 Neratius: usuariae rei speciem is cuius proprietas est nullo modo commutare potest. Paulus: deteriorem enim causam usuarii facere non potest: facit autem deteriorem etiam in meliorem statum commutata.
-
 
 * 7.9.0. Usufructuarius quemadmodum caveat.
 

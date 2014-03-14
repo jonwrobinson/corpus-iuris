@@ -1,34 +1,30 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI IURIS ENUCLEATI EX
-OMNI VETERE IURE COLLECTI DIGESTORUM SEU PANDECTARUM
+* LIBER I
++ 1.1.0. De iustitia et iure.
++ 1.2.0. De origine iuris et omnium magistratuum et successione prudentium.
++ 1.3.0. De legibus senatusque consultis et longa consuetudine.
++ 1.4.0. De constitutionibus principum.
++ 1.5.0. De statu hominum.
++ 1.6.0. De his qui sui vel alieni iuris sunt.
++ 1.7.0. De adoptionibus et emancipationibus et aliis modis quibus potestas solvitur.
++ 1.8.0. De divisione rerum et qualitate.
++ 1.9.0. De senatoribus.
++ 1.10.0. De officio consulis.
++ 1.11.0. De officio praefecti praetorio.
++ 1.12.0. De officio praefecti urbi.
++ 1.13.0. De officio quaestoris.
++ 1.14.0. De officio praetorum.
++ 1.15.0. De officio praefecti vigilum.
++ 1.16.0. De officio proconsulis et legati.
++ 1.17.0. De officio praefecti augustalis.
++ 1.18.0. De officio praesidis.
++ 1.19.0. De officio procuratoris caesaris vel rationalis.
++ 1.20.0. De officio iuridici.
++ 1.21.0. De officio eius, cui mandata est iurisdictio.
++ 1.22.0. De officio adsessorum.
 
-* TITLES
-** Dig. 1.1.0. De iustitia et iure.
-** Dig. 1.2.0. De origine iuris et omnium magistratuum et successione prudentium.
-** Dig. 1.3.0. De legibus senatusque consultis et longa consuetudine.
-** Dig. 1.4.0. De constitutionibus principum.
-** Dig. 1.5.0. De statu hominum.
-** Dig. 1.6.0. De his qui sui vel alieni iuris sunt.
-** Dig. 1.7.0. De adoptionibus et emancipationibus et aliis modis quibus potestas solvitur.
-** Dig. 1.8.0. De divisione rerum et qualitate.
-** Dig. 1.9.0. De senatoribus.
-** Dig. 1.10.0. De officio consulis.
-** Dig. 1.11.0. De officio praefecti praetorio.
-** Dig. 1.12.0. De officio praefecti urbi.
-** Dig. 1.13.0. De officio quaestoris.
-** Dig. 1.14.0. De officio praetorum.
-** Dig. 1.15.0. De officio praefecti vigilum.
-** Dig. 1.16.0. De officio proconsulis et legati.
-** Dig. 1.17.0. De officio praefecti augustalis.
-** Dig. 1.18.0. De officio praesidis.
-** Dig. 1.19.0. De officio procuratoris caesaris vel rationalis.
-** Dig. 1.20.0. De officio iuridici.
-** Dig. 1.21.0. De officio eius, cui mandata est iurisdictio.
-** Dig. 1.22.0. De officio adsessorum.
-
-
-* Dig. 1.1.0. De iustitia et iure.
+* 1.1.0. De iustitia et iure.
 
 Dig. 1.1.1pr.
 
@@ -202,7 +198,7 @@ Marcianus 1 inst.
 
 Nonnumquam ius etiam pro necessitudine dicimus veluti " est mihi ius cognationis vel adfinitatis. "
 
-* Dig. 1.2.0. De origine iuris et omnium magistratuum et successione prudentium.
+* 1.2.0. De origine iuris et omnium magistratuum et successione prudentium.
 
 Dig. 1.2.1
 
@@ -567,7 +563,7 @@ Pomponius l.S. enchir.
 
 Cassio caelius sabinus successit, qui plurimum temporibus vespasiani potuit: proculo pegasus, qui temporibus vespasiani praefectus urbi fuit: caelio sabino priscus iavolenus: pegaso celsus: patri celso celsus filius et priscus neratius, qui utique consules fuerunt, celsus quidem et iterum: iavoleno prisco aburnius valens et tuscianus, item salvius iulianus.
 
-* Dig. 1.3.0. De legibus senatusque consultis et longa consuetudine.
+* 1.3.0. De legibus senatusque consultis et longa consuetudine.
 
 Dig. 1.3.1
 
@@ -824,7 +820,7 @@ Ulpianus 2 inst.
 
 Totum autem ius constitit aut in adquirendo aut in conservando aut in minuendo: aut enim hoc agitur, quemadmodum quid cuiusque fiat, aut quemadmodum quis rem vel ius suum conservet, aut quomodo alienet aut admittat.
 
-* Dig. 1.4.0. De constitutionibus principum.
+* 1.4.0. De constitutionibus principum.
 
 Dig. 1.4.1pr.
 
@@ -862,7 +858,7 @@ Modestinus 2 excus.
 
 Ahi metagenesterai diataceis isxuroterai twn pro autwn eisin .
 
-* Dig. 1.5.0. De statu hominum.
+* 1.5.0. De statu hominum.
 
 Dig. 1.5.1
 
@@ -1062,7 +1058,7 @@ Ulpianus 5 opin.
 
 Eum, qui se libertinum esse fatetur, nec adoptando patronus ingenuum facere potuit.
 
-* Dig. 1.6.0. De his qui sui vel alieni iuris sunt.
+* 1.6.0. De his qui sui vel alieni iuris sunt.
 
 Dig. 1.6.1pr.
 
@@ -1148,7 +1144,7 @@ Modestinus 1 pand.
 
 Inviti filii naturales vel emancipati non rediguntur in patriam potestatem.
 
-* Dig. 1.7.0. De adoptionibus et emancipationibus et aliis modis quibus potestas solvitur.
+* 1.7.0. De adoptionibus et emancipationibus et aliis modis quibus potestas solvitur.
 
 Dig. 1.7.1pr.
 
@@ -1546,7 +1542,7 @@ Ulpianus 4 ad l. iul. et pap.
 
 In servitute mea quaesitus mihi filius in potestatem meam redigi beneficio principis potest: libertinum tamen eum manere non dubitatur.
 
-* Dig. 1.8.0. De divisione rerum et qualitate.
+* 1.8.0. De divisione rerum et qualitate.
 
 Dig. 1.8.1pr.
 
@@ -1719,7 +1715,7 @@ Pomponius 2 ex var. lect.
 
 Si quis violaverit muros, capite punitur, sicuti si quis transcendet scalis admotis vel alia qualibet ratione. nam cives romanos alia quam per portas egredi non licet, cum illud hostile et abominandum sit: nam et romuli frater remus occisus traditur ob id, quod murum transcendere voluerit.
 
-* Dig. 1.9.0. De senatoribus.
+* 1.9.0. De senatoribus.
 
 Dig. 1.9.1pr.
 
@@ -1823,7 +1819,7 @@ Ulpianus 2 de cens.
 
 Senatores autem accipiendum est eos, qui a patriciis et consulibus usque ad omnes illustres viros descendunt, quia et hi soli in senatu sententiam dicere possunt.
 
-* Dig. 1.10.0. De officio consulis.
+* 1.10.0. De officio consulis.
 
 Dig. 1.10.1pr.
 
@@ -1843,7 +1839,7 @@ Ulpianus 2 de off. cons.
 
 Consules apud se servos suos manumittere posse nulla dubitatio est. sed si evenerit, ut minor viginti annis consul sit, apud se manumittere non poterit, cum ipse sit, qui ex senatus consulto consilii causam examinat: apud collegam vero causa probata potest.
 
-* Dig. 1.11.0. De officio praefecti praetorio.
+* 1.11.0. De officio praefecti praetorio.
 
 Dig. 1.11.1pr.
 
@@ -1863,7 +1859,7 @@ Arcadius l.S. de off. praef. pr.
 
 Subnixi sunt etiam alio privilegio praefecti praetorio, ne a sententiis eorum minores aetate ab aliis magistratibus nisi ab ipsis praefectis praetorio restitui possint.
 
-* Dig. 1.12.0. De officio praefecti urbi.
+* 1.12.0. De officio praefecti urbi.
 
 Dig. 1.12.1pr.
 
@@ -1967,7 +1963,7 @@ Ulpianus 2 ad ed.
 
 Praefectus urbi cum terminos urbis exierit, potestatem non habet: extra urbem potest iubere iudicare.
 
-* Dig. 1.13.0. De officio quaestoris.
+* 1.13.0. De officio quaestoris.
 
 Dig. 1.13.1pr.
 
@@ -1999,7 +1995,7 @@ Ulpianus l.S. de off. quaest.
 
 Ex his, sicut dicimus, quidam sunt qui candidati principis dicebantur quique epistulas eius in senatu legunt.
 
-* Dig. 1.14.0. De officio praetorum.
+* 1.14.0. De officio praetorum.
 
 Dig. 1.14.1
 
@@ -2025,7 +2021,7 @@ Ulpianus 1 de omn. trib.
 
 Praetor neque tutorem neque specialem iudicem ipse se dare potest.
 
-* Dig. 1.15.0. De officio praefecti vigilum.
+* 1.15.0. De officio praefecti vigilum.
 
 Dig. 1.15.1
 
@@ -2081,7 +2077,7 @@ Ulpianus l.S. de off. praef. urb.
 
 Imperatores severus et antoninus iunio rufino praefecto vigilum ita rescripserunt: " insularios et eos, qui neglegenter ignes apud se habuerint, potes fustibus vel flagellis caedi iubere: eos autem, qui dolo fecisse incendium convincentur, ad fabium cilonem praefectum urbi amicum nostrum remittes: fugitivos conquirere eosque dominis reddere debes. "
 
-* Dig. 1.16.0. De officio proconsulis et legati.
+* 1.16.0. De officio proconsulis et legati.
 
 Dig. 1.16.1
 
@@ -2293,7 +2289,7 @@ Ulpianus 2 ad ed.
 
 Proconsul portam romae ingressus deponit imperium.
 
-* Dig. 1.17.0. De officio praefecti augustalis.
+* 1.17.0. De officio praefecti augustalis.
 
 Dig. 1.17.1
 
@@ -2301,7 +2297,7 @@ Ulpianus 15 ad ed.
 
 Praefectus aegypti non prius deponit praefecturam et imperium, quod ad similitudinem proconsulis lege sub augusto ei datum est, quam alexandriam ingressus sit successor eius, licet in provinciam venerit: et ita mandatis eius continetur.
 
-* Dig. 1.18.0. De officio praesidis.
+* 1.18.0. De officio praesidis.
 
 Dig. 1.18.1
 
@@ -2495,7 +2491,7 @@ Paulus l.S. de off. adsess.
 
 Praeses cum cognoscat de servo corrupto vel ancilla devirginata vel servo stuprato, si actor rerum agentis corruptus esse dicetur vel eiusmodi homo, ut non ad solam iacturam adversus substantiam, sed ad totius domus eversionem pertineat: severissime debet animadvertere.
 
-* Dig. 1.19.0. De officio procuratoris caesaris vel rationalis.
+* 1.19.0. De officio procuratoris caesaris vel rationalis.
 
 Dig. 1.19.1pr.
 
@@ -2539,7 +2535,7 @@ Callistratus 6 de cogn.
 
 Deinde neque redire cuiquam permittere possunt idque imperatores nostri severus et antoninus ad libellum hermiae rescripserunt.
 
-* Dig. 1.20.0. De officio iuridici.
+* 1.20.0. De officio iuridici.
 
 Dig. 1.20.1
 
@@ -2553,7 +2549,7 @@ Ulpianus 39 ad sab.
 
 Iuridico, qui alexandriae agit, datio tutoris constitutione divi marci concessa est.
 
-* Dig. 1.21.0. De officio eius, cui mandata est iurisdictio.
+* 1.21.0. De officio eius, cui mandata est iurisdictio.
 
 Dig. 1.21.1pr.
 
@@ -2615,7 +2611,7 @@ Paulus 18 ad plaut.
 
 Mandata iurisdictione privato etiam imperium quod non est merum videtur mandari, quia iurisdictio sine modica coercitione nulla est.
 
-* Dig. 1.22.0. De officio adsessorum.
+* 1.22.0. De officio adsessorum.
 
 Dig. 1.22.1
 

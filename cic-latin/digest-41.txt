@@ -1,27 +1,16 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber quadragesimus primus
-
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
-* TITLES
-** 41.1.0. De adquirendo rerum dominio.
-** 41.2.0. De adquirenda vel amittenda possessione.
-** 41.3.0. De usurpationibus et usucapionibus.
-** 41.4.0. Pro emptore.
-** 41.5.0. Pro herede vel pro possessore.
-** 41.6.0. Pro donato.
-** 41.7.0. Pro derelicto.
-** 41.8.0. Pro legato.
-** 41.9.0. Pro dote.
-** 41.10.0. Pro suo.
-
+* LIBER XLI
++ 41.1.0. De adquirendo rerum dominio.
++ 41.2.0. De adquirenda vel amittenda possessione.
++ 41.3.0. De usurpationibus et usucapionibus.
++ 41.4.0. Pro emptore.
++ 41.5.0. Pro herede vel pro possessore.
++ 41.6.0. Pro donato.
++ 41.7.0. Pro derelicto.
++ 41.8.0. Pro legato.
++ 41.9.0. Pro dote.
++ 41.10.0. Pro suo.
 
 
 * 41.1.0. De adquirendo rerum dominio.
@@ -589,7 +578,6 @@ Venonius libro sexto interdictorum
 
 Cum praegnas mulier legata aut usucapta aliove quo modo alienata pariat, eius fient partus, cuius est ea, cum eniteretur, non cuius tunc fuisset, cum conciperet.
 
-
 * 41.2.0. De adquirenda vel amittenda possessione.
 
 
@@ -1115,7 +1103,6 @@ Venonius libro quinto interdictorum
 
 Adversus extraneos vitiosa possessio prodesse solet.
 
-
 * 41.3.0. De usurpationibus et usucapionibus.
 
 
@@ -1547,7 +1534,6 @@ Labeo libro quinto pithanon a Paulo epitomarum
 
 Si quid est subreptum, id usucapi non potest, antequam in domini potestatem pervenerit. Paulus: immo forsitan et contra: nam si id, quod mihi pignori dederis, subripueris, erit ea res furtiva facta: sed simul atque in meam potestatem venerit, usucapi poterit.
 
-
 * 41.4.0. Pro emptore.
 
 
@@ -1699,7 +1685,6 @@ Scaevola libro 25 digestorum
 
 Intestatae sororis hereditas obvenit duobus fratribus, quorum alter absens erat, alter praesens: praesens etiam absentis causam agebat, ex qua hereditate suo et fratris sui nomine fundum in solidum vendidit Lucio Titio bona fide ementi: quaesitum est, cum scierit partem fundi absentis esse, an totum fundum longa possessione ceperit. Respondit, si credidisset mandatu fratris venisse, per longum tempus cepisse.
 
-
 * 41.5.0. Pro herede vel pro possessore.
 
 
@@ -1730,7 +1715,6 @@ Plerique putaverunt, si heres sim et putem rem aliquam ex hereditate esse quae n
 Paulus libro quinto ad legem Iuliam et Papiam
 
 Constat eum, qui testamenti factionem habet, pro herede usucapere posse.
-
 
 * 41.6.0. Pro donato.
 
@@ -1774,7 +1758,6 @@ Qui pro donato coeperat usucapere, manumittendo nihil egit, quia nec dominium na
 Hermogenianus libro secundo iuris epitomarum
 
 Donationis causa facta venditione non pro emptore, sed pro donato res tradita usucapitur.
-
 
 * 41.7.0. Pro derelicto.
 
@@ -1830,7 +1813,6 @@ Si quis merces ex nave iactatas invenisset, num ideo usucapere non possit, quia 
 Paulus libro 18 responsorum
 
 Sempronius Thetidi status quaestionem facere temptabat, quasi de serva sua nata sit. Qui iam testato conventus a Procula nutrice Thetidis in solvendis alimentis respondit non se habere, unde alimenta eiusdem exsolvat, sed debere eam patri suo restituere Lucio Titio: idque ex illa in testationem redegisset, ut postea nullam quaestionem pateretur ab eodem Sempronio, Lucius Titius Seiae Proculae solutis alimentis puellam vindicta manumisit: quaero, an possit rescindi libertas Thetidis. Paulus respondit, quoniam dominus ancillae, ex qua Thetis nata est, Thetidem pro derelicto habuisse videtur, potuisse eam a Lucio Titio ad libertatem perduci.
-
 
 * 41.8.0. Pro legato.
 
@@ -1889,7 +1871,6 @@ Hermogenianus libro quinto iuris epitomarum
 
 Pro legato usucapit, cui recte legatum relictum est: sed et si non iure legatum relinquatur vel legatum ademptum est, pro legato usucapi post magnas varietates optinuit.
 
-
 * 41.9.0. Pro dote.
 
 
@@ -1918,7 +1899,6 @@ Si aestimata res ante nuptias tradita sit, nec pro emptore nec pro suo ante nupt
 Scaevola libro 25 digestorum
 
 Duae filiae intestato patri heredes exstiterunt et mancipia communia singulae in dotem dederunt et post aliquot annos morte patris familiae herciscundae iudicium inter eas dictatum est. Quaesitum est, cum mariti bona fide mancipia in dotem accepta ut dotalia multis annis possederunt, an usucepisse videantur, si qui accipiebant, dantis credidissent esse. Respondit nihil proponi, cur non usucepissententiarum
-
 
 * 41.10.0. Pro suo.
 

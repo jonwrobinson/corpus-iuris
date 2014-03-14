@@ -1,26 +1,15 @@
+# -*- mode: org -*-
 
- 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber nonus decimus
- 
- 
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
- 
- 
+* LIBER XIX
++ 19.1.0. De actionibus empti venditi.
++ 19.2.0. Locati conducti.
++ 19.3.0. De aestimatoria.
++ 19.4.0. De rerum permutatione.
++ 19.5.0. De praescriptis verbis et in factum actionibus.
 
-    * 19.1.0. De actionibus empti venditi.
-    * 19.2.0. Locati conducti.
-    * 19.3.0. De aestimatoria.
-    * 19.4.0. De rerum permutatione.
-    * 19.5.0. De praescriptis verbis et in factum actionibus.
-       
+* 19.1.0. De actionibus empti venditi.
 
-  19.1.0. De actionibus empti venditi.
 
- 
 19.1.1
 
 Ulpianus libro 28 ad Sabinum
@@ -322,7 +311,7 @@ pr. Si sterilis ancilla sit, cuius partus venit, vel maior annis quinquaginta, c
 
 19.1.22
 
-Iulianus libro septimo digestorum 
+Iulianus libro septimo digestorum
 
 Si in qualitate fundi venditor mentitus sit, non in modo eius, tamen tenetur emptori: pone enim dixisse eum quinquaginta iugera esse vineae et quinquaginta prati et in prato plus inveniri, esse tamen omnia centum iugera.
 
@@ -350,7 +339,7 @@ Qui pendentem vindemiam emit, si uvam legere prohibeatur a venditore, adversus e
 
 19.1.26
 
-Alfenus libro secundo digestorum 
+Alfenus libro secundo digestorum
 
 Si quis, cum fundum venderet, dolia centum, quae in fundo esse adfirmabat, accessura dixisset, quamvis ibi nullum dolium fuisset, tamen dolia emptori debebit.
 
@@ -428,7 +417,7 @@ Sicut aequum est bonae fidei emptori alterius dolum non nocere, ita non est aequ
 
 19.1.38
 
-Celsus libro octavo digestorum 
+Celsus libro octavo digestorum
 
 pr. Si venditor hominis dixit peculium eum habere decem nec quemquam adempturum, et si plus habet, totum praestet, nisi hoc actum est, ut dumtaxat decem praestaret, si minus est, praestet esse decem et talem servum esse, ut tantum peculii habeat.
 
@@ -524,7 +513,7 @@ pr. Si et per emptorem et venditorem mora fuisset, quo minus vinum praeberetur e
 
 19.1.52
 
-Scaevola libro septimo digestorum 
+Scaevola libro septimo digestorum
 
 pr. Creditor fundum sibi obligatum, cuius chirographa tributorum a debitore retro solutorum apud se deposita habebat, vendidit maevio ea lege, ut, si quid tributorum nomine debitum esset, emptor solveret: idem fundus ob causam eorum tributorum, quae iam soluta erant, a conductore saltus, in quo idem fundus est, venit eumque idem Maevius emit et pretium solvit: quaesitum est, an empti iudicio vel aliqua actione emptor a venditore consequi possit, ut solutionum supra scriptarum chirographa ei dentur. Respondit posse emptorem empti iudicio consequi, ut instrumenta de quibus quaereretur exhibeantur.
 
@@ -557,11 +546,10 @@ pr. Si servus quem vendideras iussu tuo aliquid fecit et ex eo crus fregit, ita 
 Pomponius libro decimo epistularum
 
 Si servus, qui emeretur vel promitteretur, in hostium potestate sit, octavenus magis putabat valere emptionem et stipulationem, quia inter ementem et vendentem esset commercium: potius enim difficultatem in praestando eo inesse, quam in natura, etiamsi officio iudicis sustinenda esset eius praestatio, donec praestari possit.
- 
 
-19.2.0. Locati conducti.
+* 19.2.0. Locati conducti.
 
- 
+
 19.2.1
 
 Paulus libro 34 ad edictum
@@ -716,7 +704,7 @@ pr. Ex conducto actio conductori datur.
 
 19.2.16
 
-Iulianus libro 15 digestorum 
+Iulianus libro 15 digestorum
 
 Cum eo tempore in pupillum actiones nullae darentur.
 
@@ -728,7 +716,7 @@ Tutelae tamen cum tutore iudicio, inquit, aget, si abstinere non debuit:
 
 19.2.18
 
-Iulianus libro 15 digestorum 
+Iulianus libro 15 digestorum
 
 In quo inerit etiam hoc, quod ex conductione fundi lucrum facere potuit.
 
@@ -838,7 +826,7 @@ In operis duobus simul locatis convenit priori conductori ante satisfieri.
 
 19.2.27
 
-Alfenus libro secundo digestorum 
+Alfenus libro secundo digestorum
 
 pr. Habitatores non, si paulo minus commode aliqua parte caenaculi uterentur, statim deductionem ex mercede facere oportet: ea enim condicione habitatorem esse, ut, si quid transversarium incidisset, quamobrem dominum aliquid demoliri oporteret, aliquam partem parvulam incommodi sustineret: non ita tamen, ut eam partem caenaculi dominus aperuisset, in quam magnam partem usus habitator haberet.
 
@@ -856,7 +844,7 @@ pr. Quod si domi habitatione conductor aeque usus fuisset,
 
 19.2.29
 
-Alfenus libro septimo digestorum 
+Alfenus libro septimo digestorum
 
 In lege locationis scriptum erat: "Redemptor silvam ne caedito neve cingito neve deurito neve quem cingere caedere urere sinito". Quaerebatur, utrum redemptor, si quem quid earum rerum facere vidisset, prohibere deberet an etiam ita silvam custodire, ne quis id facere possit. Respondi verbum sinere utramque habere significationem, sed locatorem potius id videri voluisse, ut redemptor non solum, si quem casu vidisset silvam caedere, prohiberet, sed uti curaret et daret operam, ne quis caederet.
 
@@ -978,13 +966,13 @@ Si quis conduxerit nummo uno, conductio nulla est, quia et hoc donationis instar
 
 19.2.47
 
-Marcellus libro sexto digestorum 
+Marcellus libro sexto digestorum
 
 Cum apparebit emptorem conductoremve pluribus vendentem vel locantem singulorum in solidum intuitum personam, ita demum ad praestationem partis singuli sunt compellendi, si constabit esse omnes solvendo: quamquam fortasse iustius sit etiam, si solvendo omnes erunt, electionem conveniendi quem velit non auferendam actori, si actiones suas adversus ceteros praestare non recuset.
 
 19.2.48
 
-Marcellus libro octavo digestorum 
+Marcellus libro octavo digestorum
 
 pr. Si cui locaverim faciendum quod ego conduxeram, constabit habere me ex locato actionem.
 
@@ -1098,7 +1086,7 @@ pr. Cum in plures annos domus locata est, praestare locator debet, ut non solum 
 
 19.2.61
 
-Scaevola libro septimo digestorum 
+Scaevola libro septimo digestorum
 
 pr. Colonus, cum lege locationis non esset comprehensum, ut vineas poneret, nihilo minus in fundo vineas instituit et propter earum fructum denis amplius aureis annuis ager locari coeperat. Quaesitum est, si dominus istum colonum fundi eiectum pensionum debitarum nomine conveniat, an sumptus utiliter factos in vineis instituendis reputare possit opposita doli mali exceptione. Respondit vel expensas consecuturum vel nihil amplius praestaturum.
 
@@ -1109,11 +1097,10 @@ pr. Colonus, cum lege locationis non esset comprehensum, ut vineas poneret, nihi
 Labeo libro primo pithanon
 
 Si rivum, quem faciendum conduxeras et feceras, antequam eum probares, labes corrumpit, tuum periculum est. Paulus: immo si soli vitio id accidit, locatoris erit periculum, si operis vitio accidit, tuum erit detrimentum.
- 
 
-19.3.0. De aestimatoria.
+* 19.3.0. De aestimatoria.
 
- 
+
 19.3.1
 
 Ulpianus libro 32 ad edictum
@@ -1127,11 +1114,10 @@ pr. Actio de aestimato proponitur tollendae dubitationis gratia: fuit enim magis
 Paulus libro 30 ad edictum
 
 Haec actio utilis est et si merces intervenit.
- 
 
-19.4.0. De rerum permutatione.
+* 19.4.0. De rerum permutatione.
 
- 
+
 19.4.1
 
 Paulus libro 32 ad edictum
@@ -1151,11 +1137,10 @@ pr. Sicut aliud est vendere, aliud emere, alius emptor, alius venditor, ita pret
 Paulus libro quinto ad Plautium
 
 Aristo ait, quoniam permutatio vicina esset emptioni, sanum quoque furtis noxisque solutum et non esse fugitivum servum praestandum, qui ex causa daretur.
- 
 
-19.5.0. De praescriptis verbis et in factum actionibus.
+* 19.5.0. De praescriptis verbis et in factum actionibus.
 
- 
+
 19.5.1
 
 Papinianus libro octavo quaestionum
@@ -1168,7 +1153,7 @@ pr. Nonnumquam evenit, ut cessantibus iudiciis proditis et vulgaribus actionibus
 
 19.5.2
 
-Celsus libro octavo digestorum 
+Celsus libro octavo digestorum
 
 (nam cum deficiant vulgaria atque usitata actionum nomina, praescriptis verbis agendum est)
 
@@ -1353,6 +1338,3 @@ Pomponius libro 21 ad Sabinum
 pr. Si tibi Scyphos dedi, ut eosdem mihi redderes, commodati actio est: si, ut pondus argenti redderes quantum in illis esset, tantidem ponderis petitio est per actionem praescriptis verbis, tam boni tamen argenti, quam illi Scyphi fuerunt: sed si ut vel hos Scyphos vel ut eiusdem ponderis argentum dares, convenit, dicendum est, si quidem tua est electio, Scyphos statim tuos fieri et te mihi dare aut Scyphos aut argentum utrum malis: quod si mihi permissum est eligere, scyphi [scyphos] tui [tuos] non fient [fieri], antequam dixero me eos habere nolle.
 
 1. Quod kalendis <Ianuariis?> dari solet medicis et scaenicis, non est merces: itaque si quid in hisce ministeriis aliter fiat quam convenit, non ex locato, sed in factum actio dabitur.
- 
- 
-

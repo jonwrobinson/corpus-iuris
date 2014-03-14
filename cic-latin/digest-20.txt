@@ -1,28 +1,16 @@
+# -*- mode: org -*-
 
- 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber vicesimus
- 
- 
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
- 
- 
+* LIBER XX
++ 20.1.0. De pignoribus et hypothecis et qualiter ea contrahantur et de pactis eorum.
++ 20.2.0. In quibus causis pignus vel hypotheca tacite contrahitur.
++ 20.3.0. Quae res pignori vel hypothecae datae olbigari non possunt.
++ 20.4.0. Qui potiores in pignore vel hypotheca habeantur et de his qui in priorum creditorum locum (..)
++ 20.5.0. De distractione pignorum et hypothecarum.
++ 20.6.0. Quibus modis pignus vel hypotheca solvitur.
 
-    * 20.1.0. De pignoribus et hypothecis et qualiter ea contrahantur et de pactis eorum.
-    * 20.2.0. In quibus causis pignus vel hypotheca tacite contrahitur.
-    * 20.3.0. Quae res pignori vel hypothecae datae olbigari non possunt.
-    * 20.4.0. Qui potiores in pignore vel hypotheca habeantur et de his qui in priorum creditorum locum (..)
-    * 20.5.0. De distractione pignorum et hypothecarum.
-    *
-      20.6.0. Quibus modis pignus vel hypotheca solvitur.
 
-    
+* 20.1.0. De pignoribus et hypothecis et qualiter ea contrahantur et de pactis eorum.
 
-20.1.0. De pignoribus et hypothecis et qualiter ea contrahantur et de pactis eorum.
- 
 
 20.1.1
 
@@ -252,7 +240,7 @@ pr. Fideiussor impetravit a potestate, ut et ante quam solveret pignora ipse pos
 
 20.1.27
 
-Marcellus libro quinto digestorum 
+Marcellus libro quinto digestorum
 
 Servum, quem quis pignori dederat, ex levissima offensa vinxit, mox solvit, et quia debito non satisfaciebat, creditor minoris servum vendidit: an aliqua actio creditori in debitorem constituenda sit, quia crediti ipsius actio non sufficit ad id quod deest persequendum? Quid si eum interfecisset aut eluscasset? Ubi quidem interfecisset, ad exhibendum tenetur: ubi autem eluscasset, quasi damni iniuriae dabimus actionem ad quantum interest, quod debilitando aut vinciendo persecutionem pignoris exinanierit. Fingamus nullam crediti nomine actionem esse, quia forte causa ceciderat: non existimo indignam rem animadversione et auxilio praetoris. Ulpianus notat: si, ut creditori noceret, vinxit, tenebitur, si merentem, non tenebitur.
 
@@ -309,7 +297,7 @@ Is qui promisit tibi aut Titio solutum quidem Titio repetere non potest, sed pig
 
 20.1.34
 
-Scaevola libro 27 digestorum 
+Scaevola libro 27 digestorum
 
 pr. Cum tabernam debitor creditori pignori dederit, quaesitum est, utrum eo facto nihil egerit an tabernae appellatione merces, quae in ea erant, obligasse videatur? Et si eas merces per tempora distraxerit et alias comparaverit easque in eam tabernam intulerit et decesserit, an omnia quae ibi deprehenduntur creditor hypothecaria actione petere possit, cum et mercium species mutatae sint et res aliae illatae? Respondit: ea, quae mortis tempore debitoris in taberna inventa sunt, pignori obligata esse videntur.
 
@@ -322,10 +310,9 @@ pr. Cum tabernam debitor creditori pignori dederit, quaesitum est, utrum eo fact
 Labeo libro primo pithanon a Paulo epitomarum
 
 Si insula, quam tibi ex pacto convento licuit vendere, combusta est, deinde a debitore suo restituta, idem in nova insula iuris habes.
- 
 
-20.2.0. In quibus causis pignus vel hypotheca tacite contrahitur.
- 
+* 20.2.0. In quibus causis pignus vel hypotheca tacite contrahitur.
+
 
 20.2.1
 
@@ -391,13 +378,12 @@ Est differentia obligatorum propter pensionem et eorum, quae ex conventione mani
 
 20.2.10
 
-Scaevola libro sexto digestorum 
+Scaevola libro sexto digestorum
 
 Tutoris heres cum herede pupilli transactione facta, cum ex ea maiorem partem solvisset, in residuam quantitatem pignus obligavit: quaesitum est, an in veterem contractum iure res obligata esset. Respondit secundum ea quae proponerentur obligatam esse.
- 
 
-20.3.0. Quae res pignori vel hypothecae datae olbigari non possunt.
- 
+* 20.3.0. Quae res pignori vel hypothecae datae olbigari non possunt.
+
 
 20.3.1
 
@@ -432,10 +418,9 @@ Titius cum mutuam pecuniam accipere vellet a Maevio, cavit ei et quasdam res hyp
 Paulus libro quinto sententiarum
 
 Creditor, qui sciens filium familias a parente pignori accepit, relegatur.
- 
 
-20.4.0. Qui potiores in pignore vel hypotheca habeantur et de his qui in priorum creditorum locum succedunt.
- 
+* 20.4.0. Qui potiores in pignore vel hypotheca habeantur et de his qui in priorum creditorum locum succedunt.
+
 
 20.4.1
 
@@ -610,10 +595,9 @@ Scaevola libro 27 digestorum
 pr. Titius Seiae ob summam, qua ex tutela ei condemnatus erat, obligavit pignori omnia bona sua quae habebat quaeque habiturus esset: postea mutuatus a fisco pecuniam pignori ei res suas omnes obligavit: et intulit Seiae partem debiti et reliquam summam novatione facta eidem promisit, in qua obligatione similiter ut supra de pignore convenit. Quaesitum est, an Seia praeferenda sit fisco et in illis rebus, quas Titius tempore prioris obligationis habuit, item in his rebus, quas post priorem obligationem adquisiit, donec universum debitum suum consequatur. Respondit nihil proponi. Cur non sit praeferenda.
 
 1. Negotiatori marmorum creditur sub pignore lapidum, quorum pretia venditores ex pecunia creditoris acceperant: idem debitor conductor horreorum Caesaris fuit, ob quorum pensiones aliquot annis non solutas procurator exactioni praepositus ad lapidum venditionem officium suum extendit: quaesitum est, an iure pignoris eos creditor retinere possit. Respondit secundum ea quae proponerentur posse.
- 
 
-20.5.0. De distractione pignorum et hypothecarum.
- 
+* 20.5.0. De distractione pignorum et hypothecarum.
+
 
 20.5.1
 
@@ -707,13 +691,12 @@ Creditor, qui iure suo pignus distrahit, ius suum cedere debet et, si pignus pos
 
 20.5.14
 
-Scaevola libro sexto digestorum 
+Scaevola libro sexto digestorum
 
 Arbitri dividundae hereditatis inter heredes cum corpora hereditaria divisissent, nomina quoque communium debitorum separatim diversa singulis in solidum adsignaverunt. Quaesitum est an unusquisque eorum, debitore sibi addicto cessante in solutione, pro solido pignus sub eo nomine obligatum vendere possit. Respondit potuisse.
- 
 
-20.6.0. Quibus modis pignus vel hypotheca solvitur.
- 
+* 20.6.0. Quibus modis pignus vel hypotheca solvitur.
+
 
 20.6.1
 
@@ -876,6 +859,3 @@ Cum colono tibi convenit, ut invecta importata pignori essent, donec merces tibi
 Scaevola libro sexto digestorum
 
 Primi creditoris, qui pignori praedia acceperat, et posterioris, cui quidam ex isdem fundis dati erant, ad eandem personam hereditas devenerat: debitor offerebat, quantum a posteriore creditore mutuatus fuerat. Respondit cogendum accipere salvo iure pignoris prioris contractus.
- 
-  
-

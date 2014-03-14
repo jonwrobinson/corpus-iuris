@@ -1,28 +1,17 @@
+# -*- mode: org -*-
 
- 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber quadragesimus quartus
- 
- 
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
- 
+* LIBER XLIV
++ 44.1.0. De exceptionibus praescriptionibus et praeiudiciis.
++ 44.2.0. De exceptione rei iudicatae.
++ 44.3.0. De diversis temporalibus praescriptionibus et de accessionibus possessionum.
++ 44.4.0. De doli mali et metus exceptione.
++ 44.5.0. Quarum rerum actio non datur.
++ 44.6.0. De litigiosis.
++ 44.7.0. De obligationibus et actionibus.
 
-
-    * 44.1.0. De exceptionibus praescriptionibus et praeiudiciis.
-    * 44.2.0. De exceptione rei iudicatae.
-    * 44.3.0. De diversis temporalibus praescriptionibus et de accessionibus possessionum.
-    * 44.4.0. De doli mali et metus exceptione.
-    * 44.5.0. Quarum rerum actio non datur.
-    * 44.6.0. De litigiosis.
-    * 44.7.0. De obligationibus et actionibus.
+* 44.1.0. De exceptionibus praescriptionibus et praeiudiciis.
 
 
-  44.1.0. De exceptionibus praescriptionibus et praeiudiciis.
-
- 
 44.1.1
 
 Ulpianus libro quarto ad edictum
@@ -178,11 +167,10 @@ Paulus: si quis statuam in municipio ea mente posuit, ut ea municipii esset, et 
 Hermogenianus libro sexto iuris epitomarum
 
 Filius familias exceptionem iurisiurandi patri quaerit, si eum dare non oportere iuraverit.
- 
 
-44.2.0. De exceptione rei iudicatae.
+* 44.2.0. De exceptione rei iudicatae.
 
- 
+
 44.2.1
 
 Ulpianus libro secundo ad edictum
@@ -235,7 +223,7 @@ pr. Si quis, cum totum petisset, partem petat, exceptio rei iudicatae nocet, nam
 
 44.2.8
 
-Iulianus libro 51 digestorum 
+Iulianus libro 51 digestorum
 
 Item parte fundi petita si familiae herciscundae vel communi dividundo agit, aeque exceptione submovebitur.
 
@@ -424,11 +412,10 @@ pr. Ex sextante heres institutus, qui intestato legitimus heres esse potest, cum
 Paulus libro tertio responsorum
 
 Paulus respondit ei, qui in rem egisset nec tenuisset, postea condicenti non obstare exceptionem rei iudicatae.
- 
 
-44.3.0. De diversis temporalibus praescriptionibus et de accessionibus possessionum.
+* 44.3.0. De diversis temporalibus praescriptionibus et de accessionibus possessionum.
 
- 
+
 44.3.1
 
 Ulpianus libro 74 ad edictum
@@ -554,11 +541,10 @@ pr. In usucapione ita servatur, ut, etiamsi minimo momento novissimi diei posses
 Paulus libro tertio ad Sabinum
 
 Accessio sine nostro tempore nobis prodesse non potest.
- 
 
-44.4.0. De doli mali et metus exceptione.
+* 44.4.0. De doli mali et metus exceptione.
 
- 
+
 44.4.1
 
 Paulus libro 71 ad edictum
@@ -774,11 +760,10 @@ pr. Pater pro filia dotem promiserat et pactus erat, ut ipse aleret filiam suam 
 2. Ex quadrante heres scriptus a coherede ex dodrante instituto emit portionem certa quantitate, ex qua aliquam summam in nominibus ex kalendario uti daret, stipulanti spopondit: defuncto venditore hereditatis falsum testamentum septicius accusare coepit et hereditatem ab emptore petit et ne quid ex ea minueret, impetravit: quaesitum est, cognitione falsi pendente an heredes ex stipulatu petentes doli exceptione summoventur. Respondit heredes venditoris, si ante eventum cognitionis pergant petere, exceptione doli mali posse summoveri.
 
 3. Marito et filio communi ex parte dimidia scriptis heredibus filiam suam ex priore matrimonio ita heredem instituit: "Maevia filia mea ex sex unciis heres mihi esto, si cum coheredibus tuis parem rationem feceris pro mea portione in diem mortis meae eius actus, qui pendet ex tutela tua, quam Titius pater meus, avus tuus administravit". Quaesitum est, an, quia sub condicione instituta filia esset, si omitteret hereditatem, uti salvam tutelae actionem haberet, legata sibi a matre data consequi possit. Respondit secundum ea quae proponerentur eam, de qua quaereretur, contra voluntatem petere et ideo exceptionem doli obstaturam.
- 
 
-44.5.0. Quarum rerum actio non datur.
+* 44.5.0. Quarum rerum actio non datur.
 
- 
+
 44.5.1
 
 Ulpianus libro 76 ad edictum
@@ -818,11 +803,10 @@ pr. Si filio familias delatum sit iusiurandum et iuraverit patrem suum dare non 
 1. Si in alea rem vendam, ut ludam, et evicta re conveniar, exceptione summovebitur emptor.
 
 2. Si servus promittat domino pecuniam, ut manumittatur, cum alias non esset manumissurus dominus, eamque liber factus spondeat: dicitur non obstare exceptionem patrono, si eam petat: non enim onerandae libertatis causa haec pecunia promissa est. Alioquin iniquum est, dominum et servo carere et pretio eius. Totiens ergo onerandae libertatis causa pecunia videtur promitti, quotiens sua sponte dominus manumisit et propterea velit libertum pecuniam promittere, ut non exigat eam, sed ut libertus eum timeat et obtemperet ei.
- 
 
-44.6.0. De litigiosis.
+* 44.6.0. De litigiosis.
 
- 
+
 44.6.1
 
 Ulpianus libro 76 ad edictum
@@ -842,11 +826,10 @@ Si servus cum emerit scit, ignoravit autem dominus, vel contra, videndum est, cu
 Gaius libro sexto ad legem duodecim tabularum
 
 Rem de qua controversia est prohibemur in sacrum dedicare: alioquin dupli poenam patimur, nec immerito, ne liceat eo modo duriorem adversarii condicionem facere. Sed duplum utrum fisco an adversario praestandum sit, nihil exprimitur: fortassis autem magis adversario, ut id veluti solacium habeat pro eo, quod potentiori adversario traditus est.
- 
 
-44.7.0. De obligationibus et actionibus.
+* 44.7.0. De obligationibus et actionibus.
 
- 
+
 44.7.1
 
 Gaius libro secundo aureorum
@@ -1322,6 +1305,3 @@ Scaevola libro 28 digestorum
 pr. Procurator Seii admisit subscriptionem ad argentarium vascularium in verba infra scripta: Loukios Kalandios epegnwn, kavws progegraptai: estin loipa par' hymin, ofeilomena tw deini, tosa [id est: L. Calendius adgnovi sic ut supra scriptum est: sunt reliqua apud nos quae illi debentur tot]: quaero, an Gaium Seium obligare potuit. Respondit Seium, si alioquin obligatus non esset, non propter quod ea scriptura quae proponeretur interposita sit, obligatum esse.
 
 1. Seia, cum salarium constituere vellet, ita epistulam emisit: "Lucio Titio salutem. Si in eodem animo et eadem affectione circa me es, quo semper fuisti, ex continenti acceptis litteris meis distracta re tua veni hoc: tibi quamdiu vivam praestabo annuos decem. Scio enim quia valde me bene ames". Quaero, cum et rem suam distraxerit Lucius Titius et ad eam profectus sit et ex eo cum ea sit, an ei ex his epistulis salarium annuum debeatur. Respondit ex personis causisque eum cuius notio sit aestimaturum, an actio danda sit.
- 
- 
-

@@ -1,26 +1,14 @@
+# -*- mode: org -*-
 
+* LIBER XXXIX
++ 39.1.0. De operis novi nuntiatione.
++ 39.2.0. De damno infecto et de suggrundis et proiectionibus.
++ 39.3.0. De aqua et aquae pluviae arcendae.
++ 39.4.0. De publicanis et vectigalibus et commissis.
++ 39.5.0. De donationibus.
++ 39.6.0. De mortis causa donationibus et capionibus.
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber tricesimus nonus
-
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
-
-* 39.1.0. De operis novi nuntiatione.
-* 39.2.0. De damno infecto et de suggrundis et proiectionibus.
-* 39.3.0. De aqua et aquae pluviae arcendae.
-* 39.4.0. De publicanis et vectigalibus et commissis.
-* 39.5.0. De donationibus.
-* 39.6.0. De mortis causa donationibus et capionibus.
-
-
-
-39.1.0.  De operis novi nuntiatione.
+* 39.1.0.  De operis novi nuntiatione.
 
 
 39.1.1
@@ -317,8 +305,7 @@ Iavolenus libro septimo epistularum
 
 Is, cui opus novum nuntiatum erat, vendidit praedium: emptor aedificavit: emptorem an venditorem teneri putas, quod adversus edictum factum sit? Respondit: cum operis novi nuntiatio facta est, si quid aedificatum est, emptor, id est dominus praediorum tenetur, quia nuntiatio operis non personae fit et is demum obligatus est, qui eum locum possidet, in quem opus novum nuntiatum est.
 
-
-39.2.0. De damno infecto et de suggrundis et proiectionibus.
+* 39.2.0. De damno infecto et de suggrundis et proiectionibus.
 
 
 39.2.1
@@ -853,8 +840,7 @@ Marcianus libro singulari de delatoribus
 
 Si quis ad demoliendum negotiandi causa vendidisse domum partemve domus fuerit convictus: ut emptor et venditor singuli pretium, quo domus distracta est, praestent, constitutum est. ad opus autem publicum si transferat marmora vel columnas, licito iure facit.
 
-
-39.3.0. De aqua et aquae pluviae arcendae.
+* 39.3.0. De aqua et aquae pluviae arcendae.
 
 
 39.3.1
@@ -1163,8 +1149,7 @@ Scaevola libro quarto responsorum
 
 Scaevola respondit solere eos, qui iuri dicundo praesunt, tueri ductus aquae, quibus auctoritatem vetustas daret, tametsi ius non probaretur.
 
-
-39.4.0. De publicanis et vectigalibus et commissis.
+* 39.4.0. De publicanis et vectigalibus et commissis.
 
 
 39.4.1
@@ -1361,8 +1346,7 @@ pr. Interdum nec vendendus est is servus qui in commissum cecidit, sed pro eo ae
 
 14. Si quid autem indebitum per errorem solventis publicanus accepit, retro eum restituere oportere divi Severus et Antoninus rescripserunt.
 
-
-39.5.0. De donationibus.
+* 39.5.0. De donationibus.
 
 
 39.5.1
@@ -1657,8 +1641,7 @@ pr. Ad eum, quem manumiserat, epistulam misit in haec verba: "Titius Sticho libe
 
 2. Avia sub nomine Labeonis nepotis sui mutuam pecuniam dedit, et usuras semper cepit et instrumenta debitorum a Labeone recepit, quae in hereditate eius inventa sunt: quaero, an donatio perfecta esse videatur. Respondit, cum debitor Labeoni obligatus est, perfectam donationem esse.
 
-
-39.6.0. De mortis causa donationibus et capionibus.
+* 39.6.0. De mortis causa donationibus et capionibus.
 
 
 39.6.1

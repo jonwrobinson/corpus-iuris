@@ -1,52 +1,26 @@
+# -*- mode: org -*-
 
- 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber tricesimus septimus
- 
- 
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
- 
-  
+* LIBER XXXVII
++ 37.1.0. De bonorum possessionibus.
++ 37.2.0. Si tabulae testamenti extabunt.
++ 37.3.0. De bonorum possessione furioso infanti muto surdo caeco competente.
++ 37.4.0. De bonorum possessione contra tabulas.
++ 37.5.0. De legatis praestandis contra tabulas bonorum possessione petita.
++ 37.6.0. De collatione bonorum.
++ 37.7.0. De dotis collatione.
++ 37.8.0. De coniungendis cum emancipato liberis eius.
++ 37.9.0. De ventre in possessionem mittendo et curatore eius.
++ 37.10.0. De Carboniano edicto.
++ 37.11.0. De bonorum possessione secundum tabulas.
++ 37.12.0. Si a parente quis manumissus sit.
++ 37.13.0. De bonorum possessione ex testamento militis.
++ 37.14.0. De iure patronatus.
++ 37.15.0. De obsequiis parentibus et patronis praestandis.
 
-    *
-      37.1.0. De bonorum possessionibus.
-    *
-      37.2.0. Si tabulae testamenti extabunt.
-    *
-      37.3.0. De bonorum possessione furioso infanti muto surdo caeco competente.
-    *
-      37.4.0. De bonorum possessione contra tabulas.
-    *
-      37.5.0. De legatis praestandis contra tabulas bonorum possessione petita.
-    *
-      37.6.0. De collatione bonorum.
-    *
-      37.7.0. De dotis collatione.
-    *
-      37.8.0. De coniungendis cum emancipato liberis eius.
-    *
-      37.9.0. De ventre in possessionem mittendo et curatore eius.
-    *
-      37.10.0. De Carboniano edicto.
-    *
-      37.11.0. De bonorum possessione secundum tabulas.
-    *
-      37.12.0. Si a parente quis manumissus sit.
-    *
-      37.13.0. De bonorum possessione ex testamento militis.
-    *
-      37.14.0. De iure patronatus.
-    *
-      37.15.0. De obsequiis parentibus et patronis praestandis.
 
-     
+* 37.1.0. De bonorum possessionibus.
 
-  37.1.0. De bonorum possessionibus.
 
-   
 37.1.1
 
 Ulpianus libro 39 ad edictum
@@ -170,20 +144,18 @@ Paulus respondit petitionem matris solam non adquisisse filiae impuberi bonorum 
 Paulus libro tertio sententiarum
 
 Quotiens is, cui bonorum possessio ab altero postulata est, furere coeperit, magis probatum ratum eum videri habuisse: rati enim habitio ad confirmationem prioris postulati pertinet.
- 
 
-37.2.0. Si tabulae testamenti extabunt.
- 
+* 37.2.0. Si tabulae testamenti extabunt.
+
 
 37.2.1
 
 Paulus libro tertio ad Sabinum
 
 Heredi, cuius nomen inconsulto ita deletum sit, ut penitus legi non possit, dari bonorum possessio minime potest, quia ex coniectura non proprie scriptus videretur, quamvis, si post prolatas tabulas deletum sit testamentum, bonorum possessio competat. Nam et si mortis tempore tabulae fuerint, licet postea interierint, competet bonorum possessio, quia verum fuit tabulas exstare.
- 
 
-37.3.0. De bonorum possessione furioso infanti muto surdo caeco competente.
- 
+* 37.3.0. De bonorum possessione furioso infanti muto surdo caeco competente.
+
 
 37.3.1
 
@@ -196,10 +168,9 @@ Furioso Titius substitutus est: bonorum possessionis tempus, quamdiu furiosus in
 Ulpianus libro 39 ad edictum
 
 Mutus surdus caecus bonorum possessionem admittere possunt, si quod agatur intellegant.
- 
 
-37.4.0. De bonorum possessione contra tabulas.
- 
+* 37.4.0. De bonorum possessione contra tabulas.
+
 
 37.4.1
 
@@ -454,10 +425,9 @@ pr. Si is, qui filium et ex eo nepotem in potestatem habebat, filium in adoption
 1. Idemque iuris est, si emancipato filio nepos ex eo in potestate avi remanserit et postea patri suo in adoptionem datus fuerit: id est contra tabulas avi bonorum possessionem petere poterit, quia per adoptionem in aliena familia non fuerit.
 
 2. Sed si emancipatus filius meus adoptaverit extraneum filium, is qui adoptatus est filius contra tabulas meas bonorum possessionem petere non poterit, quia numquam nepotis loco apud me fuit.
- 
 
-37.5.0. De legatis praestandis contra tabulas bonorum possessione petita.
- 
+* 37.5.0. De legatis praestandis contra tabulas bonorum possessione petita.
+
 
 37.5.1
 
@@ -499,7 +469,7 @@ pr. Sed et si mortis causa donationes sunt in personas exceptas collatae, credo 
 
 37.5.4
 
-Iulianus libro 23 digestorum 
+Iulianus libro 23 digestorum
 
 Cum propter hoc plerumque scripti heredes omittant hereditatem, cum scirent emancipatum aut petisse aut petiturum contra tabulas bonorum possessionem.
 
@@ -669,17 +639,16 @@ Intervenit illa quaestio, quando numero liberorum esse debeat is cui legatum dat
 
 37.5.25
 
-Marcellus libro nono digestorum 
+Marcellus libro nono digestorum
 
 pr. Qui filium emancipaverat et nepotem ex eo retinuerat in potestate, testamento filium exheredavit, nepotem ex aliqua parte instituit heredem et alium filium emancipatum praeteriit. Potest defendi nepotem quoque bonorum possessionem contra tabulas petere posse: nam pro ea parte, qua quisque intestato suus heres esset, si pater suus heres non esset, bonorum possessio defertur.
 
 1. Is, cuius filius in adoptione erat, nepotem, quem filius postea procreaverat, scripsit heredem, emancipatum filium praeteriit: num habet nepos ex edicto bonorum possessionem? Tuendus tamen exemplo parentium et liberorum, quibus legata praestare coguntur qui bonorum possessionem contra tabulas acceperunt.
 
 2. Si forte ex eodem filio retinuerat nepotem unum pluresve, indubitate pro ea parte tuendus est, pro qua parte tueretur, si ex filia nepos aut mater defuncti heredes instituti essent: nam his comparatur.
-  
 
-37.6.0. De collatione bonorum.
- 
+* 37.6.0. De collatione bonorum.
+
 
 37.6.1
 
@@ -797,13 +766,13 @@ pr. Si quis filium habeat sui iuris et ex eo nepotem in potestate sua, consequen
 
 37.6.6
 
-Celsus libro decimo digestorum 
+Celsus libro decimo digestorum
 
 Dotem, quam dedit avus paternus, an post mortem avi mortua in matrimonio filia patri reddi oporteat, quaeritur. Occurrit aequitas rei, ut, quod pater meus propter me filiae meae nomine dedit, perinde sit atque ipse dederim: quippe officium avi circa neptem ex officio patris erga filium pendet et quia pater filiae, ideo avus propter filium nepti dotem dare debet. Quid si filius a patre exheredatus est? Existimo non absurde etiam in exheredato filio idem posse defendi, nec infavorabilis sententia est, ut hoc saltem habeat ex paternis, quod propter illum datum est.
 
 37.6.7
 
-Celsus libro 13 digestorum 
+Celsus libro 13 digestorum
 
 Si nepotes in locum filii successerunt, una portio is conferri debet, uti bonorum possessionis unam partem habent: sed et ipsi ita conferre debent, quasi omnes unus essententiarum
 
@@ -836,10 +805,9 @@ Paulus respondit ea, quae post mortem patris filio reddi debuerunt, emancipatum 
 Paulus libro 41 ad edictum
 
 Si praegnantem quis uxorem reliquerit et ea ventris nomine in possessionem missa fuerit, interim cessat collatio: nam antequam nascatur, non potest dici in potestate morientis fuisse: sed nato conferetur.
- 
 
-37.7.0. De dotis collatione.
- 
+* 37.7.0. De dotis collatione.
+
 
 37.7.1
 
@@ -914,10 +882,9 @@ Pater nubenti filiae quasdam res praeter dotem dedit eamque in familia retinuit 
 Tryphoninus libro sexto disputationum
 
 Fuit quaestionis, an, si sua heres filia patri cum fratribus contenta dote abstineat se bonis, compellatur eam conferre. Et divus Marcus rescripsit non compelli abstinentem se ab hereditate patris. Ergo non tantum data apud maritum remanebit, sed et promissa exigetur etiam a fratribus et est aeris alieni loco: abscessit enim a bonis patris.
-  
 
-37.8.0. De coniungendis cum emancipato liberis eius.
- 
+* 37.8.0. De coniungendis cum emancipato liberis eius.
+
 
 37.8.1
 
@@ -967,7 +934,7 @@ Nihil in hac parte edicti cavit praetor, ut legata exceptis personis nepos praes
 
 37.8.3
 
-Marcellus libro nono digestorum 
+Marcellus libro nono digestorum
 
 Qui duos filios habebat, alterum ex his emancipavit, nepotem ex eo in potestate retinuit: emancipatus filium sustulit et a patre exheredatus est: quaero, cum frater eius et ipse emancipatus praeteritus sit et nepotes ex emancipato filio ab avo heredes instituti, quid de bonorum possessione iuris sit? Et quid intersit, si emancipatum quoque, ex quo nepotes erant nati, praeteritum esse ponamus. Respondi, si filium retento ex eo nepote emancipaverit et emancipatus procreaverit filium et heres uterque nepos institutus fuerit, pater eorum exheredatus, alius filius praeteritus: solus filius praeteritus bonorum possessionem contra tabulas petere poterit: exheredatus enim obstat filiis suis post emancipationem susceptis. Nepoti tamen retento in potestate bonorum possessio dari debet, quoniam, si pater eius emancipatus praeteritus esset, simul cum eo bonorum possessionem accipere posset propter id caput edicti, quod a Iuliano introductum est, id est ex nova clausula, nec debet deterioris esse condicionis, quia pater eius exheredatus sit. Idque ei praeterito quoque praestari oportebit. Sed fratris eius, qui post emancipationem natus est, diversa condicio est: conservanda est tamen et illi ad virilem partem hereditas, sicut etiam imperator Antoninus in persona nepotis ex filia rescripsit.
 
@@ -994,10 +961,9 @@ Si quis filium habens in potestate extraneum in nepotis locum quasi ex eo filio 
 Tryphoninus libro 16 disputationum
 
 Si post emancipationem filii susceptus ex eo fuerit nepos, conservanda illi erit portio, sed quanta videamus. Finge enim patruo scripto heredi coheredem datum hunc nepotem, patrem autem eiusdem praeteritum accepisse contra tabulas bonorum possessionem. Quod ad edictum praetoris attinet, semisses bonorum fient: nunc vero post constitutionem divi Pii si conservatur pars nepoti, utrum virilis an quarta debeat servari? Nam si in avi natus potestate fuisset, coniungebatur in unam partem cum patre suo. Et proponamus esse alium ex eodem nepotem in familia avi: duo unam quartam habituri erant patre eorum accipiente contra tabulas bonorum possessionem, si fuissent in avi potestate: an ergo nunc in sescunciam tuendus sit, qui non in familia retentus est? Et cui abscedet pars, quae huic cessura est, patri eius tantum an et patruo? Et puto et patruo: nam et legatum eidem datum praestaret.
- 
 
-37.9.0. De ventre in possessionem mittendo et curatore eius.
- 
+* 37.9.0. De ventre in possessionem mittendo et curatore eius.
+
 
 37.9.1
 
@@ -1122,10 +1088,9 @@ Cum venter mittitur in possessionem, quod in ventris alimenta deminutum est detr
 Paulus libro septimo quaestionum
 
 Postumus natus quocumque tempore, qui tamen testatoris morte conceptus iam erit, potest agnoscere bonorum possessionem: nam et ventrem praetor ex omnibus partibus edicti mittit in possessionem bonorum, non missurus scilicet, si ei nato daturus non esset bonorum possessionem.
-   
 
-37.10.0. De Carboniano edicto.
- 
+* 37.10.0. De Carboniano edicto.
+
 
 37.10.1
 
@@ -1277,7 +1242,7 @@ Quod Labeo scribit, quotiens suppositus esse dicitur pupillus, cum quo de patris
 
 37.10.10
 
-Marcellus libro septimo digestorum 
+Marcellus libro septimo digestorum
 
 Cum mulier deferente herede iuraverit se praegnatem esse, bonorum possessio ex edicto Carboniano dari debet, vel denegari, si illa heredi detulit iusiurandum, cum causa cognita detur possessio, ne aut heredi bonorum possessio data faciat praeiudicium aut denegata ius ordinarium eripiat pupillo.
 
@@ -1316,10 +1281,9 @@ Haec bonorum possessio, si satis datum sit, non tantum ad possessionem apiscenda
 Paulus libro 41 ad edictum
 
 Sed sicuti de bonis paternis emancipato cavetur, ita de istis quae ipsi confert cavendum est.
- 
 
-37.11.0. De bonorum possessione secundum tabulas.
- 
+* 37.11.0. De bonorum possessione secundum tabulas.
+
 
 37.11.1
 
@@ -1401,7 +1365,7 @@ Hi demum sub condicione heredes instituti bonorum possessionem secundum tabulas 
 
 37.11.7
 
-Iulianus libro 23 digestorum 
+Iulianus libro 23 digestorum
 
 Cum tabulae testamenti plurium signis signatae essent et quaedam ex his non parent, septem tamen signa maneant, sufficit ad bonorum possessionem dandam septem testium signa comparere, licet non omnium qui signaverint maneant signa.
 
@@ -1446,10 +1410,9 @@ pr. "Qui ex liberis meis impubes supremus morietur, ei Titius heres esto". Duobu
 Paulus libro septimo quaestionum
 
 Ut scriptus heres adgnoscere possit bonorum possessionem, exigendum puto, ut et demonstratus sit propria demonstratione et portio adscripta ei inveniri possit, licet sine parte institutus sit: nam qui sine parte heres institutus est, vacantem portionem vel alium assem occupat. Quod si ita heres scriptus sit, ut interdum excludatur a testamento, eo quod non invenitur portio, ex qua institutus est, nec bonorum possessionem petere potest. Id evenit, si quis ita heredem instituat: "Titius quanta ex parte priore testamento eum heredem scriptum habeo, heres esto" vel "quanta ex parte codicillis scriptum eum habeo, heres esto", sic scriptus non inveniatur. Quod si ita scripsero: "Titius, si eum priore testamento ex semisse scriptum heredem habeo" vel "si eum codicillis ex semisse heredem scripsero, ex semisse heres esto", tunc accipiet bonorum possessionem quasi sub condicione heres scriptus.
- 
 
-37.12.0. Si a parente quis manumissus sit.
- 
+* 37.12.0. Si a parente quis manumissus sit.
+
 
 37.12.1
 
@@ -1485,7 +1448,7 @@ pr. Paconius ait: si turpes personas, veluti meretricem, a parente emancipatus e
 
 37.12.4
 
-Marcellus libro nono digestorum 
+Marcellus libro nono digestorum
 
 Patri qui filium emancipavit de his, quae libertatis causa imposita fuerint, praetor nihil edicit, et ideo frustra pater operas stipulabitur de filio.
 
@@ -1494,10 +1457,9 @@ Patri qui filium emancipavit de his, quae libertatis causa imposita fuerint, pra
 Papinianus libro 11 quaestionum
 
 Divus Traianus filium, quem pater male contra pietatem adficiebat, coegit emancipare. Quo postea defuncto, pater ut manumissor bonorum possessionem sibi competere dicebat: sed consilio Nneratii Prisci et Aristonis ei propter necessitatem solvendae pietatis denegata est.
- 
 
-37.13.0. De bonorum possessione ex testamento militis.
- 
+* 37.13.0. De bonorum possessione ex testamento militis.
+
 
 37.13.1
 
@@ -1508,10 +1470,9 @@ pr. Non dubium est, quin debeant ratae voluntates esse eorum, qui in hosticolo s
 1. Item nauarchos et trierarchos classium iure militari posse testari nulla dubitatio est. In classibus omnes remiges et nautae milites sunt. Item vigiles milites sunt et iure militari eos testari posse nulla dubitatio est.
 
 2. Si quis militum ex alio numero translatus sit in alium, quamvis et hinc sit exemptus et illo nondum pervenerit, tamen poterit iure militari testari: est enim miles, quamvis in numeris non sit.
-  
 
-37.14.0. De iure patronatus.
-  
+* 37.14.0. De iure patronatus.
+
 
 37.14.1
 
@@ -1688,10 +1649,9 @@ pr. Si filius patris necem inultam reliquerit, quam servus detexit et meruit lib
 Paulus imperialium sententiarum in cognitionibus prolatarum sive decretorum ex libris sex libro primo
 
 Camelia Pia ab Hermogene appellaverat, quod diceret iudicem de dividenda hereditate inter se et coheredem non tantum res, sed etiam libertos divisisse: nullo enim iure id eum fecisse. Placuit nullam esse libertorum divisionem: alimentorum autem divisionem a iudice inter coheredes factam eodem modo ratam esse.
-  
 
-37.15.0. De obsequiis parentibus et patronis praestandis.
- 
+* 37.15.0. De obsequiis parentibus et patronis praestandis.
+
 
 37.15.1
 
@@ -1778,6 +1738,3 @@ Nullum ius libertatis causa impositorum habet in mancipato filio, quia nihil imp
 Papinianus libro 13 responsorum
 
 Liberta ingrata non est, quod arte sua contra patronae voluntatem utitur.
- 
- 
-

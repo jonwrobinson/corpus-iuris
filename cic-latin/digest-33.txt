@@ -1,32 +1,20 @@
+# -*- mode: org -*-
 
- 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber tricesimus tertius
- 
- 
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
- 
+* LIBER XXXIII
++ 33.1.0. De annuis legatis et fideicommissis.
++ 33.2.0. De usu et de usu fructu et reditu et habitatione et operis per legatum (..)
++ 33.3.0. De servitute legata.
++ 33.4.0. De dote praelegata.
++ 33.5.0. De optione vel electione legata.
++ 33.6.0. De tritico vino vel oleo legato.
++ 33.7.0. De instructo vel instrumento legato.
++ 33.8.0. De peculio legato.
++ 33.9.0. De penu legata
++ 33.10.0. De suppellectile legata.
+
+* 33.1.0. De annuis legatis et fideicommissis.
 
 
-    * 33.1.0. De annuis legatis et fideicommissis.
-    * 33.2.0. De usu et de usu fructu et reditu et habitatione et operis per legatum (..)
-    * 33.3.0. De servitute legata.
-    * 33.4.0. De dote praelegata.
-    * 33.5.0. De optione vel electione legata.
-    * 33.6.0. De tritico vino vel oleo legato.
-    * 33.7.0. De instructo vel instrumento legato.
-    * 33.8.0. De peculio legato.
-    * 33.9.0. De penu legata
-    * 33.10.0. De suppellectile legata.
-
- 
-
-  33.1.0. De annuis legatis et fideicommissis.
-
- 
 33.1.1
 
 Pomponius libro quinto ad Sabinum
@@ -216,11 +204,10 @@ Cum erat certa pecunia, id est centum, rei publicae Sardianorum relicta per quad
 Valens libro secundo fideicommissorum
 
 Filio familias, quoad in potestate patris sit, in annos singulos dena dari possunt.
-  
 
-33.2.0. De usu et de usu fructu et reditu et habitatione et operis per legatum vel fideicommissum datis.
+* 33.2.0. De usu et de usu fructu et reditu et habitatione et operis per legatum vel fideicommissum datis.
 
- 
+
 33.2.1
 
 Paulus libro tertio ad Sabinum
@@ -441,7 +428,7 @@ pr. Generali capite praeposito quidam in testamento suo ita adiecit: "Felici, qu
 
 33.2.33
 
-Scaevola libro 17 digestorum 
+Scaevola libro 17 digestorum
 
 pr. "Sempronio ea, quae vivus praestabam, dari volo": is etiam habitabat in testatoris domo, quae uni ex heredibus praelegata erat: quaesitum est, an habitatio quoque debeatur. Respondit nihil proponi, cur non debeatur.
 
@@ -512,11 +499,10 @@ In fructu id esse intellegitur, quod ad usum hominis inductum est: neque enim ma
 Venonius libro decimo actionum
 
 Nihil interest, utrum bonorum quis an rerum tertiae partis usum fructum legaverit: nam si bonorum usus fructus legabitur, etiam aes alienum ex bonis deducetur, et quod in actionibus erit, computabitur. At si certarum rerum usus fructus legatus erit, non idem observabitur.
-   
 
-33.3.0. De servitute legata.
+* 33.3.0. De servitute legata.
 
- 
+
 33.3.1
 
 Iulianus libro primo ex Minicio
@@ -558,11 +544,10 @@ Pater filiae domum legavit eique per domus hereditarias ius transeundi praestari
 Paulus libro 21 quaestionum
 
 Cum a pluribus heredibus institutis via legata est, quia partem non recipit, singuli heredes in solidum conveniuntur, quia et uno ex heredibus adeunte vindicari potest.
-  
 
-33.4.0. De dote praelegata.
+* 33.4.0. De dote praelegata.
 
- 
+
 33.4.1
 
 Ulpianus libro 19 ad Sabinum
@@ -687,7 +672,7 @@ Paulus: si filius familias, uxorem cum haberet, dotem ab ea acceperat, deinde pa
 
 33.4.14
 
-Scaevola libro 15 digestorum 
+Scaevola libro 15 digestorum
 
 Theopompus testamento facto duas filias et filium aequis partibus instituit heredes et codicillis ita cavit: "Tyn vugatera mou Krispinan, hyn yuxomyn ekdounai, hw an ohi filoi mou kai ohi suggeneis dokimaswsi, pronoysei ekdovynai Pollianos eidws mou tyn gnwmyn epi tois isois, ef' ohis kai tyn adelfyn autys ecedwka" [id est: Filiae meae Crispinae, quam collocari cupiebam viro amicis cognatisque probato, collocandae providebit Pollianus, qui voluntatem meam bovit, eadem condicione qua etiam sororem eius collocavi]. Pollianus a marito puellae iuratus scripsit voluisse patrem eandem quantitatem in dotem accipere etiam minorem filiam, quam maior accepisset. Quaero, an eandem summam dotis nomine coheredes extra partem hereditatis minori filiae praestare debeant. Respondit eum cuius notio est aestimaturum, ut eadem quantitas ex communi praecipua minori filiae dotis nomine detur.
 
@@ -710,11 +695,10 @@ Scaevola libro tertio responsorum
 pr. Uxori ita legavit: "Uxor mea quidquid ei comparavi et quod mihi dedit e medio sibi sumat": quaero, an dos praelegata videatur. Respondit verbis quae proponerentur videri et de dote legata loqui, nisi aliud testatorem voluisse probaretur.
 
 1. "Titiae uxori meae, quanta pecunia ad me inve stipulationem dotis eius nomine pervenit, quae dos est dotalibus duobus consignatis instrumentis centum aureorum". Quaesitum est, an utramque summam consequi possit. Respondit nihil proponi, cur non possit.
-  
 
-33.5.0. De optione vel electione legata.
+* 33.5.0. De optione vel electione legata.
 
- 
+
 33.5.1
 
 Ulpianus libro secundo ad Sabinum
@@ -777,7 +761,7 @@ pr. Si tibi electio servi et mihi reliqui legati sunt, decernendum est a praetor
 
 33.5.9
 
-Iulianus libro 32 digestorum 
+Iulianus libro 32 digestorum
 
 pr. Cum ita legatur: "Titio Stichum do lego, si Pamphilum non elegerit: eidem Titio Pamphilum, si Stichum non elegerit", simile est, atque si ita legatum fuisset: "Titio Stichum aut Pamphilum, utrum eorum volet, do lego".
 
@@ -793,7 +777,7 @@ Si Pamphilo servo Lucii Titii servus generaliter legatus sit, deinde dominus Pam
 
 33.5.11
 
-Iulianus libro 36 digestorum 
+Iulianus libro 36 digestorum
 
 Si Eros Seio legatus sit et Eroti fundus, deinde optio servi Maevio data fuerit isque Erotem optaverit, fundus ad solum Seium pertinebit, quoniam aditae hereditatis tempore is solus erit, ad quem posset legatum pertinere. Nam et cum servo communi alter ex sociis legat, idcirco ad solum socium totum legatum pertinet, quoniam die legati cedente solus est, qui per eum servum possit adquirere.
 
@@ -855,20 +839,19 @@ Apud Aufidium libro primo rescriptum est, cum ita legatum est: "Vestimenta quae 
 
 33.5.21
 
-Scaevola libro 22 digestorum 
+Scaevola libro 22 digestorum
 
 Filium et uxorem heredes scripsit, filiam exheredavit et ei legatum dedit, cum in familia nuberet, centum et, cum in familia nupserit, his verbis: "Insuper arbitratu Semproniae matris eius mancipia decem, quae confestim post aditam hereditatem meam a Sempronia uxore mea eligi volo: quae mancipia, cum in familiam nupserit, dari volo. Et si antequam nupserit, aliquod ex mancipiis decesserit, tunc in locum eius arbitratu Semproniae matris eius dari volo, dum ad eam plenus numerus perveniat. Quod si Sempronia mater eius non elegerit, tunc ipsa sibi quae volet eligat". Quaesitum est, cum mater elegerit, an ea, quae ex his mancipiis ante nuptias adgnata sunt, ad puellam supra numerum decem mancipiorum pertineant. Respondit, cum mancipiorum legatum in tempus nuptiarum testator transtulit, id quod medio tempore ancillae enixae sunt ad filiam non pertinere. Idem quaesiit, ante nuptias eorundem mancipiorum fructus et usus an ad Semproniam matrem pertineant. Respondit nihil proponi, cur ad matrem pro solido pertineant.
 
 33.5.22
 
-Scaevola libro 17 digestorum 
+Scaevola libro 17 digestorum
 
 Maritus uxori suae codicillis per fideicommissum dedit praedia, item lances quas elegerit quattuor: quaesitum est, an ex his lancibus, quae mortis tempore sint, eligere possit. Respondit posse.
- 
 
-33.6.0. De tritico vino vel oleo legato.
+* 33.6.0. De tritico vino vel oleo legato.
 
- 
+
 33.6.1
 
 Ulpianus libro 20 ad Sabinum
@@ -899,7 +882,7 @@ Cum certum pondus olei non adiecta qualitate legatur, non solet quaeri, cuius ge
 
 33.6.5
 
-Iulianus libro 15 digestorum 
+Iulianus libro 15 digestorum
 
 Cum certus numerus amphorarum vini legatus esset ex eo, quod in fundo Semproniano natum esset, et minus natum esset, non amplius deberi placuit et quasi taxationis vicem optinere haec verba "quod natum erit".
 
@@ -982,11 +965,10 @@ pr. Qui vinum surrentinum in urnalibus habebat diffusum, is tibi vinum legaverat
 1. Cui dulcia legata essent, si nihil aliud testamento significetur, omnia haec esse legata: mulsum passum defrutum et similes potiones, item uvas ficos palmas caricas.
 
 2. Quod si ita esset legatum: "Vinum amphorarium aminaeum Graecum et dulcia omnia", nihil inter dulcia, nisi quod potionis fuisset, legatum putat Labeo ex collatione vini amphorarii: quod non improbo.
-  
 
-33.7.0. De instructo vel instrumento legato.
+* 33.7.0. De instructo vel instrumento legato.
 
- 
+
 33.7.1
 
 Paulus libro quarto ad Sabinum
@@ -1031,7 +1013,7 @@ Nepoti legaverat quae certa regione praedia habuerat ut instructa sunt, cum vino
 
 33.7.7
 
-Scaevola libro 22 digestorum 
+Scaevola libro 22 digestorum
 
 Tabernam cum caenaculo pardulae manumisso testamento legaverat cum mercibus et instrumentis et suppellectili quae ibi esset, item horreum vinarium cum vino et vasis et instrumento et institoribus, quos secum habere consueverat. Quaesitum est, cum vivo testatore insula, in qua caenaculum fuit quod ei legatum erat, exusta sit, et post biennium eodem loco constituta nova, et horreum, quod eidem legatum erat, a testatore venierit, vini autem venditio dilata sit, ut ex eo commodo venirent, an universa legata pardula consequi possit. Respondit ea, in quibus voluntas mutata esset, non deberi.
 
@@ -1317,7 +1299,7 @@ pr. Dolia fictilia, item plumbea, quibus terra adgesta est, et in his viridiaria
 
 33.7.27
 
-Scaevola libro sexto digestorum 
+Scaevola libro sexto digestorum
 
 pr. Praedia maritima cum servis qui ibi erunt et omni instrumento et fructibus qui ibi erunt et reliquis colonorum nutritori suo legavit. Quaesitum est, an servi piscatores, qui solebant in ministerio testatoris esse et ubicumque eum sequi et urbicis rationibus expungebantur nec mortis testatoris tempore in praediis legatis deprehensi fuerant, legati esse videantur. Respondit secundum ea quae proponerentur non esse legatos.
 
@@ -1342,11 +1324,10 @@ Lucius Titius fundum, uti erat instructus, legaverat. Quaesitum est, fundus inst
 Labeo libro primo pithanon
 
 Si navem cum instrumento emisti, praestari tibi debet scapha navis. Paulus: immo contra. Etenim scapha navis non est instrumentum navis: etenim mediocritate, non genere ab ea differt, instrumentum autem cuiusque rei necesse est alterius generis esse atque ea quaequae sit: quod Pomponio libro septimo epistularum placuit.
- 
 
-33.8.0. De peculio legato.
+* 33.8.0. De peculio legato.
 
- 
+
 33.8.1
 
 Paulus libro quarto ad Sabinum
@@ -1457,7 +1438,7 @@ Aliter atque si servus vestitus legatus foret.
 
 33.8.14
 
-Alfenus libro quinto digestorum 
+Alfenus libro quinto digestorum
 
 Quidam in testamento ita scripserat: "Pamphilus servus meus peculium suum cum moriar sibi habeto liberque esto". Consulebatur, rectene Pamphilo peculium legatum videretur, quod prius quam liber esset peculium sibi habere iussus esset. Respondit in coniunctionibus ordinem nullum esse neque quicquam interesse, utrum eorum primum diceretur aut scriberetur: quare recte peculium legatum videri, ac si prius liber esse, deinde peculium sibi habere iussus est.
 
@@ -1546,11 +1527,10 @@ Si servus liber esse iussus sit eique peculium legatum sit, vicariorum eius vica
 Scaevola libro tertio responsorum
 
 "Titi fili, e medio praecipito sumito tibique habeto domum illam, item aureos centum": alio deinde capite peculia filiis praelegavit. Quaesitum est, an peculio praelegato et centum aurei et usurae eorum debentur, cum rationibus breviariis in aere alieno et sortem et usuras inter ceteros creditores complexus sit. Respondit, si id faenus nomine filii exercuisset et usuras ita, ut proponeretur, filio adscripsisset, id quoque peculio legato deberi.
- 
 
-33.9.0. De penu legata
+* 33.9.0. De penu legata
 
- 
+
 33.9.1
 
 Ulpianus libro 24 ad Sabinum
@@ -1628,11 +1608,10 @@ Instrumentum pistrini, item universa vasa cocitatoria penu non continentur.
 Scaevola libro tertio responsorum
 
 "Penum meam omnem ad matrem liberosque meos, qui cum matre sunt, pertinere volo". Quaero, si tutores pupilli eam solummodo penum deberi, quae in caenaculo esset, dicant, sint autem et in horreis anphorae [amphorae], an hae quoque deberentur. Respondit, quidquid penoris usus causa ubicumque habuisset, deberi.
- 
 
-33.10.0. De suppellectile legata.
+* 33.10.0. De suppellectile legata.
 
- 
+
 33.10.1
 
 Pomponius libro sexto ad Sabinum
@@ -1738,6 +1717,3 @@ Respondit: numquam ex eo, quod supellectilem legavit maritus testamento, habitat
 Callistratus libro tertio de cognitionibus
 
 Fundo legato instrumentum eius non aliter legato cedit, nisi specialiter id expressum sit: nam et domo legata neque instrumentum eius neque supellex aliter legato cedit, quam si id ipsum nominatim expressum a testatore fuerit.
-   
- 
-

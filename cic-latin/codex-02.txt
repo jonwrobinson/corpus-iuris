@@ -64,7 +64,6 @@ DOMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI CODEX
 + 2.57.0. De formulis et impetratione actionum sublatis.
 + 2.58.0. De iureiurando propter calumniam dando.
 
-
 * 2.1.0. De edendo.
 
 2.1.1: Imperator Antoninus
@@ -1042,7 +1041,6 @@ Quicumque praetorianae vel urbanae praefecturae sublimissimae fastigium vel magi
 2.12.26: Imperatores Arcadius, Honorius, Theodosius
 
 In pecuniariis controversiis, etsi specialiter hoc praecepti vel sententiae minime designat auctoritas, passim unicuique, si tamen ita maluerit, per procuratorem respondendi tribuimus facultatem: nisi forte quosdam, iustiores nonnumquam ob causas, vehementior maximi iudicis vocabit auctoritas. * arcad. honor. et theodos. aaa. anthemio pp. * <a 406 d. prid. id. oct. constantinopoli arcadio a. et probo conss.>
-
 
 * 2.13.0. Ne liceat potentioribus patrocinium litigantibus praestare vel actiones in se transferre.
 

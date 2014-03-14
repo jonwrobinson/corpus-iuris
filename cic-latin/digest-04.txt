@@ -1,27 +1,17 @@
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber quartus
+# -*- mode: org -*-
 
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
+* LIBER IV
++ 4.1.0. De in integrum restitutionibus.
++ 4.2.0. Quod metus causa gestum erit.
++ 4.3.0. De dolo malo.
++ 4.4.0. De minoribus viginti quinque annis.
++ 4.5.0. De capite minutis.
++ 4.6.0. Ex quibus causis maiores viginti quinque annis in integrum restituuntur.
++ 4.7.0. De alienatione iudicii mutandi causa facta.
++ 4.8.0. De receptis: qui arbitrium receperint ut sententiam dicant.
++ 4.9.0. Nautae caupones stabularii ut recepta restituant.
 
 * 4.1.0. De in integrum restitutionibus.
-* 4.2.0. Quod metus causa gestum erit.
-* 4.3.0. De dolo malo.
-* 4.4.0. De minoribus viginti quinque annis.
-* 4.5.0. De capite minutis.
-* 4.6.0. Ex quibus causis maiores viginti quinque annis in integrum restituuntur.
-* 4.7.0. De alienatione iudicii mutandi causa facta.
-* 4.8.0. De receptis: qui arbitrium receperint ut sententiam dicant.
-* 4.9.0. Nautae caupones stabularii ut recepta restituant.
-
-
-
-4.1.0. De in integrum restitutionibus.
 
 
 4.1.1
@@ -74,8 +64,7 @@ Macer  libro secundo de appellationibus
 
 Inter minores viginti quinque annis et eos qui rei publicae causa absunt hoc interest, quod minores annis etiam qui per tutores curatoresve suos defensi sunt, nihilo minus in integrum contra rem publicam restituuntur, cognita scilicet causa: ei vero qui rei publicae causa absit, ceteris quoque qui in eadem causa habentur, si per procuratores suos defensi sunt, hactenus in integrum restitutione subveniri solet, ut appellare his permittatur.
 
-
-4.2.0. Quod metus causa gestum erit.
+* 4.2.0. Quod metus causa gestum erit.
 
 
 4.2.1
@@ -298,8 +287,7 @@ pr. Non est verisimile compulsum in urbe inique indebitum solvisse eum, qui clar
 
 3. Si quis, quod adversario non debebat, delegante eo per vim, apparitione praesidis interveniente, sine notione iudicis, coactus est dare, iudex inciviliter extorta restitui ab eo, qui rei damnum praestiterit, iubeat. Quod si debitis satisfecit simplici iussione et non cognitione habita, quamvis non extra ordinem exactionem fieri, sed civiliter oportuit, tamen quae solutioni debitarum ab eo quantitatium profecerunt, revocare incivile est.
 
-
-4.3.0. De dolo malo.
+* 4.3.0. De dolo malo.
 
 
 4.3.1
@@ -614,8 +602,7 @@ Furius libro primo ad edictum
 
 Is, qui decepit aliquem, ut hereditatem non idoneam adiret, de dolo tenebitur, nisi fortasse ipse creditor erat et solus erat: tunc enim sufficit contra eum doli mali exceptio.
 
-
-4.4.0. De minoribus viginti quinque annis.
+* 4.4.0. De minoribus viginti quinque annis.
 
 
 4.4.1
@@ -1093,8 +1080,7 @@ Pomponius libro nono epistularum et varium lectionum
 
 Iunius Diophantus Pomponio suo salutem. Minor viginti quinque annis novandi animo intercessit pro eo, qui temporali actione tenebatur, tunc cum adhuc supererant decem dies, et postea in integrum restitutus est: utrum restitutio, quae creditori adversus priorem debitorem datur, decem dierum sit an plenior? Ego didici ex tempore in integrum restitutionis tantundem temporis praestandum, quantum supererat: tu quid de eo putas velim rescribas. Respondit: sine dubio, quod de temporali actione, in qua intercessit minor, sensisti, puto verius esse: ideoque et pignus quod dederat prior debitor, manet obligatum.
 
-
-4.5.0. De capite minutis.
+* 4.5.0. De capite minutis.
 
 
 4.5.1
@@ -1185,8 +1171,7 @@ Paulus libro secundo ad Sabinum
 
 Capitis deminutionis tria genera sunt, maxima media minima: tria enim sunt quae habemus, libertatem civitatem familiam. Igitur cum omnia haec amittimus, hoc est libertatem et civitatem et familiam, maximam esse capitis deminutionem: cum vero amittimus civitatem, libertatem retinemus, mediam esse capitis deminutionem: cum et libertas et civitas retinetur, familia tantum mutatur, minimam esse capitis deminutionem constat.
 
-
-4.6.0. Ex quibus causis maiores viginti quinque annis in integrum restituuntur.
+* 4.6.0. Ex quibus causis maiores viginti quinque annis in integrum restituuntur.
 
 
 4.6.1
@@ -1559,8 +1544,7 @@ Marcianus libro secundo regularum
 
 Qui rei publicae causa afuit, etiam adversus eum, qui pariter rei publicae causa afuerit, restituendus est, si aliquid damni iuste queritur.
 
-
-4.7.0. De alienatione iudicii mutandi causa facta.
+* 4.7.0. De alienatione iudicii mutandi causa facta.
 
 
 4.7.1
@@ -1671,8 +1655,7 @@ Marcianus libro 14 institutionum
 
 Si quis iudicii communi dividundo evitandi causa rem alienaverit, ex lege Licinnia ei interdicitur, ne communi dividundo iudicio experiatur: verbi gratia ut potentior emptor per licitationem vilius eam accipiat et per hoc iterum ipse recipiat. Sed ipse quidem qui partem alienaverit communi dividundo iudicio si agere velit, non audietur: is vero qui emit si experiri velit, ex illa parte edicti vetatur, qua cavetur, ne qua alienatio iudicii mutandi causa fiat.
 
-
-4.8.0. De receptis: qui arbitrium receperint ut sententiam dicant.
+* 4.8.0. De receptis: qui arbitrium receperint ut sententiam dicant.
 
 
 4.8.1
@@ -2141,8 +2124,7 @@ Marcianus libro quarto regularum
 
 Si qui iussus est ab arbitro ex compromisso solvere pecuniam moram fecerit, poenam ex compromisso debet, sed postea solvendo poena liberatur.
 
-
-4.9.0. Nautae caupones stabularii ut recepta restituant.
+* 4.9.0. Nautae caupones stabularii ut recepta restituant.
 
 
 4.9.1

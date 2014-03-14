@@ -1,23 +1,12 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber quintus
-
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
-* TITLES
-** 5.1.0. De iudiciis: ubi quisque agere vel conveniri debeat.
-** 5.2.0. De inofficioso testamento.
-** 5.3.0. De hereditatis petitione.
-** 5.4.0. Si pars hereditatis petatur.
-** 5.5.0. De possessoria hereditatis petitione.
-** 5.6.0. De fideicommissaria hereditatis petitione.
-
+* LIBER V
++ 5.1.0. De iudiciis: ubi quisque agere vel conveniri debeat.
++ 5.2.0. De inofficioso testamento.
++ 5.3.0. De hereditatis petitione.
++ 5.4.0. Si pars hereditatis petatur.
++ 5.5.0. De possessoria hereditatis petitione.
++ 5.6.0. De fideicommissaria hereditatis petitione.
 
 * 5.1.0.  De iudiciis: ubi quisque agere vel conveniri debeat.
 

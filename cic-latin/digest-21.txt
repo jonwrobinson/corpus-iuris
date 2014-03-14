@@ -1,23 +1,12 @@
+# -*- mode: org -*-
 
- 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber vicesimus primus
- 
- 
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
- 
- 
+* LIBER XXI
++ 21.1.0. De aedilicio edicto et redhibitione et quanti minoris.
++ 21.2.0. De evictionibus et duplae stipulatione.
++ 21.3.0. De exceptione rei venditae et traditae.
 
-    * 21.1.0. De aedilicio edicto et redhibitione et quanti minoris.
-    * 21.2.0. De evictionibus et duplae stipulatione.
-    * 21.3.0. De exceptione rei venditae et traditae.
-       
+* 21.1.0. De aedilicio edicto et redhibitione et quanti minoris.
 
-  21.1.0. De aedilicio edicto et redhibitione et quanti minoris.
- 
 
 21.1.1
 
@@ -736,11 +725,10 @@ pr. Animi potius quam corporis vitium est, veluti si ludos adsidue velit spectar
 1. Quotiens morbus sonticus nominatur, eum significari cassius ait, qui noceat: nocere autem intellegi, qui perpetuus est, non qui tempore finiatur: sed morbum sonticum eum videri, qui inciderit in hominem postquam is natus sit: sontes enim nocentes dici.
 
 2. Servus tam veterator quam novicius dici potest. Sed veteratorem non spatio serviendi, sed genere et causa aestimandum Caelius ait: nam quicumque ex Venalicio noviciorum emptus alicui ministerio praepositus sit, statim eum veteratorum numero esse: novicium autem non tirocinio animi, sed condicione servitutis intellegi. Nec ad rem pertinere, Latine sciat nec ne: nam ob id veteratorem esse, si liberalibus studiis eruditus sit.
- 
 
-21.2.0. De evictionibus et duplae stipulatione.
+* 21.2.0. De evictionibus et duplae stipulatione.
 
- 
+
 21.2.1
 
 Ulpianus libro 28 ad Sabinum
@@ -1187,7 +1175,7 @@ Si in venditione dictum non sit, quantum venditorem pro evictione praestare opor
 
 21.2.61
 
-Marcellus libro octavo digestorum 
+Marcellus libro octavo digestorum
 
 Si quod a te emi et Titio vendidi, voluntate mea Titio tradideris, de evictione te mihi teneri, sicuti si acceptam rem tradidissem, placet.
 
@@ -1322,11 +1310,10 @@ Quod ad servitutes praediorum attinet, si tacite secutae sunt et vindicentur ab 
 Venonius libro 17 stipulationum
 
 Si alienam rem mihi tradideris et eandem pro derelicto habuero, amitti auctoritatem, id est actionem pro evictione, placet.
- 
 
-21.3.0. De exceptione rei venditae et traditae.
+* 21.3.0. De exceptione rei venditae et traditae.
 
- 
+
 21.3.1
 
 Ulpianus libro 76 ad edictum
@@ -1356,6 +1343,3 @@ Hermogenianus libro sexto iuris epitomarum
 pr. Exceptio rei venditae et traditae non tantum ei cui res tradita est, sed successoribus etiam eius et emptori secundo, etsi res ei non fuerit tradita, proderit: interest enim emptoris primi secundo rem non evinci.
 
 1. Pari ratione venditoris etiam successoribus nocebit, sive in universum ius sive in eam dumtaxat rem successerint.
- 
-  
-

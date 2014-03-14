@@ -1,20 +1,9 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber sextus decimus
-
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
-* TITLES
-** 16.1.0. Ad senatus consultum Velleianum.
-** 16.2.0. De compensationibus.
-** 16.3.0. Depositi vel contra.
-
+* LIBER XVI
++ 16.1.0. Ad senatus consultum Velleianum.
++ 16.2.0. De compensationibus.
++ 16.3.0. Depositi vel contra.
 
 
 * 16.1.0.  Ad senatus consultum Velleianum.
@@ -308,7 +297,6 @@ pr. Si mulier hereditatem alicuius adeat, ut aes alienum eius suscipiat, vix est
 
 5. Intercedere mulierem intellegendum est etiam pro eo, qui obligari non possit, veluti si pro servo alieno intercedit: sed rescissa intercessione in dominum restituenda est actio.
 
-
 * 16.2.0. De compensationibus.
 
 
@@ -469,7 +457,6 @@ Id quod pupillorum nomine debetur si tutor petat, non posse compensationem obici
 Paulus libro tertio decretorum
 
 Iussit imperator audiri adprobantem sibi a fisco deberi, quod ipse convenitur.
-
 
 * 16.3.0. Depositi vel contra.
 

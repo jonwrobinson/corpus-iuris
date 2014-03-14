@@ -1,34 +1,23 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber quinquagesimus
-
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
-* TITLES
-** 50.1.0. Ad municipalem et de incolis.
-** 50.2.0. De decurionibus et filiis eorum.
-** 50.3.0. De albo scribendo.
-** 50.4.0. De muneribus et honoribus.
-** 50.5.0. De vacatione et excusatione munerum.
-** 50.6.0. De iure immunitatis.
-** 50.7.0. De legationibus.
-** 50.8.0. De administratione rerum ad civitates pertinentium.
-** 50.9.0. De decretis ab ordine faciendis.
-** 50.10.0. De operibus publicis.
-** 50.11.0. De nundinis.
-** 50.12.0. De pollicitationibus.
-** 50.13.0. De variis et extraordinariis cognitionibus et si iudex litem suam fecisse dicetur.
-** 50.14.0. De proxeneticis.
-** 50.15.0. De censibus.
-** 50.16.0. De verborum significatione.
-** 50.17.0. De diversis regulis iuris antiqui.
-
+* LIBER L
++ 50.1.0. Ad municipalem et de incolis.
++ 50.2.0. De decurionibus et filiis eorum.
++ 50.3.0. De albo scribendo.
++ 50.4.0. De muneribus et honoribus.
++ 50.5.0. De vacatione et excusatione munerum.
++ 50.6.0. De iure immunitatis.
++ 50.7.0. De legationibus.
++ 50.8.0. De administratione rerum ad civitates pertinentium.
++ 50.9.0. De decretis ab ordine faciendis.
++ 50.10.0. De operibus publicis.
++ 50.11.0. De nundinis.
++ 50.12.0. De pollicitationibus.
++ 50.13.0. De variis et extraordinariis cognitionibus et si iudex litem suam fecisse dicetur.
++ 50.14.0. De proxeneticis.
++ 50.15.0. De censibus.
++ 50.16.0. De verborum significatione.
++ 50.17.0. De diversis regulis iuris antiqui.
 
 
 * 50.1.0.  Ad municipalem et de incolis.
@@ -378,7 +367,6 @@ pr. Imperatores Antoninus et Verus Augusti rescripserunt gratiam se facere iuris
 
 6. Imperatores Antoninus et Verus rescripserunt non minus eos, qui compulsi magistratu funguntur, cavere debere, quam qui sponte officium adgnoverunt.
 
-
 * 50.2.0. De decurionibus et filiis eorum.
 
 
@@ -512,7 +500,6 @@ Paulus libro primo quaestionum
 
 De decurione damnato non debere quaestionem haberi divus Pius rescripsit. Unde etiam si desierit decurio esse, deinde damnetur, non esse torquendum in memoriam prioris dignitatis placet.
 
-
 * 50.3.0. De albo scribendo.
 
 
@@ -529,7 +516,6 @@ pr. Decuriones in albo ita scriptos esse oportet, ut lege municipali praecipitur
 Ulpianus libro secundo opinionum
 
 In albo decurionum in municipio nomina ante scribi oportet eorum, qui dignitates principis iudicio consecuti sunt, postea eorum, qui tantum municipalibus honoribus functi sunt.
-
 
 * 50.4.0. De muneribus et honoribus.
 
@@ -790,7 +776,6 @@ pr. Munerum civilium triplex divisio est: nam quaedam munera personalia sunt, qu
 
 30. Magistris, qui civilium munerum vacationem habent, item grammaticis et oratoribus et medicis et philosophis, ne hospitem reciperent, a principibus fuisse immunitatem indultam et divus Vespasianus et divus Hadrianus rescripserunt.
 
-
 * 50.5.0. De vacatione et excusatione munerum.
 
 
@@ -932,7 +917,6 @@ pr. Ad excusationem munerum defunctus filius non prosit, praeterquam in bello am
 
 1. Eodem tempore idem duas curas operis non administrabit.
 
-
 * 50.6.0. De iure immunitatis.
 
 
@@ -1007,7 +991,6 @@ pr. Semper in civitate nostra senectus venerabilis fuit: namque maiores nostri p
 Tarruntenus Peternus libro primo militarium
 
 Quibusdam aliquam vacationem munerum graviorum condicio tribuit, ut sunt mensores, optio valetudinarii, medici, capsarii, et artifices et qui fossam faciunt, veterinarii, architectus, gubernatores, naupegi, ballistrarii, specularii, fabri, sagittarii, aerarii, bucularum structores, carpentarii, scandularii, gladiatores, aquilices, tubarii, cornuarii, arcuarii, plumbarii, ferrarii, lapidarii, et hi qui calcem cocunt, et qui silvam infindunt, qui carbonem caedunt ac torrent. In eodem numero haberi solent lani, venatores, victimarii, et optio fabricae, et qui aegris praesto sunt, librarii quoque qui docere possint, et horreorum librarii, et librarii depositorum, et librarii caducorum, et adiutores corniculariorum, et stratores, et polliones, et custodes armorum, et praeco, et bucinator. Hi igitur omnes inter immunes habentur.
-
 
 * 50.7.0. De legationibus.
 
@@ -1148,7 +1131,6 @@ Pomponius libro 37 ad Quintum Mucium
 
 Si quis legatum hostium pulsasset, contra ius gentium id commissum esse existimatur, quia sancti habentur legati. Et ideo si, cum legati apud nos essent gentis alicuius, bellum cum eis indictum sit, responsum est liberos eos manere: id enim iuri gentium convenit esse. Itaque eum, qui legatum pulsasset, Quintus Mucius dedi hostibus, quorum erant legati, solitus est respondere. Quem hostes si non recepissent, quaesitum est, an civis Romanus maneret: quibusdam existimantibus manere, aliis contra, quia quem semel populus iussisset dedi, ex civitate expulsisse videretur, sicut faceret, cum aqua et igni interdiceret. In qua sententia videtur Publius Mucius fuisse. Id autem maxime quaesitum est in Hostilio Mancino, quem Numantini sibi deditum non acceperunt: de quo tamen lex postea lata est, ut esset civis Romanus, et praeturam quoque gessisse dicitur.
 
-
 * 50.8.0. De administratione rerum ad civitates pertinentium.
 
 
@@ -1280,7 +1262,6 @@ Papirius libro secundo de constitutionis
 
 Imperatores Antoninus et Verus rescripserunt eum, qui pecuniam publicam magistratus sui tempore et post non pauco tempore detinuerat, usuras etiam praestare debere, nisi si quid adlegare possit, qua ex causa tardius intulisset.
 
-
 * 50.9.0. De decretis ab ordine faciendis.
 
 
@@ -1323,7 +1304,6 @@ Quod semel ordo decrevit, non oportere id rescindi divus Hadrianus Nicomedensibu
 Scaevola libro primo digestorum
 
 Municipii lege ita cautum erat: "Ean tis ecw tou sunedriou dikasytai, tou te sunedriou eirgesvw kai prosapotinnutw draxmas xilias" [id est: Si quis extra curiam iudicabit, curia movetor et praeterea multam mille denarium dato]. Quaesitum est, an poenam sustinere debeat, qui ignorans adversus decretum fecit. Respondit et huiusmodi poenas adversus scientes paratas esse.
-
 
 * 50.10.0. De operibus publicis.
 
@@ -1384,7 +1364,6 @@ pr. Pecuniam, quae in opera nova legata est, potius in tutelam eorum operum quae
 
 1. Si quis opus ab alio factum adornare marmoribus vel alio quo modo ex voluntate populi facturum se pollicitus sit, nominis proprii titulo scribendo: manentibus priorum titulis, qui ea opera fecissent, id fieri debere senatus censuit. Quod si privati in opera, quae publica pecunia fiant, aliquam de suo adiecerint summam, ita titulo inscriptionis uti eos debere isdem mandatis cavetur, ut quantam summam contulerint in id opus, inscribant.
 
-
 * 50.11.0. De nundinis.
 
 
@@ -1399,7 +1378,6 @@ Nundinis impetratis a principe non utendo qui meruit decennii tempore usum amitt
 Callistratus libro tertio de cognitionibus
 
 Si quis ipsos cultores agrorum vel piscatores deferre utensilia in civitatem iusserit, ut ipsi ea distrahant, destituetur annonae praebitio, cum avocentur ab opere rustici: qui confestim ubi detulerint mercem, tradere eam et ad opera sua reverti debeant. Denique summae prudentiae et auctoritatis apud Graecos Plato cum institueret, quemadmodum civitas bene beate habitari possit, in primis istos negotiatores necessarios duxit. Sic enim libro secundo politeias ait: dei gar pleionwn ara gewrgwn te kai twn allwn dymiourgwn kai twn allwn diakonwn twn ge eisacontwn kai ecacontwn hekasta. ohutoi de eisin emporoi. komisas de ho gewrgos eis tyn agoran ti hwn poiei y tis allos twn dymiourgwn my eis ton auton xronon hyky tois deomenois ta par' autou antallacasvai, argysei tys ahutou dymiourgias kavymenos en agora oudamws, y d' hos, all' eisin ohi touto horwntes heautous epi tyn diakonian tattousi tautyn. [id est: Indiget enim [civitas] maiore numero rusticorum aliorumque opificum et ministrorum tam invehentium species quam exportantium: hi autem sunt negotiantes. [Quod si] rusticus aliusve qui opificum earum rerum quid quas facit in forum affereus non eo ipso tempore venerit, quo eo veniunt qui species ab eo allatas permutare cupiunt, num operam perdet in foro sedens? Minime, inquit ille, sunt enim qui id intellegentes ad hoc ministerium se accingunt.]
-
 
 * 50.12.0. De pollicitationibus.
 
@@ -1522,7 +1500,6 @@ Ulpianus libro singulari de officio curatoris rei publicae
 
 Inter liberos nepotem quoque ex filia contineri divus Pius rescripsit.
 
-
 * 50.13.0. De variis et extraordinariis cognitionibus et si iudex litem suam fecisse dicetur.
 
 
@@ -1598,7 +1575,6 @@ Gaius libro tertio rerum cottidianarum sive aureorum
 
 Si iudex litem suam fecerit, non proprie ex maleficio obligatus videtur: sed quia neque ex contractu obligatus est et utique peccasse aliquid intellegitur, licet per imprudentiam, ideo videtur quasi ex maleficio teneri in factum actione, et in quantum de ea re aequum religioni iudicantis visum fuerit, poenam sustinebit.
 
-
 * 50.14.0. De proxeneticis.
 
 
@@ -1619,7 +1595,6 @@ Si proxeneta intervenerit faciendi nominis, ut multi solent, videamus an possit 
 Ulpianus libro octavo de omnibus tribunalibus
 
 De proxenetico, quod et sordidum, solent praesides cognoscere: sic tamen, ut et in his modus esse debeat et quantitatis et negotii, in quo operula ista defuncti sunt et ministerium qualequale accommodaverunt. Facilius quod Graeci hermyneutikon appellant, peti apud eos poterit, si quis forte condicionis vel amicitiae vel adsessurae vel cuius alterius huiuscemodi proxeneta fuit: sunt enim huiusmodi hominum (ut in tam magna civitate) officinae. Est enim proxenetarum modus, qui emptionibus venditionibus, commerciis, contractibus licitis utiles non adeo improbabili more se exhibent.
-
 
 * 50.15.0. De censibus.
 
@@ -1741,7 +1716,6 @@ pr. In Lusitania Pacenses et Emeritenses iuris Italici sunt. Idem ius Valentini 
 10. In Pisidia eiusdem iuris est colonia Antiochensium.
 
 11. In Africa Carthago, Utica, Leptis Magna a divis Severo et Antonino iuris Italici factae sunt.
-
 
 * 50.16.0. De verborum significatione.
 
@@ -3427,7 +3401,6 @@ Pomponius libro 16 epistularum
 pr. Apud Labeonem pithanon ita scriptum est: exhibet, qui praestat eius de quo agitur praesentiam. Nam etiam qui sistit, praestat eius de quo agitur praesentiam, nec tamen eum exhibet: et qui mutum aut furiosum aut infantem exhibet, non potest videri eius praestare praesentiam: nemo enim ex eo genere praesens satis apte appellari potest.
 
 1. Restituit non tantum, qui solum corpus, sed etiam qui omnem rem condicionemque reddita causa praestet: et tota restitutio iuris est interpretatio.
-
 
 * 50.17.0. De diversis regulis iuris antiqui.
 

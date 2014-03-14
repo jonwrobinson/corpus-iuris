@@ -1,25 +1,11 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber decimus
-
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
-
-** 10.1.0. Finium regundorum.
-** 10.2.0. Familiae erciscundae.
-** 10.3.0. Communi dividundo.
-** 10.4.0. Ad exhibendum.
-
-
-
+* LIBER X
++ 10.1.0. Finium regundorum.
++ 10.2.0. Familiae erciscundae.
++ 10.3.0. Communi dividundo.
++ 10.4.0. Ad exhibendum.
 * 10.1.0.  Finium regundorum.
-
 
 10.1.1
 
@@ -27,7 +13,7 @@ Paulus libro 23 ad edictum
 
 Finium regundorum actio in personam est, licet pro vindicatione rei est.
 
- 10.1.2
+10.1.2
 
 Ulpianus libro 19 ad edictum
 
@@ -35,13 +21,13 @@ pr. Haec actio pertinet ad praedia rustica, quamvis aedificia interveniant: nequ
 
 1. Iudici finium regundorum permittitur, ut, ubi non possit dirimere fines, adiudicatione controversiam dirimat: et si forte amovendae veteris obscuritatis gratia per aliam regionem fines dirigere iudex velit, potest hoc facere per adiudicationem et condemnationem.
 
- 10.1.3
+10.1.3
 
 Gaius libro septimo ad edictum provinciale
 
 Quo casu opus est, ut ex alterutrius praedio alii adiudicandum sit, quo nomine is cui adiudicatur in vicem pro eo quod ei adiudicatur certa pecunia condemnandus est.
 
- 10.1.4
+10.1.4
 
 Paulus libro 23 ad edictum
 
@@ -69,25 +55,25 @@ pr. Sed et loci unius controversia in partes res scindi adiudicationibus potest,
 
 11. Sive flumen sive via publica intervenit, confinium non intellegitur, et ideo finium regundorum agi non potest,
 
- 10.1.5
+10.1.5
 
 Paulus libro 15 ad Sabinum
 
 quia magis in confinio meo via publica vel flumen sit quam ager vicini.
 
- 10.1.6
+10.1.6
 
 Paulus libro 23 ad edictum
 
 Sed si rivus privatus intervenit, finium regundorum agi potest.
 
- 10.1.7
+10.1.7
 
 Modestinus libro 11 pandectarum
 
 De modo agrorum arbitri dantur et is, qui maiorem locum in territorio habere dicitur, ceteris, qui minorem locum possident, integrum locum adsignare compellitur: idque ita rescriptum est.
 
- 10.1.8
+10.1.8
 
 Ulpianus libro sexto opinionum
 
@@ -95,38 +81,37 @@ pr. Si irruptione fluminis fines agri confudit inundatio ideoque usurpandi quibu
 
 1. Ad officium de finibus cognoscentis pertinet mensores mittere et per eos dirimere ipsam finium quaestionem, ut aequum est, si ita res exigit, oculisque suis subiectis locis.
 
- 10.1.9
+10.1.9
 
 Iulianus libro octavo digestorum
 
 Iudicium finium regundorum manet, quamvis socii communi dividundo egerint vel alienaverint fundum.
 
- 10.1.10
+10.1.10
 
 Iulianus libro 51 digestorum
 
 Iudicium communi dividundo, familiae erciscundae, finium regundorum tale est, ut in eo singulae personae duplex ius habeant agentis et eius quocum agitur.
 
- 10.1.11
+10.1.11
 
 Papinianus libro secundo responsorum
 
 In finalibus quaestionibus vetera monumenta census auctoritas ante litem inchoatam ordinati sequenda est, modo si non varietate successionum et arbitrio possessorum fines additis vel detractis agris postea permutatos probetur.
 
- 10.1.12
+10.1.12
 
 Paulus libro tertio responsorum
 
 Eos terminos, quantum ad dominii quaestionem pertinet, observari oportere fundorum, quos demonstravit is, qui utriusque praedii dominus fuit, cum alterum eorum venderet: non enim termini, qui singulos fundos separabant, observari debent, sed demonstratio adfinium novos fines inter fundos constituere.
 
- 10.1.13
+10.1.13
 
 Gaius libro quarto ad legem duodecim tabularum
 
 Sciendum est in actione finium regundorum illud observandum esse, quod ad exemplum quodammodo eius legis scriptum est, quam athenis solonem dicitur tulisse: nam illic ita est: ean tis ahimasian par' allotriw xwriw orugy, ^ orutty^ ton horon my parabainein: ean teixion, poda apoleipein: ean de oikyma, duo podas. ean de tafon y bovron orutty, hoson to bavos y, tosouton apoleipein: ean de frear, orguian. elaian de kai sukyn ennea podas apo tou allotriou futeuein ta de alla dendra pente podas [id est: Si quis maceriem iuxta praedium alienum aedidicet, finem ne excedito: si murum, pedes intervallum esto: si aedes, pedum duorum. Si sepulchrum [immo fossam] vel scrobem fodiat, quanta altitudo est, tantum intervallum esto: si puteum, ulnae. Oleam autem et ficum novem pedes ab alieno serito, reliquas arbores quinque pedes.].
 
-
-10.2.0. Familiae erciscundae.
+* 10.2.0. Familiae erciscundae.
 
 
 10.2.1
@@ -137,7 +122,7 @@ pr. Haec actio proficiscitur e lege duodecim tabularum: namque coheredibus volen
 
 1. Quae quidem actio nihilo minus ei quoque ipso iure competit, qui suam partem non possidet: sed si is qui possidet neget eum sibi coheredem esse, potest eum excludere per hanc exceptionem "si in ea re, qua de agitur, praeiudicium hereditati non fiat". Quod si possideat eam partem, licet negetur esse coheres, non nocet talis exceptio: quo fit, ut eo casu ipse iudex, apud quem hoc iudicium agitur, cognoscat, an coheres sit: nisi enim coheres sit, neque adiudicari quicquam ei oportet neque adversarius ei condemnandus est.
 
- 10.2.2
+10.2.2
 
 Ulpianus libro 19 ad edictum
 
@@ -153,13 +138,13 @@ pr. Per familiae erciscundae actionem dividitur hereditas, sive ex testamento si
 
 5. In hoc iudicium etsi nomina non veniunt, tamen, si stipulationes interpositae fuerint de divisione eorum, ut stetur ei et ut alter alteri mandet actiones procuratoremque eum in suam rem faciat, stabitur divisioni.
 
- 10.2.3
+10.2.3
 
 Gaius libro septimo ad edictum provinciale
 
 Plane ad officium iudicis nonnumquam pertinet, ut debita et credita singulis pro solido aliis alia adtribuat, quia saepe et solutio et exactio partium non minima incommoda habet. Nec tamen scilicet haec adtributio illud efficit, ut quis solus totum debeat vel totum alicui soli debeatur, sed ut, sive agendum sit, partim suo partim procuratorio nomine agat, sive cum eo agatur, partim suo partim procuratorio nomine conveniatur. Nam licet libera potestas esse maneat creditoribus cum singulis experiundi, tamen et his libera potestas est suo loco substituendi eos, in quos onera actionis officio iudicis translata sunt.
 
- 10.2.4
+10.2.4
 
 Ulpianus libro 19 ad edictum
 
@@ -171,25 +156,25 @@ pr. Ceterae itaque res praeter nomina veniunt in hoc iudicium. Sin autem nomen u
 
 3. Sed et tabulas testamenti debebit aut apud eum, qui ex maiore parte heres est, iubere manere aut in aede deponi. Nam et Labeo scribit vendita hereditate tabulas testamenti descriptas deponi oportere: heredem enim exemplum debere dare, tabulas vero authenticas ipsum retinere aut in aede deponere.
 
- 10.2.5
+10.2.5
 
 Gaius libro septimo ad edictum provinciale
 
 Si quae sunt cautiones hereditariae, eas iudex curare debet ut apud eum maneant, qui maiore ex parte heres sit, ceteri descriptum et recognitum faciant, cautione interposita, ut, cum res exegerit, ipsae exhibeantur. Si omnes isdem ex partibus heredes sint nec inter eos conveniat, apud quem potius esse debeant, sortiri eos oportet: aut ex consensu vel suffragio eligendus est amicus, apud quem deponantur: vel in aede sacra deponi debent.
 
- 10.2.6
+10.2.6
 
 Ulpianus libro 19 ad edictum
 
 Nam ad licitationem rem deducere, ut qui licitatione vicit hic habeat instrumenta hereditaria, non placet neque mihi neque Pomponio.
 
- 10.2.7
+10.2.7
 
 Venonius libro septimo stipulationum
 
 Si heres unus, cum sub condicione adiectum coheredem aut apud hostes haberet, dixerit se heredem esse et actione expertus vicerit, deinde condicio heredis exstiterit vel postliminio redierit, an victoriae commodum debeat cum eo communicare? Nam indubitate iudicati actio ei in solidum competit. Et electionem coheredi dandam, id est aut communicandam eam aut experiundi faciendam potestatem huic, qui post victoriam coheredis effectus sit heres aut reversus sit in civitatem. Idemque observandum, si postea natus sit postumus. Non enim his personis silentium imputari potest, cum ad hereditatem post victoriam coheredis pervenerint.
 
- 10.2.8
+10.2.8
 
 Ulpianus libro 19 ad edictum
 
@@ -199,25 +184,25 @@ Pomponius scribit, si uni ex heredibus praelegatae fuerint rationes, non prius e
 
 2. Sed et si quid de pecoribus nostris a bestia ereptum sit, venire in familiae erciscundae iudicium putat, si feram evaserit: nam magis esse, ut non desinat nostrum esse, inquit, quod a lupo eripitur vel alia bestia, tamdiu, quamdiu ab eo non fuerit consumptum.
 
- 10.2.9
+10.2.9
 
 Paulus libro 23 ad edictum
 
 Veniunt in hoc iudicium res, quas heredes usuceperunt, cum defuncto traditae essent: hae quoque res, quae heredibus traditae sunt, cum defunctus emisset:
 
- 10.2.10
+10.2.10
 
 Ulpianus libro 19 ad edictum
 
 item praedia, quae nostri patrimonii sunt, sed et vectigalia vel superficiaria: nec minus hae quoque res, quas alienas defunctus bona fide possidet.
 
- 10.2.11
+10.2.11
 
 Paulus libro 23 ad edictum
 
 Partum quoque editum et post aditam hereditatem.
 
- 10.2.12
+10.2.12
 
 Ulpianus libro 19 ad edictum
 
@@ -227,13 +212,13 @@ pr. Et post litem contestatam Sabinus scribit in familiae erciscundae iudicium v
 
 2. Res, quae sub condicione legata est, interim heredum est et ideo venit in familiae erciscundae iudicium et adiudicari potest cum sua scilicet causa, ut existente condicione eximatur ab eo cui adiudicata est aut deficiente condicione ad eos revertatur a quibus relicta est. Idem et in statulibero dicitur, qui interim est heredum, existente autem condicione ad libertatem perveniat.
 
- 10.2.13
+10.2.13
 
 Papinianus libro septimo quaestionum
 
 Alienationes enim post iudicium acceptum interdictae sunt dumtaxat voluntariae, non quae vetustiorem causam et originem iuris habent necessariam.
 
- 10.2.14
+10.2.14
 
 Ulpianus libro 19 ad edictum
 
@@ -241,13 +226,13 @@ pr. Sed et si usucapio fuerit coepta ab eo, qui heres non erat, ante litem conte
 
 1. Usus fructus an in iudicium deducatur, quaeritur: ut puta si deducto usu fructu fundus fuit ab heredibus legatus.
 
- 10.2.15
+10.2.15
 
 Paulus libro 23 ad edictum
 
 Vel si servo hereditario usus fructus legatus sit: nec enim a personis discedere sine interitu sui potest.
 
- 10.2.16
+10.2.16
 
 Ulpianus libro 19 ad edictum
 
@@ -265,13 +250,13 @@ Et puto officio iudicis contineri, ut, si volent heredes a communione usus fruct
 
 6. Item si servus hereditarius propriam rem heredum unius subripuerit, Ofilius ait esse familiae erciscundae actionem et communi dividundo furtique actionem cessare. Quare agentem familiae erciscundae iudicio consecuturum, ut aut ei servus adiudicetur aut litis aestimatio in simplum offeratur.
 
- 10.2.17
+10.2.17
 
 Gaius libro septimo ad edictum provinciale
 
 Damno commisso ab uno herede conveniens est dicere simpli habendam aestimationem in familiae erciscundae iudicio.
 
- 10.2.18
+10.2.18
 
 Ulpianus libro 19 ad edictum
 
@@ -291,13 +276,13 @@ His consequenter Iulianus ait: si ex pluribus heredibus uni servus sit generalit
 
 7. Sed et si quis titio debitum solverit, ne pignus veniret, Neratius scribit familiae erciscundae iudicio eum posse experiri.
 
- 10.2.19
+10.2.19
 
 Gaius libro septimo ad edictum provinciale
 
 Item ex diverso similiter prospicere iudex debet, ut quod unus ex heredibus ex re hereditaria percepit stipulatusve est non ad eius solius lucrum pertineat. Quae ita scilicet consequetur iudex, si aut reputationes inter eos fecerit aut si curaverit cautiones interponi, quibus inter eos communicentur commoda et incommoda.
 
- 10.2.20
+10.2.20
 
 Ulpianus libro 19 ad edictum
 
@@ -321,13 +306,13 @@ pr. Si filia nupta, quae dotem conferre debuit, per errorem coheredum ita cavit,
 
 9. Idem scribit, quod uni ex coheredibus statuliber condicionis implendae nomine dedit de peculio, in hoc iudicium non venire nec communicari debere:
 
- 10.2.21
+10.2.21
 
 Paulus libro 23 ad edictum
 
 idem et in communi dividundo.
 
- 10.2.22
+10.2.22
 
 Ulpianus libro 19 ad edictum
 
@@ -343,13 +328,13 @@ pr. Item Labeo scribit, si unus heredum < heredem> thensaurum relictum a testato
 
 5. Papinianus de re quae apud hostes est Marcellum reprehendit, quod non putat in praestationes eius rei venire in familiae erciscundae iudicium, quae apud hostes est. Quid enim impedimentum est rei praestationem venire, cum et ipsa veniat.
 
- 10.2.23
+10.2.23
 
 Paulus libro 23 ad edictum
 
 Propter spem postliminii? Scilicet cum cautione, quia possunt non reverti: nisi si tantum aestimatus sit dubius eventus.
 
- 10.2.24
+10.2.24
 
 Ulpianus libro 19 ad edictum
 
@@ -357,7 +342,7 @@ pr. Sed et eius rei, quae in rebus humanis esse desiit, veniunt praestationes: e
 
 1. Familiae erciscundae iudicium et inter bonorum possessores et inter eum cui restituta est hereditas ex Trebelliano senatus consulto et ceteros honorarios successores locum habet.
 
- 10.2.25
+10.2.25
 
 Paulus libro 23 ad edictum
 
@@ -407,85 +392,85 @@ pr. Heredes eius, qui apud hostes decessit, hoc iudicio experiri possunt.
 
 22. Si pecunia, quae domi relicta non est, per praeceptionem relicta sit, utrum universa a coheredibus praestanda sit an pro parte hereditaria, quemadmodum si pecunia in hereditate relicta esset, dubitatur. Et magis dicendum est, ut id praestandum sit, quod praestaretur, si pecunia esset inventa.
 
- 10.2.26
+10.2.26
 
 Gaius libro septimo ad edictum provinciale
 
 Officio autem iudicis convenit iubere rem hereditariam venire unam pluresve pecuniamque ex pretio redactam ei numerari, cui legata sit.
 
- 10.2.27
+10.2.27
 
 Paulus libro 23 ad edictum
 
 In hoc iudicio condemnationes et absolutiones in omnium persona faciendae sunt: et ideo si in alicuius persona omissa sit damnatio, in ceterorum quoque persona quod fecit iudex non valebit, quia non potest ex uno iudicio res iudicata in partem valere, in partem non valere.
 
- 10.2.28
+10.2.28
 
 Gaius libro septimo ad edictum provinciale
 
 Rem pignori creditori datam si per praeceptionem legaverit testator, officio iudicis continetur, ut ex communi pecunia luatur eamque ferat is cui eo modo fuerat legata.
 
- 10.2.29
+10.2.29
 
 Paulus libro 23 ad edictum
 
 Si pignori res data defuncto sit, dicendum est in familiae erciscundae iudicium venire: sed is cui adiudicabitur in familiae erciscundae iudicio pro parte coheredi erit damnandus nec cavere debet coheredi indemnem eum fore adversus eum qui pignori dederit, quia pro eo erit, ac si hypothecaria vel serviana actione petita litis aestimatio oblata sit, ut et is qui optulerit adversus dominum vindicantem exceptione tuendus sit. Contra quoque si is heres, cui pignus adiudicatum est, velit totum reddere, licet debitor nolit, audiendus est. Non idem dici potest, si alteram partem creditor emerit: adiudicatio enim necessaria est, emptio voluntaria: nisi si obiciatur creditori, quod animose licitus sit. Sed huius rei ratio habebitur, quia quod creditor egit, pro eo habendum est ac si debitor per procuratorem egisset et eius, quod propter necessitatem impendit, etiam ultro est actio creditori.
 
- 10.2.30
+10.2.30
 
 Modestinus libro sexto responsorum
 
 Fundus mihi communis est pupillae coheredi: in eo fundo reliquiae sunt conditae, quibus religio ab utriusque patribus debebatur, nam parentes quoque eiusdem pupillae ibi sepulti sunt: sed tutores distrahere fundum volunt: ego non consentio, sed portionem meam possidere malo, cum universitatem emere non possim et velim pro meo arbitrio exsequi ius religionis. Quaero, an recte arbitrum communi dividundo ad hunc fundum partiendum petam an etiam is arbiter, qui familiae erciscundae datur, isdem partibus fungi possit, ut hanc possessionem exemptis ceteris corporibus hereditariis pro iure cuique nobis partiatur. Herennius Modestinus respondit nihil proponi, cur familiae erciscundae iudicio addictus arbiter officium suum etiam in eius fundi de quo agitur divisionem interponere non possit: sed religiosa loca in iudicium non deduci eorumque ius singulis heredibus in solidum competere.
 
- 10.2.31
+10.2.31
 
 Papinianus libro septimo quaestionum
 
 Si servus pignori obligatus luatur ab uno ex heredibus, quamvis postea decedat, officium tamen arbitri durat: sufficit enim communionis causa quae praecessit quaeque hodie duraret, si res non intercidisset.
 
- 10.2.32
+10.2.32
 
 Papinianus libro secundo responsorum
 
 Quae pater inter filios non divisit post datas actiones vice divisionis, ad singulos pro hereditaria portione pertinent, modo si cetera, quae non divisit, in unum generaliter non contulit vel res datas non sequuntur.
 
- 10.2.33
+10.2.33
 
 Papinianus libro septimo responsorum
 
 Si pater familias singulis heredibus fundos legando divisionis arbitrio fungi voluit, non aliter partem suam coheres praestare cogetur, quam si vice mutua partem nexu pignoris liberam consequatur.
 
- 10.2.34
+10.2.34
 
 Papinianus libro octavo responsorum
 
 Servos inter coheredes tempore divisionis aestimatos non emendi, sed dividendi animo pretiis adscriptos videri placuit: quare suspensa condicione mortuos tam heredi quam fideicommissario deperisse.
 
- 10.2.35
+10.2.35
 
 Papinianus libro 12 responsorum
 
 Pomponius Philadelphus dotis causa praedia filiae quam habebat in potestate tradidit et reditus eorum genero solvi mandavit: an ea praecipua filia retinere possit, cum omnes filios heredes instituisset, quaerebatur. Iustam causam retinendae possessionis habere filiam, quoniam pater praedia de quibus quaerebatur dotis esse voluit et matrimonium post mortem quoque patris steterat, respondi: filiam etenim, quae naturaliter agros tenuit, specie dotis cuius capax fuisset defendi.
 
- 10.2.36
+10.2.36
 
 Paulus libro secundo quaestionum
 
 Cum putarem te coheredem meum esse idque verum non esset, egi tecum familiae erciscundae iudicio et a iudice invicem adiudicationes et condemnationes factae sunt: quaero, rei veritate cognita utrum condictio invicem competat an vindicatio? Et an aliud in eo qui heres est, aliud in eo qui heres non sit dicendum est? Respondi: qui ex asse heres erat, si, cum putaret se Titium coheredem habere, acceperit cum eo familiae erciscundae iudicium et condemnationibus factis solverit pecuniam, quoniam ex causa iudicati solvit, repetere non potest. Sed tu videris eo moveri, quod non est iudicium familiae erciscundae nisi inter coheredes acceptum: sed quamvis non sit iudicium, tamen sufficit ad impendiendam repetitionem, quod quis se putat condemnatum. Quod si neuter eorum heres fuit, sed quasi heredes essent acceperint familiae erciscundae iudicium, de repetitione idem in utrisque dicendum est, quod diximus in altero. Plane si sine iudice diviserint res, etiam condictionem earum rerum, quae ei cesserunt, quem coheredem esse putavit qui fuit heres, competere dici potest: non enim transactum inter eos intellegitur, cum ille coheredem esse putaverit.
 
- 10.2.37
+10.2.37
 
 Scaevola libro 12 quaestionum
 
 Qui familiae erciscundae iudicio agit, confitetur adversarium sibi esse coheredem.
 
- 10.2.38
+10.2.38
 
 Paulus libro tertio responsorum
 
 Lucius et Titia fratres emancipati a patre adulti curatores acceperunt: hi communes pecunias ex reditibus redactas singulis subministraverunt: postea omne patrimonium diviserunt: et post divisionem Titia soror Lucio fratri suo coepit quaestionem movere, quasi amplius accepisset quam ipsa acceperat. Cum Lucius frater eius non amplius sua portione, immo minus quam dimidiam consecutus sit, quaero, an titiae competat adversus fratrem actio. Paulus respondit, secundum ea quae proponuntur, si Lucius non amplius ex reditu praediorum communium accepit, quam pro hereditaria portione ei competeret, nullam sorori eius adversus eum competere actionem. Idem respondit, cum ex decretis alimentis a praetore amplius fratrem accepisse diceretur quam sororem, non tamen ultra partem dimidiam.
 
- 10.2.39
+10.2.39
 
 Scaevola libro primo responsorum
 
@@ -501,31 +486,31 @@ pr. Ex parte heres institutus causam de totis bonis, quam omnes heredes patieban
 
 5. Pater inter filios divisit bona et eam divisionem testamento confirmavit et cavit, ut aes alienum, quod unusquisque eorum habet sive habebit, solus sustineret: postea unus ex filiis cum pecuniam mutuaretur, intervenit pater eiusque consensu praedia quae filio adsignaverat pignori data sunt: post mortem patris eadem praedia idem filius possedit, usuras solvit: quaero, an familiae erciscundae iudicio, si praedia pignori data distrahat creditor, aliquid ei a coherede praestandum sit. Respondi secundum ea quae proponerentur non esse praestandum.
 
- 10.2.40
+10.2.40
 
 Gaius libro secundo fideicommissorum
 
 Si ex asse heres institutus rogatus sit mihi partem aliquam restituere, veluti dimidiam, utile familiae erciscundae iudicium recte inter nos agetur.
 
- 10.2.41
+10.2.41
 
 Paulus libro primo decretorum
 
 Quaedam mulier ab iudice appellaverat, quod diceret eum de dividenda hereditate inter se et coheredem non tantum res, sed et libertos divisisse et alimenta, quae dari testator certis libertis iussisset: nullo enim iure id eum fecisse. Ex diverso respondebatur consensisse eos divisioni et multis annis alimenta secundum divisionem praestitisse. Placuit standum esse alimentorum praestationi: sed et illud adiecit nullam esse libertorum divisionem:
 
- 10.2.42
+10.2.42
 
 Pomponius libro sexto ad Sabinum
 
  si ita legatum fuerit uni ex heredibus: "quod mihi debet, praecipito", officio iudicis familiae erciscundae continetur, ne ab eo coheredes exigant: nam et si quod alius deberet praecipere unus iussus fuerit, officio iudicis actiones ei praestari debebunt pro portione coheredis.
 
- 10.2.43
+10.2.43
 
 Ulpianus libro 30 ad Sabinum
 
 Arbitrum familiae erciscundae vel unus petere potest: nam provocare apud iudicem vel unum heredem posse palam est: igitur et praesentibus ceteris et invitis poterit vel unus arbitrum poscere.
 
- 10.2.44
+10.2.44
 
 Paulus libro sexto ad Sabinum
 
@@ -547,7 +532,7 @@ pr. Inter coheredes etiam communi dividundo agi potest, ut res dumtaxat quae eor
 
 8. Si duo coheredes damnati sint statuam ponere et altero cessante alter eam fecerit, non esse iniquum Iulianus ait familiae erciscundae iudicium dare, ut pars impendiorum boni viri arbitratu praestetur.
 
- 10.2.45
+10.2.45
 
 Pomponius libro 13 ad Sabinum
 
@@ -555,13 +540,13 @@ pr. Si quid contendis ex hereditate mihi tecum commune esse, quod ego ex alia ca
 
 1. Dolus, quem servus heredis admisit, in iudicium familiae erciscundae non venit, nisi si domini culpa in hoc erat, quod non idoneum servum rei communi applicuerit.
 
- 10.2.46
+10.2.46
 
 Paulus libro septimo ad Sabinum
 
 Si maritus sub condicione a patre heres institutus sit, interim uxoris de dote actionem pendere. Plane si post mortem soceri divortium factum sit, quamvis pendente condicione institutionis dicendum est praeceptioni dotis locum esse, quia mortuo patre quaedam filios sequuntur etiam antequam fiant heredes, ut matrimonium, ut liberi, ut tutela. Igitur et dotem praecipere debet qui onus matrimonii post mortem patris sustinuit: et ita Scaevolae quoque nostro visum est.
 
- 10.2.47
+10.2.47
 
 Pomponius libro 21 ad Sabinum
 
@@ -569,25 +554,25 @@ pr. In iudicio familiae erciscundae vel communi dividundo si, dum res in arbitri
 
 1. Item quae res moveri possint et in ea iudicia veniant, si interea subreptae sint, furti agere eos, quorum istae res periculo fuerint, posse.
 
- 10.2.48
+10.2.48
 
 Paulus libro 12 ad Sabinum
 
 Si familiae erciscundae vel communi dividundo vel finium regundorum actum sit et unus ex litigatoribus decesserit pluribus heredibus relictis, non potest in partes iudicium scindi, sed aut omnes heredes accipere id debent aut dare unum procuratorem, in quem omnium nomine iudicium agatur.
 
- 10.2.49
+10.2.49
 
 Ulpianus libro secundo disputationum
 
 Qui erat heres ex parte institutus, testatorem iussus a praetore sepelire servum, cui erat testamento data libertas, ideo distraxit duplamque promisit et ex ea cautione conventus praestitit: quaesitum est, an familiae erciscundae iudicio consequatur, quod ex duplae stipulatione abest. Primo videamus, an hic debuerit duplam cavere. Et mihi videtur non debuisse: hi enim demum ad duplae cautionem compelluntur, qui sponte sua distrahunt: ceterum si officio distrahentis fungitur, non debet adstringi, non magis quam si quis ad exsequendam sententiam a praetore datus distrahat: nam et hic in ea condicione est, ne cogatur implere quod coguntur hi qui suo arbitrio distrahunt: nam inter officium suscipientis et voluntatem distrahentis multum interest. Quapropter re quidem integra stipulationem duplae interponere non debuit, sed decernere praetor debet esse emptori adversus heredem existentem actionem ex empto, si res distracta fuisset evicta. Si autem heres erravit et cavit et servus perveniat ad libertatem, stipulatio committetur: quae si fuerit commissa, aequum erit utilem actionem ei adversus coheredem dari deficiente directo iudicio familiae erciscundae, ne in damno moretur. Nam ut familiae erciscundae iudicio agere quis possit, non tantum heredem esse oportet, verum ex ea causa agere vel conveniri, quam gessit quodque admisit, posteaquam heres effectus sit: ceterum cessat familiae erciscundae actio. Et ideo si ante, quam quis sciret se heredem esse, in hereditate aliquid gesserit, familiae erciscundae iudicio non erit locus, quia non animo heredis gessisse videtur. Quare qui ante aditam hereditatem quid gessit, veluti si testatorem sepelivit, familiae erciscundae iudicium non habet: sed si post aditam hereditatem id fecit, consequenter dicemus familiae erciscundae iudicio consequi eum posse sumptum quem fecit in funus.
 
- 10.2.50
+10.2.50
 
 Ulpianus libro sexto opinionum
 
 Quae pater filio emancipato studiorum causa peregre agenti subministravit, si non credendi animo pater misisse fuerit comprobatus, sed pietate debita ductus: in rationem portionis, quae ex defuncti bonis ad eundem filium pertinuit, computari aequitas non patitur.
 
- 10.2.51
+10.2.51
 
 Iulianus libro octavo digestorum
 
@@ -595,7 +580,7 @@ pr. Fundus, qui dotis nomine socero traditus fuerit, cum socer filium ex aliqua 
 
 1. Si ego a te hereditatem petere vellem, tu mecum familiae erciscundae agere, ex causa utrique nostrum mos gerendus est: nam si ego totam hereditatem possideo et te ex parte dimidia heredem esse confiteor, sed a communione discedere volo, impetrare debeo familiae erciscundae iudicium, quia aliter dividi inter nos hereditas non potest. Item si tu iustam causam habes, propter quam per hereditatis petitionem potius quam familiae erciscundae iudicium negotium distrahere velis, tibi quoque permittendum erit hereditatem petere: nam quaedam veniunt in hereditatis petitionem, quae in familiae erciscundae iudicio non deducuntur: veluti si ego debitor hereditarius sim, iudicio familiae erciscundae non consequeris id quod defuncto debui, per hereditatis petitionem consequeris.
 
- 10.2.52
+10.2.52
 
 Iulianus libro secundo ad Urseium Ferocem
 
@@ -607,38 +592,37 @@ pr. Maevius, qui nos heredes fecit, rem communem habuit cum Attio: si cum Attio 
 
 3. Cum familiae erciscundae vel communi dividundo agitur, universae res aestimari debent, non singularum rerum partes.
 
- 10.2.53
+10.2.53
 
 Ulpianus libro secundo responsorum
 
 Pecuniam, quam filius emancipatus ita credidit, ut patri solveretur, ita demum in hereditatem patris numerari, si patri adversus filium eiusdem quantitatis nomine actio competebat.
 
- 10.2.54
+10.2.54
 
 Neratius libro tertio membranarum
 
 Ex hereditate Lucii Titii, quae mihi et tibi communis erat, fundi partem meam alienavi, deinde familiae erciscundae iudicium inter nos acceptum est. Neque ea pars quae mea fuit in iudicio veniet, cum alienata de hereditate exierit, neque tua, quia etiamsi remanet in pristino iure hereditariaque est, tamen alienatione meae partis exit de communione. Utrum autem unus heres partem suam non alienaverit an plures, nihil interest, si modo aliqua portio alienata ab aliquo ex heredibus hereditaria esse desiit.
 
- 10.2.55
+10.2.55
 
 Ulpianus libro secundo ad edictum
 
 Si familiae erciscundae vel communi dividundo iudicium agatur et divisio tam difficilis sit, ut paene impossibilis esse videatur, potest iudex in unius personam totam condemnationem conferre et adiudicare omnes res.
 
- 10.2.56
+10.2.56
 
 Paulus libro 23 ad edictum
 
 Non solum in finium regundorum, sed et familiae erciscundae iudicio praeteriti quoque temporis fructus veniunt.
 
- 10.2.57
+10.2.57
 
 Papinianus libro secundo responsorum
 
 Arbitro quoque accepto fratres communem hereditatem consensu dividentes pietatis officio funguntur, quam revocari non oportet, licet arbiter sententiam iurgio perempto non dixerit, si non intercedat aetatis auxilium.
 
-
-10.3.0. Communi dividundo.
+* 10.3.0. Communi dividundo.
 
 
 10.3.1
@@ -647,7 +631,7 @@ Paulus libro 23 ad edictum
 
 Communi dividundo iudicium ideo necessarium fuit, quod pro socio actio magis ad personales invicem praestationes pertinet quam ad communium rerum divisionem. Denique cessat communi dividundo iudicium, si res communis non sit.
 
- 10.3.2
+10.3.2
 
 Gaius libro septimo ad edictum provinciale
 
@@ -655,7 +639,7 @@ pr. Nihil autem interest, cum societate an sine societate res inter aliquos comm
 
 1. In tribus duplicibus iudiciis familiae erciscundae, communi dividundo, finium regundorum quaeritur, quis actor intellegatur, quia par causa omnium videtur: sed magis placuit eum videri actorem, qui ad iudicium provocasset.
 
- 10.3.3
+10.3.3
 
 Ulpianus libro 30 ad Sabinum
 
@@ -663,7 +647,7 @@ pr. In communi dividundo iudicio nihil pervenit ultra divisionem rerum ipsarum q
 
 1. Si quid ipsi sine dolo malo inter se pepigerunt, id in primis et familiae erciscundae et communi dividundo iudex servare debet.
 
- 10.3.4
+10.3.4
 
 Ulpianus libro 19 ad edictum
 
@@ -677,13 +661,13 @@ pr. Per hoc iudicium corporalium rerum fit divisio, quarum rerum dominium habemu
 
 4. Eapropter scribit Iulianus, si missi in possessionem damni infecti simus et ante, quam possidere iuberemur, ego insulam fulsero, sumptum istum communi dividundo iudicio consequi me non posse.
 
- 10.3.5
+10.3.5
 
 Iulianus libro secundo ad Urseium Ferocem
 
 Sed si res non defenderetur et ideo iussi sumus a praetore eas aedes possidere et ex hoc dominium earum nancisceremur, respondit Proculus communi dividundo iudicio partem eius impensae me servaturum esse.
 
- 10.3.6
+10.3.6
 
 Ulpianus libro 19 ad edictum
 
@@ -713,7 +697,7 @@ pr. Si quis putans sibi cum titio fundum communem esse fructus perceperit vel su
 
 12. Urseius ait, cum in communi aedificio vicinus nuntiavit ne quid operis fieret, si unus ex sociis ex hac causa damnatus fuisset, posse eam poenam a socio pro parte servare: Iulianus autem recte notat ita demum hoc verum esse, si interfuit aedium hoc fieri.
 
- 10.3.7
+10.3.7
 
 Ulpianus libro 20 ad edictum
 
@@ -745,7 +729,7 @@ pr. Communi dividundo iudicium locum habet et in vectigali agro. Vectigalis ager
 
 13. Si debitor communis praedii partem pignori dedit et a domino alterius partis provocatus creditor eius aut ab alio creditore alterius debitoris licendo superavit et debitor eius cui res fuit adiudicata velit partem suam praedii reciperare soluto eo quod ipse debuit: eleganter dicitur non esse audiendum, nisi et eam partem paratus sit reciperare, quam creditor per adiudicationem emit. Nam et si partem vendideris rei et prius, quam traderes emptori, communi dividundo iudicio provocatus fueris aliaque pars tibi adiudicata sit, consequenter dicitur ex empto agi non posse, nisi totam rem suscipere fuerit paratus, quia haec pars beneficio alterius venditori accessit: quin immo etiam ex vendito posse conveniri emptorem, ut recipiat totum: solum illud spectandum erit, num forte fraus aliqua venditoris intervenit. Sed et si distracta parte cesserit victus licitatione venditor, aeque, pretium ut restituat, ex empto tenebitur. Haec eadem et in mandato ceterisque huius generis iudiciis servantur.
 
- 10.3.8
+10.3.8
 
 Paulus libro 23 ad edictum
 
@@ -759,13 +743,13 @@ pr. Et si non omnes, qui rem communem habent, sed certi ex his dividere desidera
 
 4. Item si unus in solidum de peculio conventus et damnatus sit, est cum socio communi dividundo actio, ut partem peculii consequatur.
 
- 10.3.9
+10.3.9
 
 Africanus libro septimo quaestionum
 
 Sed postquam socius servi communis nomine de peculio in solidum damnatus esset, si apud socium res peculiares intercidant, nihilo minus utile erit iudicium communi dividundo ad reciperandam partem pecuniae: alioquin iniquum fore, si tota ea res ad damnum eius qui iudicium acceperit pertineat, cum utriusque domini periculum in rebus peculiaribus esse debeat. Nam et eum, qui mandatu domini defensionem servi suscepit, omne quod bona fide praestiterit servaturum, quamvis peculium postea interciderit. Haec ita, si neutrius culpa intervenerit: etenim dominum, cum quo de peculio agitur, si paratus sit rebus peculiaribus petitori cedere, ex causa audiendum putavit, scilicet si sine dolo malo et frustratione id faciat.
 
- 10.3.10
+10.3.10
 
 Paulus libro 23 ad edictum
 
@@ -775,25 +759,25 @@ pr. Item quamvis legis Aquiliae actio in heredem non competat, tamen hoc iudicio
 
 2. In communi dividundo iudicio iusto pretio rem aestimare debebit iudex et de evictione quoque cavendum erit.
 
- 10.3.11
+10.3.11
 
 Gaius libro septimo ad edictum provinciale
 
 In summa admonendi sumus, quod, si post interitum rei communis is, cui aliquid ex communione praestari oportet, eo nomine agere velit, communi dividundo iudicium utile datur: veluti si actor impensas aliquas in rem communem fecit, sive socius eius solus aliquid ex ea re lucratus est, velut operas servi mercedesve, hoc iudicio eorum omnium ratio habetur.
 
- 10.3.12
+10.3.12
 
 Ulpianus libro 71 ad edictum
 
 Si aedes communes sint aut paries communis et eum reficere vel demolire vel in eum immittere quid opus sit, communi dividundo iudicio erit agendum, aut interdicto uti possidetis experimur.
 
- 10.3.13
+10.3.13
 
 Ulpianus libro 75 ad edictum
 
 In iudicium communi dividundo omnes res veniunt, nisi si quid fuerit ex communi consensu exceptum nominatim, ne veniat.
 
- 10.3.14
+10.3.14
 
 Paulus libro tertio ad Plautium
 
@@ -807,31 +791,31 @@ pr. In hoc iudicium hoc venit, quod communi nomine actum est aut agi debuit ab e
 
 4. Si paciscatur socius, ne partem suam petat, effectu tollitur societas.
 
- 10.3.15
+10.3.15
 
 Paulus libro quinto ad Plautium
 
 Si socius servi communis nomine conventus et condemnatus sit, aget communi dividundo et antequam praestet: nam et si noxali iudicio cum uno actum sit, statim aget cum socio, ut ei pars traderetur, cautionibus interpositis, ut, si non dederit, reddat.
 
- 10.3.16
+10.3.16
 
 Paulus libro sexto ad Plautium
 
 Cum socii dividunt societatem, de eo, quod sub condicione deberetur, cautiones intervenire solent.
 
- 10.3.17
+10.3.17
 
 Modestinus libro nono regularum
 
 Qui coheredes habet, si fundum pignori datum a testatore suo comparaverit a creditore, non debet a coheredibus iudicio communi dividundo conveniri.
 
- 10.3.18
+10.3.18
 
 Iavolenus libro secundo epistularum
 
 Ut fundus hereditarius fundo non hereditario serviat, arbiter disponere non potest, quia ultra id quod in iudicium deductum est excedere potestas iudicis non potest.
 
- 10.3.19
+10.3.19
 
 Paulus libro sexto ad Sabinum
 
@@ -845,31 +829,31 @@ pr. Arbor quae in confinio nata est, item lapis qui per utrumque fundum extendit
 
 4. Aquarum iter in iudicium communi dividundo non venire Labeo ait: nam aut ipsius fundi est et ideo in iudicium non venit, aut separatum a fundo, divisum tamen aut mensura aut temporibus. Sed possunt iura interdum et separata a fundo esse et nec mensura nec temporibus divisa, veluti cum is cuius fuerunt plures heredes reliquit: quod cum accidit, consentaneum est et ea in arbitrio familiae erciscundae venire, nec videre inquit Pomponius, quare minus in communi dividundo quam familiae erciscundae iudicium veniant. Igitur in huiusmodi speciebus etiam in communi dividundo iudicio venit, ut praefata iura aut mensura aut temporibus dividantur.
 
- 10.3.20
+10.3.20
 
 Pomponius libro 13 ad Sabinum
 
 Si is, cum quo fundum communem habes, ad delictum non respondit et ob id motu iudicis villa diruta est aut arbusta succisa sunt, praestabitur tibi detrimentum iudicio communi dividundo: quidquid enim culpa socii amissum est, eo iudicio continetur.
 
- 10.3.21
+10.3.21
 
 Ulpianus libro 30 ad Sabinum
 
 Iudicem in praediis dividundis quod omnibus utilissimum est vel quod malint litigatores sequi convenit.
 
- 10.3.22
+10.3.22
 
 Pomponius libro 33 ad Sabinum
 
 Si meo et vicini nomine parietem aedificem vel repetiturus ab eo pro parte impensam vel donationis gratia, communis fiet paries.
 
- 10.3.23
+10.3.23
 
 Ulpianus libro 32 ad edictum
 
 Si convenerit inter te et socium tuum, ut alternis annis fructum perciperetis, et non patiatur te socius tui anni fructum percipere, videndum, utrum ex conducto sit actio an vero communi dividundo. Eadem quaestio est et si socius, qui convenerat, ut alternis annis frueretur, pecus immisit et effecit, ut futuri anni fructus, quos socium percipere oportuit, corrumperentur. Et puto magis communi dividundo iudicium quam ex conducto locum habere (quae enim locatio est, cum merces non intercesserit?) aut certe actionem incerti civilem reddendam.
 
- 10.3.24
+10.3.24
 
 Iulianus libro octavo digestorum
 
@@ -877,31 +861,31 @@ pr. Communis servus si ex re alterius dominorum adquisierit, nihilo minus commun
 
 1. Cum agere tecum communi dividundo vellem, partem tuam Titio tradidisti mutandi iudicii causa: teneris mihi praetoria actione, quod fecisses, ne tecum communi dividundo ageretur.
 
- 10.3.25
+10.3.25
 
 Iulianus libro 12 digestorum
 
 Si Stichus communis meus et tuus servus habuerit Pamphilum vicarium aureorum decem et mecum actum de peculio fuerit condemnatusque decem praestitero: quamvis postea Pamphilus decesserit, nihilo minus actione communi dividundo vel pro socio quinque milia praestare debebis, quia te hoc aere alieno liberavi. Longe magis consequar, si Stichus post mortem Pamphili alium vicarium adquisierat.
 
- 10.3.26
+10.3.26
 
 Alfenus libro secundo digestorum
 
 Communis servus cum apud alterum esset, crus fregit in opere: quaerebatur, alter dominus quid cum eo, penes quem fuisset, ageret. Respondi, si quid culpa illius magis quam casu res communis damni cepisset, per arbitrum communi dividundo posse reciperare.
 
- 10.3.27
+10.3.27
 
 Paulus libro tertio epitomarum Alfeni digestorum
 
 De communi servo unus ex sociis quaestionem habere nisi communis negotii causa iure non potest.
 
- 10.3.28
+10.3.28
 
 Papinianus libro septimo quaestionum
 
 Sabinus ait in re communi neminem dominorum iure facere quicquam invito altero posse. Unde manifestum est prohibendi ius esse: in re enim pari potiorem causam esse prohibentis constat. Sed etsi in communi prohiberi socius a socio ne quid faciat potest, ut tamen factum opus tollat, cogi non potest, si, cum prohibere poterat, hoc praetermisit: et ideo per communi dividundo actionem damnum sarciri poterit. Sin autem facienti consensit, nec pro damno habet actionem. Quod si quid absente socio ad laesionem eius fecit, tunc etiam tollere cogitur.
 
- 10.3.29
+10.3.29
 
 Paulus libro secundo quaestionum
 
@@ -909,20 +893,19 @@ pr. Si quis, cum existimaverit fundum communem sibi cum Maevio esse, quem cum Ti
 
 1. Pomponius scripsit posci iudicem posse a quolibet sociorum: sed etiamsi unus ex sociis mutus erit, recte cum eo communi dividundo agi.
 
- 10.3.30
+10.3.30
 
 Scaevola libro primo responsorum
 
 Communi dividundo iudicio recte agi, sive neuter possideat sive alter sociorum fundum non possideat.
 
- 10.3.31
+10.3.31
 
 Paulus libro 15 responsorum
 
 Bina mancipia, quae ex hereditate paterna iussu praetoris pupillis ministerii causa reservata essent, divisa non videri, sed omnium communia permansisse.
 
-
-10.4.0. Ad exhibendum.
+* 10.4.0. Ad exhibendum.
 
 
 10.4.1
@@ -931,13 +914,13 @@ Ulpianus libro 24 ad edictum
 
 Haec actio perquam necessaria est et vis eius in usu cottidiano est et maxime propter vindicationes inducta est.
 
- 10.4.2
+10.4.2
 
 Paulus libro 21 ad edictum
 
 Exhibere est facere in publico potestatem, ut ei qui agat experiundi sit copia.
 
- 10.4.3
+10.4.3
 
 Ulpianus libro 24 ad edictum
 
@@ -973,13 +956,13 @@ pr. In hac actione actor omnia nosse debet et dicere argumenta rei de qua agitur
 
 15. Sciendum est adversus possessorem hac actione agendum non solum eum qui civiliter, sed et eum qui naturaliter incumbat possessioni. Denique creditorem, qui pignori rem accepit, ad exhibendum teneri placet:
 
- 10.4.4
+10.4.4
 
 Pomponius libro sexto ad Sabinum
 
 nam et cum eo, apud quem deposita vel cui commodata vel locata res sit, agi potest.
 
- 10.4.5
+10.4.5
 
 Ulpianus libro 24 ad edictum
 
@@ -997,13 +980,13 @@ pr. Celsus scribit: si quis merces, quas exvehendas conduxit, in horreo posuit, 
 
 6. Item si quis facultatem restituendi non habeat, licet possideat, tamen ad exhibendum non tenebitur, ut puta si in fuga servus sit: ad hoc plane solum tenebitur, ut caveat se exhibiturum, si in potestatem eius pervenerit. Sed et si non sit in fuga, permiseris autem ei ubi velit morari, idem erit dicendum, aut peregre a te missus sit, vel in praediis tuis agat, ad hoc solum teneberis, ut caveas.
 
- 10.4.6
+10.4.6
 
 Paulus libro 14 ad Sabinum
 
 Gemma inclusa auro alieno vel sigillum candelabro vindicari non potest, sed ut excludatur, ad exhibendum agi potest: aliter atque in tigno iuncto aedibus, de quo nec ad exhibendum agi potest, quia lex duodecim tabularum solvi vetaret: sed actione de tigno iuncto ex eadem lege in duplum agitur.
 
- 10.4.7
+10.4.7
 
 Ulpianus libro 24 ad edictum
 
@@ -1023,13 +1006,13 @@ pr. Tigni appellatione omnem materiam in lege duodecim tabularum accipimus, ut q
 
 7. Ibidem non male pomponius iungit eius, qui ad exhibendum egit, utroque tempore interfuisse oportere rem ei restitui, hoc est et quo lis contestatur et quo fit condemnatio: et ita Labeoni placet.
 
- 10.4.8
+10.4.8
 
 Iulianus libro nono digestorum
 
 Si ad exhibendum actum est cum eo, qui neque possidebat neque dolo malo fecerat quo minus possideret, deinde eo defuncto heres eius possidet rem, exhibere eam cogendus erit. Nam si fundum vel hominem petiero et heres ex eadem causa possidere coeperit, restituere cogitur.
 
- 10.4.9
+10.4.9
 
 Ulpianus libro 24 ad edictum
 
@@ -1051,13 +1034,13 @@ pr. Iulianus scribit: si quis hominem quem possidebat occiderit sive ad alium tr
 
 8. Praeterea utilitates, si quae amissae sunt ob hoc quod non exhibetur vel tardius quid exhibetur, aestimandae a iudice sunt: et ideo Neratius ait utilitatem actoris venire in aestimationem, non quanti res sit, quae utilitas, inquit, interdum minoris erit quam res erit.
 
- 10.4.10
+10.4.10
 
 Paulus libro 26 ad edictum
 
 Si optione intra certum tempus data iudicium in id tempus extractum est, quo frustra exhibetur, utilitas petitoris conservetur: quod si per heredem non stetit quo minus exhiberet tempore iudicii accipiendi, absolvendus est heres.
 
- 10.4.11
+10.4.11
 
 Ulpianus libro 24 ad edictum
 
@@ -1067,7 +1050,7 @@ pr. Sed et si hereditas amissa sit ob hoc, quod servus non exhibeatur, aequissim
 
 2. Si de pluribus rebus quis conveniatur et litis contestatae tempore omnes possedit, licet postea quasdam desierit quamvis sine dolo malo possidere, damnandum, nisi exhibeat eas quas potest.
 
- 10.4.12
+10.4.12
 
 Paulus libro 26 ad edictum
 
@@ -1085,49 +1068,49 @@ pr. De eo exhibendo, quem quis in libertatem vindicare velit, huic actioni locus
 
 6. Heres non quasi heres, sed suo nomine hac actione uti potest: item heres possessoris suo nomine tenetur: igitur non procedit quaerere, an heredi et in heredem danda sit. Plane ex dolo defuncti danda est in heredem actio, si locupletior hereditas eo nomine facta sit, veluti quod pretium rei consecutus sit.
 
- 10.4.13
+10.4.13
 
 Gaius libro ad edictum praetoris urbani titulo de liberali causa
 
 Si liber homo detineri ab aliquo dicatur, interdictum adversus eum, qui detinere dicitur, de exhibendo eo potest quis habere: nam ad exhibendum actio in eam rem inutilis videtur, quia haec actio ei creditur competere, cuius pecuniariter interest.
 
- 10.4.14
+10.4.14
 
 Pomponius libro 14 ad Sabinum
 
 Si vir nummos ab uxore sibi donatos, sciens suos factos non esse, pro re empta dederit, dolo malo fecit quo minus possideat et ideo ad exhibendum actione tenetur.
 
- 10.4.15
+10.4.15
 
 Pomponius libro 18 ad Sabinum
 
 Thensaurus meus in tuo fundo est nec eum pateris me effodere: cum eum loco non moveris, furti quidem aut ad exhibendum eo nomine agere recte non posse me Labeo ait, quia neque possideres eum neque dolo feceris quo minus possideres, utpote cum fieri possit, ut nescias eum thensaurum in tuo fundo esse. Non esse autem iniquum iuranti mihi non calumniae causa id postulare vel interdictum vel iudicium ita dari, ut, si per me non stetit, quo minus damni infecti tibi operis nomine caveatur, ne vim facias mihi, quo minus eum thensaurum effodiam tollam exportem. Quod si etiam furtivus iste thensaurus est, etiam furti agi potest.
 
- 10.4.16
+10.4.16
 
 Paulus libro decimo ad Sabinum
 
 Cum servus tenet aliquid, dominus ad exhibendum suo nomine tenetur: si autem servus citra scientiam domini dolo fecit quo minus habeat, vel furti actio vel de dolo malo noxalis servi nomine danda est, ad exhibendum autem utilis nulla constituenda est.
 
- 10.4.17
+10.4.17
 
 Ulpianus libro nono de omnibus tribunalibus
 
 Si quis hominem debilitatum exhibeat vel eluscatum, ad exhibendum quidem absolvi debet: exhibuit enim et nihil impedit directam actionem talis exhibitio, poterit tamen agere actor ex lege Aquilia de hoc damno.
 
- 10.4.18
+10.4.18
 
 Ulpianus libro sexto opinionum
 
 Solutione chirographo inani facto et pignoribus liberatis nihilo minus creditor, ut instrumenta ad eum contractum pertinentia ab alio quam debitore exhibeantur, agere potest.
 
- 10.4.19
+10.4.19
 
 Paulus libro quarto epitomarum Alfeni digestorum
 
 Ad exhibendum possunt agere omnes quorum interest. Sed quidam consuluit, an possit efficere haec actio, ut rationes adversarii sibi exhiberentur, quas exhiberi magni eius interesset. Respondit non oportere ius civile calumniari neque verba captari, sed qua mente quid diceretur, animadvertere convenire. Nam illa ratione etiam studiosum alicuius doctrinae posse dicere sua interesse illos aut illos libros sibi exhiberi, quia, si essent exhibiti, cum eos legisset, doctior et melior futurus esset.
 
- 10.4.20
+10.4.20
 
 Ulpianus libro secundo regularum
 

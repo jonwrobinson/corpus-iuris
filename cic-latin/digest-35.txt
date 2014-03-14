@@ -1,20 +1,9 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber tricesimus quintus
-
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
-* TITLES
-** 35.1.0. De condicionibus et demonstrationibus et causis et modis eorum (...)
-** 35.2.0. Ad legem Falcidiam.
-** 35.3.0. Si cui plus, quam per legem Falcidiam licuerit, legatum esse dicetur.
-
+* LIBER XXXV
++ 35.1.0. De condicionibus et demonstrationibus et causis et modis eorum (...)
++ 35.2.0. Ad legem Falcidiam.
++ 35.3.0. Si cui plus, quam per legem Falcidiam licuerit, legatum esse dicetur.
 
 * 35.1.0. De condicionibus et demonstrationibus et causis et modis eorum, quae in testamento scribuntur.
 
@@ -861,7 +850,6 @@ Paulus imperialium sententiarum in cognitionibus prolatarum ex liberis sex libro
 
 Cum filius rogatus fuisset a patre, si, antequam res suas administrare posset, decessisset, hereditatem Titio restituere, et egressus viginti annos decessisset, rescriptum est fideicommissum deberi.
 
-
 * 35.2.0. Ad legem Falcidiam.
 
 
@@ -1666,7 +1654,6 @@ pr. Maritus uxoris res extra dotem constitutas administravit eaque decedens ante
 Scaevola libro singulari quaestionum publice tractarum
 
 Miles si, dum paganus erat, fecerit testamentum, militiae tempore codicillos, lex Falcidia in codicillis locum non habet, in testamento locum habebit.
-
 
 * 35.3.0. Si cui plus, quam per legem Falcidiam licuerit, legatum esse dicetur.
 

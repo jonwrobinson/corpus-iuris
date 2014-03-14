@@ -1,50 +1,39 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber quadragesimus tertius
-
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
-* TITLES
-** 43.1.0. De interdictis sive extraordinariis actionibus, quae pro his competunt.
-** 43.2.0. Quorum bonorum.
-** 43.3.0. Quod legatorum.
-** 43.4.0. Ne vis fiat ei, qui in possessionem missus erit.
-** 43.5.0. De tabulis exhibendis.
-** 43.6.0. Ne quid in loco sacro fiat.
-** 43.7.0. De locis et itineribus publicis.
-** 43.8.0. Ne quid in loco publico vel itinere fiat.
-** 43.9.0. De loco publico fruendo.
-** 43.10.0. De via publica et si quid in ea factum esse dicatur.
-** 43.11.0. De via publica et itinere publico reficiendo.
-** 43.12.0. De fluminibus. Ne quid in flumine publico ripave eius fiat, quo peius navigetur.
-** 43.13.0. Ne quid in flumine publico fiat, quo aliter aqua fluat, atque uti priore aestate fluxit.
-** 43.14.0. Ut in flumine publico navigare liceat.
-** 43.15.0. De ripa munienda.
-** 43.16.0. De vi et de vi armata.
-** 43.17.0. Uti possidetis.
-** 43.18.0. De superficiebus.
-** 43.19.0. De itinere actuque privato.
-** 43.20.0. De aqua cottidiana et aestiva.
-** 43.21.0. De rivis.
-** 43.22.0. De fonte.
-** 43.23.0. De cloacis.
-** 43.24.0. Quod vi aut clam.
-** 43.25.0. De remissionibus.
-** 43.26.0. De precario.
-** 43.27.0. De arboribus caedendis.
-** 43.28.0. De glande legenda.
-** 43.29.0. De homine libero exhibendo.
-** 43.30.0. De liberis exhibendis, item ducendis.
-** 43.31.0. Utrubi.
-** 43.32.0. De migrando.
-** 43.33.0. De Salviano interdicto.
-
+* LIBER XLIII
++ 43.1.0. De interdictis sive extraordinariis actionibus, quae pro his competunt.
++ 43.2.0. Quorum bonorum.
++ 43.3.0. Quod legatorum.
++ 43.4.0. Ne vis fiat ei, qui in possessionem missus erit.
++ 43.5.0. De tabulis exhibendis.
++ 43.6.0. Ne quid in loco sacro fiat.
++ 43.7.0. De locis et itineribus publicis.
++ 43.8.0. Ne quid in loco publico vel itinere fiat.
++ 43.9.0. De loco publico fruendo.
++ 43.10.0. De via publica et si quid in ea factum esse dicatur.
++ 43.11.0. De via publica et itinere publico reficiendo.
++ 43.12.0. De fluminibus. Ne quid in flumine publico ripave eius fiat, quo peius navigetur.
++ 43.13.0. Ne quid in flumine publico fiat, quo aliter aqua fluat, atque uti priore aestate fluxit.
++ 43.14.0. Ut in flumine publico navigare liceat.
++ 43.15.0. De ripa munienda.
++ 43.16.0. De vi et de vi armata.
++ 43.17.0. Uti possidetis.
++ 43.18.0. De superficiebus.
++ 43.19.0. De itinere actuque privato.
++ 43.20.0. De aqua cottidiana et aestiva.
++ 43.21.0. De rivis.
++ 43.22.0. De fonte.
++ 43.23.0. De cloacis.
++ 43.24.0. Quod vi aut clam.
++ 43.25.0. De remissionibus.
++ 43.26.0. De precario.
++ 43.27.0. De arboribus caedendis.
++ 43.28.0. De glande legenda.
++ 43.29.0. De homine libero exhibendo.
++ 43.30.0. De liberis exhibendis, item ducendis.
++ 43.31.0. Utrubi.
++ 43.32.0. De migrando.
++ 43.33.0. De Salviano interdicto.
 
 
 * 43.1.0. De interdictis sive extraordinariis actionibus, quae pro his competunt.
@@ -94,7 +83,6 @@ Paulus libro 13 ad Sabinum
 
 Interdicta noxalia ea sunt, quae ob delictum eorum, quos in potestate habemus, dantur, veluti cum vi deiecerunt aut vi aut clam opus fecerunt. Sed officio iudicis continetur, ut dominum sua impensa opus restituentem absolvat: patientiam tollendo operi praestantem noxae dedere iubeat et absolvat, si non dedat, quantum impensae in tollendo opere erogatum sit, tanti condemnet: si neque patientiam praestet neque ipse tollat, cum possit, in tantum condemnet, in quantum iudex aestimaverit, atque si ipse fecisset.
 
-
 * 43.2.0. Quorum bonorum.
 
 
@@ -111,7 +99,6 @@ pr. Ait praetor: "Quorum bonorum ex edicto meo illi possessio data est, quod de 
 Paulus libro 20 ad edictum
 
 Interdicto quorum bonorum debitores hereditarii non tenentur, sed tantum corporum possessores.
-
 
 * 43.3.0. Quod legatorum.
 
@@ -169,7 +156,6 @@ pr. Diversum est, si postea pars legato adcreverit: nam hoc nomine tenentur fide
 3. Si legatarius repromissione contentus fuit, dandum est interdictum. Idem dicendum est, si legatarius pignoribus noluit sibi caveri.
 
 4. Si per legatarium factum sit, quo minus satisdetur, licet cautum non sit, tenetur interdicto. Sed si forte factum sit per legatarium, quo minus satisdetur, eo autem tempore, quo editur interdictum, satis accipere paratus sit, non competit interdictum, nisi satisdatum sit. Item si per bonorum possessorem stetit, quo minus satisdaret, sed modo paratus est cavere, tenet interdictum: illud enim tempus inspicitur, quo interdictum editur.
-
 
 * 43.4.0. Ne vis fiat ei, qui in possessionem missus erit.
 
@@ -229,7 +215,6 @@ pr. Per interdictum etiam ei subvenit praetor, qui damni infecti ab eo in posses
 3. Sed et ex alia causa hoc iudicium proposuit, si eo tempore, quo in possessionem mitti desiderabat, praetoris adeundi potestas non fuerit, scilicet ut, si, cum potestas praetoris adeundi non esset, damnum interim datum est, haberet iudicium qui damnum passus est.
 
 4. Item subiectum, si ex alia causa in possessionem missus prohibitus esse dicetur, habere in factum actionem.
-
 
 * 43.5.0. De tabulis exhibendis.
 
@@ -318,7 +303,6 @@ Iavolenus libro 13 ex Cassio
 
 De tabulis proferendis interdictum competere non oportet, si hereditatis controversia ex his pendet aut si ad publicam quaestionem pertinet: itaque in aede sacra interim deponendae sunt aut apud virum idoneum.
 
-
 * 43.6.0. Ne quid in loco sacro fiat.
 
 
@@ -346,7 +330,6 @@ Paulus libro quinto sententiarum
 
 Neque muri neque portae habitari sine permissu principis propter fortuita incendia possunt.
 
-
 * 43.7.0. De locis et itineribus publicis.
 
 
@@ -369,7 +352,6 @@ Ulpianus libro 33 ad Sabinum
 pr. Viae vicinales, quae ex agris privatorum collatis factae sunt, quarum memoria non exstat, publicarum viarum numero sunt.
 
 1. Sed inter eas et ceteras vias militares hoc interest, quod viae militares exitum ad mare aut in urbes aut in flumina publica aut ad aliam viam militarem habent, harum autem vicinalium viarum dissimilis condicio est: nam pars earum in militares vias exitum habent, pars sine ullo exitu intermoriuntur.
-
 
 * 43.8.0. Ne quid in loco publico vel itinere fiat.
 
@@ -508,7 +490,6 @@ Iulianus libro 48 digestorum
 
 Sicut is, qui nullo prohibente in loco publico aedificaverat, cogendus non est demolire, ne ruinis urbs deformetur, ita qui adversus edictum praetoris aedificaverit, tollere aedificium debet: alioqui inane et lusorium praetoris imperium erit.
 
-
 * 43.9.0. De loco publico fruendo.
 
 
@@ -530,7 +511,6 @@ Paulus libro quinto sententiarum
 
 Concedi solet, ut imagines et statuae, quae ornamenta rei publicae sunt futurae, in publicum ponantur.
 
-
 * 43.10.0. De via publica et si quid in ea factum esse dicatur.
 
 
@@ -549,7 +529,6 @@ pr. Ohi astunomikoi epimeleisvwsan twn kata tyn polin hodwn, hopws an homalisvws
 4. Epimeleisvwsan de kai hopws pro twn ergastyriwn myden prokeimenon y, plyn ean knafeus himatia qugy y tektwn troxous ecw tivy: tivesvwsan de kai ohutoi, hwste my kwluein hamacan badizein [id est: Item curam agant, ne quid ante officinas proiectum sit: praeterquam si fullo vestimenta siccet vel faber rotas foris ponat: ponunto autem hi quoque sic, ut vehiculum iter facere possit.].
 
 5. My eatwsan de myde maxesvai en tais hodois myde kopron ekballein myde nekra myde dermata hriptein [id est: Ne sinunto autem neque pugnari in viis nec stercus proici nec cadavera nec pelles eo conici.].
-
 
 * 43.11.0. De via publica et itinere publico reficiendo.
 
@@ -579,7 +558,6 @@ Paulus libro primo sententiarum
 pr. Si in agrum vicini viam publicam quis reiecerit, tantum in eum viae receptae actio dabitur, quanti eius interest, cuius fundo iniuria irrogata est.
 
 1. Qui viam publicam exaraverit, ad munitionem eius solus compellitur.
-
 
 * 43.12.0. De fluminibus. Ne quid in flumine publico ripave eius fiat, quo peius navigetur.
 
@@ -656,7 +634,6 @@ Scaevola libro quinto responsorum
 
 Quaesitum est, an is, qui in utraque ripa fluminis publici domus habeat, pontem privati iuris facere potest. respondit non posse.
 
-
 * 43.13.0. Ne quid in flumine publico fiat, quo aliter aqua fluat, atque uti priore aestate fluxit.
 
 
@@ -692,7 +669,6 @@ pr. Ait praetor: "In flumine publico inve ripa eius facere aut in id flumen ripa
 
 13. In hoc interdicto restitutorio non est iniquum, ut Labeo ait, venire etiam, quod dolo factum est quo minus haberes.
 
-
 * 43.14.0. Ut in flumine publico navigare liceat.
 
 
@@ -720,7 +696,6 @@ pr. Praetor ait: "Quo minus illi in flumine publico navem ratem agere quove minu
 
 9. Idem ait tale interdictum competere, ne cui vis fiat, quo minus pecus ad flumen publicum ripamve fluminis publici appellatur.
 
-
 * 43.15.0. De ripa munienda.
 
 
@@ -741,7 +716,6 @@ pr. Praetor ait: "Quo minus illi in flumine publico ripave eius opus facere ripa
 5. Etenim curandum fuit, ut eis ante opus factum caveretur: nam post opus factum persequendi hoc interdicto nulla facultas superest, etiamsi quid damni postea datum fuerit, sed lege Aquilia experiendum est.
 
 6. Illud notandum est, quod ripae lacus fossae stagni muniendi nihil praetor hic cavit: sed idem erit observandum, quod in ripa fluminis munienda.
-
 
 * 43.16.0. De vi et de vi armata.
 
@@ -1002,7 +976,6 @@ Labeo libro tertio pithanon a Paulo epitomatorum
 
 Si colonus tuus vi deiectus est, ages unde vi interdicto. Idem si inquilinus tuus vi deiectus fuerit. Paulus: idem dici potest de coloni colono, item inquilini inquilino.
 
-
 * 43.17.0. Uti possidetis.
 
 
@@ -1070,7 +1043,6 @@ Ulpianus libro 70 ad edictum
 
 In summa puto dicendum et inter fructuarios hoc interdictum reddendum: et si alter usum fructum, alter possessionem sibi defendat. Idem erit probandum et si usus fructus quis sibi defendat possessionem, et ita Pomponius scribit. Perinde et si alter usum, alter fructum sibi tueatur, et his interdictum erit dandum.
 
-
 * 43.18.0. De superficiebus.
 
 
@@ -1103,7 +1075,6 @@ pr. Ait praetor: "Uti ex lege locationis sive conductionis superficie, qua de ag
 Gaius libro 25 ad edictum provinciale
 
 Superficiarias aedes appellamus, quae in conducto solo positae sunt: quarum proprietas et civili et naturali iure eius est, cuius et solum.
-
 
 * 43.19.0. De itinere actuque privato.
 
@@ -1215,7 +1186,6 @@ Sicut non nocet ei, qui sine vitio usus est, quod eodem anno vitiose usus est, i
 Celsus libro 25 digestorum
 
 Si per fundum tuum nec vi nec clam nec precario commeavit aliquis, non tamen tamquam id suo iure faceret, sed, si prohiberetur, non facturus, inutile est ei interdictum de itinere actuque: nam ut hoc interdictum competat, ius fundi possedisse oportet.
-
 
 * 43.20.0. De aqua cottidiana et aestiva.
 
@@ -1370,7 +1340,6 @@ Scaevola libro singulari droon [definitionum ]
 
 Cui per fundum iter aquae debetur, quacumque vult in eo rivum licet faciat, dum ne aquae ductum interverteret.
 
-
 * 43.21.0. De rivis.
 
 
@@ -1440,7 +1409,6 @@ Venuleus libro primo interdictorum
 
 De rivis reficiendis ita interdicetur, ut non quaeratur, an aquam ducere actori liceret: non enim tam necessariam refectionem itinerum quam rivorum esse, quando non refectis rivis omnis usus aquae auferretur et homines siti necarentur. Et sane aqua pervenire nisi refecto rivo non potest: at non refecto itinere difficultas tantum eundi agendique fieret, quae temporibus aestivis levior esset.
 
-
 * 43.22.0. De fonte.
 
 
@@ -1471,7 +1439,6 @@ pr. Praetor ait: "Uti de eo fonte, quo de agitur, hoc anno aqua nec vi nec clam 
 10. Sed et de lacu puteo piscina reficiendis purgandis interdictum competit.
 
 11. Et omnibus personis dabitur, quibus permittitur interdictum de aqua aestiva.
-
 
 * 43.23.0. De cloacis.
 
@@ -1519,7 +1486,6 @@ pr. Praetor ait: "Quo minus illi cloacam quae ex aedibus eius in tuas pertinet, 
 Venuleus libro primo interdictorum
 
 Quamquam de reficienda cloaca, non etiam de nova facienda hoc interdicto comprehendatur, tamen aeque interdicendum Labeo ait, ne facienti cloacam vis fiat, quia eadem utilitas sit: praetorem enim sic interdixisse, ne vis fieret, quo minus cloacam in publico facere liceret: idque ofilio et trebatio placuisse. Ipse dicendum ait, ut ne factam cloacam purgare et restituere permittendum sit per interdictum, novam vero facere is demum concedere debeat, cui viarum publicarum cura sit.
-
 
 * 43.24.0. Quod vi aut clam.
 
@@ -1846,7 +1812,6 @@ pr. Si vitem meam ex fundo meo in fundum tuum deprehenderis eaque in fundo tuo c
 
 5. Si is, qui denuntiaverit se opus facturum, confestim opus fecerit, clam fecisse non intellegitur: nam si post tempus, videbitur clam fecisse.
 
-
 * 43.25.0. De remissionibus.
 
 
@@ -1865,7 +1830,6 @@ pr. Ait praetor: "Quod ius sit illi prohibere, ne se invito fiat, in eo nuntiati
 4. Item Iuliano placet fructuario vindicandarum servitutium ius esse: secundum quod opus novum nuntiare poterit vicino et remissio utilis erit. Ipsi autem domino praedii si nuntiaverit, remissio inutilis erit: neque sicut adversus vicinum, ita adversus dominum agere potest ius ei non esse invito se altius aedificare. Sed si hoc facto usus fructus deterior fiat, petere usum fructum debebit. Idem Iulianus dicit de ceteris, quibus aliqua servitus a vicino debetur.
 
 5. Ei quoque, qui pignori fundum acceperit, scribit Iulianus non esse iniquum detentionem servitutis dari.
-
 
 * 43.26.0. De precario.
 
@@ -2064,7 +2028,6 @@ pr. Si is, qui pro possessore possideret, precario dominum rogaverit, ut sibi re
 
 1. Si pupillus sine tutoris auctoritate precario rogaverit, Labeo ait habere eum precariam possessionem et hoc interdicto teneri. Nam quo magis naturaliter possideretur, nullum locum esse tutoris auctoritati: recteque dici "quod precario habes", quia quod possideat ex ea causa possideat, ex qua rogaverit: nihilque novi per praetorem constituendum, quoniam, sive habeat rem, officio iudicis teneretur, sive non habeat, non teneatur.
 
-
 * 43.27.0. De arboribus caedendis.
 
 
@@ -2098,7 +2061,6 @@ Pomponius libro 34 ad Sabinum
 
 Si arbor ex vicini fundo vento inclinata in tuum fundum sit, ex lege duodecim tabularum de adimenda ea recte agere potes ius ei non esse ita arborem habere.
 
-
 * 43.28.0. De glande legenda.
 
 
@@ -2109,7 +2071,6 @@ Ulpianus libro 71 ad edictum
 pr. Ait praetor: "Glandem, quae ex illius agro in tuum cadat, quo minus illi tertio quoque die legere auferre liceat, vim fieri veto".
 
 1. Glandis nomine omnes fructus continentur.
-
 
 * 43.29.0. De homine libero exhibendo.
 
@@ -2176,7 +2137,6 @@ pr. Si quis liberum hominem ignorantem suum statum retineat, tamen si dolo malo 
 
 3. Creditori non competit interdictum, ut debitor exhiberetur: nec enim debitorem latitantem exhibere quisquam cogitur, sed in bona eius ex edicto praetoris itur.
 
-
 * 43.30.0. De liberis exhibendis, item ducendis.
 
 
@@ -2232,7 +2192,6 @@ Venuleus libro quarto interdictorum
 
 Si filius sua sponte apud aliquem est, inutile hoc interdictum erit, quia filius magis apud se quam apud eum est, in quem interdicetur, cum liberam facultatem abeundi vel remanendi haberet: nisi si inter duos, qui se patres dicerent, controversia esset et alter ab altero exhiberi eum desideraret.
 
-
 * 43.31.0. Utrubi.
 
 
@@ -2243,7 +2202,6 @@ Ulpianus libro 72 ad edictum
 pr. Praetor ait: "Utrubi hic homo, quo de agitur, maiore parte huiusce anni fuit, quo minus is eum ducat, vim fieri veto".
 
 1. Hoc interdictum de possessione rerum mobilium locum habet: sed optinuit vim eius exaequatam fuisse uti possidetis interdicto, quod de rebus soli competit, ut is et in hoc interdicto vincat, qui nec vi nec clam nec precario, dum super hoc ab adversario inquietatur, possessionem habet.
-
 
 * 43.32.0. De migrando.
 
@@ -2271,7 +2229,6 @@ pr. Praetor ait: "Si is homo, quo de agitur, non est ex his rebus, de quibus int
 Gaius libro 26 ad edictum provinciale
 
 Hoc interdictum inquilino etiam de his rebus, quae non ipsius sint, sed forte commodatae ei vel locatae vel apud eum depositae sunt, utile esse non dubitatur.
-
 
 * 43.33.0. De Salviano interdicto.
 

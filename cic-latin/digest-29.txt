@@ -1,15 +1,6 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber vicesimus nonus
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
-* TITLES
+* LIBER XXIX
 + 29.1.0. De testamento militis.
 + 29.2.0. De adquirenda vel omittenda hereditate.
 + 29.3.0. Testamenta quemadmodum aperiuntur inspiciantur et describantur.
@@ -369,7 +360,6 @@ Filius familias equestri militia exornatus et in comitatu principum retentus cin
 Ulpianus libro 45 ad edictum
 
 Rescripta principum ostendunt omnes omnino, qui eius sunt gradus, ut iure militari testari non possint, si in hostico deprehendantur et illic decedant, quomodo velint et quomodo possint, testari, sive praeses sit provinciae sive quis alius, qui iure militari testari non potest.
-
 
 * 29.2.0. De adquirenda vel omittenda hereditate.
 
@@ -1148,7 +1138,6 @@ Pomponius libro primo senatus consultorum
 
 Aristo in decretis Frontianis ita refert: cum duae filiae patri necessariae heredes exstitissent, altera se paterna abstinuerat hereditate, altera bona paterna vindicare totumque onus suscipere parata erat. Sanctum cassium praetorem causa cognita actiones hereditarias utiles daturum recte pollicitum ei, quae ad hereditatem patris accesserat denegaturumque ei quae se abstinuerat.
 
-
 * 29.3.0. Testamenta quemadmodum aperiuntur inspiciantur et describantur.
 
 
@@ -1249,7 +1238,6 @@ Sicut codicilli pars intelleguntur testamenti, ita secundae tabulae principalium
 Ulpianus libro 13 ad legem Iuliam et Papiam
 
 Si quis fecerit testamentum et exemplum eius, exemplo quidem aperto nondum apertum est testamentum: quod si authenticum patefactum est totum, apertum.
-
 
 * 29.4.0. Si quis omissa causa testamenti ab intestato vel alio modo possideat hereditatem.
 
@@ -1509,7 +1497,6 @@ Qui omissa causa testamenti ab intestato possidet hereditatem, servos ad liberta
 Hermogenianus libro tertio iuris epitomarum
 
 Qui omissa causa testamenti pro emptore vel pro dote vel pro donato sive alio quolibet titulo, exceptis pro herede et pro possessore, possideat hereditatem, a legatariis et fideicommissariis non convenitur.
-
 
 * 29.5.0. De senatus consulto Silaniano et Claudiano: quorum testamenta ne aperiantur.
 
@@ -1844,7 +1831,6 @@ Callistratus libro primo de iure fisci
 
 Si de pluribus heredibus quibusdam invitis aut ignorantibus apertum erit testamentum, non amittunt portiones suas qui culpa carent.
 
-
 * 29.6.0. Si quis aliquem testari prohibuerit vel coegerit.
 
 
@@ -1873,7 +1859,6 @@ pr. Si quis dolo malo fecerit, ut testes non veniant, et per hoc deficiatur facu
 Papinianus libro 15 responsorum
 
 Virum, qui non per vim nec dolum, quo minus uxor, contra eum mutata voluntate, codicillos faceret, intercesserat, sed ut fieri adsolet, offensam aegrae mulieris maritali sermone placaverat, in crimen non incidisse respondi, nec ei quod testamento fuerat datum auferendum.
-
 
 * 29.7.0. De iure codicillorum.
 
