@@ -11,10 +11,10 @@ liber nonus
 
 
 * TITLES
-** 9.1.0. Si quadrupes pauperiem fecisse dicatur.
-** 9.2.0. Ad legem Aquiliam.
-** 9.3.0. De his, qui effuderint vel deiecerint.
-** 9.4.0. De noxalibus actionibus.
++ 9.1.0. Si quadrupes pauperiem fecisse dicatur.
++ 9.2.0. Ad legem Aquiliam.
++ 9.3.0. De his, qui effuderint vel deiecerint.
++ 9.4.0. De noxalibus actionibus.
 
 
 
@@ -86,7 +86,6 @@ Haec actio utilis competit et si non quadrupes, sed aliud animal pauperiem fecit
 Alfenus libro secundo digestorum
 
 Agaso cum in tabernam equum deduceret, mulam equus olfecit, mula calcem reiecit et crus agasoni fregit: consulebatur, possetne cum domino mulae agi, quod ea pauperiem fecisset. Respondi posse.
-
 
 * 9.2.0. Ad legem Aquiliam.
 
@@ -665,7 +664,6 @@ Iavolenus libro sexto ex posterioribus Labeonis
 
 Equum tibi commodavi: in eo tu cum equitares et una complures equitarent, unus ex his irruit in equum teque deiecit et eo casu crura equi fracta sunt. Labeo negat tecum ullam actionem esse, sed si equitis culpa factum esset, cum equite: sane non cum equi domino agi posse. Verum puto.
 
-
 * 9.3.0. De his, qui effuderint vel deiecerint.
 
 
@@ -762,7 +760,6 @@ pr. Hoc edictum non tantum ad civitates et vicos, sed et ad vias, per quas volgo
 Gaius libro sexto ad edictum provinciale
 
 Cum liberi hominis corpus ex eo, quod deiectum effusumve quid erit, laesum fuerit, iudex computat mercedes medicis praestitas ceteraque impendia, quae in curatione facta sunt, praeterea operarum, quibus caruit aut cariturus est ob id, quod inutilis factus est. Cicatricium autem aut deformitatis nulla fit aestimatio, quia liberum corpus nullam recipit aestimationem.
-
 
 * 9.4.0. De noxalibus actionibus.
 

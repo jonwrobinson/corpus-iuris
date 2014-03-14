@@ -1,0 +1,32 @@
+# -*- mode: org -*-
+#+startup: showall
+
+* Subject Outline of the Decretum
+
++ Part 1.
+  D. 1--20    Law
+  D. 21--101  Clergy
+
++ Part 2.
+  C. 1        Simony
+  C. 2--6     Procedure
+  C. 7--11    Bishops and Clerics
+  C. 12--14   Ecclesiastical Property
+  C. 15       Procedure
+  C. 16--20   Monks and Monasteries
+  C. 21       Clerics
+  C. 22       Perjury
+  C. 23       Just War
+  C. 24       Heresy
+  C. 25       Ecclesiastical Privileges
+  C. 26       Sorcery
+  C. 27--36   Marriage
+      NB: C. 33 q. 3 ==  Treatise on Penance
+                         De poenitentia (with 7 distinctions)
+
++ Part 3.
+  D. 1        Consecration of Churches
+  D. 2        Mass
+  D. 3        Feast and Fasts
+  D. 4        Baptism
+  D. 5        Confirmation, Fasting, Rules for Religious
