@@ -128,7 +128,7 @@
 + 11.7. De religiosis et sumptibus funerum et ut funus ducere liceat
 + 11.8. De mortuo inferendo et sepulchro aedificando
 
-** Liber XII
+** Liber XII      [Veteris pars secunda]
 
 + 12.1. De rebus creditis si certum petetur et de condictione
 + 12.2. De iureiurando sive voluntario sive necessario sive iudiciali
@@ -230,7 +230,7 @@
 + 24.1. De donationibus inter virum et uxorem
 + 24.2. De divortiis et repudiis
 
-** INFORTIATUM [Dig. 24.3]
+** INFORTIATUM    [Dig. 24.3 [pars prima]]
 
 + 24.3. Soluto matrimonio dos quemadmodum petatur
 
@@ -291,7 +291,7 @@
 + 29.6. Si quis aliquem testari prohibuerit vel coegerit
 + 29.7. De iure codicillorum
 
-** Liber XXX
+** Liber XXX      [Infortiati pars secunda]
 
 + 30. De legatis et fideicommissis
 
@@ -379,7 +379,7 @@
 + 38.16. De suis et legitimis heredibus
 + 38.17. Ad senatus consultum Tertullianum et Orphitianum
 
-** DIGESTUM NOVUM [Dig. 39]
+** DIGESTUM NOVUM [Dig. 39; [pars prima]]
 ** Liber XXXIX
 
 + 39.1. De operis novi nuntiatione
@@ -478,7 +478,7 @@
 + 44.6. De litigiosis
 + 44.7. De obligationibus et actionibus
 
-** Liber XLV
+** Liber XLV      [Novi pars secunda]
 
 + 45.1. De verborum obligationibus
 + 45.2. De duobus reis constituendis

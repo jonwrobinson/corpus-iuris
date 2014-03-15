@@ -1,10 +1,9 @@
 # -*- mode: org -*-
 
-BOOK V.
+* BOOK V.
 
 
-TITLE I.
-CONCERNING BETROTHALS, BETROTHAL PLEDGES, AND MARRIAGE BROKERS.
+* TITLE I. CONCERNING BETROTHALS, BETROTHAL PLEDGES, AND MARRIAGE BROKERS.
 
 1. The Emperors Diocletian and Maximian, and the Csesars, to Annonaria.
 She who has already been betrothed to one man is not forbidden to repudiate her
@@ -93,7 +92,7 @@ should exist.
 Given on the Kalendsof July, during the Consulate of Martian and Zeno, 469.
 
 
-TITLE II.
+* TITLE II.
 WHERE THE GOVERNOR OF A PROVINCE OR ANY OP His SUBORDINATES GIVE BETROTHAL
 PLEDGES.
 
@@ -119,7 +118,7 @@ Consulate of Gratian, Consul for the fifth time, and Theodosius, 280.
 
 
 
-TITLE III.
+* TITLE III.
 CONCERNING ANTENUPTIAL DONATIONS, OR THOSE GIVEN ON ACCOUNT OF MARRIAGE AND
 BETROTHALS.
 1. The Emperors Severus and Antoninus to Metrodorus.It makes a great deal of
@@ -399,7 +398,7 @@ The same rule also applies to the woman.
 
 
 
-TITLE IV. CONCERNING MARRIAGE.
+* TITLE IV. CONCERNING MARRIAGE.
 1. The Emperors Severus and Antoninus to Porcius.
 When a question arises with reference to the marriage of a young girl, and the
 guardian, the mother, and the relatives cannot agree as to the selection of a
@@ -757,7 +756,7 @@ one law.
 
 
 
-TITLE V.
+* TITLE V.
 CONCERNING MARRIAGES WHICH ARE INCESTUOUS AND VOID.
 
 1. The Emperor Alexander to Amphigonus.
@@ -900,7 +899,7 @@ be confirmed.
 
 
 
-TITLE VI.
+* TITLE VI.
 CONCERNING THE PROHIBITION OP MARRIAGE BETWEEN A FEMALE WARD AND HER
 GUARDIAN OR CURATOR, OR HIS SON.
 
@@ -957,7 +956,7 @@ promised on account of them, they may not be subjected to injury or annoyance.
 
 
 
-TITLE VII.
+* TITLE VII.
 WHERE ANYONE CLOTHED WITH POWER, OR ANY OF His SUBORDINATES, ATTEMPTS
 TO MARRY A FEMALE SUBJECT TO HIS JURISDICTION.
 
@@ -995,7 +994,7 @@ Consulate of Gratian, Consul for the second time, and Theodosius, 380.
 
 
 
-TITLE VIII.
+* TITLE VIII.
 CONCERNING MARRIAGE DEMANDED IN ACCORDANCE WITH THE TERMS OP A RESCRIPT.
 
 1. The Emperors Honorius and Theodosius to Theodore, Prsetorian Prefect.
@@ -1028,7 +1027,7 @@ be of no advantage to him.
 
 
 
-TITLE IX. CONCERNING SECOND MARRIAGES.
+* TITLE IX. CONCERNING SECOND MARRIAGES.
 1. The Emperors Gratian, Valentinian, and Theodosius to Eutro-pius, Prsetorian
 Prefect.
 Any woman, who hastens to contract a second marriage without having properly
@@ -1450,7 +1449,7 @@ Consulate of Decius, Consul for the fifth time, 486.
 
 
 
-TITLE X.
+* TITLE X.
 WHERE A WOMAN, TO WHOM HER HUSBAND LEFT AN USUFRUCT, MARRIES A SECOND TIME.
 1. The Emperors Valentinian, Theodosius, and Arcadius to Tatian, Prsetorian
 Prefect.
@@ -1479,18 +1478,20 @@ donation, which is authorized by law, cannot be revoked by a testator.
 
 
 
-TITLE XI.
-CONCERNING THE PROMISE OP A DOWRY, AND ONE MADE WITHOUT CONSIDERATION.
+* TITLE XI. CONCERNING THE PROMISE OP A DOWRY, AND ONE MADE WITHOUT CONSIDERATION.
+
 1. The Emperor Alexander to Claudius.
 You are wrong in your opinion that you are entitled to an action to recover a
 dowry which has been promised, but not delivered to you, as no specific
 property or sum was agreed upon, and it was only stated in the nuptial contract
 that the woman who was married promised to give a dowry.
+
 2. The Emperor Gordian to Herodotus, Prsetorian Prefect.
 If your father-in-law contracted to pay interest on the dowry which he promised
 you, a competent judge will order you to be given what you prove is due to you.
 Given on the twelfth of the Kalendsof September, during the Consulate of Pius
 and Pontianus, 239.
+
 3. The Same to Claudius.
 If the person whom you mentioned promised legally to give you a dowry for the
 woman who marries you, without mentioning the amount, but stating that it would
@@ -1500,21 +1501,25 @@ obtain by a judgment what was promised you, for it is considered that a sum
 which would be approved by a good citizen was included in the stipulation.
 Given on the Kalendsof January, during the Consulate of Sabinus and Venustus,
 241.
+
 4. The Emperors Diocletian and Maximian, and the Cassars, to Rufus.
 If you stated in the dotal contract with the consent of the person who gave the
 dowry that more was given than you received, you are informed that you can, in
 accordance with the agreement, recover whatever is lacking.
 Given on the Nonesof April, during the above-mentioned Consulate.
+
 5. The Same Emperors and Cassars to Desumiana.
 If your father promised a dowry to your husband who entered into the
 stipulation, an action to recover it will not lie in your favor, but in favor
 of your husband, against the heirs of his father-in-law.
+
 6. The Emperors Theodosius and Valentinian to Hierius, Prsetorian Prefect.
 We decree that any words whatsoever will be sufficient for the exaction of a
 dowry after it has once been agreed to be given, whether they have been reduced
 to writing or not; and even if the stipulation did not follow the promise of
 the dotal property.
 Given on the Kalendsof March, during the Consulate of Felix and Taurus, 428.
+
 7. The Emperor Justinian to John, Prsetorian Prefect.
 If a father should simply give a dowry to his daughter, or should make an ante-
 nuptial donation for his son, the latter, whether he is under the control of
@@ -1565,7 +1570,8 @@ Orestes, 530.
 
 
 
-TITLE XII. CONCERNING THE LAW OF DOWRIES.
+* TITLE XII. CONCERNING THE LAW OF DOWRIES.
+
 1. The Emperors Severus and Antoninus to Nicephorus.
 If property given as dowry is evicted, and an agreement or a promise has been
 interposed, the son-in-law can bring a personal action, or one based on the
@@ -1578,6 +1584,7 @@ responsible existed, an action on the ground of fraud can be brought against
 you, provided no fraud was committed by the woman; for then he will be entitled
 to an action in factumto avoid one involving infamy being granted against her.
 Given on the Kalendsof August, during the Consulate of Mutian and Favian, 202.
+
 2. The Emperor Antoninus to Alluvias.
 Where a stipulation was made with reference to the return of a part of the
 dowry given, and the condition upon which this depended is fulfilled, he in
@@ -1594,6 +1601,7 @@ legacy instead of her hereditary share of the estate, and intended that her
 husband should be released from the necessity of making restitution.
 Given on the third of the Kalendsof August, during the Consulate of Antoninus,
 Consul for the fourth time, and Balbinus, 214.
+
 3. The Emperor Alexander to Euphemius.
 Although the father has a right to demand restoration of the dowry when his
 daughter dies during marriage, still, where the husband has by will legally
@@ -1602,11 +1610,13 @@ father cannot revoke it after it has once been granted, as the husband has free
 power during marriage to manumit dotal slaves inter vivos.
 Given on the sixth of the Idesof December, during the Consulate of Antoninus
 and Alexander, 223.
+
 4. The Same to Valens.
 It is not prohibited by any laws for a woman to give all the property to her
 husband by way of dowry.
 Given on the fourth of the Idesof July, during the Consulate of Maximus, Consul
 for the second time, and JElianus, 224.
+
 5. The Same to Statia.
 Whenever the property given as dowry is appraised, the husband obtains the
 ownership of the same, but he becomes, as it were, the debtor for its value.
@@ -1616,6 +1626,7 @@ if he tenders you the
 money.
 Given on the third of the Idesof April, during the Consulate of Alexander,
 Consul for the second time, and Marcellus, 227.
+
 6. The Emperor Maximian to Sulpitius.
 If you have become the heir of your grandmother, she can transmit to you the
 right of action based on the agreement for the recovery of the property which
@@ -1627,6 +1638,7 @@ change by a simple agreement the right .of action founded on the profectitial
 dowry.
 Given on the third of the Idesof February, during the Consulate of Maximian and
 Africanus, 237.
+
 7. The Emperor Gordian to Marcus.
 Where a dowry is given by your father-in-law to you for the benefit of your
 wife, and a stipulation is not added to it at the time when it is given, or
@@ -1636,6 +1648,7 @@ alone institutes proceedings with reference to the dowry, it is forbidden by
 law for the agreement to operate to his disadvantage.
 Given on the Kalendsof October, during the Consulate of Pius and Pontianus,
 239.
+
 8. The Same to Agrippina.
 Even if the mother does not actually stipulate that the dowry shall be returned
 to her, but that what she gave by way of dowry shall follow her, or belong to
@@ -1646,11 +1659,13 @@ even property given as an addition to the dowry can be recovered by the same
 action.
 Given on the Kalendsof February, during the Consulate of Sabinus and Venustus,
 241.
+
 9. The Emperor Decius, and the Csesar, to Urbicana.
 Your claim for your dowry is preferable to that of the State to which your
 husband subsequently became indebted.
 Given on the sixth of the Idesof June, during the Consulate of Decius and
 Gratus, 251.
+
 10. The Emperors Diocletian and Maximian to Ingenuus.
 As you allege that the dowry which you received was appraised, it is apparent,
 according to the Common Law, that under the agreement inserted in the dotal
@@ -1660,12 +1675,14 @@ composed will become deteriorated at your risk; or that its increase will enure
 to your benefit?
 Given on the twelfth of the Kalendsof May, during the Consulate of Maximus,
 Consul for the second time, and Acquilinus, 286.
+
 11. The Same Emperors and Csesars to Severa.
 There is no doubt that your husband will have a right of action with reference
 to the property which you allege was given by way of dowry and subsequently
 removed.
 Given at Heraclea, on the tenth of the Kalendsof May, during the above-
 mentioned Consulate.
+
 12. The Same Emperors and Csesars to Rufina.
 The land purchased by your husband with money forming part of the dowry is not
 acquired by you, for a husband cannot acquire for his wife a right of action on
@@ -1675,6 +1692,7 @@ have not made a compromise, but have obtained the larger part of the dowry, he
 will provide for the return of the remainder.
 Given at Heraclea, on the eighth of the Kalends ofMay, during the above-
 mentioned Consulate.
+
 13. The Same Emperors and Csesars to Catula and Statia.If any property
 belonging to you has been given by your mother to your stepfather by way of
 dowry, and he is aware that it is yours,
@@ -1682,6 +1700,7 @@ you are informed that such a gift has no validity in law, when no promise or
 stipulation was made.
 Given at Heraclea, on the day before the Kalendsof May, under the above-
 mentioned Consulate.
+
 14. The Same Emperors and Csesars to Basilissa.
 A mother cannot be compelled to give a dowry for her daughter, unless some good
 and sufficient cause exists for doing so, or she is expressly required to do so
@@ -1689,6 +1708,7 @@ by law, nor has a father any power to bestow a dowry out of the property of his
 wife against her consent.
 Given at Philippopolis, on the Nonesof November, during the above-mentioned
 Consulate.
+
 15. The Same Emperors and Csesars to Ulpian.
 Where it is proved by other evidence that a dowry was given without the
 execution of dotal instruments, it is established that, after a divorce has
@@ -1697,16 +1717,19 @@ accordance with good faith, for if the documents are lost, any other legal
 proofs which may be introduced will undoubtedly not be considered void.
 Given on the eighth of the Kalendsof August, during the abovementioned
 Consulate.
+
 16. The Same Emperors and Csesars to Mmilius.
 Your sister having succeeded to your father, who died intestate, is not
 prohibited from giving, as her dowry, her undivided share of a tract of land,
 before a division of the estate has been made.
 Given on the Nonesof July, during the Consulate of the Csesars.
+
 17. The Same Emperors and Csesars to Sabinus.
 Your mother-in-law, by selling the usufruct which he had reserved for herself
 out of the property that she gave you by way of dowry, can not deprive you of
 the same.
 Given on the Nonesof July, during the Consulate of the Csesars.
+
 18. The Same to Menestratus. _If your mother-in-law conveyed a tract of land to
 your wife with the reservation of the usufruct, and your wife gave the said
 property to you by way of dowry, and then your mother-in-law transferred to you
@@ -1718,6 +1741,7 @@ annually, and the latter should die, the usufruct will by no means be
 extinguished.
 Given on the fourteenth of the Kalendsof January, during the Consulate of the
 Csesars.
+
 19. The Same Emperors and Csesars to Achilles.As you state that your father-in-
 law, when giving you a dowry for his daughter, made an agreement to the effect
 that if, after his own
@@ -1735,6 +1759,7 @@ on the ground that, after the deduction of the Falcidian portion, she has
 received all that was agreed upon, according to the intention of the deceased.
 Given on the thirteenth of the Kalendsof February, during the Consulate of the
 Caesars.
+
 20. The Same Emperors and Cassars to Tiberia.
 It is a perfectly clear rule of law that the husband, on account of the burdens
 imposed by marriage, is entitled to the enjoyment of the income of the entire
@@ -1742,6 +1767,7 @@ dowry which he has obtained; and that if he should permit his wife to have it,
 as a donation, he can bring suit for the amount to which she has been
 pecuniarily benefited for this reason.
 Given on the fifth of the Kalendsof May, during the Consulate of the Caesars.
+
 21. The Same Emperors and Csesars to Geminius.
 If an agreement has been made between husband and wife that, if their marriage
 should be dissolved in any way within the term of five years, the property
@@ -1753,11 +1779,13 @@ only mentioned to prevent the property from being diminished or destroyed, and
 it should not be demanded at any other valuation than that at which it was
 estimated.
 Given at Agrippina on the Nonesof August, during the Consulate of the Csesars.
+
 22. The Same Emperors and Csesars to Libyana.
 Ason-in-law cannot alienate property given by his father-in-law as dowry for
 his daughter.
 Given on the fifth of the Kalendsof December, during the Consulate of the same
 Cassars.
+
 23. The Same Emperors and Csesars to Diogenes.If your wife should sell land
 forming part of her dowry, it makes no difference whether she did so
 voluntarily or ratified the contract
@@ -1765,6 +1793,7 @@ after it was made; for she cannot deprive you of the ownership of the same
 against your consent.
 Given on the fifth of the Kalendsof October, during the Consulate
 of the Caesars.
+
 24. The Same Emperors and Csesars to Aurelius and Lysimachus.
 If you gave a dowry to the husband of your freedwoman, and did not provide by
 an agreement or stipulation that it should be immediately returned to you, in
@@ -1774,6 +1803,7 @@ the husband, even if you can show that she has been guilty of ingratitude
 towards you.
 Given at Antioch, on the sixth of the Kalendsof November, during the Consulate
 of the Csesars.
+
 25. The Same Emperors and Csesars to Eutychianus.
 Where a woman stipulates that the dowry shall be given her by her husband in
 order that she may leave it by will, as, in this instance, the thought of death
@@ -1783,6 +1813,7 @@ for the stipulation to take
 effect.
 Given at Antioch, on the third of the Idesof November, during
 the Consulate of the Csesars.
+
 26. The Same Emperors and Cassars to Demosthenes.
 If your father at the time he gave a dowry to his son-in-law stipulated for his
 daughter that it should be transferred to you, who were emancipated, he will
@@ -1791,12 +1822,14 @@ does not forbid you to receive the
 dowry.
 Given on the sixth of the Kalendsof January, during the Consulate of the same
 Csesars.
+
 27. The Same Emperors and Csesars to Pompeianus.
 Although the dowry may lawfully remain in the hands of the husband, the heirs
 of the estate of the wife, and not the former husband, are liable for public
 contributions due from the estate.
 Given on the sixth of the Kalendsof January, during the Consulate of the
 Csesars.
+
 28. The Emperor Zeno to Mlianus, Prsstorian Prefect.
 A woman, who is a minor, can legally give to, or demand from her husband a
 dowry, with the general or special consent of her curator ; although he
@@ -1807,6 +1840,7 @@ This rule shall also be observed where a minor has made an antenuptial donation
 with the consent of his curator, as previously stated.
 Given on the Kalendsof January, during the Consulate of Basilius, Consul for
 the second time, and Armatius, 476.
+
 29. The Emperor Justinian to Menna, Praetorian Prefect.
 Where the husband has been reduced to poverty during the marriage, and his wife
 desires to provide for herself, and to hold the property encumbered to her as
@@ -1834,9 +1868,12 @@ shall enjoy their rights so far as any dowry or ante-nuptial donation given in
 accordance with the terms of the dotal agreement is concerned.
 Given on the third of the Idesof December, during the Consulate of Our Lord
 Justinian, Consul for the second time, 528.
+
 Extract from Novel 97, Chapter VI. Latin Text.
+
 In a case of this kind, a donation made in consideration of matrimony can be
 recovered during the continuance of the marriage.
+
 30. The Same to Demosthenes, Prsetorian Prefect.
 With reference to dotal property, whether it is movable or immovable, or
 capable of moving itself (if it is still in existence) and whether it has been
@@ -1850,8 +1887,7 @@ which presumes that it has become a part of the estate of the husband.
 Therefore, We desire that she shall be entitled to the action in remrelating to
 property of this kind, as being her own, and can, in preference to all other
 persons, bring the hypothecary action, so that whether the property of the wife
-is considered to be hers in ac-
-cordance with natural law, or through legal subtlety is held to have become
+is considered to be hers in accordance with natural law, or through legal subtlety is held to have become
 part of the estate of the husband, her interest shall be fully protected by
 either of these two actions, that is to say, the one in rem,or the hypothecary
 action.
@@ -1870,6 +1906,7 @@ reference.
 Read seven times in the New Consistory of the Palace of Justinian.
 Given on the third of the Kalends of November,during the fifth Consulate of
 Decius, 539.
+
 31. The Same to Julian, Prsetorian Prefect.
 When persons giving dowries for the benefit of women, whether they are their
 mothers or other blood-relatives, or strangers, the husbands can receive them
@@ -1945,10 +1982,8 @@ and Orestes, 530.
 
 
 
-TITLE XIII.
-CONCERNING THE CONSOLIDATION OF THE ACTION TO RECOVER THE PROPERTY OF THE WIFE
-AND THAT BASED ON A STIPULATION, AND CONCERNING THE NATURE OF THE PROPERTY
-GIVEN AS DOWRY.
+* TITLE XIII. CONCERNING THE CONSOLIDATION OF THE ACTION TO RECOVER THE PROPERTY OF THE WIFE AND THAT BASED ON A STIPULATION, AND CONCERNING THE NATURE OF THE PROPERTY GIVEN AS DOWRY.
+
 1. The Emperor Justinian to the People of the City of Constantinople, and to
 Those of all the Provinces.
 We now come to a matter of no small importance at the present time, and which
@@ -2218,7 +2253,7 @@ Orestes, 530.
 
 
 
-TITLE XIV.
+* TITLE XIV.
 CONCERNING AGREEMENTS MADE WITH REFERENCE TO DOWRIES AND ANTE-NUPTIAL
 DONATIONS, AS WELL AS SUCH AS RELATE TO THE PRIVATE PROPERTY OP THE
 WIFE.
@@ -2376,7 +2411,7 @@ Orestes, 530.
 
 
 
-TITLE XV. CONCERNING DOWRY PROVIDED FOR BUT NOT PAID.
+* TITLE XV. CONCERNING DOWRY PROVIDED FOR BUT NOT PAID.
 1. The Divine Severus and Antoninus to Dionysia.
 Payment, and not the contents of the dotal instrument, constitutes a dowry;
 therefore you are aware that you cannot be permitted to demand your dowry
@@ -2417,7 +2452,7 @@ all, if minority is involved in the case.
 
 
 
-TITLE XVI.
+* TITLE XVI.
 CONCERNING DONATIONS MADE BETWEEN HUSBAND AND WIFE, AND BY PARENTS TO THEIR
 CHILDREN, AND CONCERNING RATIFICATION.
 1." The Emperor Antoninus to Triphena.
@@ -2689,7 +2724,7 @@ Given on the Kalendsof December, under the Consulate of Lam-padius and Orestes,
 
 
 
-TITLE XVII.
+* TITLE XVII.
 CONCERNING REPUDIATION AND THE ABOLITION OP THE ACTION DE MoRiBus.1
 1. The Emperor Alexander to Abutiniana.
 Marriage is not dissolved by deportation or by the interdiction of water and
@@ -3000,7 +3035,7 @@ Our Lord, the Emperor Justinian, 528.
 
 
 
-TITLE XVIII.
+* TITLE XVIII.
 IN WHAT WAY THE DOWRY CAN BE RECOVERED WHEN THE MARRIAGE HAS BEEN DISSOLVED.
 1. The Emperors Severus and Antoninus to Germilla.
 After the dowry has been estimated, and an agreement or stipulation has been
@@ -3098,7 +3133,7 @@ Consul for the eighth time, and Theodosius, Consul for the third time, 409.
 
 
 
-TITLE XIX. WHERE A DOWRY HAS BEEN PAID DURING MARRIAGE.
+* TITLE XIX. WHERE A DOWRY HAS BEEN PAID DURING MARRIAGE.
 1. The Emperors Honorius and Theodosius to Marinianus, Prse-torian Prefect.
 Where the dowry was illegally given by the husband to the wife, during marriage
 (which cannot stand, because it is considered a donation), and the wife dies,
@@ -3111,7 +3146,7 @@ Consul for the eighth time, and Theodosius, Consul for the third time, 409.
 
 
 
-TITLE XX.
+* TITLE XX.
 NEITHER TRUSTEES NOR MANDATORS FOR DOWRIES SHALL BE APPOINTED.
 1. The Emperors Gratian, Valentinian, and Theodosius to Cyne-gius, Praetorian
 Prefect.
@@ -3134,7 +3169,7 @@ Lampadius and Orestes, 530.
 
 
 
-TITLE XXI. CONCERNING PROPERTY SURREPTITIOUSLY REMOVED.
+* TITLE XXI. CONCERNING PROPERTY SURREPTITIOUSLY REMOVED.
 1. The Emperor Alexander to Polydeuca.
 It is with justice that you assert the right of set-off, for it is only
 equitable that you should not be obliged to pay what it is established that you
@@ -3165,7 +3200,7 @@ mentioned Emperors.
 
 
 
-TITLE XXII.
+* TITLE XXII.
 THE ESTATE OF A HUSBAND CANNOT BE GIVEN TO A WOMAN INSTEAD OF HER DOWRY.
 1. The Emperors Diocletian and Maximian to Apollinaria.It is prohibited by law
 for the estate of a deceased husband to be given to his widow instead of dowry.
@@ -3178,7 +3213,7 @@ mentioned Emperors.
 
 
 
-TITLE XXIII. CONCERNING DOTAL LANDS.
+* TITLE XXIII. CONCERNING DOTAL LANDS.
 1. The Emperor Severus and Antoninus to Didia.
 Where lands which have been appraised are given by way of dowry, and the choice
 of either the land or its value is reserved for the woman, the Lex Juliawill,
@@ -3195,7 +3230,7 @@ Consul for the second time, and Pompeianus, 242.
 
 
 
-TITLE XXIV.
+* TITLE XXIV.
 WITH WHOM CHILDREN SHOULD RESIDE OR BE BROUGHT UP, WHEN A DIVORCE HAS TAKEN
 PLACE.
 1. The Emperors Diocletian and Maximian, and the Csesars, to Celestina,
@@ -3221,7 +3256,7 @@ to all ascending and descending relatives of both sexes.
 
 
 
-TITLE XXV.
+* TITLE XXV.
 CONCERNING THE SUPPORT OP CHILDREN AND RELATIVES IN THE ASCENDING LINE.
 1. The Emperor Antoninus Pius to Bassus.
 It is but just that children should relieve the necessities of their relatives
@@ -3249,7 +3284,7 @@ and Rufinus, 198.
 
 
 
-TITLE XXVI. CONCERNING CONCUBINES.
+* TITLE XXVI. CONCERNING CONCUBINES.
 1. The Emperor Constantine to the People.
 Permission is given to no one to have a concubine in his house during marriage.
 Given on the eighteenth of the Kalendsof July, during the Consulate of the
@@ -3257,7 +3292,7 @@ Constantines, Father and Son, 321.
 
 
 
-TITLE XXVII.
+* TITLE XXVII.
 CONCERNING NATURAL CHILDREN AND THEIR MOTHERS, AND FOR WHAT REASONS THEY BECOME
 LEGITIMATE.
 1. The Emperor Constantine to Gregorius.
@@ -3704,7 +3739,7 @@ and Orestes, 530.
 
 
 
-TITLE XXVIII. CONCERNING TESTAMENTARY GUARDIANSHIP.
+* TITLE XXVIII. CONCERNING TESTAMENTARY GUARDIANSHIP.
 1. The Emperor Severus and Antoninus to Sperata.
 The person whom you state was appointed guardian for you by the will of your
 patroness is not liable to you in any action, if he did not interfere in the
@@ -3769,7 +3804,7 @@ Theodosius, Consul for the fourteenth time, and Maximus, 439.
 
 
 
-TITLE XXIX. CONCERNING THE CONFIRMATION OF A GUARDIAN.
+* TITLE XXIX. CONCERNING THE CONFIRMATION OF A GUARDIAN.
 1. The Emperor Alexander to Prisons.
 Guardians appointed by the will of the mother have no reason to be excused,
 unless, after proper examination, they are found to have also been appointed by
@@ -3806,7 +3841,7 @@ Consulate of Lampadius and Orestes, 530.
 
 
 
-TITLE XXX. CONCERNING LEGAL GUARDIANSHIPS.
+* TITLE XXX. CONCERNING LEGAL GUARDIANSHIPS.
 1. The Emperors Diocletian and Maximian to Firmina.
 The guardianship of males is not granted to maternal uncles by the Laws of the
 Twelve Tables, but this right is accorded to paternal uncles if they are not
@@ -3872,7 +3907,7 @@ Decius, 539.
 
 
 
-TITLE XXXI.
+* TITLE XXXI.
 CONCERNING THOSE WHO DEMAND GUARDIANS OR CURATORS.
 1. The Emperor Antoninus to Chrysantha.
 Notify the young man against whom you wish to appear to demand that curators be
@@ -3959,7 +3994,7 @@ Zeno, Consul for the second time, 479.
 
 
 
-TITLE XXXII.
+* TITLE XXXII.
 WHERE A PETITION MUST BE MADE FOE THE APPOINTMENT OF GUARDIANS OR CURATORS.
 1. The Emperor Antoninus to Aristobula.
 The magistrates of the town from which your children derive their origin
@@ -3975,7 +4010,7 @@ second time, and Cerealis, 216.
 
 
 
-TITLE XXXIII.
+* TITLE XXXIII.
 CONCERNING THE GUARDIANS AND CURATORS OF ILLUSTRIOUS OR DISTINGUISHED PERSONS.
 1. The Emperors Valentinian, Theodosius, and Arcadius, to Proculus, Prefect of
 the City.
@@ -4016,7 +4051,7 @@ Theodosius, Consul for the third time, and Abundantius, 393.
 
 
 
-TITLE XXXIV.
+* TITLE XXXIV.
 WHO CAN APPOINT GUARDIANS AND CURATORS AND WHO CANNOT BE APPOINTED.
 1. The Emperor Alexander to Amphibulus.
 As you are at such an age that it is clear that your affairs should be
@@ -4134,7 +4169,7 @@ Theodosius, Consul for the third time, 409.
 
 
 
-TITLE XXXV.
+* TITLE XXXV.
 WHEN A WOMAN CAN DISCHARGE THE DUTIES OF GUARDIANSHIP.
 1. The Emperor Alexander to Otacilia.
 It is the privilege of men to administer the office of guardian, as duties of
@@ -4211,7 +4246,7 @@ fifth Consulate of Lampadius and Orestes, 530.
 
 
 
-TITLE XXXVI.
+* TITLE XXXVI.
 IN CASES WHERE A MINOR ALREADY HAS A GUARDIAN OR CURATOR, ANOTHER GUARDIAN OR
 CURATOR CAN BE
 APPOINTED.
@@ -4261,7 +4296,7 @@ Given on the third of the Kalendsof April, during the Consulate of the Csesars.
 
 
 
-TITLE XXXVII.
+* TITLE XXXVII.
 CONCERNING THE ADMINISTRATION OF GUARDIANS AND CURATORS, AND OF MONEY BELONGING
 TO THE WARDS WHICH HAS EITHER BEEN LENT AT INTEREST, OR
 DEPOSITED.
@@ -4626,7 +4661,7 @@ fifth Consulate of Lampadius and Orestes, 531.
 
 
 
-TITLE XXXVIII.
+* TITLE XXXVIII.
 CONCERNING THE LIABILITIES OF GUARDIANS AND CURATORS.
 1. The Emperor Alexander to Quantus.
 Freedmen who are appointed guardians on account of their knowledge of the
@@ -4678,7 +4713,7 @@ Csesars.
 
 
 
-TITLE XXXXXXIIXX..
+* TITLE XXXXXXIIXX..
 WHEN MINORS CAN SUE OB BE SUED ON ACCOUNT OP THE ACTS OF THEIR GUARDIANS OR
 CURATORS.
 1. The Emperor Antoninus to Septimius.
@@ -4714,7 +4749,7 @@ Given on the Idesof December, during the Consulate of the Csesars.
 
 
 
-TITLE XL.
+* TITLE XL.
 WHERE THERE ARE SEVERAL GUARDIANS OR CURATORS,
 ALL OR ONE OF THEM CAN SUE OR BE SUED IN THE
 NAME OF THE MINOR.
@@ -4733,7 +4768,7 @@ Constantine and Licinius, 319.
 
 
 
-TITLE XLI.
+* TITLE XLI.
 NEITHER A GUARDIAN NOR A CURATOR SHALL ACT AS A COLLECTOR OF TAXES.
 1. The Emperor Antoninus to Sextus.
 A competent judge is well aware that those who are conducting the affairs
@@ -4750,7 +4785,7 @@ Antoninus, Consul for the fourth time, and Balbinus, 214.
 
 
 
-TITLE XLII.
+* TITLE XLII.
 CONCERNING THE GUARDIAN OR CURATOR WHO DOES NOT FURNISH SECURITY.
 
 1. The Emperors Valerian and Gallienus to Titus and Flavianus.
@@ -4810,7 +4845,7 @@ Constantius and Maximian, 305.
 
 
 
-TITLE XLIII. CONCERNING SUSPECTED GUARDIANS AND CURATORS.
+* TITLE XLIII. CONCERNING SUSPECTED GUARDIANS AND CURATORS.
 
 1. The Emperor Antoninus to Domitia.
 You can cause your freedman, who is the guardian of your son, to be declared
@@ -4896,7 +4931,7 @@ Given on the eighth of the Kalendsof May, during the Consulate of the Caesars.
 
 
 
-TITLE XLIV.
+* TITLE XLIV.
 CONCERNING A GUARDIAN OR CURATOR APPOINTED TO CONDUCT LITIGATION.
 1. The Emperor Antoninus to Miltiades.
 If you have any action to bring against your wards, you can bring it, provided
@@ -4945,7 +4980,7 @@ Given on the fourth of the Kalendsof May, during the Consulate of the Caesars.
 
 
 
-TITLE XLV.
+* TITLE XLV.
 CONCERNING ONE WHO TRANSACTS BUSINESS IN THE PLACE OF A GUARDIAN.
 1. The Emperors Valerian and Gallienus to Marcellus.
 Women, also, who administer the affairs of wards in the capacity of guardians,
@@ -4959,7 +4994,7 @@ Given on the Nonesof December, during the Consulate of the Caesars.
 
 
 
-TITLE XLVI. WHERE A MOTHER PROMISES INDEMNITY.
+* TITLE XLVI. WHERE A MOTHER PROMISES INDEMNITY.
 1. The Emperor Alexander to Brutia.
 The guardians who have been appointed by the magistrates upon your application,
 are at their risk, rather than that you, contrary to the condition of your sex,
@@ -4986,7 +5021,7 @@ Given on the Kalendsof December, during the Consulate of the same Emperors.
 
 
 
-TITLE XLVII.
+* TITLE XLVII.
 WHERE A GUARDIAN Is APPOINTED AGAINST THE WISHES OF THE MOTHER.
 1. The Emperors Severus and Antoninus to Tertius.
 If you prove that Fuscinius was appointed guardian of your son in opposition to
@@ -4999,7 +5034,7 @@ Lateranus and Rufinus, 198.
 
 
 
-TITLE XLVIII.
+* TITLE XLVIII.
 A GUARDIAN SHOULD ASSIST IN THE TRIAL OF A CASE OF His WARD AFTER THE LATTER
 REACHES PUBERTY.
 1. The Emperor Philip to Dexter.
@@ -5014,7 +5049,7 @@ and Titian, 246.
 
 
 
-TITLE XLIX. WHERE MINORS SHOULD BE BROUGHT UP.
+* TITLE XLIX. WHERE MINORS SHOULD BE BROUGHT UP.
 1. The Emperor Alexander to Dionysodorus.
 The bringing up of your wards should be entrusted to their mother in preference
 to all other persons, if she has not given them a stepfather. Where, however, a
@@ -5033,7 +5068,7 @@ him, and which one he is most likely to succeed as heir.
 
 
 
-TITLE L. CONCERNING THE SUPPORT TO BE FURNISHED TO A WARD.
+* TITLE L. CONCERNING THE SUPPORT TO BE FURNISHED TO A WARD.
 1. The Emperor Antoninus to FoMstinus.
 When a ward is not furnished support by his guardian, he should apply to the
 Governor of the province who will perform his duty in seeing that no delay
@@ -5066,7 +5101,7 @@ second time, and ^Elianus, 224.
 
 
 
-TITLE LI.
+* TITLE LI.
 THE DECISION OP GUARDIANSHIP. 1. The Emperor Antoninus to Leo.
 As an account of the administration of your guardianship has been demanded by
 you, it is not in conformity with the trust or with legal evidence (as you
@@ -5216,7 +5251,7 @@ Lampadius and Orestes, 530.
 
 
 
-TITLE LII.
+* TITLE LII.
 CONCERNING THE DIVISION OP GUARDIANSHIP, AND FOR WHAT PORTION OP THE SAME EACH
 GUARDIAN Is LIABLE.
 1. The Emperor Gordian to Optatus.
@@ -5260,7 +5295,7 @@ Caesars.
 
 
 
-TITLE LIII.
+* TITLE LIII.
 CONCERNING THE OATH TO BE TAKEN DURING LITIGATION.
 1. The Emperors Severus and Antoninus to Asclepius.
 When receiving a judge for the transfer of the guardianship as against the
@@ -5311,7 +5346,7 @@ of the Csesars, 294.
 
 
 
-TITLE LIV. CONCERNING THE HEIRS OF GUARDIANS OR CURATORS.
+* TITLE LIV. CONCERNING THE HEIRS OF GUARDIANS OR CURATORS.
 1. The Emperors Severus and Antoninus to Fuscianus.
 The heirs of a guardian should not be held liable for his neglect, which is not
 comparable to gross negligence, if proceedings were not instituted against him,
@@ -5346,7 +5381,7 @@ Alexander, Consul for the third time, and Dio, 230.
 
 
 
-TITLE LV. WHEN A GUARDIAN OR A CURATOR DOES NOT ACT.
+* TITLE LV. WHEN A GUARDIAN OR A CURATOR DOES NOT ACT.
 1. The Emperor Alexander to Zodicus.
 It is certain that not only those who administered the affairs of a
 guardianship, but also those who ought to have done so, and did not, will be
@@ -5370,7 +5405,7 @@ Consul for the second time, and Crispinus, 225.
 
 
 
-TITLE LVI. CONCERNING INTEREST BELONGING TO WARDS.
+* TITLE LVI. CONCERNING INTEREST BELONGING TO WARDS.
 1. The Emperor Antoninus to Crescentina.
 It was long ago settled that a gu'ardian or curator who has employed the money
 of his ward for his own benefit will be liable for legal interest on the same.
@@ -5402,7 +5437,7 @@ Csesars, 293.
 
 
 
-TITLE LVII.
+* TITLE LVII.
 CONCERNING THE SURETIES OR GUARDIANS AND CURATORS.
 1. The Emperor Alexander to Felix.
 You must choose whether you will proceed against the guardians or curators
@@ -5427,7 +5462,7 @@ Consul for the second time, and Dexter, 226.
 
 
 
-TITLE LVIII. CONCERNING THE COUNTER ACTION OP GUARDIANSHIP.
+* TITLE LVIII. CONCERNING THE COUNTER ACTION OP GUARDIANSHIP.
 1. The Emperors Severus and Antoninus to Strata.
 If you have paid a sum of money for your fellow-guardian, after judgment has
 been rendered against you, no action will lie in your favor against the ward to
@@ -5464,7 +5499,7 @@ Caesars, 294.
 .
 
 
-TITLE LIX.
+* TITLE LIX.
 CONCERNING THE AUTHORITY WHICH SHOULD BE GRANTED BY A GUARDIAN OR CURATOR.
 1. The Emperors Diocletian and Maximian, and the Csesars, to Antoniamis.
 The absence of neither the guardian nor curator will prejudice, in any way, a
@@ -5523,7 +5558,7 @@ of Lampadius and Orestes, 531.
 
 
 
-TITLE LX.
+* TITLE LX.
 WHEN GUARDIANS OR CURATORS CEASE TO DISCHARGE THE DUTIES OF THEIR OFFICE.
 1. The Emperor Antoninus to Hernula.
 When curators are added to guardians, it is perfectly clear that the duties of
@@ -5549,7 +5584,7 @@ Consulate of Decius, 529.
 
 
 
-TITLE LXI.
+* TITLE LXI.
 CONCERNING THE APPOINTMENT OP AN AGENT BY A GUARDIAN OR CURATOR.
 1. The Emperors Diocletian and Maximian, and the Csesars, to Alphocratio.
 If your children, who are their own masters, have succeeded their mother,
@@ -5560,7 +5595,7 @@ Given on the Nonesof January, during the Consulate of the Caesars, 293.
 
 
 
-TITLE LXII.
+* TITLE LXII.
 CONCERNING THE EXCUSES OF GUARDIANS AND CURATORS AND WHEN THEY MAY BE OFFERED.
 1. The Emperors Severus and Antoninus to Aviola.
 You are laboring under an erroneous idea when you think that because you are an
@@ -5753,7 +5788,7 @@ Given on the Kalendsof January, during the Consulate of John and Asclepio, 300.
 
 
 
-TITLE LXIII.
+* TITLE LXIII.
 WHERE A GUARDIAN OR CURATOR HAS BEEN EXCUSED BY MEANS OF FALSE ALLEGATIONS.
 1. The Emperor Alexander to Symmachus and Diotimus.
 If, during the absence of your relatives or of those who have volunteered to
@@ -5781,8 +5816,8 @@ designation of consulate.
 
 
 
-TITLE LXIV.
-WHERE A GUARDIAN OR CURATOR is ABSENT ON BUSINESS FOR THE STATE.
+* TITLE LXIV. WHERE A GUARDIAN OR CURATOR is ABSENT ON BUSINESS FOR THE STATE.
+
 1. The Emperor Gordian to Guttius.
 Those who have been appointed guardians or curators, and are about to be absent
 on public business, should have themselves excused for the time, in order that
@@ -5800,7 +5835,8 @@ Consul for the second time, and Pompeianus, 242.
 
 
 
-TITLE LXV. CONCERNING THE EXCUSES OF VETERANS.
+* TITLE LXV. CONCERNING THE EXCUSES OF VETERANS.
+
 1. The Emperor Antoninus to Saturninus.
 Those who have been honorably discharged after having served in the army for
 twenty years, and retain their reputations untarnished, shall enjoy the
@@ -5818,7 +5854,7 @@ Aviola, 240.
 
 
 
-TITLE LXVI.
+* TITLE LXVI.
 CONCERNING THOSE WHO ARE EXCUSED ON ACCOUNT OF THE NUMBER OF THEIR CHILDREN.
 1. The Emperors Severus and Antoninus to Herodian.
 Those who are appointed guardians or curators, and have three children at Rome,
@@ -5834,7 +5870,7 @@ fourth time, and Balbinus, 214.
 
 
 
-TITLE LXVII.
+* TITLE LXVII.
 CONCERNING THOSE WHO ARE EXCUSED ON ACCOUNT OF
 ILLNESS.
 1. The Emperor Philip, and the Czesar Philip, to Sabinus.
@@ -5846,7 +5882,7 @@ Praesens and Albinus, 247.
 
 
 
-TITLE LXVIII. WHO CAN BE EXCUSED ON ACCOUNT OF AGE.
+* TITLE LXVIII. WHO CAN BE EXCUSED ON ACCOUNT OF AGE.
 1. The Emperors Severus and Antoninus to Severus.
 If your father is over seventy years of age, and is appointed either a guardian
 or a curator, he can legally be excused.
@@ -5855,7 +5891,7 @@ Libo, 205.
 
 
 
-TITLE LXIX.
+* TITLE LXIX.
 WHO CAN BE EXCUSED ON ACCOUNT OF THE NUMBER OF GUARDIANSHIPS.
 1. The Emperor Severus and Antoninus to Pompeianus.If you are administering
 three guardianships or curatorships at the same time, which you have not
@@ -5875,13 +5911,14 @@ Antoninus and Geta, 206.
 
 
 
-TITLE LXX.
-CONCERNING THE CURATOR OP AN INSANE PERSON OR A SPENDTHRIFT.
+* TITLE LXX. CONCERNING THE CURATOR OP AN INSANE PERSON OR A SPENDTHRIFT.
+
 1. The Emperor Antoninus to Mariniana.
 It is customary for curators to be appointed for spendthrifts and insane
 persons, though they may have attained their majority.
 Given on the fourth of the Kalendsof August, during the Consulate of Messala
 and Sabinus, 215.
+
 2. The Emperor Gordian to Avitius.
 The benefit of the Rescript of the Divine Severus, by which the rustic estates
 of wards or minors are forbidden to be sold or encumbered without a decree of
@@ -5893,12 +5930,14 @@ stand; but you will have the right to an equitable personal action against him,
 if the money which was loaned was employed for his benefit.
 Given on the Kalendsof January, during the Consulate of Pius and Pontianus,
 239.
+
 3. The Same to Aurelia.
 If your father is not sane, petition to have curators appointed for him, by
 means of whom, if any business he transacted should be revoked, after proper
 examination, matters may be restored to their former condition.
 Given on the seventh of the Idesof April, during the Consulate of Gordian and
 Aviola, 240.
+
 4. The Emperors Diocletian and Maximian to Asclepiodotus.As you allege that the
 mother of an insane woman, who is her own mistress, and repudiated her husband,
 who alone had the right to
@@ -5908,6 +5947,7 @@ contrary to the interests of the said insane person, because she has legally no
 right to represent her.
 Given at Byzantium, during the Idesof April, during the Consulate of the above-
 mentioned Emperors.
+
 5. The Emperor Anastasius to the People.
 In order that We may not appear to have intended to unduly benefit an
 emancipated brother or brothers, in their succession to other brothers, without
@@ -5915,6 +5955,7 @@ imposing upon them the burdens of guardianship, We decree by the terms of this
 law that, notwithstanding the provision of the Twelve Tables concerning the
 appointment of curators, they can legally be appointed for their insane
 brothers and sisters.
+
 6. The Emperor Justinian to Julian, Prietorian Prefect.
 It sometimes happens that the affliction of insane men remains continuous, and
 with others the attacks of disease are suspended, and lucid intervals occur,
@@ -5942,6 +5983,7 @@ frequently, or in such a way as to be ridiculous, and seem to be appointed as
 often as he is required to cease to exercise his functions.
 Given on the Kalendsof September, during the fifth Consulate of Lampadius and
 Orestes, 530.
+
 7. The Same to Julian, Prsetorian Prefect.
 An insane person, who remains constantly under the care of his parents,
 undoubtedly cannot have a curator, for paternal solicitude is sufficient for
@@ -5998,12 +6040,15 @@ placed his hands on the most Holy Gospels, he declares that he will conduct all
 the affairs of the said insane person lawfully and for his benefit, and that he
 will not omit anything which he may think to be for his welfare, or permit
 anything to be done which he believes will be to his disadvantage.
-Extract from, Novel 72, Last Chapter. Latin Text.Generally speaking, this oath
-is required of all curators, but they are not exempt from rendering accounts.
-The same rule applies to
+
+Extract from, Novel 72, Last Chapter. Latin Text.
+
+Generally speaking, this oath is required of all curators, but they are not exempt from rendering accounts. The same rule applies to
 guardians.
+
 END OP THE EXTRACT.
 THE TEXT OF THE CODE FOLLOWS.
+
 The curator shall undertake the administration of the estate after an inventory
 has been publicly drawn up with all the requisite formalities, and he can
 dispose of said estate as he may desire, his own property being hypothecated as
@@ -6076,13 +6121,7 @@ Given at Constantinople, on the Kalendsof September, during the fifth Consulate
 of Lampadius and Orestes, 530.
 
 
-
-
-
-
-TITLE LXXI.
-LANDS AND OTHER PROPERTY BELONGING TO MINORS SHALL NOT BE ALIENATED OR
-ENCUMBERED WITHOUT A DECREE.
+* TITLE LXXI. LANDS AND OTHER PROPERTY BELONGING TO MINORS SHALL NOT BE ALIENATED OR ENCUMBERED WITHOUT A DECREE.
 
 
 1. The Emperor Antoninus to Minutianus.
@@ -6095,6 +6134,7 @@ having applied to a competent judge, he will order that complete restitution be
 given you, after having examined the case in the presence of the adverse party.
 Given on the thirteenth of the Kalendsof December, during the Consulate of the
 two Aspers, 213.
+
 2. The Emperor Gordian to Clearchus and Others.
 It is not necessary for you to demand complete restitution, if your guardians
 or curators have sold the property without the authority of a decree, even
@@ -6104,6 +6144,7 @@ it is shown that you have sustained injury with the connivance of the
 purchaser.
 Given on the third of the Kalendsof February, during the Consulate of Gordian
 and Aviola, 240.
+
 3. The Emperors Valerian and Gallienus to Theodosius and Others.
 As the property which you acquired after you were emancipated could not have
 been alienated by your father as your curator, without the authority of the
@@ -6112,6 +6153,7 @@ belonging to you, you have a right to recover
 it by law.
 Given on the third of the Nonesof January, during the Consulate
 of Tuscus and Bassus, 259.
+
 4. The Same to Mithridates.
 Neither urban estates nor property in a city can be sold or alienated by wards
 or minors, and it cannot be transferred from their ownership either by means of
@@ -6122,6 +6164,7 @@ you have obtained anything from them under the same contract, you should return
 it.
 Given on the fifteenth of the Kalendsof May, during the Consulate of Secularis,
 Consul for the second time, and Donatus, 261.
+
 5. The Same to Serenus.
 Although the Governor decided that an urban or rustic estate belonging to a
 ward could be alienated or encumbered, still, the Senate
@@ -6130,6 +6173,7 @@ judge had been deceived by false allegations, and you also are not forbidden to
 institute proceedings of this kind.
 Given on the third of the Kalendsof May, during the Consulate of Secularis,
 Consul for the second time, and Donatus, 261.
+
 6. The Emperors Cams, Carinus, and Numerianus to Varus.
 The sale of the real property of minors cannot be made through an application
 made by an attorney to the Prastor, or the Governor of a province, as this
@@ -6137,6 +6181,7 @@ cannot legally take place unless documents are produced before either of the
 above-mentioned officials, which show the necessity of the sale, and a decree
 to that effect is formally issued.
 Given on the Nonesof May, under the Consulate of Carus and Carinus, 283.
+
 7. The Same Emperors to Isidor.
 If, while you were a minor under the age of twenty-five years, you executed a
 bond to your father for the return of a donation which he made to you when you
@@ -6144,6 +6189,7 @@ were emancipated, as an instrument of this kind is in violation of the Decree
 of the Senate, it will not prejudice your rights.
 Given on the sixth of the Idesof December, during the Consulate of Carus and
 Carinus, 283.
+
 8. The Emperors Diocletian and Maximian to Theodota.
 It is clear that the ownership of the rustic estates which', in violation of
 the Decree of the Senate, were given to you before marriage as a betrothal gift
@@ -6152,6 +6198,7 @@ has been prohibited by law, they will remain part of the property of your
 husband.
 Given on the third of the Nonesof November, during the Consulate of Diocletian
 and Aristobolus, 285.
+
 9. The Same Emperors to Mutianus.
 Although he who you allege sold the rustic estate of a minor did so at the time
 when he was acting as curator, the sale having been made contrary to the terms
@@ -6161,6 +6208,7 @@ pledges of his own property which the curator encumbered as a guarantee against
 eviction.
 Given during the Nonesof November, during the Consulate of Diocletian and
 Aristobolus, 285.
+
 10. The Same to Gratits.
 The Governor will grant you relief in your claim for the ownership of lands
 which were alienated without the authority of a decree, and if he should
@@ -6170,6 +6218,7 @@ be sued only for that amount which may be proved to have been expended for your
 benefit, or added to your estate.
 Given on the sixth of the Idesof August, during the Consulate of the above-
 mentioned Emperors.
+
 11. The Same to Trophinus.
 If your patron, who is a minor, sold your rustic estate without the authority
 of a judicial decision, it is unnecessary to mention the low price at which it
@@ -6180,18 +6229,21 @@ of the same, complete restitution in accordance with the terms of the Perpetual
 Edict will, after proper investigation, be granted you.
 Given on the twelfth of the Kalendsof December, during the Consulate of the
 above-mentioned Emperors.
+
 12. The Same Emperors and Csesars to Leontius.The rustic estate of a minor,
 situated in a province, can only be sold on account of a debt after a decree of
 the Governor has been
 issued.
 Given at Heraclea, on the second of the Kalendsof May, during the
 Consulate of the Csesars.
+
 13. The Same Emperors and Csesars to Zenophila.
 It is not lawful for a rustic estate belonging to a minor, whether the same be
 tributary, patrimonial, or emphyteutical, to be sold without a decree of the
 Governor.
 Given on the eighth of the Kalendsof September, during the Consulate of the
 Csesars.
+
 14. The Same Emperors and Csssars to Phrominius.
 Adopt the opinion of the most learned Papinianus and the other authorities whom
 you have mentioned in your petition, and file an exception on the ground of bad
@@ -6201,6 +6253,7 @@ paid on their account, and they claim the lands in the province which, with
 their crops, were sold without the authority of a Decree of the Governor.
 Given on the ninth of the Kalendsof December, during the Consulate of the
 Caesars.
+
 15. The Same Emperors and Caesars to Sabina.
 If, while you were a minor under the age of twenty-five years, you gave in
 payment a certain rustic estate when you should have given another, the Decree
@@ -6208,7 +6261,9 @@ of the Senate does not permit you to be deprived of the ownership of the
 property.
 Given on the eighth of the Kalendsof December, during the Consulate of the
 Caesars.
- ---  16. The Same Emperors and Csesars to Eutychia.
+ ---
+
+16. The Same Emperors and Csesars to Eutychia.
 If, while you were a minor, you sold a rustic or urban estate (as not the
 situation of the latter, but its nature, should be considered), and you did
 this with the authority of your guardian, or, being beyond the age of puberty,
@@ -6240,10 +6295,7 @@ Given on the twelfth of the Kalendsof January, during the Consulate of
 Probianus and Julian, 322.
 
 
-
-
-
-TITLE LXXII. WHEN THERE is NO NEED OF A DECREE.
+* TITLE LXXII. WHEN THERE is NO NEED OF A DECREE.
 
 1. The Emperors Severus and Antoninus to Valentinus.
 If you can prove that the father of the ward, against whose guardians you have
@@ -6274,12 +6326,7 @@ Given on the Idesof March, during the Consulate of Constantine, Consul for the
 seventh time, and the Caesar Constantius, Consul for the fourth time, 326.
 
 
-
-
-
-TITLE LXXIII.
-WHERE ANYONE, NOT BEING AWARE THAT PROPERTY BELONGS TO A MINOR, PURCHASES IT
-WITHOUT A DECREE.
+* TITLE LXXIII. WHERE ANYONE, NOT BEING AWARE THAT PROPERTY BELONGS TO A MINOR, PURCHASES IT WITHOUT A DECREE.
 
 1. The Emperor Gordian to Felix.
 If she who succeeded to the rights of the guardian, either by an hereditary or
@@ -6317,12 +6364,7 @@ excluded without delay on the ground of long-time prescription.
 Given on the Idesof June, during the Consulate of the Caesars.
 
 
-
-
-
-TITLE LXXIV.
-WHERE A MINOR, AFTER ATTAINING His MAJORITY, RATIFIES AN ALIENATION MADE
-WITHOUT A DECREE.
+* TITLE LXXIV. WHERE A MINOR, AFTER ATTAINING His MAJORITY, RATIFIES AN ALIENATION MADE WITHOUT A DECREE.
 
 1. The Emperor Gordian to Licinia.
 You allege that your father's curator sold a rustic estate to the heir of the
@@ -6371,11 +6413,7 @@ after the latter attained his majority.
 Given on the Idesof April, during the fifth Consulate of Decius, 529.
 
 
-
-
-
-TITLE LXXV.
-CONCERNING LEGAL PROCEEDINGS TO BE INSTITUTED AGAINST MAGISTRATES.
+* TITLE LXXV. CONCERNING LEGAL PROCEEDINGS TO BE INSTITUTED AGAINST MAGISTRATES.
 
 1. The Emperor Antoninus to Mutianus.
 If the magistrates by whom guardians or curators were appointed for you

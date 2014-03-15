@@ -61,6 +61,13 @@ texts like Gaius' *Institutes* found here are virtually untouched and
 I make no claims about their general usability.  Ideally that will one
 day change, but caveat lector.
 
+Another word of warning regarding these texts: when the original text
+was published in Greek, these files either have incoherent
+transliterations of the Greek text, which I assume derives initially
+from the scanning process, or are simply omitted completely.  Some of
+these passages have been fixed, but most have not.  However, now that
+they are publicly available, I shall try to be more diligent about
+fixing the files.
 
 ### English
 
