@@ -2,42 +2,40 @@
 
 IMPERATORIS IVSTINIANI INSTITVTIONVM LIBER TERTIVS
 
-LIBER TERTIUS: TITULORUM CONSPECTUS.
+* LIBER TERTIUS: TITULORUM CONSPECTUS.
 
-III:I  De hereditatibus quae ab intestato deferuntur
-III:II  De legitima adgnatorum successione
-III:III  De senatusconsulto Tertulliano
-III:IV  De senatusconsulto Orphitiano
-III:V  De successione cognatorum
-III:VI  De gradibus cognationis
-III:VII  De successione libertorum
-III:VIII  De adsignatione libertorum
-III:IX  De bonorum possessionibus
-III:X  De adquisitione per adrogationem
-III:XI  De eo cui libertatis causa bona addicuntur
-III:XII  De successionibus sublatis, quae fiebant per bonorum venditionem et ex senatusconsulto Claudiano
-III:XIII  De obligationibus
-III:XIV  Quibus modis re contrahitur obligatio
-III:XV  De verborum obligatione
-III:XVI  De duobus reis stipulandi et promittendi
-III:XVII  De stipulatione servorum
-III:XVIII  De divisione stipulationum
-III:XIX  De inutilibus stipulationibus
-III:XX  De fideiussoribus
-III:XXI  De litterarum obligatione
-III:XXII  De consensu obligatione
-III:XXIII  De emptione et venditione
-III:XXIV  De locatione et conductione
-III:XXV  De societate
-III:XXVI  De mandato
-III:XXVII  De obligationibus quasi ex contractu
-III:XXVIII  Per quas personas nobis obligatio adquiritur
-III:XXIX  Quibus modis obligatio tollitur
++ III:I  De hereditatibus quae ab intestato deferuntur
++ III:II  De legitima adgnatorum successione
++ III:III  De senatusconsulto Tertulliano
++ III:IV  De senatusconsulto Orphitiano
++ III:V  De successione cognatorum
++ III:VI  De gradibus cognationis
++ III:VII  De successione libertorum
++ III:VIII  De adsignatione libertorum
++ III:IX  De bonorum possessionibus
++ III:X  De adquisitione per adrogationem
++ III:XI  De eo cui libertatis causa bona addicuntur
++ III:XII  De successionibus sublatis, quae fiebant per bonorum venditionem et ex senatusconsulto Claudiano
++ III:XIII  De obligationibus
++ III:XIV  Quibus modis re contrahitur obligatio
++ III:XV  De verborum obligatione
++ III:XVI  De duobus reis stipulandi et promittendi
++ III:XVII  De stipulatione servorum
++ III:XVIII  De divisione stipulationum
++ III:XIX  De inutilibus stipulationibus
++ III:XX  De fideiussoribus
++ III:XXI  De litterarum obligatione
++ III:XXII  De consensu obligatione
++ III:XXIII  De emptione et venditione
++ III:XXIV  De locatione et conductione
++ III:XXV  De societate
++ III:XXVI  De mandato
++ III:XXVII  De obligationibus quasi ex contractu
++ III:XXVIII  Per quas personas nobis obligatio adquiritur
++ III:XXIX  Quibus modis obligatio tollitur
 
 
-
-LIB. III, TIT. I.
-DE HEREDITATIBUS QUAE AB INTESTATO DEFERUNTUR.
+* 3.I. DE HEREDITATIBUS QUAE AB INTESTATO DEFERUNTUR.
 
 Intestatus decedit qui aut omnino testamentum non fecit, aut non iure fecit, aut id quod fecerat ruptum irritumve factum est, aut nemo ex eo heres extitit.
 
@@ -59,8 +57,7 @@ Sed ea omnia antiquitati quidem placuerunt: aliquam autem emendationem a nostra 
 
 Item vetustas, ex masculis progenitos plus diligens, solos nepotes vel neptes qui ex virili sexu descendunt ad suorum vocabat successionem, et iuri adgnatorum eos anteponebat: nepotes autem qui ex filiabus nati sunt et pronepotes ex neptibus cognatorum loco numerans, post adgnatorum lineam eos vocabat, tam in avi vel proavi materni quam in aviae vel proaviae sive paternae sive maternae successionem. divi autem principes non passi sunt talem contra naturam iniuriam sine competenti emendatione relinquere: sed cum nepotis et pronepotis nomen commune est utrisque qui tam ex masculis quam ex feminis descendunt, ideo eundem gradum et ordinem successionis eis donaverunt: sed ut aliquid amplius sit eis qui non solum naturae sed etiam veteris iuris suffragio muniuntur, portionem nepotum et neptium vel deinceps, de quibus supra diximus, paulo minuendam esse existimaverunt, ut minus tertiam partem acciperent quam mater eorum vel avia fuerat acceptura, vel pater eorum vel avus paternus sive maternus, quando femina mortua sit cuius de hereditate agitur, hisque, licet soli sint, adeuntibus adgnatos minime vocabant. et quemadmodum lex duodecim tabularum filio mortuo nepotes vel neptes vel pronepotes et proneptes in locum patris sui ad successionem avi vocat: ita et principalis dispositio in locum matris suae vel aviae eos cum iam designata partis tertiae deminutione vocat. Sed nos, cum adhuc dubitatio manebat inter adgnatos et memoratos nepotes, partem quartam defuncti substantiae adgnatis sibi vindicantibus ex cuiusdam constitutionis auctoritate, memoratam quidem constitutionem a nostro codice segregavimus neque inseri eam ex Theodosiano codice in eo concessimus. nostra autem constitutione promulgata toti iuri eius derogatum est et sanximus, talibus nepotibus ex filia vel pronepotibus ex nepte et deinceps superstitibus, adgnatos nullam partem mortui successionis sibi vindicare, ne hi qui ex transversa linea veniunt potiores his habeantur qui recto iure descendunt: quam constitutionem nostram obtinere secundum sui vigorem et tempora et nunc sancimus. ita tamen quemadmodum inter filios et nepotes ex filio antiquitas statuit non in capita sed in stirpes dividi hereditatem, similiter nos inter filios et nepotes ex filia distributionem fieri iubemus, vel inter omnes nepotes et neptes et alias deinceps personas, ut utraque progenies matris suae vel patris, aviae vel avi portionem sine ulla deminutione consequantur, et, si forte unus vel duo ex una parte, ex altera tres aut quattuor extent, unus aut duo dimidiam, alteri tres aut quattuor alteram dimidiam hereditatis habeant.
 
-LIB. III, TIT. II.
-DE LEGITIMA ADGNATORUM SUCCESSIONE.
+* 3.II. DE LEGITIMA ADGNATORUM SUCCESSIONE.
 
 Si nemo suus heres, vel eorum quos inter suos heredes praetor vel constitutiones vocant, extat aut successionem quoquo modo amplectatur: tunc ex lege duodecim tabularum ad adgnatum proximum hereditas pertinet.
 
@@ -82,8 +79,7 @@ Placebat autem , in eo genere percipiendarum hereditatum successionem non esse, 
 
 Ad legitimam successionem nihilo minus vocatur etiam parens qui contracta fiducia filium vel filiam, nepotem vel neptem ac deinceps, emancipat. quod ex nostra constitutione omnimodo inducitur, ut emancipationes liberorum semper videantur contracta fiducia fieri, cum apud antiquos non aliter hoc obtinebat nisi specialiter contracta fiducia parens manumisisset.
 
-LIB. III, TIT. III.
-DE SENATUSCONSULTO TERTULLIANO.
+* 3.III. DE SENATUSCONSULTO TERTULLIANO.
 
 Lex duadecim tabularum ita stricto iure utebatur et praeponebat masculorum progeniem, et eos qui per feminini sexus necessitudinem sibi iunguntur adeo expellebat, ut ne quidem inter matrem et filium filiamve ultro citroque hereditatis capiendae ius daret, nisi quod praetores ex proximitate cognatorum eas personas ad successionem bonorum possessione unde cognati accommodata vocabant.
 
@@ -91,20 +87,17 @@ Sed hae iuris angustiae postea emendatae sunt. et primus quidem divus Claudius m
 
 Sed nos constitutione, quam in codice nostro nomine decorato posuimus, matri subveniendum esse existimavimus, respicientes ad naturam et puerperium et periculum et saepe mortem ex hoc casu matribus illatam. ideoque impium esse credidimus, casum fortuitum in eius admitti detrimentum: si enim ingenua ter vel libertina quater non pepererit, immerito defraudabatur successione suorum liberorum; quid enim peccavit, si non plures sed paucos pepererit? et dedimus ius legitimum plenum matribus sive ingenuis sive libertinis, etsi non ter enixae fuerint vel quater, sed eum tantum vel eam qui quaeve morte intercepti sunt, ut et sic vocentur in liberorum suoram legitimam successionem. Sed cum antea constitutiones iura legitima perscrutantes partim matrem adiuvabant, partim eam praegravabant et non in solidum eam vocabant, sed in quibusdam casibus tertiam partem ei abstrahentes certis legitimis dabant personis, in aliis autem contrariam faciebant: nobis visum est, recta et simplici via matrem omnibus legitimis personis anteponi et sine ulla deminutione filiorum suorum successionem accipere, excepta fratris et sororis persona, sive consanguinei sint sive sola cognationis iura habentes, ut quemadmodum eam toto alio ordini legitimo praeposuimus, ita omnes fratres et sorores, sive legitimi sint sive non, ad capiendas hereditates simul vocemus, ita tamen ut, si quidem solae sorores cognatae vel adgnatae et mater defuncti vel defunctae supersint, dimidiam quidem mater, alteram vero dimidiam partem omnes sorores habeant, si vero matre superstite et fratre vel fratribus solis vel etiam cum sororibus sive legitima sive sola cognationis iura habentibus intestatus quis vel intestata moriatur, in capita distribuatur eius hereditas. Sed quemadmodum nos matribus prospeximus, ita eas oportet suae suboli consulere: scituris eis quod, si tutores liberis non petierint vel in locum remoti vel excusati intra annum petere neglexerint, ab eorum impuberum morientium successione merito repellentur. Licet autem volgo quaesitus sit filius filiave, potest ad bona eius mater ex Tertulliano senatusconsulto admitti.
 
-LIB. III, TIT. IV.
-DE SENATUSCONSULTO ORPHITIANO.
+* 3.IV. DE SENATUSCONSULTO ORPHITIANO.
 
 Per contrarium autem ut liberi ad bona matrum intestatarum admittantur, senatusconsulto Orphitiano effectum est, quod latum est Orphito et Rufo consulibus, divi Marci temporibus. et data est tam filio quam filiae legitima hereditas, etiamsi alieno iuri subiecti sunt: et praeferuntur et consanguineis et adgnatis defunctae matris. Sed cum ex hoc senatusconsulto nepotes ad aviae successionem legitimo iure non vocabantur, postea hoc constitutionibus principalibus emendatum est, ut ad similitudinem filioram filiarumque et nepotes et neptes vocentur. Sciendum autem est, huiusmodi successiones quae a Tertulliano et Orphitiano deferuntur, capitis deminutione non peremi propter illam regulam qua novae hereditates legitimae capitis deminutione non pereunt, sed illae solae quae ex lege duodecim tabularum deferantur. Novissime sciendum est, etiam illos liberos qui vulgo quaesiti sunt ad matris hereditatem ex hoc senatusconsulto admitti.
 
 Si ex pluribus legitimis heredibus quidam omiserint hereditatem, vel morte vel alia causa impediti fuerint quominus adeant: reliquis, qui adierint, adcrescit illorum portio et, licet ante decesserint qui adierint, ad heredes tamen eorum pertinet.
 
-LIB. III, TIT. V.
-DE SUCCESSIONE COGNATORUM.
+* 3.V. DE SUCCESSIONE COGNATORUM.
 
 Post suos heredes, eosque quos inter suos heredes praetor et constitutiones vocant, et post legitimos (quo numero sunt adgnati et hi quos in locum adgnatorum tam supra dicta senatusconsulta quam nostra erexit constitutio) proximos cognatos praetor vocat. Qua parte naturalis cognatio spectatur. nam adgnati capite deminuti quique ex his progeniti sunt, ex lege duodecim tabularum inter legitimos non habentur, sed a praetore tertio ordine vocantur, exceptis solis tantummodo fratre et sorore emancipatis, non etiam liberis eorum quos lex Anastasiana cum fratribus integri iuris constitutis vocat quidem ad legitimam fratris hereditatem sive sororis, non aequis tamen partibus, sed cum aliqua deminutione quam facile est ex ipsius constitutionis verbis colligere, aliis vero adgnatis inferioris gradus, licet capitis deminutionem passi non sunt, tamen eos anteponit et procul dubio cognatis. Hos etiam, qui per feminini sexus personas ex transverso cognatione iunguntur, tertio gradu proximitatis nomine praetor ad successionem vocat. Liberi quoque qui in adoptiva familia sunt ad naturalium parentum hereditatem hoc eodem gradu vocantur. Vulgo quaesitos nullum habere adgnatum manifestum est, cum adgnatio a patre, cognatio sit a matre, hi autem nullum patrem habere intelleguntur. eadem ratione nec inter se quidem possunt videri consanguinei esse, quia consanguinitatis ius species est adgnationis: tantum igitur cognati sunt sibi, sicut et matris cognatis. itaque omnibus istis ea parte competit bonorum possessio qua proximitatis nomine cognati vocantur. Hoc loco et illud necessario admonendi sumus, adgnationis quidem iure admitti aliquem ad hereditatem et si decimo gradu sit, sive de lege duodecim tabularum quaeramus, sive de edicto quo praetor legitimis heredibus daturum se bonorum possessionem pollicetur. proximitatis vero nomine his solis praetor promittit bonorum possessionem qui usque ad sextum gradum cognationis sunt, et ex septimo a sobrino sobrinaque nato nataeve.
 
-LIB. III, TIT. VI.
-DE GRADIBUS COGNATIONIS.
+* 3.VI. DE GRADIBUS COGNATIONIS.
 
 Hoc loco necessarium est exponere quemadmodum gradus cognationis numerentur. qua in re inprimis admonendi sumus, cognationem aliam supra numerari, aliam infra, aliam ex transverso, quae etiam ex latere dicitur. superior cognatio est parentium, inferior liberorum, ex transverso fratrum sororumve, eorumque qui ex his progenerantur, et convenienter patrui, amitae, avunculi, materterae. et superior quidem et inferior cognatio a primo gradu incipit: at ea quae ex transverso numeratur, a secundo.
 
@@ -116,8 +109,7 @@ Repetitis itaque omnibus quae iam tradidimus, apparet, non semper eos qui parem 
 
 Amotis quoque suis heredibus quosque inter suos heredes vocari diximus, adgnatus, qui integrum ius adgnationis habet, etiamsi longissimo gradu sit, plerumque potior habetur quam proximior cognatus: nam patrui nepos vel pronepos avunculo vel materterae praefertur. totiens igitur dicimus aut potiorem haberi eum qui proximiorem gradum cognationis obtinet, aut pariter vocari eos qui cognati sint, quotiens neque suorum heredum iure quique inter suos heredes sunt, neque adgnationis iure aliquis praeferri debeat secumdum ea quae tradidimus, exceptis fratre et sorore emancipatis, qui ad successionem fratrum vel sororum vocantur, qui et si capite deminuti sunt, tamen praeferuntur ceteris ulterioris gradus adgnatis.
 
-LIB. III, TIT. VII.
-DE SUCCESSIONE LIBERTORUM.
+* 3.VII. DE SUCCESSIONE LIBERTORUM.
 
 Nunc de libertorum bonis videamus. olim itaque licebat liberto patronum suum impune testamento praeterire: nam ita demum lex duodecim tabularum ad hereditatem liberti vocabat patronum, si intestatus mortuus esset libertus, nullo suo herede relicto. itaque intestato quoque mortuo liberto, si is suum heredem reliquisset, nihil in bonis eius patrono ius erat. et si quidem ex naturalibus liberis aliquem suum heredem reliquisset, nulla videbatur querela: si vero adoptivus filius esset, aperte iniquum erat nihil iuris patrono superesse. Qua de causa postea praetoris edicto haec iuris iniquitas emendata est. sive enim faciebat testamentum libertus, iubebatur ita testari ut patrono partem dimidiam bonorum suorum relinqueret: et si aut nihil aut minus partis dimidiae reliquerat, dabatur patrono contra tabulas testamenti partis dimidiae bonorum possessio. si vero intestatus moriebatur, suo herede relicto filio adoptivo, dabatur aeque patrono contra hunc suum heredem partis dimidiae bonorum possessio. prodesse autem liberto solebant ad excludendum patronum naturales liberi, non solum quos in potestate mortis tempore habebat, sed etiam emancipati et in adoptionem dati, si modo ex aliqua parte heredes scripti erant aut praeteriti contra tabulas bonorum possessionem ex edicto petierant: nam exheredati nullo modo repellebant patronum. Postea lege Papia adaucta sunt iura patronorum qui locupletiores libertos habebant. cautum est enim ut ex bonis eius qui sestertiorum centum milium patrimonium reliquerit et pauciores quam tres liberos habebat, sive is testamento facto, sive intestato mortuus erat, virilis pars patrono deberetur. itaque cum unum filium filiamve heredem reliquerit libertus, perinde pars dimidia patrono debebatur ac si is sine ullo filio filiave decessisset: cum duos duasve heredes reliquerat, tertia pars debebatur patrono: si tres reliquerat, repellebatur patronus.
 
@@ -125,13 +117,11 @@ Sed nostra constitutio, quam pro omnium notione Graeca lingua, compendioso tract
 
 Sed haec de his libertinis hodie dicenda sunt qui in civitatem Romanam pervenerunt, cum nec sunt alii liberti, simul et dediticiis et Latinis sublatis, cum Latinorum legitimae successiones nullae penitus erant, qui licet ut liberi vitam suam peragebant, attamen ipso ultimo spiritu simul animam atque libertatem amittebant, et quasi servoram ita bona eorum iure quodammodo peculii ex lege Iunia manumissores detinebant. postea vero senatusconsulto Largiano cautum fuerat ut liberi manumissoris, non nominatim exheredati facti, extraneis heredibus eorum in bonis Latinorum praeponerentur. quibus supervenit etiam divi Traiani edictum, quod eundem hominem, si invito vel ignorante patrono ad civitatem venire ex beneficio principis festinavit, faciebat vivum quidem civem Romanum, Latinum autem morientem. sed nostra constitutione propter huiusmodi condicionum vices et alias difficultates cum ipsis Latinis etiam legem Iuniam et senatusconsultum Largianum et edictum divi Traiani in perpetuum deleri censuianus, ut omnes liberti civitate Romana fruantur, et mirabili modo quibusdam adiectionibus ipsas vias quae in Latinitatem ducebant ad civitatem Romanam capiendam transposuimus.
 
-LIB. III, TIT. VIII.
-DE ADSIGNATIONE LIBERTORUM.
+* 3.VIII. DE ADSIGNATIONE LIBERTORUM.
 
 In summa, quod ad bona libertorum, admonendi sumus, senatum censuisse ut, quamvis ad omnes patroni liberos qui eiusdem gradus sint aequaliter bona libertorum pertineant, tamen liceret parenti uni ex liberis adsignare libertum, ut post mortem eius solus is patronus habeatur qui adsignatus est, et ceteri liberi, qui ipsi quoque ad eadem bona, nulla adsignatione interveniente, pariter admitterentur, nihil iuris in his bonis habeant. sed ita demum pristinum ius recipiunt, si is cui adsignatus est decesserit nullis liberis relictis. Nec tantum libertum, sed etiam libertam, et non tantum filio nepotive, sed etiam filiae neptive adsignare permittitur. Datur autem haec adsignandi facultas ei qui duos pluresve liberos in potestate habebit, ut eis quos in potestate habet adsignare ei libertum libertamve liceat. unde quaerebatur, si eum cui adsignaverit, postea emancipaverit num evanescat adsignatio? sed placuit, evanescere, quod et Iuliano et aliis plerisque visum est. Nec interest, testamento quis adsignet an sine testamento: sed etiam quibuscumque verbis hoc patronis permittitur facere, ex ipso senatusconsulto quod Claudianis temporibus factum est Suillo Rufo et Ostorio Scapula consulibas.
 
-LIB. III, TIT. IX.
-DE BONORUM POSSESSIONIBUS.
+* 3.IX. DE BONORUM POSSESSIONIBUS.
 
 Ius bonorum possessionis introductum est a praetore emendandi veteris iuris gratia. nec solum in intestatorum hereditatibus vetus ius eo modo praetor emendavit, sicut supra dictum est, sed in eorum quoque qui testamento facto decesserint. nam si alienus postumus heres fuerit institutus, quamvis hereditatem iure civili adire non poterat, cum institutio non valebat, honorario tamen iure bonorum possessor efficiebatur, videlicet cum a praetore adiuvabatur: sed hic e nostra constitutione hodie recte heres instituitur, quasi et iure civili non incognitus.
 
@@ -147,13 +137,11 @@ Sed eas quidem praetoria induxit iurisdictio. nobis tamen nihil incuriosum praet
 
 Cum igitur plures species successionum praetor introduxisset easque per ordinem disposuisset et in unaquaque specie successionis saepe plures extent dispari gradu personae: ne actiones creditorum differrentur, sed haberent quos convenirent, et ne facile in possessionem bonorum defuncti mitterentur et eo modo sibi consulerent, ideo petendae bonorum possessioni certum tempus praefinivit. liberis itaque et parentibus tam naturalibus quam adoptivis in petenda bonorum possessione anni spatium, ceteris centum dierum dedit. Et si intra hoc tempus aliquis bonorum possessionem non petierit, eiusdem gradus personis adcrescit: vel si nemo ex eo sit, deinceps ceteris proinde bonorum possessionem ex successorio edicto pollicetur ac si is qui praecedebat ex eo numero non esset. si quis itaque delatam sibi bonorum possessionem repudiaverit, non quousque tempus bonorum possessioni praefinitum excesserit, expectatur, sed statim ceteri ex eodem edicto admittuntur. In petenda autem bonorum possessione dies utiles singuli considerantur. Sed bene anteriores principes et huic causae providerunt, ne quis pro petendo bonorum possessiones curet, sed, quocumque modo si admittentis eam indicium, intra statuta tamen tempora, ostenderit, plenum habeat earum beneficium.
 
-LIB. III, TIT. X.
-DE ADQUISITIONE PER ADROGATIONEM.
+* 3.X. DE ADQUISITIONE PER ADROGATIONEM.
 
 Est et alterius generis per universitatem successio, quae neque lege duodecim tabularum neque praetoris edicto, sed eo iure quod consensu receptum est, introducta est. Ecce enim cum paterfamilias sese in adrogationem dat, omnes res eius corporales et incorporales quaeque ei debitae sunt, adrogatori ante quidem pleno iure adquirebantur, exceptis his quae per capitis deminutionem pereunt, quales sunt operarum obligationes et ius adgnationis. usus etenim et ususfructus, licet his antea connumerabantur, attamen capitis deminutione minima eos tolli nostra prohibuit constitutio. Nunc autem nos eandem adquisitionem quae per adrogationem fiebat coartavimus ad similitudinem naturalium parentum: nihil etenim aliud nisi tantummodo ususfructus tam naturalibus patribus quam adoptivis per filiosfamilias adquiritur in his rebus quae extrinsecus filiis obveniunt, dominio eis integro servato: mortuo autem filio adrogato in adoptiva familia etiam dominium eius adrogatorem transit, nisi supersint aliae personae quae ex nostra constitutione patrem in his quae adquiri non possunt antecedunt. Sed ex diverso pro eo quod is debuit qui se in adoptionem dedit, ipso quidem iure adrogator non tenetur, sed nomine filii convenietur et, si noluerit eum defendere, permittitur creditoribus per competentes nostros magistratus bona quae eius cum usufructu futura fuissent, si se alieno iuri non subiecisset, possidere et legitimo modo ea disponere.
 
-LIB. III, TIT. XI.
-DE EO CUI LIBERTATIS CAUSA BONA ADDICUNTUR.
+* 3.XI. DE EO CUI LIBERTATIS CAUSA BONA ADDICUNTUR.
 
 Accessit novus casus successionis ex constitutione divi Marci. nam si hi qui libertatem acceperunt a domino in testamento, ex quo non aditur hereditas, velint bona sibi addici libertatium conservandarum causa, audiuntur. et ita rescripto divi Marci ad Popilium Rufum continetur. Verba rescripti ita se habent:
 
@@ -161,17 +149,13 @@ Accessit novus casus successionis ex constitutione divi Marci. nam si hi qui lib
 
 Hoc rescripto subventum est et libertatibus et defunctis, ne bona eorum a creditoribus possideantur et veneant. certe si fuerint ex hac causa bona addicta, cessat bonorum venditio; extitit enim defuncti defensor, et quidem idoneus, qui de solido creditoribus cavet. Inprimis hoc rescriptum totiens locum habet, quotiens testamento libertates datae sunt. quid ergo, si quis intestatus decedens codicillis libertates dederit neque adita sit ab intestato hereditas? favor constitutionis debet locum habere. certe si testatus decedat et codicillis dederit libertatem, competere eam nemini dubium est. Tunc constitutioni locum esse verba ostendunt, cum nemo successor ab intestato existat. ergo quamdiu incertum sit, utrum existat an non, cessabit constitutio: si certum esse coeperit neminem extare, tunc erit constitutioni locus. Si is qui in integrum restitui potest abstinuit se ab hereditate, an, quamvis potest in integrum restitui, potest admitti constitutio? et debet addictio bonorum fieri. quid ergo, si post addictionem libertatum conservandarum causa factam in integrum sit restitutus? utique non erit dicendum revocari libertates quae semel competierunt. Haec constitutio libertatum tuendarum causa introducta est: ergo si libertates nullae sint datae, cessat constitutio. quid ergo, si vivus dedit libertates vel mortis causa et, ne de hoc quaeratur, utrum in fraudem creditorum an non factum sit, idcirco velint addici sibi bona, an audiendi sunt? et magis est, ut audiri debeant, etsi deficiant verba constitutionis. Sed cum multas divisiones eiusmodi constitutioni deesse perspeximus, lata est a nobis plenissima constitutio, in quam multae species collatae sunt, quibus ius huiusmodi successionis plenissimum est effectum, quas ex ipsa lectione constitutionis potest quis cognoscere.
 
-LIB. III, TIT. XII.
-DE SUCCESSIONIBUS SUBLATIS,
-QUAE FIEBANT PER BONORUM VENDITIONEM
-ET EX SENATUSCONSULTO CLAUDIANO.
+* 3.XII. DE SUCCESSIONIBUS SUBLATIS, QUAE FIEBANT PER BONORUM VENDITIONEM ET EX SENATUSCONSULTO CLAUDIANO.
 
 Erant ante praedictam successionem olim et aliae per universitatem successiones. qualis fuerat bonorum emptio quae de bonis debitoris vendendis per multas ambages fuerat introducta, et tunc locum habebat quando iudicia ordinaria in usu fuerunt: sed cum extraordinariis iudiciis posteritas usa est, ideo cum ipsis ordinariis iudiciis etiam bonorum venditiones exspiraverunt et tantummodo creditoribus datur officio iudicis bona possidere et, prout eis utile visum fuerit, ea disponere, quod ex latioribus digestorum libris perfectius apparebit.
 
 Erat et ex senatusconsulto Claudiano miserabilis per universitatem adquisitio, cum libera mulier servili amore bacchata ipsam libertatem per senatusconsultum amittebat et cum libertate substantiam: quod indignum nostris temporibus esse existimantes, et a nostra civitate deleri et non inseri nostris digestis concessimus.
 
-LIB. III, TIT. XIII.
-DE OBLIGATIONIBUS.
+* 3.XIII. DE OBLIGATIONIBUS.
 
 Nunc transeamus ad obligationes. obligatio est iuris vinculum, quo necessitate adstringimur alicuius solvendae rei, secundum nostrae civitatis iura.
 
@@ -179,8 +163,7 @@ Omnium autem obligationum summa divisio in duo genera deducitur: namque aut civi
 
 Sequens divisio in quattuor species deducitur: aut enim ex contractu sunt aut quasi ex contractu aut ex maleficio aut quasi ex maleficio. prius est, ut de his quae ex contractu sunt dispiciamus. harum aeque quattuor species sunt: aut enim re contrahuntur aut verbis aut litteris aut consensu. de quibus singulis dispiciamus.
 
-LIB. III, TIT. XIV.
-QUIBUS MODIS RE CONTRAHITUR OBLIGATIO .
+* 3.XIV. QUIBUS MODIS RE CONTRAHITUR OBLIGATIO .
 
 Re contrahitur obligatio veluti mutui datione. mutui autem obligatio in his rebus consistit quae pondere, numero mensurave constant, veluti vino, oleo, frumento, pecunia numerata, aere, argento, auro, quas res aut numerando aut metiendo aut adpendendo in hoc damus ut accipientium fiant, et quandoque nobis non eaedem res, sed aliae eiusdem naturae et qualitatis reddantur. unde etiam mutuum appellatum sit, quia ita a me tibi datur, ut ex meo tuum fiat. ex eo contractu nascitur actio quae vocatur condictio. Is quoque, qui non debitum accepit ab eo qui per errorem solvit re obligatur: daturque agenti contra eum propter repetitionem condicticia actio; nam proinde ei condici potest SI PARET EUM DARE OPORTERE ac si mutuum accepisset. unde pupillus, si ei sine tutoris auctoritate non debitum per errorem datum est, non tenetur indebiti condictione, non magis quam mutui datione. sed haec species obligationis non videtur ex contractu consistere, cum is qui solvendi animo dat magis distrahere voluit negotium quam contrahere.
 
@@ -190,8 +173,7 @@ Praeterea et is apud quem res aliqua deponitur re obligatur, et actione depositi
 
 Creditor quoque qui pignus accepit re obligatur, qui et ipse de ea ipsa re quam accepit restituenda tenetur actione pigneraticia. sed quia pignus utriusque gratia datur, et debitoris, quo magis ei pecunia crederetur, et creditoris, quo magis ei in tuto sit creditum, placuit sufficere, quod ad eam rem custodiendam exactam diligentiam adhiberet: quam si praestiterit et aliquo fortuito casu rem amiserit, securum esse nec impediri creditum petere.
 
-LIB. III, TIT. XV.
-DE VERBORUM OBLIGATIONE.
+* 3.XV. DE VERBORUM OBLIGATIONE.
 
 Verbis obligatio contrahitur ex interrogatione et responsione, cum quid dari fierive nobis stipulamur. ex qua duae proficiscuntur actiones, tam condictio, si certa sit stipulatio, quam ex stipulatu, si incerta. quae hoc nomine inde utitur, quia stipulum apud veteres firmum appellabatur, forte a stipite descendens.
 
@@ -211,23 +193,19 @@ Omnis stipulatio aut pure aut in diem aut sub condicione fit. pure veluti QUINQU
 
 Non solum res in stipulatum deduci possunt, sed etiam facta: ut si stipulemur fieri aliquid vel non fieri. et in huiusmodi stipulationibus optimum erit poenam, subiicere, ne quantitas stipulationis in incerto sit ac necesse sit actori probare, quid eius intersit. itaque si quis ut fiat aliquid, stipuletur, ita adici poena debet? SI ITA FACTUM NON ERIT, TUM POENAE NOMINE DECEM AUREOS DARE SPONDES: sed si quaedam fieri, quaedam non fieri una eademque conceptione stipuletur, clausula erit huiusmodi adicienda: SI ADVERSUS EA FACTUM ERIT, SIVE QUID ITA FACTUM NON ERIT, TUNC POENAE NOMINE DECEM AUREOS DARE SPONDES?
 
-LIB. III, TIT. XVI.
-DE DUOBUS REIS STIPULANDI ET PROMITTENDI.
+* 3.XVI. DE DUOBUS REIS STIPULANDI ET PROMITTENDI.
 
 Et stipulandi et promittendi duo pluresve rei fieri possunt. stipulandi ita si post omnium interrogationem promissor respondeat SPONDEO. ut puta cum duobus separatim stipulantibus ita promissor respondeat UTRIQUE VESTRUM DARE SPONDEO: nam si prius Titio spoponderit, deinde alio interrogante spondeat, alia atque alia erit obligatio nec creduntur duo rei stipulandi esse. duo pluresve rei promittendi ita fiunt, MAEVI, QUINQUE AUREOS DARE SPONDES?  SEI, EOSDEM QUINQUE AUREOS DARE SPONDES? respondeant singuli separatim SPONDEO. Ex huiusmodi obligationibus et stipulantibus solidum singulis debetur et promittentes singuli in solidum tenentur. in utraque tamen obligatione una res vertitur: et vel alter debitum accipiendo vel alter solvendo omnium perimit obligationem et omnes liberat. Ex duobus reis promittendi alius pure, alius in diem vel sub condicione obligari potest: nec impedimento erit dies aut condicio, quo minus ab eo qui pure obligatus est petatur.
 
-LIB. III, TIT. XVII.
-DE STIPULATIONE SERVORUM.
+* 3.XVII. DE STIPULATIONE SERVORUM.
 
 Servus ex persona domini ius stipulandi habet. sed hereditas in plerisque personae defuncti vicem sustinet: ideoque quod servus hereditarius ante aditam hereditatem stipulatur adquirit hereditati, ac per hoc etiam heredi postea facto adquiritur. Sive autem domino sive sibi sive conservo suo sive impersonaliter servus stipuletur, domino adquirit. idem iuris est et in liberis qui in potestate patris sunt, ex quibus causis adquirere possunt. Sed cum factum in stipulatione continebitur, omnimodo persona stipulantis continetur, veluti si servus stipuletur, ut sibi ire agere liceat: ipse enim tantum prohiberi non debet, non etiam dominus eius. Servus communis stipulando unicuique dominorum pro portione dominii adquirit, nisi si unius eorum iussu aut nominatim cui eorum stipulatus est: tunc enim soli ei adquiritur. quod servus communis stipulatur, si alteri ex dominis adquiri non potest, solidum alteri adquiritur, veluti si res quam dari stipulatus est unius domini sit.
 
-LIB. III, TIT. XVIII.
- DE DIVISIONE STIPULATIONUM.
+* 3.XVIII.  DE DIVISIONE STIPULATIONUM.
 
 Stipulationum aliae iudiciales sunt, aliae praetoriae, aliae conventionales, aliae communes tam praetoriae quam iudiciales. Iudiciales sunt dumtaxat quae a mero iudicis officio proficiscuntur: veluti de dolo cautio vel de persequendo servo qui in fuga est, restituendove pretio. Praetoriae, quae a mero praetoris officio proficiscuntur, veluti damni infecti vel legatorum. praetorias autem stipulationes sic exaudiri oportet ut in his contineantur etiam aediliciae: nam et hae ab iurisdictione veniunt. Conventionales sunt quae ex conventione utriusque partis concipiuntur, hoc est neque iussu iudicis neque iussu praetoris, sed ex conventione contrahentium. quaram totidem genera sunt, quot (paene dixerim) rerum contrahendarum. Communes sunt stipulationes veluti rem salvam fore pupilli: nam et praetor iubet rem salvam fore pupillo caveri, et interdum iudex, si aliter expediri haec res non potest: vel de rato stipulatio.
 
-LIB. III, TIT. XIX.
-DE INUTILIBUS STIPULATIONIBUS.
+* 3.XIX. DE INUTILIBUS STIPULATIONIBUS.
 
 Omnis res quae dominio nostro subicitur in stipulationem deduci potest, sive illa mobilis sive soli sit. At si quis rem quae in rerum natura non est aut esse non potest dari stipulatus fuerit, veluti Stichum, qui mortuus sit, quem vivere credebat, aut hippocentaurum, qui esse non possit, inutilis erit stipulatio. Idem iuris est, si rem sacram aut religiosam, quam humani iuris esse credebat, vel publicam, quae usibus populi perpetuo eita sit, ut forum vel theatrum, vel liberum hominem, quem servum esse credebat, vel rem cuius commercium non habuit, vel rem suam, dari quis stipuletur. nec in pendenti erit stipulatio ob id quod publica res in privatum deduci et ex libero servus fieri potest et commercium adipisci stipulator potest et res stipulatoris esse desinere potest: sed protinus inutilis est. item contra, licet initio utiliter res in stipulatum deducta sit, si postea in earum qua causa de quibus supra dictum est sine facto promissoris devenerit, extinguitur stipulatio. ac ne statim ab initio talis stipulatio valebit LUCIUM TITIUM, CUM SERVUS ERIT, DARE SPONDES? et similia, quia natura sui dominio nostro exempta in obligationem deduci nullo modo possunt.
 
@@ -259,8 +237,7 @@ Item nemo rem suam futuram in eum casum quo sua fit, utiliter stipulatur. Si de 
 
 Cum quis sub aliqua condicione fuerit stipulatus, licet ante condicionem decesserit, postea existente condicione, heres eius agere potest. idem est et a promissoris parte. Qui hoc anno aut hoc mense dari stipulatus sit, nisi omnibus partibus praeteritis anni vel mensis non recte petet. Si fundum dari stipuleris vel hominem, non poteris continuo agere, nisi tantum spatii praeterierit quo traditio fieri possit.
 
-LIB. III, TIT. XX.
-DE FIDEIUSSORIBUS.
+* 3.XX. DE FIDEIUSSORIBUS.
 
 Pro eo qui promittit solent alii obligari, qui fideiussores appellantur, quos homines accipere solent dum curant ut diligentius sibi cautum sit. In omnibus autem obligationibus adsumi possunt, id est sive re sive verbis sive litteris sive consensu contractae fuerint. ac ne illud quidem interest, utrum civilis an naturalis sit obligatio cui adiciatur fideiussor, adeo quidem ut pro servo quoque obligetur, sive extraneus sit qui fideiussorem a servo accipiat, sive ipse dominus in id quod sibi naturaliter debetur. Fideiussor non tantum ipse obligatur sed etiam heredem obligatum relinquit. Fideiussor et praecedere obligationem et sequi potest.
 
@@ -268,20 +245,17 @@ Si plures sint fideiussores, quotquot erunt numero, singuli in solidum tenentur.
 
 Si quid autem fideiussor pro reo solverit, eius reciperandi causa habet cum eo mandati indicium. Graece fideiussor plerumque ita accipitur: grju320a.gif sive grju320b.gif: sed et si grju320c.gif dixerit, pro eo erit ac si dixerit, grju320d.gif In stipulationibus fideiussorum sciendum est generaliter hoc accipi, ut, quodcumque scriptum sit quasi actum, videatur etiam actum: ideoque constat, si quis se scripserit fideiussisse, videri omnia sollemniter acta.
 
-LIB. III, TIT. XXI.
-DE LITTERARUM OBLIGATIONE.
+* 3.XXI. DE LITTERARUM OBLIGATIONE.
 
 Olim scriptura fiebat obligatio, quae nominibus fieri dicebatur: quae nomina hodie non sunt in usu.
 
 Plane si quis debere se scripserit quod numeratum ei non est, de pecunia minime numerata post multum temporis exceptionem opponere non potest: hoc enim saepissime constitutum est. sic fit ut et hodie, dum queri non potest. scriptura obligetur: et ex ea nascitur condictio, cessante scilicet verborum obligatione. multum autem tempus m hac exceptione antea quidem ex principalibus constitutionibus usque ad quinquennium procedebat: sed ne creditores diutius possint suis pecuniis forsitan defraudari, per constitutionem nostram tempus coartatum est, ut ultra biennii metas huiusmodi exceptio minime extendatur.
 
-LIB. III, TIT. XXII.
-DE CONSENSU OBLIGATIONE.
+* 3.XXII. DE CONSENSU OBLIGATIONE.
 
 Consensu fiunt obligationes in emptionibus venditionibus, locationibus conductionibus, societatibus, mandatis. Ideo autem istis modis consensu dicitur obligatio contrahi, quia neque scriptura neque praesentia omnimodo opus est, ac ne dari quidquam necesse est, ut substantiam capiat obligatio, sed sufficit eos qui negotium gerunt consentire. Unde imter absentes quoque talia negotia contrahuntur, veluti per epistulam aut per nuntium. Item in his contractibus alter alteri obligatur in id quod alterum alteri ex bono et aequo praestare oportet, cum alioquin in verborum obligationibus alius stipuletur, alius promittat.
 
-LIB. III, TIT. XXIII.
-DE EMPTIONE ET VENDITIONE.
+* 3.XXIII. DE EMPTIONE ET VENDITIONE.
 
 Emptio et venditio contrahitur simulatque de pretio convenerit, quamvis nondum pretium numeratum sit ac ne arra quidem data fuerit. nam quod arrae nomine datur argumentum est emptionis et venditionis contractae. sed haec quidem de emptionibus et venditionibus quae sine scriptura consistunt obtinere oportet: nam nihil a nobis in huiusmodi venditionibus innovatum est. in his autem quae scriptura conficiuntur non aliter perfectam esse emptionem et venditionem constituimus, nisi et instrumenta emptionis fuerint conscripta vel manu propria contrahentium, vel ab alio quidem scripta, a contrahente autem subscripta et, si per tabellionem fiunt, nisi et completiones acceperint et fuerint partibus absoluta. donec enim aliquid ex his deest, et poenitentiae locus est et potest emptor vel venditor sine poena recedere ab emptione. ita tamen impune recedere eis concedimus nisi iam arrarum nomine aliquid fuerit datum: hoc etenim subsecuto, sive in scriptis sive sine scriptis venditio celebrata est, is qui recusat adimplere contractum, si quidem emptor est, perdit quod dedit, si vero venditor, duplum restituere compellitur, licet nihil super arris expressum est.
 
@@ -293,8 +267,7 @@ diversae scholae auctores contra sentiebant, aliudque esse existimabant permutat
 
 Cum autem emptio et venditio contracta sit (quod effici diximus, simulatque de pretio convenerit, cum sine scriptura res agitur), periculum rei venditae statim ad emptorem pertinet, tametsi adhuc ea res emptori tradita non sit. itaque si homo mortuus sit vel aliqua parte corporis laesus fuerit, aut aedes totae aut aliqua ex parte incendio consumptae fuerint, aut fundus vi fluminis totus vel aliqua ex parte ablatus sit, sive etiam inundatione aquae aut arboribus turbine deiectis longe minor aut deterior esse coeperit, emptoris damnum est, cui necesse est, licet rem non fuerit nactus, pretium solvere. quidquid enim sine dolo et culpa venditoris accidit, in eo venditor securus est. sed et si post emptionem fundo aliquid per alluvionem accessit, ad emptoris commodum pertinet: nam et commodum eius esse debet cuius periculum est. Quodsi fugerit homo qui veniit, aut subreptus fuerit, ita ut neque dolus neque culpa venditoris interveniat animadvertendum erit an custodiam eius usque ad traditionem venditor susceperit. sane enim, si susceperit, ad ipsius periculum is casus pertinet: si non susceperit, securus erit. idem et in ceteris animalibus ceterisque rebus intellegimus. utique tamen vindicationem rei et condictionem exhibere debebit emptori, quia sane, qui rem nondum emptori tradidit adhuc ipse dominus est. idem est etiam de furti et de damni iniuriae actione. Emptio tam sub condicione quam pure contrahi potest. sub condicione veluti SI STICHUS INTRA CERTUM DIEM TIBI PLACUERIT, ERIT TIBI EMPTUS AUREIS TOT. Loca sacra vel religiosa, item publica, veluti forum, basilicam, frustra quis sciens emit, quas tamen si pro privatis vel profanis, deceptus a venditore, emerit, habebit actionem ex empto, quod non habere ei liceat ut consequatur quod sua interest deceptum eum non esse. idem iuris est, si hominem liberum pro servo emerit.
 
-LIB. III, TIT. XXIV.
-DE LOCATIONE ET CONDUCTIONE.
+* 3.XXIV. DE LOCATIONE ET CONDUCTIONE.
 
 Locatio et conductio proxima est emptioni et venditioni iisdemque iuris regulis consistit. nam ut emptio et venditio ita contrahitur si de pretio convenerit, sic etiam locatio et conductio ita contrahi intellegitur si merces constituta sit. et competit locatori quidem locati actio, conductori vero conducti. Et quae supra diximus, si alieno arbitrio pretium permissum fuerit, eadem et de locatione et conductione dicta esse intellegamus, si alieno arbitrio merces permissa fuerit. qua de causa si fulloni polienda curandave aut sarcinatori sarcienda vestimenta quis dederit nulla statim mercede constituta, sed postea tantum daturus quantum inter eos convenerit, non proprie locatio et conductio contrahi intellegitur, sed eo nomine praescriptis verbis actio datur.
 
@@ -306,8 +279,7 @@ Item quaeritur, si cum aurifice Titio convenerit, ut is ex auro suo certi ponder
 
 Conductor omnia secundum legem conductionis facere debet et, si quid in lege praetermissum fuerit, id ex bono et aequo debet praestare. qui pro usu aut vestimentorum aut argenti aut iumenti mercedem aut dedit aut promisit, ab eo custodia talis desideratur qualem diligentissimus paterfamilias suis rebus adhibet. quam si praestiterit et aliquo casu rem amiserit, de restituenda ea non tenebitur. Mortuo conductore intra tempora conductionis, heres eius eodem iure in conductionem succedit.
 
-LIB. III, TIT. XXV.
-DE SOCIETATE.
+* 3.XXV. DE SOCIETATE.
 
 Societatem coire solemus aut totorum bonorum, quam Graeci specialiter grju325a.gif appellant, aut unius alicuius negotiationis, veluti mancipiorum emendorum vendendorumque, aut olei, vini, frumenti emendi vendendique.
 
@@ -317,8 +289,7 @@ Manet autem societas eo usque donec in eodem consensu perseveraverint: at cum al
 
 Socius socio utrum eo nomine tantum teneatur pro socio actione si quid dolo commiserit, sicut is qui deponi apud se passus est, an etiam culpae, id est desidiae atque neglegentiae, nomine, quaesitum est: praevaluit tamen, etiam culpae nomine teneri eum. culpa autem non ad exactissimam diligentiam dirigenda est: sufficit enim talem diligentiam in communibus rebus adhibere socium, qualem suis rebus adhibere solet. nam qui parum diligentem socium sibi adsumit, de se queri, hoc est suae id imprudentiae imputare, debet.
 
-LIB. III, TIT. XXVI.
-DE MANDATO.
+* 3.XXVI. DE MANDATO.
 
 Mandatum contrahitur quinque modis, sive sua tantum gratia aliquis tibi mandet, sive sua et tua, sive alienia tantum, sive sua et aliena, sive tua et aliena. at si tua tantum gratia tibi mandatum sit, supervacuum est mandatum et ob id nulla ex eo obligatio nec mandati inter vos actio nascitur. Mandantis tantum gratia intervenit mandatum, veluti si quis tibi mandet ut negotia eius gereres, vel ut fundum ei emeres, vel ut pro eo sponderes. Tua et mandantis, veluti si mandet tibi ut pecuniam sub usuris crederes ei qui in rem ipsius mutuaretur, aut si, volente te agere cum eo ex fideiussoria causa, mandet tibi ut cum reo agas periculo mandantis, vel ut ipsius periculo stipuleris ab eo quem tibi deleget in id quod tibi debuerat. Aliena tantum causa intervenit mandatum, veluti si tibi mandet ut Titii negotia gereres, vel ut Titio fundum emeres, vel ut pro Titio sponderes. Sua et aliena, veluti si de communibus suis et Titii negotiis gerendis tibi mandet, vel ut sibi et Titio fundum emeres, vel ut pro eo et Titio sponderes. Tua et aliena, veluti si tibi mandet ut Titio sub usuris crederes. quodsi ut sine usuris crederes, aliena tantum gratia intercedit mandatum. Tua tantum gratia intervenit mandatum, veluti si tibi mandet ut pecunias tuas potius in emptiones praediorum colloces quam feneres, vel ex diverso ut feneres potius quem in emptiones praediorum colloces. cuius generis mandatum magis consilium est quam mandatum et ob id non est obligatorium, quia nemo ex consilio mandati obligatur, etiamsi non expediat ei cui dabitur, cum liberum cuique sit apud se explorare, an expediat consilium. itaque si otiosam pecuniam domi te habentem hortatus fuerit aliquis, ut rem aliquam emeres vel eum crederes, quamvis non expedierit tibi eam emisse vel credidisse, non tamen tibi mandati tenetur. et adeo haec ita sunt, ut quaesitum sit, an mandati teneatur qui mandavit tibi, ut Titio pecuniam fenerares: sed obtinuit Sabini sententia, obligatorium esse in hoc casu mandatum, quia non aliter Titio credidisses quam si tibi mandatum esset. Illud quoque mandatum non est obligatorium quod contra bonos mores est, veluti si Titius de furto aut damno faciendo aut de iniuria facienda tibi mandet. licet enim poenam istius facti nomine praestiteris, non tamen ullam habes adversus Titium actionem.
 
@@ -330,8 +301,7 @@ Mandatum non suscipere liberum est: susceptum autem consummandum aut quam primum
 
 Mandatum et in diem differri et sub condicione fieri potest. In summa sciendum est, mandatum, nisi gratuitum sit, in aliam formam negotii cadere: nam mercede constituta, incipit locatio et conductio esse. et ut generaliter dixerimus: quibus casibus, sine mercede suscepto officio, mandati aut depositi contrahitur negotium, his casibus, interveniente mercede, locatio et conductio contrahi intellegitur. et ideo si fulloni polienda curandave vestimenta dederis aut sarcinatori sarcienda, nulla mercede constituta neque promissa, mandati competit actio.
 
-LIB. III, TIT. XXVII.
-DE OBLIGATIONIBUS QUASI EX CONTRACTU.
+* 3.XXVII. DE OBLIGATIONIBUS QUASI EX CONTRACTU.
 
 Post genera contractuum enumerata dispiciamus etiam de his obligationibus quae non proprie quidem ex contractu nasci intelleguntur, sed tamen, quia non ex maleficio substantiam capiunt, quasi ex contractu nasci videntur.
 
@@ -345,8 +315,7 @@ Heres quoque legatorum nomine non proprie ex contractu obligatus intellegitur: n
 
 Item is cui quis per errorem non debitum solvit quasi ex contractu debere videtur. adeo enim non intellegitur proprie ex contractu obligatus ut, si certiorem rationem sequamur, magis, ut supra diximus, ex distractu quam ex contractu possit dici obligatus esse: nam qui solvendi animo pecuniam dat, in hoc dare videtur, ut distrahat potius negotium quam contrahat. sed tamen proinde is qui accepit obligatur, ac si mutuum illi daretur, et ideo condictione tenetur. Ex quibusdam tamen causis repeti non potest quod per errorem non debitum solutum sit. namque definiverunt veteres, ex quibus causis infitiando lis crescit, ex his causis non debitum solutum repeti non posse, veluti ex lege Aquilia, item ex legato. quod veteres quidem in his legatis locum habere voluerunt quae certa constituta per damnationem cuicumque fuerant legata: nostra autem constitutio cum unam naturam omnibus legatis et fideicommissis indulsit, huiusmodi augmentum in omnibus legatis et fideicommissis extendi voluit: sed non omnibus legatariis praebuit, sed tantummodo in his legatis et fideicommissis quae sacrosanctis ecclesiis, ceterisque venerabilibus locis quae religionis vel pietatis intuitu honorificantur, derelicta sunt, quae si indebita solvantur non repetuntur.
 
-LIB. III, TIT. XXVIII.
-PER QUAS PERSONAS NOBIS OBLIGATIO ADQUIRITUR.
+* 3.XXVIII. PER QUAS PERSONAS NOBIS OBLIGATIO ADQUIRITUR.
 
 Eitis generibus obligationum quae ex contractu vel quasi ex contractu
 nascuntur, admonendi sumus, adquiri vobis non solum per vosmet ipsos,
@@ -375,8 +344,7 @@ licet antea dubitabatur, tamen post nostram decisionem res expedita
 est, ut illi tantum adquirat qui hoc ei facere iussit, ut supra dictum
 est.
 
-LIB. III, TIT. XXIX.
-QUIBUS MODIS OBLIGATIO TOLLITUR.
+* 3.XXIX. QUIBUS MODIS OBLIGATIO TOLLITUR.
 
 Tollitur autem omnis obligatio solutione eius quod debetur, vel si quis, consentiente creditore, aliud pro alio solverit. nec tamen interest, quis solvat, utrum ipse qui debet, an alius pro eo: liberatur enim et alio solvente, sive sciente debitore sive ignorante vel invito solutio fiat. item si reus solverit, etiam ii qui pro eo intervenerunt liberantur. idem ex contrario contingit, si fideiussor solverit: non enim solus ipse liberatur, sed etiam reus.
 
