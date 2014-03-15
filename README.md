@@ -5,8 +5,9 @@ corpus-iuris
 
 Resources for the study of Roman and canon law...
 
-In progress: this contains ever-changing
-[org-mode friendly](http://orgmode.org) versions of the main texts
+Think of the files associated with this project as being under
+continuous development: they are ever-changing,
+[org-mode friendly](http://orgmode.org), versions of the main texts
 pertaining to classical Roman and canon law along with various related
 'tools'.  Many more texts await their conversion to plain text, but
 this is what I know of for now.
@@ -19,19 +20,16 @@ toggle the visibility of sections and subsections of texts, so you
 can, e.g., show only the main sections of a file (say, only the titles
 of the file codex-01.txt).  If you don't know what I'm talking about
 you're missing out.  But until you make the switch yourself, note that
-`org-mode` is still plain ASCII or UTF-8 (or, I suppse, your encoding
+`org-mode` is still plain ASCII or UTF-8 (or, I suppose, your encoding
 of choice), which means if you're operating system and/or text editor
-doesn't know how to handle the `.org` extention, just change it to
+doesn't know how to handle the `.org` extension, just change it to
 `.txt` and all will be well.  (But, really, just use Emacs: it makes
 dealing with these kinds of large text files *much* more convenient!)
 
 
-Canon Law
-=========
+## Canon Law
 
-
-Decretales (Liber extra)
-------------------------
+### Decretales (Liber extra)
 
 Source: [Decretalium Gregorii papae IX compilationis libri V](http://www.hs-augsburg.de/~harsch/Chronologia/Lspost13/GregoriusIX/gre_0000.html)
 
@@ -43,12 +41,10 @@ belief that the raw text of the *Decretales* surely belongs to the
 pubic domain by now.
 
 
-Roman Law
-=========
+## Roman Law
 
 
-Latin
------
+### Latin
 
 Source:  [The Latin Library](http://thelatinlibrary.com/ius.html)
 
@@ -66,8 +62,7 @@ I make no claims about their general usability.  Ideally that will one
 day change, but caveat lector.
 
 
-English
--------
+### English
 
 Source: [The Civil Law](http://www.constitution.org/sps/sps.htm)
 
@@ -90,14 +85,13 @@ to fix these problems as I come across them, but I do not use these
 texts as much as the Latin versions, so progress is much slower.
 
 For medievalists, however, there is one advantage to this translation,
-however: because Scott did not use the Kreuger edition of the *Code*,
+however: because Scott did not use the Krueger edition of the *Code*,
 his translation also includes the *authenticae* and the *Constitutions
 of Frederick* as they are found in vulgate editions of the *Code*.
 This is a nice addition.
 
 
-Contributions
-=============
+## Contributions
 
 If you download or clone or whatever these texts and end up making
 improvements, please consider submitting your changes so others can
