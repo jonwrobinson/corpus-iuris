@@ -1,28 +1,29 @@
-BOOK XXXVII.
+# -*- mode: org -*-
 
-TITLE I. CONCERNING THE PRAETORIAN POSSESSION OF PROPERTY. .
-TITLE II. PAGE CONCERNING PRAETORIAN POSSESSION WHERE THERE is A WILL
-TITLE III. CONCERNING THE PRAETORIAN POSSESSION OF PROPERTY GRANTED TO AN INSANE PERSON, AN INFANT, OR ONE WHO is DUMB, DEAF, OR BLIND
-TITLE IV. CONCERNING THE PRAETORIAN POSSESSION OF PROPERTY CONTRARY TO THE PROVISIONS OF THE WILL.
-TITLE V. CONCERNING THE PAYMENT OF LEGACIES WHERE PRAETORIAN POSSESSION OF AN ESTATE is
-OBTAINED CONTRARY TO THE PROVISIONS OF THE WILL
-TITLE VI. CONCERNING THE COLLATION OF PROPERTY
-TITLE VII. CONCERNING COLLATION OF THE DOWRY
-TITLE VIII. CONCERNING THE CONTRIBUTION TO BE MADE BETWEEN AN EMANCIPATED SON AND HIS CHILDREN
-TITLE IX. CONCERNING THE PLACING OF AN UNBORN CHILD IN POSSESSION OF AN ESTATE, AND HIS CURATOR
-TITLE X. CONCERNING THE CARBONIAN EDICT.
-TITLE XI. CONCERNING PRAETORIAN POSSESSION OF AN ESTATE IN ACCORDANCE WITH THE PROVISIONS OF THE WILL
-TITLE XII. CONCERNING PRAETORIAN POSSESSION WHERE A SON HAS BEEN MANUMITTED BY His FATHER
-TITLE XIII. CONCERNING PRAETORIAN POSSESSION OF AN ESTATE IN THE CASE OF THE WILL OF A SOLDIER
-TITLE XIV. CONCERNING THE EIGHT OF PATRONAGE
-TITLE XV. CONCERNING THE RESPECT WHICH SHOULD BE SHOWN TO PARENTS AND
+* BOOK XXXVII.
+
++ 37.I. CONCERNING THE PRAETORIAN POSSESSION OF PROPERTY. .
++ 37.II. PAGE CONCERNING PRAETORIAN POSSESSION WHERE THERE is A WILL
++ 37.III. CONCERNING THE PRAETORIAN POSSESSION OF PROPERTY GRANTED TO AN INSANE PERSON, AN INFANT, OR ONE WHO is DUMB, DEAF, OR BLIND
++ 37.IV. CONCERNING THE PRAETORIAN POSSESSION OF PROPERTY CONTRARY TO THE PROVISIONS OF THE WILL.
++ 37.V. CONCERNING THE PAYMENT OF LEGACIES WHERE PRAETORIAN POSSESSION OF AN ESTATE IS OBTAINED CONTRARY TO THE PROVISIONS OF THE WILL
++ 37.VI. CONCERNING THE COLLATION OF PROPERTY
++ 37.VII. CONCERNING COLLATION OF THE DOWRY
++ 37.VIII. CONCERNING THE CONTRIBUTION TO BE MADE BETWEEN AN EMANCIPATED SON AND HIS CHILDREN
++ 37.IX. CONCERNING THE PLACING OF AN UNBORN CHILD IN POSSESSION OF AN ESTATE, AND HIS CURATOR
++ 37.X. CONCERNING THE CARBONIAN EDICT.
++ 37.XI. CONCERNING PRAETORIAN POSSESSION OF AN ESTATE IN ACCORDANCE WITH THE PROVISIONS OF THE WILL
++ 37.XII. CONCERNING PRAETORIAN POSSESSION WHERE A SON HAS BEEN MANUMITTED BY His FATHER
++ 37.XIII. CONCERNING PRAETORIAN POSSESSION OF AN ESTATE IN THE CASE OF THE WILL OF A SOLDIER
++ 37.XIV. CONCERNING THE EIGHT OF PATRONAGE
++ 37.XV. CONCERNING THE RESPECT WHICH SHOULD BE SHOWN TO PARENTS AND
 PATRONS
 
 
 THE DIGEST OR PANDECTS. SIXTH PART. BOOK XXXVII.
 
 
-TITLE I. CONCERNING THE PRAETORIAN POSSESSION OF PROPERTY.
+* 37.I. CONCERNING THE PRAETORIAN POSSESSION OF PROPERTY.
 
 1. Ulpianus, On the Edict, Book XXXIX.
 Praetorian possession transfers both the benefits and inconveniences attached
@@ -165,8 +166,10 @@ the minor child.
 When the person for whom praetorian possession is demanded subsequently becomes
 insane, the better opinion is that he will be held to have ratified the act,
 for a ratification only means the confirmation of a former demand.
-TITLE II.
-CONCERNING PRAETORIAN POSSESSION WHERE THERE Is A WILL.
+
+
+* 37.II. CONCERNING PRAETORIAN POSSESSION WHERE THERE Is A WILL.
+
 1. Paulus, On Sabinus, Book III.
 Praetorian possession of property can, under no circumstances, be granted to an
 heir whose name has been erased from the will so that it can hardly be read,
@@ -176,10 +179,10 @@ name has been defaced after the will has been produced. For if the will was in
 existence at the time of death, even though it may have been subsequently
 destroyed, praetorian possession of the estate can be granted, because it is
 true that there once was a will.
-TITLE III.
-CONCERNING THE PR^TORIAN POSSESSION OF PROPERTY
-GRANTED TO AN INSANE PERSON, AN INFANT, OR ONE
-WHO is DUMB, DEAF, OR BLIND.
+
+
+* 37.III. CONCERNING THE PRAETORIAN POSSESSION OF PROPERTY GRANTED TO AN INSANE PERSON, AN INFANT, OR ONE WHO IS DUMB, DEAF, OR BLIND.
+
 1. Papinianus, Questions, Book XV.
 Titius was substituted as the heir of an insane person. The time prescribed for
 demanding praetorian possession does not run either against the appointed heir,
@@ -200,8 +203,11 @@ himself should die before acquiring the estate.
 2. Ulpianus, On the Edict, Book XXXIX.
 A person who is dumb, deaf, or blind, can obtain praetorian possession of
 property, if he understands what is taking place.
-TITLE IV. CONCERNING THE PRAETORIAN POSSESSION OF PROPERTY
-CONTRARY TO THE PROVISIONS OF THE WILL. 1. Ulpianus, On the Edict, Book XXXIX.
+
+
+* 37.IV. CONCERNING THE PRAETORIAN POSSESSION OF PROPERTY CONTRARY TO THE PROVISIONS OF THE WILL.
+
+1. Ulpianus, On the Edict, Book XXXIX.
 We must understand the term &quot;children&quot; when used with reference to
 the praetorian possession of an estate contrary to the provisions of
 the will, to mean either natural or adopted children, where they have either
@@ -779,10 +785,10 @@ will, because by this adoption he does not become a member of another family.
 said adoptive son cannot demand praetorian possession of my estate contrary to
 the provisions of my will, for the reason that he never sustained the relation
 of grandson to me.
-TITLE V.
-CONCERNING THE PAYMENT OF LEGACIES WHERE PR^E-TORIAN POSSESSION OP AN ESTATE Is
-OBTAINED CONTRARY
-TO THE PROVISIONS OF THE WILL.
+
+
+* 37.V. CONCERNING THE PAYMENT OF LEGACIES WHERE PRAETORIAN POSSESSION OF AN ESTATE IS OBTAINED CONTRARY TO THE PROVISIONS OF THE WILL.
+
 1. Ulpianus, On the Edict, Book XL.
 This Title treats of a principle of natural equity which is introduced for a
 definite purpose; that is, in order to compel those who render a will of no
@@ -1221,7 +1227,10 @@ said son, there is no doubt whatever that he or they should be protected to the
 same extent, as would have been the case if the grandson by his son, or the
 mother of the deceased, had been appointed heirs, for he can be compared to
 them.
-TITLE VI. CONCERNING THE COLLATION OF PROPERTY.
+
+
+* 37.VI. CONCERNING THE COLLATION OF PROPERTY.
+
 1. Ulpianus, On the Edict, Book XL.
 The subject of this Title manifestly is an equitable one; for the Praetor
 permits emancipated children to obtain possession of the estate in opposition
@@ -1634,8 +1643,11 @@ Where anyone leaves a wife who is pregnant, and she obtains praetorian
 possession in the name of her unborn child, collation is suspended for a time;
 for before the child was born it could not be said to have been under the
 control of the deceased; but after it is born, collation must be made.
-TITLE VII.
-CONCERNING COLLATION OF THE DOWRY. 1. Ulpianus, On the Edict, Book XL.
+
+
+* 37.VII. CONCERNING COLLATION OF THE DOWRY.
+
+1. Ulpianus, On the Edict, Book XL.
 Although the Praetor only compels a daughter to make collation of her dowry
 where she demands possession of the estate under the Edict; still if she does
 not do so she should make collation, provided she meddles with the estate of
@@ -1749,9 +1761,10 @@ not be forced to do so. Therefore, the dowry which was given will not only
 remain in the hands of the husband, but also, if it has been promised it can be
 collected from her brothers, and is considered a debt, as it is no longer
 included in the estate of the father.
-TITLE Vill.
-CONCERNING THE CONTRIBUTION TO BE MADE BETWEEN AN EMANCIPATED SON AND His
-CHILDREN.
+
+
+* 37.VIII. CONCERNING THE CONTRIBUTION TO BE MADE BETWEEN AN EMANCIPATED SON AND HIS CHILDREN.
+
 1. Ulpianus, On the Edict, Book XL.
 Where anyone of those to whom the Praetor promises the possession of an estate
 is not under paternal control at the time of the death of his father, and he
@@ -1977,9 +1990,10 @@ estate? And who must be deprived of his share to obtain what is given him ?
 Would it be taken only from his father, or from his uncle as well? I think it
 would only be taken from his uncle, for he would be compelled to pay the legacy
 bequeathed to the said grandson.
-TITLE IX.
-CONCERNING THE PLACING OF AN UNBORN CHILD IN POSSESSION OP AN ESTATE, AND His
-CURATOR.
+
+
+* 37.IX. CONCERNING THE PLACING OF AN UNBORN CHILD IN POSSESSION OF AN ESTATE, AND HIS CURATOR.
+
 1. Ulpiamis, On the Edict, Book XLI.
 The Prastor not only provides for the welfare of children who are already born,
 but also does not neglect those who are as yet unborn; for he protects their
@@ -2203,8 +2217,12 @@ the time of the death of the testator, can obtain praetorian possession of the
 estate, for the Praetor places it in possession under all the Sections of the
 Edict by which it may obtain it, but it will not be placed in possession, if,
 after its birth, it is not entitled to it.
-TITLE X. CONCERNING THE CAKBONIAN EDICT.
+
+
+* 37.X. CONCERNING THE CAKBONIAN EDICT.
+
 1. Ulpianus, On the Edict, Book XLI.
+
 If a dispute should arise as to whether a child under the age of puberty should
 be included among the descendants of the deceased, possession will be given it
 after proper cause is shown, just as if no controversy had arisen with
@@ -2657,9 +2675,10 @@ to contribution in collation.
 Just as security is given to an emancipated son with reference to the estate of
 his father, so it must also be given to a minor with reference to the property
 which he himself places in collation.
-TITLE XI.
-CONCERNING PRAETORIAN POSSESSION OF AN ESTATE IN ACCORDANCE WITH THE PROVISIONS
-OF THE WILL.
+
+
+* 37.XI. CONCERNING PRAETORIAN POSSESSION OF AN ESTATE IN ACCORDANCE WITH THE PROVISIONS OF THE WILL.
+
 1. Ulpianus, On the Edict, Book XXXIX.
 By a will we should understand any kind of material upon which it is written;
 therefore, whether it is written upon tablets of wood, or
@@ -3316,8 +3335,10 @@ If, however, I should say, &quot;Let Titius be my heir if I have appointed him
 heir to half of my estate in my first will,&quot; or &quot;Let him be my heir
 if I have appointed him heir to half of my estate in my codicil,&quot; he can
 then obtain possession of my estate, as he was appointed heir conditionally.
-TITLE XII.
-CONCERNING PRAETORIAN POSSESSION WHERE A SON HAS BEEN MANUMITTED BY His FATHER.
+
+
+* 37.XII. CONCERNING PRAETORIAN POSSESSION WHERE A SON HAS BEEN MANUMITTED BY His FATHER.
+
 1. Ulpianus, On the Edict, Book XLV.
 Ason who has been emancipated by his father is in the same condition, so far as
 praetorian possession contrary to the provisions of the will is concerned, as
@@ -3405,9 +3426,10 @@ possession of his estate on account of having manumitted him. This, however,
 was refused him on the advice of Neratius Priscus and Aristo as the
 emancipation took place through necessity, because of the want of paternal
 affection.
-TITLE XIII.
-CONCERNING PRAETORIAN POSSESSION OF AN ESTATE IN THE CASE OP THE WILL OP A
-SOLDIER.
+
+
+* 37.XIII. CONCERNING PRAETORIAN POSSESSION OF AN ESTATE IN THE CASE OP THE WILL OP A SOLDIER.
+
 1. Ulpianus, On the Edict, Book XLV.
 There is no doubt that the wishes of those who make their last wills while in
 arms against the enemy, no matter in what way they may do so, and who die while
@@ -3429,7 +3451,10 @@ military law.
 have left one and not yet have been enrolled in another, he can, nevertheless,
 make a will according to military law; for he is still a soldier, although he
 may not yet have been assigned to any particular legion.
-TITLE XIV. CONCERNING THE RIGHT OP PATRONAGE.
+
+
+* 37.XIV. CONCERNING THE RIGHT OP PATRONAGE.
+
 1. Ulpianus, On the Office of Proconsul, Book IX.
 Governors should hear the complaints of patrons against their freedmen, and
 their cases should be tried without delay; for if a freedman is ungrateful, he
@@ -3670,8 +3695,10 @@ decided that this had not been done in accordance with any law, and that the
 division of the freedmen was void; but that the appointment of the provisions
 made by the judge among the co-heirs should be confirmed without any
 alteration.
-TITLE XV.
-CONCERNING THE RESPECT WHICH SHOULD BE SHOWN TO PARENTS AND PATRONS.
+
+
+* 37.XV. CONCERNING THE RESPECT WHICH SHOULD BE SHOWN TO PARENTS AND PATRONS.
+
 1. Ulpianus, Opinions, Book I.
 The filial affection due to parents should also be manifested by soldiers.
 Wherefore, if a son, who is a soldier, commits any improper act towards his

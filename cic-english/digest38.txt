@@ -1,3 +1,5 @@
+# -*- mode: org -*-
+
 BOOK XXXVIII.
 
 Title I. Concerning The Services Of Freedmen

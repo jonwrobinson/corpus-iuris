@@ -1,3 +1,5 @@
+# -*- mode: org -*-
+
 THE CIVIL LAW
 INCLUDING
 The Twelve Tables, The Institutes of Gaius, The Rules of

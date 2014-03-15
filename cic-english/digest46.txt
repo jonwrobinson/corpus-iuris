@@ -1,3 +1,5 @@
+# -*- mode: org -*-
+
 BOOK XLVI.
 TITLE I. CONCERNING SURETIES AND MANDATORS ............................. 155
 TITLE II. CONCERNING NOVATIONS AND DELEGATIONS ......................... 175

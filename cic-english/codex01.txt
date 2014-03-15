@@ -1,5 +1,7 @@
 # -*- mode: org -*-
 
+# -*- mode: org -*-
+
 THE CIVIL LAW INCLUDING The Twelve Tables, The Institutes of Gaius,
 The Rules of Ulpian, The Opinions of Paulus, The Enactments of
 Justinian, and The Constitutions of Leo: Translated from the original

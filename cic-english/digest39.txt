@@ -1,3 +1,5 @@
+# -*- mode: org -*-
+
 
 
 TTIITTLLEE IIIIII.. PPAAGGEE

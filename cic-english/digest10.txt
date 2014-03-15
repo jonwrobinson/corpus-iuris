@@ -1,3 +1,5 @@
+# -*- mode: org -*-
+
 BOOK X.
 
 TITLE I. CONCERNING THE ESTABLISHMENT OF BOUNDARIES...................

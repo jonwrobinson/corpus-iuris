@@ -1,3 +1,5 @@
+# -*- mode: org -*-
+
 BOOK XLII.
 
 + TITLE I. Concerning res judicata and the effect of decisions, and

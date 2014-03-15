@@ -1,3 +1,5 @@
+# -*- mode: org -*-
+
 BOOK XLVIII.
 
 TITLE I. ON CRIMINAL PROSECUTIONS ...................................... 13

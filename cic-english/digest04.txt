@@ -1,6 +1,8 @@
+# -*- mode: org -*-
+
 THE DIGEST OR PANDECTS. BOOK IV.
 
-TITLE I. CONCERNING COMPLETE RESTITUTION.
+* 4.I. CONCERNING COMPLETE RESTITUTION.
 
 1. *Ulpianus, On the Edict, Book XL*
 
@@ -84,7 +86,7 @@ where others who enjoy the same privilege, if they are defended by their
 agents, are usually only relieved by complete restitution to the extent
 of being permitted to appeal.
 
-TITLE II. WHERE AN ACT IS PERFORMED ON ACCOUNT OF FEAR.
+* 4.II. WHERE AN ACT IS PERFORMED ON ACCOUNT OF FEAR.
 
 1. *Ulpianus, On the Edict, Book XL*
 
@@ -671,7 +673,7 @@ Angliæ*, II, XVI, 5.) In both England and Scotland, in determining the
 existence of duress, all the circumstances of the case must be taken
 into consideration. Where any one is forcibly compelled to make a con-
 
-TITLE III. CONCERNING FRAUDULENT INTENT.
+* 4.III. CONCERNING FRAUDULENT INTENT.
 
 1. *Ulpianus, On the Edict, Book XI*.
 
@@ -1280,7 +1282,7 @@ which is not sufficient to pay its creditors, shall be liable for fraud,
 unless he himself is the sole creditor; for then it will be sufficient
 to plead an exception on the ground of fraud against him.
 
-TITLE IV.
+* 4.IV.
 
 CONCERNING PERSONS UNDER TWENTY-FIVE YEARS OF AGE. 1. *Ulpianus, On the
 Edict, Book XI*.
@@ -2479,7 +2481,7 @@ action dependent upon the time in which the minor intervened, is the
 more correct one; and therefore that the pledge which the former gave
 will still remain encumbered.
 
-TITLE V. CONCERNING THE CHANGE OF CONDITION.
+* 4.V. CONCERNING THE CHANGE OF CONDITION.
 
 1. *Gaius, On the Provincial Edict, Book IV. Capitis Minutio* is a
 change of condition.
@@ -2619,7 +2621,7 @@ freedom and citizenship are retained, and only the family position is
 altered, it is established that the least change of condition takes
 place.
 
-TITLE VI.
+* 4.VI.
 
 WHAT THE GROUNDS ARE ON WHICH PERSONS OVER TWENTY-FIVE YEARS OP AGE ARE
 ENTITLED TO COMPLETE
@@ -3322,7 +3324,7 @@ A person who is absent in the service of the State is entitled to
 restitution against one who is also absent on public business, if he has
 just cause for complaint on account of having sustained some loss.
 
-TITLE VII.
+* 4.VII.
 
 CONCERNING ALIENATIONS MADE FOR THE PURPOSE OF CHANGING THE CONDITIONS
 OF A TRIAL.
@@ -3510,7 +3512,7 @@ proceedings, he is forbidden to do so under that Section of the Edict by
 which it is provided that no alienation shall be made for the purpose of
 changing the conditions of a trial.
 
-TITLE VIII.
+* 4.VIII.
 
 CONCERNING MATTERS REFERRED TO OTHERS FOR ARBITRATION AND THOSE WHO
 ACCEPT THEM FOR THE PURPOSE OF MAKING AN AWARD.
@@ -4509,115 +4511,55 @@ command himself to perform an act, or prohibit himself from doing it.
 Where a party is ordered by an arbiter to pay a sum of money in
 accordance with the terms of arbitration, and fails to do so, he must
 pay the penalty in pursuance of the agreement, but if he afterwards
-makes payment he will be released from the penalty.^1^
+makes payment he will be released from the penalty.[fn:arb]
 
-^1^ The *arbiter*, or *judex*, of the Roman Law, was the prototype of
-the modern master in chancery. He had only jurisdiction of matters of
-fact, and was appointed by the court with the consent of the parties,
-who had the right to reject him if they
-
-TITLE IX.
-
-SAILORS, INNKEEPERS, AND THE PROPRIETORS OP STABLES, MUST RESTORE
-PROPERTY ENTRUSTED TO THEM.
-
-1. *Ulpianus, On the Edict, Book XIV*.
-
-The prætor says: "When sailors, innkeepers, and the proprietors of
-stables have received property for safe keeping, I will grant an action
-against them if they do not restore it".
-
-(1) This Edict is extremely useful, for the reason that it is very
-frequently necessary to place confidence in persons of this kind, and to
-entrust them with the care of property. No one should think that this
-Edict imposes any hardship upon them, for they have the choice of
-refusing to receive anyone; and, unless this rule was established,
-opportunity would be given for them to cooperate with thieves against
-those whom they receive as guests; since, even now, they do not abstain
-from fraudulent acts of this description.
-
-(2) Therefore, let us consider who those are that are liable. The
-prætor says "Sailors". We must understand a "sailor" to be the person
-who has charge of the ship, although all are called sailors who are on
-board the vessel for the purpose of navigating it, but the prætor only
-has in mind the owner; for Pomponius says that the latter ought not to
-be liable for the act of an oarsman, or sub-pilot, but only for what he
-does himself, or for the act of the captain; although if he himself
-ordered anyone to commit something to the care of a sailor, he would
-himself undoubtedly be liable.
-
-found the selection of the magistrate unsatisfactory. The title of
-"*arbiter*" was suggestive of greater authority — "*Arbiter est qui
-totius rei arbitrium habet et potestatem*" — was generally applied to
-one chosen to decide questions arising in *actiones bonæ fidei;*that is
-to say those that were not subject to the rigid interpretation of the
-rules of the Civil Law — such as leasing and hiring, purchase and sale,
+[fn:arb1] The *arbiter*, or *judex*, of the Roman Law, was the
+prototype of the modern master in chancery. He had only jurisdiction
+of matters of fact, and was appointed by the court with the consent of
+the parties, who had the right to reject him if they found the
+selection of the magistrate unsatisfactory. The title of "*arbiter*"
+was suggestive of greater authority — "*Arbiter est qui totius rei
+arbitrium habet et potestatem*" — was generally applied to one chosen
+to decide questions arising in *actiones bonæ fidei;*that is to say
+those that were not subject to the rigid interpretation of the rules
+of the Civil Law — such as leasing and hiring, purchase and sale,
 guardianship, mandate, pledge, deposit, and many others in which the
 principles of equity as interpreted by the prætorian tribunal might be
-advantageously employed. The *arbiter* had the right to summon assessors
-to assist him in the formation and promulgation of his decisions. Before
-the reign of Augustus, no restrictions were placed upon the designation
-of *arbitri* or *judices*, except that they should possess the
-qualifications of age, integrity, popular respect, and legal knowledge
-requisite for the determination of such matters as might be brought
-before them. The *arbiter* was compelled to comply strictly with the
-written instructions of the prætor, which were communicated to him
-either at the time of his appointment, or subsequently before the case
-was heard. He was expected to render his *arbitrium*, or award, in
-accordance with the generally recognized principles of equity governing
-the conduct of good and honorable citizens, and without having recourse
-to any legal technicalities which might defeat the ends of justice. At
-Common Law, arbitration was the extra-judicial settlement of a matter in
-controversy which had the full effect of a decision in court, and by
-which the parties interested were forced to abide, through the execution
-of mutual undertakings for that purpose. It was either voluntary, or by
-order of a competent court. In feudal times, no title involving real
-property could be transferred in consequence of a submission to
-arbitration; as otherwise it might have been fraudulently disposed of in
-derogation of the rights of the lord of the fee. Questions of
-arbitration are now regulated in England by statute, as they are in this
-country. In England, the rules governing the appointment of arbitrators
-and their duties for the most part correspond with those of the Civil
-Law. An agreement to refer a
-
-(3) There are also persons who occupy positions on board ships for the
-purpose of caring for merchandise such as nanfulaceV, that is to say,
-marine guards and stewards. Therefore, if any of these should receive
-anything, I think that an action should be granted against the owner of
-the ship, because he who appointed persons of this kind to office
-permits property to be placed in their charge; even though the captain,
-or master does that which is called ceirembolon** that is to say,
-"taking the property in his hands". But even if he does not do this, the
-ship-owner will nevertheless be liable for what was received.
-
-(4) No provision is made with reference to those who have charge of
-rafts or boats, but Labeo says that the same rule applies to them; and
-this is our practice.
-
-(5) We understand by the terms "innkeepers" and "stablekeepers", those
-who conduct an inn or a stable, or their agents. Persons, however, who
-are engaged in menial occupations, are not included; as, for instance,
-door-keepers, cooks, and others like them.
-
-(6) The prætor says, "Where they have received the property of anyone
-for safe keeping"; that is to say, any article or any goods whatsoever.
-Hence, it is stated in Vivianus, that this Edict also has reference to
-things which do not come under the head of merchandise; as, for
-instance, clothing which is worn on board ship, and other things such as
-persons daily make use of.
-
-(7) Moreover, Pomponius says in the Thirty-fourth Book, that it makes a
-little difference whether we bring in our own property or that
-
-dispute, if not in writing, cannot be enforced. The arbitrator may
-submit a legal point to the court for his opinion, and from this opinion
-no appeal will lie. If one party to the arbitration sues the other, the
-latter is entitled to a stay, after he has entered an appearance but
-before he does anything else. The award must be in writing, and cannot
-materially be altered unless it is returned by the judge for that
-purpose. An award may, by application to the court, be enforced in the
-same way as a judgment. It must be signed by the arbitrator and properly
-attested, and can be set aside if sufficient cause be shown.
+advantageously employed. The *arbiter* had the right to summon
+assessors to assist him in the formation and promulgation of his
+decisions. Before the reign of Augustus, no restrictions were placed
+upon the designation of *arbitri* or *judices*, except that they
+should possess the qualifications of age, integrity, popular respect,
+and legal knowledge requisite for the determination of such matters as
+might be brought before them. The *arbiter* was compelled to comply
+strictly with the written instructions of the prætor, which were
+communicated to him either at the time of his appointment, or
+subsequently before the case was heard. He was expected to render his
+*arbitrium*, or award, in accordance with the generally recognized
+principles of equity governing the conduct of good and honorable
+citizens, and without having recourse to any legal technicalities
+which might defeat the ends of justice. At Common Law, arbitration was
+the extra-judicial settlement of a matter in controversy which had the
+full effect of a decision in court, and by which the parties
+interested were forced to abide, through the execution of mutual
+undertakings for that purpose. It was either voluntary, or by order of
+a competent court. In feudal times, no title involving real property
+could be transferred in consequence of a submission to arbitration; as
+otherwise it might have been fraudulently disposed of in derogation of
+the rights of the lord of the fee. Questions of arbitration are now
+regulated in England by statute, as they are in this country. In
+England, the rules governing the appointment of arbitrators and their
+duties for the most part correspond with those of the Civil Law. An
+agreement to refer a dispute, if not in writing, cannot be
+enforced. The arbitrator may submit a legal point to the court for his
+opinion, and from this opinion no appeal will lie. If one party to the
+arbitration sues the other, the latter is entitled to a stay, after he
+has entered an appearance but before he does anything else. The award
+must be in writing, and cannot materially be altered unless it is
+returned by the judge for that purpose. An award may, by application
+to the court, be enforced in the same way as a judgment. It must be
+signed by the arbitrator and properly attested, and can be set aside
+if sufficient cause be shown.
 
 In Scotland, it is styled a "*decreet arbitral*", and may be set aside
 on the ground of corruption or perjury. Where there are two or more
@@ -4647,6 +4589,63 @@ award, but the appellant, before being heard, must pay the penalty
 prescribed, if any was agreed upon, which may be refunded if the award
 is reversed. (Civil Code of Louisiana, Art. 3066-3098.) — ED.
 
+
+
+* 4.IX. SAILORS, INNKEEPERS, AND THE PROPRIETORS OP STABLES, MUST RESTORE PROPERTY ENTRUSTED TO THEM.
+
+1. *Ulpianus, On the Edict, Book XIV*.
+
+The prætor says: "When sailors, innkeepers, and the proprietors of
+stables have received property for safe keeping, I will grant an action
+against them if they do not restore it".
+
+(1) This Edict is extremely useful, for the reason that it is very
+frequently necessary to place confidence in persons of this kind, and to
+entrust them with the care of property. No one should think that this
+Edict imposes any hardship upon them, for they have the choice of
+refusing to receive anyone; and, unless this rule was established,
+opportunity would be given for them to cooperate with thieves against
+those whom they receive as guests; since, even now, they do not abstain
+from fraudulent acts of this description.
+
+(2) Therefore, let us consider who those are that are liable. The
+prætor says "Sailors". We must understand a "sailor" to be the person
+who has charge of the ship, although all are called sailors who are on
+board the vessel for the purpose of navigating it, but the prætor only
+has in mind the owner; for Pomponius says that the latter ought not to
+be liable for the act of an oarsman, or sub-pilot, but only for what he
+does himself, or for the act of the captain; although if he himself
+ordered anyone to commit something to the care of a sailor, he would
+himself undoubtedly be liable.
+
+(3) There are also persons who occupy positions on board ships for the
+purpose of caring for merchandise such as nanfulaceV, that is to say,
+marine guards and stewards. Therefore, if any of these should receive
+anything, I think that an action should be granted against the owner of
+the ship, because he who appointed persons of this kind to office
+permits property to be placed in their charge; even though the captain,
+or master does that which is called ceirembolon** that is to say,
+"taking the property in his hands". But even if he does not do this, the
+ship-owner will nevertheless be liable for what was received.
+
+(4) No provision is made with reference to those who have charge of
+rafts or boats, but Labeo says that the same rule applies to them; and
+this is our practice.
+
+(5) We understand by the terms "innkeepers" and "stablekeepers", those
+who conduct an inn or a stable, or their agents. Persons, however, who
+are engaged in menial occupations, are not included; as, for instance,
+door-keepers, cooks, and others like them.
+
+(6) The prætor says, "Where they have received the property of anyone
+for safe keeping"; that is to say, any article or any goods whatsoever.
+Hence, it is stated in Vivianus, that this Edict also has reference to
+things which do not come under the head of merchandise; as, for
+instance, clothing which is worn on board ship, and other things such as
+persons daily make use of.
+
+(7) Moreover, Pomponius says in the Thirty-fourth Book, that it makes a
+little difference whether we bring in our own property or that
 of others, if we have an interest in having it kept safely, for the
 property should be returned to us rather than to those to whom it
 belonged; and, therefore, if I accept merchandise as a pledge for money

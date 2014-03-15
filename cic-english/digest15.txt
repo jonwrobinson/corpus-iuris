@@ -1,3 +1,5 @@
+# -*- mode: org -*-
+
 BOOK XV.
 
 TITLE I. CONCERNING THE ACTION ON THE PECULIUM........................

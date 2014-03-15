@@ -1,3 +1,5 @@
+# -*- mode: org -*-
+
 BOOK III.
 TITLE I. CONCERNING ESTATES WHICH PASS BY INTESTACY.
 He dies intestate who either did not make any will at all, or did not make it

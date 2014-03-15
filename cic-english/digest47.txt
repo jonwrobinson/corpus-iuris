@@ -2,35 +2,30 @@
 
 * BOOK XLVII.
 
-47.I. CONCERNING PRIVATE OFFENCES
-47.III. CONCERNING THE THEFT OF TIMBERS JOINED TO A BUILDING
-47.IV. WHERE ANYONE WHO is ORDERED TO BE FREE BY THE TERMS OF A WILL, AFTER THE DEATH OF His MASTER AND BEFORE THE ESTATE is ENTERED UPON, is SAID TO HAVE STOLEN OR SPOILED SOMETHING
-47.V. CONCERNING THEFT COMMITTED AGAINST CAPTAINS OF VESSELS, INNKEEPERS, AND LANDLORDS
-47.VI. CONCERNING THEFTS ALLEGED TO HAVE BEEN MADE BY AN ENTIRE BODY OF SLAVES
-47.VII. CONCERNING TREES CUT DOWN BY STEALTH
-47.VIII. CONCERNING THE ROBBERY OF PROPERTY BY VIOLENCE, AND DISORDERLY ASSEMBLAGES
-47.IX. CONCERNING FIRE, DESTRUCTION, AND SHIPWRECK, WHERE A BOAT OR A SHIP is TAKEN BY FORCE
-47.X. CONCERNING INJURIES AND INFAMOUS LIBELS
-47.XI CONCERNING THE ARBITRARY PUNISHMENT OF CRIME
-47.XII. CONCERNING THE VIOLATION OF SEPULCHERS
-47.XIII. CONCERNING EXTORTION
-47.XIV. PAGE CONCERNING THOSE WHO STEAL CATTLE
-47.XV. CONCERNING PREVARICATION
-47.XVI. CONCERNING THOSE WHO HARBOR CRIMINALS
-47.XVII. CONCERNING THIEVES WHO STEAL IN BATHS
-47.XVIII. CONCERNING THOSE WHO BREAK OUT OF PRISON, AND PLUNDERERS
-47.XIX. CONCERNING THE SPOLIATION OF ESTATES
-47.XX. CONCERNING STELLIONATUS
-47.XXI. CONCERNING THE REMOVAL OF BOUNDARIES
-47.XXII. CONCERNING ASSOCIATIONS AND CORPORATIONS
-47.XXIII. CONCERNING POPULAR ACTIONS
++ 47.I. CONCERNING PRIVATE OFFENCES
++ 47.III. CONCERNING THE THEFT OF TIMBERS JOINED TO A BUILDING
++ 47.IV. WHERE ANYONE WHO is ORDERED TO BE FREE BY THE TERMS OF A WILL, AFTER THE DEATH OF His MASTER AND BEFORE THE ESTATE is ENTERED UPON, is SAID TO HAVE STOLEN OR SPOILED SOMETHING
++ 47.V. CONCERNING THEFT COMMITTED AGAINST CAPTAINS OF VESSELS, INNKEEPERS, AND LANDLORDS
++ 47.VI. CONCERNING THEFTS ALLEGED TO HAVE BEEN MADE BY AN ENTIRE BODY OF SLAVES
++ 47.VII. CONCERNING TREES CUT DOWN BY STEALTH
++ 47.VIII. CONCERNING THE ROBBERY OF PROPERTY BY VIOLENCE, AND DISORDERLY ASSEMBLAGES
++ 47.IX. CONCERNING FIRE, DESTRUCTION, AND SHIPWRECK, WHERE A BOAT OR A SHIP is TAKEN BY FORCE
++ 47.X. CONCERNING INJURIES AND INFAMOUS LIBELS
++ 47.XI CONCERNING THE ARBITRARY PUNISHMENT OF CRIME
++ 47.XII. CONCERNING THE VIOLATION OF SEPULCHERS
++ 47.XIII. CONCERNING EXTORTION
++ 47.XIV. PAGE CONCERNING THOSE WHO STEAL CATTLE
++ 47.XV. CONCERNING PREVARICATION
++ 47.XVI. CONCERNING THOSE WHO HARBOR CRIMINALS
++ 47.XVII. CONCERNING THIEVES WHO STEAL IN BATHS
++ 47.XVIII. CONCERNING THOSE WHO BREAK OUT OF PRISON, AND PLUNDERERS
++ 47.XIX. CONCERNING THE SPOLIATION OF ESTATES
++ 47.XX. CONCERNING STELLIONATUS
++ 47.XXI. CONCERNING THE REMOVAL OF BOUNDARIES
++ 47.XXII. CONCERNING ASSOCIATIONS AND CORPORATIONS
++ 47.XXIII. CONCERNING POPULAR ACTIONS
 
-
-
-THE DIGEST OR PANDECTS. BOOK XVLII.
-
-
-47.I. CONCERNING PRIVATE OFFENCES.
+* 47.I. CONCERNING PRIVATE OFFENCES.
 
 
 1. Ulpianus, On Sabinus, Book XLV.
@@ -170,8 +165,7 @@ ordinary proceeding, and cannot be compelled to prosecute the culprit for the
 crime. If, however, he wishes to sue for the penalty under the extraordinary
 proceeding, he must then sign the accusation of the crime.
 
-
-47.II. CONCERNING THEFTS.
+* 47.II. CONCERNING THEFTS.
 
 1. Paulus, On the Edict, Book XXXIX.
 Labeo says that the word "theft" is derived from the term meaning black,
@@ -820,10 +814,12 @@ liable under the Favian Law? I do not think that he is, and an instance of this
 kind having been presented to me, I gave this opinion: for the person who stole
 the woman commits a more dishonorable act, and he pays for its disgrace, but he
 certainly is not a thief.
+
 41. Paulus, On Sabinus, Book IX.
 Anyone who takes beasts of burden to a greater distance than was agreed upon
 when they were lent to him, or who makes use of property belonging to another
 against the consent of the owner, commits a theft.
+
 42. Ulpianus, On Sabinus, Book XLI.
 When anyone, while in the hands of the enemy, has something stolen from him,
 and returns by the right of postliminium,it may be said that he is entitled to
@@ -843,6 +839,7 @@ enemy, let us see whether the action will be extinguished. Pomponius says that
 it will be extinguished, and if the captive returns by the law of
 postliminium,or by any other right whatsoever, the action will be revived; and
 this is our practice.
+
 43. Paulus, On Sabinus, Book IX.
 If a slave should assume command of a ship without the consent of his master,
 the common rule should be applied against the latter for anything which is lost
@@ -856,6 +853,7 @@ are liable for theft, if the latter manumitted the slave in order to prevent an
 action for theft from being brought against -him. When, however, the master is
 sued, Sabinus says that the manumitted slave is released by operation of law,
 just as if it had been decided that this should be the case.
+
 44. Ulpianus, On Sabinus, Book XLI.
 Where a false creditor (that is to say, one who pretends to be a creditor)
 receives anything, he commits a theft, and the money paid does not become his
@@ -936,6 +934,7 @@ who had a half ownership in a slave could not bring an action for theft.
 It is clear that, if my usufruct in the said slave begins to exist, it must be
 said that the right of action for theft is not extinguished, because the
 usufructuary is not the owner.
+
 45. Pomponius, On Sabinus, Book XIX.
 If, by order of a debtor, a false agent should receive money from another, a
 debtor of the said debtor, he will be liable to the debtor for theft, and the
@@ -946,10 +945,12 @@ the intention of profiting by it.
 (2) If a slave belonging to an estate which has not yet been accepted, steals
 something from the heir, and is manumitted by the will of his master, an action
 for theft will lie against him, because the heir was at no time his master.
+
 46. Ulpianus, On Sabinus, Book XLI.
 Where a partner steals property owned in common (for a theft of partnership
 property can be committed), it can be said without any doubt that an action for
 theft will lie.
+
 47. The Same, On Sabinus, Book XLII.
 It has been decided by all authorities that an action for theft can be brought
 against the thief, even if the stolen property has been destroyed. Hence, after
@@ -1747,8 +1748,7 @@ become public, but because it appears that the boldness of the culprit should
 be restrained by extraordinary punishment. Anyone, however, who wishes, can
 bring a civil action, if he desires to do so.1
 
-
-47.III. CONCERNING THE THEFT OF TIMBERS JOINED TO A BUILDING.
+* 47.III. CONCERNING THE THEFT OF TIMBERS JOINED TO A BUILDING.
 
 1. Ulpianus, On the Edict, Book XXXVII.
 The Law of the Twelve Tables does not permit a beam which has been stolen to be
@@ -1782,8 +1782,7 @@ If, however, you suppose that suit has been brought for stolen timbers joined
 to a house, the question may arise whether an action for the recovery of the
 property will lie independently. I do not doubt that it will.
 
-
-47.IV. WHERE ANYONE WHO is ORDERED TO BE FREE BY THE TERMS OF A WILL, AFTER THE DEATH OF HIS MASTER AND BEFORE THE ESTATE IS ENTERED UPON, IS SAID TO HAVE STOLEN OR SPOILED SOMETHING.
+* 47.IV. WHERE ANYONE WHO is ORDERED TO BE FREE BY THE TERMS OF A WILL, AFTER THE DEATH OF HIS MASTER AND BEFORE THE ESTATE IS ENTERED UPON, IS SAID TO HAVE STOLEN OR SPOILED SOMETHING.
 
 1. Ulpianus, On the Edict, Book XXXVIII.
 If, through the fraud of a slave who was ordered to be free after the death of
@@ -1908,8 +1907,7 @@ Labeo thought that where a slave, who was manumitted under a condition,
 secretly removed some article, and the condition was soon fulfilled, he would
 be liable to this action.
 
-
-47.V. CONCERNING THEFT COMMITTED AGAINST CAPTAINS OF VESSELS, INNKEEPERS,
+* 47.V. CONCERNING THEFT COMMITTED AGAINST CAPTAINS OF VESSELS, INNKEEPERS,
 AND LANDLORDS.
 
 1. Ulpianus, On the Edict, Book XXXVIII.
@@ -1949,8 +1947,7 @@ their journey. He, however, to a certain extent, selects his permanent lodgers,
 if he does not reject them, and he must be liable for their acts. In like
 manner, the captain of a ship is not liable for the acts of his passengers.
 
-
-47.VI. CONCERNING THEFTS ALLEGED TO HAVE BEEN MADE BY AN ENTIRE BODY OP SLAVES.
+* 47.VI. CONCERNING THEFTS ALLEGED TO HAVE BEEN MADE BY AN ENTIRE BODY OP SLAVES.
 
 1. Ulpianus, On the Edict, Book XXXVIII.
 The Praetor introduced this most useful Edict in order to enable a master to
@@ -2040,8 +2037,7 @@ better opinion is that the heirs can sue for their shares, and that both heirs
 together cannot recover more than double damages including what the deceased
 collected.
 
-
-47.VII. CONCERNING TREES CUT DOWN BY STEALTH.
+* 47.VII. CONCERNING TREES CUT DOWN BY STEALTH.
 
 1. Paulus, On Sabinus, Book IX.
 Where trees are cut down by stealth, Labeo says that an action should be
@@ -2151,7 +2147,7 @@ penalty was a fine, which was regulated by the value of the article in
 question, the circumstances of the case, and the status of the offender.
 (Gentoo Code, XVII, I, II, III.)
 
-47.VIII. CONCERNING THE ROBBERY OF PROPERTY BY VIOLENCE, AND DISORDERLY ASSEMBLAGES.
+* 47.VIII. CONCERNING THE ROBBERY OF PROPERTY BY VIOLENCE, AND DISORDERLY ASSEMBLAGES.
 
 1. Paulus, On the Edict, Book XXII.
 Anyone who takes property by force is liable to the action of non-manifest
@@ -2540,8 +2536,7 @@ The law forbids property which has been possessed or taken by violence to be
 acquired by usucaption, before it again comes under the control of the owner,
 or his heir.
 
-
-47.IX. CONCERNING FIRE, DESTRUCTION, AND SHIPWRECK, WHERE A BOAT OR A SHIP is TAKEN BY FORCE.
+* 47.IX. CONCERNING FIRE, DESTRUCTION, AND SHIPWRECK, WHERE A BOAT OR A SHIP is TAKEN BY FORCE.
 
 1. Ulpianus, On the Edict, Book LVI.
 ,The Praetor says: "When it is alleged that anyone at a fire, in the
@@ -2771,8 +2766,7 @@ was stated by the Emperor Antoninus and his Divine Father in a Rescript.
 to wild beasts, and those of superior station shall suffer death, or else be
 banished to some island.
 
-
-47.X. CONCERNING INJURIES AND INFAMOUS LIBELS.
+* 47.X. CONCERNING INJURIES AND INFAMOUS LIBELS.
 
 1. Ulpianus, On the Edict, Book LVI.
 Something done contrary to law is designated an injury, for everything which is
@@ -3718,8 +3712,7 @@ Slaves who have been scourged are restored to their masters; freemen of
 inferior ranks are whipped with rods; and others are punished either with
 temporary exile, or by the interdiction of certain property.
 
-
-47.XI. CONCERNING THE ARBITRARY PUNISHMENT OF CRIME.
+* 47.XI. CONCERNING THE ARBITRARY PUNISHMENT OF CRIME.
 
 1. Paulus, Sentences, Book IV.
 The seducers of married women, as well as other disturbers of the marital
@@ -3999,8 +3992,7 @@ An action in proportion to the gravity of the offence will be granted against
 mountebanks who carry around and exhibit serpents, when any damage results
 through fear of these reptiles.
 
-
-47.XII. CONCERNING THE VIOLATION OF SEPULCHRES.
+* 47.XII. CONCERNING THE VIOLATION OF SEPULCHRES.
 
 1. Ulpianus, On the Edict of the Pr&tor, Book II.
 The action for violating a sepulchre brands a person with infamy.
@@ -4127,7 +4119,7 @@ the bones, are punished with the extreme penalty if they are of low rank; those
 of higher rank are deported to some island; others still are either relegated,
 or condemned to the mines.
 
-47.XIII. CONCERNING EXTORTION.
+* 47.XIII. CONCERNING EXTORTION.
 
 1. Ulpianus, Opinions, Book V.
 If extortion is committed under a pretended order of the Governor, the
@@ -4143,8 +4135,7 @@ Cornelian Law who have joined in the denunciation of innocent persons,
 and have received money in consideration of accusing, or not accusing
 others, or of giving, or not giving testimony against them.
 
-
-47.XIV. CONCERNING THOSE WHO STEAL CATTLE.
+* 47.XIV. CONCERNING THOSE WHO STEAL CATTLE.
 
 
 1. Ulpianus, On the Duties of Proconsul, Book Vill.
@@ -4191,8 +4182,7 @@ only one or two animals at a time, are nevertheless, classed as cattle thieves.
 (3) Those who harbor offenders of this kind should, according to an Epistle of
 the Divine Trajan, be punished by being banished from Italy for ten years.
 
-
-47.XV. CONCERNING PREVARICATION.
+* 47.XV. CONCERNING PREVARICATION.
 
 1. Ulpianus, On the Edict of the Prietor, Book VI.
 A prevaricator is a person who takes both sides, and assists the adverse party
@@ -4240,8 +4230,7 @@ In all cases except those in which the shedding of blood is involved, anyone
 who corrupts the informer is considered as convicted, according to the Decree
 of the Senate.
 
-
-47.XVI. CONCERNING THOSE WHO HARBOR CRIMINALS.
+* 47.XVI. CONCERNING THOSE WHO HARBOR CRIMINALS.
 
 1. Marcianus, Public Prosecutions, Book II.
 The harborers of criminals constitute one of the worst classes of offenders,
@@ -4255,8 +4244,7 @@ blood relative, is concealed, should neither be discharged, nor severely
 punished, for their crime is not as serious as that of those who conceal
 robbers who are in no way connected with them.
 
-
-47.XVII. CONCERNING THIEVES WHO STEAL IN BATHS.
+* 47.XVII. CONCERNING THIEVES WHO STEAL IN BATHS.
 
 1. Ulpianus, On the Duties of Proconsul, Book Vill.
 Nocturnal thieves should be arbitrarily tried and punished when proper cause is
@@ -4272,8 +4260,7 @@ If they commit theft in the daytime, they should be tried in the ordinary way.
 A soldier who has been caught stealing a bath should be dishonorably discharged
 from the service.
 
-
-47.XVIII. CONCERNING THOSE WHO BREAK OUT OF PRISON, AND PLUNDERERS.
+* 47.XVIII. CONCERNING THOSE WHO BREAK OUT OF PRISON, AND PLUNDERERS.
 
 1. Ulpianus, On the Duties of Proconsul, Book Vill.
 The Divine Brothers stated in a Rescript addressed to ^milius Tiro, that
@@ -4308,8 +4295,7 @@ hence they are usually scourged and sentenced to the mines. Those, however, who
 break in by day, are first whipped, and then sentenced to hard labor for life
 or for a specified time.
 
-
-47.XIX. CONCERNING THE SPOLIATION OF ESTATES.
+* 47.XIX. CONCERNING THE SPOLIATION OF ESTATES.
 
 1. Marcianus, Institutes, Book III.
 When anyone plunders the estate of another, it is customary for him to be
@@ -4345,8 +4331,7 @@ committed any more than that of property which has no owner, and the opinion of
 the person who steals it does not change the character of the action in any
 respect.
 
-
-47.XX. CONCERNING STELLIONATUS.
+* 47.XX. CONCERNING STELLIONATUS.
 
 1. Papinianus, Opinions, Book I.
 The action of Stellionatusis not included in public prosecutions or in private
@@ -4386,8 +4371,7 @@ culprit should be sent into temporary exile.1
 1 Stellionatuswas aptly defined by an eminent French commentator on the Digest
 of Justinian, to be "Omnis atrox dolus qui proprio nomine caret."As ex-
 
-
-47.XXI. CONCERNING THE REMOVAL OF BOUNDARIES.
+* 47.XXI. CONCERNING THE REMOVAL OF BOUNDARIES.
 
 1. Modestinus, Rules, Book Vill.
 The penalty for the removal of boundaries is not a pecuniary fine, but should
@@ -4451,8 +4435,7 @@ plowed land out of a forest; or who do anything else of this kind, shall be
 punished in accordance with their character and their rank, and the violence
 with which their acts were committed.[[FOOTNOTE 1]]
 
-
-47.XXII. CONCERNING ASSOCIATIONS AND CORPORATIONS.
+* 47.XXII. CONCERNING ASSOCIATIONS AND CORPORATIONS.
 
 1. Marcianus, Institutes, Book HI.
 By the Decrees of the Emperors, the Governors of provinces are directed to
@@ -4534,8 +4517,7 @@ entered, or do enter into any contract with one another, whatever they agree
 upon shall stand, if the public laws do not forbid it."
 
 
-
-47.XXIII. CONCERNING POPULAR ACTIONS.
+* 47.XXIII. CONCERNING POPULAR ACTIONS.
 
 1. Paulus, On the Edict, Book Vill.
 We call that a popular action which protects the rights of the party who brings

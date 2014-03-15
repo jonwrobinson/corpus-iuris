@@ -1,3 +1,5 @@
+# -*- mode: org -*-
+
 BOOK XVI.
 
 ** TITLE I. ON THE VELLEIAN DECREE OF THE SENATE

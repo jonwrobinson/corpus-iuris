@@ -1,3 +1,5 @@
+# -*- mode: org -*-
+
 BOOK XIV.
 
 TITLE I. CONCERNING THE ACTION AGAINST THE OWNER OF A SHIP............

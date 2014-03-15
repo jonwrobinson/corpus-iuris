@@ -1,8 +1,10 @@
+# -*- mode: org -*-
 
-THE DIGEST OR PANDECTS. BOOK XXXIV.
+
+* THE DIGEST OR PANDECTS. BOOK XXXIV.
 
 
-TITLE I. CONCERNING LEGACIES OF SUBSISTENCE OR FOOD.
+* 34.I. CONCERNING LEGACIES OF SUBSISTENCE OR FOOD.
 
 1. Ulpianus, On All Tribunals, Book V.
 Where maintenance is bequeathed, it can be said that water is also included in
@@ -486,10 +488,7 @@ the necessaries of life. Paulus: Why is the scope of a legacy providing for
 support more extensive where it is stated that clothing and lodging are
 included? This is not the case, for both are equal.
 
-
-TITLE II.
-CONCERNING LEGACIES OP GOLD, SILVER, ORNAMENTS, JEWELS, PERFUMES, CLOTHING,
-TAPESTRY AND STATUES.
+* 34.II. CONCERNING LEGACIES OP GOLD, SILVER, ORNAMENTS, JEWELS, PERFUMES, CLOTHING, TAPESTRY AND STATUES.
 
 1. Pomponius, On Sabinus, Book VI.
 Where clothing in general is left to one person, and women's garments
@@ -1228,8 +1227,8 @@ her body. The question arose whether the aforesaid articles would belong to the
 woman to whom she left all her jewelry, or to her heirs. The answer was that
 they would not belong to the heirs, but to the legatee.
 
+* 34.III. CONCERNING THE BEQUEST OP A RELEASE FROM LIABILITY.
 
-TITLE III. CONCERNING THE BEQUEST OP A RELEASE FROM LIABILITY.
 1. Ulpianus, On Sabinus, Book I.
 Obligations due from all kinds of debtors can be lawfully bequeathed to them,
 even though they may be the owners of said obligations.
@@ -1842,14 +1841,13 @@ party owed at the time, but if the testator still adhered to his original
 intention, the legacy would include all the indebtedness existing at the time
 of his death.
 
+* 34.IV. CONCERNING THE CANCELLATION OR TRANSFER OF LEGACIES AND TRUSTS.
 
-TITLE IV.
-CONCERNING THE CANCELLATION OR TRANSFER OF LEGACIES
-AND TRUSTS.
 1. Paulus, On Sabinus, Book III.
 Where a testator, having bequeathed the right to drive cattle through his land,
 does not grant the right of way, he omits nothing from the legacy, for the
 reason that the right to drive cattle cannot exist without the right of way.
+
 2. Pomponius, On Sabinus, Book V.
 Where a tract of land is devised, a reservation may be made as follows, "I do
 not give or bequeath to So-and-So any other right attaching to the said land
@@ -1858,6 +1856,7 @@ legacy.
 (1) The usufruct, however, can be reserved, so that only the mere ownership
 will be left.
 (2) In like manner, a part of the land bequeathed may be reserved.
+
 3. Ulpianus, On Sabinus, Book XXIV.
 If anyone should make a testamentary disposition as follows, "I give and devise
 such-and-such a tract of land to Titius, and if Titius should die, let my heir
@@ -1928,16 +1927,19 @@ of an extremely serious character, what has been bequeathed will be held to
 have been revoked; if, however, the offence is a light one, the trust will
 continue to exist. In accordance with this we can include legacies, and an
 exception on the ground of bad faith may be filed.
+
 4. The Same, On Sabinus, Book XXXIII.
 If the parties should renew their friendship, and the testator should repent of
 his former resolution, the legacy or trust which was left will be restored in
 its entirety, for the will of the deceased was alterable until the last moment
 of his life.
+
 5. Gaius, On the Urban Edict, Book II.
 Just as a legacy can be taken away from one person, so also it can be
 transferred to another, for instance, as follows: "I give and bequeath to Seius
 what I have bequeathed to Titius." This clause contains
 a tacit deprivation of the legacy, so far as Titius personally is concerned.
+
 6. Paulus, On the Lex Julia et Papia, Book V.
 The transfer of a legacy is made in four ways. It can either be transferred by
 substituting one person for another; or this may be done by the party who
@@ -1953,6 +1955,7 @@ to have said that Titius shall not deliver the property.
 (2) Likewise, where ten aureiare bequeathed instead of a tract of land, certain
 authorities think that the first bequest is not revoked; but, as a matter of
 fact it is, for the last will is the one to be carried into effect.
+
 7. Ulpianus, On Sabinus, Book XXIV.
 Where the bequest of an article is made to anyone under a condition, and the
 same article has already been absolutely left to another, the first bequest is
@@ -1960,10 +1963,12 @@ not held to have been absolutely revoked, but only in ,case the condition of
 the second one should be complied with. If, however, it was the intention of
 the testator that the first legacy should, under all circumstances, be
 cancelled, this must be held to have been done.
+
 8. Julianus, Digest, Book XXXII.
 Therefore, if he to whom the legacy was transferred should die during the
 lifetime of the testator, it will, nevertheless, not belong to the person who
 was previously deprived of it.
+
 9. Julianus, Disputations, Book V.
 If anyone, after having left a hundred aureito a person absolutely, then
 bequeathed the same sum to him conditionally, and intended to leave him this
@@ -1976,6 +1981,7 @@ hundred aureihe afterwards left fifty, and he intended these fifty to
 constitute a new bequest, a hundred and fifty aureiwill be due. But if he
 intended the bequest to consist of but fifty aurei,only fifty will be payable.
 The same rule will apply where this was done by means of a codicil.
+
 10. Julianus, Digest, Book XXXVII.
 Where a legacy is absolutely bequeathed to Titius, and he is deprived of it
 under a certain condition, and dies while the condition is pending, even though
@@ -1988,15 +1994,20 @@ and if he should not pay them to Titius, let him pay the said ten aureito
 Sempronius," if Titius should die before the day when the legacy vests,
 Sempronius can legally claim the legacy, for it should be understood to have
 been transferred to him.
+
 11. The Same, Digest, Book LIV.
 Where a testator bequeaths a slave, in general terms, and reserves Stichus, he
 does not annul the legacy, but he weakens it;
-12. Ulpianus, On Sabinus, Book L.As the legatee cannot select Stichus.
+
+12. Ulpianus, On Sabinus, Book L.
+As the legatee cannot select Stichus.
+
 13. Marcianus, Institutes, Book VI.
 The Divine Severus and Antoninus stated in a Rescript that where a testator,
 induced by some motive or other, in his last will mentioned one of his freedmen
 as being of extremely bad character, he was considered to have deprived him of
 all that had been left to him previously.
+
 14. Florentinus, Institutes, Book XI.
 Legacies which are void when granted, are not rendered valid by being
 suppressed; as, for instance, after having appointed the master of a slave his
@@ -2009,18 +2020,22 @@ where the legacy which was suppressed was not valid in the first place.
 suppression also to become of no force or effect; as, for example, if you
 deprive a legatee of a part of his right of way, or direct a slave to be only
 partly free.
+
 15. Paulus, On the Allotment of Freedmen.
 Where a slave bequeathed by a testator is alienated, and then repurchased by
 him, he will not be due to the legatee, against whom an exception on the ground
 of bad faith may be interposed. It is evident, however, that he will not be
 barred by it if the legatee can prove that the testator had renewed his
 intention to give him the slave.
+
 16. The Same, On the Law of Codicils.
 It makes no difference whether the legacy contained in the will is erased, or
 taken away.
+
 17. Celsus, Digest, Book XXII.
 There is nothing to prevent a testator from correcting, changing, or revoking a
 former will by a succeeding one.
+
 18. Modestinus, Differences, Book VIII.
 If a testator, during his lifetime, should give away to another the property
 which he had bequeathed, the legacy will be absolutely extinguished, nor do we
@@ -2030,20 +2045,24 @@ necessity, the legacy will still be payable, but if he disposed of it merely
 through inclination, it will not be payable. This distinction, however, will
 not apply to a party who makes a donation through liberality, for no one is
 liberal when impelled by necessity.
+
 19. The Same, Opinions, Book XI.
 Modestinus gave it as his opinion that if the deceased, by depriving Maevius of
 a legacy which was bequeathed to him, did not intend to revoke the trust with
 which he was charged, the heirs can be sued by virtue of the trust; and this
 opinion shall be approved.
+
 20. Pomponius, On Quintus Mucius, Book I.
 Although I may transfer a legacy to a person who has not the right to receive
 it under my will, or bequeath the legacy without the grant of freedom to my own
 slave, even if they are not entitled to receive it, it will still not be
 payable to the person who was deprived of the same.
+
 21. Licinius Rufinus, Rules, Book IV.
 Only he can be deprived of a legacy to whom it was bequeathed, and therefore if
 a bequest should be made to the son or the slave of another, the father or the
 master cannot be deprived of it.
+
 22. Papinianus, Opinions, Book VI.
 An heir appointed to a share of an estate also received a legacy by the will.
 The testator afterwards regarded him with intense hatred, and intended to make
@@ -2051,6 +2070,7 @@ another will which he began, but could not finish, and passed the party over
 without mentioning him. His rights of action as heir could, indeed, not be
 denied him, but if he should claim the legacy, he could be barred by an
 exception on the ground of bad faith.
+
 23. The Same, Opinions, Book VII.
 A father, having divided his property among his children, desired that his
 daughter should receive the sum of three hundred aurei,derived from the profit
@@ -2067,6 +2087,7 @@ so that the daughter might receive her share of the estate out of the amount
 paid for said land.
 This also would be the case, if money had been included in the assets of the
 estate.
+
 24. The Same, Opinions, Book VIII.
 Where a legacy bequeathed under a condition is transferred to another party, it
 is held to have been transferred subject to the same condition, unless it was
@@ -2080,6 +2101,7 @@ his wife. Whether he confirmed the donation or not, his last wishes will take
 precedence of the bequest to his daughter. But even if the donation should not
 be valid, still the father will be understood to have diminished the legacy of
 his daughter.
+
 25. The Same, Opinions, Book IX.
 A testator left to one of his heirs a tract of land as a preferred legacy, and
 afterwards directed that certain rights of action, to the amount of the
@@ -2088,6 +2110,7 @@ having sold the land without causing any injury to the party entitled to it as
 a preferred legacy, he placed the price received for the same among the
 property of his estate. I gave it as my opinion that the rights of action
 should not be assigned to his co-heir.
+
 26. Paulus, Questions, Book IX.
 Where a legacy was bequeathed to a slave with his freedom, and he was
 afterwards sold, and the bequest of his freedom was revoked, although such a
@@ -2102,6 +2125,7 @@ a slave whom he had directed to be free by his will, and should then revoke his
 grant of freedom by a codicil? Let us see whether the mere revocation of his
 freedom would annul the legacy. Some authorities think that it would, but a
 superfluous provision does not affect a legacy.
+
 27. The Same, Questions, Book XXV.
 When a slave is bequeathed, and something is left to him, and he afterwards
 should be sold, and deprived of what was bequeathed to him, the revocation will
@@ -2112,6 +2136,7 @@ parties, and he is deprived of his legacy, the deprivation will be of no force
 or effect; therefore he can take the legacy bequeathed to him, for, even if he
 should again be reduced to slavery, his legacy will still not be revived, for
 he is considered to be a new man.
+
 28. Valens, Trusts, Book V.
 If I should bequeath certain property to you, and ask you to deliver it to
 Titius, and then should leave you the same property under a trust, but should
@@ -2119,11 +2144,13 @@ not request you to deliver it to anyone, the question arises whether it is in
 your power to select the property under the terms of the second trust in order
 to avoid the execution of the first one. It has been established that it is
 better to take into consideration the last provision of the will.
+
 29. Paulus, Sentences, Book III.
 Afreedman who received a legacy by the first part of the will afterwards was
 stigmatized by the testator as ungrateful in the same instrument, and the
 testator having changed his mind, the freedman will not be entitled to an
 action based on the will.
+
 30. Scaevola, Digest, Book XXX.
 A testatrix left several articles to her foster-child, and afterwards revoked
 the bequest of some of them, and charged her heir to substitute others in their
@@ -2202,6 +2229,7 @@ to him would, under the terms of the trust, belong to Januarius and Marianus.
 The answer was that it could be held that, if the son should die of the same
 disease from which he was suffering at the time that the legacy would be
 absolutely transferred to those with respect to whom the inquiry was made.
+
 31. The Same, Digest, Book XIV.
 Atestator who had appointed his son heir to a part of his estate left him also
 two tracts of land with the slaves and all the implements belonging to the
@@ -2237,6 +2265,7 @@ own account. I ask whether the daughter
 can, on this ground, bring an action against her father's heirs. The answer was
 that if she can prove that he did this without the intention of depriving her
 of the legacy, she can bring the action.
+
 32. Venuleius, Actions, Book X.
 It is easy to take anything from, or add anything to a legacy, where only a sum
 of money was bequeathed, but where certain corporeal property is concerned, it
@@ -2246,7 +2275,7 @@ unintelligible.
 gained by specifically depriving them of their legacies.
 
 
-TITLE V. CONCERNING DOUBTFUL MATTERS.
+* 34.V. CONCERNING DOUBTFUL MATTERS.
 
 1. Papinianus, Opinions, Book VII.
 A testator left the Maevian, or the Seian Estate to Titius. As several tracts of
@@ -2692,8 +2721,7 @@ to Sabina and Cyprogenia. The answer was that, according to the facts stated,
 support seemed to have been bequeathed to all of them.
 
 
-TITLE VI.
-CONCERNING BEQUESTS MADE BY WAY OF PENALTY.
+* 34.VI. CONCERNING BEQUESTS MADE BY WAY OF PENALTY.
 
 1. Africanus, Questions.
 Where a son under paternal control or a slave is appointed an heir, and the
@@ -2710,7 +2738,7 @@ must be ascertained from the intention of the deceased. This the Divine Severus
 and Antoninus stated in a Rescript.
 
 
-TITLE VII. CONCERNING THE RULE OF CATO.
+* 34.VII. CONCERNING THE RULE OF CATO.
 
 1. Celsus, Digest, Book XXXV.
 The Rule of Cato is stated as follows, "Any legacy that would be void if the
@@ -2744,9 +2772,8 @@ conditional appointments of heirs.
 The Rule of Cato does not apply to new laws.
 
 
-TITLE VIII.
-CONSIDERING TESTAMENTARY PROVISIONS WHICH ARE CONSIDERED AS NOT HAVING BEEN
-WRITTEN.
+* 34.VIII. CONSIDERING TESTAMENTARY PROVISIONS WHICH ARE CONSIDERED AS NOT HAVING BEEN WRITTEN.
+
 1. Juliamus, Digest, Book LXXVIII.
 Where anyone has been asked to write the bequest of an estate or a legacy in a
 will to himself, the question arises whether the said bequest of the estate or
@@ -2790,8 +2817,7 @@ considered as not having been written. The same rule also applies to the will
 of a soldier.
 
 
-TITLE IX.
-CONCERNING THOSE WHO ARE DEPRIVED OF THEIR LEGACIES AS BEING UNWORTHY OP THEM.
+* 34.IX. CONCERNING THOSE WHO ARE DEPRIVED OF THEIR LEGACIES AS BEING UNWORTHY OP THEM.
 
 1. Marcianus, Institutes, Book VI.
 The Divine Severus and Antoninus stated in a Rescript that a freedman to whom

@@ -1,3 +1,5 @@
+# -*- mode: org -*-
+
 BOOK XLV.
 TITLE I. CONCERNING VERBAL OBLIGATIONS ................................. 91
 PART II. CONCERNING VERBAL OBLIGATIONS ................................. 105
