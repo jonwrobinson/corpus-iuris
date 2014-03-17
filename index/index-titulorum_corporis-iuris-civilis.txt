@@ -1410,15 +1410,15 @@
 ** LIBER I
 
 
-+ 1.1  De iustitia et iure
-+ 1.2  De iure naturali, gentium et civili
-+ 1.3  De iure personarum
-+ 1.4  De ingenuis
-+ 1.5  De libertinis
-+ 1.6  Qui quibus ex causis manumittere non possunt
-+ 1.7  De lege Furia Caninia sublata
-+ 1.8  De his qui sui vel alieni iuris sunt
-+ 1.9  De patria potestate
++ 1.1   De iustitia et iure
++ 1.2   De iure naturali, gentium et civili
++ 1.3   De iure personarum
++ 1.4   De ingenuis
++ 1.5   De libertinis
++ 1.6   Qui quibus ex causis manumittere non possunt
++ 1.7   De lege Furia Caninia sublata
++ 1.8   De his qui sui vel alieni iuris sunt
++ 1.9   De patria potestate
 + 1.10  De nuptiis
 + 1.11  De adoptionibus
 + 1.12  Quibus modis ius potestatis solvitur

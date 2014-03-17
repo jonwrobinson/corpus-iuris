@@ -3,8 +3,7 @@
 # General:
 *~
 *.bak
-
-# My notes to self regarding `git` usage
 *.jwr
 
-# Not much else to worry about...
+# Specific
+cheatsheet-git.pdf
