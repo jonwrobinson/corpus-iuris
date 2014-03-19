@@ -1,8 +1,6 @@
 # -*- mode: org -*-
 
 * IUSTINIANI DIGESTA
-  ( Based upon the Latin text of Mommsen's edition, Berlin, 1954 )
-
 ** Liber I
 
 + 1.1.  De iustitia et iure
@@ -1247,15 +1245,15 @@
 
 ** LIBER UNDECIMUS
 
-+ 11.1. De tollenda lustralis auri collatione
-+ 11.2. De naviculariis seu naucleris publicas species transportantibus
-+ 11.3. De praediis naviculariorum
-+ 11.4. De navibus non excusandis
-+ 11.5. Ne quid oneri publico imponatur
-+ 11.6. De naufragiis
-+ 11.7. De metallariis et metallis et procuratoribus metallorum
-+ 11.8. De murilegulis et gynaeciariis et procuratoribus gynaecii et de monetariis et bastagariis
-+ 11.9. De vestibus holoveris et auratis et de intinctione sacri muricis
++ 11.1.  De tollenda lustralis auri collatione
++ 11.2.  De naviculariis seu naucleris publicas species transportantibus
++ 11.3.  De praediis naviculariorum
++ 11.4.  De navibus non excusandis
++ 11.5.  Ne quid oneri publico imponatur
++ 11.6.  De naufragiis
++ 11.7.  De metallariis et metallis et procuratoribus metallorum
++ 11.8.  De murilegulis et gynaeciariis et procuratoribus gynaecii et de monetariis et bastagariis
++ 11.9.  De vestibus holoveris et auratis et de intinctione sacri muricis
 + 11.10. De fabricensibus
 + 11.11. De veteris numismatis potestate
 + 11.12. Nulli licere in frenis et equestribus sellis et in balteis margaritas et smaragdos et hyacinthos aptare et de artificibus palatinis
@@ -1438,7 +1436,6 @@
 + 1.26  De suspectis tutoribus et curatoribus
 
 ** LIBER II
-
 
 + 2.1   De rerum divisione
 + 2.2   De rebus incorporalibus

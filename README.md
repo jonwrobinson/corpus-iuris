@@ -70,6 +70,17 @@ these passages have been fixed, but most have not.  However, now that
 they are publicly available, I shall try to be more diligent about
 fixing the files.
 
+On occasion, I have made some effort to include the vulgate numbering
+alongside the standard internal divisions of the text.  Earlier
+efforts were haphazard, but now will be standardized.  Parentheses
+(e.g., (27)) are used to indicate the vulgate numbering.  Thus,
+something like 11.26(25).1 indicates that our modern edition calls the
+26th title what pre-modern editions usually thought of as the 25th.
+Scrupulous authors use this fuller format whenever possible so that it
+is (much!) easier to search things out in both modern and pre-modern
+editions.
+
+
 ### English
 
 Source: [The Civil Law](http://www.constitution.org/sps/sps.htm)
@@ -88,9 +99,12 @@ excellent resource, which includes a superior translation of the
 There are problems with the text as scanned and converted into HTML,
 and thus with my conversion into plain text.  The most significant is
 that the footnotes of the translation are embedded directly into the
-text and so one must be careful about untangling the two.  I continue
-to fix these problems as I come across them, but I do not use these
-texts as much as the Latin versions, so progress is much slower.
+text and so one must be careful about untangling the two. (Many of
+them are absurdly long and interweave with the text of the translation
+for several paragraphs.)  I continue to fix these problems as I come
+across them, but I do not use these texts as much as the Latin
+versions, so progress is much slower.  I am trying to be more diligent
+in this regard, however.
 
 For medievalists, however, there is one advantage to this translation,
 however: because Scott did not use the Krueger edition of the *Code*,
@@ -98,6 +112,13 @@ his translation also includes the *authenticae* and the *Constitutions
 of Frederick* as they are found in vulgate editions of the *Code*.
 This is a nice addition.
 
+By the same token, this means there are downsides to this translation.
+The most important one is that the numbering occasionally does not
+match what we find in the standard editions, which can be very
+annoying at times.  This is another area where I make incremental
+improvements.  Numbers enclosed in angle brackets (e.g., <52>)
+indicate an addition on my part, marking the text where it corresponds
+to an internal division as one might see in Mommsen or Krueger (etc.).
 
 ## Contributions
 

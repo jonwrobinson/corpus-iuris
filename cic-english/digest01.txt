@@ -1,16 +1,8 @@
 # -*- mode: org -*-
 
-                       VI. THE ENACTMENTS OF JUSTINIAN.
-                                      II.
-                            THE DIGEST OR PANDECTS.
+* BOOK I.
 
-
-THE DIGEST OR PANDECTS. FIRST PART.
-
-BOOK I.
-
-
-TITLE I. CONCERNING JUSTICE AND LAW.
+* 1.I. CONCERNING JUSTICE AND LAW.
 
 1. Ulpianus, Book I, Institutes.
 Those who apply themselves to the study of law should know, in the first place,
@@ -75,8 +67,7 @@ that of Nations, nor is it in everything subservient to it; and therefore when
 we add or take anything from the Common Law we constitute a separate law, that
 is the Civil Law.
 (1) This our law then is established either by writing, or without it, as among
-the Greeks "twn nomwn oi men eggrafoi oi de agrafoi", that is to say, some laws
-are in writing and others are not.
+the Greeks, "τῶν νóμων οῖ μὲν ἔγγραφοι, οῖ δὲ ἄγραφοι." [i.e., some laws are in writing and others are not.]
 
 7. Papinianus, Definitions, Book II.
 The Civil Law is that which is derived from statutory enactments, plebiscites,
@@ -91,13 +82,7 @@ Praetors.
 For honorary law itself is the living voice of the Civil Law.
 
 9. Gaius, Institutes, Book I.
-All nations who are ruled by law and customs make use partly of their
-own law, and partly of that which is common to all men. For whatever
-law any people has established for itself is peculiar to that State,
-and is called the Civil Law, as being the particular law of that
-State. But whatever natural reason has established among all men is
-equally observed by all mankind, and is called the Law of Nations,
-because it is the law which all nations employ.
+All nations who are ruled by law and customs make use partly of their own law, and partly of that which is common to all men. For whatever law any people has established for itself is peculiar to that State, and is called the Civil Law, as being the particular law of that State. But whatever natural reason has established among all men is equally observed by all mankind, and is called the Law of Nations, because it is the law which all nations employ.
 
 10. Ulpianus, Rules, Book I.
 Justice is the constant and perpetual desire to give to every one that to which
@@ -106,6 +91,7 @@ he is entitled.
 one, to give to every one his due.
 (2) The science of the law is the acquaintance with Divine and human affairs,
 the knowledge of what is just and what is unjust.
+
 11. Paulus, On Sabinus, Book XIV.
 The term "law" is used in several ways. First, whatever is just and good is
 called law, as is the case with natural law. Second, where anything is useful
@@ -124,25 +110,11 @@ dignity of his office and the customs of our ancestors are preserved.
 Sometimes the term "law" is used to denote a connection, as for instance, "I am
 connected by the law of consanguinity or affinity with such-and-such a person".
 
-
-TITLE II.  CONCERNING THE ORIGIN OF LAW AND OF ALL MAGISTRATES,
-TOGETHER WITH A SUCCESSION OF JURISTS.
+* 1.II.  CONCERNING THE ORIGIN OF LAW AND OF ALL MAGISTRATES, TOGETHER WITH A SUCCESSION OF JURISTS.
 
 1. Gaius, On the Law of the Twelve Tables, Book I.
-Being about to give an interpretation of ancient laws, I have thought it
-necessary, in the first place, to go back to the origin of the City, not
-because I wish to make extensive commentaries, but for the reason that I notice
-that that is perfect in all things which is finished in all its parts; and
-indeed the most important part of anything is the beginning. Then, where causes
-are argued in the forum, if I should say that it is abominable to state the
-matter to the judge without making any previous remarks, it would be much more
-improper for those making an explanation to neglect the beginning and avoid
-reference
-to the origin of the case; proceeding with unwashed hands, so to speak, without
-delay to discuss the question which is to be decided. For, unless I am
-mistaken, these previous explanations render persons more inclined to examine
-the question at issue, and when we have approached it, make the comprehension
-of the subject more clear.
+Being about to give an interpretation of ancient laws, I have thought it necessary, in the first place, to go back to the origin of the City, not because I wish to make extensive commentaries, but for the reason that I notice that that is perfect in all things which is finished in all its parts; and indeed the most important part of anything is the beginning. Then, where causes are argued in the forum, if I should say that it is abominable to state the matter to the judge without making any previous remarks, it would be much more improper for those making an explanation to neglect the beginning and avoid reference to the origin of the case; proceeding with unwashed hands, so to speak, without delay to discuss the question which is to be decided. For, unless I am mistaken, these previous explanations render persons more inclined to examine the question at issue, and when we have approached it, make the comprehension of the subject more clear.
+
 2. Pomponius, Enchiridion.
 It, therefore, seems necessary to explain the origin of the law itself, as well
 as its subsequent development.
@@ -177,10 +149,11 @@ They, themselves, observed that something was lacking in these original laws,
 and therefore during the following year they added two other tablets to them,
 and for this reason they were called the Laws of the Twelve Tables; and some
 writers have asserted that a certain Hermodorus, an Ephesian exile in Italy,
-was responsible for the enactment of the said laws.1
-1 It is clear that the Decemviri who were appointed as a commission about 450
-B. C. by the patrician order for the purpose of revising the ancient statutes
-and customs, and incorporating them into a new Code for the government of the
+was responsible for the enactment of the said laws.[1]
+
+[1] It is clear that the Decemviri who were appointed as a commission about 450 B. C. by the patrician order for the purpose of revising the ancient statutes and customs, and incorporating them into a new Code for the government of the Roman people, did not depend upon Greece for the greater part of the rules which they afterwards adopted and published. The share of Grecian legislation in the formation of the Twelve Tables is small, indeed, when compared with the body of ancient law included therein, much of which dated back to the early days of the regal period, and constitutes, in fact, a summary of long existing and well recognized jurisprudence, with which all classes were already more or less familiar; and which, shorn of useless verbiage, ambiguities, and contradictory precepts, was now abridged and condensed into a practical and useful form. The fragmentary condition of the Twelve Tables, despite the frequent attempts at their reconstruction by various scholars, renders it impossible for us to arrive at a satisfactory conclusion as to the original source for which any particular portions of the compilation have been derived, and thus enable us to establish and formulate the primitive rules of Roman judicature; and reliance must principally be placed upon the citations from legal writers scattered through the Digest, whose works, for the most part, exist only in a badly mutilated condition, or are only known to us by name.
+The high encomiums bestowed upon the Twelve Tables by the historians and jurists of the Republic and the Empire indicate the estimation in which they were held by the educated classes of the Roman world. Livy calls them "The source of all public and private law"; "Fons omnis publici privatique juris" (Livy XII, 34); and Cicero refers to them as "A compendium of the maxims of all philosophers"; "Bibliothecas mehercule omnium philosophorum unus mihi videtur XII tabularum, libellus, si quis legum fontes et capita viderit, et auctoritatis pondere et utilitatis ubertate superare (De Oratore I, XLIV).  Every student of law was compelled to thoroughly memorize them before he could proceed to further prepare himself for his profession; and as the tablets on which they were inscribed --- originally of ivory and afterwards of bronze --- were posted in the Forum, all citizens were presumed to be, to a certain extent, acquainted with the cardinal principles of the legal system of their country, a rigid adherence to which was long required of magistrates in rendering their decisions, regardless of any hardship which such a strict interpretation of the laws entailed. By the public exposition of these time-honored statutes, the monopoly of legal information for ages enjoyed and jealously guarded by the patricians as a peculiar privilege of their rank was largely abrogated; the lower orders of the people were the better enabled to protect themselves from oppression and injury; and no one could allege want of knowledge in order to liberate himself from the consequences of an illegal act; giving rise to the maxim "Ignorantia juris neminem excusat". --- ED.
+
 (5) These statutes having been passed, it follows as a natural consequence that
 discussion in the forum became requisite; as a proper interpretation demands
 the authority of persons learned in the law. This discussion and this law
@@ -197,47 +170,7 @@ the law originated; that is, the Laws of the Twelve Tables, and from these
 arose the Civil Law, and from this source likewise were derived the legal
 actions. But the knowledge of interpreting all these, and the actions
 themselves, were assigned to the College of Pontiffs; and it was established
-which
-Roman people, did not depend upon Greece for the greater part of the rules
-which they afterwards adopted and published. The share of Grecian legislation
-in the formation of the Twelve Tables is small, indeed, when compared with the
-body of ancient law included therein, much of which dated back to the early
-days of the regal period, and constitutes, in fact, a summary of long existing
-and well recognized jurisprudence, with which all classes were already more or
-less familiar; and which, shorn of useless verbiage, ambiguities, and
-contradictory precepts, was now abridged and condensed into a practical and
-useful form. The fragmentary condition of the Twelve Tables, despite the
-frequent attempts at their reconstruction by various scholars, renders it
-impossible for us to arrive at a satisfactory conclusion as to the original
-source for which any particular portions of the compilation have been derived,
-and thus enable us to establish and formulate the primitive rules of Roman
-judicature; and reliance must principally be placed upon the citations from
-legal writers scattered through the Digest, whose works, for the most part,
-exist only in a badly mutilated condition, or are only known to us by name.
-The high encomiums bestowed upon the Twelve Tables by the historians and
-jurists of the Republic and the Empire indicate the estimation in which they
-were held by the educated classes of the Roman world. Livy calls them "The
-source of all public and private law"; "Fons omnis publici privatique juris"
-(Livy XII, 34); and Cicero refers to them as "A compendium of the maxims of all
-philosophers"; "Bibliothecas mehercule omnium philosophorum unus mihi videtur
-XII tabularum, libellus, si quis legum fontes et capita viderit, et
-auctoritatis pondere et utilitatis ubertate superare (De Oratore I, XLIV).
-Every student of law was compelled to thoroughly memorize them before he could
-proceed to further prepare himself for his profession; and as the tablets on
-which they were inscribed --- originally of ivory and afterwards of bronze --- were
-posted in the Forum, all citizens were presumed to be, to a certain extent,
-acquainted with the cardinal principles of the legal system of their country, a
-rigid adherence to which was long required of magistrates in rendering their
-decisions, regardless of any hardship which such a strict interpretation of the
-laws entailed. By the public exposition of these time-honored statutes, the
-monopoly of legal information for ages enjoyed and jealously guarded by the
-patricians as a peculiar privilege of their rank was largely abrogated; the
-lower orders of the people were the better enabled to protect themselves from
-oppression and injury; and no one could allege want of knowledge in order to
-liberate himself from the consequences of an illegal act; giving rise to the
-maxim "Ignorantia juris neminem excusat". --- ED.
-one of them should have jurisdiction over private actions during each year. The
-people made use of this custom for almost a century.
+which one of them should have jurisdiction over private actions during each year. The people made use of this custom for almost a century.
 (7) Afterwards, Appius Claudius arranged these actions and reduced them to a
 certain form, and Gnaeus Flavius, his secretary, the son of a freedman, gave the
 book to the people after it had been surreptitiously obtained; and so
@@ -535,33 +468,17 @@ months with his pupils, and might be absent for the remaining six months, and
 employ his time in writing books. By doing this he left four hundred volumes,
 of which a great many are still in use. These two founded, as it were, two
 different schools, for Ateius Capito retained the principles which had been
-taught him; but Labeo, from the nature of his genius and
-his reliance upon his own learning, and who had given attention to other
-branches of knowledge, made many innovations. Massurius Sabinus succeeded
-Ateius Capito, and Nerva, Labeo; and these still further increased the
-aforesaid distinction between the schools. Nerva was also very intimate with
-the Emperor. Massurius Sabinus was of Equestrian rank, and was the first who
-wrote with public authority, and after this privilege was conceded, it was also
-granted to him by Tiberius Caesar. And We may remark, in passing, that prior to
-the reign of Augustus, the right of giving opinions publicly was not granted by
-the chiefs of the State, but anyone who had confidence in his own attainments
-gave answers to those who consulted him, but they did not impress their seals
-upon the latter, and very frequently wrote to the judges, or to those who had
-consulted them, to bear witness to their opinions. The Divine Augustus, in
-order to enable the authority of the law to have greater weight, first decreed
-that jurists might answer in his name; and from that time, this began to be
-claimed as a privilege. The result was that the distinguished Emperor Hadrian,
-when certain men of praetorian rank asked of him leave to deliver opinions, told
-them in a rescript, "that this permission was not to be asked, but was granted
-as a right; and therefore if anyone had confidence in his knowledge, he should
-be delighted, and he might prepare himself for giving opinions to the people".1
-Therefore, permission was given to Sabinus by Tiberius Caesar to give opinions
-to the people. He was already advanced in age when he attained to the
+taught him; but Labeo, from the nature of his genius and his reliance upon his own learning, and who had given attention to other branches of knowledge, made many innovations.
+<48> Massurius Sabinus succeeded Ateius Capito, and Nerva, Labeo; and these still further increased the aforesaid distinction between the schools. Nerva was also very intimate with the Emperor. Massurius Sabinus was of Equestrian rank, and was the first who wrote with public authority, and after this privilege was conceded, it was also granted to him by Tiberius Caesar.
+<49> And We may remark, in passing, that prior to the reign of Augustus, the right of giving opinions publicly was not granted by the chiefs of the State, but anyone who had confidence in his own attainments gave answers to those who consulted him, but they did not impress their seals upon the latter, and very frequently wrote to the judges, or to those who had consulted them, to bear witness to their opinions. The Divine Augustus, in order to enable the authority of the law to have greater weight, first decreed that jurists might answer in his name; and from that time, this began to be claimed as a privilege. The result was that the distinguished Emperor Hadrian, when certain men of praetorian rank asked of him leave to deliver opinions, told them in a rescript, "that this permission was not to be asked, but was granted as a right; and therefore if anyone had confidence in his knowledge, he should be delighted, and he might prepare himself for giving opinions to the people".[1]
+<50> Therefore, permission was given to Sabinus by Tiberius Caesar to give opinions to the people. He was already advanced in age when he attained to the
 Equestrian rank, and indeed was fifty years old, nor was he a man of great
-pecuniary resources, but was, for the most part, supported by his pupils. He
-was succeeded by Gaius Cassius Longinus, the son of a daughter of Tubero, who
-was the granddaughter of Ser-
-1 Here is succinctly explained the origin of the Responsa Prudentum, "The
+pecuniary resources, but was, for the most part, supported by his pupils.
+<51> He was succeeded by Gaius Cassius Longinus, the son of a daughter of Tubero, who was the granddaughter of Servius Sulpicius; and for this reason he alluded to Servius Sulpicius as his grandfather. He was Consul with Quartinus during the reign of Tiberius, and enjoyed great authority in the State until the Emperor banished him,
+<52> and having been exiled to Sardinia by the latter, he was recalled by Vespasian to Rome, where he died. Proculus succeeded Nerva, and there was, at the same time, another Nerva, a son; there was also another Longinus, belonging to the Equestrian order, who afterwards attained to the Praetorship. The authority of Proculus was, however, greater. The adherents of the two schools were designated respectively, Cassiani and Proculeiani, having derived their origin from Capito and Labeo. <53> Caelius Sabinus, who had greater influence in the time of Vespasian, succeeded Cassius; Pegasus succeeded Proculus, who was prefect of the City during the reign of Vespasian; Priscus Javolenus succeeded Caelius Sabinus; Celsus succeeded Pegasus; the son Celsus and Priscus Neratius, both of whom were consuls, succeeded his father; (Celsus, indeed, was Consul a second time), Aburnus Valens succeeded Javolenus Priscus along with Tuscinaus, as well as Salvius Julianus.
+
+
+[1] Here is succinctly explained the origin of the Responsa Prudentum, "The
 Answers of Persons Learned in the Law". These, as previously stated, were an
 important source of legal knowledge, which by the sanction of Imperial
 authority obtained the same effect as edicts, decrees of the Senate, and
@@ -587,44 +504,7 @@ obligations to those eminent legal expounders of ancient times. The scattered
 and incomplete remains of their works which have descended to us, afford a
 glimpse of the enormous contribution to human knowledge which would have
 resulted had their writings been transmitted intact to posterity. In methodical
-ar-
-vius Sulpicius; and for this reason he alluded to Servius Sulpicius as his
-grandfather. He was Consul with Quartinus during the reign of Tiberius, and
-enjoyed great authority in the State until the Emperor banished him, and having
-been exiled to Sardinia by the latter, he was recalled by Vespasian to Rome,
-where he died.
-Proculus succeeded Nerva, and there was, at the same time, another Nerva, a
-son; there was also another Longinus, belonging to the Equestrian order, who
-afterwards attained to the Praetorship. The authority of Proculus was, however,
-greater. The adherents of the two schools were designated respectively,
-Cassiani and Proculeiani, having derived their origin from Capito and Labeo.
-Caelius Sabinus, who had greater influence in the time of Vespasian, succeeded
-Cassius; Pegasus succeeded Proculus, who was prefect of the City during the
-reign of Vespasian; Priscus Javolenus succeeded Caelius Sabinus; Celsus
-succeeded Pegasus; the son Celsus and Priscus Neratius, both of whom were
-consuls, succeeded his father; (Celsus, indeed, was Consul a second time),
-Aburnus Valens succeeded Javolenus Priscus along with Tuscinaus, as well as
-Salvius Julianus.
-
-
-TITLE III.
-CONCERNING STATUTES, DECREES OP THE SENATE, AND LONG ESTABLISHED CUSTOMS.
-
-1. Papinianus, Definitions, Book I.
-A statute is a general precept; a resolution of men learned in the law; a
-restraint of crimes committed either voluntarily or through ignorance; or a
-general obligation of the State.
-2. Marcianus, Institutes, Book I.
-The orator Demosthenes thus defined it. "A law is something which it is proper
-for all men to obey for many reasons, and principally because every law was
-devised by, and is a gift of God; the decree of learned men; the restraint of
-those who either voluntarily or involuntarily are guilty of crime; it is also a
-common obligation of the State, by whose rules all those who reside therein
-should regulate their lives."
-Chrysius, a Stoic philosopher of the greatest erudition, began a book which he
-wrote as follows: "Law is the queen of all things, Di-
-=====
-rangement, in brevity, in simplicity, in purity of diction, in lucidity of
+arrangement, in brevity, in simplicity, in purity of diction, in lucidity of
 statement, in force of argument, in aptness of comparison, in array of
 precedents, they find no parallel in the modern law book. Their directness of
 expression and their discouragement of all subtle distinctions are among their
@@ -637,107 +517,152 @@ with that of England, have often, by the adoption of their maxims, tacitly and
 involuntarily acknowledged their indebtedness to the ancient authorities, to
 whose untiring labors and legal acumen is largely to be attributed the
 excellence of that vast compendium of law, known as the Corpus Juris Civilis. --- ED.
-======
-vine and human. It should also be the governor, the leader, the ruler, of both
+
+* 1.III. CONCERNING STATUTES, DECREES OP THE SENATE, AND LONG ESTABLISHED CUSTOMS.
+
+1. Papinianus, Definitions, Book I.
+A statute is a general precept; a resolution of men learned in the law; a
+restraint of crimes committed either voluntarily or through ignorance; or a
+general obligation of the State.
+
+2. Marcianus, Institutes, Book I.
+The orator Demosthenes thus defined it. "A law is something which it is proper
+for all men to obey for many reasons, and principally because every law was
+devised by, and is a gift of God; the decree of learned men; the restraint of
+those who either voluntarily or involuntarily are guilty of crime; it is also a
+common obligation of the State, by whose rules all those who reside therein
+should regulate their lives."
+Chrysius, a Stoic philosopher of the greatest erudition, began a book which he
+wrote as follows: "Law is the queen of all things, Divine and human. It should also be the governor, the leader, the ruler, of both
 the good and the bad, and, in this way, be the standard of whatever is just and
 unjust, as well as of those things which are civil by Nature, prescribing what
 should be done, and prohibiting what should not be done."
+
 3. Pomponius on Sabinus, Book XXV.
 Laws, as Theophrastus has stated, ought to be established with respect to
 matters which often occur, and not with reference to such as occur
 unexpectedly.
+
 4. Celsus, Digest, Book V.
 Laws are not established concerning matters which can only happen in a single
 instance.
+
 5. The Same, Digest, Book XVII.
 For laws ought to be adapted to events which frequently and readily occur,
 rather than to such as rarely happen.
+
 6. Paulus, On Plautius, Book XVII.
 In fact, what only happens once or twice, as Theophrastus says, legislators
 omit.
+
 7. Modestinus, Rules, Book I.
 The office of the law is to command, to forbid, and to punish.
+
 8. Ulpianus, On Sabinus, Book III.
 Laws are not established for individuals, but for general purposes.
+
 9. The Same, On the Edict, Book XVI.
 There is no doubt that the Senate can make law.
+
 10. Julianus, Digest, Book LIX.
 Neither statutes nor decrees of the Senate can be written in such a way as to
 include all cases at any time which may arise; but it is sufficient if they
 include such as frequently occur.
+
 11. The Same, Digest, Book XC.
 And therefore in those laws which are enacted in the first place, a more
 certain interpretation or construction must be given by the most excellent
 Emperor.
+
 12. The Same, Digest, Book XV.
 All matters cannot be specifically included in the laws or decrees of the
 Senate; but where their sense is clear in any instance, he who has jurisdiction
 of the same can apply it to others that are similar, and in this way administer
 justice.
+
 13. Ulpianus, On the Edict of the Curule AEdiles, Book I.
 For, as Pedius says, whenever anything has been introduced by law there is a
 good opportunity for extending it by interpretation or
 certain construction to other matters, where the same principle is involved.
+
 14. Publius, On the Edict, Book LIV.
 Where anything contrary to the principles of the Law has been accepted, it must
 not be applied to its full extent.
+
 15. Julianus, Digest, Book XXVII.
 In those instances where anything has been established contrary to the
 principles of the law, we cannot follow this rule of law.
+
 16. Paulus, Sole Book on Special Law.
 Special law is that which has been introduced by the authority of those
 establishing it against the tenor of a legal principle, on account of some
 particular advantage.
+
 17. Celsus, Digest, Book XXVI.
 To know the laws is not to be familiar with their phraseology, but with their
 force and effect.
+
 18. The Same, Digest, Book XXIX.
 Laws should be interpreted liberally, in order that their intention may be
 preserved.
+
 19. The Same, Digest, Book XXIII.
 When the terms of the law are ambiguous, that meaning is to be accepted which
 is without incongruity; especially when the intention of the law can be
 ascertained therefrom.
+
 20. Julianus, Digest, Book LV.
 The principle of every law established by our ancestors cannot be stated.
+
 21. Neratius, Parchments, Book VI.
 Hence it is not necessary to seek for the reasons of those laws which have been
 established; otherwise many rules which are based upon the same and which are
 now accepted, will be overthrown.
+
 22. Ulpianus, On the Edict, Book XXXV.
 When the law pardons anything which is past it forbids it for the future.
+
 23. Paulus, On Plautius, Book IV.
 Matters which have always had a certain interpretation should, under no
 circumstances, be changed.
+
 24. Celsus, Digest, Book IX.
 It is not proper without taking into consideration an entire law either to
 decide, or give an opinion upon any particular portion of the same.
+
 25. Modestinus, Opinions, Book VIII.
 No principle of law or indulgent construction of equity permits matters which
 have been introduced for the welfare of mankind to be interpreted so rigorously
 as to be productive of hardship to them.
+
 26. Paulus, Questions, Book IV.
 There is nothing new in the interpretation of recent laws by former ones.
+
 27. Tertullianus, Questions, Book I.
 Therefore, for the reason that it is the custom to interpret recent laws by
 former ones, it ought always to be understood that the principles of the laws
 are applicable to such persons or things as may at any time be of a similar
 character.
+
 28. Paulus, On the Lex Julia et Papia, Book V.
 Recent laws are applicable to former ones unless they are opposed to them; and
 this may be established by many reasons.
+
 29. The Same, On the Lex Cincia.
 To do what the law prohibits violates the law, and anyone who evades the
 meaning of the law without disobeying its words, is guilty of fraud against it.
+
 30. Ulpianus, On the Edict, Book IV.
 Fraud is committed against the law when something is done which the law did not
 wish to be done, but did not absolutely prohibit; and the difference between
 fraud against the law and violation of the same is that between speech and
 opinion.
+
 31. The Same, On the Lex Julia et Papia.
 The Emperor is free from the operation of the law, and though the Empress is
 undoubtedly subject to it, still, the Emperors generally confer upon her the
 same privileges which they themselves enjoy.
+
 32. Julianus, Digest, Book XCIV.
 In cases where there are no written laws, that should be observed which has
 been established by usage and custom, and if anything is lacking therein, then
@@ -746,15 +671,19 @@ this does not exist, then the law which is used by the City of Rome must be
 followed.
 (1) An ancient custom is not improperly observed as a law (and this is what is
 called law established by usage). For as the laws themselves restrain us for no
-other reason than because they are accepted by the judgment of the people --- for
-it is but proper that what the people have approved without being written
+other reason than because they are accepted by the judgment of the people --- for it is but proper that what the people have approved without being written
 should bind all persons --- for what difference does it make whether the people
 have manifested their will by vote, or by acts and deeds? Wherefore the rule
 has also been most justly adopted that laws shall be abrogated not only by the
 vote of the legislator, but also through disuse by the silent consent of all.
+
 33. Ulpianus, Concerning the Office of Proconsul, Book I.
 It is usual for long established custom to be observed as law in those matters
-which have not come down in writing.1
+which have not come down in writing.[1]
+
+[1] "Consuetudo et communis assuetudo vincit legem non scriptam, si sit
+specialis; et interpretatur legem scriptam, si lex sit generalis." --- ED.
+
 34. The Same, Book IV.
 When anyone seems to be confident concerning the custom of a city or province,
 I think it should first be determined whether that custom has been confirmed by
@@ -763,35 +692,38 @@ a judicial decree after it had been disputed.
 Those rules which have been approved by long established custom and have been
 observed for many years, by, as it were, a tacit agreement of citizens, are no
 less to be obeyed than laws which have been committed to writing.
+
 36. Paulus, On Sabinus, Book VII.
 And indeed, a law of this kind has greater authority, for the reason that it
 has been approved to such an extent that it is not necessary to commit it to
 writing.
+
 37. Callistratus, Questions, Book I.
 When inquiry is made as to the interpretation of a law, it must in the first
 place be ascertained what rule the State formerly made use of in cases of the
 same kind; for custom is the best interpreter of the laws.
+
 38. The Same, Questions, Book I.
 For our Emperor Severus stated in a Rescript that in questions of doubt arising
 from statutory enactments, custom, or the authority of decisions which have
 always been decided in the same manner, should obtain the force of law.
+
 39. Celsus, Digest, Book XXIII.
 That which has in the first place been introduced, not by any rule but through
 error, and has afterwards been confirmed by custom, shall not prevail in other
 similar cases.
+
 40. Modestinus, Rules, Book I.
 Thus all law has been either made by consent, or established by necessity, or
 confirmed by custom.
+
 41. Ulpianus, Institutes, Book II.
 Hence all law consists either in the acquisition, preservation, or diminution
 of right; for it has reference to the way in which anything becomes the
 property of a person, or how he can preserve it or his rights, or how he can
 alienate or lose them.
-1 "Consuetudo et communis assuetudo vincit legem non scriptam, si sit
-specialis; et interpretatur legem scriptam, si lex sit generalis." --- ED.
 
-
-TITLE IV. CONCERNING THE CONSTITUTIONS OF THE EMPERORS.
+* 1.IV. CONCERNING THE CONSTITUTIONS OF THE EMPERORS.
 
 1. Ulpianus, Institutes, Book I.
 Whatever the Emperor has decreed has the force of law; since by a Royal
@@ -805,31 +737,36 @@ these are what we generally designate constitutions.
 employed as precedents; for whatever the Emperor has granted to anyone as a
 reward of merit, or where he inflicts a penalty, or relieves a person in an
 unusual way, this does not extend beyond the party in question.
+
 2. Ulpianus, Trusts, Book IV.
 In the enactment of new laws evidence of benefit should manifestly appear to
 justify departure from a law which has been considered just for a long period
 of time.
+
 3. Javolenus, Epistles, Book XIII.
 We should interpret as liberally as possible any favor of the Emperor which in
 fact proceeds from his Divine indulgence.
 4. Modestinus, Excuses, Book II.
 Recent constitutions have greater authority than those which have preceded
-them.1
+them.[1]
 
+[1] "Leges posteriores priores contrarias abrogant." --- ED.
 
-TITLE V. CONCERNING THE CONDITION OF MEN.
+* 1.V. CONCERNING THE CONDITION OF MEN.
 
 1. Gaius, Institutes, Book I.
 All the law which We make use of relates either to persons, things, or actions.
+
 2. Hermogenianus, Epitomes of Law, Book I.
 Therefore, since all law has been established on account of mankind, we shall
 first speak of the condition of persons, and afterwards of other matters,
 following the order of the Perpetual Edict, and adding to them the titles as
 arranged and connected with them, as far as the matter permits.
+
 3. Gaius, Institutes, Book I.
 The principal division of the law of persons is as follows, namely, that all
 men are either free or slaves.
-1 "Leges posteriores priores contrarias abrogant." --- ED.
+
 4. Florentinus, Institutes, Book IX.
 Liberty is the natural power of doing whatever anyone wishes to do unless he is
 prevented in some way, by force or by law.
@@ -840,6 +777,7 @@ accustomed to sell their captives, and in this manner to preserve them, instead
 of putting them to death.
 (3) They are styled mancipia, because they are taken by the hands of their
 enemies.
+
 5. Marcianus, Institutes, Book I.
 One condition is common to all slaves; but of persons who are free some are
 born such, and others are manumitted.
@@ -862,41 +800,51 @@ been expelled from the city, should bring forth a child, whether that child
 should be free or a slave? It was very properly established that it was born
 free; and that it is sufficient for a child who is unborn that its mother
 should have been free during the intermediate time.
+
 6. Gaius, Institutes, Book I.
 Freedmen are those who are manumitted from lawful slavery.
+
 7. Paulus, On the Shares Granted to the Children of Condemned Persons.
 A child in its mother's womb is cared for just as if it were in existence,
 whenever its own advantage is concerned; although it cannot be of any benefit
 to anyone else before it is born.
+
 8. Papinianus, Questions, Book HI.
 The Emperor Titius Antoninus stated in a Rescript that the status of children
 could not be prejudiced on account of the tenor of an improperly drawn
 instrument.
+
 9. The Same, Questions, Book XXXI.
 In many parts of our law the condition of women is worse than that of men.
+
 10. Ulpianus, on Sabinus, Book I.
 The question has been raised to which sex shall we assign an hermaphrodite? And
 I am of the opinion that its sex should be determined from that which
 predominates in it.
+
 11. Paulus, Opinions, Book XVIII.
 Paulus was of the opinion that a child who was conceived during the life of its
 grandfather, while the latter was ignorant of the connexion of his daughter,
 even though it was born after the death of its grandfather, was not the lawful
 son of him by whom it was begotten.
+
 12. The Same, Opinions, Book XIX.
 It is now generally held upon the authority of that most learned man
 Hippocrates, that a child perfectly formed may be born in the seventh month;
 and therefore it is established that a child who is born in lawful marriage
 after seven months is legitimate.
+
 13. Hermogenianus, Epitomes of Law, Book I.
 A slave abandoned by his master to fortune in the trial of a capital case does
 not become free even if he should be acquitted.
+
 14. Paulus, Sentences, Book IV.
 Those beings are not children who are born formed in some way which is contrary
 to the likeness of the human race; as, for instance, where a woman brings forth
 something monstrous or unnatural. A child, however, which has more than the
 ordinary number of human limbs seems to be, to some extent, completely formed,
 and therefore may be included among children.
+
 15. Tryphoninus, Controversies, Book X.
 A slave named Arescusa was declared to be free by will if she brought forth
 three children; and at her first delivery she had one child, and at her second
@@ -915,14 +863,17 @@ instant when she was delivered she fulfilled the condition through the agency
 of someone else;
 it would necessarily be held that she was already a free woman when she brought
 forth the child.
+
 16. Ulpianus, Controversies, Book VI.
 The same thing should take place if Arescusa had first brought forth two
 children, and afterwards brought forth twins; for it must be held that both the
 latter are not born free, but only the one who was born last. The question,
 however, is rather one of fact than of law.
+
 17. The Same, On the Edict, Book XXII.
 According to a Constitution of the Emperor Antoninus, all those who were living
 in the Roman world were made Roman citizens.
+
 18. The Same, on Sabinus, Book XXVII.
 The Emperor Hadrian set forth in a Rescript addressed to Publicius Marcellus,
 that if a free woman after having been condemned to death while pregnant
@@ -930,34 +881,42 @@ brought forth a child it would be free; and that it was customary to hold her
 until she was delivered. Also, where a woman who has conceived in lawful
 marriage is interdicted from fire and water, the child she brings forth is a
 Roman citizen, and remains under the control of its father.
+
 19. Celsus, Digest, Book XXIX.
 When children are born in lawful marriage they follow the condition of the
 father, but one that is conceived in promiscuous intercourse follows the
 condition of the mother.
+
 20. Ulpianus, on Sabinus, Book XXXVIII.
 Anyone who becomes insane is considered to retain the position and rank he
 previously held, and also his magistracy and authority; just as he retains the
 ownership of his property.
+
 21. Modestinus, Rules, Book VII.
 Where a freeman sells himself and is afterwards manumitted, he does not recover
 his former condition of which he deprived himself, but belongs to the class of
 freedmen.
+
 22. The Same, Opinions, Book XII.
 Herennius Modestinus held that if a female slave brought forth a child at the
 time when, according to the terms of the donation which disposed of her, she
 should be manumitted; since she was free by the Imperial Constitution, the
 child born of her is freeborn.
+
 23. The Same, Pandects, Book I.
 The term "conceived in promiscuous intercourse" is applicable to those who
 cannot show who their father is, or if they can do so, he is not their lawful
 father, and these are called spurious, from spora.
+
 24. Ulpianus, On Sabinus, Book XXVII.
 The law of nature is that a child born out of lawful matrimony follows the
 mother, unless a special law provides otherwise.
+
 25. The Same, On the Lex Julia et Papia, Book I.
 We should consider him to be freeborn who has been legally declared such, even
 though he is in fact a freedman; for the reason that whatever is judicially
 determined is accepted as truth.
+
 26. Julianus, Digest, Book LXIX.
 Those who are unborn are, by almost every provision of the Civil Law,
 understood to be already in existence; for estates legally descend to them, and
@@ -968,14 +927,12 @@ forth in the hands of a purchaser in good faith, her child being stolen
 property is not acquired by use. The result of this is that a manumitted slave,
 also, as long as a son can be born to his patron is considered to hold the same
 position under the law as those who have patrons living.
+
 27. Ulpianus, Opinions, Book V.
 Where a man admits that he is a freedman, his patron cannot make ' him freeborn
 even by adopting him.
 
-
-TITLE VI.
-CONCERNING THOSE WHO ARE THEIR OWN MASTERS, AND THOSE THAT ARE UNDER THE
-CONTROL OF OTHERS.
+* 1.VI. CONCERNING THOSE WHO ARE THEIR OWN MASTERS, AND THOSE THAT ARE UNDER THE CONTROL OF OTHERS.
 
 1. Gaius, Institutes, Book I.
 Another division of persons follows according to law, some of whom are their
@@ -1096,10 +1053,7 @@ ruling as to support cannot prejudice the truth.
 Illegitimate or emancipated children cannot be brought under paternal authority
 against their consent.
 
-
-TITLE VII.
-CONCERNING ADOPTIONS AND EMANCIPATIONS, AND OTHER METHODS BY WHICH PATERNAL
-AUTHORITY Is DISSOLVED.
+* 1.VII. CONCERNING ADOPTIONS AND EMANCIPATIONS, AND OTHER METHODS BY WHICH PATERNAL AUTHORITY Is DISSOLVED.
 
 1. Modestinus, Rules, Book II.
 Sons of families are not only created by nature but also by adoption.
@@ -1366,31 +1320,13 @@ adoptive father.
 46. Ulpianus, On the Lex Julia et Papia, Book IV.
 A son begotten by me while in slavery can be brought under my authority by the
 indulgence of the Emperor; still, there is no question that such a son remains
-in the class of freedmen.1
-1 The laws of Hammurabi do not describe the method by which adoption was
+in the class of freedmen.[1]
+
+[1] The laws of Hammurabi do not describe the method by which adoption was
 effected, or the formalities legally required for that purpose. If the adopted
 son proved rebellious, his adoptive father could send him back to his former
 parents. In case he did not enjoy all the rights and privileges of a child by
-blood, or was
-
-
-TITLE VIII. CONCERNING THE DIVISION AND NATURE OP THINGS.
-
-1. Gaius, Institutes, Book II.
-
-The principal division of Things is under two heads: for some of them belong to
-Divine and some to human law. Those which come under Divine law are, for
-instance, sacred and religious things. Sacred things are, for example, walls
-and gates, which, to a certain extent, are under Divine law. For what is
-subject to Divine law is not the property of anyone, and that indeed which
-belongs to human law is, for the most part, the property of someone,
-nevertheless, it may belong to none, for things belonging to an estate until an
-heir appears, are not the property of anyone. Again, those things that are
-under human law
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%footnote%%%%%%%%%%%%%%%%%%%%
-
-not taught a trade, he was at liberty to depart. An adoptive father was not
+blood, or was not taught a trade, he was at liberty to depart. An adoptive father was not
 allowed to cut him off without cause, and was compelled to give him one third
 of a son's share out of his personal estate. The adoption of female children is
 not mentioned. (Code of Hammurabi, 186, 191.)
@@ -1437,26 +1373,7 @@ the pecuniary condition of both parties was made, as well as of the life,
 reputation, and motives of the applicant. If the petition was granted, security
 was demanded of the adoptive father by a bond duly executed before a notary
 public, providing that if the child in question should die before reaching
-puberty, he would surrender all the estate
-
-
-%%%%%%%%%%%%%%%%%%%%footnote%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-are either public or private. Those which are public are held to be the
-property of no one, and are considered to belong to the entire community, and
-those which are private belong to individuals.
-
-(1) Moreover, some things are corporeal, and some are incorporeal. Those are
-corporeal which are tangible, as for instance land, slaves, clothing, gold,
-silver, as well as innumerable other articles. Those are incorporeal which
-cannot be touched as an usufruct, and obligations, in whatever way contracted.
-It does not matter if corporeal things are included in an estate, for the crops
-taken from land are corporeal, and whatever is owing to us through the
-obligation of another, is for the most part corporeal, as land, slaves, money;
-still, the right of succession, the right of use and enjoyment, and the right
-based upon an obligation are all incorporeal. To the same class belong all the
-rights of urban and rustic estates, which are designated as servitudes.
-of the latter to those who would have been his heirs had he not been adopted.
+puberty, he would surrender all the estate of the latter to those who would have been his heirs had he not been adopted.
 The adoptive father was, however, entitled to the usufruct of the property
 while it was in his possession.
 In most respects the old Castilian law, which admitted the difference between
@@ -1490,7 +1407,6 @@ ecclesiastic, or the guardian of the person adopted (unless he has previously
 rendered a satisfactory account of his trust). In other particulars the law
 generally coincides with that of France. (Cxxdigo Civil de España, Arts. 173,
 174.)
-
 In Italy, an illegitimate child cannot be adopted by either of its parents. The
 party adopted must be at least eighteen years old, and his rights and
 obligations toward his own family remain unchanged by his reception into
@@ -1500,8 +1416,30 @@ adopted child, however, loses none of the rights to which he was entitled as a
 member of his own family. (Allgemeines Bürgerliches Gesetzbuch, Arts. 182, 183,
 184, 185.) --- ED.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
+* 1.VIII. CONCERNING THE DIVISION AND NATURE OP THINGS.
 
+1. Gaius, Institutes, Book II.
+
+The principal division of Things is under two heads: for some of them belong to
+Divine and some to human law. Those which come under Divine law are, for
+instance, sacred and religious things. Sacred things are, for example, walls
+and gates, which, to a certain extent, are under Divine law. For what is
+subject to Divine law is not the property of anyone, and that indeed which
+belongs to human law is, for the most part, the property of someone,
+nevertheless, it may belong to none, for things belonging to an estate until an
+heir appears, are not the property of anyone. Again, those things that are
+under human law are either public or private. Those which are public are held to be the property of no one, and are considered to belong to the entire community, and those which are private belong to individuals.
+
+(1) Moreover, some things are corporeal, and some are incorporeal. Those are
+corporeal which are tangible, as for instance land, slaves, clothing, gold,
+silver, as well as innumerable other articles. Those are incorporeal which
+cannot be touched as an usufruct, and obligations, in whatever way contracted.
+It does not matter if corporeal things are included in an estate, for the crops
+taken from land are corporeal, and whatever is owing to us through the
+obligation of another, is for the most part corporeal, as land, slaves, money;
+still, the right of succession, the right of use and enjoyment, and the right
+based upon an obligation are all incorporeal. To the same class belong all the
+rights of urban and rustic estates, which are designated as servitudes.
 
 2. Marcianus, Institutes, Book HI.
 Certain things are common to all by natural law; some belong to the entire
@@ -1563,8 +1501,10 @@ even where he ratifies it afterwards the place where the corpse was buried
 becomes religious.
 (5) Again, the better opinion is that an empty tomb is a religious place, as is
 stated in Virgil.
+
 7. Ulpianus, On the Edict, Book XXV.
 Nevertheless, the Divine Brothers published a Rescript to the contrary.
+
 8. Marcianus, Rules, Book IV.
 A holy place is one which is defended and protected from the injuries of men.
 (1) The word "sacred" is said to have been derived from the word sagmina,
@@ -1574,6 +1514,7 @@ Ambassadors carried those which are called khrukia.
 (2) Cassius states that Sabinus very properly gave the opinion that the walls
 of a city were holy, and that it was necessary for persons to be prohibited
 from placing anything against them.
+
 9. Ulpianus, On the Edict, Book LXVIII.
 Sacred places are those which are dedicated to the public, either in the city
 or in the country.
@@ -1594,9 +1535,11 @@ anyone who is guilty of an offence in that place shall be punished with death.
 anything to them, or place anything upon them, without the authority of the
 Emperor or the governor.
 (5) Anything that is sacred is not susceptible of appraisement.
+
 10. Pomponius, On Plautius, Book VI.
 Aristo declares that just as anything built into the sea becomes private
 property, so whatever the sea encroaches upon becomes public property.
+
 11. Pomponius, From Various Passages, Book II.
 Where anyone trespasses upon the walls, he is punished with death; just as
 where anyone climbs over them by means of ladders, or in any other manner;
@@ -1604,12 +1547,7 @@ since Roman citizens are not permitted to leave a city except by the gates; as
 the former is an act of hostility and abominable. It is said that Remus, the
 brother of Romulus, was killed because he wished to scale the wall.
 
-
-
-
-
-
-TITLE IX. CONCERNING SENATORS.
+* 1.IX. CONCERNING SENATORS.
 
 1. Ulpianus, On the Edict, Book LXII.
 No one doubts that a man of consular rank should always take precedence of a
@@ -1698,11 +1636,9 @@ Antoninus Augustus favored his cousin Julia Mammae in this respect.
 from patricians and consuls, or any illustrious men; because these alone have
 the right to give their opinions in the Senate.
 
+* 1.X. CONCERNING THE OFFICE OF CONSUL.
 
-
-
-TITLE X.
-CONCERNING THE OFFICE OF CONSUL. 1. Ulpianus, On the Duties of Consul, Book II.
+1. Ulpianus, On the Duties of Consul, Book II.
 
 It is the duty of the Consul to appoint a council for those who desire to
 manumit slaves.
@@ -1718,10 +1654,7 @@ one who, according to a decree of the Senate, must determine the ground for the
 appointment of a council. He can, however, do this before his colleague where
 proper cause has been established.
 
-
-
-
-TITLE XI. CONCERNING THE OFFICE OF PRAETORIAN PREFECT.
+* 1.XI. CONCERNING THE OFFICE OF PRAETORIAN PREFECT.
 
 1. Aurelius Arcadius Charisius, Master of Requests, On the Duties of Praetorian
 Prefect.
@@ -1750,12 +1683,9 @@ taken into consideration.
 not obtain restitution after condemnation, from any other magistrates than from
 the Praetorian Prefects themselves.
 
+* 1.XII. CONCERNING THE OFFICE OF PREFECT OF THE CITY.
 
-
-
-
-TITLE XII.
-CONCERNING THE OFFICE OF PREFECT OF THE CITY. 1. Ulpianus, On the Duties of the
+1. Ulpianus, On the Duties of the
 
 Urban Prefect. An Epistle of the Divine Severus to Fabius Cilo, Prefect of the
 City, states that he has jurisdiction of all offences of every description, not
@@ -1830,7 +1760,9 @@ be tried before him.
 3. Ulpianus, On the Edict, Book II.
 The Prefect of the City has no jurisdiction beyond the limits of the city, but
 he can appoint judges outside of it.
-TITLE XIII. CONCERNING THE OFFICE OF QUAESTOR.
+
+* 1.XIII. CONCERNING THE OFFICE OF QUAESTOR.
+
 1. Ulpianus, On the Duties of Quaestor.
 The origin of quaestor is very ancient, more so than that of almost any other
 magistracy. Gracchanus Julius, in the Seventh Book "On Authorities", relates
@@ -1853,10 +1785,7 @@ other offices, and confers the right to state one's opinion in the Senate.
 (4) There are some of these, as We have just stated, who are styled the
 candidates of the Emperor, and who read his Epistles in the Senate.
 
-
-
-
-TITLE XIV. CONCERNING THE OFFICE OF THE PRAETORS.
+* 1.XIV. CONCERNING THE OFFICE OF THE PRAETORS.
 
 1. Ulpianus, On Sabinus, Book XXVI.
 A father can manumit before a son who is under his control, if the son is a
@@ -1882,11 +1811,7 @@ considered well founded with respect to the Emperor.
 A Praetor cannot appoint himself a guardian, or a judge in any special
 proceeding.
 
-
-
-
-TITLE XV.
-CONCERNING THE OFFICE OF PREFECT OF THE NIGHT WATCH.
+* 1.XV. CONCERNING THE OFFICE OF PREFECT OF THE NIGHT WATCH.
 
 1. Paulus, On the Duties of the Prefect of the Night Watch. Among the ancients
 three men were appointed for the purpose of
@@ -1937,11 +1862,7 @@ whipped with rods or scourged; and those who are accused of arson you may send
 to Our friend Fabius Cilo, Prefect of the City; fugitive slaves you must seek
 out and restore to their masters."
 
-
-
-
-TITLE XVI.
-CONCERNING THE OFFICE OF PROCONSUL, AND HIS DEPUTY.
+* 1.XVI. CONCERNING THE OFFICE OF PROCONSUL, AND HIS DEPUTY.
 
 1. Ulpianus, Controversies, Book I.
 The proconsul bears everywhere the insignia of his rank after he leaves the
@@ -2115,10 +2036,7 @@ The deputies of Proconsuls can appoint guardians.
 16. Ulpianus, On the Edict, Book II.
 As soon as the Proconsul enters the gate of Rome, he loses his authority.
 
-
-
-
-TITLE XVII. CONCERNING THE OFFICE OF AUGUSTAL PREFECT.
+* 1.XVII. CONCERNING THE OFFICE OF AUGUSTAL PREFECT.
 
 1. Ulpianus, On the Edict, Book XV.
 The Prefect of Egypt does not lay aside his prefectship and the authority
@@ -2126,10 +2044,7 @@ granted to him by law under Augustus, as Proconsuls do, be-
 fore his successor enters the City of Alexandria; even though he may have
 already reached the province; and it is so stated in his commission.
 
-
-
-
-TITLE XVIII. CONCERNING THE OFFICE OF GOVERNOR.
+* 1.XVIII. CONCERNING THE OFFICE OF GOVERNOR.
 
 1. Macer, On the Duties of Governor, Book I.
 The title of Governor is a general one, and hence it is applicable to
@@ -2305,10 +2220,7 @@ of anyone, or occupies such a place that, without considering the injury to
 property alone, the destruction and the ruin of the master's entire household
 is involved, he ought to be punished with the greatest severity.
 
-
-
-TITLE XIX.
-CONCERNING THE OFFICE OF THE IMPERIAL STEWARD OR ACCOUNTANT.
+* 1.XIX. CONCERNING THE OFFICE OF THE IMPERIAL STEWARD OR ACCOUNTANT.
 
 1. Ulpianus, On the Edict, Book XVI.
 All acts performed by the Imperial Steward are approved by the Emperor, just as
@@ -2340,12 +2252,7 @@ Julius.
 this our Emperors Severus and Antoninus stated in a Rescript in answer to a
 petition of Hermias.
 
-
-
-
-
-
-TITLE XX. CONCERNING THE OFFICE OF JURIDICUS.
+* 1.XX. CONCERNING THE OFFICE OF JURIDICUS.
 
 1. Ulpianus, On Sabinus, Book XXVI.
 Anyone can adopt in the tribunal of the Juridicus,1because the right of legal
@@ -2353,8 +2260,8 @@ action is granted him.
 2. The Same, On Sabinus, Book XXXIX.
 The privilege of appointing guardians was, by a Constitution of the Divine
 Marcus conferred upon the Juridicus who presides at Alexandria.
-TITLE XXI.
-CONCERNING THE OFFICE OF HIM TO WHOM JURISDICTION Is DELEGATED.
+* 1.XXI. CONCERNING THE OFFICE OF HIM TO WHOM JURISDICTION Is DELEGATED.
+
 1. Papinianus, Questions, Book I.
 Whatever authority is specially conferred either by a law, a decree of the
 Senate, or an Imperial Constitution, is not transferred when delegated, but any
@@ -2408,8 +2315,7 @@ magisterial power except that of condemning to death is delegated with it;
 because there is no jurisdiction which does not include the right to inflict
 moderate punishment.
 
-
-TITLE XXII. CONCERNING THE OFFICE OF ASSESSORS.
+* 1.XXII. CONCERNING THE OFFICE OF ASSESSORS.
 
 1. Paulus, On the Duties of Assessor.
 The entire office of assessor in which those learned in the law discharge their

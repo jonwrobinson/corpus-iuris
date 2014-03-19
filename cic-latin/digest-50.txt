@@ -367,7 +367,7 @@ pr. Imperatores Antoninus et Verus Augusti rescripserunt gratiam se facere iuris
 
 6. Imperatores Antoninus et Verus rescripserunt non minus eos, qui compulsi magistratu funguntur, cavere debere, quam qui sponte officium adgnoverunt.
 
-* 50.2.0. De decurionibus et filiis eorum.
+* 50.2.0.  De decurionibus et filiis eorum.
 
 
 50.2.1
@@ -500,7 +500,7 @@ Paulus libro primo quaestionum
 
 De decurione damnato non debere quaestionem haberi divus Pius rescripsit. Unde etiam si desierit decurio esse, deinde damnetur, non esse torquendum in memoriam prioris dignitatis placet.
 
-* 50.3.0. De albo scribendo.
+* 50.3.0.  De albo scribendo.
 
 
 50.3.1
@@ -517,7 +517,7 @@ Ulpianus libro secundo opinionum
 
 In albo decurionum in municipio nomina ante scribi oportet eorum, qui dignitates principis iudicio consecuti sunt, postea eorum, qui tantum municipalibus honoribus functi sunt.
 
-* 50.4.0. De muneribus et honoribus.
+* 50.4.0.  De muneribus et honoribus.
 
 
 50.4.1
@@ -776,7 +776,7 @@ pr. Munerum civilium triplex divisio est: nam quaedam munera personalia sunt, qu
 
 30. Magistris, qui civilium munerum vacationem habent, item grammaticis et oratoribus et medicis et philosophis, ne hospitem reciperent, a principibus fuisse immunitatem indultam et divus Vespasianus et divus Hadrianus rescripserunt.
 
-* 50.5.0. De vacatione et excusatione munerum.
+* 50.5.0.  De vacatione et excusatione munerum.
 
 
 50.5.1
@@ -917,7 +917,7 @@ pr. Ad excusationem munerum defunctus filius non prosit, praeterquam in bello am
 
 1. Eodem tempore idem duas curas operis non administrabit.
 
-* 50.6.0. De iure immunitatis.
+* 50.6.0.  De iure immunitatis.
 
 
 50.6.1
@@ -992,7 +992,7 @@ Tarruntenus Peternus libro primo militarium
 
 Quibusdam aliquam vacationem munerum graviorum condicio tribuit, ut sunt mensores, optio valetudinarii, medici, capsarii, et artifices et qui fossam faciunt, veterinarii, architectus, gubernatores, naupegi, ballistrarii, specularii, fabri, sagittarii, aerarii, bucularum structores, carpentarii, scandularii, gladiatores, aquilices, tubarii, cornuarii, arcuarii, plumbarii, ferrarii, lapidarii, et hi qui calcem cocunt, et qui silvam infindunt, qui carbonem caedunt ac torrent. In eodem numero haberi solent lani, venatores, victimarii, et optio fabricae, et qui aegris praesto sunt, librarii quoque qui docere possint, et horreorum librarii, et librarii depositorum, et librarii caducorum, et adiutores corniculariorum, et stratores, et polliones, et custodes armorum, et praeco, et bucinator. Hi igitur omnes inter immunes habentur.
 
-* 50.7.0. De legationibus.
+* 50.7.0.  De legationibus.
 
 
 50.7.1
@@ -1131,7 +1131,7 @@ Pomponius libro 37 ad Quintum Mucium
 
 Si quis legatum hostium pulsasset, contra ius gentium id commissum esse existimatur, quia sancti habentur legati. Et ideo si, cum legati apud nos essent gentis alicuius, bellum cum eis indictum sit, responsum est liberos eos manere: id enim iuri gentium convenit esse. Itaque eum, qui legatum pulsasset, Quintus Mucius dedi hostibus, quorum erant legati, solitus est respondere. Quem hostes si non recepissent, quaesitum est, an civis Romanus maneret: quibusdam existimantibus manere, aliis contra, quia quem semel populus iussisset dedi, ex civitate expulsisse videretur, sicut faceret, cum aqua et igni interdiceret. In qua sententia videtur Publius Mucius fuisse. Id autem maxime quaesitum est in Hostilio Mancino, quem Numantini sibi deditum non acceperunt: de quo tamen lex postea lata est, ut esset civis Romanus, et praeturam quoque gessisse dicitur.
 
-* 50.8.0. De administratione rerum ad civitates pertinentium.
+* 50.8.0.  De administratione rerum ad civitates pertinentium.
 
 
 50.8.1
@@ -1262,7 +1262,7 @@ Papirius libro secundo de constitutionis
 
 Imperatores Antoninus et Verus rescripserunt eum, qui pecuniam publicam magistratus sui tempore et post non pauco tempore detinuerat, usuras etiam praestare debere, nisi si quid adlegare possit, qua ex causa tardius intulisset.
 
-* 50.9.0. De decretis ab ordine faciendis.
+* 50.9.0.  De decretis ab ordine faciendis.
 
 
 50.9.1

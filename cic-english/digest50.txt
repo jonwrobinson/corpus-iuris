@@ -1,30 +1,26 @@
 # -*- mode: org -*-
 
-BOOK L.
-
-TITLE I. CONCERNING MUNICIPAL TOWNS AND THEIR INHABITANTS
-TITLE II. CONCERNING DECURIONS AND THEIR SONS
-TITLE III. CONCERNING THE REGISTER OF DECURIONS
-TITLE IV. CONCERNING PUBLIC EMPLOYMENTS AND HONORS
-TITLE V. PAGE CONCERNING EXEMPTION AND EXCUSES FROM EMPLOYMENTS
-TITLE VI. ON THE RIGHT OF IMMUNITY
-TITLE VII. CONCERNING EMBASSIES
-TITLE Vill. CONCERNING THE ADMINISTRATION OF PROPERTY BELONGING TO CITIES
-TITLE IX.
-CONCERNING DECREES WHICH SHOULD BE RENDERED BY THE ORDER OF DECURIONS
-TITLE X. CONCERNING PURLIC WORKS
-TITLE XI. CONCERNING MARKETS ..
-TITLE XII. CONCERNING PROMISES
-TITLE XIII.
-CONCERNING EXTRAORDINARY JUDICIAL INQUIRIES, AND WHERE A JUDGE is ALLEGED TO HAVE RENDERED A CASE HIS OWN
-TITLE XIV. CONCERNING BROKERS
-TITLE XV. CONCERNING TAXES
-TITLE XVI. CONCERNING THE SIGNIFICATION OF TERMS
-TITLE XVII. CONCERNING DIFFERENT RULES OF ANCIENT LAW
+* BOOK L.
++ 50.I. CONCERNING MUNICIPAL TOWNS AND THEIR INHABITANTS
++ 50.II. CONCERNING DECURIONS AND THEIR SONS
++ 50.III. CONCERNING THE REGISTER OF DECURIONS
++ 50.IV. CONCERNING PUBLIC EMPLOYMENTS AND HONORS
++ 50.V. PAGE CONCERNING EXEMPTION AND EXCUSES FROM EMPLOYMENTS
++ 50.VI. ON THE RIGHT OF IMMUNITY
++ 50.VII. CONCERNING EMBASSIES
++ 50.VIII. CONCERNING THE ADMINISTRATION OF PROPERTY BELONGING TO CITIES
++ 50.IX. CONCERNING DECREES WHICH SHOULD BE RENDERED BY THE ORDER OF DECURIONS
++ 50.X. CONCERNING PURLIC WORKS
++ 50.XI. CONCERNING MARKETS ..
++ 50.XII. CONCERNING PROMISES
++ 50.XIII. CONCERNING EXTRAORDINARY JUDICIAL INQUIRIES, AND WHERE A JUDGE IS ALLEGED TO HAVE RENDERED A CASE HIS OWN
++ 50.XIV. CONCERNING BROKERS
++ 50.XV. CONCERNING TAXES
++ 50.XVI. CONCERNING THE SIGNIFICATION OF TERMS
++ 50.XVII. CONCERNING DIFFERENT RULES OF ANCIENT LAW
 
 
-THE DIGEST OR PANDECTS. BOOK L.
-TITLE I. CONCERNING MUNICIPAL TOWNS AND THEIR INHABITANTS.
+* 50.I. CONCERNING MUNICIPAL TOWNS AND THEIR INHABITANTS.
 
 1. Ulpianus, On the Edict, Book II.
 Either birth, manumission, or adoption, creates a citizen of a municipality.
@@ -449,7 +445,10 @@ sufficient to establish anyone's birthplace.
 (6) The Emperors Antoninus and Verus stated in a Rescript that those who
 perform the duties of magistrates under compulsion should give adequate
 security, just as one who voluntarily accepted the office.
-TITLE II. CONCERNING DECURIONS AND THEIR SONS.
+
+
+* 50.II. CONCERNING DECURIONS AND THEIR SONS.
+
 1. Ulpianus, Opinions, Book II.
 It is established that decurions who have left the towns to which they
 belonged, and gone to other places, can be recalled to their country by the
@@ -633,7 +632,10 @@ The Divine Pius stated in a Rescript that a decurion who had been convicted
 should not be subjected to torture. Wherefore, when anyone ceases to be a
 decurion, and afterwards is convicted, it is decided that he must not be
 tortured, on account of the memory of his former dignity.
-TITLE III. CONCERNING THE REGISTER OF DECURIONS.
+
+
+* 50.III. CONCERNING THE REGISTER OF DECURIONS.
+
 1. Ulpianus, On the Duties of Proconsul, Book III.
 The names of decurions should be entered upon a register, as is prescribed by
 the municipal law. Where, however, there is no law on this point, the rank of
@@ -651,7 +653,10 @@ stated should be observed in registering their names.
 The names of the recipients of honors at the hands of the Emperor should first
 be entered upon the register of the decurions in a city; and afterwards the
 names of those who only have discharged the duties of municipal offices.
-TITLE IV. CONCERNING PUBLIC EMPLOYMENTS AND HONORS.
+
+
+* 50.IV. CONCERNING PUBLIC EMPLOYMENTS AND HONORS.
+
 1. Hermogenianus, Epitomes, Book I.
 Some municipal employments are derived from estates, and others from persons.
 (1) Employments derived from estates refer to transportation of goods by sea or
@@ -1022,8 +1027,10 @@ collection of personal taxes, with the exception of soldiers and veterans.
 exemption from furnishing lodgings was granted by the Emperor to teachers who
 were not liable to civil employment, as well as to grammarians, instructors in
 rhetoric, and philosophers.
-TITLE V.
-CONCERNING EXEMPTION AND EXCUSES FROM EMPLOYMENTS.
+
+
+* 50.V. CONCERNING EXEMPTION AND EXCUSES FROM EMPLOYMENTS.
+
 1. Ulpianus, Opinions, Book II.
 Every excuse should be based upon justice. But if confidence should be placed
 in persons claiming exemption, without a hearing in court, or indiscriminately,
@@ -1194,7 +1201,10 @@ The death of a son is no advantage to his father as an excuse from public
 employment, unless he was killed in battle.
 (1) The same person shall not supervise the construction of two public works at
 the same time.
-TITLE VI. ON THE RIGHT OF IMMUNITY.
+
+
+* 50.VI. ON THE RIGHT OF IMMUNITY.
+
 1. Ulpianus, Opinions, Book HI.
 Those who are only on board ships for the purpose of navigating them are not
 entitled to immunity from civil employments, by the terms of any Imperial
@@ -1335,7 +1345,10 @@ attend the sick, weighers, not only those in warehouses and depositories, but
 also such as are charged with the distribution of supplies to the army, aids of
 military tribunes, couriers, the guards of arms, common criers, and trumpeters.
 All these persons are considered to be exempt from public office.
-TITLE VII. CONCERNING EMBASSIES.
+
+
+* 50.VII. CONCERNING EMBASSIES.
+
 1. Ulpianus, On Massurius Sabinus, Book Vill.
 When a municipal envoy abandons his office, he is generally subjected to an
 ordinary penalty, and dismissed from his order.
@@ -1471,8 +1484,10 @@ This question was thoroughly discussed in the case of Hostilius Mancinus, whom
 the Numantians would not receive when he was surrendered to them; and, on this
 account, a law was subsequently enacted to enable him to remain a Roman
 citizen, and he is said to have even held the office of Praetor.
-TITLE Vill.
-CONCERNING THE ADMINISTRATION OF PROPERTY BELONGING TO CITIES.
+
+
+* 50.VIII. CONCERNING THE ADMINISTRATION OF PROPERTY BELONGING TO CITIES.
+
 1. Ulpianus, Disputations, Book X.
 Anything which has been left to a city for a special purpose cannot be
 converted to other uses.
@@ -1639,8 +1654,10 @@ Rescript that a magistrate who, during his term of office, and for a long time
 afterwards, had retained any of the public money in his possession, would be
 obliged to refund it with the interest, unless he could allege some good reason
 for not doing so.
-TITLE IX.
-CONCERNING DECREES WHICH SHOULD BE RENDERED BY THE ORDER OF DECURIONS.
+
+
+* 50.IX. CONCERNING DECREES WHICH SHOULD BE RENDERED BY THE ORDER OF DECURIONS.
+
 1. Ulpianus, Opinions, Book HI.
 It is not in the discretion of the Governor of a province to determine the
 number of physicians to be appointed for each town, but this is the duty'of the
@@ -1675,7 +1692,10 @@ shall pay a thousand drachmas."
 The question arose whether he should be subjected to the penalty if he was
 ignorant that he had violated the law. The answer was that penalties of this
 kind were only intended for those who knew that they were acting illegally.
-TITLE X. CONCERNING PUBLIC WORKS.
+
+
+* 50.X. CONCERNING PUBLIC WORKS.
+
 1. Ulpianus, Opinions, Book II.
 A certain man, having been appointed supervisor of public works, and desiring
 to be excused, did not succeed, but remained in office until he died. He left
@@ -1754,7 +1774,9 @@ Where, however, private individuals expend a sum of money of their own to the
 embellishment of a work already constructed with the public funds, it is
 provided by the same Imperial Mandates that they can have their names inscribed
 upon the work and state the amount of money which they had contributed to it.
-TITLE XL CONCERNING MARKETS.
+
+
+* 50.XI CONCERNING MARKETS.
 1. Modestinus, Rules, Book III.
 Where permission to hold a market has been obtained from the Emperor, and the
 person accorded the privilege does not make use of it for ten years, he will
@@ -1777,7 +1799,9 @@ desires to exchange wares with him, will it be necessary for him to remain
 sitting in his place in the market until he disposes of his commodities? By no
 means, for there are those who, seeing this, may offer their services for the
 disposal of the merchandise."
-TITLE XII. CONCERNING PROMISES.
+
+
+* 50.XII. CONCERNING PROMISES.
 1. Ulpianus, On the Duties of the Chief Magistrate of a City.
 If anyone should promise to construct a public work, or donate money for that
 purpose, he cannot be sued for interest. If, however, he delays, interest will
@@ -1950,10 +1974,8 @@ The Divine Pius stated in a Rescript that a grandson by a daughter of the
 testator was also included among his children.
 
 
-TITLE XIII.
-CONCERNING EXTRAORDINARY JUDICIAL INQUIRIES, AND
-WHERE A JUDGE Is ALLEGED TO HAVE RENDERED
-A CASE His OWN.
+* 50.XIII. CONCERNING EXTRAORDINARY JUDICIAL INQUIRIES, AND WHERE A JUDGE IS ALLEGED TO HAVE RENDERED A CASE HIS OWN.
+
 1. Ulpianus, On All Tribunals, Book Vill.
 The Governor of a province usually decided with reference to salaries, but only
 concerning those to which instructors in liberal studies are entitled. We
@@ -2000,46 +2022,19 @@ entitled, provided the amount does not exceed the compensation fixed by law;
 for this was set forth in a Rescript of Our Emperor and his Father in the
 following terms: "If Julius Maternus, who has wished you to appear in his case,
 is ready to pay you what he agreed to do, you can only claim an amount which
-does not exceed that prescribed by law."1
-1 While the services of the patron, in representing his client in court, were
-presumedly gratuitous, this was not actually the case when the reciprocal
+does not exceed that prescribed by law."[1]
+
+[1]: While the services of the patron, in representing his client in court, were presumedly gratuitous, this was not actually the case when the reciprocal
 obligations existing between them are considered. The client was compelled to
 discharge certain duties towards his patron, and the latter was, in turn,
 required to afford his client protection against injury, to furnish him advice,
 whenever requested to do so, as well as to appear for him in all litigation in
 which he might be interested. Immemorial usage and the maintenance of patrician
 dignity forbade remuneration of any kind whatever, either in money or other
-property.
-Subsequently, when the ties of hereditary connection became less binding, and
-consultation with patrons was abandoned by their clients for the advice of
-jurists possessed of greater legal erudition, a voluntary fee, or
+property. Subsequently, when the ties of hereditary connection became less binding, and consultation with patrons was abandoned by their clients for the advice of jurists possessed of greater legal erudition, a voluntary fee, or
 honorarium,was expected. The amount of this was established by custom, and, in
 the course of time, when excessive gifts of this description were virtually
-demanded, all fees were regulated by statute.
-The practice of considering as a right what was originally optional and
-bestowed as a favor in time degenerated into a systematic and notorious method
-of extortion, which frequently impoverished litigants, and became an universal
-subject of reproach, tarnishing the reputations of even the most learned and
-eminent members of the Roman bar. The works of classic writers, poets,
-essayists, and historians abound in sarcastic and denunciatory allusions to the
-rapacity and faithlessness of advocates. Even Cicero, whose assumption of
-superior virtue and professional integrity were only surpassed by his
-inordinate vanity, did not escape the suspicion and criticism of his
-contemporaries. Sallust refers to him as mercenary, corrupt, insatiately
-greedy, and pusillanimous. "Mercenarius patronus, cujus nulla pars cor-poris
-turpitudine vacat, lingua vana, manus rapacissimie, gula immensa, pedes
-fugaces."He was even accused of having made an agreement with Hortensius, the
-(11) We should understand advocates to be all those who devote their energies
-to the purpose of conducting litigation. Those, however, are not included in
-the number of advocates who ordinarily appear in court to conduct cases in
-behalf of parties who are absent.
-(12) If a fee has been agreed upon with an advocate, or if anyone has made a
-contract with him, having reference to the conduct of a case, let us see
-whether he can demand it. And, indeed, the following was stated by our Emperor
-and his Divine Father with reference to agreements of this kind, namely: "It is
-the observance of a bad custom where you exact from your client a promise for
-the payment of money for conducting his case. It is the law that if, while the
-case is pending, an agreement is made for future remuneration it will be
+demanded, all fees were regulated by statute. The practice of considering as a right what was originally optional and bestowed as a favor in time degenerated into a systematic and notorious method of extortion, which frequently impoverished litigants, and became an universal subject of reproach, tarnishing the reputations of even the most learned and eminent members of the Roman bar. The works of classic writers, poets, essayists, and historians abound in sarcastic and denunciatory allusions to the rapacity and faithlessness of advocates. Even Cicero, whose assumption of superior virtue and professional integrity were only surpassed by his inordinate vanity, did not escape the suspicion and criticism of his contemporaries. Sallust refers to him as mercenary, corrupt, insatiately greedy, and pusillanimous. "Mercenarius patronus, cujus nulla pars corporis turpitudine vacat, lingua vana, manus rapacissimie, gula immensa, pedes fugaces."He was even accused of having made an agreement with Hortensius, the
 advocate of Verres, to reduce the amount of damages for which he himself had
 brought suit in behalf of the plundered Sicilians; which constituted the
 offence known as prievaricatio,the most detestable act of perfidy which anyone
@@ -2086,6 +2081,19 @@ advocate had as much right to compensation as a soldier had to booty. The
 violation of morality and professional decency, as evidenced by the
 prxvaricatio,does not seem to have been taken into consideration; the sole
 point at issue being whether the Lex Cinciawas, or was not, applicable.---ED.
+
+
+(11) We should understand advocates to be all those who devote their energies
+to the purpose of conducting litigation. Those, however, are not included in
+the number of advocates who ordinarily appear in court to conduct cases in
+behalf of parties who are absent.
+(12) If a fee has been agreed upon with an advocate, or if anyone has made a
+contract with him, having reference to the conduct of a case, let us see
+whether he can demand it. And, indeed, the following was stated by our Emperor
+and his Divine Father with reference to agreements of this kind, namely: "It is
+the observance of a bad custom where you exact from your client a promise for
+the payment of money for conducting his case. It is the law that if, while the
+case is pending, an agreement is made for future remuneration it will be
 void; but if it is made after the case has been tried, the sum promised as a
 fee can be collected up to a reasonable amount, even though the agreement was
 made with reference to what might be recovered, provided what has been paid
@@ -2104,6 +2112,7 @@ will have jurisdiction.
 (15) If all these things should be demanded before the Governors of provinces,
 let us see whether they can have jurisdiction of reciprocal claims. I think
 that they should be permitted to do so.
+
 2. The Same, Opinions, Book I.
 It has been decided that the Governor of a province has jurisdiction of
 disputes arising with reference to the use of water distributed by new
@@ -2115,15 +2124,18 @@ provided this has been done by the authority of someone who had no right to
 order it; so that the Governor may render his decision in these cases according
 to justice and his right of jurisdiction, and place matters in a suitable
 condition.
+
 3. The Same, Opinions, Book V.
 When a physician, who has been entrusted with the treatment of anyone's eyes,
 administers drugs which may cause him to lose his eyesight, in order by doing
 so to force him to sell him his property, while he is ill, contrary to good
 faith, the Governor of the province must punish the unlawful act, and order the
 property to be restored.
+
 4. Paulus, On.Plautius, Book IV.
 The Divine Antoninus Pius stated in a Rescript that persons learned in the law,
 who demanded their fees, could collect them.
+
 5. Callistratus, On Judicial Inquiries, Book I.
 The number of judicial inquiries is derived from various sources, and cannot
 easily be divided into different kinds, unless this is done cursorily. Hence
@@ -2149,6 +2161,7 @@ mines; for there is no difference between these two sentences, nor are the
 penalty of labor connected with the mines and sentence to the mines dissimilar,
 except that in the former the penalty of civil death is not inflicted, but in
 the second, the offender is liable to it.
+
 6. Gaius, On Diurnal Occurrences or Golden Matters, Book III.
 When a judge makes case his own,1 he is not, properly speaking, guilty of a
 criminal offence; but, for the reason that he is not bound by a contract, and
@@ -2158,9 +2171,11 @@ faetum,as having committed an unlawful act, and he must submit to any penalty
 which may appear just to the court having jurisdiction of the case.
 
 
-TITLE XIV. CONCERNING BROKERS.
+* 50.XIV. CONCERNING BROKERS.
+
 1. Ulpianus, On Sabinus, Book XLH.
 Brokers have a right to demand their commissions.
+
 2. The Same, On the Edict, Book XXXI.
 If the services of a broker are employed for the purpose of making a note, as
 many persons are accustomed to do, let us see whether he will be liable as a
@@ -2185,7 +2200,10 @@ anything else of this kind. For such occupations are pursued by certain men in
 large cities. The term "broker" applies to those who give their services and
 make themselves useful by negotiating purchases, sales, commercial matters, and
 lawful contracts in a way which is not objectionable.
-TITLE XV. CONCERNING TAXES.
+
+
+* 50.XV. CONCERNING TAXES.
+
 1. Ulpianus, On Taxes, Book I.
 It should be remembered that there are certain colonies subject to the Italian
 Law, as, for example, the magnificent colony of Tyre, in Phoenician Syria
@@ -2331,8 +2349,7 @@ privileges.
 of the cities of Italy by the Divine Severus and Antoninus.
 
 
-
-TITLE XVI. CONCERNING THE SIGNIFICATION OF TERMS.
+* 50.XVI. CONCERNING THE SIGNIFICATION OF TERMS.
 
 1. Ulpianus, On the Edict, Book I.
 The following words, "If anyone," include males as well as females.
@@ -4048,14 +4065,7 @@ itself, but also to every right and condition attaching to it; hence complete
 restitution is meant by the law.
 
 
-
-
-
-
-
-
-
-TITLE XVII. CONCERNING DIFFERENT RULES OF ANCIENT LAW.
+* 50.XVII. CONCERNING DIFFERENT RULES OF ANCIENT LAW.
 
 1. Paulus, On Plautius, Book XVI.
 A rule is a statement, in a few words, of the course to be followed in the
@@ -4223,7 +4233,7 @@ agreement effective.
 
 32. The Same, On Sabinus, Book XLIII.
 So far as the Civil Law is concerned, slaves are not considered persons, but
-this is Not the case according to natural law, because natural law regards all
+this is not the case according to natural law, because natural law regards all
 men as equal.
 
 33. Pomponius, On Sabinus, Book XXII.

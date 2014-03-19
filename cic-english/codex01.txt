@@ -1,26 +1,10 @@
 # -*- mode: org -*-
 
-# -*- mode: org -*-
-
-THE CIVIL LAW INCLUDING The Twelve Tables, The Institutes of Gaius,
-The Rules of Ulpian, The Opinions of Paulus, The Enactments of
-Justinian, and The Constitutions of Leo: Translated from the original
-Latin, edited, and compared with all accessible systems of
-jurisprudence ancient and modern.  By S. P. SCOTT, A. M.  Author of
-"History of the Moorish Empire in Europe," Translator of the
-"Visigothic Code" IN SEVENTEEN VOLUMES VOL. XII CINCINNATI THE CENTRAL
-TRUST COMPANY Executor of the Estate Samuel P. Scott, Deceased
-PUBLISHERS
-
-CONTENTS OF VOLUME XII.
-
 THE CODE OF JUSTINIAN.
-
 
 BOOK I.
 
-+ 1.I.  CONCERNING THE MOST EXALTED TRINITY AND THE CATHOLIC FAITH,
-AND PROVIDING THAT No ONE SHALL DARE TO PUBLICLY OPPOSE THEM .. 9
++ 1.I.  CONCERNING THE MOST EXALTED TRINITY AND THE CATHOLIC FAITH, AND PROVIDING THAT No ONE SHALL DARE TO PUBLICLY OPPOSE THEM
 
 + 1.II.  CONCERNING THE MOST SACRED CHURCHES, THEIR PROPERTY AND
 THEIR PRIVILEGES
@@ -34,90 +18,70 @@ PERMITTED MARRIAGES OF ECCLESIASTICS
 + 1.IV.  CONCERNING THE EPISCOPAL TRIBUNAL AND THE DIFFERENT
 CHARTERS WHICH RELATE TO PONTIFICAL SUPERVISION
 
-+ 1.V. CONCERNING HERETICS, MANICHEANS, AND SAMARITANS, 63
++ 1.V. CONCERNING HERETICS, MANICHEANS, AND SAMARITANS
 
-TITLE VI. To AVOID THE REPETITION OF BAPTISM,  71
++ 1.VI. TO AVOID THE REPETITION OF BAPTISM
 
-+ 1.VII. CONCERNING APOSTATES,  72
++ 1.VII. CONCERNING APOSTATES
 
-TITLE VIII.  No ONE SHALL BE PERMITTED TO CARVE OR PAINT THE IMAGE OF
-OUR SAVIOUR JESUS CHRIST UPON EARTH, STONE, OR MARBLE, 74
+TITLE VIII.  No ONE SHALL BE PERMITTED TO CARVE OR PAINT THE IMAGE OF OUR SAVIOUR JESUS CHRIST UPON EARTH, STONE, OR MARBLE
 
-+ 1.IX. CONCERNING JEWS AND THE WORSHIPPERS OF THE HEAVENS, 75
++ 1.IX. CONCERNING JEWS AND THE WORSHIPPERS OF THE HEAVENS
 
-TITLE X.  No JEW OR PAGAN SHALL HOLD, POSSESS, OR CIRCUMCISE A
-CHRISTIAN SLAVE
+TITLE X.  No JEW OR PAGAN SHALL HOLD, POSSESS, OR CIRCUMCISE A CHRISTIAN SLAVE
 
++ 1.XI. CONCERNING THE PAGANS, THEIR SACRIFICES, AND THEIR TEMPLES
 
-+ 1.XI. CONCERNING THE PAGANS, THEIR SACRIFICES, AND THEIR TEMPLES, 79
++ 1.XII.  CONCERNING THOSE WHO TAKE REFUGE IN CHURCHES; OR WHO CRY OUT WHILE THERE; AND LET No ONE REMOVE THEM THEREFROM
 
-+ 1.XII.  CONCERNING THOSE WHO TAKE REFUGE IN CHURCHES; OR WHO CRY
-OUT WHILE THERE; AND LET No ONE REMOVE THEM THEREFROM, 82
++ 1.XIII. CONCERNING THOSE WHO ARE MANUMITTED IN CHURCHES
 
-+ 1.XIII. CONCERNING THOSE WHO ARE MANUMITTED IN CHURCHES, 85
++ 1.XIV.  CONCERNING THE LAWS AND CONSTITUTIONS OF THE EMPERORS AND EDICTS
 
-+ 1.XIV.  CONCERNING THE LAWS AND CONSTITUTIONS OF THE EMPERORS,
-AND EDICTS
++ 1.XV. CONCERNING THE IMPERIAL MANDATES
 
-+ 1.XV. CONCERNING THE IMPERIAL MANDATES, 89
++ 1.XVI. CONCERNING DECREES OF THE SENATE
 
-+ 1.XVI. CONCERNING DECREES OF THE SENATE, 89
-
-+ 1.XVII.  CONCERNING THE EXPLANATIONS OF THE ANCIENT LAW AND THE
-AUTHORITY OF THE JURISTS WHO ARE MENTIONED IN THE DIGEST, 90
-
-CONCERNING THE CONFIRMATION OF THE DIGEST ..................... 100
-CONCERNING THE CONFIRMATION OF THE DIGEST ..................... 110
++ 1.XVII.  CONCERNING THE EXPLANATIONS OF THE ANCIENT LAW AND THE AUTHORITY OF THE JURISTS WHO ARE MENTIONED IN THE DIGEST
 
 + 1.XVIII. CONCERNING IGNORANCE OF LAW AND OF PACT
 
-TITLE XIX.  CONCERNING THE PRESENTATION OF PETITIONS TO THE EMPEROR,
-AND WHAT THINGS MAY BE ASKED FOR AND WHAT MAY NOT ........ 121
+TITLE XIX.  CONCERNING THE PRESENTATION OF PETITIONS TO THE EMPEROR, AND WHAT THINGS MAY BE ASKED FOR AND WHAT MAY NOT
 
 + 1.XX.  WHERE A PETITION PRESENTED TO THE EMPEROR CAUSES A JOINDER
 OF ISSUE
 
-+ 1.XXI.  No ONE HAS A RIGHT TO PRESENT A PETITION TO THE EMPEROR
-WHILE A CASE IS PENDING, OR AFTER AN APPEAL HAS BEEN TAKEN, OR FINAL
-JUDGMENT HAS BEEN RENDERED, 124
++ 1.XXI.  No ONE HAS A RIGHT TO PRESENT A PETITION TO THE EMPEROR WHILE A CASE IS PENDING, OR AFTER AN APPEAL HAS BEEN TAKEN, OR FINAL JUDGMENT HAS BEEN RENDERED
 
-+ 1.XXII.  WHERE ANYTHING CONTRARY TO LAW OR THE PUBLIC WELFARE IS
-FRAUDULENTLY INCLUDED IN, OR OBTAINED BY A PETITION, 124
++ 1.XXII.  WHERE ANYTHING CONTRARY TO LAW OR THE PUBLIC WELFARE IS FRAUDULENTLY INCLUDED IN, OR OBTAINED BY A PETITION
 
-+ 1.XXIII. CONCERNING DIFFERENT RESCRIPTS AND PRAGMATIC SANCTIONS,
-  125
++ 1.XXIII. CONCERNING DIFFERENT RESCRIPTS AND PRAGMATIC SANCTIONS
 
-+ 1.XXIV. CONCERNING STATUES AND PICTURES, 127
++ 1.XXIV. CONCERNING STATUES AND PICTURES
 
-+ 1.XXV. CONCERNING THOSE WHO TAKE REFUGE AT THE STATUES OF THE EMPEROR 128
++ 1.XXV. CONCERNING THOSE WHO TAKE REFUGE AT THE STATUES OF THE EMPEROR
 
-+ 1.XXVI.  CONCERNING THE OFFICE OF PRAETORIAN PREFECT OF THE EAST
-AND ILLYRIA
++ 1.XXVI.  CONCERNING THE OFFICE OF PRAETORIAN PREFECT OF THE EAST AND ILLYRIA
 
-+ 1.XXVII.  CONCERNING THE OFFICE OF PRAETORIAN PREFECT OF AFRICA,
-AND THE CONDITION OF ALL THE PROVINCES OF HIS JURISDICTION. IN THE
-NAME OF OUR LORD JESUS CHRIST
++ 1.XXVII.  CONCERNING THE OFFICE OF PRAETORIAN PREFECT OF AFRICA, AND THE CONDITION OF ALL THE PROVINCES OF HIS JURISDICTION
 
 + 1.XXVIII. CONCERNING THE DUTIES OF THE PREFECT OF THE CITY
 
 + 1.XXIX. CONCERNING THE OFFICE OF GENERAL OF THE ARMY
 
-+ 1.XXX. CONCERNING THE DUTIES OF QUAESTOR, 139
++ 1.XXX. CONCERNING THE DUTIES OF QUAESTOR
 
-+ 1.XXXI. CONCERNING THE DUTIES OF MASTER OF THE OFFICES, 140
++ 1.XXXI. CONCERNING THE DUTIES OF MASTER OF THE OFFICES
 
-+ 1.XXXII. CONCERNING THE DUTIES OF COUNT OF THE SACRED LARGESSES,
-  142
++ 1.XXXII. CONCERNING THE DUTIES OF COUNT OF THE SACRED LARGESSES
 
-+ 1.XXXIII. CONCERNING THE DUTIES OF COUNT OF PRIVATE AFFAIRS, 142
++ 1.XXXIII. CONCERNING THE DUTIES OF COUNT OF PRIVATE AFFAIRS
 
-+ 1.XXXIV. CONCERNING THE DUTIES OF COUNT OF THE IMPERIAL PALACE,
-  142
++ 1.XXXIV. CONCERNING THE DUTIES OF COUNT OF THE IMPERIAL PALACE
 
-+ 1.XXXV. CONCERNING THE DUTIES OF PROCONSUL AND DEPUTY, 143
++ 1.XXXV. CONCERNING THE DUTIES OF PROCONSUL AND DEPUTY
 
-+ 1.XXXVI.
-CONCERNING THE DUTIES OF THE COUNT OF THE IMPERIAL PATRIMONY.. 143
++ 1.XXXVI. CONCERNING THE DUTIES OF THE COUNT OF THE IMPERIAL PATRIMONY
 
 + 1.XXXVII. CONCERNING THE DUTIES OF COUNT OF THE EAST
 
@@ -129,7 +93,7 @@ CONCERNING THE DUTIES OF THE COUNT OF THE IMPERIAL PATRIMONY.. 143
 
 + 1.XLI. CONCERNING THE DUTIES OF THE GOVERNOR OF A PROVINCE
 
-TITLES XLII AND XLIII. THE LATIN TEXTS OF THESE Two TITLES ARE MISSING
++ 1.XLII AND 1.XLIII. THE LATIN TEXTS OF THESE Two TITLES ARE MISSING
 
 + 1.XLIV. CONCERNING THE OFFICE OF THE PREFECT OF THE WATCH
 
@@ -137,8 +101,7 @@ TITLES XLII AND XLIII. THE LATIN TEXTS OF THESE Two TITLES ARE MISSING
 
 + 1.XLVI. CONCERNING THE DUTIES OF MILITARY JUDGES
 
-+ 1.XLVII. BATHS SHALL NOT BE FURNISHED TO MILITARY COUNTS OR
-TRIBUNES
++ 1.XLVII. BATHS SHALL NOT BE FURNISHED TO MILITARY COUNTS OR TRIBUNES
 
 + 1.XLVIII. CONCERNING THE DUTIES OF VARIOUS JUDGES
 
@@ -147,34 +110,21 @@ FORTY DAYS AFTER THEIR TERM OF OFFICE HAS EXPIRED IN THE TOWNS OR
 PLACES WHERE THEY DISCHARGED THEIR DUTIES
 
 + 1.L.  CONCERNING THE DUTIES OF ONE WHO TAKES THE PLACE OF A JUDGE
-OR A GOVERNOR, 153
+OR A GOVERNOR
 
-+ 1.LI. CONCERNING ASSESSORS, ATTENDANTS AND THE CHANCELLORS OF
-  JUDGES. 154
++ 1.LI. CONCERNING ASSESSORS, ATTENDANTS AND THE CHANCELLORS OF JUDGES
 
-+ 1.LII.  CONCERNING PROVISIONS AND THE CAPITATIONS OF CERTAIN
-OFFICIALS AND THEIR ASSESSORS, AND OF THOSE EXERCISING OTHER PUBLIC
-EMPLOYMENTS, OR WHO HAVE BEEN APPOINTED TO OFFICE
++ 1.LII.  CONCERNING PROVISIONS AND THE CAPITATIONS OF CERTAIN OFFICIALS AND THEIR ASSESSORS, AND OF THOSE EXERCISING OTHER PUBLIC EMPLOYMENTS, OR WHO HAVE BEEN APPOINTED TO OFFICE
 
-+ 1.LIII.  CONCERNING THE CONTRACTS OF JUDGES AND THEIR
-SUBORDINATES, AND THE PROHIBITION OF DONATIONS TO THEM, AND THE
-PROVISION THAT, DURING THEIR TERM OF OFFICE, THEY CANNOT BUILD HOUSES
-OF THEIR OWN WITHOUT A PRAGMATIC SANCTION
++ 1.LIII.  CONCERNING THE CONTRACTS OF JUDGES AND THEIR SUBORDINATES, AND THE PROHIBITION OF DONATIONS TO THEM, AND THE PROVISION THAT, DURING THEIR TERM OF OFFICE, THEY CANNOT BUILD HOUSES OF THEIR OWN WITHOUT A PRAGMATIC SANCTION
 
-+ 1.LIV.  CONCERNING THE MANNER IN WHICH FINES SHALL BE IMPOSED BY
-JUDGES
++ 1.LIV.  CONCERNING THE MANNER IN WHICH FINES SHALL BE IMPOSED BY JUDGES
 
 + 1.LV. CONCERNING THE DEFENDERS OF CITIES
 
 + 1.LVI. CONCERNING MUNICIPAL MAGISTRATES
 
 + 1.LVII. CONCERNING THE OFFICE OF JUDGE OF ALEXANDRIA
-
-
-
-THE CODE OF OUR LORD THE MOST SACRED EMPEROR JUSTINIAN.
-SECOND EDITION. BOOK I.
-
 
 
 * CJ.1.1.0
@@ -454,7 +404,6 @@ protection."
 Given at Rome, on the eighth of the Kalendsof April, during the Consulate of
 the Emperor Justinian, Consul for the fourth time, and of Paulinus, Consul for
 the fifth time.
-
 
 
 * CJ.1.2.0
@@ -1063,7 +1012,6 @@ after twenty years; and others still after thirty years; but if these lie in
 favor of some religious house, they will only be barred after forty years.
 Usucaption for three years, or prescription after four, remaining in all their
 force, the Roman Church alone enjoys the term or privilege of a hundred years.
-
 
 * CJ.1.3.0.
 CONCERNING BISHOPS AND OTHER MEMBERS OF THE CLERGY, SUPERINTENDENTS OP ORPHAN
@@ -2266,7 +2214,6 @@ We have ordered for the sake of piety shall be rigidly and zealously observed.
 Violators of this law shall not only be punished with a pecuniary fine, but
 also with the penalty of death.
 
-
 * CJ.1.4.0.
 CONCERNING THE EPISCOPAL TRIBUNAL AND THE DIFFERENT CHARTERS WHICH RELATE TO
 PONTIFICAL SUPERVISION.
@@ -2562,7 +2509,6 @@ before the Governor, he can go before the bishop of the diocese, and proceed to
 acquaint him with his wishes, in writing.
 Given at Constantinople, during the Kalendsof October, after the Consulate of
 Lampadius and Orestes, 531.
-
 
 * CJ.1.5.0.
 CONCERNING HERETICS, MANICHEANS, AND SAMARITANS.
@@ -2931,7 +2877,6 @@ Common, or military law.
 Given, on the Kalendsof September, after the Consulate of Lampadius and
 Orestes, during the second year of the reign of Justinian, 535.
 
-
 * CJ.1.6.0.
 TO AVOID THE REPETITION OF BAPTISM.
 
@@ -2969,7 +2914,6 @@ himself desires to undergo the same penalty from which, by his dissimulation,
 he has released others.
 Given at Constantinople, on the third of the Kalendsof June, during the
 Consulship of Felix and Taurus, 428.
-
 
 * CJ.1.7.0.
 CONCERNING APOSTATES.
@@ -3054,7 +2998,6 @@ to Manicheans.
 Given on the Kalendsof August, during the Consulate of Valentinian, Consul for
 the seventh time, and Arian, 450.
 
-
 * CJ.1.8.0.
 NO ONE SHALL BE PERMITTED TO CARVE OR PAINT THE IMAGE OF OUR SAVIOUR JESUS
 CHRIST UPON EARTH, STONE OR
@@ -3069,7 +3012,6 @@ it shall be erased wherever found; and anyone who attempts to violate Our laws
 in this respect shall be subject to a heavy penalty.
 Given on the twelfth of the Kalendsof June, during the Consulate of Hierius and
 Ardaburius, 427.
-
 
 * CJ.1.9.0.
 CONCERNING JEWS AND THE WORSHIPPERS OF THE HEAVENS.
@@ -3244,7 +3186,6 @@ others.
 Given the day before the Kalendsof February, during the Consulate of the
 Emperor Theodosius, Consul for the seventeenth time, and Festus.
 
-
 * CJ.1.10.0.
 NO JEW OR PAGAN SHALL HOLD, POSSESS, OR CIRCUMCISE A CHRISTIAN SLAVE.
 
@@ -3258,7 +3199,6 @@ the slave shall be given his freedom as a reward.
 Given at Constantinople, on the fourth of the Idesof April, during the
 Consulate of the Emperors Honorius, Consul for the eleventh time, and
 Constantius, Consul for the second time, 417.
-
 
 * CJ.1.11.0.
 CONCERNING THE PAGANS, THEIR SACRIFICES, AND THEIR TEMPLES.
@@ -3359,7 +3299,6 @@ punished with the loss of the same, as well as with the confiscation of their
 property; and if they are private persons, they shall, after having suffered
 corporeal punishment, be sentenced to labor in the mines, or sent into
 perpetual exile.
-
 
 * CJ.1.12.0. CONCERNING THOSE WHO TAKE REFUGE IN CHURCHES; OR WHO CRY
   OUT WHILE THERE; AND LET No ONE REMOVE THEM THEREFROM.
@@ -3491,7 +3430,6 @@ individuals who take refuge in the churches, and notify the judges or
 magistrates having jurisdiction over their cases and persons, in order that
 they may execute the requirements of justice.
 
-
 * CJ.1.13.0.
 CONCERNING THOSE WHO ARE MANUMITTED IN CHURCHES.
 
@@ -3522,7 +3460,6 @@ the evidence of any judge or witness
 being required.
 Given on the Kalendsof May, under the Consulate of Crispus, Consul for the
 second time, and Constantine, Consul for the second time, 425.
-
 
 * CJ.1.14.0.
 CONCERNING THE LAWS AND CONSTITUTIONS OF THE EMPERORS, AND EDICTS.
@@ -3681,7 +3618,6 @@ ancient jurisprudence, because the Imperial Majesty conferred this privilege
 upon them.
 Given on the sixth of the Kalendsof November, during the Consulate of Decius,
 529.
-
 
 * CJ.1.15.0.
 CONCERNING THE IMPERIAL MANDATES.
@@ -5949,7 +5885,6 @@ to the Treasury of the Sacred Largesses.
 Given on the third of the Kalendsof May, during the Consulate of Honorius,
 Consul for the seventh time, and Theodosius, Consul for the second time, 407.
 
-
 * CJ.1.XXXIII.
 CONCERNING THE DUTIES OF COUNT OF PRIVATE AFFAIRS.
 1. The Emperors Valentinian and Valens to Honoratus, of Consular Rank, at
@@ -5960,7 +5895,6 @@ to the office of the Count of Private Affairs, so that he may make an
 investigation, and ascertain by the aid of the law what is due.
 Given on the sixth of the Kalendsof January, during the Consulate of
 Valentinian and Valens, Consul for the second time, 368.
-
 
 * CJ.1.XXXIV.
 CONCERNING THE DUTIES OF COUNT OF THE IMPERIAL PALACE.
@@ -5979,13 +5913,11 @@ Our Treasury.
 Given at Ravenna, on the sixth of the Idesof August, during the Consulate of
 Constantius and Constantine, 397.
 
-
 * CJ.1.XXXV. CONCERNING THE DUTIES OF PROCONSUL AND DEPUTY.
 1. The Emperor Constantine to AElianus, Proconsul of Africa.
 Imperial Deputies shall not only hear civil but also criminal cases, and if
 they find that sentence should be passed upon the culprits, they must not delay
 to send them to the Proconsul.1
-
 
 * CJ.1.XXXVI.
 CONCERNING THE DUTIES OF THE COUNT OF THE IMPERIAL PATRIMONY.
@@ -5995,7 +5927,6 @@ the inconvenience to which he had been subjected by the subordinates of the
 Deputy, asked for authority to appear before your tribunal, and that pious
 prince being influenced by his representations granted him permission. This
 rule We decide shall stand.
-
 
 * CJ.1.XXXVII. CONCERNING THE DUTIES OF COUNT OF THE EAST.
 1. The Emperor Leo to Useus, Praetorian Prefect.
@@ -6020,7 +5951,6 @@ discharge this duty or enjoy this honor, even if they desire to do so. Given on
 the fifth of the Ides of November, during the Consulate of Basilicus and
 Armerus.
 
-
 * CJ.1.XXXVIII. CONCERNING THE OFFICE OF AUGUSTAL PREFECT.
 
 1. The Emperors Valentinian, Theodosius, and Arcadius to Florentius, Augustal
@@ -6037,7 +5967,6 @@ The Augustal Praetorian Prefect shall have power to inquire into any crimes
 committed by judges under his jurisdiction, and to make reports with reference
 to them, but he shall not have power to remove them from office or punish them.
 
-
 * CJ.1.XXXIX. CONCERNING THE OFFICE OF VICEGERENT.
 1. The Emperors Valentinian, Valens, and Gratian to Antony, Praetorian Prefect.
 In the investigation of civil matters, it is proper that vicegerents should
@@ -6053,7 +5982,6 @@ The reports of vicegerents, when circumstances demand it, shall be referred to
 Us, for We willingly hear the reports of judges, since the authority of their
 administration might seem to be diminished if We rejected their applications,
 as We do the petitions presented by ordinary persons.
-
 
 * CJ.1.XL. CONCERNING THE DUTIES OF PRAETOR.
 1. The Emperor Constantine to the Senate.
@@ -6080,7 +6008,6 @@ compelled to incur any expense against their will, but are free to dispense
 such liberality as they may desire.
 Given at Constantinople, on the fifteenth of the Kalendsof January, during the
 Consulate of Valentinian, Consul for the seventh time, and Avienus, 450.
-
 
 * CJ.1.XLI.
 CONCERNING THE DUTIES OF THE GOVERNOR OF A PROVINCE.
@@ -6211,7 +6138,6 @@ Clementinus and Probus.
 
 TITLES XLII AND XLIII. THE LATIN TEXTS OF THESE TWO TITLES ARE MISSING.
 
-
 * CJ.1.XLIV.
 CONCERNING THE OFFICE OF THE PREFECT OF THE WATCH.
 1. The Emperors Theodosius and Arcadius to Nephridius, Prefect of the Watch.
@@ -6219,7 +6145,6 @@ The prefects of the watch of this City ought not to decide capital cases by
 their own authority, but if anything of this kind should arise, they must refer
 it to your tribunal, so that judgment may be rendered by you in the above-
 mentioned cases.
-
 
 * CJ.1.XLV. CONCERNING THE DUTIES OF CIVIL JUDGES.
 1. The Emperors Arcadius, Honorius, and Theodosius to Curtius, Praetorian
@@ -6238,7 +6163,6 @@ his subordinate officer fifty.
 Given at Constantinople, on the thirteenth of the Kalendsof August, during the
 Consulate of Honorius, Consul for the eighth time, and Theodosius, Consul for
 the third time, 409.
-
 
 * CJ.1.XLVI. CONCERNING THE DUTIES OF MILITARY JUDGES.
 1. The Emperors Valentinian, Theodosius and Arcadius to the Commanders and
@@ -6277,7 +6201,6 @@ them according to the judgment of the commander-in-chief.
 Given at Constantinople, on the second of the Idesof September, during the
 Consulate of Maximus, Consul for the second time, and Paterius, 443.
 
-
 * CJ.1.XLVII.
 BATHS SHALL NOT BE FURNISHED TO MILITARY COUNTS OR TRIBUNES.
 1. The Emperors Arcadius, Honorius, and Theodosius to Anthemius, Praetorian
@@ -6291,7 +6214,6 @@ that those who violate this law shall have a penalty of double damages imposed
 upon them.
 Given on the fifth of the Kalendsof December, during the Con- . sulate of
 Arcadius, Consul for the fifth time, and Probus, 406.
-
 
 * CJ.1.XLVIII. CONCERNING THE DUTIES OF VARIOUS JUDGES.
 1. The Emperor Constantine to Domitius Celsus, Vicegerent.
@@ -6330,7 +6252,6 @@ the respect due to them is not shown in saluting them; or the privilege of
 sitting with the judges is denied them.
 Given on the fifth of the Idesof November, during the Consulate of Trimasius
 and Promotus, 389.
-
 
 * CJ.1.XLIX.
 ALL JUDGES, CIVIL AS WELL AS MILITARY, SHALL REMAIN FOR FORTY DAYS AFTER THEIR
@@ -6410,7 +6331,6 @@ which has been illegally paid on this account shall be collected by an action
 of theft, and the case shall be heard without committing the proceedings to
 writing, in the presence of the bishop alone.
 
-
 * CJ.1.L.
 CONCERNING THE DUTIES OF ONE WHO TAKES THE PLACE OF A JUDGE OR A GOVERNOR.
 1. The Emperor Gordian to Domitius, Praetorian Prefect.
@@ -6437,7 +6357,6 @@ order that they shall have permission to perform all acts of this kind above
 mentioned."
 Given at Constantinople, on the day before the Idesof October, during the
 Consulship of Hierius and Ardaburius, 427.
-
 
 * CJ.1.LI.
 CONCERNING ASSESSORS, ATTENDANTS AND THE CHANCELLORS OF JUDGES.
@@ -6658,7 +6577,6 @@ to sustain the part of an incorruptible judge.
 Given at Chalcedon, on the fifth of the Kalendsof October, during the Consulate
 of Decius, Consul for the fifth time, 529.
 
-
 * CJ.1.LII.
 CONCERNING PROVISIONS AND THE CAPITATIONS OF CERTAIN OFFICIALS AND THEIR
 ASSESSORS, AND OF THOSE EXERCISING OTHER PUBLIC EMPLOYMENTS, OR WHO HAVE BEEN
@@ -6674,7 +6592,6 @@ sources that to which by their rank they are entitled, which is ordinarily
 stated in their commissions.
 Given at Constantinople, on the third of the Kalendsof June, during the
 Consulate of Theodosius, Consul for the seventeenth time, and Festus, 439.
-
 
 * CJ.1.LIII.
 CONCERNING THE CONTRACTS OF JUDGES AND THEIR SUBORDINATES, AND THE PROHIBITION
@@ -6705,7 +6622,6 @@ intervention of a third party without involving the risk of punishment.
 matters have been settled by a compromise, or a judgment.
 Given at Constantinople, on the fifth of the Idesof December, during the
 Consulate of Our Lord Justinian, Consul for the second time.
-
 
 * CJ.1.LIV.
 CONCERNING THE MANNER IN WHICH FINES SHALL BE IMPOSED BY JUDGES.
@@ -6765,7 +6681,6 @@ have ordered can be changed by the mere will of the judge, unless the poverty
 of the person who has been convicted induces him to do so.
 Given on the twelfth of the Kalendsof September, during the Consulate of
 Theodosius, Consul for the second time, and Cynegius, 388.
-
 
 * CJ.1.LV. CONCERNING THE DEFENDERS OF CITIES.
 1. The Emperors Valentinian and Valens to Seneca, Defender.
@@ -6876,7 +6791,6 @@ Our Sacred Decree.
 Given on the sixteenth of the Kalendsof September, under the Consulate of
 Constantine and Cyrus, 441.
 
-
 * CJ.1.LVI. CONCERNING MUNICIPAL MAGISTRATES.
 
 1. The Emperor Constantine to Florentius, Praetorian Prefect.
@@ -6891,7 +6805,6 @@ and Rufinus, 323.
 Municipal magistrates shall have the power to draw up public decrees.
 Given on the thirteenth of the Kalendsof January, during the Consulate of Our
 Emperor Gratian, and Dagalaiphus, 366.
-
 
 * CJ.1.LVII. CONCERNING THE OFFICE OF JUDGE OF ALEXANDRIA.
 

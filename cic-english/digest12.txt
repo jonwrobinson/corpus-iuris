@@ -1,50 +1,19 @@
 # -*- mode: org -*-
 
-THIRD PART. BOOK XII.
-
-TITLE I.
-
-CONCERNING THINGS WHICH ARE CREDITED WHERE A CERTAIN DEMAND IS MADE, AND
-CONCERNING SUIT FOR RECOVERY ................. 101
-
-TITLE II.
-
-CONCERNING THE TAKING OF AN OATH, WHETHER VOLUNTARY, COMPULSORY, OR
-JUDICIAL ............................................ 113
-
-TITLE III. CONCERNING AN OATH MADE IN COURT.............................
-127
-
-TITLE IV.
-
-CONCERNING A SUIT FOR THE RECOVERY OF PROPERTY GIVEN FOR A CONSIDERATION
-WHICH DOES NOT TAKE PLACE..................... 130
-
-TITLE V.
-
-CONCERNING THE ACTION FOR RECOVERY WHERE THE CONSIDERATION IS IMMORAL OR
-UNJUST ......................................... 137
-
-TITLE VI.
-
-CONCERNING AN ACTION FOR THE RECOVERY OF MONEY WHICH IS NOT DUE
-........................................................ 139
-
-TITLE VII. CONCERNING AN ACTION FOR RECOVERY WITHOUT GROUND............
-158
+* BOOK XII.
++ 12.I.CONCERNING THINGS WHICH ARE CREDITED WHERE A CERTAIN DEMAND IS MADE, AND CONCERNING SUIT FOR RECOVERY
++ 12.II. CONCERNING THE TAKING OF AN OATH, WHETHER VOLUNTARY, COMPULSORY, OR
+JUDICIAL
++ 12.III. CONCERNING AN OATH MADE IN COURT
++ 12.IV. CONCERNING A SUIT FOR THE RECOVERY OF PROPERTY GIVEN FOR A CONSIDERATION WHICH DOES NOT TAKE PLACE
++ 12.V. CONCERNING THE ACTION FOR RECOVERY WHERE THE CONSIDERATION IS IMMORAL OR UNJUST
++ 12.VI. CONCERNING AN ACTION FOR THE RECOVERY OF MONEY WHICH IS NOT DUE
++ 12.VII. CONCERNING AN ACTION FOR RECOVERY WITHOUT GROUND
 
 
+* 12.I. CONCERNING THINGS WHICH ARE CREDITED WHERE A CERTAIN DEMAND Is MADE, AND CONCERNING SUIT FOR RECOVERY.
 
-THE DIGEST OR PANDECTS. BOOK XII.
-
-PART III.
-
-TITLE I.
-
-CONCERNING THINGS WHICH ARE CREDITED WHERE A CERTAIN DEMAND Is MADE, AND
-CONCERNING SUIT FOR RECOVERY.
-
-\1. *Ulpianus, On the Edict, Book XXVI.*
+1. *Ulpianus, On the Edict, Book XXVI.*
 
 It is proper before we proceed to the interpretation of the terms to say
 something concerning the signification of the Title itself. As the
@@ -59,7 +28,7 @@ assent to anything, and are afterwards to receive something on account
 of this contract, we are said to give credit. The Prætor selected the
 term "thing" also as being a general one.
 
-\2. *Paulus, On the Edict, Book XXVIII.*
+2. *Paulus, On the Edict, Book XXVIII.*
 
 We make the loan called *mutuum* when we are not to receive in return
 the same article which we gave (otherwise this would be a loan for use
@@ -67,18 +36,18 @@ or a deposit) but something of the same kind; for if it was of some
 other kind, as for instance, if we were to receive wine for grain, it
 would not come under this head.
 
-\(1) A gift of *mutuum* has reference to articles which can be weighed,
+(1) A gift of *mutuum* has reference to articles which can be weighed,
 counted, or measured, since people by giving these can contract a
 credit; because by payment in kind they perform the contract instead of
 paying in specie. For we cannot contract a credit with respect to other
 articles, because the creditor cannot be paid by giving him one thing in
 exchange for another, where he does not give his consent.
 
-\(2) A loan of this kind is so called *mutuum.* because the article
+(2) A loan of this kind is so called *mutuum.* because the article
 becomes yours instead of mine, and therefore it does not become yours if
 the obligation does not arise.
 
-\(3) Therefore a credit differs from a *mutuum* just as a genus differs
+(3) Therefore a credit differs from a *mutuum* just as a genus differs
 from a species; for a credit may exist separate from articles which can
 be weighed, counted, or measured, so that it is a credit where we are to
 receive the very same article in return. Moreover, a *mutuum* cannot
@@ -86,18 +55,18 @@ exist in the case of money unless the money is paid down, but a credit
 can sometimes exist even though nothing is paid; as, for instance, where
 a dowry is promised after marriage.
 
-\(4) In a loan of this kind he who makes it must be the owner, and no
+(4) In a loan of this kind he who makes it must be the owner, and no
 objection can be raised because sons under paternal control and slaves
 can cause an obligation to arise by loaning money which is part of their
 *peculium;* for it is the same thing as if you pay money at my request,
 for I would then acquire a right of action even though the money did not
 belong to me.
 
-\(5) We can also give credit by means of words, where some act is
+(5) We can also give credit by means of words, where some act is
 performed for the purpose of creating an obligation, as, for instance, a
 stipulation.
 
-\3. *Pomponius, On Sabinus, Book XXVII.*
+3. *Pomponius, On Sabinus, Book XXVII.*
 
 Where we give a *mutuum*, although we do not provide that what is
 equally good shall be returned to us, still it is not lawful for the
@@ -108,7 +77,7 @@ an express agreement, and in this instance the intention is understood
 to be that payment shall be made with an article of the same kind, and
 of the same quality as that which was loaned.
 
-\4. *Ulpianus, On Sabinus, Book XXXIV.*
+4. *Ulpianus, On Sabinus, Book XXXIV.*
 
 Where a party has no reason or intention to lend at interest, but you
 being about to purchase certain land, desire to borrow money, although
@@ -120,7 +89,7 @@ the party who received it; for where anyone receives something for the
 purpose of selling it in order to make use of the purchase-money, he
 will hold the property at his own risk.
 
-\(1) Where an article is given in pledge, and the money advanced is
+(1) Where an article is given in pledge, and the money advanced is
 paid, suit can be brought for its recovery. Again, if a tenant gathers
 crops after the period of five years has elapsed, it is established that
 they can be recovered by a personal action, provided they have not been
@@ -128,7 +97,7 @@ gathered with the consent of the owner of the land; for if this has been
 done, then there is no doubt that an action for their recovery will not
 lie.
 
-\(2) Things which have been carried on shore by the force of a stream
+(2) Things which have been carried on shore by the force of a stream
 can also be recovered by a personal action.
 
 *5. Pomponius, On Sabinus, Book XXII.*
@@ -142,7 +111,7 @@ but also whether you were guilty of malicious intent in order to prevent
 it from being in your power; and also whether there was any just reason
 why you should know that you were compelled to deliver me the article.
 
-\6. *Paulus, On the Edict, Book XXVIII.*
+6. *Paulus, On the Edict, Book XXVIII.*
 
 An article is styled "certain" when the kind or quality which is the
 subject of an obligation is specifically designated either by name or by
@@ -153,12 +122,12 @@ its own name, or pointed out with a finger, or described in so many
 words, since these methods perform common functions, any one of which is
 as good as another.
 
-\7. *Ulpianus, On the Edict, Book XXVI.*
+7. *Ulpianus, On the Edict, Book XXVI.*
 
 Everything which can be inserted in a stipulation may also be included
 in the loaning of money, and therefore conditions may be imposed.
 
-\8. *Pomponius, On Plautius, Book VI.*
+8. *Pomponius, On Plautius, Book VI.*
 
 Hence a gift of *mutuum* sometimes remains in abeyance, in order to be
 confirmed by some subsequent act; as, for example, if I loan you a sum
@@ -172,7 +141,7 @@ loaned. For Julianus says that even where delivery of property has been
 made by the heir, reference must be had to the time when the estate was
 entered upon, whether the legacy is rejected or accepted.
 
-\9. *Ulpianus, On the Edict, Book XXVI.*
+9. *Ulpianus, On the Edict, Book XXVI.*
 
 A specific action for recovery will lie on account of everything and by
 reason of any obligation under which a positive claim can be made;
@@ -183,23 +152,23 @@ the obligation is limited to a specified date, or is dependent upon some
 condition, I cannot bring an action before the time arrives, or the
 condition is fulfilled.
 
-\(1) This action will also lie on account of a legacy or under the *Lex
+(1) This action will also lie on account of a legacy or under the *Lex
 Aquilia*, and proceedings may be instituted by means of it in a case of
 theft. Moreover, if proceedings are instituted under a decree of the
 Senate, this action will still lie; as, for instance, where the party
 who wishes to bring suit is one to whom an estate held in trust is to be
 delivered.
 
-\(2) This action may also properly be brought where anyone has bound
+(2) This action may also properly be brought where anyone has bound
 himself either in his own behalf or as the agent of the other.
 
-\(3) Since, therefore, this specific action for recovery is available in
+(3) Since, therefore, this specific action for recovery is available in
 all contracts, whether the contract was made by an act, by words, or by
 both together, certain cases must be mentioned by us with relation to
 which it may be discussed as to whether this action will be appropriate
 to the claims set forth.
 
-\(4) I paid you ten *aurei*, and I stipulated that the amount should be
+(4) I paid you ten *aurei*, and I stipulated that the amount should be
 given to another party; which stipulation is void. Can I proceed by
 means of this action to recover ten *aurei* on the ground that there are
 two contracts existing, one which was entered into by means of an act,
@@ -207,22 +176,22 @@ that is to say, by the payment of the money, and the other which was
 entered into verbally, that is to say without effect, because I could
 not stipulate for another? I think that I can.
 
-\(5) The case is the same where I took a stipulation from a ward without
+(5) The case is the same where I took a stipulation from a ward without
 the authority of his guardian, and loaned him money with his guardian's
 consent; for, in this instance also, I shall be entitled to a suit for
 recovery based on the payment of the money.
 
-\(6) The same inquiry may be made if I paid you a certain sum of money
+(6) The same inquiry may be made if I paid you a certain sum of money
 and I stipulated that it should be returned under a condition which is
 impossible; since the action for recovery will still remain available,
 as the stipulation is null.
 
-\(7) Moreover, where I lend a man money and his property is afterwards
+(7) Moreover, where I lend a man money and his property is afterwards
 placed under an interdict, and I then enter into a stipulation with him,
 I think that his case resembles that of the ward; since he also acquires
 rights by stipulation.
 
-\(8) Where I pay out my own money in your name, you being absent at the
+(8) Where I pay out my own money in your name, you being absent at the
 time and not aware of the fact, Aristo says that you will have a right
 to bring a personal action for recovery; and Julianus also, having been
 consulted with respect to this, states that the opinion of Aristo is
@@ -231,7 +200,7 @@ your name with your consent the obligation will be acquired by you, as
 we ask every day that money shall be lent by other parties in our name
 to those whom we wish to become our debtors.
 
-\(9) I deposited ten *aurei* with you, and afterwards I permitted you to
+(9) I deposited ten *aurei* with you, and afterwards I permitted you to
 make use of them; Nerva and Proculus are of the opinion that I will be
 entitled to a personal action for recovery, as for a *mutuum*, even
 before you have removed the money, and this is correct, and also appears
@@ -239,14 +208,14 @@ so to Marcellus; for on account of your intention you have already
 become the possessor, and therefore the risk is transferred to the party
 who requested the loan, and he can be sued for its recovery.
 
-\10. *The Same, On the Edict, Book II.*
+10. *The Same, On the Edict, Book II.*
 
 If, however, when I deposited the money with you in the beginning, I
 permitted you to make use of it, if you wished to do so; it is held that
 the loan does not exist before the money is removed, since it is not
 certain that anything is owing.
 
-\11. *The Same, On the Edict, Book XXVI.*
+11. *The Same, On the Edict, Book XXVI.*
 
 Where you asked me to lend you money, and, as I did not have it at the
 time, I gave you a dish or a lump of gold for you to sell and make use
@@ -263,13 +232,13 @@ to sell it, but the only object of the sale was that you might make use
 of the proceeds, you must be responsible for the loss especially if I
 lent it to you without interest.
 
-\(1) If I loan you ten *aurei* with the understanding that you shall owe
+(1) If I loan you ten *aurei* with the understanding that you shall owe
 me nine, Proculus very correctly says that you do not legally owe me any
 more than nine. But if I loan you that amount with the understanding
 that you shall owe me eleven, Proculus thinks that an action for
 recovery cannot be brought for more than ten.
 
-\(2) Where a fugitive slave lends you money, the question arises whether
+(2) Where a fugitive slave lends you money, the question arises whether
 his owner can bring suit against you for its recovery? And, indeed, if
 my slave, who has been granted the management of his *peculium*, lends
 you money, the loan will stand; but where a fugitive slave, or any other
@@ -280,7 +249,7 @@ relinquished possession of the same proceedings can be instituted for
 its production; but if you have expended it without fraudulent intent,
 an action for its recovery can be brought against you.
 
-\12. *Pomponius, On Plautius, Book VI.*
+12. *Pomponius, On Plautius, Book VI.*
 
 Where you receive money as a loan from an insane person, who you think
 is of sound mind, and the money is expended for your benefit, Julianus
@@ -296,13 +265,13 @@ where any one loans the money of another, and subsequently becomes
 insane, and the money is expended, the right to sue for its recovery is
 acquired by the insane person.
 
-\13. *Ulpianus, On the Edict, Book XXVI.*
+13. *Ulpianus, On the Edict, Book XXVI.*
 
 Where a thief lets you have money as a loan, he does not transfer to you
 the property in the same; but if the money is expended, a right to bring
 suit for its recovery will arise.
 
-\(1) Wherefore, Papinianus says in the Eighth Book of Questions, "If I
+(1) Wherefore, Papinianus says in the Eighth Book of Questions, "If I
 lend you money belonging to someone else, you are not liable to me in an
 action before you spend it." And he asks if you spend the money a little
 at a time, whether I have a right to sue for its recovery in the same
@@ -310,7 +279,7 @@ way? He replies that I have, if I had been notified that the money
 belonged to another, and I then bring suit for part of it; because I
 have not yet ascertained whether the entire amount has been expended.
 
-\(2) Where a slave held in common by two joint-owners loans ten *aurei,
+(2) Where a slave held in common by two joint-owners loans ten *aurei,
 *I think that whether he has been granted the management of his
 
 own *peculium* or not, if the money is spent, an action for five *aurei*
@@ -319,7 +288,7 @@ Book of Questions, that if I lend you a hundred pieces of money which I
 own in common with another, I can bring a personal action to recover
 fifty, even though each individual coin was owned in common.
 
-\14. *The Same, On the Edict, Book XXIX.*
+14. *The Same, On the Edict, Book XXIX.*
 
 Where a son under paternal control having borrowed money in violation of
 the Decree of the Senate pays it, no exception can be pleaded against a
@@ -333,7 +302,7 @@ instance. Finally, where money is loaned contrary to the Decree of the
 Senate, and is repaid by mistake, the better opinion is that no action
 for its recovery will lie.
 
-\15. *The Same, On the Edict, Book XXXI.*
+15. *The Same, On the Edict, Book XXXI.*
 
 There are certain special rules which have been adopted with reference
 to money loaned; for if I order a debtor of mine to pay you money, you
@@ -344,7 +313,7 @@ where you owe me money on account of a mandate, and it is agreed between
 us that you shall retain it as a loan, it is held that the money was
 paid to me and transferred from me to you.
 
-\16. *Paulus, On the Edict, Book XXXII.*
+16. *Paulus, On the Edict, Book XXXII.*
 
 Where a joint-owner of money paid out his own money as a loan, he makes
 an absolute loan of said money, even though his co-owners did not
@@ -352,14 +321,14 @@ consent; but if he paid out money which was owned in common, he does not
 make a valid loan, unless the others also consent, because he has only
 the right to dispose of his own share.
 
-\17. *Ulpianus, Disputations, Book I.*
+17. *Ulpianus, Disputations, Book I.*
 
 Where a son under parental control who was at Rome for the purpose of
 pursuing his studies made a loan of money which was a part of his
 travelling expenses; Scævola gave it as his opinion that he could obtain
 relief by means of extraordinary proceedings.
 
-\18. *Ulpianus, Disputations, Book I.*
+18. *Ulpianus, Disputations, Book I.*
 
 If I give you money as a present, and you accept it as a loan, Julianus
 says that it is not a present; but we should consider whether it is a
@@ -374,14 +343,14 @@ can, nevertheless, make use of an exception on the ground of fraud,
 because the money was expended in accordance with the wish of the party
 who gave it.
 
-\(1) Where I give you money as a deposit, and you accept it as a loan,
+(1) Where I give you money as a deposit, and you accept it as a loan,
 it is neither a deposit nor a loan; and the same rule applies where you
 give money as a loan to be consumed and I accept it as a loan to be used
 for the purpose of ostentation; in both instances, however, if the money
 is expended, there will be ground for a personal action for recovery
 without an exception based on fraud.
 
-\19. *Julianus, Digest, Book X.*
+19. *Julianus, Digest, Book X.*
 
 The payment of money does not bind the party who receives it at all
 times, but only where it is understood that he shall be liable
@@ -398,7 +367,7 @@ before the next *kalends*, I will be entitled to no action before that
 time; but when the time has elapsed I can then bring suit, if the slave
 has not been manumitted.
 
-\(1) Where a ward lends money or pays it in discharge of a debt without
+(1) Where a ward lends money or pays it in discharge of a debt without
 the authority of his guardian, he has a right of action for recovery, if
 the money has been spent; or he will be released from the debt, for no
 other reason than that it is understood to have come into the hands of
@@ -413,7 +382,7 @@ against the party who received it; and likewise, he who pays out money
 to discharge a debt will be released from liability by the party who
 receives it.
 
-\20. *The Same, Digest, Book XVIII.*
+20. *The Same, Digest, Book XVIII.*
 
 Where I give you money in order that you may lend me the same money, is
 a loan made? I said in reply that, in instances of this kind, we do not
@@ -430,7 +399,7 @@ already belonged to me. It must be understood in this way in order that
 the strict signification of the terms may be preserved; however the more
 liberal construction is that both transactions are valid.
 
-\21. *The Same, Digest, Book XLVIII.*
+21. *The Same, Digest, Book XLVIII.*
 
 Some authorities have thought that a man who sues for ten *aurei *cannot
 be forced to accept five and then bring suit for the remainder; or, if
@@ -440,7 +409,7 @@ instances, it is held that the Prætor would be more indulgent if he
 compels the plaintiff to accept what is offered him, since it is part of
 his duty to diminish litigation.
 
-\22. *The Same, On Minicius, Book IV.*
+22. *The Same, On Minicius, Book IV.*
 
 A loan of wine was made and proceedings were instituted to recover it;
 the question arose with reference to the time when an estimate of its
@@ -454,26 +423,26 @@ agreed that it should be restored at a certain place, the valuation
 should be made there; but if this had not been mentioned, it should be
 appraised at the place where suit was brought.
 
-\23. *Africanus, Questions, Book II.*
+23. *Africanus, Questions, Book II.*
 
 If I take possession of a slave who is bequeathed to you, and sell him
 just as if he had been bequeathed to me, and he dies, then, Julianus
 says, that you can recover the purchase money from me as I have profited
 by means of your property.
 
-\24. *Ulpianus, Pandects.*
+24. *Ulpianus, Pandects.*
 
 Where a party stipulates for any certain property, he does not acquire a
 right of action under the stipulation, but he must proceed through a
 personal action for recovery by means of which suit is brought for some
 specific things.
 
-\25. *The Same, On the Office of Men of Consular Rank.*
+25. *The Same, On the Office of Men of Consular Rank.*
 
 Where a creditor lends money for the repair of buildings, he will have a
 prior lien on the money which he lent.
 
-\26. *The Same, Opinions, Book V.*
+26. *The Same, Opinions, Book V.*
 
 If the agent of a soldier lends money and takes a surety, it is
 established that an action will be granted the soldier to whom the money
@@ -481,32 +450,32 @@ belonged; just as in the case where the guardian of a ward or the
 curator of a youth stipulates for the repayment of money loaned which
 belonged to either of them.
 
-\27. *The Same, On the Edict, Book X.*
+27. *The Same, On the Edict, Book X.*
 
 A municipal corporation can be bound by a loan, if the money is expended
 for its benefit; otherwise, those who contracted the loan will be liable
 as individuals, and not the corporation.
 
-\28. *Gaius, On the Provincial Edict, Book XXI.*
+28. *Gaius, On the Provincial Edict, Book XXI.*
 
 Where a creditor did not take proper security, he will not for that
 reason lose the right to exact payment for the amount of the debt which
 the pledge was not sufficient to secure.
 
-\29. *Paulus, On Plautius, Book IV.*
+29. *Paulus, On Plautius, Book IV.*
 
 Where an owner employs his slave as his agent, Julianus holds that it
 may be said that he is liable to a personal action for recovery just as
 if he had contracted in pursuance of the order of the party by whom he
 was appointed.
 
-\30. *The Same, On Plautius, Book V.*
+30. *The Same, On Plautius, Book V.*
 
 Where a party who is about to receive a loan of money promises his
 future creditor that he will repay him, he has the power to escape
 liability by not accepting the money.
 
-\31. *The Same, On Plautius, Book XVII.*
+31. *The Same, On Plautius, Book XVII.*
 
 Where a personal action has been brought for the recovery of a tract of
 land or a slave, I am of the opinion that the present practice is that,
@@ -515,7 +484,7 @@ surrendered; that is to say, everything which the plaintiff would have
 been entitled to if delivery had been made of what was due at the time
 of the joinder of issue.
 
-\(1) I purchased your slave in good faith from a thief, without being
+(1) I purchased your slave in good faith from a thief, without being
 aware of the facts, and the slave himself purchased a slave out of the
 *peculium* which belonged to you, and the latter slave was delivered to
 me. Sabinus and Cassius say that you can bring a personal action against
@@ -540,7 +509,7 @@ The same rule applies where I make a payment to a *bona-fide *possessor,
 if I am ready to assign to the owner any right of action which I may
 have against the said possessor.
 
-\32. *Celsus, Digest, Book V.*
+32. *Celsus, Digest, Book V.*
 
 If you request Titius and myself to lend you money and I order a debtor
 of mine to promise to furnish it to you, and you make a stipulation
@@ -551,26 +520,26 @@ you money (for this cannot be unless the parties consent); but because
 my money came into your hands, and therefore it is proper and just that
 you should repay it to me.
 
-\33. *Modestinus, Pandects, Book X.*
+33. *Modestinus, Pandects, Book X.*
 
 It is provided by the Imperial Constitutions that neither those who
 govern provinces nor their attendants, shall go into business, or lend
 money with or without interest.
 
-\34. *Paulus, Sentences, Book II.*
+34. *Paulus, Sentences, Book II.*
 
 The officials who are in attendance on the Governor of a province can
 make loans with or without interest.
 
-\(1) The Governor of a province is not forbidden to borrow money at
+(1) The Governor of a province is not forbidden to borrow money at
 interest.
 
-\35. *Modestinus, Opinions, Book III.*
+35. *Modestinus, Opinions, Book III.*
 
 The risk of obligations for money lent attaches to the party by whose
 negligence it can be established that the risk was increased.
 
-\36. *Javolenus, Epistles, Book I.*
+36. *Javolenus, Epistles, Book I.*
 
 You owed me a sum of money without any condition, and by my direction
 you promised Attius to pay said sum of money under a condition. While
@@ -587,7 +556,7 @@ action for the money, because it is uncertain whether it may not be due
 under the stipulation, and I will be held to have brought my action too
 soon.
 
-\37. *Papinianus, Definitions, Book I.*
+37. *Papinianus, Definitions, Book I.*
 
 When a condition refers to the time when the obligation was contracted,
 the stipulation is not suspended, and if the condition is an actual one,
@@ -598,17 +567,17 @@ hundred thousand sesterces if the King of the Parthians is living?"
 The same rule also applies where the condition refers to time which has
 passed:
 
-\38. *Scævola, Questions, Book I.*
+38. *Scævola, Questions, Book I.*
 
 For it should also be considered whether, as far as human nature can
 determine, it can be ascertained that the money will be due:
 
-\39. *Papinianus, Definitions, Book I.*
+39. *Papinianus, Definitions, Book I.*
 
 Therefore the clause only acquires the force of a condition when it
 relates to the future.
 
-\40. *Paulus, Questions, Book III.*
+40. *Paulus, Questions, Book III.*
 
 There was read in the court of Æmilius Papinianus, Prætorian Prefect and
 Jurist, an obligation of the following kind: "I, Lucius Titius, have
@@ -661,7 +630,7 @@ made with reference to interest, so that if the money is not paid by the
 specified day, what is due by way of interest may be paid from the day
 when the stipulation was entered into.
 
-\41. *Africanus, Questions, Book VIII.*
+41. *Africanus, Questions, Book VIII.*
 
 A testator having appointed his slave Stichus an accountant in a certain
 province, his will was read at Rome, by which the said Stichus was set
@@ -710,7 +679,7 @@ be given; and in this instance the result will be that if the
 said slave has co-heirs of the same condition, they will all be held to
 serve one another in good faith.
 
-\42. *Celsus, Digest, Book VI.*
+42. *Celsus, Digest, Book VI.*
 
 If I stipulate for ten *aurei* from Titius, and I afterwards stipulate
 from Seius for the amount of the debt which I may fail to collect from
@@ -722,30 +691,27 @@ amount I can collect from Titius, when issue is joined between Seius and
 myself, is less than the obligation, so much the less can I subsequently
 collect from Titius.
 
-\(1) Labeo says that if you stipulate that a party shall see that ten
+(1) Labeo says that if you stipulate that a party shall see that ten
 *aurei* are paid, you cannot, for this reason, claim that ten should be
 paid to you, because the promisor can be released by finding a wealthier
 debtor; and, in fact, this means that the party cannot be compelled to
 join issue if he offers to provide a wealthier debtor.
 
-TITLE II.
+* 12.II. CONCERNING THE TAKING OF AN OATH, WHETHER VOLUNTARY, COMPULSORY, OR JUDICIAL.
 
-CONCERNING THE TAKING OF AN OATH, WHETHER VOLUNTARY, COMPULSORY, OR
-JUDICIAL.
-
-\1. *Gaius, On the Provincial Edict, Book V.*
+1. *Gaius, On the Provincial Edict, Book V.*
 
 A very important means for promptly disposing of litigation has come
 into use, that is to say, the religious character of an oath, by means
 of which controversies are decided either through the agreement of the
 parties themselves, or by the authority of the judge.
 
-\2. *Paulus, On the Edict, Book XVIII.*
+2. *Paulus, On the Edict, Book XVIII.*
 
 The taking of an oath has the appearance of a compromise, and it has
 greater weight than the judgment of a court.
 
-\3. *Ulpianus, On the Edict, Book XXII.*
+3. *Ulpianus, On the Edict, Book XXII.*
 
 The Prætor says: "Where a party against whom suit is brought, after
 certain proposals have been offered, makes oath." We must understand the
@@ -758,17 +724,17 @@ otherwise, it would be extremely easy for anyone who cares little for an
 oath to take it where no one tendered it to him, and thereby free
 himself from the burden of a suit.
 
-\(1) Where a party is sued in any kind of an action, if he makes oath it
+(1) Where a party is sued in any kind of an action, if he makes oath it
 will be a benefit to him, whether the action is one *in personam, in
 rem, *or *in factum*, or where it is a penal action, or any other kind,
 or where the proceedings relate to an interdict.
 
-\(2) Where the oath is taken with reference to the civil condition of
+(2) Where the oath is taken with reference to the civil condition of
 the person, the Prætor will sustain it; as, for instance, where I
 tendered you an oath and you swore that you were not under my control,
 the oath must be sustained.
 
-\(3) Wherefore, Marcellus states that an oath can be taken with
+(3) Wherefore, Marcellus states that an oath can be taken with
 reference to the question as to whether a certain woman is pregnant or
 not, and the oath must stand. Finally, he says that where the inquiry
 relates to possession, the oath must be sustained; for example, where a
@@ -791,13 +757,13 @@ mother will not benefit the child, nor will it cause any injury if the
 mother tenders it, and oath is made that she is not pregnant by a
 certain man.
 
-\(4) It is necessary for a party to swear in the terms in which the oath
+(4) It is necessary for a party to swear in the terms in which the oath
 is tendered, but if I tender it for you, you may swear by God and you
 swear by your own head,
 
-\4. *Paulus, On the Edict, Book XVIII.* Or the heads of your sons,
+4. *Paulus, On the Edict, Book XVIII.* Or the heads of your sons,
 
-\5. *Ulpianus, On the Edict, Book XXII.*
+5. *Ulpianus, On the Edict, Book XXII.*
 
 An oath of this kind will be of no effect. If, however, I required you
 to swear by your own salvation and you do so, I must abide by it; for
@@ -805,25 +771,25 @@ every kind of an oath which is at all lawful and by which any one wishes
 to be sworn in his own behalf is suitable, and if it is taken, the
 Prætor will sustain it.
 
-\(1) The Divine Pius stated in a Rescript that if an oath was taken in
+(1) The Divine Pius stated in a Rescript that if an oath was taken in
 accordance with some peculiar superstition, it must stand.
 
-\(2) When the oath has been taken, nothing else must be asked but
+(2) When the oath has been taken, nothing else must be asked but
 whether the party was sworn, and the question as to whether anything is
 due is not considered, as this is sufficiently established by the oath.
 
-\(3) Where, however, a party tenders an unlawful oath, that is to say,
+(3) Where, however, a party tenders an unlawful oath, that is to say,
 one relative to a religion the profession of which is publicly
 forbidden; let us see whether it should be considered as if no oath had
 been taken; and this, I think, is the better opinion.
 
-\(4) Where an oath is taken, and the party is not released from being
+(4) Where an oath is taken, and the party is not released from being
 sworn, it must be held that the matter has never been submitted to
 determination by oath, and hence if he should afterwards be willing to
 be sworn, the oath will be of no advantage to him; because it was not
 taken with reference to the matter for which it was tendered.
 
-\6. *Paulus, On the Edict, Book XIX.*
+6. *Paulus, On the Edict, Book XIX.*
 
 *A* party waives an oath who, when he tenders it, and his adversary
 evinces a willingness to take it, he excuses him from doing so, being
@@ -832,7 +798,7 @@ the latter did not take it, but is afterwards ready to do so, and the
 plaintiff is unwilling to tender it; he is not held to have dispensed
 with it, for it can only be dispensed with when it is accepted.
 
-\7. *Ulpianus, On the Edict, Book XXII.*
+7. *Ulpianus, On the Edict, Book XXII.*
 
 The Prætor says: "With reference to a matter for which an oath has been
 tendered, I will not grant an action either against the party himself,
@@ -843,16 +809,16 @@ Prætor promises that he will not grant an action with reference to what
 was sworn to, either against the party who took the oath, or against
 those who succeed to him to whom the oath was tendered,
 
-\8. *Paulus, On the Edict, Book XVIII.* Even though they succeed to the
+8. *Paulus, On the Edict, Book XVIII.* Even though they succeed to the
 property.
 
-\9. *Ulpianus, On the Edict, Book XXI.*
+9. *Ulpianus, On the Edict, Book XXI.*
 
 For, after the oath is taken, the action is refused; and if there should
 be any controversy, that is to say, if it is disputed whether the oath
 was taken or not, there is ground for an exception.
 
-\(1) Where the oath has been taken or dispensed with, the defendant will
+(1) Where the oath has been taken or dispensed with, the defendant will
 be entitled to an exception both for himself and for others; and the
 plaintiff will acquire a right of action in which the only matter to be
 considered is whether he swore that something should be given him, or
@@ -860,18 +826,18 @@ where he was prepared to swear and the oath was
 
 dispensed with.
 
-\(2) If judgment is rendered against a party after the oath has been
+(2) If judgment is rendered against a party after the oath has been
 taken, in a case where infamy is involved; the better opinion is that he
 becomes infamous.
 
-\(3) Where a party who is liable to me in a temporary action tenders me
+(3) Where a party who is liable to me in a temporary action tenders me
 an oath in such a way that I must swear that he is obliged to pay, and I
 swear to this; he will not be released by lapse of time, for the reason
 that his liability is perpetuated after issue has been
 
 joined.
 
-\(4) Where anyone under twenty-five years of age tenders an oath, and
+(4) Where anyone under twenty-five years of age tenders an oath, and
 states that advantage has been taken of him in doing so, he should file
 a replication in answer to an exception based upon the oath; as
 
@@ -883,7 +849,7 @@ does not establish the fact that he has been swindled. Moreover, this
 exception or inquiry ought not to extend beyond the time prescribed by
 law after the minor has reached his twenty-fifth year.
 
-\(5) Moreover, where a party tenders an oath to a debtor in fraud of his
+(5) Moreover, where a party tenders an oath to a debtor in fraud of his
 creditors, and a replication on the ground of fraud should be granted
 the creditors against an exception based upon the oath; and, moreover,
 if the party guilty of fraud tenders an oath to a creditor in order to
@@ -892,7 +858,7 @@ afterwards, when his property has been sold, he wishes to bring an
 action; either the action must be refused, or it may be opposed by an
 exception on the ground of defrauding creditors.
 
-\(6) Julianus says that the oath of a party who defends a case
+(6) Julianus says that the oath of a party who defends a case
 voluntarily or is appointed an attorney, if tendered by the adversary,
 will be a good defence and will provide the principal with an exception.
 Hence it must be said that the same rule applies where an agent is
@@ -900,19 +866,19 @@ appointed to bring an action, and the defendant, having tendered an
 oath, swears that the amount should be paid to me; for this furnishes me
 with a right of action. This opinion is reasonable.
 
-\(7) Where the plaintiff has sworn, on the oath tendered by the party in
+(7) Where the plaintiff has sworn, on the oath tendered by the party in
 possession, that the property is his, he will be entitled to an action;
 but this only applies to the party who tendered the oath and to these
 who have succeeded to his place; but if he should wish to make use of
 the privilege obtained by taking the oath in an action against another,
 his oath will be of no benefit to him;
 
-\10. *Paulus, On the Edict, Book XVIII.*
+10. *Paulus, On the Edict, Book XVIII.*
 
 Because a transaction between certain parties should not injure anyone
 else.
 
-\11. *Ulpianus, On the Edict, Book XXII.*
+11. *Ulpianus, On the Edict, Book XXII.*
 
 Where an oath is tendered to a party in possession, and he swears that
 the property does not belong to the plaintiff, then, so long as he holds
@@ -922,7 +888,7 @@ be entitled to the action, not even if the party who tendered him the
 oath is in possession; for he did not swear that the property was his,
 but merely that it did not belong to the other party.
 
-\(1) Hence, if, while he is in possession, the plaintiff having tendered
+(1) Hence, if, while he is in possession, the plaintiff having tendered
 him the oath he swore that the property was his; we hold, in
 consequence, that even though he should lose possession, and the party
 who tendered him the oath should acquire it, an action *in factum*
@@ -933,7 +899,7 @@ from property which I have sworn to be mine must be restored to me, and
 that the offspring of female slaves and the young of cattle must be
 surrendered, after the oath is tendered.
 
-\(2) In like manner, if I should swear that the usufruct of any property
+(2) In like manner, if I should swear that the usufruct of any property
 is either mine or should be surrendered to me, an action will lie in my
 favor as long as I am entitled to the usufruct in the same; but in those
 cases in which the usufruct would be lost, I will have no right of
@@ -944,7 +910,7 @@ effect of the oath must be sustained, and, therefore, even though it
 should be held that he was properly sworn, I think that, on account of
 the oath, he can claim the usufruct if security is given.
 
-\(3) When a controversy exists between yourself and me with reference to
+(3) When a controversy exists between yourself and me with reference to
 an estate, and I swear that it belongs to me, I have a right to obtain
 whatever I would have been entitled to if judgment had been rendered in
 my favor in a suit for the estate; and you are required to deliver not
@@ -959,7 +925,7 @@ institutes proceedings against me to recover the estate, there will be
 no doubt (as Julianus says), that the oath will be of no advantage to
 me.
 
-\12. *Julianus, Digest, Book IX.*
+12. *Julianus, Digest, Book IX.*
 
 The same rule prevails where I wish to sue anyone who is in possession
 of property belonging to an estate; because if I should bring an action
@@ -978,11 +944,11 @@ patron will have a great deal of consideration and authority if he
 applies to a judge in an attempt to prove that he is the sole patron,
 because the freedman swore that the other was not his patron.
 
-\(1) Julianus says that anyone who swears that a certain tract of land
+(1) Julianus says that anyone who swears that a certain tract of land
 is his should, after sufficient time has elapsed to give him a title by
 prescription, also have a right to a prætorian action.
 
-\(2) Julianus also says that where a party swears that he did not commit
+(2) Julianus also says that where a party swears that he did not commit
 theft, he is held to have made oath with reference to everything
 relating to the matter; and therefore he will not be liable to an
 
@@ -996,7 +962,7 @@ special action for recovery against the heir of the thief, and the judge
 must not permit him to proceed if he attempts to prove that the party is
 a thief.
 
-\(3) Where anyone swears that I sold him something for a hundred
+(3) Where anyone swears that I sold him something for a hundred
 *aurei*, he can bring an action based on the purchase for the
 performance of whatever is connected with the contract; that is to say,
 for the delivery of the property and for security against recovery by a
@@ -1007,11 +973,11 @@ money was paid, no right of action will exist for the recovery of the
 latter; but if this was not sworn to, the party will, in consequence, be
 liable for the purchase-money.
 
-\(4) We say that the same rule applies where anyone swears that he
+(4) We say that the same rule applies where anyone swears that he
 entered into a partnership; for he can still be sued in a partnership
 action.
 
-\(5) Marcellus says that where anyone swears that he gave his land as
+(5) Marcellus says that where anyone swears that he gave his land as
 security for ten *aurei*, he cannot bring suit on the pledge without
 paying ten *aurei*, but he adds that perhaps he can be sued for ten
 *aurei* on account of his oath; and this he entirely approves of.
@@ -1021,7 +987,7 @@ dowry; for he says that, in this instance, an equitable action for the
 dowry should be granted her, and I deny that this opinion exceeds the
 demands of justice.
 
-\(6) Where, in a pecuniary transaction, a party swears by the Genius of
+(6) Where, in a pecuniary transaction, a party swears by the Genius of
 the Emperor that he is not obliged to pay, or that his adversary is
 entitled to payment, and perjures himself; or where he swears that he
 will pay within a certain time and does not do so; our Emperor and his
@@ -1029,7 +995,7 @@ father stated in a Rescript that he must be sent away to be whipped with
 rods, and the following notice attached to him, namely: "Do not swear
 rashly!"
 
-\14. *Paulus, on the Edict, Book III.*
+14. *Paulus, on the Edict, Book III.*
 
 Whenever an oath is taken with reference to property, it cannot be
 dispensed with in favor of a parent or a patron, and an oath is exacted
@@ -1040,41 +1006,41 @@ that he is not obliged to pay.
 The same rule applies where an oath is required with reference to mere
 promise to pay at a certain time.
 
-\15. *The Same, On the Edict, Book VI.*
+15. *The Same, On the Edict, Book VI.*
 
 Someone must be sent to their homes to administer the oath to
 distinguished persons, and to those who are prevented by illness from
 appearing in court.
 
-\16. *Ulpianus, On the Edict, Book X.*
+16. *Ulpianus, On the Edict, Book X.*
 
 When a patron marries his freedwoman, he cannot be compelled to swear in
 an action for the removal of property;^1^ but if he himself tenders the
 oath to his freedwoman, he will not be compelled to swear that he did so
 for the purpose of annoyance.
 
-\17. *Paulus, On the Edict, Book XVIII.*
+17. *Paulus, On the Edict, Book XVIII.*
 
 Where an oath is tendered extrajudicially in accordance with an
 agreement, it cannot be tendered back again.
 
-\(1) A ward shall tender an oath with his guardian's consent, because,
+(1) A ward shall tender an oath with his guardian's consent, because,
 if he tenders it without it, an exception can be placed against him; but
 he is entitled to a replication, because he has no legal right
 
 to attend to his own affairs.
 
-\(2) Where a guardian who is administering a guardianship, or the
+(2) Where a guardian who is administering a guardianship, or the
 curator of an insane person or a spendthrift, tenders an oath, it should
 be considered as ratified; as they dispose of property, and give
 receipts where money is paid, and can also bring a matter into court by
 means of a legal action.
 
-\(3) Moreover, where an agent tenders an oath, it must be sustained
+(3) Moreover, where an agent tenders an oath, it must be sustained
 where he has control of all the property of his principal, or was
 especially directed to do this, or is an agent acting in his own behalf.
 
-\18. *Ulpianus, On the Edict, Book XXVI.*
+18. *Ulpianus, On the Edict, Book XXVI.*
 
 But, otherwise, an agent who attempts to tender an oath should not be
 heard, as Julianus states in the Tenth Book of the Digest, nor can a
@@ -1110,41 +1076,41 @@ sincerity, provided an exception is filed; but if he should bring suit
 based on the stipulation that the act would be ratified, he will be
 required to prove that perjury was committed by himself.
 
-\19. *The Same, On the Edict, Book XXVI.*
+19. *The Same, On the Edict, Book XXVI.*
 
 Therefore, if an agent was directed to bring suit, and he tendered an
 oath, he did something which he was not directed to do.
 
-\20. *Paulus, On the Edict, Book XVIII.*
+20. *Paulus, On the Edict, Book XVIII.*
 
 Where a slave tenders an oath or takes one, it will be sustained if he
 has the administration of his *peculium:*
 
-\21. *Gaius, On the Provincial Edict, Book V.*
+21. *Gaius, On the Provincial Edict, Book V.*
 
 For he can lawfully receipt for money paid, and has the right to renew
 an obligation.
 
-\22. *Paulus, On the Edict, Book XVIII.*
+22. *Paulus, On the Edict, Book XVIII.*
 
 Some authorities hold that an action *De peculio* should be granted
 against the owner where a slave tenders an oath to the plaintiff. The
 same rules apply to a son under paternal control.
 
-\23. *Ulpianus, On the Edict, Book XXVI.*
+23. *Ulpianus, On the Edict, Book XXVI.*
 
 Where a slave swears that his owner is not obliged to pay, the latter is
 entitled to an exception, and his adversary, who tendered the oath to
 the slave, has no one but himself to blame.
 
-\24. *Paulus, On the Edict, Book XXVIII.*
+24. *Paulus, On the Edict, Book XXVIII.*
 
 It is much more true that the religious feeling of a son is advantageous
 to his father, where suit can be brought against the latter. But where
 parties of this kind tender the oath back, they do not render the legal
 position of those to whose authority they are subject any worse.
 
-\25. *Ulpianus, On the Edict, Book XXVI.*
+25. *Ulpianus, On the Edict, Book XXVI.*
 
 If my slave, where an oath has been tendered in the first place or
 tendered back to him, swears that certain property belongs to his
@@ -1152,7 +1118,7 @@ master, or should be delivered to him; I think that I am entitled to an
 action or an exception based on contract, on account of the sacred
 character of the oath and the terms of the agreement.
 
-\26. *Paulus, On the Edict, Book XVIII.*
+26. *Paulus, On the Edict, Book XVIII.*
 
 Where any one is said to have sworn, it makes no difference what his or
 her sex, or age may be, for the oath should, by all means, be sustained
@@ -1160,7 +1126,7 @@ against the party who was content with it when he tendered it; although
 a ward is never considered to have perjured himself, because it is not
 held that he can knowingly be guilty of deception.
 
-\(1) If a father swears that his son is not obliged to pay; Cassius
+(1) If a father swears that his son is not obliged to pay; Cassius
 stated as his opinion that an exception based on the oath should be
 
 granted to both father and son. Where a father swears that there is
@@ -1171,15 +1137,15 @@ accounting for any *peculium* which may have been subsequently acquired.
 class as the renewal or assignment of an obligation, as it grows out of
 an agreement; although it also bears some resemblance to a judgment.
 
-\27. *Gaius, On the Provincial Edict, Book V.* An oath also takes the
+27. *Gaius, On the Provincial Edict, Book V.* An oath also takes the
 place of payment.
 
-\28. *Paulus, On the Edict, Book XVIII.*
+28. *Paulus, On the Edict, Book XVIII.*
 
 Where two creditors jointly interested enter into a stipulation, and the
 oath is tendered by one of them, it will also prejudice the other.
 
-\(1) Where the principal debtor takes an oath, it also benefits a
+(1) Where the principal debtor takes an oath, it also benefits a
 surety; and where an oath is required of a surety it likewise benefits
 the principal debtor, as Cassius and Julianus say; for, because it takes
 the place of payment it must, in this instance also, be considered as
@@ -1187,7 +1153,7 @@ doing so; provided that the oath was introduced with reference to the
 contract itself and the property in question, and not with respect to
 the person who was sworn.
 
-\(2) Where anyone promises to produce my debtor in court, and I tender
+(2) Where anyone promises to produce my debtor in court, and I tender
 him the oath, and he swears that he never promised to produce him, this
 should be of no advantage to my debtor; but if he swears that he himself
 is not at all indebted to me, a distinction ought to be made, and the
@@ -1198,10 +1164,10 @@ fact, had paid what was due.
 A distinction of the same kind can also be made in the case of a surety
 for a debt.
 
-\(3) Where one of two joint-debtors of a certain sum of money took the
+(3) Where one of two joint-debtors of a certain sum of money took the
 oath; this should also benefit the other.
 
-\(4) An exception based upon an oath can be used not only where a party
+(4) An exception based upon an oath can be used not only where a party
 brings an action on account of the matter for which he executed the
 oath, but also with reference to another case, provided the same
 question is concerned in the latter proceeding; for example, where an
@@ -1210,12 +1176,12 @@ transacted, partnership, and others of the same kind; and then a
 specific action for recovery based on the same matters can be brought,
 for the reason that one action is annulled by the other.
 
-\(5) Where anyone swears that he did not commit robbery, he should not
+(5) Where anyone swears that he did not commit robbery, he should not
 be permitted to derive any advantage from his oath in an action for
 theft, or in one for the recovery of stolen property; because theft is a
 different crime, being one that can be perpetrated secretly.
 
-\(6) Where suit is brought against a tenant on his lease, for instance,
+(6) Where suit is brought against a tenant on his lease, for instance,
 because trees have been cut down, and he swears that he did not cut
 them, and he is afterwards sued under the Law of the Twelve
 
@@ -1223,7 +1189,7 @@ Tables for having cut trees, or under the *Lex Aquilia* for wrongful
 damage, or an interdict *Quod vi aut clam* is applied for against him;
 he can make a defence by means of an exception based upon his oath.
 
-\(7) Where a woman swears that she did not remove property belonging to
+(7) Where a woman swears that she did not remove property belonging to
 her husband on account of a divorce, she cannot make a defence by means
 of an exception, if suit is brought against her for the recovery of the
 property, and if she contends that it is hers, another oath will be
@@ -1233,7 +1199,7 @@ property which has been removed. And, indeed, it should be generally
 observed that where the same question comes up in a different action, an
 exception based upon the oath will be available.
 
-\(8) Therefore, where a party swears that judgment was not rendered
+(8) Therefore, where a party swears that judgment was not rendered
 against him, even though he is sued on a judgment based on a stipulation
 that the decision of the court will be obeyed; he can defend himself by
 means of an exception.
@@ -1245,11 +1211,11 @@ against the party bringing suit on the judgment; for it may happen that
 the stipulation did not become operative, even though judgment was
 rendered against him, unless he should swear that this was not the case.
 
-\(9) Moreover, Pomponius says that where a man swears that some of his
+(9) Moreover, Pomponius says that where a man swears that some of his
 property was stolen, he does not immediately acquire a good cause of
 action for the recovery of the property.
 
-\(10) Again, since under this Section the oath affords ground for both
+(10) Again, since under this Section the oath affords ground for both
 an action and an exception, if the defendant takes an oath out of court,
 which is tendered by the plaintiff, and swears that he is not obliged to
 pay; and then the plaintiff, on the tender of the oath by the defendant,
@@ -1259,7 +1225,7 @@ prejudice the point as to whether the other party has committed perjury;
 for the question is not whether the defendant was obliged to pay, but
 whether the plaintiff made oath that he was.
 
-\29. *Tryphoninus, Disputations, Book VI.*
+29. *Tryphoninus, Disputations, Book VI.*
 
 Moreover, if you tender an oath, and I swear that you did not swear that
 I was obliged to pay you; then, in opposition to an equitable action by
@@ -1267,7 +1233,7 @@ which it is intended to ascertain whether you made oath that you had a
 right to require payment, I can plead an exception based upon my oath
 for the purpose of disposing of the question included in the action.
 
-\30. *Paulus, On the Edict, Book XVIII.*
+30. *Paulus, On the Edict, Book XVIII.*
 
 Pedius says that where a man, in an action in which the amount is
 increased by the denial of the defendant, swears that something is owing
@@ -1280,13 +1246,13 @@ remains unimpaired; and it may be said that in a case of this kind the
 principal cause of action is not the object of the proceeding, but that
 the oath of the plaintiff should take effect.
 
-\(1) If I swear that you are obliged to deliver Stichus to me, and such
+(1) If I swear that you are obliged to deliver Stichus to me, and such
 a slave is not in existence, you, as defendant, are not required to pay
 me his value, except in case of theft or because of your default; for in
 either of these instances the value of the slave must be stated, even
 after his death.
 
-\(2) Where a woman swears that ten *aurei* are due to her on account of
+(2) Where a woman swears that ten *aurei* are due to her on account of
 dowry, that entire amount must be paid; but if she swears that she paid
 ten *aurei* by way of dowry, inquiry will not be made as to the mere
 fact whether the amount was paid, but it will be considered as paid, and
@@ -1294,22 +1260,22 @@ whatever portion should be returned must be given
 
 to her.
 
-\(3) In a popular action, an oath which has been exacted can be used
+(3) In a popular action, an oath which has been exacted can be used
 against others only if it was demanded in good faith; for, where anyone
 institutes proceedings, this does not prevent a public action, unless
 the proceedings were instituted through collusion.
 
-\(4) Where a freedman, after his patron has tendered him the oath,
+(4) Where a freedman, after his patron has tendered him the oath,
 swears that he is not his freedman, the oath must be sustained; so that
 no claim for services, nor one for the possession of the property of an
 estate contrary to the provisions of the will, can be considered.
 
-\(5) If I swear that I have a right to have a usufruct transferred to
+(5) If I swear that I have a right to have a usufruct transferred to
 me, this should be done only where I give security that I will make use
 of it in the way that a good citizen would do, and that, when the
 usufruct terminates, I will restore it.
 
-\31. *Gaius, On the Provincial Edict, Book XXX.*
+31. *Gaius, On the Provincial Edict, Book XXX.*
 
 We must remember that sometimes, even after the oath has been exacted,
 it is permitted by the Imperial Constitutions to have recourse to
@@ -1321,10 +1287,10 @@ frequently accustomed to render a decision in favor of the party who was
 sworn; but where the matter has been settled between the parties by
 means of an oath, it is not permitted for the same case to be reheard.
 
-\32. *Modestinus, Differences, Book III.* A ward cannot dispense with
+32. *Modestinus, Differences, Book III.* A ward cannot dispense with
 the oath.
 
-\33. *Ulpianus, On Sabinus, Book XXVIII.*
+33. *Ulpianus, On Sabinus, Book XXVIII.*
 
 When a party swears by his own salvation, although he is held to swear
 by God (for when he swears in this way he has reference to the
@@ -1332,7 +1298,7 @@ Divinity), still, if the oath had not been tendered him in this
 particular manner, he is held not to have sworn; and therefore he will
 be compelled to make oath again in the proper form.
 
-\34. *The Same, On the Edict, Book XXVI.*
+34. *The Same, On the Edict, Book XXVI.*
 
 An oath may be employed both with reference to money and to all other
 matters, for an oath may even be tendered in an action for services, and
@@ -1345,31 +1311,31 @@ properly, that he should either be excused from taking the oath, or that
 certain time should be granted him that he may ascertain the facts and
 then be sworn.
 
-\(1) A party who appears in defence of a municipality or of any
+(1) A party who appears in defence of a municipality or of any
 corporate body can tender the oath, if he has an order to do so.
 
-\(2) An oath cannot be tendered to a ward.
+(2) An oath cannot be tendered to a ward.
 
-\(3) Neither an agent nor a defender can be compelled to swear; for it
+(3) Neither an agent nor a defender can be compelled to swear; for it
 is stated by Julianus in the Ninth Book of the Digest that a defender
 cannot be compelled to swear and that it will be sufficient for a
 complete defence if he is prepared to join issue in the case.
 
-\(4) Where a party tenders an oath, he must himself first swear that he
+(4) Where a party tenders an oath, he must himself first swear that he
 does not do so with a desire to cause annoyance, if this is required;
 and then the oath for him will be taken. This oath with reference to
 annoyance is dispensed with in the case of a patron or parents.
 
-\(5) If there is any doubt among the parties as to the nature of the
+(5) If there is any doubt among the parties as to the nature of the
 oath to be taken, its terms are to be decided by the arbiter who hears
 the case.
 
-\(6) The Prætor says, "He who is asked to swear I will compel either to
+(6) The Prætor says, "He who is asked to swear I will compel either to
 pay or to take the oath," and therefore the defendant must choose
 whether he will pay or swear, and if he does not swear, he will be
 compelled by the Prætor to pay.
 
-\(7) Another resource is, however, granted to the defendant, namely,
+(7) Another resource is, however, granted to the defendant, namely,
 that of tendering back the oath if he prefers to do so, and if he who
 brings the action refuses to accept the conditions under which he must
 be sworn, the Prætor will not permit the case to go on, and in doing so
@@ -1392,13 +1358,13 @@ times are known as blackmail and extortion. Under the Roman system of
 procedure, the first step after issue had been joined was the
 administration of the *juramentum*
 
-\(8) It is not always proper for an oath to be again tendered in the
+(8) It is not always proper for an oath to be again tendered in the
 same terms as at first; for, perhaps, on account of the diversity of
 things or persons, matters may arise which cause a difference to exist
 between them, and therefore if anything of this kind should occur, the
 terms of the oath should be decided by the judge.
 
-\(9) When the matter in dispute is referred to an oath, the judge
+(9) When the matter in dispute is referred to an oath, the judge
 discharges the party who swears and will hear the one who desires to
 tender the oath back, and if the plaintiff should swear, he must render
 a judgment against the defendant; and if the latter refuses to swear,
@@ -1406,22 +1372,22 @@ but pays, he must discharge him, and if he does not pay, he must render
 judgment against him; and where the plaintiff, after the oath is
 tendered back, refuses to take it, he must discharge the defendant.
 
-\35. *Paulus, On the Edict, Book XXVIII.*
+35. *Paulus, On the Edict, Book XXVIII.*
 
 When the guardian of a ward tenders an oath where all other evidence is
 lacking, he must be heard, for circumstances may exist under which an
 action will be refused the ward.
 
-\(1) Where a spendthrift tenders an oath, he shall not be heard, and the
+(1) Where a spendthrift tenders an oath, he shall not be heard, and the
 same rule applies in other similar cases; for, whether the oath takes
 the place of an agreement, or of a debt, the payment of the execution of
 a judgment, it should not be allowed, except when tendered by those who
 are properly qualified for such things.
 
-\(2) Parties who cannot be compelled to join issue at Rome, cannot be
+(2) Parties who cannot be compelled to join issue at Rome, cannot be
 compelled to make oath there; as, for example, provincial envoys.
 
-\36. *Ulpiamis, On the Edict, Book XXVII.*
+36. *Ulpiamis, On the Edict, Book XXVII.*
 
 Where the plaintiff tenders an oath with reference to money which had
 been merely promised, and the defendant swears, he can avail himself of
@@ -1455,7 +1421,7 @@ It is also employed in actions for divorce, to avoid the danger of
 collusion. (Dickson, A Treatise on the Law of Evidence in Scotland, Vol.
 II, Title VI, Chaps. 1, 2.)  ED.
 
-\37. *Ulpianus, On the Edict, Book XXXIII.*
+37. *Ulpianus, On the Edict, Book XXXIII.*
 
 If the oath has not been waived by the party who tendered it, and no
 oath has been taken denying that proceedings have been instituted for
@@ -1464,12 +1430,12 @@ for he has only himself to blame who proceeded to tender the oath before
 the denial that annoyance was intended was sworn to, so that he is in
 the same position as if he had dispersed with the oath.
 
-\38. *Paulus, On the Edict, Book XXXIII.*
+38. *Paulus, On the Edict, Book XXXIII.*
 
 Where a party is unwilling either to swear or to tender back the oath,
 it is an evidence of manifest depravity, and equivalent to a confession.
 
-\39. *Julianus, Digest, Book XXX.*
+39. *Julianus, Digest, Book XXX.*
 
 Where anyone agrees with his debtor that suit shall not be brought for
 the money if he swears that he did not "ascend the Capitol," or that he
@@ -1479,7 +1445,7 @@ granted him, and if he has paid he can recover the money; for an
 agreement is lawful where, in any case whatsoever, it is made dependent
 upon the condition of an oath.
 
-\40. *The Same, Digest, Book XIII.*
+40. *The Same, Digest, Book XIII.*
 
 Where an oath is required from a debtor it effects a release of a
 pledge; for this resembles the discharge from liability for a debt, and
@@ -1488,13 +1454,13 @@ brings suit for a penalty will be barred by an exception, and if the
 money has been paid it can be recovered; just as where an oath is
 interposed all controversy is at an end.
 
-\41. *Pomponius, Rules.*
+41. *Pomponius, Rules.*
 
 Labeo stated that the oath may be dispensed with in favor of a party who
 is absent, or ignorant of the facts; and it can even be waived by
 letter.
 
-\42. *The Same, Epistles, Book XVIII.*
+42. *The Same, Epistles, Book XVIII.*
 
 Where an oath was tendered by a creditor who had instituted proceedings
 against a ward for money which had been loaned, the latter swore that he
@@ -1522,12 +1488,12 @@ not obliged to pay, the controversy should be considered at an end, and
 the money paid can be recovered; and we think that an exception should
 be granted the sureties.
 
-\(1) Where a surety swears that he is not obliged to pay, the defendant
+(1) Where a surety swears that he is not obliged to pay, the defendant
 is protected by an exception founded on the oath; but if a surety should
 swear that he had never been surety at all for the sum demanded, this
 oath ought not to benefit the person who promised.
 
-\(2) Moreover,, where the plaintiff tenders the oath, and a party who
+(2) Moreover,, where the plaintiff tenders the oath, and a party who
 appears for either the absent or present defendant swears that the
 latter is not obliged to pay; an exception based upon the oath shall be
 granted to him in whose behalf the oath was taken.
@@ -1535,13 +1501,13 @@ granted to him in whose behalf the oath was taken.
 The same rule is applicable where some one who appears in defence of a
 surety makes oath for an exception to be granted the principal.
 
-\(3) In like manner if the principal makes oath, his surety will be
+(3) In like manner if the principal makes oath, his surety will be
 protected; because a decision in favor of either of them will benefit
 the other.
 
-TITLE III. CONCERNING AN OATH MADE IN COURT.
+* 12.III. CONCERNING AN OATH MADE IN COURT.
 
-\1. *Ulpianus, On Sabinus, Book LI.*
+1. *Ulpianus, On Sabinus, Book LI.*
 
 Where property is the subject of legal proceedings and an oath is taken
 with reference to the claim, we do not consider its value to be greater
@@ -1550,12 +1516,12 @@ contumacy of the defendant in not surrendering the property, as it does
 not by this means become more valuable; but its value is increased above
 what it is worth on account of the contumacy of the defendant :
 
-\2. *Paulus, On Sabinus, Book XIII.*
+2. *Paulus, On Sabinus, Book XIII.*
 
 Whether we sue for something which is ours or whether proceedings are
 instituted for production.
 
-\(1) Sometimes the appraisement is made only with reference to the
+(1) Sometimes the appraisement is made only with reference to the
 interest of the plaintiff in the action; for instance, where the
 negligence of the defendant in not surrendering or producing the
 property is to be punished; but when the fraud or contumacy of the party
@@ -1563,7 +1529,7 @@ who does not surrender the property or produce it is to be punished, the
 value must be estimated in accordance with the amount which the
 plaintiff swore to in court with reference to the claim.
 
-\3. *Ulpianus, On the Edict, Book XXX.*
+3. *Ulpianus, On the Edict, Book XXX.*
 
 Where money has been deposited, the judge should not tender the oath in
 order that the party may swear to the amount of his interest,
@@ -1574,7 +1540,7 @@ day; for what if he had to pay a sum of money under a penalty, or on
 account of a pledge, and the pledge was sold because the other party had
 refused to pay the money which had been deposited with him?
 
-\4. *The Same, On the Edict, Book XXXVI.*
+4. *The Same, On the Edict, Book XXXVI.*
 
 Let us consider who can take this oath where proceedings are instituted
 against the guardian, and against whom he can do so. The ward himself,
@@ -1597,12 +1563,12 @@ advantage of the party who is sworn, but to that of his principal in
 whose behalf an account of guardianship must be rendered. The minor,
 however, can be sworn if he wishes.
 
-\(1) The judge must tender the oath, but if anyone else should tender
+(1) The judge must tender the oath, but if anyone else should tender
 it, or if it should be taken without being tendered, it has no sanctity,
 and, in fact, is no oath at all; and this is stated in the Constitutions
 of our Emperor and his Divine Father.
 
-\(2) Any sum may be sworn to; but, I ask, can the judge fix a limit to
+(2) Any sum may be sworn to; but, I ask, can the judge fix a limit to
 the oath so as to restrict it to a certain amount, in order to prevent
 the party from taking the opportunity to swear to an immense sum? It is
 settled that it is in the discretion of the judge to tender the oath or
@@ -1610,56 +1576,56 @@ not to do so; and therefore the question arises whether anyone who can
 refuse to tender the oath cannot also limit the amount to be sworn to;
 and this also is in the discretion of a judge acting in good faith.
 
-\(3) Moreover, it should be considered whether the judge who has
+(3) Moreover, it should be considered whether the judge who has
 tendered an oath is not entitled to refuse to follow it, and either to
 dismiss the case entirely, or to render judgment for a smaller amount
 than has been sworn to; and the better opinion is that where some
 unusually good cause exists, and new evidence has been discovered he can
 do so.
 
-\(4) It is well established that where negligence has been committed,
+(4) It is well established that where negligence has been committed,
 the oath should not be tendered, but a valuation should be made by the
 judge.
 
-\5. *Marcianus, Rules, Book IV.*
+5. *Marcianus, Rules, Book IV.*
 
 In actions *in rem* and in those for production, as well as in *bona
 fide* proceedings, an oath is taken with reference to the claim.
 
-\(1) The judge, however, can fix a certain amount up to which the party
+(1) The judge, however, can fix a certain amount up to which the party
 may swear; for he had a right in the first place not to tender
 
 him the oath.
 
-\(2) Moreover, where the oath is taken, the judge has a right either to
+(2) Moreover, where the oath is taken, the judge has a right either to
 dismiss the case, or to render judgment against the defendant for a
 
 smaller amount.
 
-\(3) In all these instances, however, the oath with reference to the
+(3) In all these instances, however, the oath with reference to the
 claim can be taken only where fraud exists, and not on account of
 negligence; for the judge makes an estimate of what comes under the
 latter.
 
-\(4) There is no question that sometimes an oath is taken with reference
+(4) There is no question that sometimes an oath is taken with reference
 to the claim in an action of strict law; for example, where a party who
 promised to deliver Stichus makes default, and Stichus dies; as the
 judge cannot make an estimate of the value of property which no longer
 exists, without tendering an oath.
 
-\6. *Paulus, On the Edict, Book XXVI.*
+6. *Paulus, On the Edict, Book XXVI.*
 
 It is otherwise where proceedings are taken on a stipulation or under a
 will, for then it is not customary for the claim to be sworn to.
 
-\7. *Ulpianus, On the Edict, Book VIII.*
+7. *Ulpianus, On the Edict, Book VIII.*
 
 It is generally taken for granted that no one but the party who has
 control of the case can make oath with reference to the claim; for
 Papinianus says that no one but a party who has joined issue in his own
 behalf can do so.
 
-\8. *Marcellus, Digest, Book VIII.*
+8. *Marcellus, Digest, Book VIII.*
 
 Where a guardian who is in possession of the property of a person who
 has attained his majority refuses to surrender it to him; I ask whether
@@ -1671,14 +1637,14 @@ be punished; and that the value of the property should rather be left to
 the judgment of the owner of the same by the power of making oath to the
 claim being granted to the plaintiff.
 
-\9. *Javolenus, On Cassius, Book XV.*
+9. *Javolenus, On Cassius, Book XV.*
 
 Where proceedings for theft are instituted, the value of the property at
 the time when the theft was committed must be sworn to, without adding
 the words, "Or more," because where property is worth more, it is, at
 all events, worth as much.
 
-\10. *Callistratus, Questions, Book I.*
+10. *Callistratus, Questions, Book I.*
 
 Where anyone does not produce documents, the plaintiff is permitted to
 swear to the claim, so that judgment may be rendered against the
@@ -1687,37 +1653,32 @@ defendant for an amount of damages equal to the interest the
 plaintiff has in having the documents produced; and this the Divine
 Commodus stated in a Rescript.
 
-\11. *Paulus, Opinions, Book III.*
+11. *Paulus, Opinions, Book III.*
 
 Inquiry is not readily permitted where a party commits perjury in a case
 in which he is compelled by law to swear to a claim.
 
-TITLE IV.
+* 12.IV. CONCERNING A SUIT FOE THE RECOVERY OF PROPERTY GIVEN FOR A CONSIDERATION WHICH DOES NOT TAKE PLACE.
 
-CONCERNING A SUIT FOE THE RECOVERY OF PROPERTY GIVEN FOR A CONSIDERATION
-WHICH DOES NOT TAKE
-
-PLACE.
-
-\1. *Ulpianus, On the Edict, Book XXVI.*
+1. *Ulpianus, On the Edict, Book XXVI.*
 
 Where money is paid on account of some act which is not dishonorable, as
 that a son shall be emancipated, or a slave manumitted, or a suit
 abandoned; then, if the act is performed, an action for the recovery of
 the money will not lie.
 
-\(1) If I pay you ten *aurei* for fulfilling a condition, and I
+(1) If I pay you ten *aurei* for fulfilling a condition, and I
 afterwards reject an estate or a legacy, I can bring suit to recover the
 money.
 
-\2. *Hermogenianus, Epitomes of Law, Book II.*
+2. *Hermogenianus, Epitomes of Law, Book II.*
 
 Where, however, the will is pronounced to be forged or inofficious,
 without criminality on the part of him who paid the money, the said ten
 *aurei* can be recovered by an action on the ground of failure of
 consideration.
 
-\3. *Ulpianus, On the Edict, Book XXVI.*
+3. *Ulpianus, On the Edict, Book XXVI.*
 
 I paid you a certain sum of money to avoid your bringing me into court;
 and, hence I, as it were, disposed of the matter. Can I bring suit for
@@ -1731,16 +1692,16 @@ given; but if the understanding was merely that judicial proceedings
 should not be undertaken, no action for recovery will lie as long as
 this is not done.
 
-\(1) The same rule will apply if I pay you a sum of money on the
+(1) The same rule will apply if I pay you a sum of money on the
 condition that you do not manumit Stichus; for, in accordance with the
 distinction above stated, an action for recovery can either be granted
 or refused.
 
-\(2) But if I pay you the sum of money on the condition that you will
+(2) But if I pay you the sum of money on the condition that you will
 manumit Stichus, and you do not do so, I can bring an action for its
 recovery; or, if I change my mind, I can still bring it.
 
-\(3) Where, however, I paid you the money on condition that you would
+(3) Where, however, I paid you the money on condition that you would
 manumit him by a certain time, what then? If the time has not yet
 elapsed, a suit to recover the money will be refused, unless I have
 
@@ -1749,12 +1710,12 @@ Stichus is dead, can the money which was paid be recovered? Proculus
 says that if he died after the time had arrived when he could have been
 manumitted, an action for recovery will lie, otherwise not.
 
-\(4) And, indeed, if I did not pay you anything to induce you to manumit
+(4) And, indeed, if I did not pay you anything to induce you to manumit
 the slave, but it was agreed that I should pay you, you are at liberty
 to bring the action which arises from such a contract, that is, a
 personal action for recovery, even though the slave be dead.
 
-\(5) Where a freeman who was serving me as a slave in good faith pays me
+(5) Where a freeman who was serving me as a slave in good faith pays me
 money on the condition that I will manumit him, and I do so, and he is
 afterwards proved to be free; the question arises, can he bring an
 action against me to recover the money? Julianus says in the Eleventh
@@ -1765,12 +1726,12 @@ certain Paris, a dancer, who had paid Domitia, the daughter of Nero, ten
 it, and the inquiry was not made as to whether Domitia received it
 knowing at the time that he was free.
 
-\(6) If anyone pays me ten *aurei*, with the understanding that he is a
+(6) If anyone pays me ten *aurei*, with the understanding that he is a
 slave who expects to be free on a certain condition, when he was not
 ordered to do this; Celsus holds that he can bring suit to recover the
 ten *aurei.*
 
-\(7) Where a slave who was directed under a will to pay the heir ten
+(7) Where a slave who was directed under a will to pay the heir ten
 *aurei* and become free, received his freedom absolutely under a
 codicil, but, being ignorant of the fact, paid ten *aurei* to the heir;
 can he bring an action for their recovery? He states that Celsus, his
@@ -1784,7 +1745,7 @@ future, cannot recover it; because he was deceived by a false
 
 opinion.
 
-\(8) He also discusses here a nicer point, namely, as to whether a slave
+(8) He also discusses here a nicer point, namely, as to whether a slave
 who thought that he would be conditionally free, did not transfer the
 property in the money which he paid to the party receiving it; since he
 paid it to the heir under the impression that it belonged to the heir
@@ -1801,7 +1762,7 @@ he would not make it the property of the party who received it; but if
 another paid it for him, or he himself paid it after he became free, it
 would become the property of the person who received it.
 
-\(9) Although a slave freed under a condition is permitted to pay money
+(9) Although a slave freed under a condition is permitted to pay money
 out of his *peculium*, in compliance with some condition, still if the
 heir wishes to retain it, he can forbid him to pay it; for then the
 result will be that the slave will obtain his freedom just as if he had
@@ -1810,14 +1771,14 @@ money will not be lost. But the party whom the testator wished to
 receive the money can bring an action *in factum* against the heir to
 compel him to obey the order of the testator.
 
-\4. *The Same, On the Edict, Book XXXIX.*
+4. *The Same, On the Edict, Book XXXIX.*
 
 Where a creditor discharges his debtor after he had agreed to provide
 someone who would promise to make payment in his stead, and he does not
 do so; it may be held that the party who was discharged is liable to a
 suit for the recovery of the money.
 
-\5. *The Same, Disputations, Book II.*
+5. *The Same, Disputations, Book II.*
 
 Where you receive money on the condition that you will go to Capua, and
 then at the time when you are prepared to start on your journey, the
@@ -1837,7 +1798,7 @@ action for recovery will not lie; but if you have spent less, the action
 can be brought, provided, however, that you will be indemnified for what
 you have expended.
 
-\(1) Where one party delivers a slave to another with the understanding
+(1) Where one party delivers a slave to another with the understanding
 that he shall, within a certain time, be manumitted by him, and he who
 delivered the slave changes his mind and communicates this to the other
 party; and the slave should be manumitted after his mind has been
@@ -1847,7 +1808,7 @@ that if the other party does not manumit the slave, the constitution
 becomes operative, and renders the slave free, if the party who
 delivered him for this purpose has not yet changed his mind.
 
-\(2) Moreover, where anyone gives Titius ten *aurei* in order that he
+(2) Moreover, where anyone gives Titius ten *aurei* in order that he
 may purchase a slave with the money and manumit him, and he afterwards
 changes his mind; if the slave has not yet been purchased, the change of
 mind will give him a right of action to recover the money, if he makes
@@ -1863,7 +1824,7 @@ who purchased him was not to blame for it, he will not be required to
 pay anything; but it is clear that he must promise to restore him if he
 should ever come into his power.
 
-\(3) But if he received money in order to manumit a slave and he runs
+(3) But if he received money in order to manumit a slave and he runs
 away before he is manumitted; let us consider whether what he received
 can be recovered by a personal action? If, indeed, he had been about to
 sell the said slave, and failed to do so because he had received money
@@ -1884,7 +1845,7 @@ have guarded him with greater care; for, in this instance, it is not
 just that he should be deprived of the slave and the entire price as
 well.
 
-\(4) Where, however, he accepted the money for the purpose of
+(4) Where, however, he accepted the money for the purpose of
 manumitting the slave, and the slave died; then, if he was in default
 with reference to the manumission, it follows that we must hold that he
 should refund what he received; but if he was not in default, having
@@ -1902,7 +1863,7 @@ by the fall of a stable or by being run over by a vehicle, or lost his
 life in some other way, and this would not have occurred if the journey
 for the purpose of manumitting him had not been undertaken.
 
-\6. *The Same, Disputations, Book III.*
+6. *The Same, Disputations, Book III.*
 
 Where a stranger gives a dowry for a woman, and it is agreed that in
 whatever way the marriage may terminate the dowry shall be re-
@@ -1919,12 +1880,12 @@ ground of want of consideration, unless the woman should be able to
 prove by the most convincing evidence that he did this rather for her
 benefit than for his own advantage.
 
-\(1) But where a father gives a dowry for his daughter, and an agreement
+(1) But where a father gives a dowry for his daughter, and an agreement
 of this kind is made; then, unless the intention was manifestly
 different, Marcellus says that the father has a right to bring a
 personal action for its recovery.
 
-\7. *Julianus, Digest, Book XVI.*
+7. *Julianus, Digest, Book XVI.*
 
 Some one who thought that he owed a certain sum of money to a woman
 promised her betrothed, at her request, to pay it to him as dowry, and
@@ -1942,12 +1903,12 @@ woman to payment of the debt would remain than that the debtor could be
 compelled to assign to her his right of action for recovery, and would
 be subject to no further liability.
 
-\(1) Where land is conveyed by way of dowry, and the marriage does not
+(1) Where land is conveyed by way of dowry, and the marriage does not
 take place, it can be recovered by a personal action, and the crops also
 can be sued for. The same rule applies to a female slave and her
 children.
 
-\8. *Neratius, Parchments, Book II.*
+8. *Neratius, Parchments, Book II.*
 
 With reference to what Servius states in his book on Dowries; that is,
 if a marriage has taken place between persons neither of whom has yet
@@ -1963,7 +1924,7 @@ account before the marriage has been consummated, then,
 (since it is given in such a way that it may become a dowry) it cannot
 be recovered as long as it is possible that this may happen.
 
-\9. *Paulus, On Plautius, Book XVII.*
+9. *Paulus, On Plautius, Book XVII.*
 
 If I intend to give money to a woman, and pay it to her betrothed as
 dowry by her direction but the marriage does not take place, the woman
@@ -1974,7 +1935,7 @@ it was not it should be returned to me; it is given as it were in
 consideration of something, and if this did not take place I can recover
 it from the betrothed husband.
 
-\(1) Where a person, through mistake, promises to the intended husband
+(1) Where a person, through mistake, promises to the intended husband
 of a woman, by her direction, money which he does not owe, and the
 marriage takes place, he cannot avail himself of an exception on the
 ground of fraudulent intent; for, as the husband was transacting his own
@@ -1988,7 +1949,7 @@ money after the marriage has been dissolved, the exception should only
 be a bar with reference to the amount which the woman would have
 received.
 
-\10. *Javolenus, On Plautius, Book I.*
+10. *Javolenus, On Plautius, Book I.*
 
 Where a woman wishing to give a dowry to the man whom she intends to
 marry releases him from liability for the money which he owes her, and
@@ -1997,28 +1958,28 @@ against him to recover the money; because it makes no difference, since
 he received it without consideration, whether it was actually paid to
 him or he obtained a release for it.
 
-\11. *Julianus, Digest, Book X.*
+11. *Julianus, Digest, Book X.*
 
 Where an heir who is directed by the decision of a freedman to erect a
 monument for a certain sum, pays the money to the freedman, and he,
 having received it, does not erect the monument, he will be liable to an
 action for the recovery of the money.
 
-\12. *Paulus, On the Lex Julia et Papia, Book VI.*
+12. *Paulus, On the Lex Julia et Papia, Book VI.*
 
 Where anyone brings an action for a *donatio mortis causa* on the
 recovery of the party from sickness, he can claim also the produce of
 the property donated, the children of female slaves, and anything else
 which may have accrued to the property donated.
 
-\13. *Marcianus, Rules, Book III.*
+13. *Marcianus, Rules, Book III.*
 
 Where a son brings any property into hotchpot for his brother as if he
 were about to institute proceedings for the possession of the estate,
 and does not do so; Marcellus says in the Fifth Book of the Digest, that
 he is entitled to an action to recover it.
 
-\14. *Paulus, On Sabinus, Book III.*
+14. *Paulus, On Sabinus, Book III.*
 
 Where a party pays money which he does not owe to one who falsely
 represents himself as an agent, the money cannot be recovered from the
@@ -2033,7 +1994,7 @@ suit may be brought because the false agent committed a theft of the
 money, since he can not only be sued for theft but also in a personal
 action for recovery.
 
-\15. *Pomponius, On Sabinus, Book XXII.*
+15. *Pomponius, On Sabinus, Book XXII.*
 
 Where one of your slaves was suspected of theft by a certain Attius, and
 you surrender the slave to be put to torture, under the condition he
@@ -2054,7 +2015,7 @@ the property of another in such a way that he must have been aware that
 he was doing so against the will of the owner, or that if the latter had
 been aware of it he would have forbidden it.
 
-\16. *Celsus, Digest, Book III.*
+16. *Celsus, Digest, Book III.*
 
 I paid you a sum of money on the condition that you should deliver
 Stichus to me; is this kind of a contract one of incomplete purchase and
@@ -2070,12 +2031,9 @@ Stichus is your property, and you are not willing to give security
 against his recovery by anyone having a better title, you will not be
 released so that I cannot bring suit to recover the money from you.
 
-TITLE V.
+* 12.V. CONCERNING THE ACTION FOR RECOVERY WHERE THE CONSIDERATION Is IMMORAL OR UNJUST.
 
-CONCERNING THE ACTION FOR RECOVERY WHERE THE CONSIDERATION Is IMMORAL OR
-UNJUST.
-
-\1. *Paulus, On Sabinus, Book X.*
+1. *Paulus, On Sabinus, Book X.*
 
 Everything which is given is parted with either with some purpose in
 view or for a consideration; and where it is given for some purpose it
@@ -2083,61 +2041,61 @@ may be either immoral or honorable, and where it is immoral, the
 immorality may either attach to the giver and not to the receiver, or it
 may attach to the receiver and not the giver, or it may attach to both.
 
-\(1) Hence where anything is given for an honorable purpose, an action
+(1) Hence where anything is given for an honorable purpose, an action
 can be brought for its recovery only where the purpose for which it was
 granted was not accomplished.
 
-\(2) Where, however, the receiver is the one guilty of immorality, even
+(2) Where, however, the receiver is the one guilty of immorality, even
 though the purpose be accomplished, an action can be brought for the
 recovery of the gift.
 
-\2. *Ulpianus, On the Edict, Book XXVI.*
+2. *Ulpianus, On the Edict, Book XXVI.*
 
 For example, suppose I gave you something to induce you not to commit
 sacrilege or theft, or not to kill a man. In this instance, Julianus
 says that if I give it to you to prevent you from killing a man, an
 action for its recovery can be brought.
 
-\(1) Moreover, the rule is the same, if I gave you something on the
+(1) Moreover, the rule is the same, if I gave you something on the
 condition that you would return to me property which I deposited with
 you, or would restore to me certain documents.
 
-\(2) Where, however, I gave you something on the condition that the
+(2) Where, however, I gave you something on the condition that the
 judge would decide in my favor in a good cause, it has indeed, been
 stated that there will be ground for an action for recovery, but he who
 does this commits a crime, as he is held to corrupt the judge; and
 recently our Emperor decreed that he should lose his case.
 
-\3. *Paulus, On Sabinus, Book X.*
+3. *Paulus, On Sabinus, Book X.*
 
 Where both the giver and the receiver are guilty of immoral conduct, we
 hold that suit cannot be brought for the recovery of the donation; as,
 for instance, where money is paid in order that an unjust judgment may
 be rendered.
 
-\4. *Ulpianus, On the Edict, Book XXVI.*
+4. *Ulpianus, On the Edict, Book XXVI.*
 
 The same rule applies where money is paid in consideration of
 prostitution, or where a party who has been caught in adultery purchases
 immunity, as no action for recovery will lie; and this is the opinion of
 Sabinus and Pegasus.
 
-\(1) Moreover, where a thief pays to avoid being surrendered, since, in
+(1) Moreover, where a thief pays to avoid being surrendered, since, in
 this instance, as both parties are guilty of immorality, no action for
 recovery will lie.
 
-\(2) Where, however, only the receiver is guilty of immoral conduct,
+(2) Where, however, only the receiver is guilty of immoral conduct,
 Celsus says an action for recovery can be brought; for example, where I
 pay you to prevent you from injuring me.
 
-\(3) Money paid to a harlot, however, cannot be recovered, as Labeo and
+(3) Money paid to a harlot, however, cannot be recovered, as Labeo and
 Marcellus state; but the principle is not the same, as the question is
 not whether there is immorality on both sides, but that it exists only
 on the part of the giver; as the woman acts in an immoral manner because
 she is a harlot, but she is not immoral when she accepts the money since
 she is a harlot.
 
-\(4) If I give you something in return for information, for example, in
+(4) If I give you something in return for information, for example, in
 order that you may reveal the whereabouts of my fugitive slave, or tell
 me where a thief who has stolen my property may be found; suit cannot be
 brought for what I have, because you, in receiving it, were not guilty
@@ -2148,26 +2106,26 @@ the thief himself, or the companion of a thief, or of a fugitive slave,
 received money from me in return for information; I am of the opinion
 that there will be ground for an action for the recovery of the same.
 
-\5. *Julianus, On Urseius Ferox, Book III.*
+5. *Julianus, On Urseius Ferox, Book III.*
 
 Where anyone receives money from my slave to prevent him from giving
 information concerning a theft which he committed, whether he gives the
 information or not, Proculus says that an action will lie for the
 recovery of the money.
 
-\6. *Ulpianus, On Sabinus, Book XVIII.*
+6. *Ulpianus, On Sabinus, Book XVIII.*
 
 Sabinus always approved of the opinion of the ancient authorities,
 namely, that where anything is in the hands of a party illegally, it can
 be recovered by a personal action; and Celsus also concurs in this
 opinion.
 
-\7. *Pomponius, On Sabinus, Book XXII.*
+7. *Pomponius, On Sabinus, Book XXII.*
 
 Where money has been obtained through a stipulation which was extorted
 by force, it is established that an action will lie for its recovery.
 
-\8. *Paulus, Questions, Book III.*
+8. *Paulus, Questions, Book III.*
 
 If you should promise Titius anything for an immoral consideration, you
 can bar him by an exception on the ground of malicious contrivance, or
@@ -2180,7 +2138,7 @@ receiver is immoral, that of the possessor is preferable; and hence an
 action for recovery will not lie, although the money was paid on account
 of the stipulation.
 
-\9. *The Same, On Plautius, Book V.*
+9. *The Same, On Plautius, Book V.*
 
 If I lend you clothes to be used by you, and afterwards I pay money for
 their return, it has been held that I can properly proceed by means
@@ -2189,7 +2147,7 @@ of a personal action for recovery; because, although the money was paid
 for a certain purpose, and the purpose was accomplished, nevertheless,
 it was improperly paid.
 
-\(1) If you receive money from me as an incentive for you to return
+(1) If you receive money from me as an incentive for you to return
 property which was rented to you, or sold to you, or placed in your
 custody, I will be entitled to an action against you based on lease,
 sale, or mandate; but if I paid you the money to induce you to deliver
@@ -2197,26 +2155,24 @@ to me something which you owed by reason of a will or a stipulation,
 there will be merely a right to bring suit for recovery of the money
 paid you for this purpose; as was stated by Pomponius.
 
-TITLE VI.
+* 12.VI. CONCERNING AN ACTION FOR THE RECOVERY OF MONEY WHICH IS NOT DUE.
 
-CONCERNING AN ACTION FOR THE RECOVERY OF MONEY WHICH IS NOT DUE.
-
-\1. *Ulpianus, On the Edict, Book XXVI.*
+1. *Ulpianus, On the Edict, Book XXVI.*
 
 Now let us consider the case of money which was paid without being due.
 
-\(1) And, indeed, if anyone ignorantly pays what is not due, he can
+(1) And, indeed, if anyone ignorantly pays what is not due, he can
 recover the same by means of this action; but if he paid it being aware
 that he did not owe it, an action for its recovery will not lie.
 
-\2. *The Same, On Sabinus, Book XV.*
+2. *The Same, On Sabinus, Book XV.*
 
 Where anyone pays with the understanding that if it should appear that
 the money was not due, or that the *Lex Falcidia* is applicable, it
 shall be returned; an action for recovery will be available, for an
 agreement has been made between the parties.
 
-\(1) Where anything is paid in compliance with the terms of a will, but
+(1) Where anything is paid in compliance with the terms of a will, but
 the will afterwards proves to be forged, or inofficious, or invalid, or
 should be set aside, it can be recovered; and if, after a long time, a
 debt should come to light, or codicils which have been long concealed
@@ -2227,7 +2183,7 @@ Hadrian stated in a Rescript that where an inofficious or forged will
 exists, an action should be granted the party in whose favor a decision
 was rendered with reference to the estate.
 
-\3. *Papinianus, Questions, Book XXVIII.*
+3. *Papinianus, Questions, Book XXVIII.*
 
 The same course should be pursued where, after the legacies are paid,
 some new or unexpected event transfers the estate to others; for
@@ -2242,12 +2198,12 @@ possessor in good faith is liable for the amount by which
 he became more wealthy, and the risk of claims of this kind does not
 attach to a party who makes payment without being guilty of negligence.
 
-\4. *Paulus, On Sabinus, Book III.*
+4. *Paulus, On Sabinus, Book III.*
 
 The Divine Hadrian stated in a Rescript that the same rule would apply
 if another will should be produced.
 
-\5. *Ulpianus, On Sabinus, Book XVI.*
+5. *Ulpianus, On Sabinus, Book XVI.*
 
 It is no new doctrine that, where one party pays, another can bring an
 action to recover the money; for where a minor under twenty-five years
@@ -2257,7 +2213,7 @@ forth in the Rescript to Arrius Titianus, the right of action for
 recovery does not belong to him, but to the party entitled to the
 property of the estate.
 
-\6. *Paulus, On Sabinus, Book III.*
+6. *Paulus, On Sabinus, Book III.*
 
 If your agent pays a debt which was not due, and you do not ratify his
 act, then, as Labeo states in the Books styled "Last Works," an action
@@ -2266,58 +2222,58 @@ cannot be recovered; because where anyone appoints an agent to transact
 his business, it is held that he also directs him to pay his creditor;
 and it is not necessary afterwards to wait for him to ratify his acts.
 
-\(1) Labeo also says that if money which is not due is paid to an agent
+(1) Labeo also says that if money which is not due is paid to an agent
 and his principal does not ratify his act, suit can be brought to
 recover it.
 
-\(2) Celsus says that anyone who pays a debt to an agent is immediately
+(2) Celsus says that anyone who pays a debt to an agent is immediately
 released, and no ratification should be considered; but where the agent
 receives what is not due, then ratification is required, because he
 would be held not to have directed that anything should be done with
 reference to the collection of this claim, and therefore, if his act is
 not ratified, suit must be brought against the agent for its recovery.
 
-\(3) Julianus says that neither a guardian nor an agent can bring an
+(3) Julianus says that neither a guardian nor an agent can bring an
 action for the recovery of money after they have paid it; and that it
 makes no difference whether they paid out their own money or that of the
 ward or principal.
 
-\7. *Pomponius, On Sabinus, Book IX.*
+7. *Pomponius, On Sabinus, Book IX.*
 
 Where money which is not due is paid through mistake, suit may be
 brought for the recovery of the same money, or of an equal amount.
 
-\8. *Paulus, On Sabinus, Book VI.*
+8. *Paulus, On Sabinus, Book VI.*
 
 Where a third party pays a wife on account of a husband who is
 insolvent, he cannot bring suit to recover the money, since it is, to
 all intents and purposes, a debt due to the wife.
 
-\9. *Ulpianus, On the Edict, Book LXVI.*
+9. *Ulpianus, On the Edict, Book LXVI.*
 
 For even if a husband, when he is absolutely unable to pay his debts,
 gives his wife the dowry, he is in such a position that he cannot bring
 an action to recover it.
 
-\10. *Paulus, On Sabinus, Book VII.*
+10. *Paulus, On Sabinus, Book VII.*
 
 He who has undertaken to pay a debt on a certain day is a debtor to such
 an extent that, if he pays the debt before the prescribed time, he
 cannot bring an action to recover the money.
 
-\11. *Ulpianus, On Sabinus, Book XXXV.*
+11. *Ulpianus, On Sabinus, Book XXXV.*
 
 If a party against whom an action *De peculio* is brought should,
 through carelessness, pay more than there is in the *peculium*, he
 cannot bring an action to recover it.
 
-\12. *Paulus, On Sabinus, Book VII.*
+12. *Paulus, On Sabinus, Book VII.*
 
 If I give you an usufruct in my land, thinking erroneously that I owe it
 to you, and I should die before bringing an action for its recovery, the
 right to bring the action will pass to my heirs.
 
-\13. *The Same, On Sabinus, Book X.*
+13. *The Same, On Sabinus, Book X.*
 
 Even a slave may be bound by a natural obligation; hence, if anyone
 should pay a debt for him, or the slave himself should do so after being
@@ -2328,16 +2284,16 @@ a pledge given on his account will be retained; if, however, the slave
 who has the administration of his *peculium* gives anything as a pledge
 for what he owes, he should be granted a prætorian action to recover it.
 
-\(1) Moreover, where a ward borrows money without the authority of his
+(1) Moreover, where a ward borrows money without the authority of his
 guardian, becoming more wealthy thereby, and pays the same after he
 reaches puberty, he cannot bring an action for its recovery:
 
-\14. *Pomponius, On Sabinus, Book XXI.*
+14. *Pomponius, On Sabinus, Book XXI.*
 
 For it is only in accordance with natural equity that no one should
 profit pecuniarily by the injury of another.
 
-\15. *Paulus, On Sabinus, Book X.*
+15. *Paulus, On Sabinus, Book X.*
 
 The right to recover anything which was not due is based upon natural
 law, and therefore the action will include any addition to the property,
@@ -2345,7 +2301,7 @@ for instance, a child born of a female slave, or any land added by
 alluvium; and, indeed, it also includes crops gathered in good faith by
 the party to whom delivery was made.
 
-\(1) Moreover, where money belonging to another person was paid, an
+(1) Moreover, where money belonging to another person was paid, an
 action will lie in order to obtain possession of the same; just as if I,
 laboring under a false impression, should deliver possession of certain
 property to you thinking that I was obliged to do so, I could bring suit
@@ -2356,26 +2312,26 @@ deprived of the property on the ground of prescription, even then I
 could properly bring an action against you for the recovery of money
 which had been paid without being due.
 
-\(2) Even if an usufruct in the property delivered belongs to another, I
+(2) Even if an usufruct in the property delivered belongs to another, I
 could bring suit against you for recovery leaving out the usufruct.
 
-\16. *Pomponius, On Sabinus, Book XV.*
+16. *Pomponius, On Sabinus, Book XV.*
 
 Where a debt dependent upon a condition is paid by mistake, then, so
 long as the condition is pending, suit can be brought for its recovery;
 but if the condition has taken place, an action cannot be brought for
 it.
 
-\(1) But where something is to be delivered at an uncertain time, it
+(1) But where something is to be delivered at an uncertain time, it
 cannot be recovered after that time has elapsed.
 
-\17. *Ulpianus, On the Edict, Book II.*
+17. *Ulpianus, On the Edict, Book II.*
 
 For, if I promise to give something when I die, and I give it before
 that time, Celsus says that I am not entitled to an action for its
 recovery; and this opinion is correct.
 
-\18. *The Same, On Sabinus, Book XLVII.*
+18. *The Same, On Sabinus, Book XLVII.*
 
 Where anything is owing upon a condition which must inevitably take
 place, it cannot be recovered by an action after it has been delivered;
@@ -2383,13 +2339,13 @@ although if it had to be given under another condition whose fulfillment
 was uncertain, an action could be brought for its recovery, even if it
 had been previously delivered.
 
-\19. *Pomponius, On Sabinus, Book XXII.*
+19. *Pomponius, On Sabinus, Book XXII.*
 
 Where a debtor is released from liability by way of inflicting a penalty
 of the person to whom the debt is due, the natural obligation remains
 unimpaired; and therefore if the money is paid it cannot be recovered.
 
-\(1) Even though a party may receive payment of a debt, due to him,
+(1) Even though a party may receive payment of a debt, due to him,
 still, if he who pays gives what he does not owe, there will be a right
 of action for its recovery; for instance, where anyone erroneously
 thinks that he is an heir or the possessor of the property of an estate
@@ -2399,21 +2355,21 @@ although anyone may receive something which is due to him, still, if the
 party who pays it pays what is not due, an action for its recovery will
 lie.
 
-\(2) If I am under the false impression that I owe a debt, and I pay it
+(2) If I am under the false impression that I owe a debt, and I pay it
 in coin, part of which belongs to another and part of it to me, I can
 bring an action for half the amount, and not for half of each share.
 
-\(3) If I think that I am obliged to deliver either Stichus or
+(3) If I think that I am obliged to deliver either Stichus or
 Pamphilus, while in fact I am obliged to deliver Stichus, and I deliver
 Pamphilus; I can bring an action for property given which was not due;
 for I cannot be held to have made the delivery in payment of what I owe.
 
-\(4) Where two debtors who owed ten *aurei* together paid twenty, Celsus
+(4) Where two debtors who owed ten *aurei* together paid twenty, Celsus
 says each of them can bring an action for the recovery of five; because
 since they owed ten, and paid twenty, what both paid over and above what
 was due both can sue to recover.
 
-\20. *Julianus, Digest, Book X.*
+20. *Julianus, Digest, Book X.*
 
 If a debtor and a surety unite in payment of a debt, they do not, in
 this instance, differ from two debtors who promise; wherefore, all
@@ -2421,7 +2377,7 @@ this instance, differ from two debtors who promise; wherefore, all
 that has been said with reference to the latter can also be applied to
 the former.
 
-\21. *Paulus, Questions, Book III.*
+21. *Paulus, Questions, Book III.*
 
 It is evident that where you state that there are two parties bound by
 the same obligation, not for the payment of the same sum of money but
@@ -2435,19 +2391,19 @@ the creditor has the right to elect to which of the parties he will make
 the delivery, in order that the other may be prevented from bringing
 suit.
 
-\22. *Pomponius, On Sabinus, Book XXII.*
+22. *Pomponius, On Sabinus, Book XXII.*
 
 Moreover, if I think that I have promised anything to you or to Titius,
 while, in fact, no promise was made to either, for Titius was not
 personally included in the stipulation, and I deliver the article to
 Titius, I am entitled to an action to recover it from him.
 
-\(1) Where I, through mistake, conveyed a tract of land as free, when I
+(1) Where I, through mistake, conveyed a tract of land as free, when I
 ought to have reserved a right of way; I am entitled to a right of
 action for the recovery of an uncertain amount, in order that a right of
 way may be granted me.
 
-\23. *Ulpianus, On Sabinus, Book XLIII.*
+23. *Ulpianus, On Sabinus, Book XLIII.*
 
 Pomponius submits this nice question, namely: where anyone suspects that
 a compromise has been effected by a party to whom he is an heir, or by
@@ -2463,7 +2419,7 @@ made, and the same principle will prevail where the compromise is
 
 annulled.
 
-\(1) Where a party makes a compromise after a decision is rendered, and
+(1) Where a party makes a compromise after a decision is rendered, and
 pays in compliance with the same, he can bring an action for recovery,
 because it has been held that the compromise is void; for this the
 Emperor Antoninus, together with his Divine Father, stated in a
@@ -2479,12 +2435,12 @@ held that there is ground for these rescripts only where the
 compromise has reference to an absolutely certain decision which can,
 under no circumstances, be amended.
 
-\(2) Moreover, if payment was made on account of a compromise relative
+(2) Moreover, if payment was made on account of a compromise relative
 to a provision for maintenance left by will, it is evident that an
 action can be brought for the recovery of what was paid, because the
 compromise is annulled by a decree of the Senate.
 
-\(3) If anyone, after having entered into a compromise, nevertheless,
+(3) If anyone, after having entered into a compromise, nevertheless,
 has judgment rendered against him; while this is indeed wrongfully done,
 still the judgment is valid. The party, however, can plead an exception
 on the ground of fraud against anyone desiring to join issue  where,
@@ -2503,19 +2459,19 @@ recovery arises, there is no ground for an exception founded on the
 compromise, for the suit for recovery and the exception cannot both be
 operative.
 
-\(4) Where any law prescribes at the beginning that an action for double
+(4) Where any law prescribes at the beginning that an action for double
 or quadruple damages will lie; it must be held that suit can be brought
 for the recovery of money which has been paid under the false impression
 that this was authorized by the law.
 
-\24. *The Same, On Sabinus, Book XLVI.*
+24. *The Same, On Sabinus, Book XLVI.*
 
 Where a party who could protect himself by a perpetual exception
 promises to give something in order to be released, when he knew that he
 could take advantage of this exception; he cannot bring an action for
 recovery.
 
-\25. *The Same, On Sabinus, Book XLVII.*
+25. *The Same, On Sabinus, Book XLVII.*
 
 Where two parties became sureties for a debtor for ten *aurei*, and the
 debtor afterwards paid three, and then each of the sureties paid five,
@@ -2524,7 +2480,7 @@ three *aurei;* and this is reasonable, because after three had been paid
 by the debtor, seven remained due, and when these were paid, three were
 paid which were not due.
 
-\26. *The Same, On the Edict, Book XXVI.*
+26. *The Same, On the Edict, Book XXVI.*
 
 Where anyone does not pay the principal but pays interest which is not
 due, he cannot bring an action for its recovery if the principal on
@@ -2540,23 +2496,23 @@ recovered as being principal which was not due. What would be the case
 if both should be paid at the same time? It can be said that, in this
 instance also, there would be ground for an action for recovery.
 
-\(1) Interest, however, above twofold the amount of the principal, or
+(1) Interest, however, above twofold the amount of the principal, or
 compound interest, cannot be inserted in a stipulation or collected, and
 if paid, it can be recovered by an action; just as interest on future
 
 interest can be.
 
-\(2) Where a party, erroneously believing that he owes a certain sum as
+(2) Where a party, erroneously believing that he owes a certain sum as
 principal, pays interest upon it; he can bring an action for its
 recovery and is not held to have knowingly paid what was not due.
 
-\(3) We understand the payment of money which is not due not only to
+(3) We understand the payment of money which is not due not only to
 refer to what is not owed at all, but to such as cannot be recovered
 because of a perpetual exception; wherefore, in this instance also, an
 action can be brought for its recovery, unless the party who paid it was
 aware at the time that he was protected by an exception.
 
-\(4) If I owe a hundred *aurei*, and I transfer a tract of land which is
+(4) If I owe a hundred *aurei*, and I transfer a tract of land which is
 worth two hundred, just as if I was indebted for that amount; Marcellus
 states, in the Twentieth Book of the Digest, that an action to recover
 the land will lie, and the stipulation for a hundred *aurei* will remain
@@ -2570,19 +2526,19 @@ recover the entire property remains, and the obligation is unimpaired;
 the land, however, will be retained until the money which is due has
 been paid.
 
-\(5) Moreover, Marcellus says that where a party who owes money delivers
+(5) Moreover, Marcellus says that where a party who owes money delivers
 oil of greater value than the debt, as though he owed a larger amount,
 or if he gives oil as if owing a larger quantity, he can bring an action
 to recover the excess of the oil, but not all of it; and that, on this
 account, his obligation is terminated.
 
-\(6) Marcellus also says that, if I am entitled to part of a tract of
+(6) Marcellus also says that, if I am entitled to part of a tract of
 land, and an appraisement is made as if I was entitled to all of it, and
 payment is made to me in money equal to the value of the entire tract,
 the whole amount of the purchase money cannot be recovered, but only the
 value of that part of the land to which I had no right.
 
-\(7) To such an extent does a perpetual exception give a right of action
+(7) To such an extent does a perpetual exception give a right of action
 for recovery, as Julianus states in the Tenth Book, that if the
 purchaser of a tract of land directs his heir to release the vendor from
 the obligation arising from the sale, and afterwards the vendor, being
@@ -2592,29 +2548,29 @@ action to recover the land.
 The same rule applies where a testator directs the release of his
 debtor, and the latter, not knowing this, pays the debt.
 
-\(8) Where anyone indebted with reference to the *peculium* of a son
+(8) Where anyone indebted with reference to the *peculium* of a son
 under paternal control pays him the debt, he will be released if he did
 not know that the latter had been deprived of his *peculium;* but if he
 knew it, and made payment, he will not be entitled to an action for
 recovery because he knowingly paid what was not due.
 
-\(9) If a son under paternal control borrows money contrary to the
+(9) If a son under paternal control borrows money contrary to the
 provisions of the Macedonian Decree of the Senate, and pays the same,
 and afterwards, having become the heir to his father, takes steps to
 recover the money; he will be barred by an exception from prosecuting
 the action for recovery.
 
-\(10) If anyone makes a payment erroneously under the impression that an
+(10) If anyone makes a payment erroneously under the impression that an
 award has been made against him in an arbitration, he can bring an
 action to recover the money.
 
-\(11) Where money which is not due is paid either to an heir or the
+(11) Where money which is not due is paid either to an heir or the
 possessor of the property of an estate, suit can be brought for its
 recovery if the party defends his right to the estate; but if he does
 not do so, suit can also be brought even for the recovery of money paid
 which was due.
 
-\(12) A freedman who incorrectly thought that he owed services to his
+(12) A freedman who incorrectly thought that he owed services to his
 patron performed them, but Julianus states, in the Tenth Book of the
 Digest, that he is not entitled to an action for recovery even though he
 performed the services thinking that he was obliged to do so; for a
@@ -2659,7 +2615,7 @@ this was done with reference to another and the creditor had received
 that to which he was entitled) nor can he bring an action against his
 patron, because the services were due to him by natural obligation.
 
-\(13) Where anyone stipulates with me for ten *aurei* or Stichus, and I
+(13) Where anyone stipulates with me for ten *aurei* or Stichus, and I
 pay him five, the question arises can I bring an action for recovery?
 This question depends upon the facts as to whether I am not released to
 the amount of five *aurei;* for, if I am, an action for recovery will
@@ -2680,26 +2636,26 @@ ground for an action to recover five *aurei*, for even though both
 payment and delivery of the slave may have been made simultaneously, I
 should be permitted to retain whichever I prefer.
 
-\(14) He also says that if there are two heirs of the stipulator, that
+(14) He also says that if there are two heirs of the stipulator, that
 five *aurei* cannot be given to one of them and a share in Stichus to
 the other. The same rule applies where there are two heirs of the
 promisor; and, according to this, there will be no release unless either
 five *aurei* or a share in Stichus is given to each of them.
 
-\27. *Paulus, On the Edict, Book XXVIII.*
+27. *Paulus, On the Edict, Book XXVIII.*
 
 Where anyone thinking that he is obliged to make payment at some certain
 place, pays something that is not due, he can bring an action to recover
 the money anywhere that he chooses; for the special right of action for
 recovery does not follow the mistaken opinion of the person who pays.
 
-\28. *The Same, On the Edict, Book XXXII.*
+28. *The Same, On the Edict, Book XXXII.*
 
 Where a judge discharged a party improperly, and he who is discharged
 pays the debt voluntarily, he cannot bring an action to recover the
 money.
 
-\29. *Ulpianus, Disputations, Book II.*
+29. *Ulpianus, Disputations, Book II.*
 
 Sometimes the personal condition of the party establishes a ground for
 recovery; for example, where a ward without the authority of his
@@ -2710,28 +2666,28 @@ circumstances; and where any money remains, suit can be brought for its
 recovery, but if it has been spent there will be ground for a personal
 action.
 
-\30. *The Same, Disputations, Book X.*
+30. *The Same, Disputations, Book X.*
 
 Where anyone is both creditor and debtor in a case in which no set-off
 can be allowed, and he pays the debt; he has no right of action to
 recover the money because it was paid when it was not due, but he can
 bring an action for his own debt.
 
-\31. *The Same, Opinions, Book I.*
+31. *The Same, Opinions, Book I.*
 
 Where anyone, through mistake, makes provision for payment to a creditor
 of a larger amount than his share of the estate warrants, he has a right
 of action for recovery on the ground of a promise made for payment of
 what was not due.
 
-\32. *Julianus, Digest, Book X.*
+32. *Julianus, Digest, Book X.*
 
 Where anyone is obliged to deliver Pamphilus or Stichus, and delivers
 both of them at the same time, and afterwards either both or one of them
 should happen to die, he cannot recover anything; for what still remains
 will be applied to the payment of the obligation.
 
-\(1) Where a surety enters into an agreement that suit shall not be
+(1) Where a surety enters into an agreement that suit shall not be
 brought against him for money which is due, but through carelessness he
 pays it, he can bring a personal action against the stipulator to
 recover it, and therefore the principal debtor will remain liable, but
@@ -2741,19 +2697,19 @@ the principal debtor should become heir to the surety, and pay the debt,
 he cannot bring an action for the recovery of the money, and he will be
 released.
 
-\(2) Where a woman believes that she is obliged to transfer property as
+(2) Where a woman believes that she is obliged to transfer property as
 dowry, and gives anything by way of dowry, she cannot bring suit for its
 recovery; for, leaving her mistaken opinion out of consideration, the
 question of duty remains, and what is paid on this account cannot be
 recovered by an action.
 
-\(3) Where a party promises in general terms to deliver a slave, the
+(3) Where a party promises in general terms to deliver a slave, the
 case is the same as where one is bound to give a slave or to pay ten
 *aurei; *and therefore if he delivers Stichus, thinking that he had
 promised to do so, he can bring an action for his recovery, and he will
 be released by giving any other slave whatsoever.
 
-\33. *The Same, Digest, Book XXXIX.*
+33. *The Same, Digest, Book XXXIX.*
 
 If I build on your unoccupied land, and you obtain possession of it
 afterwards, there will be no ground for an action for recovery, because
@@ -2771,7 +2727,7 @@ thought himself to be an heir should prop up a house which was part of
 the estate, he could be reimbursed for his expenses in no other way than
 by retaining the property.
 
-\34. *The Same, Digest, Book XL.*
+34. *The Same, Digest, Book XL.*
 
 Where an entire estate has been left in trust to some one and, in
 addition to this, a tract of land if he should pay ten *aurei* to the
@@ -2781,13 +2737,13 @@ the Senate; the party aforesaid will have no reason to pay him the
 money, and hence he can recover by means of an action whatever he may
 have given for the purpose of complying with the condition.
 
-\35. *The Same, Digest, Book XLV.*
+35. *The Same, Digest, Book XLV.*
 
 Where anyone pays a sum of money for the reason that no defence was made
 to an action for its recovery, even though he subsequently may be ready
 to set up a defence, he cannot recover what he has paid.
 
-\36. *Paulus, Epitomes of the Digest of Alfenus, Book V.*
+36. *Paulus, Epitomes of the Digest of Alfenus, Book V.*
 
 The slave of a certain party without the knowledge of his master lent a
 dish, and the party to whom he lent it pledged it and took to flight,
@@ -2804,7 +2760,7 @@ besides, if the money had been paid to him by the slave in behalf of the
 party from whom he had received the pledge, suit could not be brought
 against him for the recovery of the same.
 
-\37. *Julianus, On Urseius Ferox, Book III.*
+37. *Julianus, On Urseius Ferox, Book III.*
 
 I, being ignorant of the fact, purchased my own slave from you, and paid
 you the money for him. I am perfectly convinced that I am entitled to an
@@ -2812,7 +2768,7 @@ action against you for the recovery of the money, and that such a suit
 can be brought against you for that purpose, whether you knew that the
 slave was mine, or were not aware of it.
 
-\38. *Africanus, Questions, Book IX.*
+38. *Africanus, Questions, Book IX.*
 
 Where two brothers were under the control of the same party and one of
 them borrowed money from the other and paid it to him after the death of
@@ -2842,7 +2798,7 @@ certain portion of it; and hence, as he could defend himself against a
 stranger, much more should he be indemnified against what he owed his
 brother.
 
-\(1) The question has been asked whether, where a father lends money to
+(1) The question has been asked whether, where a father lends money to
 his son and the latter pays it after being emancipated, he can bring an
 action for the recovery of the same? The answer was that if no part of
 the *peculium *remains in the possession of the father, an action cannot
@@ -2850,7 +2806,7 @@ be brought by the son, and what proves that the natural obligation still
 exists is that if a stranger brought an action *De peculio* within a
 year, the father could deduct what the son owed him.
 
-\(2) On the other hand, where a father owed money to his son and paid
+(2) On the other hand, where a father owed money to his son and paid
 the latter after he has been emancipated, he cannot recover it; for it
 is proved by the same argument that the natural obligation still exists
 in this instance, because if a stranger should bring an action *De
@@ -2860,11 +2816,11 @@ father owes him.
 The same rule applies where a foreign heir pays a disinherited son what
 his father owed him.
 
-\(3) I received security for a legacy, when the surety paid me it
+(3) I received security for a legacy, when the surety paid me it
 appeared that I had no right to the legacy; and it was held that the
 surety could recover the money by an action.
 
-\39. *Marcianus, Institutes, Book VIII.*
+39. *Marcianus, Institutes, Book VIII.*
 
 Where anyone, when he can have security furnished him by the beneficiary
 of a trust, does not do so; the Divine Severus and Antoninus
@@ -2872,7 +2828,7 @@ of a trust, does not do so; the Divine Severus and Antoninus
 stated in a Rescript that he can bring an action to recover whatever he
 has paid over and above the amount.
 
-\40. *The Same, Rules, Book III.*
+40. *The Same, Rules, Book III.*
 
 Where anyone is entitled to a perpetual exception, he has a right of
 action to recover anything paid by mistake; this, however, is not
@@ -2886,7 +2842,7 @@ parental control borrows money against the Macedonian Decree of the
 Senate, and afterwards, having become his own master, pays it, he cannot
 bring an action to recover the same.
 
-\(1) Where a part of a house is left in trust from a certain day, and
+(1) Where a part of a house is left in trust from a certain day, and
 before the time when the trust vests, it burns, and the heir rebuilds it
 at his own expense, it is established that the expense of the same must
 be deducted from the amount included in the trust; and if the heir
@@ -2894,43 +2850,43 @@ delivers the house without deducting the said expense, an action may be
 brought for the recovery of an uncertain amount on the ground that the
 heir paid more than was due.
 
-\(2) If a patron enters into an agreement with his freedman that suit
+(2) If a patron enters into an agreement with his freedman that suit
 shall not be brought against him for services, and anything should
 afterwards be paid by the freedman, suit may be brought to recover the
 same.
 
-\41. *Neratius, Parchments, Book VI.*
+41. *Neratius, Parchments, Book VI.*
 
 Where a ward, without the consent of his guardian, promises in a
 stipulation to make payment and does so, he will have a right of action
 for recovery; for the reason that he did not owe the money even under
 natural law.
 
-\42. *Ulpianus, On the Edict, Book LXVIII.*
+42. *Ulpianus, On the Edict, Book LXVIII.*
 
 It is not customary for penal sums which have been paid to be recovered
 by an action.
 
-\43. *Paulus, On Plautius, Book III.*
+43. *Paulus, On Plautius, Book III.*
 
 Where a party swears that he is not obliged to pay, all controversy is
 terminated, and it must be stated that, in this instance, money which
 has been paid can be recovered.
 
-\44. *The Same, On Plautius, Book XIV.*
+44. *The Same, On Plautius, Book XIV.*
 
 An action for recovery cannot be brought against the party who has
 received that which is his own; even though payment was made by another
 person than the real debtor.
 
-\45. *Javolenus, On Plautius, Book II.*
+45. *Javolenus, On Plautius, Book II.*
 
 Where a party sold an estate and transferred it to the purchaser, but
 failed to retain what the deceased owed him, he can bring an action for
 its recovery; as anything which is paid in excess of what is due can
 properly be recovered by a personal action.
 
-\46. *The Same, On Plautius, Book IV.*
+46. *The Same, On Plautius, Book IV.*
 
 A party who pays in the name of the heir and with money belonging to the
 heir, legacies which are not due, cannot himself bring an action for the
@@ -2940,7 +2896,7 @@ can properly bring suit to recover it.
 
 The same rules apply to corporeal property of all kinds.
 
-\47. *Celsus, Digest, Book VI.*
+47. *Celsus, Digest, Book VI.*
 
 You promised, through a mistake, to pay money which was not due, and the
 party who was your surety paid it. I am of the opinion that, if the
@@ -2955,31 +2911,31 @@ which he can recover from the party whom he paid, this he can recover
 from you by an action on mandate; provided he who was bringing suit in
 ignorance of the facts should not be barred by an exception.
 
-\48. *The Same, Digest, Book VI.*
+48. *The Same, Digest, Book VI.*
 
 Where anyone promises that, if something is done by him or when it has
 been done, he will pay ten *aurei*, and he pays the sum that he promised
 before the act is performed; he will not be held to have done what he
 promised, and therefore he can bring an action to recover the money.
 
-\49. *Modestinus, Rules, Book III.*
+49. *Modestinus, Rules, Book III.*
 
 Suit can be brought for the recovery of money only against those to whom
 the money has been in some way paid, and not against those whom the
 payment benefits.
 
-\50. *Pomponius, On Quintus Mucius, Book V.*
+50. *Pomponius, On Quintus Mucius, Book V.*
 
 Where anyone knowingly pays what he does not owe with the intention of
 afterwards bringing suit to recover it, he has no right of action.
 
-\51. *The Same, On Quintus Mucius, Book VI.*
+51. *The Same, On Quintus Mucius, Book VI.*
 
 In those cases in which we have a right of retention of property but no
 right of action to recover the same, if we deliver said property we
 cannot sue to recover it.
 
-\52. *The Same, On Quintus Mucius, Book XXVII.*
+52. *The Same, On Quintus Mucius, Book XXVII.*
 
 We make payment either for a good reason or for a purpose, and the
 reason may depend upon what has already passed, for example, where I
@@ -2990,7 +2946,7 @@ nonexistent, no action will lie for the recovery of the money; but
 payment for a purpose is made where some act is to be performed, and if
 this does not take place, a suit for the recovery of the money will lie.
 
-\53. *Proculus, Epistles, Book VII.*
+53. *Proculus, Epistles, Book VII.*
 
 A master gave his slave freedom by his will, on condition of his paying
 ten *aurei*, and the slave, not knowing that the will was void, paid me
@@ -3005,12 +2961,12 @@ can bring an action for its recovery; but a more indulgent, as well as a
 more practical method would be for the party who paid the money to
 himself recover what belongs to him directly from me.
 
-\54. *Papinianus, Questions, Book II.*
+54. *Papinianus, Questions, Book II.*
 
 Where payment is made through mistake, on grounds which are not valid in
 law or have no force or effect, an action for recovery can be brought.
 
-\55. *The Same, Questions, Book VI.*
+55. *The Same, Questions, Book VI.*
 
 Where a depredator rents urban estates, what he receives as rent cannot
 be recovered in an action by the party who paid it, but the trespasser
@@ -3027,7 +2983,7 @@ so that it is usually held that suit can be brought to recover the
 profits from a trespasser, and this only can take place where the
 profits belonged to the owner.
 
-\56. *The Same, Questions, Book VIII.*
+56. *The Same, Questions, Book VIII.*
 
 It is sufficient to establish a case of money not due where it is
 uncertain whether the defence based on an exception is temporary or
@@ -3043,13 +2999,13 @@ debtor made payment at the appointed time; so it is evident that where
 there is a lawful defence which is based on an uncertain ground a
 conditional obligation exists.
 
-\57. *The Same, Opinions, Book III.*
+57. *The Same, Opinions, Book III.*
 
 With reference to the next payment in the name of a boy who has not
 reached puberty, the latter has a right of action for the recovery of
 the money.
 
-\(1) When a creditor directs that a debt shall be paid to his agent, in
+(1) When a creditor directs that a debt shall be paid to his agent, in
 this instance, if more money is paid than was due, the agent will be
 liable to an action for the payment of what was not owing; but if the
 creditor, when appointing someone to receive payment, expressly
@@ -3058,7 +3014,7 @@ money paid which was not due will lie against the party who appointed
 him, and the right of action will not be held to be taken away if suit
 is brought against the said agent in vain.
 
-\58. *The Same, Answers, Book IX.*
+58. *The Same, Answers, Book IX.*
 
 A testator left a trust to a manumitted slave in such a way that he
 obtained his freedom by the will; and after he had received the money
@@ -3066,7 +3022,7 @@ without applying to the court, he was pronounced to be freeborn. As the
 money left under the trust was not due, an action will lie for the
 recovery.
 
-\59. *The Same, Definitions, Book II.*
+59. *The Same, Definitions, Book II.*
 
 Where a surety who is legally released pays money through mistake, he
 will not be prevented from bringing an action for its recovery; but if
@@ -3075,7 +3031,7 @@ he cannot bring suit to recover, since the first payment, which was
 void, does not dissolve a natural or a civil obligation if the principal
 debtor was liable.
 
-\60. *Paulus, Questions, Book III.*
+60. *Paulus, Questions, Book III.*
 
 Julianus denied that a debtor who actually owed money could bring an
 action for its recovery after issue had been joined and while the suit
@@ -3086,7 +3042,7 @@ states that his case would be similar to that of a party who promised
 that he would pay whether a certain ship came, or did not come from
 Asia, since occasion for payment arises from either ground.
 
-\(1) Where, however, a party who owes money absolutely, promises to pay
+(1) Where, however, a party who owes money absolutely, promises to pay
 it under a certain condition, with a view to renewal; many authorities
 hold that, if the money is paid while the renewal is pending, an action
 can be brought for its recovery, because it is still uncertain under
@@ -3101,7 +3057,7 @@ intention of renewing the contract. The cases, however, are not similar;
 as in that of the absolute and conditional stipulation, it is certain
 that the same party will be indebted.
 
-\61. *Scævola, Opinions, Book V.*
+61. *Scævola, Opinions, Book V.*
 
 The guardians of a ward paid certain creditors of his father out of the
 estate of the latter, but afterwards, the property not proving to be
@@ -3113,14 +3069,14 @@ due to the guardians or to the ward, but that they were liable to the
 other creditors for the amount of the excess of the debts which had been
 paid.
 
-\62. *Mæcianus, Trusts, Book IV.*
+62. *Mæcianus, Trusts, Book IV.*
 
 Where a trust has been inserted into a stipulation, even though it was
 not due, still, because it has been promised for the purpose of
 complying with an obligation by a party who was aware of the facts, it
 is due and payable according to law.
 
-\63. *Gaius, Cases.*
+63. *Gaius, Cases.*
 
 Neratius speaks of a possible case where a party who could not sue to
 recover what he had given, on the ground that he had discharged a debt,
@@ -3130,7 +3086,7 @@ condition; for, in this instance he is not released because he does not
 make the said slave the absolute property of the stipulator; still, he
 cannot recover him because he was paying a debt.
 
-\64. *Tryphoninus, Disputations, Book VII.*
+64. *Tryphoninus, Disputations, Book VII.*
 
 Where a master owed money to his slave and paid him after he was
 manumitted, he cannot bring an action for its recovery; even though he
@@ -3141,7 +3097,7 @@ question as to whether a debt exists or not together with the right of
 action for its recovery, must be considered with reference to natural
 law.
 
-\65. *Paulus, On Plautius, Book XVII.*
+65. *Paulus, On Plautius, Book XVII.*
 
 In order that we may discuss the recovery of property by law in general
 terms, it must be understood that property is either delivered on
@@ -3150,20 +3106,20 @@ with some condition, or for some act to be performed, or where there is
 no indebtedness; and in all these instances the question arises with
 reference to the recovery of the property.
 
-\(1) And, in fact, with reference to its delivery on account of a
+(1) And, in fact, with reference to its delivery on account of a
 compromise, if there is not good reason for it, no action will lie for
 its recovery, since if there was a contest, the fact that the contest
 has been abandoned is held to be a good ground; but where evident fraud
 is disclosed and the compromise is void, the action for recovery will be
 granted.
 
-\(2) Moreover, where something is given for a past consideration, for
+(2) Moreover, where something is given for a past consideration, for
 example, because I thought that I had been assisted in my business by
 the person in question, although this was not true; then, for the reason
 that I wished to make him a gift, notwithstanding I was laboring under a
 false impression, an action for the recovery of the gift will not lie.
 
-\(3) I can, however, proceed by a personal action on account of a
+(3) I can, however, proceed by a personal action on account of a
 condition upon which the payment of a legacy or the transfer of an
 estate is dependent, even though no legacy was left me, or, if it was, I
 was deprived of it, so that I can bring suit for the recovery of what I
@@ -3177,40 +3133,40 @@ was appointed an heir under a condition and I give something, and
 afterwards, the slave having been manumitted, enters upon the estate;
 for in this instance the object is attained.
 
-\(4) What is given in consideration of an act to be performed confers a
+(4) What is given in consideration of an act to be performed confers a
 right of action in accordance with what is proper and just; as, for
 instance, if I give you something in order that you may perform some
 act, and you do not perform it.
 
-\(5) Where a party brings suit for the recovery of something which is
+(5) Where a party brings suit for the recovery of something which is
 not due, the profits and the offspring of female slaves that were given
 must also be returned, after all expenses have been deducted.
 
-\(6) Where grain has been delivered which was not due, its quality must
+(6) Where grain has been delivered which was not due, its quality must
 be taken into consideration; and if the party has consumed it, an action
 can be brought for its value.
 
-\(7) In like manner, where lodgings were given, I can bring an action
+(7) In like manner, where lodgings were given, I can bring an action
 for the money, not indeed for the amount for which I could have rented
 them, but for the amount for which you would have rented them.
 
-\(8) Where I delivered you a slave that I did not owe you, and you
+(8) Where I delivered you a slave that I did not owe you, and you
 manumitted him, if you did this knowingly you will be liable for his
 value, but if you did it ignorantly, you will not be liable; but you
 must make good the value of his services as a freedman, and transfer any
 estate obtained through him.
 
-\(9) Payment is not due, not only where it is absolutely not owing, but
+(9) Payment is not due, not only where it is absolutely not owing, but
 also where it is owing to another and is paid to a third party, or where
 what one man owes another he pays as if he himself owed it.
 
-\66. *Papinianus, Questions, Book VIII.*
+66. *Papinianus, Questions, Book VIII.*
 
 This suit, based on justice and equity, is ordinarily employed for the
 recovery of property which belongs to one party and is found in the
 possession of another without any right to the same.
 
-\67. *Scævola, Digest, Book V.*
+67. *Scævola, Digest, Book V.*
 
 Stichus, having received his freedom under the will of the party whom he
 thought to be his owner, on condition that, for ten years after the
@@ -3225,12 +3181,12 @@ paid had not been obtained either by his own labor or through the
 property of him whom he had served in good faith, an action could be
 brought for the recovery of the same.
 
-\(1) A guardian paid a larger sum than was due to the creditor of his
+(1) A guardian paid a larger sum than was due to the creditor of his
 ward, and did not give himself credit when he brought an action on
 guardianship; I ask whether he would have a right of action for recovery
 against the creditor? The answer was that he would.
 
-\(2) Titius, who had many creditors, among whom was Seius, having
+(2) Titius, who had many creditors, among whom was Seius, having
 privately transferred his property to Mævius by a sale, with the
 understanding that the latter would satisfy his creditors, Mævius paid
 to Seius, as if it was owing to him, money which had already been paid
@@ -3242,13 +3198,13 @@ had been appointed agent in his own behalf? The answer was that, in
 accordance with what had been stated, the party who paid last had the
 right of action.
 
-\(3) The same individual asked whether the agreement which it was
+(3) The same individual asked whether the agreement which it was
 customary to insert in the settlement of accounts, namely, that there
 should be no further controversy between the parties growing out of the
 said contract would bar the action for recovery. The answer was that
 nothing was stated which would render it a bar.
 
-\(4) Lucius Titius lent to Gaius Seius, who was under twenty-five years
+(4) Lucius Titius lent to Gaius Seius, who was under twenty-five years
 of age, a certain sum of money, and received from him a certain sum as
 interest. The heir of Gaius Seius, the minor, obtained from the Governor
 of the province an order for complete restitution against Publius Mævius
@@ -3266,11 +3222,9 @@ interest. I ask also, since you think that an action cannot be brought
 for recovery, whether the heir can retain the interest out of some other
 debt. The answer was "No, not even that."
 
-TITLE VII.
+* 12.VII. CONCERNING AN ACTION FOR RECOVERY WITHOUT GROUND.
 
-CONCERNING AN ACTION FOR RECOVERY WITHOUT GROUND.
-
-\1. *Ulpianus, On Sabinus, Book XL1II.*
+1. *Ulpianus, On Sabinus, Book XL1II.*
 
 There is also the following kind of a personal action for recovery where
 anyone makes a promise without consideration, or where he pays something
@@ -3278,21 +3232,21 @@ that was not due. Where a party makes a promise without consideration,
 he cannot bring an action for an amount which he did not give, but only
 for the obligation itself.
 
-\(1) But even though he may have promised for a consideration but the
+(1) But even though he may have promised for a consideration but the
 consideration did not take effect, it must be held that there would be
 ground for an action for recovery.
 
-\(2) Whether the promise was made without consideration in the
+(2) Whether the promise was made without consideration in the
 beginning, or in consideration of a promise which is terminated, or did
 not take effect, it must be said that there will be ground for an action
 for recovery.
 
-\(3) It is established that a suit for recovery can be brought against
+(3) It is established that a suit for recovery can be brought against
 the party only where the property came into his possession without a
 valid consideration, or for some consideration which has ceased to be
 valid.
 
-\2. *The Same, On the Edict, Book XXXII.*
+2. *The Same, On the Edict, Book XXXII.*
 
 Where a fuller made a contract to clean some clothes, and the clothes
 being lost, he is sued on the contract and pays their value to the
@@ -3306,14 +3260,13 @@ unless, indeed, we can hold that an action for recovery can be brought
 on the ground that the money was paid without any consideration, for the
 clothes having been found, this would seem to be the case.
 
-\3. *Julianus, Digest, Book VIII.*
+3. *Julianus, Digest, Book VIII.*
 
 Where parties bind themselves without any reason for doing so, they can
 obtain a release by means of a suit brought for an uncertain amount, and
 it makes no difference whether the party contracted the entire
 obligation without any ground, or a greater one than there was any
 necessity for; unless, indeed, the proceedings brought to release
-
 him from every obligation whatsoever are different from those brought to
 discharge him from liability for part of the obligation; for example,
 where a party promised to pay ten *aurei*, for, if he had no reason to
@@ -3323,13 +3276,13 @@ ten *aurei* when he ought only to have promised five, he can, by means
 of an action for an uncertain amount, secure his release from the
 payment of five.
 
-\4. *Africanus, Questions, Book VIII.*
+4. *Africanus, Questions, Book VIII.*
 
 It is of no consequence whether something was given in the beginning
 without consideration, or whether it was given for a consideration which
 did not take place.
 
-\5. *Papinianus, Questions, Book XI.*
+5. *Papinianus, Questions, Book XI.*
 
 Where a woman who was about to be married to a maternal uncle, gave a
 sum of money as dowry, but did not marry him, the question arose whether
@@ -3344,10 +3297,9 @@ considered was not so much that the consideration was immoral, as that
 there was no consideration at all; since the money which was paid could
 not be converted into a dowry, as it was paid not for the purpose of
 unlawful cohabitation but on account of
-
 matrimony.
 
-\(1) A stepmother paid a sum of money as dowry for her marriage to her
+(1) A stepmother paid a sum of money as dowry for her marriage to her
 stepson, and a daughter-in-law also did this for her marriage to her
 father-in-law, and neither marriage took place. It would seem at first
 view that an action for recovery of the money would not lie, since an

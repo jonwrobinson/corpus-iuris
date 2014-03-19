@@ -615,6 +615,7 @@ Quam modiationem iugiter et in perpetuum civibus nostris debere conferri valitur
 * 11.26.0. De mendicantibus validis.
 
 11.26.1: Imperatores Gratianus, Valentinianus, Theodosius
+11.26(25).1
 
 Cunctis adfatim, quos in publicum quaestum incerta mendicitas vocabit, inspectis exploretur in singulis et integritas corporum et robur annorum, atque inertibus et absque ulla debilitate miserandis necessitas inferatur, ut eorum quidem, quos tenet condicio servilis, proditor studiosus et diligens dominium consequatur, eorum vero, quos natalium sola libertas prosequatur, colonatu perpetuo fulciatur, quisquis huiusmodi lenitudinem prodiderit ac probaverit: salva dominis actione in eos, qui vel latebram forte fugitivis vel mendicitatis subeundae consilium praestiterunt. * grat. valentin. et theodos. aaa. ad severum pu. *<a 382 d. xii k. iul. patavi antonio et syagrio conss.>
 

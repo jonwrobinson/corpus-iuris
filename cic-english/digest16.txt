@@ -1,15 +1,14 @@
 # -*- mode: org -*-
 
-BOOK XVI.
-
-** TITLE I. ON THE VELLEIAN DECREE OF THE SENATE
-** TITLE II. CONCERNING SET-OFF
-** TITLE III. CONCERNING THE DIRECT AND CONTRARY ACTIONS ON DEPOSIT
+* BOOK XVI.
++ 16.I. ON THE VELLEIAN DECREE OF THE SENATE
++ 16.II. CONCERNING SET-OFF
++ 16.III. CONCERNING THE DIRECT AND CONTRARY ACTIONS ON DEPOSIT
 
 
 THE DIGEST OR PANDECTS. BOOK XVI.
 
-* TITLE I. ON THE VELLEIAN DECREE OF THE SENATE.
+* 16.I. On the Velleian Decree of the Senate.
 
 1. *Paulus, On the Edict, Book XXX.*
 
@@ -707,7 +706,7 @@ obligates herself for a slave belonging to another, but her obligation
 will be extinguished if the action should be restored against the master
 of the slave.
 
-* TITLE II. Concerning Set-Off.
+* 16.II. Concerning Set-Off.
 
 1. *Modestinus, Pandects, Book VI.*
 
@@ -921,7 +920,7 @@ The Emperor ordered that a party should be heard who desired to prove
 that an amount was owing to him from the Treasury equal to that for
 which he himself was sued.
 
-* TITLE III. Concerning the Direct and Contrary Actions On Deposit.
+* 16.III. Concerning the Direct and Contrary Actions On Deposit.
 
 1. *Ulpianus, On the Edict, Book XXX.*
 
@@ -1695,18 +1694,7 @@ of property deposited with you, the said property becomes yours.
 
 31. *Tryphoninus, Disputations, Book IX.*
 
-Good faith, which is required in contracts, demands the greatest degree
-of equity; but should we estimate that equity with reference to the Law
-of Nations, or in accordance with civil and prætorian precepts? For
-instance, a party accused of a capital crime deposited a hundred *aurei
-*with you, he was banished, and his property confiscated. Should the
-deposit of this money be returned to him, or be placed in the Public
-Treasury? If we only have in view the Law of Nature and of Nations, it
-should be returned to him who gave it; but if the Civil Law and the
-provisions of legal enactments are considered, it must be turned over to
-the Public Treasury, for he who has deserved ill of the people should be
-oppressed by poverty, in order to serve as an example to others for the
-prevention of crime.
+Good faith, which is required in contracts, demands the greatest degree of equity; but should we estimate that equity with reference to the Law of Nations, or in accordance with civil and prætorian precepts? For instance, a party accused of a capital crime deposited a hundred *aurei* with you, he was banished, and his property confiscated. Should the deposit of this money be returned to him, or be placed in the Public Treasury? If we only have in view the Law of Nature and of Nations, it should be returned to him who gave it; but if the Civil Law and the provisions of legal enactments are considered, it must be turned over to the Public Treasury, for he who has deserved ill of the people should be oppressed by poverty, in order to serve as an example to others for the prevention of crime.
 
 (1) Another point comes up here for examination, that is, whether we
 should hold that good faith ought to be limited to the parties who have

@@ -1,19 +1,15 @@
 # -*- mode: org -*-
 
-THE DIGEST OR PANDECTS. BOOK XXIII.
+* BOOK XXIII.
++ 23.I. CONCERNING BETROTHALS
++ 23.II. CONCERNING THE CEREMONY OF MARRIAGE
++ 23.III. CONCERNING THE LAW OF DOWRY
++ 23.IV. CONCERNING DOTAL AGREEMENTS
++ 23.V. CONCERNING LAND GIVEN BY WAY OF DOWRY
 
 
+* 23.I. CONCERNING BETROTHALS.
 
-BOOK XXIII.
-TITLE I. CONCERNING BETROTHALS ......................................... 241
-TITLE II. CONCERNING THE CEREMONY OF MARRIAGE.......................... 244
-TITLE III. CONCERNING THE LAW OF DOWRY.................................. 261
-TITLE IV. CONCERNING DOTAL AGREEMENTS .................................. 288
-TITLE V. CONCERNING LAND GIVEN BY WAY OF DOWRY ....................... 297
-
-
-
-TITLE I. CONCERNING BETROTHALS.
 1. Florentinus, Institutes, Book III.
 A betrothal is the mention and promise of a marriage to be celebrated
 hereafter.
@@ -77,8 +73,9 @@ place, so far as he is concerned.
 In contracting a betrothal, there is no limit to the age of the parties, as is
 the case in marriage. Wherefore, a betrothal can be made at a very early age,
 provided what is being done is understood by both persons, that is to say,
-where they are not under seven years of age.1
-1 A betrothal contracted in behalf of a female less than seven years old, and
+where they are not under seven years of age.[1]
+
+[1] A betrothal contracted in behalf of a female less than seven years old, and
 said to be made in cunabulis (in the cradle) or a marriage celebrated in
 consequence of it, was void by the Canon Law: "Desponsationes hujusmodi nullae
 sint quae in cunabulis fiunt." (Decretalium Gregorii Papae IX, Compilatio, IV,
@@ -86,22 +83,7 @@ II, 4.) These engagements were divided by ecclesiastical authorities into two
 classes: sponsalia per verba de praesenti, which at once constituted an union
 scarcely less indissoluble than that which had been actually consummated by
 sexual intercourse; and sponsalia per verba de futuro, whereby a promise was
-given to marry at
-15. The Same, Selected Cases.
-A guardian cannot himself marry his own ward, nor can he unite her in marriage
-with his son. It must be noted, however, that although we are treating of
-marriage, this rule also applies to betrothals.
-16. Ulpianus, On the Lex Julia et Papia, Book III.
-A Rescript of the Emperors Antoninus and Commodus which forbade senators to
-marry certain persons, did not mention anything with reference to betrothals;
-still, it is properly held that betrothals made under such conditions are void
-by operation of law; in order to supply what is lacking in the Rescript.
-17. Gaius, On the Lex Julia et Papia, Book I.
-Just and necessary reasons often exist for protracting a betrothal, for one,
-two, three, or four years, and even for a longer time; as, for instance, the
-illness of either of the parties, the death of their parents, accusations of
-capital crimes, or long journeys made through necessity.
-some future time. This distinction, however, was not recognized until the
+given to marry at some future time. This distinction, however, was not recognized until the
 twelfth century. The former contract was considered so binding that, even if
 before physical union had taken place the woman should marry another man, and
 the marriage be consummated, she must be returned to him to whom she had
@@ -138,25 +120,7 @@ specifically excluded, and the courts are forbidden to take cognizance of cases
 founded upon claims of this description. Where, however, a betrothal has taken
 place between persons of legal capacity, or with the consent of those to whose
 authority they are subject, and the contract is repudiated by one of them
-without just cause,
-18. Ulpianus, On the Edict, Book VI.
-It makes little difference, in the contracting of betrothals, whether this is
-done by the parties in the presence of one another, or by means of an
-intermediary, or in writing, or in some other way; and very frequently the
-conditions of marriages are settled by the agency of others than those chiefly
-interested.
-TITLE II. CONCERNING THE CEREMONY OF MARRIAGE.
-1. Modestinus, Rules, Book I.
-Marriage is the union of a man and a woman, forming an association during their
-entire lives, and involving the common enjoyment of divine and human
-privileges.
-2. Paulus, On the Edict, Book XXXV.
-Marriage cannot take place unless all the parties consent, that is to say those
-who are united, as well as those under whose authority they are.1
-3. The Same, On Sabinus, Book I.
-If I have a grandson derived from one of my sons, and a granddaughter derived
-from another, under my control, Pomponius says that
-he will be compelled to make good to the other all expenses incurred in
+without just cause, he will be compelled to make good to the other all expenses incurred in
 consequence. "Las esponsales de futuro no producen obligati२n de contraer
 matrimonio. Ningun Tribunेl admitirे demanda en que se pretenda su
 cumplimiento." (C२digo Civil de Espa०a, Arts. 43, 44.)
@@ -167,16 +131,16 @@ parties may provide for community or separation of property; for the bestowal
 of a dowry or its omission; or the contract may be simply executed in
 accordance with the customs of the Kingdom. The woman may reserve for her own
 individual use a sum not exceeding one-third of the net income of her estate,
-where a community of goods is agreed upon. "Estas convenॉoes na४ terॅo
-validade, se na४ forem celebradas em escritura publica." "As convencoes ante-
-nupciaes nॅo podem ser revogadas nem alteradas por nova convencॅo, depois da
-celebracॅo do casamento." (C२digo Civil Portugu।z, Arts 1097, 1105.)
+where a community of goods is agreed upon. "Estas convençoes naõ terão
+validade, se naõ forem celebradas em escritura publica." "As convencoes ante-
+nupciaes não podem ser revogadas nem alteradas por nova convencão, depois da
+celebracão do casamento." (Código Civil Portuguêz, Arts 1097, 1105.)
 The Italian law resembles the French in its application where seduction is
 involved, and the Spanish in its provision for the reimbursement of expenses to
 the injured party. The demand for this, however, must be made within a year
 after the time when the promise should have been fulfilled. "La promessa
 scambievole di futuro matrimonio non produce obbligazione legale di contrario
-n् di esequire ci१ che si fosse cenvenuto pel caso di non adempimento della
+nè di esequire ciò che si fosse cenvenuto pel caso di non adempimento della
 medesima." "La demanda per१ non e piu amissibile dopo un anno dal giorno in cui
 la promusa doveva essere eseguita." (Codice Civile del Regno d'ltalia, Arts.
 53, 54.)
@@ -184,30 +148,75 @@ In the United States, the facility with which promises to marry may be made and
 broken are, as is well known, the prolific cause of much vexatious litigation,
 frequently conducive to blackmail, extortion, perjury, and a scandalous
 perversion of justice. --- ED.
-1 "Consensus non cencubitus facit matrimonium; et consentire non possunt ante
+
+15. The Same, Selected Cases.
+A guardian cannot himself marry his own ward, nor can he unite her in marriage
+with his son. It must be noted, however, that although we are treating of
+marriage, this rule also applies to betrothals.
+
+16. Ulpianus, On the Lex Julia et Papia, Book III.
+A Rescript of the Emperors Antoninus and Commodus which forbade senators to
+marry certain persons, did not mention anything with reference to betrothals;
+still, it is properly held that betrothals made under such conditions are void
+by operation of law; in order to supply what is lacking in the Rescript.
+
+17. Gaius, On the Lex Julia et Papia, Book I.
+Just and necessary reasons often exist for protracting a betrothal, for one,
+two, three, or four years, and even for a longer time; as, for instance, the
+illness of either of the parties, the death of their parents, accusations of
+capital crimes, or long journeys made through necessity.
+
+18. Ulpianus, On the Edict, Book VI.
+It makes little difference, in the contracting of betrothals, whether this is
+done by the parties in the presence of one another, or by means of an
+intermediary, or in writing, or in some other way; and very frequently the
+conditions of marriages are settled by the agency of others than those chiefly
+interested.
+
+* 23.II. CONCERNING THE CEREMONY OF MARRIAGE.
+
+1. Modestinus, Rules, Book I.
+Marriage is the union of a man and a woman, forming an association during their
+entire lives, and involving the common enjoyment of divine and human
+privileges.
+
+2. Paulus, On the Edict, Book XXXV.
+Marriage cannot take place unless all the parties consent, that is to say those
+who are united, as well as those under whose authority they are.[1]
+
+[1] "Consensus non cencubitus facit matrimonium; et consentire non possunt ante
 annos nubiles." --- ED.
-my consent will be sufficient to enable marriage to be contracted between them;
+
+3. The Same, On Sabinus, Book I.
+If I have a grandson derived from one of my sons, and a granddaughter derived
+from another, under my control, Pomponius says that my consent will be sufficient to enable marriage to be contracted between them;
 which is correct.
+
 4. Pomponius, On Sabinus, Book III.
 Where a girl under twelve years of age is married, she will not be a lawful
 wife until she has reached that age while living with her husband.
+
 5. The Same, On Sabinus, Book IV.
 It is settled that a woman can be married to a man who is absent either by
 means of a letter, or through a messenger, if she is afterwards conducted to
 his house. If she remains absent, however, she cannot be married, either by
 letter or by messenger; for she must be brought, not to her own house, but to
 that of her husband, since this is, as it were, the domicile of matrimony.
+
 6. Ulpianus, On Sabinus, Book XXXV.
 Finally Cinna says that, where a man marries a woman who is absent and then,
 returning from a banquet on the other side of the Tiber, loses his life; it is
 held that his wife should mourn for him.
+
 7. Paulus, On the Lex Falcidia.
 Therefore, it could happen in this instance that a virgin might be entitled to
 her dowry and an action to recover the same.
+
 8. Pomponius, On Sabinus, Book V.
 A freedman cannot marry either his mother or his sister, who has been liberated
 from slavery, because the rule forbidding this is founded upon good morals and
 not upon law.
+
 9. Ulpianus, On Sabinus, Book XXVI.
 Where a grandfather is insane and his grandson wishes to marry, the consent of
 his father will be absolutely necessary; but if his father should be insane,
@@ -215,18 +224,21 @@ the consent of his grandfather will be sufficient, if the latter is of sound
 mind.
 (1) A son can marry if his father is in the hands of the enemy, and does not
 return within three years.
+
 10. Paulus, On the Edict, Book XXXV.
 It is doubtful what course to pursue where the father is absent, and it is not
 known where he is, or even whether he is still alive. If three years should
 elapse from the time when the father's whereabouts or whether he was living
 began to be unknown, his children of both sexes will not be prevented from
 legally contracting marriage.
+
 11. Julianus, Digest, Book LXIII.
 Where the child of a man who is in captivity or who is absent marries before
 the three years of captivity or absence have elapsed, I
 think that the marriage will be legally contracted; provided that either the
 son or the daughter should marry a person whose condition will certainly not be
 offensive to the father.
+
 12. Ulpianus, On Sabinus, Book XXVI.
 If I have a wife, and, after having been repudiated by me, she marries Seius,
 whom I subsequently adopt, the marriage is not incestuous.
@@ -242,10 +254,12 @@ as no one becomes an uncle by adoption. Those relationships are only formed by
 adoption which are legitimate, that is to say, which possess the rights of
 agnation. On the same principle, I can marry the sister of my adoptive father,
 if she was not born of the same mother as he.
+
 13. The Same, On Sabinus, Book XXXV.
 Where a patroness is so degraded that she even thinks that marriage with her
 freedman is honorable, it should not be prohibited by a judge to whom
 application is made to prevent it.
+
 14. Paulus, On the Edict, Book XXXV.
 Where an adopted son is emancipated, he cannot marry the widow of his adoptive
 father, because she occupies the position of a stepmother.
@@ -274,12 +288,9 @@ always better and more decent to avoid marriages of this kind.
 mother-in-law, and daughter-in-law, in order that we may ascertain whom it is
 illegal to marry. Certain authorities understand a stepmother to be the wife of
 the father, a daughter-in-law the wife of the son, and a stepdaughter the child
-of the wife by a former
-husband.
+of the wife by a former husband.
 So far, however, as the present subject is concerned, it is more correct to
-hold that a man cannot marry the wife of his grandfather, or his great-
-grandmother, therefore there are two, or even several, stepmothers whom he
-cannot marry. This is not to be wondered at, for an adopted son cannot marry
+hold that a man cannot marry the wife of his grandfather, or his great-grandmother, therefore there are two, or even several, stepmothers whom he cannot marry. This is not to be wondered at, for an adopted son cannot marry
 the widow of his natural, or adoptive father. Where his father has had several
 wives, he cannot marry any of them. Therefore the term "mother-in-law" not only
 applies to the mother of my wife, but also to her grandmother, and great-
@@ -291,9 +302,11 @@ A stepdaughter is understood to be not only the daughter of my wife, but also
 to refer to her granddaughter and great-granddaughter; and I can marry none of
 them. Augustus decided that I cannot marry a woman whose mother has been
 betrothed to me, for she has occupied the position of my mother-in-law.
+
 15. Papinianus, Opinions, Book IV.
 A man cannot marry the former wife of his stepson, nor can a woman marry a man
 who was formerly the husband of her stepdaughter.
+
 16. Paulus, On the Edict, Book XXXV.
 It is provided by a Rescript of the Divine Marcus that, if the daughter of a
 senator should marry a freedman, the marriage will be void; and this was
@@ -303,6 +316,7 @@ granddaughter is to be married, the consent and authority of the grandfather
 will be sufficient.
 (2) Insanity prevents the contraction of marriage, because consent is
 necessary; but it does not annul it after it has been legally contracted.
+
 17. Gaius, On the Provincial Edict, Book XL
 Where the relationship of brother and sister has been acquired by adoption, it
 will be an impediment to their marriage while the adoption lasts; therefore I
@@ -316,9 +330,11 @@ advised to emancipate his son.
 paternal or maternal great-aunt; although the former are related to him in the
 fourth degree. We also forbid a man to marry his paternal aunt and great-aunt
 even though they are connected with us by adoption.
+
 18. Julianus, Digest, Book XVI.
 Marriage contracted between these persons is not legal, unless the relatives
 consent to it.
+
 19. Marcianus, Institutes, Book XVI.
 In the Thirty-fifth Section of the Lex Julia, persons who wrongfully prevent
 their children, who are subject to their authority, to marry, or who refuse to
@@ -326,58 +342,73 @@ endow them, are compelled by the proconsuls or governors of provinces, under a
 Constitution of the Divine Severus and Antoninus, to marry or endow their said
 children. They are also held to prevent their marriage where they do not seek
 to promote it.
+
 20. Paulus, On the Rescript of the Divine Severus and Commodus.
 It must be remembered that it is not one of the functions of a curator to see
 that his ward is married, or not; because his duties only relate to the
 transaction of business. This Severus and Antoninus stated in a Rescript in the
 following words: "It is the duty of a curator to manage the affairs of his
 ward, but the ward can marry, or not, as she pleases."
+
 21. Terentius Clemens, On the Lex Julia et Papia, Book III. A son under
 paternal control cannot be forced to marry.
+
 22. Celsus, Digest, Book XV.
 Where a son, being compelled by his father, marries a woman whom he would not
 have married if he had been left to the exercise of his own free will, the
 marriage will, nevertheless, legally be contracted; because it was not
 solemnized against the consent of the parties, and the son is held to have
 preferred to take this course.
+
 23. The Same, Digest, Book XXX.
 It is provided by the Lex Papia that all freeborn men, except senators and
 their children, can marry freedwomen.
+
 24. Modestinus, Rules, Book I.
 Where a man lives with a free woman, it is not considered concubinage but
 genuine matrimony, if she does not acquire gain by means of her body.
+
 25. The Same, Rules, Book II.
 A son who has been emancipated can marry without the consent of his father, and
 any son that he may have will be his heir.
+
 26. The Same, Opinions, Book V.
 Modestinus says that women accused of adultery cannot marry during the lifetime
 of their husbands, even before they have been convicted.
+
 27. Ulpianus, On the Lex Julia et Papia, Book III.
 Where a man of senatorial rank has as a wife a woman who has been manumitted,
 although, in the meantime, she may not legally be his wife, still, she occupies
 such a position that if he should lose his rank she will become his wife.
+
 28. Marcianus, Institutes, Book X.
 A patron cannot marry his freedwoman against her consent.
+
 29. Ulpianus, On the Lex Julia et Papia, Book III.
 It is stated that Ateius Capito, during his consulate, issued a decree of this
 kind. It must be observed, however, that this rule does not apply where a
 patron emancipated a female slave in order to marry her.
+
 30. Gaius, On the Lex Julia et Papia, Book II. A pretended marriage is of no
 force or effect.
+
 31. Ulpianus, On the Lex Julia et Papia, Book VI.
 Where a senator is permitted to marry a freedwoman by the consent of the
 Emperor, she will be his lawful wife.
+
 32. Marcellus, On the Lex Julia et Papia, Book I.
 It should be noted that where a freedman gives himself to be adopted by a man
 who is born free, although he obtains the rights of a freeborn person in the
 adoptive family, being a freedman, still, he will not be permitted to contract
 marriage with the daughter of a senator.
+
 33. The Same, On the Lex Julia et Papia, Book III.
 Many authorities hold that when a woman, after separation, returns to her
 husband, this is the same marriage. I assent to this opinion, provided they are
 reconciled before a long time has elapsed, and neither of them has married
 anyone in the meantime, and especially if the husband has not returned the
 dowry.
+
 34. Papinianus, Opinions, Book IV.
 Where a general commission has been given to a man by someone to seek a husband
 for his daughter, this is not sufficient ground for
@@ -393,17 +424,21 @@ common brother, the issue of the new marriage of their parents.
 (3) Where the daughter of a senator marries a freedman, this unfortunate act of
 her father does not render her a wife, for children should not be deprived of
 their rank on account of an offence of their parent.
+
 35. The Same, Opinions, Book VI.
 A son under paternal control, who is a soldier, cannot contract matrimony
 without the consent of his father.
+
 36. Paulus, Questions, Book V.
 A guardian or a curator cannot marry a grown woman who is committed to his
 care, unless she has been betrothed to, or intended for him by her father, or
 where the marriage takes place in accordance with some condition mentioned in
 his will.
+
 37. The Same, Opinions, Book VII.
 The freedman of a curator must be prevented from marrying the ward of the
 latter.
+
 38. The Same, Sentences, Book II.
 While anyone is discharging the duties of an office in a province, he cannot
 marry a woman who has either been born or resides therein, although he is not
@@ -415,26 +450,31 @@ whom he has previously been betrothed, if the dowry given is not about to be
 confiscated.
 (2) He who exercises a public office in a province is not prevented from
 marrying his daughters there, and bestowing dowries upon them.
+
 39. The Same, On Plautius, Book VI.
 I cannot marry the granddaughter of my sister, because I stand in the relation
 of a parent to her.
 (1) If anyone should take as a wife a woman whom he is forbidden by good morals
 to marry, he is said to commit incest.
+
 40. Pomponius, On Plautius, Book IV.
 Aristo gave it as his opinion that a man could not marry the daughter of his
 stepdaughter, any more than he could his stepdaughter herself.
+
 41. Marcellus, Digest, Book XXVI.
 It is understood that disgrace attaches to those women who live unchastely, and
 earn money by prostitution, even if they do not do so
 openly.
 (1) If a woman should live in concubinage with someone besides her patron, I
 say that she does not possess the virtue of the mother of a family.
+
 42. Modestinus, On the Rite of Marriage.
 In unions of the sexes, it should always be considered not only what is legal,
 but also what is decent.
 (1) If the daughter, granddaughter, or great-granddaughter of a senator should
 marry a freedman, or a man who practices the profession of an actor, or whose
 father or mother did so, the marriage will be void.
+
 43. Ulpianus, On the Lex Julia et Papia, Book I.
 We hold that a woman openly practices prostitution, not only where she does so
 in a house of ill-fame, but also if she is accustomed to do this in taverns, or
@@ -468,8 +508,18 @@ woman who had been convicted of a criminal offence, the accusation for which
 could be made by any of the people; unless he was prohibited by law from
 bringing such an accusation in court.
 (11) Where a woman has been publicly convicted of having made a false
-accusation, or prevarication,1 she is not held to have been convicted of a
+accusation, or prevarication,[1] she is not held to have been convicted of a
 criminal offence.
+
+[1] Prevaricatio, or the malicious betrayal of the confidence of another, and
+which had reference to a professional breach of faith committed by an attorney,
+through whose treachery his client's interests were injuriously affected, was
+afterwards classed with calumnia, or false accusation; and from being, in the
+first place, only applicable to those conducting civil cases, was ultimately
+held to include all persons guilty of the disclosure of confidential
+information while engaged in the prosecution of crime. The penalty remained
+unaltered. --- ED.
+
 (12) Where a woman is caught in adultery, she is considered to have been
 convicted of a criminal offence. Hence if she is proved to have been guilty of
 adultery, she will be branded with infamy, not only because she was caught
@@ -499,14 +549,6 @@ knowingly, or with malicious intent become betrothed to, or marry the daughter
 of a senator."
 (1) Under this head a senator is forbidden to marry a freedwoman whose father
 or mother has, at any time, exercised the profession of
-1 Prevaricatio, or the malicious betrayal of the confidence of another, and
-which had reference to a professional breach of faith committed by an attorney,
-through whose treachery his client's interests were injuriously affected, was
-afterwards classed with calumnia, or false accusation; and from being, in the
-first place, only applicable to those conducting civil cases, was ultimately
-held to include all persons guilty of the disclosure of confidential
-information while engaged in the prosecution of crime. The penalty remained
-unaltered. --- ED.
 an actor. A freedman is also forbidden to marry the daughter of a senator.
 (2) If the grandfather or grandmother of the woman belonged to the theatrical
 profession, this will not be an obstacle to the marriage.
@@ -531,6 +573,7 @@ honorably contracted, and children may already have been born.
 profession, she should be repudiated by her husband.
 (8) Senators cannot marry women whom other freeborn men are forbidden to take
 as wives.
+
 45. Ulpianus, On the Lex Julia et Papia, Book III.
 In that law which provides that where a freedwoman has been married to her
 patron, after separation from him she cannot marry another without his consent;
@@ -564,6 +607,7 @@ marriage of a freedwoman lasts even during the captivity of her patron, on
 account of the respect which she owes him. It is evident, however, that if her
 patron should be reduced to any other kind of servitude, the marriage would
 unquestionably be dissolved.
+
 46. Gaius, On the Lex Julia et Papia, Book VIII.
 Can it be doubted whether this law will apply where a patron marries a
 freedwoman in whom another party jointly has rights? Javolenus denies that it
@@ -572,12 +616,14 @@ who also is that of another. On the contrary, others hold that it cannot be
 denied that she is the freedwoman of one man, because she is also the
 freedwoman of another; and this opinion the majority of jurists have approved
 as correct.
+
 47. Paulus, On the Lex Julia et Papia, Book II.
 The daughter of a senator who has lived in prostitution, or has exercised the
-calling of an actress,1 or has been convicted of a criminal offence, can marry
+calling of an actress,[1] or has been convicted of a criminal offence, can marry
 a freedman with impunity; for she who has been guilty of such depravity is no
 longer worthy of honor.
-1 Members of the theatrical profession were considered infamous by the
+
+[1] Members of the theatrical profession were considered infamous by the
 ancients, and especially so by the Romans. There were two reasons for this:
 first, because actors were generally slaves or freedmen, and second, because
 the morals of those who appeared in these exhibitions were so debased as to
@@ -595,6 +641,7 @@ of the gilded youth of Italy even went so far as to have themselves judicially
 pronounced infamous, in order to appear as histriones, and by this means evade
 the severe penalty incurred by Roman citizens who voluntarily subjected
 themselves to such degradation. --- ED.
+
 48. Terentius Clemens, On the Lex Julia et Papia, Book VIII. The same legal
 rights are accorded to the son of a patron, in the
 marriage of a freedwoman belonging to his father, as are granted to the patron
@@ -607,12 +654,14 @@ because he married her in violation of its provisions.
 another, the former will not be entitled to the same rights as a patron. And,
 in fact, he will have no control over her, because the Senate transferred all
 the rights belonging to a patron to him for whom his father intended her.
+
 49. Marcellus, On the Lex Julia et Papia, Book III.
 It should be observed that men of inferior station can marry women with whom
 others of higher rank are forbidden by law to contract matrimony, on account of
 their superior dignity. On the other hand, men of exalted rank cannot take as
 wives women whom it is not lawful for those who are of inferior station to
 marry.
+
 50. The Same, On the Lex Julia et Papia, Book III.
 It is said to have been recently decided that where a man marries his
 freedwoman whom he manumitted in compliance with the terms of a trust, she can
@@ -620,6 +669,7 @@ contract matrimony with another without his consent; and I think this is
 correct, because he should not enjoy the privilege of a patron who was obliged
 to manumit the woman and did not do so voluntarily, as he rather gave her the
 freedom to which she was entitled, than conferred any benefit upon her.
+
 51. Licinius Rufinus, Rules, Book I.
 When a female slave has been manumitted for the purpose of matrimony, she
 cannot marry anyone else than the party by whom she was set free, unless her
@@ -628,17 +678,21 @@ patron renounces the right of marriage with her.
 order of his father, for the purpose of matrimony, Julianus thinks that she is
 in the same position as if she had been manumitted by the father, and therefore
 that he can marry her.
+
 52. Paulus, On Sabinus, Book VI.
 Incestuous marriages confer no right of dowry, and therefore the husband can be
 deprived of everything which he receives, even though it comes under the head
 of profits.
+
 53. Gaius, On the Provincial Edict, Book XI.
 Marriage cannot take place between parties who stand in the relationship of
 parents and children, or in the next degree, or in any more distant degrees, ad
 infinitum.
+
 54. Scaevola, Opinions, Book I.
 It makes no difference whether the relationship is derived from lawful
 marriage, or not; for a man is forbidden to marry his illegitimate sister.
+
 55. Gaius, On the Provincial Edict, Book XL
 It is also considered abominable to marry an adopted daughter, or
 granddaughter, and this rule of law is of such force that it still remains
@@ -651,6 +705,7 @@ related to them after emancipation.
 56. Ulpianus, Disputations, Book III.
 Where a man keeps the daughter of his sister as a concubine, even though she be
 a freedwoman, he is guilty of incest.
+
 57. Marcianus, Institutes, Book II.
 Anyone who administers an office in a province cannot consent to the marriage
 of his son in said province.
@@ -663,16 +718,19 @@ consent of your grandmother, as well as on account of your numerous offspring,
 to decide, taking all these circumstances into account, that the legal status
 of your children, the issue of a marriage contracted forty years ago, shall be
 confirmed, and that they shall, therefore, be considered legitimate."
+
 58. Marcianus, Rules, Book IV.
 It is stated in a Rescript by the Divine Pius that, if a freedwoman,
 representing herself to be freeborn, should deceive a senator and marry him, an
 action should be granted against her, just as in the case of the Praetorian
 Edict, for the reason that she can derive no advantage from her dowry, as it is
 void.
+
 59. Paulus, Concerning the Assignment of Freedmen.
 By the Decree of the Senate, in which it is provided that a guardian cannot
 either give his ward in marriage to his son, or marry her himself, his grandson
 also is meant.
+
 60. The Same, On the Address of the Divine Antoninus and Commodus.
 Where anyone is not actually a guardian, but the responsibilities of
 guardianship, nevertheless, attach to him, is he included in the terms
@@ -740,6 +798,7 @@ Where a dowry is confiscated on account of an unlawful marriage, the husband
 must pay all that he would be compelled to do, in an action on dowry, with the
 exception of the necessary expenses which usually diminish the dowry by
 operation of law.
+
 62. The Same, Opinions, Book IV.
 Although the father was willing that the marriage of their daughter should be
 left entirely to the judgment of the mother, she will not be permitted to
@@ -751,6 +810,7 @@ patron.
 (2) Where a guardian renders his accounts to a curator, he cannot marry his
 ward before the time appointed by law; not even if, in the meanwhile, she has
 become a mother through having contracted another marriage.
+
 63. The Same, Definitions, Book I.
 Where the prefect of a cohort or of cavalry, or a tribune, marries a woman of
 the province in which he is stationed, this being prohibited by law, the
@@ -760,6 +820,7 @@ that where a virgin marries, she can be deprived of what was left to her by
 will? As in the case of a ward married to her guardian, the wife can acquire
 everything that is bequeathed to her; still, any money which has been left by
 way of dowry must be given up to the heir of the woman.
+
 64. Callistratus, Questions, Book II.
 The Senate decreed that a freedman, who was also the guardian of his patron's
 daughter, should be banished because she married him, or his son.
@@ -769,6 +830,7 @@ marry their female wards; since marriages of this kind are prohibited to
 prevent wards from being cheated by those who are compelled to account to them
 for the administration of their guardianship.
 (2) A guardian is not forbidden to give his daughter in marriage to his ward.
+
 65. Paulus, Opinions, Book VII.
 Persons who administer public offices in their native provinces are not held to
 violate the law by marrying in said provinces; and this is also provided by
@@ -778,6 +840,7 @@ marriage is contracted in a province contrary to law, still, after the term of
 office has expired, if the parties continue to be of the same mind, the
 marriage will become lawful, and therefore any children born subsequently will
 be legitimate, as in the case of a legal marriage."
+
 66. The Same, Sentences, Book II.
 Where a guardian or a curator marries his ward before she has reached the age
 of twenty-six (if she has not been betrothed by her father, or allotted by him
@@ -787,6 +850,7 @@ depending upon the rank of the ward. It makes no difference, in this case,
 whether the son is his own master, or is under the control of his father.
 (1) It is very improper for the freedman of a curator to marry a ward of his
 patron who is administering the affairs of the curatorship.
+
 67. Tryphoninus, Disputations, Book IX.
 The son of a guardian is forbidden to marry his ward, while his father is
 compelled to render an account of the guardianship; whether he does so during
@@ -840,20 +904,22 @@ taking proper advice, because the father of the girl died insolvent.
 Nevertheless, as it is necessary for this to be proved in court, the marriage
 will be hindered; for he who has administered a guardianship advantageously and
 with fidelity, will still be prohibited from contracting such a marriage.
+
 68. Paulus, On the Turpilian Decree of the Senate.
 Where any man marries a female relative, either in the ascending or descending
 line, he commits incest according to the Law of Nations. He who marries a
 female relative in the collateral line, (where this is expressly forbidden), or
 some woman is connected with him by affinity, and he does this publicly, he
 will incur a lighter penalty, but if he commits such an act clandestinely, he
-will incur a more severe
-one.
+will incur a more severe one.
 The reason for this difference with reference to marriage improperly contracted
 with a relative in the collateral line is, that those who publicly commit the
 offence are not subjected to a more grievous penalty because they are
 considered to be ignorant, but those who commit it secretly are punished
 severely as being contumacious.
-TITLE III. CONCERNING THE LAW OF DOWRY.
+
+* 23.III. CONCERNING THE LAW OF DOWRY.
+
 1. Paulus, On Sabinus, Book XIV.
 The right to a dowry is perpetual, and, in accordance with the desire of the
 party who bestows it, the contract is made with the understanding that the
@@ -1955,7 +2021,9 @@ transaction. I ask whether that part of the dowry which was included in this
 tract of land could be lawfully transferred to the woman during the marriage.
 The answer was that it could be, if the price of the same was paid to a
 creditor.
-TITLE IV. CONCERNING DOTAL AGREEMENTS.
+
+* 23.IV. CONCERNING DOTAL AGREEMENTS.
+
 1. Javolenus, On Cassius, Book IV.
 It is lawful for an agreement to be made after marriage, even if none has
 previously been, entered into.
@@ -2348,7 +2416,10 @@ and it is agreed that he shall not be compelled to pay it against his consent,
 I think that nothing can be collected from him; because the clause contained in
 the contract which stated that he could not be compelled to pay it, should be
 held to refer to the dowry.1
-TITLE V. CONCERNING LAND GIVEN BY WAY OF DOWRY.
+
+
+* 23.V. CONCERNING LAND GIVEN BY WAY OF DOWRY.
+
 1. Paulus, On the Edict, Book XXXVI.
 The Lex Julia, having reference to land given by way of dowry, sometimes does
 not apply; for instance, where the husband fails to make provision against
@@ -2505,8 +2576,11 @@ should receive the land after paying the appraised value of part of the same to
 her husband; Labeo says that any profits collected in the meantime belong to
 the latter. I think that the better opinion is that the husband should be
 entitled to a proportionate share of the profits, and that the remainder should
-be refunded to the woman; which is the law at present.1
-1 The great antiquity of the custom of endowing a bride is disclosed by the
+be refunded to the woman; which is the law at present.[1]
+
+
+
+[1] The great antiquity of the custom of endowing a bride is disclosed by the
 laws of the ancient Babylonians relating to this subject, the provisions of
 which, it should be noted, almost exactly correspond with those of later times.
 "If a man set his face to put away a wife who has presented him with children,
@@ -2540,4 +2614,137 @@ divorced, or left her husband for some legal cause, he was obliged to return
 it. Anyone who Promised to endow a woman was not compelled to abide by his
 promise, if she died Without issue. It was customary at Athens, in case of the
 confiscation of a husband's property, for the wife's dowry to be set off to
-her. In order to encourage
+her. In order to encourage marriage based on affection and obviate any manifestation of insolent
+superiority of the part of the wife arising from the consciousness of her
+greater wealth, Lycurgus abolished the bestowal of dowries in Sparta, a
+regulation which, as might be presumed from the avaricious propensities of a
+large portion of mankind, did not long survive him.
+
+Where the wife brought a dowry, the husband was expected to settle real
+property upon her as an equivalent, in order to provide a home for her in case
+he died, or a divorce was obtained. (Potter, Antiquities of Greece, 1, 202, IV,
+11.)
+The law of the Visigoths declared the gift of a dowry to be an indispensable
+requisite to maintain the future honor and dignity, of the conjugal relation.
+"Nam ubi dos nec data est, nec confirmata, quod testimonium esse potest in
+coniugii dignitate futura?"
+To prevent the bridegroom from impoverishing himself by excessive liberality,
+it was provided that he could not legally bestow as dowry more than one-tenth
+of his entire property. (Forum Judicum, III, I, 1, 6.)
+Under the Salic Law, if a widower wished to marry again, he was prohibited from
+giving the dowry of the first wife to the second; and he could not sell, or
+give it away until his children became of age. If he had no issue by his first
+wife, her next of kin could claim two-thirds of her dowry, provided they left
+out of it two beds, two covered footstools, and two chairs; if they failed to
+do this they would be entitled to only a third of it. "Si uero de anteriorem
+uxorem filios non habuerit, parentes qui proximi१res sunt mulieris defuncti
+duas partes dotis recoligant et duos lectaria demittant, dua scamna coperta,
+duo cathedras. Quod si istud non fecerint, tertia sola de dote recoligant;
+tamen si per adfatimus antes non cromauerint." (Lex Salica, LXXII, 1, 2.)
+As appears from the text, there were two kinds of dowry at Civil Law, the
+profectitious, given by the father to his daughter, and the adventitious, which
+owed its origin to anyone else, including the bride herself. Where it was
+expressly stipulated that in case of dissolution of the marriage the dowry
+should be returned to the donor, it was called dos receptitia, a provision
+instituted for the benefit of a third party, usually not a relative. The
+husband was invested with the entire administration of the dowry as well as the
+income derived from it, but he could neither sell nor encumber it, even with
+his wife's permission, if it consisted of real estate; a rule which, however,
+was not applicable to personal property, which he could dispose of at his
+pleasure. Marriage was essential to render the constitution
+of a dowry valid: "Neque enim dos sine matrimonio esse potest."The donatio
+proptor nuptias, or ante-nuptial gift, differed from the dowry in that it was
+given by the husband for the use of the wife, in case he died before her, and
+in this respect it resembled the English dower. If she died first, it reverted
+to him, but if she survived him, the right to it vested absolutely in her.
+In the preservation and management of the dowry, the husband was bound to
+exercise the strictest diligence to avoid being responsible, unless he could
+show that he had employed the same care with reference to it that he was in the
+habit of employing in the conduct of his own affairs, and if this fact was
+established, he could only be held liable for gross negligence.
+It was the custom among the Germans, as we learn from classic writers, for the
+bridegroom to endow the bride, as is done at present, from which fact the
+modern custom is undoubtedly derived. The old Anglo-Saxon laws of England
+provided that if a woman's husband was convicted of murder, and she was
+acquitted of complicity in the crime, she could retain her marriage gifts and
+dower. "Si misericordia Dei et rectum suum salvaverit, remaneant legales cum
+maritagiis suis et dotibus." (Ancient Laws and Institutes of England; Leges
+Regis Edwardi Confessoris, XIX.)
+Marriage by capture, the primal method of securing a wife, was by degrees
+succeeded by marriage by purchase, and conjugal union thus became a purely
+business transaction. Among the Anglo-Saxons, the bride was sold by her father
+or guardian, the price being dependent upon the rank of the parties. While
+performance of the contract could not be enforced against him who had the
+disposal of the woman, he could be sued for damages for non-delivery, as in the
+case of any other chattel. The ceremony of betrothal, when perfected,
+practically constituted the formal matrimonial union, and while religious rites
+accompanied marriage they were considered of but little consequence. The
+compensation, at first paid to the father or guardian, was subsequently, when
+the contract became a legal fiction, bestowed upon the bride as a dotal gift.
+"The marriage having been consummated, and the bridal night having passed,
+another present is given by the husband to his newly made wife, called the
+morgengifu, or morning gift. This was not essential to the legality of the
+marriage, but was a voluntary gift from the bridegroom to the bride. This form
+being at first a gift of some chattel of little value, such as a trinket or
+ornament, to show the husband's appreciation of his bride, became a gift of
+large value, generally of realty, and as a rule, in later times was stipulated
+for on betrothal. This gift became recognized as a sum to support the widow
+upon the death of the husband, and if none were given, the law allowed a
+certain amount for this purpose as morning gift. From this it will easily be
+seen has sprung the dowry of the English law. (Barrell, An Outline of Anglo-
+Saxon Law, Page 58.)
+The right of dower, as known to us, is the opposite of what was understood by
+the term dos among the Romans, although both can be traced to the barbarian
+ceremony of marriage by purchase, which in practice is not, even now, obsolete. This radical difference of signification is thus referred to by Glanvil: "In alia enim acceptione accipiunt Dos secundum Leges Romanas, seeundum quas proprie appelatur Dos id q'd cum muliere datur viro quad vulgariter dicit Maritagium." (Glanvil, Tract, de Leg. et Consuet. Angliæ, VII, I.) The Latin coemptio, the ancient fictitious sale, by means of which autocratic parental authority over the bride was transferred to the bridegroom, was concluded by her payment of an as to her husband, which was symbolical of the delivery not only of her person, but of all her property or peculium, as well, and was absolutely confirmed by uninterrupted cohabitation for the period of a year.
+
+Five different classes of dower are mentioned by Littleton, namely: by Common Law, by custom, ad cotium ecclesiæ, ex assensu patris, de la plus belle. The right had reference to one-third of such lands and tenements as belonged to the husband during coverture, which, at Common Law, was known as dos legitima. Under the customs of certain towns and countries of England, the wife was entitled to half the estate of her deceased husband, and under those of others, to all of it.
+
+When a woman was endowed at the church door, after her husband died she could enter upon the premises thus publicly designated without any other assignment of the same.
+
+Dower ex assensu patris was constituted by a son who was the heir of his father and embraced land held by the latter, and was thus encumbered with his consent.
+
+Endowment de la plus belle, or of the best part of a tract of land, referred to the privilege a widow enjoyed of selecting a third of certain real property in which she had an interest as guardian in socage of her infant son, who was at the same time the ward in chivalry of the lord of the deceased.
+
+A wife was not entitled to dower in lands of which her husband was joint owner with another. (Littleton, Tenures, I, V, 36-45.)
+
+Among Moslems, dower is considered by many legal authorities as a consideration paid for the usufruct of the wife, in other words the purchase-money of property sold. It is held to be so essential that, if not mentioned in the ante-nuptial contract, liability for its payment will be held to exist, as a matter of course. It can be composed of anything which possesses or may possess an actual value, except wine, blood, carrion or a hog, and its value cannot be less than ten dirhems, or about ninety cents. No limit is placed to its amount above that sum, the pecuniary circumstances of the bridegroom, as well as his generosity, being presumed to establish its value and regulate its payment. While many wives do not exact it during the lifetime of their husbands, it is regarded as a legal debt and must be settled in case of divorce, or after the death of the husband, it being a first lien on his estate after the funeral expenses are paid. (Tagore, Law Lectures, page 34; The Hedaya, IV, X.)
+
+A debt or a credit is assignable as dower. "It is lawful for a man marrying a woman to fix for her dowry anything which may be due to him from her, or which may be due from somebody else.
+
+"If a man fix for dower a profit, that also will be lawful, for example, residence in a house, or the right of riding on an animal, the right of cultivation, etc."
+
+"A free man may assign to his wife his own services in lieu of dower." (Syed Ameer Ali, Mohammedan Law, Vol. II, XI, 12.)
+
+A release of her right of dower before, or at the time of her marriage is void; but after the ceremony she can, if she so desires, discharge her husband from liability for it, or return anything which she may have received. It is not imperative that the dower be constituted before marriage, as this may be done subsequently.
+
+The French Code provides that all property included in the marriage contract shall be dotal, unless the contrary is expressly stated therein. The husband may be compelled to furnish a bond to insure its safe-keeping and proper administration. Real estate given as dowry cannot be alienated or hypothecated, unless this was explicitly authorized by the ante-nuptial agreement, and only under circumstances which render this step extremely advisable, or necessary. The husband is liable as an usufructuary, and if the marriage should be dissolved he must return the property composing the dowry at once, if it consists of land, and after the lapse of a year, if it consists of money or other personal effects, unless the latter should be appraised and the ownership vested in him.
+
+"Tout ce que la femme se constitue ou qui lui est donné en contrat de mariage est dotal, s'il n'y a stipulation contraire."
+
+"Le mari n'est pas tenu de fournir caution pour la reception de la dot, s'il n'y a pas été assujetti par le contrat de mariage."
+
+"Le mari est tenu, a I'egard des biens dotaux, de toutes les obligations de l'usufruitier." (Code Civil de France, Arts. 1540-1566.)
+
+In Spain, relatives of the bride, or strangers, may endow her either before or after marriage; the husband, however, can only do so before the performance of the ceremony. The father or mother of the wife is obliged to provide a dowry for every one of their legitimate daughters; which must equal in amount half of the share of the estate to which each would legally be entitled. The husband is compelled to register in his own name the real property composing the dowry, and execute a mortgage for the same in favor of his wife, for a sum not exceeding its appraised value. If the dowry has not been appraised, and the wife is of age, she can, with the consent of her husband, dispose of or hypothecate the property of which it is composed. Where the marriage is dissolved or declared void, immediate restitution of the property appraised as dowry can be demanded of the husband or his heirs.
+
+"Pueden constituir dote a favor de la muyer, antes ó después de contraer el matrimonio, los padres y parientes de los esposos y las personas extrañas a la familia."
+
+"El padre ó la madre ó el que de ellos viviese están obligados á dotar a sus hijas legitimas."
+
+"El marido está obligado á inscribir á su nombre é nipotecar en favor de su muier los bienes inmuebles y derechos reales que reciba como dote estimada." (Código Civil de España, Arts. 1336-1352.)
+
+In Italy, any future acquisitions that may accrue to the bride are not held to be embraced in the dowry, unless especially provided for when it was constituted, and this cannot be done, nor can any additions be made to it after marriage. If the movable property of which the dowry is wholly or partly composed is diminished or worn out by use, without the fault of the husband, he will only be required to return what remains in its present condition.
+
+"La costituzione di dote espressa, in termini generici di tutti i boni della donna non comprende i, boni futuri."
+
+"Se i mobili la cui proprietà resta alla moglie, si sono consumati coll' uso e sensa colpa del marito, egli non è tenuto a restituire che i remanenti, e nello stato in cui si trovano." (Codice Civile Regno d'ltalia, Arts. 1388-1415.)
+
+The Code of Portugal directs that money forming part of a dowry shall, within three months after marriage, be invested in land or good securities, and be hypothecated to the wife. If this is omitted, the money is not considered as included in the dowry, and it becomes the property of herself and her husband as joint owners. When the dowry is given by the parents or grandparents of the bride, they will be responsible for its value in case of eviction. This does not apply to strangers, except in case of fraud, or where liability has been established by special agreement.
+
+"Se no dote, quer esta seja constituido pela mulher, quer pelo inarido, quer por outrem, for incluido dinheiro, sera esta convertido, dentro de tres nueses, contados desde o casamento, em bens inmoveis, inscricoes de assentamento, on accoes de companhias, ou dado a juros, par escritura publica, com hypotheca."
+
+"Se o dote tiver sido constituido pelos paes o pelos avos da dotada, serao os dotadores responsaveis pela importancia d'elle no caso de eviccão." (Código Civil Portuguêz, Arts. 1140, 1142.)
+
+Neither dowry nor the right of dower is recognized by Japanese jurisprudence. The husband, or the wife if she is the head of the family, must bear all the expenses arising from marriage, no provision for which is made either previously, or subsequently by a gift or settlement in favor of either. (Civil Code of Japan, Art. 798.)
+
+The English rule regulating the right of dower, with some unimportant modifications, has been generally adopted by statute in the United States, with the exception of Louisiana, where the ancient Civil Law doctrine of dowry prevails. A dowry there may consist of real or personal property, or of both, and the person who gives it is obliged to warrant the title to the same. The statutory provisions, for the most part, exactly coincide with those of France. The right of dower is not known to the law of Louisiana, but ample provision is made for the widow by means of the community of property established ipso facto by marriage. (Civil Code of Louisiana, Arts. 2317-2334: 2309-2378.) — ED.

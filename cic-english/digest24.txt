@@ -1,39 +1,11 @@
 # -*- mode: org -*-
 
-THE CIVIL LAW
-INCLUDING
-The Twelve Tables, The Institutes of Gaius, The Rules of
-Ulpian, The Opinions of Paulus, The Enactments
-of Justinian, and The Constitutions of Leo:
-Translated from the original Latin, edited, and compared with all accessible
-systems of jurisprudence ancient and modern.
-By S. P. SCOTT, A. M.
-Author of "History of the Moorish
-Empire in Europe," Translator of
-the "Visigothic Code"
-IN SEVENTEEN VOLUMES VOL. VI.
-CINCINNATI THE CENTRAL TRUST COMPANY
-Executor of the Estate Samuel P. Scott, Deceased
-PUBLISHERS
-CONTENTS OF VOLUME VI.
-THE DIGEST OR PANDECTS.
-(Continued.)
+* BOOK XXIV.
++ 24.I. PAGE CONCERNING DONATIONS BETWEEN HUSBAND AND WIFE
++ 24.II. CONCERNING DIVORCES AND REPUDIATIONS
++ 24.III. IN WHAT WAY THE DOWRY CAN BE RECOVERED AFTER THE MARRIAGE HAS BEEN DISSOLVED
 
-
-BOOK XXIV.
-TITLE I. PAGE CONCERNING DONATIONS BETWEEN HUSBAND AND WIFE  302
-TITLE II. CONCERNING DIVORCES AND REPUDIATIONS  335
-TITLE III. PAGE IN WHAT WAY THE DOWRY CAN BE RECOVERED AFTER THE MARRIAGE HAS BEEN DISSOLVED  3
-
-
-
-
-THE DIGEST OR PANDECTS.
-BOOK XXIV.
-
-
-THE DIGEST OR PANDECTS. BOOK XXIV.
-TITLE I. CONCERNING DONATIONS BETWEEN HUSBAND AND WIFE.
+* 24.I. CONCERNING DONATIONS BETWEEN HUSBAND AND WIFE.
 
 1. Ulpianus, On Sabinus, Book XXXII.
 In accordance with the custom adopted by us, gifts between husband and wife are
@@ -45,44 +17,6 @@ afforded them to do so.
 2. Paulus, On Sabinus, Book VII.
 Another reason is that married persons might otherwise not have so great a
 desire to educate their children. Sextus Caecilius also added
-marriage based on affection and obviate any manifestation of insolent
-superiority of the part of the wife arising from the consciousness of her
-greater wealth, Lycurgus abolished the bestowal of dowries in Sparta, a
-regulation which, as might be presumed from the avaricious propensities of a
-large portion of mankind, did not long survive him.
-
-Where the wife brought a dowry, the husband was expected to settle real
-property upon her as an equivalent, in order to provide a home for her in case
-he died, or a divorce was obtained. (Potter, Antiquities of Greece, 1, 202, IV,
-11.)
-The law of the Visigoths declared the gift of a dowry to be an indispensable
-requisite to maintain the future honor and dignity, of the conjugal relation.
-"Nam ubi dos nec data est, nec confirmata, quod testimonium esse potest in
-coniugii dignitate futura?"
-To prevent the bridegroom from impoverishing himself by excessive liberality,
-it was provided that he could not legally bestow as dowry more than one-tenth
-of his entire property. (Forum Judicum, III, I, 1, 6.)
-Under the Salic Law, if a widower wished to marry again, he was prohibited from
-giving the dowry of the first wife to the second; and he could not sell, or
-give it away until his children became of age. If he had no issue by his first
-wife, her next of kin could claim two-thirds of her dowry, provided they left
-out of it two beds, two covered footstools, and two chairs; if they failed to
-do this they would be entitled to only a third of it. "Si uero de anteriorem
-uxorem filios non habuerit, parentes qui proximi१res sunt mulieris defuncti
-duas partes dotis recoligant et duos lectaria demittant, dua scamna coperta,
-duo cathedras. Quod si istud non fecerint, tertia sola de dote recoligant;
-tamen si per adfatimus antes non cromauerint." (Lex Salica, LXXII, 1, 2.)
-As appears from the text, there were two kinds of dowry at Civil Law, the
-profectitious, given by the father to his daughter, and the adventitious, which
-owed its origin to anyone else, including the bride herself. Where it was
-expressly stipulated that in case of dissolution of the marriage the dowry
-should be returned to the donor, it was called dos receptitia, a provision
-instituted for the benefit of a third party, usually not a relative. The
-husband was invested with the entire administration of the dowry as well as the
-income derived from it, but he could neither sell nor encumber it, even with
-his wife's permission, if it consisted of real estate; a rule which, however,
-was not applicable to personal property, which he could dispose of at his
-pleasure. Marriage was essential to render the constitution
 still another, namely, because marriage would often be dissolved where the
 husband had property and could give it, but did not do so; and therefore the
 result would be that marriage would become purchasable.
@@ -95,172 +29,13 @@ taking into consideration the reputation of the parties who were united in
 matrimony, lest their agreement might seem to be brought about for a price, and
 to prevent the better one of the two from becoming poor, and the worse one from
 becoming more wealthy."
-of a dowry valid: "Neque enim dos sine matrimonio esse potest."The donatio
-proptor nuptias, or ante-nuptial gift, differed from the dowry in that it was
-given by the husband for the use of the wife, in case he died before her, and
-in this respect it resembled the English dower. If she died first, it reverted
-to him, but if she survived him, the right to it vested absolutely in her.
-In the preservation and management of the dowry, the husband was bound to
-exercise the strictest diligence to avoid being responsible, unless he could
-show that he had employed the same care with reference to it that he was in the
-habit of employing in the conduct of his own affairs, and if this fact was
-established, he could only be held liable for gross negligence.
-It was the custom among the Germans, as we learn from classic writers, for the
-bridegroom to endow the bride, as is done at present, from which fact the
-modern custom is undoubtedly derived. The old Anglo-Saxon laws of England
-provided that if a woman's husband was convicted of murder, and she was
-acquitted of complicity in the crime, she could retain her marriage gifts and
-dower. "Si misericordia Dei et rectum suum salvaverit, remaneant legales cum
-maritagiis suis et dotibus." (Ancient Laws and Institutes of England; Leges
-Regis Edwardi Confessoris, XIX.)
-Marriage by capture, the primal method of securing a wife, was by degrees
-succeeded by marriage by purchase, and conjugal union thus became a purely
-business transaction. Among the Anglo-Saxons, the bride was sold by her father
-or guardian, the price being dependent upon the rank of the parties. While
-performance of the contract could not be enforced against him who had the
-disposal of the woman, he could be sued for damages for non-delivery, as in the
-case of any other chattel. The ceremony of betrothal, when perfected,
-practically constituted the formal matrimonial union, and while religious rites
-accompanied marriage they were considered of but little consequence. The
-compensation, at first paid to the father or guardian, was subsequently, when
-the contract became a legal fiction, bestowed upon the bride as a dotal gift.
-"The marriage having been consummated, and the bridal night having passed,
-another present is given by the husband to his newly made wife, called the
-morgengifu, or morning gift. This was not essential to the legality of the
-marriage, but was a voluntary gift from the bridegroom to the bride. This form
-being at first a gift of some chattel of little value, such as a trinket or
-ornament, to show the husband's appreciation of his bride, became a gift of
-large value, generally of realty, and as a rule, in later times was stipulated
-for on betrothal. This gift became recognized as a sum to support the widow
-upon the death of the husband, and if none were given, the law allowed a
-certain amount for this purpose as morning gift. From this it will easily be
-seen has sprung the dowry of the English law. (Barrell, An Outline of Anglo-
-Saxon Law, Page 58.)
-The right of dower, as known to us, is the opposite of what was understood by
-the term dos among the Romans, although both can be traced to the barbarian
-cere-
 
 (1) Let us see between what persons donations are prohibited; and, indeed, if a
 marriage is solemnized in accordance with our customs and laws such a donation
 will not be valid. It will be valid, however, if any impediment should arise so
 that marriage cannot be contracted. Therefore, if the daughter of a senator
 marries a freedman in violation of the Decree of the Senate, or if a woman in a
-province, in opposition
-mony of marriage by purchase, which in practice is not, even now, obsolete.
-This radical difference of signification is thus referred to by Glanvil: "In
-alia enim acceptione accipiunt Dos secundum Leges Romanas, seeundum quas
-proprie appelatur Dos id q'd cum muliere datur viro quad vulgariter dicit
-Maritagium." (Glanvil, Tract, de Leg. et Consuet. Angliae, VII, I.) The Latin
-coemptio, the ancient fictitious sale, by means of which autocratic parental
-authority over the bride was transferred to the bridegroom, was concluded by
-her payment of an as to her husband, which was symbolical of the delivery not
-only of her person, but of all her property or peculium, as well, and was
-absolutely confirmed by uninterrupted cohabitation for the period of a year.
-Five different classes of dower are mentioned by Littleton, namely: by Common
-Law, by custom, ad cotium ecclesiae, ex assensu patris, de la plus belle. The
-right had reference to one-third of such lands and tenements as belonged to the
-husband during coverture, which, at Common Law, was known as dos legitima.
-Under the customs of certain towns and countries of England, the wife was
-entitled to half the estate of her deceased husband, and under those of others,
-to all of it.
-When a woman was endowed at the church door, after her husband died she could
-enter upon the premises thus publicly designated without any other assignment
-of the same.
-Dower ex assensu patris was constituted by a son who was the heir of his father
-and embraced land held by the latter, and was thus encumbered with his consent.
-Endowment de la plus belle, or of the best part of a tract of land, referred to
-the privilege a widow enjoyed of selecting a third of certain real property in
-which she had an interest as guardian in socage of her infant son, who was at
-the same time the ward in chivalry of the lord of the deceased.
-A wife was not entitled to dower in lands of which her husband was joint owner
-with another. (Littleton, Tenures, I, V, 36-45.)
-Among Moslems, dower is considered by many legal authorities as a consideration
-paid for the usufruct of the wife, in other words the purchase-money of
-property sold. It is held to be so essential that, if not mentioned in the
-ante-nuptial contract, liability for its payment will be held to exist, as a
-matter of course. It can be composed of anything which possesses or may possess
-an actual value, except wine, blood, carrion or a hog, and its value cannot be
-less than ten dirhems, or about ninety cents. No limit is placed to its amount
-above that sum, the pecuniary circumstances of the bridegroom, as well as his
-generosity, being presumed to establish its value and regulate its payment.
-While many wives do not exact it during the lifetime of their husbands, it is
-regarded as a legal debt and must be settled in case of divorce, or after the
-death of the husband, it being a first lien on his estate after the funeral
-expenses are paid. (Tagore, Law Lectures, page 34; The Hedaya, IV, X.)
-A debt or a credit is assignable as dower. "It is lawful for a man marrying a
-woman to fix for her dowry anything which may be due to him from her, or which
-may be due from somebody else.
-"If a man fix for dower a profit, that also will be lawful, for example,
-residence in a house, or the right of riding on an animal, the right of
-cultivation, etc."
-"A free man may assign to his wife his own services in lieu of dower." (Syed
-Ameer Ali, Mohammedan Law, Vol. II, XI, 12.)
-A release of her right of dower before, or at the time of her marriage is void;
-but after the ceremony she can, if she so desires, discharge her husband from
-liability for it, or return anything which she may have received. It is not
-impera-
-to the Imperial Decree, marries an official who is discharging his duties
-there, the donation will be valid, because such a marriage is
-void.
-But it is not right that donations of this kind should be valid, nor that the
-condition of those who are guilty of an offence should be improved; still, the
-Divine Severus, in the case of the freedwoman of
-tive that the dower be constituted before marriage, as this may be done
-subsequently.
-The French Code provides that all property included in the marriage contract
-shall be dotal, unless the contrary is expressly stated therein. The husband
-may be compelled to furnish a bond to insure its safe-keeping and proper
-administration. Real estate given as dowry cannot be alienated or hypothecated,
-unless this was explicitly authorized by the ante-nuptial agreement, and only
-under circumstances which render this step extremely advisable, or necessary.
-The husband is liable as an usufructuary, and if the marriage should be
-dissolved he must return the property composing the dowry at once, if it
-consists of land, and after the lapse of a year, if it consists of money or
-other personal effects, unless the latter should be appraised and the ownership
-vested in him.
-"Tout ce que la femme se constitue ou qui lui est donn़ en contrat de mariage
-est dotal, s'il n'y a stipulation contraire."
-"Le mari n'est pas tenu de fournir caution pour la reception de la dot, s'il
-n'y a pas ़t़ assujetti par le contrat de mariage."
-"Le mari est tenu, a I'egard des biens dotaux, de toutes les obligations de
-l'usufruitier." (Code Civil de France, Arts. 1540-1566.)
-In Spain, relatives of the bride, or strangers, may endow her either before or
-after marriage; the husband, however, can only do so before the performance of
-the ceremony. The father or mother of the wife is obliged to provide a dowry
-for every one of their legitimate daughters; which must equal in amount half of
-the share of the estate to which each would legally be entitled. The husband is
-compelled to register in his own name the real property composing the dowry,
-and execute a mortgage for the same in favor of his wife, for a sum not
-exceeding its appraised value. If the dowry has not been appraised, and the
-wife is of age, she can, with the consent of her husband, dispose of or
-hypothecate the property of which it is composed. Where the marriage is
-dissolved or declared void, immediate restitution of the property appraised as
-dowry can be demanded of the husband or his heirs.
-"Pueden constituir dote a favor de la muyer, antes २ despu़s de contraer el
-matrimonio, los padres y parientes de los esposos y las personas extra०as a la
-familia."
-"El padre २ la madre २ el que de ellos viviese estेn obligados े dotar a sus
-hijas legitimas."
-"El marido estे obligado े inscribir े su nombre ़ nipotecar en favor de su
-muier los bienes inmuebles y derechos reales que reciba como dote estimada."
-(C२digo Civil de Espa०a,Arts. 1336-1352.)
-In Italy, any future acquisitions that may accrue to the bride are not held to
-be embraced in the dowry, unless especially provided for when it was
-constituted, and this cannot be done, nor can any additions be made to it after
-marriage. If the movable property of which the dowry is wholly or partly
-composed is diminished or worn out by use, without the fault of the husband, he
-will only be required to return what remains in its present condition.
-"La costituzione di dote espressa, in termini generici di tutti i boni della
-donna non comprende i, boni futuri."
-"Se i mobili la cui proprietॆ resta alla moglie, si sono consumati coll' uso e
-sensa colpa del marito, egli non ् tenuto a restituire che i remanenti, e nello
-stato in cui si trovano." (Codice Civile Regno d'ltalia, Arts. 1388-1415.)
-The Code of Portugal directs that money forming part of a dowry shall, within
-three months after marriage, be invested in land or good securities, and be
-hypothecated to the wife. If this is omitted, the money is not considered as
-included in
-
-Pontius Paulinus, a Senator, rendered a different decision because the woman
+province, in opposition to the Imperial Decree, marries an official who is discharging his duties there, the donation will be valid, because such a marriage is void. But it is not right that donations of this kind should be valid, nor that the condition of those who are guilty of an offence should be improved; still, the Divine Severus, in the case of the freedwoman of Pontius Paulinus, a Senator, rendered a different decision because the woman
 had not been treated with the affection to which a wife was entitled, but
 rather with that due to a concubine.
 (2) Those who are under the control of the same person are forbidden to make
@@ -285,36 +60,7 @@ to those under their control or under the control of the parties to whose
 authority they are subject; provided the husband and father-in-law are under
 the control of the same person, or the husband is under the control of the
 father-in-law. Moreover, where the husband belongs to another family, neither
-the father-in-law nor
-the dowry, and it becomes the property of herself and her husband as joint
-owners. When the dowry is given by the parents or grandparents of the bride,
-they will be responsible for its value in case of eviction. This does not apply
-to strangers, except in case of fraud, or where liability has been established
-by special agreement.
-"Se no dote, quer esta seja constituido pela mulher, quer pelo inarido, quer
-por outrem, for incluido dinheiro, sera esta convertido, dentro de tres nueses,
-contados desde o casamento, em bens inmoveis, inscricoes de assentamento, on
-accoes de companhias, ou dado a juros, par escritura publica, com hypotheca."
-"Se o dote tiver sido constituido pelos paes o pelos avos da dotada, serao os
-dotadores responsaveis pela importancia d'elle no caso de eviccॅo." (C२digo
-Civil Portugu।z, Arts. 1140, 1142.)
-Neither dowry nor the right of dower is recognized by Japanese jurisprudence.
-The husband, or the wife if she is the head of the family, must bear all the
-expenses arising from marriage, no provision for which is made either
-previously, or subsequently by a gift or settlement in favor of either. (Civil
-Code of Japan, Art. 798.)
-The English rule regulating the right of dower, with some unimportant
-modifications, has been generally adopted by statute in the United States, with
-the exception of Louisiana, where the ancient Civil Law doctrine of dowry
-prevails. A dowry there may consist of real or personal property, or of both,
-and the person who gives it is obliged to warrant the title to the same. The
-statutory provisions, for the most part, exactly coincide with those of France.
-The right of dower is not known to the law of Louisiana, but ample provision is
-made for the widow by means of the community of property established ipso facto
-by marriage. (Civil Code of Louisiana, Arts. 2317-2334: 2309-2378.) --- ED.
-
-
-anyone under his control, nor anyone subject to the authority of the latter, is
+the father-in-law nor anyone under his control, nor anyone subject to the authority of the latter, is
 forbidden to receive a gift from the wife.
 (7) A mother-in-law is not prohibited from bestowing gifts upon her daughter-
 in-law, or vice versa, because in this instance the right of paternal authority
@@ -1564,7 +1310,7 @@ made, and no action for recovery can be granted her on this account.
 
 
 
-TITLE II. CONCERNING DIVORCES AND REPUDIATIONS.
+* 24.II. CONCERNING DIVORCES AND REPUDIATIONS.
 
 1. Paulus, On the Edict, Book XXXV.
 Marriage is dissolved by divorce, death, captivity, or by any other kind of
@@ -1997,10 +1743,7 @@ cruelty and distress that are never disclosed --- bids fair to ere long become
 universal. --- ED.
 
 
-
-
-TITLE III.
-IN WHAT WAY THE DOWRY CAN BE RECOVERED AFTER THE MARRIAGE HAS BEEN DISSOLVED.
+* 24.III. IN WHAT WAY THE DOWRY CAN BE RECOVERED AFTER THE MARRIAGE HAS BEEN DISSOLVED.
 
 1. Pomponius, On Sabinus, Book XV.
 The cause of the dowry always and everywhere takes precedence, for it is to the

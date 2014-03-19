@@ -1,9 +1,8 @@
 # -*- mode: org -*-
 
-THE DIGEST OR PANDECTS. BOOK II.
+* BOOK II.
 
-
-TITLE I. CONCERNING JURISDICTION.
+* 2.I. CONCERNING JURISDICTION.
 
 1. Ulpianus, Rules, Book I.
 The duties of him who has the right of dispensing justice are very extensive;
@@ -161,9 +160,7 @@ A judge who administers justice beyond his jurisdiction may be disobeyed with
 impunity. The same rule applies if he wishes to dispense justice where the
 amount is beyond his jurisdiction.
 
-
-TITLE II.
-EACH ONE MUST HIMSELF USE THE LAW WHICH HE HAS ESTABLISHED FOR OTHERS.
+* 2.II. EACH ONE MUST HIMSELF USE THE LAW WHICH HE HAS ESTABLISHED FOR OTHERS.
 
 1. Ulpianus, On the Edict, Book HI.
 The Edict is characterized by the greatest equity and is without just cause of
@@ -239,8 +236,8 @@ way against another." And, indeed, where a magistrate desires to sustain the
 Edict, or a litigant wishes to obtain the benefit of it, he might render
 himself liable and incur the penalty prescribed by the Edict.
 
-TITLE III.
-WHERE ANYONE REFUSES OBEDIENCE TO A MAGISTRATE RENDERING JUDGMENT.
+* 2.III. WHERE ANYONE REFUSES OBEDIENCE TO A MAGISTRATE RENDERING JUDGMENT.
+
 1. Ulpianus, On the Edict, Book I.
 It is permitted to all magistrates, with the exception only of Duumviri, to
 protect their administration by means of penalties in accordance with their
@@ -259,8 +256,7 @@ who brings it, but is limited to the amount of damages sustained; and as it
 includes a mere penalty it is extinguished after the lapse of a year, and does
 not lie against the heir.
 
-
-TITLE IV. CONCERNING CITATIONS BEFORE A COURT OF JUSTICE.
+* 2.IV. CONCERNING CITATIONS BEFORE A COURT OF JUSTICE.
 
 1. Paulus, On the Edict, Book IV.
 To cite anyone before a court of justice is to summon him for the purpose of
@@ -361,9 +357,28 @@ his status from him by whom he was arrogated, his act does not seem to be such
 as to entitle him to be considered freeborn.
 (3) If, however, he has acquired the right of wearing gold rings, I think he
 should never fail to manifest respect for his patron, even though he may be
-qualified to exercise all the functions of a freeborn person.1 The case is
+qualified to exercise all the functions of a freeborn person.[1] The case is
 different if he is restored to all the privileges of birth, for the Emperor can
 make a man free born.
+
+[1] The early Romans wore rings of iron, which they employed as signets. The
+custom is said to have been introduced from Asia into Greece, and thence into
+Italy. None but freemen were allowed this privilege, and afterwards the grant
+of the jus annuli aurei, or right to wear a gold ring presented by the Emperor,
+rendered a manumitted slave to a certain extent a freeman. The rights of the
+patron were not, however, annulled under these circumstances, as they were by
+the legal fiction called "natalibus restitutio", or restoration to his original
+condition of freedom, which was presumed to be the birthright of every
+individual.
+Under the Republic, the jus annuli aurei was a token of rank possessed only by
+senators, ambassadors, magistrates, and knights. It was special badge of the
+eguites, still, its bestowal did not ipso factoplace the recipient in the body
+of knights, unless he possessed the necessary census qualifications.
+Conviction of a crime, or the forfeiture of civil rights entailed the loss of
+the jus annuli. In the later days of the Empire the privilege was greatly
+extended, and all soldiers and citizens of whatever station were permitted to
+enjoy it.  ---  ED.
+
 (4) Anyone who is manumitted by an organized body, a corporation, or a city,
 can summon any member of the same to court, for he is not the freedman of any
 of them in particular. He must, however, show respect to all collectively; and
@@ -384,23 +399,6 @@ emancipated son adopts a son, a grandson of this kind can be summoned, for he
 is a stranger to me.
 (9) According to Cassius, we. may understand that the term "children", like
 that of "parents", extends beyond the great-great-grandson.
-1 The early Romans wore rings of iron, which they employed as signets. The
-custom is said to have been introduced from Asia into Greece, and thence into
-Italy. None but freemen were allowed this privilege, and afterwards the grant
-of the jus annuli aurei, or right to wear a gold ring presented by the Emperor,
-rendered a manumitted slave to a certain extent a freeman. The rights of the
-patron were not, however, annulled under these circumstances, as they were by
-the legal fiction called "natalibus restitutio", or restoration to his original
-condition of freedom, which was presumed to be the birthright of every
-individual.
-Under the Republic, the jus annuli aurei was a token of rank possessed only by
-senators, ambassadors, magistrates, and knights. It was special badge of the
-eguites, still, its bestowal did not ipso factoplace the recipient in the body
-of knights, unless he possessed the necessary census qualifications.
-Conviction of a crime, or the forfeiture of civil rights entailed the loss of
-the jus annuli. In the later days of the Empire the privilege was greatly
-extended, and all soldiers and citizens of whatever station were permitted to
-enjoy it.  ---  ED.
 (10) If a freedwoman has a child by her patron, neither she nor her son can
 bring the other into court.
 (11) If the children of a patron have brought a capital accusation against a
@@ -416,6 +414,7 @@ serious injury; for example, scourged him.
 guardian, curator, defender, or agent of another; but where the guardian or
 curator is interested, he can be summoned with impunity, as Pomponius says, and
 this opinion is the better one.
+
 11. Paulus, On the Edict, Book IV.
 Although the praetor does not state that he will render judgment for a penalty
 where proper cause is shown, still Labeo says that his authority must be
@@ -423,71 +422,85 @@ exercised with moderation; as for instance, if the freedman changes his mind
 and abandons his suit; or if the patron having been summoned does not appear;
 or if he has been summoned with his own consent; even though the terms of the
 Edict do not concede this.
+
 12. Ulpianus, On the Edict, Book LVII.
 If a freedman, in opposition to the Edict of the Praetor, should summon to court
 the son of his patron whom the patron himself has under his control, it should
 be held that, if the father is absent, relief should be granted to his son who
 is under his control, and that a penal action, that is to say one for fifty
 aurei, will lie against the freedman.
+
 13. Modestinus, Pandects, Book X.
 As, generally speaking, we cannot summon persons to whom respect should be
 shown, without an order of the praetor.
+
 14. Papinianus, Opinions, Book I.
 Where a freedman is accused by his patron, and he, being ready to defend
 himself, has frequently urged the Governor of the province to hear his case; it
 is not considered that, by so doing, he has summoned his patron who accused
 him.
+
 15. Paulus, Questions, Book I.
 A freedman presented a petition against his patron without concealing the fact
 that he was his freedman; and the question arose whether, if he obtained an
 Imperial Rescript in accordance with his wishes, the penalty of the Edict would
 be remitted? I have answered that I do not think that the Edict of the Praetor
 is applicable in this instance, for the reason that he who presents a petition
-to the Em-
-peror or to a Governor, is not considered to have summoned his patron to court.
+to the Emperor or to a Governor, is not considered to have summoned his patron to court.
+
 16. The Same, Opinions, Book II.
 The question has arisen whether a guardian can, in the name of his ward, summon
 his patroness, without the permission of the praetor? I have answered the
 question by stating that he can summon his patroness in the name of his ward,
 without the praetor's consent.
+
 17. The Same, Sentences, Book I.
 Where anyone has given a bond in court for the appearance of another he is
 obliged to produce him. Again, where he has promised in an instrument which has
 been recorded that he will produce the party in question, even though he may
 not have given a bond in court, he will, nevertheless, be forced to produce
 him.
+
 18. Gaius, On the Law of the Twelve Tables, Book I.
 Many authorities have held that it was not lawful to summon anyone to court
 from his own house; because the house of every individual should be for him a
-perfectly secure refuge and shelter,1 and that he who summons a person
+perfectly secure refuge and shelter,[1] and that he who summons a person
 therefrom, must be considered as having employed violence.
+
+[1] This is the undoubted origin of the familiar maxim, "A man's house is his
+castle", generally attributed to Coke.  ---  ED.
+
 19. Paulus, On the Edict, Book I.
 It is certain that a party is sufficiently punished if he does not defend his
 case, and keeps himself concealed, for the reason that his adversary is placed
 in possession of his property. But Julianus says that if he shows himself, or
 appears in public, he can be legally summoned.
+
 20. Gaius, On the Law of the Twelve Tables, Book I.
 There is no doubt that a man can be lawfully summoned from his vineyard, the
 bath, or the theatre.
+
 21. Paulus, On the Edict, Book I.
 Although a man who is in his own house may sometimes be summoned to court,
 still, no one should be forcibly removed from his residence.
+
 22. Gaius, On the Law of the Twelve Tables, Book I.
 It is not permitted to summon girls who have not arrived at puberty, and who
 are subject to the control of another.
 (1) A man who is summoned should be dismissed in two instances; first, when
 anyone undertakes his defence; and second, when the controversy has been
 settled before the parties have come into court.
+
 23. Marcianus, Institutes, Book III.
 Where a freedman is common, that is to say, has several patrons, he should
 petition the praetor to permit him to summon anyone of his patrons, or he will
 be liable under the Praetorian Edict.
-1 This is the undoubted origin of the familiar maxim, "A man's house is his
-castle", generally attributed to Coke.  ---  ED.
+
 24. Ulpianus, On the Edict, Book V.
 An action for fifty aurei can be brought against him who violates these
 provisions, but it cannot be brought for, or against an heir, nor after a year
 has elapsed.
+
 25. Modestinus, On Punishments, Book I.
 Where a freedman has summoned his patron to court without permission being
 granted under the Edict, on complaint of the patron he will be liable for the
@@ -495,11 +508,8 @@ above-mentioned penalty, that is to say, for fifty aurei; or he may be
 chastised by the Prefect of the City, as lacking in respect, if it is
 ascertained that he has no property.
 
+* 2.V. WHERE ANYONE WHO IS SUMMONED DOES NOT APPEAR, AND WHERE ANYONE SUMMONED A PERSON WHOM, ACCORDING TO THE EDICT, HE SHOULD NOT HAVE SUMMONED.
 
-
-TITLE V.
-WHERE ANYONE WHO IS SUMMONED DOES NOT APPEAR, AND WHERE ANYONE SUMMONED A
-PERSON WHOM, ACCORDING TO THE EDICT, HE SHOULD NOT HAVE SUMMONED.
 1. Ulpianus, On the Edict, Book I.
 Where anyone who is summoned, gives as a surety for his appearance in court a
 person not subject to the jurisdiction of the magistrate before whom he himself
@@ -521,10 +531,8 @@ to which he will be liable if he should not appear, it is certain that suit can
 be brought against him for a sum equal to the plaintiff's interest; and this
 Celsus also stated.
 
+* 2.VI. PERSONS WHO ARE SUMMONED MUST EITHER APPEAR, OR GIVE BOND OR SECURITY TO DO SO.
 
-
-TITLE VI.
-PERSONS WHO ARE SUMMONED MUST EITHER APPEAR, OR GIVE BOND OR SECURITY TO Do So.
 1. Paulus, On the Edict, Book I.
 It is provided by the Edict, "That where a surety is given that a party will
 appear in court, the property of the former must be ample,
@@ -544,10 +552,8 @@ Where anyone promises to produce two persons in court, and he produces one and
 not the other, he is held not to have kept his promise, as one of them has not
 been produced.
 
+* 2.VII. NO ONE CAN FORCIBLY REMOVE A PERSON WHO HAS BEEN SUMMONED TO COURT.
 
-
-TITLE VII.
-No ONE CAN FORCIBLY REMOVE A PERSON WHO HAS BEEN SUMMONED TO COURT.
 1. Ulpianus, On the Edict, Book V.
 The Praetor published this Edict to restrain by the fear of punishment those who
 rescue by violence persons who have been summoned
@@ -615,12 +621,8 @@ expiration of a year.
 If he who has released a debtor by force makes payment, he does not exempt the
 latter from liability, because he pays the penalty of his own act.
 
+* 2.VIII. WHAT PERSONS ARE COMPELLED TO GIVE A SURETY, AND WHO CAN MAKE A PROMISE UNDER OATH, OR BE BOUND BY A MERE PROMISE.
 
-
-TITLE VIII.
-WHAT PERSONS ARE COMPELLED TO GIVE A SURETY, AND
-WHO CAN MAKE A PROMISE UNDER OATH, OR BE BOUND
-BY A MERE PROMISE.
 1. Gaius, On the Provincial Edict, Book V.
 The term "to give a surety" is derived from the same origin as to furnish
 security, for as "to satisfy" is said of him whose wish we comply with, so "to
@@ -810,9 +812,8 @@ after a bond has been executed obtains no advantage.
 He who has promised under oath to appear in court, is not held to have
 committed perjury if he fails to do so for some good reason.
 
+* 2.IX. IN WHAT WAY SECURITY MUST BE GIVEN IN A NOXAL ACTION.
 
-
-TITLE IX. IN WHAT WAY SECURITY MUST BE GIVEN IN A NOXAL ACTION.
 1. Ulpianus, On the Edict, Book VII.
 Where anyone has promised that a slave on whose account a noxal action is
 brought, shall be produced in court, the praetor says "that he must produce him
@@ -876,10 +877,8 @@ Where, however, it was promised to produce a slave who is about to become free,
 he is held to be in the same condition, even though he may be free when he
 appears; because the attainment of his freedom was tacitly understood.
 
+* 2.X. CONCERNING ONE WHO PREVENTS A PERSON FROM APPEARING IN COURT.
 
-
-TITLE X.
-CONCERNING ONE WHO PREVENTS A PERSON FROM APPEARING IN COURT.
 1. Ulpianus, On the Edict, Book VII.
 The praetor has considered it most just to punish the malice of one who prevents
 the appearance of another in court.
@@ -942,10 +941,8 @@ interest in the matter; because if the party had appeared I would have had an
 action against him for a hundred aurei, or one against his heir for the same
 amount, although the surety had bound himself to me for a smaller sum.
 
+* 2.XI. WHERE A PARTY WHO HAS GIVEN A BOND TO APPEAR IN COURT DOES NOT DO SO.
 
-
-TITLE XI.
-WHERE A PARTY WHO HAS GIVEN A BOND TO APPEAR IN COURT DOES NOT Do So.
 1. Gaius, On the Provincial Edict, Book I.
 The praetor orders that a day shall be granted for every twenty thousand paces
 in addition to that on which the bond is executed, as well as that on which the
@@ -1174,11 +1171,9 @@ to recover the property itself, and judgment had been rendered against the
 guardian, and any of the above things had taken place; it has been settled that
 no action on the judgment could be instituted against him.
 
+* 2.XII. CONCERNING FESTIVALS, DELAYS, AND DIFFERENT SEASONS.
 
-
-TITLE XII.
-CONCERNING FESTIVALS, DELAYS, AND DIFFERENT SEASONS. 1. Ulpianus, On all
-Tribunals, Book IV.
+1. Ulpianus, On all Tribunals, Book IV.
 It is stated in an Address of the Divine Marcus that no one can compel another
 to go to trial in the seasons of harvest and vintage; because being occupied in
 agricultural pursuits, he should not be compelled to appear in court.
@@ -1277,10 +1272,9 @@ In pecuniary actions, delay cannot be granted more than once in each case, but
 in capital cases three continuances may be granted to the defendant, and two to
 the accuser; but in both instances proper cause must be shown.
 
+* 2.XIII. CONCERNING THE STATEMENT OF A CASE
 
-
-TITLE XIII.
-CONCERNING THE STATEMENT OF A CASE. 1. Ulpianus, On the Edict, Book IV.
+1. Ulpianus, On the Edict, Book IV.
 Where anyone wishes to bring an action, he must state the grounds for it; as it
 is most just that the party sued should know whether he ought to submit, or set
 up a defence, and if he makes up his mind to the latter course, that he may be
@@ -1509,9 +1503,7 @@ This action is not permitted after the lapse of a year, nor against an heir,
 unless through some act of his own; but it is granted to an heir.
 
 
-
-TITLE XIV.
-CONCERNING AGREEMENTS.
+* 2.XIV. CONCERNING AGREEMENTS.
 
 1. Ulpianus, On the Edict, Book IV.
 The justice of this Edict is natural, for what is so suitable to the good faith
@@ -2319,9 +2311,7 @@ whether the surety was deprived of the benefit of the first agreement? It is
 the better opinion that where the right to an exception has been once acquired
 by the surety, it cannot afterwards be taken from him without his consent.
 
-
-
-TITLE XV. CONCERNING COMPROMISES.
+* 2.XV. CONCERNING COMPROMISES.
 
 1. Ulpianus, On the Edict, Book L.
 When a man makes a compromise with reference to something which is in doubt,
