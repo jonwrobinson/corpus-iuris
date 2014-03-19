@@ -1,22 +1,16 @@
 # -*- mode: org -*-
 
-
-THE DIGEST OR PANDECTS. BOOK XLIV.
-
-BOOK XLIV.
-TITLE I. CONCERNING EXCEPTIONS, PRESCRIPTIONS, AND PRELIMINARY INQUIRIES .. 39
-TITLE II. CONCERNING THE EXCEPTION BASED ON RES JUDICATA ................ 44
-TITLE III.
-CONCERNING DIFFERENT TEMPORARY EXCEPTIONS AND THE UNION OF SEVERAL POSSESSIONS
-......................................... 54
-TITLE IV. CONCERNING THE EXCEPTION FOUNDED ON FRAUD AND FEAR ........... 59
-TITLE V. UNDER WHAT CIRCUMSTANCES AN ACTION SHALL NOT BE GRANTED .... 72
-TITLE VI. CONCERNING PROPERTY IN LITIGATION .............................. 74
-TITLE VII. CONCERNING OBLIGATIONS AND ACTIONS ............................. 75
+* BOOK XLIV.
++ 44.I. CONCERNING EXCEPTIONS, PRESCRIPTIONS, AND PRELIMINARY INQUIRIES
++ 44.II. CONCERNING THE EXCEPTION BASED ON RES JUDICATA
++ 44.III. CONCERNING DIFFERENT TEMPORARY EXCEPTIONS AND THE UNION OF SEVERAL POSSESSIONS
++ 44.IV. CONCERNING THE EXCEPTION FOUNDED ON FRAUD AND FEAR
++ 44.V. UNDER WHAT CIRCUMSTANCES AN ACTION SHALL NOT BE GRANTED
++ 44.VI. CONCERNING PROPERTY IN LITIGATION
++ 44.VII. CONCERNING OBLIGATIONS AND ACTIONS
 
 
-TITLE I.
-CONCERNING EXCEPTIONS, PRESCRIPTIONS, AND PRELIMINARY INQUIRIES.
+* 44.I. CONCERNING EXCEPTIONS, PRESCRIPTIONS, AND PRELIMINARY INQUIRIES.
 
 1. Ulpianus, On the Edict, Book IV.
 He is held to occupy the position of plaintiff who makes use of an exception,
@@ -196,7 +190,8 @@ A son under paternal control can acquire for his father an exception on the
 ground of an oath having been taken, if he swears in court that his father does
 not owe anything.
 
-TITLE II. CONCERNING THE EXCEPTION BASED ON RES JUDICATA.
+
+* 44.II. CONCERNING THE EXCEPTION BASED ON RES JUDICATA.
 
 1. Ulpianus, On the Edict, Book II.
 As judgments rendered between litigants cannot prejudice others who are not
@@ -653,8 +648,8 @@ effectually pleaded against anyone who brought a personal action for the
 recovery of property, who had previously brought an action for the same
 property and lost it.
 
-TITLE III.
-CONCERNING DIFFERENT TEMPORARY EXCEPTIONS AND THE UNION OF SEVERAL POSSESSIONS.
+
+* 44.III. CONCERNING DIFFERENT TEMPORARY EXCEPTIONS AND THE UNION OF SEVERAL POSSESSIONS.
 
 1. Ulpianus, On the Edict, Book LXXIV.
 For the reason that a" discussion frequently arises with reference to available
@@ -848,8 +843,8 @@ heir, as well as to that during which it was in the possession of the deceased.
 Any period of possession to which our own possession can not be added will be
 of no benefit whatever to us.
 
-TITLE IV.
-CONCERNING THE EXCEPTION FOUNDED ON FRAUD AND FEAR.
+
+* 44.IV. CONCERNING THE EXCEPTION FOUNDED ON FRAUD AND FEAR.
 
 1. Paulus, On the Edict, Book VII.
 In order that this exception may be more clearly understood, let us first
@@ -1401,8 +1396,8 @@ accordance with the facts stated, she made the claim in question contrary to
 the wishes of her mother, and therefore she would be barred by an exception on
 the ground of bad faith.
 
-TITLE V.
-UNDER WHAT CIRCUMSTANCES AN ACTION SHALL NOT BE GRANTED.
+
+* 44.V. UNDER WHAT CIRCUMSTANCES AN ACTION SHALL NOT BE GRANTED.
 
 1. Ulpianus, On the Edict, Book LXXVI.
 _ An oath taken in court has the same effect as a judgment, and this is not
@@ -1495,8 +1490,8 @@ upon freedom whenever a master voluntarily manumits his slave, and afterwards
 wishes him to promise a sum of money, not with the intention of exacting it
 from him, but in order that his freedmen may fear and obey him.
 
-TITLE VI.
-CONCERNING PROPERTY IN LITIGATION.
+
+* 44.VI. CONCERNING PROPERTY IN LITIGATION.
 
 1. Ulpianus, On the Edict, Book LXXVI.
 When notice is served for the purpose of preventing a sale, this does not
@@ -1532,7 +1527,7 @@ latter, in order to console him for being delivered over to a more powerful
 opponent.
 
 
-TITLE VII. CONCERNING OBLIGATIONS AND ACTIONS.
+* 44.VII. CONCERNING OBLIGATIONS AND ACTIONS.
 
 1. Gaius, Golden Matters, Book II.
 Obligations arise whether from contract, from crime, or from various other
