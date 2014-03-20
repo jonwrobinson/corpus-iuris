@@ -18,14 +18,17 @@ text files, and `org-mode` is reason enough to use Emacs.  For large,
 but structured documents, `org-mode` is great because it lets you
 toggle the visibility of sections and subsections of texts, so you
 can, e.g., show only the main sections of a file (say, only the titles
-of the file codex-01.txt).  If you don't know what I'm talking about
-you're missing out.  But until you make the switch yourself, note that
-`org-mode` files are usually still plain ASCII or UTF-8 (or, I
-suppose, your encoding of choice), which means if your operating
-system and/or text editor doesn't know how to handle the `.org`
-extension, just change it to `.txt` and all will be well.  (But,
-really, just use Emacs: it makes dealing with these kinds of large
-text files *much* more convenient!)
+of the file codex-01.txt).  If you don't know what I'm talking about,
+trust me when I say that you're missing out; but you can compare the
+three screenshots if you want to get a sense of what I mean.
+
+Regardless, until you make the switch yourself, note that `org-mode`
+files are usually still plain ASCII or UTF-8 (or, I suppose, your
+encoding of choice), which means if your operating system and/or text
+editor doesn't know how to handle an `.org` extension, just change it
+to `.txt` and all will be well.  (But, really, just use Emacs: it
+makes dealing with these kinds of large text files *much* more
+convenient!)
 
 
 ## Canon Law

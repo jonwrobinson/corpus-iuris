@@ -1,7 +1,5 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI CODEX
-
 * LIBER QUARTUS
 
 + 4.1.0. De rebus creditis et de iureiurando.
@@ -70,7 +68,6 @@ DOMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI CODEX
 + 4.64.0. De rerum permutatione et de praescriptis verbis actione.
 + 4.65.0. De locato et conducto.
 + 4.66.0. De emphyteutico iure.
-
 
 * 4.1.0. De rebus creditis et de iureiurando.
 
@@ -1162,7 +1159,6 @@ Si mutuam pecuniam accipere demetriano domitianus mandavit et hoc posse probare 
 
 Qui secutus domini voluntatem cum servo ipsius habuit contractum, ad instar actionis institoriae recte de solido dominum convenit. * diocl. et maxim. aa. et cc. onesimae. * <a 294 d. xiiii k. dec. cc. conss.>
 
-
 * 4.26.0. Quod cum eo qui in aliena est potestate negotium gestum esse dicitur, vel de peculio seu quod iussu aut de in rem verso.
 
 
@@ -1815,6 +1811,22 @@ Ut nullo modo usurae usurarum a debitoribus exigantur, et veteribus quidem legib
 Quapropter hac apertissima lege definimus nullo modo licere cuidam usuras praeteriti vel futuri temporis in sortem redigere et earum iterum usuras stipulari, sed, si hoc fuerit subsecutum, usuras quidem semper usuras manere et nullum aliarum usurarum incrementum sentire, sorti autem antiquae tantummodo incrementum usurarum accedere. <a 529 pp. k. oct. chalcedone decio vc. cons.>
 
 * 4.33.0. De nautico fenore.
+
+4.33.1:
+
+[
+de Graeca constitutione, quam intercidisse libri cum S testantur,
+cf. pag. V -- Krueger ed.
+
+The text given there differs from the text given below.
+
+Vulgate:  Venice 1478 ed.
+
+Imperatores Diocletianus et Maximianus
+
+Traiecticiam pecuniam quae periculo creditoris datur tamdiu libera esse ab observatione communium usurarum quamdiu navi ad portum appulerit manifestum est. * dem. a. cosimanie. *
+]
+
 
 4.33.2: Imperatores Diocletianus, Maximianus
 

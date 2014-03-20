@@ -1,408 +1,136 @@
 # -*- mode: org -*-
 
-# -*- mode: org -*-
-
-THE CIVIL LAW
-INCLUDING
-The Twelve Tables, The Institutes of Gaius, The Rules of
-Ulpian, The Opinions of Paulus, The Enactments
-of Justinian, and The Constitutions of Leo:
-Translated from the original Latin, edited, and compared with all accessible
-systems of jurisprudence ancient and modern.
-
-By S. P. SCOTT, A. M.
-Author of "History of the Moorish
-Empire in Europe," Translator of
-the "Visigothic Code"
-
-IN SEVENTEEN VOLUMES VOL. XIII.
-CINCINNATI
-THE CENTRAL TRUST COMPANY Ejcecutor of the Estate Samuel P. Scott, Deceased
-PUBLISHERS
-
-CONTENTS OF VOLUME XIII.
-THE CODE OF JUSTINIAN.
-SECOND EDITION.. ((Continued..))
-
-BOOK IV.
-
-* TITLES
-TITLE I. PAGE CONCERNING PROPERTY LOANED AND THE OATH ...................... 3
-TITLE II. WHERE A CERTAIN THING is DEMANDED ............................. 7
-TITLE III. CONCERNING SUFFRAGE ............................................ 11
-TITLE IV. CONCERNING THE PROHIBITED SEQUESTRATION OF MONEY .............. 12
-TITLE V.
+* BOOK IV.
++ 4.I. PAGE CONCERNING PROPERTY LOANED AND THE OATH  3
++ 4.II. WHERE A CERTAIN THING is DEMANDED . 7
++ 4.III. CONCERNING SUFFRAGE  11
++ 4.IV. CONCERNING THE PROHIBITED SEQUESTRATION OF MONEY  12
++ 4.V.
 CONCERNING THE RECOVERY OF A DEBT WHICH WAS PAID WITHOUT BEING DUE
-........................................................ 12
-TITLE VI.
+ 12
++ 4.VI.
 CONCERNING THE ACTION FOR RECOVERY OF PROPERTY GIVEN FOR SOME CONSIDERATION
-............................................... 14
-TITLE VII.
+. 14
++ 4.VII.
 CONCERNING THE ACTION FOR RECOVERY ON ACCOUNT OF A DISHONORABLE CONSIDERATION
-............................................... 17
-TITLE Vill. CONCERNING THE ACTION FOR THE RECOVERY OF STOLEN PROPERTY ..... 18
-TITLE IX.
+. 17
++ 4.Vill. CONCERNING THE ACTION FOR THE RECOVERY OF STOLEN PROPERTY . 18
++ 4.IX.
 CONCERNING THE PERSONAL SUIT FOR RECOVERY UNDER THE LAW, WHERE THERE is No
 CONSIDERATION, OR WHERE THE CONSIDERATION is UNJUST
-..................................................... 19
-TITLE X. CONCERNING OBLIGATIONS AND ACTIONS ............................. 19
-TITLE XI. ACTIONS SHOULD BE BROUGHT BY HEIRS AND AGAINST HEIRS .......... 22
-TITLE XII.
+. 19
++ 4.X. CONCERNING OBLIGATIONS AND ACTIONS . 19
++ 4.XI. ACTIONS SHOULD BE BROUGHT BY HEIRS AND AGAINST HEIRS  22
++ 4.XII.
 A WIFE CANNOT BE SUED ON ACCOUNT OF HER HUSBAND, OR A HUSBAND ON ACCOUNT OF His
-WIFE, OR A MOTHER ON ACCOUNT OF HER SON .. 23
-TITLE XIII.
+WIFE, OR A MOTHER ON ACCOUNT OF HER SON  23
++ 4.XIII.
 A SON CANNOT BE SUED ON ACCOUNT OF His FATHER, OR A FATHER ON ACCOUNT OF His
 EMANCIPATED SON, OR A FREEDMAN ON ACCOUNT OF His PATRON, OR A SLAVE ON ACCOUNT
-OF His MASTER ......... 24
-A NEW CONSTITUTION OF FREDERICK ............................... 25
-TITLE XIV. WHETHER A SLAVE is LIABLE FOR His OWN ACT AFTER His MANUMISSION 26
-TITLE XV.
+OF His MASTER . 24
+A NEW CONSTITUTION OF FREDERICK . 25
++ 4.XIV. WHETHER A SLAVE is LIABLE FOR His OWN ACT AFTER His MANUMISSION 26
++ 4.XV.
 WHEN THE TREASURY, OR A PRIVATE INDIVIDUAL, CAN OR SHOULD SUE DEBTORS OR THEIR
-DEBTORS ................................... 27
-TITLE XVI. CONCERNING HEREDITARY ACTIONS ................................. 28
-TITLE XVII.
+DEBTORS . 27
++ 4.XVI. CONCERNING HEREDITARY ACTIONS . 28
++ 4.XVII.
 FOR WHAT AN AMOUNT HEIRS CAN BE SUED ON ACCOUNT OF THE CRIMES OF DECEASED
-PERSONS ........................................ 29
-TITLE XVIII. CONCERNING THE SUM OF MONEY AGREED UPON ..................... 29
-TITLE XIX. CONCERNING PROOFS .............................................. 31
-TITLE XX. CONCERNING WITNESSES .......................................... 36
-TITLE XXI.
+PERSONS  29
++ 4.XVIII. CONCERNING THE SUM OF MONEY AGREED UPON . 29
++ 4.XIX. CONCERNING PROOFS  31
++ 4.XX. CONCERNING WITNESSES  36
++ 4.XXI.
 CONCERNING THE CONFIDENCE TO BE REPOSED IN WRITTEN INSTRUMENTS, AND THEIR Loss,
 AND WHEN RECEIPTS AND COUNTER-RECEIPTS SHOULD BE GIVEN, AND CONCERNING WHAT
-THINGS CAN BE DONE WITHOUT THEIR BEING COMMITTED TO WRITING .................
+THINGS CAN BE DONE WITHOUT THEIR BEING COMMITTED TO WRITING .
 41
-TITLE XXII.
++ 4.XXII.
 WHAT HAS ACTUALLY BEEN DONE HAS MORE FORCE THAN WHAT HAS BEEN SIMULATED AND
-EXPRESSED IN WORDS ..................... 48
-TITLE XXIII. CONCERNING LOANS FOR USE ...................................... 52
-TITLE XXIV. CONCERNING THE ACTION OF PLEDGE ............................... 52
-TITLE XXV. CONCERNING THE ACTIO INSTITORIA AND THE ACTIO EXEKCITORIA ....... 55
-TITLE XXVI.
+EXPRESSED IN WORDS . 48
++ 4.XXIII. CONCERNING LOANS FOR USE  52
++ 4.XXIV. CONCERNING THE ACTION OF PLEDGE . 52
++ 4.XXV. CONCERNING THE ACTIO INSTITORIA AND THE ACTIO EXEKCITORIA . 55
++ 4.XXVI.
 WHEN BUSINESS is SAID TO HAVE BEEN TRANSACTED WITH ONE WHO is UNDER THE CONTROL
 OF ANOTHER, OR WITH REFERENCE TO PECULIUM; OR WHERE SOMETHING HAS BEEN DONE BY
 THE ORDER OF ANOTHER; OR WHERE ANYTHING is EMPLOYED FOR THE BENEFIT OF THE
-PROPERTY OF THE PERSON IN CONTROL ...................... 56
-TITLE XXVII. BY MEANS OF WHAT PERSONS PROPERTY CAN BE ACQUIRED BY Us ..... 59
-TITLE XXVIII. CONCERNING THE MACEDONIAN DECREE OF THE SENATE ............... 61
-TITLE XXIX. CONCERNING THE VELLEIAN DECREE OF THE SENATE .................. 63
-TITLE XXX. CONCERNING MONEY WHICH is NOT COUNTED OUT ................... 70
-TITLE XXXI. CONCERNING SET-OFF ............................ 75
-TITLE XXXII. CONCERNING INTEREST ...........................78
-TITLE XXXIII. CONCERNING MARITIME LOANS .....................................
+PROPERTY OF THE PERSON IN CONTROL  56
++ 4.XXVII. BY MEANS OF WHAT PERSONS PROPERTY CAN BE ACQUIRED BY Us . 59
++ 4.XXVIII. CONCERNING THE MACEDONIAN DECREE OF THE SENATE . 61
++ 4.XXIX. CONCERNING THE VELLEIAN DECREE OF THE SENATE  63
++ 4.XXX. CONCERNING MONEY WHICH is NOT COUNTED OUT . 70
++ 4.XXXI. CONCERNING SET-OFF  75
++ 4.XXXII. CONCERNING INTEREST .78
++ 4.XXXIII. CONCERNING MARITIME LOANS .
 84
-TITLE XXXIV. CONCERNING THE ACTION ON DEPOSIT, AND THE COUNTER ACTION ...... 85
-TITLE XXXV. CONCERNING THE ACTION OF MANDATE, AND THE COUNTER ACTION ..... 87
-TITLE XXXVI. CONCERNING A SLAVE WHO HAS DIRECTED A STRANGER TO PURCHASE HIM 92
-TITLE XXXVII. CONCERNING THE ACTION OF PARTNERSHIP ..........................
++ 4.XXXIV. CONCERNING THE ACTION ON DEPOSIT, AND THE COUNTER ACTION  85
++ 4.XXXV. CONCERNING THE ACTION OF MANDATE, AND THE COUNTER ACTION . 87
++ 4.XXXVI. CONCERNING A SLAVE WHO HAS DIRECTED A STRANGER TO PURCHASE HIM 92
++ 4.XXXVII. CONCERNING THE ACTION OF PARTNERSHIP
 92
-TITLE XXXVIII. CONCERNING THE CONTRACT OF PURCHASE AND SALE ..................
++ 4.XXXVIII. CONCERNING THE CONTRACT OF PURCHASE AND SALE
 94
-TITLE XXXIX. CONCERNING THE INHERITANCE OR SALE OF RIGHTS OF ACTION .........
++ 4.XXXIX. CONCERNING THE INHERITANCE OR SALE OF RIGHTS OF ACTION .
 96
-TITLE XL. WHAT PROPERTY CANNOT BE SOLD, AND WHAT PERSONS ARE FORBIDDEN TO SELL OR
-PURCHASE IT .................... 98
-TITLE XLI. WHAT PROPERTY SHOULD NOT BE EXPORTED .,.................. 98
-TITLE XLII. CONCERNING EUNUCHS ..................
-TITLE XLIII. CONCERNING FATHERS WHO HAVE SOLD THEIR CHILDREN ............. 99
-TITLE XLIV. CONCERNING THE RESCISSION OF A SALE .....................
++ 4.XL. WHAT PROPERTY CANNOT BE SOLD, AND WHAT PERSONS ARE FORBIDDEN TO SELL OR
+PURCHASE IT  98
++ 4.XLI. WHAT PROPERTY SHOULD NOT BE EXPORTED ., 98
++ 4.XLII. CONCERNING EUNUCHS
++ 4.XLIII. CONCERNING FATHERS WHO HAVE SOLD THEIR CHILDREN . 99
++ 4.XLIV. CONCERNING THE RESCISSION OF A SALE .
 10°
-iiiiiiLLllCCiiAA..JJ--IIVV..
+iiiiiiLLllCCiiAAJJ--IIVV
 WHEN IT is PERMITTED TO KEFUSE TO COMPLY WITH A CONTRACT OF SALE 103
-TITLE XLVI. WHERE A SALE is MADE ON ACCOUNT OF PUBLIC CONTRIBUTIONS ....... 104
-TITLE XLVII.
++ 4.XLVI. WHERE A SALE is MADE ON ACCOUNT OF PUBLIC CONTRIBUTIONS . 104
++ 4.XLVII.
 LAND CANNOT BE PURCHASED WITHOUT THE PAYMENT OF TAXES OR BALANCES WHICH ARE DUE
-...................................... 104
-TITLE XLVIII. CONCERNING THE RISKS AND ADVANTAGES ATTACHING TO PROPERTY SOLD.
+ 104
++ 4.XLVIII. CONCERNING THE RISKS AND ADVANTAGES ATTACHING TO PROPERTY SOLD.
 105
-TITLE XLIX. CONCERNING THE ACTIONS OF PURCHASE AND SALE ................... 106
-TITLE L.
++ 4.XLIX. CONCERNING THE ACTIONS OF PURCHASE AND SALE . 106
++ 4.L.
 WHERE ANYONE HAS PURCHASED PROPERTY FOR ANOTHER, OR FOR HIMSELF IN THE NAME OF
 ANOTHER, OR WITH MONEY BELONGING TO ANOTHER
-.................................................... 109
-TITLE LI.
+ 109
++ 4.LI.
 CONCERNING THE PROHIBITED ALIENATION AND HYPOTHECATION OF THE PROPERTY OF
-OTHERS ......................................... Ill
-TITLE LII. CONCERNING THE ALIENATION OF PROPERTY OWNED IN COMMON ....... 112
-TITLE LIII.
+OTHERS . Ill
++ 4.LII. CONCERNING THE ALIENATION OF PROPERTY OWNED IN COMMON . 112
++ 4.LIII.
 THOSE WHO HAVE CHARGE OF THE AFFAIRS OF OTHERS ARE NOT FORBIDDEN TO ALIENATE
-THEIR OWN PROPERTY ..................... 113
-TITLE LIV.
+THEIR OWN PROPERTY . 113
++ 4.LIV.
 CONCERNING AGREEMENTS ENTERED INTO BETWEEN VENDOR AND PURCHASER
-..................................................... 114
-TITLE LV.
+. 114
++ 4.LV.
 WHERE A SLAVE is SOLD FOR THE PURPOSE OF BEING SENT OUT OF THE COUNTRY
-.................................................... 115
-TITLE LVI.
+ 115
++ 4.LVI.
 WHERE A SLAVE HAS BEEN SOLD ON CONDITION THAT HE SHOULD NOT BE PROSTITUTED
-............................................. 116
-TITLE LVII.
+. 116
++ 4.LVII.
 WHERE A SLAVE HAS BEEN ALIENATED UNDER THE CONDITION THAT HE WILL OR WILL NOT
-BE MANUMITTED ........................... 117
-TITLE LVIII. CONCERNING J^DILIAN ACTIONS ....................................
+BE MANUMITTED . 117
++ 4.LVIII. CONCERNING J^DILIAN ACTIONS
 119
-TITLE LIX.
++ 4.LIX.
 CONCERNING MONOPOLIES, UNLAWFUL AGREEMENTS OF MERCHANTS, THE ARTIFICERS OR
 CONTRACTORS, AND THE ILLEGAL AND PROHIBITED PRACTICES OF BATH PROPRIETORS
-.............................. 120
-TITLE LX. CONCERNING FAIRS AND MARKETS .................................. 122
-TITLE LXI.
+ 120
++ 4.LX. CONCERNING FAIRS AND MARKETS  122
++ 4.LXI.
 CONCERNING DUTIES ON MERCHANDISE, AND OFFENCES TO WHICH THEY ARE SUBJECT
-................................................ 122
-TITLE LXII. NEW DUTIES ON MERCHANDISE CANNOT BE ESTABLISHED ............. 124
-TITLE LXIII. CONCERNING COMMERCE AND MERCHANTS ........................... 125
-TITLE LXIV.
+ 122
++ 4.LXII. NEW DUTIES ON MERCHANDISE CANNOT BE ESTABLISHED . 124
++ 4.LXIII. CONCERNING COMMERCE AND MERCHANTS . 125
++ 4.LXIV.
 CONCERNING THE EXCHANGE OF PROPERTY AND THE ACTIO PR^ESCRIPTIS VERBIS
-...................................................... 127
-TITLE LXV. CONCERNING LEASING AND HIRING ................................. 128
-TITLE LXVI. CONCERNING THE LAW OF EMPHYTEUSIS ............................ 134
+ 127
++ 4.LXV. CONCERNING LEASING AND HIRING . 128
++ 4.LXVI. CONCERNING THE LAW OF EMPHYTEUSIS  134
 
-BOOK V.
-TITLE I. CONCERNING BETROTHALS, BETROTHAL PLEDGES, AND MARRIAGE BROKERS. 137
-TITLE II.
-WHERE THE GOVERNOR OF A PROVINCE OR ANY OF His SUBORDINATES GIVE BETROTHAL
-PLEDGES .......................................... 139
-TITLE III.
-CONCERNING ANTENUPTIAL DONATIONS, OR THOSE GIVEN ON ACCOUNT OF MARRIAGE AND
-BETROTHALS ................................... 139
-THE TEXT OF THE CODE ........................................... 145
-THE TEXT OF THE CODE ........................................... 145
-TITLE IV. CONCERNING MARRIAGE ........................................... 146
-THE TEXT OF THE CODE ........................................... 151
-THE TEXT OF THE CODE ........................................... 153
-TITLE V. CONCERNING MARRIAGES WHICH ARE INCESTUOUS AND VOID ........... 155
-TITLE VI.
-CONCERNING THE PROHIBITION OF MARRIAGE BETWEEN A FEMALE WARD AND HER GUARDIAN
-OR CURATOR, OR His SON .................... 158
-TITLE VII.
-WHERE ANYONE CLOTHED WITH POWER, OR ANY OF His SUBORDINATES, ATTEMPTS TO MARRY
-A FEMALE SUBJECT TO His JURISDICTION ..... 160
-TITLE Vill.
-CONCERNING MARRIAGE DEMANDED IN ACCORDANCE WITH THE TERMS OF A EESCRIPT
-.................................................. 160
-TITLE IX. CONCERNING SECOND MARRIAGES ................................... 161
-THE TEXT OF THE CODE ........................................... 165
-THE TEXT OF THE CODE ........................................... 168
-THE TEXT OF THE CODE ........................................... 169
-TITLE X.
-WHERE A WOMAN, TO WHOM HER HUSBAND LEFT AN USUFRUCT, MARRIES A SECOND TIME
-......................................... 171
-TITLE XI.
-CONCERNING THE PROMISE OF A DOWRY, AND ONE MADE WITHOUT CONSIDERATION
-.................................................. 172
-TITLE XII. CONCERNING THE LAW OF DOWRIES ................................. 174
-TITLE XIII.
-CONCERNING THE CONSIDERATION OF THE ACTION TO RECOVER THE PROPERTY OF THE WIFE
-AND THAT BASED ON A STIPULATION, AND CONCERNING THE NATURE OF THE PROPERTY
-GIVEN AS DOWRY ......... 183
-THE TEXT OF THE CODE ........................................... 188
-TITLE XIV.
-CONCERNING AGREEMENTS MADE WITH REFERENCE TO DOWRIES AND ANTE-NUPTIAL
-DONATIONS, AS WELL AS SUCH AS RELATE TO THE PRIVATE PROPERTY OF THE WIFE
-............................... 189
-TITLE XV. CONCERNING DOWRY PROVIDED FOR BUT NOT PAID .................... 193
-TITLE XVI.
-CONCERNING DONATIONS MADE BETWEEN HUSBAND AND WIFE, AND BY PARENTS TO THEIR
-CHILDREN, AND CONCERNING RATIFICATION ..... 194
-TITLE XVII. CONCERNING REPUDIATION AND THE ABOLITION OF THE ACTION DE MORI-
-BUS ......................................................... 200
-THE TEXT OF THE CODE ........................................... 203
-TITLE XVIII.
-IN WHAT WAY THE DOWRY CAN BE RECOVERED WHEN THE MARRIAGE HAS BEEN DISSOLVED
-......................................... 207
-TITLE XIX. WHERE A DOWRY HAS BEEN PAID DURING MARRIAGE ................. 210
-' TITLE XX. NEITHER TRUSTEES NOR MANDATORS FOR DOWRIES SHALL BE APPOINTED. 210
-TITLE XXI. CONCERNING PROPERTY SURREPTITIOUSLY REMOVED ................... 211
-TITLE XXII.
-THE ESTATE OF A HUSBAND CANNOT BE GIVEN TO A WOMAN INSTEAD OF HER DOWRY
-.............................................. 211
-TITLE XXIII. CONCERNING DOTAL LANDS ........................................
-212
-TITLE XXIV.
-WITH WHOM CHILDREN SHOULD RESIDE OR BE BROUGHT UP, WHEN A DIVORCE HAS TAKEN
-PLACE ................................... 212
-TITLE XXV.
-CONCERNING THE SUPPORT OF CHILDREN AND RELATIVES IN THE ASCENDING LINE
-.................................................... 213
-TITLE XXVI. CONCERNING CONCUBINES ......................................... 213
-TITLE XXVII.
-CONCERNING NATURAL CHILDREN AND THEIR MOTHERS, AND FOR WHAT REASONS THEY BECOME
-LEGITIMATE ........................... 214
-TITLE XXVIII. CONCERNING TESTAMENTARY GUARDIANSHIP .........................
-224
-TITLE XXIX. CONCERNING THE CONFIRMATION OF A GUARDIAN .................... 226
-TITLE XXX. CONCERNING LEGAL GUARDIANSHIPS ................................ 227
-TITLE XXXI. CONCERNING THOSE WHO DEMAND GUARDIANS OR CURATORS ........... 228
-TITLE XXXII.
-WHERE A PETITION MUST BE MADE FOR THE APPOINTMENT OF GUARDIANS OR CURATORS
-................................................ 230
-TITLE XXXIII.
-CONCERNING THE GUARDIANS AND CURATORS OF ILLUSTRIOUS OR DISTINGUISHED PERSONS
-............................................ 231
-TITLE XXXIV.
-WHO CAN APPOINT GUARDIANS AND CURATORS AND WHO CANNOT BE APPOINTED
-.................................................. 232
-TITLE XXXV. WHEN A WOMAN CAN DISCHARGE THE DUTIES OF GUARDIANSHIP ....... 235
-TITLE XXXVI.
-IN CASES WHERE A MINOR ALREADY HAS A GUARDIAN OR CURATOR, ANOTHER GUARDIAN OR
-CURATOR CAN BE APPOINTED ............... 236
-TITLE XXXVII. PAGE
-CONCERNING THE ADMINISTRATION OF GUARDIANS AND CURATORS, AND OF MONEY BELONGING
-TO THE WARDS WHICH HAS EITHER BEEN LENT AT INTEREST, OR DEPOSITED
-.............................. 238
-TITLE XXXVIII. CONCERNING THE LIABILITIES OF GUARDIANS AND CURATORS ...........
-246
-TITLE XXXIX.
-WHEN MINORS CAN SUE OR BE SUED ON ACCOUNT OF THE ACTS OF THEIR GUARDIANS OR
-CURATORS ...................................... 248
-TITLE XL.
-WHERE THERE ARE SEVERAL GUARDIANS OR CURATORS, ALL OR ONE OF THEM CAN SUE OF BE
-SUED IN THE NAME OF THE MINOR ........ 248
-TITLE XLI.
-NEITHER A GUARDIAN NOR A CURATOR SHALL ACT AS A COLLECTOR OF TAXES
-...................................................... 249
-TITLE XLII.
-CONCERNING THE GUARDIAN OR CURATOR WHO DOES NOT FURNISH SECURITY
-.................................................... 249
-TITLE XLIII. CONCERNING SUSPECTED GUARDIANS AND CURATORS ...................
-251
-TITLE XLIV. CONCERNING A GUARDIAN OR CURATOR APPOINTED TO CONDUCT LITIGATION.
-252
-TITLE XLV.
-CONCERNING ONE WHO TRANSACTS BUSINESS IN THE PLACE OF A GUARDIAN
-................................................... 254
-TITLE XLVI. WHERE A MOTHER PROMISES INDEMNITY ............................ 254
-TITLE XLVII. WHERE A GUARDIAN is APPOINTED AGAINST THE WISHES OF THE MOTHER.
-255
-TITLE XLVIII.
-A GUARDIAN SHOULD ASSIST IN THE TRIAL OF A CASE OF His WARD AFTER THE LATTER
-EEACHES PUBERTY ................................ 255
-TITLE XLIX. WHERE MINORS SHOULD BE BROUGHT UP ........................... 255
-TITLE L. CONCERNING THE SUPPORT TO BE FURNISHED TO A WARD .............. 256
-TITLE LI. THE DECISION OF GUARDIANSHIP ................................... 256
-TITLE LII.
-CONCERNING THE DIVISION OF GUARDIANSHIP, AND FOR WHAT PORTION OF THE SAME EACH
-GUARDIAN is LIABLE ....................... 260
-TITLE LIII. CONCERNING THE OATH TO BE TAKEN DURING LITIGATION ............ 261
-TITLE LIV. CONCERNING THE HEIRS OF GUARDIANS OR CURATORS ................. 262
-TITLE LV. WHEN A GUARDIAN OR A CURATOR DOES NOT ACT ................... 263
-TITLE LVI. CONCERNING INTEREST BELONGING TO WARDS ........................ 264
-TITLE LVII. CONCERNING THE SURETIES OR GUARDIANS AND CURATORS ............. 264
-TITLE LVIII. CONCERNING THE COUNTER ACTION OF GUARDIANSHIP ................ 265
-TITLE LIX.
-CONCERNING THE AUTHORITY WHICH SHOULD BE GRANTED BY A GUARDIAN OR CURATOR
-............................................. 266
-TITLE LX.
-WHEN GUARDIANS OR CURATORS CEASE TO DISCHARGE THE DUTIES OF THEIR OFFICE
-............................................... 267
-TITLE LXI.
-CONCERNING THE APPOINTMENT OF AN AGENT BY A GUARDIAN OR CURATOR
-.................................................... 268
-TITLE LXII.
-CONCERNING THE EXCUSES OF GUARDIANS AND CURATORS AND WHEN THEY MAY BE OFFERED
-...................................... 268
-TITLE LXIII.
-WHERE A GUARDIAN OR CURATOR HAS BEEN EXCUSED BY MEANS OF FALSE ALLEGATIONS
-................................................ 273
-TITLE LXIV. WHERE A GUARDIAN OR CURATOR is ABSENT ON BUSINESS FOR THE STATE .
-274
-TITLE LXV. CONCERNING THE EXCUSES OF VETERANS ............................ 274
-TITLE LXVI.
-CONCERNING THOSE WHO ARE EXCUSED ON ACCOUNT OF THE NUMBER OF THEIR CHILDREN
-............................................. 275
-TITLE LXVII. CONCERNING THOSE WHO ARE EXCUSED ON ACCOUNT OF ILLNESS ....... 275
-TITLE LXVIII. WHO CAN BE EXCUSED ON ACCOUNT OF AGE .........................
-275
-TITLE LXIX. WHO CAN BE EXCUSED ON ACCOUNT OF THE NUMBER OF GUARDIANSHIPS. 275
-TITLE LXX.
-CONCERNING THE CURATOR OF AN INSANE PERSON OR A SPENDTHRIFT ... 276 THE TEXT OF
-THE CODE ........................................... 279
-TITLE LXXI.
-LANDS AND OTHER PROPERTY BELONGING TO MINORS SHALL NOT BE ALIENATED OR
-ENCUMBERED WITHOUT A DECREE ................. 281
-TITLE LXXII. WHEN THERE is No NEED OF A DECREE .............................
-284
-TITLE LXXIII.
-WHERE ANYONE, NOT BEING AWARE THAT PROPERTY BELONGS TO A MINOR, PURCHASES IT
-WITHOUT A DECREE ...................... 285
-TITLE LXXIV.
-WHERE A MINOR, AFTER ATTAINING His MAJORITY, EATIFIES AN ALIENATION MADE
-WITHOUT A DECREE ................................ 286
-TITLE LXXV.
-CONCERNING LEGAL PROCEEDINGS TO BE INSTITUTED AGAINST MAGISTRATES
-....................................... 287
-
-BOOK VI..
-TITLE I.
-
-CONCERNING FUGITIVE AND MUNICIPAL SLAVES, FREEDMEN, AND ARTISANS ASSIGNED TO
-DIFFERENT WORKS WHO BELONG TO PRIVATE INDIVIDUALS OR TO THE STATE
-........................................ 289
-TITLE II. CONCERNING THEFTS AND THE OFFENCE OF CORRUPTING A SLAVE ...... 291
-NEW CONSTITUTION OF THE EMPEROR FREDERICK .................... 295
-TITLE III. CONCERNING THE SERVICES OF FREEDMEN ........................... 299
-TITLE IV.
-CONCERNING THE PROPERTY OF FREEDMEN AND THE EIGHTS OF PATRONAGE
-......................................................... 302
-TITLE V.
-WHERE AN ALIENATION HAS BEEN MADE BY FREEDMEN IN ORDER TO DEFRAUD THEIR PATRON
-...................................... 303
-TITLE VI. CONCERNING THE DEFERENCE TO BE SHOWN TO A PATRON ............. 303
-TITLE VII. CONCERNING FREEDMEN AND THEIR CHILDREN ...................... 305
-TITLE Vill,
-CONCERNING THE RIGHT TO WEAR GOLD RINGS, AND THE RESTITUTION OF BIRTH
-................................................... 306
-TITLE IX.
-WHO CAN BE ADMITTED TO THE PRAETORIAN POSSESSION OF PROPERTY AND WITHIN WHAT
-TIME THIS SHOULD TAKE PLACE ............ 306
-TITLE X.
-WHEN THE SHARES OF AN ESTATE TO WHICH THOSE WHO Do NOT DEMAND THEM ARE ENTITLED
-ACCRUE TO OTHERS, WHO ASK POSSESSION OF THE SAME
-........................................ 308
-TITLE XI.
-CONCERNING THE PRAETORIAN POSSESSION OF PROPERTY IN ACCORDANCE WITH THE
-PROVISIONS OF THE WILL ........................... 308
-TITLE XII.
-CONCERNING THE POSSESSION OF AN ESTATE IN OPPOSITION TO THE PROVISIONS OF THE
-WILL WHICH .THE PRAETOR PROMISES TO CHILDREN .. 309
-TITLE XIII.
-CONCERNING PRAETORIAN POSSESSION OF THE ESTATE OF A FREEDMAN CONTRARY TO THE
-PROVISIONS OF THE WILL GRANTED TO His PATRONS OR THEIR CHILDREN
-.......................................... 309
-TITLE XIV. CONCERNING THE PROCEEDING UNDE LIBERI ......................... 310
-TITLE XV. CONCERNING THE PROCEEDINGS UNDE LEGITIMI AND UNDE COGNATI .... 310
-TITLE XVI. CONCERNING THE EDICT REGULATING THE SUCCESSION ................ 311
-TITLE XVII. CONCERNING THE CARBONIAN EDICT ................................ 312
-TITLE XVIII. CONCERNING THE SUCCESSION UNDE VIR ET UXOR ....................
-312
-TITLE XIX.
-CONCERNING THE REJECTION OF THE POSSESSION OF THE PROPERTY OF AN ESTATE
-.................................................. 313
-TITLE XX. CONCERNING HOTCHPOT ........................................... 313
-TITLE XXI. PAGE CONCERNING THE WILL OF A SOLDIER
-............................... 321
-TITLE XXII. WHO CAN MAKE A WILL AND WHO CANNOT ........................ 325
-TITLE XXIII.
-CONCERNING WILLS, AND IN WHAT WAY THEY SHOULD BE DRAWN UP. . 329 THE TEXT OF
-THE CODE ........................................... 335
-TITLE XXIV.
-CONCERNING THE APPOINTMENT OF HEIRS, AND WHAT PERSONS CANNOT BE APPOINTED HEIRS
-......................................... 342
-TITLE XXV.
-CONCERNING APPOINTMENTS, SUBSTITUTIONS, AND EESTITUTIONS MADE CONDITIONALLY
-............................................... 345
-TITLE XXVI. CONCERNING PUPILLARY AND OTHER SUBSTITUTIONS .................. 349
-
-
-
-THE ENACTMENTS OF JUSTINIAN.
-III. THE CODE.
-((Continued..))
-
-THE CODE OF OUR LORD THE EMPEROR JUSTINIAN.  SECOND EDITION.
-(Continued.)
-
-* BOOK IV.
-* TITLE I. CONCERNING PROPERTY LOANED AND THE OATH.
+* 4.I. CONCERNING PROPERTY LOANED AND THE OATH.
 
 
 1. The Emperor Antoninus to Herculianus.
@@ -577,9 +305,7 @@ infamous profit as the result of his own crime.
 Given at Constantinople, on the fifteenth of the Kalendsof November, after the
 Consulate of Lampadius and Orestes, 532.
 
-
-
-TITLE II.  WHERE A CERTAIN THING is DEMANDED.
+* 4.II. WHERE A CERTAIN THING is DEMANDED.
 
 1. The Emperors Severus and Antoninus to Modestinus.
 You do not ask what is just or customary when you request that you and your
@@ -735,9 +461,7 @@ oath himself or to tender it, as the judge may determine.
 The laws relating to contracts made in the country, which have been, up to this
 time, valid, are hereby confirmed.
 
-
-
-TITLE III.  CONCERNING SUFFRAGE.
+* 4.III. CONCERNING SUFFRAGE.
 
 1. The Emperors Theodosius, Arcadius, and Honorius to Rufinus, Prastorian
 Prefect.
@@ -764,10 +488,7 @@ Given at Constantinople, on the third of the Nonesof March, dur-, ing the
 Consulate of Arcadius, Consul for the third time, and Honorius, Consul for the
 second time, 394.
 
-
-
-TITLE IV. CONCERNING THE PROHIBITED SEQUESTRATION OF MONEY.
-
+* 4.IV. CONCERNING THE PROHIBITED SEQUESTRATION OF MONEY.
 
 1. The Emperors Honorius and Theodosius to John, Praetorian Prefect.
 Whenever money is demanded by virtue of some contract, necessity for its
@@ -780,10 +501,7 @@ Given at Ravenna, on the sixth of the Idesof July, during the Consulate of
 Honorius, Consul for the thirteenth time, and Theodosius, Consul for the tenth
 time, 422.
 
-
-
-TITLE V.  CONCERNING THE RECOVERY OF A DEBT WHICH WAS PAID WITHOUT
-BEING DUE.
+* 4.V. CONCERNING THE RECOVERY OF A DEBT WHICH WAS PAID WITHOUT BEING DUE.
 
 1. The Emperor Antoninus to Mutianus.
 There is no doubt that money which has been paid through mistake, and not by
@@ -879,10 +597,7 @@ party.
 Given at Constantinople, on the Kalendsof October, under the fifth Consulate of
 Lampadius and Orestes, 530.
 
-
-
-TITLE VI.  CONCERNING THE ACTION FOR RECOVERY OF PROPERTY GIVEN FOR
-SOME CONSIDERATION.
+* 4.VI. CONCERNING THE ACTION FOR RECOVERY OF PROPERTY GIVEN FOR SOME CONSIDERATION.
 
 1. The Emperor Antoninus to Callisthenides.
 You state that a sum of money was received by you by way of dowry, under an
@@ -987,10 +702,7 @@ contract.
 Given on the seventeenth of the Kalendsof January, during the Consulate of the
 Csesars, 300.
 
-
-
-TITLE VII.  CONCERNING THE ACTION FOR RECOVERY ON ACCOUNT OF A
-DISHONORABLE CONSIDERATION.
+* 4.VII.  CONCERNING THE ACTION FOR RECOVERY ON ACCOUNT OF A DISHONORABLE CONSIDERATION.
 
 1. The Emperors Antoninus to Ingemms.
 If suit is brought against you on your bond, and you have received no money,
@@ -1045,10 +757,7 @@ default.
 Given at Nicomedia, on the fifth of the Kalendsof December, during the above-
 mentioned Consulate, 299.
 
-
-
-TITLE Vill.
-CONCERNING THE ACTION FOR THE RECOVERY OP STOLEN PROPERTY.
+* 4.VIII. CONCERNING THE ACTION FOR THE RECOVERY OP STOLEN PROPERTY.
 
 1. The Emperors Diocletian and Maximian, and the Csesars, to Hermogenes.
 The Governor of the province, being aware of the facts, shall be careful to
@@ -1062,10 +771,7 @@ It is a well-established rule of law that a sheep thief shall bear the loss of
 stolen property, if this occurs before his offer to make restitution.
 Given on the Kalendsof May, under the Consulate of the Caesars, 294.
 
-
-
-TITLE IX.  CONCERNING THE PERSONAL SUIT FOR RECOVERY UNDER THE LAW,
-WHERE THERE is No CONSIDERATION, OR WHERE THE CONSIDERATION is UNJUST.
+* 4.IX. CONCERNING THE PERSONAL SUIT FOR RECOVERY UNDER THE LAW, WHERE THERE IS NO CONSIDERATION, OR WHERE THE CONSIDERATION IS UNJUST.
 
 1. The Emperors Diocletian and Maximian, to Ulpiiis.
 Although debts cannot be collected before they are due, still, if you are a
@@ -1099,9 +805,7 @@ the return of the obligation.
 Given on the seventeenth of the Kalendsof January, during the Consulate of the
 Caesars, 300.
 
-
-
-TITLE X. CONCERNING OBLIGATIONS AND ACTIONS.
+* 4.X. CONCERNING OBLIGATIONS AND ACTIONS.
 
 1. The Emperor Gordian to Valeria.
 You state that a certain sum of money has been given by you to a person whom
@@ -1233,9 +937,7 @@ At present, however, under the new law, all trustees, mandators, and sureties
 must first be sued before having recourse to those in possession of the
 pledges.
 
-
-TITLE XI
-ACTIONS SHOULD BE BROUGHT BY HEIRS AND AGAINST HEIRS.
+* 4.XI ACTIONS SHOULD BE BROUGHT BY HEIRS AND AGAINST HEIRS.
 
 1. The Emperor Justinian to John, Prsetorian Prefect.
 In former times, stipulations, legacies, and other contracts to be executed
@@ -1252,11 +954,7 @@ be frustrated, through the excessive subtlety of the legal terms employed.
 Given at Constantinople, on the fifteenth of the Kalendsof November, after the
 Consulate of Lampadius and Orestes, 531.
 
-
-TITLE XII.
-A WIFE CANNOT BE SUED ON ACCOUNT OF HER HUSBAND,
-OR A HUSBAND ON ACCOUNT OF His WIFE, OR A MOTHER
-ON ACCOUNT OF HER SON.
+* 4.XII. A WIFE CANNOT BE SUED ON ACCOUNT OF HER HUSBAND, OR A HUSBAND ON ACCOUNT OF His WIFE, OR A MOTHER ON ACCOUNT OF HER SON.
 
 1. The Emperors Diocletian and Maximian, and the Csesars, to Asclepiodota.
 You will argue in vain with reference to the validity of contracts made by your
@@ -1297,12 +995,7 @@ repay fourfold its value, whatever that may be, to "the person who suffered the
 wrong, and shall lose his right of action to recover the debt for the payment
 of which he took the property.
 
-
-TITLE XIII.
-A SON CANNOT BE SUED ON ACCOUNT OF His FATHER,
-OR A FATHER ON ACCOUNT OP His EMANCIPATED SON, OR
-A FREEDMAN ON ACCOUNT OF His PATRON, OR A SLAVE
-ON ACCOUNT OF His MASTER.
+* 4.XIII. A SON CANNOT BE SUED ON ACCOUNT OF His FATHER, OR A FATHER ON ACCOUNT OP His EMANCIPATED SON, OR A FREEDMAN ON ACCOUNT OF His PATRON, OR A SLAVE ON ACCOUNT OF His MASTER.
 
 1. The Emperor Gordian to the Soldier Candidus.
 A father cannot be sued on account of the debt of his son who is his own
@@ -1369,10 +1062,7 @@ We order that this law shall be inserted among the Imperial Constitutions under
 this Title: "A son shall not be sued on account of his father, etc."
 Given during the month of November, 1158.
 
-
-
-TITLE XIV.
-WHETHER A SLAVE is LIABLE FOR His OWN ACT AFTER His MANUMISSION.
+* 4.XIV. WHETHER A SLAVE is LIABLE FOR His OWN ACT AFTER His MANUMISSION.
 
 1. The Emperors Severus and Antoninus to Juventian.
 Although you have made a contract with a slave who is to be free under a
@@ -1418,10 +1108,7 @@ will obtain a decision in accordance with law.
 Given on the second of the Idesof April, at Byzantium, during the Consulate of
 the above-mentioned Emperors, 287.
 
-
-
-TITLE XV.  WHEN THE TREASURY, OR A PRIVATE INDIVIDUAL, CAN OR SHOULD
-SUE DEBTORS OR THEIR DEBTORS.
+* 4.XV.  WHEN THE TREASURY, OR A PRIVATE INDIVIDUAL, CAN OR SHOULD SUE DEBTORS OR THEIR DEBTORS.
 
 1. The Emperors Severus and Antoninus to Valerian.
 The property of a guardian, who holds nothing belonging to his ward, cannot be
@@ -1454,9 +1141,7 @@ unless he assigns his rights of action; but he can legally avail himself of an
 equitable action in his own name.
 Given on the Kalendsof January, under the Consulate of the Caesars, 294.
 
-
-
-TITLE XVI. CONCERNING HEREDITARY ACTIONS.
+* 4.XVI. CONCERNING HEREDITARY ACTIONS.
 
 1. The Emperor Gordian to Hermerotiis.
 You should demand the money which you say was owing to you from your mother in
@@ -1512,10 +1197,7 @@ the heirs liable to such an action.
 Given at Nicomedia, on the sixth of the Idesof December, during the Consulate
 of the Csesars, 300.
 
-
-
-TITLE XVII.  FOR WHAT AN AMOUNT HEIRS CAN BE SUED ON ACCOUNT OF THE
-CRIMES OF DECEASED PERSONS.
+* 4.XVII. FOR WHAT AN AMOUNT HEIRS CAN BE SUED ON ACCOUNT OF THE CRIMES OF DECEASED PERSONS.
 
 1. The Emperors Diocletian and Maximian, and the Csesars, to Macedonus.
 It is an absolute rule of law that where anyone has been guilty of violence,
@@ -1526,9 +1208,7 @@ another.
 Given on the fifth of the Kalendsof May, during the Consulate of the Csesars,
 294.
 
-
-
-TITLE XVIII. CONCERNING THE SUM OF MONEY AGREED UPON.
+* 4.XVIII. CONCERNING THE SUM OF MONEY AGREED UPON.
 
 1. The Emperor Gordian to Felix.
 If you have consented to discharge someone else's debt, the action to recover
@@ -1614,9 +1294,7 @@ ought, by no means, to exclude different forms of the same action.
 Given on the Kalendsof November, after the fifth Consulate of Lampadius and
 Orestes, 531.
 
-
-
-TITLE XIX. CONCERNING PROOFS.
+* 4.XIX. CONCERNING PROOFS.
 
 1. The Emperors Severus and Antoninus to Faustinus.
 As a creditor who demands money, which he says he has loaned, is compelled to
@@ -1817,9 +1495,7 @@ anything which has been established by reliable witnesses; or clearly proved by
 documentary evidence; or shown to be true by undoubted testimony clearer than
 light.
 
-
-
-TITLE XX.  CONCERNING WITNESSES.
+* 4.XX. CONCERNING WITNESSES.
 
 1. The Emperor Alexander to Carpus.
 If a controversy arises with reference to your being freeborn, defend your case
@@ -2016,12 +1692,7 @@ of every legal resource to contradict the witnesses and their testimony.
 Given on the sixth of the Kalendsof April, during the Consulate of Lampadius
 and Orestes, 531.
 
-
-
-TITLE XXI.  CONCERNING THE CONFIDENCE TO BE REPOSED IN WRITTEN
-INSTRUMENTS, AND THEIR Loss, AND WHEN RECEIPTS AND COUNTER-RECEIPTS
-SHOULD BE GIVEN, AND CONCERNING WHAT THINGS CAN BE DONE WITHOUT THEIR
-BEING COMMITTED TO WRITING.
+* 4.XXI. CONCERNING THE CONFIDENCE TO BE REPOSED IN WRITTEN INSTRUMENTS, AND THEIR LOSS, AND WHEN RECEIPTS AND COUNTER-RECEIPTS SHOULD BE GIVEN, AND CONCERNING WHAT THINGS CAN BE DONE WITHOUT THEIR BEING COMMITTED TO WRITING.
 
 1. The Emperor Antoninus to Marchia.
 If you prove that your debtors owe you money for some reason or other, after
@@ -2305,12 +1976,7 @@ claim by affirmative evidence, as prescribed by the rule, "Ei incumbit probatio
 qui dicit, non qui negat,"a doctrine which has been adopted by all modern
 systems of
 
-
-
-TITLE XXII.
-WHAT HAS ACTUALLY BEEN DONE HAS MORE FORCE THAN WHAT HAS BEEN SIMULATED AND
-EXPRESSED
-IN WORDS.
+* 4.XXII. WHAT HAS ACTUALLY BEEN DONE HAS MORE FORCE THAN WHAT HAS BEEN SIMULATED AND EXPRESSED IN WORDS.
 
 1. The Emperors Valerian and Gallienus to Rufinus.
 In contracts, the truth of the matter should rather be considered than what is
@@ -2532,9 +2198,7 @@ Spanish tribunals. (Codigo Civil de Espana,Arts. 1244-1247.)
 At present, the English and American rules of evidence probably coincide more
 nearly than those of any other branch of jurisprudence.---ED.
 
-
-
-TITLE XXIII. CONCERNING LOANS FOR USE.
+* 4.XXIII. CONCERNING LOANS FOR USE.
 1. The Emperors Diocletian and Maximian to Sciola.
 Those things which are destroyed by the exertions of superior force cannot be
 at the risk of the persons to whom the property was lent for use; but as you
@@ -2562,9 +2226,7 @@ Emperors.
 The return of a loan cannot properly be refused under the pretext of a debt.
 Given on the twelfth of the Kalendsof December, during the same Consulate.
 
-
-
-TITLE XXIV. CONCERNING THE ACTION OP PLEDGE.
+* 4.XXIV. CONCERNING THE ACTION OP PLEDGE.
 1. The Emperor Alexander to Demetrius.
 What has been obtained by the labor of the female slave, or from the rent of
 the house which you state is held in pledge, will disclose the amount of the
@@ -2665,10 +2327,7 @@ the debtor, against whom prescription based upon long time can not be pleaded.
 Given on the twelfth of the Kalendsof December, during the Consulate of the
 Csesars.
 
-
-
-TITLE XXV.
-CONCERNING THE ACTIO INSTITORIA AND THE ACTIO EXERCITORIA.
+* 4.XXV. CONCERNING THE ACTIO INSTITORIA AND THE ACTIO EXERCITORIA.
 1. The Emperor Antoninus to Hermes.
 Your slave, by receiving a sum of money which had been loaned, renders you
 liable to the Actio institoria,when you have appointed him to discharge some
@@ -2712,13 +2371,7 @@ action resembling the Actio institoria.
 Given on the fourteenth of the Kalendsof December, during the Consulate of the
 Csesars.
 
-
-
-TITLE XXVI.
-WHEN BUSINESS is SAID TO HAVE BEEN TRANSACTED WITH ONE WHO is UNDER THE CONTROL
-OF ANOTHER, OR WITH REFERENCE TO PECULIUM; OR WHERE SOMETHING HAS BEEN DONE BY
-THE ORDER OF ANOTHER; OR WHERE ANYTHING is EMPLOYED FOR THE BENEFIT OF THE
-PROPERTY OF THE PERSON IN CONTROL.
+* 4.XXVI. WHEN BUSINESS is SAID TO HAVE BEEN TRANSACTED WITH ONE WHO is UNDER THE CONTROL OF ANOTHER, OR WITH REFERENCE TO PECULIUM; OR WHERE SOMETHING HAS BEEN DONE BY THE ORDER OF ANOTHER; OR WHERE ANYTHING is EMPLOYED FOR THE BENEFIT OF THE PROPERTY OF THE PERSON IN CONTROL.
 
 1. The Emperors Severus and Antoninus to Mlius.
 When a son under paternal control is appointed a guardian or curator, the
@@ -2869,10 +2522,7 @@ Given at Ravenna, on the fifth of the Idesof July, during the Consulate of
 Honorius, Consul for the tenth time, and Theodosius, Consul for the sixth time,
 415.
 
-
-
-TITLE XXVII.
-BY MEANS OF WHAT PERSONS PROPERTY CAN BE ACQUIRED BY Us.
+* 4.XXVII. BY MEANS OF WHAT PERSONS PROPERTY CAN BE ACQUIRED BY Us.
 
 1. The Emperors Diocletian and Maximian to Marcella.
 It is an undoubted rule of law that, with the exception of possession, nothing
@@ -2932,9 +2582,7 @@ important than his order.
 Given on the fifteenth of the Kalendsof December, during the fifth Consulate of
 Lampadius and Orestes, 530.
 
-
-
-TITLE XXVIII. CONCERNING THE MACEDONIAN DECREE OP THE SENATE.
+* 4.XXVIII. CONCERNING THE MACEDONIAN DECREE OP THE SENATE.
 1. The Emperor Mlius Pertinax to Atilius.
 If you can prove that for good reasons you believed the statements of a son
 under paternal control, to whom you lent money, and who stated that he was the
@@ -3011,9 +2659,7 @@ to have borrowed and expended any money except for some purpose connected with
 his military service. Given on the twelfth of the Kalendsof August, during the
 fifth Consulate of Lampadius and Orestes, 530.
 
-
-
-TITLE XXXXIIXX..CONCERNING THE VELLEIAN DECREE OF THE SENATE.
+* 4.XXIIX. CONCERNING THE VELLEIAN DECREE OF THE SENATE.
 1. The Emperor Antoninus to Lucilla.
 Relief is granted by the Decree of the Senate to women who become liable, or
 assume the obligations of others, when the contracting parties are not aware of
@@ -3316,8 +2962,7 @@ authority of the Velleian Decree of the Senate becoming inoperative in a case
 of this kind.
 
 
-
-TITLE XXX. CONCERNING MONEY WHICH Is NOT COUNTED OUT.
+* 4.XXX. CONCERNING MONEY WHICH IS NOT COUNTED OUT.
 1. The Emperors Severus and Antoninus to Hilarius.
 If the sum of money was not counted out to you, and you allege that for this
 reason you have executed a bond for the payment of something which you did not
@@ -3517,8 +3162,7 @@ interest, or other written instruments against which an exception of this kind
 can be pleaded?
 
 
-
-TITLE XXXXXXII..CONCERNING SET-OFF.
+* 4.XXXI. CONCERNING SET-OFF.
 1. The Emperor Antoninus to Dianensus.
 The Senate decreed, and it has frequently been stated in rescripts, that there
 is ground for set-off in fiscal cases, where the same administration both owes
@@ -3623,8 +3267,7 @@ by the creditor. The Judicature Acts establish a distinction between a set-off
 and a counter-claim. "A counter-claim is different from a set-off for it is
 
 
-
-TITLE XXXII. CONCERNING INTEREST.
+* 4.XXXII. CONCERNING INTEREST.
 1. The Emperor Antoninus Pius to Evocatus.
 Where, after investigation, the agreement to pay interest is proved to have
 been legally made, even though it was not reduced to writing, it will still be
@@ -3883,18 +3526,20 @@ interest, and there will be no augmentation of other interest, and the only
 accrual will be what is derived from the original principal.
 
 
+* 4.XXXIII. CONCERNING MARITIME LOANS.
 
-TITLE XXXIII. CONCERNING MARITIME LOANS.
 1. The Emperors Diocletian and Maximian to Honoratus.
 It is clear that money transported by sea, which is at the risk of the
 creditor, should be exempt from the law relating to interest only until the
 ship has arrived at her destination.
+
 2. The Same to Chosimania.
 As you state that you have lent money under the condition that it shall be
 repaid in the Imperial City of Rome, and allege that the uncertainty of the
 risk due to the perils of navigation has not been assumed by you, there is no
 doubt that you are not entitled to collect interest above the legal rate on the
 money loaned.
+
 3. The Same to Junia.
 As you state that you have negotiated a maritime loan under the condition that
 after the voyage, which your debtor stated that he was about to make to Africa,
@@ -3906,16 +3551,14 @@ merchandise, the cargo of the ship was confiscated by the Treasury, the rule of
 public law does not permit that you should bear the loss of the merchandise
 which is stated was not caused by a tempest, but was due to the inveterate
 avarice and unlawful boldness of your debtor.
+
 4. The Same to Eucharistus.
 The loss of money during its transport by sea, when it was not lent at the risk
 of the creditor, does not render the debtor liable before the ship arrives at
 her destination, but the debtor will not be released from the responsibility
 for loss by shipwreck, where no agreement of this kind was made.
 
-
-
-TITLE XXXIV.  CONCERNING THE ACTION ON DEPOSIT, AND THE COUNTER
-ACTION.
+* 4.XXXIV. CONCERNING THE ACTION ON DEPOSIT, AND THE COUNTER ACTION.
 
 1. The Emperor Alexander to Mestenus.
 Where, through an attack by robbers or some other accident, certain ornaments
@@ -4052,9 +3695,7 @@ of the opportune time as his co-heir did, and both had received their shares,
 no ground would be left for subsequent alterations.
 
 
-
-TITLE XXXV.
-CONCERNING THE ACTION OF MANDATE, AND THE COUNTER ACTION.
+* 4.XXXV. CONCERNING THE ACTION OF MANDATE, AND THE COUNTER ACTION.
 
 1. The Emperors Severus and Antoninus to Leonidas.
 You can avail yourself of the action on mandate for the collection of both
@@ -4271,9 +3912,7 @@ everything which has been devised against the Constitution of Anastasius shall
 hereafter be annulled by this Our Law.
 
 
-
-TITLE XXXVI.
-CONCERNING A SLAVE WHO HAS DIRECTED A STRANGER TO PURCHASE HIM.
+* 4.XXXVI. CONCERNING A SLAVE WHO HAS DIRECTED A STRANGER TO PURCHASE HIM.
 1. The Emperors Diocletian and Maximian, and the Csesars, to Dionyna.
 If a slave should request a stranger to purchase him, even though it may not be
 believed that a right of action on mandate will arise on account of the act of
@@ -4294,8 +3933,7 @@ sold, for as the money was paid out of the peculium,which belonged to him, it
 could not release the purchaser from liability for the obligation.
 
 
-
-TITLE XXXXXXVVIIII..CONCERNING THE ACTION OF PARTNERSHIP.
+* 4.XXXVII. CONCERNING THE ACTION OF PARTNERSHIP.
 1. The Emperors Diocletian and Maximian, and the Csesars, to Aurelius.
 It has been decided that a partnership can be contracted where one of the
 parties furnished money and the other labor.
@@ -4340,10 +3978,7 @@ just as in all other contracts, and permit him in a case of this kind to
 provide in a proper manner for the benefit of the said insane person.
 
 
-
-TITLE XXXVIII.
-«
-CONCERNING THE CONTRACT OF PURCHASE AND SALE.
+* 4.XXXVIII. CONCERNING THE CONTRACT OF PURCHASE AND SALE.
 1. The Emperors Valerian and Gallienus to Paulus.Sales which are made in some
 other place than that in which the property is situated are not, for this
 reason, considered void.
@@ -4454,10 +4089,7 @@ in such expedients, and We abolish them by the present law.
 We decree that this rule shall also apply to leases of the same character.
 
 
-
-TITLE XXXIX.
-CONCERNING THE INHERITANCE OR SALE OF RIGHTS OP
-ACTION.
+* 4.XXXIX. CONCERNING THE INHERITANCE OR SALE OF RIGHTS OF ACTION.
 1. The Emperors Severus and Antoninus to Geminius.
 It is absolutely certain that where an estate is sold in the name of the
 Treasury, the purchaser is liable for the debts, and the Treasury is not liable
@@ -4513,10 +4145,7 @@ authorities was used to indicate both, there is no reason why any distinction
 should be made between praetorian actions of this kind.
 
 
-
-TITLE XL.
-WHAT PROPERTY CANNOT BE SOLD, AND WHAT PERSONS ARE FORBIDDEN TO SELL OR
-PURCHASE IT.
+* 4.XL. WHAT PROPERTY CANNOT BE SOLD, AND WHAT PERSONS ARE FORBIDDEN TO SELL OR PURCHASE IT.
 1. The Emperors Gratian, Valentinian, and Theodosius to Faustus, Count of the
 Sacred Largesses.
 No private person shall have the right to dye either silk or wool with the
@@ -4540,8 +4169,8 @@ proscribed, and incur the loss of all his property, and that persons of
 inferior station shall suffer capital punishment.
 
 
+* 4.XLI. WHAT PROPERTY SHOULD NOT BE EXPORTED.
 
-TITLE XLI. WHAT PROPERTY SHOULD NOT BE EXPORTED.
 1. The Emperors Valens and Gratian to Theodore, General of the Army.
 No one shall have authority to transport to the country of the barbarians
 either wine, oil, or other liquids, either for the purpose of consumption or
@@ -4560,8 +4189,7 @@ that his entire property shall immediately be confiscated, and that he shall
 suffer the penalty of death.
 
 
-
-TITLE XLII. CONCERNING EUNUCHS.
+* 4.XLII. CONCERNING EUNUCHS.
 1. The Emperor Constantine to Aurelius, Duke of Mesopotamia.
 If anyone, after the promulgation of this law, should make any eunuchs in the
 Roman Empire, he shall be punished with death; and the slave, as well as the
@@ -4579,8 +4207,7 @@ buy or sell, wherever they please, eunuchs of barbarous nations who have been
 made such outside the boundaries of Our Empire.
 
 
-
-TITLE XLIII. CONCERNING FATHERS WHO HAVE SOLD THEIR CHILDREN.
+* 4.XLIII. CONCERNING FATHERS WHO HAVE SOLD THEIR CHILDREN.
 
 1. The Emperors Diocletian and Maximian to Papiniana.
 It is a plain rule of law that children cannot be alienated by their parents,
@@ -4597,9 +4224,7 @@ to restore it to its freeborn condition, provided he tenders its value to the
 owner, or furnishes him another slave in its stead.
 
 
-
-TITLE XLIV. CONCERNING THE RESCISSION OF A SALE.
-
+* 4.XLIV. CONCERNING THE RESCISSION OF A SALE.
 
 1. The Emperor Alexander to Maro.
 If your father, having been compelled by force, should sell his house, the sale
@@ -4742,9 +4367,7 @@ clothing, gold, silver, or slaves, whenever they are sold by Our subjects,
 under penalty of losing the price which they paid.
 
 
-
-TITLE XLV.
-WHEN IT is PERMITTED TO REFUSE TO COMPLY WITH A CONTRACT OF SALE.
+* 4.XLV. WHEN IT is PERMITTED TO REFUSE TO COMPLY WITH A CONTRACT OF SALE.
 1. The Emperor Gordian to Rufinus.
 When a contract of purchase and sale has not yet begun to be carried into
 effect, it can be rescinded with the acquiescence of both parties, for what has
@@ -4762,9 +4385,7 @@ is required to furnish you under the contract of sale than the amount of the
 price which he paid.
 
 
-
-TITLE XLVI.
-WHERE A SALE is MADE ON ACCOUNT OF PUBLIC CONTRIBUTIONS.
+* 4.XLVI. WHERE A SALE is MADE ON ACCOUNT OF PUBLIC CONTRIBUTIONS.
 1. The Emperor Antoninus to Maternus.
 A sale should not be revoked on account of the non-payment of taxes, whether
 the former owner tenders the purchase-money, or a creditor interposes his right
@@ -4795,10 +4416,7 @@ Given on the day before the Idesof December, during the Consulate of Felicianus
 and Titian, 337.
 
 
-
-TITLE XLVII.
-LAND CANNOT BE PURCHASED WITHOUT THE PAYMENT OF TAXES OR BALANCES WHICH ARE
-DUE.
+* 4.XLVII. LAND CANNOT BE PURCHASED WITHOUT THE PAYMENT OF TAXES OR BALANCES WHICH ARE DUE.
 1. The Emperor Alexander to Capito.
 An action will not lie in your favor against your stepmother and your father
 under an agreement which you allege was entered into between them by which she
@@ -4842,9 +4460,7 @@ Given at Antioch on the fourteenth of the Kalendsof March, during the Consulate
 of Julian, Consul for the fourth time, and Sallust, 363.
 
 
-
-TITLE XLVIII.
-CONCERNING THE RISKS AND ADVANTAGES ATTACHING TO PROPERTY SOLD.
+* 4.XLVIII. CONCERNING THE RISKS AND ADVANTAGES ATTACHING TO PROPERTY SOLD.
 1. The Emperor Alexander to Apollonius.
 After a sale has been perfected, every advantage and disadvantage which can
 affect the property disposed of will concern the purchaser,
@@ -4881,14 +4497,14 @@ delivered, provided the vendor was not in default; and as the slave did not die
 on account of some already existing defect the purchaser cannot legally refuse
 to pay the price.
 
+* 4.XLIX. CONCERNING THE ACTIONS OF PURCHASE AND SALE.
 
-
-TITLE XLIX.
-CONCERNING THE ACTIONS OF PURCHASE AND SALE. 1. The Emperor Antoninus to
+1. The Emperor Antoninus to
 Deliana.
 Bring an action of sale against the person to whom you sold the land, for you
 are not entitled to one in remagainst the purchaser, who is personally liable
 to you.
+
 2. The Emperors Valerian and Gallienus, and the Csssar Valerian to Domitian.
 You can bring the action of sale against your adversary for the purpose of
 recovering the balance of the price. You cannot be opposed by having a set-off
@@ -4987,12 +4603,7 @@ against him, for you have obtained possession of the land by sale; and
 therefore you must be aware that you should institute proceedings against him
 by means of an interdict, or by the Actio permissa.
 
-
-
-TITLE L.
-WHERE ANYONE HAS PURCHASED PROPERTY FOR ANOTHER,
-OR FOR HIMSELF IN THE NAME OF ANOTHER, OR WITH
-MONEY BELONGING TO ANOTHER.
+* 4.L. WHERE ANYONE HAS PURCHASED PROPERTY FOR ANOTHER, OR FOR HIMSELF IN THE NAME OF ANOTHER, OR WITH MONEY BELONGING TO ANOTHER.
 1. The Emperor Antoninus to Secundinus.
 If lands or slaves have been bought with your father's "money, and you assert
 that, nevertheless, the purchases were made in your mother's name, you should
@@ -5071,11 +4682,7 @@ this reason it is perfectly clear that an agreement of this kind can be made
 between persons who are absent, through the agency of a third party, as for
 instance, a messenger, or even by means of a letter.
 
-
-
-TITLE LI.
-CONCERNING THE PROHIBITED ALIENATION AND HYPOTHECATION OF THE PROPERTY OP
-OTHERS.
+* 4.LI. CONCERNING THE PROHIBITED ALIENATION AND HYPOTHECATION OF THE PROPERTY OF OTHERS.
 1. The Emperor Alexander to Cantianus.
 If it should be proved before the Governor of the province that Julian, without
 any right, sold your slaves to persons who knew that they did not belong to
@@ -5124,10 +4731,7 @@ contracts executed except in cases where the authority of the constitutions,
 the will of the testator, or the tenor of the agreement which forbade the
 alienation permits something of this kind to be done.
 
-
-
-TITLE LII. CONCERNING THE ALIENATION OF PROPERTY OWNED IN
-COMMON.
+* 4.LII. CONCERNING THE ALIENATION OF PROPERTY OWNED IN COMMON.
 1. The Emperor Antoninus to Apollodorus.
 If the purchaser of the land which you allege was sold by the coheirs of your
 paternal uncle cannot avail himself of the privilege of usucaption, or of
@@ -5161,11 +4765,7 @@ no written instrument was drawn up as evidence of the sale, and no special
 agreement was made, you will be obliged to pay to the purchaser the amount of
 his interest, if the shares belonging to the others should be evicted.
 
-
-
-TITLE LIII.
-THOSE WHO HAVE CHARGE OF THE AFFAIRS OF OTHERS ARE NOT FORBIDDEN TO ALIENATE
-THEIR OWN PROPERTY.
+* 4.LIII. THOSE WHO HAVE CHARGE OF THE AFFAIRS OF OTHERS ARE NOT FORBIDDEN TO ALIENATE THEIR OWN PROPERTY.
 1. The Emperors Severus and Antoninus to Publica.
 Guardians or curators are not forbidden to alienate their own property, even
 though they may have been legally declared indebted on account of their
@@ -5173,10 +4773,7 @@ administration. Therefore, your curator was able to encumber his property with
 the lien upon it to Our Treasury, which he could also have done to a private
 person.
 
-
-
-TITLE LIV.
-CONCERNING AGREEMENTS ENTERED INTO BETWEEN VENDOR AND PURCHASER.
+* 4.LIV. CONCERNING AGREEMENTS ENTERED INTO BETWEEN VENDOR AND PURCHASER.
 1. The Emperor Antoninus to Diotima.
 If you sold your estate under the condition that if the price should should not
 be paid within a certain time, the purchaser would forfeit the earnest money,
@@ -5245,10 +4842,7 @@ alienates property, permits his right to be transferred, except under such a
 condition, how can it be tolerated that he should suffer annoyance on account
 of a different interpretation of the contract?
 
-
-
-TITLE LV.
-WHERE A SLAVE is SOLD FOR THE PURPOSE OF BEING SENT OUT OF THE COUNTRY.
+* 4.LV. WHERE A SLAVE is SOLD FOR THE PURPOSE OF BEING SENT OUT OF THE COUNTRY.
 1. The Emperors Severus and Antoninus to Petronia.
 Slaves who have been sold under the condition of their being sent out of the
 country, or if this is not done, that they should be confiscated, can obtain
@@ -5288,10 +4882,7 @@ certain province, he will be allowed to reside in Italy. Therefore, if you can
 prove that the condition agreed upon was violated, you can avail yourself of
 the right to which, for this reason, you are entitled.
 
-
-
-TITLE LVI.
-WHERE A SLAVE HAS BEEN SOLD ON CONDITION THAT HE SHOULD NOT BE PROSTITUTED.
+* 4.LVI. WHERE A SLAVE HAS BEEN SOLD ON CONDITION THAT HE SHOULD NOT BE PROSTITUTED.
 1. The Emperor Alexander to Socrates.
 Our friend, the Prefect of the City, will grant the power of arrest to anyone
 who is entitled to it, in accordance with the Constitution
@@ -5321,11 +4912,7 @@ shameful commerce of her body, must not prostitute herself in a tavern under
 the pretext of serving therein, in order to avoid a fraudulent evasion of the
 condition prescribed.
 
-
-
-TITLE LVII.
-WHERE A SLAVE HAS BEEN ALIENATED UNDER THE CONDITION THAT HE WILL OR WILL NOT
-BE MANUMITTED.
+* 4.LVII. WHERE A SLAVE HAS BEEN ALIENATED UNDER THE CONDITION THAT HE WILL OR WILL NOT BE MANUMITTED.
 1. The Emperor Alexander to Patricenstis.
 If Patroclus, after he donated you to Hermia under the condition that if you
 served her as a slave for sixteen continuous years, she would grant you your
@@ -5382,9 +4969,7 @@ since it has been decided, for
 excellent reasons, that where the vendor did not subsequently change his mind,
 compliance with the condition was not necessary for the purpose of manumission.
 
-
-
-TITLE LVIII. CONCERNING ^DILIAN ACTIONS.
+* 4.LVIII. CONCERNING ^DILIAN ACTIONS.
 1. The Emperor Antoninus to Decensius.
 If someone, not in good faith, but with the intention of committing fraud,
 should sell you a slave who is in the habit of running away, or one with some
@@ -5439,11 +5024,7 @@ Given at Constantinople, on the third of the Kalendsof July, during the
 Consulate of Honorius, Consul for the ninth time, and Evodius, Consul for the
 fifth time.
 
-
-
-TITLE LIX.
-CONCERNING MONOPOLIES, UNLAWFUL AGREEMENTS OF MERCHANTS, THE ARTIFICERS OR
-CONTRACTORS, AND THE ILLEGAL AND PROHIBITED PRACTICES OF BATH PROPRIETORS.
+* 4.LIX. CONCERNING MONOPOLIES, UNLAWFUL AGREEMENTS OF MERCHANTS, THE ARTIFICERS OR CONTRACTORS, AND THE ILLEGAL AND PROHIBITED PRACTICES OF BATH PROPRIETORS.
 1. The Emperdr Zeno to Constantine, Prsetorian Prefect.
 We order that no one shall be so bold as to monopolize the sale of clothing of
 any kind, or of fish, combs, copper utensils, or anything else having reference
@@ -5523,9 +5104,7 @@ to two years. "Os que tiverem promovido a colligagao ou a dirigirem, e bem
 assim os que usarem de violencia ou ameaga para assegurar a execucao, serdo
 punidos com a prisao de um a dois annos." (Codigo Penal PortuguezII, XI, I.)
 
-
-
-TITLE LX. CONCERNING FAIRS AND MARKETS.
+* 4.LX. CONCERNING FAIRS AND MARKETS.
 1. The Emperors Valens and Valentinian to Probus, Prsetorian Prefect.
 Persons who either by Our authority, or through the indulgence of Our
 predecessors enjoy the privilege of holding markets or fairs, obtain the
@@ -5535,9 +5114,7 @@ are being held; nor can they be compelled by any individual to pay a certain
 price for the places which they temporarily occupy; nor can they, under the
 pretext of a private debt, be subjected to any annoyance while they are there.
 
-
-
-TITLE LXI.
+* 4.LXI.
 CONCERNING DUTIES ON MERCHANDISE, AND OFFENCES TO WHICH THEY ARE SUBJECT.
 1. The Emperors Severus and Antoninus to Victorinus.
 If you were legally manumitted before any question of the violation of the
@@ -5644,9 +5221,7 @@ others; therefore, the enjoyment of the portion designated shall be permitted
 to these cities so that they will have full power to farm them out to the
 extent of their interest in the same.
 
-
-
-TITLE LXII. NEW DUTIES ON MERCHANDISE CANNOT BE ESTABLISHED.
+* 4.LXII. NEW DUTIES ON MERCHANDISE CANNOT BE ESTABLISHED.
 1. The Emperor Severus and Antoninus to Vietorinus.
 The collection of new duties should not be rashly permitted, but if your city
 is so poor that extraordinary means must be taken to
@@ -5670,9 +5245,7 @@ shall be punished with perpetual exile.
 The supervision of this employment is hereby conferred upon you and your
 successors.
 
-
-
-TITLE LXIII. CONCERNING COMMERCE AND MERCHANTS.
+* 4.LXIII. CONCERNING COMMERCE AND MERCHANTS.
 1. The Emperors Valens and Valentinian to Julian, Count of the East.
 Merchants who are attached to Our palace, as well as those forming part of the
 households of nobles, are admonished to acknowledge any claims which they owe
@@ -5738,10 +5311,7 @@ private life, hold some civil office, or belong to the army, are informed that
 they must absolutely abstain from any rash behavior of this kind, or be
 subjected to the punishments above mentioned.
 
-
-
-TITLE LXIV.
-CONCERNING THE EXCHANGE OF PROPERTY AND THE ACTIO PK^SCRIPTIS VERBIS.
+* 4.LXIV. CONCERNING THE EXCHANGE OF PROPERTY AND THE ACTIO PK^SCRIPTIS VERBIS.
 1. The Emperor Gordian to Therasa.
 If your paternal uncle had land for sale, and your father gave him another
 tract by way of price, although the value was not appraised, and you state that
@@ -5799,9 +5369,7 @@ condition has been fortified by the delivery of the property, you will be
 entitled to the Actio prtescriptis verbisto compel the fulfillment of the
 contract in accordance with your demand.
 
-
-
-TITLE LXV. CONCERNING LEASING AND HIRING.
+* 4.LXV. CONCERNING LEASING AND HIRING.
 1. The Emperor Antoninus to Agrippina.
 The owner of a warehouse is not liable to the lessee for the exertion of
 superior force, or the breaking in of robbers. Where, however, neither of these
@@ -6035,9 +5603,7 @@ penalty which We have decreed shall be enforced in future cases against
 soldiers who have violated Our law and those persons who have allowed them to
 rent their property.
 
-
-
-TITLE LXVI. CONCERNING THE LAW OF EMPHYTEUSIS.
+* 4.LXVI. CONCERNING THE LAW OF EMPHYTEUSIS.
 1. The Emperor Zeno to Sebastian, Praetorian Prefect.
 The right of emphyteusis should not be classed with those conferred by lease or
 alienation, but We have decreed that it shall constitute a third species of

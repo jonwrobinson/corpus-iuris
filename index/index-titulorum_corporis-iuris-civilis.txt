@@ -589,7 +589,6 @@
 + 50.17.  De diversis regulis iuris antiqui
 
 * CODICIS IUSTINIANI
-
 ** LIBER PRIMUS
 
 + 1.1. De summa trinitate et de fide catholica et ut nemo de ea publice contendere audeat
@@ -760,16 +759,15 @@
 + 3.44. De religiosis et sumptibus funerum
 
 ** LIBER QUARTUS
-
-+ 4.1. De rebus creditis et de iureiurando
-+ 4.2. Si certum petatur
-+ 4.3. De suffragio
-+ 4.4. De prohibita sequestratione pecuniae
-+ 4.5. De condictione indebiti
-+ 4.6. De condictione ob causam datorum
-+ 4.7. De condictione ob turpem causam
-+ 4.8. De condictione furtiva
-+ 4.9. De condictione ex lege et sine causa vel iniusta causa
++ 4.1.  De rebus creditis et de iureiurando
++ 4.2.  Si certum petatur
++ 4.3.  De suffragio
++ 4.4.  De prohibita sequestratione pecuniae
++ 4.5.  De condictione indebiti
++ 4.6.  De condictione ob causam datorum
++ 4.7.  De condictione ob turpem causam
++ 4.8.  De condictione furtiva
++ 4.9.  De condictione ex lege et sine causa vel iniusta causa
 + 4.10. De obligationibus et actionibus
 + 4.11. Ut actiones et ab herede et contra heredem incipiant
 + 4.12. Ne uxor pro marito vel maritus pro uxore vel mater pro filio conveniatur

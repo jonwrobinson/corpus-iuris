@@ -1,8 +1,7 @@
 # -*- mode: org -*-
 
 * BOOK VI.
-
-* TITLE I. CONCERNING FUGITIVE AND MUNICIPAL SLAVES, FREEDMEN, AND ARTISANS ASSIGNED TO DIFFERENT WORKS WHO BELONG TO PRIVATE INDIVIDUALS OR TO THE STATE.
+* 6.I. CONCERNING FUGITIVE AND MUNICIPAL SLAVES, FREEDMEN, AND ARTISANS ASSIGNED TO DIFFERENT WORKS WHO BELONG TO PRIVATE INDIVIDUALS OR TO THE STATE.
 
 1. The Emperors Diocletian and Maximian to JEmilia.
 It is clear that a fugitive slave commits a theft of himself, and therefore
@@ -98,7 +97,7 @@ returned to their former condition and labor.
 Given on the eighth of the Kalendsof August, during the Consulate of Timasius
 and Promotus, 389.
 
-* TITLE II. CONCERNING THEFTS AND THE OFFENCE OF CORRUPTING A SLAVE.
+* 6.II. CONCERNING THEFTS AND THE OFFENCE OF CORRUPTING A SLAVE.
 1. The Emperors Severus and Antoninus to Theogenes.
 If any persons have purchased land with your money, under the direction of your
 slave, you must choose whether you will bring a personal action of theft or one
@@ -427,8 +426,7 @@ the husband, be given up by him, and suffer the penal condemnation for theft.
 Given on the fifteenth of the Kalendsof September, during the fifth Consulate
 of Lampadius and Orestes, 530.
 
-
-* TITLE III. CONCERNING THE SERVICES OP FREEDMEN.
+* 6.III. CONCERNING THE SERVICES OP FREEDMEN.
 
 1. The Emperors Severus and Antoninus to Romanus.
 If, at the time of your manumission, services were imposed upon you as a
@@ -527,7 +525,7 @@ Punishment shall be inflicted upon anyone who harbors the freedman of another
 who owes services to his patron.
 Given on the third of the Idesof July, during the Consulate of Gratian, Consul
 for the second time, and Probus, 371.
-* TITLE IV. CONCERNING THE PROPERTY OF FREEDMEN AND THE RIGHTS OP PATRONAGE.
+* 6.IV. CONCERNING THE PROPERTY OF FREEDMEN AND THE RIGHTS OP PATRONAGE.
 
 1. The Emperors Severus and Antoninus to Secunda.
 It makes a great deal of difference whether a slave obtains his freedom by
@@ -579,7 +577,7 @@ have full effect.
 Read seven times in the New Consistory on the Palace of Justinian.
 Given on the third of the Kalendsof November, during the fifth Consulate of
 Decius, 529.
-* TITLE V. WHERE AN ALIENATION HAS BEEN MADE BY FREEDMEN IN ORDER TO DEFRAUD THEIR PATRON.
+* 6.V. WHERE AN ALIENATION HAS BEEN MADE BY FREEDMEN IN ORDER TO DEFRAUD THEIR PATRON.
 
 1. The Emperors Diocletian and Maximian, and the Csssars, to
 Claudius.
@@ -597,7 +595,7 @@ the death of his freedman, the heirs of the patron cannot, in any way,
 invalidate the act of the person granting the manumission.
 Given on the eighth of the Kalendsof January, during the Consulate of the
 Caesars.
-* TITLE VI. CONCERNING THE DEFERENCE TO BE SHOWN TO A PATRON.
+* 6.VI. CONCERNING THE DEFERENCE TO BE SHOWN TO A PATRON.
 
 1. The Emperor Alexander to Zoticus.
 You cannot bring an action involving infamy against your patron. Given on the
@@ -651,7 +649,7 @@ It is not right for you to refuse to your patroness the respect to which she is
 entitled.
 Given on the twelfth of the Kalendsof February, during the Consulate of
 Diocletian and Maximian, 287.
-* TITLE VII. CONCERNING FREEDMEN AND THEIR CHILDREN.
+* 6.VII. CONCERNING FREEDMEN AND THEIR CHILDREN.
 1. The Emperor Antoninus to Daphnus.
 It is well known that a woman who has manumitted a slave under the terms of a
 trust cannot afterwards accuse him of being guilty of ingratitude, for this
@@ -690,7 +688,7 @@ been ungrateful, they can undoubtedly again be reduced
 to slavery.
 Given at Ravenna, on the Kalendsof April, during the Consulate of Theodosius,
 Consul for the eleventh time, and Valentine, 425.
-* TITLE VIII. CONCERNING THE RIGHT TO WEAR GOLD RINGS, AND THE RESTITUTION OF BIRTH.
+* 6.VIII. CONCERNING THE RIGHT TO WEAR GOLD RINGS, AND THE RESTITUTION OF BIRTH.
 
 1. The Emperors Diocletian and Maximian to Philadelphus.
 The Order of Decurions cannot restore birth and grant the right to be freeborn,
@@ -710,7 +708,7 @@ citizens (for this cannot be done otherwise) and by virtue of this manumission
 they have the right to wear gold rings, and be regenerated; but although they
 are considered freemen and freeborn, the rights of patronage still remain
 unimpaired.1
-* TITLE IX. WHO CAN BE ADMITTED TO THE PR^STORIAN POSSESSION OP PROPERTY AND WITHIN WHAT TIME THIS SHOULD TAKE PLACE.
+* 6.IX. WHO CAN BE ADMITTED TO THE PRAETORIAN POSSESSION OP PROPERTY AND WITHIN WHAT TIME THIS SHOULD TAKE PLACE.
 
 1. The Emperors Severus and Antoninus to Macrina.
 The praetorian possession of an estate granted to a son under paternal control
@@ -786,7 +784,7 @@ acquired possession, it shall, nevertheless, have the same validity after the
 time has elapsed as if the ordinary course had been pursued.
 Given at Laodicea on the Kalendsof February.
 
-* TITLE X. WHEN THE SHARES OF AN ESTATE TO WHICH THOSE WHO Do NOT DEMAND THEM ARE ENTITLED ACCRUE TO OTHERS, WHO ASK POSSESSION OF THE SAME.
+* 6.X. WHEN THE SHARES OF AN ESTATE TO WHICH THOSE WHO Do NOT DEMAND THEM ARE ENTITLED ACCRUE TO OTHERS, WHO ASK POSSESSION OF THE SAME.
 
 1. The Emperor Gordian to Marthana.
 Whenever lawful succession does not take place, and the possession of the
@@ -796,7 +794,7 @@ alone who acquire possession of the estate will have their shares of the same
 increased by the addition of those of the others who did not formulate a demand
 for them.
 
-* TITLE XI. CONCERNING THE PRAETORIAN POSSESSION OF PROPERTY IN ACCORDANCE WITH THE PROVISIONS OF THE WILL.
+* 6.XI. CONCERNING THE PRAETORIAN POSSESSION OF PROPERTY IN ACCORDANCE WITH THE PROVISIONS OF THE WILL.
 
 1. The Emperor Alexander to Vitalis.
 While an appeal from the decision by which a will is declared to be forged is
@@ -815,7 +813,7 @@ this kind has been legally executed, and in accordance with it possession of
 the estate should be granted.
 Given on the twelfth of the Kalendsof March, during the Consulate of Atticus
 and Praetextatus, 243.
-* TITLE XII. CONCERNING THE POSSESSION OF AN ESTATE IN OPPOSITION TO THE PROVISIONS OF THE WILL WHICH THE PR^TOR PROMISES TO CHILDREN.
+* 6.XII. CONCERNING THE POSSESSION OF AN ESTATE IN OPPOSITION TO THE PROVISIONS OF THE WILL WHICH THE PR^TOR PROMISES TO CHILDREN.
 1. The Emperor Alexander to Rufus.
 Where the possession of an estate contrary to the provisions of a will has been
 granted to descendants, they should, in accordance with the Edict, only pay the
@@ -830,7 +828,7 @@ guardian in the name of the infant, possession in accordance with its
 provisions cannot take place.
 Given on the Kalendsof March, during the Consulate of Julian, Consul for the
 second time, and Crispinus, 225.
-* TITLE XIII. CONCERNING PRAETORIAN POSSESSION OF THE ESTATE OF A FREEDMAN CONTRARY TO THE PROVISIONS OF THE WILL GRANTED TO His PATRONS OR THEIR CHILDREN.
+* 6.XIII. CONCERNING PRAETORIAN POSSESSION OF THE ESTATE OF A FREEDMAN CONTRARY TO THE PROVISIONS OF THE WILL GRANTED TO His PATRONS OR THEIR CHILDREN.
 1. The Emperor Gordian to Herculianus.
 Although you allege that he who was manumitted by you and your sister was
 liberated in accordance with the terms of the trust contained in your father's
@@ -847,7 +845,7 @@ imposed is excluded from prastorian possession of his estate contrary to the
 provisions of the will.
 Given on the thirteenth of the Kalendsof March, during the Consulate of Viator
 and ^Emilianus.
-* TITLE XIV. CONCERNING THE PROCEEDING UNDE LIBERI.
+* 6.XIV. CONCERNING THE PROCEEDING UNDE LIBERI.
 1. The Emperors Diocletian and Maximian to Sarpedo.
 If your grandfather should die, leaving three emancipated sons, and they
 acquire possession of his estate unde liberi,it is clear that they will be his
@@ -866,7 +864,7 @@ above all if he has been emancipated, unless he obtains this advantage by means
 of praetorian possession of their estates.
 Given on the eighth of the Idesof April, during the Consulate of Liminius and
 Catulinus, 349.
-* TITLE XV. CONCERNING THE PROCEEDINGS UNDE LEGITIMI AND UNDE COGNATI.
+* 6.XV. CONCERNING THE PROCEEDINGS UNDE LEGITIMI AND UNDE COGNATI.
 1. The Emperor Alexander to Ulpia.
 You cannot be prevented from claiming the estates of your cousins who died
 intestate, if they did not belong by law to a nearer relative, and you accepted
@@ -898,7 +896,7 @@ unwilling to succeed him, they cannot be compelled to demand praetorian
 possession of his estate.
 Given on the twelfth of the Kalendsof March, during the Consulate of the
 Caasars.
-* TITLE XVI. CONCERNING THE EDICT REGULATING THE SUCCESSION.
+* 6.XVI. CONCERNING THE EDICT REGULATING THE SUCCESSION.
 1. The Emperor Alexander to Julian.
 If your mother did not accept possession of the estate of her uncle, on account
 of her being insane, you, her son, will be admitted to prse-torian possession
@@ -918,7 +916,7 @@ estate. But if there is no doubt that if he who is in the fourth degree of
 relationship made the demand in conformity with the Edict, and did not conceal
 it from you, you will petition Us in vain.
 Given on the sixth of the Idesof April, during the Consulate of the Caesars.
-* TITLE XVII. CONCERNING THE CARBONIAN EDICT.
+* 6.XVII. CONCERNING THE CARBONIAN EDICT.
 1. The Same Emperors and Csesars to Flora.
 If a question relative to your status and that of your son is raised by the
 person against whom you petition, you will perceive that the demand for the
@@ -942,7 +940,7 @@ possession of the estate, can enjoy the property of the others without fear of
 molestation, until he arrives at the age of puberty.
 Given on the fourth of the Kalendsof October, during the Consulate of
 Theodosius, Consul for the third time, and Habundantius, 293.
-* TITLE XVIII. CONCERNING THE SUCCESSION UNDE VIR ET UXOR.
+* 6.XVIII. CONCERNING THE SUCCESSION UNDE VIR ET UXOR.
 1. The Emperors Theodosii's and Valentinian to Hierius, Praetorian Prefect.
 A husband and wife succeed one another reciprocally, as heirs at law to their
 entire estates, in accordance with the terms of the ancient laws, whenever
@@ -972,7 +970,7 @@ property may be preserved for the issue of the same marriage if there is any;
 or if there are no children living, or the survivor never had any, he or she
 will acquire the ownership, and will be considered to have obtained his or her
 share as a legacy.
-* TITLE XIX. CONCERNING THE REJECTION OF THE POSSESSION OF THE PROPERTY OF AN ESTATE.
+* 6.XIX. CONCERNING THE REJECTION OF THE POSSESSION OF THE PROPERTY OF AN ESTATE.
 1. The Emperors Diocletian and Maximian to Theodosianus.
 An emancipated person who has rejected the praetorian possession of an estate
 will, in vain, attempt to again bring up the question, under the pretext that
@@ -983,7 +981,7 @@ A father will not be permitted to reject the possession of property given to
 him by his son, for the purpose of defrauding the latter.
 Given at Nicomedia, on the sixth of the Kalendsof December, during the
 Consulate of the Csesars.
-* TITLE XX. CONCERNING HOTCHPOT.
+* 6.XX. CONCERNING HOTCHPOT.
 1. The Emperor Alexander to Deuteria.
 It is clearly a rule of law that emancipated children, who have been appointed
 heirs by the will of their father, and have obtained the
@@ -1291,7 +1289,7 @@ belong to the children.
 Given on the fifteenth of the Kalendsof November, during the fifth Consulate of
 Lampadius and Orestes, 530.
 
-* TITLE XXI. CONCERNING THE WILL OF A SOLDIER.
+* 6.XXI. CONCERNING THE WILL OF A SOLDIER.
 
 1. The Emperor Antoninus to the Soldier Floras.
 If your brother, while a soldier, appointed you his heir, especially for
@@ -1482,7 +1480,7 @@ circumstances be done.
 Given during the Kalendsof November, after the fifth Consulate of Lampadius and
 Orestes, 532.
 
-* TITLE XXII. WHO CAN MAKE A WILL AND WHO CANNOT.
+* 6.XXII. WHO CAN MAKE A WILL AND WHO CANNOT.
 1. The Emperor Gordian to the Soldier Petronius.
 Although as your father-in-law and his brother are partners in all the property
 belonging to you, still, the brother of your father-in-law, at the time of his
@@ -1655,7 +1653,7 @@ from a complaint of inofficiousness to testaments of this description.
 Given at Constantinople, on the third of the Nonesof December, after the fifth
 Consulate of Lampadius and Orestes, 531.
 
-* TITLE XXIII. CONCERNING WILLS, AND IN WHAT WAY THEY SHOULD BE DRAWN UP.
+* 6.XXIII. CONCERNING WILLS, AND IN WHAT WAY THEY SHOULD BE DRAWN UP.
 
 1. The Emperor Hadrian to Catonius.  It need not be discussed in this
 case whether the witnesses are slaves or freemen, as at the time when
@@ -2244,8 +2242,7 @@ Given at Constantinople, on the third of the Nonesof July, during the Consulate
 of Our Lord Justinian, Consul for the fourth time, and Paulinus, Consul for the
 fifth time, 534.
 
-
-* TITLE XXIV. CONCERNING THE APPOINTMENT OF HEIRS, AND WHAT PERSONS CANNOT BE APPOINTED HEIRS.
+* 6.XXIV. CONCERNING THE APPOINTMENT OF HEIRS, AND WHAT PERSONS CANNOT BE APPOINTED HEIRS.
 1. The Emperor Titus JElius Antoninus to Anthestianus.
 Persons who have been deported and afterwards appointed heirs are considered as
 foreigners, and not entitled to take under the will; but the right of
@@ -2377,7 +2374,7 @@ probable that anyone would make a mistake in
 his own name.
 Given on the third of the Kalendsof August, after the fifth Consulate of
 Lampadius and Orestes, 531.
-* TITLE XXV. CONCERNING APPOINTMENTS, SUBSTITUTIONS, AND RESTITUTIONS MADE CONDITIONALLY.
+* 6.XXV. CONCERNING APPOINTMENTS, SUBSTITUTIONS, AND RESTITUTIONS MADE CONDITIONALLY.
 1. The Emperors Severus and Antoninus to Alexander.
 As you allege that the maternal grandfather of your daughter appointed her his
 heir, provided she married the son of Anthyllus, it is clear that she cannot
@@ -2531,7 +2528,7 @@ for We only admit substitution where the posthumous child was not born, or
 where, after his birth, his mother died before him.
 Given at Constantinople, on the third of the Kalendsof August, after the fifth
 Consulate of Lampadius and Orestes, 531.
-* TITLE XXVI. CONCERNING PUPILLARY AND OTHER SUBSTITUTIONS.
+* 6.XXVI. CONCERNING PUPILLARY AND OTHER SUBSTITUTIONS.
 1. The Emperor Marcus JElius Antoninus to Secundus.
 Where heirs have been appointed to unequal shares of an estate, and have been
 reciprocally substituted for one another, and in the substitution mention is
@@ -2683,7 +2680,7 @@ Sempronius.
 Given at Constantinople, on the sixth of the Kalendsof August, after the fifth
 Consulate of Lampadius and Orestes, 531.
 
-* TITLE XXVII. CONCERNING THE APPOINTMENT AND SUBSTITUTION OF SLAVES AS NECESSARY HEIRS.
+* 6.XXVII. CONCERNING THE APPOINTMENT AND SUBSTITUTION OF SLAVES AS NECESSARY HEIRS.
 1. The Emperor Antoninus to Aufidius and Others.
 If, notwithstanding you were slaves, you were appointed heirs under the
 designation of freedmen, your appointment as such should be liberally
@@ -2814,7 +2811,7 @@ will then be free and a necessary heir, not only by the ruling of the ancient
 authorities, but also in accordance with Our decision.
 Given at Constantinople, on the second of the Kalendsof August, after the fifth
 Consulate of Lampadius and Orestes, 531.
-* TITLE XXVIII. CONCERNING PASSING OVER AND DISINHERITANCE.
+* 6.XXVIII. CONCERNING PASSING OVER AND DISINHERITANCE.
 1. The Emperor Antoninus to Favianus.
 As a disinheritance clause should be inserted in the will after all the
 appointments of heirs, if the testator should add that his son is disinherited
@@ -2930,7 +2927,7 @@ Extract from the Same Novel. Latin Text.
 A will is void only with reference to the appointment of heirs, where
 disinheritance or the passing over of other heirs is involved. The other
 testamentary provisions remain unaltered.
-* TITLE XXIX. CONCERNING THE APPOINTMENT, DISINHERITANCE, AND OMISSION OF POSTHUMOUS HEIRS IN
+* 6.XXIX. CONCERNING THE APPOINTMENT, DISINHERITANCE, AND OMISSION OF POSTHUMOUS HEIRS IN
 A WILL.
 1. The Emperor Antoninus to Brutatius.
 If, after having made his will by which the testator omitted all mention of his
@@ -2983,7 +2980,7 @@ not pass over his children in his will may not suffer the penalty for having
 done so.
 Given at Constantinople, on the twelfth of the Kalendsof December, during the
 fifth Consulate of Lampadius and Orestes, 530.
-* TITLE XXX. CONCERNING THE RIGHT OF DELIBERATING,1 AND OP ENTERING UPON OR ACQUIRING AN ESTATE.
+* 6.XXX. CONCERNING THE RIGHT OF DELIBERATING,1 AND OP ENTERING UPON OR ACQUIRING AN ESTATE.
 1. The Emperor Antoninus to Titia.
 If, having been emancipated by your father, you did not take possession of his
 estate after his death, you need be under no apprehensions that you will be
@@ -3500,7 +3497,7 @@ inventory has been finished.
 citation de los acreedores y legatarios y concluird dentro de otros sesenta."
 (Ibid.,Arts. 1017, 1019.) Priority is always given to creditors over legatees.
 (Ibid.,Art. 1027.)
-* TITLE XXXI. CONCERNING THE REJECTION OR REFUSAL TO ACCEPT AN ESTATE.
+* 6.XXXI. CONCERNING THE REJECTION OR REFUSAL TO ACCEPT AN ESTATE.
 1. The Emperor Antoninus to Mutatius.
 If it is established that you have declined to accept the estate of your
 father, and it should be clearly proved that you did not reside in his house as
@@ -3602,7 +3599,7 @@ to enter upon the estate, obtain complete restitution, recover the property,
 and satisfy his father's creditors.
 Given at Constantinople, on the thirteenth of the Kalendsof November, after the
 fifth Consulate of Lampadius and Orestes, 532.
-* TITLE XXXII. IN WHAT WAY WILLS AKE OPENED, EXAMINED, AND COPIES OF THEM MADE.
+* 6.XXXII. IN WHAT WAY WILLS AKE OPENED, EXAMINED, AND COPIES OF THEM MADE.
 1. The Emperor Alexander to Procula.
 A competent judge will order the will which you allege has been executed to be
 produced and publicly read.
@@ -3632,7 +3629,7 @@ must be produced in public with the same formalities with which wills
 are published.
 Given at Milan, on the third of the Kalendsof August, during the
 Consulate of Ausonius and Olybrius, 379.
-* TITLE XXXIII. CONCERNING THE ANNULMENT OF THE EDICT OP THE DIVINE HADRIAN, AND IN WHAT WAY AN APPOINTED HEIR MAY BE PLACED IN POSSESSION OF AN ESTATE.
+* 6.XXXIII. CONCERNING THE ANNULMENT OF THE EDICT OP THE DIVINE HADRIAN, AND IN WHAT WAY AN APPOINTED HEIR MAY BE PLACED IN POSSESSION OF AN ESTATE.
 1. The Emperors Severus and Antoninus to Lucillus.
 When a controversy arises between an appointed heir and his substitute, he who
 was appointed in the first place shall be placed in possession of the estate.
@@ -3677,7 +3674,7 @@ can be pleaded on either side, not only the act of placing the party in
 possession, but also the principal cause of action will be disposed of.
 Given at Constantinople, on the twelfth of the Kalendsof April, after the fifth
 Consulship of Lampadius and Orestes, 531.
-* TITLE XXXIV. WHERE ANYONE HAS FORBIDDEN OR COMPELLED ANOTHER TO MAKE A WILL.
+* 6.XXXIV. WHERE ANYONE HAS FORBIDDEN OR COMPELLED ANOTHER TO MAKE A WILL.
 1. The Emperor Alexander to Severa.
 Where a testator did not make his will voluntarily, but was compelled to do so
 by him who was appointed his heir, or was forced by some other person to
@@ -3696,7 +3693,7 @@ It is not a criminal act for a husband, by his representations, to induce his
 wife to make her will in his favor.
 Given on the fifth of the Kalendsof January, during the Consulate of the
 CaBsars.
-* TITLE XXXV. CONCERNING THOSE WHO ARE DEPRIVED OF ESTATES AS BEING UNWORTHY, AND ON THE SYLLANIAN DECREE OF THE SENATE.
+* 6.XXXV. CONCERNING THOSE WHO ARE DEPRIVED OF ESTATES AS BEING UNWORTHY, AND ON THE SYLLANIAN DECREE OF THE SENATE.
 1. The Emperors Severus and Antoninus to Celer.
 It is established that heirs who have neglected to avenge the death of a
 testator can be compelled to surrender all the property of the estate, for they
@@ -3842,7 +3839,7 @@ their master for the purpose of preventing him from being the victim' of
 treachery whenever they see that he is in danger.
 Given at Constantinople, on the fifteenth of the Kalendsof November, after the
 fifth Consulate of Lampadius and Orestes, 532.
-* TITLE XXXVI. CONCERNING CODICILS.
+* 6.XXXVI. CONCERNING CODICILS.
 
 1. The Emperor Alexander to Mocimus and Others.
 It is certain that when a will is broken by the birth of a posthumous child,
@@ -3939,7 +3936,7 @@ their signature to the instrument.
 Given at Constantinople, on the tenth of the Kalendsof March, during the fifth
 Consulate of Victor, 424.
 
-* TITLE XXXVII. CONCERNING LEGACIES.
+* 6.XXXVII. CONCERNING LEGACIES.
 
 1. The Emperor Antoninus Pius to the Freedmen of Sextilia.Although food and
 clothing were bequeathed to you as long as you may reside with Claudius Justus,
@@ -4190,7 +4187,7 @@ the trust is required to furnish a bond to the heir, to deliver the property to
 him not deteriorated through his fault, after the specified term has elapsed.
 Given at Constantinople, on the fifteenth of the Kalendsof November, after the
 fifth Consulate of Lampadius and Orestes, 532.
-* TITLE XXXVIII. CONCERNING THE MEANING OF WORDS AND THINGS.
+* 6.XXXVIII. CONCERNING THE MEANING OF WORDS AND THINGS.
 1. The Emperor Antoninus to Antipatra.
 It was decided by the ancient legislators that where land with its
 appurtenances was devised, and there was merchantable wine or oil forming a
@@ -4286,7 +4283,7 @@ property; for the reason that slaves and other effects forming part of an
 estate are considered as classed under the same head.
 Given at Constantinople, on the thirteenth of the Kalendsof November, after the
 fifth Consulate of Lampadius and Orestes. 532.
-* TITLE XXXIX. WHERE PROPERTY LEFT BY WILL IS REJECTED.
+* 6.XXXIX. WHERE PROPERTY LEFT BY WILL IS REJECTED.
 1. The Emperor Severus and Antoninus to Januaria.
 If you can prove that the estate has been transmitted to the substitute in
 fraud of the legatees, an equitable action will lie in your favor against the
@@ -4319,8 +4316,7 @@ by the Falcidian Law.
 Given on the fifteenth of the Kalendsof January, during the Consulate of the
 above-mentioned Emperors.
 
-
-* TITLE XL. CONCERNING WHAT Is REQUIRED OF WIDOWHOOD, AND THE ABROGATION OF THE LAW OF JULIA MISCELLA.
+* 6.XL. CONCERNING WHAT Is REQUIRED OF WIDOWHOOD, AND THE ABROGATION OF THE LAW OF JULIA MISCELLA.
 
 1. The Emperor Gordian to Bonus.
 When a legacy has been left to a woman under the condition that she shall not
@@ -4393,7 +4389,7 @@ bequeathed subject to a condition; and this liberality should be enjoyed either
 once, or every year, as a consolation for the sorrow of the bereaved person.
 Given at Constantinople, on the Kalendsof November, after the fifth Consulship
 of Lampadius and Orestes, 531.
-* TITLE XLI. CONCERNING PROPERTY MENTIONED IN OR LEFT BY A WILL OR A CODICIL, UNDER A PENALTY.
+* 6.XLI. CONCERNING PROPERTY MENTIONED IN OR LEFT BY A WILL OR A CODICIL, UNDER A PENALTY.
 1. The Emperor Justinian to Menna, Praetorian Prefect.
 We hereby abolish the superfluous observance of the ancient Iaw3 by which the
 wills of testators are weakened and prevented from being carried into effect,
@@ -4413,7 +4409,7 @@ without anyone suffering loss, even if the order of the testator has not been
 obeyed.
 Given at Constantinople, on the Kalendsof January, during the Consulate of Our
 Lord Justinian, Consul for the second time, 528.
-* TITLE XLII. CONCERNING TRUSTS.
+* 6.XLII. CONCERNING TRUSTS.
 1. The Emperor Antoninus.
 If you can prove that Demetrius required his mother, who was his heir, to
 furnish you with provisions every month, and clothing every year, and she
@@ -4717,7 +4713,7 @@ the will; according to the order in which each of the preceding persons is
 mentioned. In this instance, however, disinherited children shall not be
 considered, and finally, in default of other heirs the estate shall go to the
 heirs at law, or be forfeited to the Treasury.
-* TITLE XLIII. REGULATIONS WHICH ARE EQUALLY APPLICABLE TO LEGACIES AND TRUSTS, AND CONCERNING THE ABOLITION OF THE ACT OF PLACING THE PARTY INTERESTED IN POSSESSION OF THE PROPERTY BEQUEATHED.
+* 6.XLIII. REGULATIONS WHICH ARE EQUALLY APPLICABLE TO LEGACIES AND TRUSTS, AND CONCERNING THE ABOLITION OF THE ACT OF PLACING THE PARTY INTERESTED IN POSSESSION OF THE PROPERTY BEQUEATHED.
 1. The Emperor Justinian to Demosthenes, Prsetorian Prefect.
 While those who are favored in the bequests of legacies and trusts are known to
 be fully entitled to every personal right of action, who approves of bringing a
@@ -4885,7 +4881,7 @@ and in no respect affected by the terms of this Constitution, as they will
 continue to enjoy them against vendors.
 Given at Constantinople, on the Kalendsof September, after the fifth Consulate
 of Lampadius and Orestes, 531.
-* TITLE XLIV. CONCERNING FALSE STATEMENTS MADE IN THE CASE OF LEGACIES OR TRUSTS.
+* 6.XLIV. CONCERNING FALSE STATEMENTS MADE IN THE CASE OF LEGACIES OR TRUSTS.
 1. The Emperor Antoninus to Septimus.
 The words of the will which you have inserted in your petition, either state
 that the money due the testator has been paid, or they plainly show that his
@@ -4932,7 +4928,7 @@ instrument can be demanded under it, without a false allegation having any
 effect.
 Given on the fourteenth of the Kalendsof December, during the Consulate of the
 Caesars, 293.
-* TITLE XLV. CONCERNING LEGACIES OR TRUSTS LEFT FOR A SPECIFIC PURPOSE.
+* 6.XLV. CONCERNING LEGACIES OR TRUSTS LEFT FOR A SPECIFIC PURPOSE.
 1. The Emperor Antoninus to Saturnina.
 The purpose for which legacies and trusts were bequeathed must be observed,
 just as in the case of a condition. But you are not obliged to obey the will of
@@ -4960,7 +4956,7 @@ beneficiary of the trust, if he brings suit for a sum equal to that left as a
 legacy or a trust.
 Published on the sixth of the Idesof August, during the Consulate of Sabinus,
 Consul for the second time, and Venustus, 261.
-* TITLE XLVI. CONCERNING CONDITIONS INSERTED IN THE BEQUESTS OF LEGACIES, TRUSTS, AND GRANTS OF FREEDOM.
+* 6.XLVI. CONCERNING CONDITIONS INSERTED IN THE BEQUESTS OF LEGACIES, TRUSTS, AND GRANTS OF FREEDOM.
 1. The Emperors Severus and Antoninus to Claudia.
 As you allege that the testator left a trust to Trallianus to be carried out by
 him whom he appointed heir to a portion of his estate, provided the person
@@ -5047,7 +5043,7 @@ some other property, he must do so, provided it is still in existence, and if
 it is not, he must pay the true value of the same.
 Given at Constantinople, on the day before the Kalendsof May, after the fifth
 Consulate of Lampadius and Orestes, 532.
-* TITLE XLVII. CONCERNING THE INTEREST AND THE PROFITS OF LEGACIES AND TRUSTS.
+* 6.XLVII. CONCERNING THE INTEREST AND THE PROFITS OF LEGACIES AND TRUSTS.
 1. The Emperors Severus and Antoninus to Maximus.
 It is clear that interest on legacies and trusts can be collected from the time
 when issue was joined. The income of property and the wages of slaves, due
@@ -5081,11 +5077,11 @@ death of the testator, whether a real or a personal action is brought.
 Published on the Nonesof September, during the Consulate of Gordian and Aviola,
 240.
 
-* TITLE XLVIII. CONCERNING UNCERTAIN PERSONS.
+* 6.XLVIII. CONCERNING UNCERTAIN PERSONS.
 
-THIS TITLE IS LACKING.
+THIS 6.IS LACKING.
 
-* TITLE XLIX. CONCERNING THE TREBELLIAN DECREE OF THE SENATE.
+* 6.XLIX. CONCERNING THE TREBELLIAN DECREE OF THE SENATE.
 
 1. The Emperors Severus and Antoninus to Probus. If,in accordance with the
 Decree of the Senate, you retained the fourth part of the estate, and delivered
@@ -5251,7 +5247,7 @@ the special beneficiary what was bequeathed to him.
 Given at Constantinople, on the fifteenth of the Kalendsof November, after the
 fifth Consulate of Lampadius and Orestes, 532.
 
-* TITLE L. ON THE FALCIDIAN LAW.
+* 6.L. ON THE FALCIDIAN LAW.
 
 1. The Emperors Severus and Antoninus to Priscus.
 You ought to know that if you have rejected the Falcidian portion, in order
@@ -5448,8 +5444,7 @@ rule of equity would seem to be equally applicable.
 Given at Constantinople, on the fifteenth of the Kalendsof November, after the
 fifth Consulate of Lampadius and Orestes, 532.
 
-
-* TITLE LI. CONCERNING THE ABOLITION OF THE FORFEITURES OF SUCCESSIONS TO THE STATE.
+* 6.LI. CONCERNING THE ABOLITION OF THE FORFEITURES OF SUCCESSIONS TO THE STATE.
 
 
 1. The Emperor Justinian to the Senate of the City of Constantinople.
@@ -5729,7 +5724,7 @@ Given at Constantinople, on the Kalendsof June, during the Consulate of Our
 Lord Justinian, Consul for the fourth time, and Paulinus, Consul for the fifth
 time, 534.
 
-* TITLE LII. CONCERNING THOSE WHO CAN TRANSMIT AN ESTATE BEFORE THE WILL HAS BEEN OPENED.
+* 6.LII. CONCERNING THOSE WHO CAN TRANSMIT AN ESTATE BEFORE THE WILL HAS BEEN OPENED.
 
 1. The Emperors Theodosiiis and Valentinian to Hormisdas, Prse-torian Prefect.
 We order by this law that hereafter sons, daughters, grandsons, granddaughters,
@@ -5755,7 +5750,7 @@ to consolation for their affliction, it is only reasonable that it should be
 granted them.
 Given on the third of the Nonesof April, after the Consulate of Protogenes and
 Asterius, 450.
-* TITLE LIII. AT WHAT TIME A RIGHT TO LEGACIES OR TRUSTS VESTS.
+* 6.LIII. AT WHAT TIME A RIGHT TO LEGACIES OR TRUSTS VESTS.
 1. The Emperors Severus and Antoninus to Agrippa.
 If you can prove before a competent judge that legacies of trusts, payable
 annually, have been left to you, you will have the right to collect them at the
@@ -5806,7 +5801,7 @@ to be aware that she was entitled to an action of this kind, of course, after
 the deduction by the heirs of the fourth portion of the estate of the deceased.
 Published on the Kalendsof May, during the Consulate of the above-named
 Emperors.
-* TITLE LIV. WHEN SECURITY SHOULD BE FURNISHED TO PROVIDE FOR THE PLACING OF LEGATEES OR BENEFICIARIES OF A TRUST IN POSSESSION OF WHAT HAS BEEN BEQUEATHED TO THEM.
+* 6.LIV. WHEN SECURITY SHOULD BE FURNISHED TO PROVIDE FOR THE PLACING OF LEGATEES OR BENEFICIARIES OF A TRUST IN POSSESSION OF WHAT HAS BEEN BEQUEATHED TO THEM.
 1. The Divine Antoninus Pius to Salvius.
 If the claimant demands nothing more than that security should be given him
 that the trust will be executed, the judge who has jurisdiction ought not to
@@ -5869,7 +5864,7 @@ the terms of the trust, to the extent that the public was interested in having
 such security furnished.
 Published on the seventh of the Kalendsof March, during the Consulate of the
 Caesars.
-* TITLE LV. CONCERNING PROPER HEIRS, AND LEGITIMATE CHILDREN AND GRANDCHILDREN, BORN OF A DAUGHTER, WHO ARE ENTITLED TO AN ESTATE AS HEIRS AT LAW.
+* 6.LV. CONCERNING PROPER HEIRS, AND LEGITIMATE CHILDREN AND GRANDCHILDREN, BORN OF A DAUGHTER, WHO ARE ENTITLED TO AN ESTATE AS HEIRS AT LAW.
 1. The Emperors Severus and Antoninus to Crispina.
 If you can become the legal heir of your brother, you will not be excluded from
 obtaining his estate, on account of the provision that demand for the same
@@ -5979,7 +5974,7 @@ to all others. Those of the first degree shall succeed equally per
 capita;grandchildren, and others more removed, per stirpes,without distinction
 of sex, or consideration of the right of paternal control, but only their
 natural condition shall be taken into account.
-* TITLE LVI. ON THE TERTULLIAN DECREE OP THE SENATE.
+* 6.LVI. ON THE TERTULLIAN DECREE OP THE SENATE.
 1. The Emperors Diocletian and Maximian, and the Csesars, to Viviana.
 Although children do not succeed as heirs to their mothers, who die intestate,
 unless they are able to speak, still, there is no doubt that
@@ -6107,7 +6102,7 @@ deceased, they shall be called to the succession with the ascendants in the
 next degree, so that the shares may be equal, all distinction of sex and
 parental control being disregarded, where no mention is made of a second
 marriage.
-* TITLE LVII. ON THE ORPHITIAN DECREE OF THE SENATE.
+* 6.LVII. ON THE ORPHITIAN DECREE OF THE SENATE.
 1. The Emperor Alexander to Evangelus.
 When a woman dies intestate, leaving brothers or sisters, as well as a mother
 and daughter, her estate shall, by virtue of the Orphitian Decree of the
@@ -6345,7 +6340,7 @@ Tertullian and Orphitian Decrees of the Senate, be entitled reciprocally to the
 inheritance of one another's estates.
 Given at Constantinople, on the Kalendsof October, during the fifth Consulate
 of Lampadius and Orestes.
-* TITLE LVIII. CONCERNING HEIRS AT LAW.
+* 6.LVIII. CONCERNING HEIRS AT LAW.
 1. The Emperor Alexander to Cassius and Hermiona.
 It is a positive rule of law, both with reference to intestate successions, as
 well as praetorian possessions of estates, that brothers and sisters enjoy
@@ -6633,7 +6628,7 @@ Given at Constantinople, on the Idesof October, during the Consulate of Our
 Lord the Emperor Justinian, Consul for the fourth time, and Paulinus, Consul
 for the fifth time, 534.
 
-* TITLE LIX. MATTERS COMMON TO SUCCESSIONS.
+* 6.LIX. MATTERS COMMON TO SUCCESSIONS.
 
 1. The Emperors Diocletian and Maximian, and the Csesars, to Varania.
 You should have known that, although your brother was emancipated, you who
@@ -6757,7 +6752,7 @@ but should leave brothers and sisters, some of full blood and others of half
 blood, and others again born of both parents, he will transmit the estate to
 those alone who are related on both sides.
 
-* TITLE LX. CONCERNING THE ESTATES OF MOTHERS AND OF THOSE IN THE MATERNAL LINE.
+* 6.LX. CONCERNING THE ESTATES OF MOTHERS AND OF THOSE IN THE MATERNAL LINE.
 
 1. The Emperor Constantine to the Consuls, Prsetors, Tribunes of Ihe People,
 and the Senate, Greeting.
@@ -6865,7 +6860,7 @@ file improper accusations and complaints against their father.
 Given on the Kalendsof September, during the Consulate of An-themius, Consul
 for the second time, 468.
 
-* TITLE LXI. CONCERNING PROPERTY ACQUIRED BY CHILDREN WHILE UNDER THE CONTROL OF THEIR FATHER, EITHER BY MARRIAGE OR IN ANY OTHER MANNER, AND ITS ADMINISTRATION.
+* 6.LXI. CONCERNING PROPERTY ACQUIRED BY CHILDREN WHILE UNDER THE CONTROL OF THEIR FATHER, EITHER BY MARRIAGE OR IN ANY OTHER MANNER, AND ITS ADMINISTRATION.
 
 1. The Emperors Theodosius and Valentinian to the Senate of the City of Rome.
 As Our sacred laws forbid fathers to acquire, under any title whatsoever, by
@@ -7276,7 +7271,7 @@ If it is necessary for him to possess the slave and grant him his liberty at
 the same instant, how can he acquire the usufruct of him under such
 circumstances?
 
-* TITLE LXII. CONCERNING THE ESTATES OF DECURIONS, MASTERS OF SHIPS, ATTENDANTS OF MILITARY COHORTS, AND EMPLOYEES IN ARSENALS.
+* 6.LXII. CONCERNING THE ESTATES OF DECURIONS, MASTERS OF SHIPS, ATTENDANTS OF MILITARY COHORTS, AND EMPLOYEES IN ARSENALS.
 
 1. The Emperor Constantius to Mastichianus, Prefect of Subsistence.
 We decree that if the master of a ship dies intestate, and without leaving
