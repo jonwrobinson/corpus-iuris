@@ -1,36 +1,26 @@
 # -*- mode: org -*-
 
-BOOK XLIX.
+* BOOK XLIX.
++ 49.I. ON APPEALS AND REPORTS
++ 49.II. FROM WHAT PERSONS IT Is NOT PERMITTED TO APPEAL
++ 49.III. To WHOM AND FROM WHOM AN APPEAL CAN BE TAKEN
++ 49.IV. WHEN AN APPEAL SHOULD BE TAKEN, AND WITHIN WHAT TIME
++ 49.V. CONCERNING THE ACCEPTANCE OR REJECTION OF APPEALS
++ 49.VI. CONCERNING NOTICES OR APPEALS CALLED DISPATCHES
++ 49.VII. No CHANGE SHALL BE MADE AFTER THE APPEAL HAS BEEN INTERPOSED
++ 49.Vill. WHAT DECISIONS CAN BE RESCINDED WITHOUT AN APPEAL
++ 49.IX. PAGE WHETHER THE REASONS FOE AN APPEAL CAN BE PRESENTED BY ANOTHER.
++ 49.X. WHERE A GUARDIAN, A CURATOR, OR A MAGISTRATE HAVING BEEN APPOINTED, APPEALS
++ 49.XI. HE WHO APPEALS SHOULD BE DEFENDED IN His OWN PROVINCE
++ 49.XII. WHERE A PARTY LITIGANT is COMPELLED TO BRING ANOTHER ACTION BEFORE THE JUDGE FROM WHOSE DECISION HE HAS ALREADY APPEALED
++ 49.XIII. IF DEATH SHOULD OCCUR WHILE AN APPEAL is PENDING
++ 49.XIV. CONCERNING THE RIGHTS OF THE TREASURY
++ 49.XV. CONCERNING CAPTIVES, THE RIGHT OF POSTLIMINIUM, AND PERSONS RANSOMED FROM THE ENEMY
++ 49.XVI. CONCERNING MILITARY AFFAIRS .
++ 49.XVII. CONCERNING CASTRENSE PECULIUM
++ 49.XVIII. CONCERNING VETERANS
 
-TITLE I. ON APPEALS AND REPORTS
-TITLE II. FROM WHAT PERSONS IT Is NOT PERMITTED TO APPEAL
-TITLE III. To WHOM AND FROM WHOM AN APPEAL CAN BE TAKEN
-TITLE IV. WHEN AN APPEAL SHOULD BE TAKEN, AND WITHIN WHAT TIME
-TITLE V. CONCERNING THE ACCEPTANCE OR REJECTION OF APPEALS
-TITLE VI. CONCERNING NOTICES OR APPEALS CALLED DISPATCHES
-TITLE VII. No CHANGE SHALL BE MADE AFTER THE APPEAL HAS BEEN INTERPOSED
-TITLE Vill. WHAT DECISIONS CAN BE RESCINDED WITHOUT AN APPEAL
-TITLE IX. PAGE WHETHER THE REASONS FOE AN APPEAL CAN BE PRESENTED BY ANOTHER.
-TITLE X.
-WHERE A GUARDIAN, A CURATOR, OR A MAGISTRATE HAVING BEEN APPOINTED, APPEALS
-
-TITLE XI. HE WHO APPEALS SHOULD BE DEFENDED IN His OWN PROVINCE
-TITLE XII.
-WHERE A PARTY LITIGANT is COMPELLED TO BRING ANOTHER ACTION BEFORE THE JUDGE
-FROM WHOSE DECISION HE HAS ALREADY APPEALED
-TITLE XIII. IF DEATH SHOULD OCCUR WHILE AN APPEAL is PENDING
-TITLE XIV. CONCERNING THE RIGHTS OF THE TREASURY
-TITLE XV.
-CONCERNING CAPTIVES, THE RIGHT OF POSTLIMINIUM, AND PERSONS RANSOMED FROM THE ENEMY
-TITLE XVI. CONCERNING MILITARY AFFAIRS .
-TITLE XVII. CONCERNING CASTRENSE PECULIUM
-TITLE XVIII. CONCERNING VETERANS
-
-
-THE DIGEST OR PANDECTS. BOOK XLIX.
-
-
-TITLE I. ON APPEALS AND REPORTS.
+* 49.I. ON APPEALS AND REPORTS.
 
 1. Ulpianus, On Appeals, Book I.
 There is no one who is not aware how frequently appeals are employed, and how
@@ -468,8 +458,10 @@ administered desired to proceed with the case, they ought to be prevented from
 doing so.
 The same rule.should be observed with reference to curators, if, in the
 meantime, the youth should arrive at lawful age.
-TITLE II.
-FROM WHAT PERSONS IT Is NOT PERMITTED TO APPEAL. 1. Ulpianus, On the Edict,
+
+* 49.II. FROM WHAT PERSONS IT Is NOT PERMITTED TO APPEAL.
+
+1. Ulpianus, On the Edict,
 Book 1.
 Inquiry should be made from whom it is not lawful to appeal.
 (1) And, indeed, it would be foolish to warn anyone that it is not lawful to
@@ -490,7 +482,9 @@ The question was asked whether an appeal can be taken against arbitrators, who
 are appointed for the purpose of accepting sureties. Although several
 authorities hold that, in this case, even without an appeal, the decision can
 be amended by the person who rendered it.
-TITLE III. To WHOM AND FROM WHOM AN APPEAL CAN BE TAKEN.
+
+* 49.III. To WHOM AND FROM WHOM AN APPEAL CAN BE TAKEN.
+
 1. Ulpianus, On Appeals, Book I.
 When it is said that an appeal is taken from the judge who rendered the
 decision, this must be understood to mean that one can also be taken from his
@@ -509,7 +503,9 @@ Whenever a judge is appointed by the magistrates of the Roman people, no matter
 of what rank they may be, even though this was done by order of the Emperor,
 and he may have designated the judge by name, an appeal can be taken to the
 magistrates themselves.
-TITLE IV. WHEN AN APPEAL SHOULD BE TAKEN, AND WITHIN WHAT TIME.
+
+* 49.IV. WHEN AN APPEAL SHOULD BE TAKEN, AND WITHIN WHAT TIME.
+
 1. Ulpianus, On Appeals, Book I.
 When the Governor of a province notifies someone that he shall be deported to
 an island, and writes to the Emperor in order that he may be deported, let us
@@ -645,7 +641,9 @@ against him in a Rescript, let us see whether he can appeal from the letter
 which was previously shown to him, since as he did not do so at the time, he
 seems to have admitted its contents were true. He should not be heard, if he
 should state that he was waiting for the issue of the Imperial Rescript.
-TITLE V. CONCERNING THE ACCEPTANCE OR REJECTION OP APPEALS.
+
+* 49.V. CONCERNING THE ACCEPTANCE OR REJECTION OP APPEALS.
+
 1. Ulpianus, On the Edict, Book XXIX.
 Appellants are not usually heard unless they have an interest in the suit, or
 have been commissioned to act, or are conducting the business of others, and
@@ -699,9 +697,10 @@ that an appointed heir should not be placed in possession.
 (1) Again, if anything has been decided in accordance with the Perpetual Edict,
 an appeal cannot be taken to prevent its being carried into effect.
 (2) In like manner, an appeal cannot be taken to prevent the sale of a pledge.
-TITLE VI.
-CONCERNING NOTICES OF APPEAL CALLED DISPATCHES. 1. Marcianus, On Appeals, Book
-II.
+
+* 49.VI. CONCERNING NOTICES OF APPEAL CALLED DISPATCHES.
+
+1. Marcianus, On Appeals, Book II.
 After an appeal has been filed, letters should be sent by the official from
 whom the appeal is taken, to him who is to hear it, whether this be the
 Emperor, or someone else; which letters are called notices, or dispatches.
@@ -713,8 +712,9 @@ this can be proved by witnesses; for the Imperial Constitutions require that
 the party who applies for such a notice should do so with vehemence. Therefore,
 it is but just that, if he who should grant the notice is to blame for not
 doing so, this shall not prejudice the person who made the demand.
-TITLE VII.
-No CHANGE SHALL BE MADE AFTER THE APPEAL HAS BEEN INTERPOSED.
+
+* 49.VII. NO CHANGE SHALL BE MADE AFTER THE APPEAL HAS BEEN INTERPOSED.
+
 1. Ulpianus, On Appeals, Book IV.
 After an appeal has been interposed, whether it is received or not, nothing
 must be altered in the meantime, if the appeal is received, for this reason;
@@ -742,8 +742,9 @@ the more serious crimes, but he did not appeal for those which were less
 serious, the appeal should by all means be received, and the punishment
 deferred. Where, however, he deserves a heavier sentence for offences on
 account of which he did not appeal, the penalty must certainly be imposed.
-TITLE Vill.
-WHAT DECISIONS CAN BE RESCINDED WITHOUT AN APPEAL.
+
+* 49.VIII. WHAT DECISIONS CAN BE RESCINDED WITHOUT AN APPEAL.
+
 1. Macer, On Appeals, Book II.
 We must remember that when an inquiry is made whether a case has been decided
 or not, and the judge of this question declares that it has not been decided,
@@ -797,8 +798,9 @@ void.
 (1) He also gave it as his opinion, that there was no ground for appeal where a
 decision had been rendered, which, in the nature of .things, could not be
 complied with.
-TITLE IX.
-WHETHER THE REASONS FOR AN APPEAL CAN BE PRESENTED BY ANOTHER.
+
+* 49.IX. WHETHER THE REASONS FOR AN APPEAL CAN BE PRESENTED BY ANOTHER.
+
 1. Ulpianus, Appeals, Book IV.
 It is frequently asked whether the reasons for an appeal can be stated by
 another person, and this point is usually discussed in pecuniary and criminal
@@ -823,8 +825,9 @@ fails to do so, can the party to the suit answer, as in the case of a minor? is
 a question which we should consider. We rather incline to the opinion that he
 ought to be heard in giving the reasons for the appeal, who, as the attorney of
 the absent party, applied for it.
-TITLE X.
-WHERE A GUARDIAN, A CURATOR, OR A MAGISTRATE HAVING BEEN APPOINTED, APPEALS.
+
+* 49.X. WHERE A GUARDIAN, A CURATOR, OR A MAGISTRATE HAVING BEEN APPOINTED, APPEALS.
+
 1. Ulpianus, On the Duties of Proconsul, Book HI.
 When persons who have been appointed to public offices appeal, and do not
 establish a justification for doing so, they are hereby notified that it is at
@@ -837,9 +840,9 @@ When a guardian or a curator is retained in office, and appeals, and dies
 before a decision has been rendered, his successors will be required to state
 the grounds of appeal, on account of the responsibility attaching to the
 intermediate time.
-TITLE XL
-HE WHO APPEALS SHOULD BE DEFENDED IN His OWN
-PROVINCE.
+
+* 49.XL. HE WHO APPEALS SHOULD BE DEFENDED IN His OWN PROVINCE.
+
 1. Ulpianus, On Appeals, Book IV.
 He who appeals must be defended in his own province, in all other cases of his
 own, even though he may be absent for the purpose of conducting his appeal.
@@ -847,9 +850,9 @@ This the Divine Brothers stated in a Rescript addressed to Decimus Philo.
 2. Marcianus, On Appeals, Book II.
 This privilege is granted to those who are absent on business for the State, in
 order that they may not be required to defend themselves.
-TITLE XII.
-WHERE A PARTY LITIGANT Is COMPELLED TO BRING ANOTHER ACTION BEFORE THE JUDGE
-FROM WHOSE DECISION HE HAS ALREADY APPEALED.
+
+* 49.XII. WHERE A PARTY LITIGANT Is COMPELLED TO BRING ANOTHER ACTION BEFORE THE JUDGE FROM WHOSE DECISION HE HAS ALREADY APPEALED.
+
 1. Ulpianus, On Appeals, Book IV.
 When anyone has appealed from a judge in one case, and is compelled to have the
 same judge preside in another, let us see what course must be pursued. It is
@@ -858,7 +861,9 @@ still be required to appear before the same judge from whom he has appealed,
 and conduct other cases if he has any; nor can he avail himself of the pretext
 that he should not try them before a judge who may be hostile to him, as he can
 appeal again.
-TITLE XIII. IF DEATH SHOULD OCCUR WHILE AN APPEAL Is PENDING.
+
+* 49.XIII. IF DEATH SHOULD OCCUR WHILE AN APPEAL Is PENDING.
+
 1. Macer, On Appeals, Book H.
 Where the appellant dies without leaving an heir, an appeal of this kind is
 extinguished. If, however, an heir of the appellant should appear, and no one
@@ -906,8 +911,7 @@ avenging a wrong; or where anyone prosecuted the case in the name of a
 municipality; and it is to be observed that this has many times been set forth
 in the Imperial Constitutions.
 
-
-TITLE XIV. CONCERNING THE RIGHTS OF THE TREASURY.
+* 49.XIV. CONCERNING THE RIGHTS OF THE TREASURY.
 
 1. Cattistratus, On the Rights of the Treasury, Book I.
 There are various reasons for which notice ordinarily is given to the Treasury;
@@ -1712,15 +1716,16 @@ would hold with reference to certain dried fruits which had been formerly
 gathered on the land, they answered that if, after the decision had been
 rendered, the day for the payment of the rent had not yet arrived, the
 purchaser would also be entitled to them.
-TITLE XV.
-CONCERNING CAPTIVES, THE RIGHT OP POSTLIMINIUM, AND PERSONS RANSOMED FROM THE
-ENEMY.
+
+* 49.XV. CONCERNING CAPTIVES, THE RIGHT OP POSTLIMINIUM, AND PERSONS RANSOMED FROM THE ENEMY.
+
 1. Marcellus, Digest, Book XXII.
 If a slave of anyone who has been taken prisoner by the enemy should afterwards
 enter into a stipulation, or if a legacy should be bequeathed to his slave
 after he has fallen into the hands of the enemy, his heirs will be entitled to
 it, for the reason that if he should die during his captivity it would be
 acquired by his heir.
+
 2. The Same, Digest, Book XXXIX.
 The right of postliminiumattaches to large ships and those used for the
 transport of merchandise on account of the custom of war; but it does not apply
@@ -1731,13 +1736,16 @@ rider.
 (2) The same rule of law does not apply to arms, for they are not lost without
 disgrace. Hence arms cannot be recovered by the right of postliminium,since it
 is dishonorable to lose them.
+
 3. Pomponius, On Quintus Mucius, Book XXXVII.The same rule applies to clothing.
+
 4. Modestinus, Rules, Book HI.
 It was formerly held that those who are taken by the enemy, or who surrender to
 him, were entitled to the right of postliminium,after their return. But is he
 who surrendered to the enemy, and after his return is not received by us, a
 Roman citizen? This was decided differently by Brutus and Scsevola. The result
 is that he cannot recover his citizenship.
+
 5. Pomponius, On Quintus Mucius, Book XXVII.
 The right of postliminiumexists both in war and in peace.
 (1) In war, when those who are our enemies seize one of us, and take him within
@@ -1766,12 +1774,14 @@ back to his people, providing that he should remain a Roman citizen, this was
 not considered necessary, for if he had the intention of remaining with his own
 relatives, he would cease to be a citizen; but if he expected to return he
 would still remain a citizen, and therefore the law was superfluous.
+
 6. The Same, Various Passages, Book I.
 Where a woman who, on account of some offence, had been sentenced to labor in
 the salt-pits, was afterwards captured by thieves belonging to a foreign
 nation, sold by the right of commerce, and then ransomed, was restored to her
 former condition, the price of her ransom should be paid by the Treasury to the
 Centurion Coccius Firmus.
+
 7. Proculus, Epistles, Book Vill.
 I have no doubt that there are free and united nations which are strangers to
 us, and that between us and them the right of postliminiumdoes not exist. For
@@ -1788,18 +1798,21 @@ men, they are not superior to us in authority or dignity; so those who should
 zealously defend our majesty should also be understood to be free.
 (2) Where persons from allied states are accused of crime while with us, we
 punish them after they have been convicted.
+
 8. Paulus, On the Lex Julia et Papia, Book III.
 A wife cannot be recovered by her husband under the right of 'postliminiumas a
 son can be recovered by his father, but only when the woman desires it, and
 provided that she has not married another after the prescribed time. If she
 should be willing, and there is no legal reason to prevent it, she will be
 liable to the penalties of separation.
+
 9. Ulpianus, On the Lex Julia et Papia, Book IV.
 When a child born in the hands of the enemy returns under the law of
 postliminium,he will be entitled to the privileges of a son; for, according to
 a Rescript of the Emperor Antoninus and his Divine Father, addressed to Ovinius
 Tertullus, Governor of the Province of lower Mysia, there is no doubt that he
 has the right of postliminium.
+
 10. Papinianus, Questions, Book XXIX.
 A father, having appointed his son, who had not yet arrived at puberty, his
 heir, and made a substitution for him, was captured by the enemy, and died in
@@ -1820,6 +1833,7 @@ terms of the Cornelian Law, because it is true that a minor is not qualified to
 make a will, and therefore it would not be improper to hold that the Praetor
 should follow the intention of the father no less than that of the law, and
 grant the substitute equitable actions against the estate.
+
 11. The Same, Questions, Book XXXI.
 If the son should die first at home, there is no reason for discussing the
 pupillary substitution, either because the son under paternal control is
@@ -1831,6 +1845,7 @@ enemy.
 first, the Cornelian Law will suffice to establish the pupillary
 substitution, just as if the son should die at home after the father had
 expired in the hands of the enemy.
+
 12. Tryphoninus, Disputations, Book IV.
 The right of postliminiumexists in war, as well as in peace, with reference to
 such as have been taken captive during hostilities, and concerning whom no
@@ -2007,6 +2022,7 @@ can return separately under the right of postliminium.
 If I should give myself to be arrogated by you, and I should afterwards be
 emancipated, it is established that when my son returns from captivity, he will
 be considered as your grandson.
+
 14. Pomponius, On Sabinus, Book HI.
 As there are two kinds of the right of postliminium,one under which we return
 to our friends from the enemy, and the other by which we recover something;
@@ -2024,15 +2040,19 @@ someone may say with more subtlety that the father, when he died, recovered the
 right of postliminium,as it were by the release of a pledge, and died without
 any liability for his debt, so that he is entitled to have a proper heir.
 This opinion is not destitute of reason.
+
 16. The Same, On Sabinus, Book XIII.
 He who returns from the enemy is considered always to have been in his own
 country previous to his return.
+
 17. Paulus, On Sabinus, Book II.
 Those who, having been conquered by force of arms, surrender to the enemy, are
 not entitled to the right of postliminium.
+
 18. Ulpianus, On Sabinus, Book XXXV.
 Under all the rules of law, anyone who does not return from the enemy is
 considered to have died at the time when he was captured.
+
 19. Paulus, On Sabinus, Book XVI.
 The right of postliminiumis that of recovering from a stranger property which
 has been lost, and of restoring it to its former condition; and this right has
@@ -2072,7 +2092,7 @@ because he cannot complain, as he has sustained no damage; provided that the
 slave would have obtained his freedom, if he had not forfeited it by becoming a
 deserter.
 (7) Again, a son under paternal control, who is a deserter, cannot return with
-the right of postliminium,even during the lifetime of his father; because his
+the right of postliminium, even during the lifetime of his father; because his
 father as well as his country have lost him, as well as for the reason that the
 discipline of the camp has always been more valued by Roman parents, than
 attachment to their children.
@@ -2090,6 +2110,7 @@ conditions. Nor does it make any difference whether they are freemen or slaves;
 for not only those are recovered by this privilege who are able to fight, but
 all human beings, because they are of such a character that they can be of use,
 either by giving advice, or in other ways.
+
 20. Pomponius, On Sabinus, Book XXXVI.
 If a captive, for whom security has been given that he will return voluntarily,
 remains with the enemy, he will   not afterwards be entitled to the right of
@@ -2100,6 +2121,7 @@ neither become the property of the State, nor be considered as booty; for land
 becomes the property of the State which is captured from the enemy.
 (2) Ransom confers the power of returning to one's country, and does not change
 the right of postliminium.
+
 21. Ulpianus, Opinions, Book V.
 If anyone, after having ransomed a freeborn woman from the enemy, should keep
 her with him with the intention of having children by her, and afterwards
@@ -2121,6 +2143,7 @@ captivity and postliminiumexist, and therefore persons who have been captured
 and sold, and afterwards manumitted, have been held to have fruitlessly
 demanded from the Emperor the right of free birth which they do not lose by
 captivity.
+
 22. Julianus, Digest, Book LXII.
 The property of those who have fallen into the hands of the enemy, or have died
 there, whether they had testamentary capacity or not, belongs to those to whom
@@ -2158,12 +2181,14 @@ captivity, it will belong to their heirs under the Cornelian Law.
 enemy, and dies there, and a son is afterwards born to him, and it dies, his
 will is void; for the reason that the wills of those who remain in their own
 country are invalidated under such circumstances.
+
 23. The Same, Digest, Book LXIX.
 Where anyone, having left his wife pregnant, falls into the power of the enemy,
 and a son is born to him soon afterwards, who ultimately marries and has a son
 or a daughter, and then the grandfather returns under the law of
 postliminium,he will be entitled to all the rights over his grandchildren which
 he would have had if his son had been born in his own country.
+
 24. Ulpianus, Institutes, Book I.
 Enemies are those against whom the Roman people have publicly declared war, or
 who themselves have declared war against the Roman people; others are called
@@ -2172,6 +2197,7 @@ become their slave, nor has he any need of the right of postliminium.He,
 however, who has been
 taken by the enemy, for instance, by the Germans or Parthians, becomes their
 slave, and recovers his former condition by the right of postliminium.
+
 25. Marcianus, Institutes, Book XIV.
 The Divine Severus and Antoninus stated in a Rescript that if a wife was
 captured with her husband, and had a child by him while in the hands of the
@@ -2180,6 +2206,7 @@ and the son will be under the control of his father, just as if he had returned
 under the right of postliminium.
 If, however, he should return with his mother alone, he will be considered
 illegitimate, as having been born without a husband.
+
 26. Florentinus, Institutes, Book VI.
 It makes no difference in what way a captive returns, whether he has been sent
 back, or has escaped from the power of the enemy by force, or strategy;
@@ -2187,6 +2214,7 @@ provided that he conies with the intention of not returning thither; for it is
 not sufficient for anyone merely to return bodily, when his intention is
 otherwise. Those, however, who are recovered from defeated enemies, are
 considered to have returned with the right of postliminium.
+
 27. Javolenus, On the Last Works of Labeo, Book IX.
 Robbers stole your slave from you, and afterwards the said slave fell into the
 hands of the Germans, and then, the Germans having been defeated in battle, the
@@ -2194,6 +2222,7 @@ slave was sold. Labeo, Ofilius, and Trebatius deny that the slave can be
 acquired through usucaption by the purchaser, because it was true that he had
 been stolen, and although he belonged to the enemy, and returned with the right
 of postliminium,this would be an obstacle.
+
 28. Labeo, Epitomes of Probabilities by Paulus, Book IV.
 If anything captured in war forms part of the booty, it does not return by the
 right of 'postliminium,.
@@ -2202,6 +2231,7 @@ declared, and then the war having been renewed he again is captured, he returns
 by the right of postliminium,to which he was entitled when taken during the
 first war; provided that it was not agreed in the treaty of peace that captives
 should be returned.
+
 29. The Same, Epitomes of Probabilities by Paulus, Book VI.
 If you should return under the right of postliminium,you have not been able to
 acquire any property by usucaption while you were in the power of the enemy.
@@ -2212,6 +2242,7 @@ our knowledge; and in this manner an estate can be increased by a slave forming
 part of
 the same, although a posthumous child may not yet have been born, or the estate
 have been entered upon.
+
 30. The Same, Epitomes of Probabilities by Paulus, Book Vill.
 If anything which our enemies have taken from us is of such a nature that it
 can return by the law of postliminium,as soon as it escapes from the enemy for
@@ -2221,8 +2252,8 @@ Paulus: But when a slave of one of our citizens, after having been captured by
 the enemy, escapes from them, and remains at Rome without either being under
 the control of his master, or in the service of anyone else, it should be held
 that he has not yet returned under the law of postliminium.
-TITLE XVI.
-CONCERNING MILITARY AFFAIRS.
+
+* 49.XVI. CONCERNING MILITARY AFFAIRS.
 1. Ulpianus, On the-Edict, Book VI.
 A soldier who is on furlough is not considered to be absent on business for the
 State.
@@ -2569,9 +2600,7 @@ He who enlists in the army through fear of a crime of which he has already been
 accused must immediately be released from his oath.
 (1) A soldier who is a disturber of the peace is punished with death.
 
-
-
-TITLE XVII. CONCERNING CASTRENSE PECULIUM.
+* 49.XVII. CONCERNING CASTRENSE PECULIUM.
 
 1. Ulpianus, On the Edict, Book XLII.
 Where the peculiumof a son under paternal control, who is a soldier, remains in
@@ -2811,14 +2840,14 @@ bring an action in the name of his son without giving security that the latter
 will ratify his act.
 
 19. Tryphoninus, Disputations, Book XVIII.
-Our Scsevola is in doubt with reference to an estate left to a soldier by one
+Our Scaevola is in doubt with reference to an estate left to a soldier by one
 of his relatives and comrades in arms, for the reason that if he had been known
 to him, and had been connected with him before he entered the army, he could
 have appointed him his heir, and he also might not have done so, if his
 military service with him had not increased his affection.
 It seems to us that if the will had been made before the parties served
 together in the army, the estate would not form part of the
-peculium castrense,but if it was made afterwards, the opposite opinion should
+peculium castrense, but if it was made afterwards, the opposite opinion should
 prevail.
 (1) If a slave, forming part of the castrense peculium,is appointed heir by
 anyone whomsoever, he should enter upon the estate by the order of his master,
@@ -2881,9 +2910,7 @@ the ownership of whom was afterwards acquired. It is favorable to freedom to
 admit that it was granted by the father, and to hold that the slave belonged to
 the latter from the beginning; which is shown from what afterwards occurred.
 
-
-
-TITLE XVIII. CONCERNING VETERANS.
+* 49.XVIII. CONCERNING VETERANS.
 
 1. Arrius Menander, On Military Affairs, Book III.
 Veterans, among other privileges, have one relating to their offences, namely,

@@ -5,7 +5,7 @@
 + 6.2.0. De publiciana in rem actione.
 + 6.3.0. Si ager vectigalis, id est emphyteuticarius, petatur.
 
-* 6.1.0.  De rei vindicatione.
+* 6.1.0. De rei vindicatione.
 
 6.1.1
 

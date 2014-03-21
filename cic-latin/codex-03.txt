@@ -3,7 +3,6 @@
 DOMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI CODEX
 
 * LIBER TERTIUS
-
 + 3.1.0. De iudiciis.
 + 3.2.0. De sportulis et sumptibus in diversis iudiciis faciendis et de exsecutoribus litium.
 + 3.3.0. De pedaneis iudicibus.

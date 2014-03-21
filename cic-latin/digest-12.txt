@@ -9,7 +9,6 @@
 + 12.6.0. De condictione indebiti.
 + 12.7.0. De condictione sine causa.
 
-
 * 12.1.0.  De rebus creditis si certum petetur et de condictione.
 
 
@@ -21,7 +20,7 @@ pr. E re est, priusquam ad verborum interpretationem perveniamus, pauca de signi
 
 1. Quoniam igitur multa ad contractus varios pertinentia iura sub hoc titulo praetor inseruit, ideo rerum creditarum titulum praemisit: omnes enim contractus, quos alienam fidem secuti instituimus, complectitur: nam, ut libro primo quaestionum Celsus ait, credendi generalis appellatio est: ideo sub hoc titulo praetor et de commodato et de pignore edixit. Nam cuicumque rei adsentiamur alienam fidem secuti mox recepturi quid, ex hoc contractu credere dicimur. Rei quoque verbum ut generale praetor elegit.
 
- 12.1.2
+12.1.2
 
 Paulus libro 28 ad edictum
 
@@ -37,7 +36,7 @@ pr. Mutuum damus recepturi non eandem speciem quam dedimus (alioquin commodatum 
 
 5. Verbis quoque credimus quodam actu ad obligationem comparandam interposito, veluti stipulatione.
 
- 12.1.3
+12.1.3
 
 Pomponius libro 27 ad Sabinum
 
@@ -47,7 +46,7 @@ sit, reddere, veluti vinum novum pro vetere: nam in contrahendo quod
 agitur pro cauto habendum est, id autem agi intellegitur, ut eiusdem
 generis et eadem bonitate solvatur, qua datum sit.
 
- 12.1.4
+12.1.4
 
 Ulpianus libro 34 ad Sabinum
 
@@ -63,19 +62,19 @@ Pomponius libro 22 ad Sabinum
 
 Quod te mihi dare oporteat si id postea perierit, quam per te factum erit quominus id mihi dares, tuum fore id detrimentum constat. Sed cum quaeratur, an per te factum sit, animadverti debebit, non solum in potestate tua fuerit id nec ne aut dolo malo feceris quominus esset vel fuerit nec ne, sed etiam si aliqua iusta causa sit, propter quam intellegere deberes te dare oportere.
 
- 12.1.6
+12.1.6
 
 Paulus libro 28 ad edictum
 
 Certum est, cuius species vel quantitas, quae in obligatione versatur, aut nomine suo aut ea demonstratione quae nominis vice fungitur qualis quantaque sit ostenditur. Nam et Pedius libro primo de stipulationibus nihil referre ait, proprio nomine res appelletur an digito ostendatur an vocabulis quibusdam demonstretur: quatenus mutua vice fungantur, quae tantundem praestent.
 
- 12.1.7
+12.1.7
 
 Ulpianus libro 26 ad edictum
 
 Omnia, quae inseri stipulationibus possunt, eadem possunt etiam numerationi pecuniae, et ideo et condiciones.
 
- 12.1.8
+12.1.8
 
 Pomponius libro sexto ex Plautio
 
@@ -207,13 +206,13 @@ Ulpianus libro singulari pandectarum
 
 Si quis certum stipulatus fuerit, ex stipulatu actionem non habet, sed illa condicticia actione id persequi debet, per quam certum petitur.
 
- 12.1.25
+12.1.25
 
 Ulpianus libro singulari de officio consularium
 
 Creditor, qui ob restitutionem aedificiorum crediderit in pecuniam quam crediderit privilegium exigendi habebit.
 
- 12.1.26
+12.1.26
 
 Ulpianus libro quinto opinionum
 
@@ -350,7 +349,7 @@ pr. Ait praetor: "Si is cum quo agetur condicione delata iuraverit". Eum cum quo
 
 4. Iurari autem oportet, ut delatum est iusiurandum: ceterum si ego detuli ut per deum iurares, tu per caput tuum iurasti.
 
- 12.2.4
+12.2.4
 
 Paulus libro 18 ad edictum
 
@@ -370,25 +369,25 @@ pr. non erit ratum habendum iusiurandum: quod si exegi, ut per salutem tuam iura
 
 4. Si neque iuratum est neque remissum iusiurandum, pro eo debet haberi, atque si res in iusiurandum admissa non esset. Proinde si postea iurare paratus sit, nihil ei hoc iusiurandum proficiet, quia ex eo quod delatum est iuratum non est.
 
- 12.2.6
+12.2.6
 
 Paulus libro 19 ad edictum
 
 Remittit iusiurandum, qui deferente se cum paratus esset adversarius iurare gratiam ei facit contentus voluntate suscepti iurisiurandi. Quod si non suscepit iusiurandum, licet postea parato iurare actor nolit deferre, non videbitur remissum: nam quod susceptum est remitti debet.
 
- 12.2.7
+12.2.7
 
 Ulpianus libro 22 ad edictum
 
 Ait praetor: "Eius rei, de qua iusiurandum delatum fuerit, neque in ipsum neque in eum ad quem ea res pertinet actionem dabo." Eius rei sic erit accipiendum, sive de tota re sive de parte sit iuratum: nam de eo quod iuratum est pollicetur se actionem non daturum neque in eum qui iuravit neque in eos qui in locum eius cui iusiurandum delatum est succedunt,
 
- 12.2.8
+12.2.8
 
 Paulus libro 18 ad edictum
 
 etiamsi in rem successerint.
 
- 12.2.9
+12.2.9
 
 Ulpianus libro 22 ad edictum
 
@@ -408,13 +407,13 @@ pr. Nam posteaquam iuratum est, denegatur actio: aut, si controversia erit, id e
 
 7. Si petitor iuravit possessore deferente rem suam esse, actori dabitur actio, sed hoc dumtaxat adversus eum qui iusiurandum detulit eosque qui in eius locum successerunt: ceterum adversus alium si velit praerogativa iurisiurandi uti, nihil ei proderit,
 
- 12.2.10
+12.2.10
 
 Paulus libro 18 ad edictum
 
 quia non deberet alii nocere, quod inter alios actum esset.
 
- 12.2.11
+12.2.11
 
 Ulpianus libro 22 ad edictum
 
@@ -426,13 +425,13 @@ pr. Sed si possessori fuerit iusiurandum delatum iuraverit rem petitoris non ess
 
 3. Si, cum de hereditate inter me et te controversia esset, iuravero hereditatem meam esse, id consequi debeo, quod haberem, si secundum me de hereditate pronuntiatum esset. Et non solum eas res restituere debes, quas tunc possidebas, sed et si quas postea coepisses possidere, perindeque haberi quod iuratum est atque si probatum esset: idcirco utilis actio mihi competit, quod si ego ex eadem hereditate possiderem tuque coepisses petere eam a me, cum adversus te iurassem, exceptione me uti debere iurisiurandi. Plane si alius a me hereditatem petere coeperit, dubium non erit, ut et Iulianus scribit, nihil mihi iusiurandum prodesse.
 
- 12.2.12
+12.2.12
 
 Iulianus libro nono digestorum
 
 Idem est et si ego a quolibet alio possidente res hereditarias petere velim, quia et si petissem a te hereditatem et probassem meam, nihilo minus ab altero petendo id ipsum probare necesse haberem.
 
- 12.2.13
+12.2.13
 
 Ulpianus libro 22 ad edictum
 
@@ -450,25 +449,25 @@ pr. Si duo patroni essent et libertus altero deferente iurasset se libertum eius
 
 6. Si quis iuraverit in re pecuniaria per genium principis dare se non oportere et peieraverit vel dari sibi oportere, vel intra certum tempus iuraverit se soluturum nec solvit: imperator noster cum patre rescripsit fustibus eum castigandum dimittere et ita ei superdici: propetws my omnue.
 
- 12.2.14
+12.2.14
 
 Paulus libro tertio ad edictum
 
 Quotiens propter rem iuratur, nec parenti nec patrono remittitur iusiurandum: propter rem autem iusiurandum exigitur veluti de pecunia credita, cum iurat actor sibi dari oportere vel reus se dare non oportere. Idem est, cum de pecunia constituta iusiurandum exigitur.
 
- 12.2.15
+12.2.15
 
 Paulus libro sexto ad edictum
 
 Ad personas egregias eosque qui valetudine impediuntur domum mitti oportet ad iurandum.
 
- 12.2.16
+12.2.16
 
 Ulpianus libro decimo ad edictum
 
 Si patronus libertam suam uxorem duxerit, non compelletur iurare de rerum amotarum iudicio. Sed et si ipse deferat iusiurandum libertae suae, de calumnia non debet iurare.
 
- 12.2.17
+12.2.17
 
 Paulus libro 18 ad edictum
 
@@ -480,55 +479,55 @@ pr. Iusiurandum, quod ex conventione extra iudicium defertur, referri non potest
 
 3. Procurator quoque quod detulit ratum habendum est, scilicet si aut universorum bonorum administrationem sustinet aut si id ipsum nominatim mandatum sit aut si in rem suam procurator sit:
 
- 12.2.18
+12.2.18
 
 Ulpianus libro 26 ad edictum
 
 Alias autem procuratorem deferentem iusiurandum non esse audiendum Iulianus libro decimo digestorum scribit, ne postea reus, qui semel iuravit, a domino conveniatur: nec multum ei proficere, si fuerit ei de rato cautum: sive enim dominus petat, cogetur docere reus liquido se iurasse posita scilicet exceptione, sive ex stipulatione de rato agat, necesse habebit ipse de periurio suo docere.
 
- 12.2.19
+12.2.19
 
 Ulpianus libro 26 ad edictum
 
 Si itaque mandatum fuit procuratori, ut petat, ille iusiurandum detulit, aliud fecit quam quod mandatum est.
 
- 12.2.20
+12.2.20
 
 Paulus libro 18 ad edictum
 
 Servus quod detulit vel iuravit, servetur, si peculii administrationem habuit:
 
- 12.2.21
+12.2.21
 
 Gaius libro quinto ad edictum provinciale
 
 Huic enim solvi quoque recte potest et novandae obligationis ius habuit.
 
- 12.2.22
+12.2.22
 
 Paulus libro 18 ad edictum
 
 Quidam et de peculio actionem dandam in dominum, si actori detulerit servus iusiurandum. Eadem de filio familias dicenda sunt.
 
- 12.2.23
+12.2.23
 
 Ulpianus libro 26 ad edictum
 
 Si servus iuraverit dominum dare non oportere, exceptio domino indulgenda est sibique adversarius imputabit, qui servo detulit iusiurandum.
 
- 12.2.24
+12.2.24
 
 Paulus libro 28 ad edictum
 
 Multo magis proderit patri religio filii, cum quo etiam iudicium consistere potest. Ipsi autem referentes condicionem eorum, quibus subiecti sunt, non faciunt deteriorem.
 
- 12.2.25
+12.2.25
 
 Ulpianus libro 26 ad edictum
 
 Sed et si servus meus delato vel relato ei iureiurando, iuravit rem domini esse vel ei dari oportere, puto dandam mihi actionem vel pacti exceptionem propter religionem et conventionem.
 
- 12.2.26
+12.2.26
 
 Paulus libro 18 ad edictum
 
@@ -544,7 +543,7 @@ Gaius libro quinto ad edictum provinciale
 
 Iusiurandum etiam loco solutionis cedit.
 
- 12.2.28
+12.2.28
 
 Paulus libro 18 ad edictum
 
@@ -570,13 +569,13 @@ pr. In duobus reis stipulandi ab altero delatum iusiurandum etiam alteri nocebit
 
 10. Item cum ex hac parte iusiurandum et actionem et exceptionem inducat, si forte reus extra iudicium actore inferente iuraverit se dare non oportere et actor reo deferente dari sibi oportere, vel contra, posterior causa iurisiurandi potior habebitur: nec tamen praeiudicium periurio alterius fiet, quia non quaeretur, an dare eum oportet, sed an actor iuraverit.
 
- 12.2.29
+12.2.29
 
 Tryphoninus libro sexto disputationum
 
 Quod si iuravi te deferente non iurasse te dare tibi oportere, et adversus utilem actionem, qua hoc quaeritur, an iuraveris tibi dari oportere, opponenda est exceptio iurisiurandi perementis quaestionem actione comprehensam.
 
- 12.2.30
+12.2.30
 
 Paulus libro 18 ad edictum
 
@@ -592,25 +591,25 @@ pr. Eum, qui iuravit ex ea actione quae infitiando crescit aliquid sibi deberi, 
 
 5. Si iuravero usum fructum mihi dari oportere, non aliter dari debet, quam si caveam boni viri arbitratu me usurum et finito usu fructu restituturum.
 
- 12.2.31
+12.2.31
 
 Gaius libro 30 ad edictum provinciale
 
 Admonendi sumus interdum etiam post iusiurandum exactum permitti constitutionibus principum ex integro causam agere, si quis nova instrumenta se invenisse dicat, quibus nunc solis usurus sit. Sed hae constitutiones tunc videntur locum habere, cum a iudice aliquis absolutus fuerit (solent enim saepe iudices in dubiis causis exacto iureiurando secundum eum iudicare qui iuraverit): quod si alias inter ipsos iureiurando transactum sit negotium, non conceditur eandem causam retractare.
 
- 12.2.32
+12.2.32
 
 Modestinus libro differentiarum
 
 Iurisiurandi gratiam facere pupillus non potest.
 
- 12.2.33
+12.2.33
 
 Ulpianus libro 28 ad Sabinum
 
 Qui per salutem suam iurat, licet per deum iurare videtur (respectu enim divini numinis ita iurat), attamen, si non ita specialiter iusiurandum ei delatum est, iurasse non videtur: et ideo ex integro sollemniter iurandum est.
 
- 12.2.34
+12.2.34
 
 Ulpianus libro 26 ad edictum
 
@@ -634,7 +633,7 @@ pr. Iusiurandum et ad pecunias et ad omnes res locum habet: etiam de operis iusi
 
 9. Cum res in iusiurandum demissa sit, iudex iurantem absolvit: referentem audiet et, si actor iuret, condemnet reum: nolentem iurare reum si solvat, absolvit, non solventem condemnat: ex relatione non iurante actore absolvit reum.
 
- 12.2.35
+12.2.35
 
 Paulus libro 28 ad edictum
 
@@ -644,43 +643,43 @@ pr. Tutor pupilli omnibus probationibus aliis deficientibus iusiurandum deferens
 
 2. Qui non compelluntur Romae iudicium accipere, nec iurare compellendi sunt, ut legati provinciales.
 
- 12.2.36
+12.2.36
 
 Ulpianus libro 27 ad edictum
 
 Si actor deferat iusiurandum de sola constituta pecunia et reus iuraverit, exceptione utetur, si de constituta conveniatur: sed si de sorte, id est de priore obligatione conveniatur, exceptio cessabit, nisi de hac quoque iuraverit adversario deferente.
 
- 12.2.37
+12.2.37
 
 Ulpianus libro 33 ad edictum
 
 Si non fuerit remissum iusiurandum ab eo qui detulerit, sed de calumnia non iuratur, consequens est, ut debeat denegari ei actio: sibi enim imputet, qui processit ad delationem iurisiurandi nec prius de calumnia iuravit, ut sit iste remittendi similis.
 
- 12.2.38
+12.2.38
 
 Paulus libro 37 ad edictum
 
 Manifestae turpitudinis et confessionis est nolle nec iurare nec iusiurandum referre.
 
- 12.2.39
+12.2.39
 
 Iulianus libro decimo digestorum
 
 Si quis cum debitore suo pepigerit, ne ab eo pecunia peteretur, si iurasset se capitolium non ascendisse vel aliud quodlibet fecisse vel non fecisse, isque iuraverit, et exceptio iurisiurandi dari debebit et solutum repeti poterit: est enim iusta conventio, si quaelibet causa in condicione iurisiurandi deducta fuerit.
 
- 12.2.40
+12.2.40
 
 Iulianus libro 13 digestorum
 
 Iusiurandum a debitore exactum efficit, ut pignus liberetur: est enim hoc acceptilationi simile: perpetuam certe exceptionem parit. Idcirco poenam quoque petentem creditorem exceptione summoveri oportet et solutum repeti potest, utpote cum interposito eo ab omni controversia discedatur.
 
- 12.2.41
+12.2.41
 
 Pomponius libro singulari regularum
 
 Labeo etiam absenti et ignoranti iurisiurandi gratiam fieri posse respondit: sed et per epistulam gratia iurisiurandi fieri potest.
 
- 12.2.42
+12.2.42
 
 Pomponius libro 18 epistularum
 
@@ -701,19 +700,19 @@ Ulpianus libro 51 ad Sabinum
 
 Rem in iudicio deductam non idcirco pluris esse opinamur, quia crescere condemnatio potest ex contumacia non restituentis per iusiurandum in litem: non enim res pluris fit per hoc, sed ex contumacia aestimatur ultra rei pretium.
 
- 12.3.2
+12.3.2
 
 Paulus libro 13 ad Sabinum
 
 Sive nostrum quid petamus sive ad exhibendum agatur, interdum quod intersit agentis solum aestimatur, veluti cum culpa non restituentis vel non exhibentis punitur: cum vero dolus aut contumacia non restituentis vel non exhibentis, quanti in litem iuraverit actor.
 
- 12.3.3
+12.3.3
 
 Ulpianus libro 30 ad edictum
 
 Nummis depositis iudicem non oportet in litem iusiurandum deferre, ut iuret quisque quod sua interfuit, cum certa sit nummorum aestimatio. Nisi forte de eo quis iuret, quod sua interfuit nummos sibi sua die redditos esse: quid enim, si sub poena pecuniam debuit? Aut sub pignore, quod, quia deposita ei pecunia adnegata est, distractum est?
 
- 12.3.4
+12.3.4
 
 Ulpianus libro 36 ad edictum
 
@@ -727,7 +726,7 @@ pr. Videamus in tutelari causa quis iurare et adversus quem possit. Et quidem ip
 
 4. Ex culpa autem non esse iusiurandum deferendum constat, sed aestimationem a iudice faciendam.
 
- 12.3.5
+12.3.5
 
 Marcianus libro quarto regularum
 
@@ -747,31 +746,31 @@ Paulus libro 26 ad edictum
 
 alias, si ex stipulatu vel ex testamento agatur, non solet in litem iurari.
 
- 12.3.7
+12.3.7
 
 Ulpianus libro octavo ad edictum
 
 Volgo praesumitur alium in litem non debere iurare quam dominum litis: denique Papinianus ait alium non posse iurare quam eum, qui litem suo nomine contestatus est.
 
- 12.3.8
+12.3.8
 
 Marcellus libro octavo digestorum
 
 Tutor rem adulti, quam possidet, restituere ei non vult: quaero, utrum quanti res est an quanti in litem iuratum fuerit condemnari debet, respondi: non est aequum pretio, id est quanti res est, litem aestimari, cum et contumacia punienda sit et arbitrio potius domini rei pretium statuendum sit potestate petitori in litem iurandi concessa.
 
- 12.3.9
+12.3.9
 
 Iavolenus libro 15 ex Cassio
 
 Cum furti agitur, iurare ita oportet "tanti rem fuisse cum furtum factum sit", non adici "eo plurisve", quia quod res pluris est, utique tanti est.
 
- 12.3.10
+12.3.10
 
 Callistratus libro primo quaestionum
 
 In instrumentis, quae quis non exhibet, actori permittitur in litem iurare, quanti sua interest ea proferri, ut tanti condemnetur reus: idque etiam divus Commodus rescripsit.
 
- 12.3.11
+12.3.11
 
 Paulus libro tertio responsorum
 
@@ -790,7 +789,7 @@ pr. Si ob rem non inhonestam data sit pecunia, ut filius emanciparetur vel servu
 
 2. Sed et si falsum testamentum sine scelere eius qui dedit vel inofficiosum pronuntietur, veluti causa non secuta decem repetentur.
 
- 12.4.3
+12.4.3
 
 Ulpianus libro 26 ad edictum
 
@@ -814,13 +813,13 @@ pr. Dedi tibi pecuniam, ne ad iudicem iretur: quasi decidi. An possim condicere,
 
 9. Quamquam permissum sit statulibero etiam de peculio dare implendae condicionis causa, si tamen vult heres nummos salvos facere, potest eum vetare dare: sic enim fiet, ut et statuliber perveniat ad libertatem quasi impleta condicione cui parere prohibitus est, et nummi non peribunt. Sed is, quem testator accipere voluit, adversus heredem in factum actione agere potest, ut testatori pareatur.
 
- 12.4.4
+12.4.4
 
 Ulpianus libro 39 ad edictum
 
 Si quis accepto tulerit debitori suo, cum conveniret, ut expromissorem daret, nec ille det, potest dici condici posse ei, qui accepto sit liberatus.
 
- 12.4.5
+12.4.5
 
 Ulpianus libro secundo disputationum
 
@@ -834,13 +833,13 @@ pr. Si pecuniam ideo acceperis, ut capuam eas, deinde parato tibi ad proficiscen
 
 4. Sed ubi accepit, ut manumitteret, deinde servus decessit, si quidem moram fecit manumissioni, consequens est, ut dicamus refundere eum quod accepit: quod si moram non fecit, sed cum profectus esset ad praesidem vel apud quem manumittere posset, servus in itinere decesserit, verius est, si quidem distracturus erat vel quo ipse usurus, oportere dici nihil eum refundere debere. Enimvero si nihil eorum facturus, ipsi adhuc servum obisse: decederet enim et si non accepisset ut manumitteret: nisi forte profectio manumissionis gratia morti causam praebuit, ut vel a latronibus sit interfectus, vel ruina in stabulo oppressus, vel vehiculo obtritus, vel alio quo modo, quo non periret, nisi manumissionis causa proficisceretur.
 
- 12.4.6
+12.4.6
 
 Ulpianus libro tertio disputationum
 
 Si extraneus pro muliere dotem dedisset et pactus esset, ut, quoquo modo finitum esset matrimonium, dos ei redderetur, nec fuerint nuptiae secutae, quia de his casibus solummodo fuit conventum qui matrimonium sequuntur, nuptiae autem secutae non sint, quaerendum erit, utrum mulieri condictio an ei qui dotem dedit competat. Et verisimile est in hunc quoque casum eum qui dat sibi prospicere: nam quasi causa non secuta habere potest condictionem, qui ob matrimonium dedit, matrimonio non copulato, nisi forte evidentissimis probationibus mulier ostenderit hoc eum ideo fecisse, ut ipsi magis mulieri quam sibi prospiceret. Sed et si pater pro filia det et ita convenit, nisi evidenter aliud actum sit, condictionem patri competere Marcellus ait.
 
- 12.4.7
+12.4.7
 
 Iulianus libro 16 digestorum
 
@@ -848,13 +847,13 @@ pr. Qui se debere pecuniam mulieri putabat, iussu eius dotis nomine promisit spo
 
 1. Fundus dotis nomine traditus, si nuptiae insecutae non fuerint, condictione repeti potest: fructus quoque condici poterunt. Idem iuris est de ancilla et partu eius.
 
- 12.4.8
+12.4.8
 
 Neratius libro secundo membranarum
 
 Quod servius in libro de dotibus scribit, si inter eas personas, quarum altera nondum iustam aetatem habeat, nuptiae factae sint, quod dotis nomine interim datum sit, repeti posse, sic intellegendum est, ut, si divortium intercesserit, priusquam utraque persona iustam aetatem habeat, sit eius pecuniae repetitio, donec autem in eodem habitu matrimonii permanent, non magis id repeti possit, quam quod sponsa sponso dotis nomine dederit, donec maneat inter eos adfinitas: quod enim ex ea causa nondum coito matrimonio datur, cum sic detur tamquam in dotem perventurum, quamdiu pervenire potest, repetitio eius non est.
 
- 12.4.9
+12.4.9
 
 Paulus libro 17 ad Plautium
 
@@ -868,37 +867,37 @@ Iavolenus libro primo ex Plautio
 
 Si mulier ei cui nuptura erat cum dotem dare vellet, pecuniam quae sibi debebatur acceptam fecit neque nuptiae insecutae sunt, recte ab eo pecunia condicetur, quia nihil interest, utrum ex numeratione pecunia ad eum sine causa an per acceptilationem pervenerit.
 
- 12.4.11
+12.4.11
 
 Iulianus libro decimo digestorum
 
 Si heres arbitratu liberti certa summa monumentum iussus facere dederit liberto pecuniam et is accepta pecunia monumentum non faciat, condictione tenetur.
 
- 12.4.12
+12.4.12
 
 Paulus libro sexto ad legem Iuliam et Papiam
 
 Cum quis mortis causa donationem, cum convaluisset donator, condicit, fructus quoque donatarum rerum et partus et quod adcrevit rei donatae repetere potest.
 
- 12.4.13
+12.4.13
 
 Marcianus libro tertio regularum
 
 Si filius contulerit fratri quasi adgniturus bonorum possessionem et non adgnovit, repetere eum posse Marcellus libro quinto digestorum scribit.
 
- 12.4.14
+12.4.14
 
 Paulus libro tertio ad Sabinum
 
 Si procuratori falso indebitum solutum sit, ita demum a procuratore repeti non potest, si dominus ratum habuerit, sed ipse dominus tenetur, ut Iulianus scribit. Quod si dominus ratum non habuisset, etiamsi debita pecunia soluta fuisset, ab ipso procuratore repetetur: non enim quasi indebitum datum repetetur, sed quasi ob rem datum nec res secuta sit ratihabitione non intercedente: vel quod furtum faceret pecuniae falsus procurator, cum quo non tantum furti agi, sed etiam condici ei posse.
 
- 12.4.15
+12.4.15
 
 Pomponius libro 22 ad Sabinum
 
 Cum servus tuus in suspicionem furti Attio venisset, dedisti eum in quaestionem sub ea causa, ut, si id repertum in eo non esset, redderetur tibi: is eum tradidit praefecto vigilum quasi in facinore deprehensum: praefectus vigilum eum summo supplicio adfecit. Ages cum Attio dare eum tibi oportere, quia et ante mortem dare tibi eum oportuerit. Labeo ait posse etiam ad exhibendum agi, quoniam fecerit quo minus exhiberet. Sed Proculus dari oportere ita ait, si fecisses eius hominem, quo casu ad exhibendum agere te non posse: sed si tuus mansisset, etiam furti te acturum cum eo, quia re aliena ita sit usus, ut sciret se invito domino uti aut dominum si sciret prohibiturum esse.
 
- 12.4.16
+12.4.16
 
 Celsus libro tertio digestorum
 
@@ -917,7 +916,7 @@ pr. Omne quod datur aut ob rem datur aut ob causam, et ob rem aut turpem aut hon
 
 2. Quod si turpis causa accipientis fuerit, etiamsi res secuta sit, repeti potest:
 
- 12.5.2
+12.5.2
 
 Ulpianus libro 26 ad edictum
 
@@ -927,13 +926,13 @@ pr. ut puta dedi tibi ne sacrilegium facias, ne furtum, ne hominem occidas. In q
 
 2. Sed si dedi, ut secundum me in bona causa iudex pronuntiaret, est quidem relatum condictioni locum esse: sed hic quoque crimen contrahit (iudicem enim corrumpere videtur) et non ita pridem imperator noster constituit litem eum perdere.
 
- 12.5.3
+12.5.3
 
 Paulus libro decimo ad Sabinum
 
 Ubi autem et dantis et accipientis turpitudo versatur, non posse repeti dicimus: veluti si pecunia detur, ut male iudicetur.
 
- 12.5.4
+12.5.4
 
 Ulpianus libro 26 ad edictum
 
@@ -947,31 +946,31 @@ pr. Idem si ob stuprum datum sit, vel si quis in adulterio deprehensus redemerit
 
 4. Si tibi indicium dedero, ut fugitivum meum indices vel furem rerum mearum, non poterit repeti quod datum est: nec enim turpiter accepisti. Quod si a fugitivo meo acceperis ne eum indicares, condicere tibi hoc quasi furi possim: sed si ipse fur indicium a me accepit vel furis vel fugitivi socius, puto condictionem locum habere.
 
- 12.5.5
+12.5.5
 
 Iulianus libro tertio ad Urseium Ferocem
 
 Si a servo meo pecuniam quis accepisset, ne furtum ab eo factum indicaret, sive indicasset sive non, repetitionem fore eius pecuniae proculus respondit.
 
- 12.5.6
+12.5.6
 
 Ulpianus libro 18 ad Sabinum
 
 Perpetuo Sabinus probavit veterum opinionem existimantium id, quod ex iniusta causa apud aliquem sit, posse condici: in qua sententia etiam Celsus est.
 
- 12.5.7
+12.5.7
 
 Pomponius libro 22 ad Sabinum
 
 Ex ea stipulatione, quae per vim extorta esset, si exacta esset pecunia, repetitionem esse constat.
 
- 12.5.8
+12.5.8
 
 Paulus libro tertio quaestionum
 
 Si ob turpem causam promiseris Titio, quamvis si petat, exceptione doli mali vel in factum summovere eum possis, tamen si solveris, non posse te repetere, quoniam sublata proxima causa stipulationis, quae propter exceptionem inanis esset, pristina causa, id est turpitudo, superesset: porro autem si et dantis et accipientis turpis causa sit, possessorem potiorem esse et ideo repetitionem cessare, tametsi ex stipulatione solutum est.
 
- 12.5.9
+12.5.9
 
 Paulus libro quinto ad Plautium
 
@@ -980,7 +979,6 @@ pr. Si vestimenta utenda tibi commodavero, deinde pretium, ut reciperem, dedisse
 1. Si rem locatam tibi vel venditam a te vel mandatam ut redderes, pecuniam acceperis, habebo tecum ex locato vel vendito vel mandati actionem: quod si, ut id, quod ex testamento vel ex stipulatu debebas, redderes mihi, pecuniam tibi dederim, condictio dumtaxat pecuniae datae eo nomine erit. Idque et Pomponius scribit.
 
 * 12.6.0. De condictione indebiti.
-
 
 12.6.1
 
@@ -992,7 +990,7 @@ pr. Nunc videndum de indebito soluto.
 condicere potest: sed si sciens se non debere solvit, cessat
 repetitio.
 
- 12.6.2
+12.6.2
 
 Ulpianus libro 16 ad Sabinum
 
@@ -1002,25 +1000,25 @@ contractum est inter eos.
 
 1. Si quid ex testamento solutum sit, quod postea falsum vel inofficiosum vel irritum vel ruptum apparuerit, repetetur, vel si post multum temporis emerserit aes alienum, vel codicilli diu celati prolati, qui ademptionem continent legatorum solutorum vel deminutionem per hoc, quia aliis quoque legata relicta sunt. Nam divus Hadrianus circa inofficiosum et falsum testamentum rescripsit actionem dandam ei, secundum quem de hereditate iudicatum est.
 
- 12.6.3
+12.6.3
 
 Papinianus libro 28 quaestionum
 
 Idem est et si solutis legatis nova et inopinata causa hereditatem abstulit, veluti nato postumo, quem heres in utero fuisse ignorabat, vel etiam ab hostibus reverso filio, quem pater obisse falso praesumpserat: nam utiles actiones postumo vel filio, qui hereditatem evicerat, dari oportere in eos, qui legatum perceperunt, imperator Titus Antoninus rescripsit, scilicet quod bonae fidei possessor in quantum locupletior factus est tenetur nec periculum huiusmodi nominum ad eum, qui sine culpa solvit, pertinebit.
 
- 12.6.4
+12.6.4
 
 Paulus libro tertio ad Sabinum
 
 Idem divus Hadrianus rescripsit et si aliud testamentum proferatur.
 
- 12.6.5
+12.6.5
 
 Ulpianus libro 16 ad Sabinum
 
 Nec novum, ut quod alius solverit alius repetat. Nam et cum minor viginti quinque annis inconsulte adita hereditate solutis legatis in integrum restituitur, non ipsi repetitionem competere, sed ei, ad quem bona pertinent, Arrio Titiano rescriptum est.
 
- 12.6.6
+12.6.6
 
 Paulus libro tertio ad Sabinum
 
@@ -1041,47 +1039,47 @@ videretur, et ideo, si ratum non habeatur, a procuratore repetendum.
 3. Iulianus ait neque tutorem neque procuratorem solventes repetere
 posse neque interesse, suam pecuniam an pupilli vel domini solvant.
 
- 12.6.7
+12.6.7
 
 Pomponius libro nono ad Sabinum
 
 Quod indebitum per errorem solvitur, aut ipsum aut tantundem
 repetitur.
 
- 12.6.8
+12.6.8
 
 Paulus libro sexto ad Sabinum
 
 Quod nomine mariti, qui solvendo non sit, alius mulieri solvisset,
 repetere non potest: adeo debitum esset mulieri.
 
- 12.6.9
+12.6.9
 
 Ulpianus libro 66 ad edictum
 
 Nam et maritus, si, cum facere nihil possit, dotem solverit, in ea
 causa est, ut repetere non possit.
 
- 12.6.10
+12.6.10
 
 Paulus libro septimo ad Sabinum
 
 In diem debitor adeo debitor est, ut ante diem solutum repetere non
 possit.
 
- 12.6.11
+12.6.11
 
 Ulpianus libro 35 ad Sabinum
 
 Si is, cum quo de peculio actum est, per imprudentiam plus quam in peculio est solverit, repetere non potest.
 
- 12.6.12
+12.6.12
 
 Paulus libro septimo ad Sabinum
 
 Si fundi mei usum fructum tibi dedero falso existimans me eum tibi debere et antequam repetam decesserim, condictio eius ad heredem quoque meum transibit.
 
- 12.6.13
+12.6.13
 
 Paulus libro decimo ad Sabinum
 
@@ -1089,13 +1087,13 @@ pr. Naturaliter etiam servus obligatur: et ideo, si quis nomine eius solvat vel 
 
 1. Item quod pupillus sine tutoris auctoritate mutuum accepit et locupletior factus est, si pubes factus solvat, non repetit.
 
- 12.6.14
+12.6.14
 
 Pomponius libro 21 ad Sabinum
 
 Nam hoc natura aequum est neminem cum alterius detrimento fieri locupletiorem.
 
- 12.6.15
+12.6.15
 
 Paulus libro decimo ad Sabinum
 
@@ -1105,7 +1103,7 @@ pr. Indebiti soluti condictio naturalis est et ideo etiam quod rei solutae acces
 
 2. Sed et si usus fructus in re soluta alienus sit, deducto usu fructu a te condicam.
 
- 12.6.16
+12.6.16
 
 Pomponius libro 15 ad Sabinum
 
@@ -1113,19 +1111,19 @@ pr. Sub condicione debitum per errorem solutum pendente quidem condicione repeti
 
 1. Quod autem sub incerta die debetur, die existente non repetitur.
 
- 12.6.17
+12.6.17
 
 Ulpianus libro secundo ad edictum
 
 Nam si cum moriar dare promisero et antea solvam, repetere me non posse Celsus ait: quae sententia vera est.
 
- 12.6.18
+12.6.18
 
 Ulpianus libro 47 ad Sabinum
 
 Quod si ea condicione debetur, quae omnimodo exstatura est, solutum repeti non potest, licet sub alia condicione, quae an impleatur incertum est, si ante solvatur, repeti possit.
 
- 12.6.19
+12.6.19
 
 Pomponius libro 22 ad Sabinum
 
@@ -1139,19 +1137,19 @@ pr. Si poenae causa eius cui debetur debitor liberatus est, naturalis obligatio 
 
 4. Si duo rei, qui decem debebant, viginti pariter solverint, Celsus ait singulos quina repetituros, quia, cum decem deberent, viginti solvissent, et quod amplius ambo solverint, ambo repetere possunt.
 
- 12.6.20
+12.6.20
 
 Iulianus libro decimo digestorum
 
 Si reus et fideiussor solverint pariter, in hac causa non differunt a duobus reis promittendi; quare omnia, quae de his dicta sunt, et ad hos transferre licebit.
 
- 12.6.21
+12.6.21
 
 Paulus libro tertio quaestionum
 
 Plane si duos reos non eiusdem pecuniae, sed alterius obligationis constitueris, ut puta Stichi aut Pamphili, et pariter duos datos, aut togam vel denaria mille, non idem dici poterit in repetitione ut partes repetant, quia nec solvere ab initio sic potuerunt. Igitur hoc casu electio est creditoris, cui velit solvere, ut alterius repetitio impediatur.
 
- 12.6.22
+12.6.22
 
 Pomponius libro 22 ad Sabinum
 
@@ -1159,7 +1157,7 @@ pr. Sed et si me putem tibi aut Titio promisisse, cum aut neutrum factum sit aut
 
 1. Cum iter excipere deberem, fundum liberum per errorem tradidi: incerti condicam, ut iter mihi concedatur.
 
- 12.6.23
+12.6.23
 
 Ulpianus libro 43 ad Sabinum
 
@@ -1173,19 +1171,19 @@ pr. Eleganter Pomponius quaerit, si quis suspicetur transactionem factam vel ab 
 
 4. Si qua lex ab initio dupli vel quadrupli statuit actionem, dicendum est solutum ex falsa eius causa repeti posse.
 
- 12.6.24
+12.6.24
 
 Ulpianus libro 46 ad Sabinum
 
 Si is, qui perpetua exceptione tueri se poterat, cum sciret sibi exceptionem profuturam, promiserit aliquid ut liberaretur, condicere non potest.
 
- 12.6.25
+12.6.25
 
 Ulpianus libro 47 ad Sabinum
 
 Cum duo pro reo fideiussissent decem, deinde reus tria solvisset et postea fideiussores quina, placuit eum qui posterior solvit repetere tria posse: hoc merito, quia tribus a reo solutis septem sola debita supererant, quibus persolutis tria indebita soluta sunt.
 
- 12.6.26
+12.6.26
 
 Ulpianus libro 26 ad edictum
 
@@ -1219,25 +1217,25 @@ pr. Si non sortem quis, sed usuras indebitas solvit, repetere non poterit, si so
 
 14. Idem ait et si duo heredes sint stipulatoris, non posse alteri quinque solutis alteri partem Stichi solvi: idem et si duo sint promissoris heredes. Secundum quae liberatio non contingit, nisi aut utrique quina aut utrique partes Stichi fuerunt solutae.
 
- 12.6.27
+12.6.27
 
 Paulus libro 28 ad edictum
 
 Qui loco certo debere existimans indebitum solvit, quolibet loco repetet: non enim existimationem solventis eadem species repetitionis sequitur.
 
- 12.6.28
+12.6.28
 
 Paulus libro 32 ad edictum
 
 Iudex si male absolvit et absolutus sua sponte solverit, repetere non potest.
 
- 12.6.29
+12.6.29
 
 Ulpianus libro secundo disputationum
 
 Interdum persona locum facit repetitioni, ut puta si pupillus sine tutoris auctoritate vel furiosus vel is cui bonis interdictum est solverit: nam in his personis generaliter repetitioni locum esse non ambigitur. Et si quidem exstant nummi, vindicabuntur, consumptis vero condictio locum habebit.
 
- 12.6.30
+12.6.30
 
 Ulpianus libro decimo disputationum
 
@@ -1249,7 +1247,7 @@ Ulpianus libro primo opinionum
 
 Is, qui plus quam hereditaria portio efficit per errorem creditori caverit, indebiti promissi habet condictionem.
 
- 12.6.32
+12.6.32
 
 Iulianus libro decimo digestorum
 
@@ -1261,37 +1259,37 @@ pr. Cum is qui Pamphilum aut Stichum debet simul utrumque solverit, si, posteaqu
 
 3. Qui hominem generaliter promisit, similis est ei, qui hominem aut decem debet: et ideo si, cum existimaret se stichum promisisse, eum dederit, condicet, alium autem quemlibet dando liberari poterit.
 
- 12.6.33
+12.6.33
 
 Iulianus libro 39 digestorum
 
 Si in area tua aedificassem et tu aedes possideres, condictio locum non habebit, quia nullum negotium inter nos contraheretur: nam is, qui non debitam pecuniam solverit, hoc ipso aliquid negotii gerit: cum autem aedificium in area sua ab alio positum dominus occupat, nullum negotium contrahit. Sed et si is, qui in aliena area aedificasset, ipse possessionem tradidisset, condictionem non habebit, quia nihil accipientis faceret, sed suam rem dominus habere incipiat. Et ideo constat, si quis, cum existimaret se heredem esse, insulam hereditariam fulsisset, nullo alio modo quam per retentionem impensas servare posse.
 
- 12.6.34
+12.6.34
 
 Iulianus libro 40 digestorum
 
 Is cui hereditas tota per fideicommissum relicta est et praeterea fundus, si decem dedisset heredi, et heres suspectam hereditatem dixerit et eam ex Trebelliano restituerit, causam dandae pecuniae non habet, et ideo quod eo nomine quasi implendae condicionis gratia dederit, condictione repetet.
 
- 12.6.35
+12.6.35
 
 Iulianus libro 45 digestorum
 
 Qui ob rem non defensam solvit, quamvis postea defendere paratus est, non repetet quod solverit.
 
- 12.6.36
+12.6.36
 
 Paulus libro quinto epitomarum Alfeni digestorum
 
 Servus cuiusdam insciente domino magidem commodavit: is cui commodaverat pignori eam posuit et fugit: qui accepit non aliter se redditurum aiebat, quam si pecuniam accepisset: accepit a servulo et reddidit magidem: quaesitum est, an pecunia ab eo repeti possit. Respondit, si is qui pignori accepisset magidem alienam scit apud se pignori deponi, furti eum se obligasse ideoque, si pecuniam a servulo accepisset redimendi furti causa, posse repeti: sed si nescisset alienam apud se deponi, non esse furem, item, si pecunia eius nomine, a quo pignus acceperat, a servo ei soluta esset, non posse ab eo repeti.
 
- 12.6.37
+12.6.37
 
 Iulianus libro tertio ad Urseium Ferocem
 
 Servum meum insciens a te emi pecuniamque tibi solvi: eam me a te repetiturum et eo nomine condictionem mihi esse omnimodo puto, sive scisses meum esse sive ignorasses.
 
- 12.6.38
+12.6.38
 
 Africanus libro nono quaestionum
 
@@ -1303,13 +1301,13 @@ pr. Frater a fratre, cum in eiusdem potestate essent, pecuniam mutuatus post mor
 
 3. Legati satis accepi et cum fideiussor mihi solvisset, apparuit indebitum fuisse legatum: posse eum repetere existimavit.
 
- 12.6.39
+12.6.39
 
 Marcianus libro octavo institutionum
 
 Si quis, cum a fideicommissario sibi cavere poterat, non caverit, quasi indebitum plus debito eum solutum repetere posse divi Severus et Antoninus rescripserunt.
 
- 12.6.40
+12.6.40
 
 Marcianus libro tertio regularum
 
@@ -1319,103 +1317,103 @@ pr. Qui exceptionem perpetuam habet, solutum per errorem repetere potest: sed ho
 
 2. Si pactus fuerit patronus cum liberto, ne operae ab eo petantur, quidquid postea solutum fuerit a liberto, repeti potest.
 
- 12.6.41
+12.6.41
 
 Neratius libro sexto membranarum
 
 Quod pupillus sine tutoris auctoritate stipulanti promiserit solverit, repetitio est, quia nec natura debet.
 
- 12.6.42
+12.6.42
 
 Ulpianus libro 68 ad edictum
 
 Poenae non solent repeti, cum depensae sunt.
 
- 12.6.43
+12.6.43
 
 Paulus libro tertio ad Plautium
 
 Si quis iurasset se dare non oportere, ab omni contentione discedetur atque ita solutam pecuniam repeti posse dicendum est.
 
- 12.6.44
+12.6.44
 
 Paulus libro 14 ad Plautium
 
 Repetitio nulla est ab eo qui suum recepit, tametsi ab alio quam vero debitore solutum est.
 
- 12.6.45
+12.6.45
 
 Iavolenus libro secundo ex Plautio
 
 Si is, qui hereditatem vendidit et emptori tradidit, id, quod sibi mortuus debuerat, non retinuit, repetere poterit, quia plus debito solutum per condictionem recte recipietur.
 
- 12.6.46
+12.6.46
 
 Iavolenus libro quarto ex Plautio
 
 Qui heredis nomine legata non debita ex nummis ipsius heredis solvit, ipse quidem repetere non potest: sed si ignorante herede nummos eius tradidit, dominus, ait, eos recte vindicabit. Eadem causa rerum corporalium est.
 
- 12.6.47
+12.6.47
 
 Celsus libro sexto digestorum
 
 Indebitam pecuniam per errorem promisisti: eam qui pro te fideiusserat solvit. Ego existimo, si nomine tuo solverit fideiussor, te fideiussori, stipulatorem tibi obligatum fore: nec exspectandum est, ut ratum habeas, quoniam potes videri id ipsum mandasse, ut tuo nomine solveretur: sin autem fideiussor suo nomine solverit quod non debebat, ipsum a stipulatore repetere posse, quoniam indebitam iure gentium pecuniam solvit: quo minus autem consequi poterit ab eo cui solvit, a te mandati iudicio consecuturum, si modo per ignorantiam petentem exceptione non summoverit.
 
- 12.6.48
+12.6.48
 
 Celsus libro sexto digestorum
 
 Qui promisit, si aliquid a se factum sit vel cum aliquid factum sit, dare se decem, si, priusquam id factum fuerit, quod promisit dederit, non videbitur fecisse quod promisit atque ideo repetere potest.
 
- 12.6.49
+12.6.49
 
 Modestinus libro tertio regularum
 
 His solis pecunia condicitur, quibus quoquo modo soluta est, non quibus proficit.
 
- 12.6.50
+12.6.50
 
 Pomponius libro quinto ad Quintum Mucium
 
 Quod quis sciens indebitum dedit hac mente, ut postea repeteret, repetere non potest.
 
- 12.6.51
+12.6.51
 
 Pomponius libro sexto ad Quintum Mucium
 
 Ex quibus causis retentionem quidem habemus, petitionem autem non habemus, ea si solverimus, repetere non possumus.
 
- 12.6.52
+12.6.52
 
 Pomponius libro 27 ad Quintum Mucium
 
 Damus aut ob causam aut ob rem: ob causam praeteritam, veluti cum ideo do, quod aliquid a te consecutus sum vel quia aliquid a te factum est, ut, etiamsi falsa causa sit, repetitio eius pecuniae non sit: ob rem vero datur, ut aliquid sequatur, quo non sequente repetitio competit.
 
- 12.6.53
+12.6.53
 
 Proculus libro septimo epistularum
 
 Dominus testamento servo suo libertatem dedit, si decem det: servo ignorante id testamentum non valere data sunt mihi decem: quaeritur, quis repetere potest. Proculus respondit: si ipse servus peculiares nummos dedit, cum ei a domino id permissum non esset, manent nummi domini eosque non per condictionem, sed in rem actione petere debet. Si autem alius rogatu servi suos nummos dedit, facti sunt mei eosque dominus servi, cuius nomine dati sunt, per condictionem petere potest: sed tam benignius quam utilius est recta via ipsum qui nummos dedit suum recipere.
 
- 12.6.54
+12.6.54
 
 Papinianus libro secundo quaestionum
 
 Ex his omnibus causis, quae iure non valuerunt vel non habuerunt effectum, secuta per errorem solutione condictioni locus erit.
 
- 12.6.55
+12.6.55
 
 Papinianus libro sexto quaestionum
 
 Si urbana praedia locaverit praedo, quod mercedis nomine ceperit, ab eo qui solvit non repetetur, sed domino erit obligatus. Idemque iuris erit in vecturis navium, quas ipse locaverit aut exercuerit, item mercedibus servorum, quorum operae per ipsum fuerint locatae. Nam si servus non locatus mercedem ut domino praedoni rettulit, non fiet accipientis pecunia. Quod si vecturas navium, quas dominus locaverat, item pensiones insularum acceperit, ob indebitum ei tenebitur, qui non est liberatus solvendo. Quod ergo dici solet praedoni fructus posse condici, tunc locum habet, cum domini fructus fuerunt.
 
- 12.6.56
+12.6.56
 
 Papinianus libro octavo quaestionum
 
 Sufficit ad causam indebiti incertum esse, temporaria sit an perpetua exceptionis defensio. Nam si qui, ne conveniatur, donec Titius consul fiat, paciscatur, quia potest titio decedente perpetua fieri exceptio, quae ad tempus est titio consulatum ineunte, summa ratione dicetur, quod interim solvitur, repeti: ut enim pactum, quod in tempus certum collatum est, non magis inducit condictionem, quam si ex die debitor solvit, ita prorsum defensio iuris, quae causam incertam habet, condictionis instar optinet.
 
- 12.6.57
+12.6.57
 
 Papinianus libro tertio responsorum
 
@@ -1423,13 +1421,13 @@ pr. Cum indebitum impuberis nomine tutor numeravit, impuberis condictio est.
 
 1. Creditor, ut procuratori suo debitum redderetur, mandavit: maiore pecunia soluta procurator indebiti causa convenietur: quod si nominatim, ut maior pecunia solveretur, delegavit, indebiti cum eo qui delegavit erit actio, quae non videtur perempta, si frustra cum procuratore lis fuerit instituta.
 
- 12.6.58
+12.6.58
 
 Papinianus libro nono responsorum
 
 Servo manumisso fideicommissum ita reliquit, si ad libertatem ex testamento pervenerit: post acceptam sine iudice pecuniam ingenuus pronuntiatus est: indebiti fideicommissi repetitio erit.
 
- 12.6.59
+12.6.59
 
 Papinianus libro secundo definitionum
 
@@ -1443,31 +1441,31 @@ pr. Iulianus verum debitorem post litem contestatam manente adhuc iudicio negaba
 
 1. Ubi autem quis quod pure debet sub condicione novandi animo promisit, plerique putant pendente novatione solutum repetere posse, quia ex qua obligatione solvat, adhuc incertum sit: idemque esse etiam, si diversas personas ponas eandem pecuniam pure et sub condicione novandi animo promisisse. Sed hoc dissimile est: in stipulatione enim pura et condicionali eundem debiturum certum est.
 
- 12.6.61
+12.6.61
 
 Scaevola libro quinto responsorum
 
 Tutores pupilli quibusdam creditoribus patris ex patrimonio paterno solverunt, sed postea non sufficientibus bonis pupillum abstinuerunt: quaeritur, an quod amplius creditoribus per tutores pupilli solutum est vel totum quod acceperunt restituere debeant. Respondi, si nihil dolo factum esset, tutori quidem vel pupillo non deberi, creditoribus autem aliis in id, quod amplius sui debiti solutum est, teneri.
 
- 12.6.62
+12.6.62
 
 Maecenatus libro quarto fideicommissorum
 
 Fideicommissum in stipulatione deductum tametsi non debitum fuisset, quia tamen a sciente fidei explendae causa promissum esset, debetur.
 
- 12.6.63
+12.6.63
 
 Gaius libro singulari de Cassio
 
 Neratius casum refert, ut quis id quod solverit repetere non possit, quasi debitum dederit, nec tamen liberetur: velut si is, qui cum certum hominem deberet, statuliberum dederit: nam ideo eum non liberari, quod non in plenum stipulatoris hominem fecerit, nec tamen repetere eum posse, quod debitum dederit.
 
- 12.6.64
+12.6.64
 
 Tryphoninus libro septimo disputationum
 
 Si quod dominus servo debuit, manumisso solvit, quamvis existimans ei aliqua teneri actione, tamen repetere non poterit, quia naturale adgnovit debitum: ut enim libertas naturali iure continetur et dominatio ex gentium iure introducta est, ita debiti vel non debiti ratio in condictione naturaliter intellegenda est.
 
- 12.6.65
+12.6.65
 
 Paulus libro 17 ad Plautium
 
@@ -1491,13 +1489,13 @@ pr. In summa, ut generaliter de repetitione tractemus, sciendum est dari aut ob 
 
 9. Indebitum est non tantum, quod omnino non debetur, sed et quod alii debetur, si alii solvatur, aut si id quod alius debebat alius quasi ipse debeat solvat.
 
- 12.6.66
+12.6.66
 
 Papinianus libro octavo quaestionum
 
 Haec condictio ex bono et aequo introducta, quod alterius apud alterum sine causa deprehenditur, revocare consuevit.
 
- 12.6.67
+12.6.67
 
 Scaevola libro quinto digestorum
 
@@ -1526,25 +1524,25 @@ pr. Est et haec species condictionis, si quis sine causa promiserit vel si solve
 
 3. Constat id demum posse condici alicui, quod vel non ex iusta causa ad eum pervenit vel redit ad non iustam causam.
 
- 12.7.2
+12.7.2
 
 Ulpianus libro 32 ad edictum
 
 Si fullo vestimenta lavanda conduxerit, deinde amissis eis domino pretium ex locato conventus praestiterit posteaque dominus invenerit vestimenta, qua actione debeat consequi pretium quod dedit? Et ait Cassius eum non solum ex conducto agere, verum condicere domino posse: ego puto ex conducto omnimodo eum habere actionem: an autem et condicere possit, quaesitum est, quia non indebitum dedit: nisi forte quasi sine causa datum sic putamus condici posse: etenim vestimentis inventis quasi sine causa datum videtur.
 
- 12.7.3
+12.7.3
 
 Iulianus libro octavo digestorum
 
 Qui sine causa obligantur, incerti condictione consequi possunt ut liberentur: nec refert, omnem quis obligationem sine causa suscipiat an maiorem quam suscipere eum oportuerit, nisi quod alias condictione id agitur, ut omni obligatione liberetur, alias ut exoneretur: veluti qui decem promisit, nam si quidem nullam causam promittendi habuit, incerti condictione consequitur, ut tota stipulatio accepto fiat, at si, cum quinque promittere deberet, decem promisit, incerti consequetur, ut quinque liberetur.
 
- 12.7.4
+12.7.4
 
 Africanus libro octavo quaestionum
 
 Nihil refert, utrumne ab initio sine causa quid datum sit an causa, propter quam datum sit, secuta non sit.
 
- 12.7.5
+12.7.5
 
 Papinianus libro 11 quaestionum
 

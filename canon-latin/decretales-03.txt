@@ -1,9 +1,7 @@
 # -*- mode: org -*-
 
-LIBER TERTIUS
-
-* TITULUS I. DE VITA ET HONESTATE CLERICORUM.
-
+* LIBER TERTIUS
+* 3.I. DE VITA ET HONESTATE CLERICORUM.
 ** CAP. I.
 
 Quum celebratur, divisus esse debet clerus a populo.
@@ -126,8 +124,7 @@ Honorius III. Ambianensi Episcopo.
 
 Ex literis nobilis viri Pontini et Monsteroli comitis intelleximus, quod quidam solo nomine clerici terrae suae tabernarii declarati, qui beneficiis non contenti, sed potius illicitis saecularibus negotiationibus et curis domesticis, quam officiis et obsequiis divinis intendunt, et, gaudere volentes privilegio clericali, nolunt statutis patriae, quibus, quotiens expedit, sicut laici se tuentur, et in negotiationum suarum quaestibus subiacere. †Unde, quia magnum ex hoc scandalum inter laicos generatur, nobis humiliter supplicavit, ut vel compelli huiusmodi clericos ad serviendum [in] ecclesiis illicitis saecularibus negotiationibus postpositis mandaremus, vel pateremur eos quoad facultates eorum statutis et consuetudinibus provinciae subiacere. Quum igitur ista in clericalis ordinis vituperium redundare noscantur, et clericorum vita generare non debeat laicis scandalum, sed praestare honestatis exemplum, fraternitati tuae [per apostolica scripta] Mandamus, quatenus, si est ita, quum loci dioecesanus exsistas, clericos tales, si tertio a te commoniti ab huiusmodi non resipuerint, sed praetermissis divinis officiis negotiationibus institerint supra dictis, quum facto huismodi privilegium abiiciant clericale, tu quo minus, dum his se implicant, de suis facultatibus statutis et consuetudinibus patriae subiaceant, non defendas eosdem. [Dat. Romae IV. Id. Mai. A. II. 1218.]
 
-* TITULUS II. DE COHABITATIONE CLERICORUM ET MULIERUM.
-
+* 3.II. DE COHABITATIONE CLERICORUM ET MULIERUM.
 ** CAP. I.
 
 Clericus non debet retinere in domo mulierem suspectam de incontinentia, etiamsi sit mater vel alia consanguinea.
@@ -208,8 +205,7 @@ Gregorius IX.
 
 Quaesitum est de clericis in fornicationem prolapsis, si eorum sit officium, priusquam poenituerint, audiendum. Verum etsi quemlibet pro mortali peccato quoad se ipsum constet esse suspensum, non debet tamen in officiis evitari, quia, quantum ad alios, etiam in casu proposito suspensus non est, nisi peccatum huiusmodi sit notorium per sententiam seu per confessionem factam in iure, aut per evidentiam rei, quae tergiversatione aliqua celari non possit.
 
-* TITULUS III. DE CLERICIS CONIUGATIS.
-
+* 3.III. DE CLERICIS CONIUGATIS.
 ** CAP. I.
 
 Matrimonium contractum per clericum exsistentem in sacris non tenet; secus in minoribus; sed tunc cogitur dimittere beneficium.
@@ -290,8 +286,7 @@ Idem.
 
 Ut consultationi tuae breviter satisfiat, respondemus, quod R. miles tuae dioecesis, qui, sicut tibi humiliter est confessus, olim, quum in minori esset constitutus aetate, quum modicum sciret legere vel cantare, tonsuram tantum et coronam clericalem assumpsit, quam gestare inter milites et laicos erubescit, non est cogendus deferre habitum clericalem.
 
-* TITULUS IV. DE CLERICIS NON RESIDENTIBUS IN ECCLESIA VEL PRAEBENDA.
-
+* 3.IV. DE CLERICIS NON RESIDENTIBUS IN ECCLESIA VEL PRAEBENDA.
 ** CAP. I.
 
 Episcopo non licet sine licentia Papae transire ad alium episcopatum, ipsum acceptando; alias privatur habito et ambito. Hoc intendit cum glossa.
@@ -426,8 +421,7 @@ Idem.
 
 Clericos in ecclesiis tuae iurisdictionis beneficia, quae residentiam exigunt, assecutos, si ad alterius dioecesim absque licentia tua morandi causa transierint, liceat tibi, si moniti non redierint, dictis beneficiis, nisi excusationem rationabilem ostenderint, spoliare.
 
-* TITULUS V. DE PRAEBENDIS ET DIGNITATIBUS.
-
+* 3.V. DE PRAEBENDIS ET DIGNITATIBUS.
 ** CAP. I.
 
 In bonis ecclesiae non succeditur iure consanguinatis.
@@ -732,7 +726,7 @@ Idem.
 
 Quum olim priori sanctae M. dederimus in mandatis, ut G. diacono in aliqua ecclesia civitatis vel dioecesis Lucanae auctoritate apostolica provideret, idem praefatum G. ecclesiae sancti Petri de Vico rectorem auctoritate huiusmodi nisus est designare, in qua rector ab eiusdem ecclesiae clericis eligi consuevit, excommunicationis sententiam nihilominus proferens in rebelles. Quum igitur mandatum huiusmodi se ad talia non extendat, nec ad rectoriam vel dignitatem nostra feratur intentio, quum pro simplici beneficio iussio nostra manat: mandamus, quatenus tam institutionem huiusmodi quam excommunicationis sententiam propter hoc latam denuncies non tenere.
 
-* TITULUS VI. DE CLERICO AEGROTANTE VEL DEBILITATO.
+* 3.VI. DE CLERICO AEGROTANTE VEL DEBILITATO.
 
 ** CAP. I.
 
@@ -779,7 +773,7 @@ Honorius III. Episcopo Aversano.
 
 Consultationibus (Et infra:) Archidiacono autem, quem morbo paralytico laborantem officium linguae asseris amisisse, coadiutor est merito adhibendus, maxime si de ipsius processerit voluntate.
 
-* TITULUS VII. DE INSTITUTIONIBUS.
+* 3.VII. DE INSTITUTIONIBUS.
 
 ** CAP. I.
 
@@ -837,7 +831,7 @@ Idem Episcopo Trecensi et Archidiacono Parisiensi.
 
 Quum ad nostram †[dudum audientiam pervenisset, quod in ecclesia Peronensi dignitas quaedam, quae custodia vulgariter appellatur, contra statuta Lateranensis concilii per duos annos et amplius vacavisset, venerabili fratri nostro Turonensi archiepiscopo, tunc archidiacono Parisiensi, et dilecto filio decano Sancti Quintini dedisse recolimus in praeceptis, ut, si res taliter se haberet, quum ad nos ipsius dignitatis esset donatio devoluta, ipsi auctoritate nostra suffulti eam in suam custodiam assumentes, insinuarent nobis per suas literas veritatem, ut per eas certiores effecti dignitatem ipsam personae idoneae conferremus. Ipsi vero tam decanum et capitulum quam etiam Matthaeum abbatem Peronensis ecclesiae, qui custodem etiam eiusdem ecclesiae se gerebat, peremptorie citaverunt. Quumque dictus archiepiscopus, quia die statuta interesse non poterat, per suas se literas excusasset, supradicti procurator abbatis coram decano comparuit memorato, proponens nostras literas directas ad illos multiplici ratione suspectas, tum quia in salutatione ipsarum prius positum fuerat nomen archidiaconi quam decani, et notula, quae ad assignationem personae literas impetrantis solet apponi, non erat a tergo scripta, sed in margine potius literarum; tum quia S. litera capitalis in hac dictione “salutem” nimis erat in longum a posteriori parte protensa; et quia in eisdem literis adversarius vel accusator seu etiam denunciator non erat ex nomine designatus, quae omnia obviare sedis apostolicae consuetudini proponebat. Idem quoque procurator, allegans, quod in eodem negotio erat ordine iudiciario procedendum, dilationem cum instantia postalavit, ut dictus abbas posset eidem causae personaliter interesse; obstaculum appellationis obiiciens, si eidem postulata dilatio negaretur. Dictus vero decanus, allegationes praedictas tanquam supervacuas vilipendens, dilatione penitus denegata, in suam curam assumpsit custodiam memoratam, idoneis provisoribus tam in extarioribus quam in interioribus deputatis. Qui ut de veritate negotii nos posset reddere certiores, decanum et quosdam canonicos Peronensis ecclesiae coegit super ipso negotio veritati testimonium perhibere; quorum depositiones inclusas sub sigillo proprio ad nostram praesentiam destinavit. Nos igitur eiusdem decani processum diligentius recensentes licet exceptiones quasdam ab abbatis praedicti procuratore propositas frivolas reputaverimus et inanes, quia tamen secundum legitimas sanctiones, etsi non cognitio, sed exsecutio demandetur, oportet tamen de veritate precum inquiri, maxime quum illa clausula, videlicet: “si res ita se habet,” literis nostris esset inserta, processum eiusdem decani, qui prius custodiam in suam curam accepit quam inquireret veritatem, duximus irritandum, discretioni vestrae per apostolica scripta mandantes, quatenus abbatem ipsum restituatis ad custodiam supradictam, quum constet ipsum contra formam mandati apostolici destitutum, ac deinde secundum eiusdem mandati tenorem procedere procuretis, illud nihilominus attendentes, ut, nisi dictus abbas rationabilem causam ostenderit, quod in eadem ecclesia custodiam simul et abbatiam possit habere, vos, eo destituto, in curam vestram sublato appellationis obstaculo saepedictam custodiam assumatis, custodientes eandem, donec de ipsa mandatum apostolicum impleatis.] Illud autem nolumus vos ignorare, quod, postquam idem M. fuit abbas effectus, praedictam custodiam de iure non potuit obtinere, quia, quum ratione abbatiae ad ipsum pertineat donatio tam custodiae quam aliarum dignitatum, ac etiam praebendarum in ecclesia Patranensi, custodiam ipsam recipere non potuit a se ipso, quum inter dantem et accipientem debeat esse distinctio personalis; sed nec ab alio, quum ius conferendi alius non haberet. [Dat. Viterbii XII. Kal. Iul. Ao. X. 1207.]
 
-* TITULUS VIII. DE CONCESSIONE PRAEBENDAE ET ECCLESIAE NON VACANTIS.
+* 3.VIII. DE CONCESSIONE PRAEBENDAE ET ECCLESIAE NON VACANTIS.
 
 ** CAP. I.
 
@@ -967,7 +961,7 @@ Honorius III. Episcopo et Praeposito capituli Cameracensis.
 
 Quum dilecta in Christo filia nobilis mulier Ioanna comitissa Flandrensis, devicta quorundam precibus importunis, fecerit promissiones illicitas de non vacantibus beneficiis ecclesiarum, in quibus ius obtinet patronatus, et donationes eorum in manibus posuerit alienis, sicut est nostris auribus intimatum, discretioni vestrae mandamus, quatenus, id irritum decernentes, auctoritate nostra inhibeatis eidem, ne similia de cetero attentare praesumat.
 
-* TITULUS IX. NE SEDE VACANTE ALIQUID INNOVETUR.
+* 3.IX. NE SEDE VACANTE ALIQUID INNOVETUR.
 
 ** CAP. I.
 
@@ -993,7 +987,7 @@ Idem Episcopo Burginensi.
 
 Constitutis olim coram bonae memoriae I. Papa praedecessore nostro procuratore ecclesiae sanctae Mariae de Castro forti et bonae memoriae G. Burginensi episcopo praedecessore tuo, dictus procurator petebat ab eodem episcopo restitutionem tam super libertate libere eligendi sibi praelatum, †quam etiam super terris ipsius ecclesiae et rebus aliis, quibus omnibus pars sua spoliata fuerat, ut dicebat. (Et infra:) Lite igitur coram eodem praedecessore nostro super praemissis legitime contestata, et postmodum coram iudicibus delegatis, factis confessionibus et receptis testibus ab eisdem causa fuit ad nos instructa remissa. Nos igitur procuratoribus partium in nostra praesentia constitutis, quum super praemissis coram nobis diutius litigassent, depositiones testium, qui vacante Burginensi ecclesia et carente legitimo defensore fuerint recepti, duximus reprobandas.
 
-* TITULUS X. DE HIS, QUAE FIUNT A PRAELATO SINE CONSENSU CAPITULI.
+* 3.X. DE HIS, QUAE FIUNT A PRAELATO SINE CONSENSU CAPITULI.
 
 ** CAP. I.
 
@@ -1075,7 +1069,7 @@ Innocentius III. Archiepiscopo Senonensi et eius Suffraganeis.
 
 Etsi membra corporis Christi (Et infra:) Provinciae Senonensis capitula cathedralium ecclesiarum suam ad nos querimoniam transmiserunt, quod archiepiscopus Senonensis et eius suffraganei procuratores eorum nuper ad provinciale concilium convocatos ad tractatum eorum admittere noluerunt, †licet nonnulla soleant in huiusmodi tractari conciliis, quae ad ipsa noscuntur capitula pertinere, quare nostram audientiam appellarunt. Sane nos, auditis quae ipsorum nuncii, super his proponere voluerunt, et intellectis nihilominus literis, quas nobis super eodem curatis negotio destinare, tractatum exinde cum fratribus nostris habuimus diligenter, et utique concorditer Visum fuit nobis et eisdem fratribus nostris, ut capitula ipsa ad huiusmodi concilia debeant invitari, et eorum nuncii ad tractatum admitti, maxime super illis, quae ipsa capitula contingere dignoscuntur.
 
-* TITULUS XI. DE HIS, QUAE FIUNT A MAIORI PARTE CAPITULI.
+* 3.XI. DE HIS, QUAE FIUNT A MAIORI PARTE CAPITULI.
 
 ** CAP. I.
 
@@ -1109,7 +1103,7 @@ Idem.
 
 Ex parte tua nobis fuit, frater archiepiscope, intimatum, quod ad restaurandam fabricam Rothomagensis ecclesiae tractatum communiter habuistis, te, frater archiepiscope, postulante, ut quilibet canonicorum tecum pariter aliquam suorum redituum portionem operi tam pio et necessario deputaret. †Quia vero super hoc diversae fuerunt inter vos, filii canonici, et variae voluntates, ne tam laudabile opus ex vestra dissidentia negligatur, auctoritate praesentium Statuimus, ut, si quis vestrum tuis, frater archiepiscope, et maioris et sanioris partis capituli statutis super hoc constitutionibus duxerit resistendum, obtineat sententia plurimorum. [Dat. Rom. ap. S. Petr. V. Id. Iun. Pont. nostr. Ao. I. 1198.]
 
-* TITULUS XII. UT ECCLESIASTICA BENEFICIA SINE DEMINUTIONE CONFERANTUR.
+* 3.XII. UT ECCLESIASTICA BENEFICIA SINE DEMINUTIONE CONFERANTUR.
 
 ** CAP. UN.
 
@@ -1119,7 +1113,7 @@ Innocentius III. Mediolanensi Archiepiscopo.
 
 Ut nostrum prodeat de vultu Dei iudicium, †et oculi nostri videant aequitatem, regia via debemus incedere, nec ad sinistram omnino, neque ad dextram declinare, ita magnum iudicantes ut parvum, quia non est apud Deum acceptio personarum. [Ad audientiam sane nostram multorum relatione pervenerat, quod cancellaria Mediolanensis ecclesiae vacaverat ultra annum, unde secundum Lateranensis concilii statuta ad nos ipsius erat donatio devoluta. Volentes autem tibi solita dignitate deferre, rogavimus te attentius et mandavimus, ut cancellariam ipsam dilecto filio Henrico de Settara subdiacono nostro, Mediolanensis ecclesiae canonico, bene apud te merito et ad hoc officium obtinendum idoneo, benigne conferres; et si post receptionem literatum nostrarum quicquam de ipsa cancellaria contra ius acquisitum nobis ex Lateranensi decreto statueres, decernebamus illud irritum et inane. Tu vero literis nostris receptis diceris respondisse, sicut ex publico declaratur authentico, quod cancellariam ipsam alteri non contuleras, quia propter gravamina debitorum proventus ipsius tibi erant plurimum necessarii, literis tamen nostris apertis earumque tenore perspecto, responderes in crastino quod crederes respondendum. Porro, sicut ex alio comperimus instrumento, postquam mandati nostri audivisti tenorem, variata locutione dixisti, quod cancellariam ipsam non poteras iuxta mandatum nostrum praefato subdiacono nostro conferre, quia, reservatis tibi proventibus, eandem cancellariam decem mensibus iam elapsis Henrico de Lamp. concesseras. Quumque nobis huiusmodi responsionum varietas ex scriptis innotuisset authenticis, etsi secundum Apostolum omnem inobedientiam prompti simus ulcisci, adhuc tamen tibi deferre volentes, cui et in minori officio constituti, et promoti, sicut Domino placuit, ad maiora in multis et magnis detulimus, tibi dedimus in mandatis, ut ad praesentiam nostram procuratorem idoneum destinares, qui tuo nomine legitime nobis ostenderet, quod dictam cancellariam personae idoneae modo canonico tempore tibi competente donasses; dictus quoque H. de Lamp., cui dicebatur facta donatio, si vellet, ad praesentiam nostram accederet, suam iustitiam defensurus. Venientes igitur ad apostolatus nostri praesentiam dilecti filii G. procurator tuus et saepedictus H. super varietate responsionum nitebantur te multipliciter excusare, licet publicis instrumentis fides non facile derogetur, et secundum rerum naturam vix potuisset sufficienter ostendi, quod tu id, quod dictum est, minime responderes, etsi forte potuisset, quod aliud respondisses. Produxerunt autem in nostra praesentia duos testes, qui iurati dixerunt, quod in Ianuario nuper praeterito fuit annus, ex quo Mediolanensis cancellarius debitum universae carnis exsolvit, et in sequenti Maio, quum consanguinei Henrici de Lamp. frequenter apud te ac vehementer instarent, ut cancellariam ipsi conferres, te respondente, quod cancellariae proventibus carere non posses, ad multam tamen instantiam est obtentum, ut cancellariae tibi retineres proventus, et ius ipsius praefato conferres Henrico. Quatuor ergo praesentibus, inter quos duo testes memorati fuerunt, in secretiore palatii tui camera eundem H. secundum tenorem praescriptum de cancellaria investisti per librum, et recepisti fidelitatem ab eo, prohibens universis, ne verbum istud cuiquam revelarent. Adiecit autem unus testium praedictorum, quod, postquam ad te mandatum nostrum pervenerat, et ipse H. iam Bononia rediisset, tu ei solenniter et publice tradidisti se vidente sigillum, mandans ei, ut cancellarii officium exerceret; quod et alter testis asseruit de auditu, et idem procurator tuus, quod verum crederet esse, respondit. Henricus quoque confessus est factum, sed solennitatem facti negabat.] Quia ergo post interdictum nostrum ei praesumpsisti tradere bullam, quum traditionem [ipsam] saltem debuisses differre, donec nostrum consuleres beneplacitum, dilectis filiis I. archidiacono et O. Lento canonico Mediolanensibus dedimus in mandatis etc. (cf. c. 56. de app. II. 28.) [Tolerabamus autem ad tempus, ut negotii merita nobis plenius innotescerent, investituram, quae dicebatur in occulto facta fuisse per librum, licet ecclesiastica beneficia non sint donatione clandestina conferenda, teste veritate, quae dicit: “Qui male agit odit lucem.” Ceterum quia cancellariae officium memoratae spirituale vel annexum spirituali proponebatur exsistere, quum cancellarius ex officio suo multa facere debeat, quae spiritualia esse noscuntur, ac per hoc sub tenore praescripto dicebatur non debuisse conferri, quum ab omni specie mala praecipiat Apostolus abstinere; quia etiam praefatus Henricus de Lamp., licet receptus sit in fratrem ad vacaturam praebendam, ordinarius tamen asserebatur non esse, ac per hoc cancellariam sibi non debuisse conferri, quae de iure vel consuetudine ordinario tantum debet committi, quum nec Mediolanensis archiepiscopi, sed Mediolanensis ecclesiae cancellarius esse scribatur, nec vacante sede cancellarii perdat officium, (nam nec ipsum sigillum substituto Pontifice variatur,) inquisitionem horum duximus praenominatis I. archidiacono et O. Lento canonico Mediolanensibus committendam, per apostolica scripta praecipiendo mandantes, quatenus omni contradictione et appellatione cessante Deum habentes prae oculis, gratia et timore postpositis, sine personarum acceptione inquirerent super praemissis diligentissime veritatem, et, ne veritas celaretur, testes, qui eis nominarentur, si se gratia vel timore subtraherent, per censuram ecclesiasticam compellerent perhibere testimonium veritati, et quod super omnibus invenirent sub literarum suarum testimonio ad sedem apostolicam destinarent, ut per inquisitionem ipsorum sufficienter instructi negotium ipsum melius decidere valeremus. Ipsi vero mandatum apostolicum fideliter exsequentes, convocatis Mediolanensis ecclesiae ordinariis, et per poenam excommunicationis compulsis dicere sub iurisiurandi religione de facto cancellariae, quia noverant, super praemissis articulis veritatem, attestationes suas redactas in scriptis sigillo munitas ad nostram praesentiam transmiserunt. Interdixerunt etiam eidem H. administrationem sigilli, sicut ex literis eorum accepimus, iuxta formam mandati nostri, de consilio sapientum. Quumque saepedictus H. de Lamp. cum patre suo Rogerio propter hoc nostro se conspectui prasentasset, copiam allegandi pro se liberam ac benignam in communi concessimus auditorio. Qui per advocatum proposuit, quod delegati praedicti sine inquisitione spoliaverunt eum exsecutione sigilli contra nostri mandati tenorem, quum ipsius sigilli traditio non fuerit facta post secundum mandatum; et ideo primo loco restitutionem sibi fieri postulabat. Formam vero concessionis nitebatur multipliciter excusare, proponens, quod in retentione fructuum simoniaca pravitas nullatenus intercessit; tum, quia officium cancellariae nec est spirituale, nec annexum spirituali; quia licet cancellarius quaedam agat, quae spiritualia esse noscuntur, sicut ex attestationibus liquet, ea tamen non agit ex officio cancellarii, sed de mandato archiepiscopi, sicut ex dictis testium comprobatur; tum etiam, quia nihil emit et vendidit, quum simonia describatur esse studiosa cupiditas vendendi vel emendi spirituale vel spirituali annexum; praesertim quum tu ante traditionem separaveris fructus, et ita quod tuum erat tibi retinuisti, non accipiens alium. Se quoque ad obtinendum cancellariam preponebat idoneum, quum de mandato Romani Pontificis sit Mediolanensis ecclesiae canonicus institutus, vocem habens in capitulo et locum in choro, et tanquam verus et plenus canonicus in tractatibus et contractibus ipsius ecclesiae admittatur. Nec obstat, quod integram praebendam non habet, quum, sicut per dicta testium est probatum, archidiaconatus eiusdem ecclesiae, de quo nullatenus dubitatur, quia sit dignitas et officium spirituale, quandoque fuerit concessus ei, qui praebendam integram non habebat. Quod autem a sexaginta annis iuxta quorundam testimonium concessa fuit tantum ordinario praebendato de numero viginti canonicorum, qui proprie ordinarii appellantur, sibi nocere non poterat, quum per hoc nullum sit tibi praeiudicium generatum, quin ei, qui de numero viginti non esset, praesertim canonico, eandem cancellariam potuisses conferre. Allegabat insuper, quod, etsi pactio de retinendis ad tempus proventibus intervenisset, quod ipse tamen negabat, inter te ac parentes ipsius, ipse tamen de praedicta cancellaria pure fuit et simpliciter investitus; et ideo talis pactio sibi non debet obesse, quum parentes nihil tibi pro eo dederint vel promiserint.] Praeterea proponebas, quod, quum nullus debeat sine accusatore damnari, nec aliquid circa negotium illud sit actum in forma iudicii, depositiones testium non poterant tibi praeiudicium generare. Quia vero haec allegatio personam nostram tangere videbatur, dignum duximus causam commissae inquisitionis et ordinem plenius explicare, ne quis quomodolibet suspicetur, quod nos in hoc negotio perperam processerimus; praesertim quum ratio assignanda debeat esse posteris profutura. Quum enim iuris sit explorati, quod actore non probante is, qui convenitur, etiamsi nihil praestiterit, debet absolvi, videri poterat, quod nos tibi, qui conveniebaris a nobis, malitiose vel indiscrete onus probationis super tribus praemissis articulis imposuimus, videlicet ut ostenderes, quod praedictam cancellariam personae idoneae, modo canonico et tempore tibi competenti donasses. Porro quum donatio fuisset occulta, et ideo suspicione non careat, et elapso iam anno, nullus omnino cancellarius appareret, non immerito credebamus, quod secundum Lateranensis concilii statuta ad nos esset ipsius cancellariae donatio devoluta, et ideo potuissemus ipsam sine culpa conferre, quoniam, etsi locum Dei teneamus in terris, non tamen de occultis potuimus divinare. Quia ergo contra illud, quod prima facie iuste praesumebatur pro nobis, praesertim quum responderis prima vice, quod cancellariam alicui non contuleras, facultatem tibi pro te probandi concessimus, non fuit gravamen, sed gratia, nec ex malitia, sed ex benignate processit. Quod etiam de modo canonico fidem nobis fieri mandavimus, tu causam praestitisti mandato, qui saepe nobis per literas tuas intimasti et tandem probasti per testes, quod retentis tibi proventibus officium concesseras memoratum. Ex quo non immerito contra talem concessionem fuimus suspicati, quum et proponeretur aperte, quod illud ei personae commiseras, cui secundum consuetudinem Mediolanensis ecclesiae non debuerat aliquo modo committi. Et ideo nos, qui non tam ex plenitudine potestatis, quam ex officii debito possumus et debemus de subditorum excessibus ad correctionem inquirere veritatem, te maxime causam et occasionem praestante, inquisitionem commisimus faciendam. Omnibus ergo diligenter auditis, quaecunque fuerunt in nostro auditorio proponenda, deliberavimus cum fratribus nostris, et in ipsa deliberatione te in tribus praecipue comperimus fuisse culpabilem: circa contrarietatem responsi, quia non solum nobis, qui, licet immeriti, locum Iesu Christi tenemus sed nec cuiquam debuisses ex certa scientia contraria respondere; circa carnalitatem animi, quia non ex affectu carnali, sed discreto iudicio debuisti ecclesiasticum officium et beneficium in persona magis idonea dispensare; et circa inhonestatem facti, quia non licuit ex pactione vel conventione quacunque, sub modo vel tenore praescripto concedere nudum officium et tibi retinere proventus, quum et in Lateranensi concilio prohibitum sit, ne quis conferendo ecclesiasticum beneficium partem proventuum suis usibus retinere praesumat, et alibi cautum reperiatur in canone, quod ecclesiastica beneficia sine deminutione debent conferri. Unde credimus distinguendum, utrum qui dat spirituale beneficium proventus ipsius ante donationem percipiat. Nam si proventus ante donationem non perceperit ipse, sed alius, et ex donatione consequatur, ut ipse proventus percipiat; non est dubium circa haec intercedere simoniacam pravitatem. Si vero ante donationem perceperit ipse proventus, credimus etiam distinguendum, utrum ante donationem constituat, ut ipsi proventus retineantur ad tempus pro causa iusta et necessaria, an conveniat cum eo, qui accepit beneficium, seu cum mediatore quocunque, ut officio illo concesso retineat ipse sibi proventus. Primum enim membrum credimus esse licitum, secundum autem dicimus non licere, ne viam aperiamus his, qui pravitatem suam satagunt palliare. [Quia vero etc. (cf. c. 9. de off. archid. I. 23.) Dat. Perusii IX. Kal. Oct. 1198.]
 
-* TITULUS XIII. DE REBUS ECCLESIAE ALIENANDIS VEL NON.
+* 3.XIII. DE REBUS ECCLESIAE ALIENANDIS VEL NON.
 
 ** CAP. I.
 
@@ -1217,7 +1211,7 @@ Idem in concilio generali.
 
 Quum laicis, quamvis religiosis, disponendi de rebus ecclesiae nulla sit attributa potestas, quos obsequendi manet necessitas, non auctoritas imperandi: dolemus, in quibusdam ex illis sic refrigescere caritatem, quod immunitatem ecclesiasticae libertatis, quam non tantum sancti Patres, sed etiam principes saeculares privilegiis multis munierunt, non formidant suis constitutionibus, vel potius destitutionibus impugnare, non solum de alienatione feudorum, ac aliarum possessionum ecclesiarum et usurpatione iurisdictionum, sed etiam de mortuariis, nec non et aliis, quae iuri spirituali annexa videntur, illicite praesumendo. Volentes igitur super his indemnitatibus consulere ecclesiarum ac tantis gravaminibus providere, constitutiones et venditiones huiusmodi feudorum seu aliorum bonorum ecclesiasticorum sine legitimo personarum ecclesiasticarum assensu praesumptas occasione constitutionis laicae potestatis, quum non constitutio, sed destitutio vel destructio dici possit, nec non usurpatio iurisdictionum, sacri approbatione concilii decernimus non tenere, praesumptoribus per censuram ecclesiasticam compellendis.
 
-* TITULUS XIV. DE PRECARIIS.
+* 3.XIV. DE PRECARIIS.
 
 ** CAP. I.
 
@@ -1243,7 +1237,7 @@ Gregorius IX.
 
 Precarium utendum conceditur, quamdiu patitur qui concessit. Solvitur quoque obitu eius, cui concessum est, non etiam concedentis; aut quum ipsum alienari contingit alicui hoc revocare volenti, quia per conventionem huiusmodi non licet rem alienam invito domino possideri. Porro precariae, quae quandoque de ecclesiarum possessionibus fieri solent, non sunt pro voluntate concedentium revocandae.
 
-* TITULUS XV. DE COMMODATO.
+* 3.XV. DE COMMODATO.
 
 ** CAP. UN.
 
@@ -1253,7 +1247,7 @@ Gregorius IX.
 
 Quum gratia sui tantum quis commodatum accepit, de levissima etiam culpa tenetur, licet casus fortuitus, nisi acciderit culpa sua, vel intervenerit pactum, seu in mora fuisset, sibi non debeat imputari. Contra eum quoque recte commodati non agitur, nisi post usum expletum, cuius gratia res fuerat commodata, quum non decipi beneficio nos oporteat, sed iuvari.
 
-* TITULUS XVI. DE DEPOSITO.
+* 3.XVI. DE DEPOSITO.
 
 ** CAP. I.
 
@@ -1271,7 +1265,7 @@ Gregorius IX.
 
 Bona fides abesse praesumitur, si, rebus tuis salvis exsistentibus, depositas amisisti. De culpa quoque teneris, si te ipsum deposito obtulisti, vel si aliquid pro custodia recepisses. Pacto vero, culpa vel mora praecedentibus, casus etiam fortuitus imputatur. Sane depositori licuit pro voluntate sua depositum revocare, contra quod compenpensationi vel deductioni locus non fuit, ut contractus, qui ex bona fide oritur, ad perfidiam minime referatur, licet compensatio admittatur in aliis, si causa, ex qua postulatur, sit liquida ita, quod facilem exitum credatur habere.
 
-* TITULUS XVII. DE EMPTIONE ET VENDITIONE.
+* 3.XVII. DE EMPTIONE ET VENDITIONE.
 
 ** CAP. I.
 
@@ -1360,7 +1354,7 @@ Gregorius IX.
 
 Si venditori post institutum contra se iudicium quis omiserit, ut rem venditam sibi defenderet, nunciare, vel contumaciter abfuit tempore sententiae promulgatae, seu per iniuriam sententia lata fuit: de evictione iuxta legitimas sanctiones agere non valebit.
 
-* TITULUS XVIII. DE LOCATO ET CONDUCTO.
+* 3.XVIII. DE LOCATO ET CONDUCTO.
 
 ** CAP. I.
 
@@ -1394,7 +1388,7 @@ Idem.
 
 Potuit emphyteuta, ecclesia primitus requisita, eique nunciato quantum sibi ab aliis offertur, si nolle se emere dixerit, vel a denunciationis tempore duorum mensium spatium sit elapsum, meliorationes et ius sibi competens aliis vendere, qui ab emptione huiusmodi minime prohibentur. Emphyteuta quoque secus praesumendo, vel cessando in solutione canonis per biennium, nisi celeri satisfactione postmodum sibi consulere studuisset, iuste potuisset expelli, non obstante, quod ei, ut canonem solveret, non exstitit nunciatum, quum in hoc casu dies statuta pro domino interpellet.
 
-* TITULUS XIX. DE RERUM PERMUTATIONE.
+* 3.XIX. DE RERUM PERMUTATIONE.
 
 ** CAP. I.
 
@@ -1495,7 +1489,7 @@ Gregorius IX. Beton. et Fungin. Abbatibus.
 
 Exhibita nobis [dilectorum filiorum] abbatis et conventus sancti Martini de Pannonia petitio continebat, quod, quum super causa, quae inter ipsos ex una parte, et praepositum Albanensem ex altera super quibusdam decimationibus [et arbitrio quodam super his prolata] vertebatur, [post diversas commissiones ad dilectum filium E. subdiaconum] ad C. capellanum nostrum, tunc in Hungaria commorantem, nostras literas impetrassent, [demum] ipse ac magister M. [archidiaconus de Saswar] in quos utrinque tanquam in arbitros [procurante parte altera] exstitit compromissum, [taliter] arbitrati fuerunt, quod, si dictus praepositus obtineret decem millia solidorum regalium [quae tenent in Posonio] a [carissimo in Christo filio nostro illustri] rege Hungariae [ab ipso] concedi monasterio memorato, [ita quod in eodem loco ponerent eius praefatos abbatem et conventum in possessionem salium praedictorum] ipsi ab earundem decimationum petitione cessarent. †[Postmodum vero licet sales ipsos dicto monasterio rex ipse per literas suas concesserit; tamen praepositus et capitulum supradicti nec in termino constituto, nec post illum et plures alios exspectati possessiones ipsorum salium dederunt eisdem, quamvis iam dictus abbas protestatione praemissa, quod non erat in possessionem inductus ab eis, L. marcas frisaticorum pro reditu salium unius anni, precibus quorundam inductus et compulsus quibusdam minis et terroribus recepisset. Quumque indulto adhuc ipsis anni spatio inutiliter, sicut prius, duxerint exspectandum; demum post querelas multiplices vocem ad nos appellationis emisit, octavas BB. App. Petri et Pauli proximo praeteritas sibi terminum praefigendo; qui tandem in nostra praesentia constitutus humiliter supplicavit, ut quum iidem praepositus et capitulum conditioni non paruerint, quae in arbitrio continetur, mandaremus, eo non obstante de iam dictis decimationibus eidem monasterio integre responderi.] Quocirca [discretioni vestrae per apostolica scripta] mandamus, quatenus, si vobis constiterit de praemissis, quum permutatio de spiritualibus ad temporalia improbetur, praedictum arbitrium, et quicquid secutum est ex eo vel ob id, [absque morae dispendio auctoritate nostra, sublato appellationis impedimento,] irritum decernatis, [super decimis postmodum etc. Dat. Reate XIII. Kal. Nov. Ao. V. 1231.]
 
-* TITULUS XX. DE FEUDIS.
+* 3.XX. DE FEUDIS.
 
 ** CAP. I.
 
@@ -1513,7 +1507,7 @@ Innocentius III. Mediolanensi Archiepiscopo.
 
 Ex parte tua nostro est apostolatui reseratum, quod saepius dubitasti, utrum, quum contingit vasallum tuum decedere, et ad te feudum ipsius redire, feudum eius alii liceat tibi dare, quamvis iuramento tenearis adstrictus non infeudare de novo Romano Pontifice inconsulto. Ad haec, si vasallum tuum feudum alienare contingat, an ipsius filium vel consanguineum eiusdem feudi consortem de ipso valeas investire. Alia quoque tua dubitatio continebat, ut, quum feudum alienatum repereris, quod per te facile recuperare non potes, utrum possis alicui laico in feudum illud concedere, qui et illud recuperet, et in feudum per ecclesiam recognoscat. (Et infra:) In primo ergo casu feudum decedentis libere, si videris expedire, concedas, atque in secundo filium vel consanguineum alienantis investiens, in tertio feudum alienatum poteris ei licenter concedere, per quem ipsa ecclesia valeat rehabere. [Dat. Ferentini X. Kal. Nov. Pont. nostr. Ao. XI. 1208.]
 
-* TITULUS XXI. DE PIGNORIBUS ET ALIIS CAUTIONIBUS.
+* 3.XXI. DE PIGNORIBUS ET ALIIS CAUTIONIBUS.
 
 ** CAP. I.
 
@@ -1579,7 +1573,7 @@ Gregorius IX.
 
 Quum constet I. mulierem uxorem Ogerii quoad usumfructum filio suo successisse in bonis, quorum proprietas ad M. mulierem uxorem C. dignoscitur pertinere, mandamus, quatenus eam ad cautionem idoneam exhibendam, quod utatur et fruatur salva rerum substantia rebus immobilibus, quae usu non consumuntur, ad arbitrium boni viri, pecuniam vero, si quam habuit vel habebit, ac aestimationem bonorum, quae consumuntur usu, et in hereditate inventa fuerint, in morte sua dictae mulieri vel heredibus eius restituat, per censuram ecclesiasticam compellatis.
 
-* TITULUS XXII. DE FIDEIUSSORIBUS.
+* 3.XXII. DE FIDEIUSSORIBUS.
 
 ** CAP. I.
 
@@ -1621,7 +1615,7 @@ Gregorius IX.
 
 Eum, pro quo te fideiussorem obligasti, si diu in debiti solutione cessavit, aut dissipare bona sua coepit, seu super hoc condemnatus fuisti, iure poteris convenire, ut te a fideiussione debeat liberare.
 
-* TITULUS XXIII. DE SOLUTIONIBUS.
+* 3.XXIII. DE SOLUTIONIBUS.
 
 ** CAP. I.
 
@@ -1655,7 +1649,7 @@ Idem.
 
 Is, qui conqueritur, indebitam pecuniam se solvisse, probare tenetur, quod indebite sit soluta, nisi eius adversarius solutionem inficians exinde convincatur. Tunc enim diffitenti onus incumbit probandi, quod debitum recepisset.
 
-* TITULUS XXIV. DE DONATIONIBUS.
+* 3.XXIV. DE DONATIONIBUS.
 
 ** CAP. I.
 
@@ -1737,7 +1731,7 @@ Gregorius IX.
 
 Propter eius ingratitudinem, in quem liberalitas est collata, donatoris persona de rigore iuris eam potuit revocare: si forte in ipsum impias manus iniecerit, aut sibi atroces iniurias, seu grave rerum suarum damnum vel vitae periculum inferre praesumpserit; quod tamen ad donatoris, qui hoc tacuit, non extenditur successores.
 
-* TITULUS XXV. DE PECULIO CLERICORUM.
+* 3.XXV. DE PECULIO CLERICORUM.
 
 ** CAP. I.
 
@@ -1779,7 +1773,7 @@ Ex concilio Toletano.
 
 Si quis sane clericorum agella vel vincolas in terra ecclesiae sibi fecisse probabitur sustentandae vitae causa, usque ad diem obitus sui possideat; verum post suum de hac luce decessum iuxta priorum canonum constitutiones ius suum ecclesiae sanctae restituat, nec testamentario aut successorio iure cuiquam heredum proheredumve relinquat, nisi forsan cui episcopus pro servitiis ac praestatione ecclesiae largiri voluerit.
 
-* TITULUS XXVI. DE TESTAMENTIS ET ULTIMIS VOLUNTATIBUS.
+* 3.XXVI. DE TESTAMENTIS ET ULTIMIS VOLUNTATIBUS.
 
 ** CAP. I.
 
@@ -1941,7 +1935,7 @@ Idem.
 
 De his, quae in ornamentis vel pro eis, seu fabrica, luminaribus, anniversario, septimo, vigesimo, tricesimo die, sive aliis ad perpetuum cultum divinum legantur ecclesiis vel reliquis piis locis, canonica portio, dummodo in fraudem non fiat, ut ea episcopus seu parochialis ecclesia debeat defraudari, deduci non debet.
 
-* TITULUS XXVII. DE SUCCESSIONIBUS AB INTESTATO.
+* 3.XXVII. DE SUCCESSIONIBUS AB INTESTATO.
 
 ** CAP. I.
 
@@ -1967,7 +1961,7 @@ Innocentius III. Murnensi Episcopo.
 
 Quum dilectus filius abbas de Brusia ad nostram [nuper] praesentiam accessisset, et pro causa, quam adversus venerabilem fratrem nostrum episcopum Eduensem habebat, ibidem diutius exspectasset, tandem nuncius eiusdem episcopi supervenit, quibus volentibus ad invicem litigare, venerabilem fratrem nostrum I. Viterbiensem episcopum sancti Clementis cardinalem concessimus auditorem. Ipsis igitur in eius praesentia constitutis, abbas proposuit ante dictus, quod, quum archipresbyter de Alerio ad participationem orationum monasterio de Brusia pietatis intuitu obtulit se et sua, †quibusdam rebus suis usui suo simplici reservatis, de manu cuiusdam fratris eiusdem coenobii augmentationem coronae in signum illis oblationis accepit, et quod hanc concessionem hoc modo fecisset, et non suo nomine sed [nomine] monasterii possideret, et monasterio quicquid acquirebat acquireret, saepe fuit in communi capitulo protestatus, in hoc etiam publice per viginti annos fere idem archipresbyter nullo contradicente vel reclamante permansit ita, quod per publicam famam id omnibus notum fuerat. Nam abbas de Buxeria, qui pro tempore fuerat, et ipsi monachi, rebus ipsius non secus, quam aliis rebus propriis monasterii, sciente episcopo Eduensi, qui pro tempore erat, et in nullo penitus reclamante publice utebantur. Id autem, quod mente compoti dictus archipresbyter fecerat inter vivos, et in ultima voluntate mente sanus, licet aeger corpore, confirmavit. Quumque idem abbas et monachi res, sic legitime datas, et alias, quas archipresbytero ipsi concesserant ad utendum, ad suum monasterium reducere vellent, praedictus episcopus, eis violentiam inferens, non solum res archipresbyter, sed etiam res ipsius monasterii occupavit. Quas quum in bona pace repeterent, ipse, ut rebus illis ei posset grassandi materia pleniors indulgeri, sedem apostolicam appellavit, in octavis B. Martini proxime praeteriti suae terminum appellationi praefigens. Econtra praedictus nuncius episcopi allegavit, quod, quando illa donatio facta fuit, archipresbyter erat positus extra mentem ita, quod, qum interrogatus fuisset a monachis: “vis tu habitum suscipere monachalem?” et respondisset: “volo,” statim interrogatus ab alio: “vis tu esse asinus?” respondit similiter: “volo.” Sicque praedicti monachi eum ad suum monasterium deportarunt, quod idem nuncius se obtulit probaturum. [Praefatus siquidem abbas, quum ad assertionem partis suae quosdam testes in continenti produceret, nos ipsos recipi fecimus et diligenter audiri, quorum attestationes quum interloquendo decrevissemus publicari debere, quoniam super illis capitulis pars episcopi nolebat testes producere, super quibus idem abbas testes produxerat, ipsaeque fuissent in publico recitatae, disputatione super attestationibus ipsis habita diligenti, multa fuere contra dicta testium allegata. Quumque renunciatum fuisset a partibus, dictus cardinalis quaecunque fuerunt hinc inde proposita nobis et fratribus nostris fideliter recitavit.] Quibus auditis et cognitis Sufficienter intelleximus esse probatum, quod dictus archipresbyter, agens in extremis, velut ultimam exprimens voluntatem, asseruit, se et sua monasterio de Buxeria contulisse. Unde, quum requisitus esset, ut conderet testamentum, respondit, se non posse testari, quia se et sua contulerat monasterio supra dicto. Et licet unus testis solus dixerit se vidisse quando praefatus archipresbyter se et sua obtulit monasterio, quia tamen alii testes dixerunt, se audivisse, ipsum archipresbyterum in abbatis praesentia quod praedictum est confitentem et attestantem, non tanquam sufficienter probantes, sed tanquam vehementer adminiculantes assertionem abbatis plurimum adiuvabant. Quia vero pars episcopi asserebat, se velle probare, quod dictus archipresbyter in extremis laborans tanquam phreneticus alienatus erat a mente, unde non valuit quod expressit, nos, super his et aliis, quae fuerunt hinc inde proposita, cum fratribus nostris diligenti deliberatione praehabita, causam illam tibi sub hac forma duximus committendam, quod, nisi praefatus episcopus legitime probaverit, saepe dictum archipresbyterum suae mentis compotem non fuisse, quum ultimam voluntatem expressit, super impetitione monasterii perpetuum ei silentium imponatur, et compellatur restituere monasterio quaecunque de bonis ipsius archipresbyteri vel etiam monasterii occupavit. Si vero legitime probaverit, praedictum archipresbyterum quae super ultima voluntate praemissa sunt alienata mente dixisse, ad faciendam ei nomine parochialis ecclesiae, cuius ipse administrationem gesserat, dum vixisset, restitutionem bonorum, quae ipsius archipresbyteri fuerant, monasterium condemnetur, quum idem archipresbyter ab intestato decesserit, ipsique monasterio super impetitione episcopi silentium imponatur. [Nullis literis etc. Dat. Rom. IV. Non. Iun. 1198.]
 
-* TITULUS XXVIII. DE SEPULTURIS.
+* 3.XXVIII. DE SEPULTURIS.
 
 ** CAP. I.
 
@@ -2081,7 +2075,7 @@ Gregorius IX. Episcopo N.
 
 Parochiano tuo, qui excommunicatus pro manifestis ex cessibus, videlicet homicidio, incendio, violenta manuum iniectione in personas ecclesiasticas, ecclesiarum violatione vel incestu fuit, dum ageret in extremis, per presbyterum suum iuxta formam ecclesiae absolutus, non debent coemeterium et alia ecclesiae suffragia denegari, sed eius heredes et propinqui, ad quos bona pervenerunt ipsius, ut pro eodem satisfaciant, censura sunt ecclesiastica compellendi.
 
-* TITULUS XXIX. DE PAROCHIS, ET ALIENIS PAROCHIANIS.
+* 3.XXIX. DE PAROCHIS, ET ALIENIS PAROCHIANIS.
 
 ** CAP. I.
 
@@ -2123,7 +2117,7 @@ Coelestinus III.
 
 Significavit nobis venerabilis frater noster Aconensis episcopus, quod, quum post recuperationem Aconensis civitatis ad habitandum in ea se quam plurimi contulissent, qui ante generalem occupationem terrae sanctae in aliis civitatibus regni Hierosolymitani [perpetuam] elegerant mansionem, †et in ea residentiam fecerint aliquantam, et adhuc etiam resident in eadem, praelati praedictarum civitatum eos ad solvendum sibi iura ecclesiastica compellunt. Quia vero transgredi non debemus terminos a patribus constitutos, aut falcem in messem mittere alienam, Fraternitati tuae [per apostolica scripta] mandamus, quatenus praedictorum locorum praelatos, ut sibi nullam in praedictos Aconenses habitatores iurisdictionem usurpent, nec ab eis temporalia exigant quibus spiritualia non ministrant, [monitione praemissa] districtione, qua convenit, compellatis ita tamen, quod, si de agris in eorum parochia constitutis fructus percipiunt, et in ultramarinis partibus ratione praediorum decimae persolvuntur, deinceps eis ipsas decimas cum integritate persolvant, dicto vero Aconensi tanquam dioecesano suo cogantur de ceteris respondere. [Quod si non omnes etc. Dat. Lat. X. Kal. Ian. 1198.]
 
-* TITULUS XXX. DE DECIMIS, PRIMITIIS ET OBLATIONIBUS.
+* 3.XXX. DE DECIMIS, PRIMITIIS ET OBLATIONIBUS.
 
 ** CAP. I.
 
@@ -2403,7 +2397,7 @@ Gregorius IX.
 
 Interdicimus universis personis ecclesiasticis, ut decimas, detentas a laicis, ad alienas ecclesias pertinentes, in pignus recipere ab eisdem laicis non praesumant.
 
-* TITULUS XXXI. DE REGULARIBUS ET TRANSEUNTIBUS AD RELIGIONEM.
+* 3.XXXI. DE REGULARIBUS ET TRANSEUNTIBUS AD RELIGIONEM.
 
 ** CAP. I.
 
@@ -2597,7 +2591,7 @@ Idem.
 
 Ne religiosi, vagandi occasionem habentes, salutis propriae detrimentum incurrant, et sanguis eorum de praelatorum manibus requiratur: statuimus, ut praesidentes capitulis celebrandis secundum statutum concilii generalis, seu patres, abbates seu priores fugitivos suos et eiectos de ordine suo requirant sollicite annuatim. Qui si in monasteriis suis recipi possunt secundum ordinem regularem, abbates seu priores eorum monitione praevia per censuram ecclesiasticam compellantur ad receptionem ipsorum, salva ordinis disciplina. Quod si hoc regularis ordo non patitur, auctoritate nostra provideant, ut apud eadem monasteria in locis competentibus, si absque gravi scandalo fieri poterit, alioquin in aliis religiosis domibus eiusdem ordinis ad agendam ibi poenitentiam talibus vitae necessaria ministrentur. Si vero huiusmodi fugitivos vel eiectos inobedientes invenerint, eos excommunicent, et tamdiu faciant ab ecclesiarum praelatis excommunicatos publice nunciari, donec ad mandatum ipsorum humiliter revertantur.
 
-* TITULUS XXXII. DE CONVERSIONE CONIUGATORUM.
+* 3.XXXII. DE CONVERSIONE CONIUGATORUM.
 
 ** CAP. I.
 
@@ -2767,7 +2761,7 @@ Idem.
 
 Mulier, quae in fide remansit, potest, nolente viro, qui ab infidelitate revertitur, propter quam ab eo fuerat iudicio ecclesiae separata, ad religionem libere convolare.
 
-* TITULUS XXXIII. DE CONVERSIONE INFIDELIUM.
+* 3.XXXIII. DE CONVERSIONE INFIDELIUM.
 
 ** CAP. I.
 
@@ -2785,7 +2779,7 @@ Gregorius IX. Argentinensi Episcopo.
 
 Ex literis tuis accepimus, [perlatam fuisse ad synodum tuam huiusmodi quaestionem], quod quidam de Iudaicae caecitatis errore ad Christum verum lumen [et viam veritatis] adductus, uxore sua in Iudaismo relicta, in iudicio postulavit instanter, ut eorum filius quadriennis assignaretur eidem, ad fidem catholicam, quam ipse susceperat, perducendus. Ad quod illa respondit, quod, quum puer adhuc infans exsistat, propter quod magis materno indiget solatio quam paterno, sibique ante partum onerosus, dolorosus in partu, [ac] post partum laboriosus fuisse noscatur, ac ex hoc legitima coniunctio maris et feminae magis matrimonium quam patrimonium nuncupetur, dictus puer apud eam debet convenientius remanere, †[quam apud patrem ad fidem Christianam de novo perductum transire debebat, aut saltem neutrius sequi, priusquam ad legitimam aetatem perveniat. Hinc inde multis aliis allegatis: tu autem praedicto puero medio tempore in tua potestate retento, quid tibi faciendum sit in hoc casu nos consulere voluisti.] Quum autem filius in patris potestate consistat, cuius sequitur familiam, et non matris, et in aetate tali quis non debet apud eas remanere personas, de quibus possit esse suspicio, quod saluti vel vitae insidientur illius, et pueri post triennum apud patrem non suspectum ali debeant et morari, materque pueri, si eum remanere contingeret apud eam, [facile] posset illum adducere ad infidelitatis errorem: [fraternitati tuae] in favorem maxime fidei Christianae respondemus, patri eundem puerum assignandum. [Dat. Perusii XVII. Kal. Iun. A. II. 1229.]
 
-* TITULUS XXXIV. DE VOTO ET VOTI REDEMPTIONE.
+* 3.XXXIV. DE VOTO ET VOTI REDEMPTIONE.
 
 ** CAP. I.
 
@@ -2877,8 +2871,7 @@ Postulatis a nobis, an vobis, professis ordinem regularem, quorum alter cruce si
 
 
 
-
-* TITULUS XXXV. DE STATU MONACHORUM ET CANONICORUM REGULARIUM.
+* 3.XXXV. DE STATU MONACHORUM ET CANONICORUM REGULARIUM.
 
 ** CAP. I.
 
@@ -3057,7 +3050,7 @@ Honorius III. Abbatibus et Monachis in Lombardia et Marchia Tervisina constituti
 
 Ea, quae pro religionis honestate †ac religiosorum salute provide ordinantur, apostolico munimine sunt roboranda, ut suscipiantur devotius et diligentius observentur. Quum ergo per dilectum filium abbatem Montisbelli quaedam capitula nobis fuerint praesentata, quae ad castigandum transgressiones multiplices et excessus, quos in quibusdam coenobiis invenerat, videbantur pro salute et honestate vestra laudabiliter statuenda: nos ea examinari et corrigi fecimus, et praecipimus, ut inviolabiliter observetis, quae sigillis venerabilium fratrum nostrorum H. Ostiensis et N. Tusculanensis episcoporum muniri fecimus ad cautelam. Ad haec volumus et praesentium auctoritate praecipimus, ut visitatores ad generale capitulum convocent abbates et priores non habentes abbates proprios tam exemptos, quam non exemptos Lombardiae et Marchiae, qui non consueverunt huiusmodi capitulum celebrare, providentes, ut in ipso capitulo generali, canonico impedimento sublato, eos, qui contempserint vel neglexerint convenire, sublato cuiuslibet contradictionis et appellationis obstaculo censura ecclesiastica compellant, et usque ad satisfactionem condignam sententiam, quam in eos rite tulerint, non relaxent, eadem censura facturi quae in eodem capitulo deliberatione provida fuerint ordinata firmiter observari, reddituri tam ipsi quam visitatores et alii iuxta cuiuslibet ministerium Domino, in cuius conspectu nuda sunt omnia et aperta, in extremo examine rationem, si omnem sollicitudinem et diligentiam, quae circa correctionem et reformationem ordinis ac visitationem coenobiorum impendendae fuerint, neglexerint adhibere. Porro, quum visitatores, secundum statutum generalis concilii ordinati a generali abbatum capitulo, processerint ad visitationis officium exsequendum, de statu monachorum et observantiis regularibus diligenter inquirant, et tam in spiritualibus quam in temporalibus corrigant et reforment quae viderint corrigenda, ita tamen, quod monachos delinquentes per abbatem loci corrigi faciant, eisque iniungi poenitentiam salutarem iuxta beati Benedicti regulam et apostolica instituta, non secundum normam pravae consuetudinis, quae quasi pro lege in quibusdam ecclesiis inolevit. Ipsi etiam visitatores monachos, quos contumaces invenerint et rebelles, iuxta modum culpae vice nostra regulari censura percellant absque personarum delectu, non parcendo rebellibus ob suam pertinaciam vel potentiam amicorum, quin ovem morbidam eiiciant ab ovili, ne inficiat sanas oves. Si vero abbates in corrigendis iuxta visitatorum mandatum et regularia instituta in se ipsis seu monachis inventi fuerint negligentes, proclamentur et corripiantur, et ita puniantur publice in capitulo generali, quod poena ipsorum sit aliis in exemplum. Quod si abbas aliquis non exemptus fuerit a visitatoribus nimis negligens et remissus inventus, id loci dioecesano denuncient sine mora, et per illum detur ei fidelis et providus coadiutor usque ad capitulum generale. Si autem dilapidator inventus fuerit vel alias merito amovendus, per dioecesanum, postquam hoc sibi a visitatoribus denunciatum fuerit, amoveatur absque iudiciorum strepitu a regimine abbatiae, ac monasterio provideatur interim administrator idoneus, qui temporalium curam gerat, donec ipsi monasterio fuerit de abbate provisum. Quodsi forsitan episcopus hoc adimplere noluerit vel neglexerit, visitatores vel praesidentes in capitulo generali defectum episcopi apostolicae sedi non differant intimare. Haec eadem circa exemptos abbates fieri praecipimus per visitatores vel praesidentes in capitulo generali, depositione tantum ipsorum sedi apostolicae reservata, ita, ut abbate, qui amovendus videbitur, interim per visitatores vel in capitulo praesidentes ab administratione suspenso administrator idoneus monasterio deputetur. Illorum autem excessus et alia, quae visa fuerint intimanda, capitulo praesidentes nobis denuncient per fideles nuncios et prudentes, quibus de communi contributione abbatum iuxta cuiuslibet facultatem sufficienter ministrentur expensae. Sequentes autem visitatores perquirant priorum visitatorum vestigia diligenter, et eorum negligentias et excessus referant sequenti capitulo generali, ut iuxta culpam publice debitam poenam portent. Idem etiam de abbatibus praesidentibus generali capitulo praecipimus observari. Praecipimus quoque, ut in nullo monasterio ad praebendas recipiant de cetero abbates et monachi clericos saeculares, nec hi, qui iam recepti sunt, locum vel vocem in capitulo, dormitorio vel refectorio seu claustro sibi vindicare contendant, seu monachorum coetibus importune se praesumant miscere, sed beneficiis sibi concessis contenti conversentur honeste, opportuna obsequia in monasteriis fideliter impendentes, nihilque ultra in spiritualibus aut temporalibus exigant in ipsis monasteriis vel usurpent. Si qui vero talium a visitatoribus inventi fuerint criminosi, per dioecesanum episcopum in non exemptis, et per visitatores vel praesidentes, generali capitulo in exemptis monasteriis beneficiis priventur eisdem. Haec autem omnia etiam in monasteriis, quae non habent abbates proprios, sed priores, nec non in monasteriis monialium, quoad articulos abbatissis et monialibus congruentes, praecipimus observari.
 
-* TITULUS XXXVI. DE RELIGIOSIS DOMIBUS, UT EPISCOPO SINT SUBIECTAE.
+* 3.XXXVI. DE RELIGIOSIS DOMIBUS, UT EPISCOPO SINT SUBIECTAE.
 
 ** CAP. I.
 
@@ -3131,7 +3124,7 @@ Idem in concilo generali.
 
 Ne nimia religionum diversitas gravem in ecclesiam Dei confusionem inducat, firmiter prohibemus, ne quis de cetero novam religionem inveniat, sed quicunque ad religionem converti voluerit, unam de approbatis assumat. Similiter qui voluerit religiosam domum de novo fundare, regulam et institutionem accipiat de [religionibus] approbatis. Illud etiam prohibemus, ne quis in diversis monasteriis locum monachi habere praesumat, nec unus abbas pluribus monasteriis praesidere.
 
-* TITULUS XXXVII. DE CAPELLIS MONACHORUM ET ALIORUM RELIGIOSORUM.
+* 3.XXXVII. DE CAPELLIS MONACHORUM ET ALIORUM RELIGIOSORUM.
 
 ** CAP. I.
 
@@ -3165,7 +3158,7 @@ Idem Burdegalensi Archiepiscopo.
 
 Ad audientiam nostram te significante pervenit, quod nonnulli monachi, lege tibi dioecesana subiecti, in quibusdam prioratibus habitant solitarii contra statutum generalis concilii. Ideoque fraternitati tuae mandamus, quatenus ipsorum monachorum abbates seu priores, ut vel ipsos ad claustrum revocent, facientes in ipsis ecclesiis deserviri per clericos saeculares, vel alios monachos eisdem associent, cum quibus vitam possint ducere regularem, monitione praemissa per censuram ecclesiasticam appellatione remota compellas, proviso, quod ad exemptos manum occasione mandati huiusmodi non extendas.
 
-* TITULUS XXXVIII. DE IURE PATRONATUS.
+* 3.XXXVIII. DE IURE PATRONATUS.
 
 ** CAP. I.
 
@@ -3426,7 +3419,7 @@ Gregorius IX. Archiepiscopo Eboracensi.
 
 Transmissae ad nos tuae literae continebant, quod, quum capitulum Eboracense ecclesiam de Gameforde vacantem, in qua ius obtinent patronatus, R. clerico concessissent, ipsi postmodum L. clericum tibi ad eandem ecclesiam praesentarunt post appellationem ab eodem R. ad sedem apostolicam interiectam. (Et infra:) Consultationi tuae taliter respondemus, quod, quum ex vi iuris patronatus non concessio, sed praesentatio pertineat ad patronum, praesentatum, si ei aliquid non obsistat canonicum, instituere in ipsa ecclesia poteris utpote potiorem.
 
-* TITULUS XXXIX. DE CENSIBUS, EXACTIONIBUS ET PROCURATIONIBUS.
+* 3.XXXIX. DE CENSIBUS, EXACTIONIBUS ET PROCURATIONIBUS.
 
 ** CAP. I.
 
@@ -3644,7 +3637,7 @@ Idem.
 
 Auctoritate praesentium inhibemus, ne quis pro eo, quod in oratoriis, quae in grangiis vestris habetis, interdum aliqui vestrum celebrant, procurationes, quae ratione visitationis debentur, a vobis exigere vel extorquere praesumat.
 
-* TITULUS XL. DE CONSECRATIONE ECCLESIAE VEL ALTARIS.
+* 3.XL. DE CONSECRATIONE ECCLESIAE VEL ALTARIS.
 
 ** CAP. I.
 
@@ -3726,7 +3719,7 @@ Idem eidem.
 
 Si ecclesia non consecrata cuiuscunque semine fuerit aut sanguinis effusione polluta, aqua protinus exorcizata lavetur, ne divinae laudis [in ea] organa suspendantur; est tamen, quam citius fieri poterit consecranda. [Dat. Lat. XII. Kal. Iun. Pont. nostr. Ao. VII. 1233.]
 
-* TITULUS XLI. DE CELEBRATIONE MISSARUM, ET SACRAMENTO EUCHARISTIAE ET DIVINIS OFFICIIS.
+* 3.XLI. DE CELEBRATIONE MISSARUM, ET SACRAMENTO EUCHARISTIAE ET DIVINIS OFFICIIS.
 
 ** CAP. I.
 
@@ -3840,7 +3833,7 @@ Idem Episcopo Brixiensi.
 
 Literas tuas recepimus, continentes, quod, quum super excessibus magistri Mauri presbyteri ecclesiae sanctae Brigidae Brixiensis iuxta debitum officii pastoralis inquireres, confessus est, quod, quum quadam die hostiam et calicem non haberet, in pane fermentato et in scypho ligneo adstante populo missarum solennia celebrare praesumpsit. †Quare ipsum supposuisti perpetuo interdicto, consulens, ut in aliqua ecclesia regulari mutaret in melius vitam suam. Postmodum autem, illo coram venerabili fratre nostro Hostiensi episcopo, tunc apostolicae sedis legato, ut secum misericorditer ageret, supplicante, idem, ad celebrationem divinorum presbyterum restituens memoratum, super suspensione beneficii causam S. Salvatoris et S. Lucae praepositis Brixiensibus delegavit, qui ad beneficium restituerunt eundem. Deinde vero reversus de partibus transmarinis, Intellecto iterum, quod praedicta ecclesia per malitiam dicti presbyteri multipliciter laedebatur, inquisitionis officium iterans, ex eius confessionibus invenisti, quod idem sine igne sacrificabat et aqua, †quare, quid de ipso agendam sit, nostro petiisti edoceri responso. Quum igitur vel ex aperta malitia, vel ex nimia desipientia peccasse probetur, fraternitati tuae mandamus, quatenus, si praemissis veritas suffragatur, officio et beneficio sublato appellationis obstaculo perpetuo ipsum prives.
 
-* TITULUS XLII. DE BAPTISMO ET EIUS EFFECTU.
+* 3.XLII. DE BAPTISMO ET EIUS EFFECTU.
 
 ** CAP. I.
 
@@ -3890,7 +3883,7 @@ Idem in concilio generali.
 
 Licet Graecos [in] diebus nostris ad obedientiam sedis apostolicae revertentes fovere ac honorare velimus, mores ac ritus eorum, in quantum cum Domino possumus, sustinendo: in his tamen illis deferre non volumus, nec debemus, quae periculum generant animarum et ecclesiasticae derogant honestati. Postquam enim Graecorum ecclesia cum quibusdam complicibus et fautoribus suis ab obedientia sedis apostolicae se subtraxit, in tantum Graeci coeperunt abominari Latinos, quod inter alia, quae in derogationem eorum impie committebant, si quando sacerdotes Latini super eorum celebrassent altaria, non prius ipsi sacrificabant in ipsis, quam ea, tanquam per hoc inquinata, lavissent. Baptizatos etiam a Latinis ipsi Graeci rebaptizare ausu temerario praesumebant, et adhuc, sicut accepimus, quidam hoc agere non verentur. Volentes igitur tantum scandalum ab ecclesia Dei amovere, sacro suadente concilio districte praecipimus, ut talia de cetero non praesumant, conformantes se tanquam filii obedientiae sacrosanctae Romanae ecclesiae matri suae, ut sit unum ovile et unus pastor. Si quis autem tale quid praesumpserit, excommunicationis mucrone percussus ab omni officio et beneficio ecclesiastico deponatur.
 
-* TITULUS XLIII. DE PRESBYTERO NON BAPTIZATO.
+* 3.XLIII. DE PRESBYTERO NON BAPTIZATO.
 
 ** CAP. I.
 
@@ -3959,7 +3952,7 @@ certitudine sit habenda, donec evidentissimis forsitan argumentis
 contrarium
 probaretur. [Dat. Rom. ap. S. Petr. Id. April. Ao. IX. 1206.]
 
-* TITULUS XLIV. DE CUSTODIA EUCHARISTIAE, CHRISMATIS ET ALIORUM SACRAMENTORUM.
+* 3.XLIV. DE CUSTODIA EUCHARISTIAE, CHRISMATIS ET ALIORUM SACRAMENTORUM.
 
 ** CAP. I.
 
@@ -3977,7 +3970,7 @@ Idem in eodem.
 
 Relinqui nolumus incorrectum, quod quidam clerici ecclesias sic exponunt suppellectilibus propriis, et etiam alienis, ut potius domus laicae, quam Dei basilicae videantur, non considerantes, quod Dominus non sinebat, ut vas transferretur per templum. Sunt et alii, qui non solum ecclesias dimittunt incultas, verum etiam vasa ministerii, et vestimenta ministrorum, ac pallas altaris, nec non et ipsa corporalia tam immunda relinquunt, quod interdum aliquibus sunt horrori. Quia vero zelus nos comedit domus Dei, firmiter prohibemus, ne huiusmodi suppellectilia in ecclesiis admittantur, nisi propter hostiles incursus, aut incendia repentina, seu alias necessitates urgentes ad eas oporteat haberi refugium, sic tamen, ut necessitate cessante, res in loca pristina reportentur. Praecipimus quoque, ut oratoria, vasa, corporalia et vestimenta praedicta munda et nitida conserventur. Nimis enim videtur absurdum in sacris sordes negligere, quae dedecerent etiam in profanis.
 
-* TITULUS XLV. DE RELIQUIIS ET VENERATIONE SANCTORUM.
+* 3.XLV. DE RELIQUIIS ET VENERATIONE SANCTORUM.
 
 ** CAP. I.
 
@@ -3995,7 +3988,7 @@ Innocentius III. in concilio generali.
 
 Quum ex eo, quod quidam sanctorum reliquias exponunt venales, et eas passim ostendunt, Christanae religioni detractum sit saepius, ne in posterum detrahatur, praesenti decreto statuimus, ut antiquae reliquiae amodo extra capsam nullatenus ostendantur, nec exponantur venales. Inventas autem de novo nemo publice venerari praesumat, nisi prius auctoritate Romani Pontificis fuerint approbatae. Praelati vero de cetero non permittant eos, qui ad eorum ecclesias causa venerationis accedunt, variis figmentis aut falsis documentis decipi, sicut [et] in plerisque locis occasione quaestus fieri consuevit. [Eleemosynarum etc. (cf. c. 14. X. de poenit. V. 38.)]
 
-* TITULUS XLVI. DE OBSERVATIONE IEIUNIORUM.
+* 3.XLVI. DE OBSERVATIONE IEIUNIORUM.
 
 ** CAP. I.
 
@@ -4021,7 +4014,7 @@ Honorius III. Pragensi Episcopo.
 
 Explicari per sedem apostolicam postulasti, †utrum sit licitum illis, qui nec voto, nec regulari observantia sunt adstricti, carnes comedere, quando in sexta feria dies dominicae Nativitatis occurrit. Ad hoc Respondemus, quod illi, qui nec voto, nec regulari observantia sunt adstricti, in sexta feria, si festum nativitatis dominicae die ipso venire contigerit, carnibus propter festi excellentiam vesci possunt secundum consuetudinem ecclesiae generalis. Nec tamen hi reprehendendi sunt, qui ob devotionem voluerint abstinere. [Dat. Lat. IV. Kal. Nov. Pont. nostr. Ao. I. 1216.]
 
-* TITULUS XLVII. DE PURIFICATIONE POST PARTUM.
+* 3.XLVII. DE PURIFICATIONE POST PARTUM.
 
 ** CAP. UN.
 
@@ -4031,7 +4024,7 @@ Innocentius III. Armachano Archiepiscopo.
 
 Volens †fraternitas tua per responsum apostolicum edoceri, humiliter a nobis expetiit, utrum mulieres statim post partum debeant ecclesias ingredi, vel ab earum ingressu per dies aliquot abstinere. Licet autem secundum legem Mosaicam certi dies determinati fuissent, quibus mulieres post partum a templi cessarent ingressu: quia tamen lex per Moysen data est, gratia et veritas per Iesum Christum facta est, nos, sanctorum Patrum vestigiis inhaerentes, inquisitioni tuae taliter respondemus, quod, postquam umbra legis evanuit, et illuxit veritas evangelii, si mulieres, post prolem emissam acturae gratias ecclesiam intrare voluerint, nulla proinde peccati mole gravantur, nec est ecclesiarum eis aditus aliquatenus denegandus, ne poena illis converti videatur in culpam. Si tamen ex veneratione voluerint aliquamdiu abstinere, devotionem earum non credimus improbandam. [Dat. Laterani. 1198.]
 
-* TITULUS XLVIII. DE ECCLESIIS AEDIFICANDIS VEL REPARANDIS.
+* 3.XLVIII. DE ECCLESIIS AEDIFICANDIS VEL REPARANDIS.
 
 ** CAP. I.
 
@@ -4113,7 +4106,7 @@ Coelestinus III.
 
 Tua nos duxit (Et infra:) Praeterea, quia occasione iuramenti, quod de rebus ecclesiae non alienandis te asseris praestitisse, in locis tui episcopatus, in quibus populi habitantes oratoriis plurimum egere videntur, ne praetextu novarum ecclesiarum commissa tibi ecclesia destitui videatur, ecclesias formidas erigere, fraternitati tuae praesentium significatione mandamus, quatenus illius iuramenti occasione nullatenus praetermittas, quin populo indigenti super basilicarum institutione studeas salubriter providere.
 
-* TITULUS XLIX. DE IMMUNITATE ECCLESIARUM, COEMITERII, ET RERUM, AD EAS PERTINENTIUM.
+* 3.XLIX. DE IMMUNITATE ECCLESIARUM, COEMITERII, ET RERUM, AD EAS PERTINENTIUM.
 
 ** CAP. I.
 
@@ -4195,7 +4188,7 @@ Idem Toletano et Compostellano Archiepiscopis.
 
 Immunitatem ecclesiasticam (Et infra:) Nonnulli, impunitatem suorum excessuum per defensionem ecclesiae obtinere sperantes, homicidia et mutilationes membrorum in ipsis ecclesiis vel earum coemiteriis committere non verentur: qui, nisi per ecclesiam, ad quam confugiunt, crederent se defendi, nullatenus fuerant commissuri. (Et infra:) Quum in eo, in quo delinquit, puniri quis debeat, et frustra legis auxilium invocet qui committit in legem: mandamus, quatenus publice nuncietis, tales non debere gaudere immunitatis privilegio, quo faciunt se indignos.
 
-* TITULUS L. NE CLERICI VEL MONACHI SAECULARIBUS NEGOTIIS SE IMMISCEANT.
+* 3.L. NE CLERICI VEL MONACHI SAECULARIBUS NEGOTIIS SE IMMISCEANT.
 
 ** CAP. I.
 

@@ -2051,9 +2051,11 @@ The title of Governor is a general one, and hence it is applicable to
 Proconsuls and Deputies of the Emperor, as well as to all Governors of the
 provinces, and even to senators. The title of Proconsul is one of special
 signification.
+
 2. Ulpianus, On Sabinus, Book XXVI.
 A Governor can adopt before himself, just as he can emancipate a son, or
 manumit a slave.
+
 3. Paulus, On Sabinus, Book XIII.
 The Governor of a province has authority only over the inhabitants of his
 province; and this only as long as he remains therein, for if he departs from
@@ -2061,12 +2063,15 @@ it, he becomes a private person. He sometimes has jurisdiction over foreigners,
 when one actually commits an offence; for it is stated in the Imperial Mandates
 that he who presides over a province must take care to purge it of bad
 characters, without any distinction as to where they come from.
+
 4. Ulpianus, On the Edict, Book XXXIX.
 The Governor of a province has greater authority therein than anyone else
 except the Emperor.
+
 5. The Same, On All Tribunals, Book I.
 The Governor of a province cannot appoint himself either a guardian, or a judge
 in a particular case.
+
 6. The Same, Opinions, Book I.
 The Governor of a province must suppress illegal exactions, including such as
 are committed with violence, as well as sales and obligations extorted by fear,
@@ -2105,16 +2110,19 @@ directed to pay it, must relieve them from the necessity of payment, and
 repress the unlawful avarice of those who demand it. Where, on account of
 poverty a fine has been remitted by the provincial authorities, it should not
 be exacted.
+
 7. The Same, Opinions, Book III.
 The Governor of a province where buildings have been inspected by him, can
 compel their owners to repair them when sufficient cause for this exists; and
 where a refusal is made, he should take proper measures for their reparation.
+
 8. Julianus, Digest, Book I.
 I have often heard our Emperor say that where it is set forth in a Rescript
 that: "You can apply to him who presides over the province", this does not
 place the Proconsul, or his deputy, or the Governor of the province under the
 obligation of hearing the case; but he should consider whether he ought to hear
 it himself, or appoint a judge for that purpose.
+
 9. Callistratus, On Judicial Inquiries, Book I,
 Generally speaking, whenever the Emperor issues a Rescript referring any matter
 to the Governor of a province, as for instance, when he says: "You can apply to
@@ -2123,17 +2131,21 @@ what his duty requires", no obligation is imposed upon the Proconsul or his
 deputy to take cognizance of the case; but even where the words "He will
 consider what his duty requires" are not added, he must make up his mind
 whether he will hear it himself or appoint a judge to do so.
+
 10. Hermogenianus, Epitomes of Law, Book II.
 It is the duty of the Governors of provinces to hear all cases which either the
 Prefect of the City, the Praetorian Prefect, or the Consuls, Praetors, or other
 magistrates hear at Rome.
+
 11. Marcianus, Institutes, Book III.
 All provincial applications which are made to various Judges at Rome come
 within the jurisdiction of Governors.
+
 12. Proculus, Epistles, Book IV.
 And although he who governs the province ought to be invested with authority to
 discharge the duties of all Roman magistrates, still, he should pay attention
 to what should be done in each case, rather than to what is done at Rome.
+
 13. Ulpianus, On the Office of Proconsul, Book VII.
 It is proper for every good and worthy Governor to take care that the province
 over which he presides is peaceable and quiet. This he will accomplish without
@@ -2150,6 +2162,7 @@ should be made to learn whether he had perpetrated the deed while simulating
 insanity, or whether, in fact, he was not in possession of his faculties, for
 if he was feigning he should be punished, and if he was actually insane, he
 should be confined in prison.
+
 14. Macer, On Criminal Trials, Book II.
 The Divine Marcus and Commodus addressed a Rescript to Scapulas Tertullus in
 the following terms: "If it is positively ascertained by you that AElius Perseus
@@ -2176,10 +2189,12 @@ appointed for insane persons, not only to prevent them from injuring
 themselves, but that they may not be a source of destruction to others; and
 where this takes place, those very properly should be held responsible who are
 guilty of negligence in the discharge of their duties."
+
 15. Marcianus, On Criminal Trials, Book I.
 One thing must be observed, he who governs the province must not pass its
 boundaries unless for the purpose of fulfilling a vow; and, even then he must
 not spend a night outside.
+
 16. Macer, On the Office of Governor, Book I.
 It is provided by a Decree of the Senate "That judicial proceeding must be very
 sparingly instituted with reference to obligations contracted by those who
@@ -2191,12 +2206,15 @@ injury, or is made the victim of theft, proceedings can be instituted to the
 extent of joining issue, and ordering the production and deposit of the stolen
 property; or a promise shall be given with security that the party will appear,
 or that the article in question will be produced."
+
 17. Celsus, Digest, Book III.
 Where the Governor of a province has manumitted anyone, or appointed a guardian
 before he was aware of the arrival of his successor, these acts shall be valid.
+
 18. Modestinus, Rules, Book V.
 It is provided by a plebiscite "That no Governor shall accept a present or a
 gift, except food or beverages which may be consumed within a few days".
+
 19. Callistratus, On Judicial Inquiries, Book I.
 He who administers justice must be careful to be easy of access, but not permit
 anyone to treat him disrespectfully, for which reason it is stated in their
@@ -2209,9 +2227,11 @@ supplications of the unfortunate; for it is not the part of a resolute and
 upright judge to let his countenance disclose the emo-
 tions of his mind. In a word, he should so administer justice as to increase
 the authority of his rank by the force of his mental qualities.
+
 20. Papinianus, Opinions, Book I.
 The Deputy of the Emperor, that is to say the Governor, or the highest official
 of a province, does not lose his authority by relinquishing his office.
+
 21. Paulus, On the Office of Assessor.
 When the Governor is trying the case of a slave who has been corrupted, or of a
 female slave who has been debauched, or of a male slave who has been indecently

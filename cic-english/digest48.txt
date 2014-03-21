@@ -1,57 +1,32 @@
 # -*- mode: org -*-
 
-BOOK XLVIII.
+* BOOK XLVIII.
++ 48.I. ON CRIMINAL PROSECUTIONS
++ 48.II. CONCERNING ACCUSATIONS AND INSCRIPTIONS
++ 48.III. CONCERNING THE CUSTODY AND APPEARANCE OF DEFENDANTS IN CRIMINAL CASES
++ 48.IV. ON THE JULIAN LAW RELATING TO THE CRIME OF LESE MAJESTY
++ 48.V. CONCERNING THE JULIAN LAW FOR THE PUNISHMENT OF ADULTERY
++ 48.VI. CONCERNING THE JULIAN LAW ON PUBLIC VIOLENCE
++ 48.VII. CONCERNING THE JULIAN LAW RELATING TO PRIVATE VIOLENCE
++ 48.VIII. CONCERNING THE CORNELIAN LAW RELATING TO ASSASSINS AND POISONERS
++ 48.IX. CONCERNING THE POMPEIAN LAW ON PARRICIDES
++ 48.X. CONCERNING THE CORNELIAN LAW ON DECEIT AND THE LIBONIAN DECREE OF THE SENATE
++ 48.XI. CONCERNING THE JULIAN LAW ON EXTORTION
++ 48.XII. CONCERNING THE JULIAN LAW ON PROVISIONS
++ 48.XIII. CONCERNING THE JULIAN LAW RELATING TO PECULATION, SACRILEGE, AND BALANCES
++ 48.XIV. CONCERNING THE JULIAN LAW WITH REFERENCE TO THE UNLAWFUL SEEKING OF OFFICE
++ 48.XV. CONCERNING THE FAVIAN LAW WITH REFERENCE TO KIDNAPPERS
++ 48.XVI. CONCERNING THE TURPILLIAN DECREE OF THE SENATE AND THE DISMISSAL OF CHARGES
++ 48.XVII. CONCERNING THE CONVICTION OF PERSONS WHO ARE SOUGHT FOR OR ARE ABSENT
++ 48.XVIII. CONCERNING TORTURE
++ 48.XIX. CONCERNING PUNISHMENTS
++ 48.XX. CONCERNING THE PROPERTY OF PERSONS WHO HAVE BEEN CONVICTED . 125
++ 48.XXI. CONCERNING THE PROPERTY OF THOSE WHO HAVE EITHER KILLED THEMSELVES OR CORRUPTED THEIR ACCUSERS BEFORE JUDGMENT HAS BEEN RENDERED
++ 48.XXII. CONCERNING PERSONS WHO ARE INTERDICTED, RELEGATED, AND DEPORTED
++ 48.XXIII. CONCERNING PERSONS UPON WHOM SENTENCE HAS BEEN PASSED AND WHO HAVE BEEN RESTORED TO THEIR RIGHTS
++ 48.XXIV. CONCERNING THE CORPSES OF PERSONS WHO ARE PUNISHED . 137
 
-TITLE I. ON CRIMINAL PROSECUTIONS ...................................... 13
-TITLE II. CONCERNING ACCUSATIONS AND INSCRIPTIONS ....................... 15
-TTIITTLLEE IIIIII.. PPAAGGEE
-CONCERNING THE CUSTODY AND APPEARANCE OF DEFENDANTS IN CRIMINAL CASES
-.................................................. 21
-TITLE IV. ON THE JULIAN LAW RELATING TO THE CRIME OF LESE MAJESTY ....... 25
-TITLE V. CONCERNING THE JULIAN LAW FOR THE PUNISHMENT OF ADULTERY .... 29
-TITLE VI. CONCERNING THE JULIAN LAW ON PUBLIC VIOLENCE .................. 51
-TITLE VII. CONCERNING THE JULIAN LAW RELATING TO PRIVATE VIOLENCE ........ 57
-TITLE Vill.
-CONCERNING THE CORNELIAN LAW RELATING TO ASSASSINS AND POISONERS
-..................................................... 59
-TITLE IX. CONCERNING THE POMPEIAN LAW ON PARRICIDES ..................... 64
-TITLE X.
-CONCERNING THE CORNELIAN LAW ON DECEIT AND THE LIBONIAN DECREE OF THE SENATE
-.............................................. 67
-TITLE XI. CONCERNING THE JULIAN LAW ON EXTORTION ....................... 81
-TITLE XII. CONCERNING THE JULIAN LAW ON PROVISIONS ....................... 82
-TITLE XIII.
-CONCERNING THE JULIAN LAW RELATING TO PECULATION, SACRILEGE, AND BALANCES
-.............................................. 83
-TITLE XIV.
-CONCERNING THE JULIAN LAW WITH REFERENCE TO THE UNLAWFUL SEEKING OF OFFICE
-.......................................... 86
-TITLE XV. CONCERNING THE FAVIAN LAW WITH REFERENCE TO KIDNAPPERS ....... 87
-TITLE XVI.
-CONCERNING THE TURPILLIAN DECREE OF THE SENATE AND THE DISMISSAL OF CHARGES
-.......................................... 90
-TITLE XVII.
-CONCERNING THE CONVICTION OF PERSONS WHO ARE SOUGHT FOR OR ARE ABSENT
-................................................ 97
-TITLE XVIII. PAGE CONCERNING TORTURE
-............................................ 98
-TITLE XIX. CONCERNING PUNISHMENTS ....................................... 107
-TITLE XX. CONCERNING THE PROPERTY OF PERSONS WHO HAVE BEEN CONVICTED ... 125
-TITLE XXI.
-CONCERNING THE PROPERTY OF THOSE WHO HAVE EITHER KILLED THEMSELVES OR CORRUPTED
-THEIR ACCUSERS BEFORE JUDGMENT HAS BEEN RENDERED
-................................................... 129
-TITLE XXII. CONCERNING PERSONS WHO ARE INTERDICTED, RELEGATED, AND DEPORTED.
-130
-TITLE XXIII.
-CONCERNING PERSONS UPON WHOM SENTENCE HAS BEEN PASSED AND WHO HAVE BEEN
-RESTORED TO THEIR RIGHTS ................... 136
-TITLE XXIV. CONCERNING THE CORPSES OF PERSONS WHO ARE PUNISHED ........... 137
-
-
-THE DIGEST OR PANDECTS. BOOK XLVIII.
-
-TITLE I. ON CRIMINAL PROSECUTIONS.
+* 48.I. ON CRIMINAL PROSECUTIONS.
 
 1. Macer, On Criminal Prosecutions, Book I.
 All cases in which crime is involved are not public, but only those which are
@@ -81,12 +56,12 @@ of a will; for in these cases private matters are concerned.
 11 The term ""capital," as applicable to punishments aammoonngg tthhee RRoommaannss,, wwhhiillee
 iinncclluuddiinngg tthhee eexxttrreemmee ppeennaallttyy,, aallssoo hhaadd rreeffeerreennccee ttoo aannyy eevveenntt aaffffeeccttiinngg tthhee
 ""ccaappuutt,,""oorr ssttaattuuss ooff tthhee ppeerrssoonn iinn qquueessttiioonn,, tthhaatt iinnvvoollvveedd aa lloossss ooff rriigghhttss,,
-tthhee ccoonnsseeqquueennccee ooff wwhhiicchh wwaass cciivviill ddeeaatthh.. AAmmoonngg tthheessee wwaass tthhee ffoorrffeeiittuurree ooff
+tthhee ccoonnsseeqquueennccee ooff wwhhiicchh wwaass cciivviill ddeeaatthh AAmmoonngg tthheessee wwaass tthhee ffoorrffeeiittuurree ooff
 cciittiizzeennsshhiipp rreessuullttiinngg ffrroomm ccaappttiivviittyy bbyy tthhee eenneemmyy,, tthhee ccoonnvviiccttiioonn ooff ssoommee
 aattrroocciioouuss ccrriimmee ffoorr wwhhiicchh tthhee iinntteerrddiiccttiioonn ooff wwaatteerr aanndd ffiirree wwaass iimmppoosseedd,,
-rreedduuccttiioonn ttoo sseerrvviittuuddee,, sseenntteennccee ttoo hhaarrdd llaabboorr iinn tthhee mmiinneess,, aanndd eexxiillee..
+rreedduuccttiioonn ttoo sseerrvviittuuddee,, sseenntteennccee ttoo hhaarrdd llaabboorr iinn tthhee mmiinneess,, aanndd eexxiillee
 CCoonnvviiccttiioonn ooff ccrriimmee ffoorr wwhhiicchh tthheessee ppuunniisshhmmeennttss wweerree iinnfflliicctteedd,, iippssoo
-ffaaccttoo,,eennttaaiilleedd iinnffaammyy,, aanndd aaffffeecctteedd aa ffoorrffeeiittuurree ooff cciivviill rriigghhttss.. --- ED..
+ffaaccttoo,,eennttaaiilleedd iinnffaammyy,, aanndd aaffffeecctteedd aa ffoorrffeeiittuurree ooff cciivviill rriigghhttss --- ED..
 22 ""CCrriimmeenn mmoorrttee rreeii eexxttiinngguuiittuurr..""---ED..
 
 5. Ulpianus, Disputations, Book Vill.
@@ -153,7 +128,7 @@ of the deceased should not be included among persons who are infamous, since
 although a criminal prosecution might be instituted by the children for the
 death of the daughter, the father could bring the accusation without any risk.
 
-TITLE II. CONCERNING ACCUSATIONS AND INSCRIPTIONS/
+* 48.II. CONCERNING ACCUSATIONS AND INSCRIPTIONS/
 
 1. Pomponius, On Sabinus, Book I.
 Awoman is not permitted to accuse anyone in a criminal case unless she does so
@@ -396,9 +371,8 @@ prosecuted and convicted where the crime is proved to have been committed,
 which our most excellent Emperor stated in general terms should also be
 observed with reference to soldiers.
 
+* 48.III. CONCERNING THE CUSTODY AND APPEARANCE OP DEPENDANTS IN CRIMINAL CASES.
 
-TITLE III.
-CONCERNING THE CUSTODY AND APPEARANCE OP DEPENDANTS IN CRIMINAL CASES.
 1. Ulpianus, On the Duties of Proconsul, Book II.
 When accused persons are to be placed in custody, the Proconsul should
 determine whether they should be sent to prison, delivered to a soldier, or
@@ -560,8 +534,7 @@ look for the fugitive, after having taken another soldier with him.
 allowed to escape, if the person to blame has the means to do so, Saturninus
 says he must pay the value of the slave to his master.
 
-TITLE IV.
-ON THE JULIAN LAW RELATING TO THE CRIME OF LESE MAJESTY.
+* 48.IV. ON THE JULIAN LAW RELATING TO THE CRIME OF LESE MAJESTY.
 
 1. Ulpianus,.On the Duties of Proconsul, Book VII.
 The crime of lese majestymay closely resemble that of sacrilege.
@@ -723,9 +696,7 @@ regulation which has subsequently been productive of deplorable abuses in the
 exercise of regal and judicial authority. The extent to which the legal
 construction
 
-TITLE V.
-CONCERNING THE JULIAN LAW FOR THE PUNISHMENT OP
-ADULTERY.
+* 48.V. CONCERNING THE JULIAN LAW FOR THE PUNISHMENT OF ADULTERY.
 
 1. Ulpinanus, On Adultery, Book I.
 This law was introduced by the Divine Augustus.
@@ -1698,8 +1669,7 @@ malicious contrivance who knew that she had not been legally repudiated.
 If his mother-in-law is dead, a son-in-law can be prosecuted for incest with
 her, just as an adulterer can be prosecuted after the death of the woman.
 
-
-TITLE VI. CONCERNING THE JULIAN LAW ON PUBLIC VIOLENCE.
+* 48.VI. CONCERNING THE JULIAN LAW ON PUBLIC VIOLENCE.
 
 1. Marcianus-, Institutes, Book XIV.
 He is liable under the Julian Law relating to Public Violence who collects arms
@@ -2021,9 +1991,7 @@ carry them for the purpose of killing anyone.
 Those who impose new taxes arbitrarily are liable under the Julian Law relating
 to Public Violence.
 
-
-TITLE VII.
-CONCERNING THE JULIAN LAW RELATING TO PRIVATE VIOLENCE.
+* 48.VII. CONCERNING THE JULIAN LAW RELATING TO PRIVATE VIOLENCE.
 
 1. Marcianus, Institutes, Book XIV.
 Anyone who is convicted of private violence is punished under the Julian Law by
@@ -2094,8 +2062,9 @@ forfeit his right to the claim."
 Where a creditor, without judicial authority, seizes the property of his
 debtor, he is liable under this law, will be fined a third part of his
 property, and will become infamous.
-TITLE Vill.
-CONCERNING THE CORNELIAN LAW RELATING TO ASSASSINS AND POISONERS.
+
+* 48.VIII. CONCERNING THE CORNELIAN LAW RELATING TO ASSASSINS AND POISONERS.
+
 1. Marcianus, Institutes, Book XIV.
 Under the Cornelian Law relating to Assassins and Poisoners, anyone who kills a
 man; or through whose malice a fire has originated; or who has gone about armed
@@ -2332,7 +2301,9 @@ order; unless the tumult could not otherwise have been suppressed.
 17. Paulus, Sentences, Book V.
 If a man after having been struck in a quarrel dies, the blow given by each of
 the persons assembled should be investigated.1
-TITLE IX. CONCERNING THE POMPEIAN LAW ON PARRICIDES.
+
+* 48.IX. CONCERNING THE POMPEIAN LAW ON PARRICIDES.
+
 1. Marcianus, Institutes, Book XIV.
 It is provided by the Pompeian Law relating to Parricides that if anyone kills
 his father, his mother, his grandfather, his grandmother, his brother, his
@@ -2467,8 +2438,9 @@ prejudiced
 10. Paulus, On the Penalties of All Laws.
 The accusation of those who are liable to the penalty of parricide is always
 permitted.
-TITLE X.
-CONCERNING THE CORNELIAN LAW ON DECEIT AND THE LIBONIAN DECREE OF THE SENATE.
+
+* 48.X. CONCERNING THE CORNELIAN LAW ON DECEIT AND THE LIBONIAN DECREE OF THE SENATE.
+
 1. Marcianus, Institutes, Book XIV.
 The penalty of the Cornelian Law is inflicted upon anyone who, with malicious
 intent, has suborned false witnesses, or caused spurious evidence to be
@@ -3124,11 +3096,14 @@ intent, commits any other fraudulent act, he shall be condemned to pay double
 the value of the property; and it was provided by a Decree of the Divine
 Hadrian that those who used false weights or measures should be relegated to an
 island.
+
 33. The Same, On Punishm'ents, Book III.
 If anyone should make use of forged constitutions, without giving any authority
 for doing so, he will be forbidden the use of water and fire under the
 Cornelian Law.
-TITLE XI. CONCERNING THE JULIAN LAW ON EXTORTION.
+
+* 48.XI. CONCERNING THE JULIAN LAW ON EXTORTION.
+
 1. Marcianus, Institutes, Book XIV.
 The Julian Law on Extortion has reference to money received by someone who
 holds the position of magistrate, or who is invested with some degree of power,
@@ -3137,16 +3112,21 @@ or occupation whatsoever; and also applies to the attendants of the above-
 mentioned dignitaries.
 (1) The law excepts those from whom it is permitted to receive money, for
 instance, from cousins, from near relatives, and from a wife.
+
 2. Scsevola, Rules, Book IV.
 Under this law, an action is granted against heirs, but only within a year
 after the death of the person who was accused.
+
 3. Macer, Public Prosecutions, Book I.
 He is liable under the Julian Law relating to Extortion who, while invested
 with any authority, accepts money for rendering a judgment or decree;
+
 4. Venuleius Saturninus, Public Prosecutions, Book HI.Or for doing more or less
 than he was obliged to do in the performance of his official duty.
+
 5. Macer, Public Prosecutions, Book I.
 The attendants of judges can also be prosecuted under this law.
+
 6. Venuleius Saturninus, Public Prosecutions, Book I.Those are liable under the
 same law who receive money either for testifying, or for not testifying.
 (1) He who is convicted under this law is forbidden to testify in public, or to
@@ -3157,6 +3137,7 @@ anyone accept money for giving his opinion in the Senate or in a public
 council, or to accuse, or not to accuse anyone; and city magistrates must
 abstain from all kinds of corruption, and not receive in gifts or presents more
 than a hundred aureiduring the entire year."
+
 7. Macer, Public Prosecutions, Book I.
 The Julian Law on Extortion prescribes that: "No one shall receive anything as
 an inducement to render a judgment or a decree, or for changing his opinion; or
@@ -3179,16 +3160,20 @@ What, however, should be done if they accept money as a reward for killing a
 man? Or even if they do not accept it, but, impelled by rage, they kill an
 innocent person, or one whom they should not punish? They should undergo a
 capital penalty, or be deported to an island, as indeed most of them are.
+
 8. Paulus, On the Edict, Book LIV.
 When anything is donated to a proconsul or a Praetor, in violation of the law
 on extortion, he cannot acquire it by usucaption.
 (1) The same law provides that: "Sales or leases made for a greater or a less
 price than is just are for this reason void, and usucaption is prevented before
 the property comes into the hands of him who had it, or his heir."
+
 9. Papinianus, Opinions, Book XV.
 Those who, in consideration of money paid to them, relinquish a public
 employment, are criminally prosecuted for extortion.
-TITLE XII. CONCERNING THE JULIAN LAW ON PROVISIONS.
+
+* 48.XII. CONCERNING THE JULIAN LAW ON PROVISIONS.
+
 1. Marcianus, Institutes, Book II.
 A criminal action can be brought by a slave against his master, if the former
 alleges that his master has committed fraud with reference to provisions
@@ -3211,8 +3196,9 @@ for women to give this kind of information, still, if you promise that you can
 furnish information which will be to the benefit of the Department of
 Subsistence, you can communicate it to the prefect of that branch of the public
 service."
-TITLE XIII.
-CONCERNING THE JULIAN LAW RELATING TO PECULATION, SACRILEGE, AND BALANCES.
+
+* 48.XIII. CONCERNING THE JULIAN LAW RELATING TO PECULATION, SACRILEGE, AND BALANCES.
+
 1. Ulpianus, On Sabinus, Book XLIV.
 It is provided by the Julian Law on Peculation, that: "No one shall intercept,
 or appropriate for his own use, or do anything, by means of which another can
@@ -3350,8 +3336,9 @@ Public prosecutions for peculation, as well as those for appropriating
 balances, and for extortion, can also be brought against an heir; and this is
 not unreasonable, as the principle question involved has reference to the
 stolen money.
-TITLE XIV.
-CONCEENING THE JULIAN LAW.WlTH REFERENCE TO THE UNLAWFUL SEEKING OP OFFICE.
+
+* 48.XIV. CONCERNING THE JULIAN LAW.WlTH REFERENCE TO THE UNLAWFUL SEEKING OP OFFICE.
+
 1. Modestinus, On Punishments, Book II.
 This law is not at present in force at Rome, because the creation of
 magistrates is part of the duty of the Emperor, and does not depend upon the
@@ -3366,12 +3353,14 @@ Decree of the Senate.
 (4) If either an accused person, or an accuser, enters the house of his judge,
 he commits an unlawful act according to the Julian Law relating to Judges; that
 is to say, he will be ordered to pay a hundred aureito the Treasury.1
-TITLE XV.
-CONCERNING THE FAVIAN LAW WITH REFERENCE TO KIDNAPPERS.
+
+* 48.XV. CONCERNING THE FAVIAN LAW WITH REFERENCE TO KIDNAPPERS.
+
 1. Ulpianus, Rules, Book I.
 Anyone who knowingly purchases a freeman incurs liability for a capital offence
 under the Favian Law against kidnapping; and the vendor also can be prosecuted
 under it if he sold the man being aware that he was free.
+
 2. The Same, On the Duties of Proconsul, Book IX.
 It must be remembered that the Favian Law does not relate to those who, having
 in their hands absent slaves, sell them; for it is one thing to be absent, and
@@ -3499,8 +3488,8 @@ Scotch themselves.
 It was the English rule that if a child was stolen for its clothes, and they
 were not removed, no felony was committed. The greater part of the English
 statute on
-TITLE XVI.
-CONCERNING THE TURPILLIAN DECREE OF THE SENATE AND THE DISMISSAL OF CHARGES.
+
+* 48.XVI. CONCERNING THE TURPILLIAN DECREE OF THE SENATE AND THE DISMISSAL OF CHARGES.
 1. Marcianus, On the Turpillian Decree of the Senate.
 The recklessness of accusers is detected in three ways, and is punished by
 three penalties; for they either calumniate, prevaricate, or withdraw.
@@ -3813,10 +3802,7 @@ money, the prosecution might, nevertheless, be re-
 newed; so that if the complainant could not prove what he alleged he should not
 go unpunished.
 
-
-
-TITLE XVII.
-CONCERNING THE CONVICTION OF PERSONS WHO ARE SOUGHT FOR OR ARE ABSENT.
+* 48.XVII. CONCERNING THE CONVICTION OF PERSONS WHO ARE SOUGHT FOR OR ARE ABSENT.
 
 1. Marcianus, Public Prosecutions, Book II.
 The Divine Severus and Antoninus stated in a Rescript that no one who is absent
@@ -3843,12 +3829,14 @@ reason to order that his property shall be confiscated to the Treasury, for if
 he should die within the year, the accusation of the crime will be
 extinguished, and come to an end, and the property of the party accused will be
 transmitted to his successors.
+
 2. Macer, On Public Prosecutions, Book II.
 The term of a year is fixed for the purpose of seizing the property of anyone
 who is sought for and noted as being present.
 (1) If, however, the Treasury does not seize his property for twenty years, it
 will be barred from doing so subsequently, if prescription should be pleaded
 either by the defendant himself, or by his heirs.
+
 3. Marcianus, On Public Prosecutions, Book II.
 Any claim made by the Treasury is prescribed by a silence of twenty years, when
 there is no other prescription, as was established by the Divine Emperors.
@@ -3873,7 +3861,9 @@ and Antoninus.
 movable property.
 (3) Care, however, should be taken that the fugitive shall, in the meantime, be
 paid nothing by his debtors, lest by this means his flight may be aided.
-TITLE XVIII. CONCERNING TORTURE.
+
+* 48.XVIII. CONCERNING TORTURE.
+
 1. Ulpianus, On the Duties of Proconsul, Book Vill.
 It is customary for torture to be applied for the purpose of detecting crime.
 Let us see when, and to what extent, this should be done. A beginning ought not
@@ -4017,18 +4007,22 @@ cannot restore anyone whom he has condemned to his original condition, as he
 cannot even revoke a decision in which money is involved. What then should be
 done? He should have recourse to the Emperor when anyone who at first appeared
 to be guilty, afterwards has his innocence established.
+
 2. Ulpianus, On the Edict, Book XXXIX.
 Slaves forming part of an estate cannot be put to the torture to obtain
 evidence against their masters, as long as it is uncertain to whom the property
 belongs.
+
 3. The Same, On the Edict, Book LVI.
 It was established by a Constitution of Our Emperor and the Divine Severus that
 a slave belonging to several owners cannot be subjected to torture against any
 of them.
+
 4. The Same, Disputations, Book III.
 In a case of incest (according to the opinion of Papinianus,' which is also set
 forth in a Rescript), slaves are not liable to torture, because the Julian Law
 relating to Adultery does not apply.
+
 5. Marcianus, Institutes, Book II.
 Where anyone debauches a widow or a woman married to another, with whom he
 could not legally have contracted matrimony, he should be deported to an
@@ -4036,6 +4030,7 @@ island, as the crime is a double one; incest, because, contrary to Divine Law,
 he has violated a woman related to him, and has added adultery or fornication
 to this offence. Finally, in a case of this kind, slaves can be tortured for
 the purpose of obtaining evidence against their masters.
+
 6. Papinianus, On Adultery, Book II.
 When a father or a husband brings an accusation of adultery, and a demand is
 made that the slaves of the party accused be put to the question, if an
@@ -4045,10 +4040,12 @@ but if a conviction should be obtained, the surviving slaves shall be
 confiscated.
 (1) When the case is one involving a forged will, the slaves belonging to the
 estate can be tortured.
+
 7. Ulpianus, On Adultery, Book III.
 The judges must determine the measure of torture, and therefore it should be
 inflicted in such a way that the slave may be preserved either for his
 acquittal, or his punishment.
+
 8. Paulus, On Adultery, Book II.
 The Edict of the Divine Augustus, which he published during the Consulate of
 Vivius Avitus and Lucius Apronianus, is as follows: "I do not think that
@@ -4059,7 +4056,8 @@ truth, and should be employed."
 (1) The slave who is to be free under a condition may be subjected to torture,
 because he is the slave of the heir, but he will still retain his hope of
 freedom.
-9.' Marcianus, On Public Prosecutions, Book II.
+
+9. Marcianus, On Public Prosecutions, Book II.
 The Divine Pius stated in a Rescript that torture could be inflicted upon
 slaves in cases where money was involved, if the truth could not otherwise be
 ascertained, which is also provided by other rescripts. This, however, is true
@@ -4075,6 +4073,7 @@ can the statements of slaves against their masters be admitted.
 the Divine Pius stated in a Rescript.
 (3) Nor should it be inflicted, in a pecuniary case, upon a slave who is to be
 free under a condition, unless the condition fails to be fulfilled.
+
 10. Arcadius, Charisius, On Witnesses.
 Torture should not be inflicted upon a minor under fourteen years of age, as
 the Divine Pius stated in a Rescript addressed to Csecilius Jubentinus.
@@ -4082,7 +4081,7 @@ the Divine Pius stated in a Rescript addressed to Csecilius Jubentinus.
 high treason which has reference to princes, if their testimony is necessary,
 and circumstances demand it.
 (2) It may be asked whether torture cannot be inflicted upon slaves belonging
-to the castrense peculiumof a son in order to obtain evidence against his
+to the castrense peculium of a son in order to obtain evidence against his
 father. For it has been established that a father's slave should not be
 tortured to obtain evidence against his son. I think that it may be properly
 held that the slaves of a son should not be tortured to obtain evidence against
@@ -4099,21 +4098,26 @@ the witness, and the composure or trepidation he displays, as well as from the
 reputation which each one enjoys in his own community.
 (6) In questions where freedom is involved, it is not necessary to seek for the
 truth by the torture of those whose status is in dispute.
+
 11. Paulus, On the Duties of Proconsul, Book II.Even if a slave should be
 returned under a condition of the sale, he shall not be tortured to obtain
 evidence against his master.
+
 12. Ulpianus, On the Edict, Book LIV.
 When anyone, to avoid being tortured, alleges that he is free, the Divine
 Hadrian stated in a Rescript that he should not be put to the question before
 the case brought to decide his freedom has been tried.
+
 13. Modestinus, Rules, Book V.
 It is established that a slave can be tortured after he has been appraised, or
 the required stipulation has been entered into.
-14. The Same, Rules, Book Vill.
-.A slave who is to be free under a condition, and who has been convicted of
+
+14. The Same, Rules, Book VIII.
+A slave who is to be free under a condition, and who has been convicted of
 crime, will be entitled to the privilege of expecting his liberty, so that on
 account of the uncertainty of his status he will be punished as a freeman, and
 not as a slave.
+
 15. Callistratus, Judicial Inquiries, Book V.
 It is not necessary to inflict torture in the case of a freeman, where his
 testimony is not vacillating.
@@ -4130,10 +4134,12 @@ evidence against him. The Divine Pius stated the following in a Rescript: "You
 must prove your case by other testimony, for torture should not be inflicted
 upon slaves, when the possessor of an estate has given security to a claimant,
 and in the meantime, is considered as the master."
+
 16. Modestinus, On Punishments, Book III.
 The Divine Brothers stated in a Rescript that torture could be repeated.
 (1) The Divine Pius stated in a Rescript that one who has made a confession
 implicating himself, shall not be tortured to obtain evidence against others.
+
 17. Papinianus, Opinions, Book XVI.
 Again, when a stranger brings an accusation, it has been established that
 slaves can be tortured to obtain evidence against their
@@ -4153,6 +4159,7 @@ appeared to be done in behalf of his master who had been killed.
 he should not be tortured to obtain evidence against the person who had been
 his master, and that it made no difference if he had confessed that he had been
 the perpetrator of the crime.
+
 18. Paulus, Sentences, Book V.
 Where several persons are accused of the same offence, they should be heard in
 such a way as to begin with the one who is the most timid, or appears to be of
@@ -4186,11 +4193,16 @@ crime; although, if at any time the defendant requests it, he should not be
 refused permission to defend himself, and on this account, the day of the
 hearing, whether it has been designated or not, may be postponed.
 (10) Prisoners can not only be heard and convicted in court, but also
-elsewhere.1
+elsewhere.[1]
+
+[1] De piano,in private, by means of an ex parteproceeding.---ED.
+
+
 19. Tryphoninus, Disputations, Book'IV.
 He who is entitled to freedom under the terms of a trust cannot be tortured as
 a slave, unless he is accused by others who already have been subjected to
 torture.
+
 20. Paulus, Decisions, Book III.
 A husband, as the heir of his wife, brought suit against Surus for money which
 he alleged the deceased had deposited with him during his absence, and, in
@@ -4203,14 +4215,16 @@ another. The Agent of the Treasury caused the female slave to be tortured. The
 Emperor decided, on appeal, that torture had been unlawfully inflicted, and
 that the testimony of one witness should not be believed, and therefore that
 the appeal had been properly taken.
+
 21. The Same, On the Punishments of Civilians.
 The Divine Hadrian stated in a Rescript that no one should be condemned because
 he was liable to be subjected to torture.
+
 22. The Same, Sentences, Book I.
 Those who have been arrested without having any accusers, can not be tortured,
-unless well-grounded suspicion is attached to them.2
-1 De piano,in private, by means of an ex parteproceeding.---ED.
-2 Torture was, under no circumstances authorized by the Common Law of England,
+unless well-grounded suspicion is attached to them.[2]
+
+[2] Torture was, under no circumstances authorized by the Common Law of England,
 as is stated by Coke: "There is no law to warrant tortures in this land, nor
 can they be justified by any prescription being so lately brought in. And there
 is no one opinion in our books, or judicial record (that we have seen and
@@ -4228,12 +4242,6 @@ Elizabeth, and in political as well as ordinary offences as late as the reign
 of Charles I, it was always considered illegal by jurists, and so far from
 being justified by either law or precedent, was deemed an unwarranted exercise
 of despotic power.
-TITLE XIX. , CONCERNING PUNISHMENTS.
-1. Ulpianus, Disputations, Book Vill.
-In every case of crime, it has been decided that the person convicted shall not
-suffer the penalty which his condition admitted at the time when judgment was
-rendered against him, but that which he would have undergone if he had been
-sentenced when he committed the offence.
 The nearest approach to torture recognized by the laws of England was the peine
 forte et dure,styled a "penance," which was inflicted upon a defendant accused
 of felony who, when called upon to plead, stood mute. It was prescribed by the
@@ -4281,20 +4289,6 @@ signed by three witnesses was required to be filed, and if the accuser failed
 to prove his case through the defendant refusing to acknowledge his guilt, he
 was delivered to the latter as a slave, subject to any retribution which his
 exasperation or outraged feelings might suggest. The
-(1) Hence, when a sla^e commits a crime, and it is alleged that he afterwards
-obtained his freedom, he must suffer the penalty which he would have suffered
-if he had been sentenced at the time when he perpetrated the offence.
-(2) On the other hand, if his condition would be rendered worse, he must
-undergo the penalty which he would have undergone if he had remained in his
-former condition.
-Generally speaking, it has been decided that, with reference to the laws
-relating to public prosecutions or private offences of which Prefects or
-Governors have extraordinary jurisdiction, poor persons, who escape pecuniary
-penalties, are liable to arbitrary punishment.
-2. The Same, On the Edict, Book XLVIII.
-We should understand a person who has been convicted of a capital crime to be
-found guilty of an offence which entails death, the loss of civil rights, or
-servitude.
 proceeding was available only where a crime of extreme gravity, such as
 treason, homicide, adultery, or the theft of property worth at least fifty
 solidi,had been perpetrated. Nobles, prelates, and other persons of authority
@@ -4335,6 +4329,30 @@ succeeding generations, that a realizing sense of justice and a more accurate
 conception of the true nature of evidence removed forever from judicial
 tribunals practices which have branded with infamy the age in which they were
 encouraged, and left an indelible blot upon the annals of humanity.---ED.
+
+* 48.XIX. CONCERNING PUNISHMENTS.
+
+1. Ulpianus, Disputations, Book Vill.
+In every case of crime, it has been decided that the person convicted shall not
+suffer the penalty which his condition admitted at the time when judgment was
+rendered against him, but that which he would have undergone if he had been
+sentenced when he committed the offence.
+
+(1) Hence, when a sla^e commits a crime, and it is alleged that he afterwards
+obtained his freedom, he must suffer the penalty which he would have suffered
+if he had been sentenced at the time when he perpetrated the offence.
+(2) On the other hand, if his condition would be rendered worse, he must
+undergo the penalty which he would have undergone if he had remained in his
+former condition.
+Generally speaking, it has been decided that, with reference to the laws
+relating to public prosecutions or private offences of which Prefects or
+Governors have extraordinary jurisdiction, poor persons, who escape pecuniary
+penalties, are liable to arbitrary punishment.
+
+2. The Same, On the Edict, Book XLVIII.
+We should understand a person who has been convicted of a capital crime to be
+found guilty of an offence which entails death, the loss of civil rights, or
+servitude.
 (1) It is established that after deportation has been substituted for the
 interdiction of water and fire, the defendant does not lose his citizenship
 until the Emperor has decided that he shall be deported to an island. For there
@@ -5032,8 +5050,9 @@ included in his administration."
 (1) He also said that, "Anyone who, by the commission of some offence, has lost
 the honor of being a decurion, cannot claim the privileges of the son of a
 decurion in order to escape the infliction of a penalty."
-TITLE XX.
-CONCERNING THE PROPERTY OF PERSONS WHO HAVE BEEN CONVICTED.
+
+* 48.XX. CONCERNING THE PROPERTY OF PERSONS WHO HAVE BEEN CONVICTED.
+
 1. Callistratus, On the Rights of the Treasury and the People, Book I.
 In consequence of conviction, property is confiscated either when life or
 citizenship is forfeited, or a servile condition is imposed.
@@ -5185,9 +5204,9 @@ make one, will be valid. The same must be said even if the appeal is rejected.
 property, pay his debts, and receive what is due to him, if it is paid in good
 faith; but every alienation which he has made for the purpose of defrauding the
 Treasury after his conviction can be set aside.
-TITLE XXI.
-CONCERNING THE PROPERTY OF THOSE WHO HAVE EITHER KILLED THEMSELVES OR CORRUPTED
-THEIR ACCUSERS BEFORE JUDGMENT HAS BEEN RENDERED.
+
+* 48.XXI. CONCERNING THE PROPERTY OF THOSE WHO HAVE EITHER KILLED THEMSELVES OR CORRUPTED THEIR ACCUSERS BEFORE JUDGMENT HAS BEEN RENDERED.
+
 1. Ulpianus, Disputations, Book Vill.
 It was decreed by.the Emperors that where capital crimes were involved, he who
 corrupts his adversary is not liable to punishment, except in such cases as
@@ -5259,8 +5278,9 @@ circumstances. The Divine Pius stated in a Rescript addressed to Modestus
 Taurinus that when the heirs are prepared to undertake the defence, the
 property should not be confiscated unless the commission of the crime is
 proved.
-TITLE XXII.
-CONCERNING PERSONS WHO ARE INTERDICTED, RELEGATED, AND DEPORTED.
+
+* 48.XXII. CONCERNING PERSONS WHO ARE INTERDICTED, RELEGATED, AND DEPORTED.
+
 1. Pomponius, On Sabinus, Book IV.
 The beginning of the Rescript of the Divine Trajan to Didius Se-cundus is as
 follows: "I am aware that the property of persons who
@@ -5268,9 +5288,11 @@ have been relegated has been confiscated to the Treasury by the avarice of
 former ages, but a different course is agreeable to my clemency, as I wish to
 give this additional example to show that I have favored innocence during my
 reign."
+
 2. Marcianus, Institutes, Book XIII.
 The Divine Pius stated in a Rescript that anyone who has been deported cannot
 be manumitted.
+
 3. Alfenus, Epitomes, Book I.
 He who has lost his citizenship does not deprive his children of any rights,
 except those which would pass to them from him if he should die intestate while
@@ -5281,6 +5303,7 @@ nature of things, will remain theirs entirely. Therefore, brothers who are
 legitimate will become heirs to one another, and will be entitled to the
 guardianship and estates of agnates, for not their father, but their ancestors,
 -gave them these rights.
+
 4. Marcianus, Institutes, Book II.
 Persons who have been relegated to an island retain their children under their
 control, for the reason that they retain all their other rights, as they are
@@ -5288,11 +5311,13 @@ only forbidden to leave the island; and they also retain all their property,
 except that which has already been taken from them, for those who are either
 sent into perpetual exile or relegated can, by the sentence, be deprived of a
 portion of their property.
+
 5. The Same, Rules, Book I.
 Exile is of a threefold nature; interdiction of certain places, or of secret
 flight; or all places are forbidden except one which is designated ; or
 confinement to one island is prescribed, that is to say, relegation to a single
 island.
+
 6. Ulpianus, On the Duties of Proconsul, Book IX.
 Among the penalties is also included deportation to an island, which deprives
 the person of Roman citizenship.
@@ -5309,6 +5334,7 @@ the meantime, until the answer is given, he must order him to remain in prison.
 Rescript), should be either deported or relegated on account of capital crimes.
 And, in fact, they ordere3 Priscus, who, before being tortured, confessed that
 he had committed homicide and arson, to be deported to an island.
+
 7. The Same, On the Duties of Proconsul, Book II.
 There are two kinds of relegated persons; first, those who are merely relegated
 to an island; and second, others who are forbidden to enter the provinces, but
@@ -5363,7 +5389,7 @@ province; as Governors are accustomed to make Italy the object of the
 interdiction, and do not forbid the culprits to enter their own country; or
 whether it consequently appears that even the province in which they govern has
 been interdicted. This latter opinion should be adopted.
-(.12) On the other hand, he who governs the province where the party in
+(12) On the other hand, he who governs the province where the party in
 question was born has no right to forbid him to dwell in the province which he
 now inhabits.
 (13) Where anyone confesses a judgment, so that he who has committed an offence
@@ -5412,21 +5438,28 @@ penalty, the sentence will be void, for a penalty cannot bestow immunity.
 Therefore, if someone is deprived of honors, by way of penalty, it can be said
 that where the said honors include an office involving great expense, the
 infamy of the convicted person will not benefit him on this account.
+
 8. Marcianus, Public Prosecutions, Book II.
 But I think that when he is deprived of the honor, he should be compelled to
 pay the expenses.
+
 9. Ulpianus, On the Duties of Proconsul, Book X.
 AGovernor can sentence anyone not to leave his own house.
+
 10. Marcianus, Book.
 But not avoid incurring necessary expenses.
+
 11. Ulpianus, Book.
 Sometimes persons who have been relegated are sentenced to pay a fine.
+
 12. Marcianus, Book.
 A man who has been relegated from his town, and does not depart, shall be
 relegated from his province for a certain time.
+
 13. Paulus, Book.
 Anyone who has been manumitted by a person who has been relegated cannot go to
 Rome, because his patron is not permitted to do so.
+
 14. Ulpianus, Book.
 A person who is relegated is one who is forbidden temporarily or perpetually to
 remain in a province, or at Rome, or in the region surrounding it.
@@ -5438,6 +5471,7 @@ for some special reason, confiscated.
 Governors of provinces, but not by the Consul.
 (3) Anyone who has lost his rights of citizenship, but retains his property, is
 liable to pratorian actions.
+
 15. Marcianus, Book.
 A person who is deported loses his rights as a citizen, but not his freedom;
 and, indeed, he cannot enjoy any special right derived from citizenship, but he
@@ -5449,6 +5483,7 @@ him after his death; for he cannot alienate any property which has been
 confiscated.
 (1) Anyone who has been deported by a Governor, without the sanction of the
 Emperor, can become an heir and receive legacies left to him by will.
+
 16. The Same, Book.
 Ulpianus Damascenus petitioned the Emperor to allow him to leave to his mother
 what was necessary for her support, and his mother, through her freedman, to
@@ -5462,11 +5497,13 @@ they can take whatever is bequeathed to them on this account."
 17. Pomponius, Book.
 Anyone who has been relegated is not excluded from being honored by means of
 statues and paintings.
+
 18. The Same.
 A person who has been relegated retains his condition, as well as the ownership
 of his own property, and his paternal authority, unimpaired; whether he has
 been relegated for a specified time, or for life.
 (1) Deportation, however, is not for time.
+
 19. Callistratus.
 Anyone who has been relegated cannot remain at Rome, although this may not have
 been included in the sentence, because it is the coun-
@@ -5479,17 +5516,17 @@ confiscated, such, for instance, as deportation to an island, as soon as it has
 been imposed, they change their former condition, and are delivered up to their
 punishment; unless something of the nature of high treason is involved, which
 requires the penalty to be increased.
-TITLE XXIII.
-CONCERNING PERSONS UPON WHOM SENTENCE HAS BEEN PASSED AND WHO HAVE BEEN
-RESTORED TO THEIR
-RIGHTS.
-1. Ulpianus, On the Edict, Book XXXV111.
+
+* 48.XXIII. CONCERNING PERSONS UPON WHOM SENTENCE HAS BEEN PASSED AND WHO HAVE BEEN RESTORED TO THEIR RIGHTS.
+
+1. Ulpianus, On the Edict, Book XXXVIII.
 A patron who has been deported, and afterwards restored to his civil rights, is
 admitted to the succession of a freedman.
 (1) If, however, a person has been condemned to the mines, does his penal
 servitude extinguish his right as a patron, even after his restoration? The
 better opinion is that penal servitude does not extinguish his rights as a
 patron.
+
 2. The Same, Opinions, Book V.
 When a person who has been deported and restored regains his rank by the
 indulgence of the Emperor, but does not recover all his property, he can
@@ -5497,6 +5534,7 @@ neither be sued by his creditors nor by the Treasury. When, however, the power
 of recovering his property also is offered him by the Emperor, and he prefers
 to relinquish it, he cannot avoid any actions brought against him before he was
 sentenced.
+
 3. Papinianus, Opinions, Book XVI.
 The Treasury retained the property of a man who was deported to an island,
 after his punishment had been remitted. It is established that creditors before
@@ -5507,8 +5545,9 @@ praetorian actions will not be necessary, for direct actions will lie.
 A woman sentenced to the mines brought forth a child which she had previously
 conceived, and was afterwards restored to her rights by the Emperor. It is more
 humane to hold that the rights of relationship were also restored to her.
-TITLE XXIV.
-CONCERNING THE CORPSES OF PERSONS WHO ARE PUNISHED.
+
+* 48.XXIV. CONCERNING THE CORPSES OF PERSONS WHO ARE PUNISHED.
+
 1. Ulpianus, On the Duties of Proconsul, Book IX.
 The bodies of those who are condemned to death should not be refused their
 relatives; and the Divine Augustus, in the Tenth Book on his life, said that

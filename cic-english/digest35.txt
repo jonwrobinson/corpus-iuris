@@ -1438,15 +1438,8 @@ after reaching the twentieth year, it was stated in a Rescript that the trust
 must be executed.
 
 
-
-
-
-
-
-THE DIGEST OR PANDECTS.
-(Continued.) BOOK XXXV.
-(Continued.)
 TITLE II. CONCERNING THE FALCIDIAN LAW.
+
 1. Paulus, On the Lex Falcidia.
 The Falcidian Law, by its first Article, conferred the power of disposing of an
 estate up to and including three-fourths of the same, as follows: &quot;Those
@@ -1583,9 +1576,11 @@ the expense incurred for the erection of a monument, since it is not necessary,
 as that of the funeral and the burial are. Therefore, the person to whom money
 is bequeathed for the erection of a monument must suffer the deduction under
 the Falcidian Law.
+
 2. Marcellus, Digest, Book XXII.
 A larger sum should not be allowed than will be sufficient for the erection of
 an ordinary monument.
+
 3. Paulus, On the Falcidian Law.
 Where an heir is appointed and sells the estate, which is insolvent, it would
 be very difficult to persuade anyone that it was not solvent, since it found a
@@ -1605,12 +1600,14 @@ a question arises with reference to the Falcidian Law, Marcellus thinks that
 only as much should be considered to have been bequeathed as will amount to a
 sum which, at four per cent interest, will provide the annual payments of the
 legacy.
+
 4. Papinianus, Questions, Book XVI.
 Atract of land having been devised to me under a condition, the heir of the
 testator appointed me his heir while the condition of the
 legacy was pending, and the condition was subsequently fulfilled. In
 considering the application of the Falcidian Law in this case, the land will be
 understood to be mine, not by hereditary right, but by virtue of the legacy.
+
 5. The Same, Opinions, Book Vill.
 Abequest left to a city by the terms of a legacy or a trust is not valid where
 it consists of what must be paid on account of a promise already made.
@@ -1622,22 +1619,26 @@ condition, the estimate of the advantage should not be made, but the entire
 amount bequeathed can be demanded; and even if the time for payment should
 arrive, or the condition should be fulfilled during the lifetime of the
 testator, what in the first place was valid will not become void.
+
 6. Venuleius, Stipulations, Book XIII.
 If a man should become the heir of his wife, and incur expenses for her
 funeral, he will not be considered to have expended the entire amount as her
 heir, but he should contribute in proportion to the extent that he is
 pecuniarily benefited, after having deducted what was due on account of the
 dowry.
+
 7. Papinianus, Questions, Book VII.
 In considering the application of the Falcidian Law with reference to the
 bequest of a servitude, as a servitude cannot be divided, the legacy of the
 same need not be entirely delivered, unless an appraised value of a portion of
 the same is tendered.
+
 8. The Same, Questions, Book XIV.
 Where one of several heirs is charged to pay a debt of the estate, and the
 application of the Falcidian Law is considered, those who have received
 bequests shall not take any account of the said debt which the heir alone is to
 pay.
+
 9. The Same, Questions, Book XIX.
 It was decided with reference to the Falcidian Law that, after the crops which
 had matured at the date of the death of the testator have been gathered, they
@@ -1646,12 +1647,14 @@ have been worth more at that time.
 (1) No distinction with reference to time is admitted, so far as the unborn
 child of a female slave is concerned. This is not unreasonable, because as the
 child has not yet come into the world, it cannot properly be called a slave.
+
 10. The Same, Questions, Book XX.
 Anything over and above the fourth established by the Falcidian Law which goes
 into the hands of the heir, does not bind him beyond
 the other three-fourths, so far as the amount of the legacies is concerned; as,
 for instance, in the case of the estate of a minor, where he who becomes the
 heir of the father of the said minor is substituted for the disinherited son.
+
 11. The Same, Questions, Book XXIX.
 In estimating the amount due under the Falcidian Law, any property which has
 been retained by the heir at any time is included in the fourth of the estate
@@ -1749,16 +1752,19 @@ disinherited son, and charges him with the payment of a legacy by the second
 will, the legacies are necessarily merged; and therefore Julianus says that
 those with the payment of which the substitute was charged are valid, because
 he is the heir of the father.
+
 12. The Same, Questions, Book XXX.
 Where a debtor, who has appointed his creditor his heir, requests that, in
 estimating the sum reserved by the Falcidian Law, his obligation should not be
 included with the bequests to the legatees, there is no doubt that the will of
 the deceased can be sustained in court by filing an exception on the ground of
 fraud, when the amount due under the Falcidian Law is to be determined.
+
 13. The Same, Questions, Book XXXVII.
 Where a slave undertakes the execution of an implied trust under the direction
 of his master, it has been decided that, because he was obliged to obey his
 master, he will be entitled to the benefit of the Falcidian Law.
+
 14. The Same, Opinions, Book IX.
 Afather appointed his daughter, who was separated from her husband, heir to a
 portion of his estate, and charged her to deliver to her brother and co-heir
@@ -1785,6 +1791,7 @@ other, and be substituted for the survivor, the share of the father's estate
 which the surviving son receives on the ground of intestacy will not be subject
 to contribution to the Falcidian portion, but the substitute can only retain
 the fourth part of what the minor who had a substitute acquired.
+
 15. The Same, Opinions, Book XIII.
 Where a debt has been remitted by an agreement mortis causa,the debtor must
 contribute to the amount due under the Falcidian Law, and this can be retained
@@ -1845,6 +1852,7 @@ the quarter of the share.
 (8) In calculating the fourth to be reserved under the Falcidian Law, the
 amount cannot be diminished by the estimate made by the testator, any more than
 the heir can be entirely deprived of it.
+
 16. Scsevola, Questions, Book III.
 If an heir should deliver only certain articles out of several which have been
 bequeathed, he can retain the entire Falcidian portion out of the remainder,
@@ -1853,6 +1861,7 @@ even with reference to the property which he has already delivered.
 (1) If only one article has been bequeathed, and a part of the same has been
 delivered, the heir can reserve the entire Falcidian portion out of the
 remainder.
+
 17. The Same, Questions, Book VI.
 If a soldier should make a codicil, and die within a year after his discharge,
 the legacies bequeathed by his military will, in accordance with military law,
@@ -1863,6 +1872,7 @@ his will, and a hundred by his codicil, out of the fifth part (that is to say
 eighty, which the legatee would be entitled to by the codicil if it was not
 subject to the Falcidian Law), the heir will be entitled to retain a fourth,
 that is to say twenty aurei.
+
 18. Paulus, Questions, Book XL
 A son under paternal control who had served in the army, at his death, charged
 his father to give Titius his peculium castrense.
@@ -1885,14 +1895,17 @@ the terms of the Edict.
 obtain the fourth and the profits of the same, we can apply the Trebellian
 Decree of the Senate, and equitable actions can be brought in order that the
 property may become a part of the estate after restitution has been made.
+
 19. Scsevola, Questions, Book Vill.
 Where an heir is charged to sell a tract of land for five aurei,which is worth
 ten, there is no doubt that the five aureiwill be subject to the operation of
 the Falcidian Law.
+
 20. The Same, Questions, Book IX.
 If my slave, after having been appointed my heir, is charged with a legacy for
 my benefit, and acquires an estate for me, Msecianus denies that the legacy
 should be subject to the Falcidian Law because it is not valid.
+
 21. Paulus, Questions, Book XII.
 Where a ward who has borrowed ten aureiwithout the authority of his guardian
 receives a legacy from his creditor on condition that lie will pay his heir the
@@ -1914,8 +1927,9 @@ bequeathed to me, the Falcidian portion of the slave will not, in conformity
 with the Falcidian Law, be deducted from the ten aureibequeathed to me, for I
 shall retain the fourth of the person of the slave, even though my share of the
 bequest may not be exhausted.
+
 22. The Same, Questions, Book XVII.
-&quot;Nesennius Apollinaris to Julius Paulus. The following case actually
+Nesennius Apollinaris to Julius Paulus. The following case actually
 occurred. Titia appointed her three daughters heirs to equal shares of her
 estate, and left them charged with legacies for the benefit of one another, but
 she charged one of them in such a way that the Falcidian Law would apply as
@@ -1957,6 +1971,7 @@ one, and it will be diminished by the others; for the debtor is considered to
 receive the legacy by the mere fact of his being released from liability.
 (4) Where, however, the claim is bequeathed to a third party, the legacy is
 void, and it will not be liable to contribution with the others.
+
 23. Scsevola, Questions, Book XV.
 Where a tract of land with a right of way is devised to me, and, after the
 deduction of the Falcidian portion, the estimated value of the right of way is
@@ -1971,6 +1986,7 @@ entire tract of land, but can also file an exception on the ground of bad
 faith, in order to obtain what is lacking, so that he may not have more than
 can be claimed under the Falcidian Law. Hence the right of way will only be
 lost where the requirements of the Falcidian Law amount to more than its value.
+
 24. Paulus, Opinions, Book XIV.
 Paulus says that where property belonging to an estate has been abstracted by
 the heir, and the amount due under the Falcidian Law must be ascertained, the
@@ -2001,6 +2017,7 @@ was charged for the benefit of Seia would also be diminished, provided that the
 income exceeded the annual payment. The answer was that, according to the facts
 stated, it would not appear to have been diminished, unless the intention of
 the testator was proved to be otherwise.
+
 26. The Same, Opinions, Book V.
 Atestator bequeathed a string of thirty-five pearls, which was in the
 possession of the legatee at the time of his death. I ask whether the said
@@ -2011,6 +2028,7 @@ do so, he could bring suit to recover that portion of the string of pearls
 which he was entitled to keep under the provisions of the Falcidian Law.
 (1) The question arose whether the value of statues is subject to the operation
 of the Falcidian Law. The answer was that it is.
+
 27. The Same, Opinions, Book VI.
 &quot;Let Seius and Agerius be my heirs, if within thirty days after my death
 they execute a bond to my town that they will be content with such-and-such a
@@ -2022,14 +2040,17 @@ the same condition, could enter upon the estate if they refused to comply with
 the condition. The answer was that Seius and Agerius, who were appointed in the
 first place, could enter upon the estate, just as if the condition which had
 been fraudulently imposed had not been imposed at all.
+
 28. Msecianus, Trusts, Book I.
 Where a foreign heir has been appointed by a son, the Falcidian Law applies
 even to a legacy which the son has bequeathed to his father.
+
 29. Paulus, Trusts, Book II.
 When I am charged with a trust or a legacy for your benefit, and you are
 requested after a certain time to deliver the same to me, I do not think that
 this should be subject to the operation of the Falcidian Law, because I shall
 begin to receive the property subsequently as the beneficiary of a trust.
+
 30. Msecianus, Trusts, Book Vill.
 In the application of the Falcidian Law, losses caused by the death of slaves
 and other animals, or by theft, robbery, fires, the ruin of
@@ -2115,6 +2136,7 @@ freedom, and which, for this reason, is void, or leaves it subject to a trust,
 it will not be considered as liable to contribution under this law.
 (9) Property, which it is certain cannot legally be left in trust, is not
 included in that liable to contribution under the Falcidian Law.
+
 31. Pomponius, Trusts, Book II.
 The person to whom payment is made in compliance with the terms of a trust,
 just as one to whom a legacy is bequeathed, is obliged to give security to
@@ -2129,6 +2151,7 @@ for although there may be a repetition of what has been paid under the
 provisions of the trust, which really is not due, still it is more satisfactory
 for security to be given to him by whom the money is paid, so that he may not
 sustain any loss through the party who receives it becoming insolvent.
+
 32. Msecianus, Trusts, Book IX.
 Penal actions, whether they are derived from the Civil or the Praetorian Law,
 with the exception of popular actions, should, none the less, be reckoned among
@@ -2178,22 +2201,26 @@ under the terms of the will.
 slave, or one belonging to another, he must, by all means, give him freedom.
 This is not contrary to what is above stated, because the favor conceded to
 liberty frequently gives rise to other and even more indulgent decisions.
+
 33. Paulus, Trusts, Book HI.
 Where a slave is bequeathed to you, and you are charged to manumit him, and
 there is nothing more from which you can obtain the fourth which an heir can
 reserve under the Falcidian Law, the Senate has decided that the Falcidian Law
 will not apply.
+
 34. Marcellus, Digest, Book XLH.
 The Falcidian Law is applicable to the case of a slave bequeathed for
 manumission by the testator; but if the latter left money, or anything else,
 and charged the legatee to manumit his own slave, or that of another, the law
 will apply.
+
 35. Ulpianus, Disputations, Book VI.
 If anything besides was left to the slave, it is clear that the Senate declared
 that the Falcidian Law would be applicable. Therefore, Scse-vola says that the
 Falcidian Law will apply to anything which was bequeathed to the slave in
 addition to his freedom, and hence the price which is to be paid for him would
 be liable to contribution.
+
 36. Paulus, Trusts, Book HI.
 Where the slave himself has not been bequeathed, but a sum of money has, and
 the legatee is asked to manumit his slave, he will be subject to the operation
@@ -2219,6 +2246,7 @@ that portion which was deducted on account of the Falcidian Law? It was held by
 Csecilius that if the heir, during the intervening time, had gained anything
 through the services of the slave, he should include it in the value of the
 latter in deducting the Falcidian portion.
+
 37. Valens, On Trusts, Book VI.
 The appraisement of such a slave should be made in the same way as that of one
 who is to become free under a certain condition.
@@ -2233,12 +2261,14 @@ their masters.
 of the estate of his master; when he is pledged, he belongs to the estate of
 the debtor when he is sold under the terms of the Lex Commissoria,or
 conditionally, for a certain time, he belongs to the vendor.
+
 39. Paulus, Decisions, Book III.
 Not only the value of those slaves to whom freedom was granted, but also that
 of those who have been condemned to death, is deducted from the assets of the
 estate, just as the value of those whom the Praetor has liberated on account of
 their having given information of projected assassination, or for having
 revealed a conspiracy, is also deducted.
+
 40. Hermogenianus, Epitomes of Laio, Boole IV.
 The Falcidian Law applies to the will of a veteran, whether he be the head of a
 household or a son under paternal control, even if he should die within a year
@@ -2246,22 +2276,27 @@ after his discharge.
 (1) If a tract of land of the value of twenty aureishould be devised to anyone
 on condition of his paying ten, the devisee will be entitled to the entire
 tract of land.
+
 41. Paulus, On the Edict, Book IX.
 He is not considered to be free from bad faith who pays legacies without
 security having been furnished, where a controversy has already arisen with
 reference to the estate.
+
 42. Ulpianus, On the Edict, Book XIV.
 In estimating the amount due under the Falcidian Law, the actual value of the
 property must be appraised.
+
 43. The Same, On the Edict, Book XIX.
 Where slaves who have been in the hands of the enemy return after the death of
 the testator, they increase the value of the estate, so far as the Falcidian
 Law is concerned.
+
 44. The Same, On the Edict, Book XXI.
 The Falcidian Law will not be applicable where a slave is to become free on
 condition of his paying a certain sum, and he does so with money belonging to
 another person, and not with what forms part of the estate of the deceased, or
 where he who is to comply with this condition becomes free for other reasons.
+
 45. Paulus, On the Edict, Book LX.
 In the consideration of the Falcidian Law, anything which is left to be paid
 within a certain period is not held to have been absolutely bequeathed; for the
@@ -2272,10 +2307,12 @@ salable is included in them. If this is the case, and the deduction can be
 made, as much will be considered to be due as the claim will bring, if sold.
 This opinion, however, has not been adopted, therefore it is better that the
 transaction should be arranged by both parties giving security.
+
 46. Ulpianus, On the Edict, Book LXXVI.
 Where a person who is entitled to retain the Falcidian portion promises, in
 compliance with the will of the testator, that he will renounce his claim to
 it, he will be compelled to carry out his agreement.
+
 47. The Same, On the Edict, Book LXXIX.
 When, the Falcidian Law is operative, it includes all payments. Sometimes,
 however, it can only be determined subsequently whether it is applicable or
@@ -2287,6 +2324,7 @@ that all the payments previously made every year will be diminished.
 (1) Neither the legatee nor the beneficiary of a trust can enjoy the benefit of
 the Falcidian Law, even though the estate may be delivered to him under the
 terms of the Trebellian Decree of the Senate.
+
 48. Paulus, On the Edict of the Curule ^Ediles, Book II.
 Where the purchaser of a slave becomes the heir of the vendor, or vice
 versa,and the slave is evicted, shall double his value be deducted, or only his
@@ -2294,6 +2332,7 @@ actual value, in computing the amount due under the Falcidian Law; for the
 amount would be double if there should be another heir? The more equitable
 opinion is, that while the heir is the same, only the actual value of the slave
 should be calculated.
+
 49. The Same, On Plautius, Book XII.
 Plautius: I devised a tract of land to a slave whom I had already bequeathed to
 you. Atilicinus, Nerva, and Sabinus think that the Falcidian portion should be
@@ -2315,14 +2354,17 @@ Falcidian Law; as, for example, where a tract of land and a right of way
 through another tract to give access to it is granted. For if a part of the
 land should be retained by the heir under the Falcidian Law, the devise of the
 right of way cannot stand, because a servitude cannot be partially acquired.
+
 50. Celsus, Digest, Book XIV.
 There is no doubt that those legacies from which the heir can exclude the
 legatee by means of an exception should be included in his fourth, and hence
 they do not diminish the legacies of others.
+
 51. Julianus, Digest, Book LXI.
 It makes no difference whether a legacy becomes void in the beginning, or
 something occurs subsequently on account of which an action cannot be brought
 by the legatee to recover it.
+
 52. Marcellus, Digest, Book IX.
 A freedman appointed his patron heir to his entire estate, which amounted to
 two hundred aurei,and then bequeathed a hundred and
@@ -2332,10 +2374,12 @@ legacy which was bequeathed to him.
 (1) Where, for some reason or other, legacies are not required to be paid, they
 are included in the fourth part which the heir is entitled to retain under the
 Falcidian Law.
+
 53. Celsus, Digest, Book XVII.
 Where the portion due under the Falcidian Law is in suspense, on account of
 some condition which has been imposed on the payment of the legacy, those
 legacies which are due at once cannot be claimed in full.
+
 54. Marcellus, Digest, Book XV.
 A father appointed his son, by whom he had three grandsons, his heir, and
 charged him not to alienate a certain tract of land, but to leave it in the
@@ -2348,6 +2392,7 @@ on account of the Falcidian Law.
 It appears, however, that this opinion will be productive of hardship, for as
 the father considered the land as a debt due to his children, he was
 necessarily obliged to leave it to them.
+
 55. The Same, Digest, Book XX.
 Where ten aurei,payable every year, are bequeathed to Titius, the judge having
 jurisdiction under the Falcidian Law to establish the proportion payable by the
@@ -2356,6 +2401,7 @@ could have brought during the life of Titius, it being uncertain how long
 Titius might live. After the death of Titius, however, the judge should not
 consider anything else than the amount that the heir owned by reason of the
 legacy.
+
 56. The Same, Digest, Book XXII.
 The owner of a slave who was liable to an action having reference to the
 peculiumof the latter became the heir of the creditor. You ask what time should
@@ -2395,20 +2441,31 @@ five to someone and then appoint him his heir, and bequeath three-fourths of
 his estate to another, the heir cannot obtain anything else under the Falcidian
 Law, because the testator, during his lifetime, is considered to have made
 provision for his future heir.
+
 57. The Same, Digest, Book XXVI.
 Where a husband bequeaths a dowry of his wife to someone in order that it may
 be returned to her, it must be said that the Falcidian Law does not apply; and
 it is clear that in very many instances arrangements are made to leave out the
 intermediate party for the benefit of the person entitled to the legacy.
+
 58. Modestinus, Rules, Book IX.The heir is not prevented from claiming the
 benefit of the Falcidian Law, even a long time after the death of the testator.
+
 59. The Same, Pandects, Book IX.
 He is considered to be unworthy of the benefit of the Falcidian Law, who acts
 in such a way as to cause the trust to be extinguished.
 (1) Moreover, where an heir is requested to transfer the estate to some one who
 is not entitled to receive it, he will not, by the Plancian Decree of the
-Senate,1 be permitted to retain the fourth of said estate; but the said fourth,
-in accordance with a Rescript of the Divine Pius, will belong to the Treasury.
+Senate,[1] be permitted to retain the fourth of said estate; but the said fourth, in accordance with a Rescript of the Divine Pius, will belong to the Treasury.
+
+[1] By the Plancian Decree of the Senate, passed during the reign of the Emperor Hadrian, a woman who was pregnant when divorced by her husband was required, within thirty days thereafter, either in person or by someone to whose authority she was subject, to notify her husband of her condition, which gave him an opportunity to repudiate the paternity of the child, and if he did not do so, placed him under the obligation to support it. It also enabled him to appoint persons to make a personal inspection of the woman, to determine whether pregnancy actually existed, and to send custodians to watch her, and provide against the perpetration of fraud. If she failed to give notice, or refused to allow the inspection, or to admit the custodians appointed by her husband, she could not bring suit against him; otherwise, she was permitted to institute legal proceedings, but the onus probandirested on her. The failure of the wife to take action did not, however, prejudice the rights of the unborn child.
+When the husband ignored the notice, did not deny its paternity, or did not
+send custodians, he could be forced to acknowledge the child as his own. If he
+died before availing himself of the precautions authorized by law, the woman
+could demand possession of his estate in the name of her unborn offspring. In
+this case another inspection might be made at the instance of the heirs of the
+deceased husband.---ED.
+
 60. Javolenus, On Cassius, Book XIV.
 Where a father substitutes an heir for his daughter, who has not yet arrived at
 puberty, any property which has been received as a legacy by the substitute
@@ -2419,6 +2476,7 @@ the amount due under the Falcidian Law shall not be ascertained from the sum to
 which the legatee has made oath, but from the true value of the property which
 is claimed; for what accrues by way of penalty does not come within the scope
 of the Falcidian Law.
+
 61. The Same, Epistles, Book IV.
 Atract of land belonging to another was bequeathed to you. As the heir could
 not obtain it, except at an unreasonable price, he bought it for a sum far
@@ -2431,29 +2489,8 @@ compliance with the will of the deceased, he had purchased the land for more
 than its value. The answer was that the heir could not, under the Falcidian
 Law, charge the other legacies with what he had paid to the legatee over and
 above the true price of the land, because his negligence ought not to prejudice
-the legatee, any
-1 By the Plancian Decree of the Senate, passed during the reign of the Emperor
-Hadrian, a woman who was pregnant when divorced by her husband was required,
-within thirty days thereafter, either in person or by someone to whose
-authority she was subject, to notify her husband of her condition, which gave
-him an opportunity to repudiate the paternity of the child, and if he did not
-do so, placed him under the obligation to support it. It also enabled him to
-appoint persons to make a personal inspection of the woman, to determine
-whether pregnancy actually existed, and to send custodians to watch her, and
-provide against the perpetration of fraud. If she failed to give notice, or
-refused to allow the inspection, or to admit the custodians appointed by her
-husband, she could not bring suit against him; otherwise, she was permitted to
-institute legal proceedings, but the onus probandirested on her. The failure of
-the wife to take action did not, however, prejudice the rights of the unborn
-child.
-When the husband ignored the notice, did not deny its paternity, or did not
-send custodians, he could be forced to acknowledge the child as his own. If he
-died before availing himself of the precautions authorized by law, the woman
-could demand possession of his estate in the name of her unborn offspring. In
-this case another inspection might be made at the instance of the heirs of the
-deceased husband.---ED.
-more than he could release himself from liability by tendering the actual value
-of the property.
+the legatee, any more than he could release himself from liability by tendering the actual value of the property.
+
 62. Ulpianus, On the Lex Julia et Papia, Book I.
 Julianus says that, in estimating the portion due under the Falcidian Law, the
 following rule should be observed, namely, where there are two promising, or
@@ -2468,6 +2505,7 @@ debtors.
 its value, that is to say, at the price it will bring at the present time; and
 it should be understood that the appraisement must not be made of the value
 which the property would have under certain conditions.
+
 63. Paulus, On the Lex Julia et Papia, Book II.
 The value of property should be estimated, not by affection nor according to
 any particular advantage attaching to it, but for what it can be disposed of at
@@ -2496,11 +2534,13 @@ for oil does not sell at the same price in Rome that it does in Spain, nor has
 it the same value in continuous bad years that it has in favorable ones; hence,
 under such circumstances, the value of articles should not be fixed by their
 scarcity at certain periods, nor on account of something which rarely occurs.
+
 64. Ulpianus, On the Lex Julia et Papia, Book XIII.
 Where the following provision is included in a will, &quot;Let my heir be
 charged with the payment of ten aureito Lucius Titius, and let as much more be
 given him as he will lose by the operation of the Falcidian Law,&quot; the will
 of the testator must be executed.
+
 65. Paulus, On the Lex Julia et Papia, Book VI.
 Where a tract of land, worth fifty aurei,is devised under the condition that
 the party to whom it is left shall pay fifty aureito the heir, many authorities
@@ -2509,6 +2549,7 @@ condition is stated. It is established that the devise is subject to the
 Falcidian Law. Where, however, fifty aureiare bequeathed on condition that the
 legatee pays fifty to the heir, the legacy is not only void, but also
 ridiculous.
+
 66. Ulpianus, On the Lex Julia et Papia, Book XVIII.
 The following must be noted with reference to the operation of the Falcidian
 Law, where a legacy is bequeathed to anyone conditionally, or payable after a
@@ -2522,12 +2563,14 @@ the amount of the debts from the property of the estate, so donations mortis
 causawill not be due, but may be annulled by the indebtedness of the estate.
 Therefore, if the indebtedness is very large, no one can receive property given
 to him mortis causa,out of the funds of the estate.
+
 67. Terentius Clemens, On the Lex Julia et Papia, Book IV.
 Whenever more is bequeathed to any person than he is legally entitled to
 receive, and the Falcidian Law is applicable, the amount due under it must
 first be estimated, so that, after what is excepted by the Falcidian Law has
 been deducted, the balance will be payable, if it does not exceed the amount
 specified by law.
+
 68. Mtmlms Macer, On the Law of Five Per Cent Tax of Estates, Book II.
 Ulpianus says that the following rule should be adopted in making the estimate
 of maintenance to be furnished. The amount bequeathed to anyone for this
@@ -2557,21 +2600,26 @@ certain authorities hold that the Falcidian portion cannot be reserved out of
 said property, because it makes no difference whether the heir appropriated it,
 or denied that it belonged to the estate. This opinion Ulpianus very properly
 does not accept.
+
 69. Pomponius, On Sabinus, Book V.
 Where the usufruct of property is bequeathed, the debts must be deducted from
 all the assets of the estate; as, according to the Decree of the Senate, there
 is no property which is not included in the legacy of an usufruct.
+
 70. Ulpianus, On Sabinus, Book XIX.
 The stipulation for the Falcidian portion takes effect immediately, when the
 condition on which the legacy or the debt depends is fulfilled.
+
 71. Paulus, On the Edict, Book XXXII.
 In disposing of his rights to an estate, an heir can provide that in case the
 Falcidian Law should apply, the entire legacy shall be paid by the purchaser,
 because this law was enacted for the benefit of the heir, and the latter is not
 defrauded, if he himself diminishes his own right.
+
 72. Gaius, On the Edict of the Prsetor with Reference to Legacies, Book III.
 The value of an estate is estimated after having deducted any expenses which
 may be incurred by the sale of property.
+
 73. The Same, On the Provincial Edict, Book XVIII.
 In appraising an estate, it has been decided that its value at the time of the
 death of the testator should be ascertained. Therefore, if anyone has property
@@ -2635,17 +2683,20 @@ should only have four hundred; in the first place, the fifth part, and
 afterwards the fourth part will be deducted, for the amount should first be
 deducted which is in excess of the value of the property of the estate, and
 afterwards what the heir is entitled to out of the actual assets of the same.
+
 74. The Same, On the Edict of the Prsetor with Reference to Legacies, Book V.
 Where, however, it is said that an heir who is entitled to his fourth under the
 will of the deceased is obliged to pay the legacies in full, we must understand
 that this applies where he receives the estate by hereditary right, for what
 anyone receives from his co-heir, as a legacy, shall not be charged to his
 fourth.
+
 75. Marcellus, On the Digest of Julianus, Book XL.
 Where a bequest is made to an heir in order that he may pay the legacies in
 full, as well as the trust with which he is charged, an action based on the
 legacy will be refused him if he prefers to avail himself of the benefit of the
 Falcidian Law.
+
 76. Gaius, On the Edict of the Prsetor, Book III.
 Any property, however, which is given either by a co-heir, a legatee, or a
 slave who is to be free conditionally, for the purpose of complying with the
@@ -2660,12 +2711,14 @@ latter do not obtain by hereditary right, and therefore they must be charged to
 the fourth; for it does not make any difference whether property is bequeathed
 to him in the first place, or whether, after it has been bequeathed, it remains
 in his hands.
+
 77. The Same, On the Provincial Edict, Book XVIII.
 There is no doubt that the advantages conferred by the Falcidian Law are
 available by every individual heir, and therefore, if Titius and Seius have
 been appointed heirs, and the half of the estate belonging to Titius is
 exhausted in legacies, so that the fourth part of the entire property is left
 to Seius, Titius will be entitled to the benefit of the Falcidian Law.
+
 78. The Same, On the Edict of the Urban Prsetor with Reference to Legacies,
 Book III.
 If, however, one of two heirs should fail to accept his share of the estate,
@@ -2680,6 +2733,7 @@ cause either nothing at all, or only a small sum to be deducted from what is to
 be paid to the other legatees. If, however, the share which was not accepted is
 exhausted, it will be subject to the operation of the Falcidian Law, just as if
 it belonged to the party by whom it was refused.
+
 79. The Same, On the Provincial Edict, Book XVIII.
 In the case of double wills,1 when we make inquiry with reference to the
 estate, only the property which the father possessed at the time of his death
@@ -2689,6 +2743,7 @@ the legacies, both those which are bequeathed in the first, as well as in the
 second will, are liable to contribution, just as if those with which the
 testator charged his son, as heir, had been left to him under some other
 condition.
+
 80. The Same, On the Edict of the Praetor with Reference to Legacies, Book HI.
 Where a testator left an estate of four hundred aurei,and, having appointed his
 son who had not reached the age of puberty his heir, bequeathed him two hundred
@@ -2705,12 +2760,13 @@ sums, he will have fifty.
 The Falcidian Law, however, is not applicable to Seius personally, since the
 two hundred aureibelong to him as a part of the estate of the minor, and he
 will owe in legacies a hundred out of the two hundred which were left by the
-minor. If, however, the minor himself should
-1 A double or second will, tabulse secwndse,was one in which provision was made
+minor. If, however, the minor himself should pay the legacies, his guardians should see that the legatees furnish him with security.
+
+
+[1] A double or second will, tabulse secwndse,was one in which provision was made
 for pupillary substitution, to avoid testamentary dispositions from being void
 because no one was entitled to receive them.---ED.
-pay the legacies, his guardians should see that the legatees furnish him with
-security.
+
 (1) There are certain legacies which are not susceptible of division; for
 instance, those of rights of way, of rights of passage, and of rights to drive
 cattle through land, for things of this kind cannot partly belong to anyone.
@@ -2726,6 +2782,7 @@ his share of the amount, after an estimate has been made of the value of the
 legacy. If he should not do this, the heir can avail himself of an exception on
 the ground of fraud, in bar to legal proceedings instituted by the legatee to
 recover the bequest.
+
 81. The Same, On the Provincial Edict, Book XVIII.
 The bequest of an usufruct, however, is subject to computation under the terms
 of the Falcidian Law, for it is susceptible of division; so that if it is
@@ -2737,6 +2794,7 @@ own property.
 (2) It is expressly provided by the Falcidian Law that such property as has
 been purchased or prepared for the use of a wife is not subject to its
 operation.
+
 82. Ulpianus, Disputations, Book Vill.
 The question arose, where a testator, whose sole estate consisted of a claim of
 four hundred aurei,bequeathed to his debtor the release of his claim, but left
@@ -2789,6 +2847,7 @@ If the creditor of your son should appoint you his heir, and you should desire
 to obtain the portion due to you under the Falcidian Law, the amount of the
 peculiumwhich existed at the time that the estate was entered upon shall be
 included in your fourth.
+
 84. The Same, Digest, Book XIII.
 A case sometimes occurs in which the heir is entitled to an action, although
 the testator could not have availed himself of it; as, for instance, where a
@@ -2797,6 +2856,7 @@ charged, did not enter into a stipulation with the legatees, binding them to
 refund anything which they might receive above the amount allowed by the
 Falcidian Law. The ward, indeed, cannot bring suit against his guardian on this
 account, but the latter will be liable to the heir of the minor.
+
 85. The Same, Digest, Book XVIII.
 Where a dowry has been given to the father of the husband, and the son alone is
 heir to his father, the dowry will, in the first place, be included in
@@ -2806,6 +2866,7 @@ If, however, the son should have a foreign co-heir, he can always deduct as a
 debt of the estate that part of the dowry which he will inherit from his
 father, and his co-heir can also do so, before the dowry has been received by
 the son.
+
 86. The Same, Digest, Book XL.
 Titia, by her will, appointed her brother Titius heir to a third part of her
 estate, and charged him to transfer the estate to Secunda and Procula, after
@@ -2820,6 +2881,7 @@ If it had not been stated that the fourth part of the estate must be deducted,
 he would have been obliged to include in his fourth the entire third of the
 land, under the Falcidian Law, as the Falcidian Law in this instance operates
 against the desire of the testatrix.
+
 87. The Same, Digest, Book LXI.
 Where a man left an estate composed of a tract of land worth a hundred
 aurei,and charged his heir to sell it to Titius for fifty, he should not be
@@ -2835,7 +2897,7 @@ equal to half of the estate. For there is no doubt that the one who is charged
 to sell the Cornelian Estate will be entitled by hereditary right to half of
 the Seian Estate, and also he who is charged to sell the Seian Estate can
 retain by hereditary right the half of the Cornelian Estate.
-(2) If'any one should appoint as his heir a person to whom he had been asked to
+(2) If any one should appoint as his heir a person to whom he had been asked to
 pay a hundred aureiat his death, the hundred aureishould be deducted in
 computing the proportion due under the Falcidian Law, because if anyone else
 had been the heir, the said hundred aureiwould have been included among the
@@ -2924,6 +2986,7 @@ the legacies, after having deducted the Falcidian portion, while his co-heir
 was deliberating; and then, after the latter had rejected the estate, the
 other, by virtue of the substitution, should also acquire the remaining part of
 the same.
+
 88. Africanus, Questions, Book V.
 Where a man, who had an estate of four hundred aurei,bequeathed three hundred
 of them, and then devised to you a tract of land worth a hundred aureiunder the
@@ -2972,6 +3035,7 @@ by the amount that the heir has received from the profits; and according to
 this, the following computation should be made, namely, what is due to the heir
 must be divided into seven parts of which I will be required to pay four, and
 you three, since my legacy is a fourth larger than yours.
+
 89. Marcianus, Institutes, Book VII.
 The Divine Severus and Antoninus stated in a Rescript that money left for the
 support of children was subject to the operation of the Falcidian Law, and that
@@ -2981,6 +3045,7 @@ persons who were solvent.
 Bononius Maximus, that interest should be paid by
 anyone who claimed the benefit of the Falcidian Law for the purpose of
 committing fraud.
+
 90. Florentinus, Institutes, Book XI.
 Where an heir, who was charged by a trust to transfer the estate to someone
 after the receipt of a certain sum of money, refuses to carry out the will of
@@ -2989,6 +3054,7 @@ Falcidian Law, even though the money may not have been paid to him who, on
 receipt of it, was asked to transfer the estate; still, he will be compelled to
 execute the trust, since what the testator wished to be given him will take the
 place of the Falcidian portion.
+
 91. Marcianus, Institutes, Book XIII.
 An heir is entitled to have, as a fourth of the estate under the Falcidian Law,
 all that he acquires in this capacity, but not any property which he can claim
@@ -3012,6 +3078,7 @@ devised a tract of land worth a hundred aurei,provided the devisee paid fifty
 to the heir, the legacies should be counted as a hundred, and the heir will be
 entitled to fifty, in addition to his share of the estate, and this will not be
 included in his fourth.
+
 92. Macer, On Military Affairs, Book II.
 If a soldier, having made his will, directs half of his estate to be delivered
 to you, and then executes a codicil after he has been discharged, by which he
@@ -3022,6 +3089,7 @@ not receive the benefit of the Imperial privilege relating to military wills.
 If, however, he should die within a year after his discharge, Titius alone must
 suffer the deduction of the Falcidian fourth, because the trust was left to him
 at a time when the testator could not make a will under military law.
+
 93. Papiniamis, Questions, Book XX.
 An heir was charged to transfer an estate to Maevius on condition of his
 receiving a hundred aureifrom him, and at his death, to leave the money to
@@ -3038,6 +3106,7 @@ It is clear that, if anyone should make the following testamentary provision,
 aurei,&quot;and the testator should not designate any person to pay the money,
 it can be retained and deducted by the heir under the terms of the Trebellian
 Decree of the Senate, if it is sufficient to make up his fourth.
+
 94. Scsevola, Digest, Book XXI.
 Atestator, after having appointed his son and daughter his heirs, bequeathed
 certain property to each of them as preferred legacies, but he left much less
@@ -3053,6 +3122,7 @@ and she should obtain her fourth out of what was left. The answer was that she
 could claim it by law, but that she could not accept what was left to her, if
 it was sufficient to make up her fourth, without complying with the wishes of
 the deceased, and paying what she had been charged with.
+
 95. The Same, Digest, Book XXI.
 A husband had charge of the property of his wife, which did not include her
 dowry, and she, having died before her husband had rendered her an account of
@@ -3089,9 +3159,9 @@ established.
 If a civilian executed a will before he becomes a soldier, and then executes a
 codicil during his time of military service, the Falcidian Law does not apply
 to the codicil, but it does apply to the will.
-TITLE III.
-WHERE MORE Is SAID TO HAVE BEEN BEQUEATHED TO ANYONE THAN Is PERMITTED BY THE
-FALCIDIAN LAW.
+
+TITLE III. WHERE MORE Is SAID TO HAVE BEEN BEQUEATHED TO ANYONE THAN Is PERMITTED BY THE FALCIDIAN LAW.
+
 1. Ulpianus, On the Edict, Book LXXIX.
 Where more property is bequeathed to anyone than is permitted by law, and there
 is good reason to doubt whether the Falcidian Law is applicable or not, the
@@ -3336,4 +3406,3 @@ Seius, he will be entitled to the ownership, then security must be furnished to
 the heir by the usufructuary, and also by the heir to Titius, because it is not
 certain that, if the usufruct should be extinguished, the ownership will be
 acquired by Titius.
-

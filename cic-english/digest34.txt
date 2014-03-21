@@ -1,9 +1,6 @@
 # -*- mode: org -*-
 
-
-* THE DIGEST OR PANDECTS. BOOK XXXIV.
-
-
+* BOOK XXXIV.
 * 34.I. CONCERNING LEGACIES OF SUBSISTENCE OR FOOD.
 
 1. Ulpianus, On All Tribunals, Book V.
@@ -2274,7 +2271,6 @@ unintelligible.
 (1) Where the freedom bequeathed to slaves is taken away from them, nothing is
 gained by specifically depriving them of their legacies.
 
-
 * 34.V. CONCERNING DOUBTFUL MATTERS.
 
 1. Papinianus, Opinions, Book VII.
@@ -2720,7 +2716,6 @@ arose whether support should be furnished to all the slaves manumitted, or only
 to Sabina and Cyprogenia. The answer was that, according to the facts stated,
 support seemed to have been bequeathed to all of them.
 
-
 * 34.VI. CONCERNING BEQUESTS MADE BY WAY OF PENALTY.
 
 1. Africanus, Questions.
@@ -2736,7 +2731,6 @@ The will of the testator distinguishes a penalty from a condition, and whether
 it is a penalty, a condition, or a transfer that is referred to in the legacy,
 must be ascertained from the intention of the deceased. This the Divine Severus
 and Antoninus stated in a Rescript.
-
 
 * 34.VII. CONCERNING THE RULE OF CATO.
 
@@ -2770,7 +2764,6 @@ It is well established that the Rule of Cato is not applicable to the
 conditional appointments of heirs.
 5. The Same, On Sabinus, Book XXII.
 The Rule of Cato does not apply to new laws.
-
 
 * 34.VIII. CONSIDERING TESTAMENTARY PROVISIONS WHICH ARE CONSIDERED AS NOT HAVING BEEN WRITTEN.
 
@@ -2815,7 +2808,6 @@ deliver the estate to someone else, the trust with its burden
 will still remain imposed upon him, even though what he has done will be
 considered as not having been written. The same rule also applies to the will
 of a soldier.
-
 
 * 34.IX. CONCERNING THOSE WHO ARE DEPRIVED OF THEIR LEGACIES AS BEING UNWORTHY OP THEM.
 

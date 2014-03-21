@@ -509,7 +509,6 @@ Is, qui in reatu decedit, integri status decedit: extinguitur enim crimen mortal
 
 * 48.5.0. Ad legem Iuliam de adulteriis coercendis.
 
-
 48.5.1
 
 Ulpianus libro primo de adulteriis
@@ -876,13 +875,13 @@ pr. Si postulaverit accusator, ut quaestio habeatur de servo adulterii accusato,
 
 16. Notandum est, quod capite quidem novo cavetur, si servus adulterii accusetur et accusator quaestionem in eo haberi velit, duplum pretium domino praestari lex iubet, at hic simplum.
 
-48.5.29 (28)
+48.5.29 == 48.5.29(28)
 
 Marcianus libro primo de iudiciis publicis
 
 Quod ex his causis debetur, per condictionem, quae ex lege descendit, petitur.
 
-48.5.30 (29)
+48.5.30 == 48.5.30(29)
 
 Ulpianus libro quarto de adulteriis
 
@@ -906,7 +905,7 @@ pr. Mariti lenocinium lex coercuit, qui deprehensam uxorem in adulterio retinuit
 
 9. Eum autem, qui per vim stuprum intulit vel mari vel feminae, sine praefinitione huius temporis accusari posse dubium non est, cum eum publicam vim committere nulla dubitatio est.
 
-48.5.31 (30)
+48.5.31 == 48.5.31(30)
 
 Paulus libro primo de adulteriis
 
@@ -914,13 +913,13 @@ pr. Pater sine periculo calumniae non potest agere.
 
 1. Sexaginta dies a divortio numerantur: in diebus autem sexaginta et ipse sexagensimus est.
 
-48.5.32 (31)
+48.5.32 == 48.5.32(31)
 
 Paulus libro secundo de adulteriis
 
 Quinquennium non utile, sed continuo numerandum est. Quid ergo fiet, si prior mulier rea facta sit et ideo adulter eodem tempore reus fieri non potuit et diu tracta lite quinquennium transierit? Quid si is, qui intra quinquennium quem postulaverat, non peregerit aut praevaricatus est et alius eundem repetere velit et quinquennium transactum sit? Aequum est computationi quinquennii eximi id tempus, quod per postulationem praecedentem consumptum sit.
 
-48.5.33 (32)
+48.5.33 == 48.5.33(32)
 
 Macer libro primo de publicis iudicis
 
@@ -928,7 +927,7 @@ pr. Nihil interest, adulteram filiam prius pater occiderit an non, dum utrumque 
 
 1. Cum alterum ex adulteris elegerit maritus, alterum non ante accusare potest, quam prius iudicium finietur, quia duos simul ab eodem accusari non licet. Non tamen prohibetur accusator simul cum adultero vel adultera eum quoque accusare, qui domum suam praebuit vel consilio fuit, ut crimen redimeretur.
 
-48.5.34 (33)
+48.5.34 == 48.5.34(33)
 
 Marcianus libro primo de publicis iudicis
 
@@ -938,7 +937,7 @@ pr. Si quis adulterium a servo suo commissum dicat in eam, quam uxorem habuit, d
 
 2. Si uxor ex adulterio viri praemium acceperit, lege Iulia quasi adultera tenetur.
 
-48.5.35 (34)
+48.5.35 == 48.5.35(34)
 
 Modestinus libro primo regularum
 
@@ -946,25 +945,25 @@ pr. Stuprum committit, qui liberam mulierem consuetudinis causa, non matrimonii 
 
 1. Adulterium in nupta admittitur: stuprum in vidua vel virgine vel puero committitur.
 
-48.5.36 (35)
+48.5.36 == 48.5.36(35)
 
 Modestinus libro octavo regularum
 
 Accusaturus adulterii si quid circa inscriptionem erraverit, si tempora largiantur, emendare non prohibetur, ne causa aboleatur.
 
-48.5.37 (36)
+48.5.37 == 48.5.37(36)
 
 Papinianus libro tertio quaestionum
 
 Si minor annis adulterium commiserit, lege Iulia tenetur, quoniam tale crimen post pubertatem incipit.
 
-48.5.38 (37)
+48.5.38 == 48.5.38(37)
 
 Papinianus libro quinto quaestionum
 
 Filium familias publico iudicio adulterium in uxorem sine voluntate patris arguere constitutum est: vindictam enim proprii doloris consequitur.
 
-48.5.39 (38)
+48.5.39 == 48.5.39(38)
 
 Papinianus libro 36 quaestionum
 
@@ -1012,7 +1011,7 @@ pr. Vim passam mulierem sententia praesidis provinciae continebatur: in legem Iu
 
 8. De servis quaestionem in dominos incesti postulatos ita demum habendam respondi, si per adulterium incestum esse contractum dicatur.
 
-48.5.41 (40)
+48.5.41 == 48.5.42(40)
 
 Paulus libro 19 responsorum
 
@@ -1020,7 +1019,7 @@ pr. Quaesitum est, an ea, quam maritus adulterii crimine se accusaturum minatus 
 
 1. Item quaeritur, an idem maritus destitisse videatur vel lenocinium commisisse, qui eandem reduxit uxorem. Paulus respondit eum, qui post crimen adulteri intentatum eandem uxorem reduxit, destitisse videri et ideo ex eadem lege postea accusandi ei ius non superesse.
 
-48.5.42 (41)
+48.5.42 == 48.5.42(41)
 
 Paulus libro primo sententiarum
 
