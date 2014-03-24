@@ -1,9 +1,6 @@
 # -*- mode: org -*-
 
-Caveat lector: the list is added to incremetally and *not*
-               systematically!
-
-* Source: [Venice 1478/79]
+* Source: [Venice 1478/79; unless otherwise noted]
 
 Franciscus Accursius.
 Corpus iuris civilis. Codex.
@@ -14,6 +11,14 @@ urn:nbn:de:bvb:12-bsb00050150-1
 BSB-Ink C-563 - GW 7726
 http://daten.digitale-sammlungen.de/~db/0005/bsb00050150/image_1
 
+
+* Caveat lector:
+
+  The following list is added to incremetally and *not*
+  systematically! An ideal entry, and there are none yet, will list
+  its incipit, where an *authentica* can be found in the *Code*,
+  provide its rubric, and give a cross-reference to its location in
+  the *Authenticum* as well as to the *Novels*.
 
 * Abbreviations
 
@@ -27,7 +32,6 @@ http://daten.digitale-sammlungen.de/~db/0005/bsb00050150/image_1
   N.    = Novella
 
 * Tabula authenticarum
-
 * Codex 01
 * Codex 02
 * Codex 03
