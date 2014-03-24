@@ -1,131 +1,72 @@
 # -*- mode: org -*-
 
-THE CODE OF JUSTINIAN.
-
-BOOK I.
-
+* BOOK I.
 + 1.I.  CONCERNING THE MOST EXALTED TRINITY AND THE CATHOLIC FAITH, AND PROVIDING THAT No ONE SHALL DARE TO PUBLICLY OPPOSE THEM
-
 + 1.II.  CONCERNING THE MOST SACRED CHURCHES, THEIR PROPERTY AND
 THEIR PRIVILEGES
-
 + 1.III.  CONCERNING BISHOPS AND OTHER MEMBERS OF THE CLERGY,
 SUPERINTENDENTS OF ORPHAN ASYLUMS, OR HOSPITALS AND OF CHARITABLE
 FOUNDATIONS, MONASTERIES OF ASCETICS AND MONKS AND THEIR PRIVILEGES;
 CASTRENSE PECULIUM; THE REDEMPTION OF CAPTIVES; AND FORBIDDEN OR
 PERMITTED MARRIAGES OF ECCLESIASTICS
-
 + 1.IV.  CONCERNING THE EPISCOPAL TRIBUNAL AND THE DIFFERENT
 CHARTERS WHICH RELATE TO PONTIFICAL SUPERVISION
-
 + 1.V. CONCERNING HERETICS, MANICHEANS, AND SAMARITANS
-
 + 1.VI. TO AVOID THE REPETITION OF BAPTISM
-
 + 1.VII. CONCERNING APOSTATES
-
-TITLE VIII.  No ONE SHALL BE PERMITTED TO CARVE OR PAINT THE IMAGE OF OUR SAVIOUR JESUS CHRIST UPON EARTH, STONE, OR MARBLE
-
++ 1.VIII.  No ONE SHALL BE PERMITTED TO CARVE OR PAINT THE IMAGE OF OUR SAVIOUR JESUS CHRIST UPON EARTH, STONE, OR MARBLE
 + 1.IX. CONCERNING JEWS AND THE WORSHIPPERS OF THE HEAVENS
-
-TITLE X.  No JEW OR PAGAN SHALL HOLD, POSSESS, OR CIRCUMCISE A CHRISTIAN SLAVE
-
++ 1.X.  No JEW OR PAGAN SHALL HOLD, POSSESS, OR CIRCUMCISE A CHRISTIAN SLAVE
 + 1.XI. CONCERNING THE PAGANS, THEIR SACRIFICES, AND THEIR TEMPLES
-
 + 1.XII.  CONCERNING THOSE WHO TAKE REFUGE IN CHURCHES; OR WHO CRY OUT WHILE THERE; AND LET No ONE REMOVE THEM THEREFROM
-
 + 1.XIII. CONCERNING THOSE WHO ARE MANUMITTED IN CHURCHES
-
 + 1.XIV.  CONCERNING THE LAWS AND CONSTITUTIONS OF THE EMPERORS AND EDICTS
-
 + 1.XV. CONCERNING THE IMPERIAL MANDATES
-
 + 1.XVI. CONCERNING DECREES OF THE SENATE
-
 + 1.XVII.  CONCERNING THE EXPLANATIONS OF THE ANCIENT LAW AND THE AUTHORITY OF THE JURISTS WHO ARE MENTIONED IN THE DIGEST
-
 + 1.XVIII. CONCERNING IGNORANCE OF LAW AND OF PACT
-
-TITLE XIX.  CONCERNING THE PRESENTATION OF PETITIONS TO THE EMPEROR, AND WHAT THINGS MAY BE ASKED FOR AND WHAT MAY NOT
-
++ 1.XIX.  CONCERNING THE PRESENTATION OF PETITIONS TO THE EMPEROR, AND WHAT THINGS MAY BE ASKED FOR AND WHAT MAY NOT
 + 1.XX.  WHERE A PETITION PRESENTED TO THE EMPEROR CAUSES A JOINDER
 OF ISSUE
-
 + 1.XXI.  No ONE HAS A RIGHT TO PRESENT A PETITION TO THE EMPEROR WHILE A CASE IS PENDING, OR AFTER AN APPEAL HAS BEEN TAKEN, OR FINAL JUDGMENT HAS BEEN RENDERED
-
 + 1.XXII.  WHERE ANYTHING CONTRARY TO LAW OR THE PUBLIC WELFARE IS FRAUDULENTLY INCLUDED IN, OR OBTAINED BY A PETITION
-
 + 1.XXIII. CONCERNING DIFFERENT RESCRIPTS AND PRAGMATIC SANCTIONS
-
 + 1.XXIV. CONCERNING STATUES AND PICTURES
-
 + 1.XXV. CONCERNING THOSE WHO TAKE REFUGE AT THE STATUES OF THE EMPEROR
-
 + 1.XXVI.  CONCERNING THE OFFICE OF PRAETORIAN PREFECT OF THE EAST AND ILLYRIA
-
 + 1.XXVII.  CONCERNING THE OFFICE OF PRAETORIAN PREFECT OF AFRICA, AND THE CONDITION OF ALL THE PROVINCES OF HIS JURISDICTION
-
 + 1.XXVIII. CONCERNING THE DUTIES OF THE PREFECT OF THE CITY
-
 + 1.XXIX. CONCERNING THE OFFICE OF GENERAL OF THE ARMY
-
 + 1.XXX. CONCERNING THE DUTIES OF QUAESTOR
-
 + 1.XXXI. CONCERNING THE DUTIES OF MASTER OF THE OFFICES
-
 + 1.XXXII. CONCERNING THE DUTIES OF COUNT OF THE SACRED LARGESSES
-
 + 1.XXXIII. CONCERNING THE DUTIES OF COUNT OF PRIVATE AFFAIRS
-
 + 1.XXXIV. CONCERNING THE DUTIES OF COUNT OF THE IMPERIAL PALACE
-
 + 1.XXXV. CONCERNING THE DUTIES OF PROCONSUL AND DEPUTY
-
 + 1.XXXVI. CONCERNING THE DUTIES OF THE COUNT OF THE IMPERIAL PATRIMONY
-
 + 1.XXXVII. CONCERNING THE DUTIES OF COUNT OF THE EAST
-
 + 1.XXXVIII. CONCERNING THE OFFICE OF AUGUSTAL PREFECT
-
 + 1.XXXIX. CONCERNING THE OFFICE OF VICEGERENT
-
 + 1.XL. CONCERNING THE DUTIES OF PRAETOR
-
 + 1.XLI. CONCERNING THE DUTIES OF THE GOVERNOR OF A PROVINCE
-
 + 1.XLII AND 1.XLIII. THE LATIN TEXTS OF THESE Two TITLES ARE MISSING
-
 + 1.XLIV. CONCERNING THE OFFICE OF THE PREFECT OF THE WATCH
-
 + 1.XLV. CONCERNING THE DUTIES OF CIVIL JUDGES
-
 + 1.XLVI. CONCERNING THE DUTIES OF MILITARY JUDGES
-
 + 1.XLVII. BATHS SHALL NOT BE FURNISHED TO MILITARY COUNTS OR TRIBUNES
-
 + 1.XLVIII. CONCERNING THE DUTIES OF VARIOUS JUDGES
-
 + 1.XLIX.  ALL JUDGES, CIVIL AS WELL AS MILITARY, SHALL REMAIN FOR
 FORTY DAYS AFTER THEIR TERM OF OFFICE HAS EXPIRED IN THE TOWNS OR
 PLACES WHERE THEY DISCHARGED THEIR DUTIES
-
 + 1.L.  CONCERNING THE DUTIES OF ONE WHO TAKES THE PLACE OF A JUDGE
 OR A GOVERNOR
-
 + 1.LI. CONCERNING ASSESSORS, ATTENDANTS AND THE CHANCELLORS OF JUDGES
-
 + 1.LII.  CONCERNING PROVISIONS AND THE CAPITATIONS OF CERTAIN OFFICIALS AND THEIR ASSESSORS, AND OF THOSE EXERCISING OTHER PUBLIC EMPLOYMENTS, OR WHO HAVE BEEN APPOINTED TO OFFICE
-
 + 1.LIII.  CONCERNING THE CONTRACTS OF JUDGES AND THEIR SUBORDINATES, AND THE PROHIBITION OF DONATIONS TO THEM, AND THE PROVISION THAT, DURING THEIR TERM OF OFFICE, THEY CANNOT BUILD HOUSES OF THEIR OWN WITHOUT A PRAGMATIC SANCTION
-
 + 1.LIV.  CONCERNING THE MANNER IN WHICH FINES SHALL BE IMPOSED BY JUDGES
-
 + 1.LV. CONCERNING THE DEFENDERS OF CITIES
-
 + 1.LVI. CONCERNING MUNICIPAL MAGISTRATES
-
 + 1.LVII. CONCERNING THE OFFICE OF JUDGE OF ALEXANDRIA
-
 
 * CJ.1.1.0
 CONCERNING THE MOST EXALTED TRINITY AND THE
@@ -404,7 +345,6 @@ protection."
 Given at Rome, on the eighth of the Kalendsof April, during the Consulate of
 the Emperor Justinian, Consul for the fourth time, and of Paulinus, Consul for
 the fifth time.
-
 
 * CJ.1.2.0
 CONCERNING THE MOST SACRED CHURCHES, THEIR PROPERTY AND THEIR PRIVILEGES.
@@ -3461,8 +3401,7 @@ being required.
 Given on the Kalendsof May, under the Consulate of Crispus, Consul for the
 second time, and Constantine, Consul for the second time, 425.
 
-* CJ.1.14.0.
-CONCERNING THE LAWS AND CONSTITUTIONS OF THE EMPERORS, AND EDICTS.
+* CJ.1.14.0. CONCERNING THE LAWS AND CONSTITUTIONS OF THE EMPERORS, AND EDICTS.
 
 1. The Emperor Constantine to Bassiis, Prefect of the City.It is part of Our
 duty, and is lawful for Us alone to interpret questions involving equity and
@@ -3556,17 +3495,7 @@ Emperor Valentinian, Consul for the fifth time, and Anatolius, 440.
 8. The Same to the Senate.
 We think that it is proper, O Conscript Fathers, that where some exigency
 arises with reference to another matter, in either a public or a private case,
-which demands a general law, and one not included
-among those which are ancient, this should first be discussed by all the great
-nobles of Our Palace, as well as your Most Illustrious Assembly, and if it is
-approved by all of them, as well as by you, it should be then revised, and
-again examined by all met together, and if they agree to it, it should be read
-in the Consistory of Our Majesty and be confirmed by the consent of all as well
-as by Our authority. Therefore, 0 Conscript Fathers, know that no law shall
-hereafter be promulgated by Us, unless the above-mentioned formalities have
-been complied with, for We are well aware that whatever has been decided by
-your council will contribute to the happiness of Our Empire and to Our own
-glory.
+which demands a general law, and one not included among those which are ancient, this should first be discussed by all the great nobles of Our Palace, as well as your Most Illustrious Assembly, and if it is approved by all of them, as well as by you, it should be then revised, and again examined by all met together, and if they agree to it, it should be read in the Consistory of Our Majesty and be confirmed by the consent of all as well as by Our authority. Therefore, O Conscript Fathers, know that no law shall hereafter be promulgated by Us, unless the above-mentioned formalities have been complied with, for We are well aware that whatever has been decided by your council will contribute to the happiness of Our Empire and to Our own glory.
 Given on the sixteenth of the Kalendsof November, during the Consulate of
 Aïtius, Consul for the third time, and Symmachus, 446.
 
@@ -3599,28 +3528,11 @@ the Imperial Throne have plainly and clearly the force of law?
 whether a decision of the Emperor should be considered a law, We have come to
 the conclusion that this vain subtlety is not only contemptible, but should be
 suppressed.
-For this reason We hold that every interpretation of the laws by the Emperor,
-whether in answer to requests made to him, or whether given in judgment, or in
-any other way whatsoever, shall be consid-
-ered valid, and free from all ambiguity; for if, by the present enactment, the
-Emperor alone can make laws, it should also be the province of the Imperial
-Dignity alone to interpret them. For when any doubt arises in litigation on
-account of the conflicting opinions of the legal authorities, and they do not
-think that they are either qualified or able to decide the question, why should
-they have recourse to Us? And wherefore should all the ambiguities which may
-exist with reference to the laws be brought to Our ears, if the right to
-interpret them does not belong to Us? Or who appears to be capable of solving
-legal enigmas, and explaining them to all persons, unless he who alone is
-permitted to be legislator? Therefore, these ridiculous doubts having been cast
-aside, the Emperor shall justly be regarded as the sole maker and interpreter
-of the laws; and this provision shall in no way prejudice the founders of
-ancient jurisprudence, because the Imperial Majesty conferred this privilege
-upon them.
+For this reason We hold that every interpretation of the laws by the Emperor, whether in answer to requests made to him, or whether given in judgment, or in any other way whatsoever, shall be considered valid, and free from all ambiguity; for if, by the present enactment, the Emperor alone can make laws, it should also be the province of the Imperial Dignity alone to interpret them. For when any doubt arises in litigation on account of the conflicting opinions of the legal authorities, and they do not think that they are either qualified or able to decide the question, why should they have recourse to Us? And wherefore should all the ambiguities which may exist with reference to the laws be brought to Our ears, if the right to interpret them does not belong to Us? Or who appears to be capable of solving legal enigmas, and explaining them to all persons, unless he who alone is permitted to be legislator? Therefore, these ridiculous doubts having been cast aside, the Emperor shall justly be regarded as the sole maker and interpreter of the laws; and this provision shall in no way prejudice the founders of ancient jurisprudence, because the Imperial Majesty conferred this privilege upon them.
 Given on the sixth of the Kalendsof November, during the Consulate of Decius,
 529.
 
-* CJ.1.15.0.
-CONCERNING THE IMPERIAL MANDATES.
+* CJ.1.15.0. CONCERNING THE IMPERIAL MANDATES.
 
 1. The Emperors Gratian, Valentinian, and Theodosius to Fusignius, Praetorian
 Prefect.

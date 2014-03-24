@@ -1,32 +1,28 @@
 # -*- mode: org -*-
 
-BOOK XIV.
+* BOOK XIV.
 
-TITLE I. CONCERNING THE ACTION AGAINST THE OWNER OF A SHIP............
++ 14.I. CONCERNING THE ACTION AGAINST THE OWNER OF A SHIP............
 200
 
-TITLE II. CONCERNING THE RHODIAN LAW OF JETTISON .......................
++ 14.II. CONCERNING THE RHODIAN LAW OF JETTISON .......................
 207
 
-TITLE III. CONCERNING THE INSTITORIAN ACTION
++ 14.III. CONCERNING THE INSTITORIAN ACTION
 ............................. 212
 
-TITLE IV. CONCERNING THE TRIBUTORIAN ACTION ............................
++ 14.IV. CONCERNING THE TRIBUTORIAN ACTION ............................
 219
 
-TITLE V.
++ 14.V.
 
 CONCERNING TRANSACTIONS SAID TO HAVE TAKEN PLACE WITH A PERSON UNDER THE
 CONTROL OF ANOTHER......................... 225
 
-TITLE VI. CONCERNING THE MACEDONIAN DECREE OF THE SENATE ..............
++ 14.VI. CONCERNING THE MACEDONIAN DECREE OF THE SENATE ..............
 228
 
-
-
-THE DIGEST OR PANDECTS. BOOK XIV.
-
-TITLE I.
+* * 14.I.
 
 CONCERNING THE ACTION AGAINST THE OWNER OP A SHIP. 1. *Ulpianus, On the
 Edict, Book XXVIII.*
@@ -43,10 +39,10 @@ of the standing of an agent, and contract with him accordingly; but this
 is not the case with a master of a ship, for frequently neither the
 place nor the time permits a satisfactory decision to be reached.
 
-\(1) We must understand the master of a ship to be a person to whom the
+(1) We must understand the master of a ship to be a person to whom the
 charge of the entire ship is committed.
 
-\(2) But if the contract is made with one of the sailors, an action will
+(2) But if the contract is made with one of the sailors, an action will
 not be granted against the ship-owner; although one will be granted
 against him on account of any offence perpetrated by one of those who
 are on board the vessel for the purpose of navigating the same; for the
@@ -56,18 +52,18 @@ contracts to be made with him, but he who employs sailors does not allow
 contracts to be made with them, but he should take care that they are
 not guilty of negligence or fraud.
 
-\(3) Masters are appointed for the purpose of leasing vessels either for
+(3) Masters are appointed for the purpose of leasing vessels either for
 the transportation of merchandise or of passengers, or for the purpose
 of buying stores, but if a master is appointed for the purchase or sale
 of merchandise, he will render the owner liable also on this ground.
 
-\(4) It makes no difference what the civil condition of such a master
+(4) It makes no difference what the civil condition of such a master
 is, whether he is free or a slave, and whether, if he is a slave, he
 belongs to the owner or to another person, nor will it make any
 difference what his age is, as the party who appointed him has himself
 only to blame.
 
-\(5) We consider the master to be not only the person whom the owner
+(5) We consider the master to be not only the person whom the owner
 appointed, but also him whom a master appointed; and Julianus, having
 been consulted with reference to this matter, gave this opinion in a
 case where the owner was ignorant of the appointment; where, however, he
@@ -85,10 +81,10 @@ him as follows, "You shall not employ Titius as master." It must be
 said, however, that the welfare of those who make use of ships demands
 that the rule should be applied to this extent.
 
-\(6) We must understand the word "ship" to mean vessels and even rafts,
+(6) We must understand the word "ship" to mean vessels and even rafts,
 employed for navigating the sea, rivers, or lakes.
 
-\(7) The Prætor does not grant a right of action against an owner for
+(7) The Prætor does not grant a right of action against an owner for
 every cause, but only with reference to the particular thing for which
 the master was appointed; that is to say, if he was appointed for a
 certain kind of business, for instance, where a contract was made for
@@ -96,14 +92,14 @@ the transportation of merchandise; or where an agreement was entered
 into or money expended for the purpose of repairing the ship; or where
 the sailors demand payment on account of their services.
 
-\(8) What if the master should borrow a sum of money, will this be held
+(8) What if the master should borrow a sum of money, will this be held
 to be included in his powers? Pegasus thinks that if he borrowed the
 money with reference to the matter for which he was appointed, an action
 should be granted, and this opinion I think to be correct; but what if
 he borrowed it for the purpose of equipping or fitting out the ship, or
 for the employment of sailors?
 
-\(9) Wherefore, Ofilius asked if the master borrows the money for the
+(9) Wherefore, Ofilius asked if the master borrows the money for the
 purpose of repairing the ship, and converts it to his own use, will an
 action be granted against the owner? He says that if he received it with
 the understanding that he would expend it on the ship, and afterwards
@@ -113,17 +109,17 @@ beginning, he had the intention to defraud the creditor, and did not
 expressly state that he received the money on account of the ship, the
 contrary rule will apply. Pedius approves of this distinction.
 
-\(10) Where, however, the master is guilty of deceit with reference to
+(10) Where, however, the master is guilty of deceit with reference to
 the price of things which are purchased, the owner, and not the
 creditor, must suffer the loss.
 
-\(11) Moreover, where the master borrows money from another party, and
+(11) Moreover, where the master borrows money from another party, and
 with it satisfies the claim of him who lent him money for the purpose of
 repairing the ship; I think an action should be granted to the
 first-mentioned creditor, just as if he had lent the money to be
 expended on the ship.
 
-\(12) Therefore, the appointment prescribes certain terms to be observed
+(12) Therefore, the appointment prescribes certain terms to be observed
 by the contracting parties; and hence if the owner appointed the master
 of the ship only for the purpose of collecting the freight, and not that
 he might lease the ship, (although he may have actually leased it) the
@@ -146,31 +142,31 @@ there are ships which carry passengers to Brundisium from Cassiopa or
 from Dyrrachium, but are not adapted for freight, and some also are
 adapted to river navigation, but are not suitable for the sea.
 
-\(13) Where several masters are appointed, and their duties are not
+(13) Where several masters are appointed, and their duties are not
 divided, any transaction entered into with one of them will bind the
 owner; but if their separate duties are designated, as, for instance,
 one has charge of leasing the vessel, and another is to collect freight,
 then the owner will be bound by the acts of any one of them provided he
 is in the discharge of his duty.
 
-\(14) If, however, the party made the appointment, as is often done, in
+(14) If, however, the party made the appointment, as is often done, in
 such a way that one of them is not to transact any business without the
 other, he who contracts with one alone will only have himself to blame.
 
-\(15) When we make use of the word "*exercitor,*" we understand by it
+(15) When we make use of the word "*exercitor,*" we understand by it
 the party into whose hands all receipts and payments come, whether he is
 the owner of the ship, or whether he has leased it from the owner for a
 fixed amount for a certain time, or permanently.
 
-\(16) It makes but little difference whether the party who has control
+(16) It makes but little difference whether the party who has control
 of the ship is a man or a woman, the head of a household, a son under
 paternal control, or a slave; but for a ward to have control of a ship
 we require the consent of his guardian to be granted.
 
-\(17) We have also the choice whether we would prefer to sue the person
+(17) We have also the choice whether we would prefer to sue the person
 having control of the ship, or the master of the same.
 
-\(18) But, on the other hand, an action is not promised by the Prætor
+(18) But, on the other hand, an action is not promised by the Prætor
 against those who contracted with the master, because he did not need
 the same assistance; he can, however, sue the master on the contract of
 hiring, if he is furnishing his labor for compensation; or, if he is
@@ -181,12 +177,12 @@ supplies, and, in the province, the governors, who are accustomed to aid
 them by the exertion of extraordinary powers, can do so where contracts
 are made by the masters of vessels.
 
-\(19) If the party who has control of a ship is in the power of another,
+(19) If the party who has control of a ship is in the power of another,
 and manages the vessel with his consent, an action will be granted on
 account of business transacted with the master, against the party in
 whose power he is who has the management of the ship.
 
-\(20) But although an action is granted against the person under whose
+(20) But although an action is granted against the person under whose
 control he is who has the management of a ship, still, this is only done
 where he acts with the consent of the latter. Therefore, those who have
 control of the party having the management are liable for the entire
@@ -212,10 +208,10 @@ one person is under the control of another and carries on business with
 his consent, he will be liable for the entire amount, but if he does
 not, that he will only be liable for the amount of the *peculium.*
 
-\(21) We must understand the term "under the control" to apply to both
+(21) We must understand the term "under the control" to apply to both
 sexes, sons and daughters, and male and female slaves.
 
-\(22) Where a slave, who is part of a *peculium*, acts as the manager of
+(22) Where a slave, who is part of a *peculium*, acts as the manager of
 a ship with the consent of a son under paternal control of whose
 *peculium* he forms a part, or where, a sub-slave manages a ship with
 the consent of the latter, the father or master who did not give his
@@ -225,12 +221,12 @@ with the consent of the master or father, they will be liable for the
 entire amount, and, moreover, the son, if he gave his consent, will also
 be liable in full.
 
-\(23) But, although the Prætor only promises the action where the
+(23) But, although the Prætor only promises the action where the
 business is transacted with the master of the ship, still, (as Julianus
 has stated) the father or the master will be liable in full, even though
 the contract was entered into with the manager of the ship himself.
 
-\(24) This action is granted against the owner on account of the master
+(24) This action is granted against the owner on account of the master
 of the ship, and therefore if suit has been brought against either of
 them, none can be brought against the other; but if any of the money has
 been paid, and this has been done by the master, the obligation is
@@ -239,48 +235,48 @@ in his own behalf, that is on account of the honorary obligation, or is
 paid in behalf of the master, the obligation is diminished; since where
 another party pays for me he releases me from the debt.
 
-\(25) Where several parties have joint-ownership of a vessel, suit can
+(25) Where several parties have joint-ownership of a vessel, suit can
 be brought against any one of them for the entire amount;
 
-\2. *Gaius, On the Provincial Edict, Book IX.*
+2. *Gaius, On the Provincial Edict, Book IX.*
 
 In order that a person who contracted with one may not be obliged to
 divide his claim among several adversaries,
 
-\3. *Paulus, On the Edict, Book XXIX.*
+3. *Paulus, On the Edict, Book XXIX.*
 
 Nor does it make any difference what share each of them has in the
 vessel, for the party who paid will recover from the others in the
 action on partnership.
 
-\4. *Ulpianus, On the Edict, Book XXIX.*
+4. *Ulpianus, On the Edict, Book XXIX.*
 
 Where, however, several persons have the management of a ship between
 them, they must be sued in proportion to their shares in the same, for
 they are not regarded as masters for one another.
 
-\(1) Where several persons having the management of a ship appoint one
+(1) Where several persons having the management of a ship appoint one
 of their number to be the master, they can be sued on his account for
 the entire claim.
 
-\(2) Where a slave belonging to several persons manages a ship with
+(2) Where a slave belonging to several persons manages a ship with
 their consent, the same rule applies as where there are several
 managers. For it is clear that if he acted with the consent of any one
 of them, the latter will be liable for the entire amount; and therefore
 I think that in the case above mentioned all of them are liable in full.
 
-\(3) If a slave who had control of a ship with the consent of his owner
+(3) If a slave who had control of a ship with the consent of his owner
 should be alienated, the party who alienated him will, nevertheless, be
 liable. Hence he would also be liable if the slave should die, for the
 owner of the ship will be liable after the death of the master.
 
-\(4) These actions are granted without limitation of time both in the
+(4) These actions are granted without limitation of time both in the
 favor of heirs, and against them. Hence, if a slave who has control of a
 ship with the consent of his master should die, this action will be
 granted after the expiration of a year, although an action *De peculio*
 is not granted after a year has elapsed.
 
-\5. *Paulus, On the Edict, Book XXIX.*
+5. *Paulus, On the Edict, Book XXIX.*
 
 If you have, as the master of your ship, someone who is under my
 control, an action will also lie in my favor against you if I enter into
@@ -293,17 +289,17 @@ transfer of the rights of action which I held on his account, just as
 you could have done against a freedman had you employed one; but if the
 services were gratuitous, you can bring an action on mandate.
 
-\(1) Moreover, if my slave has control of a ship, and I make a contract
+(1) Moreover, if my slave has control of a ship, and I make a contract
 with his shipmaster, there will be nothing to prevent me from
 instituting proceedings against the shipmaster by an action which I can
 bring either under civil or prætorian law; for this edict does not
 prevent anyone from suing the master, as no action is transferred by
 this edict, but one is added.
 
-\(2) Where one of the owners of a ship makes a contract with the master,
+(2) Where one of the owners of a ship makes a contract with the master,
 he can bring an action against the others.
 
-\6. *Paulus, Abridgments, Book VI.*
+6. *Paulus, Abridgments, Book VI.*
 
 Where a slave has control of a ship without the consent of his master,
 if he is aware of this, a tributorian action will be granted; but if he
@@ -312,7 +308,7 @@ a slave owned in common has control of a ship with the consent of his
 masters, an action for the entire amount will be granted against them
 individually.
 
-\7. *Africanus, Questions, Book VIII.*
+7. *Africanus, Questions, Book VIII.*
 
 Lucius Titius appointed Stichus the master of a ship, and he, having
 borrowed money, stated that he received it for the purpose of repairing
@@ -330,9 +326,9 @@ could not happen unless he also knew that the money was needed for
 repairs. Wherefore, even though the ship was in such a condition as to
 need repairs, still, if much more money was lent than was necessary for
 that purpose, an action for the entire amount should not be granted
-against the owner of the ship.^1^
+against the owner of the ship.[1]
 
-^1^ These provisions were adopted practically by all the maritime codes
+[1] These provisions were adopted practically by all the maritime codes
 of modern times. "If a Master shall take up Monies to mend or victual
 his Ship where there is no occasion, (though generally the Owners shall
 answer the fact of the Master) yet here they shall not, but only the
@@ -340,16 +336,7 @@ Master. But if there were cause of mending the Ship, though the Master
 spends the Money another way, yet the Owners and Ship become liable to
 the satisfaction of the Creditor; for it were very unreasonable that the
 Creditor should be bound to take upon him the care of repairing the
-Ship, and supply the Owner's room, which must be so, if it should be
-
-\(1) Sometimes it should be considered whether the money was lent in a
-place in which that for which it was advanced could be obtained; for, as
-Africanus says, what would be the case if someone lent money for the
-purchase of a sail in an island of such a description that a sail could
-not be obtained there under any circumstances? And, in general, a
-creditor is obliged to exercise some care in the transaction.
-
-necessary for him, that the Money be paid out upon the Ship; so on the
+Ship, and supply the Owner's room, which must be so, if it should be necessary for him, that the Money be paid out upon the Ship; so on the
 other hand, it stands with reason that he be sure that he lends his
 Money on such an occasion, as whereby the Masters fact may oblige the
 Owners, which he cannot do otherwise, unless he knows that the Money
@@ -358,7 +345,6 @@ Ship wanted some repairs, and a far greater and more extravagant sum was
 lent than was needed, the Owners shall not be liable for the whole."
 (Justice, A General Treatise of the Dominion and Laws of the Sea III,
 II, Page 443.)
-
 At Common Law, the owners of ships and persons employed by them were,
 generally speaking, subject to the rules governing common carriers, and
 were liable for all loss or damage sustained by the property while in
@@ -374,7 +360,6 @@ consent. An exception is also made in his favor in case of the theft of
 any jewels or other precious articles, where their nature and value have
 not been distinctly specified in writing at the time they were delivered
 for transportation.
-
 The master of the vessel, who is presumed to have the goods under his
 immediate supervision, is, on his part, held to even more strict
 accountability than the owner. He is exempt from liability when damage
@@ -382,7 +367,6 @@ results from the negligence of the pilot. He is authorized to
 hypothecate or sell a portion of the cargo when this expedient must be
 adopted to save the remainder, or to obtain funds for repairs which are
 absolutely necessary. (Smith, Compendium of Mercantile Law, III, 3.)
-
 In the United States, in fixing the liability for supplies furnished and
 repairs made, the main question to be determined is, upon whose account
 were these things done. The responsibility depends, not on the general
@@ -401,7 +385,6 @@ such circumstances, in conformity with the implied legal presumption
 that the others desire their property to be saved or taken care of, a
 single part-owner may act for his associates, and bind them for the
 expenses and purchases required.
-
 The principle of tenancy in common extends not only to the ship but also
 to the cargo, unless otherwise provided for; the master, being regarded
 as the confidential agent of the owners, is held to be tacitly invested
@@ -412,35 +395,9 @@ ages of commercial intercourse. He is personally liable for his
 contracts, from which responsibility, however, he may obtain exemption
 by special agreement. As in the case of a part-owner, he can sell or
 hypothecate all, or a portion of the cargo, as well as the ship, if any
-sudden
-
-\(2) Almost the same rule applies where inquiry is made with reference
-to the institorian action; for, in this instance also, the creditor must
-know that the purchase of the merchandise for which the slave was
-appointed was necessary; and it will be sufficient if he made the loan
-to this end, but it should not also be required that he should himself
-undertake the task of ascertaining whether the money was spent for this
-purpose.
-
-TITLE II. CONCERNING THE RHODIAN LAW OF JETTISON.
-
-\1. *Paulus, Sentences, Book II.*
-
-It is provided by the Rhodian Law that where merchandise is thrown
-overboard for the purpose of lightening a ship, what has been lost for
-the benefit of all must be made up by the contribution of all.
-
-\2. *The Same, On the Edict, Book XXXIV.*
-
-When anything has been thrown overboard on account of the distress of a
-ship, the owners of the lost merchandise must sue the master of the ship
-on the contract for transportation, if they had entered into an
-agreement for the carriage of the same; and he can then bring suit
-
-exigency should demand that this be done; but the necessity for such a
+sudden exigency should demand that this be done; but the necessity for such a
 step must be unquestionable. (Kent, Commentaries on American Law, Vol.
 III, V, XLIII.)
-
 The maritime jurisprudence of the Latin countries of Europe is more
 indulgent to part-owners, in the matter of necessary expenditures for
 the benefit of the vessel and her cargo, than that of England and
@@ -450,48 +407,62 @@ enterprise being considered that of a joint-stock company whose acts are
 controlled by the vote of the majority. "Si *dos ó mas personas fueren
 participes en la propriedád de un buque mercante, se presumirá
 constituida una Campañia por los coproprietarios.*
-
 "*Esta Compañia se regirá par los-acuerdos de la mayoria de sus socios.
 Los coproprietarios de un buque serán civilmente responsables en la
 proporción de su haber social." (Codigo de Comercio de España*, Arts.
 589, 590.)
-
 The Italian Code of Commerce, like others, makes the owner responsible
 for the acts of the captain and crew, as well as for all contracts which
 have reference to the ship and the transportation of the cargo. Where
 there are several proprietors, the rights of the management and
 disposition of the vessel are vested in those who have a controlling
 interest in its ownership.
-
 The captain cannot sell the ship without the special order of the owner
 to that effect, except where it becomes worthless for purposes of
 navigation.
-
 "*I proprietarii di navi sono responsabili dei fatti del eapitano e
 delle altre persone dell' equipaggio, e sono tenuti per le obbligazioni
 contratte del capitano, per ciò che concerne la nave e la spedizione.*
-
 "*Per tutto ciò che riguarda l'interesse comune dei proprietarii di una
 nave, le deliberazioni della maggioranza sono obligatorie per la
 minoranza.*
-
 "*La maggioranza si determina da una porzione di interesse nella nave
-eccedente*
-
-*la metà dei suo valore.*
-
+eccedente la metà dei suo valore.*
 "*Il capitano non puo vendere la nave senza mandato speciale del
 proprietario, eccettuato il caso d'inabilita alla navigazione." (Codice
-di Commercio pel Regno*
-
-*d'ltalia*, Arts. 491, 495, 513.)
-
+di Commercio pel Regno* *d'ltalia*, Arts. 491, 495, 513.)
 The French regulations concerning the liability of the owner and captain
-are
+are substantially the same. --- ED.
 
-substantially the same.  ED.
+(1) Sometimes it should be considered whether the money was lent in a
+place in which that for which it was advanced could be obtained; for, as
+Africanus says, what would be the case if someone lent money for the
+purchase of a sail in an island of such a description that a sail could
+not be obtained there under any circumstances? And, in general, a
+creditor is obliged to exercise some care in the transaction.
 
-against the others whose merchandise was saved, so that the loss may be
+(2) Almost the same rule applies where inquiry is made with reference
+to the institorian action; for, in this instance also, the creditor must
+know that the purchase of the merchandise for which the slave was
+appointed was necessary; and it will be sufficient if he made the loan
+to this end, but it should not also be required that he should himself
+undertake the task of ascertaining whether the money was spent for this
+purpose.
+
+* 14.II. CONCERNING THE RHODIAN LAW OF JETTISON.
+
+1. *Paulus, Sentences, Book II.*
+
+It is provided by the Rhodian Law that where merchandise is thrown
+overboard for the purpose of lightening a ship, what has been lost for
+the benefit of all must be made up by the contribution of all.
+
+2. *The Same, On the Edict, Book XXXIV.*
+
+When anything has been thrown overboard on account of the distress of a
+ship, the owners of the lost merchandise must sue the master of the ship
+on the contract for transportation, if they had entered into an
+agreement for the carriage of the same; and he can then bring suit against the others whose merchandise was saved, so that the loss may be
 distributed proportionally. Servius, indeed, answered that they should
 proceed against the master of the ship under the contract for
 transportation to compel him to return the merchandise of the others,
@@ -508,7 +479,7 @@ should be partially borne by those who, by the destruction of the
 property of others, have secured the preservation of their own
 merchandise.
 
-\(1) If the merchandise is saved, and the ship is damaged, or has lost
+(1) If the merchandise is saved, and the ship is damaged, or has lost
 part of her equipment, no contribution should be made, for the condition
 of the things provided for the use of the ship is different from that on
 account of which the freight has been received; since, if a blacksmith
@@ -516,7 +487,7 @@ breaks an anvil or a hammer, this will not be charged to him who hired
 him to do the work. Where, however, the loss occurred with the consent
 of the passengers, or on account of their fear, it must be made good.
 
-\(2) Where several merchants collect different kinds of goods in the
+(2) Where several merchants collect different kinds of goods in the
 same ship, and, in addition, many passengers, both slaves and freemen,
 are travelling in it, and a great storm arises, and part of the cargo is
 necessarily thrown overboard; the question was with respect to the
@@ -543,49 +514,43 @@ there is all the more reason in this, for if, at any time during the
 voyage, such articles should be lacking, each one would contribute what
 he possessed to the common stock.
 
-\(3) If the ship has been ransomed from pirates Servius, Ofilius, and
+(3) If the ship has been ransomed from pirates Servius, Ofilius, and
 Labeo state that all should contribute; but with reference to what the
 robbers carried away, the loss must be borne by the party to whom it
-belonged, and no contribution should be made to him who ransomed
+belonged, and no contribution should be made to him who ransomed his property.
 
-his property.
-
-\(4) The share is generally contributed in accordance with the valuation
+(4) The share is generally contributed in accordance with the valuation
 of the property which is saved, and of that which is lost; and it makes
 no difference if that which was lost might have been sold for a higher
 price, since the contribution relates to loss and not to profit. With
 reference, however, to those things on account of which contribution
 must be made, the estimate should be based upon not what they had been
-purchased for, but upon what they could be sold
+purchased for, but upon what they could be sold for.
 
-for.
+(5) No estimate should be made of slaves who are lost at sea, any more
+than where those who are ill die on the ship, or throw themselves overboard.
 
-\(5) No estimate should be made of slaves who are lost at sea, any more
-than where those who are ill die on the ship, or throw themselves
-
-overboard.
-
-\(6) If any of the passengers should be insolvent, the loss resulting
+(6) If any of the passengers should be insolvent, the loss resulting
 from this will not be suffered by the master of the vessel; for a sailor
 is not obliged to inquire into the financial resources of everybody.
 
-\(7) Where property which has been thrown overboard is recovered, the
+(7) Where property which has been thrown overboard is recovered, the
 necessity for contribution is at an end; but if it has already been
 made, then those who had paid can bring an action on the contract for
 transportation against the master, and he can proceed under the one for
 hiring, and return what he recovers.
 
-\(8) Any articles thrown overboard belong to the owner of the same, and
+(8) Any articles thrown overboard belong to the owner of the same, and
 do not become the property of him who obtains them, because they are not
 considered as abandoned.
 
-\3. *Papinianus, Opinions, Book XIX.*
+3. *Papinianus, Opinions, Book XIX.*
 
 Where a mast, or any other part of the equipment of a ship is thrown
 overboard for the purpose of removing a danger common to all,
 contribution is required.
 
-\4. *Callistratus, Questions, Book II.*
+4. *Callistratus, Questions, Book II.*
 
 If, for the purpose of lightening an overloaded ship because she could
 not enter a river or reach a harbor with her cargo, a certain portion of
@@ -600,7 +565,7 @@ ship is lost, no account should be taken with reference to those who
 lost their property in the ship, because jettison necessitates
 contribution only where the ship is saved.
 
-\(1) But where a ship, which has been lightened in a storm by throwing
+(1) But where a ship, which has been lightened in a storm by throwing
 overboard the goods of a merchant, is sunk in some other place, and the
 goods of certain merchants are recovered by divers for
 
@@ -613,7 +578,7 @@ the voyage to those whose merchandise was not thereby preserved, if any
 of it was recovered by divers; for it cannot be held to have been thrown
 overboard for the purpose of saving the ship which was lost.
 
-\(2) But where jetsam is made from the ship, and the merchandise of
+(2) But where jetsam is made from the ship, and the merchandise of
 anyone which remained on board, is damaged; it is a matter for
 consideration whether he should be compelled to contribute, since he
 ought not to be oppressed by the double loss of contribution and
@@ -652,7 +617,7 @@ party for the loss of his property, so, also, it should be granted to
 him whose property has become deteriorated on account of the jetsam.
 Papirius Fronto also stated this in an opinion.
 
-\5. *Hermogeniamis, Epitomes of Law, Book II.*
+5. *Hermogeniamis, Epitomes of Law, Book II.*
 
 The contribution of those who saved their merchandise from shipwreck
 does not indemnify anyone for the loss of the vessel; for it is
@@ -661,11 +626,11 @@ held that the equity of this contribution is only admitted when, by the
 remedy of jetsam, during the common danger, the interest of the others
 is consulted, and the ship is saved.
 
-\(1) If the mast is cut away in order that the ship with its merchandise
+(1) If the mast is cut away in order that the ship with its merchandise
 may be freed from danger, there will be an equitable claim for
 contribution.
 
-\6. *Julianus, Digest, Book LXXXVI.*
+6. *Julianus, Digest, Book LXXXVI.*
 
 *A* ship beaten by a storm and with her rigging, mast, and yards burned
 by lightning, was carried into Hippo. Having been provided while there
@@ -676,13 +641,13 @@ ship in proportion to the loss? The answer was that they were not
 obliged to do so, as the expense was incurred rather for the purpose of
 equipping the ship, than to preserve the cargo.
 
-\7. *Paulus, Epitomes of the Digest of Alfenus, Book III.*
+7. *Paulus, Epitomes of the Digest of Alfenus, Book III.*
 
 Where a ship is sunk or stranded, the opinion was given that whatever
 each one saves out of his own property he can keep for himself, just as
 in case of fire.
 
-\8. *Julianus, On Minicius, Book II.*
+8. *Julianus, On Minicius, Book II.*
 
 Those who throw any property overboard for the purpose of lightening a
 ship, do not intend to consider it as abandoned; since if they should
@@ -691,7 +656,7 @@ where it has been cast by the sea, they can claim it; so that they are
 in the same condition as anyone who oppressed by a burden throws it down
 on the road, expecting to return presently with others and remove it.
 
-\9. *Volusius Mæcianus, On the Rhodian Law.*
+9. *Volusius Mæcianus, On the Rhodian Law.*
 
 A petition of Eudaimon of Nicomedia to the Emperor Antoninus; "Lord
 Emperor Antoninus, having been shipwrecked in Icaria we have been robbed
@@ -702,7 +667,7 @@ Rhodian law adopted with reference to maritime questions, provided no
 enactment of ours is opposed to it." The Divine Augustus established the
 same rule.
 
-\10. *Labeo, Epitomes of the Probabilities of Paulus, Book I.*
+10. *Labeo, Epitomes of the Probabilities of Paulus, Book I.*
 
 If you have made a contract for the transportation of slaves, freight is
 not due to you for a slave who died on the ship. Paulus says that, in
@@ -712,7 +677,7 @@ carried to their destination? And if this cannot be established, it will
 be enough for the master of the ship to prove that the slave was placed
 on board.
 
-\(1) If you hired a ship on condition that your merchandise was to be
+(1) If you hired a ship on condition that your merchandise was to be
 transported by her, and the master of the ship, without being compelled
 by necessity, placed your property on an inferior vessel, being aware
 that you did not wish this to be done; and your merchandise was lost,
@@ -734,7 +699,7 @@ that the master, having been prevented by illness, was unable to sail,
 if his ship became unfit for navigation without any malicious intent or
 negligence of his.
 
-\(2) If you hire a ship capable of transporting two thousand jars and
+(2) If you hire a ship capable of transporting two thousand jars and
 place jars on board, you are liable for the freight of two thousand
 jars. Paulus says that the fact is, if you hire the entire capacity of
 the ship, the freight for two thousand jars will be due, but if the
@@ -742,9 +707,9 @@ freight was agreed upon according to the number of jars placed on board,
 the contrary rule will apply; for you owe for the transportation of as
 many jars as you placed on board.
 
-TITLE III. CONCERNING THE INSTITORIAN ACTION.
+* 14.III. CONCERNING THE INSTITORIAN ACTION.
 
-\1. *Ulpianus, On the Edict, Book XXVIII.*
+1. *Ulpianus, On the Edict, Book XXVIII.*
 
 It appeared just to the Prætor that, as we obtain advantages from the
 acts of agents, so also we should be bound by, and liable to be sued on,
@@ -759,68 +724,67 @@ transacted. Marcellus, however, says that an action should be granted to
 the party who appointed the agent against those who have made contracts
 with him,
 
-\2. *Gaius, On the Provincial Edict, Book IX.*
+2. *Gaius, On the Provincial Edict, Book IX.*
 
 In the same form in which the agent made the contract, provided he
 cannot protect himself in any other way.
 
-\3. *Ulpianus, On the Edict, Book XXVIII.*
+3. *Ulpianus, On the Edict, Book XXVIII.*
 
 An agent is so called because he interposes in the transaction of
 business, and does it make much difference whether he is appointed to
 conduct a shop, or to engage in any other kind of employment:
 
-\4. *Paulus, On the Edict, Book XXX.*
+4. *Paulus, On the Edict, Book XXX.*
 
 As they sometimes take goods to the houses of honorable persons, and
 sell them there. The place where the property is sold or purchased does
 not change the cause of action, since in each instance it is true that
 the agent has bought or sold.
 
-\5. *Ulpianus, On the Edict, Book XXVIII.*
+5. *Ulpianus, On the Edict, Book XXVIII.*
 
 Therefore, no matter what business he has been appointed to transact he
 will be properly styled an agent.
 
-\(1) For Servius also, in the first book on Brutus, says that where any
+(1) For Servius also, in the first book on Brutus, says that where any
 business is transacted with a person who has charge of a house, or with
 some one who has been appointed to superintend the building or to buy
 grain, he will be liable for the entire amount.
 
-\(2) Labeo also stated that where anyone has appointed a person to lend
+(2) Labeo also stated that where anyone has appointed a person to lend
 money at interest, to cultivate land, to engage in commerce, or to make
 contracts, he is liable in full.
 
-\(3) Moreover, where anyone has appointed his slave to have charge of a
+(3) Moreover, where anyone has appointed his slave to have charge of a
 broker's table, he will be liable on his account.
 
-\(4) It is also settled that those who are appointed by clothing
+(4) It is also settled that those who are appointed by clothing
 merchants or weavers of linen to go about for the sale of clothing, whom
 we ordinarily call *circitores*, should also be designated as agents.
 
-\(5) Anyone may also properly call muleteers agents,
+(5) Anyone may also properly call muleteers agents,
 
- (6) As well as those who are appointed by fullers and tailors.
+(6) As well as those who are appointed by fullers and tailors.
 Stable-keepers should likewise be considered as occupying the place as
-
 agents.
 
-\(7) Labeo also says that if a shop-keeper despatches his slave to a
+(7) Labeo also says that if a shop-keeper despatches his slave to a
 distance for the purpose of purchasing merchandise and sending it to
 him, he must be considered to occupy the place of an agent.
 
-\(8) He also says that, if an undertaker has a slave whose duty it is to
+(8) He also says that, if an undertaker has a slave whose duty it is to
 prepare corpses for burial, and he robs a corpse; a proceeding similar
 to the Institorian Action should be granted against him, although the
 suit for theft and that for injury will both lie.
 
-\(9) Labeo also says that, where a baker was accustomed to send his
+(9) Labeo also says that, where a baker was accustomed to send his
 slave to a certain place for the purpose of selling bread, and he,
 having accepted money to deliver bread to certain parties every day,
 neglected to do so; there is no doubt that the baker will be liable, if
 he permitted the money to be given to him in this manner.
 
-\(10) Where a fuller, being about to start on a long journey, requested
+(10) Where a fuller, being about to start on a long journey, requested
 that directions should be given to his apprentices, to whom he had
 delivered his shop thoroughly equipped; and, after his departure, an
 apprentice had received clothing and taken to flight; the fuller will
@@ -831,60 +795,60 @@ liable. It is evident that if he stated to me that I might trust his
 workmen, he will not be liable to an Institorian Action, but to one on a
 contract for hiring.
 
-\(11) It is not, however, everything which is transacted with the
+(11) It is not, however, everything which is transacted with the
 business-agent which will bind the party who appointed him, but only
 where the contract was made with respect to the matter on account of
 which he was appointed, that is to say, only that for which he was
 appointed.
 
-\(12) Hence, if I appoint anyone to sell merchandise, I shall be liable
+(12) Hence, if I appoint anyone to sell merchandise, I shall be liable
 on his account to the action on purchase; and likewise, if I should
 happen to have appointed him for the purchase of merchandise, I shall be
 liable to the action on sale; but a party will not be bound if the
 appointment was made to purchase and he sells, nor if he was appointed
 to sell and he purchases; and this opinion is approved by Cassius.
 
-\(13) But where anyone lends money to a business-agent appointed to
+(13) But where anyone lends money to a business-agent appointed to
 purchase merchandise, there is ground for the Institorian Action, and,
 in like manner, if he was appointed to pay the rent for the shop; and I
 think that this is true unless he was forbidden to borrow.
 
-\(14) Where, however, a loan of oil is made to a party whom I have
+(14) Where, however, a loan of oil is made to a party whom I have
 appointed to buy and sell oil, it must be said that the Institorian
 Action will lie.
 
-\(15) Likewise, if an agent, when he sold oil, received a ring as
+(15) Likewise, if an agent, when he sold oil, received a ring as
 earnest, and does not return it, his master is liable to an Institorian
 Action; for the contract relates to the business which he was appointed
 to transact, unless he should have been directed to make sales for cash.
 Wherefore, if the agent should have accepted a pledge instead of money,
 an Institorian Action will lie.
 
-\(16) Moreover, the Institorian Action can be brought by a surety who
+(16) Moreover, the Institorian Action can be brought by a surety who
 had interposed in behalf of the agent, for this is a result of the
 transaction.
 
-\(17) If an agent has been appointed by anyone, and he who appointed him
+(17) If an agent has been appointed by anyone, and he who appointed him
 should die, leaving an heir who employs the same agent; there is no
 doubt that he will be liable. Again, if a contract was made with him
 before the estate was entered upon, it is but just that the Institorian
 Action should be granted to one who is ignorant of the facts.
 
-\(18) If, however, my agent, guardian, or curator, should appoint a
+(18) If, however, my agent, guardian, or curator, should appoint a
 business manager, it must be said that an Institorian Action ought to be
 granted, just as if he had been appointed by me.
 
-\6. *Paulus, On the Edict, Book XXX.*
+6. *Paulus, On the Edict, Book XXX.*
 
 The Institorian Action should also be granted against the agent himself,
 if he was one appointed for the transaction of all kinds of business.
 
-\7. *Ulpianus, On the Edict, Book XXVIII.*
+7. *Ulpianus, On the Edict, Book XXVIII.*
 
 Moreover, if anyone who is transacting my business makes an appointment,
 and I ratify it, the same rule will apply.
 
-\(1) It makes little difference who the business-agent may be, whether
+(1) It makes little difference who the business-agent may be, whether
 male or female, freeman or slave, your own slave, or that of
 
 another. It is also of no consequence who appointed him; for if a woman
@@ -894,43 +858,43 @@ woman is appointed, she herself will be liable. Again, if a woman under
 parental control, or a female slave is appointed, the Institorian Action
 can be brought.
 
-\(2) When the business-agent is a minor, he will bind the person who
+(2) When the business-agent is a minor, he will bind the person who
 appointed him by the Institorian Action, as he must blame himself for
 appointing him.
 
-\8. *Gaius, On the Provincial Edict, Book IX.*
+8. *Gaius, On the Provincial Edict, Book IX.*
 
 For many persons appoint boys and girls for the management of shops.
 
-\9. *Ulpianus, On the Edict, Book XXVIII.*
+9. *Ulpianus, On the Edict, Book XXVIII.*
 
 But where a minor himself makes the appointment, he will be liable if
 this was done with the consent of his guardian, otherwise not.
 
-\10. *Gaius, On the Provincial Edict, Book IX.*
+10. *Gaius, On the Provincial Edict, Book IX.*
 
 An action will, nevertheless, be granted against him to the extent that
 he has pecuniarily profited by the transaction.
 
-\11. *Ulpianus, On the Edict, Book XXVIII.*
+11. *Ulpianus, On the Edict, Book XXVIII.*
 
 Where, however, a minor becomes heir to the party who made the
 appointment, it is perfectly just that the minor should be liable so
 long as he retains his appointment; for he ought to have been removed by
 his guardians if they were unwilling to make use of his services.
 
-\(1) But if he who made the appointment was under twenty-five years of
+(1) But if he who made the appointment was under twenty-five years of
 age, he can only claim relief on account of his age after proper
 investigation has been made.
 
-\(2) A party is not deemed to occupy the position of one appointed to
+(2) A party is not deemed to occupy the position of one appointed to
 take charge of a business, if notice has been publicly given that no
 contracts shall be made with him, for it should not be permitted to
 transact business with him as an agent, and anyone who does not wish
 contracts to be made with him may prohibit it; but the party who
 appointed him will be bound by the appointment itself.
 
-\(3) To give public notice we understand to mean that it shall be made
+(3) To give public notice we understand to mean that it shall be made
 in plain letters, so as to be easily read from the ground; that is to
 say, in front of the shop or place where the business is carried on, not
 in a retired place, but in one which is conspicuous. Shall the notice be
@@ -940,7 +904,7 @@ letters. It is certain that if anyone alleges that he is unable to read,
 or did not observe the notice, as many persons can read, and the notice
 was conspicuously posted, he will not be heard.
 
-\(4) It is essential that the notice should be permanently posted; for
+(4) It is essential that the notice should be permanently posted; for
 if the contract was made before the notice was set up, or it was
 concealed, the Institorian Action will be available. Hence, if the owner
 of merchandise posted *a* notice, but someone removed it, or through
@@ -953,7 +917,7 @@ it for the purpose of deceiving me, his malicious act should prejudice
 the party who appointed him, unless he who made the contract also
 participated in the fraud.
 
-\(5) Any condition upon which the appointment depended must also be
+(5) Any condition upon which the appointment depended must also be
 considered, for what must be done if the party desired business to be
 transacted with him under a certain condition, or through the
 intervention of a certain person, or under a pledge, or with reference
@@ -969,26 +933,26 @@ sometimes with one man and sometimes with another, the changes being
 continual, the action should be granted to all of them against him, as
 parties who make contracts should not be deceived.
 
-\(6) Where the principal absolutely prohibited any contract to be made
+(6) Where the principal absolutely prohibited any contract to be made
 with him, he is not considered to occupy the position of an agent
 appointed for business purposes, since he is rather occupying the
 position of a custodian than of an agent, and therefore he cannot sell
 merchandise, not even the most paltry article, out of the shop.
 
-\(7) Where the Institorian Action has been properly brought, the
+(7) Where the Institorian Action has been properly brought, the
 Tributorian Action is excluded by operation of law, for the Tributorian
 Action with reference to the merchandise of the owner will not be
 available. If, however, the party was not the business-agent for the
 owner's goods, the Tributorian Action will survive.
 
-\(8) Where I hire from your slave the services of his slave, and make
+(8) Where I hire from your slave the services of his slave, and make
 him the business agent for my merchandise, and he sells you any goods,
 this constitutes a purchase; for when a master buys from his slave it is
 a purchase, even though the master may not be liable, to the extent that
 the master can, as a purchaser, possess and acquire property by
 usucaption.
 
-\12. *Julianus, Digest, Book XI.*
+12. *Julianus, Digest, Book XI.*
 
 Therefore an Institorian equitable action can be brought by you against
 me; or, on the other hand, I can sue you either for the *peculium* of
@@ -998,7 +962,7 @@ because I gave him directions to sell the goods, and the price at which
 you made the purchase may be held as having reference to your affairs
 for the reason that you became a debtor to your own slave.
 
-\13. *Ulpianus, On the Edict, Book XXVIII.*
+13. *Ulpianus, On the Edict, Book XXVIII.*
 
 *A* certain man appointed a slave for the management of an oil business
 at Aries, and authorized the said slave to borrow money, and he
@@ -1010,12 +974,12 @@ Although the right of action is extinguished, and he could not proceed
 further as being authorized to obtain loans of money, still, Julianus
 says that an equitable action will lie in his favor.
 
-\(1) It is important to remember that the master is only liable to the
+(1) It is important to remember that the master is only liable to the
 Institorian Action where no one renews the obligation, whether this be
 done by the agent or by some other party who stipulates with the
 intention of renewing it.
 
-\(2) Where two or more persons are conducting a shop, and they appoint
+(2) Where two or more persons are conducting a shop, and they appoint
 as business-agent a slave whom they own in unequal shares, Julianus asks
 whether they are liable in proportion to their shares in the slave, or
 equally, or in proportion to their shares in the merchandise, or indeed,
@@ -1026,7 +990,7 @@ indebtedness, and that whatever he who is sued has paid, he can recover
 by the action on partnership, or by that for the partition of property
 held in common. This opinion we have also approved above.
 
-\14. *Paulus, On Plautius, Book IV.*
+14. *Paulus, On Plautius, Book IV.*
 
 The same rule will apply if a slave belonging to another has been
 appointed to manage a business owned in common; for an action for the
@@ -1041,12 +1005,12 @@ heirs, gave the slave his freedom; for each heir can only be sued for
 his share, because the action for the division of property held in
 common cannot be brought between them.
 
-\15. *Ulpianus, On the Edict, Book XXVIII.*
+15. *Ulpianus, On the Edict, Book XXVIII.*
 
 In conclusion, it should be remembered that these actions are granted
 without reference to time, and both in favor of and against heirs.
 
-\16. *Paulus, On the Edict, Book XXIX.*
+16. *Paulus, On the Edict, Book XXIX.*
 
 Where a contract is made with the steward of anyone, an action is not
 granted against his master, for the reason that a steward is appointed
@@ -1055,7 +1019,7 @@ steward who is also appointed for the sale of merchandise, it is not
 unjust that I should be liable to an action similar to the institorian
 one.
 
-\17. *The Same, On the Edict, Book XXX.*
+17. *The Same, On the Edict, Book XXX.*
 
 Where anyone is appointed for the purpose of purchasing and selling
 slaves, beasts of burden, or cattle, not only the Institorian Action
@@ -1065,25 +1029,25 @@ against the party who appointed him, but also the action for rescission
 of contract,^1^ as well as that on the stipulation for double or single
 damages for the entire amount should be granted against him.
 
-\(1) If you have the slave of Titius as your business-manager, I can
+(1) If you have the slave of Titius as your business-manager, I can
 proceed against you under this Edict, or against Titius under the Edicts
 hereinafter mentioned; but if you have forbidden any contracts to be
 made with him, suit can only be brought against Titius.
 
-\(2) Where a child under puberty becomes the heir of a father who had
+(2) Where a child under puberty becomes the heir of a father who had
 business-agents, and then contracts are made with them; it must be held
 that an action can be granted against the child for the sake of the
 benefit of ordinary commerce; just as where, after the death of a
 guardian with whose consent an agent has been appointed, business is
 transacted with him.
 
-\(3) Pomponius also stated that an action should certainly be granted on
+(3) Pomponius also stated that an action should certainly be granted on
 account of a contract which was concluded before the estate was entered
 upon, even though the heir should become insane; for he is not to blame
 who, being aware that the principal is dead, contracts with the agent
 managing the business.
 
-\(4) Proculus says that if I notify you not to make a loan to a slave
+(4) Proculus says that if I notify you not to make a loan to a slave
 appointed by me, the exception, "If he did not notify him not to lend to
 that slave," may be granted. But if he has any property of his own, or
 anything arising from the contract has been employed in my business, and
@@ -1092,16 +1056,16 @@ pecuniarily benefited, a replication based on malicious intent should be
 filed, for I must be held to be guilty of malicious intent through
 attempting to profit by the loss of another.
 
-\(5) It is true that a personal action for recovery will also be
+(5) It is true that a personal action for recovery will also be
 available in this instance.
 
-\18. *The Same, Various Passages.*
+18. *The Same, Various Passages.*
 
 A business-agent is one who is appointed to take charge of a shop or a
 place to purchase or sell, or one who is appointed for such a purpose
 without any place being designated.
 
-\19. *Papinianus, Opinions, Book III.*
+19. *Papinianus, Opinions, Book III.*
 
 A prætorian action will be granted, as in the case of an Institorian
 Action, against a party who appointed an agent to borrow money; and this
@@ -1123,18 +1087,18 @@ months after the transaction in question had taken place, absolutely
 rescinded the contract, and placed the parties, as far as possible, in
 the same condition, with respect to
 
-\(1) Where a master had a slave as business-manager at a table for
+(1) Where a master had a slave as business-manager at a table for
 receiving money, and after he had given him his freedom carried on the
 same business by his freedman, the fact of responsibility will not be
 removed by the change of civil condition.
 
-\(2) Where a son who was appointed by his father to have charge of his
+(2) Where a son who was appointed by his father to have charge of his
 shop, borrowed money for the purpose of the business, and his father
 became his surety; he can be proceeded against by means of the
 Institorian Action, since, by becoming surety, he connected the act of
 borrowing the money with the business of the shop.
 
-\(3) A slave appointed solely for the purpose of lending money at
+(3) A slave appointed solely for the purpose of lending money at
 interest does not, in the capacity of business manager, render his
 master liable in full, under Prætorian law, by assuming a debt as
 surety; but so far as money which he promised to another (in
@@ -1142,7 +1106,7 @@ consideration of the substitution of liability) at interest is
 concerned, an action can properly be brought against the master on the
 ground of money lent to the party who made the substitution.
 
-\20. *Scævola, Digest, Book V.*
+20. *Scævola, Digest, Book V.*
 
 Lucius Titius had a freedman appointed to take charge of a
 money-broker's table, which he was conducting; and the said freedman
@@ -1157,9 +1121,9 @@ words, nor was there any ground of equity on which he could be sued; as
 he wrote this in the performance of his duty as a business agent, for
 the purpose of maintaining the credit of the bank.
 
-TITLE IV. CONCERNING THE TRIBUTORIAN ACTION.
+* 14.IV. CONCERNING THE TRIBUTORIAN ACTION.
 
-\1. *Ulpianus, On the Edict, Book XXIX.*
+1. *Ulpianus, On the Edict, Book XXIX.*
 
 The advantage of this Edict is far from being of trifling importance, as
 a master, who, otherwise, enjoys a privilege in the case of contracts
@@ -1169,7 +1133,7 @@ master has been deducted), is, nevertheless, called upon by this Edict
 to contribute like any other creditor, if he was aware that the slave
 was transacting business with property belonging to the *peculium.*
 
-\(1) Although the term "merchandise" is one of limited signification,
+(1) Although the term "merchandise" is one of limited signification,
 and does not apply to slaves who are fullers, tailors, weavers, or
 
 the sale, in which they were in the beginning. All profits and
@@ -1181,32 +1145,32 @@ involved the collection of double damages.  ED.
 dealers in slaves, still, Pedius says in the Fifteenth Book that the
 Edict must be held to embrace transactions of every description.
 
-\(2) Merchandise of the *peculium* we do not understand to mean the same
+(2) Merchandise of the *peculium* we do not understand to mean the same
 as the *peculium* itself, for the latter is considered to indicate the
 remainder after what has been due to the master has been deducted; but
 merchandise of the *peculium* renders a master liable to the Tributorian
 Action, even though there may be nothing whatever in the *peculium*,
 only however, where the business is transacted with his knowledge.
 
-\(3) In this instance we understand the word "knowledge" to signify that
+(3) In this instance we understand the word "knowledge" to signify that
 which includes consent, but (as I think) not merely consent but
 tolerance, for the master need not wish it, but he must not be
 unwilling. Hence, if he is aware of the facts, and does not protest and
 evince opposition, he will be liable under the Tributorian Action.
 
-\(4) The term "control" must be extended to both sexes, and also to all
+(4) The term "control" must be extended to both sexes, and also to all
 such as are subject to the power of others.
 
-\(5) The Tributorian Action will be applicable not only to slaves, but
+(5) The Tributorian Action will be applicable not only to slaves, but
 also to such as are serving us in good faith, whether they are free
 born, the slaves of others, or those in whom we have an usufruct,
 
-\2. *Paulus, On the Edict, Book XXX.*
+2. *Paulus, On the Edict, Book XXX.*
 
 Provided that the merchandise which is handled with the money of the
 *peculium* belongs to us.
 
-\3. *Ulpianus, On the Edict, Book XXIX.*
+3. *Ulpianus, On the Edict, Book XXIX.*
 
 Where, however, a slave is held in common, and both owners are aware of
 the fact, an action will be granted against either of them, but if one
@@ -1219,7 +1183,7 @@ indeed, in full; for if he himself was sued in the action on the
 *peculium*, what is owing to him would be deducted in full. This
 Julianus stated in the Twelfth Book of the Digest.
 
-\(1) If the slave of a ward or of an insane person, with the knowledge
+(1) If the slave of a ward or of an insane person, with the knowledge
 of his guardian or curator, employs the funds of the *peculium* in
 business transactions, I am of the opinion that the fraud of the
 guardian or of the curator should not prejudice the ward, or the insane
@@ -1232,7 +1196,7 @@ solvent, his ward is liable on account of his fraud, and it is evident
 that he will be liable to such an extent that he must assign the right
 of action which he has against his guardian.
 
-\(2) Again, if fraud was committed by the ward himself, and he is of
+(2) Again, if fraud was committed by the ward himself, and he is of
 such an age as to be capable of it, it has the effect of rendering him
 
 liable; although his knowledge may not be sufficient for the transaction
@@ -1240,18 +1204,18 @@ of business. What course must then be pursued? The knowledge of the
 guardian and curator should furnish ground for this action, and I have
 shown to what extent fraud may cause injury.
 
-\4. *Paulus, On the Edict, Book XXX.*
+4. *Paulus, On the Edict, Book XXX.*
 
 If the ward, whose guardian was aware of the facts, is guilty of fraud
 after reaching puberty, or the insane person when he becomes of sound
 mind, they will be liable under this Edict.
 
-\5. *Ulpianus, On the Edict, Book XXIX.*
+5. *Ulpianus, On the Edict, Book XXIX.*
 
 Pomponius does not doubt, however, neither do we, that the knowledge and
 the malicious intent of an agent prejudice the principal.
 
-\(1) Where the sub-slave of my slave transacts business, and I am aware
+(1) Where the sub-slave of my slave transacts business, and I am aware
 of the fact, I shall be liable to the Tributorian Action, but if I am
 not aware of it, and the chief slave is, Pomponius states in the
 Sixtieth Book, that an action *De peculio* should be granted, and that
@@ -1267,24 +1231,24 @@ contribution shall be made of both what is due to me and what is due to
 the chief slave, while if the latter was ignorant of the facts, whatever
 was due to him from the sub-slave should be deducted in full.
 
-\(2) Moreover, where a female slave transacts business, we hold that the
+(2) Moreover, where a female slave transacts business, we hold that the
 Tributorian Action will lie.
 
-\(3) Again, it makes little difference whether the contract is entered
+(3) Again, it makes little difference whether the contract is entered
 into with the slave himself or with his business manager.
 
-\(4) The terms, "On account of the business," are added with good
+(4) The terms, "On account of the business," are added with good
 reason, in order to prevent every kind of transaction carried on with
 him from affording ground for the Tributorian Action.
 
-\(5) By means of this action it is established that everything connected
+(5) By means of this action it is established that everything connected
 with the merchandise, or which has been received on account of it, shall
 be subject to contribution.
 
-\(6) Those who have slaves under their control are called upon to
+(6) Those who have slaves under their control are called upon to
 contribute, together with the creditors of the business.
 
-\(7) The question arose, however, whether the master has a right to
+(7) The question arose, however, whether the master has a right to
 share in the division of the merchandise only to the extent of what is
 due to him on account of the same; or whether he can do so on account of
 other matters? Labeo says that this is the case where money is due to
@@ -1293,28 +1257,28 @@ whether the slave became indebted to him before or after the business
 was transacted, for it is sufficient that he has lost the privilege of
 deduction.
 
-\(8) What would be the case, however, if those who contracted with the
+(8) What would be the case, however, if those who contracted with the
 slave received the merchandise itself by way of pledge? I think
 
 that it should be said that they will be preferred to the master by the
 right of pledge.
 
-\(9) Whether the debt is owing to the master or to those who are under
+(9) Whether the debt is owing to the master or to those who are under
 his control, contribution must be made in every instance.
 
-\(10) Where there are two or more masters, contribution should be made
+(10) Where there are two or more masters, contribution should be made
 to each of them in proportion to his debt.
 
-\(11) The entire *peculium*, however, is not subject to contribution,
+(11) The entire *peculium*, however, is not subject to contribution,
 but only that which is connected with the business, whether it consists
 of merchandise, or whether the price of the latter has been received and
 placed in a *peculium.*
 
-\(12) Again, if money was due for merchandise from parties to whom the
+(12) Again, if money was due for merchandise from parties to whom the
 slave was accustomed to make sales, this also will be subject to
 contribution to the extent of the receipts.
 
-\(13) If, in addition to merchandise, this slave has in the shop
+(13) If, in addition to merchandise, this slave has in the shop
 utensils belonging to the business, are these also subject to
 contribution? Labeo says that they are, and this is perfectly just, for
 generally, and in fact always, such tools are derived from the stock.
@@ -1322,11 +1286,11 @@ Other articles, however, which he had in the *peculium* will not be
 liable to contribution, as for instance, if he had silver or gold,
 except where he acquired them with money obtained from trade.
 
-\(14) Moreover, if he employed slaves in the business who had been
+(14) Moreover, if he employed slaves in the business who had been
 acquired with the proceeds of the same, these also will be subject to
 contribution.
 
-\(15) If the slave had several creditors, but some of them were engaged
+(15) If the slave had several creditors, but some of them were engaged
 in certain branches of commerce, are all of them to be brought in and
 called upon to share in the contribution; for example, if he was engaged
 in two kinds of business, such as cloak making and the weaving of linen,
@@ -1334,19 +1298,19 @@ and had separate creditors? It is my opinion that they should be called
 upon separately to share in the contribution, for each of them gave
 credit rather to the business than to the party himself.
 
-\(16) Moreover, if he had two shops devoted to the same kind of
+(16) Moreover, if he had two shops devoted to the same kind of
 business, and I, for example, purchased goods at the shop in the
 *Bucinum*, and someone else made purchases in that across the Tiber; I
 think it would be perfectly just that the contributions should be made
 separately, to avoid having one set of creditors indemnified out of the
 property of the other, and the latter suffer loss.
 
-\(17) It is evident that if merchandise is offered for sale in the same
+(17) It is evident that if merchandise is offered for sale in the same
 shop, even if what was there had been obtained with the money of one of
 the creditors, it will all be subject to contribution, unless it was
 pledged to the creditor.
 
-\(18) If, however, I have delivered my merchandise to be sold, and it is
+(18) If, however, I have delivered my merchandise to be sold, and it is
 still in existence, let us consider whether it will not be unjust that I
 should be called upon for contribution? If, however, I have only a claim
 against the slave, there will be ground for contribution, but if this is
@@ -1355,20 +1319,20 @@ to belong to me, even though I have disposed of it, unless the money has
 been paid, or a surety furnished, or satisfaction made in some other
 manner; it must be said that I can bring an action for recovery.
 
-\(19) Contribution, however, is made in proportion to the amount which
+(19) Contribution, however, is made in proportion to the amount which
 is due to each one; and therefore if one creditor appears asking for
 contribution, he will obtain his share in full, but since it may happen
 that there is one other or several other creditors of the business
 conducted with a *peculium, *this creditor must furnish security that he
 will refund *pro rata* if other creditors should appear.
 
-\6. *Paulus, On the Edict, Book XXX.*
+6. *Paulus, On the Edict, Book XXX.*
 
 For this action does not, like that on the *peculium*, make the
 condition of the prior claimant the better, but it makes that of all of
 them the same, no matter when they file their claims.
 
-\7. *Ulpianus, On the Edict, Book XXIX.*
+7. *Ulpianus, On the Edict, Book XXIX.*
 
 He should also furnish security that, if anything else should be found
 to be due to the master, he will refund it to him *pro rata;* for
@@ -1377,14 +1341,14 @@ which has been concealed; this also must be admitted, for the master
 should not suffer injury, even though he may be called to share in the
 contribution.
 
-\(1) What, however, must be done if the master refuses to make
+(1) What, however, must be done if the master refuses to make
 contribution, or to take this trouble, but is prepared to surrender the
 *peculium* or the goods? Pedius states that he should be heard, and this
 opinion is equitable; and generally, the prætor should appoint an
 arbiter, by whose intervention the goods belonging to the *peculium* may
 be distributed.
 
-\(2) Where, through the malicious contrivance of anyone, the result is
+(2) Where, through the malicious contrivance of anyone, the result is
 that the proper contribution was not made, the Tributorian Action is
 granted against him, in order to compel him to make good the amount by
 which what was contributed is less than it should have been. This action
@@ -1397,21 +1361,21 @@ make proper contribution, he is now not free from fraud. Hence if he
 obtains payment to himself out of the merchandise, he is, in fact, held
 to have fraudulently contributed too little.
 
-\(3) Again, if he permitted the property to be destroyed, or to be
+(3) Again, if he permitted the property to be destroyed, or to be
 converted to an improper purpose, or intentionally sold it at too low a
 price, or did not require payment from the purchasers; it must be held
 that he will be liable to the Tributorian Action, if fraudulent intent
 existed.
 
-\(4) Moreover, if the master denies that anything is due to anybody, it
+(4) Moreover, if the master denies that anything is due to anybody, it
 should be considered whether there is ground for the Tributorian Action.
 The opinion of Labeo that this action will lie is the better one;
 otherwise it will be expedient for the master to set up a denial.
 
-\(5) This action is both perpetual and granted against the heir, but
+(5) This action is both perpetual and granted against the heir, but
 only for the amount which conies into his hands:
 
-\8. *Julianus, Digest, Book XI.*
+8. *Julianus, Digest, Book XI.*
 
 Because the proceeding is not based upon fraud, but includes the
 prosecution of a claim, and therefore, even if the slave is dead, the
@@ -1419,18 +1383,18 @@ master, as well as his heir, should be held perpetually liable for the
 act of the deceased; although the action will not lie except where fraud
 has been committed.
 
-\9. *Ulpianus, On the Edict, Book XXIX.*
+9. *Ulpianus, On the Edict, Book XXIX.*
 
 What we state with respect to the heir will also apply to other
 successors.
 
-\(1) A party must elect by what kind of an action he will proceed,
+(1) A party must elect by what kind of an action he will proceed,
 whether by the one on the *peculium*, or by the Tributorian Action,
 since he knows that he can not have recourse to the other. It is clear
 that if anyone desires to bring the Tributorian Action for one claim,
 and the one *De peculio* for another, he should be heard.
 
-\(2) Labeo says that if the *peculium* is bequeathed to a slave
+(2) Labeo says that if the *peculium* is bequeathed to a slave
 manumitted by will, the heir should not be liable to the Tributorian
 Action, as neither has obtained anything nor has been guilty of fraud.
 Pomponius, in the Sixtieth Book, states that the heir is liable to the
@@ -1443,12 +1407,12 @@ comes into his hands will be granted by us, as often as he is sued on
 account of the fraud of the deceased, but not when he is sued on account
 of his own.
 
-\10. *Paulus, On the Edict, Book XXX.*
+10. *Paulus, On the Edict, Book XXX.*
 
 The action *De peculio* can also be brought against a purchaser of the
 slave; but the Tributorian Action can not.
 
-\11. *Gaius, On the Provincial Edict, Book IX.*
+11. *Gaius, On the Provincial Edict, Book IX.*
 
 It is sometimes more expedient for parties to bring suit by the action
 *De peculio* than by the Tributorian Action, for in the one of which we
@@ -1461,7 +1425,7 @@ business is being conducted perhaps with a half, or a third, or even a
 smaller portion of the *peculium;* and it also may happen that nothing
 is owing by the party to his father or owner.
 
-\12. *Julianus, Digest, Book XII.*
+12. *Julianus, Digest, Book XII.*
 
 One man brings a suit against the master on account of the slave, only
 on the *peculium*, another institutes proceedings under the Tributorian
@@ -1483,16 +1447,11 @@ that he still must pay five *aurei *on his account in the Tributorian
 Action. Wherefore, if he institutes proceedings with reference to the
 *peculium*, (if by chance there should be other *peculium* than that
 invested in the business) he has a right to deduct five *aurei* as being
-still a creditor of
+still a creditor of the slave.
 
-the slave.
+* 14.V. CONCERNING TRANSACTIONS SAID TO HAVE TAKEN PLACE WITH A PERSON UNDER THE CONTROL OF ANOTHER.
 
-TITLE V.
-
-CONCERNING TRANSACTIONS SAID TO HAVE TAKEN PLACE WITH A PERSON UNDER THE
-CONTROL OF ANOTHER.
-
-\1. *Gaius, On the Provincial Edict, Book IX.*
+1. *Gaius, On the Provincial Edict, Book IX.*
 
 The Proconsul takes every precaution to enable one party who has
 contracted with another that is under the control of a third, where the
@@ -1507,7 +1466,7 @@ Proconsul introduces an action to the extent to which this has been
 done, and if neither of these conditions exist, he establishes an action
 for the amount of the *peculium.*
 
-\2. *Ulpianus, On the Edict, Book XXIX.*
+2. *Ulpianus, On the Edict, Book XXIX.*
 
 The Prætor says: "After proper cause is shown I will grant an action for
 the amount that the party is able to pay against anyone who is
@@ -1518,13 +1477,13 @@ consent of the party to whose control he was subject; and whether this
 was done for the benefit of his own *peculium*, or for that of the
 estate of him under whose control he was."
 
-\(1) Further, if he had become his own master without emancipation, or
+(1) Further, if he had become his own master without emancipation, or
 was given in adoption and his natural father afterwards died, and,
 moreover, if he had been appointed heir to a very small share of the
 estate, it is perfectly just that, after investigation, an action should
 be granted against him for the amount that he is able to pay.
 
-\3. *The Same, Disputations, Book III.*
+3. *The Same, Disputations, Book III.*
 
 Should it be discussed in this instance whether what is due to others
 should be deducted? And, indeed if the parties who contracted with
@@ -1536,7 +1495,7 @@ without reason consideration will be paid to this prior creditor. But if
 there are creditors who contracted with him after he became his own
 master, I think that they should be considered.
 
-\4. *The Same, On the Edict, Book XXIX.*
+4. *The Same, On the Edict, Book XXIX.*
 
 But where the son is appointed heir of a larger portion of the estate,
 it is in the choice of the creditor whether he will sue him for the
@@ -1544,28 +1503,28 @@ share of the estate to which he is entitled, or for the entire amount of
 the claim. In this instance also it is the duty of the judge to decide
 whether he should be sued only for the amount which he is able to pay.
 
-\(1) Sometimes, however, if the son is disinherited or emancipated, an
+(1) Sometimes, however, if the son is disinherited or emancipated, an
 action will be granted against him for the entire amount; for example,
 if, when the contract was made with him, he denied that he was the head
 of the household; for Marcellus stated in the Second Book of the Digest
 that an action can be brought against him on account of his falsehood,
 even if he is not able to pay.
 
-\(2) Although an action can be brought against him on his contracts only
+(2) Although an action can be brought against him on his contracts only
 for the amount that he is able to pay, still, he may be sued for the
 entire amount on account of his offences.
 
-\(3) Relief is granted to the son alone, and not to his heir also; for
+(3) Relief is granted to the son alone, and not to his heir also; for
 Papinianus states in the Ninth Book of Questions that an action for the
 entire indebtedness should be granted against the heir of the son.
 
-\(4) But ought not the lapse of time be considered, so that, if
+(4) But ought not the lapse of time be considered, so that, if
 proceedings are instituted without delay against the son, the action may
 be granted for what he is able to pay, but if many years have elapsed he
 should not be indulged in this way? It seems to me that it ought to be
 considered, for the investigation of the case will include this.
 
-\(5) Where a party brings suit on the *peculium* when he could have
+(5) Where a party brings suit on the *peculium* when he could have
 brought an action on the ground of having been expressly authorized, he
 is in the position of not being able subsequently to bring an action on
 the ground of special authority given; and this is the opinion of
@@ -1573,7 +1532,7 @@ Proculus. But if the plaintiff, having been deceived, brings the action
 *De peculio*, Celsus thinks that he is entitled to relief, and this
 opinion is reasonable.
 
-\5. *Paulus, On the Edict, Book XXX.*
+5. *Paulus, On the Edict, Book XXX.*
 
 Where a son under paternal control is sued and has judgment rendered
 against him during the lifetime of his father, an action on the
@@ -1586,16 +1545,16 @@ on a judgment was not vested in the court, but it was left to the
 discretion of the plaintiff, to whose tender mercies the unsuccessful
 party was, to all intents and purposes, abandoned.
 
-\(1) If the estate of his father has been restored to a disinherited son
+(1) If the estate of his father has been restored to a disinherited son
 under the Trebellian Decree of the Senate, judgment should not be
 rendered against him to the extent of his capacity to pay, but for the
 entire amount, because, in fact, he is, in some respects, an heir.
 
-\(2) But if, having been forced to do so, he has interfered with the
+(2) But if, having been forced to do so, he has interfered with the
 estate for the purpose of transferring it, the same proceedings should
 be taken as if he had rejected it.
 
-\6. *Ulpianus, Disputations, Book II.*
+6. *Ulpianus, Disputations, Book II.*
 
 Marcellus states that a person who pretends to be the head of a family
 and enters into a stipulation under the direction of any one, is liable
@@ -1604,7 +1563,7 @@ and, in fact, it is true that he should be liable, because he has been
 guilty of fraud. This also can be said with reference to all actions
 based on good faith.
 
-\7. *Scævola, Opinions, Book I.*
+7. *Scævola, Opinions, Book I.*
 
 A father allowed his son to borrow money, and directed the creditor by
 letter to lend it to him, and the son became an heir to his father for a
@@ -1614,7 +1573,7 @@ money, for the entire amount, or the heirs, each in proportion to the
 share to which he had succeeded. Judgment was rendered against the son
 to the extent of his capacity to pay.
 
-\8. *Paulus, Decrees, Book I.*
+8. *Paulus, Decrees, Book I.*
 
 Titianus Primus appointed a slave for the purpose of lending money and
 taking pledges; and the said slave was also accustomed to bind himself
@@ -1641,7 +1600,7 @@ the unfortunate defendant was treated with some degree of leniency. Prom
 this proceeding was derived the *Actio judicati*, or suit to enforce
 judgment, which was brought before the Prætor as a preliminary to
 execution. No analogy existed between it and execution at Common Law
-where the process was issued directly by the Court.  ED.
+where the process was issued directly by the Court. --- ED.
 
 We stated that he appeared to be a kind of surety, since he was paying
 the debts of another, for he assumed payment in behalf of others, but
@@ -1650,9 +1609,9 @@ reason of this kind, nor did it appear that the master had directed him
 to do this. But as he seemed to have appointed the slave to act in his
 behalf in all these transactions, the Emperor confirmed the decision.
 
-TITLE VI. CONCERNING THE MACEDONIAN DECREE OF THE SENATE.
+* 14.VI. CONCERNING THE MACEDONIAN DECREE OF THE SENATE.
 
-\1. *Ulpianus, On the Edict, Book XXIX.*
+1. *Ulpianus, On the Edict, Book XXIX.*
 
 The words of the Macedonian Decree of the Senate are as follows:
 "Whereas, among the other causes of crime which nature bestowed upon
@@ -1666,7 +1625,7 @@ interest, set an extremely bad example, may learn that the obligation of
 no son under paternal control can become a valid claim by waiting for
 the death of his father."
 
-\(1) If the question as to whether the son is under parental control is
+(1) If the question as to whether the son is under parental control is
 in abeyance, for instance, because his father is in the hands of the
 enemy, the question as to whether the Decree of the Senate has been
 violated is itself in abeyance; for if he should again come under
@@ -1674,24 +1633,24 @@ parental control, the Decree of the Senate will become operative, but if
 he does not, it will not apply; and therefore in the meantime an action
 should be refused.
 
-\(2) It is certain that if a party who has been arrogated borrows money
+(2) It is certain that if a party who has been arrogated borrows money
 and afterwards obtains restitution, so that he can be emancipated, the
 Decree of the Senate will be available, for he was a son under paternal
 control.
 
-\(3) Any office held by a son under paternal control will not cause the
+(3) Any office held by a son under paternal control will not cause the
 Macedonian Decree of the Senate to become inoperative; for even though
 he be Consul, or hold any other office, the Decree of the Senate
 applies, unless he should have *castrense peculium*, for in this
 instance the Decree of the Senate will not be applicable.
 
-\2. *The Same, On the Edict, Book LX1V.*
+2. *The Same, On the Edict, Book LX1V.*
 
 To the extent that this has reference to the *castrense peculium, *since
 sons under paternal control perform the functions of heads of families,
 so far as the *castrense peculium* is concerned.
 
-\3. *The Same, On the Edict, Book XXIX.*
+3. *The Same, On the Edict, Book XXIX.*
 
 Where anyone believed an individual to be the head of a family, not
 having been deceived by vain folly or ignorance of law, but because he
@@ -1700,17 +1659,15 @@ was publicly considered by most persons to be such, and acted,
 made contracts, and performed the duties of offices as the head of a
 household, the Decree of the Senate will not be applicable.
 
-\(1) Wherefore, Julianus states in the Twelfth Book of the Digest that
+(1) Wherefore, Julianus states in the Twelfth Book of the Digest that
 the Decree of the Senate will not apply in the case of a party who was
 accustomed to farm out the public revenues, and this has been frequently
 decided by the Emperor.
 
-\(2) Hence, where a person could not know whether another was a son
+(2) Hence, where a person could not know whether another was a son
 under paternal control or not, Julianus says, in the Twelfth Book, that
 the Decree of the Senate will not be applicable; as, for instance, in
-the case of a ward or a minor under twenty-five years
-
-of age.
+the case of a ward or a minor under twenty-five years of age.
 
 But so far as the minor is concerned, relief should be granted by the
 Prætor after investigation, but in the case of the ward, he should say
@@ -1725,7 +1682,7 @@ not become a loan even if he had the unrestricted management of the
 says the right to bring suit for the recovery of the money remains with
 the father.
 
-\(3) Only he, however, violates the Decree of the Senate who lent money
+(3) Only he, however, violates the Decree of the Senate who lent money
 to a son under paternal control, not one who contracted otherwise, for
 example, one who has sold, leased, or entered into a contract of another
 kind, for it was the giving of money which was held to be dangerous to
@@ -1742,7 +1699,7 @@ to sell to him, in order that he might have the price of the
 
 property instead of a loan.
 
-\(4) If I entered into a stipulation with a son under paternal control,
+(4) If I entered into a stipulation with a son under paternal control,
 and lent him money after he became the head of the household, whether
 his change of civil status had occurred through the death of his father,
 or he had become his own master in some other way without affecting his
@@ -1750,18 +1707,18 @@ civil rights; it should be held that the Decree of the Senate is not
 operative, because the loan was made to one who was already the head of
 a family;
 
-\4. *Scævola, Questions, Book II.*
+4. *Scævola, Questions, Book II.*
 
 For what is commonly stated, namely: that it is not lawful to lend to a
 son under paternal control, does not relate to the terms of the
 transaction, but to the payment of the money.
 
-\5. *Paulus, Questions, Book III.*
+5. *Paulus, Questions, Book III.*
 
 Therefore, in this instance, judgment will be rendered against him for
 the entire amount, and not for what he is able to pay.
 
-\6. *Scævola, Questions, Book II.*
+6. *Scævola, Questions, Book II.*
 
 On the other hand, it is very properly stated that, if you have entered
 into a stipulation with the head of a family, and afterwards lend the
@@ -1769,7 +1726,7 @@ money to him when he has become a son under paternal control, the power
 of the Decree of the Senate should be exercised, because the substantial
 part of the obligation was completed by the payment of the money.
 
-\7. *Ulpianus, On the Edict, Book XXIX.*
+7. *Ulpianus, On the Edict, Book XXIX.*
 
 Also, if a son subject to paternal control becomes a surety, Neratius
 states in the First and Second Book of Opinions that the Decree of the
@@ -1781,13 +1738,13 @@ against the Decree of the Senate causes prejudice, and that an exception
 should be granted to the son under paternal control as well as to the
 principal debtor, since relief is granted also to the surety of a son.
 
-\(1) He also says that if I accept two debtors, a son under paternal
+(1) He also says that if I accept two debtors, a son under paternal
 control and Titius, when the money was to come into the hands of the
 former, but I accept Titius as the principal debtor, in order that, as
 surety, he might not take advantage of the Decree of the Senate; an
 exception based upon this fraudulent act should be granted.
 
-\(2) Moreover, if a son under paternal control when his father had been
+(2) Moreover, if a son under paternal control when his father had been
 exiled or was absent for a long time, promised a dowry for his daughter,
 and gave property of his father in pledge; the Decree of the Senate will
 not apply, and the property of the father will not be liable. It is
@@ -1795,7 +1752,7 @@ evident that if the son becomes the heir of his father, and brings an
 action to recover the pledge, he will be barred by an exception on the
 ground of fraud.
 
-\(3) It should be considered whether we ought to hold that a loan is not
+(3) It should be considered whether we ought to hold that a loan is not
 only the payment of money, but, in fact, the delivery of everything
 which can be lent. The words, however, seem to me to refer to money
 paid, for the Decree of the Senate says, "Has lent money." But if a
@@ -1804,41 +1761,41 @@ grain, wine, or oil is lent, so that, these things having been sold, the
 money obtained from them may be used, relief should be granted to a son
 under paternal control.
 
-\(4) Where the son was under the control of one party when the loan was
+(4) Where the son was under the control of one party when the loan was
 made, and is now under that of another, the intention of the Decree of
 the Senate remains, and an exception will therefore be granted.
 
-\(5) But if it was not the death of the father, but something else which
+(5) But if it was not the death of the father, but something else which
 happened to him, through which his civil status was changed, it must be
 said that the Decree of the Senate will be operative.
 
-\(6) The action should be denied not only to the party who lent the
+(6) The action should be denied not only to the party who lent the
 money, but also to his successors.
 
-\(7) Hence, if one person paid the money and another made the
+(7) Hence, if one person paid the money and another made the
 stipulation, the exception would be granted against the latter, even
 though he did not make the payment. But if one or the other of them was
 not aware that he was under the control of his father, the severe rule
 that the rights of both are prejudiced, is applicable. This is also the
 case where two debtors enter into the stipulation.
 
-\(8) Moreover, if I accepted two sons under paternal control as debtors,
+(8) Moreover, if I accepted two sons under paternal control as debtors,
 but thought that one of them was the head of a family; it will make a
 difference which of them got the money, so that, if I was aware that the
 one to whom the money went was a son under paternal control, I shall be
 barred by an exception; but if I did not know into whose hands it came,
 I will not be barred.
 
-\(9) The Decree of the Senate will apply whether the money was
+(9) The Decree of the Senate will apply whether the money was
 
 lent at interest, or without it.
 
-\(10) Although the Senate does not state to whom it grants the
+(10) Although the Senate does not state to whom it grants the
 exception, still, it must be remembered that the heir of a son under
 paternal control, if he dies the head of a family, and his father, if he
 dies under paternal control, can make use of the exception.
 
-\(11) Sometimes, however, even though there is ground for the Decree of
+(11) Sometimes, however, even though there is ground for the Decree of
 the Senate, still, an action will be granted against a third party; as,
 for instance, if a son under paternal control, who is a business
 manager, borrowed money; for Julianus states in the Twelfth Book that
@@ -1855,7 +1812,7 @@ have contracted with the consent of the father; for if the latter knew
 that he was transacting business, he may be held to have permitted this
 also, if he did not expressly forbid it.
 
-\(12) Thus, if he has borrowed money and employed it in his father's
+(12) Thus, if he has borrowed money and employed it in his father's
 business, the Decree of the Senate will not apply, for he borrowed it
 for his father and not for himself. But if in the beginning he did not
 borrow it for this purpose, but afterwards employed it in the business
@@ -1867,36 +1824,36 @@ it in this manner if he pays to his father, for the settlement of his
 own debt, money which he has borrowed; and therefore, if his father was
 not aware of it, the Decree of the Senate will still be operative.
 
-\(13) Where it is stated that the Decree of the Senate does not apply in
+(13) Where it is stated that the Decree of the Senate does not apply in
 the case of a person who, being absent for the purpose of prosecuting
 his studies, borrowed money; it will be applicable if he, when borrowing
 the money, did not exceed a moderate limit, or, at all events, the
 amount with which his father was accustomed to provide him.
 
-\(14) If a son has borrowed money in order to satisfy someone who, if he
+(14) If a son has borrowed money in order to satisfy someone who, if he
 should bring suit could not be barred by an exception, an exception
 based on the Decree of the Senate will not be available.
 
-\(15) Again, the Decree of the Senate will not apply if the father
+(15) Again, the Decree of the Senate will not apply if the father
 begins to pay what the son has borrowed, just as if he ratified the act.
 
-\(16) If, after he has become the head of a family, he pays part of the
+(16) If, after he has become the head of a family, he pays part of the
 debt, the Decree of the Senate will not apply, and he cannot recover
 what he paid.
 
-\8. *Paulus, On the Edict, Book XXX.*
+8. *Paulus, On the Edict, Book XXX.*
 
 If, however, payment has been made through ignorance by a curator, the
 amount can be recovered.
 
-\9. *Ulpianus, On the Edict, Book XXIX.*
+9. *Ulpianus, On the Edict, Book XXIX.*
 
 But if, when he has become the head of a family, he gives property by
 way of pledge, it must be said that the exception based on the Decree of
 the Senate should be refused him, to the extent of the value of the
 pledge.
 
-\(1) Where the son pays the creditor money which has been given to him,
+(1) Where the son pays the creditor money which has been given to him,
 can a father claim said money as belonging to him, or can he recover it
 by a personal action? Julianus says that if, in fact, the money was
 given to him on the condition that he should pay it to the creditor, it
@@ -1906,7 +1863,7 @@ merely given to him, the son had no right to dispose of the money, and
 therefore, if he paid it, an action for its recovery will lie in behalf
 of the father, in any event.
 
-\(2) This Decree of the Senate has reference also to daughters under
+(2) This Decree of the Senate has reference also to daughters under
 paternal control, nor does it signify if they are said to have obtained
 ornaments with the money; for an action is refused by a Decree of the
 most eminent Order of the State to a party who has lent money to a son
@@ -1916,7 +1873,7 @@ therefore, should a party who has lent money to a daughter under
 paternal control have his contract disapproved by the severity of the
 Decree of the Senate.
 
-\(3) Relief is not only granted to a son under paternal control and to
+(3) Relief is not only granted to a son under paternal control and to
 his father, but also to his surety, and to the party under whose
 direction he acted, and who themselves may have recourse to the action
 on mandate, unless they have intervened with the intention of making a
@@ -1926,7 +1883,7 @@ Senate will not be applicable. If, however, the parties intervened,
 not with the intention of making a gift, but at the wish of the father,
 the entire contract will be held to have been approved by the latter.
 
-\(4) Those also have intervened in behalf of a son under paternal
+(4) Those also have intervened in behalf of a son under paternal
 control without the consent of the father, cannot recover after they
 have made payment; for this was decreed also by the Divine Hadrian, and
 it may be said that they will not recover their money. Still, however,
@@ -1936,12 +1893,12 @@ what they have paid who are released from an action by way of penalty on
 the creditors, and not because the law intended that they should be
 absolutely discharged from liability.
 
-\(5) Although they cannot recover after having paid,
+(5) Although they cannot recover after having paid,
 
-\10. *Paulus, On the Edict, Booh XXX.* Because the natural obligation
+10. *Paulus, On the Edict, Booh XXX.* Because the natural obligation
 remains;
 
-\11. *Ulpianus, On the Edict, Book XXIX.*
+11. *Ulpianus, On the Edict, Book XXIX.*
 
 Still, if not having pleaded an exception, they have judgment rendered
 against them, they can make use of the exception based on the Decree of
@@ -1949,7 +1906,7 @@ the Senate. Julianus stated this in the case of a son who was himself
 under paternal control, just as in the case of a woman who becomes a
 surety.
 
-\12. *Paulus, On the Edict, Book XXX.*
+12. *Paulus, On the Edict, Book XXX.*
 
 Where money is lent to a son with the mere knowledge of his father, it
 must be said that the Decree of the Senate is not applicable. But if the
@@ -1958,13 +1915,13 @@ his mind without the creditor being aware of the fact, there will be no
 ground for the Decree of the Senate, as the beginning of the contract
 should be considered.
 
-\13. *Gaius, On the Provincial Edict, Book IX.*
+13. *Gaius, On the Provincial Edict, Book IX.*
 
 If we enter into a stipulation with a son under paternal control, for
 the payment of a loan made to a third party for the purpose of renewal,
 Julianus says that the Decree of the Senate will be no impediment.
 
-\14. *Julianus, Digest, Book XII.*
+14. *Julianus, Digest, Book XII.*
 
 I have a son, and a grandson by him; a loan was made to my grandson
 under the direction of his father, the question arose whether this was
@@ -1976,7 +1933,7 @@ being considered as made in violation of the Decree of the Senate, as he
 himself is in such a position that he cannot borrow money if his father
 is unwilling.
 
-\15. *Marcianus, Institutes, Book XIV.*
+15. *Marcianus, Institutes, Book XIV.*
 
 It makes no difference who has made a loan to a son under paternal
 control, whether it is a private individual or a city; for the Divine
@@ -1984,7 +1941,7 @@ control, whether it is a private individual or a city; for the Divine
 Severus and Antoninus stated in Rescript that the Decree of the Senate
 is also operative in the case of a city.
 
-\16. *Paulus, Opinions, Book IV.*
+16. *Paulus, Opinions, Book IV.*
 
 If a son under paternal control during the absence of his father,
 borrows money as having received a mandate from his father, and enters
@@ -1992,14 +1949,14 @@ into an obligation, and sends letters to his father to pay the money in
 a province; his father, if he disapproves of the act of his son, should
 immediately send a statement of his wish to the contrary.
 
-\17. *The Same, Sentences, Book II.*
+17. *The Same, Sentences, Book II.*
 
 Where a son under paternal control borrows money for the purpose of
 giving it as a dowry for his sister, his father will be liable to an
 action for property employed in his affairs; for he will have a right to
 recover the dowry if the girl dies during marriage.
 
-\18. *Venuleius, Stipulations, Book II.*
+18. *Venuleius, Stipulations, Book II.*
 
 Julianus states that the creditor of a son under paternal control cannot
 receive a surety after the death of the latter, because no civil or
@@ -2008,14 +1965,14 @@ is evident that a surety can be properly received from the father on
 account of the action on the *peculium* which may be brought against
 him.
 
-\19. *Pomponius, Various Passages, Book VII.*
+19. *Pomponius, Various Passages, Book VII.*
 
 Julianus states that an exception based on the Macedonian Decree of the
 Senate offers no hindrance to anyone except to a party who knew, or
 could have known, that he to whom he made the loan was a son under
 paternal control.
 
-\20. *The Same, On the Decrees of the Senate, Book V.*
+20. *The Same, On the Decrees of the Senate, Book V.*
 
 If a person to whom money was lent while he was under the control of his
 father, after he himself becomes the head of the family, through

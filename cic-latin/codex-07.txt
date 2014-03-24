@@ -1,7 +1,5 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI CODEX
-
 * LIBER SEPTIMUS
 
 + 7.1.0. De vindicta libertate et apud consilium manumissione.
@@ -1516,7 +1514,7 @@ Omnes, qui quascumque res mobiles vel immobiles seu se moventes vel in actionibu
 
 7.37.2.1: Imperator Zeno
 
-Ad haec fiscalium rerum emptoribus cum ratione iustitiae consulentes iubemus, quotiens competens scrinium gestis intervenientibus distractarum rerum pretia sese deposuerit suscepisse, minime post huiusmodi solutae pecuniae depositionem emptores quasi non numeratis pecuniis molestari vel necessitatem isdem emptoribus imponi, licet non sollemnem consecuti fuerint securitatem, soluta fuisse pretia probare. sed cum sit in arbitrio pretia suscipientis minime deponere sese quod non accepit suscepisse, ita convenit nec emptores plenissimam ex huiusmodi depositione super pretii solutione securitatem consecutos ullum ( sicut dictum est) ulterius probatione gravamen penitus formidare. <>
+Ad haec fiscalium rerum emptoribus cum ratione iustitiae consulentes iubemus, quotiens competens scrinium gestis intervenientibus distractarum rerum pretia sese deposuerit suscepisse, minime post huiusmodi solutae pecuniae depositionem emptores quasi non numeratis pecuniis molestari vel necessitatem isdem emptoribus imponi, licet non sollemnem consecuti fuerint securitatem, soluta fuisse pretia probare. sed cum sit in arbitrio pretia suscipientis minime deponere sese quod non accepit suscepisse, ita convenit nec emptores plenissimam ex huiusmodi depositione super pretii solutione securitatem consecutos ullum (sicut dictum est) ulterius probatione gravamen penitus formidare. <>
 
 7.37.3pr.: Imperator Justinianus
 

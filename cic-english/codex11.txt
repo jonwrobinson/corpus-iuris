@@ -1,185 +1,123 @@
 # -*- mode: org -*-
 
-
-THE CODE OF OUR LORD THE MOST HOLY EMPEROR JUSTINIAN.
-SECOND EDITION. BOOK XI
-
-BOOK XI.
-TITLE I.
-CONCERNING THE TRANSPORTATION OF PUBLIC PROPERTY BY SHIP-OWNERS OR SHIP-
-MASTERS, AND THE ABOLITION OF THE TAX KNOWN AS LUSTRAL GOLD
-. 163
-TTIITTLLEE IIII..
-CONCERNING LAND AND ALL OTHER PROPERTY BELONGING TO SHIPOWNERS
-. 165
-TITLE III. CONCERNING EXCUSES FOR SHIPS WHICH SHALL NOT BE ACCEPTED  166
-TITLE IV. No ADDITION SHALL BE MADE TO PUBLIC BURDENS .... 167
-TITLE V. CONCERNING SHIPWRECKS ... 167
-TITLE VI. CONCERNING MINERS, MINES, AND THE SUPERINTENDENTS OF THE LATTER 169
-TTIITTLLEE VVIIII..
-CONCERNING DYERS OF PURPLE, INMATES AND SUPERINTENDENTS OF THE GYNECEUM,
-MASTERS OF THE MINT, AND CARRIERS . 170
-TTIITTLLEE VViillll..
-CONCERNING CLOTHING COMPOSED ENTIRELY OF SILK AND GOLD, AND OF THE DYE OF THE
-IMPERIAL PURPLE . 174
-TITLE IX. CONCERNING MANUFACTURERS .... 175
-TITLE X. CONCERNING THE VALUE OF ANCIENT MONEY . 177
-TTIITTLLEE XXLL
-No ONE SHALL BE PERMITTED TO ADORN THE BRIDLES OR SADDLES OF THEIR HORSES OR
-THEIR OWN BELTS WITH PEARLS, EMERALDS, OR HYACINTHS, AND CONCERNING THE
-ARTIFICERS OF THE PALACE  177
-TITLE XII. CONCERNING MARINES . 178
-TITLE XIII. CONCERNING THE DECURIALS OF THE CITY OF ROME ... 178
-TTIITTLLEE XXIIVV..
-CONCERNING THE PRIVILEGES ENJOYED BY MEMBERS OF CORPORATE BODIES OF THE CITY OF
-ROME .. 179
-TTIITTLLEE XXVV.. PPAAGGEE CCOONNCCEERRNNIINNGG BBAAKKEERRSS .
-117799
-TTIITTLLEE XXVVII..
-CONCERNING THE PORK-BUTCHERS, WINE-MERCHANTS, AND OTHER CORPORATIONS
- 180
-TITLE XVII. CONCERNING MEMBERS OP CORPORATIONS AND MONEY BROKERS .... 180
-TTIITTLLEE XXVVIIIIII..
-CONCERNING LIBERAL STUDIES IN THE CITIES OP ROME AND CONSTANTINOPLE
-.. 181
-TITLE XIX. CONCERNING THE VEHICLES OP PERSONS INVESTED WITH HONORS .. 182
-TITLE XX. CONCERNING THE PRIVILEGES OF THE CITY OF CONSTANTINOPLE ... 182
-TITLE XXI. CONCERNING THE METROPOLIS OF BERYTUS ... 182
-TITLE XXII. CONCERNING THE CONTRIBUTION OF GRAIN MADE TO THE CITY OP ROME. .
-182
-TITLE XXIII. CONCERNING GRAIN DESTINED FOR THE CITY OF CONSTANTINOPLE .
-183
-TITLE XXIV. CONCERNING CIVIL CONTRIBUTIONS OF GRAIN .
-184
-TITLE XXV. CONCERNING STURDY BEGGARS .... 185
-TITLE XXVI. CONCERNING BOATS PLYING ON THE TIBER ... 185
-TITLE XXVII. CONCERNING GRAIN DESTINED FOR THE CITY OF ALEXANDRIA .
-185
-TITLE XXVIII. CONCERNING THE PRIMATES OF THE CITY OF ALEXANDRIA ....
-186
-TITLE XXIX. CONCERNING THE RIGHTS OF THE STATE .
-186
-TITLE XXX. CONCERNING THE ADMINISTRATION OF PUBLIC AFFAIRS  187
-TITLE XXXI. CONCERNING THE SALE OF PROPERTY BELONGING TO THE STATE ... 187
-TITLE XXXII. PAGE CONCERNING THE DEBTORS OF CITIES
-... 188
-TTIITTLLEE XXXXXXIIIIII..
-CCOONNCCEERRNNIINNGG TTHHEE LLIIAABBIILLIITTYY OOFF TTHHOOSSEE WWHHOO MMAAKKEE AAPPPPOOIINNTTMMEENNTTSS .. 118899
-TTIITTLLEE XXXXXXIIVV..
-CONCERNING THE LIABILITY OF THOSE WHO BECOME SURETIES FOR MAGISTRATES
-.. 189
-TITLE XXXV. IN WHAT ORDER PERSONS MUST BE SUED .... 190
-TTIITTLLEE XXXXXXVVII..
-No FREEMAN CAN BE COMPELLED TO PERFORM THE FUNCTIONS OF A MUNICIPAL SERVANT
-... 191
-TTIITTLLEE XXXXXXVVIIII..
-THE EXPENSES OF THE OFFICE TO WHICH THEY HAVE BEEN APPOINTED MUST BE BORNE BY
-ALL THE INCUMBENTS OF SAID OFFICE ... 191
-TTIITTLLEE XXXXXXVVIIIIII..
-CONCERNING THOSE AGAINST WHOM LEGAL PROCEEDINGS ARE INSTITUTED ON ACCOUNT OF
+* BOOK XI.
++ 11.I. CONCERNING THE TRANSPORTATION OF PUBLIC PROPERTY BY SHIP-OWNERS OR SHIP MASTERS, AND THE ABOLITION OF THE TAX KNOWN AS LUSTRAL GOLD
++ 11.II. CONCERNING LAND AND ALL OTHER PROPERTY BELONGING TO SHIPOWNERS
++ 11.III. CONCERNING EXCUSES FOR SHIPS WHICH SHALL NOT BE ACCEPTED
++ 11.IV. No ADDITION SHALL BE MADE TO PUBLIC BURDENS
++ 11.V. CONCERNING SHIPWRECKS
++ 11.VI. CONCERNING MINERS, MINES, AND THE SUPERINTENDENTS OF THE LATTER
++ 11.VII. CONCERNING DYERS OF PURPLE, INMATES AND SUPERINTENDENTS OF THE GYNECEUM, MASTERS OF THE MINT, AND CARRIERS
++ 11.VIII. CONCERNING CLOTHING COMPOSED ENTIRELY OF SILK AND GOLD, AND OF THE DYE OF THE IMPERIAL PURPLE
++ 11.IX. CONCERNING MANUFACTURERS
++ 11.X. CONCERNING THE VALUE OF ANCIENT MONEY
++ 11.XI. NO ONE SHALL BE PERMITTED TO ADORN THE BRIDLES OR SADDLES OF THEIR HORSES OR THEIR OWN BELTS WITH PEARLS, EMERALDS, OR HYACINTHS, AND CONCERNING THE ARTIFICERS OF THE PALACE
++ 11.XII. CONCERNING MARINES
++ 11.XIII. CONCERNING THE DECURIALS OF THE CITY OF ROME
++ 11. XIV. CONCERNING THE PRIVILEGES ENJOYED BY MEMBERS OF CORPORATE BODIES OF THE CITY OF ROME
++ 11. XV. CONCERNING BANKERS
++ 11.XVI. CONCERNING THE PORK-BUTCHERS, WINE-MERCHANTS, AND OTHER CORPORATIONS
++ 11.XVII. CONCERNING MEMBERS OP CORPORATIONS AND MONEY BROKERS
++ 11. XVIII. CONCERNING LIBERAL STUDIES IN THE CITIES OP ROME AND CONSTANTINOPLE
++ 11.XIX. CONCERNING THE VEHICLES OP PERSONS INVESTED WITH HONORS
++ 11.XX. CONCERNING THE PRIVILEGES OF THE CITY OF CONSTANTINOPLE
++ 11.XXI. CONCERNING THE METROPOLIS OF BERYTUS
++ 11.XXII. CONCERNING THE CONTRIBUTION OF GRAIN MADE TO THE CITY OP ROME
++ 11.XXIII. CONCERNING GRAIN DESTINED FOR THE CITY OF CONSTANTINOPLE
++ 11.XXIV. CONCERNING CIVIL CONTRIBUTIONS OF GRAIN
++ 11.XXV. CONCERNING STURDY BEGGARS
++ 11.XXVI. CONCERNING BOATS PLYING ON THE TIBER
++ 11.XXVII. CONCERNING GRAIN DESTINED FOR THE CITY OF ALEXANDRIA
++ 11.XXVIII. CONCERNING THE PRIMATES OF THE CITY OF ALEXANDRIA
++ 11.XXIX. CONCERNING THE RIGHTS OF THE STATE
++ 11.XXX. CONCERNING THE ADMINISTRATION OF PUBLIC AFFAIRS
++ 11.XXXI. CONCERNING THE SALE OF PROPERTY BELONGING TO THE STATE
++ 11.XXXII. CONCERNING THE DEBTORS OF CITIEs
++ 11.XXXIII. CONCERNING THE LIABILITY OF THOSE WHO MAKE APPOINTMENTS
++ 11.XXXIV. CONCERNING THE LIABILITY OF THOSE WHO BECOME SURETIES FOR MAGISTRATES
++ 11.XXXV. IN WHAT ORDER PERSONS MUST BE SUED
++ 11.XXXVI. NO FREEMAN CAN BE COMPELLED TO PERFORM THE FUNCTIONS OF A MUNICIPAL SERVANT
++ 11.XXXVII. THE EXPENSES OF THE OFFICE TO WHICH THEY HAVE BEEN APPOINTED MUST BE BORNE BY ALL THE INCUMBENTS OF SAID OFFICE
++ 11.XXXVIII. CONCERNING THOSE AGAINST WHOM LEGAL PROCEEDINGS ARE INSTITUTED ON ACCOUNT OF
 THE OFFICE WHICH THEY HAVE ADMINISTERED
-... 191
-TITLE XXXIX. CONCERNING THE PAYMENTS AND RELEASES OF DEBTORS TO THE STATE ...
-192
-TITLE XL. CONCERNING EXHIBITIONS, ACTORS, AND PROCURERS ... 192
-TITLE XLI. CONCERNING THE EXPENSES OF GAMES .. 194
-TITLE XLII. CONCERNING AQUEDUCTS .... 194
-TITLE XLIII. CONCERNING GLADIATORS ...
-197
-TITLE XLIV. CONCERNING THE CHASE OF WILD BEASTS .... 198
-TITLE XLV. CONCERNING THE MAY FESTIVAL .. 199
-TTIITTLLEE XXLLVVII..
++ 11.XXXIX. CONCERNING THE PAYMENTS AND RELEASES OF DEBTORS TO THE STATE
++ 11.XL. CONCERNING EXHIBITIONS, ACTORS, AND PROCURERS
++ 11.XLI. CONCERNING THE EXPENSES OF GAMES
++ 11.XLII. CONCERNING AQUEDUCTS
++ 11.XLIII. CONCERNING GLADIATORS
++ 11.XLIV. CONCERNING THE CHASE OF WILD BEASTS
++ 11.XLV. CONCERNING THE MAY FESTIVAL
++ 11.XLVI.
 THE USE OF ARMS WITHOUT THE KNOWLEDGE OF THE EMPEROR Is FORBIDDEN
-... 200
-TITLE XLVII. ' PAGE
-CONCERNING FARMERS, TENANTS OF LAND REGISTERED ON THE CENSUS, AND SERFS
-.... 200
-TITLE XLVIII. CONCERNING THE EXEMPTION OF CITIZENS FROM THE CAPITATION TAX. .
-208
-TITLE XLIX. IN WHAT CASES REGISTERED SERFS CAN ACCUSE THEIR MASTERS .. 208
-TITLE L. CONCERNING THE SERFS OF PALESTINE .. 209
-TITLE LI. CONCERNING THE SERFS OF THRACE .... 209
-TITLE LII. CONCERNING THE SERFS OF ILLYRIA .... 210
-TITLE LIII.
-No ONE SHALL EXTEND PROTECTION TO PEASANTS OR SUPPORT THEM IN ANY CHANGES WHICH
-THEY MAY MAKE  211
-TITLE LIV. PEASANTS SHALL NOT BE SUBJECTED To ANY NEW OBLIGATIONS . 213
-TITLE LV.
++ 11.XLVII. CONCERNING FARMERS, TENANTS OF LAND REGISTERED ON THE CENSUS, AND SERFS
++ 11.XLVIII. CONCERNING THE EXEMPTION OF CITIZENS FROM THE CAPITATION TAX
++ 11.XLIX. IN WHAT CASES REGISTERED SERFS CAN ACCUSE THEIR MASTERS
++ 11.L. CONCERNING THE SERFS OF PALESTINE
++ 11.LI. CONCERNING THE SERFS OF THRACE
++ 11.LII. CONCERNING THE SERFS OF ILLYRIA
++ 11.LIII. No ONE SHALL EXTEND PROTECTION TO PEASANTS OR SUPPORT THEM IN ANY CHANGES WHICH
+THEY MAY MAKE
++ 11.LIV. PEASANTS SHALL NOT BE SUBJECTED To ANY NEW OBLIGATIONS
++ 11.LV.
 THE RESIDENTS OF A MOTHER-VILLAGE ARE NOT PERMITTED TO TRANSFER THEIR LANDS TO
-STRANGERS . 214
-TITLE LVI.
+STRANGERS
++ 11.LVI.
 No RESIDENT OF A VILLAGE SHALL BE LIABLE FOR THE DEBTS OF OTHER RESIDENTS OF
-THE SAME VILLAGE .. 214
-TITLE LVII. CONCERNING TAXES, TAX GATHERERS, APPRAISERS, AND INSPECTORS .
-215
-TITLE LVIII.
+THE SAME VILLAGE
++ 11.LVII. CONCERNING TAXES, TAX GATHERERS, APPRAISERS, AND INSPECTORS
++ 11.LVIII.
 CONCERNING ABANDONED LANDS AND WHEN SUCH As ARE BARREN ARE CONSIDERED To BE
-ATTACHED To THOSE THAT ARE FERTILE. . 217
-TITLE LIX.
+ATTACHED To THOSE THAT ARE FERTILE
++ 11.LIX.
 CONCERNING LANDS AND THEIR BOUNDARIES, MARSHES, PASTURES, FRONTIER MILITARY
-STATIONS, AND THE GARRISONS OF FORTRESSES. . 221
-TITLE LX. CONCERNING PUBLIC AND PRIVATE PASTURES .. 222
-TITLE LXI.
+STATIONS, AND THE GARRISONS OF FORTRESSES
++ 11.LX. CONCERNING PUBLIC AND PRIVATE PASTURES
++ 11.LXI.
 CONCERNING LANDS AND FORESTS BELONGING TO THE EMPEROR, AND EMPHYTEUTICAL
-CONTRACTS AND LESSEES UNDER THE SAME. .. 223
-xv
-TITLE LXIL PAGE
+CONTRACTS AND LESSEES UNDER THE SAME
++ 11.LXIL
 CONCERNING SLAVES AND SERFS ATTACHED TO THE PRIVATE DOMAIN OF THE EMPEROR,
-PASTURES, AND LANDS HELD UNDER EMPHYTEUSIS. .. 226
-TITLE LXIII.
+PASTURES, AND LANDS HELD UNDER EMPHYTEUSIS
++ 11.LXIII.
 CONCERNING FUGITIVE SERFS ATTACHED TO THE IMPERIAL ESTATES, AND TO FORESTS AND
-LANDS HELD UNDER EMPHYTEUSIS .... 227
-TITLE LXIV.
+LANDS HELD UNDER EMPHYTEUSIS
++ 11.LXIV.
 CONCERNING OBLIGATIONS IMPOSED UPON THE OCCUPANTS OF LANDS BELONGING TO THE
 IMPERIAL DOMAIN AND OTHERS HELD UNDER EMPHYTEUSIS
-.. 228
-TITLE LXV.
++ 11.LXV.
 CONCERNING THE LANDS BELONGING TO THE PRIVATE ESTATE OF THE EMPEROR, AND THE
-FORESTS ATTACHED TO THE IMPERIAL HOUSEHOLD 229
-TITLE LXVI.
+FORESTS ATTACHED TO THE IMPERIAL HOUSEHOLD
++ 11.LXVI.
 CONCERNING THE LANDS AND FORESTS BELONGING TO THE PRIVATE DOMAIN OF THE EMPEROR
-. 231
-TITLE LXVII.
++ 11.LXVII.
 CONCERNING THE CULTIVATORS AND SLAVES BELONGING TO THE DOMAIN OF THE EMPEROR,
-OR THE IMPERIAL TREASURY .... 231
-TITLE LXVIII.
+OR THE IMPERIAL TREASURY
++ 11.LXVIII.
 CONCERNING CERTAIN LANDS, AND CHILDREN BORN TO SERFS ATTACHED TO THE IMPERIAL
-DOMAIN, AND OTHER PERSONS OF FREE CONDITION 232
-TITLE LXIX.
+DOMAIN, AND OTHER PERSONS OF FREE CONDITION
++ 11.LXIX.
 CONCERNING DIFFERENT URBAN AND RUSTIC ESTATES BELONGING TO TEMPLES AND CITIES
-AND ALL CIVIL REVENUES .... 233
-TITLE LXX.
+AND ALL CIVIL REVENUES
++ 11.LXX.
 CONCERNING THE LEASING OF LANDS OWNED BY CITIES, OR BELONGING TO THE TREASURY,
 THE TEMPLES, AND THE PRIVATE OR PUBLIC IMPERIAL DEMESNES
-.... 234
-TITLE LXXI.
++ 11.LXXI.
 CONCERNING LESSEES AND AGENTS, OR COLLECTORS OF LANDS BELONGING TO THE TREASURY
-OF THE IMPERIAL HOUSEHOLD .. 236
-TITLE LXXII.
+OF THE IMPERIAL HOUSEHOLD
++ 11.LXXII.
 WHAT PERSONS ARE NOT PERMITTED TO LEASE LANDS BELONGING TO THE TREASURY
- 236
-TITLE LXXIII.
-CONCERNING CONTRIBUTIONS IMPOSED UPON LANDS BELONGING TO THE TREASURY, TO THE
++ 11.LXXIII. CONCERNING CONTRIBUTIONS IMPOSED UPON LANDS BELONGING TO THE TREASURY, TO THE
 PRIVATE DOMAIN OF THE EMPEROR, TO THE STATE, OR TO TEMPLES
- 236
-TITLE LXXIV. PAGE
-CONCERNING THE PRIVILEGES ENJOYED BY LANDS ATTACHED TO THE IMPERIAL HOUSEHOLD,
++ 11.LXXIV. CONCERNING THE PRIVILEGES ENJOYED BY LANDS ATTACHED TO THE IMPERIAL HOUSEHOLD,
 AND THOSE BELONGING TO THE PRIVATE DOMAIN OF THE EMPEROR, AND FROM WHAT
 CONTRIBUTIONS THEY ARE EXEMPT
-. 237
-TITLE LXXV. CONCERNING THE IMPERIAL STUD ..
-238
-TITLE LXXVI. CONCERNING THE IMPERIAL PALACES AND BUILDINGS ..
-238
-TITLE LXXVII.
++ 11.LXXV. CONCERNING THE IMPERIAL STUD
++ 11.LXXVI. CONCERNING THE IMPERIAL PALACES AND BUILDINGS
++ 11.LXXVII.
 CYPRESS TREES FROM THE SACRED GROVES OF DAPHNE AND PERSEUS IN EGYPT SHALL NOT
-BE CUT DOWN, OR SOLD . 239
+BE CUT DOWN, OR SOLD
 
-
-TITLE I.
-CONCERNING THE TRANSPORTATION OF PUBLIC PROPERTY
-BY SHIP-OWNERS OR SHIP-MASTERS, AND THE ABOLITION
-OF THE TAX KNOWN AS LUSTRAL GOLD.
+* 11.I. CONCERNING THE TRANSPORTATION OF PUBLIC PROPERTY BY SHIP-OWNERS OR SHIP-MASTERS, AND THE ABOLITION OF THE TAX KNOWN AS LUSTRAL GOLD.
 
 1 and 2. These Laws are not Authentic.
 
@@ -248,9 +186,8 @@ Given at Ravenna, on the eighteenth of the Kalendsof September,
 during the Consulate of Varana, 410.
 
 
+* 11.II. CONCERNING LAND AND ALL OTHER PROPERTY BELONGING TO SHIP-OWNERS.
 
-TITLE II.
-CONCERNING LAND AND ALL OTHER PROPERTY BELONGING TO SHIP-OWNERS.
 1. The Emperors Valentinian and Valens to Aurelian, Prefect of Subsistence.
 We order that even Our Imperial household shall be responsible ttoothose with
 whom it has contracted obligations having reference to property liable in the
@@ -295,11 +232,7 @@ which it may have sustained.
 Given at Milan, on the fourteenth of the Kalendsof March, during the Consulate
 of Theodore, Consul for the fifth time, 399.
 
-
-TITLE III.
-CONCERNING EXCUSES FOR SHIPS WHICH SHALL NOT BE
-ACCEPTED.
-
+* 11.III. CONCERNING EXCUSES FOR SHIPS WHICH SHALL NOT BE ACCEPTED.
 
 1. The Emperors Arcadius and Honorius to Longinianus, Prsetorian Prefect.
 Many persons protect their ships under various pretexts, and, for the purpose
@@ -326,7 +259,8 @@ generally speaking, when anything of this kind is brought forward contrary to
 law or the public welfare, in any transaction whatsoever, it shall not be
 valid. We shall punish any fraudulent attempt made to violate this law in any
 way whatsoever by the confiscation of the ship for which exemption is claimed.
-TITLE IV. No ADDITION SHALL BE MADE TO PUBLIC BURDENS.
+
+* 11.IV. NO ADDITION SHALL BE MADE TO PUBLIC BURDENS.
 1. The Emperors Arcadius and Honorius to Rufinus, Prsetorian Prefect.
 No one shall impose any private charge upon ship-masters who have already
 assumed public burdens, nor shall those who have been employed for the
@@ -338,9 +272,7 @@ Given at Constantinople, on the fifth of the Idesof January, during the
 Consulate of Olybrius and Probinus, 385.
 
 
-
-TITLE V. CONCERNING SHIPWRECKS.
-
+* 11.V. CONCERNING SHIPWRECKS.
 
 1. The Emperor Constantine.
 If a vessel is driven on land by shipwreck, or if it goes ashore at any time,
@@ -401,10 +333,7 @@ grant release of liability for the cargo, but its value must be apportioned pro
 rataamong the owners of the ship in a suitable manner.
 
 
-
-TITLE VI.
-CONCERNING MINERS, MINES, AND THE SUPERINTENDENTS OP THE LATTER.
-
+* 11.VI. CONCERNING MINERS, MINES, AND THE SUPERINTENDENTS OP THE LATTER.
 
 1. The Emperors Valentinian and Valens to Cresconius, Count of the Mines.
 After due deliberation, We have considered it proper to order that anyone who
@@ -463,9 +392,8 @@ if any one of them, who proved to be a minor, should have had his name
 inscribed upon the register of the census.
 Given at Constantinople, on the fifth of the Idesof July, during the Consulate
 of Victor, 424.
-TITLE VII.
-CONCERNING DYERS OP PURPLE, INMATES AND SUPERINTENDENTS OF THE GYNECEUM,
-MASTERS OF THE MINT, AND CARRIERS.
+
+* 11.VII. CONCERNING DYERS OP PURPLE, INMATES AND SUPERINTENDENTS OF THE GYNECEUM, MASTERS OF THE MINT, AND CARRIERS.
 1. The Emperor Constantine to the Bithynians.
 Masters of the mint should always retain their status, and shall not be
 released therefrom by the privileges attaching to any dignity whatsoever.
@@ -597,10 +525,7 @@ Consulate of Hierius and Ardiburus, 427.
 
 
 
-
-TITLE VIII.
-CONCERNING CLOTHING COMPOSED ENTIRELY OF SILK AND GOLD, AND OP THE DYE OP THE
-IMPERIAL PURPLE.
+* 11.VIII. CONCERNING CLOTHING COMPOSED ENTIRELY OF SILK AND GOLD, AND OP THE DYE OP THE IMPERIAL PURPLE.
 1. The Emperors Valentinian and Valens to Archelaus, Count of the Imperial
 Largesses.
 We prohibit men from making or weaving garments composed of silk and gold for
@@ -646,8 +571,8 @@ be fined twenty pounds of gold iiffthey do not properly discharge the duties
 required of them.
 Given at Constantinople, on the eighth of the Idesof March, during the
 Consulate of Isidore and Senator, 436.
-TITLE IX.
-CONCERNING MANUFACTURERS.
+
+* 11.IX. CONCERNING MANUFACTURERS.
 1. The Emperors Valentinian, Theodosius, and Arcadius to Tati-anus, Prsetorian
 Prefect.
 We order that all manufacturers shall deliver the articles made by them, and
@@ -732,8 +657,7 @@ shall be paid into the Treasury as soon as it is collected. In addition to
 this, We subject the illustrious Governor of the province, as well as his
 subordinates, to a fine of thirty pounds of gold, when, through their
 connivance, the transport of arms was delayed.
-TITLE X.
-CONCERNING THE VALUE OP ANCIENT MONEY.
+* 11.X. CONCERNING THE VALUE OP ANCIENT MONEY.
 1. The Emperor Constantine.
 We order that the solidicoined by former Emperors shall be paid and accepted by
 purchasers and vendors, and that no dispute shall arise with reference to them,
@@ -748,11 +672,8 @@ You must notify all persons by the proposed Edict that an uniform value of all
 bryzat solidiwill be established, and that anyone who, through the blindness of
 avarice, either disobeys Our orders or fraudulently attempts to change the
 appearance of these coins, will be punished by death.
-TITLE XI.
-No ONE SHALL BE PERMITTED TO ADORN THE BRIDLES.OR
-SADDLES OF THEIR HORSES OR THEIR OWN BELTS WITH
-PEARLS, EMERALDS, OR HYACINTHS, AND CONCERNING THE
-ARTIFICERS OF THE PALACE.
+
+* 11.XI. NO ONE SHALL BE PERMITTED TO ADORN THE BRIDLES, OR SADDLES OF THEIR HORSES OR THEIR OWN BELTS WITH PEARLS, EMERALDS, OR HYACINTHS, AND CONCERNING THE ARTIFICERS OF THE PALACE.
 1. The Emperor Justinian.
 No one shall hereafter be permitted to decorate the bridles and saddles of his
 horses, or his own belts with pearls, emeralds, or hyacinths, or to insert them
@@ -783,7 +704,8 @@ solely reserved for the splendor and adornment of the sovereign. If anyone
 should commit an act in violation of this law, We order that the fine above
 mentioned shall be collected by the officers of the palace, and paid into the
 Treasury of the Imperial Largesses.
-TITLE XII. CONCERNING MARINES.
+
+* 11.XII. CONCERNING MARINES.
 1. The Emperors Valentinicm and Valens to Auxonius, Prsetorian Prefect.
 We desire the Seleucian fleet, as well as all the others, to be subject to the
 orders of the office which is dependent upon Your Excellency, so that the
@@ -791,7 +713,8 @@ number of marines may be made up from the volunteers or supernumeraries of
 other fleets, and We direct that of Seleucia to be placed .at the disposition
 of the Count of the East, for the purpose of clearing the seas of pirates, and
 for any other necessary service.
-TITLE XIII. CONCERNING THE DECURIALS OF THE CITY OP ROME.
+
+* 11.XIII. CONCERNING THE DECURIALS OF THE CITY OP ROME.
 1. The Emperors Valentinian, Theodosius, and Arcadius to Tri-folius, Prietorian
 Prefect.
 When anyone thinks that a decurial should be deprived of privileges by process
@@ -808,9 +731,8 @@ privileges which have been legally conferred upon him, for We wish this
 association to retain all its ancient privileges.
 Given at Rome, on the eighth of the Idesof July, during the Consulate of
 Honorius, Consul for the sixth time, and Aristenetus, 404.
-TITLE XIV.
-CONCERNING THE PRIVILEGES ENJOYED BY MEMBERS OP CORPORATE BODIES OF THE CITY OF
-ROME.
+
+* 11.XIV. CONCERNING THE PRIVILEGES ENJOYED BY MEMBERS OP CORPORATE BODIES OF THE CITY OF ROME.
 1. The Emperors Valentinian, Theodosius, and Arcadius to Alypius, Prefect of
 the City.
 No one shall be permitted, or have the right to impose any new burden upon the
@@ -820,7 +742,8 @@ intact. The members of such bodies of the City of Rome who have established
 homes in foreign countries, shall be compelled by the Governors of the
 provinces to return, in order that they may discharge the duties which, from
 ancient times, have been formally imposed upon them.
-TITLE XXVV..CONCERNING BAKERS.
+
+* 11.XV. CONCERNING BAKERS.
 1. The Emperors Gratian, Valentinian, and Theodosius.
 Any slave of the Superintendent of the Public Warehouses, who either through
 intrigue, favor, the use of money, or by any other means, may hereafter obtain
@@ -829,8 +752,8 @@ Our order, and, having been fined twenty pounds of gold, shall be returned to
 the body to which he formerly belonged.
 Every special privilege which, under any circumstances, has been obtained
 contrary to this law, is hereby absolutely annulled.
-TITLE XVI.
-CONCERNING THE PORK-BUTCHEKS, WINE-MEKCHANTS, AND OTHER CORPORATIONS.
+
+* 11.XVI. CONCERNING THE PORK-BUTCHEKS, WINE-MEKCHANTS, AND OTHER CORPORATIONS.
 1. The Emperors Valentinian, Theodosius, and Arcadius to Albinus, Prefect of
 the City.
 As dealers in hogs in the Eternal City are engaged in an occupation
@@ -844,8 +767,8 @@ plaintiff or defendant, will be subject to the jurisdiction of the Urban
 Prefect.
 Given at Rome, on the eighteenth of the Kalendsof February, during the
 Consulate of Bassus and Philip, 408.
-TITLE XVII.
-CONCERNING MEMBERS OP CORPORATIONS AND MONEY BROKERS.
+
+* 11.XVII. CONCERNING MEMBERS OP CORPORATIONS AND MONEY BROKERS.
 1. The Emperors Theodosius and Valentinian to Cyrus, Prefect of the City.
 When any persons, under the pretext of being deans or members of corporate
 bodies, do not discharge the duties of the same, or attempt to evade other
@@ -872,8 +795,8 @@ be stated and published that, where any transfer is made from the provinces by
 means of a petition of the members of a corporation, this shall be done under
 the terms of a former constitution; that is to say, the rule which was laid
 down in the first place shall subsequently be observed without any innovation.
-TITLE XVIII.
-CONCERNING LIBERAL STUDIES IN THE CITIES OP ROME AND CONSTANTINOPLE.
+
+* 11.XVIII. CONCERNING LIBERAL STUDIES IN THE CITIES OP ROME AND CONSTANTINOPLE.
 1. The Emperors Theodosius and Valentinian, to the Prefect of the City.
 We order that all those who, having illegally assumed the title of professor,
 are accustomed to teach their pupils, collected together from all parts of the
@@ -907,9 +830,8 @@ interrupt one another, and no confusion of tongues or of voices may distract
 the ears or minds of any of them from the study of letters.
 Given at Constantinople, on the third of the Kalendsof March, during the
 Consulate of Theodosius, Consul for the eleventh time, and Valentinian, 425.
-TITLE XIX.
-CONCERNING THE VEHICLES OP PERSONS INVESTED WITH
-HONORS.
+
+* 11.XIX. CONCERNING THE VEHICLES OP PERSONS INVESTED WITH HONORS.
 1. The Emperors Gratian, Valentinian, and Theodosius to Ne-bridius, Prefect of
 the City.
 Persons who have been invested either with civil or military honors shall
@@ -917,12 +839,13 @@ always be entitled to make use of vehicles suitable to their rank, that is to
 say, carriages, in this Imperial City.
 Given at Constantinople, on the third of the Kalendsof February, during the
 Consulate of Our Prince Honorius, and Evodius, 386.
-TITLE XX.
-CONCERNING THE PRIVILEGES OF THE CITY OF CONSTANTINOPLE.
+
+* 11.XX. CONCERNING THE PRIVILEGES OF THE CITY OF CONSTANTINOPLE.
 1. The Emperor Ronorius and Theodosius.
 The City of Constantinople shall not only enjoy the privileges enjoyed by
 Italy, but also those of ancient Rome.
-TITLE XXI. CONCERNING THE METROPOLIS OF BERYTUS.
+
+* 11.XXI. CONCERNING THE METROPOLIS OF BERYTUS.
 1. The Emperors Theodosius and Valentinian to Hormisdas, Prss-torian Prefect.
 We decree that the City of Berytus, already renowned for its admirable
 qualities, shall, for good and sufficient reasons, be adorned with the title
@@ -931,8 +854,8 @@ metropolitan city. Tyre shall lose none of its rights, but shall remain the
 capital of the province, through the favor granted by Our ancestors. Berytus
 shall become a metropolis by our own authority, and both cities shall enjoy the
 same privileges.
-TITLE XXII.
-CONCERNING THE CONTRIBUTION OF GRAIN MADE TO THE CITY OF ROME.
+
+* 11.XXII. CONCERNING THE CONTRIBUTION OF GRAIN MADE TO THE CITY OF ROME.
 1. The Emperors Valentinian, Valens, and Gratian to Julianus, Prefect of
 Subsistence.
 Masters of ships must swear before Governors or magistrates that the grain
@@ -958,8 +881,8 @@ convicted of the misappropriation of grain destined for the city shall suffer
 the penalty of deportation, and their principal subordinates be put to death.
 Given on the fourth of the Kalendsof October, during the Consulate of Theodore,
 Consul for the fifth time, 399.
-TITLE XXIII.
-CONCERNING GRAIN DESTINED FOR THE CITY OF CONSTANTINOPLE.
+
+* 11.XXIII. CONCERNING GRAIN DESTINED FOR THE CITY OF CONSTANTINOPLE.
 1. The Emperors Honorius and Theodosius to Ursus, Prefect of the City.
 No one, not even a member of the Imperial household, shall be furnished with
 grain from the public warehouses for the purpose ol subsistence; but the entire
@@ -986,7 +909,8 @@ be classed as such, to be expended in the purchase of grain. The provisions of
 this law shall be inscribed upon tables of brass.
 Given at Constantinople, on the fifth of the Kalendsof December, during the
 Consulate of Ariobindus and Aspar, 434.
-TITLE XXIV. CONCERNING CIVIL CONTRIBUTIONS OF GKAIN.
+
+* 11.XXIV. CONCERNING CIVIL CONTRIBUTIONS OF GKAIN.
 1. The Emperors Theodosius, Arcadius, and Honorius to Proculus, Prefect of the
 City.
 It is perfectly clear that, by virtue of the privilege granted by the Divine
@@ -1010,8 +934,8 @@ that it may be informed of the amount of Our donation and immediately comply
 with Our commands. We direct this apportionment always to be granted to Our
 subjects hereafter, and that this law shall be perpetually valid.
 
+* 11.XXV. CONCERNING STURDY BEGGARS.
 
-TITLE XXV. CONCERNING STURDY BEGGARS.
 1. The Emperors Gratian, Valentinian, and Theodosius to Severus, Prefect of the
 City.
 All those who adopt the uncertain calling of public beggars shall be examined
@@ -1025,8 +949,8 @@ their masters shall remain unimpaired.
 Given on the twelfth of the Kalendsof July, during the Consulate of Antonius
 and Syagrius, 382.
 
+* 11.XXVI. CONCERNING BOATS PLYING ON THE TIBER.
 
-TITLE XXVI. CONCERNING BOATS PLYING ON THE TIBER.
 1. The Emperors Valentinian and Valens to Symmachus, Prefect of the City.
 Anyone who is shown to have a vessel for navigation on the Tiber shall be
 subjected to the burdens imposed by the State. Therefore, any vessel found upon
@@ -1035,8 +959,8 @@ government, and no rank or privilege will avail to obtain exemption from this
 public requirement.
 Given on the eighth of the Idesof October, during the Consulate of the Divine
 Jovian, and Varronian, 364.
-TITLE XXVII.
-CONCERNING GRAIN DESTINED FOR THE CITY OF ALEXANDRIA.
+
+* 11.XXVII. CONCERNING GRAIN DESTINED FOR THE CITY OF ALEXANDRIA.
 1. The Emperors Honorms and Theodosius to Anthemius, Prse-torian Prefect.
 In estimating the amount of grain which should be transported to the City of
 Alexandria, We confirm the provisions made by Your Highness concerning the
@@ -1055,7 +979,8 @@ what has previously been distributed under the name of perissochoregiashall
 hereafter be designated as alms bestowed in the name of the Emperor.
 Given at Constantinople, on the day before the Nonesof June, during the
 Consulate of Isidore and Senator, 436.
-TITLE XXVIII. CONCERNING THE PRIMATES OF THE CITY OP ALEXANDRIA.
+
+* 11.XXVIII. CONCERNING THE PRIMATES OF THE CITY OP ALEXANDRIA.
 1. The Emperors Theodosius and Valentinian to Isidore, Praetorian Prefect.
 We release the corporate bodies of the City of Alexandria from the duty of
 taking care of the river, and, in accordance with the tenor of your
@@ -1064,7 +989,8 @@ this purpose from the tax imposed upon the said city, which has been collected
 in different ways from ships plying on the Nile.
 Given at Constantinople, on the day before the Nonesof July, during the
 Consulate of Isidore and Senator, 436.
-TITLE XXIX. CONCERNING THE RIGHTS OF THE STATE.
+
+* 11.XXIX. CONCERNING THE RIGHTS OF THE STATE.
 1. The Emperor Antoninus to Dionysius.
 It has been decided that if any judgment should be rendered against the State,
 in a case in which no defence was made, and defenders were not, nor should have
@@ -1085,7 +1011,8 @@ State in the same way as to a female minor.
 If, in conformity to custom, the city you have mentioned sold the land occupied
 by ruined buildings, the Governor of the province will permit nothing to be
 done which is contrary to this practice.
-TITLE XXX. CONCERNING THE ADMINISTRATION OF PUBLIC AFFAIRS.
+
+* 11.XXX. CONCERNING THE ADMINISTRATION OF PUBLIC AFFAIRS.
 1. The Emperor Gordian.
 It is perfectly evident that the possessor of land under emphyteusis cannot be
 deprived of the same without his consent, if the rent is regularly paid at the
@@ -1095,9 +1022,8 @@ You are aware that proceedings for the collection of damages should be
 instituted against those who administer the affairs of the State, and are
 required by the duties of their office to accept a trust left under a
 condition, but have failed to discharge their duties in this respect.
-TITLE XXXI.
-CONCERNING THE SALE OF PROPERTY BELONGING TO THE
-STATE.
+
+* 11.XXXI. CONCERNING THE SALE OF PROPERTY BELONGING TO THE STATE.
 1. The Emperor Alexander.
 If you purchased land sold by the government unconditionally, and the sale has
 been perfected, you need be under no apprehension that you can be deprived of
@@ -1133,8 +1059,8 @@ reading the decree in the presence of the proper authorities, the purchaser may
 obtain a good title.
 We decree that contracts of sale made in this manner, whether they are
 completed at the time, or are perfected subsequently, shall be valid.
-TITLE XXXII.
-CONCERNING THE DEBTORS OP CITIES.
+
+* 11.XXXII. CONCERNING THE DEBTORS OP CITIES.
 1. The Emperor Antoninus.
 It has been established by My Constitutions, as well as by those of the Divine
 Emperors, My predecessors, that a debtor to the government cannot be invested
@@ -1176,8 +1102,8 @@ the authorities of cities should be careful to lend their money to persons who
 are solvent, or are the owners of rustic estates.
 Published on the third of the Kalendsof February, during the Consulate of
 Volusianus and Annianus, 314.
-TITLE XXXIII.
-CONCERNING THE LIABILITY OP THOSE WHO MAKE APPOINTMENTS.
+
+* 11.XXXIII. CONCERNING THE LIABILITY OP THOSE WHO MAKE APPOINTMENTS.
 1. The Emperor Gordian.
 Although you did not require those who were appointed magistrates by you and
 your colleague to furnish sureties, still, if they were solvent at the time
@@ -1193,15 +1119,16 @@ administration can, by no means, attach to you personally; for one is only
 compelled to assume responsibility for the successor whom he himself appointed,
 and the power of the law does not extend to the appointment of one who, in
 his turn, was appointed by another.
-TITLE XXXIV.
-CONCERNING THE LIABILITY OF THOSE WHO BECOME SURETIES FOR MAGISTRATES.
+
+* 11.XXXIV. CONCERNING THE LIABILITY OF THOSE WHO BECOME SURETIES FOR MAGISTRATES.
 1. The Emperor Antoninus.
 It has been decided by Me, as well as by My Father, the Divine Severus, that
 the sureties of magistrates are only responsible for the administration of
 those for whom they become liable, so far as matters
 pertaining to the management of their office are concerned, and not for any
 penalties which they may have incurred through negligence or crime.
-TITLE XXXXXXVV..IN WHAT ORDER PERSONS MUST BE SUED.
+
+* 11.XXXV. IN WHAT ORDER PERSONS MUST BE SUED.
 1. The Emperor Antoninus.
 Although the care of money belonging to a city may have been committed to two
 persons, still, each of them is not liable to it merely for the portion which
@@ -1244,8 +1171,8 @@ not be entirely indemnified, those who appointed him can be sued, and finally
 if anything should remain unpaid by your colleague, you will be responsible for
 negligence, since it has been decided that those who first made the nomination
 are liable as sureties.
-TITLE XXXVI.
-No FREEMAN CAN BE COMPELLED TO PERFORM THE FUNCTIONS OF A MUNICIPAL SERVANT.
+
+* 11.XXXVI. NO FREEMAN CAN BE COMPELLED TO PERFORM THE FUNCTIONS OF A MUNICIPAL SERVANT.
 1. The Emperors Valerian and Gallienus.
 If, as you allege, you obtained your freedom by a decree of the decurionate,
 you should not be obliged to serve the city against your consent, and the
@@ -1255,9 +1182,8 @@ perform this duty.
 If you, being freeborn, should be compelled by the city to discharge the duty
 of a servant, you can invoke the aid of the Governor and the protection of the
 law, as far as custom authorizes this to be done.
-TITLE XXXVII.
-THE EXPENSES OF THE OFFICE TO WHICH THEY HAVE BEEN APPOINTED MUST BE BORNE BY
-ALL THE INCUMBENTS OF SAID OFFICE.
+
+* 11.XXXVII. THE EXPENSES OF THE OFFICE TO WHICH THEY HAVE BEEN APPOINTED MUST BE BORNE BY ALL THE INCUMBENTS OF SAID OFFICE.
 1. The Emperor Maximian.
 As you state that you, with others, have been appointed to administer the
 office of Superintendent of Couriers, and that you alone have discharged the
@@ -1267,16 +1193,14 @@ proportionately among all who are required to share in the administration of
 the office. He will not be ignorant of your liability to public censure, if he
 should ascertain that you, also, have been derelict in the performance of your
 duty.
-TITLE XXXVIII.
-CONCERNING THOSE AGAINST WHOM LEGAL PROCEEDINGS
-ARE INSTITUTED ON ACCOUNT OF THE OFFICE WHICH
-THEY HAVE ADMINISTERED.
+
+* 11.XXXVIII. CONCERNING THOSE AGAINST WHOM LEGAL PROCEEDINGS ARE INSTITUTED ON ACCOUNT OF THE OFFICE WHICH THEY HAVE ADMINISTERED.
 1. The Emperor Antoninus.
 As the money belonging to the city, which was lent at interest, was not lost
 through your fault, it is sufficient for you to be responsible for the
 principal, and not for the interest.
-TITLE XXXXXXIIXX..
-CONCERNING THE PAYMENTS AND RELEASES OP DEBTORS TO THE STATE.
+
+* 11.XXXIX. CONCERNING THE PAYMENTS AND RELEASES OP DEBTORS TO THE STATE.
 1. The Emperor Alexander to the Quatuorvirs and Decurions of the Fabretanians.
 Receipts given by public slaves only release debtors from liability when they
 are countersigned by the treasurer, or are approved by the authority of those
@@ -1287,7 +1211,8 @@ defence, if he is able to show that what he paid was placed in the Treasury of
 the City. If it should be proved that your curator, assisted by the fraud of
 the slave, intercepted any money paid by the debtors, the slave shall be
 compelled to refund the amount lacking out of his own peculium.
-TITLE XL. CONCERNING EXHIBITIONS, ACTORS, AND PROCURERS.
+
+* 11.XL. CONCERNING EXHIBITIONS, ACTORS, AND PROCURERS.
 1. The Emperor Constantine.
 We do not discourage public diversions, but, on the other hand, exhort citizens
 to re-establish the exhibitions of strength and skill in the arena. And,
@@ -1352,7 +1277,8 @@ This penalty is less severe than that imposed where a woman is forced by a
 procurer to indulge in promiscuous sexual intercourse without her consent.
 Given on the eleventh of the Kalendsof May, during the Consulate
 of Felix and Taurus, 428.
-TITLE XLI. CONCERNING THE EXPENSES OF GAMES.
+
+* 11.XLI. CONCERNING THE EXPENSES OF GAMES.
 1. The Emperors Diocletian and Maximian.
 As you say that the Governor of the province has applied the funds which were
 intended for public exhibitions to the repair of the walls of the city, what
@@ -1362,7 +1288,8 @@ after the repairs of the walls have been completed. For in this way, by
 strengthening the walls, provision is made for the defence of the city, and
 those matters which have reference to the public safety having been
 accomplished, the games can be celebrated afterwards.
-TITLE XLII. CONCERNING AQUEDUCTS.
+
+* 11.XLII. CONCERNING AQUEDUCTS.
 1. The Emperor Constantine to the Consular, Maximilian.
 We desire that the owners of land through which canals pass shall be exempt
 from extraordinary charges, in order that their labors may keep the aqueduct
@@ -1516,7 +1443,8 @@ Highness, or by other officials having authority to do so.
 Those who violate this law, or permit it to be done, shall not only be
 condemned to pay a fine of ten pounds of gold, but shall also be severely
 punished.
-TITLE XLIII. CONCERNING GLADIATORS.
+
+* 11.XLIII. CONCERNING GLADIATORS.
 1. The Emperor Constantine to Maximus, Praetorian Prefect.Sanguinary
 exhibitions are not proper in the midst of civil tranquillity and domestic
 peace, for which reason We absolutely prohibit gladiatorial contests.1
@@ -1525,7 +1453,8 @@ constituted the favorite amusement of both the nobles and the populace, a
 conclusive
 Published at Berytus, on the Kalendsof October, during the Consulate of
 Paulinus and Julian, 325.
-TITLE XLIV. CONCERNING THE CHASE OF WILD BEASTS.
+
+* 11.XLIV. CONCERNING THE CHASE OF WILD BEASTS.
 1. The Emperors Honorius and Theodosius to Maurianus, Count of the Domestics.
 We grant permission to everyone to kill lions, and no one shall have any fear
 of prosecution on this account. Moreover, We order that wild beasts which are
@@ -1580,7 +1509,8 @@ Given on the thirteenth of the Kalendsof June, during the Consulate of
 Constantius and Constans; and also at Constantinople, on the fifth of the
 Kalendsof October, during the Consulate of Our Lord Honorius, Consul for the
 eleventh time, and Constantius, Consul for the second time, 417.
-TITLE XLV. CONCERNING THE MAY FESTIVAL.
+
+* 11.XLV. CONCERNING THE MAY FESTIVAL.
 1. The Emperors Arcadius and Honorius to Csesarius, Prsetorian
 Prefect.
 We have decided that the May Festival shall be re-established for the benefit
@@ -1630,15 +1560,15 @@ unappreciative recipient of their devoted homage. --- ED.
 Given at Constantinople, on the seventh of the Kalendsof May, during the
 Consulate of Arcadius, Consul for the fourth time, and Honorius, Consul for the
 third time, 196.
-TITLE XLVI.
-THE USE OF ARMS WITHOUT THE KNOWLEDGE OF THE EMPEROR Is FORBIDDEN.
+
+* 11.XLVI. THE USE OF ARMS WITHOUT THE KNOWLEDGE OF THE EMPEROR Is FORBIDDEN.
 1. The Emperors Valentinian and Valens to Buleforus, Consular of Campania.
 No one shall, hereafter, without Our knowledge and consent, have the right to
 bear arms of any description whatever.
 Given on the third of the Nonesof October, during the Consulate of the Divine
 Jovian and Varronian, 364.
-TITLE XLVII.
-CONCERNING FARMERS, TENANTS OF LAND REGISTERED ON THE CENSUS,1 AND SERFS.
+
+* 11.XLVII. CONCERNING FARMERS, TENANTS OF LAND REGISTERED ON THE CENSUS,1 AND SERFS.
 1. The Emperor Constantine.
 Farmers engaged in sowing seed or gathering their crops shall not be subjected
 to extraordinary civil burdens, in order that proper time may be given them for
@@ -1971,17 +1901,16 @@ serf, his master shall himself have full authority to punish him by the
 imposition of a moderate penalty (or the Governor of the province can do so),
 and separate him from the woman. If he should neglect to do this, he can only
 blame his own negligence for any loss which he may sustain.
-TITLE XLVIII.
-CONCERNING THE EXEMPTION OF CITIZENS FEOM THE CAPITATION TAX.
+
+* 11.XLVIII. CONCERNING THE EXEMPTION OF CITIZENS FEOM THE CAPITATION TAX.
 1. The Emperors Constantine to Eusebius, Governor of Lycia and Pamphilia.
 The people of the City of Rome (as is also the case in the provinces of the
 East) shall not be subjected to the imposition of a poll-tax, but are by this
 law entitled to exemption from the same.
 Given on the Kalendsof June, during the third Consulate of Constantine and
 Licinius, 313.
-TITLE XLIX.
-IN WHAT CASES REGISTERED SERFS CAN ACCUSE THEIR
-MASTERS.
+
+* 11.XLIX. IN WHAT CASES REGISTERED SERFS CAN ACCUSE THEIR MASTERS.
 1. The Emperor Constantine.
 Any serf, from whom more is exacted by his master than was required of him in
 former times, and he was previously accustomed to pay, should appear before a
@@ -2010,7 +1939,8 @@ extortion, in which former Emperors have granted this privilege, and We also
 deny them the right to prosecute the latter criminally by accusations of a
 public character, except where some injury has been committed against them or
 their relatives.
-TITLE L. CONCERNING THE SERFS OF PALESTINE.
+
+* 11.L. CONCERNING THE SERFS OF PALESTINE.
 1. The Emperors Valentinian and Valens.
 As the law promulgated by Our predecessors prescribes that serfs shall remain
 in the condition in which they were born in all the other provinces subject to
@@ -2022,7 +1952,8 @@ right to wander about, and boast that he is free, but shall, as in other
 provinces, be subject to the proprietor of the land, so that he cannot depart
 therefrom without being liable to punishment; and it is also added that full
 authority to claim him is hereby granted to the said proprietor.
-TITLE LI. CONCERNING THE SERFS OF THRACE.
+
+* 11.LI. CONCERNING THE SERFS OF THRACE.
 1. The Emperors Arcadius and Honorius.
 The poll-tax is hereby forever abolished throughout the entire Province of
 Thrace, and only the land tax shall be paid. And, in order that permission may
@@ -2037,8 +1968,8 @@ Moreover, if anyone should think he has the right to harbor or retain a serf,
 he shall be compelled to pay two pounds of gold to him whose land the fugitive
 serf abandoned, and he shall also surrender the latter, together with all his
 peculiumand his children.
-TITLE LII.
-CONCERNING THE SERFS OF ILLYRIA.
+
+* 11.LII. CONCERNING THE SERFS OF ILLYRIA.
 1. The Emperors Valentinian, Theodosius, and Arcadius.
 We decree that the vassals and tenants of both Illyria and the neighboring
 countries shall not have permission to abandon the land to which it is certain
@@ -2084,10 +2015,8 @@ voluntarily acquire it by announcing his intention before a competent tribunal,
 and contracting marriage with a female of the class in which he desired to be
 enrolled. The same rule was applicable to women. When once assumed, however,
 the acquired status of the individual could 'never be renounced or abandoned.
-TITLE LIII.
-No ONE SHALL EXTEND PROTECTION TO PEASANTS OR SUPPORT THEM IN ANY CHANGES WHICH
-THEY MAY
-MAKE.
+
+* 11.LIII. NO ONE SHALL EXTEND PROTECTION TO PEASANTS OR SUPPORT THEM IN ANY CHANGES WHICH THEY MAY MAKE.
 1. The Emperor Leo to Eryfh/rius, Praetorian Prefect.
 If anyone, after the publication of this law, should, for the purpose of
 defrauding the State out of any tax or obligation which is due, claim the
@@ -2203,8 +2132,8 @@ tributary of another, or, on the other hand, when some one's female slave
 marries the slave of another, the children of the tributary, as well as those
 of the slave, will follow the fortune of their mothers, and will belong to the
 owners of the latter.
-TITLE LIV.
-PEASANTS SHALL NOT BE SUBJECTED TO ANY NEW OBLIGATIONS.
+
+* 11.LIV. PEASANTS SHALL NOT BE SUBJECTED TO ANY NEW OBLIGATIONS.
 1. The Emperors Diocletian and Maximian, and the Caesars.
 No peasant, residing outside the walls of a town, who pays his poll-tax or
 contributes his amount of grain, shall be subjected to any other obligations by
@@ -2261,9 +2190,8 @@ exile, and any peasant who voluntarily assists in the perpetration of such acts
 shall be punished with equal severity.
 Given at Agrippina, on the day before the Kalendsof October, during the
 Consulate of Valentinian and Valens, 365.
-TITLE LV.
-THE RESIDENTS OF A MOTHER-VILLAGE ARE NOT PERMITTED TO TRANSFER THEIR LANDS TO
-STRANGERS.
+
+* 11.LV. THE RESIDENTS OF A MOTHER-VILLAGE ARE NOT PERMITTED TO TRANSFER THEIR LANDS TO STRANGERS.
 1. The Emperors Leo and Anthemius to Nicostratus, Praetorian Prefect.
 Through motives of humanity, We deem it necessary for the following provision
 to be added to those previously enacted with reference to what are called
@@ -2277,16 +2205,15 @@ property by means of a transaction of this kind, in violation of what is
 forbidden by law, every such agreement entered into will be of no force or
 effect, and if it has been completed, and the property delivered, the latter
 shall merely be returned.
-TITLE LVI.
-No RESIDENT OF A VILLAGE SHALL BE LIABLE FOR THE DEBTS OF OTHER RESIDENTS OF
-THE SAME VILLAGE.
+
+* 11.LVI. No RESIDENT OF A VILLAGE SHALL BE LIABLE FOR THE DEBTS OF OTHER RESIDENTS OF THE SAME VILLAGE.
 1. The Emperor Zeno.
 It is not only a serious offence in law, but it is also contrary to the
 principles of natural equity that persons should be molested on account of the
 debts of others, and therefore, We forbid injustice of this kind to be
 perpetrated against the inhabitants of villages under any circumstances.
-TITLE LVII.
-CONCERNING TAXES, TAX GATHERERS, APPRAISERS, AND INSPECTORS.
+
+* 11.LVII. CONCERNING TAXES, TAX GATHERERS, APPRAISERS, AND INSPECTORS.
 1. The Emperor Constantine to the People.
 As the receivers of taxes in cities, acting in collusion with powerful persons,
 are in the habit of transferring the greater part of the burden of taxation to
@@ -2374,10 +2301,8 @@ time thereafter.
 \Given at Ravenna, on the day before the Idesof March, during the Consulate of
 Honorius, Consul for the eleventh time, and Constantius, Consul for the second
 time, 417.
-TITLE LVIII.
-CONCERNING ABANDONED LANDS AND WHEN SUCH AS
-ARE BARREN ARE CONSIDERED TO BE ATTACHED TO THOSE
-THAT ARE FERTILE.
+
+* 11.LVIII. CONCERNING ABANDONED LANDS AND WHEN SUCH AS ARE BARREN ARE CONSIDERED TO BE ATTACHED TO THOSE THAT ARE FERTILE.
 1. The Emperor Constantine.
 As Our relative, the Divine Aurelian, ordered the decurionates of cities to be
 responsible for the taxes due on abandoned lands, as well as on those whose
@@ -2537,9 +2462,8 @@ of others, but shall only be obliged to pay what is assessed upon his own
 property.
 Given at Ravenna, on the fifth of the Kalendsof May, after the Consulate of
 Felix and Taurus, 429.
-TITLE LIX.
-CONCERNING LANDS AND THEIR BOUNDARIES, MARSHES, PASTURES, FRONTIER MILITARY
-STATIONS, AND THE GARRISONS OF FORTRESSES.
+
+* 11.LIX. CONCERNING LANDS AND THEIR BOUNDARIES, MARSHES, PASTURES, FRONTIER MILITARY STATIONS, AND THE GARRISONS OF FORTRESSES.
 1. The Emperors Valentinian, Valens, and Gratian to Licinius, Prsetorian
 Prefect.
 Tiberianus designated certain lands whose owners were charged with the
@@ -2573,7 +2497,8 @@ The penalty of confiscation shall be inflicted upon those who violate the
 present rule, for when anyone by purchase holds possession of property like
 that above mentioned (which he should, by no means, venture to do), he will
 unquestionably have a right of action against the vendor.
-TITLE LX. CONCERNING PUBLIC AND PRIVATE PASTURES.
+
+* 11.LX. CONCERNING PUBLIC AND PRIVATE PASTURES.
 1. The Emperors Valentinian, Theodosius, and Arcadius.
 As there is no reason why the rent of pastures belonging to Our private domain
 should be increased, this must not be done according to the pleasure of
@@ -2604,9 +2529,8 @@ for the enforcement of the laws, and you must not permit the owners or tenants
 of land to be annoyed by any acts of soldiers whatsoever.
 Given on the Nonesof September, during the Consulate of Honorius, Consul for
 the tenth time, and Theodosius, Consul for the sixth time, 415.
-TITLE LXI.
-CONCERNING LANDS AND FORESTS BELONGING TO THE EMPEROR, AND EMPHYTEUTICAL
-CONTRACTS AND LESSEES UNDER THE SAME.
+
+* 11.LXI. CONCERNING LANDS AND FORESTS BELONGING TO THE EMPEROR, AND EMPHYTEUTICAL CONTRACTS AND LESSEES UNDER THE SAME.
 1. The Emperor Constantine to Cypitus.
 If anyone should, without judicial authority, alienate lands held under
 emphyteusis, the alienation shall stand, provided the person who received them
@@ -2741,10 +2665,8 @@ levied, for the reason that We have established the rule that, in both cases,
 that is to say, where the tax is either reserved or released, the rights of the
 parties in possession shall, without any change whatever, remain in the same
 condition in which they continued during the term of forty years, as aforesaid.
-TITLE LXII.
-CONCERNING SLAVES AND SERFS ATTACHED TO THE
-PRIVATE DOMAIN OF THE EMPEROR, PASTURES, AND
-LANDS HELD UNDER EMPHYTEUSIS.
+
+* 11.LXII. CONCERNING SLAVES AND SERFS ATTACHED TO THE PRIVATE DOMAIN OF THE EMPEROR, PASTURES, AND LANDS HELD UNDER EMPHYTEUSIS.
 1. The Emperors Valentinian and Valens.
 Serfs commit a wrong against emphyteutas by taking possession of lands of
 greater extent than they are accustomed to cultivate, as they are not legally
@@ -2779,9 +2701,8 @@ the discharge of their specific duties.
 We do not, however, by any means intend that those who, having performed
 military service, deserve to be left in leisure and peace, and are entitled to
 the privilege of veterans, should exchange their weapons for plows and hoes.
-TITLE LXIII.
-CONCERNING FUGITIVE SERFS ATTACHED TO THE IMPERIAL ESTATES, AND TO FORESTS AND
-LANDS HELD UNDER EMPHYTEUSIS.
+
+* 11.LXIII. CONCERNING FUGITIVE SERFS ATTACHED TO THE IMPERIAL ESTATES, AND TO FORESTS AND LANDS HELD UNDER EMPHYTEUSIS.
 1. The Emperors Valentinian, Theodosius, and Arcadiws.
 Whenever any sons of decurions, or serfs attached to the Imperial domain, or to
 any of the forests belonging to the same, with reference to which their
@@ -2802,10 +2723,8 @@ removed therefrom by the authority of an Imperial annotation or rescript which
 has been or may hereafter be obtained,
 and who are serving in any rank in the army, shall immediately be sent back
 under a suitable guard appointed by the Governor of the province.
-TITLE LXIV.
-CONCERNING OBLIGATIONS IMPOSED UPON THE OCCUPANTS
-OF LANDS BELONGING TO THE IMPERIAL DOMAIN AND
-OTHERS HELD UNDER EMPHYTEUSIS.
+
+* 11.LXIV. CONCERNING OBLIGATIONS IMPOSED UPON THE OCCUPANTS OF LANDS BELONGING TO THE IMPERIAL DOMAIN AND OTHERS HELD UNDER EMPHYTEUSIS.
 1. The Emperor Constantine to Proculiis, Proconsul of Africa.
 Possessors holding under emphyteusis, although they may have been released from
 extraordinary impositions through Our indulgence are, nevertheless, like other
@@ -2854,9 +2773,8 @@ Moreover, the above-mentioned judges are notified that none of the private
 property of the Emperor, nor any of the tax derived from the same, shall be
 devoted to other purposes, unless they desire their audacity to be punished
 with exemplary severity.
-TITLE LXV.
-CONCERNING THE LANDS BELONGING TO THE PRIVATE ESTATE OP THE EMPEROR, AND THE
-FORESTS ATTACHED TO THE IMPERIAL HOUSEHOLD.
+
+* 11.LXV. CONCERNING THE LANDS BELONGING TO THE PRIVATE ESTATE OP THE EMPEROR, AND THE FORESTS ATTACHED TO THE IMPERIAL HOUSEHOLD.
 1. The Emperor Constantine.
 All persons are notified that any property which they have purchased or may
 purchase from Our Treasury can, under no circumstances, again be claimed by Us,
@@ -2920,9 +2838,8 @@ to Our Treasury. No order which is prejudicial to Our interest shall be valid
 in a case of this kind, even though it may be an Imperial annotation or
 pragmatic sanction authorizing such a sale, contrary to what has been provided,
 nor shall the penalty imposed upon the officer of the palace be remitted.
-TITLE LXVI.
-CONCERNING THE LANDS AND FORESTS BELONGING TO THE PRIVATE DOMAIN OF THE
-EMPEROR.
+
+* 11.LXVI. CONCERNING THE LANDS AND FORESTS BELONGING TO THE PRIVATE DOMAIN OF THE EMPEROR.
 1. The Emperors Valentinian, Theodosius, and Arcadius.
 If anyone should turn his flock of sheep or his drove of horses into the
 pastures forming part of the private estate of the Emperor, it shall
@@ -2939,10 +2856,8 @@ annulled by a false report, a lasting possession, or a new registry.
 Given at Constantinople, on the fifth of the Kalendsof April, during the
 Consulate of Arcadius, Consul for the fourth time, and Honorius, Consul for the
 third time, 396.
-TITLE LXVII.
-CONCERNING THE CULTIVATORS AND SLAVES BELONGING TO THE DOMAIN OP THE EMPEROR,
-OR THE IMPERIAL
-TREASURY.
+
+* 11.LXVII. CONCERNING THE CULTIVATORS AND SLAVES BELONGING TO THE DOMAIN OP THE EMPEROR, OR THE IMPERIAL TREASURY.
 1. The Emperor Constantine.
 No original serf attached to Our private domain shall be raised to any dignity,
 or be called upon to perform any curial duties, as it is not necessary for the
@@ -2974,10 +2889,8 @@ Whenever it is decided to sell any portion of Our private domain to a serf, it
 must not be conveyed to one alone who may, perhaps, become a burden and
 annoyance to his associates, but two or more of the same origin and status
 shall be joined in the aforesaid transaction.
-TITLE LXVIII.
-CONCERNING CERTAIN LANDS, AND CHILDREN BORN TO
-SERFS ATTACHED TO THE IMPERIAL DOMAIN, AND OTHER
-PERSONS OF FREE CONDITION.
+
+* 11.LXVIII. CONCERNING CERTAIN LANDS, AND CHILDREN BORN TO SERFS ATTACHED TO THE IMPERIAL DOMAIN, AND OTHER PERSONS OF FREE CONDITION.
 1. The Emperor Zeno.
 If a free serf, of either sex, should marry a Tamiac man or woman, the children
 who are the issue of a union of this kind shall be considered Imperial serfs.
@@ -2995,10 +2908,8 @@ by the said pragmatic sanction, the most complete validity is given to
 contracts of sale of this description, still, in order to grant perpetual
 security to the purchaser, We do hereby order that by the terms of this
 Constitution all such purchases shall have an indisputable title to such lands.
-TITLE LXIX.
-CONCERNING DIFFERENT URBAN AND RUSTIC ESTATES BELONGING TO TEMPLES AND CITIES
-AND ALL CIVIL
-REVENUES.
+
+* 11.LXIX. CONCERNING DIFFERENT URBAN AND RUSTIC ESTATES BELONGING TO TEMPLES AND CITIES AND ALL CIVIL REVENUES.
 1. The Emperor Julian.
 Where any persons erect buildings upon public lands, they shall be compelled to
 pay a fixed rent for the same.
@@ -3053,10 +2964,8 @@ present Constitution, be restored to the said cities, so that no judicial
 authority, nor any Imperial Rescript which may at any time be produced will, in
 any way, affect the validity of this frequently referred to general law.
 If anyone should violate its provisions, he shall be severely punished.
-TITLE LXX.
-CONCERNING THE LEASING OP LANDS OWNED BY CITIES,
-OR BELONGING TO THE TREASURY, THE TEMPLES, AND THE
-PRIVATE OR PUBLIC IMPERIAL DEMESNES.
+
+* 11.LXX. CONCERNING THE LEASING OP LANDS OWNED BY CITIES, OR BELONGING TO THE TREASURY, THE TEMPLES, AND THE PRIVATE OR PUBLIC IMPERIAL DEMESNES.
 1. The Emperors Gratian, Theodosius, and Arcadius.
 It is provided by an order of Our Divine Father that lands belonging to Our
 private domain shall be transferred by perpetual lease in such a way as to be
@@ -3115,10 +3024,8 @@ description, the first tenant to whom the property was temporarily leased will
 have the right to retain the said land, if he offers as much as the other has
 done. Where, however, he acquired the said property under a perpetual lease, he
 shall remain in undisturbed possession of the same, as previously stated.
-TITLE LXXI.
-CONCERNING LESSEES AND AGENTS, OR COLLECTORS OF
-LANDS BELONGING TO THE TREASURY OP THE IMPERIAL
-HOUSEHOLD.
+
+* 11.LXXI. CONCERNING LESSEES AND AGENTS, OR COLLECTORS OF LANDS BELONGING TO THE TREASURY OP THE IMPERIAL HOUSEHOLD.
 1. The Emperors Theodosius and Valentinian to Bassus, Prasto-rian Prefect.
 Lessees and other persons employed on the lands of the Imperial household,
 whenever any question arises with reference to the same requiring judicial
@@ -3134,8 +3041,8 @@ under Our immediate control, and are obliged to obey Our commands.
 Given at Ravenna, on the day before the Nonesof March, during the Consulate of
 Theodosius, Consul for the twelfth time, and Valentinian, Consul for the second
 time.
-TITLE LXXII.
-WHAT PERSONS ARE NOT PERMITTED TO LEASE LANDS BELONGING TO THE TREASURY.
+
+* 11.LXXII. WHAT PERSONS ARE NOT PERMITTED TO LEASE LANDS BELONGING TO THE TREASURY.
 1. The Emperors Arcadius and Honorius to Nestorius, Count of Private Affairs.
 No Palatine, who is attached to Our private service, has authority to lease
 property belonging to Our private domain, either in his own name or in that of
@@ -3143,9 +3050,8 @@ anyone else whomsoever, for We do not allow this to be done by one who is a
 soldier or a decurion.
 Given on the sixth of the Kalendsof August, during the Consulate of Vincentius
 and Fravitta, 401.
-TITLE LXXIII.
-CONCERNING CONTRIBUTIONS IMPOSED UPON LANDS BELONGING TO THE TREASURY, TO THE
-PRIVATE DOMAIN OF THE EMPEROR, TO THE STATE, OR TO TEMPLES.
+
+* 11.LXXIII. CONCERNING CONTRIBUTIONS IMPOSED UPON LANDS BELONGING TO THE TREASURY, TO THE PRIVATE DOMAIN OF THE EMPEROR, TO THE STATE, OR TO TEMPLES.
 1. The Emperors Arcadius and Honorius to Firminus, Count of the Imperial
 Largesses.
 We grant permission to ordinary judges, as well as to the Governors of
@@ -3166,10 +3072,8 @@ confiscation, shall not be released from pecuniary obligations by virtue of any
 privileges and exemptions of this kind; but notice is hereby given that every
 species of contribution, tax, and imposition shall be required of them, and
 collected without deduction.
-TITLE LXXIV.
-CONCERNING THE PRIVILEGES ENJOYED BY LANDS ATTACHED TO THE IMPERIAL HOUSEHOLD,
-AND THOSE BELONGING TO THE PRIVATE DOMAIN OF THE EMPEROR, AND FROM WHAT
-CONTRIBUTIONS THEY ARE EXEMPT.
+
+* 11.LXXIV. CONCERNING THE PRIVILEGES ENJOYED BY LANDS ATTACHED TO THE IMPERIAL HOUSEHOLD, AND THOSE BELONGING TO THE PRIVATE DOMAIN OF THE EMPEROR, AND FROM WHAT CONTRIBUTIONS THEY ARE EXEMPT.
 1. The Emperor Constantine.
 It is settled that lands belonging to Our private domain shall be exempt from
 all ignoble services, nor shall the lessees of the same or the serfs attached
@@ -3205,7 +3109,9 @@ contributions prescribed, the revenues of which We have frequently set apart
 for the requirements of the public welfare.
 Given at Ravenna, on the thirteenth of the Kalendsof May, during the Consulate
 of Bassus and Antiochus, 431.
-TITLE LXXV. CONCERNING THE IMPERIAL STUD.
+
+* 11.LXXV. CONCERNING THE IMPERIAL STUD.
+
 1. The Emperors Arcadius and Honoring to Csesarius, Praetorian Prefect.
 All persons, from the highest to the lowest, are notified by an edict to be
 published by Your Highness that they will be liable to a fine of a pound of
@@ -3215,14 +3121,15 @@ to have removed animals from any other drove shall be compelled to pay a fine
 of six ounces of gold to Our Treasury.
 Given at Constantinople, on the day before the Kalendsof December, during the
 Consulate of Olybrius and Probinus, 395.
-TITLE LXXVI. CONCERNING THE IMPERIAL PALACES AND BUILDINGS.
+
+* 11.LXXVI. CONCERNING THE IMPERIAL PALACES AND BUILDINGS.
+
 1. The Emperors Theodosius and Valentinian to John,. Count of Private Affairs.
 We except all buildings which are set apart for Us, that is to say, the
 Imperial palaces, from the use and occupation of private persons.
-TITLE LXXVII.
-CYPRESS TREES FROM THE SACRED GROVES OF DAPHNE AND PERSEUS IN EGYPT SHALL NOT
-BE CUT DOWN,
-OR SOLD.
+
+* 11.LXXVII. CYPRESS TREES FROM THE SACRED GROVES OF DAPHNE AND PERSEUS IN EGYPT SHALL NOT BE CUT DOWN, OR SOLD.
+
 1. The Emperors Arcadius and Honorius to Sylvanus, Count of Private Affairs.
 If anyone should purchase cypress trees cut down in the sacred groves of Daphne
 in Syria, or of Perseus in Egypt, he is notified that he will be fined five

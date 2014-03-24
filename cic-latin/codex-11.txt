@@ -4,15 +4,15 @@ DOMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI CODEX
 
 * LIBER UNDECIMUS
 
-+ 11.1.0. De tollenda lustralis auri collatione.
-+ 11.2.0. De naviculariis seu naucleris publicas species transportantibus.
-+ 11.3.0. De praediis naviculariorum.
-+ 11.4.0. De navibus non excusandis.
-+ 11.5.0. Ne quid oneri publico imponatur.
-+ 11.6.0. De naufragiis.
-+ 11.7.0. De metallariis et metallis et procuratoribus metallorum.
-+ 11.8.0. De murilegulis et gynaeciariis et procuratoribus gynaecii et de monetariis et bastagariis.
-+ 11.9.0. De vestibus holoveris et auratis et de intinctione sacri muricis.
++ 11.1.0.  De tollenda lustralis auri collatione.
++ 11.2.0.  De naviculariis seu naucleris publicas species transportantibus.
++ 11.3.0.  De praediis naviculariorum.
++ 11.4.0.  De navibus non excusandis.
++ 11.5.0.  Ne quid oneri publico imponatur.
++ 11.6.0.  De naufragiis.
++ 11.7.0.  De metallariis et metallis et procuratoribus metallorum.
++ 11.8.0.  De murilegulis et gynaeciariis et procuratoribus gynaecii et de monetariis et bastagariis.
++ 11.9.0.  De vestibus holoveris et auratis et de intinctione sacri muricis.
 + 11.10.0. De fabricensibus.
 + 11.11.0. De veteris numismatis potestate.
 + 11.12.0. Nulli licere in frenis et equestribus sellis et in balteis margaritas et smaragdos et hyacinthos aptare et de artificibus palatinis.
@@ -82,7 +82,6 @@ DOMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI CODEX
 + 11.76.0. De grege dominico.
 + 11.77.0. De palatiis et domibus dominicis.
 + 11.78.0. De cupressis ex luco daphnensi vel perseis per aegyptum non excidendis vel vendendis.
-
 
 * TODO 11.1.0. De tollenda lustralis auri collatione.
 
