@@ -1,11 +1,7 @@
 # -*- mode: org -*-
 
-
-
-THE DIGEST OR PANDECTS. BOOK XXX.
-
-
-TITLE I. CONCERNING LEGACIES AND TRUSTS.
+* BOOK XXX.
+* 30.I. CONCERNING LEGACIES AND TRUSTS.
 
 1. Ulpianus, On the Edict, Book LXVII.Legacies are equal in every respect to
 trusts.
@@ -2091,12 +2087,14 @@ trust.
 have been acquired by the legatee after acceptance of the estate, they will
 belong to him, and the tenant interested in said profits will be entitled to an
 action against the heir under his lease.
+
 121. Marcianus, Rules, Book I.
 If anyone should bequeath a legacy to Titius and Maevius, one of them will be
 permitted to accept the legacy without the other. For
 when the Praetor says, "Iorder that the unborn child, together with the other
 children, shall be placed in possession of the estate," even though there are
 no other children, the unborn child will be placed in possession.
+
 122. Paulus, Rules, Book III.
 A bequest can be made to a town for the purpose of honoring or ornamenting it.
 In order to ornament it, for instance, where a legacy has been left for the
@@ -2107,17 +2105,20 @@ it was made to be divided among the citizens, or to meet the expense of
 banquets. And further, whatever is left for the support of persons who are
 infirm through age, such as old men, or boys and girls, it is held to have been
 done for the honor of the town.
+
 (1) "Let Lucius Titius and Gaius Seius be charged with the payment of ten
 aureito Publius Maevius." Gaius Seius did not present himself as heir. Sabinus
 says that Titius alone will owe the entire legacy, for Seius is considered not
 to have been included in the bequest. This opinion is correct, that is to say,
 Titius will be liable for the entire ten aurei.
+
 (2) Where a tract of land has been devised to someone under the following
 condition, "If he should pay a hundred aureito my heir," and if the land should
 only be worth as much as the legatee is ordered to pay to the heir, he cannot
 be compelled to execute the trust with which he was charged, since he is not
 considered to have acquired anything by the will where he must pay out as much
 as he received.
+
 123. Marcellus, Opinions.
 Lucius Titius, who left his two children his heirs, inserted the following
 provision into his will: "Whichever my children shall be my heir, I charge him,
@@ -2133,6 +2134,7 @@ It is clear, however, that the co-heir should be heard, if he can prove that
 the testator, when he appointed his brother heir, intended that he should be
 content with the appointment, and relinquish the benefit to be derived from the
 trust.
+
 (1) The following provision was inserted into a will: "Let my heir deliver
 such-and-such property to Gaius Seius, and I charge Seius, and I trust to his
 good faith for the delivery of all the property abovementioned, without delay."
@@ -2142,17 +2144,20 @@ Marcellus answered that if Seius had tacitly given his promise for the purpose
 of defrauding the law, he could in no way derive any benefit from the words
 written by the testator. For the law must not be thought to have been any the
 less evaded, because it is uncertain whose advantage the testator had in view.
+
 124. Neratius, Parchments, Book V.
 If heirs who are expressly mentioned are charged with the delivery of property,
 it is more reasonable to suppose that they are charged with equal portions,
 because the enumeration of the persons has the effect to make them all equally
 liable for the payment of the legacy, for, if they had not been expressly
 mentioned, they would be liable only for their respective shares in the estate.
+
 125. Rutilius Maximus, On the Lex Falcidia.
 Where an heir is ordered to deliver an estate, and reserve a hundred aureifor
 himself, and his patron demands possession of the estate contrary to the
 provisions of the will, the legacies, as well as the amount reserved, will be
 diminished in proportion to what was obtained by the patron.
+
 126. Paulus, On Pupillary Substitutions.
 The substitute of a disinherited son cannot legally be charged with a legacy.
 Therefore, the heir-at-law of a disinherited son cannot be charged with a
@@ -2166,15 +2171,18 @@ just as if a patrimonial estate had come Into the hands of the son for whom he
 was substituted, and as if the son had received from his father that to which
 he was entitled and had acquired through possession of the estate under the
 Praetorian Law.
+
 (1) Where a posthumous child is charged with a legacy as follows, "If he
 becomes my heir," and no posthumous child should be born, the substitutes can
 enter upon the estate; and it must be held that they owe the legacies for which
 the posthumous child would have been responsible, if it had been born.
+
 127. The Same, On the Law of Codicils.
 The posthumous child of a brother can be charged with a trust. For, with
 reference to trusts, the intention of the deceased is also considered ; and the
 opinion of Callus, who holds that the posthumous children of others can become
 our heirs at law, prevails.
+
 128. Marcianus, Institutes, Book II.
 If a guardian marries his female ward in violation of the Decree of the Senate,
 she can take under his will, but he cannot take anything
@@ -2182,7 +2190,3 @@ under hers; and this is reasonable, for parties who contract forbidden
 marriages are guilty of an offence, and deserve to be punished. The woman,
 however, should not be considered to be to blame who has been deceived by her
 guardian.
-
-
-
-

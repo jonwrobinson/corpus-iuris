@@ -1,9 +1,8 @@
 # -*- mode: org -*-
 
-THE DIGEST OR PANDECTS. BOOK VIII.
+* BOOK VIII.
 
-
-TITLE I. CONCERNING SERVITUDES.
+* 8.I. CONCERNING SERVITUDES.
 
 1. Marcianus, Rules, Book HI.
 Servitudes are either personal, as use and usufruct; or real, as the servitudes
@@ -165,8 +164,7 @@ use of such a right must be considered as equivalent to delivery of possession;
 and therefore interdicts corresponding to those relating to possession have
 been established.
 
-
-TITLE II. CONCERNING SERVITUDES OF URBAN ESTATES.
+* 8.II. CONCERNING SERVITUDES OF URBAN ESTATES.
 
 1. Paulus, On the Edict, Book XXI.
 Where land belonging to the public or a highway intervenes, this does not
@@ -174,9 +172,9 @@ prevent the servitudes of a right of way, or for driving cattle, or for raising
 the height of a house, from being enjoyed; but it does interfere with the right
 of supporting a beam by a wall, or of a projecting roof, and it also interferes
 with the servitudes for the flowing and dripping of water, for the reason that
-the sky over the aforesaid ground should be free.[[1]]
+the sky over the aforesaid ground should be free.[1]
 
-[[1 "Cujus est solum ejus est usque ad caelum, et ad inferos." --- ED.]]
+[1]: "Cujus est solum ejus est usque ad caelum, et ad inferos." --- ED.
 
 (1) Where the usufruct of a house is yours, and I have the mere ownership of
 the same, and it is subject to the support of the building of a neighbor; suit
@@ -607,10 +605,7 @@ neighbor's house, whether his said neighbor, Publius Maevius, would have any
 right to prevent him from doing these things? I answered that, according to
 what had been stated, he would have none.
 
-
-
-
-TITLE III. CONCERNING THE SERVITUDES OF RUSTIC ESTATES.
+* 8.III. CONCERNING THE SERVITUDES OF RUSTIC ESTATES.
 
 1. Ulpianus, Institutes, Book II.
 The following are the servitudes of rustic estates, namely: the right of
@@ -987,8 +982,7 @@ land belonging to the same owner. If this
 be the case the servitude is not held to be interrupted, even though a public
 river intervenes between two tracts of land belonging to the same person.
 
-
-TITLE IV. RULES COMMON TO BOTH URBAN AND RUSTIC ESTATES.
+* 8.IV. RULES COMMON TO BOTH URBAN AND RUSTIC ESTATES.
 
 1. Ulpianus, Institutes, Book II.
 We designate buildings urban estates, and where buildings belong to a house in
@@ -1224,12 +1218,7 @@ the legacy does not legally vest; for it has been established that the acts of
 living persons may be suspended so far as their operation is concerned, but
 that those of deceased persons cannot.
 
-
-
-
-TITLE V.
-WHERE AN ACTION IS BROUGHT TO RECOVER A SERVITUDE, OR THE RIGHT OF ANOTHER TO
-IT IS DENIED.
+* 8.V. WHERE AN ACTION IS BROUGHT TO RECOVER A SERVITUDE, OR THE RIGHT OF ANOTHER TO IT IS DENIED.
 
 1. Ulpianus, On the Edict, Book IV.
 Rights of action with reference to servitudes, whether they are rustic or
@@ -1637,23 +1626,30 @@ Where no water has yet appeared, no right of way to it, nor any canal for the
 conduct of the same can be established. Paulus says, I think, that this is not
 true, by any means; because a grant can be made permitting you to look for
 water, and, if it should be found to convey it.
-TITLE VI. HOW SERVITUDES ARE LOST.
+
+* 8.VI. HOW SERVITUDES ARE LOST.
+
 1. Gaius, On the Provincial Edict, Book VII.
 The servitudes of estates are merged when the same person becomes the owner of
 both estates.
+
 2. Paulus, On the Edict, Book XXI.
 Where a man has the right to both walk and drive, and only uses that of walking
 during the period established by law, the right to drive is not lost, but still
 remains in force; as Sabinus, Cassius, and Octavenus hold; and a party who has
 the right to drive can also make use of that to walk.
+
 3. Gaius, On the Provincial Edict, Book VII.
 It is commonly held that servitudes attached to real property are not lost by
 death or by the forfeiture of civil rights.
+
 4. Paulus, On the Edict, Book XXVII.
 The right of access to a burial-place is never lost by want of use.
+
 5. The Same, On the Edict, Book LXVI.
 A servitude can be retained for our benefit through a joint-owner, an
 usufructuary, or a bona-fide possessor:
+
 6. Celsus, Digest, Book V.
 For it is sufficient that there should be a right of access on account of the
 land.
@@ -1708,6 +1704,7 @@ enable him to retain the same right over the rest of it; but the party entitled
 to the right of way secured the advantage of being able to walk or drive over
 two roads equally; that is, over two roads each eight feet wide where straight
 and sixteen feet where curved.
+
 7. Paulus, On Plautius, Book XIII.
 If the right to conduct water is granted in such a way that this can only be
 done during the summer, or for one month, the question arises how it may be
@@ -1721,6 +1718,7 @@ established by law, because it is but a single servitude; for Servius says that
 if he has a servitude which he can make use of every other hour, or only for
 one hour each day, he will lose the servitude by not using it, because what he
 has can be made use of every day.
+
 8. The Same, On Plautius, Book XV.
 If I have the right to allow the water from my roof to fall on your land, and I
 permit you to build there, I lose my right to allow the water to fall. In like
@@ -1728,9 +1726,11 @@ manner, if I have a right of way over your land, and I permit you to build
 anything on the place over which I have the right of way, I lose it.
 (1) A person who transfers a portion of a roadway to which he has a right, is
 considered to be using the whole of it.
+
 9. Javolenus, On Plautius, Book III.
 Where water flows into a part of a canal, even though if it does not reach the
 extreme end of the same, all parts of said canal are held to be used.
+
 10. Paulus, On Plautius, Book XV.
 Where I and my ward hold land in common, even though we both do not make use of
 a right of way attached to the same, I retain the right of way on account of
@@ -1741,6 +1741,7 @@ he loses the right to make use of it at night, because he failed to exercise
 his privilege. The same rule applies to a party who
 has a right to use an aqueduct during certain hours, and makes use of it at
 others, and not during any part of the hours which are mentioned.
+
 11. Marcellus, Digest, Book IV.
 Where a party who was entitled to a right of way or a right to drive, provided
 he made use of vehicles of a certain kind, used one of another kind; let us
@@ -1757,6 +1758,7 @@ certain servitudes upon it; if the condition of the legacy is complied with,
 the servitude will be extinguished. Let us consider whether if they had been
 acquired by the land, they would follow the legacy for the benefit of the
 legatee, and the better opinion is that they would.
+
 12. Celsus, Digest, Book XXIII.
 Where a party in good faith purchases land which did not belong to the vendor,
 and uses a right of way which is attached to the land, the right will be
@@ -1769,12 +1771,14 @@ Wherefore, it may be stated even more positively, that if water flows through a
 channel of itself, the right of conducting it there is retained; which opinion
 was very properly held by Sabinus, and is mentioned in Neratius in the Fourth
 Book of Parchments.
+
 13. Marcellus, Digest, Book XVII.
 Where a party who owns an estate entitled to a right of way over neighboring
 land sells a portion of the same adjoining the servient estate, but does not
 impose the servitude, and before the prescribed time by which a servitude is
 lost has elapsed, again acquires the portion which he sold, he will be entitled
 to the servitude which his neighbor owed.
+
 14. Javolenus, On Cassius, Book X.
 Where a place subject to a right of way or a right to walk or drive is
 overflowed by a river, and before the time established for the loss of the
@@ -1783,7 +1787,10 @@ servitude is also restored to its former condition. If, however, so much time
 should elapse that the servitude is lost, the owner of the land can be
 compelled to renew it.
 (1) Where a highway is destroyed by the overflow of a river, or by the
-destruction of a building, the nearest neighbor must furnish a roadway.1
+destruction of a building, the nearest neighbor must furnish a roadway.[1]
+
+[1] This rule is as old as the Laws of the Twelve Tables, and is still applicable to both highways and private roads. The right is based upon the maxim, "Quando lex aliquid alicui concedit, concedere videtur et id sine quo res ipsa esse non potest". When part of a highway is impassable, persons prevented from using it can, without ceremony, tear down fences and pass over the adjoining land, even through growing crops, provided they take the shortest route available and cause no more damage than is absolutely necessary. --- ED.
+
 15. The Same, Epistles, Book II.
 Where I am entitled to a servitude over several tracts of land, and I acquire
 one of the tracts situated between two others, I think that the servitude
@@ -1791,6 +1798,7 @@ remains, for a servitude is merged only when the party to whom it belongs
 cannot make use of it; but where he has acquired land between two other tracts,
 it may be held that he is entitled to a right of way through the first and last
 of these.
+
 16. Proculus, Epistles, Book I.
 Several persons by reason of a right were accustomed to conduct through the
 same canal water which had its source on the land of a neighbor, in such a way
@@ -1810,28 +1818,19 @@ to use his privilege, no right for this reason will accrue to the others who
 used the channel; and the benefit of the right which was lost as to the share
 of one party by non-user will belong to him through whose land was traversed by
 the water-course, and he would enjoy freedom from this much of the servitude.
+
 17. Pomponius, Various Passages, Book XI.
 Labeo says that if anyone who has a right to draw water should, during the time
 by the lapse of which a servitude is lost, go to a spring but not draw any
 water, he will lose the right of way also.
+
 18. Paulus, On Sabinus, Book XV.
 Where anyone uses other water than that which is agreed upon at the time when
 the servitude was imposed, the servitude is lost.
 (1) The time during which the last owner of the land to which a servitude is
-attached did not use the water is counted against the party
-1 This rule is as old as the Laws of the Twelve Tables, and is still applicable
-to both highways and private roads. The right is based upon the maxim, "Quando
-lex aliquid alicui concedit, concedere videtur et id sine quo res ipsa esse non
-potest". When part of a highway is impassable, persons prevented from using it
-can, without ceremony, tear down fences and pass over the adjoining land, even
-through growing crops, provided they take the shortest route available and
-cause no more damage than is absolutely necessary. --- ED.
-who succeeds to his place. If you have the right to insert a beam into an
-adjacent house, and your neighbor has not built it within the time prescribed
-by law, and therefore you are unable to insert it, you do not, for that reason,
-lose your right; because your neighbor cannot be considered to have acquired by
-usucaption freedom from the servitude to which his house was subject, since he
+attached did not use the water is counted against the party who succeeds to his place. If you have the right to insert a beam into an adjacent house, and your neighbor has not built it within the time prescribed by law, and therefore you are unable to insert it, you do not, for that reason, lose your right; because your neighbor cannot be considered to have acquired by usucaption freedom from the servitude to which his house was subject, since he
 never interrupted the use of your right.
+
 19. Pomponius, On Sabinus, Book XXXII.
 If, when selling a portion of my land, I provide in the contract that I shall
 have a right to conduct water over that portion to the remainder of my
@@ -1848,20 +1847,26 @@ been bequeathed to you, the right of way will belong to the purchaser, if he
 should make use of it for the remaining time, because, in fact it had already
 commenced to be yours, and it might happen that you would never have the right
 even to reject the legacy, as the land would not belong to you.
+
 20. Scaevola, Rules, Book I.
 A servitude is retained by use when it is made use of by the party entitled to
 it or who is in possession of the same, or by his hired servant, his guest, his
 physician, or anyone who comes to pay him a visit, or his tenant, or an
 usufructuary:
+
 21. Paulus, Sentences, Book V.
 Even though the usufructuary should enjoy it in his own name;
+
 22. Scaevola, Rules, Book I.
 In fine, whoever makes use of the right of way just as if he is entitled to do
 so,
+
 23. Paulus, Sentences, Book V.
 Whether he uses it in order to approach our land or to leave it,
+
 24. Scaevola, Rules, Book I.
 Even though he may be a possessor in bad faith, the servitude will be retained.
+
 25. Paulus, Sentences, Book V.
 A party is not held to use a servitude except when he believes that he is
 exercising a right which belongs to him; and therefore where anyone makes use

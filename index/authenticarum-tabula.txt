@@ -1,0 +1,53 @@
+# -*- mode: org -*-
+
+* Source: [Venice 1478/79; unless otherwise noted]
+
+Franciscus Accursius.
+Corpus iuris civilis. Codex.
+  Liber 1-9 mit der Glossa ordinaria von Accursius Florentinus
+[Venedig] [ca. 1478/79]
+2 Inc.s.a. 321
+urn:nbn:de:bvb:12-bsb00050150-1
+BSB-Ink C-563 - GW 7726
+http://daten.digitale-sammlungen.de/~db/0005/bsb00050150/image_1
+
+
+* Caveat lector:
+
+  The following list is added to incremetally and *not*
+  systematically! An ideal entry, and there are none yet, will list
+  its incipit, where an *authentica* can be found in the *Code*,
+  provide its rubric, and give a cross-reference to its location in
+  the *Authenticum* as well as to the *Novels*.
+
+* Abbreviations
+
+  aut.  = authentica
+  a.    = ante [us. used when there are several authenticae in a row]
+  c.f.  = constitutio Frederici
+  p.    = post
+  pr.   = proemium
+  r.    = rubrica
+  C.    = Collatio
+  N.    = Novella
+
+* Tabula authenticarum
+* Codex 01
+* Codex 02
+* Codex 03
+* Codex 04
+* Codex 05
+
+- aut. Incestas nuptias [p. C.5.5.7 pr.]
+  r.: In. aut. de inces. nupt. C. iii
+
+- aut. Ex complexu [a. C.5.5.7 pr.]
+  r.: In aut. quibus modis naturales effi. sui. §. fi. C. vii.
+
+* Codex 06
+* Codex 07
+* Codex 08
+* Codex 09
+* Codex 10
+* Codex 11
+* Codex 12
