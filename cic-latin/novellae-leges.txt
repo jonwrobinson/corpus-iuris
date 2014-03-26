@@ -6080,7 +6080,6 @@ floris dignitatisque concupiscentia.
 ###### Nov30.htm ######
 ###### Nov30.htm ######
 
-
 * NOV. XXX
   DE PROCONSULE CAPPADOCIAE.
 
@@ -6394,7 +6393,6 @@ tua celsitudo cognoscens et memoratas annonas cinguli huius praebeat sedi et sic
 
 ###### Nov31.htm ######
 ###### Nov31.htm ######
-
 
 * NOV. XXXI
  DE DISPOSITIONE QUATTUOR ADMINISTRATIONUM ARMENIAE.
@@ -8475,177 +8473,55 @@ SUBSTANTIA VIRI ET IPSE VIR IN SUBSTANTIA UXORIS, QUANDO INOPS EST QUI
 RELINQUITUR.  (AD537)
 
 
+Imp. Iustinianus Aug. Iohanni pp. secundo.
 
-
-
-
-
-
-
-
- Imp. Iustinianus Aug. Iohanni pp. secundo.
-
-<Praefatio>Plurimi adeuntes nostram docent potestatem, quia exhibentur ab
- aliquibus aut etiam in alias protrahuntur provincias aut ex sacra nostra iussione aut
-     ex decretis iudicialibus, et ad miseriam quidem per haec aguntur, coacti vero
-     iussionibus aut decretis exhibentur; proinde qui eos exhibent etiam cautiones
-  exigentes, quia intra certum tempus veniunt ad determinatum iudicium hi qui ab eis
-    conventi sunt, ipsi remanent in provincia, affligi in peregrinatione sumptibus
-       exhibitum aut praesentatum relinquentes.
+<Praefatio>
+Plurimi adeuntes nostram docent potestatem, quia exhibentur ab aliquibus aut etiam in alias protrahuntur provincias aut ex sacra nostra iussione aut ex decretis iudicialibus, et ad miseriam quidem per haec aguntur, coacti vero iussionibus aut decretis exhibentur; proinde qui eos exhibent etiam cautiones exigentes, quia intra certum tempus veniunt ad determinatum iudicium hi qui ab eis conventi sunt, ipsi remanent in provincia, affligi in peregrinatione sumptibus exhibitum aut praesentatum relinquentes.
 
 CAPUT I.
-  Hoc igitur miserantes sancimus, si quid fiat tale et tempus impleatur quod in
-  cautione exhibitionis aut praesentationis ipse actor constituit, deinde ille quidem
- observet in iudicio, actor autem desit, et nisi intra dies X postquam reus venerit in
-  provinciam actor occurrerit, reum quidem ingredientem apud iudicem et haec docentem
-  repente dimitti, iureiurando autem eius iudicetur de omnibus expensis quas pertulit
-     circa viam et circa peregrinam habitationem, et his iudices addicant actorem
-      convenientem frustra. Et quoniam mos est non aliter fieri exhibitiones aut
- praesentationes, nisi actores fideiussores certa quantitate dederint, quia execuntur
-   causam et suscipiunt sententiam, hanc quidem quantitatem omnino eos exigi et dari
-frustra calumniam passe. Si vero per iusiurandum etiam plus aliquid declaraverit, certa
-tamen quantitate definita a iudice, quam leges taxationem vocant, etiam hoc superexigi,
-   ut agnoscant non ludere in vitas alienas, sed in provincia eligere iudices et ibi
-   contra suos adversarios litigare.
+
+Hoc igitur miserantes sancimus, si quid fiat tale et tempus impleatur quod in cautione exhibitionis aut praesentationis ipse actor constituit, deinde ille quidem observet in iudicio, actor autem desit, et nisi intra dies X postquam reus venerit in provinciam actor occurrerit, reum quidem ingredientem apud iudicem et haec docentem repente dimitti, iureiurando autem eius iudicetur de omnibus expensis quas pertulit circa viam et circa peregrinam habitationem, et his iudices addicant actorem convenientem frustra. Et quoniam mos est non aliter fieri exhibitiones aut praesentationes, nisi actores fideiussores certa quantitate dederint, quia execuntur causam et suscipiunt sententiam, hanc quidem quantitatem omnino eos exigi et dari frustra calumniam passe. Si vero per iusiurandum etiam plus aliquid declaraverit, certa tamen quantitate definita a iudice, quam leges taxationem vocant, etiam hoc superexigi, ut agnoscant non ludere in vitas alienas, sed in provincia eligere iudices et ibi contra suos adversarios litigare.
 
 CAPUT II.
-   Quia vero ab actoribus fideiussiones plerumque novimus hic datas, tamquam in
-   exhibendis personis, si vero in aliam deducantur provinciam, forte declinare hanc
-   observationem, sancimus hic iudicem aut gloriosissimum nostrum quaestorem sacris
-    nostris ministrantem litteris, si quid tale agere iubeatur, non aliter ad aliam
-  exhiberi provinciam reum, antequam fideiussorem praebeat actor in iudicio, in quod
-  futures est reum deducere, quia dabit secundum locorum spatium aurum quantumcumque
-decretum fuerit fugienti, si non exequatur aut exequens non vincat causam, et ibi omnia
-    agi quaecumque in exhibitione decrevimus, definitum vero aurum a fideiussoribus
-  exigendum et dandum ei qui deductus est, praebendo quoque ab illo etiam iureiurando
- usque ad taxationem, ut si iuraverit se etiam amplius expendisse, et hoc recipiat, et
-  undique videantur perfectae nostrae legislationes.
+
+Quia vero ab actoribus fideiussiones plerumque novimus hic datas, tamquam in exhibendis personis, si vero in aliam deducantur provinciam, forte declinare hanc observationem, sancimus hic iudicem aut gloriosissimum nostrum quaestorem sacris nostris ministrantem litteris, si quid tale agere iubeatur, non aliter ad aliam exhiberi provinciam reum, antequam fideiussorem praebeat actor in iudicio, in quod futures est reum deducere, quia dabit secundum locorum spatium aurum quantumcumque decretum fuerit fugienti, si non exequatur aut exequens non vincat causam, et ibi omnia agi quaecumque in exhibitione decrevimus, definitum vero aurum a fideiussoribus exigendum et dandum ei qui deductus est, praebendo quoque ab illo etiam iureiurando usque ad taxationem, ut si iuraverit se etiam amplius expendisse, et hoc recipiat, et undique videantur perfectae nostrae legislationes.
 
 CAPUT III.
-     Illud quoque antiquitas quidem bene faciens disposuit, nunc autem studio
-   machinantur, nostrarum legum clementiam occasionem facientes suarum calumniarum.
-    Vetustate namque volente conventionis libellum suscipientem diebus aeque decem
-   deliberationem habere, quo possit discutere causam et forte etiam recognoscere et
-    liberari, post decem autem dierum indutias tunc et subscribere misso libello et
-  iudiciales implere cautiones, quidam vero respicientes ad nostras leges, quae post
-  litis contestationem neque refutare iudicem neque alium petere iudicem permittunt,
-causam arte machinantur, et maxime executoribus talia dolose adinvenientibus, et mox ut
-   oblata fuerit quaelibet admonitio, forte neque libello dato neque iudiciali ulla
-cautione, deducunt hominem invitum ad iudicem datum et nihil scientem compellunt facere
-litis contestationem, ut semel sub litis contestatione constitutus obligetur et nullam
-  habeat licentiam neque refutare iudicem neque alium simul iudicem petere, cum forte
-suspectus iudex sit; et sic agunt quae volunt et sub suis artibus hominem constituentes
-     quo volunt modo de eo agunt.
-  1.Sancimus igitur, dum admonitio oblata fuerit alicui, modis omnibus offerri
-libellum, et non secundum antiquitatem decem solummodo dierum habere eum qui admonetur
-  indutias, sed duplices, hoc est viginti, ut sive repudiare voluerit sive et cum eo
-   alium iudicem petere, licentiam habeat hoc facere aut forte cognoscere debitum et
-    liberare se ab adversarii sui contentione amicabiliter, et non per calumniam et
- circumventionem sub iudice constitui forsan suspecto, forsan ingrato, plerumque autem
-aliquid etiam proprium contra reum dispensante, et eo qui litem sustinet nullum habente
- tempus ad cognoscendum, in quibus conventus occurrit.
-  2.Suscepto vero libello, sola personali fideiussione ab eo data et sportulis
- secundum sacram nostram praebitis constitutionem, subscribere libello qui appellatur
- responsionis et declarare etiam tempus quo et libellus datus est, ne etiam ob hoc ars
- fiat quaedam, cumque futura est celebrari contestatio litis apud iudicem, interrogari
-     fugientem, si viginti dies transierunt deliberationis, et illum dicere quidem
- veritatem, ostendi quoque illud etiam ex die et subscriptione libelli: et si dixerit
-   transisse viginti dierum numerum, tunc fieri litis contestationem. In medio autem
-licentiam esse ei repudiare iudicem et alium petere aut etiam cum eo iudicem percipere
-aut certe absolvi amicabiliter, nihil in medio neque damnificando neque ab executoribus
-     conturbando, sed iudiciariam cautionem exponentem, sicut qui de his indicant
- perspexerint, et viginti dierum habentem deliberationem. Si vero haec non serventur,
-licet videatur quaedam fieri contestatio litis, pro nihilo eam esse, sed licentiam esse
- et post huiusmodi contestationem litis intra definitos viginti dies sic omnia agere,
-    tamquam si neque ab initio facta sit quaedam contestatio litis.
+
+Illud quoque antiquitas quidem bene faciens disposuit, nunc autem studio machinantur, nostrarum legum clementiam occasionem facientes suarum calumniarum.  Vetustate namque volente conventionis libellum suscipientem diebus aeque decem deliberationem habere, quo possit discutere causam et forte etiam recognoscere et liberari, post decem autem dierum indutias tunc et subscribere misso libello et iudiciales implere cautiones, quidam vero respicientes ad nostras leges, quae post litis contestationem neque refutare iudicem neque alium petere iudicem permittunt, causam arte machinantur, et maxime executoribus talia dolose adinvenientibus, et mox ut oblata fuerit quaelibet admonitio, forte neque libello dato neque iudiciali ulla cautione, deducunt hominem invitum ad iudicem datum et nihil scientem compellunt facere litis contestationem, ut semel sub litis contestatione constitutus obligetur et nullam habeat licentiam neque refutare iudicem neque alium simul iudicem petere, cum forte suspectus iudex sit; et sic agunt quae volunt et sub suis artibus hominem constituentes quo volunt modo de eo agunt.
+
+
+1. Sancimus igitur, dum admonitio oblata fuerit alicui, modis omnibus offerri libellum, et non secundum antiquitatem decem solummodo dierum habere eum qui admonetur indutias, sed duplices, hoc est viginti, ut sive repudiare voluerit sive et cum eo alium iudicem petere, licentiam habeat hoc facere aut forte cognoscere debitum et liberare se ab adversarii sui contentione amicabiliter, et non per calumniam et circumventionem sub iudice constitui forsan suspecto, forsan ingrato, plerumque autem aliquid etiam proprium contra reum dispensante, et eo qui litem sustinet nullum habente tempus ad cognoscendum, in quibus conventus occurrit.
+
+
+2.Suscepto vero libello, sola personali fideiussione ab eo data et sportulis secundum sacram nostram praebitis constitutionem, subscribere libello qui appellatur responsionis et declarare etiam tempus quo et libellus datus est, ne etiam ob hoc ars fiat quaedam, cumque futura est celebrari contestatio litis apud iudicem, interrogari fugientem, si viginti dies transierunt deliberationis, et illum dicere quidem veritatem, ostendi quoque illud etiam ex die et subscriptione libelli: et si dixerit transisse viginti dierum numerum, tunc fieri litis contestationem. In medio autem licentiam esse ei repudiare iudicem et alium petere aut etiam cum eo iudicem percipere aut certe absolvi amicabiliter, nihil in medio neque damnificando neque ab executoribus conturbando, sed iudiciariam cautionem exponentem, sicut qui de his indicant perspexerint, et viginti dierum habentem deliberationem. Si vero haec non serventur, licet videatur quaedam fieri contestatio litis, pro nihilo eam esse, sed licentiam esse et post huiusmodi contestationem litis intra definitos viginti dies sic omnia agere, tamquam si neque ab initio facta sit quaedam contestatio litis.
 
 CAPUT IV.
-Si vero semel repudians iudicem alium acceperit, non sinimus ei et eum qui petitus
-   est rursus repudiare. Sicut enim eius curam habemus, sic etiam per dilationem agi
- aliquid adversus actores modis omnibus aversamur. Si vero etiam quidam iurent quidem
-quia observent, et antequam contestatio litis fiat, ab hac maxima dispareant civitate,
- licentiam esse etiam non facta litis contestatione adire actorem statutum iudicem et
-haec denuntiare, illum vero, si quidem administrator sit, iubere omnimodo exhiberi reum
- tamquam periurum et paene sui accusatorem per fugam factum; si vero non administret,
-  sed datus sit a quodam iudice, sive ex sacra forte forma aut iussione aut etiam ab
-aliquo administratore, ad illum nuntiare, ut deducatur ab illo, ne causa maneat actori
- undique desolata, iudice agere aliquid non valente eo quod nondum apud eum facta sit
-contestatio litis, illo contemnente legem et [iuramentum suum] manifestationem suam, et
- actorem extra omne legitimum adiutorium relinquente.
-1.Igitur ne latente eo et tardata exhibitione causa maneat suspensa, examinet ut
- potuerit iudex, in quam terram abisse dicitur, et det indutias certas, ut nisi intra
- eas occurrerit (liberam tamen huius rei fiduciam habens, si non forte studio actoris
- impediatur aut venire prohibeatur), tunc secundum unam partem examinet negotium et in
-possessionem mittat actorem eius rerum secundum mensuram declarati debiti, ipsumque in
-possessionem missum habere res debiti causa servandi. Et tunc, si ille occurrerit, omne
-  ei prius salvet damnum, et tunc recipiens res et fideiussorem praestans prosequatur
-causam.
+
+Si vero semel repudians iudicem alium acceperit, non sinimus ei et eum qui petitus est rursus repudiare. Sicut enim eius curam habemus, sic etiam per dilationem agi aliquid adversus actores modis omnibus aversamur. Si vero etiam quidam iurent quidem quia observent, et antequam contestatio litis fiat, ab hac maxima dispareant civitate, licentiam esse etiam non facta litis contestatione adire actorem statutum iudicem et haec denuntiare, illum vero, si quidem administrator sit, iubere omnimodo exhiberi reum tamquam periurum et paene sui accusatorem per fugam factum; si vero non administret, sed datus sit a quodam iudice, sive ex sacra forte forma aut iussione aut etiam ab aliquo administratore, ad illum nuntiare, ut deducatur ab illo, ne causa maneat actori undique desolata, iudice agere aliquid non valente eo quod nondum apud eum facta sit contestatio litis, illo contemnente legem et [iuramentum suum] manifestationem suam, et actorem extra omne legitimum adiutorium relinquente.
+
+1.Igitur ne latente eo et tardata exhibitione causa maneat suspensa, examinet ut potuerit iudex, in quam terram abisse dicitur, et det indutias certas, ut nisi intra eas occurrerit (liberam tamen huius rei fiduciam habens, si non forte studio actoris impediatur aut venire prohibeatur), tunc secundum unam partem examinet negotium et in possessionem mittat actorem eius rerum secundum mensuram declarati debiti, ipsumque in possessionem missum habere res debiti causa servandi. Et tunc, si ille occurrerit, omne ei prius salvet damnum, et tunc recipiens res et fideiussorem praestans prosequatur causam.
 
 CAPUT V.
-    Optimum quoque est etiam hoc propter dubitationum quaestionem lege communi
- determinare. Primum namque fuerunt dubitationes plurimae, utrum oporteat militias sub
-  hypothecae deduci vinculis, aut his liberas esse. Sed hoc quidem iam definitum est
-lege, et certae consistunt militias quaecumque vendi aut obligari possunt. Nos autem ex
-maioribus causam considerantes scimus, quia ex antiquis temporibus non erat in militiis
-  hypotheca, sed quaedam nomina omnino antiqua et deficientia in talibus ferebantur;
-  paulatim vero imperatores interpellantium creditorum miserati haec praebebant, cum
-    utique omnis militia publica existeret et nullum quaestum omnino alium quam ex
-    imperiali munificentia habens.
-   1.Propterea igitur sancimus ea quae appellantur ex casu non omnibus prompte
-   subiacere, nisi tamen creditor fuerit qui ad hoc ipsum mutuavit, ut militia illi
-   emeretur. Alioquin aliis creditoribus non prompte damus hoc: sed si quidem filii
- fuerint aut uxor defuncti, istos omnibus praeponimus modis, ut adeant nos et secundum
-iussionem nostram haec habeant non tamquam paternam hereditatem, si in aliis inops sit,
-     sed tamquam imperialem munificentiam, ut et substantiam relinquentibus et non
-   habentibus merito solacium praebeamus. Si vero nullus eis neque filius neque uxor
-   fuerit neque creditor qui ad ipsam militiam mutuavit, tunc et aliis creditoribus
-    praebemus haec, ne videamur inhumanum aliquod facere et non propter piam et deo
-placentem actionem ponere legem: de militia quippe spectabilium silentiariorum proprie
-     datis et largitis eis privilegiis in sua virtute manentibus.
+
+Optimum quoque est etiam hoc propter dubitationum quaestionem lege communi determinare. Primum namque fuerunt dubitationes plurimae, utrum oporteat militias sub hypothecae deduci vinculis, aut his liberas esse. Sed hoc quidem iam definitum est lege, et certae consistunt militias quaecumque vendi aut obligari possunt. Nos autem ex maioribus causam considerantes scimus, quia ex antiquis temporibus non erat in militiis hypotheca, sed quaedam nomina omnino antiqua et deficientia in talibus ferebantur; paulatim vero imperatores interpellantium creditorum miserati haec praebebant, cum utique omnis militia publica existeret et nullum quaestum omnino alium quam ex imperiali munificentia habens.
+
+1.Propterea igitur sancimus ea quae appellantur ex casu non omnibus prompte subiacere, nisi tamen creditor fuerit qui ad hoc ipsum mutuavit, ut militia illi emeretur. Alioquin aliis creditoribus non prompte damus hoc: sed si quidem filii fuerint aut uxor defuncti, istos omnibus praeponimus modis, ut adeant nos et secundum iussionem nostram haec habeant non tamquam paternam hereditatem, si in aliis inops sit, sed tamquam imperialem munificentiam, ut et substantiam relinquentibus et non habentibus merito solacium praebeamus. Si vero nullus eis neque filius neque uxor fuerit neque creditor qui ad ipsam militiam mutuavit, tunc et aliis creditoribus praebemus haec, ne videamur inhumanum aliquod facere et non propter piam et deo placentem actionem ponere legem: de militia quippe spectabilium silentiariorum proprie datis et largitis eis privilegiis in sua virtute manentibus.
 
 CAPUT VI.
-  Quoniam vero ad clementiam omnis a nobis lex aptata est, videmus autem quosdam
-cohaerentes mulieribus indotatis, deinde morientes, et filios quidem ex lege vocatos ad
- paternam hereditatem, mulieres autem, licet decies milies in statu legitimae coniugis
- manserint, attamen eo quod non sit facta neque dos neque antenuptialis donatio nihil
- habere valentes, sed novissima viventes inopia, propterea sancimus providentiam fieri
-etiam harum et in successione morientis et huiusmodi uxorem cum filiis vocari. Et sicut
-scripsimus legem volentem, si sine dote existentem uxorem vir dimiserit, quartam partem
-eius substantiae accipere eam, sic etiam hic, quoniam contingit forte paucos aut plures
- esse filius, quartam partem substantiae habere mulierem, sive plures sive minus filii
- fuerint. Si tamen legatum aliquod reliquerit ei vir minus [a] quarta parte, compleri
-     hoc, ut sicut laesas eas iuvamus, si forte dimissae fuerint a viris indotatae
- consistentes, ita vel si perduraverint semper cum eis, eadem perfruantur providentia.
- Scilicet omnibus secundum instar illius nostrae constitutionis, quae quartam decernit
-  eis, etiam hic servandis similiter quidem in viris, similiter autem in mulieribus.
-     Communem namque etiam hanc super eis ponimus legem, sicut etiam praecedentem.
-1.Si vero quasdam res proprias mulier in domo viri aut alibi repositas habuerit,
-  harum exactionem et retentionem habeat omnibus modis inminutam, subiacere huiusmodi
-rebus viri creditoribus nullo modo valentibus, nisi forte secundum quod in illius iura
-     ex hac lege heres extiterit.
- 2.Haec itaque dicimus, si coniunctorum alter dotem aut antenuptialem donationem
- non faciens inops aut vir aut mulier inveniatur, et moriens quidem aut vir aut femina
-   locuples sit, ille vero vel illa superstes pauper existat. Nam si aliunde forsan
-habeat, non offerentem. dotem aut non dantem propter nuptias donationem non erit iustum
-     gravare filios per successionem, quoniam lex alia est nostra dicens dotem non
- offerentem non posse res viri conquirere per antenuptialem donationem. Quod etiam hic
- volumus obtinere, nisi tamen ipse vir aut legatum ei aut aliquam partem institutionis
- reliquerit; fieri namque hoc nullo invidemus modo, ut in omnibus nobis concordantiae
-  legum serventur, et inopia coniugis per divitias alterius salvetur.
-    <Epilogus>Quae igitur placuerunt nobis, tua celsitudo valere effectuique
-   contradere festinet, per praecepta a se conficienda universis faciens manifesta,
-       quatenus ipsi secundum haec vivant etiam et convertantur.
- Dat. X. kal. Octob. CP. <imp.> domini nostri Iustiniani pp. Aug. anno XI., p. c.
-     Belisarii v. c. anno secundo.
 
+Quoniam vero ad clementiam omnis a nobis lex aptata est, videmus autem quosdam cohaerentes mulieribus indotatis, deinde morientes, et filios quidem ex lege vocatos ad paternam hereditatem, mulieres autem, licet decies milies in statu legitimae coniugis manserint, attamen eo quod non sit facta neque dos neque antenuptialis donatio nihil habere valentes, sed novissima viventes inopia, propterea sancimus providentiam fieri etiam harum et in successione morientis et huiusmodi uxorem cum filiis vocari. Et sicut scripsimus legem volentem, si sine dote existentem uxorem vir dimiserit, quartam partem eius substantiae accipere eam, sic etiam hic, quoniam contingit forte paucos aut plures esse filius, quartam partem substantiae habere mulierem, sive plures sive minus filii fuerint. Si tamen legatum aliquod reliquerit ei vir minus [a] quarta parte, compleri hoc, ut sicut laesas eas iuvamus, si forte dimissae fuerint a viris indotatae consistentes, ita vel si perduraverint semper cum eis, eadem perfruantur providentia.  Scilicet omnibus secundum instar illius nostrae constitutionis, quae quartam decernit eis, etiam hic servandis similiter quidem in viris, similiter autem in mulieribus.  Communem namque etiam hanc super eis ponimus legem, sicut etiam praecedentem.
 
+1.Si vero quasdam res proprias mulier in domo viri aut alibi repositas habuerit, harum exactionem et retentionem habeat omnibus modis inminutam, subiacere huiusmodi rebus viri creditoribus nullo modo valentibus, nisi forte secundum quod in illius iura ex hac lege heres extiterit.
 
-     ►Sources:Coll.V, tit.6;Ep. Theod. 53; Ath. 5, 4; Iul. const. XLVII.
+2.Haec itaque dicimus, si coniunctorum alter dotem aut antenuptialem donationem non faciens inops aut vir aut mulier inveniatur, et moriens quidem aut vir aut femina locuples sit, ille vero vel illa superstes pauper existat. Nam si aliunde forsan habeat, non offerentem. dotem aut non dantem propter nuptias donationem non erit iustum gravare filios per successionem, quoniam lex alia est nostra dicens dotem non offerentem non posse res viri conquirere per antenuptialem donationem. Quod etiam hic volumus obtinere, nisi tamen ipse vir aut legatum ei aut aliquam partem institutionis reliquerit; fieri namque hoc nullo invidemus modo, ut in omnibus nobis concordantiae legum serventur, et inopia coniugis per divitias alterius salvetur.
 
+<Epilogus>
+Quae igitur placuerunt nobis, tua celsitudo valere effectuique contradere festinet, per praecepta a se conficienda universis faciens manifesta, quatenus ipsi secundum haec vivant etiam et convertantur.
 
+Dat. X. kal. Octob. CP. <imp.> domini nostri Iustiniani pp. Aug. anno XI., p. c.  Belisarii v. c. anno secundo.
 
-###### Nov54.htm ######
-###### Nov54.htm ######
+Sources: Coll.V, tit.6;Ep. Theod. 53; Ath. 5, 4; Iul. const. XLVII.
 
 * NOV. LIV
    CONSTITUTIONEM QUAE EX ADSCRIPTICIO ET LIBERA NATOS ESSE LIBEROS VULT NON

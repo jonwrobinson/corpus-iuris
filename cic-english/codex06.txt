@@ -4410,6 +4410,7 @@ obeyed.
 Given at Constantinople, on the Kalendsof January, during the Consulate of Our
 Lord Justinian, Consul for the second time, 528.
 * 6.XLII. CONCERNING TRUSTS.
+
 1. The Emperor Antoninus.
 If you can prove that Demetrius required his mother, who was his heir, to
 furnish you with provisions every month, and clothing every year, and she
@@ -4419,6 +4420,7 @@ will be entitled to have them furnished in the future, even if this has not
 been done without interruption in the past.
 Published on the seventeenth of the Kalendsof September, during the Consulate
 of the two Aspers, 213.
+
 2. The Same Emperor to Eupatrius.
 Where a trust has been left which is void, and the heirs, notwithstanding, in
 compliance with the will of the deceased, transferred to your grandfather
@@ -4429,6 +4431,7 @@ terms of his will, but also in accordance with the consciences of those who
 carried out the provisions of the trust.
 Published on the sixth of the Kalendsof August, during the Consulate of Laetus,
 Consul for the second time, and Cerealis, 216.
+
 3. The Same to Rufinus.
 If, as you allege, the little girl, Chrysis, was manumitted by the heirs in
 compliance with the will of the deceased, and died intestate before the estate
@@ -4437,12 +4440,14 @@ if they accept it; and the rights of action having been merged, they will be
 released from the obligation of the trust.
 Published on the fifth of the Idesof December, during the Consulate of Laetus,
 Consul for the second time, and Cerealis, 216.
+
 4. The Emperor Alexander to Victorinus.
 The will of a father which forbids his children to sell lands outside of the
 family, or to encumber them, is not considered to prevent a brother from
 conveying them to his sister.
 Published on the fifth of the Kalendsof July, during the Consulate of Maximus,
 Consul for the second time, and .^Elianus, 224.
+
 5. The Same Emperor to Regina.
 If your brother, who afterwards became the heir of your father, having reached
 the age of puberty died without leaving any children, his estate does not pass
@@ -4451,6 +4456,7 @@ any part of the will under the form of a trust, you will not be prevented from
 demanding the execution of the trust by the heirs.
 Published on the fifteenth of the Kalendsof February, during the Consulate of
 Julianus, Consul for the second time, and Crispinus, 225.
+
 6. The Same to Nilius.
 The heir should see that the liens on lands which are encumbered and have been
 devised or left under a trust are released, and, by all means, when the
@@ -4461,26 +4467,31 @@ the price received, unless it can be shown by him that the intention of the
 testator was otherwise.
 Published on the sixteenth of the Kalendsof March, during the Consulate of
 Julianus, Consul for the second time, and Crispinus, 225.
+
 7. The Same to Septimus.
 The question of the intention of the deceased must be decided by the judge.
 Published on the fifteenth of the Kalendsof March, during the Consulate of
 Fuscus, Consul for the second time, and Dexter, 226.
+
 8. The Same to the Emperor Masculus.
 Anyone who has obtained his freedom by virtue of a trust can legally demand any
 legacies, or property left to him in trust by the deceased.
 Published on the fifteenth of the Kalendsof June, during the Consulate of
 Fuscus, Consul for the second time, and Dexter, 226.
+
 9. The Emperor Gordian to Paulina.
 No one can be charged with a trust who has not received either a legacy, a
 fiduciary bequest, an estate, or a donation mortis causa.
 Published on the seventeenth of the Kalendsof October, during the Consulate of
 Pius and Pontianus, 239.
+
 10. The Same Emperor to Firmus.
 The expression, "I wish," even though it may be lacking, is, nevertheless,
 understood to be added, when, by doing so, the meaning of the sentence will
 become perfect.
 Published on the third of the Idesof December, during the Consulate of Gordian
 and Aviola, 240.
+
 11. The Same Emperor to Papyrianus.
 Whenever property left under a trust is sold by all the heirs who have the
 right to demand the execution of the same, the property is alienated, or where
@@ -4488,6 +4499,7 @@ some of them have given their consent for others to sell it, the validity of
 the contract can, under no circumstances, be attacked.
 Published on the second of the Kalends ofJanuary, during the Consulate of
 Gordian, Consul for the second time, and Pompeianus, 242.
+
 12. The Emperor Philip, and the Caesar Philip, to Rufinus.
 It is a well-established rule of law that, where a woman has been appointed
 heir and requested by the will of the deceased to transfer his estate after his
@@ -4496,12 +4508,14 @@ transfer .the estate, if she wishes to do so, whether the lawful fourth of the
 same is retained or not.
 Published during the Idesof October, during the Consulate of Peregrinus and
 ^milianus, 245.
+
 13. The Same Emperor and Csesar to Sempronius.
 Whenever the heir appointed in the first place succeeds the testator, any
 legacies or trusts with which the substitute was charged cannot legally be
 claimed.
 Published on the eighth of the Kalendsof March, during the Consulate of
 Prsesens and Albinus, 247.
+
 14. The Emperors Valerian and Gallienus to Falco.
 If she whom your brother appointed his heir should die without having obtained
 the estate, and her death occurred before she reached her twelfth year, and in
@@ -4520,6 +4534,7 @@ the trust.
 Published on the fourteenth of the Kalendsof September, during the Consulate of
 Valerian, Consul for the third time, and Gallienus, Consul for the second time,
 256.
+
 15. The Same Emperors to Philocrates.
 Although a certain man who simply appointed you and your brothers his heirs,
 desired that you should enjoy the benefit of the estate by being emancipated
@@ -4528,6 +4543,7 @@ testator tried to render you independent, it is understood that your father
 will be required to surrender the estate to you subject to a trust.
 Published at Rome, on the sixth of the Idesof October, during the Consulate of
 Maximus, Consul for the second time, and Glabrio, 257.
+
 16. The Emperors Cams, Carinus, and Numerianus to Isidora.
 We are aware that the learned legal authority, Papinianus, rendered an opinion
 that legacies are embraced in a trust like the following: that is to say, where
@@ -4541,6 +4557,7 @@ allege it was, you will not be prevented from instituting proceedings before
 the Governor of the province.
 Published on the day before the Idesof September, during the Consulate of Carus
 and Carinus, 283.
+
 17. The Emperors Diocletian and Maximian to Fortunatus.
 If it can be shown that it was the intention of the testator (who was also your
 creditor) to release you, in conformity to the law, from the debt which you
@@ -4549,20 +4566,24 @@ acknowledged by his heir, an exception based on the will of the deceased will
 lie in your favor against his successor.
 Published on the twelfth of the Kalendsof May, during the Consulate of Maximus,
 Consul for the second time, and Aquilinus, 286.
+
 18. The Same Emperors to Apolaustus.
 As the deceased requested that you should be excused from rendering an account,
 it is a positive rule of law that what he desired should remain unaltered.
 Published during the Idesof March, during the Consulate of Diocletian, Consul
 for the fourth time, and Maximian, Consul for the third time, 290.
+
 19. The Same to Ampleatus.
 It is a clear and manifest rule of law that, in the case of trusts, the last
 will executed should prevail.
 Published on the eighth of the Idesof September, during the same Consulate of
 the above-mentioned Emperors, 290.
+
 20. The Same Emperors to Julianus.
 Trusts with which the guardians of minors are charged should be executed, just
 as if the minors themselves have been required to do so.
 Published on the third of the Nonesof December, during the same Consulate, 290.
+
 21. The Same Emperors and Cassars to Tiberius.
 If the time for the execution of a trust of which your father was the
 beneficiary, and whom you say you have succeeded, has arrived, although it is
@@ -4575,12 +4596,14 @@ there will be no necessity to make a claim under the trust, but the property
 itself can be recovered from her.
 Given on the sixth of the Idesof February, during the Consulate of the above-
 mentioned Emperors, 293.
+
 22. The Same Emperors and C&sars to Plautianus.
 There is no doubt that a trust can be left in the presence of witnesses, by
 means of an ordinary letter or written request, and even without writing, but
 merely by a sign.
 Given at Byzantium, on the Idesof April, during the Consulate of the above-
 mentioned Emperors, 293.
+
 23. The Same Emperors and Csesars to Stratonicus.
 When the truth has not been ascertained, or any of the legal formalities have
 not been complied with, and you have not carried out the alleged will of your
@@ -4589,6 +4612,7 @@ a compromise, you have bound yourself by a stipulation, and the matter still
 remains unaltered, you cannot be compelled to make payment.
 Given on the fifth of the Kalendsof February, during the Consulate of the
 above-mentioned Emperors, 293.
+
 24. The Same Emperors and Csssars to Menostratus.
 Heirs are not required to surrender any instruments having reference to land
 left under the terms of a trust, which serve to establish the title to the
@@ -4597,11 +4621,13 @@ the beneficiary of the trust, if this should be necessary, and they are in
 their possession.
 Given on the Kalendsof December, during the Consulate of the above-mentioned
 Emperors, 293.
+
 25. The Same Emperors and Csesars to Juliana.
 There is no doubt that the private property of heirs can be left by the terms
 of a trust.
 Given on the second of the Kalendsof March, during the Consulate of the
 Csesars, 293.
+
 26. The Same Emperors and Csesars to Fortunatus.
 Where proper cause is shown, the exception on the ground of fraud can be
 pleaded when a trust is rejected, and he to whom it was left attempts to avail
@@ -4610,24 +4636,28 @@ allege that not you, but your father, who was not able to injure you, committed
 this act.
 Given on the second of the Idesof April, during the Consulate of the Caesars,
 293.
+
 27. The Same Emperors and Csesars to Olympias.
 Where anyone who left a trust is proved to have changed his mind, his heirs
 cannot be compelled to execute it.
 Given on the fifth of the Kalendsof October, during the Consulate of the
 Caesars, 294.
+
 28. The Same Emperors and Csesars to Tiberius.
 Freedom cannot be demanded by slaves under the terms of a trust which was
 illegally created subject to a condition, and without granting freedom to the
 slaves.
 Given on the Kalendsof November, under the Consulate of the
 Csesars, 294.
+
 29. The Same Emperors and Csesars to Achilles.
 A trust which is not legally valid cannot be claimed under the terms of a will,
 if the heirs charged with it are not proved to have succeeded on the ground of
 intestacy.
 Given on the eighth of the Kalendsof December, during the Consulate of the
 Csesars, 294.
-30. The Emperor Justinian to Demosthenes, Prsstorian Prefect.
+
+30. The Emperor Justinian to Demosthenes, Praetorian Prefect.
 As that wise and shrewd man, Papinianus, who deservedly excels all others, has
 stated in his Opinions that where anyone appointed his son his heir, and
 subjected him to the burden of giving up his estate after his death, he will
@@ -4646,7 +4676,8 @@ testator may not appear to have preferred foreign heirs to his own descendants.
 Read for the seventh time in the New Consistory of the Palace of Justinian.
 Given on the third of the Kalendsof November, during the fifth Consulate of
 Decius, 529.
-31. The Same Emperor to John, Prsetorian Prefect.
+
+31. The Same Emperor to John, Praetorian Prefect.
 A certain man liberated his son from paternal control, and afterwards, having
 made his will and appointed other heirs, passed him over, leaving him
 absolutely nothing. He, however, charged him with the execution of a trust,
@@ -4659,6 +4690,7 @@ charged; and We order that this rule shall apply to other persons whom it is
 necessary to disinherit.
 Given at Constantinople, on the day before the Kalendsof March, after the fifth
 Consulate of Lampadius and Orestes, 531.
+
 32. The Same to John, Praetorian Prefect.
 For the purpose of deciding any question of fact which may hereafter arise, and
 with a view to consulting the wishes of deceased persons, We order that where a
@@ -4697,6 +4729,7 @@ heirs,are, by all means, obliged to carry out the just dispositions of deceased
 persons; and these laws are so strict that they even provide that the benefit
 of an estate shall be lost by those who fail to obey the orders of the
 testator.
+
 Extract from Novel 1, Chapter I. Latin Text.
 Moreover, if anyone, having been warned by the judge, does not, within a year,
 carry out the wishes expressed in the will of the deceased, he shall be
@@ -4713,7 +4746,9 @@ the will; according to the order in which each of the preceding persons is
 mentioned. In this instance, however, disinherited children shall not be
 considered, and finally, in default of other heirs the estate shall go to the
 heirs at law, or be forfeited to the Treasury.
+
 * 6.XLIII. REGULATIONS WHICH ARE EQUALLY APPLICABLE TO LEGACIES AND TRUSTS, AND CONCERNING THE ABOLITION OF THE ACT OF PLACING THE PARTY INTERESTED IN POSSESSION OF THE PROPERTY BEQUEATHED.
+
 1. The Emperor Justinian to Demosthenes, Prsetorian Prefect.
 While those who are favored in the bequests of legacies and trusts are known to
 be fully entitled to every personal right of action, who approves of bringing a
@@ -4756,6 +4791,7 @@ that of any other person charged with the administration of the trust, but
 solely that which came to him from the testator.
 Given at Chalcedon, on the fifteenth of the Kalendsof October, during the fifth
 Consulate of Decius, 529.
+
 2. The Same Emperor to Julian, Praetorian Prefect.
 Every word which clearly indicates the intention of a testator who desires to
 bequeath property as a legacy, or under a trust, shall be lawful and valid;
@@ -4788,6 +4824,7 @@ considered as a legacy; for We do not impose laws upon words but upon the
 property itself.
 Given at Constantinople, on the tenth of the Kalendsof March, after the fifth
 Consulate of Lampadius and Orestes, 531.
+
 3. The Same Emperor to John, Praetorian Prefect.
 When the selection of a slave or other property is left to two or three men, or
 more, or if the choice of a slave or some other property is bequeathed to one
@@ -4809,6 +4846,7 @@ fifty solidi,and physicians and midwives at sixty. Eunuchs under the age of ten
 years shall be valued as high as
 thirty solidi,and those who are older up to fifty, but if they are skilled in
 some trade, they shall be valued up to seventy solidi.
+
 (1) Where anyone leaves the choice of a slave or other property, not to the
 legatee himself, but to someone else, for instance, to Titius; and Titius
 refuses to make the choice, or is unable to do so, or is prevented by death; in
@@ -4823,6 +4861,7 @@ been granted to the legatee himself, provided, however, that he does not select
 the best one of the slaves or other property, but only such as is of average
 value, in order that, while We think that the legatee should be favored, the
 heir may not be deprived of the advantages to which he is entitled.
+
 (2) But, for the reason that We have, in many instances, provided for the
 interests of the beneficiaries of legacies and trusts, and have granted them
 not only personal actions but real and hypothecary ones, and have abolished the
@@ -4839,6 +4878,7 @@ unreasonable for him to be able to transfer to others property which he does
 not possess as his own, or to encumber the same either by hypothecation or
 pledge, or to manumit slaves which are not his, and thwart the expectations
 entertained by others.
+
 (3) Where, however, a legacy or a trust has been left either generally or
 specially under a condition, or to take effect at some uncertain time, or
 subject to substitution or restitution; the party interested will do well in
@@ -4856,6 +4896,7 @@ conditionally, or at some uncertain time. In all these instances, the legatee
 or the beneficiary shall have full authority to bring suit to recover the
 property in question, and to obtain possession of the same, without the person
 who holds it being able to interpose any obstacle to prevent him from doing so.
+
 Extract from Novel 39, Chapter I. Latin Text.
 Property which is subject to restitution is forbidden to be alienated or
 encumbered. If, however, the lawful share of the children does not prove
@@ -4865,8 +4906,10 @@ for this purpose, in a manner suitable to the positions of the persons
 interested; for We desire to make provision for those matters which are of
 advantage to all parties, rather than for those which only affect the interests
 of a few.
+
 END OF THE EXTRACT.
 THE TEXT OF THE CODE FOLLOWS.
+
 (4) A purchaser who knows that the property is encumbered will only be entitled
 to an action against the vendor for the recovery of the price, and not for
 double damages under a stipulation; nor will he be allowed anything for
@@ -4881,6 +4924,7 @@ and in no respect affected by the terms of this Constitution, as they will
 continue to enjoy them against vendors.
 Given at Constantinople, on the Kalendsof September, after the fifth Consulate
 of Lampadius and Orestes, 531.
+
 * 6.XLIV. CONCERNING FALSE STATEMENTS MADE IN THE CASE OF LEGACIES OR TRUSTS.
 1. The Emperor Antoninus to Septimus.
 The words of the will which you have inserted in your petition, either state

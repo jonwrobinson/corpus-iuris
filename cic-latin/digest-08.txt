@@ -8,7 +8,7 @@
 + 8.5.0. Si servitus vindicetur vel ad alium pertinere negetur.
 + 8.6.0. Quemadmodum servitutes amittuntur.
 
-* 8.1.0.  De servitutibus.
+* 8.1.0. De servitutibus.
 
 
 8.1.1

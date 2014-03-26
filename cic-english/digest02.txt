@@ -1502,7 +1502,6 @@ an occupation belonging to men.
 This action is not permitted after the lapse of a year, nor against an heir,
 unless through some act of his own; but it is granted to an heir.
 
-
 * 2.XIV. CONCERNING AGREEMENTS.
 
 1. Ulpianus, On the Edict, Book IV.
@@ -2334,11 +2333,13 @@ will, they must sue the heir mentioned therein; who, when he compromised
 matters connected with the estate, whether he provided for himself with
 reference to the burdens attached to it, or whether he did not do so, he has no
 right to permit his own negligence to injure others.
+
 (1) When a compromise is entered into with regard to a trust, and afterwards
 codicils are found; I ask, if the mother of the deceased has received less
 through the compromise than her share, ought she to receive what is lacking by
 virtue of the trust? The answer was that she
 ought.
+
 (2) A debtor whose pledge had been sold by his creditor compromised for a
 smaller sum with Mौvius, who claimed to be the heir of the lawful creditor, and
 afterwards the will of the creditor having been produced, it appeared that
@@ -2372,6 +2373,7 @@ interpretation of the words of the will is made.
 7. Ulpianus, Disputations, Book VII.
 A compromise is valid even after judgment has been rendered, if an appeal has
 been, or can be taken.
+
 (1) Where a surety was sued, and judgment rendered against him, and afterwards
 the principal made a compromise with the party who
 obtained the judgment against the surety; the question arises, was the
@@ -2380,6 +2382,7 @@ action against both principal and surety was removed. If, however, the surety
 himself made the compromise after he lost his case, while the judgment was not
 annulled by the compromise, still, it should be considered as settled, so far
 as anything which was paid is concerned.
+
 (2) It is so true, however, that what was paid in this case even though it does
 not dispose of the compromise still diminished the amount of the judgment, that
 it may be held, and it is, in fact, contained in a rescript in a case where a
@@ -2396,9 +2399,11 @@ compromise with reference to maintenance should stand, unless it was made under
 the authority of the praetor". Therefore the prौtor is accustomed to intervene
 and decide between the contracting parties whether the compromise is one which
 should be admitted.
+
 (1) Whether provision for a house, or for clothing, or for maintenance
 dependent on real-estate is bequeathed, the inquiry of the same praetor with
 reference to the compromise must be held.
+
 (2) The above-mentioned Address relates to provision for maintenance left
 either by will or codicil, whether it was added to the will, or the party died
 intestate. The same rule is applicable where the provision was made by a
@@ -2406,18 +2411,22 @@ donation mortis causa or where a charge was imposed upon anyone. Where bequests
 are made for the purpose of fulfilling a condition, we say that the rule is the
 same. It is evident that a compromise can be entered into without the authority
 of the praetor when provision for maintenance is not made mortis causa.
+
 (3) The Address applies to sums to be paid monthly or daily or annually, and
 the same rule is applicable where they are not left for life, but only for a
 certain term of years.
+
 (4) Where a certain sum is bequeathed to anyone in order that he may support
 himself with the interest of the same and restore the entire amount at the time
 of his death; the Address will still apply, although the amount cannot be held
 to be paid annually.
+
 (5) Where, however, a certain sum of money, or a certain amount of property is
 left to Titius, in order to provide for the support of Seius, the better
 opinion is that Titius can compromise; for by this act of Titius the
 maintenance of Seius is not diminished. The same rule applies where property
 was left to the legatee under a trust in order to provide for maintenance.
+
 (6) The Address forbids a compromise which is made in such a way that anyone
 can spend at once the amount which is given him. What would be the case then,
 if a party made a compromise without the authority of the praetor, to the effect
@@ -2429,12 +2438,15 @@ of the opinion that an arrangement of this kind is valid, because the party to
 be supported improves his condition by such a transaction; and that the Address
 of the Emperor did not intend that the maintenance of persons should be cut off
 by a compromise.
+
 (7) It makes no difference whether the parties for whom provision for
 maintenance is made are freedmen, or freeborn, rich, or poor.
+
 (8) The Address also directs inquiry to be made before the praetor with
 reference to the following matters; in the first place, concerning the cause of
 the compromise; second, concerning its terms; third, concerning the personal
 characters of the parties to the transaction.
+
 (9) With reference to the cause, it must be ascertained what reason exists for
 making the compromise for the praetor will hear no one who desires to make a
 compromise without sufficient cause. The reasons which are usually alleged are
@@ -2445,6 +2457,7 @@ where provision for maintenance has been charged upon several heirs, and it is
 difficult for them to distribute small sums of money among different persons;
 or where any other reason exists among those which usually arise, and which may
 induce the praetor to sanction the compromise.
+
 (10) The amount of money involved in the transaction must also be considered,
 for the good faith of the parties is to be determined in this way. The amount
 must also be estimated according to the age and condition of health of the
@@ -2452,6 +2465,7 @@ person who is making the compromise, as it is clear that it must vary in the
 cases of a boy, a young man, or one who is old; and it is evident that a
 provision for maintenance will end with the life of the party for whose benefit
 it was made.
+
 (11) The character of the persons must also be taken into consideration; that
 is to say, what are the habits of life of those for whom provision is made,
 whether they are frugal and have sufficient for their maintenance from other
@@ -2461,16 +2475,20 @@ is charged with furnishing maintenance, these things must be investigated
 namely, what his means are, as well as his intentions and his opinions, for it
 will then be apparent whether he desires to ever reach the party with whom he
 makes the compromise or not.
+
 (12) A compromise made with respect to maintenance, does not apply to lodging
 or clothing; as the Divine Marcus ordered that special arrangements should be
 made with reference to these matters.
+
 (13) Where, however, anyone makes a compromise with respect to maintenance, it
 will not be considered necessary for him, against his will, to make any
 arrangement concerning lodgings, or other matters; he can, therefore, enter
 into an agreement with reference to all things at once, or only concerning a
 few.
+
 (14) A compromise with respect to a provision for shoes must also be made under
 the authority of the praetor.
+
 (15) Where real-estate charged with maintenance has been left to one or several
 persons, and they desire to alienate it, it is necessary for the praetor to
 decide concerning both the alienation and the compromise. Where real-estate
@@ -2479,9 +2497,11 @@ compromise among themselves without the consent of the praetor, the compromise
 should not be sustained. The same rule applies where land is given as security
 for maintenance, for, where a pledge is given for this purpose, it cannot be
 released without the authority of the praetor.
+
 (16) It is perfectly manifest that the consent of the praetor is necessary where
 a compromise is made for the entire amount of the maintenance, or only for a
 portion of the same.
+
 (17) If, when application is made to the praetor, he permits a compromise to be
 made without an investigation of the case, the transaction will be void; for
 the matter is referred to the praetor to be examined, and not to be neglected,
@@ -2489,22 +2509,27 @@ or given up. If, however, he does not make inquiry about everything which he is
 directed to do by the Address; that is to say, about the cause, the amount, and
 the character of the parties to the transaction, it must be held that even
 though he investigates some matters, the compromise is void.
+
 (18) Neither the Governor of the province, nor the praetor can delegate his
 jurisdiction in a matter of this kind.
+
 (19) Compromises with respect to maintenance can also be made in the presence
 of the Imperial Procurator; for example, where maintenance is claimed from the
 Treasury, and hence this can be done in the presence of the Prefect of the
 Treasury.
+
 (20) Where an action is pending with reference to provision for maintenance,
 and a compromise is made, it will not be valid without the authority of the
 praetor; as otherwise the Address of the Emperor might be evaded; for pretended
 suits could be brought, in order that a compromise might be arranged without
 the consent of the praetor.
+
 (21) Where provision for maintenance is left to anyone, and in addition to this
 a legacy which is to be paid immediately, and a compromise is made without the
 authority of the praetor; whatever may be paid is first credited on the legacy
 which was made payable without delay, and the remainder on the provision for
 maintenance.
+
 (22) Where anyone makes a compromise with reference to maintenance, without the
 authority of the praetor, whatever is paid will be applied to the settlement of
 what is due on the maintenance; for it makes no difference how much the arrears
@@ -2515,11 +2540,13 @@ And it is clear that if he who made the compromise with respect to maintenance,
 became more wealthy by the payment, it will be perfectly just that the other
 party should have an action to recover the amount by which he became more
 wealthy, for no one ought to profit by the loss of another.
+
 (23) Where a certain sum to be paid annually, as, for instance, an annual
 pension or an usufruct has been left by anyone to a man of superior rank, a
 compromise can be made without the authority of the praetor. But, if a moderate
 usufruct has been left, instead of a provision for maintenance, I say that a
 compromise made without the authority of the praetor is of no force or effect.
+
 (24) Where provision has been made for the maintenance of a person, not in
 money but in grain, oil, and other articles which are necessary for
 subsistence, a compromise cannot be arranged with respect to them, whether the
@@ -2535,6 +2562,7 @@ province, or vice versa; or if he changed the person, so as to receive from one
 what he should have received from several; or accepts one debtor instead of
 another; all these things must be submitted to the decision of the praetor, and
 be determined for the benefit of the party entitled to maintenance.
+
 (25) Where a certain sum, payable annually for lodging, has been left, any
 transaction which is entered into for the furnishing of lodging without the
 authority of the praetor is valid; since the party obtains the benefit of the
@@ -2549,13 +2577,16 @@ the estate administered under their guardianship, and compromised the case. If,
 having become an heir of his brother, he brought suit against the same
 guardians as his brothers' representative, he will not be barred by their
 pleading the compromise which was effected.
+
 (1) Where a compromise of any description is made, it is considered to be
 restricted to those matters concerning which the parties have agreed among
 themselves.
+
 (2) Where a party, being ignorant of all the existing conditions of the case
 through the deceit of his co-heir, executed an instrument of
 compromise without the Aquilian stipulation, he is held rather to have been
 deceived than to have made an agreement.
+
 (3) Where a son who is not yet informed that he has a right to bring an action
 to set aside the will of his father, compromises other matters with his
 adversaries by an agreement; the agreement which he entered into will only

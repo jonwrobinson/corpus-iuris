@@ -185,7 +185,6 @@ ascertained that they have committed any fraud.
 Given at Ravenna, on the eighteenth of the Kalendsof September,
 during the Consulate of Varana, 410.
 
-
 * 11.II. CONCERNING LAND AND ALL OTHER PROPERTY BELONGING TO SHIP-OWNERS.
 
 1. The Emperors Valentinian and Valens to Aurelian, Prefect of Subsistence.
@@ -271,7 +270,6 @@ subjected to severe public punishment.
 Given at Constantinople, on the fifth of the Idesof January, during the
 Consulate of Olybrius and Probinus, 385.
 
-
 * 11.V. CONCERNING SHIPWRECKS.
 
 1. The Emperor Constantine.
@@ -331,7 +329,6 @@ Where an investigation of a shipwreck is made in the usual way, and it is found
 that the vessel was lost in a storm, you should not
 grant release of liability for the cargo, but its value must be apportioned pro
 rataamong the owners of the ship in a suitable manner.
-
 
 * 11.VI. CONCERNING MINERS, MINES, AND THE SUPERINTENDENTS OP THE LATTER.
 
@@ -518,7 +515,6 @@ doubt that they belong to the above-mentioned condition.
 Given at Constantinople, on the tenth of the Kalendsof April, under the
 Consulate of Hierius and Ardiburus, 427.
 16. This Law is not Authentic.
-
 
 
 
@@ -910,7 +906,8 @@ this law shall be inscribed upon tables of brass.
 Given at Constantinople, on the fifth of the Kalendsof December, during the
 Consulate of Ariobindus and Aspar, 434.
 
-* 11.XXIV. CONCERNING CIVIL CONTRIBUTIONS OF GKAIN.
+* 11.XXIV. CONCERNING CIVIL CONTRIBUTIONS OF GRAIN.
+
 1. The Emperors Theodosius, Arcadius, and Honorius to Proculus, Prefect of the
 City.
 It is perfectly clear that, by virtue of the privilege granted by the Divine
@@ -924,6 +921,7 @@ heirs by right of blood, or to strangers by sale, the transaction shall stand,
 whether the title is based upon inheritance or alienation.
 Given at Constantinople, on the seventh of the Kalendsof July, during the
 Consulate of Arcadius, Consul for the second time, and Rufinus, 392.
+
 2. The Emperor Martian.
 We grant, by Our liberality, in addition to the usual allowance, a donation of
 a hundred and twenty-five measures of wheat out of the grain stored in the

@@ -1,22 +1,19 @@
 # -*- mode: org -*-
 
-THE DIGEST OR PANDECTS. BOOK XXV.
-
-
-* 25.1 Concerning expenses incurred with reference to dotal property  27
-* 25.2 Concerning the action to recover property which has been removed 30
-* 25.3 Concerning the recognition and maintenance of children,
-        parents, patrons, and freedmen 37
-* 25.4 Concerning the examination of pregnant women, and the
-        precautions to be taken with reference to their delivery 43
-* 25.5 Where a woman is placed in possession of the estate of her
+* BOOK XXV.
++ 25.1 Concerning expenses incurred with reference to dotal property
++ 25.2 Concerning the action to recover property which has been removed
++ 25.3 Concerning the recognition and maintenance of children,
+        parents, patrons, and freedmen
++ 25.4 Concerning the examination of pregnant women, and the
+        precautions to be taken with reference to their delivery
++ 25.5 Where a woman is placed in possession of the estate of her
         husband in the name of her unborn child, and this possession is
-        said to have been fraudulently transferred to another 47
-* 25.6 Where a woman is said to have obtained possession of the
+        said to have been fraudulently transferred to another
++ 25.6 Where a woman is said to have obtained possession of the
         estate of her husband in the name of her unborn child, by having
-        made a false statement 48
-* 25.7 Concerning concubines  50
-
+        made a false statement
++ 25.7 Concerning concubines
 
 
 
@@ -159,7 +156,6 @@ been incurred for the purpose of cultivating the land; and therefore not only
 those made in gathering the crops are included but also such as are necessary
 for preserving the property itself, and the husband is entitled to no deduction
 from the dowry on this account.
-
 
 * 25.2 Concerning the action to recover property which has been removed.
 
@@ -413,29 +409,31 @@ Where an action is brought against a woman on the ground of property wrongfully
 appropriated after the marriage has been dissolved, the action is extinguished
 in case the marriage should be re-established.
 
-
-* 25.3. CONCERNING THE RECOGNITION AND MAINTENANCE OF CHILDREN,
-  PARENTS, PATRONS, AND FREEDMEN.
+* 25.3. Concerning the Recognition and Maintenance of Children, Parents, Patrons, and Freedmen.
 
 1. Ulpianus, On the Edict, Book XXXIV.
 The Decree of the Senate enacted with reference to the recognition of children
 is in two parts, one of which has reference to the recognition of children by
 their parents, and the other to those who substitute spurious offspring.
+
 (1) The Decree permits the woman herself, or her father under whose control she
 is, or anyone who is directed by either of them, in case she believes herself
 to be pregnant, to notify her husband, or her father under whose control she
 is, within thirty days after the divorce; or to leave the notice at his
 residence if there is no opportunity for personal service.
+
 (2) We should understand the term "residence" to mean the lodging of the
 husband, if he lives in a city, but if he does not, but resides in a country
 house, or in a provincial town, the place where the parties have established
 their domicile during marriage.
+
 (3) The wife should merely notify the husband that she is pregnant by him. She
 does not give this notice in order that her husband may send guards to watch
 her, for it is sufficient for her to inform him that she is pregnant. The
 husband should then either send persons to watch her, or should notify her that
 she is not pregnant by him; and it is permissible for this notification to be
 made by the husband himself, or by another party in his name.
+
 (4) The penalty of the husband, if he does not send persons to watch, or does
 not notify the woman that she is not pregnant by him, is that he shall be
 compelled to recognize the child; and if he should not do so, to be punished
@@ -443,19 +441,25 @@ with extraordinary severity. Therefore, he should answer the notice, or it
 should be answered in his name, that the woman is not pregnant by him. If this
 is done, it will not be necessary for him to recognize the child, unless it is
 really his own.
+
 (5) It should be remembered that the notice does not proceed from the husband,
 but from the woman.
+
 (6) If, however, the husband should offer guards to watch his wife, and she
 should not allow this; or if she does not give him notice of her condition; or
 if she should give him notice, but not consent to accept the guards appointed
 by the court, the husband or his father is at liberty to refuse to acknowledge
 the child.
+
 (7) Where a woman does not give notice of her pregnancy within thirty days, but
 does so afterwards, she should be heard after proper cause is shown.
+
 (8) If, however, she should entirely neglect to give the notice, Julianus says
 that this does not in any way prejudice the child.
+
 (9) We should understand the thirty days subsequent to the divorce to be
 continuous, and not available days.
+
 (10) In the Nineteenth Book of the Digest by Julianus, the following nice point
 is suggested. If the woman should not notify her husband of her condition
 within thirty days, but should be delivered of a child within that period, will
@@ -464,6 +468,7 @@ Decree of the Senate will not be applicable, because it was not considered to
 have reference to a child who was born within thirty days, for the Senate
 appointed the thirty days for the notification of the pregnancy. I think,
 however, that this would not in any way prejudice the child.
+
 (11) Just as, on the other hand, if the husband, after receiving notice from
 his wife, should send guards, this would not cause any prejudice to himself. He
 will, therefore, be permitted to deny that the child is his, nor will it
@@ -473,6 +478,7 @@ he says that if a party denies that a woman is his wife, or that she is
 pregnant by him, he can, without any prejudice to himself, very properly send
 persons to watch her, especially if he makes protest at the time that he does
 so.
+
 (12) Julianus says in the Nineteenth Book of the Digest, that it is stated in
 the Decree of the Senate that if the woman should notify her husband that she
 had conceived by him, and he, after having been notified, should not send
@@ -482,12 +488,14 @@ the child when it is born; but it does not follow from this that if he says
 that the child is his, he must make it his heir if it was begotten by someone
 else. Still, he holds that when the case is heard in court, the admission of
 the father will establish a strong presumption in favor of the child.
+
 (13) He also says that, on the other hand, where the woman, after a divorce has
 taken place, does not comply with what was prescribed by the Decree of the
 Senate, the father has the right not to acknowledge the child; and that it does
 not follow from this that, after the child is born, it cannot be declared to be
 his, but merely that the father will not be compelled to support it, if it
 should be proved to be his own offspring.
+
 (14) Julianus also says that if a woman notifies her husband that she is
 pregnant, and he does not deny it, it must not be concluded from this that the
 child is his, although he can be compelled to support it. It would, however, be
@@ -495,6 +503,7 @@ very unjust if, where a man has been absent for a long time, and having
 returned, finds his wife pregnant, and for this reason repudiates her, and he
 neglects to comply with any of the provisions of the Decree of the Senate, the
 child should be his heir.
+
 (15) It is apparent from what has been said, that the child is in no way
 prejudiced, if the wife should fail to observe any of the provisions of the
 Decree of the Senate, when the child in fact belongs to her husband --- and this
@@ -502,6 +511,7 @@ not merely has reference to its rights, nor
 indeed to its maintenance, according to a Rescript of the Divine Pius; or if
 the husband has neglected to do what is prescribed by the Decree of the Senate,
 he can certainly be compelled to support the child, but he can repudiate it.
+
 (16) It is clear that, if, after the woman has notified her husband, he should
 deny that she is pregnant by him, even though he may not send persons to watch
 her, he cannot prevent an examination being made to ascertain whether the woman
@@ -520,23 +530,28 @@ to the husband, even though it is really his, it is settled that a decision of
 this kind is equivalent to law.
 This opinion Marcellus approves in the Seventh Book of the Digest, and we make
 use of it at the present time.
+
 (1) For the reason that the Plautian Decree of the Senate has reference to
 children born after a divorce, another Decree of the Senate was enacted during
 the reign of the Divine Hadrian, which prescribed that children born during
 marriage must be recognized by their parents.
+
 (2) But what if a child should be born after the death of its father, and
 during the lifetime of its grandfather, under whose control it would be placed,
 if it should be proved that the said child is the issue of the son of the
 grandfather? It should be considered what must be held in this instance. The
 opinion should be adopted that the question of its recognition should be left
 to its grandfather.
+
 (3) But what if, in this case, the question should arise whether the child was
 born during marriage, or subsequently? It must be said that proceedings should
 be taken in accordance with the Decree of the Senate for the determination of
 this point.
+
 (4) And what should be done if it was denied that the woman was the wife of the
 alleged husband? Julianus informed Sextus Cौcilius Africanus that there was
 ground for a preliminary inquiry.
+
 (5) It must be held that these Decrees of the Senate are not applicable after
 the death of the father, if there is no relative under whose control the child
 can be placed. What claim to the estate could a child in this instance assert?
@@ -545,6 +560,7 @@ he demands, or not? What Julianus wrote in the Nineteenth Book of the Digest is
 true to the extent that, if proceedings for the recognition of the child had
 been begun during the lifetime of the father, and the latter should die
 before a decision was rendered, recourse must be had to the Carbonian Edict.
+
 (6) These decrees of the Senate also have reference to children who are born
 their own heirs. The better opinion is, however, that they are not applicable
 where the child, whose recognition is in question, was not under the control of
@@ -558,12 +574,14 @@ purpose of exciting pity, which he himself does not feel.
 5. Ulpianus, On the Duties of Consul, Book II.
 Where anyone asks support of his children, or where children can be supported
 by their father, a judge should take cognizance of the matter.
+
 (1) Should a father be compelled to support only such children as are under his
 control, or should he support those who are already emancipated, or who, for
 any other reason, have become independent, is a question for consideration. I
 think the better opinion is that even where the children are not under paternal
 control, they must be supported by their parents, and that, on the other hand,
 their parents should also be supported by them.
+
 (2) Let us see whether we are obliged to support only our fathers, our paternal
 grandfathers, our paternal great-grandfathers and other relatives of the male
 sex; or whether we are obliged to support our mothers, and our other ascendants
@@ -572,45 +590,56 @@ should interpose for the purpose of giving relief to the necessities of some
 and the infirmities of others; and since this obligation is derived from
 justice, and from the attachment due to blood, the judge should carefully weigh
 the claims of each of the parties.
+
 (3) It must be said that the same rule applies to the maintenance of children
 by their parents.
+
 (4) Therefore we compel a mother to support her illegitimate children, and them
 to support her.
+
 (5) The Divine Pius also intimates that a maternal grandfather is obliged to
 support his grandchildren.
 (6) He also stated in a Rescript that a father must support his daughter, if it
 should be proved in court that he had actually begotten her.
+
 (7) Where a son can support himself, the court should decide not to compel
 maintenance to be furnished him. Hence the Emperor Pius stated in a Rescript:
 "The competent judges and before whom you will appear, must order that you
 shall be supported by your father in proportion to his means; provided that you
 allege that you are an artisan, and that by reason of ill health, you cannot
 maintain yourself by your own labor."
+
 (8) Where a father denies that a party asking for support is his son, and
 therefore contends that he should not furnish it; or where a son denies that an
 applicant for maintenance is his father, the judges must decide the case
 summarily, and if it is established that the petitioner is a son, or a father,
 they must then order him to be supported. If, however, this should not be
 proved, they shall not decide that maintenance shall be furnished.
+
 (9) But it must be remembered that if the judges hold that support should be
 furnished, still, this does not prejudice the truth, for they do not decide
 that the party is a son, but merely that he should be supported. This the
 Divine Marcus also stated in a Rescript.
+
 (10) If anyone should refuse to provide support, the judges must determine the
 amount to be furnished in proportion to his means, and if he still fails to
 provide it, he can be compelled to comply with the judgment by taking his
 property in execution and selling the same.
+
 (11) The judge must also determine whether a relative or a father has any good
 reason for refusing to support his children. There is a rescript addressed to
 Trebatius Marinus which states that a father can properly refuse to support his
 son if the latter has informed against him.
+
 (12) It is stated in certain rescripts that a father can be compelled by a
 judge not only to furnish provisions, but also all other necessaries to his
 children.
+
 (13) Where a son has been emancipated before arriving at puberty, he can be
 compelled to support his father, if the latter is in poverty; for anyone would
 say with reason that it is most unjust for a father to remain in want, while
 his son was in prosperous circumstances.
+
 (14) Where a mother who furnished provisions to her child, brings suit against
 its father, she should be heard under certain conditions; for the Divine Marcus
 stated in a Rescript addressed to Antonia Montana: "The judges will estimate
@@ -619,43 +648,55 @@ the amount of necessary provisions which you have furnished her for her
 support; but you cannot obtain as much as you would have expended for your
 daughter through maternal affection, even if she had been driven away by her
 father."
+
 (15) Filial affection requires that parents should be supported by a son who is
 in the military service, provided he has the means to do so.
+
 (16) It is stated in a rescript that, although a parent should, according to
 the dictates of nature, be supported by his son, still the latter ought not to
 be required to pay his debts.
+
 (17) There is also a rescript which states that the heirs of the son, if
 unwilling, are not compelled to furnish such assistance to their father that a
 son while living would provide him with through motives of filial duty, unless
 the father is in the greatest poverty.
+
 (18) Judges are also accustomed to decide between patrons and freedmen, where
 the question of their maintenance arises. Therefore, if the patrons deny that
 the claimants are their freedmen, the judges must make inquiry, and if it is
 proved that they are their freedmen, then they must order them to be supported.
 The decree for support does not, however, prevent the freedman (if he denies
 that he is such) from contending for his rights against his patron.
+
 (19) Support must be furnished by freedmen to their patrons who are in poverty
 in proportion to their means. If, however, the latter are able to support
 themselves, the authority of the judge need not be interposed.
+
 (20) The question may be asked whether only patrons are to be supported, or
 whether their children must also be maintained. I think that, upon proper cause
 being shown, judges should decree that the children of patrons should also be
 supported, not indeed as readily as patrons, but sometimes; for freedmen should
 show reverence not only to their patrons but also to the children of the
 latter.
+
 (21) The freedman of a woman is compelled to support her children.
+
 (22) If anyone should desire to be supported by a freedman of his freedman, or
 by a slave whom he has manumitted by reason of a trust, or by one whom he has
 redeemed from slavery with his own money, he should not be heard. For, as
 Marcellus says, he should be compared with one who, by exacting a reward, loses
 thereby the rights he has in a freedman.
+
 (23) If the son of his patron has accused the freedman of his father of a
 capital crime, he denies that the latter is required to support him.
+
 (24) A freedwoman is also obliged to support her patron.
+
 (25) An arbiter is usually appointed to decide with reference to the support of
 a patron, and he must ascertain the value of the resources of the freedman, in
 order that the amount of the maintenance may be determined, and this must be
 provided as long as the freedman is able to do so, and the patron requires it.
+
 (26) Freedmen are compelled to furnish support for the father and mother of
 their patron, where the patron and his children are no longer living, if they
 are in need, and the freedmen have the means to do so.
@@ -665,6 +706,7 @@ The patron, by refusing to furnish support at the request of his freedman,
 forfeits the privileges imposed in his favor upon the latter on account of his
 manumission, and he is punished by the loss of the estate of the freedman; but
 he is not required to furnish support, even if he is able to do so.
+
 (1) A Constitution of the Emperor Commodus contains the following: "Where it is
 proved that a patron has been rudely treated by his freedman, or severely
 beaten by him, or abandoned while in poverty or while suffering from bodily
@@ -692,7 +734,6 @@ Patrons and their children have no right to the property of their surviving
 freedmen, unless they prove to the court that they are so weak or poor that
 they should be assisted with monthly contributions of food by their freedmen.
 This rule has been established by many Imperial Constitutions.
-
 
 * 25.4. CONCERNING THE EXAMINATION OF PREGNANT WOMEN, AND THE
   PRECAUTIONS TO BE TAKEN WITH REFERENCE TO THEIR DELIVERY.
@@ -861,7 +902,6 @@ made, it could be held that the solicitude manifested by the person charged
 with the trust ought to be respected, and that the request should be granted,
 if proper cause was shown.
 
-
 * 25.5. WHERE A WOMAN IS PLACED IN POSSESSION OF THE ESTATE OF HER
   HUSBAND IN THE NAME OF HER UNBORN CHILD, AND THIS POSSESSION IS SAID
   TO HAVE BEEN FRAUDULENTLY TRANSFERRED TO ANOTHER.
@@ -902,7 +942,6 @@ because it is granted in favor of the party in interest. Therefore he can
 recover anything which he may have lost from the woman who is under paternal
 control, but this action will not be available to him beyond the expenses
 incurred by the prosecution of the case.
-
 
 * 25.6. WHERE A WOMAN IS SAID TO HAVE OBTAINED POSSESSION OF THE
   ESTATE OF HER HUSBAND IN THE NAME OF HER UNBORN CHILD, BY HAVING
@@ -967,7 +1006,6 @@ been directly manumitted, and by his intervention should maintain their
 freedom.
 (12) Where fraud exists on the part of a woman under paternal control, and her
 father has participated in it, he will be liable in his own name.
-
 
 
 * 25.7. CONCERNING CONCUBINES.
