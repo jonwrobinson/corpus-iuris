@@ -33,6 +33,54 @@ http://daten.digitale-sammlungen.de/~db/0005/bsb00050150/image_1
 
 * Tabula authenticarum
 * Codex 01
+
+- aut. Cassa et irrita [p. C.1.2.12.2]
+  r.: Nova constitutio Fre. impera.
+
+- aut. Ingressi monasteria ipso [p. C.1.2.13]
+  r.: In auten. de monachis. §. illud idem coll. prima.
+- aut. Si qua mulier [p. C.1.2.13]
+  r.: In auten. de sanctissimis episcopis §. si qua col. ix.
+
+- aut. Hoc ius porrectum est [p. C.1.2.14.10]
+  r.: In auten. de non alienandis, aut. permutan. §. nos igitur. et in auten. de ali. et emphi. §. hoc etiam super ipsis et §. hoc uero iubemus.
+
+- aut. Sicut alienatio rerum [p. C.1.2.14.10]
+  r.: In autenticis de non alienandis aut permutandis. §. sicut autem. collatione secunda.
+
+- aut. Multo magis prohibetur [p. C.1.2.14.10]
+  r.: In autenticis de non alienandis §. quia uero collatione. ii. et in autenticis de alie. et emphi. §. quoniam coll. ix.
+
+- aut. Quibuscumque mos hoc [p. C.1.2.14.10]
+  r.: In autenticis de alienatione et emphiteosi. §. economus colla. nona.
+
+- aut. Qui res iam dictas non gratuito [p. C.1.2.14.10]
+  r.: Iin autenticis de non alienandis aut permutandis §. quia uero lionis. colla. secunda
+
+- aut. Si quas ruinas habent [p. C.1.2.14.10]
+  r.: In auten. de alie. et emphi. §. quia vero col. ix
+
+- aut. Perpetua quoque emphitheosis [p. C.1.2.14.10]
+  r.: In autenticis de non alienandis §. quia uero. et §. his solis collatione secunda et in autentica de alienan. et emphi. §. hoc quidem collatione nona.
+
+- aut. Sed et permutare principi [p. C.1.2.14.10]
+  r.: In auten. de non alienan. aut. per mutan. §. sicut autem collatione ii.
+
+- aut. Item sibi inuicem recte [p. C.1.2.14.10]
+  r.: In auten. constitutio que ex a scripticiis §. quia uero collatione quinta
+
+- aut. Item predium propter onus [p. C.1.2.14.10]
+  r.: In auten. de alie. et emphi. §. et quoniam
+
+- aut. Qui rem huiusmodi conductam [p. C.1.2.14.10]
+  r.: In auten. de alie. et emphi. §. si uero quis aut locator collatione nona.
+
+- aut. Nec usus prestatio [p. C.1.2.14.10]
+  r.: In autentica de alie. et emphit. §. si uero quis uoluerit collatione nona
+
+- aut. Preterea si habeat ecclesia [p. C.1.2.21.2]
+  r.: In autentica de ali. et emphithe. §. ultimo collatione nona.
+
 * Codex 02
 * Codex 03
 * Codex 04
@@ -43,6 +91,14 @@ http://daten.digitale-sammlungen.de/~db/0005/bsb00050150/image_1
 
 - aut. Ex complexu [a. C.5.5.7 pr.]
   r.: In aut. quibus modis naturales effi. sui. §. fi. C. vii.
+
+
+- aut. Matrius et auien secundum ordinem [p. C.5.35.2.4]
+  r.: In aut. de heredi. ab intesta. §. ex his coll. nona.
+- aut. Sacramentum [p. C.5.35.2.4]
+  r.: In aut. ut ma. de. et cred. §. fi.
+- aut. Ad hec et si debitum [a. C.5.35.3 pr.]
+  r.: In aut. ma. debi. et credi. §. fi.
 
 * Codex 06
 * Codex 07

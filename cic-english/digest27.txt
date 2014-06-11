@@ -4,39 +4,17 @@ THE DIGEST OR PANDECTS.
 BOOK XXVII.
 
 
-BOOK XXVII.
-
-* 27.1. CONCERNING THE EXCUSES OF GUARDIANS AND CURATORS
-
-* 27.2. WHERE A WARD SHOULD BE BROUGHT UP, OR RESIDE, AND CONCERNING
-  THE SUPPORT WHICH SHOULD BE FURNISHED HIM
-
-* 27.3.  CONCERNING THE ACTION TO COMPEL AN ACCOUNTING FOR
-  GUARDIANSHIP, AND THE EQUITABLE ACTION BASED ON CURATORSHIP
-
-* 27.4. CONCERNING THE COUNTER ACTION ON GUARDIANSHIP AND THE
-  PRAETORIAN ACTION
-
-* 27.5. CONCERNING ONE WHO TRANSACTS BUSINESS AS ACTING GUARDIAN OR
-  CURATOR
-
-* 27.6. CONCERNING BUSINESS TRANSACTED UNDER THE AUTHORITY OF A FALSE
-  GUARDIAN
-
-* 27.7. CONCERNING THE SURETIES OF GUARDIANS AND CURATORS AND THOSE
-  WHO HAVE OFFERED THEM, AND THE HEIRS OF THE FORMER
-
-* 27.8. CONCERNING SUITS AGAINST MAGISTRATES
-
-* 27.9. CONCERNING THE PROPERTY OF THOSE WHO ARE UNDER GUARDIANSHIP OR
-  CURATORSHIP, AND WITH REFERENCE TO THE ALIENATION OR ENCUMBRANCE OF
-  THEIR PROPERTY WITHOUT A DECREE
-
-* 27.10. CONCERNING THE APPOINTMENT OF CURATORS FOR INSANE PERSONS AND
-  OTHERS WHO ARE NOT MINORS
-
-
-
+* BOOK XXVII.
+** 27.1. Concerning the Excuses of Guardians and Curators
+** 27.2. Where a Ward Should Be Brought Up, or Reside, and Concerning the Support Which Should Be Furnished Him
+** 27.3. Concerning the Action to Compel an Accounting for Guardianship, and the Equitable Action Based on Curatorship
+** 27.4. Concerning the Counter Action on Guardianship and the Praetorian Action
+** 27.5. Concerning One Who Transacts Business as Acting Guardian or Curator
+** 27.6. Concerning Business Transacted under the Authority of a False Guardian
+** 27.7. Concerning the Sureties of Guardians and Curators and Those Who Have Offered Them, and the Heirs of the Former
+** 27.8. Concerning Suits against Magistrates
+** 27.9. Concerning the Property of Those Who Are under Guardianship or Curatorship, and With Reference to the Alienation or Encumbrance of Their Property without a Decree
+** 27.10. Concerning the Appointment of Curators for Insane Persons and Others Who Are Not Minors
 
 * 27.1. CONCERNING THE EXCUSES OF GUARDIANS AND
   CURATORS.
@@ -1826,19 +1804,24 @@ Praetor, and not by operation of law.
 genuine, I will grant him complete restitution". He does not grant relief to a
 ward who was aware of the fact, which is reasonable, because he voluntarily
 deceives himself.
+
 2. Paulus, On the Edict, Book XII.
 "If the ward should be ignorant that his guardian is not genuine", Labeo holds
 that this applies where the ward has been informed of the fact, and in good
 faith refused to believe it.
+
 3. Ulpianus, On the Edict, Book XII.
 It is evident that such knowledge does not prejudice a party who is not in need
 of assistance; as, for example, where one ward transacts business with another,
 for as the act is void, his knowledge does not prejudice him.
+
 4. Paulus, On the Edict, Book XII.
 Relief is afforded to a minor under twenty-five years of age who had knowledge.
+
 5. Ulpianus, On the Edict, Book XII.
 Sometimes, however, although knowledge may cause prejudice, restitution should
 be granted where a party was compelled to join issue by order of the Praetor.
+
 6. Paulus, On the Edict, Book XII.
 In any transaction, the knowledge of a ward should not be taken into account,
 but only that of his guardian should be considered. Therefore, even if security
@@ -1846,6 +1829,7 @@ has been furnished the ward, it is held to be better for the property of the
 latter to be restored to him, than for him to depend upon the uncertain result
 of the security. This Julianus gave as his opinion in any case where a ward has
 been defrauded.
+
 7. Ulpianus, On the Edict, Book XII.
 Finally, the Praetor says: "I will grant an action against a party who, not
 being a guardian, is said to have fraudulently authorized the act of a ward;
@@ -1864,10 +1848,12 @@ action should also be included in the judgment.
 (4) Where there are several false guardians, and restitution is made by one of
 them, the others will be released, but this is not accomplished by the mere
 selection of one by the plaintiff.
+
 8. Paulus, On the Edict, Book XII.
 Hence Sabinus says that where the plaintiff did not recover the entire amount
 from one of them, he should not be refused recourse against the others for the
 deficiency.
+
 9. Ulpianus, On the Edict, Book XII.
 With reference to this action, Pomponius states in the Thirty-first Book that
 it can be granted against anyone who acts in bad faith, in order to induce
@@ -1877,12 +1863,14 @@ their successors, but that they will not lie against them, nor can they be
 brought after the expiration of a year, since they punish an act, and are based
 upon fraud; and that they become noxal actions when instituted against parties
 who are subjected to the authority of others.
+
 10. Gaius, On the Provincial Edict, Book IV.
 Where an action is brought against a ward on account of a false guardian, and,
 in the meantime, the term prescribed by law has elapsed, or the property has
 been acquired by usucaption, the guilty party must sustain all the
 inconvenience which may arise, just as if he were a genuine guardian, and suit
 had been brought against him within the prescribed time.
+
 11. Ulpianus, On the Edict, Book XXXV.
 A false guardian who grants authority to a minor of twelve or fourteen years of
 age to make a contract shall be liable to an action in factum on the ground of
@@ -1908,6 +1896,7 @@ entitled to it had acted in bad faith, the husband can be barred by an
 exception on the ground of fraud when he sues for the dowry, in cases where he
 would have been benefited to the extent of all, or a part of it, if the
 marriage had been valid.
+
 12. The Same, Opinions, Book XII.
 Where a party, having been interrogated in court, answers that he is a
 guardian, he will not be liable to any action for making this statement. Where,

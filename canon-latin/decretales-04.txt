@@ -2,7 +2,7 @@
 
 LIBER QUARTUS.
 
-* TITULUS I. DE SPONSALIBUS ET MATRIMONIIS.
+* 4.I. DE SPONSALIBUS ET MATRIMONIIS.
 
 ** CAP. I.
 
@@ -267,7 +267,7 @@ Idem.
 
 Adolescens, qui desponsatam sibi per verba de futuro, licet saepe nisus fuerit, carnaliter non cognoscens, cum alia postmodum per verba de praesenti contraxit, non primam, cum qua nec fuit verum matrimonium ex forma contractus, nec praesumptum, quum conatus non habuisset effectum, sed secundam debet habere uxorem.
 
-* TITULUS II. DE DESPONSATIONE IMPUBERUM.
+* 4.II. DE DESPONSATIONE IMPUBERUM.
 
 ** CAP. I.
 
@@ -381,7 +381,7 @@ Idem Episcopo Abbatensi.
 
 Tuae nobis exhibitae literae continebant, quod quidam vir nobilis filiam suam, circiter XII. annos habentem, cuidam viro nobili desponsavit, qui subarrhavit eandem consensu mutuo accedente. Sed nuptiis aliquantulum prorogatis, pater puellae viam est universae carnis ingressus. Eo autem rebus humanis exempto, puellae avunculus supra dictae ipsam alteri matrimonio copulavit, et ille, qui prius desponsaverat eandem, cum ipsius matre contraxit. Tuus autem praedecessor attendens, quod cum ea non poterat permanere, cuius filiam legitime desponsaverat, inter eos divortii sententiam promulgavit. Postmodum autem mortuo viro secundo, qui supra dictam puellam duxerat in uxorem, ipsa se tertio copulavit, illo vivente, qui eam primitus desponsarat. Ceterum tam ipsa, quam idem te duxerunt humiliter consulendum, utrum licite [simul] valeant commorari; tu vero, deliberatione habita, respondisti, quod, sponso primo vivente, alteri non potuit legitime copulari. Sed quia tua ecclesia postulavit, ut super hoc apostolicam sedem consuleres, procedere ulterius distulisti, nobis humiliter supplicans, ut super hoc tibi rescribere dignaremur. Quia vero per ea, quae superius sunt expressa, nobis pro certo constare non potuit, cuius aetatis esset puella, quum eidem viro exstitit desponsata, quum dicatur, quod circiter XII. annos habebat, utrumne prudentia tunc in illa suppleret aetatem: fraternitati tuae taliter respondemus, quod, si puella tunc nubilis erat aetatis, et inter eam et primum virum legitimus intervenit de praesenti consensus, absque dubio inter eos erat legitimum matrimonium contractum, etsi carnalis commixtio non fuerit subsecuta. Si vero puella nubilis non erat aetatis, quum saepe fatus vir desponsavit eandem, et aetatem in ea prudentia non supplebat, procul dubio inter eos non coniugium, sed sponsalia contracta fuerunt, quamvis ab ipso viro eadem puella fuerit subarrhata. Quocirca, si iuxta primum modum matrimonium cum illo contraxit; eo vivente non potuit rite cum alio foedus contrahere coniugale; quod si iuxta modum secundum sponsalitia solummodo contracta fuerunt coniugium, quod inter illam et alium exstitit celebratum, debet legitimum reputari, dummodo aliud canonicum non obsistat. [Dat. Rom. ap. S. Petr. VI. Id. Maii Ao. IX. 1206.]
 
-* TITULUS III. DE CLANDESTINA DESPONSATIONE.
+* 4.III. DE CLANDESTINA DESPONSATIONE.
 
 ** CAP. I.
 
@@ -407,7 +407,7 @@ Innocentius III. in concilio generali.
 
 Quum inhibitio copulae coniugalis sit in ultimis tribus gradibus revocata, eam in aliis volumus districte servari. Unde praedecessorum nostrorum vestigiis inhaerendo, clandestina coniugia penitus inhibemus, prohibentes etiam, ne quis sacerdos talibus interesse praesumat. Quare specialem quorundam locorum consuetudinem ad alia generaliter prorogando statuimus, ut, quum matrimonia fuerint contrahenda, in ecclesiis per presbyteros publice proponantur, competenti termino praefinito, ut infra illum, qui voluerit et valuerit, legitimum impedimentum opponat, et ipsi presbyteri nihilominus investigent, utrum aliquod impedimentum obsistat. Quum autem apparuerit probabilis coniectura contra copulam contrahendam, contractus interdicatur expresse, donec, quid fieri debeat super eo, manifestis constiterit documentis. §. 1. Si quis vero huiusmodi clandestina vel interdicta coniugia inire praesumpserit in gradu prohibito, etiam ignoranter, soboles de tali coniunctione suscepta prorsus illegitima censeatur, de parentum ignorantia nullum habitura subsidium, quum illi taliter contrahendo non expertes scientiae, vel saltem affectatores ignorantiae videantur. Pari modo proles illegitima censeatur, si ambo parentes, impedimentum scientes legitimum, praeter omne interdictum, etiam in conspectu ecclesiae contrahere praesumpserunt. §. 2. Sane, si parochialis sacerdos tales coniunctiones prohibere contempserit, aut quilibet etiam regularis, qui eis praesumpserit interesse, per triennium ab officio suspendatur, gravius puniendus, si culpae qualitas postulaverit. Sed et his, qui taliter praesumpserint etiam in gradu concesso copulari, condigna poenitentia iniungatur. Si quis autem ad impediendam legitimam copulam malitiose impedimentum obiecerit, canonicam non effugiet ultionem.
 
-* TITULUS IV. DE SPONSA DUORUM.
+* 4.IV. DE SPONSA DUORUM.
 
 ** CAP. I.
 
@@ -449,7 +449,7 @@ Innocentius III. Mutinensi Episcopo.
 
 Tuas dudum (Et infra:) De consuetudine, quae diu in Mutinensi obtinuit civitate, ut, si quis iuraret se aliquam ducturum, et citra carnis copulam desponsasset, si consequenter desponsasset aliam et aliam cognovisset, primo cognita adiudicaretur viro, non quae prius exstitit desponsata. (Et infra:) Ne vero turpis sit pars, quae suo non congruit universo, et ecclesia Mutinensis tenere debeat humiliter et servare quod beati Petri sedem et suam metropolim sequi viderit et docere: in matrimoniis de cetero contrahendis illud te volumus observare, ut, postquam inter legitimas personas consensus legitimus intervenerit de praesenti, qui sufficit in talibus iuxta canonicas sanctiones, et, si solus defuerit, cetera, etiam cum ipso coitu celebrata, frustrantur, si personae iunctae legitime cum aliis postea de facto contrahant, quod prius de iure factum fuerat non poterit irritari.
 
-* TITULUS V. DE CONDITIONIBUS APPOSITIS IN DESPONSATIONE VEL IN ALIIS CONTRACTIBUS.
+* 4.V. DE CONDITIONIBUS APPOSITIS IN DESPONSATIONE VEL IN ALIIS CONTRACTIBUS.
 
 ** CAP. I.
 
@@ -507,7 +507,7 @@ Gregorius IX.
 
 Si conditiones contra substantiam coniugii inserantur, puta, si alter dicat alteri: “contraho tecum, si generationem prolis evites,” vel: “donec inveniam aliam honore vel facul­tatibus digniorem,” aut: “si pro quaestu adulterandam te tradas,” matrimonialis contractus, quantumcunque sit favo­rabilis, caret effectu; licet aliae conditiones appositae in matrimonio, si turpes aut impossibiles fuerint, debeant pro­pter eius favorem pro non adiectis haberi.
 
-* TITULUS VI. QUI CLERICI VEL VOVENTES MATRIMONIUM CONTRAHERE POSSUNT.
+* 4.VI. QUI CLERICI VEL VOVENTES MATRIMONIUM CONTRAHERE POSSUNT.
 
 ** CAP. I.
 
@@ -565,7 +565,7 @@ Innocentius III. Ulisbonensi et Colimbriensi Episcopis.
 
 Insinuante I. nobili muliere nostro est apostolatui reseratum, quod dudum puella et in annis teneris constituta, M. Sancii accepit in virum, qui ab inimicis crucis Christi fuit parvo post tempore interfectus. Post cuius obitum a quibusdam curialibus fuit regi Legionensi pro ipsius copula supplicatum. Quod quum ad consanguineorum eius notitiam pervenisset, ut maritum acciperet ei sub obtestatione regia suggesserunt. Ipsa vero, quod tunc nollet nubere protestans, consilium accepit ab eis, quod votum emitteret castitatis, quod in manibus cuiusdam de fratribus sancti Augustini fecit, eo adiecto tenore, ut in domo propria cum omni substantia sua remaneret. Sane in eiusdem ordinis habitu biennio post permansit, licet id se invitam fecisse asserat et coactam, non tam metu regio quam parentum. Post haec eidem regi quod fecerat indicavit; quod approbans vetuit, ne quis ea nolente domum intraret ipsius, vel exinde aliquid asportaret. Interim vero, tempore modico elabente, P. curialis, regias literas secum portans, et F. Ferdinandi dictae mulieris domum intrantes, ut ipse P. vi saltem eam duceret in uxorem, acceperunt ab ipsa, quod, si eam idem P. duceret, ipsius manibus interiret. Post haec vero, dimissis domo et omnibus, quae habebat, in domo cuiusdam Iudaei per tres, in ecclesia vero S. Mariae de Veiga per sex latuit septimanas, ita, quod exinde propter necessitates humanas etiam egredi non auderet. Tandem se coactam videns et omnibus destitutam, et attendens nihilominus, quod invita votum emiserit, eo dimisso, de parentum consilio P. Michaëli publice fuit matrimonialiter copulata, de quo quatuor sustulit filios tempore procedente. Verum, quia salutem animae desiderat omnibus anteferre, ac metuens, quod huiusmodi coniunctio licita non exsistat, quid super his tenere debeat, edoceri responso nostro suppliciter postulavit. Nos igitur, attendentes, quod in emissione voti, quod praecessit, nulla vel modica coactio adfuisset, quam patientia et perseverantia sequentis temporis penitus profugavit, et quod sequens coniunctio potius iniqua fuit et violenter extorta, fraternitati vestrae per apostolica scripta mandamus, quatenus, inquisita diligentius veritate, si praemissis veritas suffragatur, praefatam mulierem ad male dimissum religionis habitum resumendum et servandum quod vovit monere et inducere procuretis, et, si opus fuerit, per censuram ecclesiasticam coërcere. [Quod si non ambo etc. Dat. Lat. Kal. Dec. 1199.]
 
-* TITULUS VII. DE EO, QUI DUXIT IN MATRIMONIUM QUAM POLLUIT PER ADULTERIUM.
+* 4.VII. DE EO, QUI DUXIT IN MATRIMONIUM QUAM POLLUIT PER ADULTERIUM.
 
 ** CAP. I.
 
@@ -631,7 +631,7 @@ Gregorius IX. Fratri R.
 
 Si quis uxore vivente fide data promisit, aliam se ductur­um, vel cum ipsa de facto contraxit, si nec ante, nec post legitima eius superstite cognovit eandem, quamvis utrique ipsorum pro eo, quod in hoc graviter deliquerint, sit poenitentia iniungenda, non est tamen matrimonium, quod cum ea contraxit, post uxoris obitum dirimendum. Ceterum tolerari non debet, si prius vel postea, dum vixerit uxor ipsius, illam adulterio polluisset.
 
-* TITULUS VIII. DE CONIUGIO LEPROSORUM.
+* 4.VIII. DE CONIUGIO LEPROSORUM.
 
 ** CAP. I.
 
@@ -667,7 +667,7 @@ Urbanus III. Episcopo Florentino.
 
 Literas fraternitatis tuae debita benignitate suscepimus, quibus certiores de sinceritate tuae fidei et devotionis effecti, ad honorem et commodum tuum abundantius provocamur. Verum Quia [a nobis] postulasti, utrum, si, post sponsalia de futuro inter aliquas legitimas personas contracta, antequam a viro mulier traducatur, alter eorum leprae morbum incurrat, alius ad consummandam copulam maritalem compelli debeat, vel se possit ad secunda vota transferre, tuae sollicitudini respondemus, quod ad eam accipiendam cogi non debet, quum nondum inter eos matrimonium fuerit consummatum. [De illa vero etc. (cf. c. 6. de divort. IV. 19.)]
 
-* TITULUS IX. DE CONIUGIO SERVORUM.
+* 4.IX. DE CONIUGIO SERVORUM.
 
 ** CAP. I.
 
@@ -701,7 +701,7 @@ Innocentius III. H. Episcopo.
 
 Ad nostram noveris audientiam pervenisse, quod dilectus filius noster G. tituli sanctae Mariae trans Tiberim presbyter cardinalis apostolicae sedis legatus dilectum filium nobilem virum R. militem a muliere quadam propter conditionis separavit errorem. Ideoque fraternitati tuae per apostolica scripta mandamus, quatenus inquiras super his diligentius veritatem, et, si tibi constiterit, quod miles ipse ignoranter contraxit cum ancilla, ita, quod, postquam intellexit conditionem ipsius, nec fato nec verbo consenserit in eandem, propter quod per cardinalem eundem ab eius fuerit consortio separatus, contrahendi cum alia liberam ipsi concedas auctoritate apostolica facultatem.
 
-* TITULUS X. DE NATIS EX LIBERO VENTRE.
+* 4.X. DE NATIS EX LIBERO VENTRE.
 
 ** CAP. UN.
 
@@ -711,7 +711,7 @@ Gregorius.
 
 Indecens esse credimus, ut progeniti ex liberta sive libera filii ad servitium retrahantur. Propterea tibi [praesenti auctoritate] praecipimus, ut his ipsis documentis, sicut et nos didicimus, [exuto a curis animo] diligenter intendas, quatenus, si documenta nulla sint ab ecclesiae parte, quae documentis huiusmodi debeant obviare, ab eius molestia sine aliqua retractatione compescas eandem. Durum est enim, ut, si alii pro mercede sua libertates tribuunt, ab ecclesia, a qua fueri debent, revocentur. [Iterum ergo etc.]
 
-* TITULUS XI. DE COGNATIONE SPIRITUALI.
+* 4.XI. DE COGNATIONE SPIRITUALI.
 
 ** CAP. I.
 
@@ -777,7 +777,7 @@ Gregorius IX.
 
 Ex literis vestris accepimus, quod, quum M. mulier coram officiali Cantiuariensi Alanum peteret in virum, et se affidatam ab eo ac carnaliter cognitam per testes idoneos probavisset, dictorum tandem testium depositionibus publicatis, idem A. excipiendo proposuit, quod eam habere non poterat in uxorem pro eo, quod ipsum pater mulieris eiusdem, qui sacerdos exstitit, baptizavit. Sed quum idem officialis, exceptione huiusmodi non admissa, diffinitivam tulerit sententiam contra ipsum, et idem ad sedem apostolicam appellaverit, mandamus, quatenus, si est ita, eundem A. super hoc ab impetitione mulieris absolvatis ipsius, eidem mulieri perpetuum silentium imponentes.
 
-* TITULUS XII. DE COGNATIONE LEGALI.
+* 4.XII. DE COGNATIONE LEGALI.
 
 ** CAP. UN.
 
@@ -787,7 +787,7 @@ Nicolaus ad consulta Bulgarorum.
 
 Si qua per adoptionem mihi soror esse coeperit, quam diu durat adoptio, sane inter me et ipsam nuptiae consistere non possunt. [Si ergo etc.]
 
-* TITULUS XIII. DE EO, QUI COGNOVIT CONSANGUINEAM UXORIS SUAE VEL SPONSAE.
+* 4.XIII. DE EO, QUI COGNOVIT CONSANGUINEAM UXORIS SUAE VEL SPONSAE.
 
 ** CAP. I.
 
@@ -877,7 +877,7 @@ Gregorius IX. Episcopo Pictaviensi.
 
 Iordanae mulieris petitio continebat, quod I. laicus cum ipsa, quae nondum decimum aetatis suae annum compleverat, per verba de futuro contraxit, et, ea infra eiusdem anni spatium carnaliter cognita, matrem ipsius sibi matrimonialiter copulare, et ad damnatae commixtionis amplexus procedere non expavit. (Et infra:) Quare praefata I. supplicavit, ut, quum carnis stimulis resistere nequeat, sibi, ne iure suo sine sua propria culpa fraudetur, providere salubriter dignaremur. Ea propter mandamus, quatenus, si res ita se habet, utrumque ipsorum ad vovendam perpetuam continentiam attente moneas et inducas, et, si ad eam induci nequiverint, memoratum I., iniuncta ei primitus pro commisso incestu poenitentia competenti, ut eidem cohabitet, et coniugale debitum reddat exactus, ecclesiastica censura compellas.
 
-* TITULUS XIV. DE CONSANGUINITATE ET AFFINITATE.
+* 4.XIV. DE CONSANGUINITATE ET AFFINITATE.
 
 ** CAP. I.
 
@@ -951,7 +951,7 @@ Gregorius IX.
 
 Vir, qui a stipite quarto gradu, et mulier, quae ex alio latere distat quinto, secundum regulam approbatam, qua dicitur: quoto gradu remotior differt a stipite, et a quolibet per aliam lineam descendentium ex eodem, licite possunt matrimonialiter copulari.
 
-* TITULUS XV. DE FRIGIDIS ET MALEFICIATIS, ET IMPOTENTIA COEUNDI.
+* 4.XV. DE FRIGIDIS ET MALEFICIATIS, ET IMPOTENTIA COEUNDI.
 
 ** CAP. I.
 
@@ -1009,7 +1009,7 @@ Honorius III.
 
 Literae vestrae nobis exhibitae continebant, quod, quum causa matrimonii, quae inter M. mulierem et A. eius virum Atrebatensis dioecesis vertitur, vobis fuisset a bonae memoriae Innocentio Papa praedecessore nostro commissa, dicta M. proposuit, coram vobis, quod, quum iam octo annis elapsis dicto A. fuisset matrimonialiter copulata, et diu cohabitasset eidem, nunquam tamen, licet esset viripotens, ab eo cognita fuerat, sed adhuc integra permanebat, eo, quod praedictus vir eius non habebat potentiam coeundi; quare petebat, inter eos divortium celebrari. Praedictus vero A. nihilominus fatebatur, quod illam nunquam cognoverat, licet ad eius obsequium se facilem exhibuerit et paratam, sed tamen se habere potentiam cognoscendi alias asserebat. Vos vero, ne id forte confiterentur in fraudem, a matronis bonae opinionis, fide dignis ac expertis in opere nuptiali, dictam fecistis inspici mulierem, quae perhibuerunt testimonium, ipsam adhuc virginem permanere. Postmodum per presbyterum, de cuius parochia vir praedictus exstitit, fecistis diligenter inquiri, utrum vir ipse aliquam cognovisset, nec per inquisitionem ipsam vobis constare potuit, aliquam esse carnaliter cognitam ab eodem. Muliere autem instanter requirente divortium, et dicente, quod mater esse volebat, et filios procreare, proponente vero viro, quod paratus erat stare consilio et voluntati ecclesiae, iniunxistis eisdem, ut humiliter reciperent et agerent poenitentiam de commissis, et sic forte placeret Deo, qui matrimonii fuit institutor et auctor, ut opus matrimonii consummarent; qui post plures terminos, ad commanendum sibi a vobis indultos, ad vestram reversi praesentiam, consona voce dixerunt, quod non poterant carnaliter commisceri. Propter quod de ipsorum consensu causam huiusmodi apostolico duxistis iudicio relinquendam. Quocirca vobis iterato per apostolica scripta mandamus, quatenus, si ita est, et constiterit vobis, praefatum virum et mulierem infra praedictos annos per continuum triennium insimul habitasse, ipsis cum septima propinquorum manu firmantibus iuramento, se commisceri carnaliter nequivisse, proferatis divortii sententiam inter eos.
 
-* TITULUS XVI. DE MATRIMONIO CONTRACTO CONTRA INTERDICTUM ECCLESIAE.
+* 4.XVI. DE MATRIMONIO CONTRACTO CONTRA INTERDICTUM ECCLESIAE.
 
 ** CAP. I.
 
@@ -1035,7 +1035,7 @@ Idem Paduano Episcopo.
 
 De muliere (Et infra: [cf. c. 6. de spons. IV. 1.]) Illos autem, qui pro consanguinitate prohibentur coniungi, et post contra interdictum ecclesiae se receperint, excommunicationi debes subiicere, donec tamdiu separentur, quousque legitime cognoscatur, utrum eorum matrimonium possit et debeat de iure stare.
 
-* TITULUS XVII. QUI FILII SINT LEGITIMI.
+* 4.XVII. QUI FILII SINT LEGITIMI.
 
 ** CAP. I.
 
@@ -1157,7 +1157,7 @@ Idem Episcopo Tib.
 
 Gaudemus (Et infra: [cf. b. 8. de divort. IV. 19.]) Ceterum prolem, de infidelium coniunctionibus natam, qui secundo, tertio vel ulteriore gradu secundum opinionem illorum matrimoniali contraxerunt affectu, post fidem receptam, utilitate publica suadente, legitimam volumus reputari. [Qui autem etc. cf. c. 8. de divort. IV. 19.]
 
-* TITULUS XVIII. QUI MATRIMONIUM ACCUSARE POSSUNT, VEL CONTRA ILLUD TESTARI.
+* 4.XVIII. QUI MATRIMONIUM ACCUSARE POSSUNT, VEL CONTRA ILLUD TESTARI.
 
 ** CAP. I.
 
@@ -1207,7 +1207,7 @@ Idem.
 
 Quum in tua dioecesi (Et infra: [cf. c. 30. de dec. III. 30.]) Si vero post contractum matrimonium aliquis appareat accusator, quum non prodierit in publicum, quando banna secundum consuetudinem in ecclesiis edebantur, utrum vox suae debeat accusationis admitti, merito quaeri potest. Super quo sic duximus distinguendum, quod, si tempore denunciationis praemissae is, qui iam coniunctos impetit, extra dioecesim exsistebat, vel alias denunciatio non potuit ad eius notitiam pervenire, ut puta, si nimiae infirmitatis fervore laborans sanae mentis patiebatur exsilium, vel in annis erat tam teneris constitutus, quod ad comprehensionem talium eius aetas sufficere non valebat, seu alia causa legitima fuerit impeditus, eius accusatio debet audiri. Alioquin, quum rationabiliter praesumatur, quod denunciationem publice factam idem exsistens in ipsa dioecesi minime ignoravit, tanquam suspectus est procul dubio repellendus, nisi proprio firmaverit iuramento, quod postea didicerit ea, quae obiecerit, et ad hoc ex malitia non procedat, quia tunc, etiamsi didicisset ab illis, qui denunciationis tempore siluerunt, claudi non debet eidem aditus accusandi, quoniam, etsi ab impetitione huiusmodi culpa de silentio tali contracta illos excluderet, iste tamen amoveri nequiret, quum culpabilis non exsistat. [Utrum autem etc. cf. c. 44. de test. II. 22. Dat. Lat. IV. Kal. Nov. Pont. nostr. Ao. XV. 1212.]
 
-* TITULUS XIX. DE DIVORTIIS.
+* 4.XIX. DE DIVORTIIS.
 
 ** CAP. I.
 
@@ -1281,7 +1281,7 @@ Idem Livoniensi Episcopo, et eis, qui cum ipso sunt fratribus.
 
 Deus, qui ecclesiam suam (Et infra: [cf. c. 11. de vita et hon. III. 1.]) Quia vero in matrimoniis contrahendis dispar est ritus in Livoniensium ecclesia de novo ad fidem catholicam conversorum a nostro, quum in consanguinitate vel affinitate distinctionem canonicam non attendant, et relictas fratrum indistincte sibi consueverint copulare: ne propter hoc a bono proposito retrahantur, quum nec quidam eorum voluerint credere, nisi relictas fratrum eos pateremini retinere, nec vos eos, nisi tales dimitterent, recipere volueritis ad baptisma, propter novitatem et infirmitatem gentis eiusdem concedimus, ut matrimoniis contractis cum relictis fratrum utantur; si tamen, fratribus decedentibus sine prole, ut semen defuncti iuxta legem Mosaicam suscitarent, cum talibus contraxerunt; ne tales sibi de cetero, postquam ad fidem venerint, copulent, prohibentes. [Ad haec] sanctae memoriae beati Gregorii papae, praedecessoris nostri, vestigiis adhaerentes, ne populus Livoniensis a bono, quod coepit, austeriora metuendo recedat, ut in quarta et ulterius generatione matrimonium contrahant, donec in fide plenius solidentur, cum eis auctoritate apostolica dispensamus; non ea intentione concedentes hoc ipsis, ut, postquam firma radice in fide fuerint solidati, talibus coniungantur; nam secundum apostoli verbum, dicentis: “lac dedi vobis potum, non escam,” illis modo, non posteris temporibus tenenda concessimus, ne, quod absit, exuratur bonum, quod adhuc infirma est radice plantatum, sed firmetur potius et usque ad perfectionem fideliter conservetur. Quum autem sacramentum coniugii apud fideles et infideles exsistat, quemadmodum apostolus protestatur: “Si quis, inquiens, frater infidelem habuit uxorem et haec consentit habitare cum eo, non eam dimittat;” et a paganis, qui constitutionibus canonicis non arctantur (quid enim ad nos secundum eundem apostolum de iis, qui foris sunt, iudicare), in secundo et tertio gradu quoad eos licite contrahatur: in favorem Christianae religionis et fidei a cuius receptione per uxores se deseri timentes, viri possunt facile revocari, fideles, in hoc gradu in infidelitate sibi matrimonialiter copulati, libere possunt et facile remanere coniuncti, quum per sacramentum baptismatis non dissolvantur coniugia sed crimina dimittantur. Ceterum etc. [cf. c. 7. de poenit. V. 38. Dat. XIII. Kal. Mai. Ao. IV. 1201.]
 
-* TITULUS XX. DE DONATIONIBUS INTER VIRUM ET UXOREM, ET DE DOTE POST DIVORTIUM RESTITUENDA.
+* 4.XX. DE DONATIONIBUS INTER VIRUM ET UXOREM, ET DE DOTE POST DIVORTIUM RESTITUENDA.
 
 ** CAP. I.
 
@@ -1347,7 +1347,7 @@ Gregorius IX.
 
 Donatio, quae constante matrimonio inter coniuges dicitur esse facta, ex qua alter locupletior, et pauperior alter efficitur, firmitatem non habet, nisi donatoris obitu confirmetur; quae tamen penitus evanescit, si revocetur ab eo tacite vel expresse, vel qui donatum accepit prius debitum naturae persolvat. Sane soluto matrimonio, sicut dos ad mulierem, sic et donatio propter nuptias redit ad virum, nisi de consuetudine secus obtineat, vel ex pacto de lucranda dote vel donatione propter nuptias, quod aequale sit, quum hinc inde contrarium inducatur.
 
-* TITULUS XXI. DE SECUNDIS NUPTIIS.
+* 4.XXI. DE SECUNDIS NUPTIIS.
 
 ** CAP. I.
 

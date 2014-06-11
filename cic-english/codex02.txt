@@ -3,166 +3,70 @@
 THE CODE OF OUR LORD, THE MOST HOLY EMPEROR JUSTINIAN.
 SECOND EDITION.
 
-
-BOOK II.
-
-TITLE I. CONCERNING THE BRINGING OF AN ACTION
-
-TITLE II. CONCERNING THE SUMMONS TO COURT
-
-TITLE III. CONCERNING INFORMAL AGREEMENTS
-
-TITLE IV. CONCERNING COMPROMISES
-
-TITLE V. CONCERNING ERRORS IN CALCULATION
-
-TITLE VI. CONCERNING LITIGATION
-
-TITLE VII. CONCERNING THE ADVOCATES OF DIFFERENT TRIBUNALS
-
-TITLE VIII. CONCERNING THE ADVOCATES OF DIFFERENT JUDGES
-
-TITLE IX. CONCERNING THE ADVOCATES OF THE TREASURY
-
-TITLE X.  CONCERNING THE ERRORS OF ADVOCATES AND THOSE WHO DRAW UP
-PETITIONS OR APPLICATIONS
-
-TITLE XI. THE JUDGE MUST SUPPLY ANYTHING WHICH THE ADVOCATES OF THE
-PARTIES HAVE OMITTED
-
-TITLE XII. IN WHAT CASES INFAMY IS INCURRED
-
-TITLE XIII. PAGE CONCERNING ATTORNEYS
-
-TITLE XIV.  PERSONS IN AUTHORITY ARE NOT PERMITTED TO APPOINT
-ADVOCATES FOR LITIGANTS, OR TO HAVE THEIR RIGHTS OP ACTION TRANSFERRED
-TO THEM
-
-TITLE XV.  CONCERNING THOSE WHO PLACE UPON THEIR LANDS PAPERS BEARING
-THE NAMES OF POWERFUL PERSONS, OR WHO MAKE USE OF THE NAMES OF SUCH
-PERSONS IN LEGAL PROCEEDINGS
-
-TITLE XVI.  No PRIVATE PERSON SHALL PLACE THE IMPERIAL INSIGNIA UPON
-HIS OWN PREMISES OR UPON THOSE OF ANOTHER, OR SHALL RAISE THE IMPERIAL
-STANDARD OVER THEM
-
-TITLE XVII.  No ONE SHALL BE PERMITTED TO PLACE A SEAL UPON PROPERTY
-BELONGING TO ANOTHER, WITHOUT THE AUTHORITY OF A JUDGE
-
-TITLE XVIII.  NEITHER THE TREASURY NOR THE STATE SHALL PROVIDE AN
-ATTORNEY TO DEFEND ANYONE IN COURT
-
-TITLE XIX. CONCERNING THE ACTION BASED ON VOLUNTARY AGENCY
-
-TITLE XX.  CONCERNING ACTS PERFORMED THROUGH THE INFLUENCE OF FORCE OR
-FEAR   {{{{ ======= TITLE XIX ...? }}}}
-
-TITLE XXI. CONCERNING FRAUD .............................................. 221
-
-TITLE XXII.
-CONCERNING COMPLETE RESTITUTION GRANTED TO MINORS OF THE AGE OF TWENTY-FIVE
-YEARS ....................................... 223
-
-TITLE XXIII.
-CONCERNING COMPLETE RESTITUTION IN THE CASE OF A MINOR UNDER PARENTAL CONTROL
-.......................................... 224
-
-TITLE XXIV. CONCERNING THE SURETIES OF MINORS ..............................
-225
-
-TITLE XXV.
-WHERE A GUARDIAN OR A CURATOR INTERPOSES TO OBTAIN COMPLETE RESTITUTION
-................................................. 225
-
-TITLE XXVI.
-WHERE COMPLETE RESTITUTION OF PROPERTY OWNED IN COMMON IS DEMANDED
-.................................................. 226
-TITLE XXVII.
-WHERE RESTITUTION IS DEMANDED IN A CASE IN WHICH A DECISION HAS BEEN RENDERED
-............................................. 227
-TITLE XXVIII. CONCERNING RESTITUTION ON ACCOUNT OF A SALE ...................
-228
-TITLE XXIX. WHERE RESTITUTION IS DEMANDED ON ACCOUNT OF THE SALE OF PLEDGES.
-229
-TITLE XXX. WHERE RESTITUTION IS DEMANDED ON ACCOUNT OF A DONATION ....... 229
-TITLE XXXI. WHERE RESTITUTION IS DEMANDED ON ACCOUNT OF A GRANT OF FREEDOM. 230
-TITLE XXXII.
-WHERE A MINOR APPLIES FOR COMPLETE RESTITUTION AGAINST A COMPROMISE OR A
-DIVISION OF PROPERTY ........................... 231
-TITLE XXXIII.
-WHERE RESTITUTION IS DEMANDED ON ACCOUNT OF PAYMENT MADE BY THE GUARDIAN OF A
-MINOR OR BY HIMSELF ..................... 231
-TITLE XXXIV. WHERE RESTITUTION IS DEMANDED AGAINST A DOWRY ................ 232
-TITLE XXXV.
-WHERE A MINOR APPLIES FOR RESTITUTION ON ACCOUNT OF A CRIME COMMITTED BY HIM
-.............................................. 232
-TITLE XXXVI.
-WHERE A MINOR DEMANDS RESTITUTION BY WAY OF RELIEF AGAINST USUCAPTION
-................................................. 233
-TITLE XXXVII.
-WHERE A MINOR DEMANDS RESTITUTION BY WAY OF RELIEF AGAINST THE TREASURY
-................................................... 233
-TITLE XXXVIII.
-WHERE A MINOR DEMANDS RESTITUTION BY WAY OF RELIEF AGAINST A CREDITOR
-.................................................... 234
-TITLE XXXIX. WHERE A MINOR REJECTS AN ESTATE .............................. 234
-TITLE XL.
-WHERE A MINOR DEMANDS RESTITUTION FOR THE PURPOSE OF OBTAINING AN ESTATE WHICH
-HE HAS REJECTED, OR THE POSSESSION OF PROPERTY OR ANYTHING ELSE
-..................................... 235
-TITLE XLI. IN WHAT INSTANCES COMPLETE RESTITUTION Is NOT NECESSARY ...... 235
-TITLE XLII. PAGE
-WHO CANNOT OBTAIN COMPLETE RESTITUTION, AND AGAINST WHOM IT CANNOT BE OBTAINED
-........................................ 237
-TITLE XLIII. WHERE A MINOR ALLEGES THAT HE IS OF AGE .......................
-238
-TITLE XLIV. WHEN COMPLETE RESTITUTION IS DEMANDED MORE THAN ONCE ....... 239
-TITLE XLV.
-CONCERNING THOSE WHO OBTAIN A RELEASE FROM THE DISABILITY OF NON-AGE
-.................................................... 239
-TITLE XLVI.
-WHERE A MINOR RATIFIES HIS ACT AFTER HAVING ATTAINED HIS MAJORITY
-......................................................... 241
-TITLE XLVII.
-WHERE, AND BEFORE WHAT JUDGE APPLICATION FOR COMPLETE RESTITUTION SHOULD BE
-MADE ....................................... 241
-TITLE XLVIII.
-CONCERNING REFLECTIONS MADE IN A JUDGMENT FOR COMPLETE RESTITUTION
-........................................................ 242
-TITLE XLIX.
-PROCEEDINGS TO OBTAIN COMPLETE RESTITUTION CAN ALSO BE INSTITUTED BY AN
-ATTORNEY ....................................... 243
-TITLE L.
-No NEW PROCEEDING TAKES PLACE WHEN A DEMAND FOR COMPLETE RESTITUTION IS MADE
-......................................... 243
-TITLE LI.
-CONCERNING THE RESTITUTION OF SOLDIERS AND OF PERSONS WHO ARE ABSENT ON
-BUSINESS FOR THE STATE ........................... 243
-TITLE L1I.
-CONCERNING THE WIVES OF SOLDIERS AND OF THOSE WHO ARE ABSENT ON BUSINESS FOR
-THE STATE .................................. 245
-TITLE LIII.
-CONCERNING THE TIME DURING WHICH MINORS AND OTHER PERSONS, AS WELL AS THEIR
-HEIRS, WHO HAVE A RIGHT TO COMPLETE RESTITUTION, CAN OBTAIN IT
-........................................ 245
-TITLE LIV.
-FOR WHAT REASONS PERSONS WHO HAVE ATTAINED THEIR MAJORITY OBTAIN COMPLETE
-RESTITUTION ............................... 248
-TITLE LV.
-CONCERNING AN ALIENATION MADE FOR THE PURPOSE OF CHANGING AN
-ACTION ..................................................... 249
-TITLE LVI. PAGE CONCERNING THE APPOINTMENT OF ARBITERS ........................
-250
-TITLE LVII. CONCERNING THE FURNISHING OF SECURITY ......................... 253
-TITLE LVIII.
-CONCERNING THE SUPPRESSION OF FORMULAS AND CLAIMS, OR RIGHTS OF ACTION
-..................................................... 254
-TITLE LIX. CONCERNING THE TENDER OF THE OATH WITH REFERENCE TO CALUMNY. 254
+* BOOK II.
+** 2.I. CONCERNING THE BRINGING OF AN ACTION
+** 2.II. CONCERNING THE SUMMONS TO COURT
+** 2.III. CONCERNING INFORMAL AGREEMENTS
+** 2.IV. CONCERNING COMPROMISES
+** 2.V. CONCERNING ERRORS IN CALCULATION
+** 2.VI. CONCERNING LITIGATION
+** 2.VII. CONCERNING THE ADVOCATES OF DIFFERENT TRIBUNALS
+** 2.VIII. CONCERNING THE ADVOCATES OF DIFFERENT JUDGES
+** 2.IX. CONCERNING THE ADVOCATES OF THE TREASURY
+** 2.X.  CONCERNING THE ERRORS OF ADVOCATES AND THOSE WHO DRAW UP PETITIONS OR APPLICATIONS
+** 2.XI. THE JUDGE MUST SUPPLY ANYTHING WHICH THE ADVOCATES OF THE PARTIES HAVE OMITTED
+** 2.XII. IN WHAT CASES INFAMY IS INCURRED
+** 2.XIII. PAGE CONCERNING ATTORNEYS
+** 2.XIV.  PERSONS IN AUTHORITY ARE NOT PERMITTED TO APPOINT ADVOCATES FOR LITIGANTS, OR TO HAVE THEIR RIGHTS OP ACTION TRANSFERRED TO THEM
+** 2.XV.  CONCERNING THOSE WHO PLACE UPON THEIR LANDS PAPERS BEARING THE NAMES OF POWERFUL PERSONS, OR WHO MAKE USE OF THE NAMES OF SUCH PERSONS IN LEGAL PROCEEDINGS
+** 2.XVI.  No PRIVATE PERSON SHALL PLACE THE IMPERIAL INSIGNIA UPON HIS OWN PREMISES OR UPON THOSE OF ANOTHER, OR SHALL RAISE THE IMPERIAL STANDARD OVER THEM
+** 2.XVII.  No ONE SHALL BE PERMITTED TO PLACE A SEAL UPON PROPERTY BELONGING TO ANOTHER, WITHOUT THE AUTHORITY OF A JUDGE
+** 2.XVIII.  NEITHER THE TREASURY NOR THE STATE SHALL PROVIDE AN ATTORNEY TO DEFEND ANYONE IN COURT
+** 2.XIX. CONCERNING THE ACTION BASED ON VOLUNTARY AGENCY
+** 2.XX.  CONCERNING ACTS PERFORMED THROUGH THE INFLUENCE OF FORCE OR FEAR   {{{{ ======= TITLE XIX ...? }}}}
+** 2.XXI. CONCERNING FRAUD
+** 2.XXII. CONCERNING COMPLETE RESTITUTION GRANTED TO MINORS OF THE AGE OF TWENTY-FIVE YEARS
+** 2.XXIII. CONCERNING COMPLETE RESTITUTION IN THE CASE OF A MINOR UNDER PARENTAL CONTROL
+** 2.XXIV. CONCERNING THE SURETIES OF MINORS
+** 2.XXV. WHERE A GUARDIAN OR A CURATOR INTERPOSES TO OBTAIN COMPLETE RESTITUTION
+** 2.XXVI. WHERE COMPLETE RESTITUTION OF PROPERTY OWNED IN COMMON IS DEMANDED
+** 2.XXVII. WHERE RESTITUTION IS DEMANDED IN A CASE IN WHICH A DECISION HAS BEEN RENDERED
+** 2.XXVIII. CONCERNING RESTITUTION ON ACCOUNT OF A SALE
+** 2.XXIX. WHERE RESTITUTION IS DEMANDED ON ACCOUNT OF THE SALE OF PLEDGES
+** 2.XXX. WHERE RESTITUTION IS DEMANDED ON ACCOUNT OF A DONATION
+** 2.XXXI. WHERE RESTITUTION IS DEMANDED ON ACCOUNT OF A GRANT OF FREEDOM
+** 2.XXXII. WHERE A MINOR APPLIES FOR COMPLETE RESTITUTION AGAINST A COMPROMISE OR A DIVISION OF PROPERTY
+** 2.XXXIII. WHERE RESTITUTION IS DEMANDED ON ACCOUNT OF PAYMENT MADE BY THE GUARDIAN OF A MINOR OR BY HIMSELF
+** 2.XXXIV. WHERE RESTITUTION IS DEMANDED AGAINST A DOWRY
+** 2.XXXV. WHERE A MINOR APPLIES FOR RESTITUTION ON ACCOUNT OF A CRIME COMMITTED BY HIM
+** 2.XXXVI. WHERE A MINOR DEMANDS RESTITUTION BY WAY OF RELIEF AGAINST USUCAPTION
+** 2.XXXVII. WHERE A MINOR DEMANDS RESTITUTION BY WAY OF RELIEF AGAINST THE TREASURY
+** 2.XXXVIII. WHERE A MINOR DEMANDS RESTITUTION BY WAY OF RELIEF AGAINST A CREDITOR
+** 2.XXXIX. WHERE A MINOR REJECTS AN ESTATE
+** 2.XL. WHERE A MINOR DEMANDS RESTITUTION FOR THE PURPOSE OF OBTAINING AN ESTATE WHICH HE HAS REJECTED, OR THE POSSESSION OF PROPERTY OR ANYTHING ELSE
+** 2.XLI. IN WHAT INSTANCES COMPLETE RESTITUTION IS NOT NECESSARY
+** 2.XLII. PAGE WHO CANNOT OBTAIN COMPLETE RESTITUTION, AND AGAINST WHOM IT CANNOT BE OBTAINED
+** 2.XLIII. WHERE A MINOR ALLEGES THAT HE IS OF AGE
+** 2.XLIV. WHEN COMPLETE RESTITUTION IS DEMANDED MORE THAN ONCE
+** 2.XLV. CONCERNING THOSE WHO OBTAIN A RELEASE FROM THE DISABILITY OF NON-AGE
+** 2.XLVI. WHERE A MINOR RATIFIES HIS ACT AFTER HAVING ATTAINED HIS MAJORITY
+** 2.XLVII. WHERE, AND BEFORE WHAT JUDGE APPLICATION FOR COMPLETE RESTITUTION SHOULD BE MADE
+** 2.XLVIII. CONCERNING REFLECTIONS MADE IN A JUDGMENT FOR COMPLETE RESTITUTION
+** 2.XLIX. PROCEEDINGS TO OBTAIN COMPLETE RESTITUTION CAN ALSO BE INSTITUTED BY AN ATTORNEY
+** 2.L. NO NEW PROCEEDING TAKES PLACE WHEN A DEMAND FOR COMPLETE RESTITUTION IS MADE
+** 2.LI. CONCERNING THE RESTITUTION OF SOLDIERS AND OF PERSONS WHO ARE ABSENT ON BUSINESS FOR THE STATE
+** 2.L1I. CONCERNING THE WIVES OF SOLDIERS AND OF THOSE WHO ARE ABSENT ON BUSINESS FOR THE STATE
+** 2.LIII. CONCERNING THE TIME DURING WHICH MINORS AND OTHER PERSONS, AS WELL AS THEIR HEIRS, WHO HAVE A RIGHT TO COMPLETE RESTITUTION, CAN OBTAIN IT
+** 2.LIV. FOR WHAT REASONS PERSONS WHO HAVE ATTAINED THEIR MAJORITY OBTAIN COMPLETE RESTITUTION
+** 2.LV. CONCERNING AN ALIENATION MADE FOR THE PURPOSE OF CHANGING AN ACTION
+** 2.LVI. PAGE CONCERNING THE APPOINTMENT OF ARBITERS
+** 2.LVII. CONCERNING THE FURNISHING OF SECURITY
+** 2.LVIII. CONCERNING THE SUPPRESSION OF FORMULAS AND CLAIMS, OR RIGHTS OF ACTION
+** 2.LIX. CONCERNING THE TENDER OF THE OATH WITH REFERENCE TO CALUMNY
 
 
-BOOK II.
+* 2.I. CONCERNING THE BRINGING OF AN ACTION.
 
-TITLE I. CONCERNING THE BRINGING OF AN ACTION.
 1. The Emperor Antoninus Pius to Aemilius.
 You, yourself, must ascertain the proof necessary to establish the fact that
 you are entitled to the money which you allege you have deposited, for your
@@ -230,7 +134,7 @@ him against whom suit was brought.
 Given during the Kalendsof October, during the Consulate of Fuscus and Dexter,
 226.
 
-TITLE II. CONCERNING THE SUMMONS TO COURT.
+* 2.II. CONCERNING THE SUMMONS TO COURT.
 1. The Emperor Alexander to Trophinius.
 The rules of ordinary courtesy demand that respect be shown by a freedman to
 the wife of the person who manumitted him; hence he is forbidden to summon her
@@ -263,7 +167,7 @@ Consul for the second time, and Maximian, 287.
 
 
 
-TITLE III. CONCERNING INFORMAL AGREEMENTS.
+* 2.III. CONCERNING INFORMAL AGREEMENTS.
 
 1. The Emperors Severus and Antoninus to Philinus.
 The uncertainty of a condition can be terminated between two brothers by an
@@ -600,7 +504,7 @@ Lampadius and Orestes, 531.
 
 
 
-TITLE IV. CONCERNING COMPROMISES.
+* 2.IV. CONCERNING COMPROMISES.
 
 1. The Emperor Antoninus to Celerius.
 No agreement or compromise made with certain curators or guardians shall be of
@@ -999,7 +903,7 @@ Given on the fifteenth of the Kalendsof December, during the Consulate of
 Patricius and Hypatius, 541.
 
 
-TITLE V. CONCERNING ERRORS IN CALCULATION.
+* 2.V. CONCERNING ERRORS IN CALCULATION.
 1. The Emperors Diocletian and Maximian, and the Caesars, to Aurelianus Quartus.
 It has frequently been decided that an error in calculation, whether it is
 found in one contract or in several, shall not prejudice the truth;
@@ -1009,7 +913,7 @@ finally decided, or a compromise has not been effected. Where, however, through
 a mistake in calculation, you promised a certain sum of money as being due,
 when it was not, you have a right to be released from the obligation.
 Given on the sixth of the Kalendsof March, under the above-mentioned Consulate.
-TITLE VI. CONCERNING LITIGATION.
+* 2.VI. CONCERNING LITIGATION.
 1. The Emperor Antoninus to Artemidorus.
 For the reason that, when you were forbidden by the Prefect of Egypt from
 bringing an action at any time, you did not appeal, obey his decision.
@@ -1114,7 +1018,7 @@ Given at Constantinople, on the day before the Kalendsof April, during the
 Consulate of Anthemius, Consul for the second time, 468.
 
 
-TITLE VII.
+* 2.VII.
 CONCERNING THE ADVOCATES OF DIFFERENT TRIBUNALS.
 
 1. The Emperor Antoninus to Dolo.
@@ -1338,7 +1242,7 @@ Given at Constantinople, on the sixth of the Kalendsof January, during the
 Consulate of Decius and Longinus, 486.
 
 
-TITLE VIII. CONCERNING THE ADVOCATES OF DIFFERENT JUDGES.
+* 2.VIII. CONCERNING THE ADVOCATES OF DIFFERENT JUDGES.
 1. The Emperor Anastasius to Eusebius, Master of the Offices.
 We think that the suggestion of the illustrious Count of Private Affairs, and
 the Proconsul of Asia, should be adopted, by which We have been informed that
@@ -1586,7 +1490,8 @@ bar. Therefore, let the advocates of this jurisdiction comply with this Our
 general decree.
 
 
-TITLE IX. CONCERNING THE ADVOCATES OF THE TREASURY.
+* 2.IX. CONCERNING THE ADVOCATES OF THE TREASURY.
+
 1. The Emperor Antoninus to Claudius.
 As you state that you have undertaken to defend the cause of the Treasury,
 although you deny that you have received any compensation, you should,
@@ -1616,23 +1521,24 @@ Given on the fourteenth of the Kalendsof January, during the Consulate of
 Merobaudus and Saturninus, 383.
 
 
-TITLE X.
-CONCERNING THE ERRORS OP ADVOCATES AND THOSE WHO DRAW UP PETITIONS OR
-APPLICATIONS.
+* 2.X. CONCERNING THE ERRORS OP ADVOCATES AND THOSE WHO DRAW UP PETITIONS OR APPLICATIONS.
+
 1. The Emperor Alexander to Aurelia.
 The allegations made by advocates in the presence of the parties to an action
 shall be considered to be the same as if they had been made by the parties
-themselves.1
+themselves.[1]
 Given on the Kalendsof March, under the Consulate of Albinus and Maximus, 228.
+
+[1] "Qui tacet consentire videtur." ---ED.
+
 2. The Emperor Gordian to the Soldier Rogatus.
 It is evident that the errors of those who draw up applications, that is to say
 petitions, cannot prejudice the truth; and therefore, if it can be clearly
 proved that the condemnation which you have mentioned in your petition did not
-take place, he who is to take cog-
-1 "Qui tacet consentire videtur." ---ED.
-nizance of the matter will know that your allegations can cause you no injury.
+take place, he who is to take cognizance of the matter will know that your allegations can cause you no injury.
 Given on the tenth of the Kalendsof July, during the Consulate of Pius and
 Pontianus, 239.
+
 3. The Emperors Diocletian and Maximian, and the Caesars, to Ulpia.
 When the case has been terminated by a decision, the latter cannot be set aside
 by a rescript, for the rule which has been established, namely, that the error
@@ -1643,8 +1549,9 @@ decision had been rendered, take advantage of an appeal in case you were
 displeased with the decision.
 Given on the sixth of the Kalendsof September, during the Consulate of the
 Caesars, 294.
-TITLE XL
-THE JUDGE MUST SUPPLY ANYTHING WHICH THE ADVOCATES OF THE PARTIES HAVE OMITTED.
+
+* 2.XI. THE JUDGE MUST SUPPLY ANYTHING WHICH THE ADVOCATES OF THE PARTIES HAVE OMITTED.
+
 1. The Emperors Diocletian and Maximian, and the Caesars, to Honoratus.
 There is no doubt that where anything is omitted by the litigants in a case, or
 by those who represent them, the judge can supply it, and state what he knows
@@ -1654,8 +1561,7 @@ Diocletian, Consul for the fifth time, and Maximian, Consul for the fourth
 time, 293.
 
 
-TITLE XII.
-IN WHAT CASES INFAMY Is INCURRED.
+* 2.XII. IN WHAT CASES INFAMY IS INCURRED.
 
 1. The Emperor Severus and Antoninus to Manilius.
 The disgrace of infamy will not be inflicted upon you by the mere fact that you
@@ -1836,7 +1742,7 @@ of the Caesars.
 
 
 
-TITLE XIII. CONCERNING ATTORNEYS.
+* 2.XIII. CONCERNING ATTORNEYS. {= Cod. 2.12}
 
 1. The Divine Antoninus Pius to Severus.
 A bond for the ratification of the transaction is required of an attorney, when
@@ -2007,15 +1913,15 @@ of Diocletian, Consul for the fifth time, and Maximian, 294.
 18. The Same, and the Consuls, to Dionysia.
 To undertake the legal defence of another is a masculine duty, and it
 is settled that it cannot be discharged by one of the female
-sex;[[fn--1]] and therefore you must apply for the appointment of a
+sex;[1] and therefore you must apply for the appointment of a
 guardian for your son, if he is a minor.  Given on the fourteenth of
 the Kalendsof February, during the Consulate of the Caesars, 294.
 
 
-[[fn--1 "Foeminae ab omnibus officiis civilibus, vel publicis remotae
+[1] "Foeminae ab omnibus officiis civilibus, vel publicis remotae
 sunt; ei ideo nec judices esse possunt, nec magistratum gerere, nec
 postulare, nec pro alio intervenire, nec procuratores existere."
----ED.]]
+---ED.
 
 
 19. The Same, and the Caesars, to Firmus.
@@ -2107,10 +2013,7 @@ attorney, if he prefers to do so; unless for some good reason, or where matters
 are urgent, the judge requires him to appear in person.
 Given on the day before the Idesof October.
 
-
-TITLE XIV.
-PERSONS IN AUTHORITY ARE NOT PERMITTED TO APPOINT ADVOCATES FOR LITIGANTS, OR
-TO HAVE THEIR RIGHTS OP ACTION TRANSFERRED TO THEM.
+* 2.XIV. PERSONS IN AUTHORITY ARE NOT PERMITTED TO APPOINT ADVOCATES FOR LITIGANTS, OR TO HAVE THEIR RIGHTS OP ACTION TRANSFERRED TO THEM.
 1. The Emperors Diocletian and Maximian to Aristobolus.
 Our Father, the Divine Claudius, who was thoroughly learned in the law, very
 properly decided that those who committed their defence to persons in authority
@@ -2138,12 +2041,8 @@ creditors becomes apparent when they assign their rights of action to others.
 Given on the fifth of the Idesof July, during the Consulate of Honorius, Consul
 for the seventh time, and Theodosius, Consul for the second time, 407.
 
+* 2.XV. CONCERNING THOSE WHO PLACE UPON THEIR LANDS PAPERS BEARING THE NAMES OP POWERFUL PERSONS, OR WHO MAKE USE OF THE NAMES OF SUCH PERSONS IN LEGAL PROCEEDINGS.
 
-TITLE XV.
-CONCERNING THOSE WHO PLACE UPON THEIR LANDS
-PAPERS BEARING THE NAMES OP POWERFUL PERSONS, OR
-WHO MAKE USE OF THE NAMES OF SUCH PERSONS IN
-LEGAL PROCEEDINGS.
 1. The Emperors Arcadius and Honorius to Messala, Praetorian Prefect.
 We have been informed that there are many individuals who, aware of the
 desperation of their unjust claims, make use of the names of powerful persons,
@@ -2169,9 +2068,8 @@ or ownership, shall be branded with infamy as persons who have thrown away
 their reputations, and are the purchasers of fraudulent litigation.
 Given at Milan, on the fifteenth of the Kalendsof December, during the
 Consulate of Stilicho and Aurelian, 400.
-TITLE XVI.
-No PRIVATE PERSON SHALL PLACE THE IMPERIAL INSIGNIA UPON HIS OWN PREMISES OR
-UPON THOSE OF ANOTHER, OR SHALL RAISE THE IMPERIAL STANDARD OVER THEM.
+
+* 2.XVI. NO PRIVATE PERSON SHALL PLACE THE IMPERIAL INSIGNIA UPON HIS OWN PREMISES OR UPON THOSE OF ANOTHER, OR SHALL RAISE THE IMPERIAL STANDARD OVER THEM.
 1. The Emperors Honorius and Theodosius to Flavianus, Praetorian Prefect.
 It is the exclusive privilege of Imperial Majesty that Our houses and
 possessions should be indicated by the display of Our titles, and therefore let
@@ -2201,9 +2099,7 @@ Given on the fifteenth day of July, during the Consulate of Theodosius, Consul
 for the seventeenth time, and Festus, 439.
 
 
-TITLE XVII.
-No ONE SHALL BE PERMITTED TO PLACE A SEAL UPON PROPERTY BELONGING TO ANOTHER,
-WITHOUT THE AUTHORITY OP A JUDGE.
+* 2.XVII. NO ONE SHALL BE PERMITTED TO PLACE A SEAL UPON PROPERTY BELONGING TO ANOTHER, WITHOUT THE AUTHORITY OP A JUDGE.
 1. The Emperor Probus to Octavius.
 It has been frequently stated in Rescripts that, before judgment has been
 rendered, a seal cannot be attached to property in the possession of another;
@@ -2218,9 +2114,7 @@ even if he alleges that the said property is his, or has been encumbered to
 him.
 
 
-TITLE XVIII.
-NEITHER THE TREASURY NOR THE STATE SHALL PROVIDE AN ATTORNEY TO DEFEND ANYONE
-IN COURT.
+* 2.XVIII. NEITHER THE TREASURY NOR THE STATE SHALL PROVIDE AN ATTORNEY TO DEFEND ANYONE IN COURT.
 1. The Emperor Gordian to Legitimus and Others.
 You are making a request contrary to the rule of law, when you ask that the
 State shall assist you, under the pretext that you owe it a certain sum of
@@ -2253,8 +2147,7 @@ Given on the sixteenth of the Kalendsof January, during the Consulate of the
 Caesars, 294.
 
 
-TITLE XIX.
-CONCERNING THE ACTION BASED ON VOLUNTARY AGENCY.
+* 2.XIX. CONCERNING THE ACTION BASED ON VOLUNTARY AGENCY.
 
 
 1. The Emperors Severus and Antoninus to Sopatra.
@@ -2472,10 +2365,7 @@ ordinary way.
 Given on the fourteenth of the Kalendsof December, during the Consulate of
 Lampadius and Orestes, 538.
 
-
-
-TITLE XX.
-CONCERNING ACTS PERFORMED THROUGH THE INFLUENCE OF FORCE OR FEAR.
+* 2.XX. CONCERNING ACTS PERFORMED THROUGH THE INFLUENCE OF FORCE OR FEAR.
 
 1. The Emperor Alexander to Felix.
 The opinion has been given that the right to pursue property which has been
@@ -2590,7 +2480,8 @@ obtained by duress: "What is given by force to a man who cannot accept it
 legally, what is by force enjoyed, by force caused to be written; and all other
 things done by force or against free consent, Menu has pronounced void." (Sir
 Wm. Jones Works, The Laws of Menu III, Page 299.) --- ED.
-TITLE XXI. CONCERNING FRAUD.
+
+* 2.XXI. CONCERNING FRAUD.
 1. The Emperors Severus and Antoninus to Clementina.
 When a surety, having paid the amount of the debt and interest, purchases the
 pledges from the creditor, he ought to restore to you the ownership of the
@@ -2675,9 +2566,9 @@ complete term of two years has begun; but it should be terminated before the
 expiration of the said two years.
 Given on the eighth of the Kalendsof August, during the Consulate of
 Constantine, and the Caesar Licinius, 319.
-TITLE XXII.
-CONCERNING COMPLETE RESTITUTION GRANTED TO MINORS OF THE AGE OF TWENTY-FIVE
-YEARS.
+
+* 2.XXII. CONCERNING COMPLETE RESTITUTION GRANTED TO MINORS OF THE AGE OF TWENTY-FIVE YEARS.
+
 1. The Emperor Alexander to Plotiana.
 It must be ascertained whether the complaint of inofficiousness has been openly
 or tacitly renounced, and this does not show that you are entitled to this
@@ -2742,8 +2633,8 @@ Given on the Nonesof May, during the Consulate of Constantius, 420.
 A minor is not considered to have been taken advantage of who avails himself of
 the Common Law.
 Given on the Kalendsof January, during the Consulate of Basilius, 420.
-TITLE XXIII.
-CONCERNING COMPLETE RESTITUTION IN THE CASE OF A MINOR UNDER PARENTAL CONTROL.
+
+* 2.XXIII. CONCERNING COMPLETE RESTITUTION IN THE CASE OF A MINOR UNDER PARENTAL CONTROL.
 1. The Emperor Gordian to the Soldier Tripho.
 When a son under paternal control, who is a minor of twenty-five years of age,
 becomes surety for a stranger, he is not prevented from petitioning for
@@ -2759,7 +2650,8 @@ the Decree of the Senate, he can, on account of the weakness of his age, demand
 complete restitution, notwithstanding his obligation.
 Given on the third of the Nonesof October, during the Consulate of Pius and
 Pontianus.
-TITLE XXIV. CONCERNING THE SURETIES OP MINORS.
+
+* 2.XXIV. CONCERNING THE SURETIES OP MINORS.
 1. The Emperors Severus and Antoninus to Miro.
 After you have obtained complete restitution through the privilege due to your
 age, you will not be compelled to assume the risk of the eviction of the
@@ -2779,8 +2671,8 @@ is clearly a principle of law that, in granting relief, the interest of the
 vendor, as well as that of her surety, should be taken into consideration.
 Given on the sixth of the Kalendsof May, during the Consulate of Diocletian,
 Consul for the second time, and Maximian, 287.
-TITLE XXV.
-WHERE A GUARDIAN OR A CURATOR INTERPOSES TO OBTAIN COMPLETE RESTITUTION.
+
+* 2.XXV. WHERE A GUARDIAN OR A CURATOR INTERPOSES TO OBTAIN COMPLETE RESTITUTION.
 1. Antoninus to Martiana and Others.
 If you had arrived at puberty when you entered upon the estate of both your
 parents, and you are still at that age, you have a right to obtain the benefit
@@ -2820,8 +2712,8 @@ curators, and that their rights shall not be prejudiced, no matter which method
 they may select.
 Given on the sixth of the Idesof December, during the Consulate of the Caesars,
 164.
-TITLE XXVI.
-WHERE COMPLETE RESTITUTION OF PROPERTY OWNED IN COMMON IS DEMANDED.
+
+* 2.XXVI. WHERE COMPLETE RESTITUTION OF PROPERTY OWNED IN COMMON IS DEMANDED.
 1. The Emperors Diocletian and Maximian, and the Caesars, to Aphobius and
 Others.
 Even though your sister may have been more than twenty-five years of age she
@@ -2835,8 +2727,8 @@ any advantage to you for the purpose of participation in the benefit of the
 Perpetual Edict.
 Given on the third of the Idesof August, during the Consulate of the Caesars,
 264.
-TITLE XXVII.
-WHERE RESTITUTION IS DEMANDED IN A CASE IN WHICH A DECISION HAS BEEN RENDERED.
+
+* 2.XXVII. WHERE RESTITUTION IS DEMANDED IN A CASE IN WHICH A DECISION HAS BEEN RENDERED.
 1. The Emperor Alexander to Viliiis.
 Where you, in an action on guardianship, have obtained less than you were
 entitled to, you can bring suit for the remainder, and the privilege due to
@@ -2879,7 +2771,8 @@ against their guardians and curators, just as if it had been rendered against
 them personally.
 Given on the tenth of the Kalendsof November, during the abovementioned
 Consulate, 293.
-TITLE XXVIII. CONCERNING RESTITUTION ON ACCOUNT OF A SALE.
+
+* 2.XXVIII. CONCERNING RESTITUTION ON ACCOUNT OF A SALE.
 1. The Emperor Alexander to the Soldier Florentius.
 If you, a minor of twenty-five years of age, have given security to the
 purchaser of land, which you sold to him, that you will not raise any
@@ -2903,8 +2796,8 @@ first time, and Constans, 289.
 1 An adult, at Civil Law, was a male child who had reached the age of fourteen
 years, or a female who had reached the age of twelve; in other words, minors
 who had passed the age of puberty. --- ED.
-TITLE XXIX.
-WHERE RESTITUTION IS DEMANDED ON ACCOUNT OF THE SALE OF PLEDGES.
+
+* 2.XXIX. WHERE RESTITUTION IS DEMANDED ON ACCOUNT OF THE SALE OF PLEDGES.
 1. The Emperors Diocletian and Maximian, and the Caesars, to Sabina and Others.
 It has already been decided that relief can also be given to minors against the
 sale of pledges made by creditors, but only provided they have sustained great
@@ -2922,8 +2815,8 @@ bring suit against him in the first place, or against your guardians and
 curators, who permitted this sale to be effected.
 Given on the thirteenth of the Kalendsof May, under the Consulate of the
 Caesars, 294.
-TITLE XXX.
-WHERE RESTITUTION IS DEMANDED ON ACCOUNT OF A DONATION.
+
+* 2.XXX. WHERE RESTITUTION IS DEMANDED ON ACCOUNT OF A DONATION.
 1. The Emperors Diocletian and Maximian to Theodora.
 If any property was given you by your husband, who, at the time of your
 betrothal, and before the celebration of your marriage, was under the age of
@@ -2945,8 +2838,8 @@ benefit of restitution; provided the prescribed time for doing so has not
 expired.
 Given on the eighth of the Kalendsof January, during the Consulate of the
 above-mentioned Emperors, 293.
-TITLE XXXI.
-WHERE RESTITUTION IS DEMANDED ON ACCOUNT OF A GRANT OF FREEDOM.
+
+* 2.XXXI. WHERE RESTITUTION IS DEMANDED ON ACCOUNT OF A GRANT OF FREEDOM.
 1. The Emperors Severus and Antoninus to Hamnia.
 Where, after a decree has been rendered by the illustrious Praetor, by which he
 decided that freedom was due under the terms of the trust, Secundus, whom you
@@ -2988,9 +2881,8 @@ ground of the privilege of minority without an appeal being taken.
 Given on the sixth of the Idesof January, during the Consulate of the same
 Emperors; the first, Consul for the fifth time, and the second, Consul for the
 fourth time, 290.
-TITLE XXXII.
-WHERE A MINOR APPLIES FOR COMPLETE RESTITUTION AGAINST A COMPROMISE OR A
-DIVISION OF PROPERTY.
+
+* 2.XXXII. WHERE A MINOR APPLIES FOR COMPLETE RESTITUTION AGAINST A COMPROMISE OR A DIVISION OF PROPERTY.
 1. The Emperors Severus and Antoninus to Antony.
 Where a female minor has obtained complete restitution, and a compromise or a
 division of property has been rescinded, it has been decided that you can bring
@@ -3006,10 +2898,8 @@ extinguished, your interests will be consulted by the revival of the action in
 your favor.
 Given on the Kalendsof December, during the Consulate of the above-mentioned
 Emperors, 293.
-TITLE XXXIII.
-WHERE RESTITUTION IS DEMANDED ON ACCOUNT OF PAYMENT MADE BY THE GUARDIAN OF A
-MINOR OR BY
-HIMSELF.
+
+* 2.XXXIII. WHERE RESTITUTION IS DEMANDED ON ACCOUNT OF PAYMENT MADE BY THE GUARDIAN OF A MINOR OR BY HIMSELF.
 1. The Emperors Diocletian and Maximian, and the Caesars, to Setorica.
 Guardians who are indebted on account of their administration, and who pay what
 they owe to curators, are released, just as other debtors are; but the benefit
@@ -3026,7 +2916,8 @@ an error of law; provided the time during which the relief of restitution can
 be granted has not expired.
 Given on the fifteenth of the Kalendsof April, during the Consulate of the
 above-named Emperors, 294.
-TITLE XXXIV. WHERE RESTITUTION IS DEMANDED AGAINST A DOWRY.
+
+* 2.XXXIV. WHERE RESTITUTION IS DEMANDED AGAINST A DOWRY.
 1. The Emperor Alexander to Valens.
 As you say that your sister was swindled when she gave all her property as her
 dowry, the Governor of the province, in the presence of the adverse party,
@@ -3036,8 +2927,8 @@ not yet elapsed within which you, as the representative of the deceased, are
 permitted by the law to demand complete restitution.
 Given on the sixth of the Idesof July, during the Consulate of Maximus and
 Paternus, 234.
-TITLE XXXV.
-WHERE A MINOR APPLIES FOR RESTITUTION ON ACCOUNT OP A CRIME COMMITTED BY HIM.
+
+* 2.XXXV. WHERE A MINOR APPLIES FOR RESTITUTION ON ACCOUNT OP A CRIME COMMITTED BY HIM.
 1. The Emperors Severus and Antoninus to Longinus.
 In criminal cases, minors are not entitled to relief under the pretext of want
 of age, for weakness of mind does not excuse the acts of evilly disposed
@@ -3056,15 +2947,14 @@ pardonable on account of her age, as this rule only applies to mothers who have
 attained their majority.
 Given on the fifth of the Nonesof March, during the Consulate of the Caesars,
 294.
-TITLE XXXVI.
-WHERE A MINOR DEMANDS RESTITUTION BY WAY OF
-RELIEF AGAINST USUCAPTION.
+
+* 2.XXXVI. WHERE A MINOR DEMANDS RESTITUTION BY WAY OF RELIEF AGAINST USUCAPTION.
 1. The Emperors Diocletian and Maximian, and the Caesars, to Isidor.
 The benefit of restitution should be granted in favor of minors against those
 who hold their property, when they acquire ownership of the same by usucaption.
 Given on the Kalendsof May, during the Consulate of the Caesars, 294.
-TITLE XXXVII.
-WHERE A MINOR DEMANDS RESTITUTION BY WAY OF RELIEF AGAINST THE TREASURY.
+
+* 2.XXXVII. WHERE A MINOR DEMANDS RESTITUTION BY WAY OF RELIEF AGAINST THE TREASURY.
 1. The Emperor Severus and Antoninus to Longinus.
 If Probus, while a minor, was overreached by Rufinus, Our steward, and
 contracted for the sale of property hastily and without proper consideration
@@ -3093,8 +2983,8 @@ allegations should be believed, and that the formalities requisite in a public
 sale were complied with, and you pay the Treasury what is due to it, he must
 rescind the sale, and order the land to be restored to you.
 Given on the Idesof February, during the Consulate of the Caesars, 294.
-TITLE XXXVIII.
-WHERE A MINOR DEMANDS RESTITUTION BY WAY OF RELIEF AGAINST A CREDITOR.
+
+* 2.XXXVIII. WHERE A MINOR DEMANDS RESTITUTION BY WAY OF RELIEF AGAINST A CREDITOR.
 1. The Emperor Antoninus to Prunicus.
 As you acknowledge that you made a contract with Zenodora, a minor under the
 age of twenty-five years, and have not been able to prove before the
@@ -3110,7 +3000,8 @@ right of complete restitution against the note by means of which you incurred
 the obligation.
 Given on the third of the Nonesof February, during the second Consulate of
 Gordian, 242.
-TITLE XXXIX. WHERE A MINOR REJECTS AN ESTATE.
+
+* 2.XXXIX. WHERE A MINOR REJECTS AN ESTATE.
 1. The Emperors Sevens and Antoninus to Florentius and Others.
 If you have not interfered in the affairs of the estate of your father, it will
 not be necessary for you to produce witnesses to prove that you have not
@@ -3137,10 +3028,9 @@ grandparents (as you say that you are still of the proper age to do so), in
 spite of the fact that you did not previously accept them.
 Given on the third of the Nonesof February, during the Consulate of Gordian,
 Consul for the second time, and Pompeianus, 242.
-TITLE XL.
-WHERE A MINOR DEMANDS RESTITUTION FOR THE PURPOSE OF OBTAINING AN ESTATE WHICH
-HE HAS REJECTED, OR THE POSSESSION OF PROPERTY OR ANYTHING
-ELSE.
+
+* 2.XL. WHERE A MINOR DEMANDS RESTITUTION FOR THE PURPOSE OF OBTAINING AN ESTATE WHICH HE HAS REJECTED, OR THE POSSESSION OF PROPERTY OR ANYTHING ELSE.
+
 1. The Emperor Gordian to Prota.
 It has already been decided that minors of twenty-five years of age can demand
 the benefit of complete restitution, not only with reference to their own
@@ -3155,9 +3045,8 @@ decree must deliver to their brothers the property which they had at the time
 of their father's death.
 Given on the sixteenth of the Kalendsof November, during the Consulate of the
 Caesars, 294.
-TITLE XLI.
-IN WHAT INSTANCES COMPLETE RESTITUTION IS NOT
-NECESSARY.
+
+* 2.XLI. IN WHAT INSTANCES COMPLETE RESTITUTION IS NOT NECESSARY.
 1. The Emperor Alexander to Mutatus.
 It is stated in innumerable Rescripts of My ancestors, as well as in My own,
 that, where minors of twenty-five years of age have not
@@ -3204,8 +3093,8 @@ been endangered; but of course prescrip-
 tions of thirty or forty years standing will remain in their present condition.
 Given at Constantinople, on the Kalendsof November, after the Consulate of
 Lampadius and Orestes, 531.
-TITLE XLII.
-WHO CANNOT OBTAIN COMPLETE RESTITUTION, AND AGAINST WHOM IT CANNOT BE OBTAINED.
+
+* 2.XLII. WHO CANNOT OBTAIN COMPLETE RESTITUTION, AND AGAINST WHOM IT CANNOT BE OBTAINED.
 1. The Emperor Alexander to Cononidus.
 Where complete restitution is demanded, it is necessary for the judge having
 jurisdiction to ascertain whether he who alleges that he is a minor and has
@@ -3239,7 +3128,8 @@ there is no doubt that care should be taken that nothing injurious to their
 reputations may take place.
 Given at Constantinople, on the Kalendsof September, after the Consulate of
 Lampadius and Orestes, 531.
-TITLE XLIII. WHERE A MINOR ALLEGES THAT HE IS OF AGE.
+
+* 2.XLIII. WHERE A MINOR ALLEGES THAT HE IS OF AGE.
 1. The Emperor Alexander to Maximiana.
 If you are under twenty-five years of age, and can prove that you have been
 deceived by the records of your birth, from which it appears that you were over
@@ -3286,8 +3176,8 @@ opinion was incorrect, when you thought that you had reached your majority, he
 shall decide in your case whatever is in accordance with truth.
 Given on the sixth of the Idesof December, during the Consulate of the Caesars,
 294.
-TITLE XLIV.
-WHEN COMPLETE RESTITUTION IS DEMANDED MORE THAN ONCE.
+
+* 2.XLIV. WHEN COMPLETE RESTITUTION IS DEMANDED MORE THAN ONCE.
 1. The Emperors Severus and Antoninus to Romanus and Others.
 If you should desire complete restitution after a decision of the Proconsul has
 been rendered against you, and you do not obtain it, you will, in vain, ask
@@ -3310,8 +3200,8 @@ restitution cannot legally be demanded more than once in one and the same case
 (unless new defences are offered).
 Given on the second of the Kalendsof June, during the Consulate of Peregrinus
 and Aemilianus, 247.
-TITLE XLV.
-CONCERNING THOSE WHO OBTAIN A RELEASE FROM THE DISABILITY OP NON-AGE.
+
+* 2.XLV. CONCERNING THOSE WHO OBTAIN A RELEASE FROM THE DISABILITY OP NON-AGE.
 1. The Emperor Aurelian to Agathocles.
 It is perfectly clear that those who, through the indulgence of the Emperor,
 have obtained a release from the incapacity of age, even if they do not seem to
@@ -3366,7 +3256,8 @@ expressly be stated that reference to a release from the disability of age is
 intended.
 Given on the ninth of the Kalendsof April, during the Consulate of Lampadius
 and Orestes, 530.
-TITLE XLVI.
+
+* 2.XLVI.
 WHERE A MINOR RATIFIES HIS ACT AFTER HAVING ATTAINED HIS MAJORITY.
 1. The Emperors Diocletian and Maximian, and the Caesars, to Eutychidnus.
 Where partition has taken place, without any fraud, between minors under
@@ -3378,7 +3269,8 @@ mentioned Emperors, 293.
 Those who, after they have reached their twenty-fifth year, ratify transactions
 made during their minority, will, in vain, demand that they be rescinded.
 Given on the Idesof February, during the Consulate of the Caesars, 294.
-TITLE XLVII.
+
+* 2.XLVII.
 WHERE, AND BEFORE WHAT JUDGE APPLICATION FOR COMPLETE RESTITUTION SHOULD BE
 MADE.
 1. The Emperor Antoninus to Severus.
@@ -3430,10 +3322,8 @@ arises.
 Given on the third of the Kalendsof September, after the Consulate of Lampadius
 and Orestes, 531.
 
+* 2.XLVIII. CONCERNING REFLECTIONS MADE IN A JUDGMENT FOR COMPLETE RESTITUTION.
 
-
-TITLE XLVIII.
-CONCERNING REFLECTIONS MADE IN A JUDGMENT FOR COMPLETE RESTITUTION.
 1. The Emperor Antoninus to Tatian.
 If the party who obtains complete restitution should not suffer any loss from
 the proceeding, so also he should obtain no profit, and
@@ -3445,11 +3335,8 @@ an estate, and obtains restitution, he must immediately surrender whatever he
 obtained from the estate, and if he has been guilty of fraud, he should be held
 responsible.
 
+* 2.XLIX. PROCEEDINGS TO OBTAIN COMPLETE RESTITUTION CAN ALSO BE INSTITUTED BY AN ATTORNEY.
 
-
-TITLE XLIX.
-PROCEEDINGS TO OBTAIN COMPLETE RESTITUTION CAN ALSO BE INSTITUTED BY AN
-ATTORNEY.
 1. The Emperor Alexander to Licinius.
 It is established that, if the right exists, an action for complete restitution
 can also be brought by an attorney.
@@ -3457,17 +3344,16 @@ Given on the thirteenth of the Kalendsof October, during the Consulate of
 Pompeianus and Pelignus, 232.
 
 
-TITLE L.
-No NEW PROCEEDING TAKES PLACE WHEN A DEMAND FOR COMPLETE RESTITUTION IS MADE.
+* 2.L. NO NEW PROCEEDING TAKES PLACE WHEN A DEMAND FOR COMPLETE RESTITUTION IS MADE.
+
 1. The Emperor Gordian to the Soldier Secundinus.
 It is a plain rule of law that where complete restitution is demanded,
 everything remains in the same condition until the case is terminated, and he
 who has charge of such matters must see that this is done.
 Given on the twelfth of the Kalendsof July, during the Consulate of Gordian and
 Aviola, 240.
-TITLE LI.
-CONCERNING THE RESTITUTION OF SOLDIERS AND OF PERSONS WHO ARE ABSENT ON
-BUSINESS FOR THE STATE.
+
+* 2.LI. CONCERNING THE RESTITUTION OF SOLDIERS AND OF PERSONS WHO ARE ABSENT ON BUSINESS FOR THE STATE.
 1. The Emperor Severus and Antoninus to Chilo.
 If Valerian, Centurion of the Twelfth Cohort of the Alps, died before obtaining
 possession of the property in question, his heir, as the representative of the
@@ -3532,9 +3418,9 @@ can, by no means, enjoy the benefit of claiming the above-mentioned privileges
 during the time occupied by said expeditions.
 Given at Constantinople, on the sixth of the Idesof April, during the Consulate
 of Decius, 529.
-TITLE LII.
-CONCERNING THE WIVES OP SOLDIERS AND OP THOSE WHO ARE ABSENT ON BUSINESS FOR
-THE STATE.
+
+* 2.LII. CONCERNING THE WIVES OP SOLDIERS AND OP THOSE WHO ARE ABSENT ON BUSINESS FOR THE STATE.
+
 1. The Emperor Alexander to Secundina.
 It is well known that it is customary, as in the case of soldiers, to grant
 relief to women who are absent with their husbands on business for the State,
@@ -3552,9 +3438,9 @@ We order that the price which was actually paid for the same be refunded, and
 that the woman receive the house.
 Given on the eighth of the Kalendsof December, during the Consulate of the same
 Emperors, 293.
-TITLE LIII.
-CONCERNING THE TIME DURING WHICH MINORS AND OTHER PERSONS, AS WELL AS THEIR
-HEIRS, WHO HAVE A RIGHT TO COMPLETE RESTITUTION, CAN OBTAIN IT.
+
+* 2.LIII. CONCERNING THE TIME DURING WHICH MINORS AND OTHER PERSONS, AS WELL AS THEIR HEIRS, WHO HAVE A RIGHT TO COMPLETE RESTITUTION, CAN OBTAIN IT.
+
 1. The Emperor Gordian to the Soldier Pudens.As you are a minor under the age
 of twenty-five years, you can demand the benefit of complete restitution with
 reference to those
@@ -3665,9 +3551,9 @@ ancient laws, is also excepted; and, in this respect, the restitution of minors
 and persons who have attained their majority is not dissimilar.
 Given at Constantinople, on the Kalendsof September, after the Consulate of
 Lampadius and Orestes, Consuls for the fifth time, 531.
-TITLE LIV.
-FOR WHAT REASONS PERSONS WHO HAVE ATTAINED THEIR MAJORITY OBTAIN COMPLETE
-RESTITUTION.
+
+* 2.LIV. FOR WHAT REASONS PERSONS WHO HAVE ATTAINED THEIR MAJORITY OBTAIN COMPLETE RESTITUTION.
+
 1. The Emperor Antoninus to Aemilianus.
 If you have had judgment rendered against you while absent and undefended, on
 account of having performed the duties of My envoy in good faith, you very
@@ -3704,8 +3590,9 @@ granted for complete restitution opposing the exception of the time prescribed
 by law (which it is customary to do).
 Given on the sixteenth of the Kalendsof May, during the Consulate of the
 Caesars, 294.
-TITLE LV.
-CONCERNING AN ALIENATION MADE FOR THE PURPOSE OF CHANGING AN ACTION.
+
+* 2.LV. CONCERNING AN ALIENATION MADE FOR THE PURPOSE OF CHANGING AN ACTION.
+
 1. The Emperors Diocletian and Maximian, and the Caesars, to Attalus.
 As possession provides a real action for an adversary, and complete restitution
 is permitted by the Perpetual Edict, even when alienation of property has been
@@ -3715,7 +3602,9 @@ avoid being sued, you have the legal right to choose against which of the
 parties you will proceed.
 Given on the sixth of the Kalendsof December, during the Consulate of the
 Caesars, 294.
-TITLE LVI. CONCERNING THE APPOINTMENT OF ARBITERS.
+
+* 2.LVI. CONCERNING THE APPOINTMENT OF ARBITERS.
+
 1. The Emperor Antoninus to Nepotiana.
 It has frequently been stated in rescripts that an appeal cannot be taken from
 the decision of an arbiter appointed after a compromise which has been made in
@@ -3874,7 +3763,9 @@ imposed for their selection, and no exception on the ground of an agreement can
 be pleaded against such persons as justly despise their decisions.
 Given at Constantinople, on the Kalendsof September, during the Consulate of
 Lampadius and Orestes, 530.
-TITLE LVII. CONCERNING THE FURNISHING OF SECURITY.
+
+* 2.LVII. CONCERNING THE FURNISHING OF SECURITY.
+
 1. The Emperors Diocletian and Maximian and the Caesars.
 It is a certain rule of law that anyone who becomes the attorney of the
 plaintiff shall not be compelled to furnish security that his principal will
@@ -3895,8 +3786,7 @@ any judgment which may be rendered against him.
 Given on the ninth of the Kalendsof November, during the Consulate of the
 Caesars, 294.
 
-TITLE LVIII.
-CONCERNING THE SUPPRESSION OF FORMULAS AND CLAIMS, OR RIGHTS OF ACTION.
+* 2.LVIII. CONCERNING THE SUPPRESSION OF FORMULAS AND CLAIMS, OR RIGHTS OF ACTION.
 
 1. The Emperor Constantine to Marcellinus, Governor of Phoenicia.
 The legal formulas which, by the subtlety of their phraseology, menaced all
@@ -3913,8 +3803,7 @@ has reference to the cause for which suit was brought.
 Given on the tenth of the Kalendsof May, during the Consulate of Felix and
 Taurus, 428.
 
-TITLE LIX.
-CONCERNING THE TENDER OF THE OATH WITH REFERENCE TO CALUMNY.
+* 2.LIX. CONCERNING THE TENDER OF THE OATH WITH REFERENCE TO CALUMNY.
 1. The Emperor Justinian to Demosthenes, Praetorian Prefect.
 In all cases, whether you base your action upon private papers, public
 documents, or upon anything else which requires the production of evidence, We
@@ -3932,10 +3821,12 @@ against their co-heirs, but for the reason that they cannot otherwise ascertain
 or establish the truth of matters relating to the estate.
 Given at Constantinople, on the twelfth of the Kalendsof October, during the
 fifth Consulate of Decius, 529.
+
 Extract from Novel 49, Chapter III. Latin Text.
 This oath is not exacted at present, as in the beginning of the action the
 party swears not to demand anything from malicious motives during the entire
 proceedings.
+
 2. The Same to John, Praetorian Prefect.
 As We have already decided that judges shall not dispose of cases unless in the
 presence of the Holy Gospels, and decreed that advocates throughout the entire
