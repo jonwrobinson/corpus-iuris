@@ -34,6 +34,7 @@ http://daten.digitale-sammlungen.de/~db/0005/bsb00050150/image_1
 * Tabula authenticarum
 * Codex 01
 
+** Cod. 1.2(5)
 - aut. Cassa et irrita [p. C.1.2.12.2]
   r.: Nova constitutio Fre. impera.
 
@@ -80,6 +81,20 @@ http://daten.digitale-sammlungen.de/~db/0005/bsb00050150/image_1
 
 - aut. Preterea si habeat ecclesia [p. C.1.2.21.2]
   r.: In autentica de ali. et emphithe. §. ultimo collatione nona.
+
+** Cod. 1.4(7)
+
+- aut. Si quis litigantium intra [p. C.1.4(7).8]
+  r.: In aut. de sanc. eips. §. si quis contra aliquem, col. ix.
+
+- aut. Statuimus autem hoc edicto [p. C.1.4(7).19]
+  r.: Nova constitutio Fre. secundi
+
+- aut. Presides gentium per unam [p. C.1.4(7).19]
+  r.: Ex titulo de defensoribus ciuitatum collatione tertia
+
+- aut. Liberi furiosi qui curam eius [p. C.1.4(7).28]
+  r.: In aut. ut cum de apel. cognoscitur §. unum de predictis coll. viii
 
 * Codex 02
 * Codex 03
