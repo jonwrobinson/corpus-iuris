@@ -14,106 +14,347 @@ http://daten.digitale-sammlungen.de/~db/0005/bsb00050150/image_1
 
 * Caveat lector:
 
-  The following list is added to incremetally and *not*
-  systematically! An ideal entry, and there are none yet, will list
-  its incipit, where an *authentica* can be found in the *Code*,
-  provide its rubric, and give a cross-reference to its location in
-  the *Authenticum* as well as to the *Novels*.
+  The following list is added to incremetally and *not* systematically
+  (except for books 1 and 2). An ideal entry, and there are none yet,
+  will list its incipit, where an *authentica* can be found in the
+  *Code*, provide its rubric, and give a cross-reference to its
+  location in the *Authenticum* as well as to the *Novels*.
 
 * Abbreviations
 
   aut.  = authentica
   a.    = ante [us. used when there are several authenticae in a row]
-  c.f.  = constitutio Frederici
+  c.f.  = Constitutio Frederici
   p.    = post
-  pr.   = proemium
+  pr.   = prooemium
   r.    = rubrica
   C.    = Collatio
   N.    = Novella
 
-* Tabula authenticarum
+
+* TABULA AUTHENTICARUM
 * Codex 01
-
 ** Cod. 1.2(5)
-- aut. Cassa et irrita [p. C.1.2.12.2]
-  r.: Nova constitutio Fre. impera.
+- aut. Cassa et irrita
+  post C.1.2.12.2
+  r.:  Nova constitutio Fre. impera.
 
-- aut. Ingressi monasteria ipso [p. C.1.2.13]
-  r.: In auten. de monachis. §. illud idem coll. prima.
-- aut. Si qua mulier [p. C.1.2.13]
-  r.: In auten. de sanctissimis episcopis §. si qua col. ix.
+- aut. Ingressi monasteria ipso
+  p. C.1.2.13
+  r.:  In auten. de monachis. §. illud idem coll. prima.
 
-- aut. Hoc ius porrectum est [p. C.1.2.14.10]
-  r.: In auten. de non alienandis, aut. permutan. §. nos igitur. et in auten. de ali. et emphi. §. hoc etiam super ipsis et §. hoc uero iubemus.
+- aut. Si qua mulier
+  post C.1.2.13
+  r.:  In auten. de sanctissimis episcopis §. si qua col. ix.
 
-- aut. Sicut alienatio rerum [p. C.1.2.14.10]
-  r.: In autenticis de non alienandis aut permutandis. §. sicut autem. collatione secunda.
+- aut. Hoc ius porrectum est
+  post C.1.2.14.10
+  r.:  In auten. de non alienandis, aut. permutan. §. nos igitur. et in auten. de ali. et emphi. §. hoc etiam super ipsis et §. hoc uero iubemus.
 
-- aut. Multo magis prohibetur [p. C.1.2.14.10]
-  r.: In autenticis de non alienandis §. quia uero collatione. ii. et in autenticis de alie. et emphi. §. quoniam coll. ix.
+- aut. Sicut alienatio rerum
+  post C.1.2.14.10
+  r.:  In autenticis de non alienandis aut permutandis. §. sicut autem. collatione secunda.
 
-- aut. Quibuscumque mos hoc [p. C.1.2.14.10]
-  r.: In autenticis de alienatione et emphiteosi. §. economus colla. nona.
+- aut. Multo magis prohibetur
+  post C.1.2.14.10
+  r.:  In autenticis de non alienandis §. quia uero collatione. ii. et in autenticis de alie. et emphi. §. quoniam coll. ix.
 
-- aut. Qui res iam dictas non gratuito [p. C.1.2.14.10]
-  r.: Iin autenticis de non alienandis aut permutandis §. quia uero lionis. colla. secunda
+- aut. Quibuscumque mos hoc
+  post C.1.2.14.10
+  r.:  In autenticis de alienatione et emphiteosi. §. economus colla. nona.
 
-- aut. Si quas ruinas habent [p. C.1.2.14.10]
-  r.: In auten. de alie. et emphi. §. quia vero col. ix
+- aut. Qui res iam dictas non gratuito
+  post C.1.2.14.10
+  r.:  Iin autenticis de non alienandis aut permutandis §. quia uero lionis. colla. secunda
 
-- aut. Perpetua quoque emphitheosis [p. C.1.2.14.10]
-  r.: In autenticis de non alienandis §. quia uero. et §. his solis collatione secunda et in autentica de alienan. et emphi. §. hoc quidem collatione nona.
+- aut. Si quas ruinas habent
+  post C.1.2.14.10
+  r.:  In auten. de alie. et emphi. §. quia vero col. ix
 
-- aut. Sed et permutare principi [p. C.1.2.14.10]
-  r.: In auten. de non alienan. aut. per mutan. §. sicut autem collatione ii.
+- aut. Perpetua quoque emphitheosis
+  post C.1.2.14.10
+  r.:  In autenticis de non alienandis §. quia uero. et §. his solis collatione secunda et in autentica de alienan. et emphi. §. hoc quidem collatione nona.
 
-- aut. Item sibi inuicem recte [p. C.1.2.14.10]
-  r.: In auten. constitutio que ex a scripticiis §. quia uero collatione quinta
+- aut. Sed et permutare principi
+  post C.1.2.14.10
+  r.:  In auten. de non alienan. aut. per mutan. §. sicut autem collatione ii.
 
-- aut. Item predium propter onus [p. C.1.2.14.10]
-  r.: In auten. de alie. et emphi. §. et quoniam
+- aut. Item sibi inuicem recte
+  post C.1.2.14.10
+  r.:  In auten. constitutio que ex a scripticiis §. quia uero collatione quinta
 
-- aut. Qui rem huiusmodi conductam [p. C.1.2.14.10]
-  r.: In auten. de alie. et emphi. §. si uero quis aut locator collatione nona.
+- aut. Item predium propter onus
+  post C.1.2.14.10
+  r.:  In auten. de alie. et emphi. §. et quoniam
 
-- aut. Nec usus prestatio [p. C.1.2.14.10]
-  r.: In autentica de alie. et emphit. §. si uero quis uoluerit collatione nona
+- aut. Qui rem huiusmodi conductam
+  post C.1.2.14.10
+  r.:  In auten. de alie. et emphi. §. si uero quis aut locator collatione nona.
 
-- aut. Preterea si habeat ecclesia [p. C.1.2.21.2]
-  r.: In autentica de ali. et emphithe. §. ultimo collatione nona.
+- aut. Nec usus prestatio
+  post C.1.2.14.10
+  r.:  In autentica de alie. et emphit. §. si uero quis uoluerit collatione nona
+
+- aut. Preterea si habeat ecclesia
+  post C.1.2.21.2
+  r.:  In autentica de ali. et emphithe. §. ultimo collatione nona.
+
+- aut. Quas actiones alias
+  post C.1.2.23.5(2)
+  r.:  In auten. de ecclesia ti.t §. pro temporalibus autem coll. ix.
+
+** Cod. 1.3(6)
+
+- aut. Item nulla communitas
+  post C.1.3.2.4
+  r.:  Noua constitutio Frederici imperatoris
+
+- aut. Sed neque curialem aut officialem
+  post C.1.3.4.2
+  r.:  In autentica de sactis. episc. §. sed neque curialem col. ix
+
+- aut. Sed iudex mittat ad eum
+  post C.1.3.7
+  r.:  In auten. de sanctis. epis. §. nulli uero iudicum collatione nona
+
+- aut. Presbyteri seu diaconi si falsum
+  post C.1.3.8.1
+  r.:  In aut. de sanc. epis. § reuerendissimus episcopus coll. ix
+
+- aut. Presbyterum minorem uiguintiquinque
+  post C.1.3.9
+  r.:  In auten. de sanctis. epis. §. presbyterum coll. ix
+
+- aut. Iaconissam in sanctam ecclesiam
+  post C.1.3.9
+  r.:  In auten. de sanc. epis. §. diaconissam uero coll. ix
+
+- aut. Sed nouo iure pro tali iniuria
+  post C.1.3.10.2
+  r.:  In auten. de sanc. epis. §. si quis cum sacra. collatione nona
+
+- aut. Item quecunque communitas uel persona
+  post C.1.3.13
+  r.:  Noua constitutio Frederici
+
+- aut. Interdicimus santissimis episcopis
+  post C.1.3.18.1
+  r.:  In autentica de sanctis. episco. §. interdicimus
+
+- aut. Multo magis ergo cessante
+  post C.1.3.19.1
+  r.:  In auten. de nuptiis §. sed et si quis auten mona. collatione quarta
+
+- aut. Episcopo nullam mulierem secum
+  post C.1.3.19.1
+  r.:  In auten. de sanctis. epis. §. presbyteris cum sequenti collatioe nona
+
+- aut. Nunc autem quum monachus factus
+  post C.1.3.20.1
+  r.:  In auten. de monach. §. illud quo que collatioe quarta
+
+- aut. Nullus episcopus inuitus
+  post C.1.3.22.2
+  r.:  In autentica de sanctis. episcopis §. sed neque pro qualibet colla. ix
+
+- aut. Sed hodie nulla persona
+  post C.1.3.25.3
+  r.:  In auten. de sanctis. epis. §. sportularum collatione nona
+
+- aut. Generaliter aut iudex prouideat libellum
+  post C.1.3.25.3
+  r.:  In auten. de litigiosis §. excludendum coll. viii
+
+- aut. Licet testator uel donator interdixerit
+  post C.1.3.28.5
+  r.:  In auten. de ecclesi. ti. §. si quis aut. pro redemptione col. ix
+
+- aut. Causa que fit cum monacho uel muliere
+  post C.1.3.32(33).8
+  r.:  In aute. apud quos oporteat causas dicere monachos col. vi
+
+- aut. Clericus quoque in lite pecuniaria
+  post C.1.3.32(33).8
+  r.:  In autn. ut clerici apud proprios episcopos conueniantur col. vi
+
+- aut. Statuimus ut nullius ecclesiasticam personam
+  post C.1.3.32(33).8
+  r.:  Noua constitutio Fre. impera.
+
+- aut. Sed dignitas episcopalis soluit
+  post C.1.3.33(34)
+  r.:  In auten. constitutio que de dignitatibus §. palam collatione vi
+
+- aut. Licentiam habeat episcopus
+  post C.1.3.33(34)
+  r.:  In auten. de sanctis. epis. §. interdicimus collatione nona
+
+- aut. Presbyteros diaconos subdiaconos
+  post C.1.3.33(34)
+  r.:  In autentica de san. epis. §. presbyteros aut collatione nona
+
+- aut. Ascriptici os in iis possessionibus
+  post C.1.3.36(37)
+  r.:  In auten. de sanctissimis episcopis §. ascripticios collatione nona
+
+- aut. Si seruus sciente domino
+  post C.1.3.36(37)
+  r.:  In aut. de sanc. epis. §. si serus col. ix
+
+- aut. Episcopalis ordo liberat
+  post C.1.3.37(38)
+  r.:  In aut. de sanc. epis. in §. hoc quidem col. ix
+
+- aut. Uerum et si legitimo probatus
+  post C.1.3.37(38)
+  r.:  In aut. de mo. §. hic aut nobis col. i
+
+- aut. Si captiui alicuius liberi
+  post C.1.3.48(49).8
+  r.:  In auten. ut quum de appellatione cognoscitur §. si unum de predictis collatione octaua
+
+- aut. Presbyteros diaconos uel subdiaconos
+  post C.1.3.51(52).2
+  r.:  In autentica de sanc. epis. §. deo aut amabiles collatione nona
 
 ** Cod. 1.4(7)
 
-- aut. Si quis litigantium intra [p. C.1.4(7).8]
-  r.: In aut. de sanc. eips. §. si quis contra aliquem, col. ix.
+- aut. Si quis litigantium intra
+  post C.1.4(7).8
+  r.:  In aut. de sanc. eips. §. si quis contra aliquem, col. ix.
 
-- aut. Statuimus autem hoc edicto [p. C.1.4(7).19]
-  r.: Nova constitutio Fre. secundi
+- aut. Statuimus autem hoc edicto
+  post C.1.4(7).19
+  r.:  Nova constitutio Fre. secundi
 
-- aut. Presides gentium per unam [p. C.1.4(7).19]
-  r.: Ex titulo de defensoribus ciuitatum collatione tertia
+- aut. Presides gentium per unam
+  post C.1.4(7).19
+  r.:  Ex titulo de defensoribus ciuitatum collatione tertia
 
-- aut. Liberi furiosi qui curam eius [p. C.1.4(7).28]
-  r.: In aut. ut cum de apel. cognoscitur §. unum de predictis coll. viii
+- aut. Liberi furiosi qui curam eius
+  post C.1.4(7).28
+  r.:  In aut. ut cum de apel. cognoscitur §. unum de predictis coll. viii
+
+** Cod. 1.5(8)
+
+- aut. Item priuilegium dotis quo
+  post C.1.5.1
+  r.:  In auten. de priuilegio dotis here. ma. coll viii
+
+- aut. Si uero dominus temporalis
+  post C.1.5.4
+  r.:  Noua constitutio Frederici
+
+- aut. Credentes preterea receptatores
+  post C.1.5.4
+  r.:  Noua constitutio Frederici impera.
+
+- aut. Idem est de Nestorianis
+  post C.1.5.19.4
+  r.:  In aut. ut quum de appel. cogno. §. generalem col. viii
+
+- aut. [L?]azaros paterenos Leonistas
+  post C.1.5.19.4
+  r.:  Noua constitutio Frederici
+
+** Cod. 1.6(9) -- 1.18(21) -- None
+** Cod. 1.19(22)
+
+- aut. Que supplicatio gloriosissimis prefectis
+  post C.1.19.5
+  r.:  In auten. ut sponsalitia largitas §. aliud colla. ix
+
+** Cod. 1.20(23) -- 1.47(48) -- None
+** Cod. 1.48(49)
+
+- aut. Sed hodie nouo iure pro fiscalibus
+  post C.1.48.1
+  r.:  In auten. ut nulli iudicum §. ne cessarium col. uiii
+
+** Cod. 1.49(50)
+
+- Si uero ante quam compleantur
+  post C.1.49.8(4)
+  r.:  In auten. ut iudi sine quoquo suffragio §. necessitate col. ii
 
 * Codex 02
+** Cod. 2.1
+- aut. Si quis in aliquo documento
+  post C.2.1.7
+  r.:  In auten. ut sponsa. largi. §. et hoc in super col. ix
+
+** Cod. 2.2 -- 2.11(12) -- None
+** Cod. 2.12(13)
+
+- aut. Quod ius stabit usque
+  post C.2.12.25
+  r.:  In auten. ut ab illustribus et qui supra eos et cetera §. i
+
+** Cod. 2.13(14) -- 2.26(27) -- None
+** Cod. 2.27(28)
+
+- aut. Sacramenta puberum sponte facta
+  post C.2.27.1
+  r.:  Noua constitutio Frederici
+
+** Cod. 2.28(29) -- 2.38(39) -- None
+** Cod. 2.38(39)
+
+- aut. Si omnes creditores presentes
+  post C.2.38.1
+  r.:  In auten. ut spon. lar. §. ad hec quoque
+
+** Cod. 2.39(40) -- 2.51(52) -- None
+** Cod. 2.52(53)
+
+- aut. Si minor de dote cauta non numerata
+  post C.2.52.5.3
+  r.:  In autentica de temporibus non solute pecunie super dote §. generaliter collatione vii
+
+** Cod. 2.53(54) -- 2.54(55) -- None
+** Cod. 2.55(56)
+
+- aut. Decernimus nullum sic arbitrium
+  post C.2.55.4.5
+  r.:  In autentico de iudicibus §. quia vero multe coll. vi
+
+** Cod. 2.56(57) -- 2.57(58) -- None
+** Cod. 2.58(59)
+
+- aut. Hoc sacramentum hodie remittitur
+  post C.2.58.1.1
+  r.:  In auten. de iis qui ingre. ad appel. in fine coll. v
+
+- aut. In isto iuramento adiiciendum
+  post C.2.58.2 pr.
+  r.:  In auten. de iis qui ingre. ad appel. in fi. coll. quinta
+
+- aut. Principales persone ut ille
+  post C.2.58.2 pr.
+  r.:  In auten. litigantes iurent. §. i. coll. octaua
+
 * Codex 03
 * Codex 04
 * Codex 05
 
-- aut. Incestas nuptias [p. C.5.5.7 pr.]
-  r.: In. aut. de inces. nupt. C. iii
+- aut. Incestas nuptias
+  post C.5.5.7 pr.
+  r.:  In. aut. de inces. nupt. C. iii
 
-- aut. Ex complexu [a. C.5.5.7 pr.]
-  r.: In aut. quibus modis naturales effi. sui. §. fi. C. vii.
+- aut. Ex complexu [a. C.5.5.7 pr.
+  r.:  In aut. quibus modis naturales effi. sui. §. fi. C. vii.
 
 
-- aut. Matrius et auien secundum ordinem [p. C.5.35.2.4]
-  r.: In aut. de heredi. ab intesta. §. ex his coll. nona.
-- aut. Sacramentum [p. C.5.35.2.4]
-  r.: In aut. ut ma. de. et cred. §. fi.
-- aut. Ad hec et si debitum [a. C.5.35.3 pr.]
-  r.: In aut. ma. debi. et credi. §. fi.
+- aut. Matrius et auien secundum ordinem
+  post C.5.35.2.4
+  r.:  In aut. de heredi. ab intesta. §. ex his coll. nona.
+
+- aut. Sacramentum
+  post C.5.35.2.4
+  r.:  In aut. ut ma. de. et cred. §. fi.
+
+- aut. Ad hec et si debitum [a. C.5.35.3 pr.
+  r.:  In aut. ma. debi. et credi. §. fi.
 
 * Codex 06
 * Codex 07
