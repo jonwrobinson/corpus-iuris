@@ -446,7 +446,6 @@ sufficient to establish anyone's birthplace.
 perform the duties of magistrates under compulsion should give adequate
 security, just as one who voluntarily accepted the office.
 
-
 * 50.II. CONCERNING DECURIONS AND THEIR SONS.
 
 1. Ulpianus, Opinions, Book II.
@@ -633,7 +632,6 @@ should not be subjected to torture. Wherefore, when anyone ceases to be a
 decurion, and afterwards is convicted, it is decided that he must not be
 tortured, on account of the memory of his former dignity.
 
-
 * 50.III. CONCERNING THE REGISTER OF DECURIONS.
 
 1. Ulpianus, On the Duties of Proconsul, Book III.
@@ -653,7 +651,6 @@ stated should be observed in registering their names.
 The names of the recipients of honors at the hands of the Emperor should first
 be entered upon the register of the decurions in a city; and afterwards the
 names of those who only have discharged the duties of municipal offices.
-
 
 * 50.IV. CONCERNING PUBLIC EMPLOYMENTS AND HONORS.
 
@@ -1028,7 +1025,6 @@ exemption from furnishing lodgings was granted by the Emperor to teachers who
 were not liable to civil employment, as well as to grammarians, instructors in
 rhetoric, and philosophers.
 
-
 * 50.V. CONCERNING EXEMPTION AND EXCUSES FROM EMPLOYMENTS.
 
 1. Ulpianus, Opinions, Book II.
@@ -1202,7 +1198,6 @@ employment, unless he was killed in battle.
 (1) The same person shall not supervise the construction of two public works at
 the same time.
 
-
 * 50.VI. ON THE RIGHT OF IMMUNITY.
 
 1. Ulpianus, Opinions, Book HI.
@@ -1346,7 +1341,6 @@ also such as are charged with the distribution of supplies to the army, aids of
 military tribunes, couriers, the guards of arms, common criers, and trumpeters.
 All these persons are considered to be exempt from public office.
 
-
 * 50.VII. CONCERNING EMBASSIES.
 
 1. Ulpianus, On Massurius Sabinus, Book Vill.
@@ -1484,7 +1478,6 @@ This question was thoroughly discussed in the case of Hostilius Mancinus, whom
 the Numantians would not receive when he was surrendered to them; and, on this
 account, a law was subsequently enacted to enable him to remain a Roman
 citizen, and he is said to have even held the office of Praetor.
-
 
 * 50.VIII. CONCERNING THE ADMINISTRATION OF PROPERTY BELONGING TO CITIES.
 
@@ -1655,7 +1648,6 @@ afterwards, had retained any of the public money in his possession, would be
 obliged to refund it with the interest, unless he could allege some good reason
 for not doing so.
 
-
 * 50.IX. CONCERNING DECREES WHICH SHOULD BE RENDERED BY THE ORDER OF DECURIONS.
 
 1. Ulpianus, Opinions, Book HI.
@@ -1692,7 +1684,6 @@ shall pay a thousand drachmas."
 The question arose whether he should be subjected to the penalty if he was
 ignorant that he had violated the law. The answer was that penalties of this
 kind were only intended for those who knew that they were acting illegally.
-
 
 * 50.X. CONCERNING PUBLIC WORKS.
 
@@ -1775,7 +1766,6 @@ embellishment of a work already constructed with the public funds, it is
 provided by the same Imperial Mandates that they can have their names inscribed
 upon the work and state the amount of money which they had contributed to it.
 
-
 * 50.XI CONCERNING MARKETS.
 1. Modestinus, Rules, Book III.
 Where permission to hold a market has been obtained from the Emperor, and the
@@ -1799,7 +1789,6 @@ desires to exchange wares with him, will it be necessary for him to remain
 sitting in his place in the market until he disposes of his commodities? By no
 means, for there are those who, seeing this, may offer their services for the
 disposal of the merchandise."
-
 
 * 50.XII. CONCERNING PROMISES.
 1. Ulpianus, On the Duties of the Chief Magistrate of a City.
@@ -1972,7 +1961,6 @@ This was decided by the Divine Antoninus.
 15. Ulpianus, On the Duties of the Chief Magistrate of a City.
 The Divine Pius stated in a Rescript that a grandson by a daughter of the
 testator was also included among his children.
-
 
 * 50.XIII. CONCERNING EXTRAORDINARY JUDICIAL INQUIRIES, AND WHERE A JUDGE IS ALLEGED TO HAVE RENDERED A CASE HIS OWN.
 
@@ -2170,7 +2158,6 @@ have occurred through ignorance, he is considered to be liable to an action in
 faetum,as having committed an unlawful act, and he must submit to any penalty
 which may appear just to the court having jurisdiction of the case.
 
-
 * 50.XIV. CONCERNING BROKERS.
 
 1. Ulpianus, On Sabinus, Book XLH.
@@ -2200,7 +2187,6 @@ anything else of this kind. For such occupations are pursued by certain men in
 large cities. The term "broker" applies to those who give their services and
 make themselves useful by negotiating purchases, sales, commercial matters, and
 lawful contracts in a way which is not objectionable.
-
 
 * 50.XV. CONCERNING TAXES.
 
@@ -2347,7 +2333,6 @@ privileges.
 (10) In Pisidia, the colony of Antioch enjoys the same rights.
 (11) In Africa, Carthage, Utica, and Leptis-Magna were granted the privileges
 of the cities of Italy by the Divine Severus and Antoninus.
-
 
 * 50.XVI. CONCERNING THE SIGNIFICATION OF TERMS.
 
@@ -4064,7 +4049,6 @@ of this kind can, under any circumstances, properly be said to be present.
 itself, but also to every right and condition attaching to it; hence complete
 restitution is meant by the law.
 
-
 * 50.XVII. CONCERNING DIFFERENT RULES OF ANCIENT LAW.
 
 1. Paulus, On Plautius, Book XVI.
@@ -4889,37 +4873,49 @@ proceeding.
 199. The Same, Epistles, Book VI.
 He cannot be considered to be free from fraud who refuses to obey the order of
 a magistrate.
+
 200. The Same, Epistles, Book VII.
 Whenever a decision cannot be rendered without causing injury, that course
 should be adopted which is productive of the least injustice.
+
 201. The Same, Epistles, Book X.
 Every provision contained in a will is not considered to have any effect,
 unless it was valid at the time it was made.
+
 202. The Same, Epistles, Book XL
 Every definition in the Civil Law is subject to modification, for a slight
 discrepancy may render it inapplicable.
+
 203. Pomponius, On Quintus Mucius, Book Vill.He who sustains any damage through
 his own fault is not considered to have been injured.
+
 204. The Same, On Quintus Mucius, Book XXVIII.It is less advantageous to have a
 right of action than to have the property which is the subject of it.
+
 205. The Same, On Quintus Mucius, Book XXXIX.
 It frequently happens that property of which we can, under certain
 circumstances, be deprived, is in such a condition as to be incapable of being
 taken from us. Hence, if we have become liable to the Treasury by encumbering a
 tract of land, we can sometimes bring an action to recover it, alienate it, and
 impose a servitude upon it.
+
 206. The Same, On Various Passages, Book IX.
 It is but just, and in accordance with the Law of Nations that no one, by the
 commission of an injury, can be enriched at the expense of another.
+
 207. Ulpianus, On the Lex Julia et Papia, Book I.
 Where a matter has been decided, it is considered as true.
+
 208. Paulus, On the Lex Julia et Papia, Book XIII.
 No one can be considered to have lost something which he never had.
+
 209. Ulpianus, On the Lex Julia et Papia, Book IV.We, to a certain extent,
 compare slavery with death.
+
 210. Licinius Rufinus, Rules, Book II.
 When the appointment of an heir is void from the beginning it cannot be
 rendered valid by lapse of time.
+
 211. Paulus, On the Edict, Book LXIX.
 A slave cannot be absent on business for the State.
 

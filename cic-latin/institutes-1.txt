@@ -55,7 +55,6 @@ pertinet. dicendum est igitur de iure privato, quod tripertitum est;
 collectum est enim ex naturalibus praeceptis aut gentium aut
 civilibus.
 
-
 * 1.II. De iure naturali, gentium et civili.
 
 1.2 pr.  Ius naturale est quod natura omnia animalia docuit. nam ius
@@ -107,12 +106,10 @@ senatoribus: plebis autem appellatione sine patriciis et senatoribus
 ceteri cives significantur. sed et plebiscita, lege Hortensia lata,
 non minus valere quam leges coeperunt.
 
-
 1.2.5.  Senatusconsultum est quod senatus iubet atque constituit. nam
 cum auctus est populus Romanus in eum modum ut difficile sit in unum
 eum convocari legis sanciendae causa, aequum visum est senatum vice
 populi consuli.
-
 
 1.2.6.  Sed et quod principi placuit legis habet vigorem, cum lege
 regia, quae de imperio eius lata est, populus ei et in eum omne suum
@@ -125,13 +122,11 @@ poenam irrogavit, vel si cui sine exemplo subvenit, personam non
 egreditur. aliae autem, cum generales sunt, omnes procul dubio
 tenent.
 
-
 1.2.7.  Praetorum quoque edicta non modicam iuris optinent
 auctoritatem. haec etiam ius honorarium solemus appellare, quod qui
 honorem gerunt, id est magistratus, auctoritatem huic iuri
 dederunt. proponebant et aediles curules edictum de quibusdam casibus,
 quod edictum iuris honorarii portio est.
-
 
 1.2.8.  Responsa prudentium sunt sententiae et opiniones eorum quibus
 permissum erat iura condere. nam antiquitus institutum erat ut essent
@@ -159,7 +154,6 @@ postea lege lata.
 1.2.12.  Omne autem ius quo utimur vel ad personas pertinet vel ad res
 vel ad actiones. ac prius de personis videamus. nam parum est ius
 nosse, si personae, quarum causa statutum est, ignorentur.
-
 
 * 1.III. De iure personarum.
 
