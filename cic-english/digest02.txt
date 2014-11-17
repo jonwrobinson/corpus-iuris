@@ -1,7 +1,6 @@
 # -*- mode: org -*-
 
 * BOOK II.
-
 * 2.I. CONCERNING JURISDICTION.
 
 1. Ulpianus, Rules, Book I.

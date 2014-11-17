@@ -156,16 +156,9 @@ Per traditionem quoque iure naturali res nobis adquiruntur: nihil enim tam conve
 
 * 2.II. DE REBUS INCORPORALIBUS.
 
-Quaedam praeterea res corporales sunt, quaedam incorporales. %
-1. Corporales eae sunt quae sui natura tangi possunt: veluti fundus,
-homo, vestis, aurum, argentum et denique aliae res innumerabiles. %
-2. Incorporales autem sunt quae tangi non possunt. qualia sunt ea quae
-in iure consistunt: sicut hereditas, ususfructus, obligationes quoquo
-modo contractae. nec ad rem pertinet quod in hereditate res corporales
-continentur: nam et fructus qui ex fundo percipiuntur corporales sunt,
-et id quod ex aliqua obligatione nobis debetur plerumque corporale
-est, veluti fundus, homo, pecunia: nam ipsum ius hereditatis et ipsum
-ius utendifruendi et ipsum ius obligationis incorporale est. %
+Quaedam praeterea res corporales sunt, quaedam incorporales.
+1. Corporales eae sunt quae sui natura tangi possunt: veluti fundus, homo, vestis, aurum, argentum et denique aliae res innumerabiles.
+2. Incorporales autem sunt quae tangi non possunt. qualia sunt ea quae in iure consistunt: sicut hereditas, ususfructus, obligationes quoquo modo contractae. nec ad rem pertinet quod in hereditate res corporales continentur: nam et fructus qui ex fundo percipiuntur corporales sunt, et id quod ex aliqua obligatione nobis debetur plerumque corporale est, veluti fundus, homo, pecunia: nam ipsum ius hereditatis et ipsum ius utendifruendi et ipsum ius obligationis incorporale est.
 3. Eodem numero sunt iura praediorum urbanorum et rusticorum, quae et
 servitutes vocantur.
 
@@ -180,7 +173,6 @@ Rusticorum praediorum iura sunt haec: iter, actus, via, aquae ductus. iter est i
 3.  Ideo autem hae servitutes praediorum appellantur, quoniam sine praediis constitui non possunt. nemo enim potest servitutem adquirere urbani vel rustici praedii, nisi qui habet praedium, nec quisquam debere, nisi qui habet praediam.
 
 4.  Si quis velit vicino aliquod ius constituere, pactionibus atque stipulationibus id efficere debet. potest etiam in testamento quis heredem suum damnare, ne altius aedes tollat, ne luminibus aedium vicini officiat: vel ut patiatur eum tignum in parietem immittere vel stillicidium habere: vel ut patiatur eum per fundum ire, agere aquamve ex eo ducere.
-
 
 
 * 2.IV. DE USUFRUCTU.
@@ -213,7 +205,6 @@ Iisdem istis modis quibus ususfructus constituitur etiam nudus usus constitui so
 5.  Sed si cui habitatio legata sive aliquo modo constituta sit, neque usus videtur neque ususfructus, sed quasi proprium aliquod ius. quam habitationem habentibus, propter rerum utilitatem secundum Marcelli sententiam, nostra decisione promulgata permisimus non solum in ea degere sed etiam aliis locare.
 
 6.  Haec de servitutibus et usufructu et usu et habitatione dixisse sufficiat. de hereditate autem et de obligationibus suis locis proponemus. euimus summatim, quibus modis iure gentium res adquiruntur: modo videamus, quibus modis legitimo et civili iure adquiruntur.
-
 
 
 * 2.VI. DE USUCAPIONIBUS ET LONGI TEMPORIS POSSESSIONIBUS.
@@ -339,7 +330,6 @@ de hereditatibus dispiciamus. quarum duplex condicio est: nam vel ex
 testamento vel ab intestato ad vos pertinent. et prius est ut de his
 dispiciamus quae vobis ex testamento obveniunt. qua in re necessarium
 est, initio de ordinandis testamentis exponere.
-
 
 
 * 2.X. DE TESTAMENTIS ORDINANDIS.

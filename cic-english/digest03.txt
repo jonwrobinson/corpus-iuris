@@ -1,11 +1,7 @@
 # -*- mode: org -*-
 
-                                      VI.
-             THE ENACTMENTS OF JUSTINIAN. THE DIGEST OR PANDECTS.
-                                  (Continued)
-                                   BOOK III.
-                                   TITLE I.
-               CONCERNING THE RIGHT OF APPLICATION TO THE COURT.
+* BOOK III
+* III.1. CONCERNING THE RIGHT OF APPLICATION TO THE COURT.
 
 1. Ulpianus, On the Edict, Book VI.
 The praetor has proposed this Title for the purpose of preserving order, and
@@ -33,17 +29,17 @@ the decree, he could be punished, as being contumacious, if he did not obey.
 Not only is the praetor accustomed to show this favor to such persons, but also
 he will do so where anyone is not able to obtain an advocate for certain
 reasons; as for instance, because of the intrigues of his adversaries, or
-through fear.
+through fear.[1]
 
-FOOTNOTE-1.
- The postulatio was the first step in criminal procedure which ended in the
-formal and written accusation of a crime. There might be any number of accusers
-who appeared before the praetor either separately or concurrently, but only the
-first or principal one was permitted to actively conduct the prosecution. The
-subsequent accusers were designated subscriptores. The postulatio  ---  which set
-forth the charge and the names of the parties  ---  as soon as it was committed to
-writing, was placed conspicuously in the Forum. (Cicero, In Caecil, Divin, 15.)
- ---  ED.
+[FOOTNOTE-1]: The postulatio was the first step in criminal procedure
+which ended in the formal and written accusation of a crime. There
+might be any number of accusers who appeared before the praetor either
+separately or concurrently, but only the first or principal one was
+permitted to actively conduct the prosecution. The subsequent accusers
+were designated subscriptores. The postulatio --- which set forth the
+charge and the names of the parties --- as soon as it was committed to
+writing, was placed conspicuously in the Forum. (Cicero, In Caecil,
+Divin, 15.)  --- ED.
 
 (5) Under the second section of the Edict those are referred to who cannot
 appear for others, and in this portion of it the praetor includes such as are
@@ -205,7 +201,7 @@ proceedings against the father of his ward.
 following Title.
 
 
-TITLE II. CONCERNING THOSE WHO ARE BRANDED WITH INFAMY.
+* III.2. CONCERNING THOSE WHO ARE BRANDED WITH INFAMY.
 
 1. Julianus, On the Edict, Book I.
 The words of the praetor are as follows: "He who is discharged from the army for
@@ -515,7 +511,7 @@ not pass to her son.
 body may not be found.
 
 
-TITLE III. CONCERNING AGENTS AND DEFENDERS.
+* 3.III. CONCERNING AGENTS AND DEFENDERS.
 
 1. Ulpianus, On the Edict, Book IX.
 An agent is one who transacts the business of another by the direction of his
@@ -1271,8 +1267,7 @@ for only one, he will not be barred by an exception, and has brought the case
 into court properly.
 
 
-TITLE IV.
-How PROCEEDINGS ARE INSTITUTED FOR, OR AGAINST CORPORATIONS.
+* 3.IV. HOW PROCEEDINGS ARE INSTITUTED FOR, OR AGAINST CORPORATIONS.
 
 1. Gaius, On the Provincial Edict, Book HI.
 All persons are not permitted indiscriminately to form corporations,
@@ -1386,8 +1381,9 @@ municipality, still, if it is given to the syndic, the party who has charge of
 the business of the municipality will have an equitable right of action.
 
 
-TITLE V. CONCERNING THE TRANSACTION OF THE BUSINESS OF OTHERS.
-. 1. Ulpianus, On the Edict, Book X.
+* 3.V. CONCERNING THE TRANSACTION OF THE BUSINESS OF OTHERS.
+
+1. Ulpianus, On the Edict, Book X.
 The following edict is a necessary one, since it is of great advantage to
 parties who are absent not to be exposed to the loss of possession of their
 property, or the sale of the same; or the alienation of a pledge; or an action
@@ -2223,7 +2219,8 @@ had been bequeathed to you (since the payment of the legacy in this instance
 would release me).
 
 
-TITLE VI. CONCERNING PERSONS WHO BRING VEXATIOUS ACTIONS.
+* 3.VI. CONCERNING PERSONS WHO BRING VEXATIOUS ACTIONS.
+
 1. Ulpianus, On the Edict, Book X.
 "Where anyone is said to have received money for the purpose of causing
 annoyance, or to abstain from doing so, a right of action in factum will lie
