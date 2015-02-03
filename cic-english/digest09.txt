@@ -1,17 +1,14 @@
 # -*- mode: org -*-
 
 
-THE DIGEST OR PANDECTS. BOOK IX.
-
-
-BOOK IX.
+* BOOK IX.
 TITLE I.   CONCERNING THE COMMISSION OF DAMAGE BY A QUADRUPED.
 TITLE II.  ON THE LEX AQUILIA.
 TITLE III. CONCERNING THOSE WHO POUR ANYTHING OUT OK THROW ANYTHING DOWN
 TITLE IV.  CONCERNING NOXAL ACTIONS
 
 
-TITLE I. CONCERNING THE COMMISSION OF DAMAGE BY A QUADRUPED.
+* TITLE I. CONCERNING THE COMMISSION OF DAMAGE BY A QUADRUPED.
 
 1. *Ulpianus, On the Edict, Book XVIII*.
 
@@ -148,7 +145,7 @@ opinion was requested whether suit could be brought against the owner of
 the mule, on the ground that it had caused the injury, and I answered
 that it could.
 
-TITLE II. ON THE LEX AQUILIA.
+* TITLE II. ON THE LEX AQUILIA.
 
 1. *Ulpianus, On the Edict, Book XVIII*.
 
@@ -1529,11 +1526,11 @@ the accident took place through the negligence of the rider he can be
 sued, but suit cannot be brought against the owners of the horse; and I
 think this is correct.
 
-TITLE III.
+* TITLE III.
 
 CONCERNING THOSE WHO POUR ANYTHING OUT OR THROW ANYTHING DOWN.
 
-\1. *Ulpianus, On the Edict, Book XXIII.*
+1. *Ulpianus, On the Edict, Book XXIII.*
 
 The prætor says with reference to those who throw down or pour out
 anything: Where anything is thrown down or poured out from anywhere upon
@@ -1548,11 +1545,11 @@ directed to pay. If it is alleged that a slave committed the act without
 the knowledge of his master, I will add to the petition in the case the
 words, "Or surrender the slave by way of reparation".
 
-\(1) No one will deny that this Edict of the Prætor is of the greatest
+(1) No one will deny that this Edict of the Prætor is of the greatest
 advantage, as it is for the public welfare that persons should come and
 go over the roads without fear or danger.
 
-\(2) It makes, however, very little difference whether the place is
+(2) It makes, however, very little difference whether the place is
 public or private, so long as persons ordinarily pass there; because the
 Prætor had in view persons who were going their way, and particular
 attention was not paid to highways; for those places through which
@@ -1562,12 +1559,12 @@ is then thrown down or poured out while the place was enclosed, but only
 after that it began to be used for travel; the party will not be liable
 under this Edict.
 
-\(3) Where something falls down while being hung up, the better opinion
+(3) Where something falls down while being hung up, the better opinion
 is that it should be held to have been thrown down; hence, where
 something is poured out of a vessel which is suspended, even without the
 agency of anyone, it must be said that the Edict is applicable.
 
-\(4) This action *in factum* is granted against the party who lodged in
+(4) This action *in factum* is granted against the party who lodged in
 the house at the time when something was thrown down or poured out, and
 not against the owner of the house, because the blame attaches to the
 former. Mention of negligence or that the defendant
@@ -1576,24 +1573,24 @@ denies the fact is not made, in order to authorize an action for double
 damages, although both of these matters are stated to afford good ground
 for an action for wrongful damage.
 
-\(5) Where a freeman is killed, the assessment of damages is not made
+(5) Where a freeman is killed, the assessment of damages is not made
 for double the amount, because in the case of a freeman no valuation of
 his person is possible, but the judgment will be for the sum of fifty
 *aurei.*
 
-\(6) There words "If he is living and it is said that he is injured,"
+(6) There words "If he is living and it is said that he is injured,"
 have no reference to the damage which has been committed against the
 property of a freeman; as, for instance, if his clothing or anything
 else should be torn or spoiled, but only to those injuries inflicted
 upon his body.
 
-\(7) Where the son of a family has rented an upper chamber and something
+(7) Where the son of a family has rented an upper chamber and something
 is thrown down or poured out from it, an action *De peculio* is not
 granted against his father, because no claim arising from contract
 exists, and therefore the action must be brought against the son
 himself.
 
-\(8) Where a slave occupies the house, will a noxal action be granted,
+(8) Where a slave occupies the house, will a noxal action be granted,
 since one does not lie on the ground of business transacted: or can one
 *De peculio* be brought because no claim can be made on account of an
 offence of the slave? We cannot properly say that the damage was
@@ -1601,7 +1598,7 @@ committed by the slave, since the latter committed no injury. I think,
 however, that the slave should not be unpunished, but that he should be
 corrected under the extraordinary authority of the judge.
 
-\(9) We say that a party occupies a house whether he resides in his own
+(9) We say that a party occupies a house whether he resides in his own
 or one which is leased to him, or which he obtains gratuitously. It is
 evident that a guest will not be liable, because he does not live there,
 but is only entertained, but the party is liable who entertains him; and
@@ -1609,20 +1606,20 @@ there is as much difference between him who lives in a house and a
 guest, as there is between one who has a domicile and the traveller who
 has none.
 
-\(10) Where several persons occupy the same room and something is thrown
+(10) Where several persons occupy the same room and something is thrown
 down from it, this action will be granted against any one of them;
 
-\2. *Gaius, On the Provincial Edict, Book VI.*
+2. *Gaius, On the Provincial Edict, Book VI.*
 
 (Since it is absolutely impossible to know which of them threw it down
 or poured it out) :
 
-\3. *Ulpianus, On the Edict, Book XXIII.*
+3. *Ulpianus, On the Edict, Book XXIII.*
 
 And suit can be brought for the entire amount, but where it is brought
 against one of the parties the others will be discharged:
 
-\4. *Paulus, On the Edict, Book XIX.*
+4. *Paulus, On the Edict, Book XIX.*
 
 If the money has not been received on joinder of issue, the others will
 be compelled by a partnership or by an equitable action to pay their
@@ -1633,13 +1630,13 @@ America, for where one party alone pays the entire sum for which several
 are jointly liable, he can recover from the others the amounts of their
 respective shares.  ED.
 
-\5. *Ulpianus, On the Edict, Book XXIII.*
+5. *Ulpianus, On the Edict, Book XXIII.*
 
 Where several persons occupy an apartment divided up among themselves,
 an action will be granted against him alone who occupied that part from
 which the pouring out was done.
 
-\(1) Where anyone gives gratuitous lodgings to his freedman and his
+(1) Where anyone gives gratuitous lodgings to his freedman and his
 clients or to those of his wife, Trebatius says that he is liable on
 their account; and this is correct. The rule is the same where a man
 distributes small lodgings among his friends, for if anyone rents
@@ -1649,20 +1646,20 @@ only a small part, leasing the remainder to several persons, they will
 all be liable as occupying the lodging from which the throwing down or
 pouring out took place.
 
-\(2) Sometimes, however, when no disadvantage results to the plaintiff,
+(2) Sometimes, however, when no disadvantage results to the plaintiff,
 the Prætor, influenced by equitable motives, ought rather to grant an
 action against the party from whose bedroom or entry the object was
 thrown down, even though several persons occupy the same lodging; but if
 anything should be thrown down from the middle of the apartment, the
 better opinion is that all are liable.
 
-\(3) Where the keeper of a warehouse throws down or pours out anything,
+(3) Where the keeper of a warehouse throws down or pours out anything,
 or some one who has leased a storeroom, or has rented the place merely
 for the performance of some labor or for purposes of giving instruction
 does so, an action *in factum* will lie; even if one of the workmen or
 scholars threw it down or poured it out.
 
-\(4) Where, however, a party has judgment rendered against him under the
+(4) Where, however, a party has judgment rendered against him under the
 *Lex Aquilia* (because his guest, or anyone else, threw something down
 from the apartment) it is reasonable, as Labeo says that an action *in
 factum *should be granted against the party who did the throwing, and
@@ -1670,7 +1667,7 @@ this is true. It is evident, if he had leased the room to the party who
 threw it down, that he will also be entitled to an action on the ground
 of contract.
 
-\(5) This action which can be brought for things which are poured out
+(5) This action which can be brought for things which are poured out
 and thrown down is a perpetual one, and is available by an heir but is
 not granted against an heir; but the one which will lie where a freeman
 is said to have been killed, can only be brought within a year, and is
@@ -1688,7 +1685,7 @@ injury is inflicted upon the freeman, no claim can be transmitted by
 hereditary right to his successors, as no pecuniary loss is involved,
 for the action is based on justice and equity.
 
-\(6) The Prætor says, "No one shall have anything deposited upon a
+(6) The Prætor says, "No one shall have anything deposited upon a
 projecting roof above a place which is ordinarily used as a pas-
 
 sage-way or where people are accustomed to stand; if it can injure
@@ -1698,28 +1695,28 @@ have done this without the knowledge of his master, I will order this
 amount to be paid, or the said slave to be surrendered by way of
 reparation."
 
-\(7) This provision is a part of the Edict previously referred to; for
+(7) This provision is a part of the Edict previously referred to; for
 it was only consistent that the Prætor should provide for this case as
 well, so that if anything should be placed on any part of the house
 which would be dangerous, it might not cause any injury.
 
-\(8) The Prætor says, "No one," "on a projecting roof." These words "No
+(8) The Prætor says, "No one," "on a projecting roof." These words "No
 one" have reference to all persons, whether they occupy the house as
 lodgers or as owners and whether they live there or not, so long as they
 have anything exposed in these places.
 
-\(9) "Who have anything deposited above a spot which is ordinarily used
+(9) "Who have anything deposited above a spot which is ordinarily used
 as a passage-way or where people are accustomed to stand." We must
 understand the term "deposited" to be applicable to a lodging or
 apartment, or to a ware-house or any other building.
 
-\(10) A person may properly be held to have something "deposited," even
+(10) A person may properly be held to have something "deposited," even
 if he did not place it himself but allowed this to be done by someone
 else, and therefore if a slave should place it, and the owner allow it
 to remain in that position, he will be held liable not to a noxal
 action, but on his own account.
 
-\(11) The Prætor says, "If it can injure anyone by its fall." It is
+(11) The Prætor says, "If it can injure anyone by its fall." It is
 manifest from these words that the prætor only provides against injury
 being done, not by everything which may be placed in such a position,
 but by whatever is placed so that it may possibly cause injury, for we
@@ -1728,7 +1725,7 @@ injury can result at all; and the party who kept the object in its
 position is punished whether it caused any damage by being placed there
 or not.
 
-\(12) Where the object that was placed falls down and causes damage, an
+(12) Where the object that was placed falls down and causes damage, an
 action will lie against the party who put it there, but not against the
 occupant of the house, as this action is not sufficient, because the
 party who placed the object cannot certainly be held to have kept it in
@@ -1743,28 +1740,28 @@ He stated that the same rule should be observed where a jar which was
 suspended in a net had fallen down and caused damage; for the reason
 that both a legal and an equitable action was wanting.
 
-\(13) This action is open to everyone, and lies in favor of an heir and
+(13) This action is open to everyone, and lies in favor of an heir and
 his successors, but it does not lie against heirs, because it is a penal
 one.
 
-\6. *Paulus, On the Edict, Book XIX.*
+6. *Paulus, On the Edict, Book XIX.*
 
 This Edict is not limited to cities and villages, but also has reference
 to all roads along which persons ordinarily pass.
 
-\(1) Labeo says that this Edict only applies where an object is thrown
+(1) Labeo says that this Edict only applies where an object is thrown
 down in the daytime, and not at night; still, in certain places
 
 people also pass at night.
 
-\(2) A person who occupies the premises is also responsible for the
+(2) A person who occupies the premises is also responsible for the
 
 negligence of his family.
 
-\(3) Where anything is thrown out of a ship, an equitable action will be
+(3) Where anything is thrown out of a ship, an equitable action will be
 granted against the party in charge of the ship.
 
-\7. *Gaius, On the Provincial Edict, Book VI.*
+7. *Gaius, On the Provincial Edict, Book VI.*
 
 Where the body of a freeman has been injured by something which has been
 thrown down or poured out, the judge must take into consideration the
@@ -1774,9 +1771,9 @@ lost, or is liable to lose on account of having been disabled; but no
 estimate will be made of scars or of any other disfigurement, because
 the body of a freeman does not admit of appraisement.
 
-TITLE IV. CONCERNING NOXAL ACTIONS.
+* TITLE IV. CONCERNING NOXAL ACTIONS.
 
-\1. *Gaius, On the Provincial Edict, Book II.*
+1. *Gaius, On the Provincial Edict, Book II.*
 
 Those actions are called noxal which are brought against us, not with
 reference to any contract, but as the result of some injury or
@@ -1785,7 +1782,7 @@ actions is that, if judgment is rendered against us, we can avoid the
 payment of damages by the surrender of the body of him who committed the
 offence.
 
-\2. *Ulpianus, On the Edict, Book XVIII.*
+2. *Ulpianus, On the Edict, Book XVIII.*
 
 Where a slave kills anyone with the knowledge of his owner, he renders
 the latter liable for the full amount of damages, for it is held that
@@ -1794,7 +1791,7 @@ without the owner's knowledge, a noxal action will lie, as the owner
 should not be held liable, on account of the offence of the slave, for
 any more than to surrender him by way of reparation.
 
-\(1) Where he did nothing to prevent the crime, whether he remains the
+(1) Where he did nothing to prevent the crime, whether he remains the
 owner or ceases to be such, he will be liable to this action; for it is
 sufficient if he was the owner at the time when he did not prevent the
 act; and to such an extent is this the case, that Celsus thinks if the
@@ -1823,14 +1820,14 @@ this does not excuse the slave, but is a burden to the owner. We approve
 of the opinion of Julianus, which is reasonable, and is supported by
 Marcellus as is stated by Julianus.
 
-\3. *The Same, On the Edict, Book III.*
+3. *The Same, On the Edict, Book III.*
 
 In all noxal actions where the knowledge of the owner is required, this
 must be understood to mean that the owner could have been able to
 prevent the wrong but did not do so; for it is one thing to cause a
 slave to commit an offence, and another to suffer him to do so.
 
-\4. *Paulus, On the Edict, Book III.*
+4. *Paulus, On the Edict, Book III.*
 
 With reference to the offences of slaves what are we to understand by
 the "Knowledge of the owner"? Does it mean that the act was done by his
@@ -1844,12 +1841,12 @@ understand the term "knowledge" to signify that a party is able to
 prevent the deed, and this must be understood through the entire Edict
 so far as the term "knowledge" is concerned.
 
-\(1) Where a slave belonging to a stranger commits an illegal act with
+(1) Where a slave belonging to a stranger commits an illegal act with
 my knowledge, and I purchase him; a noxal action will be granted against
 me, because it cannot be held that he acted with the knowledge of his
 owner as at that time I was not his owner.
 
-\(2) Where an owner is liable on account of his knowledge, it should be
+(2) Where an owner is liable on account of his knowledge, it should be
 considered whether an action should be granted also with reference to
 the slave; unless the Prætor intended that a single penalty only should
 be exacted from the owner. Therefore should the malice of the slave be
@@ -1857,7 +1854,7 @@ unpunished? This would be unjust, for indeed the owner is liable in both
 ways, still when one penalty, that is, whichever one the plaintiff
 selects, is exacted, the other cannot be collected.
 
-\(3) If the surrender of the slave by way of reparation is not
+(3) If the surrender of the slave by way of reparation is not
 mentioned, and proceedings are brought against the owner on account of
 his being aware of the offence, when, as a matter of fact, he was not
 aware of it, and the case is dismissed and the trial terminated; the
@@ -1877,7 +1874,7 @@ against the owner if he left out the surrender of the slave by way of
 reparation; but if, during the trial, he still wishes to prove the
 knowledge of the owner, he cannot be prevented from doing so.
 
-\5. *Ulpianus, On the Edict, Book V.*
+5. *Ulpianus, On the Edict, Book V.*
 
 Where a slave belonging to several persons commits an offence of which
 they are all ignorant, a noxal action will be granted against any one of
@@ -1889,27 +1886,27 @@ the owners knew and the other was ignorant of the fact, the one who knew
 will be sued without the surrender of the slave being considered, and
 the one who did not know will be sued with the right to surrender him.
 
-\(1) The difference between these two proceedings is not merely that the
+(1) The difference between these two proceedings is not merely that the
 owner who knows is liable for the entire amount, but also that if he who
 knows should sell the slave or manumit him, and the slave should die,
 the said owner will be liable; but if the owner himself should die, his
 heir will not be liable.
 
-\6. *The Same, On the Edict, Book XVIII.*
+6. *The Same, On the Edict, Book XVIII.*
 
 But the slave himself, if manumitted, will also be liable.
 
-\7. *The Same, On the Edict, Book III.*
+7. *The Same, On the Edict, Book III.*
 
 A noxal action, however, is not granted unless the slave is under my
 control, and if he is, although he was not under my control at the time
 he committed the offence, I will be liable, and my heir will be liable,
 if the offending slave was living.
 
-\(1) Pomponius says that if a purchaser of the slave is sued in a noxal
+(1) Pomponius says that if a purchaser of the slave is sued in a noxal
 action, the vendor who had knowledge of the act can no longer be sued.
 
-\8. *The Same, On the Edict, Book XXXVII.*
+8. *The Same, On the Edict, Book XXXVII.*
 
 Where a slave owned in common commits a theft, any one of his masters is
 liable to a noxal action for the entire amount, and this is the rule at
@@ -1933,7 +1930,7 @@ before the joint-ownership began, and if he cannot do this he will
 evidently suffer injury. It, however, seems to me best to hold that an
 action for the division of common property will lie in his favor.
 
-\9. *Paulus, On the Edict, Book XXXIX.*
+9. *Paulus, On the Edict, Book XXXIX.*
 
 Where a number of slaves held in common, or one alone commits a theft,
 with the knowledge of one of his owners the latter will be liable in the
@@ -1943,7 +1940,7 @@ as he deserved the penalty on account of his own act. But where one who
 was ignorant of the commission of the offence pays double damages, he
 can recover simple damages from his joint-owner.
 
-\10. *The Same, On the Edict, Book XXII.*
+10. *The Same, On the Edict, Book XXII.*
 
 Moreover, anyone can bring suit against his joint-owner on the ground
 that he has depreciated the value of the slave; just as he could against
@@ -1952,7 +1949,7 @@ however, he held nothing in common after the surrender of the slave, he
 can bring an action on partnership, or if they were not partners he can
 bring an action *in factum.*
 
-\11. *Ulpianus, On the Edict, Book VII.*
+11. *Ulpianus, On the Edict, Book VII.*
 
 The *bona fide* possessor of a slave will be liable to an action for
 theft on account of the slave, but the owner will not be liable. He
@@ -1961,7 +1958,7 @@ plaintiff, and if the owner should bring suit to recover the slave, he
 will be barred by an exception on the ground of fraud, for the other
 party can be made secure by application to the court.
 
-\12. *Paulus, On the Edict, Book VI.*
+12. *Paulus, On the Edict, Book VI.*
 
 Where a *bona fide* possessor dismisses a slave who was in his
 possession under these circumstances, in order to avoid proceedings
@@ -1970,14 +1967,14 @@ action which is granted against parties who have a slave in their power
 or commit fraud in order to avoid having him under their control,
 because in this instance they are held to be still in possession.
 
-\13. *Gaius, On the Provincial Edict, Book XIII.*
+13. *Gaius, On the Provincial Edict, Book XIII.*
 
 A noxal action is granted not only against a possessor in good faith,
 but also against those who have possession in bad faith; for it seems
 absurd that parties who are *bona fide* possessors should be compelled
 to defend an action, and that depredators should be secure.
 
-\14. *Ulpianus, On the Edict, Book XVIII.*
+14. *Ulpianus, On the Edict, Book XVIII.*
 
 Where anyone is sued by several persons on account of an offence
 committed by his slave, or by one person on account of several offences,
@@ -1995,7 +1992,7 @@ surrendered, not to the plaintiff who first instituted proceedings, but
 to the one who first obtained judgment; and hence an action to enforce
 the judgment will be refused to a party who gains his case subsequently.
 
-\(1) If a slave is entitled to his freedom conditionally, and the
+(1) If a slave is entitled to his freedom conditionally, and the
 condition is fulfilled before the surrender; or if he should obtain his
 freedom under the terms of a trust, or a condition is complied with in
 accordance with which the ownership of the slave was bequeathed as a
@@ -2004,7 +2001,7 @@ court; and it is part of the duty of the judge to provide that the party
 to whom he is surrendered shall give security against the recovery of
 the slave by eviction on account of an act of the defendant.
 
-\15. *Gaius, On the Provincial Edict, Book VI.*
+15. *Gaius, On the Provincial Edict, Book VI.*
 
 The Prætor should order the action to be transferred so as to be
 conducted against the said former slave, but if, at the time of the
@@ -2013,7 +2010,7 @@ Cassius are of the opinion that the heir is released from liability by
 giving up the slave, since he has thereby assigned all of his own
 rights; and this is true.
 
-\16. *Julianus, Digest, Book XXII.*
+16. *Julianus, Digest, Book XXII.*
 
 If the heir, through malicious fraud, should relinquish his authority
 over said slave, and by reason of this should join issue in an action
@@ -2022,7 +2019,7 @@ rendered against him, just as if the slave was dead; even if the
 condition on which the slave was entitled to his freedom should have
 been fulfilled.
 
-\17. *Paulus, On the Edict, Book XXII.*
+17. *Paulus, On the Edict, Book XXII.*
 
 Where a slave who belongs to two owners commits an offence with the
 knowledge of one of them but without that of the other, if suit is
@@ -2045,7 +2042,7 @@ his share. It is not just that the owner who ordered the slave to commit
 the offence should obtain anything from his fellow-owner, since the loss
 that he sustains is the result of his own misconduct.
 
-\(1) Where several persons wish to bring a noxal action against me on
+(1) Where several persons wish to bring a noxal action against me on
 account of the same slave, or one party brings suit in several actions
 with reference to the same slave, he being one in whom you have an
 usufruct and I the mere ownership, it is part of the duty of the judge,
@@ -2058,7 +2055,7 @@ owner, refuse to defend the action brought with reference to the slave,
 you should be permitted to defend it, and if, having lost it, you
 deliver the slave, you will be protected against me.
 
-\18. *Pomponius, On Sabinus, Book XVIII.*
+18. *Pomponius, On Sabinus, Book XVIII.*
 
 A party who has an usufruct in a slave has for this reason a right of
 action for theft against the mere owner, just as if he were any other
@@ -2067,7 +2064,7 @@ in his service; and therefore, if judgment is rendered against the
 owner, he will be discharged from liability by surrendering the slave to
 the usufructuary.
 
-\19. *Paulus, On the Edict, Book XXII.*
+19. *Paulus, On the Edict, Book XXII.*
 
 Where a slave of Titius does some damage to property owned by you and me
 in common, and we institute proceedings against Titius, a noxal action
@@ -2090,12 +2087,12 @@ called *Actio de communi dividendo*, the other *Actio familiæ
 erciscundæ.* The first of these was employed for the division of
 property owned in common, including that of part-
 
-\(1) Where the mere owner of a slave leases the services of the latter
+(1) Where the mere owner of a slave leases the services of the latter
 in whom someone else has the usufruct, the words of the Edict indicate
 that if judgment is rendered against him he will have the choice of
 surrendering the slave by way of reparation.
 
-\(2) Where your slave has charge of a ship, and his underslave, who is
+(2) Where your slave has charge of a ship, and his underslave, who is
 also a sailor on said ship, causes some damage, an action should be
 granted against you, just as if the party in charge was free, and the
 slave belonged to him; so that you will be ordered by the court to
@@ -2105,7 +2102,7 @@ order of your slave or with his knowledge and sufferance, a noxal action
 should be brought against you on account of your slave. The result will
 be the same if your slave should order a sailor to commit the act.
 
-\20. *Gaius, On the Provincial Edict, Book VII.*
+20. *Gaius, On the Provincial Edict, Book VII.*
 
 Where anyone brings several actions at different times, on account of
 distinct offences, and he obtains ownership of the slave on account of
@@ -2116,7 +2113,7 @@ was tried, preferred to pay the damages assessed, he will, nevertheless,
 be liable to the same plaintiff, or to anyone else, if he brings suit on
 the ground of some other wrong.
 
-\21. *Ulpianus, On the Edict, Book XXIII.*
+21. *Ulpianus, On the Edict, Book XXIII.*
 
 Whenever an owner is sued on the ground of damage committed, and does
 not wish to defend the action, he is in such a condition that he must
@@ -2152,7 +2149,7 @@ rights of the heirs, either in their relations to one another or to
 strangers. If the distribution or settlement of several estates was
 involved, they could all be included in one proceeding.  ED.
 
-\(1) Where proceedings are instituted by a noxal action on account of
+(1) Where proceedings are instituted by a noxal action on account of
 slaves, it is established that they can be defended even though they are
 absent, but this only shall be done where the said slaves belong to the
 defendant, for if they belong to another they must be present; and this
@@ -2161,27 +2158,27 @@ the defendant or of another party. I think that this ought to be
 understood to be the rule if it is proved that they are serving the
 defendant merely as *bona fide *slaves, even if they are absent.
 
-\(2) The Prætor says, "If he in whose power the slave is said to be
+(2) The Prætor says, "If he in whose power the slave is said to be
 denies that he has him in his power, I shall either order him to swear
 that the slave is not in his power, or that he has not fraudulently
 maneged that he should not be, or I will grant an action without
 surrender by way of reparation, whichever the plaintiff desires."
 
-\(3) We should understand the words "In his power" to mean that the
+(3) We should understand the words "In his power" to mean that the
 defendant has the opportunity and the power to produce the slave; but if
 the latter should be a fugitive, or out of the country, he will not be
 held to be in his power.
 
-\(4) If the defendant refuses to make oath, his position is the same as
+(4) If the defendant refuses to make oath, his position is the same as
 that of a party who will neither defend an absent slave or produce him
 in court; and persons of this kind should have judgment rendered against
 them as being contumacious.
 
-\(5) Where there is a guardian or a curator, he must swear that the
+(5) Where there is a guardian or a curator, he must swear that the
 slave is not in the power of his owner; but where there is an agent, it
 is necessary for the owner himself to be sworn.
 
-\(6) Where the plaintiff has exacted an oath and the defendant has taken
+(6) Where the plaintiff has exacted an oath and the defendant has taken
 it, and afterwards the plaintiff desires to bring a noxal action, it
 should be considered whether an exception on the ground of "an oath
 taken" should not be granted against the plaintiff? Sabinus is of the
@@ -2195,31 +2192,31 @@ plaintiff can proceed omitting the surrender by way of reparation,
 provided he claims that the defendant began to have the slave in his
 power only after he was sworn.
 
-\22. *Paulus, On the Edict, Book XVIII.*
+22. *Paulus, On the Edict, Book XVIII.*
 
 Where a slave is deposited with someone or loaned to him, a noxal action
 can be brought against the owner, for the slave is understood to still
 serve him, and as far as relates to this Edict, he is in his power; and
 especially is this the case if he has the means of recovering him.
 
-\(1) He who has received a slave in pledge or holds him by sufferance of
+(1) He who has received a slave in pledge or holds him by sufferance of
 his owner is not liable in a noxal action, for even though parties may
 have lawful possession, nevertheless, they have not possession as
 owners; hence those slaves are understood to be in the power of their
 owner, if the said owner has the means of recovering them.
 
-\(2) What is the meaning of the words, "Has the means of recovering
+(2) What is the meaning of the words, "Has the means of recovering
 them"? It signifies that he has the money by which to release
 
 them, for he ought not to be compelled to sell his property in order to
 pay the money and recover the slave.
 
-\(3) Where an owner confesses that a slave is in his power he must
+(3) Where an owner confesses that a slave is in his power he must
 either produce him in court or defend him, if he is absent; and if he
 does neither, he will be punished just as if the slave had been present
 and he had not surrendered him.
 
-\(4) Where the owner denies that the slave is in his power, the Prætor
+(4) Where the owner denies that the slave is in his power, the Prætor
 permits the plaintiff to choose whether he will decide the matter by
 means of an oath, or whether judgment shall be rendered without the
 surrender of the slave; by which means he will succeed if he proves that
@@ -2227,13 +2224,13 @@ the slave is in the power of the defendant, or that he has acted
 fraudulently so that he may not be; but a party who does not prove that
 the slave is in the power of his adversary loses his case.
 
-\23. *Gaius, On the Provincial Edict, Book VI.*
+23. *Gaius, On the Provincial Edict, Book VI.*
 
 But if his adversary should afterwards come into possession of the
 slave, he will be liable on account of the new possession and an
 exception will be denied him.
 
-\24. *Paulus, On the Edict, Book XVIII.*
+24. *Paulus, On the Edict, Book XVIII.*
 
 It must be considered whether a noxal action can be brought only against
 the party who fraudulently managed to prevent the slave from being in
@@ -2247,39 +2244,39 @@ however, says that if the manumitted slave is ready to defend his case,
 an exception should be granted to the person who manumitted him; and
 this is also the opinion of Labeo.
 
-\25. *Gaius, On the Provincial Edict, Book VI.*
+25. *Gaius, On the Provincial Edict, Book VI.*
 
 The rule is the same where the new owner of the slave is made defendant
 in the suit.
 
-\26. *Paulus, On the Edict, Book XVIII.*
+26. *Paulus, On the Edict, Book XVIII.*
 
 The choice of one defendant releases the other; for the Prætor
 introduced this right to prevent the plaintiff from 6eing thwarted, and
 not that he might obtain any profit; and therefore he will be barred by
 an exception if he brings the other suit.
 
-\(1) It follows as a result that where several persons fraudulently
+(1) It follows as a result that where several persons fraudulently
 manage to avoid having the slave in their power, the plaintiff must
 select which one he would rather sue.
 
-\(2) Again, if of several joint-owners, some, through malicious fraud,
+(2) Again, if of several joint-owners, some, through malicious fraud,
 relinquish possession of their shares; the plaintiff has the choice as
 to whether he will proceed directly against the party who was in
 possession, or whether he will bring a prætorian action against him who
 has ceased to be in possession.
 
-\(3) Where a party answers in court that a slave who belongs to another
+(3) Where a party answers in court that a slave who belongs to another
 is his, then, if either one should pay, the other will be discharged.
 
-\(4) If a slave of whom you have fraudulently relinquished possession
+(4) If a slave of whom you have fraudulently relinquished possession
 dies before this action is brought against you, you will be discharged
 because this action takes the place of the direct one.
 
 *We* hold that the case is different where you are in default in joining
 issue.
 
-\(5) An action will not be granted to an heir, or against an heir, on
+(5) An action will not be granted to an heir, or against an heir, on
 the ground that the deceased stated what was false, nor against the
 party himself, after the lapse of an indefinite time; for anyone is free
 to assume the defence of an absent slave in order to avoid the penalty
@@ -2293,7 +2290,7 @@ Octavenus, however, says that you are entitled to relief even after
 issue has been joined, if cause is shown, at all events if your age is
 such that indulgence should be granted you.
 
-\(6) Where a slave is taken away during the absence of his master, or
+(6) Where a slave is taken away during the absence of his master, or
 even in his presence, and matters are still in such a condition that
 complete restitution is possible, a defence is permitted on account of
 the slave that was taken away; for if a request was made for him to be
@@ -2311,7 +2308,7 @@ extinguished by the acquisition of ownership; for when the slave is
 removed by order of the Prætor, he becomes the property of the party who
 led him away.
 
-\27. *Gaius, On the Provincial Edict, Book VI.*
+27. *Gaius, On the Provincial Edict, Book VI.*
 
 Where a noxal action is brought with reference to a slave who is held by
 way of pledge, or with reference to one in whom another party has the
@@ -2325,7 +2322,7 @@ a matter of right, even though an action to recover it may be refused,
 until the time established by law has elapsed, and it is lost by
 non-user.
 
-\(1) From what we have stated with reference to a slave who was held by
+(1) From what we have stated with reference to a slave who was held by
 anyone in pledge, or a slave who is to be free upon a certain condition,
 or one in whom another party has an usufruct; it is evident that where a
 defendant states in court that his slave in reality belongs to another;
@@ -2339,7 +2336,7 @@ reason, and his owner afterwards brings suit to recover him, but does
 not tender the damages assessed in the case; he can be opposed by an
 exception on the ground of malicious fraud.
 
-\28. *Africanus, Questions, Book VI.*
+28. *Africanus, Questions, Book VI.*
 
 Generally speaking, if I bring a noxal action against you on account of
 the slave of a third party, who is serving you in good faith, and you
@@ -2361,7 +2358,7 @@ defence is made with reference to the slave, and I take him away by
 order of the Prætor; since, in this instance also, I have a legal ground
 of possession.
 
-\29. *Gaius, On the Provincial Edict, Book VI.*
+29. *Gaius, On the Provincial Edict, Book VI.*
 
 Not only can a person who has not the slave in his power refuse to
 answer in a noxal action, but he is also free to avoid the action even
@@ -2369,7 +2366,7 @@ when he has him in his power, if he leaves the person undefended; but in
 this instance he must transfer his right to the plaintiff, just as if
 judgment had been rendered against him.
 
-\30. *The Same, On the Edict of the Urban Prætor, Under the Head of the
+30. *The Same, On the Edict of the Urban Prætor, Under the Head of the
 "Prevention of Threatened Injury.*"
 
 In noxal actions, the rights of those who are absent in good faith are
@@ -2378,7 +2375,7 @@ accordance with what is proper and just, whether they are the owners or
 have some right in the property in dispute, such as creditors and
 usufructuaries.
 
-\31. *Paulus, On Plautius, Book VII.*
+31. *Paulus, On Plautius, Book VII.*
 
 Where the Prætor *says*, "When a number of slaves commit a theft an
 action will only be granted to enable the plaintiff to obtain as much as
@@ -2400,14 +2397,14 @@ belonged to the same band; for the Edict is not applicable where those
 slaves who belong to different owners afterwards becomes the property of
 one alone.
 
-\32. *Callistratus, Monitory Edict, Book II.*
+32. *Callistratus, Monitory Edict, Book II.*
 
 Where the slave is in the power of one who is not his owner, and is said
 to have committed an offence, if he is not defended he will be taken
 away; and if his owner is present, he should deliver him up and give
 security against malicious fraud.
 
-\33. *Pomponius, On Sabinus, Book XIV.*
+33. *Pomponius, On Sabinus, Book XIV.*
 
 No one can, against his will, be forced to defend another in a noxal
 action, but he must be deprived of him whom he refuses to defend, if he
@@ -2415,19 +2412,19 @@ is his slave; but where the party who is in the power of another is
 free, he ought to be permitted to defend himself under all circumstances
 :
 
-\34. *Julianus, On Urseius Ferox, Book IV.*
+34. *Julianus, On Urseius Ferox, Book IV.*
 
 For whenever no one will undertake the defence of the son of a family on
 account of a breach of the law, an action is granted against him,
 
-\35. *Ulpianus, On Sabinus, Book XLI.*
+35. *Ulpianus, On Sabinus, Book XLI.*
 
 And if judgment is rendered against the son he must comply with it, for
 he is held by the decision. Moreover, it must be stated that his father
 also is liable to an action *De peculio*, after judgment has been
 pronounced against the son.
 
-\36. *The Same, On the Edict, Book XXXVII.*
+36. *The Same, On the Edict, Book XXXVII.*
 
 Where anyone purchases from a debtor a slave who has been pledged and
 then stolen by him, the purchaser will be liable on the ground of theft,
@@ -2440,7 +2437,7 @@ the purpose of defrauding creditors; as, although the latter can be
 deprived of their ownership, still, in the meantime, suit can be brought
 against them.
 
-\37. *Tryphoninus, Disputations, Book XV.*
+37. *Tryphoninus, Disputations, Book XV.*
 
 Where a slave belonging to another steals my property and afterwards
 comes into my hands as owner, the right of action for theft to which I
@@ -2450,7 +2447,7 @@ joined, the right of action for theft will not be renewed; but if I
 purchase him after issue has been joined, the vendor can have judgment
 rendered against him:
 
-\38. *Ulpianus, On the Edict, Book XXXVII.*
+38. *Ulpianus, On the Edict, Book XXXVII.*
 
 Just as he would if he had sold him to another party, for, indeed, it
 makes little difference to whom he sells him, whether to his adversary
@@ -2458,23 +2455,23 @@ or to someone else; and it will be his own fault if he has to submit to
 the payment of the damages assessed, since by selling him he deprived
 himself of the power of surrendering him by way of reparation.
 
-\(1) Julianus, however, states in the Twenty-second Book of the Digest,
+(1) Julianus, however, states in the Twenty-second Book of the Digest,
 that if I abandon the slave who stole your property, I am released from
 liability, because he at once ceased to belong to me; otherwise an
 action for theft could be brought on account of him who has no owner.
 
-\(2) Where my slave steals your property and sells it, and you deprive
+(2) Where my slave steals your property and sells it, and you deprive
 him of the money in his possession which he obtained as part of the
 price of said property, there will be ground for an action of theft on
 both sides; for you can bring a noxal action of theft against me on
 account of the slave, and I can bring one against you on account of the
 money.
 
-\(3) Moreover, where I pay money to the slave of my creditor in order
+(3) Moreover, where I pay money to the slave of my creditor in order
 that he may give it to his master, there will also be ground for an
 action of theft, if the slave appropriates the money he received.
 
-\39. *Julianus, Digest, Book IX.*
+39. *Julianus, Digest, Book IX.*
 
 Where a slave belonging to several persons commits a theft and all his
 owners fraudulently manage to avoid having him in their power, the
@@ -2486,7 +2483,7 @@ bring an action, without the defendant having the right to surrender the
 slave by way of reparation; since he would have been able to institute
 proceedings in a noxal action if the slave had been produced in court.
 
-\(1) Where anyone acknowledges that a slave is his own who really
+(1) Where anyone acknowledges that a slave is his own who really
 belongs to another; then, although he is liable to a noxal action,
 never-
 
@@ -2495,21 +2492,21 @@ security; but where a party is sued on account of his own slave, he
 should not be burdened with security, as he is not volunteering in the
 defence of a slave belonging to another.
 
-\(2) Where anyone states that the owner of a slave had acted
+(2) Where anyone states that the owner of a slave had acted
 fraudulently to avoid having said slave in his possession, and the owner
 contends in court that the suit should be defended by someone else who
 would furnish security; there is ground here for an exception on the
 ground of malicious fraud.
 
-\(3) But if, after issue has been joined with the owner, the slave
+(3) But if, after issue has been joined with the owner, the slave
 should appear, and because he was not defended is taken away; the owner
 will be discharged if he interposes an exception on the ground of
 malicious fraud.
 
-\(4) Where, however, the slave dies before issue is joined, the owner
+(4) Where, however, the slave dies before issue is joined, the owner
 will not be held liable in this action at all.
 
-\40. *The Same, Digest, Book XXII.*
+40. *The Same, Digest, Book XXII.*
 
 Where a slave is bequeathed as a legacy and steals the property of the
 future heir before the estate is entered upon; the heir can bring an
@@ -2519,7 +2516,7 @@ action of theft will not lie, because there can be no theft of property
 of this description; but an action can be brought to compel him to
 produce the property in court.
 
-\41. *The Same, On Urseius Ferox, Book II.*
+41. *The Same, On Urseius Ferox, Book II.*
 
 Where a slave owned in common causes unlawful damage to one of his
 owners, an action under the *Lex Aquilia* will not lie on that account;
@@ -2529,7 +2526,7 @@ brought against the other joint-owner for the entire amount under the
 action for theft cannot be brought against the other joint-owner, but
 proceedings in partition must be instituted.
 
-\42. *Ulpianus, On the Edict, Book XXXVII.*
+42. *Ulpianus, On the Edict, Book XXXVII.*
 
 Where a party, on account of whom issue has been joined in a noxal
 action, claims his freedom, proceedings should be stayed until his
@@ -2537,12 +2534,12 @@ condition is determined; hence if he should be declared to be a slave,
 the noxal action will proceed, but if he is decided to be free it will
 be held to be of no effect.
 
-\(1) Where a party undertakes to defend a noxal action on account of a
+(1) Where a party undertakes to defend a noxal action on account of a
 slave who is dead, and he is ignorant of the fact, he should be
 discharged from liability, because it has ceased to be true that he
 should surrender anything on account of said slave.
 
-\(2) These actions are not barred by lapse of time, and are available as
+(2) These actions are not barred by lapse of time, and are available as
 long as we have the power of surrendering the slave; for they can be
 brought not only against us but also against our successors, as well as
 against the successors of the party liable in the first place, not
@@ -2551,7 +2548,7 @@ because they succeed to his liability, but on the ground of
 ownership. Hence, if a slave has come into the hands of another party,
 his new owner can be sued in a noxal action on the ground of ownership.
 
-\43. *Pomponius, Epistles, Book VIII.*
+43. *Pomponius, Epistles, Book VIII.*
 
 Slaves, in cases where liability for reparation follows the individual,
 should be defended in the place where it is alleged that they committed

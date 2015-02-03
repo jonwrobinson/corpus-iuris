@@ -41,7 +41,6 @@ THEIR RECOVERY
 + 43.XXXII. CONCERNING THE INTERDICT HAVING REFERENCE TO THE REMOVAL OF TENANTS
 + 43.XXXIII. CONCERNING THE SALVIAN INTERDICT
 
-
 * 43.I. CONCERNING INTERDICTS OR THE EXTRAORDINARY PROCEEDINGS TO WHICH THEY GIVE RISE.
 
 1. Ulpianus, On the Edict, Book LXVII.
@@ -129,7 +128,6 @@ it himself, if he can do so, he shall have judgment rendered against him for an
 amount which the court may determine, just as if he himself has constructed the
 work in question.
 
-
 * 43.II. CONCERNING THE INTERDICT QUORUM BONORUM.
 
 1. Ulpianus, On the Edict, Book LXVII.
@@ -144,7 +142,6 @@ obtaining possession of the entire property in dispute.
 2. Paulus, On the Edict, Book XX.
 The debtors of an estate are not liable under the interdict Quorum bonorum,but
 only those who have possession of any property.
-
 
 * 43.III. CONCERNING THE INTERDICT QUOD LEGATORUM.
 
@@ -260,7 +257,6 @@ the Praetorian Edict was responsible for security not having been given, but
 was afterwards ready to furnish it, the interdict will lie; for the time when
 it was issued is taken into consideration,
 
-
 * 43.IV. CONCERNING THE INTERDICT WHICH PROHIBITS VIOLENCE BEING EMPLOYED AGAINST A PERSON PLACED IN POSSESSION.
 
 1. Ulpianus, On the Edict, Book LXXII.
@@ -362,7 +358,6 @@ injury he might be entitled to bring the action.
 (4) It was also added that if anyone who was placed in possession was alleged
 to have been prevented for some other reason, he would have a right to an
 action in factum.
-
 
 * 43.V. CONCERNING THE PRODUCTION OF PAPERS RELATING TO A WILL.
 
@@ -471,7 +466,6 @@ controversy with reference to the estate is pending, or any public question is
 involved. Therefore the will should in the meantime be deposited either in a
 temple or in the hands of some responsible person.
 
-
 * 43.VI. CONCERNING THE INTERDICT FOR THE PURPOSE OF PREVENTING ANYTHING BEING DONE IN A SACRED PLACE.
 
 1. Ulpianus, On the Edict, Book LXVIH.
@@ -491,7 +485,6 @@ sacred edifices, from which injury or inconvenience may result.
 Neither the walls nor the doors can be utilized for habitation, without the
 permission of the Emperor, on account of the danger of fire.
 
-
 * 43.VII. CONCERNING THE INTERDICT RELATING TO PUBLIC PLACES AND HIGHWAYS.
 
 1. Pomponius, On Sabinus, Book XXX.
@@ -510,7 +503,6 @@ namely, military highways terminate at the seashore, or in cities, or at public
 streams, or at some other military highway, but this is not the case with roads
 through a neighborhood, for some of them terminate at military highways, and
 others end without any exit.
-
 
 * 43.VIII. CONCERNING THE INTERDICT FORBIDDING ANYTHING TO BE DONE IN A PUBLIC PLACE OR ON A HIGHWAY.
 
@@ -750,7 +742,6 @@ prevent the city from being defaced by the ruins, so anyone who builds contrary
 to the Praetorian Edict should remove what he has erected; otherwise, the
 authority of the Praetor becomes vain and illusory.
 
-
 * 43.IX. CONCERNING THE EDICT RELATING TO THE ENJOYMENT OP A PUBLIC PLACE.
 
 1. Ulpianus, On the Edict, Book LXVIII.
@@ -768,7 +759,6 @@ to the terms of his lease, should not be heard.
 2. Paulus, Decisions, Book V.
 It is customary to permit pictures and statues, which will be ornamental to a
 city, to be set up in public places.
-
 
 * 43.X. CONCERNING THE EDICT WHICH HAS REFERENCE TO PUBLIC STREETS AND ANYTHING DONE THEREIN.
 
@@ -797,7 +787,6 @@ interfere with the passage of vehicles.
 (5) The JEdiles must not permit any quarreling to take place in the streets,
 nor any filth, dead animals, or skins to be thrown into them.
 
-
 * 43.XI. CONCERNING THE INTERDICT WHICH HAS REFERENCE TO REPAIRS OF PUBLIC STREETS AND HIGHWAYS.
 
 1. Ulpianus, On the Edict, Book LXVIIL
@@ -824,7 +813,6 @@ Where anyone throws a public highway on the land of his neighbor, the Actio
 vise receptsewill only be granted against him to the extent of the interest of
 him whose property was injured thereby.
 (1) If anyone plows up a highway, he alone shall be compelled to repair it.
-
 
 * 43.XII. CONCERNING THE INTERDICT WHICH HAS REFERENCE TO RIVERS AND THE PREVENTION OF ANYTHING BEING DONE IN THEM OR ON THEIR BANKS WHICH MAY INTERFERE WITH NAVIGATION
 
@@ -959,7 +947,6 @@ Inquiry has been made whether he who owns houses on both sides of a public
 stream has a right to build a bridge which will be his private property. The
 answer was that he cannot do so.
 
-
 * 43.XIII. CONCERNING THE INTERDICT TO PREVENT ANYTHING FROM BEING BUILT IN A PUBLIC RIVER OR ON ITS BANK WHICH MIGHT CAUSE THE WATER TO FLOW IN A DIFFERENT DIRECTION THAN IT DID DURING THE PRECEDING SUMMER.
 
 1. Ulpianus, On the Edict, Book LXVIII.
@@ -1041,7 +1028,6 @@ been granted, the person responsible shall be punished.
 whatever was done to avoid remaining in possession of the structure with
 reference to which the interdict was issued.
 
-
 * 43.XIV. CONCERNING THE INTERDICT WHICH HAS REFERENCE TO THE USE OP A PUBLIC RIVER FOR NAVIGATION.
 
 1. Ulpianus, On the Edict, Book LXVIIL
@@ -1071,7 +1057,6 @@ the purpose of lowering ground to water his cattle, he should not be heard; and
 this was stated by Mela. He also says that this interdict will lie to prevent
 anyone from employing force to keep the cattle of another from approaching a
 public river, or the bank of the same.
-
 
 * 43.XV. CONCERNING THE INTERDICT WHICH HAS REFERENCE TO RAISING THE BANKS OF STREAMS.
 
@@ -1105,7 +1090,6 @@ suit can be brought under the Aquilian Law.
 (6) It should be noted that the Praetor makes no provision for repairing the
 banks of a lake, a canal, or a pond. The same rule, however, must be observed
 which applies to the repairs of the banks of a stream.
-
 
 * 43.XVI. CONCERNING THE INTERDICT AGAINST VIOLENCE AND ARMED FORCE.
 
@@ -1536,7 +1520,6 @@ Unde vi.The same rule should be adopted if the lessee of your house is forcibly
 ejected.
 Paulus: This also applies to a sub-tenant, or a sub-lessee.
 
-
 * 43.XVII. CONCERNING THE INTERDICT UTI POSSIDETIS.
 
 1. Ulpianus, On the Edict, Book LXIX.
@@ -1679,7 +1662,6 @@ he is in possession of the usufruct. This is also held by Pomponius. Hence this
 interdict should also be granted where one person claims the use and another
 the usufruct of the same property.
 
-
 * 43.XVIII. CONCERNING THE INTERDICT WHICH HAS REFERENCE TO THE SURFACE OF THE LAND.
 
 1. Ulpianus, On the Edict, Book LXX.
@@ -1739,7 +1721,6 @@ We say that houses form part of the surface of land where they have been
 erected under the terms of a lease; and the ownership of
 them, in accordance with both civil and natural law, is vested in the
 proprietor of the soil.
-
 
 * 43.XIX. CONCERNING THE INTERDICT WHICH HAS REFERENCE TO PRIVATE RIGHTS OF WAY.
 
@@ -1967,7 +1948,6 @@ still did so without any right, but with the intention of not traversing the
 land, if he had been forbidden; this interdict will not lie under these
 circumstances, for, to enable it to do so, the person referred to must possess
 some right in the land.
-
 
 * 43.XX. CONCERNING THE EDICT WHICH HAS REFERENCE TO WATER USED EVERY DAY AND TO SUCH AS IS ONLY USED DURING THE SUMMER.
 
@@ -2291,7 +2271,6 @@ He who is entitled to a right of way through land for the purpose of conducting
 water is permitted to construct a canal through any part thereof that he
 wishes, provided he does not interfere with some other aqueduct.
 
-
 * 43.XXI. CONCERNING THE INTERDICT HAVING REFERENCE TO CONDUITS.
 
 1. Ulpianus, On the Edict, Book LXX.
@@ -2401,7 +2380,6 @@ exposed to death by thirst. It is evident that water cannot be obtained without
 repairing aqueducts; but if a road is not repaired, passage to and fro will
 only be rendered difficult, and this is less during the summer time.
 
-
 * 43.XXII. CONCERNING THE INTERDICT WHICH HAS REFERENCE TO SPRINGS
 
 1. Ulpianus, On the Edict, Book LXX.
@@ -2445,7 +2423,6 @@ for this is an innovation upon what has been done during the preceding year.
 to be repaired or cleaned.
 (11) This interdict is granted to all persons who are allowed to make use of
 the one having reference to summer water.
-
 
 * 43.XXIII. CONCERNING THE INTERDICT WHICH HAS REFERENCE TO SEWERS.
 
@@ -2521,7 +2498,6 @@ adopted by Ofilius and Trebatius. Labeo also says that anyone ought, without
 interference, to be permitted by the interdict to clean and repair a sewer
 already constructed; but that the officer in charge of the public highways
 should grant permission to build a new one.
-
 
 * 43.XXIV. CONCERNING THE INTERDICT WHICH HAS REFERENCE TO WORKS UNDERTAKEN BY VIOLENCE OR .CLANDESTINELY
 
@@ -3148,7 +3124,6 @@ begin it immediately, he will not be understood to have done so clandestinely;
 but he will be considered to have acted clandestinely if he undertakes it after
 the designated time has expired.
 
-
 * 43.XXV. CONCERNING THE WITHDRAWAL OF OPPOSITION.
 
 1. Ulpianus, On the Edict, Book LXI.
@@ -3180,7 +3155,6 @@ Julianus says the same thing with reference to others to whom servitudes are
 due from their neighbors.
 (5) Julianus also says that it is not inequitable to allow a person, who has
 received land in pledge, the retention of a servitude imposed upon said land.
-
 
 * 43.XXVI. CONCERNING PRECARIOUS TENURES.
 
@@ -3472,7 +3446,6 @@ the property. There is nothing new to be determined by the Praetor in this
 case; for if the ward holds the property, he will be required by the judge to
 surrender it, and if he does not hold it, he will not be liable.
 
-
 * 43.XXVII. CONCERNING THE INTERDICT WHICH HAS REFERENCE TO THE CUTTING OF TREES.
 
 1. Ulpianus, On the Edict, Book LXXI.
@@ -3518,7 +3491,6 @@ the force of the wind, according to the Law of the Twelve Tables, you can bring
 an action against your neighbor to compel him to remove it, on the ground that
 he has no right to have a tree in that condition.
 
-
 * 43.XXVIII. CONCERNING THE INTERDICT HAVING REFERENCE TO THE GATHERING OF FRUIT WHICH HAS FALLEN FROM THE PREMISES OF ONE PERSON UPON THOSE OF ANOTHER.
 
 1. Ulpianus, On the Edict, Book LXXI.
@@ -3526,7 +3498,6 @@ The Praetor says: "Where any nuts fall from the premises of your neighbor upon
 yours, I forbid force to be employed to prevent him from gathering them, and
 carrying them away within the space of three days."
 (1) All kinds of fruits are included under this term.
-
 
 * 43.XXIX. CONCERNING THE INTERDICT WHICH HAS REFERENCE TO THE PRODUCTION OF A PERSON WHO IS FREE.
 
@@ -3632,7 +3603,6 @@ producing his debtor in court; for no one is obliged to produce a debtor who
 conceals himself, but under the Edict of the Pra?tor his property may be taken
 in execution.
 
-
 * 43.XXX. CONCERNING THE INTERDICT WHICH HAS REFERENCE TO THE PRODUCTION OF CHILDREN AND THEIR RECOVERY.
 
 1. Ulpianus, On the Edict, Book LXXI.
@@ -3736,7 +3706,6 @@ him against whom proceedings may be instituted under the interdict, as he has
 free power to depart or remain; unless there is a dispute between two persons,
 each of whom alleges that he is his father, and one of whom demands that the
 child shall be produced by the other.
-
 
 * 43.XXXI. CONCERNING THE INTERDICT UTRUBI
 

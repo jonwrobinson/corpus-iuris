@@ -35,9 +35,7 @@
 + 43.32.0. De migrando.
 + 43.33.0. De Salviano interdicto.
 
-
 * 43.1.0. De interdictis sive extraordinariis actionibus, quae pro his competunt.
-
 
 43.1.1
 
@@ -85,7 +83,6 @@ Interdicta noxalia ea sunt, quae ob delictum eorum, quos in potestate habemus, d
 
 * 43.2.0. Quorum bonorum.
 
-
 43.2.1
 
 Ulpianus libro 67 ad edictum
@@ -101,7 +98,6 @@ Paulus libro 20 ad edictum
 Interdicto quorum bonorum debitores hereditarii non tenentur, sed tantum corporum possessores.
 
 * 43.3.0. Quod legatorum.
-
 
 43.3.1
 
@@ -158,7 +154,6 @@ pr. Diversum est, si postea pars legato adcreverit: nam hoc nomine tenentur fide
 4. Si per legatarium factum sit, quo minus satisdetur, licet cautum non sit, tenetur interdicto. Sed si forte factum sit per legatarium, quo minus satisdetur, eo autem tempore, quo editur interdictum, satis accipere paratus sit, non competit interdictum, nisi satisdatum sit. Item si per bonorum possessorem stetit, quo minus satisdaret, sed modo paratus est cavere, tenet interdictum: illud enim tempus inspicitur, quo interdictum editur.
 
 * 43.4.0. Ne vis fiat ei, qui in possessionem missus erit.
-
 
 43.4.1
 
@@ -217,7 +212,6 @@ pr. Per interdictum etiam ei subvenit praetor, qui damni infecti ab eo in posses
 4. Item subiectum, si ex alia causa in possessionem missus prohibitus esse dicetur, habere in factum actionem.
 
 * 43.5.0. De tabulis exhibendis.
-
 
 43.5.1
 
@@ -305,7 +299,6 @@ De tabulis proferendis interdictum competere non oportet, si hereditatis controv
 
 * 43.6.0. Ne quid in loco sacro fiat.
 
-
 43.6.1
 
 Ulpianus libro 68 ad edictum
@@ -332,7 +325,6 @@ Neque muri neque portae habitari sine permissu principis propter fortuita incend
 
 * 43.7.0. De locis et itineribus publicis.
 
-
 43.7.1
 
 Pomponius libro 30 ad Sabinum
@@ -354,7 +346,6 @@ pr. Viae vicinales, quae ex agris privatorum collatis factae sunt, quarum memori
 1. Sed inter eas et ceteras vias militares hoc interest, quod viae militares exitum ad mare aut in urbes aut in flumina publica aut ad aliam viam militarem habent, harum autem vicinalium viarum dissimilis condicio est: nam pars earum in militares vias exitum habent, pars sine ullo exitu intermoriuntur.
 
 * 43.8.0. Ne quid in loco publico vel itinere fiat.
-
 
 43.8.1
 
@@ -492,7 +483,6 @@ Sicut is, qui nullo prohibente in loco publico aedificaverat, cogendus non est d
 
 * 43.9.0. De loco publico fruendo.
 
-
 43.9.1
 
 Ulpianus libro 68 ad edictum
@@ -513,7 +503,6 @@ Concedi solet, ut imagines et statuae, quae ornamenta rei publicae sunt futurae,
 
 * 43.10.0. De via publica et si quid in ea factum esse dicatur.
 
-
 43.10.1
 
 Ex Papiniani de cura urbium libro
@@ -531,7 +520,6 @@ pr. Ohi astunomikoi epimeleisvwsan twn kata tyn polin hodwn, hopws an homalisvws
 5. My eatwsan de myde maxesvai en tais hodois myde kopron ekballein myde nekra myde dermata hriptein [id est: Ne sinunto autem neque pugnari in viis nec stercus proici nec cadavera nec pelles eo conici.].
 
 * 43.11.0. De via publica et itinere publico reficiendo.
-
 
 43.11.1
 
@@ -560,7 +548,6 @@ pr. Si in agrum vicini viam publicam quis reiecerit, tantum in eum viae receptae
 1. Qui viam publicam exaraverit, ad munitionem eius solus compellitur.
 
 * 43.12.0. De fluminibus. Ne quid in flumine publico ripave eius fiat, quo peius navigetur.
-
 
 43.12.1
 
@@ -636,7 +623,6 @@ Quaesitum est, an is, qui in utraque ripa fluminis publici domus habeat, pontem 
 
 * 43.13.0. Ne quid in flumine publico fiat, quo aliter aqua fluat, atque uti priore aestate fluxit.
 
-
 43.13.1
 
 Ulpianus libro 68 ad edictum
@@ -671,7 +657,6 @@ pr. Ait praetor: "In flumine publico inve ripa eius facere aut in id flumen ripa
 
 * 43.14.0. Ut in flumine publico navigare liceat.
 
-
 43.14.1
 
 Ulpianus libro 68 ad edictum
@@ -698,7 +683,6 @@ pr. Praetor ait: "Quo minus illi in flumine publico navem ratem agere quove minu
 
 * 43.15.0. De ripa munienda.
 
-
 43.15.1
 
 Ulpianus libro 68 ad edictum
@@ -718,7 +702,6 @@ pr. Praetor ait: "Quo minus illi in flumine publico ripave eius opus facere ripa
 6. Illud notandum est, quod ripae lacus fossae stagni muniendi nihil praetor hic cavit: sed idem erit observandum, quod in ripa fluminis munienda.
 
 * 43.16.0. De vi et de vi armata.
-
 
 43.16.1
 
@@ -978,7 +961,6 @@ Si colonus tuus vi deiectus est, ages unde vi interdicto. Idem si inquilinus tuu
 
 * 43.17.0. Uti possidetis.
 
-
 43.17.1
 
 Ulpianus libro 69 ad edictum
@@ -1077,7 +1059,6 @@ Gaius libro 25 ad edictum provinciale
 Superficiarias aedes appellamus, quae in conducto solo positae sunt: quarum proprietas et civili et naturali iure eius est, cuius et solum.
 
 * 43.19.0. De itinere actuque privato.
-
 
 43.19.1
 
