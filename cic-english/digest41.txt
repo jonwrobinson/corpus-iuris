@@ -1,25 +1,8 @@
 # -*- mode: org -*-
 
-BOOK XLI.
-TITLE I. CONCERNING THE ACQUISITION OF THE OWNERSHIP OF PROPERTY. ....... 154
-TITLE II. CONCERNING ACQUIRING OR LOSING POSSESSION. ...................... 178
-TITLE III. CONCERNING THE INTERRUPTION OF PRESCRIPTION, AND USUCAPTION .....
-198
-TITLE IV. CONCERNING POSSESSION ACQUIRED BY A PURCHASER. ................. 214
-TITLE V. PAGE CONCERNING POSSESSION AS HEIR OR AS POSSESSOR
-.................... 221
-TITLE VI. CONCERNING POSSESSION ON THE GROUND OF DONATION ................ 222
-TITLE VII. CONCERNING POSSESSION ON THE GROUND OF ABANDONMENT. ......... 223
-TITLE Vill. CONCERNING POSSESSION ON THE GROUND OF A LEGACY. ................
-224
-TITLE IX. CONCERNING POSSESSION ON THE GROUND OF A DOWRY. ................ 225
-TITLE X. CONCERNING POSSESSION ON THE GROUND OF OWNERSHIP .............. 226
-
-
-
 THE DIGEST OR PANDECTS. BOOK XLI.
 
-TITLE I. CONCERNING THE ACQUISITION OF THE OWNERSHIP OF PROPERTY.
+* 41.01. CONCERNING THE ACQUISITION OF THE OWNERSHIP OF PROPERTY.
 
 1. Gaius, Diurnal or Golden Matters, Book II.
 We obtain the ownership of certain property by the Law of Nations, which is
@@ -1113,12 +1096,7 @@ When a pregnant woman is bequeathed, acquired by usucaption, or alienated in
 any other way, and brings forth a child, it will become the property of him who
 purchased her, and not of him to whom she belonged when she conceived.
 
-
-
-
-
-TITLE II.
-CONCERNING ACQUIRING OR LOSING POSSESSION.
+* 41.02. CONCERNING ACQUIRING OR LOSING POSSESSION.
 
 1. Paulus, On the Edict, Book LIV.
 Possession, as Labeo says, is derived from the term sedes,or position, because
@@ -1999,24 +1977,22 @@ which is much more decisive than to order him merely to restore it.
 Possession which is defective is usually only advantageous as against
 strangers.
 
+* 41.03. CONCERNING THE INTERRUPTION OP PRESCRIPTION, AND USUCAPTION.
 
-
-
-
-
-TITLE III.
-CONCERNING THE INTERRUPTION OP PRESCRIPTION, AND USUCAPTION.
 1. Gaius, On the Provincial Edict, Book XXL
 Usucaption was introduced for the public welfare, and especially in order that
 the ownership of certain property might not remain for a long time, and almost
 forever, undetermined; as a sufficient time is granted to owners to make
 inquiry after their property.
+
 2. Paulus, On the Edict, Book LIV.
 Usurpation is the interruption of usucaption. Orators call usucaption frequent
 use.
+
 3. Modestinus, Pandects, Book V.
 Usucaption is the addition of ownership by means of continuous possession for a
 time prescribed by law.
+
 4. Paulus, On the Edict, Book LIV.
 In the next place, we must speak of usucaption; and, in doing so, we must
 proceed in regular order, and examine who can acquire property by usucaption,
@@ -2678,7 +2654,9 @@ again come under the control of the owner.
 Paulus: Perhaps the contrary opinion is true; for if you should steal property
 which you have given to me in pledge, it becomes stolen goods, but it can be
 acquired by usucaption as soon as it again comes under my control.
-TITLE IV. CONCERNING POSSESSION ACQUIRED BY A PURCHASER.
+
+* 41.04. CONCERNING POSSESSION ACQUIRED BY A PURCHASER.
+
 1. Gaius, On the Provincial Edict, Book VI.
 A possessor who tenders the appraised value of the property in court begins to
 possess it as a purchaser.
@@ -2967,7 +2945,9 @@ The question arose whether the purchaser, knowing that half of the land
 belonged to the absent heir, could acquire the entire tract by prescription.
 The answer was that he could do so, if he believed that it had been sold by the
 authority of the brother who was absent.
-TITLE V. /    CONCERNING POSSESSION As HEIR OR As POSSESSOR.
+
+* 41.05. CONCERNING POSSESSION AS HEIR OR AS POSSESSOR.
+
 1. Pomponius, On Sabinus, Book XXXII.
 Nothing can be acquired by an heir through usucaption out of the property of a
 person who is living, even though the possessor thought that it belonged to one
@@ -2997,7 +2977,9 @@ by usucaption.
 4. Paulus, On the Lex Julia et Papia, Book V.It is established that he who has
 a right to make a will can, in the capacity of heir, acquire property by
 usucaption.
-TITLE VI. CONCERNING POSSESSION ON THE GROUND OP DONATION.
+
+* 41.06. CONCERNING POSSESSION ON THE GROUND OF DONATION.
+
 1. Paulus, On the Edict, Book LIV.
 He to whom property has been delivered as a gift acquires it by usucaption,
 because of the donation. It is not sufficient to think that this was the case,
@@ -3037,8 +3019,9 @@ interrupted.
 6. Hermogenianus, Epitomes of Law, Book II.
 When sale has been made which is, in fact, a donation, the property delivered
 is acquired by usucaption, as a purchase, and not as a gift.
-TITLE VII.
-CONCERNING POSSESSION ON THE GROUND OP ABANDONMENT.
+
+* 41.07. CONCERNING POSSESSION ON THE GROUND OP ABANDONMENT
+
 1. Ulpianus, On the Edict, Book XII.
 Where property is considered to be abandoned, it immediately ceases to be ours,
 and belongs to the first occupant, because it ceases to belong to us under the
@@ -3096,7 +3079,9 @@ I ask whether the freedom granted to Thetis can be revoked. Paulus answered
 that, as the owner of the female slave to whom Thetis was born was considered
 to have abandoned the latter, she could obtain her freedom at the hands of
 Lucius Titius.
-TITLE Vill. CONCERNING POSSESSION ON THE GROUND OF A LEGACY.
+
+* 41.08. CONCERNING POSSESSION ON THE GROUND OF A LEGACY
+
 1. Ulpianus, Disputations, Book VI.
 He is considered to be in possession as a legatee to whom the bequest has been
 left, for possession and usucaption based on the legacy will take place only in
@@ -3138,7 +3123,9 @@ law, or the legacy has been taken away, it has been decided, after much
 controversy, that the property can be acquired
 by usucaption on account of the legacy.
 i
-TITLE IX. CONCERNING POSSESSION ON THE GROUND OP A DOWRY.
+
+* 41.09. CONCERNING POSSESSION ON THE GROUND OP A DOWRY.
+
 1. Ulpianus, On Sabinus, Book XXXI.
 A right to usucaption, and one which is extremely just, is that which is said
 to exist on account of a dowry, so that anyone who receives property by way of
@@ -3179,8 +3166,10 @@ as dotal slaves, the question arose whether they could be held to have acquired
 them by usucaption, if they believed that they belonged to those who had given
 them as dowry. The answer was that there was nothing in the case stated to
 prevent them from being acquired by usucaption.
-TITLE X.
-CONCERNING POSSESSION ON THE GROUND OF OWNERSHIP. 1. Ulpianus, On the Edict,
+
+* 41.10. CONCERNING POSSESSION ON THE GROUND OF OWNERSHIP.
+
+1. Ulpianus, On the Edict,
 Book XV.
 Possession on the ground of ownership exists where we think we acquire property
 for ourselves, and have possession of it under the title by which it was

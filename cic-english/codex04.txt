@@ -2961,7 +2961,6 @@ afterwards complied with, even against the will of the parties, all the
 authority of the Velleian Decree of the Senate becoming inoperative in a case
 of this kind.
 
-
 * 4.XXX. CONCERNING MONEY WHICH IS NOT COUNTED OUT.
 1. The Emperors Severus and Antoninus to Hilarius.
 If the sum of money was not counted out to you, and you allege that for this
@@ -3161,7 +3160,6 @@ the oath was or was not taken with reference to agreements for the payment of
 interest, or other written instruments against which an exception of this kind
 can be pleaded?
 
-
 * 4.XXXI. CONCERNING SET-OFF.
 1. The Emperor Antoninus to Dianensus.
 The Senate decreed, and it has frequently been stated in rescripts, that there
@@ -3265,7 +3263,6 @@ extinguishing one obligation by means of another was enacted, a debt could only
 be permanently settled by its payment, or by a voluntary release from liability
 by the creditor. The Judicature Acts establish a distinction between a set-off
 and a counter-claim. "A counter-claim is different from a set-off for it is
-
 
 * 4.XXXII. CONCERNING INTEREST.
 1. The Emperor Antoninus Pius to Evocatus.
@@ -3525,7 +3522,6 @@ paid upon it. When, however, this law is obeyed, interest will always remain
 interest, and there will be no augmentation of other interest, and the only
 accrual will be what is derived from the original principal.
 
-
 * 4.XXXIII. CONCERNING MARITIME LOANS.
 
 1. The Emperors Diocletian and Maximian to Honoratus.
@@ -3693,7 +3689,6 @@ either in bulk, in ingots, or in money, should be liable, and his diligence pay
 the penalty for another's negligence; for if the other heir had taken advantage
 of the opportune time as his co-heir did, and both had received their shares,
 no ground would be left for subsequent alterations.
-
 
 * 4.XXXV. CONCERNING THE ACTION OF MANDATE, AND THE COUNTER ACTION.
 
@@ -3911,7 +3906,6 @@ that the present law shall only be applicable to future cases, and that
 everything which has been devised against the Constitution of Anastasius shall
 hereafter be annulled by this Our Law.
 
-
 * 4.XXXVI. CONCERNING A SLAVE WHO HAS DIRECTED A STRANGER TO PURCHASE HIM.
 1. The Emperors Diocletian and Maximian, and the Csesars, to Dionyna.
 If a slave should request a stranger to purchase him, even though it may not be
@@ -3931,7 +3925,6 @@ actions of mandate and purchase, to recover the price. It is, in fact, left to
 his choice either to recover you his slave, or the price for which you were
 sold, for as the money was paid out of the peculium,which belonged to him, it
 could not release the purchaser from liability for the obligation.
-
 
 * 4.XXXVII. CONCERNING THE ACTION OF PARTNERSHIP.
 1. The Emperors Diocletian and Maximian, and the Csesars, to Aurelius.
@@ -3976,7 +3969,6 @@ of which the insane person is a member, and renounce all connections with his
 partners, if he should see fit to do so. And We grant him lawful authority,
 just as in all other contracts, and permit him in a case of this kind to
 provide in a proper manner for the benefit of the said insane person.
-
 
 * 4.XXXVIII. CONCERNING THE CONTRACT OF PURCHASE AND SALE.
 1. The Emperors Valerian and Gallienus to Paulus.Sales which are made in some
@@ -4088,7 +4080,6 @@ reputable citizen; for the reason that it is impossible to place any confidence
 in such expedients, and We abolish them by the present law.
 We decree that this rule shall also apply to leases of the same character.
 
-
 * 4.XXXIX. CONCERNING THE INHERITANCE OR SALE OF RIGHTS OF ACTION.
 1. The Emperors Severus and Antoninus to Geminius.
 It is absolutely certain that where an estate is sold in the name of the
@@ -4144,7 +4135,6 @@ is applicable to both real and personal actions, and among the ancient
 authorities was used to indicate both, there is no reason why any distinction
 should be made between praetorian actions of this kind.
 
-
 * 4.XL. WHAT PROPERTY CANNOT BE SOLD, AND WHAT PERSONS ARE FORBIDDEN TO SELL OR PURCHASE IT.
 1. The Emperors Gratian, Valentinian, and Theodosius to Faustus, Count of the
 Sacred Largesses.
@@ -4168,7 +4158,6 @@ shall engage in this kind of traffic, if he is of high rank, shall be
 proscribed, and incur the loss of all his property, and that persons of
 inferior station shall suffer capital punishment.
 
-
 * 4.XLI. WHAT PROPERTY SHOULD NOT BE EXPORTED.
 
 1. The Emperors Valens and Gratian to Theodore, General of the Army.
@@ -4188,7 +4177,6 @@ barbarians any kind of arms which have been forbidden by Our laws, We decree
 that his entire property shall immediately be confiscated, and that he shall
 suffer the penalty of death.
 
-
 * 4.XLII. CONCERNING EUNUCHS.
 1. The Emperor Constantine to Aurelius, Duke of Mesopotamia.
 If anyone, after the promulgation of this law, should make any eunuchs in the
@@ -4206,7 +4194,6 @@ subjected to the same penalty. We, however, grant authority to all traders to
 buy or sell, wherever they please, eunuchs of barbarous nations who have been
 made such outside the boundaries of Our Empire.
 
-
 * 4.XLIII. CONCERNING FATHERS WHO HAVE SOLD THEIR CHILDREN.
 
 1. The Emperors Diocletian and Maximian to Papiniana.
@@ -4222,7 +4209,6 @@ where the purchaser had a right to the service of the person sold, and he who
 made the sale, or the one to whom the child was alienated, shall have the right
 to restore it to its freeborn condition, provided he tenders its value to the
 owner, or furnishes him another slave in its stead.
-
 
 * 4.XLIV. CONCERNING THE RESCISSION OF A SALE.
 
@@ -4366,7 +4352,6 @@ The Palatines are hereby informed that authority is refused them to purchase
 clothing, gold, silver, or slaves, whenever they are sold by Our subjects,
 under penalty of losing the price which they paid.
 
-
 * 4.XLV. WHEN IT is PERMITTED TO REFUSE TO COMPLY WITH A CONTRACT OF SALE.
 1. The Emperor Gordian to Rufinus.
 When a contract of purchase and sale has not yet begun to be carried into
@@ -4383,7 +4368,6 @@ with the terms of the agreement. Where, however, you have paid part of the
 price, you will rather be entitled to an action to recover whatever the vendor
 is required to furnish you under the contract of sale than the amount of the
 price which he paid.
-
 
 * 4.XLVI. WHERE A SALE is MADE ON ACCOUNT OF PUBLIC CONTRIBUTIONS.
 1. The Emperor Antoninus to Maternus.
@@ -4414,7 +4398,6 @@ difference whether what was due was to be collected by Our attorney, or the
 Governor of the province.
 Given on the day before the Idesof December, during the Consulate of Felicianus
 and Titian, 337.
-
 
 * 4.XLVII. LAND CANNOT BE PURCHASED WITHOUT THE PAYMENT OF TAXES OR BALANCES WHICH ARE DUE.
 1. The Emperor Alexander to Capito.
@@ -4458,7 +4441,6 @@ of dissimulation in order that those not in possession might be compelled to
 pay instead of the actual possessors.
 Given at Antioch on the fourteenth of the Kalendsof March, during the Consulate
 of Julian, Consul for the fourth time, and Sallust, 363.
-
 
 * 4.XLVIII. CONCERNING THE RISKS AND ADVANTAGES ATTACHING TO PROPERTY SOLD.
 1. The Emperor Alexander to Apollonius.
@@ -5246,6 +5228,7 @@ The supervision of this employment is hereby conferred upon you and your
 successors.
 
 * 4.LXIII. CONCERNING COMMERCE AND MERCHANTS.
+
 1. The Emperors Valens and Valentinian to Julian, Count of the East.
 Merchants who are attached to Our palace, as well as those forming part of the
 households of nobles, are admonished to acknowledge any claims which they owe
@@ -5253,6 +5236,7 @@ households of nobles, are admonished to acknowledge any claims which they owe
 who obtain profit from trade.
 Given at Constantinople, on the fifteenth of the Kalendsof May, during the
 Consulate of the Divine Jovian, and Varronian, 364.
+
 2. The Emperors Gratian, Valentinian, and Theodosius to Tatian, Count of the
 Sacred Largesses.
 Not only shall no gold be furnished to barbarians, but even if any should be
@@ -5261,11 +5245,13 @@ gold should hereafter be given to barbarians by traders, in payment for slaves
 or other merchandise, they shall not be fined, but shall suffer death; and when
 a judge does not punish such a crime after he has discovered it, or conceals
 it, he shall be punished as an accomplice.
+
 3. The Emperors Honorius and Theodosius to Theodore, Prsetorian Prefect.
 We forbid persons of noble birth, or those who are conspicuous through the
 honors they enjoy, or are wealthy, to carry on any trade
 which is injurious to cities, in order that the power to purchase and sell may
 be rendered more easy between plebeians and merchants.
+
 4. The Same to Anthemim, Prsetorian Prefect.
 Not only merchants who owe allegiance to Our government, but also those who are
 subject to the King of the Persians, must not hold markets beyond the places
@@ -5292,6 +5278,7 @@ remained for a long time in some province, they do not return to their own
 country; for, as they engage in trade, the penalty of this law will not
 unreasonably be imposed upon them, as well as upon those with whom they have
 contracted or resided.
+
 5. The Same to ZEtius, Praetorian Prefect.
 With a view to disposing of any attempt or claim to increase it, the membership
 of the association of merchants is hereby fixed at five hundred and sixty-
@@ -5301,6 +5288,7 @@ but those who have died shall be replaced by others selected by your tribunal
 from the same class to which the deceased belonged, in the presence of the
 corporate body; and no privilege shall be granted to anyone of the members to
 exceed the above-mentioned number.
+
 6. The Same to Maximus, Count of the Sacred Lar'gesses.
 If those who have been convicted of having gone beyond the cities named in the
 ancient laws, or of having entertained foreign merchants for the purpose of
