@@ -1346,6 +1346,7 @@ All these persons are considered to be exempt from public office.
 1. Ulpianus, On Massurius Sabinus, Book Vill.
 When a municipal envoy abandons his office, he is generally subjected to an
 ordinary penalty, and dismissed from his order.
+
 2. The Same, Opinions, Book II.
 An envoy appointed to proceed against a municipality can present his claim to
 the Emperor through another.
@@ -1355,12 +1356,14 @@ he must prove this fact before the Order of the town where he resides.
 colleague.
 (3) Salaries, in proportion to their rank, are paid to envoys who do not
 undertake their mission gratuitously.
+
 3. Africanus, Questions, Book III.
 When the question is asked whether an action should be granted against a person
 who is the member of a embassy, it is not so important to ascertain where the
 claimant either lent him money, or stipulated that something should be given,
 as to know where suit can be brought, so that payment may be made during the
 time of his mission.
+
 4. Marcianus, Institutes, Book XII.
 It should be noted that a debtor to the government cannot perform the duties
 devolving on an embassy. This the Divine Pius stated in a Rescript addressed to
@@ -1385,11 +1388,13 @@ served, as the Divine Hadrian stated in a Rescript addressed to the
 Clazomenians.
 (6) It is provided by an Edict of the Divine Vespasian addressed to all cities
 that one municipality shall not send more than three envoys.
+
 5. Scsevola, Rules, Book I.
 The time which may profit an envoy dates from his appointment, and not from the
 day when he arrives at Rome.
 (1) But if it is not satisfactorily established whether he is an envoy or not,
 the Praetor of Rome shall investigate the matter.
+
 6. Ulpianus, On the Duties of Proconsul, Book IV.
 Exemption from serving as an envoy is not granted to a son on account of the
 service of his father as one, as our Emperor, with his Father, stated to
@@ -1398,12 +1403,14 @@ envoy on account of the service of your father, but this can properly take
 place only so far as an office which requires the payment of expense is
 concerned; the rule, however, is different with reference to the expenses of an
 embassy which demands the service of a single person."
+
 7. Papinianus, Opinions, Book I.
 A son, who was a decurion, assumed the duties of a envoy in behalf of his
 father. This will not excuse him from another embassy, unless he has already
 departed; the father, however, can claim exemption for two years, for the
 reason that he is considered to have discharged the duties of his mission by
 his son.
+
 8. Paulus, Rules, Book I.
 Paulus gave it as his opinion that when anyone has once performed the duties of
 an envoy he cannot, during the time prescribed for exemption, be compelled to
@@ -1417,9 +1424,11 @@ Rome or in a province."
 attend to his own affairs nor to those of others; but anyone who gratuitously
 gives his advice to a Praetor, who is his friend, is not considered in this
 instance to violate this rule.
+
 9. The Same, Opinions, Book III.
 Paulus gave it as his opinion that where an envoy sustained any damage during
 the term of his service he could, even during that time, bring an action.
+
 10. The Same, Sentences, Book I.
 An envoy cannot bring an action relating to his own property before he has
 performed his official duties, except in those cases which relate to the
@@ -1427,6 +1436,7 @@ reparation of injury or the payment of damages.
 (1) When anyone dies during his service as envoy, and before he returns to his
 home, the expenses which have been advanced to him at the time of his departure
 shall not be returned.
+
 11. The Same, On the Right of Petition.
 Where anyone is appointed an envoy during his absence, and voluntarily accepts
 the office, he can send another to discharge its duties in his place.
@@ -1435,6 +1445,7 @@ business, still, the Great Antoninus permitted him to prosecute and defend
 cases in the name of a female ward; although he had not yet attended to the
 affairs of the embassy which he had undertaken, and especially when he alleged
 that the guardian for whom he acted was absent.
+
 12. Scsevola, Digest, Book I.
 An envoy who was appointed by his native town, having accepted the office, came
 to Rome; and, before he had discharged his duties, purchased a house in
@@ -1442,17 +1453,21 @@ Nicopolis, his own city. The question arose whether he was liable to the Decree
 of the Senate by which an envoy is prohibited from attending to his private
 business or affairs before the duties of his office have been performed. The
 answer was that he did not appear to be liable.
+
 13. Papinianus, Opinions, Book I.
 A substitute, appointed with his own consent to discharge the duties of
 another, is not entitled to the privilege of exemption for two years, and is
 compelled to accept the office of envoy.
+
 14. Ulpianus, On the Edict of the Prsetor, Book LXXIV.
 Anyone who is still absent, after having exercised the functions of an envoy,
 and been discharged, is not considered to be away on business for the State,
 for he is not absent for the public benefit, but for his own.
+
 15. Modestinus, Rules, Book VII.
 Anyone who performs the duties of an envoy cannot present a petition relating
 to his own affairs, or those of others, without permission of the Emperor.
+
 16. The Same, Rules, Book Vill.
 The same person is not forbidden to undertake several embassies; above all,
 where he pays his travelling expenses himself.
@@ -1460,14 +1475,9 @@ where he pays his travelling expenses himself.
 an envoy, he ought to defend it, even if he is absent, but where he has once
 undertaken such duties, he is not required to do so, unless in the performance
 of his official functions.
-17. Pomponius, On Quintus,Mucius, Book XXXVII.When anyone strikes the envoy of
-our enemy, he is considered to be guilty of an act against the Law of Nations,
-because envoys are
-considered sacred. Therefore, if any ambassadors of a nation with whom we are
-at war are with us, it has been established that they are free to remain; for
-this is in conformity with the Law of Nations. Hence, Quintus Mucius held that
-anyone who struck an ambassador is usually surrendered to the enemy of whom he
-was the representative.
+
+17. Pomponius, On Quintus,Mucius, Book XXXVII.
+When anyone strikes the envoy of our enemy, he is considered to be guilty of an act against the Law of Nations, because envoys are considered sacred. Therefore, if any ambassadors of a nation with whom we are at war are with us, it has been established that they are free to remain; for this is in conformity with the Law of Nations. Hence, Quintus Mucius held that anyone who struck an ambassador is usually surrendered to the enemy of whom he was the representative.
 The question arose, if the enemy did not receive the offender when he was sent
 to them, whether he would remain a Roman citizen. Some authorities think that
 he would remain such, and others are of the contrary opinion, because where a

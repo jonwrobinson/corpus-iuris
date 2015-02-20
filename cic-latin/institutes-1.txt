@@ -57,103 +57,33 @@ civilibus.
 
 * 1.II. De iure naturali, gentium et civili.
 
-1.2 pr.  Ius naturale est quod natura omnia animalia docuit. nam ius
-istud non humani generis proprium est, sed omnium animalium, quae in
-caelo, quae in terra, quae in mari nascuntur. hinc descendit maris
-atque feminae coniugatio, quam nos matrimonium appellamus, hinc
-liberorum procreatio et educatio: videmus etenim cetera quoque
-animalia istius iuris peritia censeri.
+1.2 pr.  Ius naturale est quod natura omnia animalia docuit. nam ius istud non humani generis proprium est, sed omnium animalium, quae in caelo, quae in terra, quae in mari nascuntur. hinc descendit maris atque feminae coniugatio, quam nos matrimonium appellamus, hinc liberorum procreatio et educatio: videmus etenim cetera quoque animalia istius iuris peritia censeri.
 
-1.2.1.  Ius autem civile vel gentium ita dividitur: omnes populi qui
-legibus et moribus reguntur partim suo proprio, partim communi omnium
-hominum iure utuntur: nam quod quisque populus ipse sibi ius
-constituit, id ipsius proprium civitatis est vocaturque ius civile,
-quasi ius proprium ipsius civitatis: quod vero naturalis ratio inter
-omnes homines constituit, id apud omnes populos peraeque custoditur
-vocaturque ius gentium, quasi quo iure omnes gentes utuntur. et
-populus itaque Romanus partim suo proprio, partim communi omnium
-hominum iure utitur. quae singula qualia sunt, suis locis proponemos.
+1.2.1.  Ius autem civile vel gentium ita dividitur: omnes populi qui legibus et moribus reguntur partim suo proprio, partim communi omnium hominum iure utuntur: nam quod quisque populus ipse sibi ius constituit, id ipsius proprium civitatis est vocaturque ius civile, quasi ius proprium ipsius civitatis: quod vero naturalis ratio inter omnes homines constituit, id apud omnes populos peraeque custoditur vocaturque ius gentium, quasi quo iure omnes gentes utuntur. et populus itaque Romanus partim suo proprio, partim communi omnium hominum iure utitur. quae singula qualia sunt, suis locis proponemos.
 
-1.2.2.
-Sed ius quidem civile ex unaquaque civitate appellatur, veluti
-Atheniensium: nam si quis velit Solonis vel Draconis leges appellare
-ius civile Atheniensium, non erraverit. sic enim et ius quo populus
-Romanus utitur ius civile Romanorum appellamus, vel ius Quiritium, quo
-Quirites utuntur; Romani enim a Quirino Quirites appellantur. sed
-quotiens non addimus, cuius sit civitatis, nostrum ius significamus:
-sicuti cum poetam dicimus nec addimus nomen, subauditur apud Graecos
-egregius Homerus, apud nos Vergilius.
+1.2.2.  Sed ius quidem civile ex unaquaque civitate appellatur, veluti Atheniensium: nam si quis velit Solonis vel Draconis leges appellare ius civile Atheniensium, non erraverit. sic enim et ius quo populus Romanus utitur ius civile Romanorum appellamus, vel ius Quiritium, quo Quirites utuntur; Romani enim a Quirino Quirites appellantur. sed quotiens non addimus, cuius sit civitatis, nostrum ius significamus: sicuti cum poetam dicimus nec addimus nomen, subauditur apud Graecos egregius Homerus, apud nos Vergilius.
 
-Ius autem gentium omni humano generi commune est. nam usu exigente et
-humanis necessitatibus gentes humanae quaedam sibi constituerunt:
-bella etenim orta sunt et captivitates secutae et servitutes, quae
-sunt iuri naturali contrariae (iure enim naturali ab initio omnes
-homines liberi nascebantur); ex hoc iure gentium et omnes paene
-contractus introducti sunt, ut emptio venditio, locatio conductio,
-societas, depositum, mutuum, et alii innumerabiles.
+Ius autem gentium omni humano generi commune est. nam usu exigente et humanis necessitatibus gentes humanae quaedam sibi constituerunt: bella etenim orta sunt et captivitates secutae et servitutes, quae sunt iuri naturali contrariae (iure enim naturali ab initio omnes homines liberi nascebantur); ex hoc iure gentium et omnes paene contractus introducti sunt, ut emptio venditio, locatio conductio, societas, depositum, mutuum, et alii innumerabiles.
 
-1.2.3.  Constat autem ius nostrum aut ex scripto aut ex non scripto, ut
-apud Graecos: \greek{tn nÒmvn oþ m°n ¶ggrafoi, oþ d¢ ênrafoi..}
-Scriptum ius est lex, plebiscita, senatusconsulta, principum placita,
-magistratuum edicta, responsa prudentium.
+1.2.3.  Constat autem ius nostrum aut ex scripto aut ex non scripto, ut apud Graecos: τῶν νόμων οῖ μὲν ἔγγραφοι οῖ δὲ ἄγραφοι [legum aliae scriptae aliae non scriptae].  Scriptum ius est lex, plebiscita, senatusconsulta, principum placita, magistratuum edicta, responsa prudentium.
 
-1.2.4.  Lex est quod populus Romanus senatorio magistratu interrogante,
-veluti consule, constituebat. plebiscitum est, quod plebs plebeio
-magistratu interrogante, veluti tribuno, constituebat. plebs autem a
-populo eo differt quo species a genere: nam appellatione populi
-universi cives significantur, connumeratis etiam patriciis et
-senatoribus: plebis autem appellatione sine patriciis et senatoribus
-ceteri cives significantur. sed et plebiscita, lege Hortensia lata,
-non minus valere quam leges coeperunt.
+1.2.4.  Lex est quod populus Romanus senatorio magistratu interrogante, veluti consule, constituebat. plebiscitum est, quod plebs plebeio magistratu interrogante, veluti tribuno, constituebat. plebs autem a populo eo differt quo species a genere: nam appellatione populi universi cives significantur, connumeratis etiam patriciis et senatoribus: plebis autem appellatione sine patriciis et senatoribus ceteri cives significantur. sed et plebiscita, lege Hortensia lata, non minus valere quam leges coeperunt.
 
-1.2.5.  Senatusconsultum est quod senatus iubet atque constituit. nam
-cum auctus est populus Romanus in eum modum ut difficile sit in unum
-eum convocari legis sanciendae causa, aequum visum est senatum vice
-populi consuli.
+1.2.5.  Senatusconsultum est quod senatus iubet atque constituit. nam cum auctus est populus Romanus in eum modum ut difficile sit in unum eum convocari legis sanciendae causa, aequum visum est senatum vice populi consuli.
 
-1.2.6.  Sed et quod principi placuit legis habet vigorem, cum lege
-regia, quae de imperio eius lata est, populus ei et in eum omne suum
-imperium et potestatem concessit. quodcumque igitur imperator per
-epistulam constituit vel cognoscens decrevit vel edicto praecepit,
-legem esse constat: hae sunt quae constitutiones appellantur. plane ex
-his quaedam sunt personales, quae nec ad exemplum trahuntur, quoniam
-non hoc princeps vult: nam quod alicui ob merita indulsit, vel si cui
-poenam irrogavit, vel si cui sine exemplo subvenit, personam non
-egreditur. aliae autem, cum generales sunt, omnes procul dubio
-tenent.
+1.2.6.  Sed et quod principi placuit legis habet vigorem, cum lege regia, quae de imperio eius lata est, populus ei et in eum omne suum imperium et potestatem concessit. quodcumque igitur imperator per epistulam constituit vel cognoscens decrevit vel edicto praecepit, legem esse constat: hae sunt quae constitutiones appellantur. plane ex his quaedam sunt personales, quae nec ad exemplum trahuntur, quoniam non hoc princeps vult: nam quod alicui ob merita indulsit, vel si cui poenam irrogavit, vel si cui sine exemplo subvenit, personam non egreditur. aliae autem, cum generales sunt, omnes procul dubio tenent.
 
-1.2.7.  Praetorum quoque edicta non modicam iuris optinent
-auctoritatem. haec etiam ius honorarium solemus appellare, quod qui
-honorem gerunt, id est magistratus, auctoritatem huic iuri
-dederunt. proponebant et aediles curules edictum de quibusdam casibus,
-quod edictum iuris honorarii portio est.
+1.2.7.  Praetorum quoque edicta non modicam iuris optinent auctoritatem. haec etiam ius honorarium solemus appellare, quod qui honorem gerunt, id est magistratus, auctoritatem huic iuri dederunt. proponebant et aediles curules edictum de quibusdam casibus, quod edictum iuris honorarii portio est.
 
-1.2.8.  Responsa prudentium sunt sententiae et opiniones eorum quibus
-permissum erat iura condere. nam antiquitus institutum erat ut essent
-qui iura publice interpretarentur, quibus a Caesare ius respondendi
-datum est, qui iurisconsulti appellabantur. quorum omnium sententiae
-et opiniones eam auctoritatem tenebant ut iudici recedere a responso
-eorum non liceret, ut est constitutum.
+1.2.8.  Responsa prudentium sunt sententiae et opiniones eorum quibus permissum erat iura condere. nam antiquitus institutum erat ut essent qui iura publice interpretarentur, quibus a Caesare ius respondendi datum est, qui iurisconsulti appellabantur. quorum omnium sententiae et opiniones eam auctoritatem tenebant ut iudici recedere a responso eorum non liceret, ut est constitutum.
 
-1.2.9.  Ex non scripto ius venit quod usus comprobavit. nam diuturni
-mores consensu utentium comprobati legem imitantur.
+1.2.9.  Ex non scripto ius venit quod usus comprobavit. nam diuturni mores consensu utentium comprobati legem imitantur.
 
-1.2.10.  Et non ineleganter in duas species ius civile distributum
-videtur. nam origo eius ab institutis duarum civitatium, Athenarum
-scilicet et Lacedaemonis, fluxisse videtur: in his enim civitatibus
-ita agi solitum erat, ut Lacedaemonii quidem magis ea quae pro legibus
-observarent memoriae mandarent, Athenienses vero ea quae in legibus
-scripta reprehendissent custodirent.
+1.2.10.  Et non ineleganter in duas species ius civile distributum videtur. nam origo eius ab institutis duarum civitatium, Athenarum scilicet et Lacedaemonis, fluxisse videtur: in his enim civitatibus ita agi solitum erat, ut Lacedaemonii quidem magis ea quae pro legibus observarent memoriae mandarent, Athenienses vero ea quae in legibus scripta reprehendissent custodirent.
 
-1.2.11.  Sed naturalia quidem iura, quae apud omnes gentes peraeque
-servantur, divina quadam providentia constituta, semper firma atque
-immutabilia permanent: ea vero quae ipsa sibi quaeque civitas
-constituit, saepe mutari solent vel tacito consensu populi vel alia
-postea lege lata.
+1.2.11.  Sed naturalia quidem iura, quae apud omnes gentes peraeque servantur, divina quadam providentia constituta, semper firma atque immutabilia permanent: ea vero quae ipsa sibi quaeque civitas constituit, saepe mutari solent vel tacito consensu populi vel alia postea lege lata.
 
-1.2.12.  Omne autem ius quo utimur vel ad personas pertinet vel ad res
-vel ad actiones. ac prius de personis videamus. nam parum est ius
-nosse, si personae, quarum causa statutum est, ignorentur.
+1.2.12.  Omne autem ius quo utimur vel ad personas pertinet vel ad res vel ad actiones. ac prius de personis videamus. nam parum est ius nosse, si personae, quarum causa statutum est, ignorentur.
 
 * 1.III. De iure personarum.
 

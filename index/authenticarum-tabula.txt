@@ -4,7 +4,7 @@
 
 Franciscus Accursius.
 Corpus iuris civilis. Codex.
-  Liber 1-9 mit der Glossa ordinaria von Accursius Florentinus
+Liber 1-9 mit der Glossa ordinaria von Accursius Florentinus
 [Venedig] [ca. 1478/79]
 2 Inc.s.a. 321
 urn:nbn:de:bvb:12-bsb00050150-1
@@ -20,15 +20,18 @@ http://daten.digitale-sammlungen.de/~db/0005/bsb00050150/image_1
   *Code*, provide its rubric, and give a cross-reference to its
   location in the *Authenticum* as well as to the *Novels*.
 
+  Needless to say, everything listed so far would benefit from some
+  cross-checking.
+
 * Abbreviations
 
   aut.  = authentica
-  a.    = ante [us. used when there are several authenticae in a row]
+  a.    = ante
   c.f.  = Constitutio Frederici
   p.    = post
   pr.   = prooemium
   r.    = rubrica
-  C.    = Collatio
+  C.    = Codex seu Collatio
   N.    = Novella
 
 
@@ -338,22 +341,71 @@ http://daten.digitale-sammlungen.de/~db/0005/bsb00050150/image_1
 * Codex 05
 
 - aut. Incestas nuptias
-  post C.5.5.7 pr.
+  post C.5.5.6.6
   r.:  In. aut. de inces. nupt. C. iii
 
-- aut. Ex complexu [a. C.5.5.7 pr.
+- aut. Ex complexu
+  ante C.5.5.7 pr.
   r.:  In aut. quibus modis naturales effi. sui. §. fi. C. vii.
-
 
 - aut. Matrius et auien secundum ordinem
   post C.5.35.2.4
   r.:  In aut. de heredi. ab intesta. §. ex his coll. nona.
 
+- aut. Eisdem penis
+  post C.5.9.1.4
+  r.:  In autentica. de nup. §. si autem coll. iiii. et de re. et. ea que par. §. fin. coll. iiii.
+
+- aut. In donatione
+  post C.5.9.2
+  r.:  In autentica de nup. coll. iii. §. si uero
+
+- aut. Lucrum hoc in liberos
+  ante C.5.3.1a
+  r.:  In auten. de nup. coll. iiii. §. si uero expectet uer. uenient at talia
+
+- aut. Ex testamento
+  post C.5.9.3.2
+  r.:  In auten. de nup. §. hinc nobis coll. iiii. et de non elig. secundo nu. §. cum igitur. coll. prima
+
+- aut. Sed etsi quis ex his
+  ante C.5.9.4 pr.
+  r.:  In auten. de non eligendo. §. hinc autem coll. i. In auten. de nup. coll. iiii. §. quoniam infirmas
+
+- aut. Heres lucro cedunt
+  ante C.5.9.5.7
+  r.:  Ini auten. de nup. §. si uero expectet et §. quoniam infirmas et §. soluto. coll. iiii.
+
+- aut. Uxor mortua quod uir
+  post C.5.9.5.7
+  r.:  In auten. neque uirum quod ex dote. §. illud. coll. viii.
+
+- aut. Si tamen abstineat
+  ante C.5.9.6 pr.
+  r.:  In autenti ut fratrum filii. §. quia uero coll. nona
+
+- aut. Sed si aurum fuerit
+  ante C.5.9.6.9
+  r.:  In auten. de non eligendo. §. illud. coll. i. et in auten. de nup. §. et quia coll. quarta.
+
+- aut. Nunc autem nisi expressim
+  ante C.5.9.8.2
+  r.:  In auten. de nupt. §. deinceps coll. quarta
+
+- aut. Ad eos solos etiam
+  ante C.5.9.10 pr.
+  r.:  In auten. de nup. §. i. et §. nec illud et §. optime. coll. iiii
+
+[[ START: C.5.10 pdf338 ]]
+
+
+
 - aut. Sacramentum
   post C.5.35.2.4
   r.:  In aut. ut ma. de. et cred. §. fi.
 
-- aut. Ad hec et si debitum [a. C.5.35.3 pr.
+- aut. Ad hec et si debitum
+  ante C.5.35.3 pr.
   r.:  In aut. ma. debi. et credi. §. fi.
 
 * Codex 06
