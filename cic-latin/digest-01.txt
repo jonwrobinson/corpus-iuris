@@ -273,7 +273,7 @@ Dig. 1.2.2.5
 
 Pomponius l.S. enchir.
 
-His legibus latis coepit ( ut naturaliter evenire solet, ut interpretatio desideraret prudentium auctoritatem) necessariam ^ necessarium^ esse disputatione ^ disputationem^ fori. haec disputatio et hoc ius, quod sine scripto venit compositum a prudentibus, propria parte aliqua non appellatur, ut ceterae partes iuris suis nominibus designantur, datis propriis nominibus ceteris partibus, sed communi nomine appellatur ius civile.
+His legibus latis coepit (ut naturaliter evenire solet, ut interpretatio desideraret prudentium auctoritatem) necessariam ^ necessarium^ esse disputatione ^ disputationem^ fori. haec disputatio et hoc ius, quod sine scripto venit compositum a prudentibus, propria parte aliqua non appellatur, ut ceterae partes iuris suis nominibus designantur, datis propriis nominibus ceteris partibus, sed communi nomine appellatur ius civile.
 
 Dig. 1.2.2.6
 
@@ -309,7 +309,7 @@ Dig. 1.2.2.11
 
 Pomponius l.S. enchir.
 
-Novissime sicut ad pauciores iuris constituendi vias transisse ipsis rebus dictantibus videbatur per partes, evenit, ut necesse esset rei publicae per unum consuli ( nam senatus non perinde omnes provincias probe gerere poterant): igitur constituto principe datum est ei ius, ut quod constituisset, ratum esset.
+Novissime sicut ad pauciores iuris constituendi vias transisse ipsis rebus dictantibus videbatur per partes, evenit, ut necesse esset rei publicae per unum consuli (nam senatus non perinde omnes provincias probe gerere poterant): igitur constituto principe datum est ei ius, ut quod constituisset, ratum esset.
 
 Dig. 1.2.2.12
 
@@ -387,7 +387,7 @@ Dig. 1.2.2.24
 
 Pomponius l.S. enchir.
 
-Et cum placuisset leges quoque ferri, latum est ad populum, uti omnes magistratu se abdicarent, quo decemviri constituti anno uno cum magistratum prorogarent sibi et cum iniuriose tractarent neque vellent deinceps sufficere magistratibus, ut ipsi et factio sua perpetuo rem publicam occupatam retineret: nimia atque aspera dominatione eo rem perduxerant, ut exercitus a re publica secederet. initium fuisse secessionis dicitur verginius quidam, qui cum animadvertisset appium claudium contra ius, quod ipse ex vetere iure in duodecim tabulas transtulerat, vindicias filiae suae a se abdixisse et secundum eum, qui in servitutem ab eo suppositus petierat, dixisse captumque amore virginis omne fas ac nefas miscuisse: indignatus, quod vetustissima iuris observantia in persona filiae suae defecisset ( utpote cum brutus, qui primus romae consul fuit, vindicias secundum libertatem dixisset in persona vindicis vitelliorum servi, qui proditionis coniurationem indicio suo detexerat) et castitatem filiae vitae quoque eius praeferendam putaret, arrepto cultro de taberna lanionis filiam interfecit in hoc scilicet, ut morte virginis contumeliam stupri arceret, ac protinus recens a caede madenteque adhuc filiae cruore ad commilitones confugit. qui universi de algido, ubi tunc belli gerendi causa legiones erant, relictis ducibus pristinis signa in aventinum transtulerunt, omnisque plebs urbana mox eodem se contulit, populique consensu partim in carcere necati. ita rursus res publica suum statum recepit.
+Et cum placuisset leges quoque ferri, latum est ad populum, uti omnes magistratu se abdicarent, quo decemviri constituti anno uno cum magistratum prorogarent sibi et cum iniuriose tractarent neque vellent deinceps sufficere magistratibus, ut ipsi et factio sua perpetuo rem publicam occupatam retineret: nimia atque aspera dominatione eo rem perduxerant, ut exercitus a re publica secederet. initium fuisse secessionis dicitur verginius quidam, qui cum animadvertisset appium claudium contra ius, quod ipse ex vetere iure in duodecim tabulas transtulerat, vindicias filiae suae a se abdixisse et secundum eum, qui in servitutem ab eo suppositus petierat, dixisse captumque amore virginis omne fas ac nefas miscuisse: indignatus, quod vetustissima iuris observantia in persona filiae suae defecisset (utpote cum brutus, qui primus romae consul fuit, vindicias secundum libertatem dixisset in persona vindicis vitelliorum servi, qui proditionis coniurationem indicio suo detexerat) et castitatem filiae vitae quoque eius praeferendam putaret, arrepto cultro de taberna lanionis filiam interfecit in hoc scilicet, ut morte virginis contumeliam stupri arceret, ac protinus recens a caede madenteque adhuc filiae cruore ad commilitones confugit. qui universi de algido, ubi tunc belli gerendi causa legiones erant, relictis ducibus pristinis signa in aventinum transtulerunt, omnisque plebs urbana mox eodem se contulit, populique consensu partim in carcere necati. ita rursus res publica suum statum recepit.
 
 Dig. 1.2.2.25
 
@@ -918,7 +918,7 @@ Dig. 1.5.5.2
 
 Marcianus 1 inst.
 
-Ingenui sunt, qui ex matre libera nati sunt: sufficit enim liberam fuisse eo tempore quo nascitur, licet ancilla concepit. et e contrario si libera conceperit, deinde ancilla pariat, placuit eum qui nascitur liberum nasci. ( nec interest iustis nuptiis concepit an volgo), quia non debet calamitas matris nocere ei qui in ventre est.
+Ingenui sunt, qui ex matre libera nati sunt: sufficit enim liberam fuisse eo tempore quo nascitur, licet ancilla concepit. et e contrario si libera conceperit, deinde ancilla pariat, placuit eum qui nascitur liberum nasci. (nec interest iustis nuptiis concepit an volgo), quia non debet calamitas matris nocere ei qui in ventre est.
 
 Dig. 1.5.5.3
 
@@ -1548,16 +1548,7 @@ Dig. 1.8.1pr.
 
 Gaius 2 inst.
 
-Summa rerum divisio in duos articulos deducitur: nam aliae sunt divini
-iuris, aliae humani. divini iuris sunt veluti res sacrae et
-religiosae. sanctae quoque res, veluti muri et portae, quodammodo
-divini iuris sunt. quod autem divini iuris est, id nullius in bonis
-est: id vero, quod humani iuris est, plerumque alicuius in bonis est,
-potest autem et nullius in bonis esse: nam res hereditariae, antequam
-aliquis heres existat, nullius in bonis sunt. hae autem res, quae
-humani iuris sunt, aut publicae aut privatae. quae publicae sunt,
-nullius in bonis esse creduntur, ipsius enim universitatis esse
-creduntur: privatae autem sunt, quae singulorum sunt.
+Summa rerum divisio in duos articulos deducitur: nam aliae sunt divini iuris, aliae humani. divini iuris sunt veluti res sacrae et religiosae. sanctae quoque res, veluti muri et portae, quodammodo divini iuris sunt. quod autem divini iuris est, id nullius in bonis est: id vero, quod humani iuris est, plerumque alicuius in bonis est, potest autem et nullius in bonis esse: nam res hereditariae, antequam aliquis heres existat, nullius in bonis sunt. hae autem res, quae humani iuris sunt, aut publicae aut privatae. quae publicae sunt, nullius in bonis esse creduntur, ipsius enim universitatis esse creduntur: privatae autem sunt, quae singulorum sunt.
 
 Dig. 1.8.1.1
 
@@ -1913,7 +1904,7 @@ Dig. 1.12.1.8
 
 Ulpianus l.S. de off. praef. urb.
 
-Quod autem dictum est, ut servos de dominis querentes praefectus audiat, sic accipiemus non accusantes dominos ( hoc enim nequaquam servo permittendum est nisi ex causis receptis) sed si verecunde expostulent, si saevitiam, si duritiam, si famem, qua eos premant, si obscenitatem, in qua eos compulerint vel compellant, apud praefectum urbi exponant. hoc quoque officium praefecto urbi a divo severo datum est, ut mancipia tueatur ne prostituantur.
+Quod autem dictum est, ut servos de dominis querentes praefectus audiat, sic accipiemus non accusantes dominos (hoc enim nequaquam servo permittendum est nisi ex causis receptis) sed si verecunde expostulent, si saevitiam, si duritiam, si famem, qua eos premant, si obscenitatem, in qua eos compulerint vel compellant, apud praefectum urbi exponant. hoc quoque officium praefecto urbi a divo severo datum est, ut mancipia tueatur ne prostituantur.
 
 Dig. 1.12.1.9
 
@@ -2143,7 +2134,7 @@ Dig. 1.16.4.6
 
 Ulpianus 1 de off. procons.
 
-Post haec ingressus provinciam mandare iurisdictionem legato suo debet nec hoc ante facere, quam fuerit provinciam ingressus; est enim perquam absurdum, antequam ipse iurisdictionem nanciscatur ( nec enim prius ei competit, quam in eam provinciam venerit) alii eam mandare, quam non habet. sed si et ante fecerit et ingressus provinciam in eadem voluntate fuerit, credendum est videri legatum habere iurisdictionem, non exinde ex quo mandata est, sed ex quo provinciam proconsul ingressus est.
+Post haec ingressus provinciam mandare iurisdictionem legato suo debet nec hoc ante facere, quam fuerit provinciam ingressus; est enim perquam absurdum, antequam ipse iurisdictionem nanciscatur (nec enim prius ei competit, quam in eam provinciam venerit) alii eam mandare, quam non habet. sed si et ante fecerit et ingressus provinciam in eadem voluntate fuerit, credendum est videri legatum habere iurisdictionem, non exinde ex quo mandata est, sed ex quo provinciam proconsul ingressus est.
 
 Dig. 1.16.5
 
