@@ -6,9 +6,7 @@
 + 9.3.0. De his, qui effuderint vel deiecerint.
 + 9.4.0. De noxalibus actionibus.
 
-
 * 9.1.0.  Si quadrupes pauperiem fecisse dicatur.
-
 
 9.1.1
 
@@ -34,23 +32,23 @@ pr. Si quadrupes pauperiem fecisse dicetur, actio ex lege duodecim tabularum des
 
 9. Sive autem corpore suo pauperiem quadrupes dedit, sive per aliam rem, quam tetigit quadrupes, haec actio locum habebit: ut puta si plaustro bos obtrivit aliquem vel alia re deiecta.
 
- 10. In bestiis autem propter naturalem feritatem haec actio locum non habet: et ideo si ursus fugit et sic nocuit, non potest quondam dominus conveniri, quia desinit dominus esse, ubi fera evasit: et ideo et si eum occidi, meum corpus est.
+10. In bestiis autem propter naturalem feritatem haec actio locum non habet: et ideo si ursus fugit et sic nocuit, non potest quondam dominus conveniri, quia desinit dominus esse, ubi fera evasit: et ideo et si eum occidi, meum corpus est.
 
- 11. Cum arietes vel boves commisissent et alter alterum occidit, Quintus Mucius distinxit, ut si quidem is perisset qui adgressus erat, cessaret actio, si is, qui non provocaverat, competeret actio: quamobrem eum sibi aut noxam sarcire aut in noxam dedere oportere.
+11. Cum arietes vel boves commisissent et alter alterum occidit, Quintus Mucius distinxit, ut si quidem is perisset qui adgressus erat, cessaret actio, si is, qui non provocaverat, competeret actio: quamobrem eum sibi aut noxam sarcire aut in noxam dedere oportere.
 
- 12.  Et cum etiam in quadrupedibus noxa caput sequitur, adversus dominum haec actio datur, non cuius fuerit quadrupes, cum noceret, sed cuius nunc est.
+12.  Et cum etiam in quadrupedibus noxa caput sequitur, adversus dominum haec actio datur, non cuius fuerit quadrupes, cum noceret, sed cuius nunc est.
 
- 13. Plane si ante litem contestatam decesserit animal, extincta erit actio.
+13. Plane si ante litem contestatam decesserit animal, extincta erit actio.
 
- 14. Noxae autem dedere est animal tradere vivum. Demum si commune plurium sit animal, adversus singulos erit in solidum noxalis actio, sicuti in homine.
+14. Noxae autem dedere est animal tradere vivum. Demum si commune plurium sit animal, adversus singulos erit in solidum noxalis actio, sicuti in homine.
 
- 15. Interdum autem dominus in hoc non convenietur, ut noxae dedat, sed etiam in solidum, ut puta si iure interrogatus, an sua quadrupes esset, responderit non esse suam: nam si constiterit esse eius in solidum condemnabitur.
+15. Interdum autem dominus in hoc non convenietur, ut noxae dedat, sed etiam in solidum, ut puta si iure interrogatus, an sua quadrupes esset, responderit non esse suam: nam si constiterit esse eius in solidum condemnabitur.
 
- 16. Si post litem contestatam ab alio sit animal occisum, quia domino legis Aquiliae actio competit, ratio in iudicio habebitur legis Aquiliae, quia dominus noxae dedendae facultatem amiserit: ergo ex iudicio proposito litis aestimationem offeret, nisi paratus fuerit actionem mandare adversus eum qui occidit.
+16. Si post litem contestatam ab alio sit animal occisum, quia domino legis Aquiliae actio competit, ratio in iudicio habebitur legis Aquiliae, quia dominus noxae dedendae facultatem amiserit: ergo ex iudicio proposito litis aestimationem offeret, nisi paratus fuerit actionem mandare adversus eum qui occidit.
 
 17. Hanc actionem nemo dubitaverit heredi dari ceterisque successoribus: item adversus heredes ceterosque non iure successionis, sed eo iure, quo domini sint, competit.
 
- 9.1.2
+9.1.2
 
 Paulus libro 22 ad edictum
 
@@ -58,26 +56,25 @@ pr. Haec actio non solum domino, sed etiam ei cuius interest competit, veluti ei
 
 1. Si quis aliquem evitans, magistratum forte, in taberna proxima se immisisset ibique a cane feroce laesus esset, non posse agi canis nomine quidam putant: at si solutus fuisset, contra.
 
- 9.1.3
+9.1.3
 
 Gaius libro septimo ad edictum provinciale
 
 Ex hac lege iam non dubitatur etiam liberarum personarum nomine agi posse, forte si patrem familias aut filium familias vulneraverit quadrupes: scilicet ut non deformitatis ratio habeatur, cum liberum corpus aestimationem non recipiat, sed impensarum in curationem factarum et operarum amissarum quasque amissurus quis esset inutilis factus.
 
- 9.1.4
+9.1.4
 
 Paulus libro 22 ad edictum
 
 Haec actio utilis competit et si non quadrupes, sed aliud animal pauperiem fecit.
 
- 9.1.5
+9.1.5
 
 Alfenus libro secundo digestorum
 
 Agaso cum in tabernam equum deduceret, mulam equus olfecit, mula calcem reiecit et crus agasoni fregit: consulebatur, possetne cum domino mulae agi, quod ea pauperiem fecisset. Respondi posse.
 
 * 9.2.0. Ad legem Aquiliam.
-
 
 9.2.1
 
@@ -87,7 +84,7 @@ pr. Lex Aquilia omnibus legibus, quae ante se de damno iniuria locutae sunt, der
 
 1. Quae lex Aquilia plebiscitum est, cum eam Aquilius tribunus plebis a plebe rogaverit.
 
- 9.2.2
+9.2.2
 
 Gaius libro septimo ad edictum provinciale
 
@@ -97,13 +94,13 @@ pr. Lege Aquilia capite primo cavetur: "Ut qui servum servamve alienum alienamve
 
 2. Ut igitur apparet, servis nostris exaequat quadrupedes, quae pecudum numero sunt et gregatim habentur, veluti oves caprae boves equi muli asini. Sed an sues pecudum appellatione continentur, quaeritur: et recte Labeoni placet contineri. Sed canis inter pecudes non est. Longe magis bestiae in numero non sunt, veluti ursi leones pantherae. Elefanti autem et cameli quasi mixti sunt (nam et iumentorum operam praestant et natura eorum fera est) et ideo primo capite contineri eas oportet.
 
- 9.2.3
+9.2.3
 
 Ulpianus libro 18 ad edictum
 
 Si servus servave iniuria occisus occisave fuerit, lex Aquilia locum habet. Iniuria occisum esse merito adicitur: non enim sufficit occisum, sed oportet iniuria id esse factum.
 
- 9.2.4
+9.2.4
 
 Gaius libro septimo ad edictum provinciale
 
@@ -111,7 +108,7 @@ pr. Itaque si servum tuum latronem insidiantem mihi occidero, securus ero: nam a
 
 1. Lex duodecim tabularum furem noctu deprehensum occidere permittit, ut tamen id ipsum cum clamore testificetur: interdiu autem deprehensum ita permittit occidere, si is se telo defendat, ut tamen aeque cum clamore testificetur.
 
- 9.2.5
+9.2.5
 
 Ulpianus libro 18 ad edictum
 
@@ -123,13 +120,13 @@ pr. Sed et si quemcumque alium ferro se petentem quis occiderit, non videbitur i
 
 3. Si magister in disciplina vulneraverit servum vel occiderit, an Aquilia teneatur, quasi damnum iniuria dederit? Et Iulianus scribit Aquilia teneri eum, qui eluscaverat discipulum in disciplina: multo magis igitur in occiso idem erit dicendum. Proponitur autem apud eum species talis: sutor, inquit, puero discenti ingenuo filio familias, parum bene facienti quod demonstraverit, forma calcei cervicem percussit, ut oculus puero perfunderetur. Dicit igitur Iulianus iniuriarum quidem actionem non competere, quia non faciendae iniuriae causa percusserit, sed monendi et docendi causa: an ex locato, dubitat, quia levis dumtaxat castigatio concessa est docenti: sed lege Aquilia posse agi non dubito:
 
- 9.2.6
+9.2.6
 
 Paulus libro 22 ad edictum
 
 praeceptoris enim nimia saevitia culpae adsignatur.
 
- 9.2.7
+9.2.7
 
 Ulpianus libro 18 ad edictum
 
@@ -151,13 +148,13 @@ pr. Qua actione patrem consecuturum ait, quod minus ex operis filii sui propter 
 
 8. Proculus ait, si medicus servum imperite secuerit, vel ex locato vel ex lege Aquilia competere actionem.
 
- 9.2.8
+9.2.8
 
 Gaius libro septimo ad edictum provinciale
 
 Idem iuris est, si medicamento perperam usus fuerit. Sed et qui bene secuerit et dereliquit curationem, securus non erit, sed culpae reus intellegitur. Mulionem quoque, si per imperitiam impetum mularum retinere non potuerit, si eae alienum hominem obtriverint, volgo dicitur culpae nomine teneri. Idem dicitur et si propter infirmitatem sustinere mularum impetum non potuerit: nec videtur iniquum, si infirmitas culpae adnumeretur, cum affectare quisque non debeat, in quo vel intellegit vel intellegere debet infirmitatem suam alii periculosam futuram. Idem iuris est in persona eius, qui impetum equi, quo vehebatur, propter imperitiam vel infirmitatem retinere non poterit.
 
- 9.2.9
+9.2.9
 
 Ulpianus libro 18 ad edictum
 
@@ -171,13 +168,13 @@ pr. Item si obstetrix medicamentum dederit et inde mulier perierit, Labeo distin
 
 4. Sed si per lusum iaculantibus servus fuerit occisus, Aquiliae locus est: sed si cum alii in campo iacularentur, servus per eum locum transierit, Aquilia cessat, quia non debuit per campum iaculatorium iter intempestive facere. Qui tamen data opera in eum iaculatus est, utique Aquilia tenebitur:
 
- 9.2.10
+9.2.10
 
 Paulus libro 22 ad edictum
 
 Nam lusus quoque noxius in culpa est.
 
- 9.2.11
+9.2.11
 
 Ulpianus libro 18 ad edictum
 
@@ -203,13 +200,13 @@ pr. Item Mela scribit, si, cum pila quidam luderent, vehementius quis pila percu
 
 10. An fructuarius vel usuarius legis Aquiliae actionem haberet, Iulianus tractat: et ego puto melius utile iudicium ex hac causa dandum.
 
- 9.2.12
+9.2.12
 
 Paulus libro decimo ad Sabinum
 
 Sed et si proprietatis dominus vulneraverit servum vel occiderit, in quo usus fructus meus est, danda est mihi ad exemplum legis Aquiliae actio in eum pro portione usus fructus, ut etiam ea pars anni in aestimationem veniat, qua nondum usus fructus meus fuit.
 
- 9.2.13
+9.2.13
 
 Ulpianus libro 18 ad edictum
 
@@ -221,13 +218,13 @@ pr. Liber homo suo nomine utilem Aquiliae habet actionem: directam enim non habe
 
 3. Si servus legatus post aditam hereditatem sit occisus, competere legis Aquiliae actionem legatario, si non post mortem servi adgnovit legatum: quod si repudiavit, consequens esse ait Iulianus dicere heredi competere.
 
- 9.2.14
+9.2.14
 
 Paulus libro 22 ad edictum
 
 Sed si ipse heres eum occiderit, dictum est dandam in eum legatario actionem.
 
- 9.2.15
+9.2.15
 
 Ulpianus libro 18 ad edictum
 
@@ -235,37 +232,37 @@ pr. Huic scripturae consequens est dicere, ut, si ante aditam hereditatem occida
 
 1. Si servus vulneratus mortifere postea ruina vel naufragio vel alio ictu maturius perierit, de occiso agi non posse, sed quasi de vulnerato, sed si manumissus vel alienatus ex vulnere periit, quasi de occiso agi posse Iulianus ait. Haec ita tam varie, quia verum est eum a te occisum tunc cum vulnerabas, quod mortuo eo demum apparuit: at in superiore non est passa ruina apparere an sit occisus. Sed si vulneratum mortifere liberum et heredem esse iusseris, deinde decesserit, heredem eius agere Aquilia non posse,
 
- 9.2.16
+9.2.16
 
 Marcianus libro quarto regularum
 
 quia in eum casum res pervenit, a quo incipere non potest.
 
- 9.2.17
+9.2.17
 
 Ulpianus libro 18 ad edictum
 
 Si dominus servum suum occiderit, bonae fidei possessori vel ei qui pignori accepit in factum actione tenebitur.
 
- 9.2.18
+9.2.18
 
 Paulus libro decimo ad Sabinum
 
 Sed et si is qui pignori servum accepit occidit eum vel vulneravit, lege Aquilia et pigneraticia conveniri potest, sed alterutra contentus esse debebit actor.
 
- 9.2.19
+9.2.19
 
 Ulpianus libro 18 ad edictum
 
 Sed si communem servum occiderit quis, Aquilia teneri eum Celsus ait: idem est et si vulneraverit:
 
- 9.2.20
+9.2.20
 
 Ulpianus libro 42 ad Sabinum
 
 Scilicet pro ea parte, pro qua dominus est qui agat.
 
- 9.2.21
+9.2.21
 
 Ulpianus libro 18 ad edictum
 
@@ -275,7 +272,7 @@ pr. Ait lex: "Quanti is homo in eo anno plurimi fuisset". Quae clausula aestimat
 
 2. Sed utrum corpus eius solum aestimamus, quanti fuerit cum occideretur, an potius quanti interfuit nostra non esse occisum? Et hoc iure utimur, ut eius quod interest fiat aestimatio.
 
- 9.2.22
+9.2.22
 
 Paulus libro 22 ad edictum
 
@@ -283,7 +280,7 @@ pr. Proinde si servum occidisti, quem sub poena tradendum promisi, utilitas veni
 
 1. Item causae corpori cohaerentes aestimantur, si quis ex comoedis aut symphoniacis aut gemellis aut quadriga aut ex pari mularum unum vel unam occiderit: non solum enim perempti corporis aestimatio facienda est, sed et eius ratio haberi debet, quo cetera corpora depretiata sunt.
 
- 9.2.23
+9.2.23
 
 Ulpianus libro 18 ad edictum
 
@@ -311,13 +308,13 @@ pr. Inde Neratius scribit, si servus heres institutus occisus sit, etiam heredit
 
 11. Si quis hominem vivum falso confiteatur occidisse et postea paratus sit ostendere hominem vivum esse, Iulianus scribit cessare Aquiliam, quamvis confessus sit se occidisse: hoc enim solum remittere actori confessoriam actionem, ne necesse habeat docere eum occidisse: ceterum occisum esse hominem a quocumque oportet.
 
- 9.2.24
+9.2.24
 
 Paulus libro 22 ad edictum
 
 Hoc apertius est circa vulneratum hominem: nam si confessus sit vulnerasse nec sit vulneratus, aestimationem cuius vulneris faciemus? Vel ad quod tempus recurramus?
 
- 9.2.25
+9.2.25
 
 Ulpianus libro 18 ad edictum
 
@@ -327,13 +324,13 @@ pr. Proinde si occisus quidem non sit, mortuus autem sit, magis est, ut non tene
 
 2. Notandum, quod in hac actione, quae adversus confitentem datur, iudex non rei iudicandae, sed aestimandae datur: nam nullae partes sunt iudicandi in confitentes.
 
- 9.2.26
+9.2.26
 
 Paulus libro 22 ad edictum
 
 Puta enim, quod qui convenitur fateatur se occidisse et paratus sit aestimationem solvere, et adversarius magni litem aestimat.
 
- 9.2.27
+9.2.27
 
 Ulpianus libro 18 ad edictum
 
@@ -409,7 +406,7 @@ pr. Si servus servum alienum subripuerit et occiderit, et Iulianus et Celsus scr
 
 35. Item si tectori locaveris laccum vino plenum curandum et ille eum pertudit, ut vinum sit effusum, Labeo scribit in factum agendum.
 
- 9.2.28
+9.2.28
 
 Paulus libro decimo ad Sabinum
 
@@ -417,7 +414,7 @@ pr. Qui foveas ursorum cervorumque capiendorum causa faciunt, si in itineribus f
 
 1. Haec tamen actio ex causa danda est, id est si neque denuntiatum est neque scierit aut providere potuerit: et multa huiusmodi deprehenduntur, quibus summovetur petitor, si evitare periculum poterit.
 
- 9.2.29
+9.2.29
 
 Ulpianus libro 18 ad edictum
 
@@ -439,7 +436,7 @@ pr. Quemadmodum si laqueos eo loci posuisses, quo ius ponendi non haberes, et pe
 
 8. Haec verba: "quanti in triginta diebus proximis fuit", etsi non habent " plurimi", sic tamen esse accipienda constat.
 
- 9.2.30
+9.2.30
 
 Paulus libro 22 ad edictum
 
@@ -453,13 +450,13 @@ pr. Qui occidit adulterum deprehensum servum alienum, hac lege non tenebitur.
 
 4. Si vulneratus fuerit servus non mortifere, neglegentia autem perierit, de vulnerato actio erit, non de occiso.
 
- 9.2.31
+9.2.31
 
 Paulus libro decimo ad Sabinum
 
 Si putator ex arbore ramum cum deiceret vel machinarius hominem praetereuntem occidit, ita tenetur, si is in publicum decidat nec ille proclamavit, ut casus eius evitari possit. Sed Mucius etiam dixit, si in privato idem accidisset, posse de culpa agi: culpam autem esse, quod cum a diligente provideri poterit, non esset provisum aut tum denuntiatum esset, cum periculum evitari non possit. Secundum quam rationem non multum refert, per publicum an per privatum iter fieret, cum plerumque per privata loca volgo iter fiat. Quod si nullum iter erit, dolum dumtaxat praestare debet, ne immittat in eum, quem viderit transeuntem: nam culpa ab eo exigenda non est, cum divinare non potuerit, an per eum locum aliquis transiturus sit.
 
- 9.2.32
+9.2.32
 
 Gaius libro septimo ad edictum provinciale
 
@@ -467,7 +464,7 @@ pr. Illud quaesitum est, an quod proconsul in furto observat quod a familia fact
 
 1. Si idem eundem servum vulneraverit, postea deinde etiam occiderit, tenebitur et de vulnerato et de occiso: duo enim sunt delicta. Aliter atque si quis uno impetu pluribus vulneribus aliquem occiderit: tunc enim una erit actio de occiso.
 
- 9.2.33
+9.2.33
 
 Paulus libro secundo ad Plautium
 
@@ -475,19 +472,19 @@ pr. Si servum meum occidisti, non affectiones aestimandas esse puto, veluti si f
 
 1. In damnis, quae lege Aquilia non tenentur, in factum datur actio.
 
- 9.2.34
+9.2.34
 
 Marcellus libro 21 digestorum
 
 Titio et Seio Stichum legavit: deliberante Seio, cum Titius vindicasset legatum, Stichus occisus est: deinde Seius repudiavit legatum. perinde Titius agere possit, ac si soli legatus esset,
 
- 9.2.35
+9.2.35
 
 Ulpianus libro 18 ad edictum
 
 quia retro adcrevisse dominium ei videtur:
 
- 9.2.36
+9.2.36
 
 Marcellus libro 21 digestorum
 
@@ -495,7 +492,7 @@ pr. nam sicut repudiante legatario legatum heredis est actio perinde ac si legat
 
 1. Si dominus servum, quem Titius mortifere vulneraverat, liberum et heredem esse iusserit eique postea Maevius exstiterit heres, non habebit Maevius cum Titio legis Aquiliae actionem, scilicet secundum Sabini opinionem, qui putabat ad heredem actionem non transmitti, quae defuncto competere non potuit: nam sane absurdum accidet, ut heres pretium quasi occisi consequatur eius, cuius heres exstitit. Quod si ex parte eum dominus heredem cum libertate esse iusserit, coheres eius mortuo eo aget lege Aquilia.
 
- 9.2.37
+9.2.37
 
 Iavolenus libro 14 ex Cassio
 
@@ -503,13 +500,13 @@ pr. Liber homo si iussu alterius manu iniuriam dedit, actio legis Aquiliae cum e
 
 1. Si quadrupes, cuius nomine actio esset cum domino, quod pauperiem fecisset, ab alio occisa est et cum eo lege Aquilia agitur, aestimatio non ad corpus quadrupedis, sed ad causam eius (in quo de pauperie actio est) referri debet et tanti damnandus est is qui occidit iudicio legis Aquiliae, quanti actoris interest noxae potius deditione defungi quam litis aestimatione.
 
- 9.2.38
+9.2.38
 
 Iavolenus libro nono epistularum
 
 Si eo tempore, quo tibi meus servus quem bona fide emisti serviebat, ipse a servo tuo vulneratus est, placuit omnimodo me tecum recte lege Aquilia experiri.
 
- 9.2.39
+9.2.39
 
 Pomponius libro 17 ad Quintum Mucium
 
@@ -517,13 +514,13 @@ pr. Quintus Mucius scribit: equa cum in alieno pasceretur, in cogendo quod praeg
 
 1. Pomponius. Quamvis alienum pecus in agro suo quis deprehendit, sic illud expellere debet, quomodo si suum deprehendisset, quoniam si quid ex ea re damnum cepit, habet proprias actiones. Itaque qui pecus alienum in agro suo deprehenderit, non iure id includit, nec agere illud aliter debet quam ut supra diximus quasi suum: sed vel abigere debet sine damno vel admonere dominum, ut suum recipiat.
 
- 9.2.40
+9.2.40
 
 Paulus libro tertio ad edictum
 
 In lege Aquilia, si deletum chirographum mihi esse dicam, in quo sub condicione mihi pecunia debita fuerit, et interim testibus quoque id probare possim, qui testes possunt non esse eo tempore, quo condicio extitit, et si summatim re exposita ad suspicionem iudicem adducam, debeam vincere: sed tunc condemnationis exactio competit, cum debiti condicio extiterit: quod si defecerit, condemnatio nullas vires habebit.
 
- 9.2.41
+9.2.41
 
 Ulpianus libro 41 ad Sabinum
 
@@ -531,19 +528,19 @@ pr. Si quis testamentum deleverit, an damni iniuriae actio competat, videamus. E
 
 1. Interdum evenire Pomponius eleganter ait, ut quis tabulas delendo furti non teneatur, sed tantum damni iniuriae, ut puta si non animo furti faciendi, sed tantum damni dandi delevit: nam furti non tenebitur: cum facto enim etiam animum furis furtum exigit.
 
- 9.2.42
+9.2.42
 
 Iulianus libro 48 digestorum
 
 Qui tabulas testamenti depositas aut alicuius rei instrumentum ita delevit, ut legi non possit, depositi actione et ad exhibendum tenetur, quia corruptam rem restituerit aut exhibuerit. Legis quoque Aquiliae actio ex eadem causa competit: corrupisse enim tabulas recte dicitur et qui eas interleverit.
 
- 9.2.43
+9.2.43
 
 Pomponius libro 19 ad Sabinum
 
 Ob id, quod ante quam hereditatem adires damnum admissum in res hereditarias est, legis Aquiliae actionem habes, quod post mortem eius, cui heres sis, acciderit: dominum enim lex Aquilia appellat non utique eum, qui tunc fuerit, cum damnum daretur: nam isto modo ne ab eo quidem, cui heres quis erit, transire ad eum ea actio poterit: neque ob id, quod tum commissum fuerit, cum in hostium potestate esses, agere postliminio reversus poteris: et hoc aliter constitui sine magna captione postumorum liberorum, qui parentibus heredes erunt, non poterit. Eadem dicemus et de arboribus eodem tempore furtim caesis. Puto eadem dici posse etiam de hac actione quod vi aut clam, si modo quis aut prohibitus fecerit, aut apparuerit eum intellegere debuisse ab eis, ad quos ea hereditas pertineret, si rescissent, prohibitum iri.
 
- 9.2.44
+9.2.44
 
 Ulpianus libro 42 ad Sabinum
 
@@ -551,7 +548,7 @@ pr. In lege Aquilia et levissima culpa venit.
 
 1. Quotiens sciente domino servus vulnerat vel occidit, Aquilia dominum teneri dubium non est.
 
- 9.2.45
+9.2.45
 
 Paulus libro decimo ad Sabinum
 
@@ -567,25 +564,25 @@ pr. Scientiam hic pro patientia accipimus, ut qui prohibere potuit teneatur, si 
 
 5. Qui idoneum parietem sustulit, damni iniuria domino eius tenetur.
 
- 9.2.46
+9.2.46
 
 Ulpianus libro 50 ad Sabinum
 
 Si vulnerato servo lege Aquilia actum sit, postea mortuo ex eo vulnere agi lege Aquilia nihilo minus potest.
 
- 9.2.47
+9.2.47
 
 Iulianus libro 86 digestorum
 
 Sed si priore iudicio aestimatione facta, postea mortuo servo, de occiso agere dominus instituerit, exceptione doli mali opposita compelletur, ut ex utroque iudicio nihil amplius consequatur, quam consequi deberet, si initio de occiso homine egisset.
 
- 9.2.48
+9.2.48
 
 Paulus libro 39 ad edictum
 
 Si servus ante aditam hereditatem damnum in re hereditaria dederit et liber factus in ea re damnum det, utraque actione tenebitur, quia alterius et alterius facti hae res sunt.
 
- 9.2.49
+9.2.49
 
 Ulpianus libro nono disputationum
 
@@ -593,13 +590,13 @@ pr. Si quis fumo facto apes alienas fugaverit vel etiam necaverit, magis causam 
 
 1. Quod dicitur damnum iniuria datum Aquilia persequi, sic erit accipiendum, ut videatur damnum iniuria datum, quod cum damno iniuriam attulerit: nisi magna vi cogente fuerit factum, ut Celsus scribit circa eum, qui incendii arcendi gratia vicinas aedes intercidit: nam hic scribit cessare legis Aquiliae actionem: iusto enim metu ductus, ne ad se ignis perveniret, vicinas aedes intercidit: et sive pervenit ignis sive ante extinctus est, existimat legis Aquiliae actionem cessare.
 
- 9.2.50
+9.2.50
 
 Ulpianus libro sexto opinionum
 
 Qui domum alienam invito domino demolit et eo loco balneas exstruxit, praeter naturale ius, quod superficies ad dominum soli pertinet, etiam damni dati nomine actioni subicitur.
 
- 9.2.51
+9.2.51
 
 Iulianus libro 86 digestorum
 
@@ -609,7 +606,7 @@ pr. Ita vulneratus est servus, ut eo ictu certum esset moriturum: medio deinde t
 
 2. Aestimatio autem perempti non eadem in utriusque persona fiet: nam qui prior vulneravit, tantum praestabit, quanto in anno proximo homo plurimi fuerit repetitis ex die vulneris trecentum sexaginta quinque diebus, posterior in id tenebitur, quanti homo plurimi venire poterit in anno proximo, quo vita excessit, in quo pretium quoque hereditatis erit. Eiusdem ergo servi occisi nomine alius maiorem, alius minorem aestimationem praestabit, nec mirum, cum uterque eorum ex diversa causa et diversis temporibus occidisse hominem intellegatur. Quod si quis absurde a nobis haec constitui putaverit, cogitet longe absurdius constitui neutrum lege Aquilia teneri aut alterum potius, cum neque impunita maleficia esse oporteat nec facile constitui possit, uter potius lege teneatur. Multa autem iure civili contra rationem disputandi pro utilitate communi recepta esse innumerabilibus rebus probari potest: unum interim posuisse contentus ero. Cum plures trabem alienam furandi causa sustulerint, quam singuli ferre non possent, furti actione omnes teneri existimantur, quamvis subtili ratione dici possit neminem eorum teneri, quia neminem verum sit eam sustulisse.
 
- 9.2.52
+9.2.52
 
 Alfenus libro secundo digestorum
 
@@ -623,38 +620,37 @@ pr. Si ex plagis servus mortuus esset neque id medici inscienta aut domini negle
 
 4. Cum pila complures luderent, quidam ex his servulum, cum pilam percipere conaretur, impulit, servus cecidit et crus fregit: quaerebatur, an dominus servuli lege Aquilia cum eo, cuius impulsu ceciderat, agere potest. Respondi non posse, cum casu magis quam culpa videretur factum.
 
- 9.2.53
+9.2.53
 
 Neratius libro primo membranarum
 
 Boves alienos in angustum locum coegisti eoque effectum est, ut deicerentur: datur in te ad exemplum legis Aquiliae in factum actio.
 
- 9.2.54
+9.2.54
 
 Papinianus libro 37 quaestionum
 
 Legis Aquiliae debitori competit actio, cum reus stipulandi ante moram promissum animal vulneravit: idem est et si occiderit animal. Quod si post moram promissoris qui stipulatus fuerat occidit, debitor quidem liberatur, lege autem Aquilia hoc casu non recte experietur: nam creditor ipse sibi potius quam alii iniuriam fecisse videtur.
 
- 9.2.55
+9.2.55
 
 Paulus libro 22 quaestionum
 
 Stichum aut Pamphilum promisi Titio, cum Stichus esset decem milium, Pamphilus viginti: stipulator Stichum ante moram occidit: quaesitum est de actione legis Aquiliae. Respondi: cum viliorem occidisse proponitur, in hunc tractatum nihilum differt ab extraneo creditor. Quanti igitur fiet aestimatio, utrum decem milium, quanti fuit occisus, an quanti est, quem necesse habeo dare, id est quanti mea interest? Et quid dicemus, si et Pamphilus decesserit sine mora? Iam pretium stichi minuetur, quoniam liberatus est promissor? Et sufficiet fuisse pluris cum occideretur vel intra annum. Hac quidem ratione etiam si post mortem Pamphili intra annum occidatur, pluris videbitur fuisse.
 
- 9.2.56
+9.2.56
 
 Paulus libro secundo sententiarum
 
 Mulier si in rem viri damnum dederit, pro tenore legis Aquiliae convenitur.
 
- 9.2.57
+9.2.57
 
 Iavolenus libro sexto ex posterioribus Labeonis
 
 Equum tibi commodavi: in eo tu cum equitares et una complures equitarent, unus ex his irruit in equum teque deiecit et eo casu crura equi fracta sunt. Labeo negat tecum ullam actionem esse, sed si equitis culpa factum esset, cum equite: sane non cum equi domino agi posse. Verum puto.
 
 * 9.3.0. De his, qui effuderint vel deiecerint.
-
 
 9.3.1
 
@@ -682,25 +678,25 @@ pr. Praetor ait de his, qui deiecerint vel effuderint: "Unde in eum locum, quo v
 
 10. Si plures in eodem cenaculo habitent, unde deiectum est, in quemvis haec actio dabitur,
 
- 9.3.2
+9.3.2
 
 Gaius libro sexto ad edictum provinciale
 
 Cum sane impossibile est scire, quis deiecisset vel effudisset,
 
- 9.3.3
+9.3.3
 
 Ulpianus libro 23 ad edictum
 
 et quidem in solidum: sed si cum uno fuerit actum, ceteri liberabuntur.
 
- 9.3.4
+9.3.4
 
 Paulus libro 19 ad edictum
 
 Perceptione, non litis contestatione, praestaturi partem damni societatis iudicio vel utili actione ei qui solvit.
 
- 9.3.5
+9.3.5
 
 Ulpianus libro 23 ad edictum
 
@@ -732,7 +728,7 @@ pr. Si vero plures diviso inter se cenaculo habitent, actio in eum solum datur, 
 
 13. Ista autem actio popularis est et heredi similibusque competit, in heredes autem non competit, quia poenalis est.
 
- 9.3.6
+9.3.6
 
 Paulus libro 19 ad edictum
 
@@ -744,7 +740,7 @@ pr. Hoc edictum non tantum ad civitates et vicos, sed et ad vias, per quas volgo
 
 3. Si de nave deiectum sit, dabitur actio utilis in eum qui navi praepositus sit.
 
- 9.3.7
+9.3.7
 
 Gaius libro sexto ad edictum provinciale
 
@@ -752,14 +748,13 @@ Cum liberi hominis corpus ex eo, quod deiectum effusumve quid erit, laesum fueri
 
 * 9.4.0. De noxalibus actionibus.
 
-
 9.4.1
 
 Gaius libro secundo ad edictum provinciale
 
 Noxales actiones appellantur, quae non ex contractu, sed ex noxa atque maleficio servorum adversus nos instituuntur: quarum actionum vis et potestas haec est, ut, si damnati fuerimus, liceat nobis deditione ipsius corporis quod deliquerit evitare litis aestimationem.
 
- 9.4.2
+9.4.2
 
 Ulpianus libro 18 ad edictum
 
@@ -767,13 +762,13 @@ pr. Si servus sciente domino occidit, in solidum dominum obligat, ipse enim vide
 
 1. Is qui non prohibuit, sive dominus manet sive desiit esse dominus, hac actione tenetur: sufficit enim, si eo tempore dominus, quo non prohibeat, fuit, in tantum, ut Celsus putet, si fuerit alienatus servus in totum vel in partem vel manumissus, noxam caput non sequi: nam servum nihil deliquisse, qui domino iubenti obtemperavit. Et sane si iussit, potest hoc dici: si autem non prohibuit, quemadmodum factum servi excusabimus? Celsus tamen differentiam facit inter legem Aquiliam et legem duodecim tabularum: nam in lege antiqua, si servus sciente domino furtum fecit vel aliam noxam commisit, servi nomine actio est noxalis nec dominus suo nomine tenetur, at in lege Aquilia, inquit, dominus suo nomine tenetur, non servi. Utriusque legis reddit rationem, duodecim tabularum, quasi voluerit servos dominis in hac re non obtemperare, Aquiliae, quasi ignoverit servo, qui domino paruit, periturus si non fecisset. Sed si placeat, quod Iulianus libro octagensimo sexto scribit "si servus futurum faxit noxiamve nocuit" etiam ad posteriores leges pertinere, poterit dici etiam servi nomine cum domino agi posse noxali iudicio, ut quod detur Aquilia adversus dominum, non servum excuset, sed dominum oneret. Nos autem secundum Iulianum probavimus, quae sententia habet rationem et a Marcello apud Iulianum probatur.
 
- 9.4.3
+9.4.3
 
 Ulpianus libro tertio ad edictum
 
 In omnibus noxalibus actionibus, ubicumque scientia exigitur domini, sic accipienda est, si, cum prohibere posset, non prohibuit: aliud est enim auctorem esse servo delinquenti, aliud pati delinquere.
 
- 9.4.4
+9.4.4
 
 Paulus libro tertio ad edictum
 
@@ -785,7 +780,7 @@ pr. In delictis servorum scientia domini quemadmodum accipienda est? Utrum cum c
 
 3. Si detracta noxae deditione quasi cum conscio domino actum sit, qui non erat conscius: absolutione facta et finito iudicio amplius agendo cum noxae deditione exceptione rei iudicatae summovebitur, quia res in superius iudicium deducta et finita est. Donec autem prius iudicium agitatur, licentia agenti est, si eum de scientia domini arguenda paeniteat, tunc ad noxalem causam transire. Contra quoque si cum eo qui scit cum noxae deditione actum sit, amplius in dominum detracta noxae deditione danda actio non est: in ipso autem iudicio si voluerit et scientiam domini arguere, non est prohibendus.
 
- 9.4.5
+9.4.5
 
 Ulpianus libro tertio ad edictum
 
@@ -793,13 +788,13 @@ pr. Si plurium servus deliquerit omnibus ignorantibus, noxale iudicium in quemvi
 
 1. Differentia autem harum actionum non solum illa est, quod qui scit in solidum tenetur, verum illa quoque, quod, sive alienaverit servum qui scit sive manumiserit sive decesserit servus, dominus tenetur: sed si ipse dominus decesserit, heres eius non tenetur.
 
- 9.4.6
+9.4.6
 
 Ulpianus libro 18 ad edictum
 
 Sed et ipse servus manumissus tenetur.
 
- 9.4.7
+9.4.7
 
 Ulpianus libro tertio ad edictum
 
@@ -807,43 +802,43 @@ pr. Noxalis autem non alias datur, nisi apud me sit servus: et si apud me sit, l
 
 1. Pomponius ait, si emptor servi noxali conventus sit, venditorem, quo sciente factum est, conveniri iam non posse.
 
- 9.4.8
+9.4.8
 
 Ulpianus libro 37 ad edictum
 
 Si servus communis furtum fecerit, quivis ex dominis in solidum noxali iudicio tenetur: eoque iure utimur. Sed non alias poterit is qui conventus est evadere litis aestimationem, nisi in solidum noxae dederit servum, nec ferendus est, si partem dedere fuerit paratus. Plane si propter hoc, quod socii dedere parati non fuerint, in solidum fuerit condemnatus, communi dividundo vel familiae erciscundae iudicio adversus eos experietur. Ante noxale sane iudicium acceptum poterit sua parte cedendo securitatem consequi, ne necesse habeat suscipere iudicium: quamquam quis possit dicere evenire, ut, dum pars eive data amittat actionem: dominus enim pro parte factus non potest cum socio noxali experiri. Fortassis nec communi dividundo agere possit eius maleficii nomine, quod ante communionem admissum est: quod si non potest, evidenti iniuria adficietur. Sed melius est dicere, competere ei communi dividundo iudicium.
 
- 9.4.9
+9.4.9
 
 Paulus libro 39 ad edictum
 
 Si communis familia vel communis servus furtum fecerit altero ex dominis sciente, is qui scit omnium nomine tenebitur et conventus alterum quoque liberat nec a socio quicquam debebit consequi: sui enim facti nomine poenam meruit. Quod si is qui ignoravit duplum praestiterit, a socio simplum consequetur.
 
- 9.4.10
+9.4.10
 
 Paulus libro 22 ad edictum
 
 Sed et eo nomine agere cum socio poterit, quod servum communem deteriorem fecit, quemadmodum cum quolibet alio, qui rem communem deteriorem fecisset. Ceterum si nihil praeterea post noxae deditionem commune habebit, pro socio vel, si socii non fuerunt, in factum agi poterit.
 
- 9.4.11
+9.4.11
 
 Ulpianus libro septimo ad edictum
 
 Bona fide servi possessor eius nomine furti actione tenebitur, dominus non tenetur. Sed noxae dedendo non facit quidem actoris: cum autem coeperit istum servum dominus vindicare, doli exceptione summovebitur vel officio iudicis consequetur, ut indemnis maneat.
 
- 9.4.12
+9.4.12
 
 Paulus libro sexto ad edictum
 
 Si bona fide possessor eum servum, quem bona fide possidebat, dimiserit, ne agi cum eo ex noxali causa possit, obligari eum actione, quae datur adversus eos, qui servum in potestate habeant aut dolo fecerint, quo minus haberent, quia per hoc adhuc possidere videntur.
 
- 9.4.13
+9.4.13
 
 Gaius libro 13 ad edictum provinciale
 
 Non solum adversus bona fide possessorem, sed etiam adversus eos qui mala fide possident noxalis actio datur: nam et absurdum videtur eos quidem qui bona fide possiderent excipere actionem, praedones vero securos esse.
 
- 9.4.14
+9.4.14
 
 Ulpianus libro 18 ad edictum
 
@@ -851,19 +846,19 @@ pr. Si quis a multis conveniatur ex noxa eiusdem servi, vel si ab uno, ex plurib
 
 1. Sed et si statuliber sit et ante deditionem exstiterit condicio vel fideicommissa libertas fuerit ante praestita vel existente condicione legati dominium fuerit translatum, arbitrio iudicis absolvi eum oportet: et officii iudicis hoc quoque erit, ut caveatur ei cui deditur ob evictionem ob suum factum contingentem.
 
- 9.4.15
+9.4.15
 
 Gaius libro sexto ad edictum provinciale
 
 Praetor decernere debet translationem iudicii in statuliberum fieri: si vero rei iudicandae tempore adhuc in suspenso sit statuta libertas, Sabinus et Cassius liberari heredem putant tradendo servum, quia toto suo iure cederet: quod et verum est.
 
- 9.4.16
+9.4.16
 
 Iulianus libro 22 digestorum
 
 Si heres dolo malo fecerit, ne statuliberum in potestate haberet, et propter hoc iudicium sine noxae deditione acceperit: et impleta condicione statutae libertatis condemnari debebit, sicuti mortuo servo condemnaretur.
 
- 9.4.17
+9.4.17
 
 Paulus libro 22 ad edictum
 
@@ -871,13 +866,13 @@ pr. Si ex duobus dominis uno sciente, altero ignorante servus deliquit, si ante 
 
 1. Si plures eiusdem servi nomine noxali mecum agere velint vel si unus pluribus iudiciis eiusdem servi nomine agat, in quo usus fructus tuus, proprietas mea sit, officio iudicis continebitur, cum eum noxae dedero, ut etiam usum fructum actoris faciam: sed per praetorem id consequar ego dominus proprietatis, ut aut cogat praetor te pro aestimatione usus fructus conferre ad litis aestimationem aut usu fructu cedere, si hoc expediat. Et si ego dominus proprietatis eum servum nolui defendere, defensio tibi permittenda est, et si damnatus hominem tradas, et adversus me tueris.
 
- 9.4.18
+9.4.18
 
 Pomponius libro 18 ad Sabinum
 
 Is qui usum fructum in servo habet, perinde cum domino habet actionem furti, atque si quilibet alius esset: sed cum eo non est, quamvis serviat ei, et ideo dominus damnatus fructuario noxae dedens liberatur "liberabitur".
 
- 9.4.19
+9.4.19
 
 Paulus libro 22 ad edictum
 
@@ -887,13 +882,13 @@ pr. Si in re communi mea et tua damnum nobis dederit titii servus, si cum eo age
 
 2. Si servus tuus navem exercuerit eiusque vicarius et idem nauta in eadem nave damnum dederit, perinde in te actio danda est ac si is exercitor liber et hic vicarius servus eius esset, ut de peculio servi tui ad noxam dedere vicarium damneris: ut tamen, si servi tui iussu vel sciente et patiente eo damnum vicarius dederit, noxalis actio servi tui nomine esse debeat. Idemque sit etiam, si nautam facere iusserit.
 
- 9.4.20
+9.4.20
 
 Gaius libro septimo ad edictum provinciale
 
 Qui ex pluribus noxis diversis temporibus experitur, ex una noxia servi dominium nanctus nullam amplius actionem habet adversus eum, qui dominus fuerat, cum actio noxalis caput sequatur: at si maluit dominus priori iudicio litis aestimationem sufferre, vel eidem vel alii ex alio maleficio agenti nihilo minus tenetur.
 
- 9.4.21
+9.4.21
 
 Ulpianus libro 23 ad edictum
 
@@ -911,7 +906,7 @@ pr. Quotiens dominus ex noxali causa convenitur, si nolit suscipere iudicium, in
 
 6. Si iusiurandum exegit actor reusque iuravit, deinde postea noxali velit actor experiri, videndum est, an exceptio iurisiurandi debeat adversus actorem dari. Et Sabinus putat non esse dandam, quasi de alia re sit iuratum, hoc est tunc non fuisse in potestate: modo vero cum in potestate deprehendatur, de facto eius posse agi. Neratius quoque dicebat post exactum iusiurandum posse actorem detracta noxae deditione experiri, si modo hoc contendat, posteaquam iuratum est coepisse in potestate habere.
 
- 9.4.22
+9.4.22
 
 Paulus libro 18 ad edictum
 
@@ -925,25 +920,25 @@ pr. Si servus depositus vel commodatus sit, cum domino agi potest noxali actione
 
 4. Si negavit dominus in sua potestate esse servum, permittit praetor actori arbitrium, utrum iureiurando id decidere an iudicium dictare sine noxae deditione velit, per quod vincet, si probaverit eum in potestate esse vel dolo eius factum, quo minus esset: qui autem non probaverit in potestate adversarii esse servum, rem amittit.
 
- 9.4.23
+9.4.23
 
 Gaius libro sexto ad edictum provinciale
 
 Sed et si postea adversarius eius in potestate habere coeperit servum, tenetur ex nova possessione denegata ei exceptione.
 
- 9.4.24
+9.4.24
 
 Paulus libro 18 ad edictum
 
 De illo videndum, utrum adversus eum tantum, qui dolo fecit, quo minus in potestate haberet, actio locum habeat noxalis, si ex dolo eius acciderit, ut cesset noxalis actio (forte si servo suo fugam mandavit) an et si possit nihilo minus cum alio agi (quod accidit, cum alienatus manumissusve est). Quod est verius: in quo casu electio est actoris, cum quo velit agere. Iulianus autem ait de eo qui manumisit, si paratus sit defendere se manumissus, exceptionem dandam ei qui manumisit. Hoc et Labeo.
 
- 9.4.25
+9.4.25
 
 Gaius libro sexto ad edictum provinciale
 
 Idem est, et si novus dominus servi iudicium patiatur.
 
- 9.4.26
+9.4.26
 
 Paulus libro 18 ad edictum
 
@@ -961,7 +956,7 @@ pr. Electio vero alterum liberabit: id enim praetor introduxit, ne eluderetur ac
 
 6. Si absente domino ductus sit servus vel etiam praesente et in eadem causa sit, ut in integrum restitui possit, defensio permittitur eius nomine qui ductus est: postulantibus enim exhiberi eum ad defendendum indulgere praetor debet. Idem concedendum est fructuario vel cui pignoris nomine obligatus est, si praesens dominus defendere noluerit, ne alterius dolus aut desidia aliis noceat. Idem praestandum est in servo communi, quem alter ex dominis praesens noluit defendere. Sed et actori his casibus succurrendum est, quia placet dominii adquisitione extingui actionem: iussu enim praetoris ductus in bonis fit eius qui duxit.
 
- 9.4.27
+9.4.27
 
 Gaius libro sexto ad edictum provinciale
 
@@ -969,67 +964,67 @@ pr. Si noxali iudicio agitur de servo qui pignoris iure tenetur aut de eo cuius 
 
 1. Ex his quae diximus de servo qui alicui pignoris iure obligatus est deque statulibero et de eo cuius usus fructus alienus est, apparet eum, qui alienum servum in iure suum esse responderit, quamvis noxali iudicio teneantur, non tamen posse noxae deditione ipso iure liberari, quia nullum ad actorem dominium transferre possunt, cum ipsi domini non sint. certe tamen, si ex ea causa traditum postea dominus vindicet nec litis aestimationem offerat, poterit per exceptionem doli mali repelli.
 
- 9.4.28
+9.4.28
 
 Africanus libro sexto quaestionum
 
 Et generaliter si alieni servi nomine, qui tibi iustam servitutem serviret, noxali tecum egerim tuque eum mihi noxae dederis: sive me possidente dominus eum vindicet, exceptione doli mali, nisi litis aestimationem offerat, eum summovere possum, sive ipse possideat, publiciana mihi datur, et adversus excipientem "si dominus eius sit" utilem mihi replicationem doli mali profuturam et secundum haec usu quoque me capturum, quamvis sciens alienum possideam: alioquin si aliter constituatur, futurum, ut summa iniquitate bonae fidei possessor adficiatur, si, cum ipso iure noxalis actio adversus eum competit, necessitas ei imponatur, ut litis aestimationem sufferat. Eademque dicenda sunt et si, cum ab eo non defenderetur, iussu praetoris eum duxerim, quoniam isto quoque casu iustam causam possidendi habeo.
 
- 9.4.29
+9.4.29
 
 Gaius libro sexto ad edictum provinciale
 
 Non solum autem qui in potestate non habet recusare potest noxale iudicium, verum et habenti in potestate liberum est evitare iudicium, si indefensam eam personam relinquat: sed huic necesse est ius suum ad actorem transferre, perinde ac si damnatus esset.
 
- 9.4.30
+9.4.30
 
 Gaius libro ad edictum praetoris urbani de damno infecto
 
 In noxalibus actionibus eorum qui bona fide absunt ius non corrumpitur, sed reversis defendendi ex bono et aequo potestas datur, sive domini sint sive aliquid in ea re ius habeant, qualis est creditor et fructuarius.
 
- 9.4.31
+9.4.31
 
 Paulus libro septimo ad Plautium
 
 Quod ait praetor, cum familia furtum faciat, ad eum modum se actionem daturum, ut tantum actor consequatur, quantum si liber fecisset consequeretur, quaeritur, utrum ad pecuniae praestationem respiciat an etiam ad noxae deditionem, ut puta si ex pretiis noxae deditorum duplum colligatur, sequentes actiones inhibeantur. Sabinus et Cassius putant pretium quoque noxae deditorum imputari debere, quod Pomponius probat et est verum: nam et si servus indefensus ductus sit, aestimatio eius imputanda est. Certe non tantum duplationis, sed et condictionis rationem habendam Iulianus putat. Furti faciendi tempus spectandum esse, an eiusdem familiae sint servi: nam si hi, qui plurium dominorum erunt, unius esse postea coeperint, locus edicto non erit.
 
- 9.4.32
+9.4.32
 
 Callistratus libro secundo edicti monitorii
 
 Is qui in aliena potestate est si noxam commisisse dicatur, si non defendatur, ducitur: et si praesens est dominus, tradere eum et de dolo malo promittere debet.
 
- 9.4.33
+9.4.33
 
 Pomponius libro 14 ad Sabinum
 
 Noxali iudicio invitus nemo cogitur alium defendere, sed carere debet eo quem non defendit, si servus est: quod si liber est qui in potestate sit, indistincte ipsi sui defensio danda est:
 
- 9.4.34
+9.4.34
 
 Iulianus libro quarto ad Urseium Ferocem
 
 quotiens enim nemo filium familias ex causa delicti defendit, in eum iudicium datur.
 
- 9.4.35
+9.4.35
 
 Ulpianus libro 41 ad Sabinum
 
 Et si condemnatus fuerit, filius iudicatum facere debet: tenet enim condemnatio. Quin immo etiam illud dicendum est patrem quoque post condemnationem filii dumtaxat de peculio posse conveniri.
 
- 9.4.36
+9.4.36
 
 Ulpianus libro 37 ad edictum
 
 Si quis servum pigneratum, deinde a debitore subreptum emerit a debitore, nomine eius furti tenebitur dominio servi adquisito, nec oberit, quod serviana potest ei homo avocari. Idemque et si a minore quis viginti quinque annis emerit vel in fraudem creditorum sciens: hi enim, quamvis auferri eis dominium possit, interim tamen conveniendi sunt.
 
- 9.4.37
+9.4.37
 
 Tryphoninus libro 15 disputationum
 
 Si alienus servus furtum mihi fecerit, qui postea in meum dominium pervenerit, extinguitur furti actio, quae mihi competierat, nondum in iudicium deducta, nec si postea alienavero eum, quem ante litem contestatam emeram, furti actio restaurabitur: quod si post litem contestatam eum redemero, condemnandus erit venditor,
 
- 9.4.38
+9.4.38
 
 Ulpianus libro 37 ad edictum
 
@@ -1041,7 +1036,7 @@ pr. quemadmodum si alii vendidisset: parvi enim refert, cui vendiderit, adversar
 
 3. Sed et si servo creditoris mei solverim nummos, ut is eos domino suo det, aeque locus erit furti actioni, si is nummos acceptos interceperit.
 
- 9.4.39
+9.4.39
 
 Iulianus libro nono digestorum
 
@@ -1055,19 +1050,19 @@ pr. Si plurium servus furtum fecerit et omnes dolo fecerint, quo minus eum in po
 
 4. Sed et mortuo servo antequam iudicium accipiatur, omnino hac actione non tenebitur dominus.
 
- 9.4.40
+9.4.40
 
 Iulianus libro 22 digestorum
 
 Si servus legatus ante aditam hereditatem rem heredis futuri subtraxerit, poterit is cum legatario qui legatum agnoverit furti agere: sed si idem servus hereditariam rem subtraxerit, furti actio cessabit, quia huiusmodi rerum furtum non fit: ad exhibendum autem actio competit.
 
- 9.4.41
+9.4.41
 
 Iulianus libro secundo ad Urseium Ferocem
 
 Cum servus communis alteri dominorum damnum iniuria dedit, idcirco legis Aquiliae actio non est, quia, si extraneo damnum dedisset, cum altero in solidum lege Aquilia agi posset: sicuti, cum servus communis furtum fecerit, cum altero domino furti agi non potest, sed communi dividundo agi potest.
 
- 9.4.42
+9.4.42
 
 Ulpianus libro 37 ad edictum
 
@@ -1077,7 +1072,7 @@ pr. Si ad libertatem proclamaverit is cuius nomine noxale iudicium susceptum est
 
 2. Hae actiones perpetuae sunt locumque habebunt tamdiu, quamdiu servi dedendi facultatem habemus: nec tantum nobis, verum etiam successoribus nostris competent, item adversus successores, sed non quasi in successores, sed iure dominii. Proinde et si servus ad alium pervenisse proponatur, iure dominii noxali iudicio novus dominus convenietur.
 
- 9.4.43
+9.4.43
 
 Pomponius libro octavo epistularum
 
