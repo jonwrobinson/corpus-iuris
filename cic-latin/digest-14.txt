@@ -8,7 +8,7 @@
 + 14.5.0. Quod cum eo, qui in aliena potestate est, negotium gestum esse dicetur.
 + 14.6.0. De senatus consulto Macedoniano.
 
-* 14.1.0.  De exercitoria actione.
+* 14.1.0. De exercitoria actione.
 
 
 14.1.1

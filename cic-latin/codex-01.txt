@@ -62,7 +62,7 @@ DOMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI CODEX
 + 1.56.0. De magistratibus municipalibus.
 + 1.57.0. De officio iuridici alexandriae.
 
-* 1.1.0. De summa trinitate et de fide catholica et ut nemo de ea publice contendere audeat.
+* 1.01.0. De summa trinitate et de fide catholica et ut nemo de ea publice contendere audeat.
 
 1.1.1pr.: Imperatores Gratianus, Valentinianus, Theodosius
 
@@ -260,7 +260,7 @@ Nam tantae causae pondus non nisi perfectis in christo potuisset iis iniungi, ta
 
 Et alia manu: gratia domini nostri ihesu christi et caritas dei patris et communicatio spiritus sancti sit semper vobiscum, piissime fili. item subscriptio: omnipotens deus regnum et salutem vestram perpetua protectione custodiat, gloriosissime et clementissime fili imperator auguste. <a 534 d. viii k. april. roma dn. iustiniano pp. a. iiii et paulino iuniore vc. conss.>
 
-* 1.2.0. De sacrosanctis ecclesiis et de rebus et privilegiis earum.
+* 1.02.0. De sacrosanctis ecclesiis et de rebus et privilegiis earum.
 
 1.2.1: Imperator Constantinus
 
@@ -492,7 +492,7 @@ In his autem omnibus casibus non solum personales actiones damus, sed etiam in r
 
 Haec autem omnia observari sancimus in iis casibus, qui vel postea fuerint nati vel iam in iudicium deducti sunt. <a 530 d. v k. april. constantinopoli lampadio et oreste vv. cc. conss.>
 
-* 1.3.0. De episcopis et clericis et orphanotrophis et brephotrophis et xenodochis et asceteriis et monachis et privilegio eorum et castrensi peculio et de redimendis captivis et de nuptiis clericorum vetitis seu permissis.
+* 1.03.0. De episcopis et clericis et orphanotrophis et brephotrophis et xenodochis et asceteriis et monachis et privilegio eorum et castrensi peculio et de redimendis captivis et de nuptiis clericorum vetitis seu permissis.
 
 1.3.1: Imperator Constantius
 
@@ -946,7 +946,7 @@ Quod si forte posthac etiam ipsi domini eorum ad orthodoxam fidem conversi fueri
 
 Haec igitur omnia, quae pietatis intuitu nostra sanxit aeternitas, omnes iudices et religiosissimi antistites sive africanae dioeceseos, in qua maxime huiusmodi vitia frequentari cognovimus, sive aliarum provinciarum naviter et studiosissime observare procurent. nam contemptores non solum pecuniaria multa, sed et capitis supplicio ferientur. <a >
 
-* 1.4.0. De episcopali audientia et de diversis capitulis, quae ad ius curamque et reverentiam pontificalem pertinent.
+* 1.04.0. De episcopali audientia et de diversis capitulis, quae ad ius curamque et reverentiam pontificalem pertinent.
 
 1.4.1: Imperatores Valentinianus, Valens
 
@@ -1096,7 +1096,7 @@ Sancimus, si quando afuerit is, qui res alienas vel creditori obnoxias detinet, 
 
 Sin autem nullo poterit modo praesidem adire, saltem ad episcopum locorum eat et suam manifestare voluntatem scriptis deproperet. <a 531 d. constantinopoli k. oct. post consulatum lampadii et orestis vv. cc.>
 
-* 1.5.0. De haereticis et manichaeis et samaritis.
+* 1.05.0. De haereticis et manichaeis et samaritis.
 
 1.5.1: Imperator Constantinus
 
@@ -1298,7 +1298,7 @@ Ceterum testamentaria testimonia eorum et quae in ultimis elogiis vel in contrac
 
 Divinam nostram sanctionem, per quam iussimus neminem errore constrictum haereticorum hereditatem vel legatum sive fideicommissum accipere, etiam in ultimis militum voluntatibus locum habere praecipimus, sive communi iure sive militari testentur.   iust. a. iohanni pp. <a 531 d. k. sept. post consulatum lampadii et orestis vv. cc.>
 
-* 1.6.0. Ne sanctum baptisma iteretur.
+* 1.06.0. Ne sanctum baptisma iteretur.
 
 1.6.1: Imperatores Valens, Gratianus, Valentinianus
 
@@ -1320,7 +1320,7 @@ Quod qui fecerit vel, cum sit ingenuus, in se fieri passus sit vel factum non de
 
 Quae omnia ita custodiri decernimus, ut nulli iudicum liceat delatum ad se crimen minori aut nulli coercitioni mandare, nisi ipse id pati velit, quod aliis dissimulando concesserit. <a 428 d. iii k. iun. constantinopoli felice et tauro conss.>
 
-* 1.7.0. De apostatis.
+* 1.07.0. De apostatis.
 
 1.7.1: Imperator Constantius
 
@@ -1370,13 +1370,13 @@ Eum, quicumque servum seu ingenuum, invitum vel suasione plectenda, ex cultu chr
 
 Eos, qui catholicarum ecclesiarum clerici vel orthodoxae fidei monachi relicto vero orthodoxae religionis cultu apollinaris vel eutychetis haeresin et dogmata abominanda sectati sunt, omnibus poenis, quae prioribus legibus adversus haereticos constitutae sunt, iubemus teneri et extra ipsum quoque romani imperii solum repelli, sicut de manichaeis praecedentium legum statuta sanxerunt.   valentin. et marcian. aa. palladio pp. <a 455 d. k. aug. constantinopoli valentiniano a. viii et anthemio conss.>
 
-* 1.8.0. Nemini licere signum salvatoris christi vel in silice vel in marmore aut sculpere aut pingere.
+* 1.08.0. Nemini licere signum salvatoris christi vel in silice vel in marmore aut sculpere aut pingere.
 
 1.8.1: Imperatores Theodosius, Valentinianus
 
 Cum sit nobis cura deligens per omnia superni numinis religionem tueri, signum salvatoris christi nemini licere vel in solo vel in silice vel in marmoribus humi positis insculpere vel pingere, sed quodcumque reperitur tolli: gravissima poena multando eo, si quis contrarium statutis nostris temptaverit, specialiter imperamus.   theodos. et valentin. aa. eudoxio pp. <a 427 d. xii k. iun. hierio et ardaburio conss.>
 
-* 1.9.0. De iudaeis et caelicolis.
+* 1.09.0. De iudaeis et caelicolis.
 
 1.9.1: Imperator Antoninus
 

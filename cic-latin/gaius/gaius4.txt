@@ -1,5 +1,4 @@
-
-GAI INSTITVTIONVM COMMENTARIVS QUARTUS
+* GAI INSTITVTIONVM COMMENTARIVS QUARTUS
 
 1. Superest, ut de actionibus loquamur. et si quaeramus, quot genera actionum
 sint, uerius uidetur duo esse, in rem et in personam. nam qui IIII esse

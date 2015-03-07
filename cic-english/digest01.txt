@@ -2,7 +2,7 @@
 
 * BOOK I.
 
-* 1.I. CONCERNING JUSTICE AND LAW.
+* 1.01. CONCERNING JUSTICE AND LAW.
 
 1. Ulpianus, Book I, Institutes.
 Those who apply themselves to the study of law should know, in the first place,
@@ -110,7 +110,7 @@ dignity of his office and the customs of our ancestors are preserved.
 Sometimes the term "law" is used to denote a connection, as for instance, "I am
 connected by the law of consanguinity or affinity with such-and-such a person".
 
-* 1.II.  CONCERNING THE ORIGIN OF LAW AND OF ALL MAGISTRATES, TOGETHER WITH A SUCCESSION OF JURISTS.
+* 1.02. CONCERNING THE ORIGIN OF LAW AND OF ALL MAGISTRATES, TOGETHER WITH A SUCCESSION OF JURISTS.
 
 1. Gaius, On the Law of the Twelve Tables, Book I.
 Being about to give an interpretation of ancient laws, I have thought it necessary, in the first place, to go back to the origin of the City, not because I wish to make extensive commentaries, but for the reason that I notice that that is perfect in all things which is finished in all its parts; and indeed the most important part of anything is the beginning. Then, where causes are argued in the forum, if I should say that it is abominable to state the matter to the judge without making any previous remarks, it would be much more improper for those making an explanation to neglect the beginning and avoid reference to the origin of the case; proceeding with unwashed hands, so to speak, without delay to discuss the question which is to be decided. For, unless I am mistaken, these previous explanations render persons more inclined to examine the question at issue, and when we have approached it, make the comprehension of the subject more clear.
@@ -518,7 +518,7 @@ involuntarily acknowledged their indebtedness to the ancient authorities, to
 whose untiring labors and legal acumen is largely to be attributed the
 excellence of that vast compendium of law, known as the Corpus Juris Civilis. --- ED.
 
-* 1.III. CONCERNING STATUTES, DECREES OP THE SENATE, AND LONG ESTABLISHED CUSTOMS.
+* 1.03. CONCERNING STATUTES, DECREES OP THE SENATE, AND LONG ESTABLISHED CUSTOMS.
 
 1. Papinianus, Definitions, Book I.
 A statute is a general precept; a resolution of men learned in the law; a
@@ -526,17 +526,7 @@ restraint of crimes committed either voluntarily or through ignorance; or a
 general obligation of the State.
 
 2. Marcianus, Institutes, Book I.
-The orator Demosthenes thus defined it. "A law is something which it is proper
-for all men to obey for many reasons, and principally because every law was
-devised by, and is a gift of God; the decree of learned men; the restraint of
-those who either voluntarily or involuntarily are guilty of crime; it is also a
-common obligation of the State, by whose rules all those who reside therein
-should regulate their lives."
-Chrysius, a Stoic philosopher of the greatest erudition, began a book which he
-wrote as follows: "Law is the queen of all things, Divine and human. It should also be the governor, the leader, the ruler, of both
-the good and the bad, and, in this way, be the standard of whatever is just and
-unjust, as well as of those things which are civil by Nature, prescribing what
-should be done, and prohibiting what should not be done."
+The orator Demosthenes thus defined it. "A law is something which it is proper for all men to obey for many reasons, and principally because every law was devised by, and is a gift of God; the decree of learned men; the restraint of those who either voluntarily or involuntarily are guilty of crime; it is also a common obligation of the State, by whose rules all those who reside therein should regulate their lives."  Chrysius, a Stoic philosopher of the greatest erudition, began a book which he wrote as follows: "Law is the queen of all things, Divine and human. It should also be the governor, the leader, the ruler, of both the good and the bad, and, in this way, be the standard of whatever is just and unjust, as well as of those things which are civil by Nature, prescribing what should be done, and prohibiting what should not be done."
 
 3. Pomponius on Sabinus, Book XXV.
 Laws, as Theophrastus has stated, ought to be established with respect to
@@ -723,7 +713,7 @@ of right; for it has reference to the way in which anything becomes the
 property of a person, or how he can preserve it or his rights, or how he can
 alienate or lose them.
 
-* 1.IV. CONCERNING THE CONSTITUTIONS OF THE EMPERORS.
+* 1.04. CONCERNING THE CONSTITUTIONS OF THE EMPERORS.
 
 1. Ulpianus, Institutes, Book I.
 Whatever the Emperor has decreed has the force of law; since by a Royal
@@ -752,7 +742,7 @@ them.[1]
 
 [1] "Leges posteriores priores contrarias abrogant." --- ED.
 
-* 1.V. CONCERNING THE CONDITION OF MEN.
+* 1.05. CONCERNING THE CONDITION OF MEN.
 
 1. Gaius, Institutes, Book I.
 All the law which We make use of relates either to persons, things, or actions.
@@ -932,7 +922,7 @@ position under the law as those who have patrons living.
 Where a man admits that he is a freedman, his patron cannot make ' him freeborn
 even by adopting him.
 
-* 1.VI. CONCERNING THOSE WHO ARE THEIR OWN MASTERS, AND THOSE THAT ARE UNDER THE CONTROL OF OTHERS.
+* 1.06. CONCERNING THOSE WHO ARE THEIR OWN MASTERS, AND THOSE THAT ARE UNDER THE CONTROL OF OTHERS.
 
 1. Gaius, Institutes, Book I.
 Another division of persons follows according to law, some of whom are their
@@ -1053,7 +1043,7 @@ ruling as to support cannot prejudice the truth.
 Illegitimate or emancipated children cannot be brought under paternal authority
 against their consent.
 
-* 1.VII. CONCERNING ADOPTIONS AND EMANCIPATIONS, AND OTHER METHODS BY WHICH PATERNAL AUTHORITY Is DISSOLVED.
+* 1.07. CONCERNING ADOPTIONS AND EMANCIPATIONS, AND OTHER METHODS BY WHICH PATERNAL AUTHORITY Is DISSOLVED.
 
 1. Modestinus, Rules, Book II.
 Sons of families are not only created by nature but also by adoption.
@@ -1416,7 +1406,7 @@ adopted child, however, loses none of the rights to which he was entitled as a
 member of his own family. (Allgemeines Bürgerliches Gesetzbuch, Arts. 182, 183,
 184, 185.) --- ED.
 
-* 1.VIII. CONCERNING THE DIVISION AND NATURE OP THINGS.
+* 1.08. CONCERNING THE DIVISION AND NATURE OP THINGS.
 
 1. Gaius, Institutes, Book II.
 
@@ -1547,7 +1537,7 @@ since Roman citizens are not permitted to leave a city except by the gates; as
 the former is an act of hostility and abominable. It is said that Remus, the
 brother of Romulus, was killed because he wished to scale the wall.
 
-* 1.IX. CONCERNING SENATORS.
+* 1.09. CONCERNING SENATORS.
 
 1. Ulpianus, On the Edict, Book LXII.
 No one doubts that a man of consular rank should always take precedence of a
@@ -1636,7 +1626,7 @@ Antoninus Augustus favored his cousin Julia Mammae in this respect.
 from patricians and consuls, or any illustrious men; because these alone have
 the right to give their opinions in the Senate.
 
-* 1.X. CONCERNING THE OFFICE OF CONSUL.
+* 1.10. CONCERNING THE OFFICE OF CONSUL.
 
 1. Ulpianus, On the Duties of Consul, Book II.
 
@@ -1654,7 +1644,7 @@ one who, according to a decree of the Senate, must determine the ground for the
 appointment of a council. He can, however, do this before his colleague where
 proper cause has been established.
 
-* 1.XI. CONCERNING THE OFFICE OF PRAETORIAN PREFECT.
+* 1.11. CONCERNING THE OFFICE OF PRAETORIAN PREFECT.
 
 1. Aurelius Arcadius Charisius, Master of Requests, On the Duties of Praetorian
 Prefect.
@@ -1683,7 +1673,7 @@ taken into consideration.
 not obtain restitution after condemnation, from any other magistrates than from
 the Praetorian Prefects themselves.
 
-* 1.XII. CONCERNING THE OFFICE OF PREFECT OF THE CITY.
+* 1.12. CONCERNING THE OFFICE OF PREFECT OF THE CITY.
 
 1. Ulpianus, On the Duties of the
 
@@ -1761,7 +1751,7 @@ be tried before him.
 The Prefect of the City has no jurisdiction beyond the limits of the city, but
 he can appoint judges outside of it.
 
-* 1.XIII. CONCERNING THE OFFICE OF QUAESTOR.
+* 1.13. CONCERNING THE OFFICE OF QUAESTOR.
 
 1. Ulpianus, On the Duties of Quaestor.
 The origin of quaestor is very ancient, more so than that of almost any other
@@ -1785,7 +1775,7 @@ other offices, and confers the right to state one's opinion in the Senate.
 (4) There are some of these, as We have just stated, who are styled the
 candidates of the Emperor, and who read his Epistles in the Senate.
 
-* 1.XIV. CONCERNING THE OFFICE OF THE PRAETORS.
+* 1.14. CONCERNING THE OFFICE OF THE PRAETORS.
 
 1. Ulpianus, On Sabinus, Book XXVI.
 A father can manumit before a son who is under his control, if the son is a
@@ -1811,7 +1801,7 @@ considered well founded with respect to the Emperor.
 A Praetor cannot appoint himself a guardian, or a judge in any special
 proceeding.
 
-* 1.XV. CONCERNING THE OFFICE OF PREFECT OF THE NIGHT WATCH.
+* 1.15. CONCERNING THE OFFICE OF PREFECT OF THE NIGHT WATCH.
 
 1. Paulus, On the Duties of the Prefect of the Night Watch. Among the ancients
 three men were appointed for the purpose of
@@ -1862,7 +1852,7 @@ whipped with rods or scourged; and those who are accused of arson you may send
 to Our friend Fabius Cilo, Prefect of the City; fugitive slaves you must seek
 out and restore to their masters."
 
-* 1.XVI. CONCERNING THE OFFICE OF PROCONSUL, AND HIS DEPUTY.
+* 1.16. CONCERNING THE OFFICE OF PROCONSUL, AND HIS DEPUTY.
 
 1. Ulpianus, Controversies, Book I.
 The proconsul bears everywhere the insignia of his rank after he leaves the
@@ -2036,7 +2026,7 @@ The deputies of Proconsuls can appoint guardians.
 16. Ulpianus, On the Edict, Book II.
 As soon as the Proconsul enters the gate of Rome, he loses his authority.
 
-* 1.XVII. CONCERNING THE OFFICE OF AUGUSTAL PREFECT.
+* 1.17. CONCERNING THE OFFICE OF AUGUSTAL PREFECT.
 
 1. Ulpianus, On the Edict, Book XV.
 The Prefect of Egypt does not lay aside his prefectship and the authority
@@ -2044,7 +2034,7 @@ granted to him by law under Augustus, as Proconsuls do, be-
 fore his successor enters the City of Alexandria; even though he may have
 already reached the province; and it is so stated in his commission.
 
-* 1.XVIII. CONCERNING THE OFFICE OF GOVERNOR.
+* 1.18. CONCERNING THE OFFICE OF GOVERNOR.
 
 1. Macer, On the Duties of Governor, Book I.
 The title of Governor is a general one, and hence it is applicable to
@@ -2240,7 +2230,7 @@ of anyone, or occupies such a place that, without considering the injury to
 property alone, the destruction and the ruin of the master's entire household
 is involved, he ought to be punished with the greatest severity.
 
-* 1.XIX. CONCERNING THE OFFICE OF THE IMPERIAL STEWARD OR ACCOUNTANT.
+* 1.19. CONCERNING THE OFFICE OF THE IMPERIAL STEWARD OR ACCOUNTANT.
 
 1. Ulpianus, On the Edict, Book XVI.
 All acts performed by the Imperial Steward are approved by the Emperor, just as
@@ -2272,7 +2262,7 @@ Julius.
 this our Emperors Severus and Antoninus stated in a Rescript in answer to a
 petition of Hermias.
 
-* 1.XX. CONCERNING THE OFFICE OF JURIDICUS.
+* 1.20. CONCERNING THE OFFICE OF JURIDICUS.
 
 1. Ulpianus, On Sabinus, Book XXVI.
 Anyone can adopt in the tribunal of the Juridicus,1because the right of legal
@@ -2280,7 +2270,7 @@ action is granted him.
 2. The Same, On Sabinus, Book XXXIX.
 The privilege of appointing guardians was, by a Constitution of the Divine
 Marcus conferred upon the Juridicus who presides at Alexandria.
-* 1.XXI. CONCERNING THE OFFICE OF HIM TO WHOM JURISDICTION Is DELEGATED.
+* 1.21. CONCERNING THE OFFICE OF HIM TO WHOM JURISDICTION Is DELEGATED.
 
 1. Papinianus, Questions, Book I.
 Whatever authority is specially conferred either by a law, a decree of the
@@ -2335,7 +2325,7 @@ magisterial power except that of condemning to death is delegated with it;
 because there is no jurisdiction which does not include the right to inflict
 moderate punishment.
 
-* 1.XXII. CONCERNING THE OFFICE OF ASSESSORS.
+* 1.22. CONCERNING THE OFFICE OF ASSESSORS.
 
 1. Paulus, On the Duties of Assessor.
 The entire office of assessor in which those learned in the law discharge their

@@ -9,8 +9,7 @@
 + 13.6.0. Commodati vel contra.
 + 13.7.0. De pigneraticia actione vel contra.
 
-
-* 13.1.0.  De condictione furtiva.
+* 13.1.0. De condictione furtiva.
 
 
 13.1.1
@@ -19,13 +18,13 @@ Ulpianus libro 18 ad Sabinum
 
 In furtiva re soli domino condictio competit.
 
- 13.1.2
+13.1.2
 
 Pomponius libro 16 ad Sabinum
 
 Condictione ex causa furtiva et furiosi et infantes obligantur, cum heredes necessarii exstiterunt, quamvis cum eis agi non possit.
 
- 13.1.3
+13.1.3
 
 Paulus libro nono ad Sabinum
 
@@ -87,13 +86,13 @@ pr. Sive manifestus fur sive nec manifestus sit, poterit ei condici. Ita demum a
 
 3. Unde Celsus libro duodecimo digestorum scribit, si rem furtivam dominus pure legaverit furi, heredem ei condicere non posse: sed et si non ipsi furi, sed alii, idem dicendum est cessare condictionem, quia dominium facto testatoris, id est domini, discessit.
 
- 13.1.11
+13.1.11
 
 Paulus libro 39 ad edictum
 
 Sed nec legatarius condicere potest: ei enim competit condictio, cui res subrepta est, vel heredi eius: sed vindicare rem legatam ab eo potest.
 
- 13.1.12
+13.1.12
 
 Ulpianus libro 38 ad edictum
 
@@ -127,13 +126,13 @@ Celsus libro 12 digestorum
 
 Quod ab alio servus subripuit, eius nomine liber furti tenetur: condici autem ei non potest, nisi liber contrectavit.
 
- 13.1.16
+13.1.16
 
 Pomponius libro 38 ad Quintum Mucium
 
 Qui furtum admittit vel re commodata vel deposita utendo, condictione quoque ex furtiva causa obstringitur: quae differt ab actione commodati hoc, quod, etiamsi sine dolo malo et culpa eius interierit res, condictione tamen tenetur, cum in commodati actione non facile ultra culpam et in depositi non ultra dolum malum teneatur is, cum quo depositi agetur.
 
- 13.1.17
+13.1.17
 
 Papinianus libro decimo quaestionum
 
@@ -145,7 +144,7 @@ Scaevola libro quarto quaestionum
 
 Quoniam furtum fit, cum quis indebitos nummos sciens acceperit, videndum, si procurator suos nummos solvat, an ipsi furtum fiat. Et Pomponius epistularum libro octavo ipsum condicere ait ex causa furtiva: sed et me condicere, si ratum habeam quod indebitum datum sit. Sed altera condictione altera tollitur.
 
- 13.1.19
+13.1.19
 
 Paulus libro tertio ad Neratium
 
@@ -189,7 +188,7 @@ Ulpianus libro 27 ad edictum
 
 In hac actione si quaeratur, res quae petita est cuius temporis aestimationem recipiat, verius est, quod servius ait, condemnationis tempus spectandum: si vero desierit esse in rebus humanis, mortis tempus, sed en platei secundum Celsum erit spectandum: non enim debet novissimum vitae tempus aestimari, ne ad exiguum pretium aestimatio redigatur in servo forte mortifere vulnerato. In utroque autem, si post moram deterior res facta sit, Marcellus scribit libro vicensimo habendam aestimationem, quanto deterior res facta sit: et ideo, si quis post moram servum eluscatum dederit, nec liberari eum: quare ad tempus morae in his erit reducenda aestimatio.
 
- 13.3.4
+13.3.4
 
 Gaius libro nono ad edictum provinciale
 
@@ -303,13 +302,13 @@ pr. Hoc edicto praetor favet naturali aequitati: qui constituta ex consensu fact
 
 8. Sed et is, qui honoraria actione, non iure civili obligatus est, constituendo tenetur: videtur enim debitum et quod iure honorario debetur. Et ideo et pater et dominus de peculio obstricti si constituerint, tenebuntur usque ad eam quantitatem, quae tunc fuit in peculio, cum constituebatur: ceterum si plus suo nomine constituit, non tenebitur in id quod plus est.
 
- 13.5.2
+13.5.2
 
 Iulianus libro 11 digestorum
 
 Quod si filii nomine constituerit se decem soluturum, quamvis in peculio quinque fuerint, de constituta in decem tenebitur.
 
- 13.5.3
+13.5.3
 
 Ulpianus libro 27 ad edictum
 
