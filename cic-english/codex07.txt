@@ -4,10 +4,7 @@
 BOOK VII.
 
 
-TITLE I.
-CONCERNING FREEDOM GRANTED BY THE WAND
-OP THE PRAETOR, AND MANUMISSION CONFERRED
-IN THE COUNCIL.
+* 7.1. CONCERNING FREEDOM GRANTED BY THE WAND OF THE PRAETOR, AND MANUMISSION CONFERRED IN THE COUNCIL.
 
 1. The Emperor Antoninus to Tertius.
 The condition of those who are manumitted in the Council, after the ground for
@@ -26,7 +23,8 @@ of a wand.1
 A slave can obtain his freedom through the efforts of his patron in the
 presence of Our Council, or before consuls, praters, presidents, governors, or
 municipal magistrates, to whom this right has been conceded.
-TITLE II. CONCERNING TESTAMENTARY MANUMISSION.
+
+* 7.II. CONCERNING TESTAMENTARY MANUMISSION.
 1. The Emperors Severus and Antoninus to Primus.
 It is certain that if anyone over twenty years of age should make a codicil,
 leaving a slave his freedom, the date of confirmation will not prejudice the
@@ -221,7 +219,9 @@ first applicant shall, however, retain his freedom, even though the property
 may have been sold by him, and all these things must take place within a year
 from the time when the first claimant presented himself, in accordance with
 what has already been stated.
-TITLE III. CONCERNING THE ABOLITION OF THE LEX FUSIA CANINIA.
+
+
+* 7.III. CONCERNING THE ABOLITION OF THE LEX FUSIA CANINIA.
 1. The Emperor Justinian to Henna, Praetorian Prefect.
 We decree that where grants of freedom are left to slaves by will, whether this
 is done directly, or under the terms of a trust, they shall be valid without
@@ -230,7 +230,8 @@ living.
 The Lex Fusia Caniniashall not apply to other cases, and no impediment shall be
 placed in the way of testators who desire to exercise their beneficence by the
 emancipation of their slaves.
-TITLE IV. CONCERNING GRANTS OF FREEDOM BY MEANS OF TRUSTS.
+
+* 7.IV. CONCERNING GRANTS OF FREEDOM BY MEANS OF TRUSTS.
 1. The Emperors Severus and Antoninus to Primus.
 As you allege that the estate of the testator, by whom freedom was bequeathed
 to you by the terms of a trust, was not entered upon, and another heir than the
@@ -396,7 +397,8 @@ We decree that the slave shall immediately obtain his liberty and become free,
 and that the heir, on account of his evil behaviour, shall be condemned to pay
 four times the amount of court costs incurred by the legatee, and that the
 right of patronage shall be preserved unimpaired for the benefit of the latter.
-TITLE V.
+
+* 7.V.
 CONCERNING THE ANNULMENT OF CONDITIONAL GRANTS OF FREEDOM.
 1. The Same Emperor to Julianus, Prsetorian Prefect.
 Those known as dediticiishall not hereafter, under any circumstances, be
@@ -428,7 +430,8 @@ unconditionally, and therefore were considered to be at the absolute disposal
 of their captors. Where a slave had been subjected to torture, branded,
 imprisoned, chained, assigned to a school of gladiators, condemned to fight
 with wild beasts
-TITLE VI.
+
+* 7.VI.
 CONCERNING THE ABOLITION OF LATIN FREEDOM, AND
 ITS TRANSFERENCE IN CERTAIN WAYS TO THE ENTIRE
 BODY OF ROMAN CITIZENS.
@@ -604,7 +607,8 @@ indisputable.
 The present constitution shall only be applicable to freedmen in the future.
 Given at Constantinople, on the Kalendsof November, after the fifth Consulate
 of Lampadius and Orestes.
-TITLE VII.
+
+* 7.VII.
 CONCERNING THE MANUMISSION OF A SLAVE OWNED IN COMMON.
 1. The Emperor Justinian to Julianus, Prxtorian Prefect.
 With reference to slaves owned in common and their freedom, and whether the
@@ -719,7 +723,8 @@ joint-owner, or owners, in obedience to the above-mentioned constitution, and
 if they refuse to accept it, he shall tender it, seal it up, and deposit it at
 their risk, as it is an attribute of Imperial Majesty to adopt the more humane
 course instead of the harsher one.
-TITLE Vill.
+
+* 7.Vill.
 CONCERNING THE MANUMISSION OF A SLAVE WHO HAS BEEN GIVEN IN PLEDGE.
 1. The Emperors Severus and Antoninus to Proculus.
 Although a husband, who is solvent, can manumit a dotal slave, still there is
@@ -760,7 +765,8 @@ forming part of your dowry, the ownership of said slaves will justly belong to
 you, and therefore you are vainly attempting to raise a question with reference
 to their status after manumission, as they can legally be manumitted by him who
 purchased them, or received them as dowry.
-TITLE IX.
+
+* 7.IX.
 CONCERNING THE MANUMISSION OP SLAVES BELONGING TO THE STATE.
 1. The Emperor Gordian to Epigonus.
 If, as is provided by the municipal law and the Imperial Constitutions, you
@@ -785,7 +791,8 @@ citizenship, nor did you afterwards, while a freedman, by discharging the
 duties of a notary, lose the liberty which you obtained, and your act does not
 offer any impediment to the acceptance of your son as decurion, as he was born
 of parents who were free.
-TITLE X.
+
+* 7.X.
 CONCERNING SLAVES MANUMITTED BY OTHERS THAN THEIR MASTERS.
 1. The Emperor Antoninus to Cornelius.
 It has frequently been stated in rescripts that anyone who manumits slaves
@@ -836,7 +843,8 @@ question is raised as to his status, as the owner can only blame himself for
 his loss, if he, by his silence, confirmed the act to his own disadvantage.
 Published during the Idesof July, during the Consulate of Constantine, Consul
 for the fifth time, and Licinius, 319.
-TITLE XI.
+
+* 7.XI.
 WHO CANNOT MANUMIT SLAVES, AND CONCERNING THE PREVENTION OF MANUMISSION FOR THE
 PURPOSE OF
 DEFRAUDING CREDITORS. 1. The Emperor Alexander to Antiochus.
@@ -882,7 +890,8 @@ If your master, who was indebted on account of his administration of a
 curatorship, having been proved to be insolvent, should bequeath you your
 freedom under a trust, this will be of no advantage to you, as in all fiduciary
 grants of freedom the condition of the estate must only be considered.
-TITLE XII. WHO CANNOT OBTAIN THEIR FREEDOM.
+
+* 7.XII. WHO CANNOT OBTAIN THEIR FREEDOM.
 1. The Emperors Severus and Antoninus to Torquatus.
 As my Father, the Divine Claudius, decided that persons condemned to perpetual
 imprisonment could not be liberated by the Governors of provinces, or by other
@@ -909,7 +918,8 @@ punishment of slaves will remain in full force.
 It was decided by My Divine Parents that the provisions of wills imposing
 perpetual servitude upon undeserving slaves should be observed, in order that
 they might not obtain their freedom through a fraudulent purchaser.
-TITLE XIII.
+
+* 7.XIII.
 FOR WHAT REASONS SLAVES CAN RECEIVE THEIR FREEDOM AS A REWARD.
 1. The Emperors Diocletian and Maximian to Firmanus.
 Since scrupulous care as well as the authority of the law should be exercised
@@ -938,7 +948,8 @@ Given on the day before the Kalendsof April.
 When a slave betrays a deserter from the army, he shall be presented with his
 freedom.
 Given on the Idesof July at Rome, ....
-TITLE XIV. CONCERNING THE MANUMISSION OF FREEBORN PERSONS.
+
+* 7.XIV. CONCERNING THE MANUMISSION OF FREEBORN PERSONS.
 1. The Emperor Alexander to Philetus.
 If, although you have been manumitted by will, you state that you are freeborn,
 you should bring your case before the proper court, and if you have a lawful
@@ -1031,7 +1042,8 @@ woman can, in no way, be prejudiced, merely from the fact that she has been
 given in betrothal as a female
 slave.
 Ordered on the seventh of the Kalendsof January, ....
-TITLE XV.
+
+* 7.XV.
 GENERAL PROVISIONS WITH REFERENCE TO MANUMISSIONS. 1. The Emperor Justinian to
 Julianus, Prsetorian Prefect.
 We order that if the owner of a slave, whose usufruct belongs to another,
@@ -1116,7 +1128,8 @@ Lampadius and Orestes, 531.
 
 
 
-TITLE XVI. CONCERNING CASES INVOLVING FREEDOM.
+
+* 7.XVI. CONCERNING CASES INVOLVING FREEDOM.
 
 1. The Emperor Antoninus to Saturninus.
 You confess that you have committed an unlawful and dishonorable act, as you
@@ -1463,7 +1476,8 @@ We decree that, in the present instance, the purchaser shall be permitted to
 proceed against the vendor to the extent of proving that the latter sold him a
 freeman as a slave, or if he cannot do this, that he should be subjected to the
 risk of eviction for having sold a person who was free.
-TITLE XVIII.
+
+* 7.XVIII.
 WHAT SLAVES ARE NOT PERMITTED TO DECLARE THAT
 THEY ARE FREE, AND CONCERNING THE PROPERTY OF
 THOSE WHO ARE FORBIDDEN TO Do So.
@@ -1503,7 +1517,8 @@ that above mentioned; so that, both having been set aside and placed in full
 view, each of the parties may claim that to which he is entitled.
 Given at Thessalonica, on the fifteenth of the Kalendsof March, under the
 Consulate of Severus and Rufinus, 343.
-TITLE XIX. CONCERNING THE ORDER OF JUDICIAL INQUIRIES.
+
+* 7.XIX. CONCERNING THE ORDER OF JUDICIAL INQUIRIES.
 1. The Emperor Alexander to Vitalius.
 As you, yourself, have acknowledged that a controversy has arisen concerning
 your status, with what reason do you demand that, before it has been
@@ -1591,7 +1606,8 @@ has stolen certain articles, and has been ordered to restore possession of them
 to the owner for the purpose of avoiding the execution of the sentence, he will
 be required to return the said property without asking for security, and then
 the case involving his freedom shall proceed according to law.
-TITLE XX. CONCERNING THE DETECTION OP COLLUSION.
+
+* 7.XX. CONCERNING THE DETECTION OP COLLUSION.
 1. The Emperors Diocletian and Maximian, and the Csesars, to Theodore.
 As you state that your mother's slave has not only been guilty of committing
 sexual intercourse with her, but, in addition to this dis-
@@ -1613,7 +1629,8 @@ penalty for collusion is fixed by it, and as well as a reward promised to the
 informer.
 Given on the fifth of the Kalendsof December, during the Consulate of the
 Csesars.
-TITLE XXI.
+
+* 7.XXI.
 THE STATUS OF A DECEASED PERSON CANNOT BE BROUGHT IN QUESTION AFTER THE
 EXPIRATION OF FIVE YEARS.
 1. The Emperors Severus and Antoninus to Nico.
@@ -1682,7 +1699,8 @@ was enacted to prevent the revoking of the condition of deceased persons does
 not apply, if the decedent, having taken to flight, died a fugitive.
 Given at Milan, on the tenth of the Kalendsof December, during the Consulate of
 Diocletian and Maximian.
-TITLE XXII.
+
+* 7.XXII.
 CONCERNING THE PRESCRIPTION OF LONG TIME WHICH is PLEADED IN BEHALF OF AND NOT
 AGAINST FREEDOM.
 1. The Emperors Diocletian and Maximian, and the Csesars, to Mutianus.
@@ -1707,7 +1725,8 @@ interfered with, solely on account of lapse of time, even if the term of sixty
 years has passed.
 Given on the fourth of the Kalendsof May, during the Consulate of Volusianus
 and Annianus, 314.
-TITLE XXIII.
+
+* 7.XXIII.
 CONCERNING THE PECULIUM OF HIM WHO HAS OBTAINED His FREEDOM.
 1. The Emperors Diocletian and Maximian to Rufinus.
 You should not forget that a great difference exists between the cases of those
@@ -1717,7 +1736,8 @@ tacitly entitled to their peculium
 if they were not specifically deprived of it, and in the second, the heirs will
 have the right to it, unless it was expressly left to the manumitted slave.
 This rule of law is perfectly clear.
-TITLE XXIV.
+
+* 7.XXIV.
 CONCERNING THE ABOLITION OF THE CLAUDIAN DECREE OF THE SENATE.
 1. The Emperor Justinian to Hermogenus, Master of the Offices.
 As We think that during oar reign (when We have exerted ourselves so greatly in
@@ -1746,7 +1766,8 @@ woman. If he should fail to do this, he is hereby notified that his own loss
 will be the result of his neglect.
 
 
-TITLE XXV.
+
+* 7.XXV.
 CONCERNING THE ABOLITION OF THE MERE CIVIL RIGHT OF ROMANS.
 
 1. The Emperor Justinian to Julianus, Prsetorian Prefect.
@@ -1795,7 +1816,8 @@ Quiritium. --- ED.
 
 
 
-TITLE XXVI.
+
+* 7.XXVI.
 CONCERNING USUCAPTION EITHER IN FAVOR OP THE PURCHASER OR ACQUIRED BY VIRTUE OF
 THE TRANSACTION.
 
@@ -1859,7 +1881,8 @@ been benefited by the money of the purchaser, he will be barred by an exception
 on the ground of bad faith if, after having arrived at puberty, he attempts to
 rescind the contract by law on the ground that it is unjust.
 Given during the Consulate of the Csesars.
-TITLE XXVII.
+
+* 7.XXVII.
 CONCERNING THE USUCAPTION OF PROPERTY WHICH HAS BEEN DONATED.
 1. The Emperor Alexander to Macedonius.
 Whether the owner himself gave you the lands with reference to which you have
@@ -1878,13 +1901,15 @@ mentioned Emperors.
 No one is permitted to revoke a donation which has been lawfully made, but it
 is also true that a mistake cannot be defended on the ground of good faith.
 This rule applies where ownership is claimed on the ground of usucaption.
-TITLE XXVIII.
+
+* 7.XXVIII.
 CONCERNING USUCAPTION IN THE CASE OF A DOWRY. 1. The Emperor Alexander to
 Taurinus.
 When movable property is given by way of dowry, even though none of it belongs
 to another, if there is no defect in the title, and it is accepted in good
 faith, it can be acquired by usucaption as part of the dowry.
-TITLE XXIX.
+
+* 7.XXIX.
 CONCERNING USUCAPTION WITH REFERENCE To AN HEIR.
 1. The Emperor Antoninus to Theophilus.
 As usucaption, in this instance, does not apply to the heir, you are advised
@@ -1906,7 +1931,8 @@ the owner be affected by lapse of time, even if property belonging to another
 is claimed under the pretext of its having formed part of an estate.
 Given on the seventh of the Kalendsof January, during the Consulate of the
 Csesars.
-TITLE XXX. GENERAL RULES WITH REFERENCE TO USUCAPTION.
+
+* 7.XXX. GENERAL RULES WITH REFERENCE TO USUCAPTION.
 1. The Emperor Alexander to Savinus.
 Anyone who holds property under a lease, although he holds it corporeally, is
 not considered to possess it in person, but for the owner, as prescription
@@ -1926,7 +1952,8 @@ Pelignus.
 If Antiochus knowingly held your slave in bad faith, he cannot be acquired by
 usucaption by his successor, even though he may possess him in good faith,
 because of the original defect in the title.
-TITLE XXXI.
+
+* 7.XXXI.
 CONCERNING THE TRANSFER OP THE RIGHT OP USUCAPTION AND THE ABOLITION OP THE
 DISTINCTION OP RES MANCIPI AND RES NEC MANCIPI.
 1. The Emperor Justinian to John, Praetorian Prefect.
@@ -1974,7 +2001,8 @@ apply to all property and all localities, and useless ambiguities and
 differences be finally disposed of.
 Given at Constantinople, on the fifteenth of the Kalendsof November, after the
 Consulate of Lampadius and Orestes, 531.
-TITLE XXXII.
+
+* 7.XXXII.
 CONCERNING THE ACQUISITION AND RETENTION OF POSSESSION.
 1. The Emperors Severus and Antoninus, and the Csesars, to Atticus.
 It is established by the principles of public convenience, as well as by those
@@ -2084,9 +2112,9 @@ for himself by means of his slave. In this instance, all legal rights of action
 are reserved for the owner of the property, or for him who appointed any of the
 above-mentioned persons to hold possession, as against the latter, if he is
 entitled to the same under the law.
-TITLE XXXIII.
-CONCERNING THE PRESCRIPTION OP LONG TIME BASED UPON OCCUPANCY FOR TEN OR TWENTY
-YEARS.
+
+* 7.XXXIII. CONCERNING THE PRESCRIPTION OP LONG TIME BASED UPON OCCUPANCY FOR TEN OR TWENTY YEARS.
+
 1. The Emperors Severus and Antoninus to Julian, Prsstorian Prefect.
 If, after the question of possession has been disposed of, the ownership of the
 property passes in good faith to another, and remains
@@ -2175,6 +2203,7 @@ be entitled to the above-mentioned prescription of long time, nor can he be
 excluded on the ground that he acquired the property by a lucrative title.
 Given during the Kalendsof June, under the Consulate of Our Lord Justinian,
 528.
+
 12. The Same Emperor to John, Praetorian Prefect.
 Three difficulties arose among the ancient authorities concerning prescription
 based upon long time: the first, with reference to where the property was
@@ -2192,35 +2221,14 @@ province rather than the city as the domicile of the parties, and if both of
 them have their domicile in the same province, the case will be considered as
 having arisen between them while present, and any longer prescription than that
 of ten years will be excluded.
-Moreover, with reference to the doubt arising concerning the property, there
-shall be no distinction whether it is situated in the same province, or in a
-neighboring one, or whether it is situated beyond seas or even in a far distant
-country.
-If, however, both parties should not reside in the same province, but one
-should have his domicile in one province, and the other in another, then the
-case will be one as between absent parties, and the prescription of twenty
-years shall apply, for there is nothing to prevent the action with reference to
-the property, whether it is situated in one province or in another, from being
-brought in a provincial court, and still less to prevent this being done in
-this Most Flourishing City. For what advantage would it be for possession to be
-held in one province or another, as the right to claim property is incorporeal,
-and wherever it is situated, the ownership of the same can revert to the owner
-or the creditor? Hence our ancestors, with great shrewdness, and with a species
-of divine inspiration, established the rule that rights of action existed
-wherever the claims or^ the property itself could be situated.
-Therefore, after the promulgation of this law, let no one doubt what should be
-decided, whether the parties are present or absent; for if the occupant
-acquired possession in good faith in the beginning, and the domicile of both
-parties is ascertained, then let the question
-be determined, no matter where the property may be situated, without taking
-into consideration either knowledge or ignorance, in order that no other
-embarrassing occasion for doubt may arise.
-The same rule must be observed if the property is not attached to the soil, but
-is incorporeal and consists merely of rights, as, for instance, usufructs and
-other servitudes.
-TITLE XXXIV.
-To WHAT CASES PRESCRIPTION OF LONG TIME DOES NOT
-APPLY.
+
+Moreover, with reference to the doubt arising concerning the property, there shall be no distinction whether it is situated in the same province, or in a neighboring one, or whether it is situated beyond seas or even in a far distant country.
+
+If, however, both parties should not reside in the same province, but one should have his domicile in one province, and the other in another, then the case will be one as between absent parties, and the prescription of twenty years shall apply, for there is nothing to prevent the action with reference to the property, whether it is situated in one province or in another, from being brought in a provincial court, and still less to prevent this being done in this Most Flourishing City. For what advantage would it be for possession to be held in one province or another, as the right to claim property is incorporeal, and wherever it is situated, the ownership of the same can revert to the owner or the creditor? Hence our ancestors, with great shrewdness, and with a species of divine inspiration, established the rule that rights of action existed wherever the claims or^ the property itself could be situated.
+
+Therefore, after the promulgation of this law, let no one doubt what should be decided, whether the parties are present or absent; for if the occupant acquired possession in good faith in the beginning, and the domicile of both parties is ascertained, then let the question be determined, no matter where the property may be situated, without taking into consideration either knowledge or ignorance, in order that no other embarrassing occasion for doubt may arise.  The same rule must be observed if the property is not attached to the soil, but is incorporeal and consists merely of rights, as, for instance, usufructs and other servitudes.
+
+* 7.XXXIV. To WHAT CASES PRESCRIPTION OF LONG TIME DOES NOT APPLY.
 1. The Emperors Diocletian and Maximian, and the Csesars, to Marcellina.
 If he to whom you have given your land for the purpose of cultivation
 afterwards, through the agency of your step-mother, secretly removed the
@@ -2250,8 +2258,8 @@ wounded by the enemy, and you did this at your own expense (as you assert)
 believing him to be free, you cannot legally plead the prescription of long
 time to prevent his master from recovering him, provided he tenders you the
 amount which you have legitimately expended in his behalf.
-TITLE XXXV.
-IN WHAT CASES PRESCRIPTION OF LONG TIME CANNOT BE PLEADED.
+
+* 7.XXXV. IN WHAT CASES PRESCRIPTION OF LONG TIME CANNOT BE PLEADED.
 1. The Emperor Alexander to Venuleius.
 The time passed in an expedition cannot be included in pleading prescription
 against a claim for land, if it can be legally established.
@@ -2311,8 +2319,8 @@ by them, so far as the time which they may have passed either at home, or in
 other places, while they were not in active service, is concerned.
 Given at Constantinople, on the Kalendsof April, during the Consulate of
 Decius, 529.
-TITLE XXXVI.
-WHERE PRESCRIPTION is PLEADED AGAINST A CREDITOR.
+
+* 7.XXXVI. WHERE PRESCRIPTION is PLEADED AGAINST A CREDITOR.
 1. The Emperor Gordian to Veneria.
 Unbroken silence is strengthened by the prescription of long time, and renders
 an action brought by creditors for the recovery of a pledge of no effect, when
@@ -2329,7 +2337,8 @@ land given in pledge after the necessary time has elapsed, even when
 prescription based upon ten years occupancy can be pleaded against creditors,
 who have been present, a principle which has not only been established by Our
 Rescripts but also by those of the Emperors, Our predecessors.
-TITLE XXXXXXVVIIII..CONCERNING THE PRESCRIPTION OF FORTY YEARS.
+
+* 7.XXXVII. CONCERNING THE PRESCRIPTION OF FORTY YEARS.
 1. The Emperor Constantine to Orphitus.
 It is well known that no question can be raised by the Treasury with reference
 to property which has no owner, after continuous occupancy of the same for the
@@ -2441,7 +2450,8 @@ and which shall be valid from the time when, by the Divine Will, We assumed the
 Imperial insignia.
 Given at Constantinople, on the fifth of the Kalendsof December, after the
 fifth Consulate of Lampadius and Orestes, 581.
-TITLE XXXVIII.
+
+* 7.XXXVIII.
 THE CLAIM TO PROPERTY BELONGING TO THE CROWN, OR
 TO THAT BELONGING TO THE TEMPLES, SHALL NOT BE
 BARRED BY PRESCRIPTION.
@@ -2474,7 +2484,8 @@ possession or a new return cannot abolish the privilege enjoyed by Our
 property.
 Given on the fifth of the Kalendsof April, during the Consulate of Arcadius,
 Consul for the fifth time, and Honorius, Consul for the third time, 396.
-TITLE XXXIX.
+
+* 7.XXXIX.
 CONCERNING THE PRESCRIPTION OP THIRTY AND FORTY
 YEARS.
 1. The Emperors Diocletian and Maximian to Ariana.
@@ -2736,7 +2747,8 @@ by the prescription of thirty years.
 The period available (that is to say, the term of forty years), We decree shall
 be computed from the time when the last judicial investigation took place,
 after both parties failed to proceed.
-TITLE XL.
+
+* 7.XL.
 CONCERNING THE ABOLITION OF THE PRESCRIPTION OF A
 YEAR AFFECTING CONTRACTS MADE IN ITALY, AND THE
 DIFFERENT TERMS, EXCEPTIONS, PRESCRIPTIONS, AND
@@ -2849,7 +2861,8 @@ into court, and his petition shall be held to include all personal as well as
 hypothecary causes of action; and the course of prescription will be
 interrupted, as prescriptions pleaded against persons who are negligent and
 careless of their own rights are odious.
-TITLE XLI.
+
+* 7.XLI.
 CONCERNING ALLUVION, MARSHES, AND PASTURES BROUGHT INTO ANOTHER CONDITION.
 1. The Emperor Gordian to Marcus.
 Although it is not lawful to divert the natural course of a stream to another
@@ -2886,7 +2899,8 @@ We decree that violators of this law shall be punished by a fine of fifty
 pounds of gold, and Your Highness will also be included, if you should make any
 other construction of this law, in order to countenance the claims of those who
 may demand it.
-TITLE XLII.
+
+* 7.XLII.
 CONCERNING THE DECISIONS OF PRAETORIAN PREFECTS.
 1. The Emperors Diocletian and Maximian to Thalassius, Prse-torian Prefect of
 Illyria.
@@ -2902,7 +2916,8 @@ case has retired from office.
 Given at Constantinople, on the third of the Idesof August, during the
 Consulate of Theodosius, Consul for the thirteenth time, and Festus, Consul for
 the fifth time, 439.
-TITLE XLIII.
+
+* 7.XLIII.
 How AND WHEN A JUDGE SHOULD RENDER A DECISION
 IN THE PRESENCE OF BOTH PARTIES, OR IN THE ABSENCE
 OF ONE OF THEM.
@@ -3000,7 +3015,8 @@ that afterwards judgment was rendered against you, although you were absent,
 and you did not appeal within the time prescribed by law, many Imperial
 Constitutions oppose your demand to have the judgment rendered against you set
 aside.
-TITLE XLIV.
+
+* 7.XLIV.
 CONCERNING OPINIONS RENDERED WITH REFERENCE TO STATEMENTS MADE IN A WRITTEN
 PETITION.
 1. The Emperors Valerian and Gallienus to Quintus.
@@ -3037,7 +3053,8 @@ value, or the parties of inferior rank, the Governor must hear them and render
 judgment orally, and without any costs, nor shall the bishop be required to
 reduce his decision to writing in cases where persons subject to his authority
 are concerned.
-TITLE XLV.
+
+* 7.XLV.
 CONCERNING THE FINAL AND INTERLOCUTORY DECISIONS OF ALL JUDGES.
 1. The Emperors Severus and Antoninus to Quintilian.
 The decision of your predecessor does not appear to Us to be legal, as he, in
@@ -3152,7 +3169,8 @@ and an appeal cannot be taken before issue has been joined, they thought that
 no one would be permitted to refuse a judge before issue had been joined, which
 is by no means prohibited. Hence judges must be careful to use terms of this
 kind together, and without making any distinction between them.
-TITLE XLVI.
+
+* 7.XLVI.
 CONCERNING DECISIONS WHICH ARE RENDERED WITHOUT STATING THE EXACT AMOUNT TO BE
 PAID.
 1. The Emperors Severus and Antoninus to &liana.
@@ -3179,7 +3197,8 @@ authority of judgment.
 Therefore, if another judge should afterwards render a judgment and decide
 against you, and you do not appeal from his decision, you will confirm it by
 your own act.
-TITLE XLVII. CONCERNING DECISIONS RENDERED FOR DAMAGES.
+
+* 7.XLVII. CONCERNING DECISIONS RENDERED FOR DAMAGES.
 1. The Emperor Justinian to John, Prsetorian Prefect.
 As an infinite number of doubts with reference to damages arose among the
 ancients, it seems best to Us, as far as is possible, to reduce this prolixity
@@ -3202,7 +3221,8 @@ Let the promulgation of this Constitution put an end to verbosity in all cases,
 in accordance with what has been already stated.
 Given at Constantinople on the Kalendsof September, after the fifth Consulate
 of Lampadius and Orestes, 530.
-TITLE XLVIII.
+
+* 7.XLVIII.
 WHERE A DECISION HAS BEEN RENDERED BY A JUDGE WHO is SAID NOT TO BE COMPETENT.
 1. The Emperor Alexander to Sabinianus.
 When a judge has been appointed to decide a certain matter, and renders an
@@ -3227,7 +3247,8 @@ Caesars, 297.
 This rule also applies to the cases of private persons, namely, that a decision
 rendered by a judge without authority does not bind any of the litigants.
 Given on the tenth of the Kalendsof October ....
-TITLE XLIX.
+
+* 7.XLIX.
 CONCERNING THE PENALTY TO WHICH A JUDGE is LIABLE WHO HAS RENDERED AN IMPROPER
 DECISION, AND THE PUNISHMENT WHICH MAY BE INFLICTED UPON ANYONE WHO ATTEMPTS TO
 CORRUPT A JUDGE, OR His ADVERSARY. 1. The Emperor Antoninus to Gaudius.
@@ -3271,7 +3292,8 @@ party whom he injured, not only for the costs of the suit, but also to assume
 the risk of the same.
 Given at Constantinople, on the eighth of the Kalendsof November, during the
 Consulate of Constantine, Consul for the fifth time, and Licinius, 319.
-TITLE L.
+
+* 7.L.
 A DECISION WHEN ONCE RENDERED CANNOT BE REVOKED.
 1. The Emperor Gordian to Secundus.
 There is no doubt that anyone cannot revoke either his own decision or that of
@@ -3295,7 +3317,8 @@ rescripts of this kind should also be excluded from making use of them in
 court.
 Given at Constantinople, on the sixth of the Kalendsof January, during the
 Consulate of the Emperor ....
-TITLE LI.
+
+* 7.LI.
 CONCERNING THE PROFITS AND THE EXPENSES OF LITIGATION.
 1. The Emperors Diocletian and Maximian, and the Cassars, to Alexander.
 The term "profits" only includes what remains after the deduction of the
@@ -3355,7 +3378,8 @@ certain offices, classes, or dignities, or which have been specially bestowed
 upon certain persons, or which may hereafter be conferred, whether this has
 been expressly stated in the Imperial grants or Rescripts or whether it has
 been omitted, We order it to be enforced.
-TITLE LII. CONCERNING RES JUDICATA.
+
+* 7.LII. CONCERNING RES JUDICATA.
 1. The Emperor Antoninus to Stellator.
 A judicial decision must be adhered to, but if you can prove that the party in
 whose favor judgment was rendered against you has received what he appeared to
@@ -3388,7 +3412,8 @@ remain forever valid, as the public faith should not pass away with the death
 of the official having jurisdiction.
 Given on the third of the Kalendsof September, during the Consulate of
 Constans, 414.
-TITLE LIII. CONCERNING THE EXECUTION OF JUDGMENT.
+
+* 7.LIII. CONCERNING THE EXECUTION OF JUDGMENT.
 1. The Emperors Severus and Antoninus to Justin.
 The court was too hasty in ordering the pledges of Marcella to be taken in
 execution and sold, for in order that the procedure prescribed by law may be
@@ -3448,7 +3473,8 @@ the time prescribed by law, the Governor, observing the legal formalities
 shall, after the pledges have been seized and sold, see that execution takes
 place in the manner repeatedly mentioned in the Imperial constitutions.
 Ordered on the Nonesof November, during the Consulate of the Csesars.
-TITLE LIV.
+
+* 7.LIV.
 CONCERNING INTEREST ON A JUDGMENT. 1. The Emperor Antoninus to the Managers of
 Estates.He who proceeds against the property of a defeated party litigant in
 accordance with the judgment rendered shall, in addition to the principal, be
@@ -3504,7 +3530,8 @@ evaded, for when anyone who volunteers to defend a case is compelled to make
 payment, and he, in his turn, forces the defendant involuntarily to satisfy
 him, the defeated party does not experience the benefit of Our indulgence,
 because, through his surety, he was compelled to pay the money which he owes.
-TITLE LV.
+
+* 7.LV.
 WHERE JUDGMENT is RENDERED AGAINST SEVERAL PERSONS AT ONCE.
 1. The Emperor Alexander to Victor.
 If you and your colleagues have not had judgment in full rendered against you
@@ -3520,7 +3547,8 @@ an attorney to defend him, liability for the amount of the judgment is
 considered to have been divided between them, hence it is a well-established
 rule of law that what cannot be collected from one cannot be recovered from the
 other.
-TITLE LVI. WHO ARE NOT INJURED BY A JUDGMENT.
+
+* 7.LVI. WHO ARE NOT INJURED BY A JUDGMENT.
 1. The Emperor Alexander to Masculinus.
 If you did not commit the defence of your property to your brother, and did not
 ratify his acts, the exception of res judicatawill not affect you, and
@@ -3542,7 +3570,8 @@ parties, the rights of one who is absent, and equally interested, will not be
 prejudiced.
 Given on the sixth of the Kalendsof December, during the Consulate of the
 Caesars.
-TITLE LVII.
+
+* 7.LVII.
 NOTICES, LETTERS, PROCLAMATIONS, AND SIGNATURES DO NOT POSSESS THE AUTHORITY OF
 JUDGMENTS.
 1. The Emperor Antoninus to Rogatianus.
@@ -3582,7 +3611,8 @@ It is not proper or customary for a judgment rendered after a prolonged contest
 to be stated in a few written phrases.
 Given on the fifteenth of the Kalendsof April, during the Consulate of
 Constantine, Consul for the sixth time, and Maximus, 306.
-TITLE LVIII.
+
+* 7.LVIII.
 WHERE A JUDGMENT is BASED ON FORGED DOCUMENTS OR FALSE EVIDENCE.
 1. The Emperors Severus and Antoninus to Bassianus.
 If you desire to declare a will to be forged, in accordance with the terms of
@@ -3609,14 +3639,16 @@ paid granted, if it can be shown by positive evidence that the judge was
 deceived by aforged instrument, the commission of the crime having afterwards
 been established.
 Published on the fifth of the Idesof September, ....
-TITLE LIX. CONCERNING CONFESSIONS.
+
+* 7.LIX. CONCERNING CONFESSIONS.
 1. The Emperor Antoninus to Julianus.
 It has been decided that confessions made in court have the effect of
 judgments, therefore you have no right to revoke your confession, as you will
 be compelled to make payment.
 Adopted on the third of the Kalendsof October, during the Consulate of Gentian
 and Bassus, 212.
-TITLE LX.
+
+* 7.LX.
 ACTS PERFORMED OR JUDGMENTS RENDERED BETWEEN SOME PERSONS CANNOT PREJUDICE THE
 RIGHTS OF
 OTHERS.
@@ -3643,7 +3675,8 @@ your share of the same, and did so without your consent, he could not
 extinguish the right acquired by you to your share of said estate.
 Given on the fifth of the Idesof October, during the Consulate of the above-
 mentioned Emperors.
-TITLE LXI. CONCERNING REFERENCES TO THE EMPEROR.
+
+* 7.LXI. CONCERNING REFERENCES TO THE EMPEROR.
 1. The Emperor Constantine to Profuturus, Prefect of Subsistence.
 When a judge thinks that the case should be referred to Us, and
 does not decide between the parties, but concludes that the point upon
@@ -3678,7 +3711,8 @@ case, so that, having been read, it will not be necessary for all the documents
 to be reviewed; still, all of them should accompany the application.
 Given on the sixth of the Idesof May, during the Consulate of Our Noble Prince
 Valentinian, and Victor, 369.
-TITLE LXII. CONCERNING APPEALS AND IMPERIAL DECISIONS.
+
+* 7.LXII. CONCERNING APPEALS AND IMPERIAL DECISIONS.
 1. The Decree of the Divine Severus, Published with Reference to Marcus
 Priscus, on the Ides of January, during the Consulate of Pom-peianus and
 Avitus, 210.
@@ -3748,8 +3782,10 @@ business of another must, under the same circumstances, appeal within three
 days.
 Extract from Novel 23, Chapter I. Latin Text.At present, the term of ten days
 from the date of the judgment is granted in which to file an appeal.
-END OP THE EXTRACT.
+
+END OF THE EXTRACT.
 THE TEXT OP THE CODE FOLLOWS .
+
 (6) The judge shall, without delay, notify the other party that an appeal has
 been taken, even when the appellant does not request it, but the former is by
 no means required to furnish security to conduct his side of the appeal.
@@ -4131,8 +4167,8 @@ their duties, but may strictly enforce observance of the laws, and in every
 respect exert their judicial authority.
 Given at Constantinople, on the sixth of the Kalendsof April, during the fifth
 Consulate of Lampadius and Orestes, 530.
-TITLE LXIII.
-CONCERNING DELAYS, AND THE AMENDMENTS OF APPEALS OR REFERENCES TO THE EMPEROR.
+
+* 7.LXIII. CONCERNING DELAYS, AND THE AMENDMENTS OF APPEALS OR REFERENCES TO THE EMPEROR.
 1. The Emperor Constantine to Crispinus.
 If anyone, having been appointed duumvir, or honored with any other office, or
 invested with any public charge during his absence, should invoke the aid of
@@ -4343,7 +4379,8 @@ circumstances, We desire the harshness of the laws to be mitigated by the
 agreement of the litigants.
 Given at Chalcedon, on the fifteenth of the Kalendsof December, during the
 fifth Consulate of Decius, 526.
-TITLE LLXXIIVV..WHEN IT is NECESSARY TO APPEAL.
+
+* 7.LXIV. WHEN IT is NECESSARY TO APPEAL.
 1. The Emperor Alexander to Apollinarus and Others.
 You allege that the sentence has no force, as it was pronounced in opposition
 to a judgment from which no appeal was taken. If you can prove this readily,
@@ -4420,7 +4457,8 @@ this relief, if his adversary should fail to appeal to Our Council, We
 nevertheless authorize this to be done, but We forbid any imputation to be cast
 upon the court by taking an appeal when it is unnecessary.
 Given on the eighth of the Idesof April, ....
-TITLE LXV. WHOSE APPEALS SHOULD NOT BE RECEIVED.
+
+* 7.LXV. WHOSE APPEALS SHOULD NOT BE RECEIVED.
 1. The Emperor Antoninus to Sabinus.
 The appeal of a party who, being absent through obstinacy, has had judgment
 rendered against him after having been regularly summoned to conduct his case,
@@ -4501,9 +4539,8 @@ shall be rejected.
 Given at Milan, on the third of the Idesof August, during the Consulate of
 Arcadius, Consul for the fourth time, and Honorius, Consul for the third time,
 396.
-TITLE LXVI.
-WHERE THE APPELLANT DIES WHILE THE APPEAL is
-PENDING.
+
+* 7.LXVI. WHERE THE APPELLANT DIES WHILE THE APPEAL IS PENDING.
 1. The Emperor Alexander to Julianus.
 Even after the death of the party who appealed, his heirs are required either
 to continue the case on appeal, or to acquiesce in the
@@ -4550,8 +4587,8 @@ having doubts as to whether they should accept the estate or not, may not
 suffer loss before acquiring any benefit.
 Published at Sirmium, on the twelfth of the Kalendsof June, during the second
 Consulate of the Csesars Crispus and Constantine, 331.
-TITLE LXVII.
-CONCERNING THOSE WHO DO NOT APPEAL THROUGH FEAR OF THE JUDGE.
+
+* 7.LXVII. CONCERNING THOSE WHO DO NOT APPEAL THROUGH FEAR OF THE JUDGE.
 1. The Emperors Diocletian and Maximian, and the Csesars, to Dorophanus.
 If a judicial decision was rendered against you and you did not invoke the aid
 of an appeal, you understand that you must abide by the
@@ -4571,7 +4608,8 @@ so, shall, by reason of this fact, have the support of equity, just as if an
 appeal had been taken.
 Published on the fifteenth of the Kalendsof July, during the Consulate of
 Mamertinus and Nevitta, 362.
-TITLE LXVIII. WHERE ONE OR MORE OF THE PARTIES APPEAL.
+
+* 7.LXVIII. WHERE ONE OR MORE OF THE PARTIES APPEAL.
 1. The Emperor Alexander to Licinius.
 If it is proved to the court that the same judgment was rendered against you as
 against the party whose appeal was decided to be just, and that there was no
@@ -4585,8 +4623,8 @@ to be just, it will also benefit those who did not appeal. Where, however, one
 of them obtained restitution in opposition to the judgment, on the ground of
 his age, this will be of no advantage to another who is older, but did not
 appeal in his own name.
-TITLE LXIX.
-WHERE AN APPEAL is TAKEN AGAINST TEMPORARY POSSESSION.
+
+* 7.LXIX. WHERE AN APPEAL is TAKEN AGAINST TEMPORARY POSSESSION.
 1. The Emperors Valentinian, Theodosius, and Arcadius to Eusig-nius, Praetorian
 Prefect.
 Where proceedings have been instituted with reference to temporary possession,
@@ -4595,10 +4633,9 @@ nevertheless, be effective, as the question of
 possession must be decided, in order that that of ownership may remain intact.
 Given at Milan, on the fourteenth of the Kalendsof December, during the
 Consulate of our Prince Honorius, and Evodius, 386.
-TITLE LXX.
-No ONE SHALL BE PERMITTED TO APPEAL POB THE THIRD TIME IN ONE AND THE SAME
-CASE, OR TO REFUSE TO OBEY THE JUDGMENT OP A COURT WHICH HAS BEEN RENDERED
-TWICE AND CONFIRMED BY THE DECISION OF A PREFECT.
+
+* 7.LXX. NO ONE SHALL BE PERMITTED TO APPEAL POB THE THIRD TIME IN ONE AND THE SAME CASE, OR TO REFUSE TO OBEY THE JUDGMENT OP A COURT WHICH HAS BEEN RENDERED TWICE AND CONFIRMED BY THE DECISION OF A PREFECT.
+
 1. The Emperor Justinian to Menna, Prsetorian Prefect.
 When a party has appealed a second time in a case, he shall not be permitted to
 do so again with reference to the same matters, in the same suit, or to refuse
@@ -4643,7 +4680,9 @@ The answer of the defendant, or exceptio,was filed immediately after the
 intentio.
 Exceptions were either perpetual or peremptory, temporary or dilatory, their
 effect being evident from these designations without further explanation.
-TITLE LLXXXXII..WHO CAN MAKE AN ASSIGNMENT OP THEIR PROPERTY.
+
+* 7.LXXI. WHO CAN MAKE AN ASSIGNMENT OF THEIR PROPERTY.
+
 1. The Emperor Alexander to Iren&us.
 When the creditors of those who make an assignment of their property are not
 paid in full, the latter are not released from liability, for the only
@@ -4781,9 +4820,9 @@ When an assignment is made, the judge shall exercise his authority by dividing
 the property among the individual creditors, as prescribed by law, and no
 prejudice shall result to any creditor from the delay of five years, so far as
 prescription is concerned.
-TITLE LXXII.
-CONCERNING THE SEIZURE AND SALE OP PROPERTY BY AUTHORITY OF COURT, AND THE
-SEPARATION OP THE SAME.
+
+* 7.LXXII. CONCERNING THE SEIZURE AND SALE OP PROPERTY BY AUTHORITY OF COURT, AND THE SEPARATION OP THE SAME.
+
 1. The Emperor Antoninus to Attica.
 With reference to the estate of a deceased person it is clear that the case of
 legatees is preferable to that of those to whom his heir has bequeathed
@@ -4916,7 +4955,8 @@ highest one in fact which, after every effort, it was possible for him to
 obtain.
 Given at Constantinople, on the fifteenth of the Kalendsof November, after the
 fifth Consulate of Lampadius and Orestes, 532.
-TITLE LXXIII. CONCERNING THE PRIVILEGE OF THE TREASURY.
+
+* 7.LXXIII. CONCERNING THE PRIVILEGE OF THE TREASURY.
 1. The Emperor Antoninus to Eutropia.
 If the property of your husband was seized by the Treasury for the payment of
 claims incurred during his administration as Chief Centurion of the Triarii,
@@ -4976,16 +5016,16 @@ property in your favor, they cannot molest you for the reason that you hold it
 by this title.
 Published on the fifteenth of the Kalendsof June, during the Consulate of
 ^milianus and Bassus, 260.
-TITLE LXXIV. CONCERNING THE PRIVILEGE OF DOWRY.
+
+* 7.LXXIV. CONCERNING THE PRIVILEGE OF DOWRY.
 1. The Emperors Severus and Antoninus to Firm/us.
 You should know that the dotal privilege which women avail themselves of in an
 action of dowry does not pass to their heirs.
 Published on the Kalendsof May, during the Consulate of Pompei-anus and Avitus,
 210.
-TITLE LXXV.
-CONCERNING THE REVOCATION OF CONTRACTS BY WHICH
-PROPERTY HAS BEEN ALIENATED FOR THE PURPOSE OF
-DEFRAUDING CREDITORS.
+
+* 7.LXXV. CONCERNING THE REVOCATION OF CONTRACTS BY WHICH PROPERTY HAS BEEN ALIENATED FOR THE PURPOSE OF DEFRAUDING CREDITORS.
+
 1. The Emperor Antoninus to Cassia.
 An heir who, after having entered upon the estate, transfers it to another,
 remains liable to the creditors of the estate. Therefore, if he did this for

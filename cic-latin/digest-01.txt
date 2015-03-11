@@ -30,19 +30,13 @@ Dig. 1.1.1pr.
 
 Ulpianus 1 inst.
 
-Iuri operam daturum prius nosse oportet, unde nomen iuris
-descendat. est autem a iustitia appellatum: nam, ut eleganter celsus
-definit, ius est ars boni et aequi.
+Iuri operam daturum prius nosse oportet, unde nomen iuris descendat. est autem a iustitia appellatum: nam, ut eleganter celsus definit, ius est ars boni et aequi.
 
 Dig. 1.1.1.1
 
 Ulpianus 1 inst.
 
-Cuius merito quis nos sacerdotes appellet: iustitiam namque colimus et
-boni et aequi notitiam profitemur, aequum ab iniquo separantes,
-licitum ab illicito discernentes, bonos non solum metu poenarum, verum
-etiam praemiorum quoque exhortatione efficere cupientes, veram nisi
-fallor philosophiam, non simulatam affectantes.
+Cuius merito quis nos sacerdotes appellet: iustitiam namque colimus et boni et aequi notitiam profitemur, aequum ab iniquo separantes, licitum ab illicito discernentes, bonos non solum metu poenarum, verum etiam praemiorum quoque exhortatione efficere cupientes, veram nisi fallor philosophiam, non simulatam affectantes.
 
 Dig. 1.1.1.2
 
@@ -54,20 +48,13 @@ Dig. 1.1.1.3
 
 Ulpianus 1 inst.
 
-Ius naturale est, quod natura omnia animalia docuit: nam ius istud non
-humani generis proprium, sed omnium animalium, quae in terra, quae in
-mari nascuntur, avium quoque commune est. hinc descendit maris atque
-feminae coniunctio, quam nos matrimonium appellamus, hinc liberorum
-procreatio, hinc educatio: videmus etenim cetera quoque animalia,
-feras etiam istius iuris peritia censeri.
+Ius naturale est, quod natura omnia animalia docuit: nam ius istud non humani generis proprium, sed omnium animalium, quae in terra, quae in mari nascuntur, avium quoque commune est. hinc descendit maris atque feminae coniunctio, quam nos matrimonium appellamus, hinc liberorum procreatio, hinc educatio: videmus etenim cetera quoque animalia, feras etiam istius iuris peritia censeri.
 
 Dig. 1.1.1.4
 
 Ulpianus 1 inst.
 
-Ius gentium est, quo gentes humanae utuntur. quod a naturali recedere
-facile intellegere licet, quia illud omnibus animalibus, hoc solis
-hominibus inter se commune sit.
+Ius gentium est, quo gentes humanae utuntur. quod a naturali recedere facile intellegere licet, quia illud omnibus animalibus, hoc solis hominibus inter se commune sit.
 
 Dig. 1.1.2
 
@@ -79,66 +66,43 @@ Dig. 1.1.3
 
 Florus 1 inst.
 
-Ut vim atque iniuriam propulsemus: nam iure hoc evenit, ut quod
-quisque ob tutelam corporis sui fecerit, iure fecisse existimetur, et
-cum inter nos cognationem quandam natura constituit, consequens est
-hominem homini insidiari nefas esse.
+Ut vim atque iniuriam propulsemus: nam iure hoc evenit, ut quod quisque ob tutelam corporis sui fecerit, iure fecisse existimetur, et cum inter nos cognationem quandam natura constituit, consequens est hominem homini insidiari nefas esse.
 
 Dig. 1.1.4
 
 Ulpianus 1 inst.
 
-Manumissiones quoque iuris gentium sunt. est autem manumissio de manu
-missio, id est datio libertatis: nam quamdiu quis in servitute est,
-manui et potestati suppositus est, manumissus liberatur
-potestate. quae res a iure gentium originem sumpsit, utpote cum iure
-naturali omnes liberi nascerentur nec esset nota manumissio, cum
-servitus esset incognita: sed posteaquam iure gentium servitus
-invasit, secutum est beneficium manumissionis. et cum uno naturali
-nomine homines appellaremur, iure gentium tria genera esse coeperunt:
-liberi et his contrarium servi et tertium genus liberti, id est hi qui
-desierant esse servi.
+Manumissiones quoque iuris gentium sunt. est autem manumissio de manu missio, id est datio libertatis: nam quamdiu quis in servitute est, manui et potestati suppositus est, manumissus liberatur potestate. quae res a iure gentium originem sumpsit, utpote cum iure naturali omnes liberi nascerentur nec esset nota manumissio, cum servitus esset incognita: sed posteaquam iure gentium servitus invasit, secutum est beneficium manumissionis. et cum uno naturali nomine homines appellaremur, iure gentium tria genera esse coeperunt: liberi et his contrarium servi et tertium genus liberti, id est hi qui desierant esse servi.
 
 Dig. 1.1.5
 
 Hermogenianus 1 iuris epit.
 
-Ex hoc iure gentium introducta bella, discretae gentes, regna condita,
-dominia distincta, agris termini positi, aedificia collocata,
-commercium, emptiones venditiones, locationes conductiones,
-obligationes institutae: exceptis quibusdam quae iure civili
-introductae sunt.
+Ex hoc iure gentium introducta bella, discretae gentes, regna condita, dominia distincta, agris termini positi, aedificia collocata, commercium, emptiones venditiones, locationes conductiones, obligationes institutae: exceptis quibusdam quae iure civili introductae sunt.
 
 Dig. 1.1.6 pr.
 
 Ulpianus 1 inst.
 
-Ius civile est, quod neque in totum a naturali vel gentium recedit nec
-per omnia ei servit: itaque cum aliquid addimus vel detrahimus iuri
-communi, ius proprium, id est civile efficimus.
+Ius civile est, quod neque in totum a naturali vel gentium recedit nec per omnia ei servit: itaque cum aliquid addimus vel detrahimus iuri communi, ius proprium, id est civile efficimus.
 
 Dig. 1.1.6.1
 
 Ulpianus 1 inst.
 
-Hoc igitur ius nostrum constat aut ex scripto aut sine scripto, ut
-apud graecos: twn nomwn ohi men eggrafoi, ohi de agrafoi.
+Hoc igitur ius nostrum constat aut ex scripto aut sine scripto, ut apud graecos: twn nomwn ohi men eggrafoi, ohi de agrafoi.
 
 Dig. 1.1.7pr.
 
 Papinianus 2 def.
 
-Ius autem civile est, quod ex legibus, plebis scitis, senatus
-consultis, decretis principum, auctoritate prudentium venit.
+Ius autem civile est, quod ex legibus, plebis scitis, senatus consultis, decretis principum, auctoritate prudentium venit.
 
 Dig. 1.1.7.1
 
 Papinianus 2 def.
 
-Ius praetorium est, quod praetores introduxerunt adiuvandi vel
-supplendi vel corrigendi iuris civilis gratia propter utilitatem
-publicam. quod et honorarium dicitur ad honorem praetorum sic
-nominatum.
+Ius praetorium est, quod praetores introduxerunt adiuvandi vel supplendi vel corrigendi iuris civilis gratia propter utilitatem publicam. quod et honorarium dicitur ad honorem praetorum sic nominatum.
 
 Dig. 1.1.8
 
@@ -150,13 +114,7 @@ Dig. 1.1.9
 
 Gaius 1 inst.
 
-Omnes populi, qui legibus et moribus reguntur, partim suo proprio,
-partim communi omnium hominum iure utuntur. nam quod quisque populus
-ipse sibi ius constituit, id ipsius proprium civitatis est vocaturque
-ius civile, quasi ius proprium ipsius civitatis: quod vero naturalis
-ratio inter omnes homines constituit, id apud omnes peraeque
-custoditur vocaturque ius gentium, quasi quo iure omnes gentes
-utuntur.
+Omnes populi, qui legibus et moribus reguntur, partim suo proprio, partim communi omnium hominum iure utuntur. nam quod quisque populus ipse sibi ius constituit, id ipsius proprium civitatis est vocaturque ius civile, quasi ius proprium ipsius civitatis: quod vero naturalis ratio inter omnes homines constituit, id apud omnes peraeque custoditur vocaturque ius gentium, quasi quo iure omnes gentes utuntur.
 
 Dig. 1.1.10pr.
 
@@ -180,17 +138,7 @@ Dig. 1.1.11
 
 Paulus 14 ad sab.
 
-Ius pluribus modis dicitur: uno modo, cum id quod semper aequum ac
-bonum est ius dicitur, ut est ius naturale. altero modo, quod omnibus
-aut pluribus in quaque civitate utile est, ut est ius civile. nec
-minus ius recte appellatur in civitate nostra ius honorarium. praetor
-quoque ius reddere dicitur etiam cum inique decernit, relatione
-scilicet facta non ad id quod ita praetor fecit, sed ad illud quod
-praetorem facere convenit. alia significatione ius dicitur locus in
-quo ius redditur, appellatione collata ab eo quod fit in eo ubi
-fit. quem locum determinare hoc modo possumus: ubicumque praetor salva
-maiestate imperii sui salvoque more maiorum ius dicere constituit, is
-locus recte ius appellatur.
+Ius pluribus modis dicitur: uno modo, cum id quod semper aequum ac bonum est ius dicitur, ut est ius naturale. altero modo, quod omnibus aut pluribus in quaque civitate utile est, ut est ius civile. nec minus ius recte appellatur in civitate nostra ius honorarium. praetor quoque ius reddere dicitur etiam cum inique decernit, relatione scilicet facta non ad id quod ita praetor fecit, sed ad illud quod praetorem facere convenit. alia significatione ius dicitur locus in quo ius redditur, appellatione collata ab eo quod fit in eo ubi fit. quem locum determinare hoc modo possumus: ubicumque praetor salva maiestate imperii sui salvoque more maiorum ius dicere constituit, is locus recte ius appellatur.
 
 Dig. 1.1.12
 
