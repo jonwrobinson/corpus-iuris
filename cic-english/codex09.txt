@@ -1,410 +1,7 @@
 # -*- mode: org -*-
 
-
-THE CIVIL LAW
-INCLUDING
-The Twelve Tables, The Institutes of Gaius, The Rules of
-Ulpian, The Opinions of Paulus, The Enactments
-of Justinian, and The Constitutions of Leo:
-Translated from the original Latin, edited, and compared with all accessible
-systems of jurisprudence ancient and modern.
-By S. P. SCOTT, A. M.
-Author of "History of the Moorish
-Empire in Europe," Translator of
-the "Visigothic Code"
-IN SEVENTEEN VOLUMES VOL. XIV.
-CINCINNATI
-THE CENTRAL TRUST COMPANY Executor of the Estate Samuel P. Scott, Deceased
-PUBLISHERS
-CONTENTS OF VOLUME XIV.
-THE CODE OF JUSTINIAN.
-SSEECCOONNDD EEDDIITTIIOONN.. ((CCoonnttiinnuueedd..))
-BOOK VI.
-((CCoonnttiinnuueedd..))
-TITLE XXVII. PAGE
-CONCERNING THE APPOINTMENT AND SUBSTITUTION OP SLAVES AS NECESSARY HEIRS
-........:...................................... 3
-TITLE XXVIII. CONCERNING PASSING OVER AND DISINHERITANCE. ................... 6
-TITLE XXIX.
-CONCERNING THE APPOINTMENT, DISINHERITANCE, AND OMISSION OF POSTHUMOUS HEIRS IN
-A WILL. ................................ 9
-TITLE XXX.
-CONCERNING THE RIGHT OF DELIBERATING, AND OF ENTERING UPON OR ACQUIRING AN
-ESTATE ........................................ 10
-TITLE XXXI. CONCERNING THE REJECTION OR REFUSAL TO ACCEPT AN ESTATE ........ 22
-TITLE XXXII.
-IN WHAT WAY WILLS ARE OPENED, EXAMINED, AND COPIES OF THEM MADE
-...................................'.................... 24
-TITLE XXXIII.
-CONCERNING THE ANNULMENT OF THE EDICT OF THE DIVINE HADRIAN, AND IN WHAT WAY AN
-APPOINTED HEIR MAY BE PLACED IN POSSESSION OF AN ESTATE
-........................................... 25
-TITLE XXXIV.
-WHERE ANYONE HAS FORBIDDEN OR COMPELLED ANOTHER TO MAKE A WILL
-....................................................... 26
-TITLE XXXV.
-CONCERNING THOSE WHO ARE DEPRIVED OF ESTATES AS BEING UNWORTHY, AND ON THE
-SYLLANIAN DECREE OF THE SENATE. ........ 27
-TITLE XXXVI. CONCERNING CODICILS ............................................
-30
-TITLE XXXVII. CONCERNING LEGACIES ............................................
-32
-TITLE XXXVIII. CONCERNING THE MEANING OF WORDS AND THINGS. ..................
-38
-TITLE XXXIX. WHERE PROPERTY LEFT BY WILL is REJECTED. .......................
-41
-TITLE XL.
-CONCERNING WHAT is REQUIRED OF WIDOWHOOD, AND THE ABROGATION OF THE LAW OF
-JULIA MISCELLA ................................ 41
-TITLE XLI.
-CONCERNING PROPERTY MENTIONED IN OR LEFT .BY A WILL OR A CODICIL, UNDER A
-PENALTY ........................................... 43
-TITLE XLII. CONCERNING TRUSTS ............................................. 44
-TITLE XLIII.
-REGULATIONS WHICH ARE EQUALLY APPLICABLE TO LEGACIES AND TRUSTS, AND CONCERNING
-THE ABOLITION OF THE ACT OF PLACING THE PARTY INTERESTED IN POSSESSION OF THE
-PROPERTY BEQUEATHED ................................................... 51
-TITLE XLIV.
-CONCERNING FALSE STATEMENTS MADE IN THE CASE OF LEGACIES OR TRUSTS
-..................................................... 55
-TITLE XLV. CONCERNING LEGACIES OR TRUSTS LEFT FOR A SPECIFIC PURPOSE ........
-57
-TITLE XLVI.
-CONCERNING CONDITIONS INSERTED IN THE BEQUESTS OF LEGACIES, TRUSTS, AND GRANTS
-OF FREEDOM .............................. 57
-TITLE XLVII. CONCERNING THE INTEREST AND THE PROFITS OF LEGACIES AND TRUSTS ..
-59
-TITLE XLVIII. CONCERNING UNCERTAIN PERSONS. THIS TITLE is LACKING. ...........
-60
-TITLE XLIX. CONCERNING THE TREBELLIAN DECREE OF THE SENATE ................ 60
-TITLE L. ON THE FALCIDIAN LAW ........................................... 64
-TITLE LI.
-CONCERNING THE ABOLITION OF THE FORFEITURES OF SUCCESSIONS TO THE STATE
-...................................................... 69
-TITLE LII.
-CONCERNING THOSE WHO CAN TRANSMIT AN ESTATE BEFORE THE WILL HAS BEEN OPENED
-........................................... 75
-TITLE LIII. AT WHAT TIME A RIGHT TO LEGACIES OR TRUSTS VESTS ................
-76
-TITLE LIV.
-WHEN SECURITY SHOULD BE FURNISHED TO PROVIDE FOR THE PLACING OF LEGATEES OR
-BENEFICIARIES OF A TRUST IN POSSESSION OF WHAT HAS BEEN BEQUEATHED TO THEM
-................................... 77
-TITLE LV.
-CONCERNING PROPER HEIRS, AND LEGITIMATE CHILDREN AND GRANDCHILDREN, BORN OF A
-DAUGHTER, WHO ARE ENTITLED TO AN ESTATE AS HEIRS AT LAW
-............................................... 79
-TITLE LVI. ON THE TERTULLIAN DECREE OF THE SENATE ......................... 81
-TITLE LVII. ON THE ORPHITIAN DECREE OF THE SENATE .......................... 85
-TITLE LVIII. CONCERNING HEIRS AT LAW ........................................
-89
-TITLE LIX. MATTERS COMMON TO SUCCESSIONS. ................................. 96
-TITLE LX.
-CONCERNING THE ESTATES OF MOTHERS AND OF THOSE IN THE MATERNAL LINE
-........................................................ 99
-TITLE LXI.
-CONCERNING PROPERTY ACQUIRED BY CHILDREN WHILE UNDER THE CONTROL OF THEIR
-FATHER, EITHER BY MARRIAGE OR IN ANY OTHER MANNER, AND ITS ADMINISTRATION
-............................. 101
-THE TEXT OF THE CODE ........................................... 105
-TITLE LXII.
-CONCERNING THE ESTATES OF DECURIONS, MASTERS OF SHIPS, ATTENDANTS OF MILITARY
-COHORTS, AND EMPLOYEES IN ARSENALS. ........ Ill
-BOOK VII.
-TITLE I. PAGE
-CONCERNING FREEDOM GRANTED BY THE WAND OF THE PRAETOR, AND MANUMISSION
-CONFERRED IN THE COUNCIL. ...................... 112
-TITLE II. CONCERNING TESTAMENTARY MANUMISSION .......................... 113
-TITLE III. CONCERNING THE ABOLITION OF THE LEX FUSIA CANINIA. ............. 118
-TITLE IV. CONCERNING GRANTS OF FREEDOM BY MEANS OF TRUSTS .............. 118
-TITLE V. CONCERNING THE ANNULMENT OF CONDITIONAL GRANTS OF FREEDOM ... 122
-TITLE VI.
-CONCERNING THE ABOLITION OF LATIN FREEDOM, AND ITS TRANSFERENCE IN CERTAIN WAYS
-TO THE ENTIRE BODY OF ROMAN CITIZENS. ....... 123
-TITLE VII. CONCERNING THE MANUMISSION OF A SLAVE OWNED IN COMMON 127
-TITLE Vill.
-CONCERNING THE MANUMISSION OF A SLAVE WHO HAS BEEN GIVEN IN PLEDGE
-..................................................... 129
-TITLE IX. CONCERNING THE MANUMISSION OF SLAVES BELONGING TO THE STATE .... 130
-TITLE X. CONCERNING SLAVES MANUMITTED BY OTHERS THAN THEIR MASTERS. ... 131
-TITLE XI.
-WHO CANNOT MANUMIT SLAVES, AND CONCERNING THE PREVENTION OF MANUMISSION FOR THE
-PURPOSE OF DEFRAUDING CREDITORS ........ 132
-TITLE XII. WHO CANNOT OBTAIN THEIR FREEDOM .............................. 134
-TITLE XIII. FOR WHAT REASONS SLAVES CAN RECEIVE THEIR FREEDOM AS A REWARD 134
-TITLE XIV. CONCERNING THE MANUMISSION OF FREEBORN PERSONS ................ 135
-TITLE XV. GENERAL PROVISIONS WITH REFERENCE TO MANUMISSIONS. ............ 138
-TITLE XVI. CONCERNING CASES INVOLVING FREEDOM ............................. 140
-TITLE XVII. CONCERNING THE ABOLITION OF LEGAL ASSERTIONS THAT A MAN is FREE 147
-TITLE XVIII.
-WHAT SLAVES ARE NOT PERMITTED TO DECLARE THAT THEY ARE FREE, AND CONCERNING THE
-PROPERTY OF THOSE WHO ARE FORBIDDEN TO DO so
-....................................................... 148
-TITLE XIX. CONCERNING THE ORDER OF JUDICIAL INQUIRIES .......................
-149
-TITLE XX. CONCERNING THE DETECTION OF COLLUSION .......................... 151
-TITLE XXI.
-THE STATUS OF A DECEASED PERSON CANNOT BE BROUGHT IN QUESTION AFTER THE
-EXPIRATION OF FIVE YEARS .......................... 152
-TITLE XXII.
-CONCERNING THE PRESCRIPTION OF LONG TIME WHICH is PLEADED IN BEHALF OF AND NOT
-AGAINST FREEDOM .......................... 154
-TITLE XXIII. CONCERNING THE PECULIUM OF HIM WHO HAS OBTAINED His FREEDOM. . 154
-TITLE XXIV. CONCERNING THE ABOLITION OF THE CLAUDIAN DECREE OF THE SENATE ...
-155
-TITLE XXV. CONCERNING THE ABOLITION OF THE MERE CIVIL RIGHT OF ROMANS. .....
-155
-TITLE XXVI.
-CONCERNING USUCAPTION EITHER IN FAVOR OF THE PURCHASER OR ACQUIRED BY VIRTUE OF
-THE TRANSACTION ......................... 156
-TITLE XXVII. CONCERNING THE USUCAPTION OF PROPERTY WHICH HAS BEEN DONATED 158
-TITLE XXVIII. CONCERNING USUCAPTION IN THE CASE OF A DOWRY. ..................
-158
-TITLE XXIX. CONCERNING USUCAPTION WITH REFERENCE TO AN HEIR. .............. 158
-TITLE XXX. GENERAL RULES WITH REFERENCE TO USUCAPTION .................... 159
-TITLE XXXXXXII..
-CONCERNING THE TRANSFER OF THE RIGHT OF USUCAPTION AND THE ABOLITION OF THE
-DISTINCTION OF EES MANCIPI AND RES NEC MANCIPI
-.................................................... IGO
-TITLE XXXII. CONCERNING THE ACQUISITION AND RETENTION OF POSSESSION. ........
-161
-TITLE XXXIII.
-CONCERNING THE PRESCRIPTION OF LONG TIME BASED UPON OCCUPANCY FOR TEN OR TWENTY
-YEARS ................................... 153
-XXXIV.
-To WHAT CASES PRESCRIPTION OF LONG TIME DOES NOT APPLY. ....... 167
-TITLE XXXV. IN WHAT CASES PRESCRIPTION OF LONG TIME CANNOT BE PLEADED. .... 168
-TITLE XXXVI. WHERE PRESCRIPTION is PLEADED AGAINST A CREDITOR ...............
-169
-TITLE XXXVII. CONCERNING THE PRESCRIPTION OF FORTY YEARS ......................
-170
-TITLE XXXVIII.
-THE CLAIM TO PROPERTY BELONGING TO THE CROWN, OR TO THAT BELONGING TO THE
-TEMPLES, SHALL NOT BE BARRED BY PRESCRIPTION 172
-TITLE XXXIX. CONCERNING THE PRESCRIPTION OF THIRTY AND FORTY YEARS. .........
-173
-TITLE XL.
-CONCERNING THE ABOLITION OF THE PRESCRIPTION OF A YEAR AFFECTING CONTRACTS MADE
-IN ITALY, AND THE DIFFERENT TERMS, EXCEPTIONS, PRESCRIPTIONS, AND INTERRUPTIONS
-OF THE SAME. ......... 179
-TITLE XLI.
-CONCERNING ALLUVION, MARSHES, AND PASTURES BROUGHT INTO ANOTHER CONDITION
-............................................ 182
-TITLE XLII. CONCERNING THE DECISIONS OF PR^TORIAN PREFECTS. ................
-183
-TITLE XLIII.
-How AND WHEN A JUDGE SHOULD RENDER A DECISION IN THE PRESENCE OF BOTH PARTIES,
-OR IN THE ABSENCE OF ONE OF THEM ............ 183
-TITLE XLIV.
-CONCERNING OPINIONS RENDERED WITH REFERENCE TO STATEMENTS
-MADE IN A WRITTEN PETITION .................................. 186
-TITLE XLV. CONCERNING THE FINAL AND INTERLOCUTORY DECISIONS OF ALL JUDGES 187
-TITLE XLVI.
-CONCERNING DECISIONS WHICH ARE RENDERED WITHOUT STATING THE EXACT AMOUNT TO BE
-PAID .................................... 190
-TITLE XLVII.
-CONCERNING DECISIONS RENDERED FOR DAMAGES. .................... 190
-TITLE XLVIII.
-WHERE A DECISION HAS BEEN RENDERED BY A JUDGE WHO is SAID NOT TO BE COMPETENT
-............................................ 191
-TITLE XLIX.
-CONCERNING THE PENALTY TO WHICH A JUDGE is LIABLE WHO HAS RENDERED AN IMPROPER
-DECISION, AND THE PUNISHMENT WHICH MAY BE INFLICTED UPON ANYONE WHO ATTEMPTS TO
-CORRUPT A JUDGE, OR His ADVERSARY ............................
-192
-TITLE L. A DECISION WHEN ONCE RENDERED CANNOT BE REVOKED. ............. 193
-TITLE LI. CONCERNING THE PROFITS AND THE EXPENSES OF LITIGATION ........... 193
-TITLE LII. CONCERNING RES JUDICATA ........................ 195
-TITLE LIII. CONCERNING THE EXECUTION OF JUDGMENT. ......................... 196
-TITLE LIV. CONCERNING INTEREST ON A JUDGMENT ...............................
-197
-TITLE LV. WHERE JUDGMENT is RENDERED AGAINST SEVERAL PERSONS AT ONCE .... 199
-TITLE LVI. WHO ARE NOT INJURED BY A JUDGMENT. ............................ 199
-TITLE LVII.
-NOTICES, LETTERS, PROCLAMATIONS, AND SIGNATURES DO NOT POSSESS THE AUTHORITY OF
-JUDGMENTS ..................................... 20°
-TITLE LVIII. WHERE A JUDGMENT is BASED ON FORGED DOCUMENTS OR FALSE EVIDENCE
-201
-TITLE LIX. CONCERNING CONFESSIONS ........................................ 202
-TITLE LX.
-ACTS PERFORMED OR JUDGMENTS RENDERED BETWEEN SOME PERSONS CANNOT PREJUDICE THE
-RIGHTS OF OTHERS ..............:....... 202
-TITLE LXI. PAGE CONCERNING REFERENCES TO THE EMPEROR. .........................
-202
-TITLE LXIL
-CONCERNING APPEALS AND IMPERIAL DECISIONS. ..................... 203
-THE TEXT OP THE CODE ........................................... 205
-TITLE LXIII.
-CONCERNING DELAYS, AND THE AMENDMENTS OF APPEALS OR REFERENCES TO THE
-EMPEROR............................................. 214
-TITLE LXIV. WHEN IT is NECESSARY TO APPEAL. .................................
-219
-TITLE LXV. WHOSE APPEALS SHOULD NOT BE RECEIVED. .......................... 221
-TITLE LXVI. WHERE THE APPELLANT DIES WHILE THE APPEAL is PENDING. ......... 223
-TITLE LXVII. CONCERNING THOSE WHO DO NOT APPEAL THROUGH FEAR OF THE JUDGE 224
-TITLE LXVIII. WHERE ONE OR MORE OF THE PARTIES APPEAL. .......................
-225
-TITLE LXIX. WHERE AN APPEAL is TAKEN AGAINST TEMPORARY POSSESSION. ....... 225
-TITLE LXX.
-No ONE SHALL BE PERMITTED TO APPEAL FOR THE THIRD TIME IN ONE AND THE SAME
-CASE, OR TO REFUSE TO OBEY THE JUDGMENT OF A COURT WHICH HAS BEEN RENDERED
-TWICE AND CONFIRMED BY THE DECISION OF A PREFECT
-........................................ 226
-TITLE LXXI. WHO CAN MAKE AN ASSIGNMENT OF THEIR PROPERTY. ................ 227
-TITLE LXXII.
-CONCERNING THE SEIZURE AND SALE OF PROPERTY BY AUTHORITY OF COURT, AND THE
-SEPARATION OF THE SAME ....................... 230
-TITLE LXXIII. CONCERNING THE PRIVILEGE OF THE TREASURY ........................
-233
-TITLE LXXIV. CONCERNING THE PRIVILEGE OF DOWRY ..............................
-234
-TITLE LXXV.
-CONCERNING THE REVOCATION OF CONTRACTS BY WHICH PROPERTY HAS BEEN ALIENATED FOR
-THE PURPOSE OF DEFRAUDING CREDITORS. ..... 235
-BOOK VViillll..
-TITLE I. PAGE CONCERNING INTERDICTS ..........................................
-236
-TITLE II. CONCERNING THE INTERDICT QUORUM BONORUM ...................... 237
-TITLE III. CONCERNING THE INTERDICT QUORUM LEGATORUM ..................... 238
-TITLE IV. CONCERNING THE INTERDICT UNDE Vi............................... 238
-TITLE V.
-WHERE THE POSSESSION OF AN ABSENT PERSON is INTERFERED WITH BY FORCE OR IN ANY
-OTHER WAY ................................. 241
-TITLE VI. CONCERNING THE INTERDICT UTI POSSIDETIS ......................... 242
-TITLE VII. CONCERNING THE PRODUCTION OF WILLS. ............................ 242
-TITLE Vill.
-CONCERNING THE PRODUCTION OR INTRODUCTION OF CHILDREN AND FREEMEN IN COURT
-............................................... 243
-TITLE IX. CONCERNING THE PRECARIOUS AND SALVIAN INTERDICTS. .............. 243
-TITLE X. CONCERNING PRIVATE BUILDINGS ................................... 244
-TITLE XI.
-CONCERNING THE NOTICE PROHIBITING THE ERECTION OF A NEW STRUCTURE
-....................................................... 247
-TITLE XII. CONCERNING PUBLIC WORKS. ...................................... 248
-TITLE XIII.
-CONCERNING THE CONTRACTORS OF PUBLIC WORKS AND THE SENATORS OF CITIES
-...................................................... 252
-TITLE XIV. CONCERNING PLEDGES AND HYPOTHECATIONS ......................... 253
-TITLE XV.
-CONCERNING CASES IN WHICH PROPERTY is TACITLY PLEDGED OR HYPOTHECATED
-................................................. 251
-TITLE XVI. PAGE WHERE PROPERTY BELONGING TO ANOTHER is PLEDGED. ...............
-260
-TITLE XVII.
-WHAT PROPERTY WHEN PLEDGED CAN OR CANNOT BE RENDERED LIABLE FOR A DEBT, AND IN
-WHAT WAY A PLEDGE is GIVEN ............... 262
-CONSTITUTION OF FREDERICK ....................................... 263
-TITLE XVIII. WHO ARE PREFERRED CREDITORS WHEN PROPERTY is PLEDGED. .........
-264
-TITLE XIX. CONCERNING THOSE WHO SUCCEED TO THE PLACES OF PRIOR CREDITORS .. 269
-TITLE XX. WHERE A PRIOR CREDITOR SELLS THE PROPERTY PLEDGED. .............. 270
-TITLE XXI. WHERE PROPERTY OWNED IN COMMON is PLEDGED. ................... 270
-TITLE XXII.
-CONCERNING THE PR^TORIAN PLEDGE AND ITS APPLICATION EVEN TO THE ACTIONS OF
-DEBTORS .......................................... 271
-TTIITTLLEE XXXXIIIIII..
-WHERE PROPERTY is SEIZED IN PURSUANCE OF A JUDGMENT. ............ 271
-TITLE XXIV. WHERE PROPERTY is PLEDGED A SECOND TIME ........................
-272
-TITLE XXV.
-CONCERNING THE OFFSPRING OF PROPERTY WHICH HAS BEEN PLEDGED AND ALL OTHER
-INCREASE OF THE SAME. ........................ 273
-TITLE XXVI. CONCERNING THE RELEASE OF PLEDGES ..............................
-273
-TTIITTLLEE XXXXVVIIII..
-PLEDGES CAN EVEN BE HELD TO SECURE THE PAYMENT OF MONEY EVIDENCED BY A WRITTEN
-INSTRUMENT ............................. 275
-TITLE XXVIII. CONCERNING THE SALE OF PLEDGES .................................
-276
-TITLE XXIX. A DEBTOR CANNOT PREVENT THE SALE OF THE PROPERTY PLEDGED ...... 280
-TTIITTLLEE XXXXXX..
-WHERE PROCEEDINGS ARE INSTITUTED ON ACCOUNT OF THE SALE OF A PLEDGE
-..................................................... 280
-TITLE XXXI. PAGE CONCERNING THE RELEASE OF PLEDGES
-............................. 281
-TTIITTLLEE XXXXXXIIII..
-WHERE ONE OF SEVERAL HEIRS OF THE DEBTOR OR CREDITOR EITHER PAYS OR RECEIVES
-His SHARE OF THE DEBT ........................... 282
-TITLE XXXIII.
-WHERE THE PAYMENT OF MONEY is NOT MADE AFTER A CONTRACT FOR THE PLEDGING OF
-PROPERTY HAS BEEN ENTERED INTO. ............ 282
-TTIITTLLEE XXXXXXIIVV..
-CONCERNING THE RIGHT TO OBTAIN OWNERSHIP OF THE PROPERTY OF A DEBTOR
-..................................................... 283
-TTIITTLLEE XXXXXXVV..
-CONCERNING CONTRACTS RELATING TO PLEDGES AND THE ABOLITION OF THE LAW OF
-CONDITIONAL AVOIDANCE WITH REFERENCE TO PLEDGES 285
-TITLE XXXVI. CONCERNING EXCEPTIONS OR PRESCRIPTIONS. .........................
-286
-TITLE XXXVII. CONCERNING DISPUTED PROPERTY ..................................
-288
-TITLE XXXVIII. CONCERNING THE CONTRACTION OF A STIPULATION .......
-............. 290
-TITLE XXXIX. CONCERNING STIPULATIONS WHICH ARE VOID. ........................
-294
-TITLE XL. WHERE Two OR MORE PERSONS STIPULATE AND PROMISE. ............... 296
-TITLE XLI. CONCERNING SURETIES AND MANDATORS. ............................. 297
-TITLE XLII. CONCERNING NOVATIONS AND ASSIGNMENTS. ......................... 304
-TITLE XLIII. CONCERNING PAYMENTS AND RELEASES. ................ ............
-306
-TITLE XLIV. CONCERNING VERBAL RELEASES .................................... 310
-TITLE XLV. CONCERNING EVICTIONS ........................................... 311
-TTIITTLLEE XXLLVVII..
-A CREDITOR is NOT RESPONSIBLE FOR EVICTION. ...................... 317
-TITLE XLVII. CONCERNING PATERNAL CONTROL ...................................
-318
-TITLE XLVIII. PAGE CONCERNING ADOPTIONS
-........................................... 320
-TITLE XLIX. CONCERNING THE EMANCIPATION OF CHILDREN. ...................... 324
-TITLE L. CONCERNING UNGRATEFUL CHILDREN ............................... 326
-TITLE LI.
-CONCERNING PERSONS WHO RETURN BY THE RIGHT OF POSTLIMINIUM, AND THE RANSOM OF
-CAPTIVES FROM THE ENEMY. ................ 326
-TTIITTLLEE LLIIII..
-CONCERNING THE ABANDONMENT OF CHILDREN BOTH FREE AND SLAVE, AND CONCERNING
-THOSE WHO RECEIVED NEWBORN CHILDREN FOR THE PURPOSE OF REARING THEM
-................................ 332
-TITLE LIII. WHAT is MEANT BY LONG-CONTINUED CUSTOM ........................ 333
-TITLE LIV. CONCERNING DONATIONS .......................................... 334
-THE TEXT OF THE CODE............................................ 342
-TITLE LV.
-CONCERNING DONATIONS WHICH ARE MADE PROVISIONALLY OR UNDER A CONDITION, OR TO
-TAKE PLACE AT A CERTAIN TIME. ............... 346
-TITLE LVI. CONCERNING THE REVOCATION OF DONATIONS. ........................ 347
-TITLE LVII. CONCERNING DONATIONS CAUSA MORTIS ...............................
-350
-TITLE LVIII.
-CONCERNING THE ABOLITION OF THE PENALTIES OF CELIBACY AND WIDOW-ERHOOD AND THE
-ABROGATION OF TITHES......................... 351
-TITLE LIX. CONCERNING THE RIGHT OF CHILDREN. .............................. 352
-BBOOOOKK IIXX..
-TITLE I. CONCERNING THOSE WHO CANNOT BRING AN ACCUSATION .............. 352
-TITLE II. CONCERNING ACCUSATIONS AND DENUNCIATIONS IN WRITING ........... 358
-TITLE III. PAGE
-CCOONNCCEERRNNIINNGG TTHHEE PPRROODDUUCCTTIIOONN AANNDD TTRRAANNSSFFEERR OOFF PPEERRSSOONNSS AACCCCUUSSEEDD OOFF ^^
-CRIME ........."'"'""'"'"'
-TITLE IV. CONCERNING THE CUSTODY OF ACCUSED PERSONS. ..................... 363
-TITLE V.
-CCOONNCCEERRNNIINNGG TTHHEE PPRROOHHIIBBIITTIIOONN OOFF PPRRIIVVAATTEE PPRRIISSOONNSS.. .................................... 336655
-
-
-
-THE CODE OF OUR LORD THE MOST HOLY EMPEROR JUSTINIAN.
-SECOND EDITION. (Continued.)
-
-
-
-
-
-
-
-THE CODE OF OUR LORD
-THE MOST HOLY EMPEROR JUSTINIAN.
-SECOND EDITION.
-BOOK IX.
-
-TITLE I.
-CONCERNING THOSE WHO CANNOT BRING AN ACCUSATION.
+* BOOK IX.
+* TITLE I. CONCERNING THOSE WHO CANNOT BRING AN ACCUSATION.
 1. The Emperors Severus and Antoninus to Sylvanus.
 You should first answer the charges of murder and wounding of which you are
 accused by your adversary, because they are more serious, and then the judge
@@ -661,7 +258,8 @@ circumstances upon slaves, and they shall pay the penalty before their
 forbidden accusation has begun.
 Given on the seventh of the Idesof August, during the Consulate of
 Asclepiodotus and Marinianus, 423.
-TITLE II.
+
+* TITLE II.
 CONCERNING ACCUSATIONS AND DENUNCIATIONS IN WRITING.
 1. The Emperor Alexander to Martian.
 The Governor of the province will not be ignorant that those who remove
@@ -824,7 +422,8 @@ admits that he is guilty of crime shall be examined as to the complicity of
 others.
 Given at Ravenna, on the eighth of the Idesof August, during the Consulate of
 Asclepiodotus and Marinianus, 423.
-TITLE III.
+
+* TITLE III.
 CONCERNING THE PRODUCTION AND TRANSFER OF PERSONS ACCUSED OF CRIME.
 1. The Emperors Valentinian and Valens to Valentinian.
 When a soldier is found to have committed a public crime in a province, the
@@ -854,7 +453,8 @@ We order that no one shall be produced in court unless the judge has directed
 that this shall be done.
 Given at Milan, on the Nonesof February, during the Consulate of Valentinian,
 Consul for the third time, and Neoterius, 390.
-TITLE IV. CONCERNING THE CUSTODY OF ACCUSED PERSONS.
+
+* TITLE IV. CONCERNING THE CUSTODY OF ACCUSED PERSONS.
 1. The Emperor Constantius to Florentinus.
 As soon as the defendant is produced in any case, whether an accuser is
 responsible for his appearance, or whether a public official has caused his
@@ -948,7 +548,8 @@ be fined ten pounds of gold.
 Given at Constantinople, on the third of the Kalendsof January, during the
 Consulate of Gratian, Consul for the fifth time, and Theodosius, 380.
 6. This Law is not Authentic.
-TITLE V. CONCERNING THE PROHIBITION OF PRIVATE PRISONS.
+
+* TITLE V. CONCERNING THE PROHIBITION OF PRIVATE PRISONS.
 1. The Emperor Zeno to Ba^ilius, Prsetorian Prefect.
 We order that no one whosoever shall, under any circumstances, be permitted to
 have a private prison either in the magnificent city of Alexandria, or in the
@@ -980,7 +581,8 @@ BOOK IX.
 
 
 
-TITLE VI. WHERE THE DEFENDANT OR THE ACCUSER DIES.
+
+* TITLE VI. WHERE THE DEFENDANT OR THE ACCUSER DIES.
 1. This Law is not Authentic.
 2. The Emperor Antoninus to Eutychianus.
 Even if Marcellus, who was accused of the crime of forgery, is dead, and for
@@ -1024,7 +626,8 @@ appeal must, nevertheless, be heard and decided even after his death; as it is
 proper to ascertain whether the confiscation of his property was valid or not.
 Published on the sixth of the Kalendsof August, during the Consulate of Gordian
 and Aviola, 240.
-TITLE VII. WHERE ANYONE REVILES THE EMPEROR.
+
+* TITLE VII. WHERE ANYONE REVILES THE EMPEROR.
 1. The Emperors Theodosius, Arcadius, and Honorius to Rufinus, Prsetorian
 Prefect.
 Where anyone, ignorant of modesty and without any sense of shame, thinks Our
@@ -1040,7 +643,8 @@ Our knowledge, in order that We may consider what has been said, and determine
 whether it should be passed over in silence, or investigated.
 Given at Constantinople, on the sixth of the Idesof August, during the
 Consulate of Theodosius, Consul for the third time, and Abun-dantius, 392.
-TITLE Vill.
+
+* TITLE VIII.
 ON THE LEX JULIA RELATING TO TREASON. 1. The Emperor Alexander to Paulinus.
 You are not only not permitted to accuse a judge of the crime of treason,
 because you allege that he has rendered a decision against
@@ -1194,7 +798,8 @@ successor; as the Emperors Severus and Antoninus stated in rescripts addressed
 to the Receivers of the Treasury.
 Given on the third of the Nonesof March, . . .
 
-TITLE IX.
+
+* TITLE IX.
 ON THE LEX JULIA RELATING TO ADULTERY AND FORNICATION.
 1. The Emperors Severus and Antoninus to Cassia.
 The Lex Juliadeclares that wives have no right to bring criminal accusations
@@ -1636,7 +1241,8 @@ the accusation of adultery during the term prescribed by law.
 Given at Constantinople, on the fifth of the Kalendsof November, after the
 Consulate of Lampadius and Orestes, 532.
 37. This Law is not Authentic.
-TITLE X. WHERE A GUARDIAN CORRUPTS His FEMALE WARD.
+
+* TITLE X. WHERE A GUARDIAN CORRUPTS His FEMALE WARD.
 1. The Emperor Constantine to Bassus, Vicegerent of Italy.
 When a guardian violates the chastity of his female ward, he shall be sentenced
 to deportation, and all his property shall be confiscated to the Treasury,
@@ -1644,7 +1250,8 @@ although he must still suffer the penalty which the laws inflict upon
 ravishers.
 Given at Aquileia, on the day before the Nonesof April, during the Consulate of
 Constantine, Consul for the seventh time, and Con-stantius, 326.
-TITLE XL
+
+* TITLE XL
 CONCERNING WOMEN WHO COPULATE WITH THEIR OWN SLAVES.
 1. The Emperor Constantine to the People.
 When a woman is convicted of having secretly had sexual intercourse with her
@@ -1664,7 +1271,8 @@ children of this union, as belonging to the woman, can be claimed by the heirs
 above mentioned.
 Given on the fourth of the Kalendsof June, during the Consulate of Constantine,
 Consul for the seventh time, and the Caesar Constan-tius, 326.
-TITLE XII.
+
+* TITLE XII.
 ON THE LEX JULIA RELATING TO PUBLIC OR PRIVATE VIOLENCE.
 1. The Emperors Severus and Antoninus to Pelitia.
 Those who seize the property of a wife on account of a debt of her husband, or
@@ -1885,7 +1493,8 @@ confiscation of their property.
 Given on the fifth of the Kalendsof September, during the Consulate of
 Anthemius, Consul for the second time, 468.
 
-TITLE XIII. CONCERNING THE RAPE OF VIRGINS, WIDOWS, AND NUNS.
+
+* TITLE XIII. CONCERNING THE RAPE OF VIRGINS, WIDOWS, AND NUNS.
 1. The Emperor Justinian to Hermogenes, Master of the Offices.
 We decree that ravishers of virgins, who are of honorable rank or freeborn,
 whether they have been betrothed or not, or of widows of any description,
@@ -2021,7 +1630,8 @@ transferred to the latter, provided he had no legitimate issue.
 "Si quis uxori alienee, adulterium intulerit violenter, si ipse adulter filios
 habens legititmos talia perpetraverit, ipse solus absque rebus addicatur marito
 mulieris.
-TITLE XIV. CONCERNING THE CORRECTION OF SLAVES.
+
+* TITLE XIV. CONCERNING THE CORRECTION OF SLAVES.
 1. The Emperor Constantine to Bassus.
 If a master should punish his slave by striking him with rods or straps, or, in
 order to keep him in custody, should place him in chains,
@@ -2145,7 +1755,8 @@ deprive him of life by means of torture worthy of the cruelty of the most
 savage barbarians.
 Given at Rome, on the fifth of the Idesof May, during the Consulate of
 Constantine, Consul for the fifth time, and Licinius, 312.
-TITLE XV. CONCERNING THE CORRECTION OF RELATIVES.
+
+* TITLE XV. CONCERNING THE CORRECTION OF RELATIVES.
 1. The Emperors Valentinian and Valens to the Senate.
 We grant the power of punishing minors to their elder relatives, according to
 the nature of the offence which they have committed, in order that the remedy
@@ -2159,7 +1770,8 @@ limits of domestic correction, We decree that those guilty of atrocious crime
 shall be brought before the courts of justice.
 Given on the day before the Kalendsof December, during the Consulate of
 Valentinian and Valens, 365.
-TITLE XVI. ON THE LEX CORNELIA RELATING TO ASSASSINS.
+
+* TITLE XVI. ON THE LEX CORNELIA RELATING TO ASSASSINS.
 1. The Emperor Antoninus to HercuLianus and Other Soldiers.
 Your brother would have done better if he had surrendered himself to the
 Governor of the province, for if he had proved that the man was not struck by
@@ -2222,7 +1834,8 @@ the slaves of both husband and wife who were in the house at the time, without
 excepting any of them, shall be put to torture.
 Given at Constantinople, on the third of the Idesof December, during the
 Consulate of Arcadius and Bauto, 385.
-TITLE XVII.
+
+* TITLE XVII.
 CONCERNING THOSE WHO KILL THEIR PARENTS OR CHILDREN.
 1. The Emperor Constantine to Varinus, Vicegerent of Africa.
 If anyone should hasten the end of either of his parents, his son, his
@@ -2237,7 +1850,8 @@ be deprived of all use of the elements, and during the remainder of his
 existence, he may be deprived of air, and, at his death, of the earth.
 Given on the eleventh of the Kalendsof December, during the Consulate of
 Licinius, Consul for the fifth time, and Crispus, 319.
-TITLE XVIII.
+
+* TITLE XVIII.
 CONCERNING POISONERS, DIVINERS, AND OTHER CRIMINALS OF THE SAME DESCRIPTION.
 1. The Emperor Antoninus to Titius.
 It is a more serious crime to kill a man by poison, than to cause his death by
@@ -2355,7 +1969,8 @@ liable; or, because he may have formed an atrocious design to kill his own
 enemy under the pretext of vengeance.
 Given on the seventeenth of the Kalendsof September, during the Consulate of
 Timasius and Promotus, 389.
-TITLE XIX. CONCERNING THE VIOLATION OF SEPULCHRES.
+
+* TITLE XIX. CONCERNING THE VIOLATION OF SEPULCHRES.
 1. The Emperor Gordian to Zeno.
 Those who knowingly do not hesitate to purchase and sell property destined for
 religious uses, especially when it has already been employed for that purpose,
@@ -2502,7 +2117,8 @@ No one shall hereafter be annoyed on account of any claim owed by a deceased
 person until nine days have elapsed from the time of his death; and if any bond
 or similar security should be executed, it will be void. The rights of
 creditors shall not, however, be prejudiced by this provision.
-TITLE XX. ON THE LEX FABIA CONCERNING KIDNAPPING.
+
+* TITLE XX. ON THE LEX FABIA CONCERNING KIDNAPPING.
 1. The Emperor Antoninus to Placidus.
 Let your father proceed civilly by an action in rembefore a competent
 magistrate against him by whom he alleges his female slave has been seduced,
@@ -2655,7 +2271,8 @@ of a crime of this kind, if he is a slave or a freedman, he shall be thrown to
 wild beasts; if he is freeborn, he shall perish by the sword.
 Given on the Kalendsof August, during the Consulate of Constantine, Consul for
 the fourth time, and Licinius, 315.
-TITLE XXI.
+
+* TITLE XXI.
 OONNTHE VlSCELLIAN LAW.
 1. The Emperors Diocletian and Maximian and the Csesars to Bacchus.
 The Viscellian Law prohibits persons of the condition of freedmen from daring
@@ -2675,7 +2292,8 @@ patrons are, in proportion to their means, required to discharge the personal
 duties to which men of this kind are usually liable.
 Published at Antioch, on the second of the Idesof February, during the
 Consulate of the Caesars.
-TITLE XXII. ON THE CORNELIAN LAW WITH REFERENCE TO FORGERY.
+
+* TITLE XXII. ON THE CORNELIAN LAW WITH REFERENCE TO FORGERY.
 1. The Emperor Antoninus to Severinus.
 If you accuse the other party of the crime of the substitution of a child, the
 trial of the case, which is a capital one, should not be deferred until the boy
@@ -2979,7 +2597,8 @@ culprit as infa^nous; others declare he should be scourged. (The Hedaya II,
 XXI.)
 In ancient Athens, the perjurer could be compelled to answer in a private
 proceeding at the instance of the injured party. "Let the penalty of the action
-TITLE XXIII.
+
+* TITLE XXIII.
 CONCERNING THOSE WHO DRAW UP WILLS UNDER WHICH THEY ARE BENEFICIARIES.
 1. The Emperor Antoninus to Valatius.
 Although jurists hold that it is contrary to the Cornelian Law for an
@@ -3051,7 +2670,8 @@ forgery, as you could not antagonize your master.
 Published on the sixth of the Idesof December, during the Consulate of
 Diocletian, Consul for the fourth time, and Maximian, Consul for the third
 time, 290.
-TITLE XXXXIIVV..CONCERNING COUNTERFEIT MONEY.
+
+* TITLE XXXXIIVV..CONCERNING COUNTERFEIT MONEY.
 1. The Emperor Constantine to Jamiarius.
 As certain makers of counterfeit money are perpetrating their crime in secret,
 all persons are notified that they are required to detect men of this kind, so
@@ -3116,7 +2736,8 @@ permission which he has obtained, but will also suffer the penalty which he
 deserves.
 Given at Constantinople, on the Idesof July, during the Consulate of
 Theodosius, Consul for the third time, and Abundantius, 393.
-TITLE XXV. CONCERNING THE CHANGE OF NAME.
+
+* TITLE XXV. CONCERNING THE CHANGE OF NAME.
 1. The Emperors Diocletian and Maximian, and the Csesars, to Julian.
 As in the beginning, private individuals have the right, for the purpose of
 recognition, to give their children such names and surnames as they may desire,
@@ -3127,7 +2748,8 @@ have been frequently enacted on this subject, and your rights will not, on this
 account, be prejudiced in the future.
 Given on the fifteenth of the Kalendsof January, during the Consulate of the
 above-mentioned Emperors.
-TITLE XXVI.
+
+* TITLE XXVI.
 ON THE JULIAN LAW RELATING TO POLITICAL CORRUPTION.
 1. The Emperors Arcadius and Honorius to Pompeianus, Prefect of the City.
 Let no one presume to again apply for the office of commander, enumerator,
@@ -3157,7 +2779,8 @@ Those who violate this law shall be sentenced to the penalty of deportation, in
 accordance with the terms of the Lex Julia,relating to political corruption.
 Given at Milan, on the day before the Kalendsof June, during the Consulate of
 Stilicho and Aurelian, 400.
-TITLE XXVII. ON THE JULIAN LAW RELATING TO EXTORTION.
+
+* TITLE XXVII. ON THE JULIAN LAW RELATING TO EXTORTION.
 1. The Emperors Gratian, Valentinian, and Theodosius to Matro-nianus, Duke and
 Governor of Sardinia.
 In order that the penalty inflicted upon one person may strike many others with
@@ -3233,7 +2856,8 @@ received the presents but also to him who gave them; and anyone convicted of
 this crime shall be fined quadruple the value of what was given or received.1
 Given at Constantinople, on the sixth of the Kalendsof December during the
 Consulate of Theodosius, Consul for the seventeenth time and Festus, 439.
-TITLE XXVIII. CONCERNING THE CRIME OF EMBEZZLEMENT.
+
+* TITLE XXVIII. CONCERNING THE CRIME OF EMBEZZLEMENT.
 1. The Emperors Honorius and, Theodosius to Rufinus, Prsetorian Prefect.
 Judges who misappropriate public money during their administration incur the
 penalty imposed by the Lex Juliarelating to embezzlement, and We order that
@@ -3243,7 +2867,8 @@ the property misappropriated by them.
 Given at Constantinople, on the fifth of the Nonesof March, during the
 Consulate of Honorius, Consul for the tenth time, and Theodosius, Consul for
 the sixth time, 415.
-TITLE XXXXIIXX..CONCERNING THE CRIME OF SACRILEGE.
+
+* TITLE XXXXIIXX..CONCERNING THE CRIME OF SACRILEGE.
 1. The Emperors Gratian, Valentinian, and Theodosius to Eutro-pius, Prsetorian
 Prefect.
 Those who fail to observe, or violate the sanctity of the Divine Law and offend
@@ -3269,7 +2894,8 @@ Given on the sixteenth of the Kalendsof August, during the Consulate of
 Arcadius and Bauto, 385.
 
 
-TITLE XXX.
+
+* TITLE XXX.
 CONCERNING SEDITIOUS PERSONS, AND THOSE WHO DARE TO ASSEMBLE THE PEOPLE AGAINST
 THE GOVERNMENT.
 
@@ -3290,7 +2916,8 @@ demand, but that, on the other hand, they will be liable to the penalties which
 the ancient laws provide against the authors of seditions and tumults.
 Given at Constantinople, on the second of the Nonesof March, during the
 Consulate of Leo, Consul for the sixth time, 474.
-TITLE XXXI.
+
+* TITLE XXXI.
 WHEN A CIVIL ACTION CANNOT BE BROUGHT AT THE
 SAME TIME ALONG WITH A CRIMINAL PROSECUTION, AND
 WHETHER BOTH PROCEEDINGS CAN BE INSTITUTED BY
@@ -3320,7 +2947,8 @@ crime of forgery, which has already been made the subject of a civil action,
 can also be prosecuted criminally.
 Given on the day before the Kalendsof January, during the Consulate of Valens,
 Consul for the sixth time, and Valentinian, Consul for the second time, 378.
-TITLE XXXII. CONCERNING THE CRIME OP PLUNDERING AN ESTATE.
+
+* TITLE XXXII. CONCERNING THE CRIME OP PLUNDERING AN ESTATE.
 1. The Emperors S&verus and Antoninus to Euphrata.
 You cannot prosecute your co-heir for the crime of plundering the estate when
 you acknowledged that, after having examined the property in the common chest,
@@ -3367,7 +2995,8 @@ It is a well-settled rule of law that the crime of plundering an estate can be
 prosecuted, even where a civil action for the same cause has failed.
 Published on the tenth of the Kalendsof March, during the Consulate of
 ^milianus and Aquilinus, 250.
-TITLE XXXIII. CONCERNING PROPERTY CARRIED OFF BY VIOLENCE.
+
+* TITLE XXXIII. CONCERNING PROPERTY CARRIED OFF BY VIOLENCE.
 1. The Emperor Gordian to Valerius.
 It is an established principle of law that an action brought for the recovery
 of property carried away by violence, and which includes a penalty, has
@@ -3406,7 +3035,8 @@ means of which quadruple damages can be recovered within the available year,
 and similar damages afterwards; you can bring your suit before the Governor.
 Ordered at Philippopolis, on the sixth of the Nonesof July, during the
 Consulate of the above-mentioned Emperors.
-TITLE XXXIV. CONCERNING THE CRIME OP SWINDLING.
+
+* TITLE XXXIV. CONCERNING THE CRIME OP SWINDLING.
 1. The Emperor Alexander to Alexander.
 You acknowledge that you have committed a dishonorable and criminal act by
 having pledged the same property to several persons, and that, when contracting
@@ -3441,7 +3071,8 @@ lien on the property pledged; and you can appear before the court having
 jurisdiction which will render a decision in conformity with law and equity.
 Published on the sixth of the Idesof May, during the Consulate of Peregrinus
 and .^Emilianus, 245.
-TITLE XXXV. CONCERNING INJURIES.
+
+* TITLE XXXV. CONCERNING INJURIES.
 1. The Emperor Alexander to Syrus.
 It is not lawful to injure the slaves of others.
 Published on the eleventh of the Kalendsof December, during the Consulate of
@@ -3531,7 +3162,8 @@ others, the practice of the courts which has been observed up to the present
 time shall prevail hereafter.
 Given at Constantinople, on the fifth of the Nonesof November, during the
 Consulate of Illus, 478.
-TITLE XXXVI. CONCERNING DEFAMATORY LIBELS.
+
+* TITLE XXXVI. CONCERNING DEFAMATORY LIBELS.
 1. Edict of the Emperors Valentinian and Valens.If anyone should find a
 defamatory libel in a house, in a public place, or anywhere else, without
 knowing who placed it there, he must
@@ -3593,7 +3225,8 @@ was imposed, which varied with the rank and caste of the offender. (Gentoo Code
 XV. I, II.)
 Given at Constantinople, on the fourteenth of the Kalendsof March, during the
 Consulate of Valentinian and Valens, 363.
-TITLE XXXVII. CONCERNING CATTLE THIEVES.
+
+* TITLE XXXVII. CONCERNING CATTLE THIEVES.
 1. The Emperors Honorius and Arcadius to Pasiphilus.
 The accusation of a cattle thief not only can be made in writing, but can also
 be instituted without that formality.
@@ -3645,7 +3278,8 @@ of the government are generally, in the countries of continental Europe,
 classed as instances of lese majesty,and punished accordingly. When a private
 person is the object of such attacks, the penalty is, of course, not nearly so
 severe.—ED.
-TITLE XXXVIII.
+
+* TITLE XXXVIII.
 CONCERNING THE PROHIBITION OF DAMAGING THE LEVEES OF THE NILE.
 1. The Emperors Honorius and Theodosius to Anthemius, Praetorian Prefect.
 If anyone should hereafter, contrary to the ancient practice observed
@@ -3660,7 +3294,8 @@ their property.
 Given at Constantinople, on the tenth of the Kalendsof October, during the
 Consulate of Honorius, Consul for the eighth time, and Theodosius, Consul for
 the third time, 409.
-TITLE XXXIX.
+
+* TITLE XXXIX.
 CONCERNING THOSE WHO CONCEAL ROBBERS OR OTHER CRIMINALS.
 1. The Emperors Vcdentinian, Valens, and Gratian to the Vicegerent Simplicius.
 Those who conceal persons guilty of crime must expect the same penalty, to
@@ -3717,7 +3352,8 @@ calumniators, for it establishes a bad precedent to seek for robbers, and by
 doing so place innocent persons in jeopardy.
 Given at Constantinople, on the twelfth of the Kalendsof January, during the
 Consulate of Marinianus, and Asclepiodotus, 423.
-TITLE XL. CONCERNING THE NOTIFICATION OF ACCUSED PERSONS.
+
+* TITLE XL. CONCERNING THE NOTIFICATION OF ACCUSED PERSONS.
 1. The Emperors Valerian and Gallienus to Rusticus.
 When anyone, who is absent, is charged with serious crimes, sentence is not
 usually pronounced against him at once, but he is notified to appear, not for
@@ -3746,7 +3382,8 @@ brings such censure under the law that he who is accused not only cannot
 transfer his estate, but his good name is also injured.
 Given at Ravenna, on the seventh of the Kalendsof July, during the Consulate of
 Eustachius and Agricola, 421.
-TITLE XLI. CONCERNING TORTURE.
+
+* TITLE XLI. CONCERNING TORTURE.
 1. The Emperors Severus and Antoninus to Antiana.
 Slaves should not be subjected to torture against their masters except in cases
 of adultery, accusations of fraud having reference to taxation, and the crime
@@ -3911,7 +3548,8 @@ demands the torture of the slaves must take the oath prescribed by Us in such
 cases.
 Given on the fifteenth of the Kalendsof October, at Chalcedon, during the
 Consulate of Decius, 529.
-TITLE XLII. CONCERNING ABOLITION^
+
+* TITLE XLII. CONCERNING ABOLITION^
 1. The Emperors Diocletian and Maximian to Paterna.
 If the Governor of the province should ascertain that the abolition obtained by
 the accused includes all the crimes with which he was
@@ -3975,7 +3613,8 @@ require the accuser not only to prove what he alleges, but the defendant, who
 denies the charge, to clear himself, if he can do so.
 Given on the day before the Idesof October, during the Consulate of our Prince
 Valentinian, and Victor, 369.
-TITLE XLIII. CONCERNING GENERAL ABOLITION.
+
+* TITLE XLIII. CONCERNING GENERAL ABOLITION.
 1. The Emperor Antoninus to Rutilianus, Consular of Cilicia.
 Anyone who, having the power to bring a criminal accusation, after a general
 amnesty of all criminals has been proclaimed in the usual manner, neglects to
@@ -3993,7 +3632,8 @@ does not remove the disgrace of the crime, but merely dispenses with the
 punishment.
 Given on the fourteenth of the Kalendsof June, during the Consulate of Gratian,
 Consul for the second time, and Probus, 371.
-TITLE XLIV.
+
+* TITLE XLIV.
 CRIMINAL PROCEEDINGS SHOULD BE TERMINATED WITHIN A CERTAIN TIME.
 1. The Emperors Valentinian, Theodosius, and Arcadius to Desi-derius,
 Vicegerent of Asia.
@@ -4029,7 +3669,8 @@ subordinate officials are hereby notified that if, at the request of litigants,
 they should delay the examination or trial of a case beyond the time aforesaid,
 they must pay a fine of twenty pounds of gold.
 Given on the Kalendsof April ....
-TITLE XLV.
+
+* TITLE XLV.
 ON THE TURPILLIAN DECREE OF THE SENATE.
 1. The Emperor Antoninus to Amatus.
 He is held to be liable to the penalty imposed by the Decree of the Senate who,
@@ -4073,7 +3714,9 @@ the accusation according to law and bring it to a termination, after having
 proved what is required of you.
 Published on the third of the Kalendsof July, during the Consulate of
 Diocletian, Consul for the sixth time, and Maximian, 296.
-TITLE XXLLVVII..CONCERNING CALUMNIATORS.
+
+*
+* TITLE XLVI. CONCERNING CALUMNIATORS.
 1. The Emperor Alexander to Sabinus.
 An accusation of calumny should be prosecuted from the time the charge was
 heard in the presence of the accuser, and therefore, the case having been
@@ -4144,7 +3787,8 @@ be false he will not go unpunished, as those who are guilty of calumny will be
 liable to the same penalty as the accused persons, had they been convicted.1
 Given on the eighth of the Idesof August, during the Consulate of the above-
 mentioned Emperors.
-TITLE XLVII. CONCERNING PUNISHMENTS.
+
+* TITLE XLVII. CONCERNING PUNISHMENTS.
 1. The Emperor Titus JElius Antoninus to Lucius.
 The condition of persons condemned to hard labor for life is not different from
 that of those who have been sentenced to deportation to an island.
@@ -4298,10 +3942,9 @@ We decree that those who instruct barbarians how to build ships, when the
 latter were previously ignorant of the art, shall be put to death.
 Given at Constantinople, on the eighth of the Kalendsof October, during the
 Consulate of Monaxius and Pinta, 419.
-TITLE XLVIII.
-CERTAIN JUDGES SHALL NOT BE PERMITTED TO CONFISCATE PROPERTY WITHOUT THE ORDER
-OF THE EMPEROR.
-1. The Emperor Theodosius and the Csesar Valentinian to Hierius, Prsetorian
+
+* TITLE XLVIII. CERTAIN JUDGES SHALL NOT BE PERMITTED TO CONFISCATE PROPERTY WITHOUT THE ORDER OF THE EMPEROR.
+1. The Emperor Theodosius and the Caesar Valentinian to Hierius, Prsetorian
 Prefect.
 No judge (with the exception of those of the highest rank) shall be permitted,
 during times of prescription, to confiscate the entire property of anyone,
@@ -4309,8 +3952,8 @@ unless he has first made application to Us to do so.
 Given at Constantinople, on the tenth of the Kalendsof February, during the
 Consulate of Theodosius, Consul for the eleventh time, and the Caesar
 Valentinian, 425.
-TITLE XLIX.
-CONCERNING THE PROPERTY OF THOSE WHO HAVE BEEN PROSCRIBED OR CONDEMNED.
+
+* TITLE XLIX. CONCERNING THE PROPERTY OF THOSE WHO HAVE BEEN PROSCRIBED OR CONDEMNED.
 1. The Emperor Antoninus to Marcus.
 It is well known that masters are not deprived of the peculiumof any of their
 slaves who have been convicted of a capital crime, but a master shall receive
@@ -4492,9 +4135,8 @@ children or not. When the condemned persons leave none of the heirs above
 mentioned, their property shall be confiscated to the Treasury. We order that
 the ancient laws shall be observed with reference to persons convicted of the
 crime of treason.
-TITLE L.
-CONCERNING THE PROPERTY OF THOSE WHO COMMIT
-SUICIDE.
+
+* TITLE L. CONCERNING THE PROPERTY OF THOSE WHO COMMIT SUICIDE.
 1. The Emperor Antoninus to Aquilia.
 The property of those who, having ascertained that their crime has been
 discovered, through fear of a future sentence, lay violent hands upon
@@ -4509,8 +4151,7 @@ the accusation is not for treason, and they did not kill themselves through
 fear of its results—are transmitted to their heirs.
 
 
-TITLE LI.
-CONCERNING THOSE WHO HAVE SERVED THEIR SENTENCES AND BEEN PARDONED.
+* TITLE LI. CONCERNING THOSE WHO HAVE SERVED THEIR SENTENCES AND BEEN PARDONED.
 1. The Emperor Antoninus.
 When the Emperor, having bidden farewell to the illustrious Przetorian Prefects
 Gentian, Adventus, and Opilius-Macrinus, and to his friends and principal

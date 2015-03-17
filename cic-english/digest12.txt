@@ -10,8 +10,7 @@ JUDICIAL
 + 12.VI. CONCERNING AN ACTION FOR THE RECOVERY OF MONEY WHICH IS NOT DUE
 + 12.VII. CONCERNING AN ACTION FOR RECOVERY WITHOUT GROUND
 
-
-* 12.I. CONCERNING THINGS WHICH ARE CREDITED WHERE A CERTAIN DEMAND Is MADE, AND CONCERNING SUIT FOR RECOVERY.
+* 12.01. CONCERNING THINGS WHICH ARE CREDITED WHERE A CERTAIN DEMAND Is MADE, AND CONCERNING SUIT FOR RECOVERY.
 
 1. *Ulpianus, On the Edict, Book XXVI.*
 
@@ -697,7 +696,7 @@ paid to you, because the promisor can be released by finding a wealthier
 debtor; and, in fact, this means that the party cannot be compelled to
 join issue if he offers to provide a wealthier debtor.
 
-* 12.II. CONCERNING THE TAKING OF AN OATH, WHETHER VOLUNTARY, COMPULSORY, OR JUDICIAL.
+* 12.02. CONCERNING THE TAKING OF AN OATH, WHETHER VOLUNTARY, COMPULSORY, OR JUDICIAL.
 
 1. *Gaius, On the Provincial Edict, Book V.*
 
@@ -1505,7 +1504,7 @@ surety makes oath for an exception to be granted the principal.
 protected; because a decision in favor of either of them will benefit
 the other.
 
-* 12.III. CONCERNING AN OATH MADE IN COURT.
+* 12.03. CONCERNING AN OATH MADE IN COURT.
 
 1. *Ulpianus, On Sabinus, Book LI.*
 
@@ -1658,7 +1657,7 @@ Commodus stated in a Rescript.
 Inquiry is not readily permitted where a party commits perjury in a case
 in which he is compelled by law to swear to a claim.
 
-* 12.IV. CONCERNING A SUIT FOE THE RECOVERY OF PROPERTY GIVEN FOR A CONSIDERATION WHICH DOES NOT TAKE PLACE.
+* 12.04. CONCERNING A SUIT FOE THE RECOVERY OF PROPERTY GIVEN FOR A CONSIDERATION WHICH DOES NOT TAKE PLACE.
 
 1. *Ulpianus, On the Edict, Book XXVI.*
 
@@ -2031,7 +2030,7 @@ Stichus is your property, and you are not willing to give security
 against his recovery by anyone having a better title, you will not be
 released so that I cannot bring suit to recover the money from you.
 
-* 12.V. CONCERNING THE ACTION FOR RECOVERY WHERE THE CONSIDERATION Is IMMORAL OR UNJUST.
+* 12.05. CONCERNING THE ACTION FOR RECOVERY WHERE THE CONSIDERATION Is IMMORAL OR UNJUST.
 
 1. *Paulus, On Sabinus, Book X.*
 
@@ -2155,7 +2154,7 @@ to me something which you owed by reason of a will or a stipulation,
 there will be merely a right to bring suit for recovery of the money
 paid you for this purpose; as was stated by Pomponius.
 
-* 12.VI. CONCERNING AN ACTION FOR THE RECOVERY OF MONEY WHICH IS NOT DUE.
+* 12.06. CONCERNING AN ACTION FOR THE RECOVERY OF MONEY WHICH IS NOT DUE.
 
 1. *Ulpianus, On the Edict, Book XXVI.*
 
@@ -3222,7 +3221,7 @@ interest. I ask also, since you think that an action cannot be brought
 for recovery, whether the heir can retain the interest out of some other
 debt. The answer was "No, not even that."
 
-* 12.VII. CONCERNING AN ACTION FOR RECOVERY WITHOUT GROUND.
+* 12.07. CONCERNING AN ACTION FOR RECOVERY WITHOUT GROUND.
 
 1. *Ulpianus, On Sabinus, Book XL1II.*
 

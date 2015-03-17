@@ -1463,7 +1463,7 @@ Neratius casum refert, ut quis id quod solverit repetere non possit, quasi debit
 
 Tryphoninus libro septimo disputationum
 
-Si quod dominus servo debuit, manumisso solvit, quamvis existimans ei aliqua teneri actione, tamen repetere non poterit, quia naturale adgnovit debitum: ut enim libertas naturali iure continetur et dominatio ex gentium iure introducta est, ita debiti vel non debiti ratio in condictione naturaliter intellegenda est.
+Si quod [Si id quod] dominus servo debuit, manumisso solvit, quamvis existimans ei aliqua teneri actione, tamen repetere non poterit, quia naturale adgnovit debitum: ut enim libertas naturali iure continetur et dominatio ex gentium iure introducta est, ita debiti vel non debiti ratio in condictione naturaliter intellegenda est.
 
 12.6.65
 
