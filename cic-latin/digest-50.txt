@@ -1,24 +1,6 @@
 # -*- mode: org -*-
 
 * LIBER L
-+ 50.1.0. Ad municipalem et de incolis.
-+ 50.2.0. De decurionibus et filiis eorum.
-+ 50.3.0. De albo scribendo.
-+ 50.4.0. De muneribus et honoribus.
-+ 50.5.0. De vacatione et excusatione munerum.
-+ 50.6.0. De iure immunitatis.
-+ 50.7.0. De legationibus.
-+ 50.8.0. De administratione rerum ad civitates pertinentium.
-+ 50.9.0. De decretis ab ordine faciendis.
-+ 50.10.0. De operibus publicis.
-+ 50.11.0. De nundinis.
-+ 50.12.0. De pollicitationibus.
-+ 50.13.0. De variis et extraordinariis cognitionibus et si iudex litem suam fecisse dicetur.
-+ 50.14.0. De proxeneticis.
-+ 50.15.0. De censibus.
-+ 50.16.0. De verborum significatione.
-+ 50.17.0. De diversis regulis iuris antiqui.
-
 * 50.1.0.  Ad municipalem et de incolis.
 
 
@@ -3402,7 +3384,6 @@ pr. Apud Labeonem pithanon ita scriptum est: exhibet, qui praestat eius de quo a
 1. Restituit non tantum, qui solum corpus, sed etiam qui omnem rem condicionemque reddita causa praestet: et tota restitutio iuris est interpretatio.
 
 * 50.17.0. De diversis regulis iuris antiqui.
-
 
 50.17.1
 

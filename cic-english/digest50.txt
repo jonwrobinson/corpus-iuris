@@ -20,7 +20,7 @@
 + 50.XVII. CONCERNING DIFFERENT RULES OF ANCIENT LAW
 
 
-* 50.I. CONCERNING MUNICIPAL TOWNS AND THEIR INHABITANTS.
+* 50.01. CONCERNING MUNICIPAL TOWNS AND THEIR INHABITANTS.
 
 1. Ulpianus, On the Edict, Book II.
 Either birth, manumission, or adoption, creates a citizen of a municipality.
@@ -446,7 +446,7 @@ sufficient to establish anyone's birthplace.
 perform the duties of magistrates under compulsion should give adequate
 security, just as one who voluntarily accepted the office.
 
-* 50.II. CONCERNING DECURIONS AND THEIR SONS.
+* 50.02. CONCERNING DECURIONS AND THEIR SONS.
 
 1. Ulpianus, Opinions, Book II.
 It is established that decurions who have left the towns to which they
@@ -632,7 +632,7 @@ should not be subjected to torture. Wherefore, when anyone ceases to be a
 decurion, and afterwards is convicted, it is decided that he must not be
 tortured, on account of the memory of his former dignity.
 
-* 50.III. CONCERNING THE REGISTER OF DECURIONS.
+* 50.03. CONCERNING THE REGISTER OF DECURIONS.
 
 1. Ulpianus, On the Duties of Proconsul, Book III.
 The names of decurions should be entered upon a register, as is prescribed by
@@ -652,7 +652,7 @@ The names of the recipients of honors at the hands of the Emperor should first
 be entered upon the register of the decurions in a city; and afterwards the
 names of those who only have discharged the duties of municipal offices.
 
-* 50.IV. CONCERNING PUBLIC EMPLOYMENTS AND HONORS.
+* 50.04. CONCERNING PUBLIC EMPLOYMENTS AND HONORS.
 
 1. Hermogenianus, Epitomes, Book I.
 Some municipal employments are derived from estates, and others from persons.
@@ -1025,7 +1025,7 @@ exemption from furnishing lodgings was granted by the Emperor to teachers who
 were not liable to civil employment, as well as to grammarians, instructors in
 rhetoric, and philosophers.
 
-* 50.V. CONCERNING EXEMPTION AND EXCUSES FROM EMPLOYMENTS.
+* 50.05. CONCERNING EXEMPTION AND EXCUSES FROM EMPLOYMENTS.
 
 1. Ulpianus, Opinions, Book II.
 Every excuse should be based upon justice. But if confidence should be placed
@@ -1198,7 +1198,7 @@ employment, unless he was killed in battle.
 (1) The same person shall not supervise the construction of two public works at
 the same time.
 
-* 50.VI. ON THE RIGHT OF IMMUNITY.
+* 50.06. ON THE RIGHT OF IMMUNITY.
 
 1. Ulpianus, Opinions, Book HI.
 Those who are only on board ships for the purpose of navigating them are not
@@ -1341,7 +1341,7 @@ also such as are charged with the distribution of supplies to the army, aids of
 military tribunes, couriers, the guards of arms, common criers, and trumpeters.
 All these persons are considered to be exempt from public office.
 
-* 50.VII. CONCERNING EMBASSIES.
+* 50.07. CONCERNING EMBASSIES.
 
 1. Ulpianus, On Massurius Sabinus, Book Vill.
 When a municipal envoy abandons his office, he is generally subjected to an
@@ -1489,7 +1489,7 @@ the Numantians would not receive when he was surrendered to them; and, on this
 account, a law was subsequently enacted to enable him to remain a Roman
 citizen, and he is said to have even held the office of Praetor.
 
-* 50.VIII. CONCERNING THE ADMINISTRATION OF PROPERTY BELONGING TO CITIES.
+* 50.08. CONCERNING THE ADMINISTRATION OF PROPERTY BELONGING TO CITIES.
 
 1. Ulpianus, Disputations, Book X.
 Anything which has been left to a city for a special purpose cannot be
@@ -1658,7 +1658,7 @@ afterwards, had retained any of the public money in his possession, would be
 obliged to refund it with the interest, unless he could allege some good reason
 for not doing so.
 
-* 50.IX. CONCERNING DECREES WHICH SHOULD BE RENDERED BY THE ORDER OF DECURIONS.
+* 50.09. CONCERNING DECREES WHICH SHOULD BE RENDERED BY THE ORDER OF DECURIONS.
 
 1. Ulpianus, Opinions, Book HI.
 It is not in the discretion of the Governor of a province to determine the
@@ -1695,7 +1695,7 @@ The question arose whether he should be subjected to the penalty if he was
 ignorant that he had violated the law. The answer was that penalties of this
 kind were only intended for those who knew that they were acting illegally.
 
-* 50.X. CONCERNING PUBLIC WORKS.
+* 50.10. CONCERNING PUBLIC WORKS.
 
 1. Ulpianus, Opinions, Book II.
 A certain man, having been appointed supervisor of public works, and desiring
@@ -1776,7 +1776,7 @@ embellishment of a work already constructed with the public funds, it is
 provided by the same Imperial Mandates that they can have their names inscribed
 upon the work and state the amount of money which they had contributed to it.
 
-* 50.XI CONCERNING MARKETS.
+* 50.11. CONCERNING MARKETS.
 1. Modestinus, Rules, Book III.
 Where permission to hold a market has been obtained from the Emperor, and the
 person accorded the privilege does not make use of it for ten years, he will
@@ -1800,7 +1800,7 @@ sitting in his place in the market until he disposes of his commodities? By no
 means, for there are those who, seeing this, may offer their services for the
 disposal of the merchandise."
 
-* 50.XII. CONCERNING PROMISES.
+* 50.12. CONCERNING PROMISES.
 1. Ulpianus, On the Duties of the Chief Magistrate of a City.
 If anyone should promise to construct a public work, or donate money for that
 purpose, he cannot be sued for interest. If, however, he delays, interest will
@@ -1972,7 +1972,7 @@ This was decided by the Divine Antoninus.
 The Divine Pius stated in a Rescript that a grandson by a daughter of the
 testator was also included among his children.
 
-* 50.XIII. CONCERNING EXTRAORDINARY JUDICIAL INQUIRIES, AND WHERE A JUDGE IS ALLEGED TO HAVE RENDERED A CASE HIS OWN.
+* 50.13. CONCERNING EXTRAORDINARY JUDICIAL INQUIRIES, AND WHERE A JUDGE IS ALLEGED TO HAVE RENDERED A CASE HIS OWN.
 
 1. Ulpianus, On All Tribunals, Book Vill.
 The Governor of a province usually decided with reference to salaries, but only
@@ -2168,7 +2168,7 @@ have occurred through ignorance, he is considered to be liable to an action in
 faetum,as having committed an unlawful act, and he must submit to any penalty
 which may appear just to the court having jurisdiction of the case.
 
-* 50.XIV. CONCERNING BROKERS.
+* 50.14. CONCERNING BROKERS.
 
 1. Ulpianus, On Sabinus, Book XLH.
 Brokers have a right to demand their commissions.
@@ -2198,7 +2198,7 @@ large cities. The term "broker" applies to those who give their services and
 make themselves useful by negotiating purchases, sales, commercial matters, and
 lawful contracts in a way which is not objectionable.
 
-* 50.XV. CONCERNING TAXES.
+* 50.15. CONCERNING TAXES.
 
 1. Ulpianus, On Taxes, Book I.
 It should be remembered that there are certain colonies subject to the Italian
@@ -2344,7 +2344,7 @@ privileges.
 (11) In Africa, Carthage, Utica, and Leptis-Magna were granted the privileges
 of the cities of Italy by the Divine Severus and Antoninus.
 
-* 50.XVI. CONCERNING THE SIGNIFICATION OF TERMS.
+* 50.16. CONCERNING THE SIGNIFICATION OF TERMS.
 
 1. Ulpianus, On the Edict, Book I.
 The following words, "If anyone," include males as well as females.
@@ -4059,7 +4059,7 @@ of this kind can, under any circumstances, properly be said to be present.
 itself, but also to every right and condition attaching to it; hence complete
 restitution is meant by the law.
 
-* 50.XVII. CONCERNING DIFFERENT RULES OF ANCIENT LAW.
+* 50.17. CONCERNING DIFFERENT RULES OF ANCIENT LAW.
 
 1. Paulus, On Plautius, Book XVI.
 A rule is a statement, in a few words, of the course to be followed in the

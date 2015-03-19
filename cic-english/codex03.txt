@@ -1,96 +1,7 @@
 # -*- mode: org -*-
 
 * BOOK III.
-TITLE I. CONCERNING JUDGMENTS  258
-+ 3.II.
-CONCERNING THE COSTS AND EXPENSES INCURRED IN DIFFERENT CASES, AND THE
-EXECUTIVE OFFICERS OF THE COURT  267
-+ 3.III. CONCERNING SPECIAL JUDGES  268
-+ 3.IV.
-WHAT JUDGES CAN DELEGATE THEIR JURISDICTION, AND WHO CAN BE DELEGATED
- 269
-+ 3.V.
-No ONE SHALL DECIDE HIS OWN CASE OR INTERPRET THE LAW FOR HIMSELF
- 270
-+ 3.VI. WHO HAVE THE RIGHT TO APPEAR IN COURT, AND WHO HAVE NOT  270
-+ 3.VII.
-No ONE SHALL BE COMPELLED AGAINST HIS WILL TO BRING AN ACTION, OR TO ACCUSE
-ANOTHER . 271
-+ 3.VIII. CONCERNING THE ORDER OF JUDGMENTS . 271
-+ 3.IX. CONCERNING JOINDER OF ISSUE . 272
-+ 3.X. CONCERNING CLAIMS FOR MORE THAN IS DUE  273
-+ 3.XI. CONCERNING DELAYS . 273
-+ 3.XII. CONCERNING FESTIVALS . 275
-+ 3.XIII.
-CONCERNING THE JURISDICTION OF ALL JUDGES AND THE COMPETENCY OF TRIBUNALS
- 278
-+ 3.XIV.
-WHEN THE EMPEROR TAKES COGNIZANCE OF THE CASES OF MINORS, WIDOWS, OR OTHER
-PERSONS WORTHY OF PITY, THEY SHALL NOT BE COMPELLED TO APPEAR
- 280
-+ 3.XV. WHERE IT Is NECESSARY TO PROCEED IN CRIMINAL CASES . 280
-+ 3.XVI. WHERE AN ACTION TO OBTAIN POSSESSION MUST BE BROUGHT . 281
-+ 3.XVII. WHERE THE EXECUTION OF A TRUST SHOULD BE DEMANDED . 281
-+ 3.XVIII.
-WHERE HE WHO PROMISED TO MAKE PAYMENT IN A CERTAIN PLACE SHOULD BE SUED
- 282
-+ 3.XIX. WHERE AN ACTION IN REM SHOULD BE BROUGHT  282
-+ 3.XX.
-WHERE AN ACTION RELATING TO AN ESTATE SHOULD BE BROUGHT, AND WHERE TESTAMENTARY
-HEIRS SHOULD DEMAND TO BE PLACED IN POSSESSION OF THE SAME
-. 283
-+ 3.XXI.
-WHERE AN ACTION TO COMPEL THE PRODUCTION OF EITHER PUBLIC OR PRIVATE ACCOUNTS
-SHOULD BE BROUGHT . 283
-+ 3.XXII.
-WHERE SUITS WITH REFERENCE TO THE CONDITION OF PERSONS SHOULD BE BROUGHT
- 284
-+ 3.XXIII.
-WHERE ANYONE BELONGING TO THE CURIन, OR THE COURT ATTENDANTS, OR OF ANY OTHER
-CONDITION, CAN BE SUED . 285
-+ 3.XXIV.
-WHERE SENATORS OR PERSONS OF ILLUSTRIOUS RANK MAY BE PROCEEDED AGAINST EITHER
-CIVILLY OR CRIMINALLY . 286
-+ 3.XXV.
-IN WHAT CASES SOLDIERS CANNOT AVAIL THEMSELVES OF AN EXCEPTION ON THE GROUND OF
-JURISDICTION  288
-+ 3.XXVI.
-WHERE CASES RELATING TO THE PUBLIC TREASURY OR THE IMPERIAL PALACE, OF TO
-PERSONS ATTACHED TO THE SAME, SHALL BE BROUGHT
- 289
-+ 3.XXVII.
-WHERE ANYONE MAY BE PERMITTED TO AVENGE HIMSELF OR THE PUBLIC, WITHOUT APPLYING
-TO THE JUDGE . 291
-+ 3.XXVIII. CONCERNING INOFFICIOUS WILLS .
-291
-+ 3.XXIX. CONCERNING INOFFICIOUS DONATIONS .
-305
-+ 3.XXX. CONCERNING INOFFICIOUS DOWRIES . 307
-+ 3.XXXI. CONCERNING THE DEMANDS FOR AN ESTATE . 308
-+ 3.XXXII. CONCERNING THE ACTION FOR THE RECOVERY OF PROPERTY
-311
-+ 3.XXXIII. CONCERNING USUFRUCT, LODGING, AND THE SERVICE OF SLAVES .
-317
-+ 3.XXXIV. CONCERNING SERVITUDES AND WATER .
-323
-+ 3.XXXV. CONCERNING THE AQUILIAN LAW . 326
-+ 3.XXXVI. CONCERNING THE ACTION IN PARTITION .
-327
-+ 3.XXXVII. CONCERNING THE DIVISION OF PROPERTY OWNED IN COMMON
-332
-+ 3.XXXVIII.
-MATTERS WHICH APPLY TO BOTH THE ACTION IN PARTITION AND THAT FOR THE DIVISION
-OF PROPERTY OWNED IN COMMON  334
-+ 3.XXXIX. CONCERNING THE ESTABLISHMENT OF BOUNDARIES . 337
-+ 3.XL. CONCERNING PERSONS INTERESTED IN THE SAME CASE  339
-+ 3.XLI. CONCERNING NOXAL ACTIONS  339
-+ 3.XLII.
-CONCERNING THE ACTION TO COMPEL THE PRODUCTION OF PROPERTY IN COURT
-+ 3.XLIII. CONCERNING GAMBLERS AND GAMES OF CHANCE
-+ 3.XLIV. CONCERNING RELIGIOUS PLACES, AND THE EXPENSES OF FUNERALS
-
-
-* 3.I. CONCERNING JUDGMENTS.
+* 3.01. CONCERNING JUDGMENTS.
 1. The Emperors Severus and Antoninus to Clement.
 A stipulation for the payment of interest does not lose its effect after suit
 has been brought, hence the result will be that you can sue your debtor for
@@ -472,10 +383,8 @@ he who appointed the judge who was considered suspicious, having considered the
 application for an appeal, shall render a decision in accordance with law.
 Given on the Idesof November, during the Consulate of Lampadius and Orestes,
 530.
-* 3.II.
-CONCERNING THE COSTS AND EXPENSES INCURRED IN DIFFERENT CASES, AND THE
-EXECUTIVE OFFICERS OF THE
-COURT.
+* 3.02. CONCERNING THE COSTS AND EXPENSES INCURRED IN DIFFERENT CASES, AND THE EXECUTIVE OFFICERS OF THE COURT.
+
 1. The Emperors Gratian, Valentinian, and Theodosius to Potitus, Deputy.
 When anyone has been summoned to court, We order that the bailiff to whose
 charge he is committed shall, in the first place, keep him under observation,
@@ -504,7 +413,7 @@ with reference to litigants, and that the course of justice may not be
 obstructed on account of their greed of gain.
 Given on the fifth of the Kalendsof April, during the Consulate of Lampadius
 and Orestes, 530.
-* 3.III. CONCERNING SPECIAL JUDGES.
+* 3.03. CONCERNING SPECIAL JUDGES.
 1. The Emperor Gordian to Vicanius.
 It is clear that Our Deputies, when not occupying the place of Governors of
 provinces, have no authority to appoint judges to decide disputes between
@@ -552,8 +461,7 @@ appoint special judges, that is to say, such as may decide questions of minor
 importance.
 Given at Antioch, on the fifth of the Kalendsof August, during the Consulate of
 Mamertinus, 362.
-* 3.IV.
-WHAT JUDGES CAN DELEGATE THEIR JURISDICTION, AND WHO CAN BE DELEGATED.
+* 3.04. WHAT JUDGES CAN DELEGATE THEIR JURISDICTION, AND WHO CAN BE DELEGATED.
 1. The Emperors Theodosius and Valentinian to Cyrus, Praetorian Prefect.
 In the delegation of cases, We order that it shall, by all means, be remembered
 that only such appointments are valid which come within the jurisdiction of the
@@ -571,16 +479,14 @@ have been delegated, appeals can only be made from them to Us, without any
 distinction of persons or cases.
 Given on the thirteenth of the Kalendsof January, during the Consulate of
 Valentinian and Anatolius, 440.
-* 3.V.
-No ONE SHALL DECIDE HIS OWN CASE OR INTERPRET THE LAW FOR HIMSELF.
+* 3.05. No ONE SHALL DECIDE HIS OWN CASE OR INTERPRET THE LAW FOR HIMSELF.
 1. The Emperors Valens, Gratian, and Valentinian to Gracchus, Urban Prefect.
 We decree by this general law that no one shall act as judge in his own case,
 or interpret the law for himself, as it would be very unjust to give anyone the
 right to render a decision in an affair which is his own.
 Given on the Kalendsof December, during the Consulate of Valens, Consul for the
 sixth time, and Valentinian, Consul for the second time, 378.
-* 3.VI.
-WHO HAVE THE RIGHT TO APPEAR IN COURT, AND WHO HAVE NOT.
+* 3.06. WHO HAVE THE RIGHT TO APPEAR IN COURT, AND WHO HAVE NOT.
 1. The Emperor Gordian to Candida.
 If, at a time when you were still a minor, you appeared in court with your
 adversary, without the authority of your guardian, and the Governor of the
@@ -601,14 +507,12 @@ directly with a minor will be of no advantage to him, as this should be
 attended to by his curator.
 Given at Ravenna, on the second of the Nonesof March, during the Consulate of
 Constantius and Constantine, 339.
-* 3.VII.
-No ONE SHALL BE COMPELLED AGAINST HIS WILL TO BRING AN ACTION, OR TO ACCUSE
-ANOTHER.
+* 3.07. NO ONE SHALL BE COMPELLED AGAINST HIS WILL TO BRING AN ACTION, OR TO ACCUSE ANOTHER.
 1. The Emperor Diocletian to Camerius.
 No one shall be forced to bring a suit, or to accuse anyone, against his will.
 Given on the Idesof October, during the Consulate of Carinus, Consul for the
 second time, and Numerianus, 282.
-* 3.VIII. CONCERNING THE ORDER OF JUDGMENTS.
+* 3.08. CONCERNING THE ORDER OF JUDGMENTS.
 1. The Emperors Severus and Antoninus to Marcellina and Others.
 Go before the Governor of the province, and inform him that the will of Favius
 is broken by the birth of a posthumous son. Nothing will prevent him from
@@ -642,7 +546,7 @@ of, the civil case should be definitely decided, so that the termination of the
 criminal prosecution may date from the day on which the civil action was begun,
 and judgment be rendered between the parties.
 Given on the Idesof March, during the Consulate of Nepotian and Facundus, 336.
-* 3.IX. CONCERNING JOINDER OF ISSUE.
+* 3.09. CONCERNING JOINDER OF ISSUE.
 1. The Emperors Severus and Antoninus to Valens.
 A case is not considered as actually brought into court where only a simple
 demand is made, or where the defendant is notified beforehand of the action to
@@ -668,7 +572,7 @@ party whom he alleges to be liable, and to the bailiff in charge
 that, if issue should not be joined within two months, he will pay the
 defendant double the amount of damages which he has sustained, the sum
 specified in the bond, however, should not exceed thirty-six aurei.
-* 3.X. CONCERNING CLAIMS FOR MORE THAN IS DUE.
+* 3.10. CONCERNING CLAIMS FOR MORE THAN IS DUE.
 1. The Emperor Justinian to John, Praetorian Prefect.
 With the intention of abolishing the odious subtleties of contracting parties,
 We order that if anyone, when a certain amount is due to him, should
@@ -682,7 +586,7 @@ a subsequent admission was made, whether it has been recorded or not, it shall,
 in this instance, be confirmed, for such agreements must not be violated.
 Given on the fifteenth of the Kalendsof November, during the Consulate of
 Lampadius and Orestes, 530.
-* 3.XI. CONCERNING DELAYS.
+* 3.11. CONCERNING DELAYS.
 1. The Emperors Diocletian and Maximian, and the Caesars, say:
 As it frequently happens that a judge is through necessity compelled to grant
 delay in order to insure the production of either documents or persons, it is
@@ -753,7 +657,7 @@ granted to the parties in a suit where civil condition, or a patrimonial estate
 is involved.
 Given on the sixth of the Kalendsof December, during the Consulate of Eutropius
 and Theodore, 399.
-* 3.XII. CONCERNING FESTIVALS.
+* 3.12. CONCERNING FESTIVALS.
 1. The Emperors Constantius and Maximian, and the Caesars, Severus and Maximian,
 to Verinus.
 As you ask, my dear Verinus, whether the same rule should be observed, so far
@@ -870,8 +774,7 @@ law, he
 shall suffer the loss of his employment and the confiscation of his property.
 Given at Constantinople, on the Idesof September, during the Consulate of Zeno
 and Martian, 469.
-* 3.XIII.
-CONCERNING THE JURISDICTION OF ALL JUDGES AND THE COMPETENCY OF TRIBUNALS.
+* 3.13. CONCERNING THE JURISDICTION OF ALL JUDGES AND THE COMPETENCY OF TRIBUNALS.
 1. The Emperor Antoninus to Severus and Others.
 Our Procurator was not a competent judge in this matter where only the
 litigation of private individuals was concerned, but as you yourselves chose
@@ -943,10 +846,7 @@ judges within whose jurisdiction the military or civil service in which they
 are engaged is situated.
 Those who try to violate the provisions of this law shall be deprived of their
 military rank, or their civil honors, for being guilty of such an attempt.
-* 3.XIV.
-WHEN THE EMPEROR TAKES COGNIZANCE OF THE CASES
-OF MINORS, WIDOWS, OR OTHER PERSONS WORTHY OF
-PITY, THEY SHALL NOT BE COMPELLED TO APPEAR.
+* 3.14. WHEN THE EMPEROR TAKES COGNIZANCE OF THE CASES OF MINORS, WIDOWS, OR  OTHER PERSONS WORTHY OF PITY, THEY SHALL NOT BE COMPELLED TO APPEAR.
 1. The Emperor Constantine to Andronicus.
 Where anyone has obtained a Rescript from Us against minors, widows, or those
 who are worn out and debilitated by chronic disease, the above-mentioned
@@ -960,7 +860,7 @@ are in dread of the influence of some powerful individual, their adversaries
 shall be obliged to appear before Us.
 Given at Constantinople, on the Kalendsof July, during the Consulate of Optatus
 and Paulinus, 334.
-* 3.XV. WHERE IT IS NECESSARY TO PROCEED IN CRIMINAL CASES.
+* 3.15. WHERE IT IS NECESSARY TO PROCEED IN CRIMINAL CASES.
 1. The Emperors Severus and Antoninus to Laurina.
 It is well known that proceedings in the case of crimes punishable by the laws,
 or in an arbitrary manner, should be instituted in the places where the
@@ -1006,9 +906,7 @@ greater, it will be six months. If either of the parties resides in Palestine,
 or Egypt, or in some other distant country, eight months will be sufficient.
 The term of nine months will be granted if either of them lives in the western
 or northern regions of the Empire, or in Lybia.
-* 3.XVI.
-WHERE AN ACTION TO OBTAIN POSSESSION MUST BE
-BROUGHT.
+* 3.16. WHERE AN ACTION TO OBTAIN POSSESSION MUST BE BROUGHT.
 1. The Emperors Valentinian and Valens to Festus, Proconsul of Africa.
 Where violence is alleged to have been employed, or temporary possession is
 demanded, the judge must decide the case against the party who interrupted the
@@ -1016,15 +914,13 @@ possession, in the place where the property
 is situated.
 Given on the eighth of the Kalendsof June, during the Consulate
 of Gratian and Dagalaiphus, 366.
-* 3.XVII.
-WHERE THE EXECUTION OF A TRUST SHOULD BE DEMANDED.
+* 3.17. WHERE THE EXECUTION OF A TRUST SHOULD BE DEMANDED.
 1. The Emperors Severus and Antoninus to Demetrius.There can be no doubt that
 the execution of a trust should be demanded in the place where the estate was
 left.
 Given on the eighth of the Kalendsof September, during the Consulate of Chilo
 and Libo, 205.
-* 3.XVIII.
-WHERE HE WHO PROMISED TO MAKE PAYMENT IN A CERTAIN PLACE SHOULD BE SUED.
+* 3.18. WHERE HE WHO PROMISED TO MAKE PAYMENT IN A CERTAIN PLACE SHOULD BE SUED.
 1. The Emperor Alexander to Heraclida.
 When anyone binds himself to make payment in a certain place, and he does not
 do so in full, if the judge was selected by the parties he can be sued in an
@@ -1034,7 +930,8 @@ account of payment having been made in another place than where it was
 demanded.
 Given on the sixth of the Idesof March, during the Consulate of Fuscus and
 Dexter.
-.* 3.XIX. WHERE AN ACTION IN REM SHOULD BE BROUGHT.
+
+* 3.19. WHERE AN ACTION IN REM SHOULD BE BROUGHT.
 1. The Emperors Diocletian and Maximian, and the Caesars, to Pancratius.
 An action in rem,should not be brought against the vendor, but against the
 possessor of the property in dispute. Therefore, it is useless for you to
@@ -1073,9 +970,7 @@ against the possessor in the place in which the property in dispute is
 situated.
 Given on the tenth of the Kalendsof July, under the Consulate of Arcadius and
 Bauto, 385.
-* 3.XX.
-WHERE AN ACTION RELATING TO AN ESTATE SHOULD BE BROUGHT, AND WHERE TESTAMENTARY
-HEIRS SHOULD DEMAND TO BE PLACED IN POSSESSION OF THE SAME.
+* 3.20. WHERE AN ACTION RELATING TO AN ESTATE SHOULD BE BROUGHT, AND WHERE TESTAMENTARY HEIRS SHOULD DEMAND TO BE PLACED IN POSSESSION OF THE SAME.
 1. The Emperors Valerian and Gallienus to Messala.
 The heirs should demand to be placed in possession of the estate in the place
 where you allege that it is situated. The contest should be decided where the
@@ -1083,10 +978,7 @@ party sued has his domicile, or wherever the property belonging to the estate
 may be.
 Given on the seventh of the Kalendsof May, during the Consulate of Secularus
 and Donatus, 261.
-* 3.XXI.
-WHERE AN ACTION TO COMPEL THE PRODUCTION OF EITHER PUBLIC OR PRIVATE ACCOUNTS
-SHOULD BE
-BROUGHT.
+* 3.21. WHERE AN ACTION TO COMPEL THE PRODUCTION OF EITHER PUBLIC OR PRIVATE ACCOUNTS SHOULD BE BROUGHT.
 1. The Emperors Diocletian and Maximian, and the Caesars, to Gerontius.
 Anyone who has administered the affairs of another, either as a guardian or in
 any other fiduciary capacity, must render an account of the same where he
@@ -1104,8 +996,7 @@ where he is called upon to render a military account because he is alleged to
 have taken advantage of his comrades; and, in an investigation of this kind,
 the proceedings must be regular, and the witnesses heard, and the proper
 documents produced.
-* 3.XXII.
-WHERE SUITS WITH REFERENCE TO THE CONDITION OF PERSONS SHOULD BE BROUGHT.
+* 3.22. WHERE SUITS WITH REFERENCE TO THE CONDITION OF PERSONS SHOULD BE BROUGHT.
 1. The Emperor Alexander to Aurelius Aristocrates.
 Your female slave, while in your service, fled and betook herself to another
 province, and as she asserts that she is free, it will not be unjust to compel
@@ -1155,10 +1046,7 @@ We decree that this rule shall be observed, whether the party is of illustrious
 rank or servile condition.
 Given on the third of the Nonesof August.
 
-* 3.XXIII.
-
-WHERE ANYONE BELONGING TO THE CURIae, OR THE COURT ATTENDANTS, OR OF
-ANY OTHER CONDITION, CAN BE SUED.
+* 3.23. WHERE ANYONE BELONGING TO THE CURIAE, OR THE COURT ATTENDANTS, OR OF ANY OTHER CONDITION, CAN BE SUED.
 
 1. The Emperors Arcadius and Honorius to Florus, Praetorian Prefect.
 If anyone belonging to the curiaeor attached to the office of a judge, or to any
@@ -1193,9 +1081,7 @@ may know that sentence for contumacy can be passed upon them by the Governors
 of provinces.
 Given on the twelfth of the Kalendsof October, during the Consulate of Cyrus,
 441.
-* 3.XXIV.
-WHERE SENATORS OR PERSONS OF ILLUSTRIOUS RANK MAY BE PROCEEDED AGAINST EITHER
-CIVILLY OR CRIMINALLY.
+* 3.24. WHERE SENATORS OR PERSONS OF ILLUSTRIOUS RANK MAY BE PROCEEDED AGAINST EITHER CIVILLY OR CRIMINALLY.
 1. The Emperor Constantine to Octavianus, Count of the Spains.
 Anyone whosoever, that is not of illustrious but of noble rank, who ravishes a
 virgin, removes landmarks, or is caught in the act of committing any offence,
@@ -1276,7 +1162,7 @@ the provincial judges shall not delay their punishment; unless, as has
 previously been stated, those who were convicted are equal in rank to him whom
 they accused.
 Given at Constantinople, . . .
-* 3.XXV. IN WHAT CASES SOLDIERS CANNOT AVAIL THEMSELVES OF AN EXCEPTION ON THE GROUND OF JURISDICTION.
+* 3.25. IN WHAT CASES SOLDIERS CANNOT AVAIL THEMSELVES OF AN EXCEPTION ON THE GROUND OF JURISDICTION.
 1. The Emperors Theodosius and Valentinian to Florentine, Praetorian Prefect.
 We order that all persons attached to the domestic service of the Emperor, as
 well as those who transact his affairs, and any who profess to belong to some
@@ -1296,10 +1182,7 @@ the privilege of trading as soldiers; namely, that they shall only be
 responsible to the Governor of provinces.
 Given at Constantinople, on the third of the Kalendsof ..., during the
 Consulate of Theodosius, Consul for the seventeenth time, and Festus, 439.
-* 3.XXVI.
-WHERE CASES RELATING TO THE PUBLIC TREASURY OR
-THE IMPERIAL PALACE, OR TO PERSONS ATTACHED TO THE
-SAME, SHALL BE BROUGHT.
+* 3.26. WHERE CASES RELATING TO THE PUBLIC TREASURY OR THE IMPERIAL PALACE, OR TO PERSONS ATTACHED TO THE SAME, SHALL BE BROUGHT.
 1. The Emperors Severns and Antoninus to Dioscorus.
 Who is ignorant of the fact that the question of avenging the death of a
 deceased person should not be investigated by Our Procurators, nor any property
@@ -1387,7 +1270,7 @@ and that of the distinguished Count of Our Household, and that no exception on
 the ground of want of jurisdiction shall be permitted.
 Given on the fifth of the Idesof April, ...
 
-* 3.XXVII. WHEN ANYONE MAY BE PERMITTED TO AVENGE HIMSELF OR THE PUBLIC, WITHOUT APPLYING TO THE JUDGE.
+* 3.27. WHEN ANYONE MAY BE PERMITTED TO AVENGE HIMSELF OR THE PUBLIC, WITHOUT APPLYING TO THE JUDGE.
 
 1. The Emperors Valentinian, Theodosius, and Arcadius to the People of the
 Provinces.
@@ -1413,7 +1296,7 @@ robbers, and deserters from the army.
 Given on the fifth of the Nonesof October, during the Consulate of Theodosius
 and Rumoridius, 391.
 
-* 3.XXVIII. CONCERNING INOFFICIOUS WILLS.
+* 3.28. CONCERNING INOFFICIOUS WILLS.N
 
 1. The Emperors Severus and Antoninus to Victorinus.
 When a son desires to attack the will of his mother, on the ground of its being
@@ -1996,7 +1879,7 @@ the same fate as that which was collected from all other sources into a single
 estate.
 Given at Constantinople, on the Kalendsof September, after the fifth Consulate
 of Lampadius and Orestes, 532.
-* 3.XXIX. CONCERNING INOFFICIOUS DONATIONS.
+* 3.29. CONCERNING INOFFICIOUS DONATIONS.
 1. The Emperor Philip to Nicanor and Papiana.
 If, as you allege, your mother, for the purpose of avoiding an action to
 declare the disposition of her property inofficious, exhausted almost all of it
@@ -2094,7 +1977,7 @@ inofficious, so that, in both these instances, there might be an identical or
 similar cause, and the same intervals and method of procedure.
 Given on the fourteenth of the Kalendsof July, during the Consulate of Taurus
 and Florentius, 361.
-* 3.XXX. CONCERNING INOFFICIOUS DOWRIES.
+* 3.30. CONCERNING INOFFICIOUS DOWRIES.
 1. The Emperor Constantine to Maximus, Governor of Cilicia.As all the property
 of your mother is said to have been exhausted by a dowry, and since it is
 proper for laws to agree with one another,
@@ -2103,7 +1986,7 @@ granted, and the benefits claimed by the other children, and to which they are
 entitled, shall be bestowed upon them.
 Given on the fourth of the Kalendsof June, during the Consulate of Tatian and
 Cerealus, 358.
-* 3.XXXI. CONCERNING THE DEMAND FOR AN ESTATE.
+* 3.31. CONCERNING THE DEMAND FOR AN ESTATE.
 1. The Emperor Marcus aelius Antoninus to Augurinus, Proconsul of Africa.
 The Decree of the Senate enacted at the suggestion of My Grandfather, the
 Divine Hadrian, by which it was provided that whatever had, at any time, been
@@ -2260,7 +2143,7 @@ can be assigned to this duty.
 brought to recover an estate must always be included among bona fideactions.
 Dated at Constantinople, on the Kalendsof September, during the Consulate of
 Lampadius and Orestes, 530.
-* 3.XXXII. CONCERNING THE ACTION FOR THE RECOVERY OF PROPERTY.
+* 3.32. CONCERNING THE ACTION FOR THE RECOVERY OF PROPERTY.
 1. The Emperors Severus and Antoninus to Caecilia..It has been decided that
 anyone who possesses the slave of another in good faith is entitled to the
 ownership of what is acquired by the
@@ -2495,7 +2378,7 @@ unless the alleged owner proves that it is his.
 Dated on the eighth of the Kalendsof January, during the Consulate of the
 Caesars, 294.
 
-* 3.XXXIII. CONCERNING USUFRUCT, LODGING, AND THE SERVICE OF SLAVES.
+* 3.33. CONCERNING USUFRUCT, LODGING, AND THE SERVICE OF SLAVES.
 
 1. The Emperors Severus and Antoninus to Possidonius.
 Where the usufruct of her entire estate was left by the will of a wife to her
@@ -2752,7 +2635,7 @@ bequeathing the usufruct, had the son rather than the father in his mind.
 Given at Constantinople, on the fifteenth of the Kalendsof November, after the
 fifth Consulate of Lampadius and Orestes, 541.
 
-* 3.XXXIV. CONCERNING SERVITUDES AND WATER.
+* 3.34. CONCERNING SERVITUDES AND WATER.
 
 1. The Emperor Antoninus to Calpurnia.
 If you think that you have any right of action against the person who rebuilt
@@ -2908,7 +2791,7 @@ and unavailable for the separation of grain.
 Given at Constantinople, on the eleventh of the Kalendsof November, after the
 fifth Consulate of Lampadius and Orestes, 531.
 
-* 3.XXXV. CONCERNING THE AQUILIAN LAW.
+* 3.35. CONCERNING THE AQUILIAN LAW.
 
 1. The Emperor Alexander to Glytonis.
 If you can prove that you have sustained any damage on account of someone
@@ -2950,7 +2833,7 @@ permitted to pasture on your land.
 Given on the fifth of the Kalendsof November, under the Consulate of the
 Caesars, 294.
 
-* 3.XXXVI. CONCERNING THE ACTION IN PARTITION.
+* 3.36. CONCERNING THE ACTION IN PARTITION.
 
 1. The Emperors Severus and Antoninus to Martian.
 If the entire estate of your father has not been divided with the consent of
@@ -2967,6 +2850,7 @@ ancient law, have the right to bring an action in partition against your co-
 heirs for the purpose of obtaining the dowry, and you can retain it even if she
 should die afterwards, provided she is still married to you.
 Given on the second of the Idesof February ....
+
 3. The Same to Rufus.
 Bring suit against your co-heirs for partition, in accordance with the
 prescribed legal formalities. If anything should be proved to have been taken
@@ -2975,6 +2859,7 @@ made proper investigation, shall render judgment in your favor, in accordance
 with the rules of law. An action for the crime of plundering the estate will,
 in vain, be brought by a co-heir, as he is considered to have been indemnified
 by the action in partition.
+
 4. The Emperor Alexander to Amonius.
 If, while you were a son under paternal control, and movable property, or that
 which can move itself, which might belong to castrense peculium,should be
@@ -2982,9 +2867,10 @@ donated to you by your father, you will be entitled to it as part of your
 peculium castrense,which is not owned with your brothers; but the lands,
 although they may all have been conveyed to you by your father while you were
 in the army, will, nevertheless, not be included in your peculium
-castrense.Those lands which are acquired by a son under paternal control on
+castrense. Those lands which are acquired by a son under paternal control on
 account of his being in military service come under a different rule, as they
 constitute part of the castrense peculium.
+
 5. The Same to Statilia.
 It was in your husband's power, in a fit of anger, to change the provisions
 which he had made in his will with reference to his slaves, namely, that one of
@@ -2995,23 +2881,28 @@ nothing prevents its being established by other testimony, especially when the
 subsequent meritorious conduct of the said slave is such that the wrath of the
 master has been appeased), the arbitrator in the action in partition should
 comply with the last wishes of the deceased.
+
 6. The Emperor Gordian to the Soldier Pomponius.
 Property consisting of claims is not capable of division, for, according to the
 Twelve Tables, it is by operation of law divided into hereditary shares.
+
 7. The Same to aelianus.
 Where the demand for the execution of a trust arises among coheirs, the Praetor
 or the Governor of the province, who has been appointed to decide the case, or
 the judge who is to hear the action in
 partition, shall exert himself to cause the will of the testatrix to be
 observed.
+
 8. The Same to Telesphorus.
 You can obtain a division of any property whatsoever which is held in common by
 you and your brother, and is derived from the estate of your father or mother,
 when the judge decides the action in partition.
+
 9. The Same to Verinus.
 There is no doubt that proceedings in partition are included among bona
-fideactions, and that your share of the estate (if you are entitled to any),
+fide actions, and that your share of the estate (if you are entitled to any),
 will be increased by the addition of the profits.
+
 10. The Same to Telesphorus.
 When a testator divides his estate among all his heirs, and orders each of them
 to be content with certain lands, and the slaves which are attached to the
@@ -3021,13 +2912,16 @@ should be recommended to his heirs, he does not by the words that follow change
 the disposition which he had made of all of them, and his first division does
 not become void, as he is considered to have made this statement with reference
 to those to whom he had decided to leave the slaves by his will.
+
 11. The Emperor Philip, and the Caesar Philip, to Antony.
 It is an established rule of law that the estates of intestate persons should
 be equally divided between the sons and daughters of the deceased.
+
 12. The Emperors Gallienus and Valerian to Rufus.
 The division made between you and your brother should not (as you allege), be
 considered void, because it was not reduced to writing, as the certainty of the
 transaction sufficiently establishes the validity of the division.
+
 13. The Emperors Diocletian and Maximian to Saturninus.
 It is certain that the peculiaof children should, after the death of their
 father, be placed with the remainder of the property of the estate in order to
@@ -3036,6 +2930,7 @@ during the lifetime of your father, who himself was ignorant of the fact,
 cannot sue you and your other brother and co-heir, except in order to obtain
 the amount from his peculium,for sidered to have made this statement with
 reference to those to whom he made the contracts.
+
 14. The Same to Hermianus.
 If, in the suit for partition by which the estate of your father was equally
 divided between your brother and yourself, nothing was specially agreed in case
@@ -3046,6 +2941,7 @@ verbis,compel your brother and co-heir to pay, in proportion to his share, any
 damage which you may have sustained through the eviction of the property.
 Given on the eighth of the Kalendsof September, during the Consulate of the
 above-named Emperors, 293.
+
 15. The Same to Theophilus.
 It has been decided that, when a division has been made by agreement of the
 parties, and possession follows by common consent, and the entire ownership of
@@ -3054,6 +2950,7 @@ him, you will have the right to claim said property, if you succeed to his
 estate. If, however, the division was based upon an ordinary agreement, the
 arbitrator appointed to decide your action in partition shall determine how the
 community of interest shall be apportioned among you.
+
 16. The Same to Heraclius.
 Children have no power to cause the will of their father to be set aside, if
 they cannot prove that it is inofficious, but where some legal formality is
@@ -3063,6 +2960,7 @@ on the ground of intestacy may have taken place, it is established by the
 authority of the law that, in an action for partition, the judge must comply
 with the will of the father, with the exception of the reserve prescribed by
 the Decree of the Senate.
+
 17. The Same, and the Caesars, to Commodianus.
 It is perfectly certain that, where co-heirs make a division with one another,
 the rights of one of them who is absent and is ignorant of the fact will not be
@@ -3072,6 +2970,7 @@ can recover your share, with the income, by an action in partition, without
 apprehending any loss from the division previously made by the co-heirs.
 Given on the seventh of the Kalendsof December, during the Consulate of the
 above-mentioned Emperors, 293.
+
 18. The Same, and the Caesars, to Domina.
 It has frequently been stated in rescripts that any property which a father has
 purchased in the name of the daughter shall be awarded to her by the arbiter in
@@ -3086,6 +2985,7 @@ be adjudged to him in an action in partition, or in one based on voluntary
 agency.
 Given on the seventeenth of the Kalendsof ..., during the Consulate of the
 above-mentioned Emperors, 293.
+
 19. The Same, and the Caesars, to Lisicratiis.
 It is a positive rule of law that, in a case in partition, where any of the
 heirs have appropriated any of the common property, or have caused it to
@@ -3093,6 +2993,7 @@ deteriorate, they must be responsible for it, and indemnify the other heirs for
 the said property.
 Given on the nineteenth of the Kalendsof January, during the above-mentioned
 Consulate, 293.
+
 20. The Same, and the Caesars, to Pactuela.
 In the action in partition, the price of property owned in common and sold as
 such by one of the heirs does not entirely belong to the vendor, but if the
@@ -3101,6 +3002,7 @@ he ratified the sale, the action on the ground of voluntary agency will lie in
 his favor. Where, however, one heir, having sold the property, withholds the
 purchase-money, the hereditary shares of the others in the same can be
 recovered.
+
 21. The Same, and the Caesars, to Fortunatus.
 Where, with the view to the future succession, a father divided his estate
 among his heirs, in accordance with his intentions, and, in any way whatsoever
@@ -3110,12 +3012,14 @@ is made, as is done in the case of the Falcidian Law, and that a division of
 any property which the father did not leave to anyone either generally or
 specially takes place equally among the heirs and, in rendering his decision,
 he shall always comply with the wishes of the father.
+
 22. The Same, and the Caesars, to Dionysius.
 When one of several heirs, without the consent of his co-heirs but through
 mistake, retains possession of a slave owned in common, the others believing
 that the slave belongs to him, he does not make the slave his own, as every
 good title to the latter is lacking; but it is clear that each of his co-heirs
 has a right to his hereditary share in said slave.
+
 23. The Same, and the Caesars, to Hermogenus.
 Although the action to which creditors are entitled against each heir to the
 extent of his hereditary share of the estate cannot be changed by an agreement
@@ -3123,6 +3027,7 @@ for division, still, he who is bound by the agreement can be compelled to carry
 it out under the terms of the stipulation, and in accordance with law, and
 where no stipulation was entered into, he can be sued in an action praescriptis
 verbis,if he is not proved to have violated his contract.
+
 24. The Same, and the Caesars, to Socrates.
 Atestator, by means of entreaties, implored his son to transfer conditionally
 to his brothers and certain other persons a tract of land which he had in his
@@ -3135,11 +3040,13 @@ over and above the said fourth should remain, he will be compelled to surrender
 it.
 Given on the fifth of the Nonesof January, during the abovementioned Consulate,
 294.
+
 25. The Same, and the Caesars, to Diodes.
 If you should reject the estate of your grandfather, you cannot be forced to
 relinquish to your brothers property which you have acquired by a donation, or
 in any other way.
 Given on the Idesof April, during the Consulate of Tuscus and Anolinus.
+
 26. The Emperor Constantine to Bassus, Praetorian Prefect.
 Where a will that has been begun but not completed, or a codicil, a father's
 letter, or any other written instrument is found which disposes of property in
@@ -3156,12 +3063,13 @@ children above designated is found, it is certain that the will should be
 considered void only with reference to the said person.
 Given at Rome, during the second Consulate of Crispus and Constantine-Caesar,
 321.
-Extract from Novel 18, Chapter VII. Latin Text.
+
+Extract from Novel 18, Chapter 7. Latin Text.
 Provided there is attached to an instrument of this kind either the signature
 of the father himself, or those of all the children among whom the partition
 took place.
 
-* 3.XXXVII. CONCERNING THE DIVISION OF PROPERTY OWNED IN COMMON.
+* 3.37. CONCERNING THE DIVISION OF PROPERTY OWNED IN COMMON.
 
 1. The Emperor Antoninus to Lucan.
 If your brother sold only the share of the land which belonged to him, the sale
@@ -3234,12 +3142,13 @@ property which he may ascertain is held in common by you and your sister.
 Given on the eighth of the Kalendsof September, during the Consulate of the
 Caesars, 294.
 
-* 3.XXXVIII. MATTERS WHICH APPLY TO BOTH THE ACTION IN PARTITION AND THAT FOR THE DIVISION OF PROPERTY OWNED IN COMMON.
+* 3.38. MATTERS WHICH APPLY TO BOTH THE ACTION IN PARTITION AND THAT FOR THE DIVISION OF PROPERTY OWNED IN COMMON.
 
 1. The Emperor Antoninus to Marcus.
 It has been decided that a division of land has the effect of a sale. Given on
 the sixth of the Kalendsof December, during the Consulate of Gentian and
 Bassus, 212.
+
 2. The Emperor Alexander to Euphrata.
 Even if someone who had no right to do so has appointed an arbitrator to make a
 division of property, still, if the partners gave their consent to such a
@@ -3247,6 +3156,7 @@ division, each one of them has obtained the ownership of the property of which
 he acquired possession in accordance with the agreement.
 Given on the sixteenth of the Kalendsof November, during the Consulate of
 Alexander, Consul for the third time, and Dio, 230.
+
 3. The Emperors Diocletian and Maximian, and the Caesars, to Seva.
 It is customary to come to the relief of persons who have attained their
 majority, where divisions of property have been made through fraud or deceit,
@@ -3255,6 +3165,7 @@ fidecontracts whatever is established to have been done unjustly shall be
 corrected.
 Given on the sixteenth of the Kalendsof July, during the Consulate of the same
 Emperors, 293.
+
 4. The Same, and the Caesars, to Maximian.
 If your paternal uncle, while transacting business for himself, purchased a
 part of certain property owned in common, and did not thereby become a joint-
@@ -3264,11 +3175,13 @@ demand that he shall divide with you the ownership of what he purchased.
 Given on the sixteenth of the Kalendsof November, during the Consulate of the
 above-mentioned Emperors; the first, Consul for the fourth time, and the
 second, Consul for the third time, 293.
+
 5. The Same, and the Caesars, to Frontinus and Gaferio.
 With reference to the documents which you allege are jointly owned by your
 brother and yourself, the Governor of the province, having been applied to,
 shall determine with whom they should be deposited.
 Given on the sixth of the Idesof February, during the abovementioned Consulate.
+
 6. The Same, and the Caesars, to Thesidiana and Others.
 If you made a division of property with your paternal uncle, under the
 condition that he would swear that he had not been guilty of malicious fraud in
@@ -3277,6 +3190,7 @@ prevent you from claiming an undivided interest in the property which was the
 subject of the agreement, and was included in the division.
 Given on the fifth of the Kalendsof April, during the Consulate of the Caesars,
 294.
+
 7. The Same, and the Caesars, to Severianus and Flavianus.
 If your brothers have encumbered their undivided interest in a tract of land
 without your consent, and the land comes into your hands in accordance with the
@@ -3292,21 +3206,25 @@ the guarantee against eviction was made by a formal statement, or promised by
 an agreement.
 Given at Nicomedia, on the second of the Nonesof December, during the Consulate
 of the Caesars, 294.
+
 8. The Same, and the Caesars, to Nicomacus and Others.
 If a division of property owned in common, made by you after reaching the age
 of twenty-five years, was perfected by the relinquishment or transfer of
 possession, and this was done in good faith and by common consent, it cannot be
 abrogated.
 Given on the Nonesof December, during the Consulate of the Caesars, 294.
+
 9. The Same, and the Caesars, to Demetrianus.
 The action in partition, or the one for the division of property owned in
 common, can only be brought while joint-ownership of the property exists.
 Given at Nicomedia, on the sixth of the Idesof December, during the Consulate
 of the Caesars, 294.
+
 10. The Same, and the Caesars, to Gallicanus.
 Where all the property to be divided is specifically stated in a written will,
 nothing will prevent the heirs from demanding that any which the testator did
 not mention be divided.
+
 11. The Emperor Constantine to Caerulus.
 The division of land should be made in such a way that slaves or serfs attached
 to the soil may pass to each heir without being separated, so that the
@@ -3317,6 +3235,7 @@ contrary to law, separate either slaves or serfs connected in this manner, he
 shall be compelled to again unite them.
 Given on the third of the Kalendsof May, during the Consulate of Proculus and
 Paulinus, 334.
+
 12. The Emperor Justinian to the Senate.
 The following provisions have appeared to Us to be in perfect conformity to
 justice. If anyone, having either signed or given an antenuptial donation in
@@ -3359,7 +3278,7 @@ paternal or maternal great-grandmother.
 Given at Constantinople, on the eleventh of the Kalendsof August, during the
 fifth Consulate of Lampadius and Orestes, 550.
 
-* 3XXXIX. CONCERNING THE ESTABLISHMENT OF BOUNDARIES.
+* 3.39. CONCERNING THE ESTABLISHMENT OF BOUNDARIES.
 
 1. The Emperors Diocletian and Maximian, and the Caesars, to Nicephorus.
 The owner of a tract of land cannot be prevented from selling a certain portion
@@ -3413,7 +3332,7 @@ shall be applicable.
 Given on the second of the Nonesof November, during the Consulate of Arcadius,
 Consul for the second time, and Rufinus, 392.
 
-* 3.XL. CONCERNING PERSONS INTERESTED IN THE SAME CASE.
+* 3.40. CONCERNING PERSONS INTERESTED IN THE SAME CASE.
 1. The Emperor Julian to Secundus, Praetorian Prefect.
 All those exceptions having been abolished and rejected to which litigants were
 accustomed to have recourse, under the pretext that other parties were
@@ -3433,7 +3352,7 @@ that they will furnish security that the judgment will be paid.
 Given on the sixth of the Idesof December, during the Consulate of the Divine
 Jovinian and Veronian, 364.
 
-* 3.XLI. CONCERNING NOXAL ACTIONS.
+* 3.41. CONCERNING NOXAL ACTIONS.
 1. The Emperor Alexander to Marcellus.
 If the sum of money which you allege was stolen from the estate of your father
 by a person who has proved to have been free, you will not be prevented from
@@ -3495,7 +3414,7 @@ personal action for its value.
 Given on the fifth of the Kalendsof April, during the above-mentioned
 Consulate, 294.
 
-* 3.XLII. CONCERNING THE ACTION TO COMPEL THE PRODUCTION OP PROPERTY IN COURT.
+* 3.42. CONCERNING THE ACTION TO COMPEL THE PRODUCTION OP PROPERTY IN COURT.
 1. The Emperor Alexander to the Soldier Crescens.
 If the ownership of the female slave, with reference to whom you have brought
 an action, belongs to your mother, she could not lawfully have been sold by
@@ -3570,7 +3489,7 @@ evidencing the contract, to be produced and returned to you, as you have
 naturally been released from liability.
 Given on the eighth of the Kalendsof September, during the Consulate of the
 above-mentioned Emperors, 294.
-* 3.XLIII. CONCERNING GAMBLERS AND GAMES OP CHANCE.
+* 3.43. CONCERNING GAMBLERS AND GAMES OP CHANCE.
 
 1. The Emperor Justinian to John,
 Praetorian Prefect.
@@ -3609,8 +3528,7 @@ have it refunded, Our Procurator shall claim it, and employ it for public
 purposes. Judges shall likewise see that all persons abstain from blasphemy and
 perjury (which, indeed, should be prevented by their authority).
 
-
-* 3.XLIV. CONCERNING RELIGIOUS PLACES, AND THE EXPENSES OF FUNERALS.
+* 3.44. CONCERNING RELIGIOUS PLACES, AND THE EXPENSES OF FUNERALS.
 
 1. The Emperor Antoninus to Dorita.
 If the remains of your son should be threatened by the waters of a river, or

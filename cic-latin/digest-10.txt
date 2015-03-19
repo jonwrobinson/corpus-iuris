@@ -1,11 +1,7 @@
 # -*- mode: org -*-
 
 * LIBER X
-+ 10.1.0. Finium regundorum.
-+ 10.2.0. Familiae erciscundae.
-+ 10.3.0. Communi dividundo.
-+ 10.4.0. Ad exhibendum.
-* 10.1.0.  Finium regundorum.
+* 10.1.0. Finium regundorum.
 
 10.1.1
 
@@ -112,7 +108,6 @@ Gaius libro quarto ad legem duodecim tabularum
 Sciendum est in actione finium regundorum illud observandum esse, quod ad exemplum quodammodo eius legis scriptum est, quam athenis solonem dicitur tulisse: nam illic ita est: ean tis ahimasian par' allotriw xwriw orugy, ^ orutty^ ton horon my parabainein: ean teixion, poda apoleipein: ean de oikyma, duo podas. ean de tafon y bovron orutty, hoson to bavos y, tosouton apoleipein: ean de frear, orguian. elaian de kai sukyn ennea podas apo tou allotriou futeuein ta de alla dendra pente podas [id est: Si quis maceriem iuxta praedium alienum aedidicet, finem ne excedito: si murum, pedes intervallum esto: si aedes, pedum duorum. Si sepulchrum [immo fossam] vel scrobem fodiat, quanta altitudo est, tantum intervallum esto: si puteum, ulnae. Oleam autem et ficum novem pedes ab alieno serito, reliquas arbores quinque pedes.].
 
 * 10.2.0. Familiae erciscundae.
-
 
 10.2.1
 
