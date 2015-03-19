@@ -109,17 +109,16 @@ across them, but I do not use these texts as much as the Latin
 versions, so progress is much slower.  I am trying to be more diligent
 in this regard, however.
 
-For medievalists, however, there is one advantage to this translation,
-however: because Scott did not use the Krueger edition of the *Code*,
-his translation also includes the *authenticae* and the *Constitutions
-of Frederick* as they are found in vulgate editions of the *Code*.
-This is a nice addition.
+For medievalists, however, there is one advantage to this translation:
+because Scott did not use the Krueger edition of the *Code*, his translation
+also includes the *authenticae* and the *Constitutions of Frederick* as they
+are found in vulgate editions of the *Code*.  This is a nice addition.
 
 By the same token, this means there are downsides to this translation.
 The most important one is that the numbering occasionally does not
 match what we find in the standard editions, which can be very
 annoying at times.  This is another area where I make incremental
-improvements.  Numbers enclosed in angle brackets (e.g., <52>)
+improvements.  Numbers enclosed in angle brackets (e.g., `<52>`)
 indicate an addition on my part, marking the text where it corresponds
 to an internal division as one might see in Mommsen or Krueger (etc.).
 
