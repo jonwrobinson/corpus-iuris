@@ -1,18 +1,6 @@
 # -*- mode: org -*-
 
 * LIBER XXVII
-+ 27.1.0.  De excusationibus.
-+ 27.2.0.  Ubi pupillus educari vel morari debeat et de alimentis ei praestandis.
-+ 27.3.0.  De tutelae et rationibus distrahendis et utili curationis causa actione.
-+ 27.4.0.  De contraria tutelae et utili actione.
-+ 27.5.0.  De eo qui pro tutore prove curatore negotia gessit.
-+ 27.6.0.  Quod falso tutore auctore gestum esse dicatur.
-+ 27.7.0.  De fideiussoribus et nominatoribus et heredibus tutorum et curatorum.
-+ 27.8.0.  De magistratibus conveniendis.
-+ 27.9.0.  De rebus eorum, qui sub tutela vel cura sunt, sine decreto non alienandis vel supponendis.
-+ 27.10.0. De curatoribus furioso et aliis extra minores dandis.
-
-
 * 27.1.0. De excusationibus.
 
 
@@ -963,7 +951,6 @@ Ulpianus libro decimo ad edictum
 Ei qui pro tutore negotia gessit contrarium iudicium competit.
 
 * 27.6.0. Quod falso tutore auctore gestum esse dicatur.
-
 
 27.6.1
 

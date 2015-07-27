@@ -1,15 +1,7 @@
 # -*- mode: org -*-
 
 * LIBER XXXIX
-+ 39.1.0. De operis novi nuntiatione.
-+ 39.2.0. De damno infecto et de suggrundis et proiectionibus.
-+ 39.3.0. De aqua et aquae pluviae arcendae.
-+ 39.4.0. De publicanis et vectigalibus et commissis.
-+ 39.5.0. De donationibus.
-+ 39.6.0. De mortis causa donationibus et capionibus.
-
 * 39.1.0.  De operis novi nuntiatione.
-
 
 39.1.1
 

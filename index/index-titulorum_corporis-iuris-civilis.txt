@@ -1404,8 +1404,6 @@
 
 * INSTITUTIONUM IUSTINIANI
 ** LIBER I
-
-
 + 1.1   De iustitia et iure
 + 1.2   De iure naturali, gentium et civili
 + 1.3   De iure personarum
@@ -1434,7 +1432,6 @@
 + 1.26  De suspectis tutoribus et curatoribus
 
 ** LIBER II
-
 + 2.1   De rerum divisione
 + 2.2   De rebus incorporalibus
 + 2.3   De servitutibus
