@@ -2448,7 +2448,7 @@ Supervacuam observationem veterum legum, per quam voluntates testatorum ad effec
 
 Quod si aliquid facere vel legibus interdictum vel alias probrosum vel etiam impossibile iussus aliquis eorum fuerit, tunc sine ullo damno etiam neglecto testatoris praecepto servabitur. <a 528 d. k. ian. constantinopoli dn. iustiniano a. pp. ii cons.>
 
-* * 6.42.0. De fideicommissis.
+* 6.42.0. De fideicommissis.
 
 6.42.1: Imperator Antoninus
 

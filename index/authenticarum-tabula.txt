@@ -396,7 +396,12 @@ http://daten.digitale-sammlungen.de/~db/0005/bsb00050150/image_1
   ante C.5.9.10 pr.
   r.:  In auten. de nup. §. i. et §. nec illud et §. optime. coll. iiii
 
-[[ START: C.5.10 pdf338 ]]
+- aut. Hoc locum
+  post C.5.10.1.2
+  r.:  In auten. de nup. §. si mater coll. iiii.
+
+
+[[ START: C.5.11 pdf338 ]]
 
 
 

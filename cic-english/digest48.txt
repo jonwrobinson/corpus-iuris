@@ -146,6 +146,7 @@ method of filing accusations of crime, or indictments, was also frequently
 employed. It is still in use in Scotland. (VideErskine, Principles of the Law
 of Scotland, Pages 660, 661, 662.)---ED.
 her patron or patroness, and their son, daughter, grandson, or granddaughter.
+
 2. Papinianus, On Adultery, Book I.
 Women are permitted to bring a public accusation for certain causes, for
 instance, if they do so on account of the death of any of those persons of
@@ -161,6 +162,7 @@ their father, just as a female ward is allowed to institute one for the death
 of her grandfather, since the Divine Vespasian permitted wards to bring suit
 with reference to the will of their father; but they could proceed by means of
 the interdict just as if the will had not been produced.
+
 3. Paulus, On Adultery, Book III.
 The following is the form of an accusation, by inscription: "The Consul, and
 the date. Before So-and-So, Praetor and Proconsul, Lucius Titius declared that
@@ -190,6 +192,7 @@ C
 Decree of the Senate, so that another can again begin the prosecution of the
 defendant. Let us see within what time this can take place. It can be done
 within thirty available days.
+
 4. Ulpianus, On Adultery, Book II.
 A man who has been condemned in a criminal prosecution has no right to accuse
 anyone himself, unless, under the terms of the decision he is authorized to
@@ -201,6 +204,7 @@ with wild beasts, or who follow the profession of buffoons, or keep women for
 prostitution, or have been convicted of prevarication or calumny, or of having
 received money in consideration of their accusing anyone, or injuring his
 business.
+
 5. The Same, On Adultery, Book HI.
 There is no doubt that slaves can also be accused of adultery. Those, however,
 who are forbidden to accuse freemen of adultery are themselves forbidden to
@@ -208,10 +212,12 @@ accuse slaves. A master, however, can, under a Rescript of the Divine Marcus,
 bring an accusation against his own slave for this offence. Therefore, since
 the promulgation of this rescript, the master is obliged to accuse his slave,
 but if his wife is legally married she can plead an exception in bar.
+
 6. The Same, On the Duties of Proconsul, Book VII.
 The Proconsul must hear and discuss clearly all accusations of slight
 importance, and either release those against whom they are brought, or whip
 them with rods, or, if they are slaves, scourge them.
+
 7. The Same, On the Duties of Proconsul, Book VII.
 When anyone accuses another of a crime, he must, first of all, sign the
 accusation. This rule has been introduced for the purpose of preventing anyone
@@ -244,6 +250,7 @@ where a sacrilegious act had been committed in one province, and afterwards a
 less serious crime was perpetrated in another, after having taken cognizance of
 the offence committed in his own province, he must send the defendant into the
 one where he had been guilty of sacrilege.
+
 8. Macer, On Public Prosecutions, Book II.
 We will more readily understand who can bring an accusation if we know who
 cannot do so. Hence, certain persons are forbidden to prosecute a crime on
@@ -257,12 +264,15 @@ have filed two accusations signed by them against two different individuals; or
 who have received money in consideration of accusing, or not accusing others.
 Some are incompetent in consequence of their condition, as, for instance,
 freedmen cannot proceed against their patrons.
+
 9. Paulus, Sentences, Book V.
 Others are excluded on account of the suspicion of calumny, for instance those
 who, having been suborned, have given false testimony.
+
 10. Hermogenianus, Epitomes of Law, Book VI.
-Some cannot bring an accusation on. account of their poverty, such as those who
+Some cannot bring an accusation on account of their poverty, such as those who
 have less than fifty aurei.
+
 11. Macer, On Public Prosecutions, Book II.
 Still, all these persons, if they are prosecuting injuries sustained by them,
 or the death of near relatives, are not excluded from bringing accusations.
@@ -279,6 +289,7 @@ accuse his mother under the Cornelian Law.
 party; but anyone who has been publicly or privately acquitted, or whose
 accuser has desisted from prosecution, and has been removed from a number of
 defendants, may be accused by another.
+
 12. Venuleius Saturninus, On Public Prosecutions, Book II.
 It is not lawful to accuse the following persons, namely: the Deputy of the
 Emperor, that is to say, the Governor of a province; according to the decision
@@ -310,6 +321,7 @@ is similar, they are punished in the same way. Again Cornelius Sylla was the
 author of the decision that a slave is not included in the Cornelian Law which
 has reference to injuries; but he is punished arbitrarily by a more severe
 penalty.
+
 13. Marciamis, On Public Prosecutions, Book I.
 The Divine Severus and Antoninus stated in a Rescript that a woman should be
 heard by the Prefect of Subsistence on the ground of the public welfare, if she
@@ -319,21 +331,26 @@ institute proceedings of this kind. Soldiers, also, who cannot prosecute the
 cases of others, because they guard the peace, can all the more readily be
 permitted to bring this accusation. When slaves bring it, they should also be
 heard.
+
 14. Paulus, On the Duties of Proconsul, Book II.
 The Senate decreed that no one can be accused of the same crime under several
 laws.
+
 15. Ulpianus, On the Edict, Book LVI.
 Where anyone, having assembled a number of persons, is alleged to have
 committed damage with malicious intent, the plaintiff should not be compelled
 to abandon his civil action for the purpose of prosecuting the crime.
+
 16. The Same, On the Duties of Proconsul, Book II.
 Where several persons appear who desire to accuse the same man of a crime, the
 judge should select one of them to bring the accusation; that is to say, after
 proper cause has been shown by investigating the character, rank, interest,
 age, morals, or any other proper attributes of the accusers.
+
 17. Modestinus, Differences, Book VI.
 When a master defends his slave for a capital offence, he is ordered to give
 security for his appearance in court.
+
 18. The Same, Opinions, Book XVII.
 Titia threatened to prove the will of her brother Gaius to be forged, but did
 not comply with the formalities required by the accusation within the time
@@ -345,11 +362,13 @@ from the decision of the Governor, I ask whether she could afterwards renew the
 accusation that the will was forged. The answer was that it was not clearly
 stated for what reason she should be heard, if she instituted proceedings
 disputing the authority of the decision.
+
 19. Callistratus, On Judicial Inquiries, Book V.
 The Divine Brothers stated in a Rescript that the heirs of an accuser should
 not be compelled to prosecute the crime.
 (1) Likewise, the Divine Hadrian stated in a Rescript that no one could be
 forced to prosecute several accused persons.
+
 20. Modestinus, On Penalties, Book II.
 Penalties involving the loss of property as the result of criminal prosecutions
 do not pass to the heirs, unless issue has been joined and conviction has
@@ -362,9 +381,11 @@ a crime, he could neither alienate any of his property, nor manumit any of his
 slaves. But so far as other offences were concerned, the penalty could begin to
 be inflicted upon the heir only where the accusation had been made during the
 lifetime of the guilty party, even though conviction did not follow.
+
 21. Papinianus, Opinions, Book XV.
 He who is accused of a capital crime is not, before judgment, forbidden to
 bring before the Treasury any matter in which he may be interested.
+
 22. The Same, Opinions, Book XVI.
 Anyone belonging to another province, who is accused of crime, should be
 prosecuted and convicted where the crime is proved to have been committed,

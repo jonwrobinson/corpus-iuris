@@ -1,22 +1,6 @@
 # -*- mode: org -*-
 
-
 THE CIVIL LAW
-INCLUDING
-The Twelve Tables, The Institutes of Gaius, The Rules ooff
-Ulpian, The Opinions of Paulus, The Enactments
-of Justinian, and The Constitutions of Leo:
-Translated from the original Latin, edited, and compared with all accessible
-systems of jurisprudence ancient and modern.
-By S. P. SCOTT, A. M.
-Author of "History of the Moorish
-Empire in Europe," Translator of
-the "Visigothic Code"
-IN SEVENTEEN VOLUMES VOL. XV.
-CINCINNATI
-THE CENTRAL TRUST COMPANY
-Executor of the Estate Samuel P. Scott, Deceased
-PUBLISHERS
 
 CONTENTS OF VOLUME XV.
 THE CODE OF JUSTINIAN.
@@ -1906,8 +1890,7 @@ of them, without any view to the return of the property or any injury to the
 contracting parties.
 
 
-TITLE XXXIV.  WHEN AND To WHOM THE FOURTH PART OF THE PROPERTY OP
-DECURIONS IS DUE, AND CONCERNING THE METHOD OF DISTRIBUTING THE SAME.
+TITLE XXXIV(35).  WHEN AND To WHOM THE FOURTH PART OF THE PROPERTY OP DECURIONS IS DUE, AND CONCERNING THE METHOD OF DISTRIBUTING THE SAME.
 
 1. The Emperors Theodosius and Valentinian.
 We decree that when he who succeeds to a decurion as heir does not himself
@@ -1924,6 +1907,7 @@ seized this opportunity to destroy the property of the entire estate by
 claiming an interest in everything for themselves, so that they mutilated and
 defaced all of it, and in endeavoring to secure their own rights, manifested an
 inclination to injure others equally interested.
+
 In order to take proper measures for the correction of this abuse, We do hereby
 forbid decurions to seize the property of a deceased person by their own
 authority. The heir, however, to whom the estate passed either as intestate, or
@@ -1946,21 +1930,21 @@ divided; but We order that the statements of the heirs of the deceased (they
 having been first sworn) shall be believed, when they have made a careful
 estimate of the nature and value of the estate. For what is so harsh or inhuman
 as, by the exhibition and display of private property, to reveal the
-wretchedness of poverty, and expose wealth to envy ? In the collection of
+wretchedness of poverty, and expose wealth to envy? In the collection of
 debts, if the heirs refuse to pay the price of the fourth part of the claim to
-which the decurionate is entitled, after hav-
-ing publicly furnished proper security, each one shall be entitled to collect
+which the decurionate is entitled, after having publicly furnished proper security, each one shall be entitled to collect
 his share from the debtors.
 Likewise, on the other hand, the heirs, as well as the curia,can be compelled
 to pay their proportionate shares of the indebtedness, if the deceased owed
 money to anyone. When the heirs, after having been frequently notified, refuse
 to take the oath, then a careful inventory of all the personal property shall
-be drawn up by the members of the curia,just as in the case of real estate,
+be drawn up by the members of the curia, just as in the case of real estate,
 that is to say, all of the property belonging to the deceased having been
 produced in public, an appraisement and division of the same shall be made in
 the presence of the decurions. Moreover, We decree that in all cases where the
 curiais entitled to a fourth part of the estate, any transactions concluded by
 the parties in interest shall remain valid and incontrovertible.
+
 (1) As in the case of sons, grandsons, and great-grandsons of decurions, to
 whom We have decreed that estates shall descend intact, We now order that the
 ownership of the same shall not be affected in the case of the daughter,
@@ -2036,9 +2020,7 @@ estate of the decurion, as a consolation for his loss.
 
 
 
-TITLE XXXV.
-CONCERNING THE CLAIM OF A CURIA TO PROPERTY WHICH HAS BEEN GRATUITOUSLY
-TRANSFERRED.
+TITLE XXXV. CONCERNING THE CLAIM OF A CURIA TO PROPERTY WHICH HAS BEEN GRATUITOUSLY TRANSFERRED.
 
 1. The Emperors Theodosius and Valentinian to Apollonius, Prse-torian Prefect.
 We order that the penalty of four siliquseshall only be collected in the case
