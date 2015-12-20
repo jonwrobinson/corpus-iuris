@@ -299,7 +299,6 @@ Is, cui opus novum nuntiatum erat, vendidit praedium: emptor aedificavit: emptor
 
 * 39.2.0. De damno infecto et de suggrundis et proiectionibus.
 
-
 39.2.1
 
 Ulpianus libro primo ad edictum
@@ -834,7 +833,6 @@ Si quis ad demoliendum negotiandi causa vendidisse domum partemve domus fuerit c
 
 * 39.3.0. De aqua et aquae pluviae arcendae.
 
-
 39.3.1
 
 Ulpianus libro 53 ad edictum
@@ -1143,7 +1141,6 @@ Scaevola respondit solere eos, qui iuri dicundo praesunt, tueri ductus aquae, qu
 
 * 39.4.0. De publicanis et vectigalibus et commissis.
 
-
 39.4.1
 
 Ulpianus libro 55 ad edictum
@@ -1339,7 +1336,6 @@ pr. Interdum nec vendendus est is servus qui in commissum cecidit, sed pro eo ae
 14. Si quid autem indebitum per errorem solventis publicanus accepit, retro eum restituere oportere divi Severus et Antoninus rescripserunt.
 
 * 39.5.0. De donationibus.
-
 
 39.5.1
 
@@ -1634,7 +1630,6 @@ pr. Ad eum, quem manumiserat, epistulam misit in haec verba: "Titius Sticho libe
 2. Avia sub nomine Labeonis nepotis sui mutuam pecuniam dedit, et usuras semper cepit et instrumenta debitorum a Labeone recepit, quae in hereditate eius inventa sunt: quaero, an donatio perfecta esse videatur. Respondit, cum debitor Labeoni obligatus est, perfectam donationem esse.
 
 * 39.6.0. De mortis causa donationibus et capionibus.
-
 
 39.6.1
 

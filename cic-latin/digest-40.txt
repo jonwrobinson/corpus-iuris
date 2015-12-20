@@ -1,37 +1,6 @@
 # -*- mode: org -*-
 
-DOMINI NOSTRI SACRATISSIMI PRINCIPIS
-IUSTINIANI
-IURIS ENUCLEATI EX OMNI VETERE IURE COLLECTI
-DIGESTORUM SEU PANDECTARUM
-liber quadragesimus
-
-
-( Based upon the Latin text of Mommsen's edition, Berlin, 1954 ).
-
-
-
 * 40.1.0. De manumissionibus.
-* 40.2.0. De manumissis vindicta.
-* 40.3.0. De manumissionibus quae servis ad universitatem pertinentibus imponuntur.
-* 40.4.0. De manumissis testamento.
-* 40.5.0. De fideicommissariis libertatibus.
-* 40.6.0. De ademptione libertatis.
-* 40.7.0. De statuliberis.
-* 40.8.0. Qui sine manumissione ad libertatem perveniunt.
-* 40.9.0. Qui et a quibus manumissi liberi non fiunt et ad legem Aeliam Sentiam.
-* 40.10.0. De iure aureorum anulorum.
-* 40.11.0. De natalibus restituendis.
-* 40.12.0. De liberali causa.
-* 40.13.0. Quibus ad libertatem proclamare non licet.
-* 40.14.0. Si ingenuus esse dicetur.
-* 40.15.0. Ne de statu defunctorum post quinquennium quaeratur.
-* 40.16.0. De collusione detegenda.
-
-
-
-* 40.1.0. De manumissionibus.
-
 
 40.1.1
 
@@ -235,9 +204,7 @@ Iavolenus libro quatro ex posterioribus Labeonis
 
 Servum furiosum omni genere manumissum ad libertatem perduci putat posse labeo.
 
-
-40.2.0. De manumissis vindicta.
-
+* 40.2.0. De manumissis vindicta.
 
 40.2.1
 
@@ -421,9 +388,7 @@ Gaius libro primo de manumissionibus
 
 Si tutoris habendi causa pupillus manumittat, probationi esse causam fufidius ait. Nerva filius contra sentit, quod verius est: namque perabsurdum est in eligendo tutore firmum videri esse iudicium pupilli, cuius in omnibus rebus ut infirmum iudicium tutore auctore regitur.
 
-
-40.3.0. De manumissionibus quae servis ad universitatem pertinentibus imponuntur.
-
+* 40.3.0. De manumissionibus quae servis ad universitatem pertinentibus imponuntur.
 
 40.3.1
 
@@ -443,9 +408,7 @@ Papinianus libro 14 responsorum
 
 Servus civitatis iure manumissus non ademptum peculium retinet ideoque debitor ei solvendo liberatur.
 
-
-40.4.0. De manumissis testamento.
-
+* 40.4.0. De manumissis testamento.
 
 40.4.1
 
@@ -873,9 +836,7 @@ pr. Scio quosdam efficere volentes, ne servi sui umquam ad libertatem perveniant
 
 2. Hoc amplius Octavenus aiebat, si quis in testamento sub qualibet condicione libertate servo data ita scripsisset "ante condicionem nolo eum ab herede liberum fieri", nihil valere hanc adiectionem.
 
-
-40.5.0. De fideicommissariis libertatibus.
-
+* 40.5.0. De fideicommissariis libertatibus.
 
 40.5.1
 
@@ -1501,9 +1462,7 @@ Marcellus libro singulari responsorum
 
 Lucius Titius testamento ita cavit: "Si quos codicillos reliquero, valere volo. Si quis mihi ex paula, quae uxor mea fuit, intra decem menses natus natave erit, ex semisse heredes sunto. Gaius Seius ex semisse heres esto. Stichum et Pamphilum servos meos et Erotem et Diphilum peto et fidei heredum committo, ut, cum ad pubertatem liberi mei pervenerint, manumittant". Deinde novissima parte ita cavit: "Quod si mihi liberi nati non erunt aut intra pubertatem decesserint, tunc heredes ex paribus partibus sunto Mucius et Maevius. Legata, quae priore testamento, quo filios et Seium, reliqui, praestari volo, hoc est et a sequentibus heredibus". Deinde codicillis ita cavit: "Lucius Titius heredibus primis et substitutis salutem. Peto, ut ea quae testamento cavi legavi et ea quae codicillis cavero legavero, praestetis". Quaero, cum liberi Lucio Titio nati non sint, an Sticho et Pamphilo et Eroti et Diphilo servis confestim fideicommissa libertas praestari debeat. Marcellus respondit condicionem, quae libertati eorum, de quibus quaereretur, si filii heredes exstitissent, adposita esset, repetitam non videri ideoque confestim libertatem praestandam esse et a primis et a substitutis heredibus: nam ut supra scriptum est, petit, ut quae testamento cavisset praestarentur, cavit autem de libertate eorum servorum. Atquin sub condicione cavit et, si alterius generis condicio esset, exspectanda esset: sed non est verisimile, ut hoc in ista condicione cogitaverit, cum fidei substitutorum committeret, qui admitti ad hereditatem non possent, si impleretur condicio.
 
-
-40.6.0. De ademptione libertatis.
-
+* 40.6.0. De ademptione libertatis.
 
 40.6.1
 
@@ -1511,9 +1470,7 @@ Terentius Clemens libro 18 ad legem Iuliam et Papiam
 
 Cum libertas lege adimatur, aut pro non data haberi debet aut certe perinde observari, ac si a testatore adempta esset.
 
-
-40.7.0. De statuliberis.
-
+* 40.7.0. De statuliberis.
 
 40.7.1
 
@@ -1923,9 +1880,7 @@ Labeo libro tertio pithanon
 
 Si quis eundem hominem uxori suae legaverit et, cum ea nupsisset, liberum esse iusserit et ea ex lege nupserit, liber fiet is homo.
 
-
-40.8.0. Qui sine manumissione ad libertatem perveniunt.
-
+* 40.8.0. Qui sine manumissione ad libertatem perveniunt.
 
 40.8.1
 
@@ -1981,9 +1936,7 @@ Paulus libro quinto quaestionum
 
 Latinus largus: vendidit ancillam ita, ut manumitteretur, non addito tempore: quaero, quando ex constitutione incipit ei libertas competere cessante emptore in manumittendo. Respondi: inspiciendum est, quid actum sit, utrum, cum primum potuisset, ut manumitteret, an ut in potestate esset emptoris, quando vellet manumittere. Priore casu facile tempus deprehendi poterit: posteriore utique moriente emptore competit libertas. Si non appareat, quid convenerit, favor priorem inducet opinionem, id est ut intra duos menses, si ambo praesto sunt tam servus quam emptor eius: servo enim absente nisi emptor intra quattuor menses imposuerit libertatem, ex constitutionibus ad libertatem eripitur.
 
-
-40.9.0. Qui et a quibus manumissi liberi non fiunt et ad legem Aeliam Sentiam.
-
+* 40.9.0. Qui et a quibus manumissi liberi non fiunt et ad legem Aeliam Sentiam.
 
 40.9.1
 
@@ -2253,9 +2206,7 @@ pr. Si non voluntate patroni is, qui in eius potestate sit, iusiurandum adegerit
 
 2. Is, qui operas aut in singulas eas certam summam promisit, ad hanc legem non pertinet, quoniam operas praestando potest liberari. Idem Octavenus probat et adicit: obligare sibi libertum, ut mercedem operarum capiat, is intellegitur, qui hoc solum agit, ut utique mercedem capiat, etiamsi sub titulo operarum eam stipulatus fuerit.
 
-
-40.10.0. De iure aureorum anulorum.
-
+* 40.10.0. De iure aureorum anulorum.
 
 40.10.1
 
@@ -2295,9 +2246,7 @@ Ulpianus libro primo ad legem Iuliam et Papiam
 
 Libertinus si ius anulorum impetraverit, quamvis iura ingenuitatis salvo iure patroni nactus sit, tamen ingenuus intellegitur: et hoc divus Hadrianus rescripsit.
 
-
-40.11.0. De natalibus restituendis.
-
+* 40.11.0. De natalibus restituendis.
 
 40.11.1
 
@@ -2331,9 +2280,7 @@ pr. Patrono consentiente debet libertus ab imperatore natalibus restitui: ius en
 
 1. Libertinus, qui natalibus restitutus est, perinde habetur, atque si ingenuus factus medio tempore maculam servitutis non sustinuisset.
 
-
-40.12.0. De liberali causa.
-
+* 40.12.0. De liberali causa.
 
 40.12.1
 
@@ -2719,9 +2666,7 @@ pr. Licet dubitatum antea fuit, utrum servus dumtaxat an libertus iurando patron
 
 2. In eum, qui impubes iuraverit, scilicet qui et iurare potuerit, danda est utilis actio operarum nomine, cum pubes tamen factus erit. Potest tamen et impubes operas dare, veluti si nomenculator sit vel histrio.
 
-
-40.13.0. Quibus ad libertatem proclamare non licet.
-
+* 40.13.0. Quibus ad libertatem proclamare non licet.
 
 40.13.1
 
@@ -2755,9 +2700,7 @@ Paulus libro singulari ad senatus consultum Claudianum
 
 Si duo liberum hominem maiorem annis viginti emerimus, unus sciens eius condicionem, alter ignorans, non propter eum qui scit ad libertatem ei proclamare permittitur, sed propter eum qui ignorat servus efficietur, sed non etiam eius qui scit, sed tantum alterius.
 
-
-40.14.0. Si ingenuus esse dicetur.
-
+* 40.14.0. Si ingenuus esse dicetur.
 
 40.14.1
 
@@ -2801,9 +2744,7 @@ Ulpianus libro 38 ad edictum
 
 Quotiens de hoc contenditur, an quis libertus sit, sive operae petantur sive obsequium desideretur sive etiam famosa actio intendatur sive in ius vocetur qui se patronum dicit sive nulla causa interveniat, redditur praeiudicium. Sed et quotiens quis libertinum quidem se confitetur, libertum autem Gaii Seii se negat, idem praeiudicium datur. Redditur autem alterutro desiderante: sed actoris partibus semper qui se patronum dicit fungitur probareque libertum suum necesse habet aut, si non probet, vincitur.
 
-
-40.15.0. Ne de statu defunctorum post quinquennium quaeratur.
-
+* 40.15.0. Ne de statu defunctorum post quinquennium quaeratur.
 
 40.15.1
 
@@ -2841,9 +2782,7 @@ Callistratus libro primo de iure fisci
 
 Primus omnium divus Nerva edicto vetuit post quinquennium mortis cuiusque de statu quaeri, sed et divus Claudius Claudiano rescripsit, si per quaestionem nummariam praeiudicium statui videbitur fieri, cessare quaestionem.
 
-
-40.16.0. De collusione detegenda.
-
+* 40.16.0. De collusione detegenda.
 
 40.16.1
 
