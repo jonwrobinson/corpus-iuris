@@ -2,7 +2,7 @@
 
 * BOOK VIII.
 
-* 8.I. CONCERNING SERVITUDES.
+* 8.01. Concerning Servitudes.
 
 1. Marcianus, Rules, Book HI.
 Servitudes are either personal, as use and usufruct; or real, as the servitudes
@@ -164,7 +164,7 @@ use of such a right must be considered as equivalent to delivery of possession;
 and therefore interdicts corresponding to those relating to possession have
 been established.
 
-* 8.II. CONCERNING SERVITUDES OF URBAN ESTATES.
+* 8.02. Concerning Servitudes of Urban Estates.
 
 1. Paulus, On the Edict, Book XXI.
 Where land belonging to the public or a highway intervenes, this does not
@@ -605,7 +605,7 @@ neighbor's house, whether his said neighbor, Publius Maevius, would have any
 right to prevent him from doing these things? I answered that, according to
 what had been stated, he would have none.
 
-* 8.III. CONCERNING THE SERVITUDES OF RUSTIC ESTATES.
+* 8.03. Concerning the Servitudes of Rustic Estates.
 
 1. Ulpianus, Institutes, Book II.
 The following are the servitudes of rustic estates, namely: the right of
@@ -982,7 +982,7 @@ land belonging to the same owner. If this
 be the case the servitude is not held to be interrupted, even though a public
 river intervenes between two tracts of land belonging to the same person.
 
-* 8.IV. RULES COMMON TO BOTH URBAN AND RUSTIC ESTATES.
+* 8.04. Rules Common to Both Urban and Rustic Estates.
 
 1. Ulpianus, Institutes, Book II.
 We designate buildings urban estates, and where buildings belong to a house in
@@ -1218,7 +1218,7 @@ the legacy does not legally vest; for it has been established that the acts of
 living persons may be suspended so far as their operation is concerned, but
 that those of deceased persons cannot.
 
-* 8.V. WHERE AN ACTION IS BROUGHT TO RECOVER A SERVITUDE, OR THE RIGHT OF ANOTHER TO IT IS DENIED.
+* 8.05. Where an Action Is Brought to Recover a Servitude, or the Right of Another to It Is Denied.
 
 1. Ulpianus, On the Edict, Book IV.
 Rights of action with reference to servitudes, whether they are rustic or
@@ -1627,7 +1627,7 @@ conduct of the same can be established. Paulus says, I think, that this is not
 true, by any means; because a grant can be made permitting you to look for
 water, and, if it should be found to convey it.
 
-* 8.VI. HOW SERVITUDES ARE LOST.
+* 8.06. How Servitudes Are Lost.
 
 1. Gaius, On the Provincial Edict, Book VII.
 The servitudes of estates are merged when the same person becomes the owner of

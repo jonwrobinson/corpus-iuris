@@ -1,24 +1,22 @@
 # -*- mode: org -*-
 
-THE DIGEST OR PANDECTS. BOOK VI.
+* BOOK VI.
+* 6.01. Concerning Actions for the Recovery of Specific Property.
 
-TITLE I.
-CONCERNING ACTIONS FOR THE RECOVERY OF SPECIFIC PROPERTY.
-
-\1. *Ulpianus, On the Edict, Book XVI*.
+1. *Ulpianus, On the Edict, Book XVI*.
 
 After actions which are open for the recovery of an entire amount, there
 is added the action for the recovery of certain specific property.
 
-\(1) This action *in rem* for the recovery of specific property is
+(1) This action *in rem* for the recovery of specific property is
 applicable to all movables, both animals and to such things as are
 destitute of life, as well as to those where land is involved.
 
-\(2) By means of this action, however, no claim can be asserted for
+(2) By means of this action, however, no claim can be asserted for
 persons who are free but over whom we have some control, as for
 instance, children who are subject to paternal authority; hence
 proceedings instituted on their account are either investigations by a
-magistrate, or interdicts, or suits brought before the prætor; and as
+magistrate, or interdicts, or suits brought before the praetor; and as
 Pomponius says in the Thirty-seventh Book: "Unless the party states the
 nature of his claim"; as where he claims his son as belonging to him, or
 being under his control, in accordance with the law of Rome. In this
@@ -27,7 +25,7 @@ procedure is proper, for he says that a party can, under the law
 governing Roman citizenship bring an action for recovery where he states
 the basis of his claim.
 
-\(3) By means of this action not only can specific property be
+(3) By means of this action not only can specific property be
 recovered, but, Pomponius, in the Twenty-fifth Book of Passages, says
 
 that an action may be brought for a flock, and also for a herd of
@@ -37,7 +35,7 @@ flock itself belongs to us, even though individual heads of the same may
 not be ours, for it is the flock which is claimed, and not the
 individuals constituting the same.
 
-\2. *Paulus, On the Edict, Book XXI*.
+2. *Paulus, On the Edict, Book XXI*.
 
 Where equal numbers of a flock belong to two parties, neither of them
 has a right to bring an action for the entire flock, nor even for half
@@ -46,7 +44,7 @@ if those that do not belong to him are removed, he can still claim the
 flock, those which are not his will not be included among those to be
 surrendered.
 
-\3. *Ulpianus, On the Edict, Book XVI*.
+3. *Ulpianus, On the Edict, Book XVI*.
 
 Marcellus states in the Fourth Book of the Digest, that a man had a
 flock of three hundred head of which he lost one hundred, and purchased
@@ -56,11 +54,11 @@ animals also he says will be included in the suit for recovery; and even
 where there are no others remaining, except such as have been purchased,
 he can still include them in his suit to recover the flock.
 
-\(1) The objects which compose the equipment of a vessel must be sued
+(1) The objects which compose the equipment of a vessel must be sued
 for separately, and suit for the boat belonging to the ship also must be
 brought in the same manner.
 
-\(2) Pomponius says that where articles of the same description are so
+(2) Pomponius says that where articles of the same description are so
 confused and mingled that they cannot be detached and separated, an
 action must be brought to recover, not all of them, but a portion of the
 same; as for instance, where my silver and yours is melted into a single
@@ -69,7 +67,7 @@ action for the recovery of an amount proportionate to the weight which
 we own in said mass, even though it may be uncertain to what weight each
 one of us is entitled.
 
-\4. *Paulus, On the Edict, Book XXI*.
+4. *Paulus, On the Edict, Book XXI*.
 
 In this instance an action can also be brought for the division of
 common property, but a party will be liable to an action for theft as
@@ -80,57 +78,39 @@ consideration, and, in one for the division of property in common or in
 one for recovery, the party whose silver was greater in value will
 obtain the most.
 
-\5. *Ulpianus, On the Edict, Book XVI*.
+5. *Ulpianus, On the Edict, Book XVI*.
 
-Pomponius also says that where grain belonging to two persons was mixed
-without their consent, each one of them will be entitled to an action
-*in rem *for such an amount of the heap as appears to belong
+Pomponius also says that where grain belonging to two persons was mixed without their consent, each one of them will be entitled to an action *in rem* for such an amount of the heap as appears to belong to him; but, where the grain was mingled with their consent, it will then be held to be in common, and an action for the division of property owned in common will lie.
 
-to him; but, where the grain was mingled with their consent, it will
-then be held to be in common, and an action for the division of property
-owned in common will lie.
+(1) He also says that if a mixture should be made of my honey and your wine, some authorities think that this also becomes common property; but I maintain the better opinion to be, (and he himself mentioned it) that the mixture belongs to the party who made it; as it does not retain its original character. Where, however, lead is mixed with silver, for the reason that it can be separated it will not become common property, nor can an action for the division of common property be brought; but an action *in rem* will lie because the metals can be separated. But he says that, where they cannot be separated, as for instance, where bronze and gold are mixed, suit for recovery must be brought in proportion to the amount involved; and what was stated with reference to the mixture of honey and wine will not apply, because though both materials are mingled, they still remain.[FN1]
 
-\(1) He also says that if a mixture should be made of my honey and your
-wine, some authorities think that this also becomes common property; but
-I maintain the better opinion to be, (and he himself mentioned it) that
-the mixture belongs to the party who made it; as it does not retain its
-original character. Where, however, lead is mixed with silver, for the
-reason that it can be separated it will not become common property, nor
-can an action for the division of common property be brought; but an
-action *in rem* will lie because the metals can be separated. But he
-says that, where they cannot be separated, as for instance, where bronze
-and gold are mixed, suit for recovery must be brought in proportion to
-the amount involved; and what was stated with reference to the mixture
-of honey and wine will not apply, because though both materials are
-mingled, they still remain.^1^
-
-^1^ The Roman doctrine with reference to accessions was accepted almost
+[FN1] The Roman doctrine with reference to accessions was accepted almost
 in its entirety by the old English jurists, who relied upon the
 well-established principle: "*Accessorium sequitur principale.*" Bracton
-says: "*Est et alia, que sit tantu humana natura operante, quæ sit p
-adiunctione uni spiciei ad altera, eiusdem generis vel diversi, p
-applubatura vel ferrilminatione, secundu qd' infra legitur, et ibi
-dicitur, que pars alteri debet accrescere, Si aute p applubatura, minor
-cedit maiori vel præciosiori: sed si neutra præciosior quilibz suu
-vedicabit*.
+says: "Est et alia, que sit tantum humana natura operante, quae sit per
+adiunctionem uni spiciei ad alteram, eiusdem generis vel diversi, per
+applubaturam vel ferrilminationem, secundum quod infra legitur, et ibi
+dicitur, que pars alteri debet accrescere, Si autem per applubaturam, minor
+cedit maiori vel praeciosiori: sed si neutra praeciosior quilibet suum
+vendicabit.
 
-"*Literæ anim licet sint auræ perinde mebranis, chartisue cedunt, sicut
-ea solo cedere solet quæ edificantur vel inseruntur. Sed in picturis
-erit cotrariu.*" (Bracton, *De Leg. et Consuet, Angliæ, *II, 3, 5.)
+"Literae enim licet sint aurae perinde membranis, chartisue cedunt, sicut
+ea solo cedere solet quae edificantur vel inseruntur. Sed in picturis
+erit contrarium.*" (Bracton, *De Leg. et Consuet, Angliae, *II, 3, 5.)
 
-The rule is stated as follows in Fleta: "*Adquiruntur etiam res nobis
+The rule is stated as follows in Fleta: "Adquiruntur etiam res nobis
 per specificationem; ut si quis de aliena materia speciem aliquam sibi
-fecerit, factor dominus erit speeiei. Est & alms modus adquirendi per
+fecerit, factor dominus erit speciei. Est & alms modus adquirendi per
 confusionem; confunduntur enim liquida, ut mel, oleum, vinum;
 confunduntur etiam solida, sicut aurum, argentum, plumbum & ferrum. Et
 quod ex Us redigitur inter eos commune erit sive separari possit sive
-non.*" (Fleta III, II, 14, 15.)
+non." (Fleta III, II, 14, 15.)
 
 Under the Roman practice, the principal point always to be taken into
 consideration was whether he who had added the property in question to
 his own had, or had not acted in good faith. If it was established that
 he had been guilty of fraud or dishonesty, he was liable to an action of
-theft; otherwise  if the complainant had not given his consent  he was
+theft; otherwise -- if the complainant had not given his consent -- he was
 required to make good the amount by which it was proved that he had
 profited. In the kind of accession designated *specificatio*, which
 occurred where a new substance or species was formed by the addition or
@@ -155,25 +135,25 @@ The statutes of the various States of the Union, for the most part,
 follow the rules laid down by the Civil and the Common Law. In all
 instances of accession the principles of natural equity are required to
 be diligently observed, and especially the maxim, "*Nemo ex alterius
-detrimento fieri debet locupletari*".  ED.
+detrimento fieri debet locupletari*". -- ED.
 
-\(2) He also states that where your stallion impregnated my mare, the
+(2) He also states that where your stallion impregnated my mare, the
 colt will not be yours but mine.
 
-\(3) With reference to a tree which was transplanted into the field of
+(3) With reference to a tree which was transplanted into the field of
 another and threw out roots, Varus and Nerva granted an equitable action
 *in rem;* for if it had not yet taken root, it would not cease to be
 mine.
 
-\(4) Where proceedings *in rem* are instituted, and the parties agree
+(4) Where proceedings *in rem* are instituted, and the parties agree
 with reference to the property sued for, but a mistake is made in the
 name of the latter, it is held that the action is properly brought.
 
-\(5) Where there are several slaves of the same name, for instance,
+(5) Where there are several slaves of the same name, for instance,
 several called Eros, and it is not apparent to which one the action
 refers, Pomponius says that no decision can be rendered.
 
-\6. *Paulus, On the Edict, Book VI*.
+6. *Paulus, On the Edict, Book VI*.
 
 Where anyone brings an action *in rem*, he is obliged to designate the
 thing, and also to state that he brings suit for all, or for a portion
@@ -183,14 +163,14 @@ must state the weight of raw material, and where the property is
 stamped, the number, and where goods have been manufactured, the nature
 of the same.
 
-\(1) The dimensions must also be given when the article can be measured.
+(1) The dimensions must also be given when the article can be measured.
 If we bring suit claiming that certain clothing is ours, or that it
 should be delivered to us, are we obliged to state the number of the
 articles and the color also? The better opinion is that both those
 things should be done; for it would be a hardship to compel us to say
 whether our clothes are worn or new.
 
-\(2) A difficulty arises occasionally with reference to household
+(2) A difficulty arises occasionally with reference to household
 utensils, namely, whether it is only necessary to mention a dish, or
 whether we must add whether it is square or round, plain or ornamented,
 for it is difficult to insert these additions in the complaint; nor
@@ -203,13 +183,13 @@ estate, or the son of a certain woman. In like manner, where a man
 brings an action for land, he must state its name and where it is
 situated.
 
-\7. *The Same, On the Edict, Book XL*
+7. *The Same, On the Edict, Book XL*
 
 Where a man who offers to conduct the defence of an action for the
 recovery of land, loses his case, he has, nevertheless, a well grounded
 right of action to recover it from the possessor, so Pedius says.
 
-\8. *The Same, On the Edict, Book XII*.
+8. *The Same, On the Edict, Book XII*.
 
 Pomponius adopts the following opinion in the Thirty-sixth Book. If you
 and I own a tract of land together, and you and Lucius Titius have
@@ -226,7 +206,7 @@ distinction does not apply to movable property nor to a suit for the
 recovery of an estate; for in these instances possession of property for
 a divided part cannot exist.
 
-\9. *Ulpianus, On the Edict, Book XVI*.
+9. *Ulpianus, On the Edict, Book XVI*.
 
 In this action, the duty of the judge would be to learn whether the
 defendant is in possession or not; but it is not important under what
@@ -243,7 +223,7 @@ since none of these instances admit of possession, an action for
 recovery cannot be brought. I think, however, that suit can be brought
 against anyone who holds property and has the power to surrender it.
 
-\10. *Paulus, On the Edict, Book XXI*.
+10. *Paulus, On the Edict, Book XXI*.
 
 When suit is brought for movable property, where is it to be delivered,
 that is, if it is not actually in the hands of the possessor? It is not
@@ -253,13 +233,13 @@ action to recover it is brought; but this must be done at the expense of
 the plaintiff, which has been incurred through travel by land and sea,
 in addition to the cost of maintenance,
 
-\11. *Ulpianus, On the Edict, Book XVI*.
+11. *Ulpianus, On the Edict, Book XVI*.
 
 Unless the plaintiff prefers that the property should be delivered at
 his own expense and risk, where judgment is rendered; for then provision
 will be made, with security, for delivery.
 
-\12. *Paulus, On the Edict, Book XXI*.
+12. *Paulus, On the Edict, Book XXI*.
 
 Where, indeed, the defendant is a possessor in bad faith who obtained
 the property in some other place, the same rule applies; but if he
@@ -267,7 +247,7 @@ removed it from the place where issue was joined and took it elsewhere,
 he should, at his own expense, deliver it at the place whence he removed
 it.
 
-\13. *Ulpianus, On the Edict, Book XVI*.
+13. *Ulpianus, On the Edict, Book XVI*.
 
 Not only must the property be delivered, but the judge must take into
 account any deterioration which it may have sustained. Suppose,
@@ -281,30 +261,30 @@ right of action under the *Lex Aquilia* is relinquished? Labeo thinks
 that the plaintiff is obliged to give security that he will not bring
 suit under the *Lex Aquilia; *and this opinion is the correct one.
 
-\14. *Paulus, On the Edict, Book XXL*
+14. *Paulus, On the Edict, Book XXL*
 
 If, however, the plaintiff should prefer to make use of the action under
 the *Lex Aquilia*, the possessor must be released from liability.
 Therefore the choice is given the plaintiff of obtaining not triple, but
 double damages.
 
-\15. *Ulpianus, On the Edict, Book XVI*.
+15. *Ulpianus, On the Edict, Book XVI*.
 
 Again, if the defendant delivers the slave after he has been scourged,
 Labeo says that the plaintiff is also entitled to an action for injury.
 
-\(1) Where anyone sells property through necessity, perhaps it will be
+(1) Where anyone sells property through necessity, perhaps it will be
 the duty of the judge to relieve him so that he will only be compelled
 to deliver the purchase-money; for if he has gathered the crops and sold
 them to avoid their being spoiled; in this instance he will not be
 compelled to deliver anything more than the price.
 
-\(2) Moreover, if there was a field for which suit was brought, and it
+(2) Moreover, if there was a field for which suit was brought, and it
 was assigned to soldiers, in consideration of a small sum paid to the
 possessor, must the latter deliver this also? It is my opinion that he
 must do so.
 
-\(3) Where suit is brought for a slave, or for some animal which died
+(3) Where suit is brought for a slave, or for some animal which died
 without its death being caused by the malice or negligence of the
 possessor, several authorities hold that the price should not be paid.
 The better opinion, however, is that where the plaintiff would have sold
@@ -312,7 +292,7 @@ the property if he had obtained it, then the value ought to be paid if
 the party was in default, for if he had delivered it, the other might
 have sold it and have profited by the price.
 
-\16. *Paulus, On the Edict, Book XXI*.
+16. *Paulus, On the Edict, Book XXI*.
 
 Undoubtedly, however, even where a slave dies, some decision must be
 rendered with reference to profits and the offspring of a female slave,
@@ -320,21 +300,21 @@ and a stipulation entered into to provide for eviction; for the
 possessor, after issue has been joined, is certainly not liable for
 misfortune.
 
-\(1) It is not understood to be a case of negligence where the possessor
+(1) It is not understood to be a case of negligence where the possessor
 dispatched a ship, which is the subject of litigation, across the sea at
 a suitable time, even though she may have been lost; unless he committed
 her to the care of incompetent persons.
 
-\17. *Ulpianus, On the Edict, Book XVI*.
+17. *Ulpianus, On the Edict, Book XVI*.
 
 Julianus says in the Sixth Book of the Digest, that if I purchase a
-slave from Titius, who belonged to Mævius, and afterwards, when
+slave from Titius, who belonged to Maevius, and afterwards, when
 
-Mævius brings an action against me to recover him, I sell him, and the
+Maevius brings an action against me to recover him, I sell him, and the
 purchaser kills him, it is but just that I should pay the price received
-for him to Mævius.
+for him to Maevius.
 
-\(1) Julianus also states in the same Book, that if the possessor is in
+(1) Julianus also states in the same Book, that if the possessor is in
 default in delivering a slave, and the latter dies, an account of the
 profits which accrued up to the time when the case was decided must be
 taken into consideration. Julianus also says that not only the profits
@@ -358,21 +338,21 @@ Aquilia* is applicable where the possessor has acquired a right to the
 slave by usucaption, after issue has been joined, because he then begins
 to have a perfect title.
 
-\18. *Gaius, On the Provincial Edict, Book VII*.
+18. *Gaius, On the Provincial Edict, Book VII*.
 
 Where the possessor has obtained a right to a slave through usucaption,
 after issue has been joined, he must give him up and furnish security to
 indemnify the plaintiff against fraud, so far as he is concerned; for
 there is danger that he may have either pledged him or manumitted him.
 
-\19. *Ulpianus, On the Edict, Book XVI*.
+19. *Ulpianus, On the Edict, Book XVI*.
 
 Labeo says that security must also be given by the defendant that
 everything has been properly transacted with reference to the property
 in question; for example, where he has furnished security for the
 prevention of threatened injury.
 
-\20. *Gaius, On the Provincial Edict, Book VII*.
+20. *Gaius, On the Provincial Edict, Book VII*.
 
 Again, the possessor must also deliver anything he may have obtained
 through the slave after issue has been joined, but not what he acquired
@@ -390,7 +370,7 @@ after issue was joined, in which instance delivery and the provision of
 security against fraud must take place with reference to the offspring
 as well as the mother.
 
-\21. *Paulus, On the Edict, Book XXI*.
+21. *Paulus, On the Edict, Book XXI*.
 
 Where a slave runs away from a *bona-fide* possessor, we may ask whether
 the slave was such a one as ought to have been guarded? For if he seemed
@@ -416,20 +396,20 @@ he must give a bond that if he should secure him, he will give him up.
 Pomponius approves this opinion in the Thirty-fourth Book of Various
 Passages, and it is the better one.
 
-\22. *Ulpianus, On the Edict, Book XVI*.
+22. *Ulpianus, On the Edict, Book XVI*.
 
 Where the slave escapes through the fraud of the possessor, judgment
 shall be rendered against him as if he was in possession.
 
-\23. *Paulus, On the Edict, Book XXI*.
+23. *Paulus, On the Edict, Book XXI*.
 
 A person is entitled to an action *in rem* where he has become the owner
 of property either by the Law of Nations, or by the Civil Law.
 
-\(1) Sacred and religious places cannot be sued for by actions *in rem,
+(1) Sacred and religious places cannot be sued for by actions *in rem,
 *as if they were the property of individuals.
 
-\(2) Where anyone attaches to his own property something which belongs
+(2) Where anyone attaches to his own property something which belongs
 to another, so that it becomes a part of it; as for instance, where
 anyone adds to a statue of his own an arm or a foot which belongs to
 another, or a handle or a bottom to a cup, or a figure in relief to a
@@ -437,18 +417,18 @@ candlestick, or a foot to a table, the greater number of authorities
 very properly state that he becomes the owner of the whole, and that he
 truthfully can say that the statue or the cup is his.
 
-\(3) Moreover, anything which is written on my paper or painted on my
+(3) Moreover, anything which is written on my paper or painted on my
 board, immediately becomes mine; although certain authorities have
 thought differently on account of the value of the painting; but where
 one thing can not exist without the other, it must necessarily be given
 with it.
 
-\(4) Wherefore, in all these cases in which my property draws the
+(4) Wherefore, in all these cases in which my property draws the
 property of another to itself by superiority, it becomes mine; and if I
 bring suit to recover it, I can be compelled by an exception on the
 ground of fraud, to pay the increased value of the article.
 
-\(5) Again, whatever is joined or added to anything else forms part of
+(5) Again, whatever is joined or added to anything else forms part of
 it through accession, and the owner cannot bring suit to recover it so
 long as the two articles remain attached; but he can institute
 proceedings for them to be produced in court, in order that they may be
@@ -475,7 +455,7 @@ for if you attach the arm of some other person's statue to a statue of
 mine, it cannot be said that the arm is yours, because the entire statue
 is embraced in one conception.
 
-\(6) Where the building materials of one person have been used in the
+(6) Where the building materials of one person have been used in the
 house of another, an action will not lie to recover them on account of
 the Law of the Twelve Tables; nor can suit be brought for the
 production, except against the party who knowingly used the materials of
@@ -483,7 +463,7 @@ another in the construction of his own house; but recourse must be had
 to the ancient action entitled *de tigno juncto*, which is for double
 damages, and is derived from the Law of the Twelve Tables.
 
-\(7) Moreover, where anyone builds a house on his own ground with stone
+(7) Moreover, where anyone builds a house on his own ground with stone
 belonging to another, he can indeed bring suit to recover the house; but
 the former owner can also bring an action to recover the stone, if it is
 taken out, even though the house may have been demolished after the time
@@ -492,7 +472,7 @@ house comes into the possession of a *bona-fide* purchaser; for the
 individual stones are not acquired by usucaption, even if the building
 becomes the property of another through lapse of time.
 
-\24. *Gaius, On the Provincial Edict, Book VII*.
+24. *Gaius, On the Provincial Edict, Book VII*.
 
 A party who intends to bring an action for the recovery of property
 should consider whether he can obtain possession of it by means of some
@@ -501,7 +481,7 @@ interdict; because it is far more convenient for he himself to be
 in possession, and to compel his adversary to assume the burden of
 plaintiff, than to bring suit himself while the latter is in possession.
 
-\25. *Ulpianus, On the Edict, Book LXX*.
+25. *Ulpianus, On the Edict, Book LXX*.
 
 Where a person undertakes the defence of a case without any good reason,
 as he is not in possession and has not acted fraudulently to avoid being
@@ -512,19 +492,19 @@ But where a party, before issue is joined, avers that he is not in
 possession when in fact he is not, and does not deceive the plaintiff
 and departs, he cannot be held to have undertaken to defend the case.
 
-\26. *Paulus, On Plautius, Book II*.
+26. *Paulus, On Plautius, Book II*.
 
 For if the plaintiff is aware of the facts, then he is not deceived by
 another, but by himself; and therefore the defendant will be discharged.
 
-\27. *The Same, On the Edict, Book XXI*.
+27. *The Same, On the Edict, Book XXI*.
 
 But if, when I wish to sue Titius, anyone should state that he is in
 possession, and thereupon volunteers in defence of the case, and I prove
 this by testimony during the trial, judgment must unquestionably be
 rendered against the other party.
 
-\(1) A party should be in possession not only when issue is joined, but
+(1) A party should be in possession not only when issue is joined, but
 also when the decision is rendered. If he was in possession at the time
 that issue was joined, but lost it without fraud on his part when the
 case was decided, he should be released from liability. Again, if he was
@@ -534,7 +514,7 @@ that, by all means, a decision must be rendered against him, and hence
 all profits from the time he acquired possession will be included in the
 judgment.
 
-\(2) Where a slave for whom suit is brought has become depreciated in
+(2) Where a slave for whom suit is brought has become depreciated in
 value through the malice of the possessor, and afterwards dies, not
 through the fault of the former, but from some other cause; no estimate
 shall be made of the amount of his diminution of value, because it makes
@@ -542,7 +522,7 @@ no difference to the plaintiff. This, however, has reference only to the
 action *in rem;* for the right of action under the *Lex Aquilia*
 continues.
 
-\(3) A party who, before issue was joined, has fraudulently relinquished
+(3) A party who, before issue was joined, has fraudulently relinquished
 the possession of property, is liable to an action *in rem;* and this
 may be inferred from a decree of the Senate by which it is provided, as
 we have already stated, that fraud previously committed is included in
@@ -551,14 +531,14 @@ committed is embraced in such an action, which itself is one *in rem*,
 hence it is absurd for fraud already committed to be included in an
 action *in rem* for the recovery of some specific article.
 
-\(4) Where a father or the owner of a slave is in possession through his
+(4) Where a father or the owner of a slave is in possession through his
 son or through the slave, and either of the latter should be absent
 
 at the time when judgment is rendered, without the fault of the said
 father or owner; time should either be granted, or security be furnished
 for the delivery of possession.
 
-\(5) When the possessor incurs any expense with reference to the
+(5) When the possessor incurs any expense with reference to the
 property for which an action is brought, before issue is joined, an
 account should be taken of said expense by means of an exception on the
 ground of fraudulent intent; if the plaintiff perseveres in the action
@@ -576,24 +556,24 @@ observed; because I ought not to be deprived of my slave, and the same
 remedy cannot be applied which we have referred to above in the case of
 the land.
 
-\28. *Gaius, On the Provincial Edict, Book VII*.
+28. *Gaius, On the Provincial Edict, Book VII*.
 
 Suppose, for example, that you have taught him to be an artist, or a
 copyist; it is held that no estimate can be obtained by application to
 the Court:
 
-\29. *Pomponius, On Quintus Mucius, Book XXI*.
+29. *Pomponius, On Quintus Mucius, Book XXI*.
 
 Unless you are holding the slave for sale, and would get a better price
 for him on account of his profession;
 
-\30. *Gaius, On the Provincial Edict, Book VII*.
+30. *Gaius, On the Provincial Edict, Book VII*.
 
 Or the plaintiff has been previously notified to pay the expense, and
 he, seeking to avoid this, an exception on the ground of fraud has been
 interposed by the defendant.
 
-\31. *Paulus, On the Edict, Book XXI*.
+31. *Paulus, On the Edict, Book XXI*.
 
 But where a demand is made for profits in the case of a slave for whose
 recovery an action is brought, the puberty of the slave must not only be
@@ -603,13 +583,13 @@ plaintiff to demand an accounting for the profits which might have been
 obtained through the skill of the slave, because he obtained this at the
 expense of the possessor.
 
-\32. *Modestinus, Differences, Book VIII*.
+32. *Modestinus, Differences, Book VIII*.
 
 If, however, he taught the slave some trade, then, after the latter has
 reached the age of twenty-five years, the expenses incurred in doing so
 may be set off.
 
-\33. *Paulus, On the Edict, Book XXL*
+33. *Paulus, On the Edict, Book XXL*
 
 Not only the profits which have been collected, but also those which
 could honestly have been collected, must be estimated; and therefore,
@@ -626,18 +606,18 @@ the usufruct is lost through delay, an account of the profits must be
 calculated from the time when the usufruct was separated from the mere
 ownership.
 
-\34. *Julianus, Digest, Book VII*.
+34. *Julianus, Digest, Book VII*.
 
 The same rule applies where land is added to other land by alluvion.
 
-\35. *Paulus, On the Edict, Book XXI*.
+35. *Paulus, On the Edict, Book XXI*.
 
 And, on the other hand, if the plaintiff should bequeath the usufruct of
 certain property, after issue has been joined, some authorities very
 properly are of the opinion that no account of the profits should be
 taken after the time when the usufruct was separated from the property.
 
-\(1) Where I bring an action for land which does not belong to me, and
+(1) Where I bring an action for land which does not belong to me, and
 the judge states in his decision that it is mine, he should also render
 judgment against the possessor for the profits; for he must be ordered
 to deliver the profits by the same mistake, as the plaintiff should not
@@ -646,21 +626,21 @@ the case; otherwise, as Mauricianus says, the judge cannot decide that
 delivery must be made of the property; and why should the possessor hold
 what he could not have held if he had relinquished possession at once?
 
-\(2) A plaintiff who has accepted the estimate of property is not
+(2) A plaintiff who has accepted the estimate of property is not
 compelled to secure the possessor against eviction; for the possessor
 must blame himself if he did not surrender the property.
 
-\(3) Where property cannot be divided without being ruined, it is
+(3) Where property cannot be divided without being ruined, it is
 established that one can bring an action for a share of the same.
 
-\36. *Gaius, On the Provincial Edict, Book VII*.
+36. *Gaius, On the Provincial Edict, Book VII*.
 
 When a person institutes proceedings in an action for recovery, in order
 that he may not do so in vain, he ought to inquire whether the defendant
 against whom he brings the action, is the possessor or has fraudulently
 relinquished possession.
 
-\(1) A party who is sued *in rem*, may also have judgment rendered
+(1) A party who is sued *in rem*, may also have judgment rendered
 against him on the ground of negligence; and the possessor of a slave
 against whom an action has been brought for his recovery, is guilty of
 negligence if he permits him to appear in the arena, and he is killed;
@@ -707,22 +687,22 @@ unless he delivers the amount which we have already stated he must
 deliver in the first example, the damages for which judgment has been
 rendered against you must be paid after this is deducted.
 
-\39. *Ulpianus, On the Edict, Book XVII*.
+39. *Ulpianus, On the Edict, Book XVII*.
 
 Contractors who build with their own materials immediately transfer the
 ownership of the same to those who own the land on which they erect the
 building.
 
-\(1) Julianus very properly says in the Twelfth Book of the Digest, that
+(1) Julianus very properly says in the Twelfth Book of the Digest, that
 a woman who gives land in pledge as security for the debt of another,
 can recover the same by an action *in rem*, even though the land has
 been sold by the creditor:
 
-\40. *Gaius, On the Provincial Edict, Book VII*.
+40. *Gaius, On the Provincial Edict, Book VII*.
 
 Because the creditor is held to have sold a pledge which was void.
 
-\41. *Ulpianus, On the Edict, Book XVII*.
+41. *Ulpianus, On the Edict, Book XVII*.
 
 Where anyone buys property under the condition that if some other party
 offers more, he will relinquish the purchase, as soon as the condition
@@ -731,7 +711,7 @@ where land has been transferred to a party under such a condition, he
 can make use of an action *in rem* to recover it before an increased
 price is offered, but he cannot do so afterwards.
 
-\(1) Where a slave or the son of a family sells and delivers a tract of
+(1) Where a slave or the son of a family sells and delivers a tract of
 land to me, I am entitled to an action *in rem* to recover the same, if
 he had the free administration of his *peculium*. The same rule applies
 where a slave delivers the property of his master with the consent of
@@ -739,14 +719,14 @@ the latter; just as where an agent makes a sale of, or delivers,
 property with the consent of his principal, I will be entitled to an
 action *in rem*.
 
-\42. *Paulus, On the Edict, Book XXVI*.
+42. *Paulus, On the Edict, Book XXVI*.
 
 Where a suit *in rem* is brought, the heir of the possessor  if he
 himself is not in possession  will be released; still, if any personal
 liability of the deceased has been incurred, this must, by all means, be
 included in the judgment.
 
-\43. *The Same, On the Edict, Book XXVII*.
+43. *The Same, On the Edict, Book XXVII*.
 
 Whatever is attached to religious objects is itself religious; and
 therefore stones which have formed part of a religious structure cannot
@@ -760,11 +740,11 @@ recovered by the owner. And even if they have been removed to be
 replaced in the same structure, it is established that the owner of the
 same can, in like manner, recover them.
 
-\44. *Gaius, On the Provincial Edict, Book XXIX*.
+44. *Gaius, On the Provincial Edict, Book XXIX*.
 
 Fruit hanging on a tree is considered to be part of the soil. 
 
-\45. *Ulpianus, On the Edict, Book LXVIII*.
+45. *Ulpianus, On the Edict, Book LXVIII*.
 
 Where a slave is restored to the plaintiff after an action has been
 brought for his recovery, and this was done by a *bona-fide* possessor,
@@ -773,7 +753,7 @@ possessors should give security against negligence as well; and a
 *bona-fide *possessor must be included among them, after issue has been
 joined.
 
-\46. *Paulus, On Sabinus, Book X*.
+46. *Paulus, On Sabinus, Book X*.
 
 Where property for which suit is brought by an action *in rem* is
 estimated at the amount that the plaintiff makes oath to in court, the
@@ -782,7 +762,7 @@ ownership of the same at once passes to the possessor; for I am con-
 sidered to have compromised and arranged the matter with him, on the
 basis which he himself established.
 
-\47. *The Same, On Plautius, Book XVII*.
+47. *The Same, On Plautius, Book XVII*.
 
 This is the case where the property is at hand, if it is elsewhere, it
 passes, when the possessor obtains it by the consent of the plaintiff;
@@ -791,7 +771,7 @@ judge should only be made where the plaintiff gives security, "that
 nothing will be done by him to prevent possession of the property being
 delivered".
 
-\48. *Papinianus, Opinions, Book II*.
+48. *Papinianus, Opinions, Book II*.
 
 Where expenses have been incurred by a *bona-fide* possessor with
 reference to a tract of land which it is apparent belongs to another; he
@@ -804,30 +784,30 @@ before issue was joined, for where a set-off is permitted, the owner
 will be required to return the amount to which the expenses exceed the
 profits, if the land has been benefited.
 
-\49. *Celsus, Digest, Book XVIII*.
+49. *Celsus, Digest, Book XVIII*.
 
 I am of the opinion that the land on which a house stands is a portion
 of the same; and not merely a support, as the sea is to ships.
 
-\(1) Whatever remains of my property, which I have the right to recover
+(1) Whatever remains of my property, which I have the right to recover
 at law is mine.
 
-\50. *Callistratus, Monitory Edict, Book II*.
+50. *Callistratus, Monitory Edict, Book II*.
 
 Where a field belongs to anyone by the right of purchase, proceedings
 cannot properly be instituted by an action of this kind before the field
 has been delivered, and possession of the same lost.
 
-\(1) An heir may properly bring suit for what is due to the estate, even
+(1) An heir may properly bring suit for what is due to the estate, even
 though he may not yet have obtained possession of it.
 
-\51. *Pomponius, On Sabinus, Book XVI*.
+51. *Pomponius, On Sabinus, Book XVI*.
 
 Where an action *in rem* is brought and a decision is rendered against
 the heir of the possessor, the negligence and fraud of the heir in the
 matter must be taken into consideration in rendering judgment.
 
-\52. *Julianus, Digest, Book LV*.
+52. *Julianus, Digest, Book LV*.
 
 Where the possessor of a tract of land fraudulently relinquished
 possession of the same before issue was joined, his heirs cannot be
@@ -836,12 +816,12 @@ compelled to undertake the defence of the action *in rem;* but an action
 to surrender the amount to which they have profited by means of the
 property.
 
-\53. *Pomponius, On Sabinus, Book XXXI*.
+53. *Pomponius, On Sabinus, Book XXXI*.
 
 Where the possessor of land has cultivated or planted it, and the land
 is subsequently recovered by a suit, he cannot remove what he planted.
 
-\54. *Ulpianus, Opinions, Book VI*.
+54. *Ulpianus, Opinions, Book VI*.
 
 There is a great difference between the duties of an advocate and the
 defence of one's own case; and where a party subsequently ascertains
@@ -849,20 +829,20 @@ that certain property belongs to him, he will not lose his ownership of
 the same, because, while ignorant of the fact, he aided another who was
 bringing suit to recover it.
 
-\55. *Julianus, Digest, Book LV*.
+55. *Julianus, Digest, Book LV*.
 
 Where the possessor of land dies before issue is joined, leaving two
 heirs, and an action to recover the entire estate is brought against one
 of them, who was in possession, there is no doubt that judgment must be
 rendered against him for all of it.
 
-\56. *The Same, Digest, Book LXXVIII*.
+56. *The Same, Digest, Book LXXVIII*.
 
 *A* suit for the recovery of a *peculium* will not be allowed, as it is
 in the case of a flock; but a party to whom a *peculium* was bequeathed
 must bring an action for the separate articles composing the same.
 
-\57. *Alfenus, Digest, Book VI*.
+57. *Alfenus, Digest, Book VI*.
 
 A party against whom a suit was brought for the recovery of land, was
 again sued by another for the same land; and the question arose if he
@@ -874,7 +854,7 @@ delivered to the plaintiff under the condition that he would execute a
 bond or give security to the possessor that if the other party recovered
 the land, he would deliver the same.
 
-\58. *Paulus, Epitomes of The Digest of Alfenus, Book HI*.
+58. *Paulus, Epitomes of The Digest of Alfenus, Book HI*.
 
 Where a man was sued for the recovery of a slave and also for a theft
 committed by the said slave; the question arose what it would be
@@ -891,7 +871,7 @@ slave; the judge should not make an estimate of damages because the
 slave was not surrendered, since no negligence or malice could be
 attributed to the party in failing to deliver the slave.
 
-\59. *Julianus, On Minicius, Book VI*.
+59. *Julianus, On Minicius, Book VI*.
 
 A man living in a house belonging to another placed windows and doors
 therein, and these the owner of the building removed after a year had
@@ -901,12 +881,12 @@ for whatever is attached to the building of another forms a part of the
 same as long as it continues so, but as soon as it is removed, it
 immediately reverts to its former condition.
 
-\60. *Pomponius, On Sabinus, Book XXIX*.
+60. *Pomponius, On Sabinus, Book XXIX*.
 
 Where a possessor who is a child or an insane person destroys or spoils
 anything, he cannot be punished.
 
-\61. *Julianus, On Minicius, Book VI*.
+61. *Julianus, On Minicius, Book VI*.
 
 Minicius, where a man had used materials belonging to another to repair
 his own ship, having been asked whether the ship would still remain the
@@ -915,7 +895,7 @@ while building the ship, it would not be the case. Julianus states in a
 note that the property in the entire ship follows the position of the
 keel.
 
-\62. *Papinianus, Questions, Book VI*.
+62. *Papinianus, Questions, Book VI*.
 
 Where suit is brought for a ship against a possessor in bad faith, an
 estimate of the profits must be made, just as in the case of shops and
@@ -927,18 +907,18 @@ law; still, freight can be demanded in this instance, because the
 possessor of the ship is not required to be liable to the plaintiff for
 risk, but money is loaned at interest at the risk of the lender.
 
-\(1) Generally speaking, however, where a question arises concerning the
+(1) Generally speaking, however, where a question arises concerning the
 estimation of profits, it is established that it must be considered, not
 whether the possessor in bad faith has enjoyed them, but whether the
 plaintiff would have been able to enjoy them, if he had been permitted
 to be in possession of the property. Julianus also adopted this opinion.
 
-\63. *The Same, Questions, Book XII*.
+63. *The Same, Questions, Book XII*.
 
 Where anyone loses possession through negligence, but not on account of
 fraud, since he must allow an estimate to be made, he will be entitled
 to be heard by the court, if he asks that his adversary should be
-ordered to assign his right of action; and as the prætor will grant him
+ordered to assign his right of action; and as the praetor will grant him
 aid at any time where some one else is in possession, he will not be
 taken advantage of in any way. He should be granted relief, even if the
 party who received the sum assessed is in possession; and the latter
@@ -946,13 +926,13 @@ will not readily be heard if he desires to refund the money after he has
 once received it under the decision of the judge at the risk of the
 defendant.
 
-\64. *The Same, Questions, Book XX*.
+64. *The Same, Questions, Book XX*.
 
 When an action *in rem* is brought, it is certain that the profits must
 be delivered even with reference to those things which are merely kept
 for use and not for enjoyment.
 
-\65. *The Same, Opinions, Book II*.
+65. *The Same, Opinions, Book II*.
 
 If anyone who purchased land from someone who was not its owner
 interposes an exception on the ground of fraud, he will not be required
@@ -964,7 +944,7 @@ recovered before the suit was brought, for they can only be set off
 against interest recently due on the principal; since it is only just
 that expenses should be allowed as in the case of improvements of land.
 
-\(1) Where a man gave his daughter, who was a female slave, not by way
+(1) Where a man gave his daughter, who was a female slave, not by way
 of dowry but as a portion of her *peculium;* then, if he does not
 bequeath her anything as *peculium*, the slave must be included among
 the assets of the estate. Where, however, a father disinherited his
@@ -973,14 +953,14 @@ reason either left her nothing by his will, or left her that much less;
 a defence based upon the intention of her father will protect the
 daughter.
 
-\66. *Paulus, Questions, Book II*.
+66. *Paulus, Questions, Book II*.
 
 We have no less right to bring suit to recover something which is our
 own, because it is expected that we will lose the ownership of the same,
 if the condition upon which a legacy or a grant of freedom depends
 should be complied with.
 
-\67. *Scævola, Opinions, Book I*.
+67. *Scaevola, Opinions, Book I*.
 
 A man who bought a house from the guardian of a minor sent a carpenter
 to repair it, and he found some money therein. The question arises to
@@ -989,7 +969,7 @@ concealed, but some which had been lost, or which the party to whom it
 belonged had by mistake failed to remove, it should, nevertheless,
 continue to be his to whom it originally belonged.
 
-\68. *Ulpianus, On the Edict, Book LI*.
+68. *Ulpianus, On the Edict, Book LI*.
 
 Where a person is ordered to surrender property and does not obey the
 order of court, stating that he is unable to do so; if, indeed, he has
@@ -1008,27 +988,27 @@ general principle, and applies to all matters where property is to be
 delivered by order of court, whether interdicts or actions *in rem* or
 *in personam* are involved.
 
-\69. *Paulus, On Sabinus, Book XIII*.
+69. *Paulus, On Sabinus, Book XIII*.
 
 Where a person has acted fraudulently in order to avoid being in
 possession, he can be punished in this manner, namely: the plaintiff
 shall not be required to give him security that he will assign to him
 the rights of action which he has in the case:
 
-\70. *Pomponius, On Sabinus, Book XXIX*.
+70. *Pomponius, On Sabinus, Book XXIX*.
 
 And it is settled that he cannot even be granted a Publician Action,
 lest he may be able to obtain property by violence and against the will
 of the owner, by the payment of a fair price.
 
-\71. *Paulus, On Sabinus, Book XIII*.
+71. *Paulus, On Sabinus, Book XIII*.
 
 Where a possessor has fraudulently relinquished possession, but the
 plaintiff is unwilling to make oath, and prefers that his adversary
 should be ordered to pay the real value of the property, his desire
 should be granted.
 
-\72. *Ulpianus, On the Edict, Book XVI*.
+72. *Ulpianus, On the Edict, Book XVI*.
 
 If you purchased the land of Sempronius from Titius, and after the price
 has been paid it is delivered to you, and then Titius becomes the heir
@@ -1039,25 +1019,25 @@ by an exception; but if he himself was in possession, and you should
 bring an action against him, you could make use of a replication against
 an exception on the ground of ownership.
 
-\73. *The Same, On the Edict, Book XVII*.
+73. *The Same, On the Edict, Book XVII*.
 
 In an action brought to recover some specific property the possessor is
 not compelled to state what share of it belongs to him, for this is the
 duty of the plaintiff, and not of the possessor. The same rule is
 observed in the Publician Action.
 
-\(1) To a superficiary,
+(1) To a superficiary,
 
-\74. *Paulus, On the Edict, Book XXI*.
+74. *Paulus, On the Edict, Book XXI*.
 
 (That is to say, one who has a right to occupy the surface of ground
 belonging to another, on the condition of paying a certain rent for it),
 
-\75. *Ulpianus, On the Edict, Book XVI*.
+75. *Ulpianus, On the Edict, Book XVI*.
 
-The prætor promises an action *in rem* where proper cause is shown.
+The praetor promises an action *in rem* where proper cause is shown.
 
-\76. *Gaius, On the Provincial Edict, Book VII*.
+76. *Gaius, On the Provincial Edict, Book VII*.
 
 The principles have been stated with reference to a suit for recovery of
 the entire property must be understood to equally apply to the recovery
@@ -1066,7 +1046,7 @@ of a portion of the same; and it is the duty of the judge to
 order those things which should be given up to be also delivered in
 proportion, at the same time that the share itself is surrendered.
 
-\(1) An action for the recovery of a share which is not yet ascertained
+(1) An action for the recovery of a share which is not yet ascertained
 will be granted, if there is good cause for it. It is good cause where,
 for instance, the *Lex Falcidia* is applicable in the case of a will, on
 account of the uncertain sum which is to be reserved from legacies, when
@@ -1075,7 +1055,7 @@ to whom a slave has been bequeathed is entirely ignorant of what share
 in said slave he should bring suit for; an action of this kind will be
 granted. We understand that the same rule applies to other matters.
 
-\77. *Ulpianus, On the Edict, Book XVII*.
+77. *Ulpianus, On the Edict, Book XVII*.
 
 A certain woman gave a tract of land by a letter to a man who was not
 her husband, and then rented the same land from him. It might be
@@ -1085,7 +1065,7 @@ that he had indeed been on the land which was donated to him when the
 letter was sent; and this was sufficient to constitute delivery of
 possession, even though the renting of the ground had not taken place.
 
-\78. *Labeo, Epitomes of Probabilities by Paulus, Book IV*.
+78. *Labeo, Epitomes of Probabilities by Paulus, Book IV*.
 
 If you have not harvested the crops on a tract of land belonging to
 another of which you are merely in possession, you are not obliged to
@@ -1100,7 +1080,7 @@ instance, where olives or grapes have been gathered, but no wine or oil
 has been made by anyone; for in this case, he who has gathered the crops
 is considered, from that time, to have obtained them.
 
-\79. *The Same, Epitomes of Probabilities by Paulus, Book VI*.
+79. *The Same, Epitomes of Probabilities by Paulus, Book VI*.
 
 If you bring suit against me to recover a slave, and he dies after issue
 is joined, the profits must be estimated during the time that he lived.
@@ -1109,7 +1089,7 @@ become so ill as to render his services worthless; for even if he had
 continued to live in that state of ill health, it would not be proper
 for the profits to be estimated during that time".
 
-\80. *Furius Anthiannus, On the Edict, Book I*.
+80. *Furius Anthiannus, On the Edict, Book I*.
 
 We are not compelled to endure an action *in rem*, because anyone is
 allowed to allege that he is not in possession, so that if his adversary
@@ -1117,33 +1097,33 @@ can prove that the other party is actually in possession of the
 property, he can have the possession transferred to himself by an order
 of court; even though he does not prove that the property is his.
 
-TITLE II. CONCERNING THE PUBLICIAN ACTION IN REM.
+* 6.02. Concerning the Publician Action in Rem.
 
-\1. *Ulpianus, On the Edict, Book XVI*.
+1. *Ulpianus, On the Edict, Book XVI*.
 
-The prætor says: "Where anyone desires to institute proceedings to
+The praetor says: "Where anyone desires to institute proceedings to
 recover property delivered to him for good reason, and the title to
 which has not yet passed by usucaption, I will grant him an action."
 
-\(1) The prætor says, and very properly, "Where the title has not yet
+(1) The praetor says, and very properly, "Where the title has not yet
 passed by usucaption"; for, if this has once taken place, he has a right
 to a civil action and does not require an honorary one.
 
-\(2) But why did he merely mention delivery and usucaption, when there
+(2) But why did he merely mention delivery and usucaption, when there
 are numerous provisions of the law by means of which anyone may obtain
 ownership, as, for instance, in case of a bequest?
 
-\2. *Paulus, On the Edict, Book XIX*.
+2. *Paulus, On the Edict, Book XIX*.
 
-Or donations made *mortis causal* For the Publician Action can be
+Or donations made *mortis causa* For the Publician Action can be
 brought where possession has been lost, because it is obtained in the
 same way as a legacy.
 
-\3. *Ulpianus, On the Edict, Book XVI*.
+3. *Ulpianus, On the Edict, Book XVI*.
 
 And there are many other provisions of the law to the same effect.
 
-\(1) The prætor says: "He may bring suit for a good reason"; and not
+(1) The praetor says: "He may bring suit for a good reason"; and not
 only is the Publician Action available by a purchaser in good faith, but
 also by others; as for instance, by one to whom property has been
 transferred by way of dowry, and which has not yet been acquired by
@@ -1151,48 +1131,48 @@ transferred by way of dowry, and which has not yet been acquired by
 property given by way of dowry was appraised or not. Likewise, where
 property is transferred on account of a judgment:
 
-\4. *Paulus, On the Edict, Book XIX*. Or for the purpose of paying a
+4. *Paulus, On the Edict, Book XIX*. Or for the purpose of paying a
 debt,
 
-\5. *Ulpianus, On the Edict, Book XVI*.
+5. *Ulpianus, On the Edict, Book XVI*.
 
 Or for the surrender of a slave in lieu of damages, whether there was
 good ground for this, or not.
 
-\6. *Paulus, On the Edict, Book XIX*.
+6. *Paulus, On the Edict, Book XIX*.
 
 Moreover, in a noxal action, where no defence was made, I can remove the
-slave by order of the prætor and if, after removing him, I lose
+slave by order of the praetor and if, after removing him, I lose
 possession of him, I can avail myself of the Publician Action.
 
-\7. *Ulpianus, On the Edict, Book XVI*.
+7. *Ulpianus, On the Edict, Book XVI*.
 
 But if the property has been adjudged to me, I can bring the Publician
 Action.
 
-\(1) Where the value of the property is estimated in court it resembles
+(1) Where the value of the property is estimated in court it resembles
 a slave; and Julianus says in the Twenty-second Book of the Digest that,
 if the defendant tenders the amount of the appraisement, the Publician
 Action will lie.
 
-\(2) Marcellus, in the Twenty-seventh Book of the Digest, says that
+(2) Marcellus, in the Twenty-seventh Book of the Digest, says that
 where anyone purchases property from a person who is insane, being
 ignorant that this was the case, he can acquire it by usucaption; and
 therefore he will have a right to the Publician Action.
 
-\(3) Where anyone obtains property as a gift, he is entitled to the
+(3) Where anyone obtains property as a gift, he is entitled to the
 Publician Action; which also will lie against a donor; for the plaintiff
 is a lawful possessor where he accepts a donation.
 
-\(4) Where a party purchases property from a minor, being ignorant that
+(4) Where a party purchases property from a minor, being ignorant that
 he is such, he has a right to the Publician Action.
 
-\(5) Also where an exchange has been made, the same action will lie.
+(5) Also where an exchange has been made, the same action will lie.
 
-\(6) The Publician Action is not based on the question of possession,
+(6) The Publician Action is not based on the question of possession,
 but upon that of ownership.
 
-\(7) If you tender me an oath in a suit which I have brought for the
+(7) If you tender me an oath in a suit which I have brought for the
 recovery of property, and I swear that the said property is mine, I am
 entitled to the Publician Action, but only against you; for the only
 person who can be prejudiced by the oath is the party who tendered it.
@@ -1201,48 +1181,48 @@ the property does not belong to the plaintiff, he can make use of an
 exception only against the latter; for it does not operate to the extent
 of granting him a right of action.
 
-\(8) In the Publician Action, all those rules must be observed which we
+(8) In the Publician Action, all those rules must be observed which we
 have mentioned in the action for the recovery of property.
 
-\(9) This action lies in favor of an heir as well as of prætorian
+(9) This action lies in favor of an heir as well as of praetorian
 successors.
 
-\(10) If I do not make a purchase, but my slave does, I am entitled to
+(10) If I do not make a purchase, but my slave does, I am entitled to
 the Publician Action. The same rule applies where my agent, guardian,
 curator, or anyone else transacting my business makes a purchase.
 
-\(11) The prætor says: "Who purchases in good faith"; therefore, it is
+(11) The praetor says: "Who purchases in good faith"; therefore, it is
 not every purchase which can profit by the action, but only one made in
 good faith; hence it is enough if I am a purchaser in good faith even if
 I should not buy from the owner, although he may have made the sale to
 me with fraudulent intent; for the fraud of a vendor will not prejudice
 me.
 
-\(12) In this action it will be of no disadvantage to me if I am the
+(12) In this action it will be of no disadvantage to me if I am the
 successor of the purchaser, and acted fraudulently, where the party
 himself whom I succeeded made the purchase in good faith; and it will
 not profit me if I was not guilty of fraud, where the purchaser whom I
 succeeded was guilty of fraud.
 
-\(13) If, however, my slave made the purchase, his fraud, and not mine,
+(13) If, however, my slave made the purchase, his fraud, and not mine,
 must be considered; and *vice versa*.
 
-\(14) The Publician Action has reference to the time of the purchase,
+(14) The Publician Action has reference to the time of the purchase,
 and therefore it is held by Pomponius that nothing which was
 fraudulently done, either before or after the purchase was made, can
 become the subject of investigation in this action.
 
-\(15) This action has reference to the good faith of the purchaser
+(15) This action has reference to the good faith of the purchaser
 alone.
 
-\(16) Therefore, in order for the Publician Action to be available, the
+(16) Therefore, in order for the Publician Action to be available, the
 following conditions must exist: the person who made the purchase must
 have acted in good faith, and the property purchased must have been
 delivered to him with that understanding. But even if he made the
 purchase in good faith, he cannot make use of the Publician Action
 before delivery.
 
-\(17) Julianus stated in the Seventh Book of the Digest, that the
+(17) Julianus stated in the Seventh Book of the Digest, that the
 delivery of the property purchased must be made in good faith; and
 therefore if the party knowingly fakes possession of something that
 belongs to another, he cannot avail himself of the Publician Action,
@@ -1253,29 +1233,29 @@ commencement of delivery, in order to enable him to make use of the
 Publician Action, but it is necessary that he should be a *bona-fide*
 purchaser at that time also.
 
-\8. *Gaius, On the Provincial Edict, Book VII*.
+8. *Gaius, On the Provincial Edict, Book VII*.
 
 Nothing, however, is stated with reference to the payment of the
 purchase-money; wherefore it must be conjectured that it is not the
-opinion of the prætor that it should be asked whether the price has been
+opinion of the praetor that it should be asked whether the price has been
 paid or not.
 
-\9. *Ulpianus, On the Edict, Book XVI*.
+9. *Ulpianus, On the Edict, Book XVI*.
 
 The Publician Action is equally available whether the property is
 delivered to the purchaser or to his heir.
 
-\(1) Where a party purchases property which has been deposited with him,
+(1) Where a party purchases property which has been deposited with him,
 or loaned or pledged to him, it must be considered as having been
 delivered, if it remains in his possession after the purchase.
 
-\(2) The same rule will apply where the delivery preceded the purchase.
+(2) The same rule will apply where the delivery preceded the purchase.
 
-\(3) Moreover, if I purchase an estate, and certain property belonging
+(3) Moreover, if I purchase an estate, and certain property belonging
 to it has been delivered to me for which I wish to bring suit, Neratius
 states that I will be entitled to the Publician Action.
 
-\(4) Where anyone sells the same property separately to two *bona-fide
+(4) Where anyone sells the same property separately to two *bona-fide
 *purchasers, let us see which of them has the better right to the
 Publician Action; he to whom the property was first delivered, or he who
 merely bought it? Julianus, in the Seventh Book of the Digest, states:
@@ -1285,11 +1265,11 @@ they buy said property from different persons who were not the owners,
 the one in possession is in a better legal position than the one who
 brings the action; and this opinion is correct."
 
-\(5) This action is not available with reference to property which
+(5) This action is not available with reference to property which
 cannot be acquired by usucaption; as, for instance, in the case of
 articles that had been stolen, or fugitive slaves.
 
-\(6) Where a slave belonging to an estate purchases property before the
+(6) Where a slave belonging to an estate purchases property before the
 estate has been entered upon, and after delivery loses possession of the
 same; the heir, very properly, has a right to the Publician Action, just
 as if he himself had been in possession.
@@ -1297,18 +1277,18 @@ as if he himself had been in possession.
 The members of a municipality also, where property has been delivered to
 their slave, will be in the same position;
 
-\10. *Paulus, On the Edict, Book XIX*.
+10. *Paulus, On the Edict, Book XIX*.
 
 Whether the slave purchased said property with reference to his own
 *peculium*, or not.
 
-\11. *Ulpianus, On the Edict, Book XVI*.
+11. *Ulpianus, On the Edict, Book XVI*.
 
 Where I have made a purchase, and the property has been delivered to
 another party at my request, the Emperor Severus stated in a Rescript
 that the Publician Action should be granted him.
 
-\(1) The Publician Action is granted where suit is brought for the
+(1) The Publician Action is granted where suit is brought for the
 recovery of an usufruct which has been delivered, and also where
 servitudes of urban estates have been created by delivery, or by
 sufferance; for instance, where a party allowed an aqueduct to be built
@@ -1316,50 +1296,50 @@ through his house. The same rule applies in the case of rustic
 servitudes, for it is established that in this case delivery and
 sufferance protect them.
 
-\(2) The offspring of a stolen female slave that was conceived while she
+(2) The offspring of a stolen female slave that was conceived while she
 was in possession of a *bona-fide* purchaser, can be recovered by means
 of this action; even if the child was not in possession of the party who
 purchased it; but the heir of the thief is not entitled to this action,
 because he is the successor to the defective title of the deceased.
 
-\(3) Sometimes, however, even though the mother who was stolen had not
+(3) Sometimes, however, even though the mother who was stolen had not
 been sold, but was presented to me (I being ignorant of the fact) and
 she afterwards conceived and brought forth while in my possession, I am
 entitled to a Publician Action to recover the child, as Julianus says;
 provided that, at the time I bring suit, I do not know that the mother
 was stolen.
 
-\(4) Julianus also states, in a general way, that no matter how I could
+(4) Julianus also states, in a general way, that no matter how I could
 acquire the mother by usucaption, if she had not been stolen, I can
 acquire the child in the same way, if I was ignorant that the mother had
 been stolen. Therefore, in all these instances, I will be entitled to
 the Publician Action.
 
-\(5) The same rule applies in the case of the child of the daughter of a
+(5) The same rule applies in the case of the child of the daughter of a
 female slave, even if it was not born, but after the death of its mother
-was extracted from her womb by the Cæsarean operation; as Pomponius
+was extracted from her womb by the Caesarean operation; as Pomponius
 stated in the Fortieth Book.
 
-\(6) He also says that where a house has been purchased and is
+(6) He also says that where a house has been purchased and is
 destroyed, any additions made to it can be recovered by an action of
 this description.
 
-\(7) Where an accession is made to land by alluvial deposit, it becomes
+(7) Where an accession is made to land by alluvial deposit, it becomes
 of the same nature as that to which it is added; and therefore since the
 land itself cannot be recovered by a Publician Action, the addition
 cannot be either; but if it can, the portion added by alluvion may be
 also recovered; and this was mentioned by Pomponius.
 
-\(8) He also adds that, where an action is to be brought for parts of a
+(8) He also adds that, where an action is to be brought for parts of a
 purchased statue which have been removed, a similar action is available.
 
-\(9) He also states, that if I purchase a vacant lot and build a house
+(9) He also states, that if I purchase a vacant lot and build a house
 upon it, I can properly make use of the Publician Action.
 
-\(10) He also says, if I build a house, and the lot afterwards becomes
+(10) He also says, if I build a house, and the lot afterwards becomes
 vacant, I can likewise make use of the Publician Action.
 
-\12. *Paulus, On the Edict, Book XIX*.
+12. *Paulus, On the Edict, Book XIX*.
 
 Where a man presented a slave to his betrothed, and, before the title
 passed by usucaption, received him back by way of dowry; it was stated
@@ -1370,39 +1350,39 @@ exception; and if possession should have been lost, the Publician Action
 would be granted, whether a stranger or the donor was in possession of
 the property.
 
-\(1) Where an estate is delivered to anyone under the Trebellian Decree
+(1) Where an estate is delivered to anyone under the Trebellian Decree
 of the Senate, even if the party should not obtain possession of the
 same, he can make use of the Publician Action.
 
-\(2) In the case of perpetual leases and other real property which can
+(2) In the case of perpetual leases and other real property which can
 not be acquires by usucaption, the Publician Action is available where a
 *bona-fide* delivery of the land has been made.
 
-\(3) The same rule applies where I purchased in good faith, from a
+(3) The same rule applies where I purchased in good faith, from a
 person who is not the owner, a house which carried with it the surface
 of the land.
 
-\(4) If the property is of such a nature that some law or constitution
+(4) If the property is of such a nature that some law or constitution
 forbids its alienation, in this instance the Publician Action will not
-lie, because, under such circumstances, the prætor affords no protection
+lie, because, under such circumstances, the praetor affords no protection
 to anyone to prevent his breaking the law.
 
-\(5) We can make use of the Publician Action even in the case of an
+(5) We can make use of the Publician Action even in the case of an
 infant slave less than a year old.
 
-\(6) Where anyone wishes to recover a portion of some property he can
+(6) Where anyone wishes to recover a portion of some property he can
 avail himself of the Publician Action.
 
-\(7) He also can properly employ this action who has had possession only
+(7) He also can properly employ this action who has had possession only
 for a moment.
 
-\13. *Gaius, On the Provincial Edict, Book VII*.
+13. *Gaius, On the Provincial Edict, Book VII*.
 
 Wherever property is legally acquired by us in any way and is lost, this
 action will be granted to us for the purpose of recovering said
 property.
 
-\(1) Sometimes, however, the Publician Action can not be brought by
+(1) Sometimes, however, the Publician Action can not be brought by
 persons who have lawfully obtained possession; for possession derived
 from pledge and precarious gifts is lawful; but a right of action is not
 usually allowed in cases of this kind, of course, for the reason that
@@ -1410,17 +1390,17 @@ neither the creditor nor the party who has a precarious title obtains
 possession with the understanding that he shall believe himself to be
 the owner.
 
-\(2) When anyone makes a purchase from a minor, he must prove that he
+(2) When anyone makes a purchase from a minor, he must prove that he
 did so with the consent of his guardian, and not in violation of law.
 But where he made the purchase through the deceit of a pretended
 guardian, he is held to have acted in good faith.
 
-\14. *Ulpianus, On the Edict, Book XVI*.
+14. *Ulpianus, On the Edict, Book XVI*.
 
 Papinianus states in the Sixth Book of Questions, that where a man
 forbids delivery or gives notice, and the property has been sold by his
 agent at his request, and the agent delivered it in spite of this; the
-prætor will protect the purchaser, whether he is in possession, or
+praetor will protect the purchaser, whether he is in possession, or
 whether he brings an action to recover the property. But where the agent
 is compelled to make payment to the purchaser on account of an action
 based on purchase, the former can recover in a counter action on
@@ -1430,19 +1410,19 @@ through ignorance he did not make use of the exception which he should
 have pleaded, for instance: "If the party with whom I dealt did not make
 the sale with your consent".
 
-\15. *Pomponius, On Sabinus, Book III*.
+15. *Pomponius, On Sabinus, Book III*.
 
 If my slave, while in flight, purchases property from some one who is
 not the owner, the Publician Action will lie in my favor, even though I
 may not have obtained possession, through him, of the property
 delivered.
 
-\16. *Papinianus, Questions, Book X*.
+16. *Papinianus, Questions, Book X*.
 
 Paulus states in a note that an exception on the ground of legal
 ownership may be pleaded in bar of the Publician Action.
 
-\17. *Neratius, Parchments, Book HI*.
+17. *Neratius, Parchments, Book HI*.
 
 The Publician Action was not invented for the purpose of depriving the
 real owner of his property (and this is proved in the first place on
@@ -1452,14 +1432,9 @@ possessor"); but, for the reason that where a man purchases anything in
 good faith and has obtained possession of it, he, rather than his
 adversary, should be entitled to hold it.
 
-TITLE III.
+* 6.03. Concerning Actions for The Recovery of Land Which Has Been Perpetually Leased, Namely, Emphyteutic Land.
 
-CONCERNING ACTIONS FOR THE RECOVERY OF LAND WHICH HAS BEEN PERPETUALLY
-LEASED, NAMELY, EMPHYTEUTIC
-
-LAND.
-
-\1. *Paulus, On the Edict, Book XXI*.
+1. *Paulus, On the Edict, Book XXI*.
 
 Some lands belonging to towns are called "*vectigales*", and others are
 not. Those are styled *vectigales* which are leased perpetually, that is
@@ -1469,18 +1444,16 @@ from their successors. Lands are not of this description which are
 leased for cultivation under the terms by which we are accustomed to
 rent them privately for that purpose.
 
-\(1) Where parties lease land from municipalities in perpetuity,
+(1) Where parties lease land from municipalities in perpetuity,
 although they do not become the owners of the same it is established
 
 that they are, nevertheless, entitled to an action *in rem* against a
 possessor, and even against the members of the municipality themselves:
 
-\2. *Ulpianus, On Sabinus, Book XVII*. Provided, however, they always
+2. *Ulpianus, On Sabinus, Book XVII*. Provided, however, they always
 pay the rent.
 
-\3. *Paulus, On the Edict, Book XXI*.
+3. *Paulus, On the Edict, Book XXI*.
 
 The same rule applies where they have made a lease for a specified time,
 and the term agreed upon has not yet expired.
-
-* * * * *

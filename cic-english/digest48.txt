@@ -558,8 +558,8 @@ says he must pay the value of the slave to his master.
 * 48.IV. ON THE JULIAN LAW RELATING TO THE CRIME OF LESE MAJESTY.
 
 1. Ulpianus,.On the Duties of Proconsul, Book VII.
-The crime of lese majestymay closely resemble that of sacrilege.
-(1) The crime of lese majestyis committed against the Roman people, or against
+The crime of lese majesty may closely resemble that of sacrilege.
+(1) The crime of lese majesty is committed against the Roman people, or against
 their safety, and he is guilty of it by whose agency measures are maliciously
 taken for the death of hostages, without the order of the Emperor; or when men
 armed with weapons or stones appear in the city, or are assembled against the
@@ -574,16 +574,18 @@ enemies of the Roman
 people may be assisted in their designs against the government; or where anyone
 solicits or inflames soldiers, in order that a sedition or a tumult may be
 excited against the State.
+
 2. The Same, Disputations, Book Vill.
 Or when an officer does not depart from a province when his successor arrives;
 or deserts from the army; or flees to the enemy as a private individual; or
 who, knowing a statement to be false, inserts it in the public records, or
 reads it after it has been placed there, for this also is included in the First
 Section of the Law of lese majesty.
+
 3. Marcianus, Institutes, Book XIV.
 The Law of the Twelve Tables directs that anyone who stirs up an enemy, or who
 delivers a citizen to him, shall be punished capitally. And the Julian Law on
-lese majestyprovides that he who injures the dignity of the State shall be
+lese majesty provides that he who injures the dignity of the State shall be
 liable, just as one who has submitted to the enemy in war, or occupied a
 castle, or surrendered a camp.
 He is liable under the same law who engages in hostilities, without the order
@@ -592,6 +594,7 @@ arrives in the province, does not deliver the army to him, or who relinquishes
 his command, or deserts the military service of the Roman people; or who, being
 a private individual, knowingly and fraudulently performs some act of authority
 or magistracy; or causes any of the things above mentioned to be done.
+
 4. Scsevola, Rules, Book IV.
 He by whose malicious contrivance anyone is compelled to swear to something
 against the State, or the army of the Roman people has been led into ambush or
@@ -607,19 +610,22 @@ culprit has confessed his crime in court, and been placed in prison, enables
 the latter to escape.
 (1) He who melts down statues of the Emperor which have been rejected is
 released from liability for this crime by the Senate.
+
 5. Marcianus, Rules, Book V.
 He does not commit the crime of lese majesty,who repairs the statues of the
 Emperor which have become damaged by age.
-(1) Nor does he commit the crime of lese majestywho, having thrown a stone
+(1) Nor does he commit the crime of lese majesty who, having thrown a stone
 without aiming at anything, accidentally strikes a statue of the Emperor; and
 this was stated by Severus and Antoninus in a Rescript addressed to Julius
 Cassianus. The same Emperor
 stated in a rescript to Pontius that to sell the statues of the Emperor which
 had not yet been consecrated was not lese majesty.
+
 6. Venuleius Saturninus, On Public Prosecutions, Book II.
 Those who melt down the statues of the Emperor which have already been
 consecrated, or commit any other act of this kind, are liable under the Julian
-Law relating to lese majesty._
+Law relating to lese majesty.
+
 7. Modestinus, Pandects, Book XII.
 Persons who are infamous and have no right to bring an accusation are
 undoubtedly permitted to bring this one.
@@ -638,31 +644,35 @@ ought not inconsiderately be held as deserving of punishment. For, although
 rash persons ought to be punished, still, they should be excused, just as
 lunatics are, when the offence is not included in the strict terms of the law;
 or if it should be punished, as resembling one specified by the law.
-(4) The crime of lese majestycommitted by defacing statues or portraits is much
+(4) The crime of lese majesty committed by defacing statues or portraits is much
 worse when perpetrated by soldiers.
+
 8. Papinianus, Opinions, Book XIII.
-Women are also heard in cases involving lese majesty. Awoman named Julia
+Women are also heard in cases involving lese majesty. A woman named Julia
 revealed the conspiracy of Lucius Cataline, and furnished the Consul, Marcus
 Tullius, the evidence upon which to base the prosecution.
+
 9. Hermogenianus, The Law, Book V.
 The Divine Severus decided that the property of freedmen who have been
-convicted of the crime of lese majestyshall be preserved for their children,
+convicted of the crime of lese majesty shall be preserved for their children,
 and shall be confiscated to the Treasury if no child of the convicted person
 should appear.
+
 10. The Same, Epitomes of Law, Book VI.
 He can be accused of lese majestyby whose aid, advice, or malicious contrivance
 a province or a city has been delivered to the enemy.
+
 11. Ulpianus, Disputations, Book Vill.
 He who dies while an accusation against him is pending retains his civil status
-unimpaired, for the crime is extinguished by death, un-
-less he was accused of lese majesty;for if he is not cleared of this offence by
+unimpaired, for the crime is extinguished by death, unless he was accused of lese majesty; for if he is not cleared of this offence by
 his successors, his estate will be forfeited to the Treasury. It is evident
 that not everyone accused of lese majestyunder the Julian Law is in this
 position, but only he who is guilty of high treason, and is animated by hostile
 intent against the State or the Emperor. For if anyone is accused under any
 other section of the Julian Law on lese majesty,he will be released from the
-charge by death.1
-1 The various forms of attack upon national sovereignty, both direct and
+charge by death.[fn1]
+
+[fn1] The various forms of attack upon national sovereignty, both direct and
 indirect, were not distinguished or classified by the ancient Romans. Its
 impersonal character, existing only in the abstract, was not readily conceived
 by the mass of the community, which naturally would seek for an individual as

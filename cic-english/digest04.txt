@@ -2,12 +2,12 @@
 
 THE DIGEST OR PANDECTS. BOOK IV.
 
-* 4.I. CONCERNING COMPLETE RESTITUTION.
+* 4.01. Concerning Complete Restitution.
 
 1. *Ulpianus, On the Edict, Book XL*
 
 The usefulness of this Title needs no commendation, for it speaks for
-itself. Under it the prætor in many ways comes to the relief of parties
+itself. Under it the praetor in many ways comes to the relief of parties
 who have made mistakes, or have been cheated, and who, through
 intimidation, cunning, youth, or absence, have been overreached.
 
@@ -17,7 +17,7 @@ Or through a change of condition, or excusable error.
 
 3. *Modestinus, Pandects, Book VIII*.
 
-All persons are promised complete restitution by the prætor when proper
+All persons are promised complete restitution by the praetor when proper
 cause is shown; so that he may examine the justice of the case, and
 ascertain whether it belongs to that class to which he can afford
 relief.
@@ -32,7 +32,7 @@ sum.
 
 5. *Paulus, On the Edict, Book VII*.
 
-No one is held to be barred to whom the prætor promises to grant
+No one is held to be barred to whom the praetor promises to grant
 complete restitution.
 
 6. *Ulpianus, On the Edict, Book XIII*.
@@ -55,7 +55,7 @@ obtaining an estate, but for the purpose of revenge.
 7. *Marcellus, Digest, Book III*.
 
 The Divine Antoninus made the following statement in a Rescript
-addressed to Marcius Avitus, the prætor, on the subject of relieving a
+addressed to Marcius Avitus, the praetor, on the subject of relieving a
 person who had lost his property while absent: "Although changes should
 not be readily made in matters which have been solemnly established,
 still, where equity clearly demands it, relief must be granted; and
@@ -70,7 +70,7 @@ entitled to restitution."
 kind alone, for relief should be granted to persons who have been
 deceived without their own fault, and especially where fraud was
 committed by their adversaries, since it is usual for an action based
-upon fraud to be requested; and it is the duty of a just prætor to grant
+upon fraud to be requested; and it is the duty of a just praetor to grant
 a new trial, which both reason and justice demand, rather than to allow
 an action involving turpitude to be brought, which should be resorted to
 only when no other remedy is available.
@@ -86,11 +86,11 @@ where others who enjoy the same privilege, if they are defended by their
 agents, are usually only relieved by complete restitution to the extent
 of being permitted to appeal.
 
-* 4.II. WHERE AN ACT IS PERFORMED ON ACCOUNT OF FEAR.
+* 4.02. Where an Act Is Performed on Account of Fear.
 
 1. *Ulpianus, On the Edict, Book XL*
 
-The prætor says: "I will not approve anything which has been done
+The praetor says: "I will not approve anything which has been done
 through fear." It was formerly stated in the Edict: "What was done
 through force or fear." Mention was made of force to indicate compulsion
 imposed against the will, and fear to show trepidation of mind on
@@ -157,9 +157,9 @@ to the penalties which we have mentioned.
 8. *Paulus, On the Edict, Book XL*
 
 These persons indeed, come under the *Lex Julia*, because they have
-accepted money to conceal a detected act of adultery. The prætor,
+accepted money to conceal a detected act of adultery. The praetor,
 however, should intervene to compel them to make restitution, for the
-act is contrary to good morals, and the prætor does not consider whether
+act is contrary to good morals, and the praetor does not consider whether
 the party who paid is an adulterer, or not, but only the fact that the
 former obtained the money by threatening the latter with death.
 
@@ -199,11 +199,11 @@ through intimidation. If, however, I deliver possession to you because
 of the employment of force; Pomponius says that there will be ground for
 this Edict.
 
-(1) It should also be noted, that the prætor in this Edict speaks in
+(1) It should also be noted, that the praetor in this Edict speaks in
 general terms and with reference to the facts, and he does not add by
 whom the act was committed; and, therefore, whether it is an individual,
 or a mob, or a municipality, or an association, or a corporation that
-causes the intimidation, the Edict will apply. But although the prætor
+causes the intimidation, the Edict will apply. But although the praetor
 includes violence committed by anyone, Pomponius very properly says that
 if I accept something from you, or induce you to bind yourself to me in
 consideration of my defending you from the violence of enemies, robbers,
@@ -217,7 +217,7 @@ for my services.
 hold that restitution can be obtained under this Edict, when any person
 is forced to manumit a slave, or to demolish a house.
 
-(3) Now let us see what is meant by the statement of the prætor, that
+(3) Now let us see what is meant by the statement of the praetor, that
 he will not approve of something which has been done. And, indeed, a
 matter may remain unfinished, even though intimidation is used; as, for
 instance, where a stipulation was entered into but no money was paid; or
@@ -232,7 +232,7 @@ it is incomplete, he will be entitled to an action alone. Still, I know
 of an instance where some Campanians, by the employment of intimidation
 against a party, extorted from him a promise in writing to pay a sum of
 money, and a Rescript was issued by our Emperor that he could apply to
-the prætor for complete restitution, and while I was with him as
+the praetor for complete restitution, and while I was with him as
 assessor, he decided: "That if the party desired to proceed against the
 Campanians by an action, he could do so; or if he wished to plead an
 exception against them, if they brought suit, it would not be without
@@ -269,11 +269,9 @@ of the stipulation, and if any usufructs or servitudes were lost, they
 must be restored.
 
 (8) As this action is *in rem*, it does not coerce any person who
-employed violence; but the prætor intends that where anything has been
+employed violence; but the praetor intends that where anything has been
 done through intimidation, the right of restitution shall be exerted
-against all; and it has not unreasonably been remarked by Mar-
-
-cellus, with reference to a decision of Julianus, that if a surety used
+against all; and it has not unreasonably been remarked by Marcellus, with reference to a decision of Julianus, that if a surety used
 violence to obtain a discharge by a release, no action for restitution
 will be granted against the principal debtor; but the surety should be
 condemned to pay fourfold the amount, unless he restores the right of
@@ -309,9 +307,9 @@ indemnified for those I would have been able to obtain, if I had not
 been prevented by intimidation.
 
 (1) It might be asked, if the person who employed violence also had
-violence used against him, whether the prætor would rule that under the
+violence used against him, whether the praetor would rule that under the
 Edict those things should be restored which he had alienated? Pomponius
-says in the Twenty-eighth Book, that the prætor is not required to come
+says in the Twenty-eighth Book, that the praetor is not required to come
 to his relief; for he holds that since it is lawful to repel force by
 force, he suffered the same thing that he inflicted. Wherefore, if
 anyone compels you by intimidation to promise him anything, and
@@ -347,9 +345,9 @@ Moreover, if I am protected against you by a perpetual exception, and
 compel you to give me a release, the Edict does not apply because you
 have lost nothing.
 
-(1) The prætor promises that where a party does not make restitution,
+(1) The praetor promises that where a party does not make restitution,
 an action can be brought against him for fourfold damages, which means
-quadruple the entire amount which should have been restored. The prætor
+quadruple the entire amount which should have been restored. The praetor
 treats the debtor with sufficient indulgence by giving him the
 opportunity for restitution, if he wishes to escape the penalty. After a
 year has elapsed, however, he promises him only a simple action, but not
@@ -576,7 +574,7 @@ her status, gives, or promises something to her patron to prevent her
 from being reduced to slavery; the Edict does not apply, for the reason
 that she herself is the one who caused the fear.
 
-(1) Where any act has been performed on account of fear, the prætor
+(1) Where any act has been performed on account of fear, the praetor
 will not confirm it on the ground of lapse of time.
 
 (2) Where a party gave possession of land which he did not own, the
@@ -596,17 +594,17 @@ void or not and the former obligation remains in full force; or whether
 this resembles a release, because we cannot rely on an obligation based
 in good faith, as such a one is terminated when it is lost. The better
 opinion is that the case resembles a kind of release, and therefore a
-prætorian action will lie.
+praetorian action will lie.
 
 (5) If, being compelled by fear, I enter upon an estate, I think that I
 have acted as heir, because although if I had been free I would have
 been unwilling to do so; still, having been subjected to compulsion, I
 had the will to act; but I should get an order of restitution from the
-prætor, that the power to reject the estate may be conferred upon
+praetor, that the power to reject the estate may be conferred upon
 
 me.
 
-(6) If, having been forced to do so, I reject an estate, the prætor can
+(6) If, having been forced to do so, I reject an estate, the praetor can
 come to my relief in two ways; either by granting an equitable action as
 he would to an heir, or by allowing an action on the ground of duress;
 and I have the right to select whichever way I choose.
@@ -669,15 +667,15 @@ debit esse metus, qui in se contineat mortis periculum & corpus
 cruciatum. Refert autem utrum metus preveniat donationem, vel
 subsequatur: quia si primo compulsus promisero, & postea sponte & gratis
 dedero, talis metus non excusat.*" (Bracton, *De Leg. et Consuetud.
-Angliæ*, II, XVI, 5.) In both England and Scotland, in determining the
+Angliae*, II, XVI, 5.) In both England and Scotland, in determining the
 existence of duress, all the circumstances of the case must be taken
 into consideration. Where any one is forcibly compelled to make a con-
 
-* 4.III. CONCERNING FRAUDULENT INTENT.
+* 4.03. Concerning Fraudulent Intent.
 
 1. *Ulpianus, On the Edict, Book XI*.
 
-In this Edict the prætor gives relief against tricky and deceitful
+In this Edict the praetor gives relief against tricky and deceitful
 persons, who use artifice to the injury of others, to prevent the former
 from profiting by their malice, or the latter from being harmed by their
 simplicity.
@@ -738,15 +736,15 @@ España*, Arts. 1265, 1267, 1268, *Code Civil de France*, Arts. 1109,
 1111, 1113, *Codice Civile d'Italia*, Arts. 1111, 1112, 1113, 1114.) —
 ED.
 
-(3) The prætor *was* not content merely to mention *dolus,*but he added
+(3) The praetor *was* not content merely to mention *dolus,*but he added
 *malus, as* the ancient authorities were accustomed to say *dolus
 bonus*, and they understood this expression to mean adroitness,
 especially where anyone used a stratagem against an enemy, or a thief.
 
-(4) The prætor says: "And no other action is applicable in the matter."
+(4) The praetor says: "And no other action is applicable in the matter."
 Thus he reasonably promises this action where no other is available,
 because an action involving infamy should not rashly be ordered by him
-if a civil or prætorian one can be brought, just as Pedius states in the
+if a civil or praetorian one can be brought, just as Pedius states in the
 Eighth Book; but even where an interdict will lie by means of which a
 man can bring suit or an exception be pleaded, by which he may be
 protected, this Edict is not applicable. Pomponius says the same thing
@@ -768,7 +766,7 @@ one ought not to be permitted; for he who postpones bringing suit has
 only himself to blame, unless the fraud was perpetrated for the special
 purpose of allowing time to elapse.
 
-(7) Where anyone who has some civil or prætorian right of action
+(7) Where anyone who has some civil or praetorian right of action
 inserts it into a stipulation, and then annuls it by a release, or by
 some other means; he cannot institute proceedings based upon fraud,
 because he has another right of action, unless he was maliciously
@@ -907,7 +905,7 @@ collusion; otherwise, an action on the ground of malice should be
 granted, provided I cannot bring suit against my agent for the reason
 that he is not solvent.
 
-(10) Moreover, Pomponius says that the prætor Cæcidianus did not grant
+(10) Moreover, Pomponius says that the praetor Caecidianus did not grant
 an action on the ground of fraud against one who had alleged that a
 certain person to whom money was to be lent was solvent, which
 
@@ -956,7 +954,7 @@ to me to indemnify me for damage which he committed, and in consequence
 thereof have been released from liability; you can be sued in an action
 based upon fraud, if it should appear that the said slave was pledged to
 another. This action based upon fraud is noxal, and therefore Labeo
-stated in the Thirtieth Book of the Prætor for Foreigners, that the
+stated in the Thirtieth Book of the Praetor for Foreigners, that the
 action based on fraud committed with reference to a slave is sometimes
 *De Peculio* and sometimes noxal. For if the matter with reference to
 which fraud was committed is one for which an action *De Peculio* would
@@ -964,7 +962,7 @@ be granted, then an action upon that ground would be allowed; but if it
 is one in which the action would be noxal, then it also must be one of
 the same character.
 
-(5) The prætor with reason inserts the words "proper cause must be
+(5) The praetor with reason inserts the words "proper cause must be
 shown", for this action ought not to be granted indiscriminately; for
 instance, in the first place if the amount involved is insignificant,
 
@@ -1033,7 +1031,7 @@ fraudulent action, although it is not necessary to allege intimidation.
 
 16. *Paulus, On the Edict, Book XL*
 
-The prætor also requires that a statement should be made of what was
+The praetor also requires that a statement should be made of what was
 fraudulently done, as the plaintiff is entitled to know in what respect
 he was cheated, so as not to express himself in a vague manner in an
 offence of such a serious character.
@@ -1204,7 +1202,7 @@ possession of the same is not actually lost; but an action on
 the ground of fraud will lie against the party in question, if I have
 suffered any loss.
 
-32. *Scævola, Digest, Book II*.
+32. *Scaevola, Digest, Book II*.
 
 A son who had received a slave as a preferred legacy having been asked
 to manumit him after a certain time, provided he had, in the interval,
@@ -1282,23 +1280,22 @@ which is not sufficient to pay its creditors, shall be liable for fraud,
 unless he himself is the sole creditor; for then it will be sufficient
 to plead an exception on the ground of fraud against him.
 
-* 4.IV.
+* 4.04. Concerning Persons under Twenty-Five Years of Age.
 
-CONCERNING PERSONS UNDER TWENTY-FIVE YEARS OF AGE. 1. *Ulpianus, On the
-Edict, Book XI*.
+1. *Ulpianus, On the Edict, Book XI*.
 
-The prætor proposed the following Edict in compliance with the
+The praetor proposed the following Edict in compliance with the
 principles of natural equity, by which he assumes protection of minors;
 for, as is known to every one, the judgment of persons of this age is
 weak and indecisive, exposed to many snares, and subject to many
-disadvantages, and therefore the prætor promised them aid by this Edict
+disadvantages, and therefore the praetor promised them aid by this Edict
 and relief from deception.
 
-(1) The prætor says in the Edict: "When any transaction is said to have
+(1) The praetor says in the Edict: "When any transaction is said to have
 taken place with a minor under twenty-five years of age, I will examine
 what was done".
 
-(2) It appears that the prætor promises assistance to minors under
+(2) It appears that the praetor promises assistance to minors under
 twenty-five years of age, for, after that time, manly vigor is held to
 have been established.
 
@@ -1330,7 +1327,7 @@ has been established by a constitution that where a party confirms what
 he did while a minor, there is no ground for restitution. For this
 reason, Celsus, in the Eleventh Book of the Epistles, and in the Second
 of the Digest, treats this question in an able manner with reference to
-a case in which he was consulted by the Prætor Flavius Respectus. A
+a case in which he was consulted by the Praetor Flavius Respectus. A
 minor under twenty-five years, and who, perhaps, was in his
 twenty-fourth year, had begun an action on guardianship against the heir
 of his guardian, and the result was that the said heir of the guardian
@@ -1375,7 +1372,7 @@ under the control of others; and the point which causes doubt is, that
 if anyone should say that the sons of a family are entitled to relief in
 matters relating to their *peculium*, the result would be that the
 benefit would accrue through them to those who are of age, that is to
-say, to their fathers, which was, at no time, intended by the prætor;
+say, to their fathers, which was, at no time, intended by the praetor;
 for the latter promised assistance to minors and not to those who had
 attained their majority. I, however, think that the option of those who
 hold that the son of a family, who is a minor under twenty-five years of
@@ -1470,7 +1467,7 @@ business, and the latter was deceived while doing so.
 
 Where, however, the slave was one who had a right to immediate freedom
 under a trust, and was imposed upon, as he suffered through default, it
-can be stated that the prætor will be obliged to grant him relief.
+can be stated that the praetor will be obliged to grant him relief.
 
 ^1^ The *Actio Institoria* was one involving the general agency of one
 person who was in the power or under the control of another, where the
@@ -1489,7 +1486,7 @@ when they are interested in not being annoyed with lawsuits and expense.
 
 7. *The Same, On the Edict, Book XL*
 
-The prætor says: "Any transaction which is said to have taken place". We
+The praetor says: "Any transaction which is said to have taken place". We
 understand the term "transaction" to mean one of any kind whatsoever,
 whether it is a contract, or whether it is not.
 
@@ -1508,13 +1505,13 @@ debtor may not be oppressed by the payment of excessive interest, or a
 minor creditor lose his money; or payment be made to the curators, if
 there are any. It is also allowed a debtor, by an Imperial Constitution,
 to compel a minor to have curators appointed for himself. But what if
-the prætor should order the money to be paid to a minor without the
+the praetor should order the money to be paid to a minor without the
 intervention of curators, and it should be paid? It may be doubted
 whether he will be secure. I am of the opinion, however, that if he was
 compelled to pay after pointing out that the creditor was a minor, he
 would be free from responsibility; unless someone might hold that he
 ought to appeal on the ground that he had suffered an injury. I believe,
-however, that the prætor would not hear a minor if he were to apply for
+however, that the praetor would not hear a minor if he were to apply for
 complete restitution in a case of this kind.
 
 (3) Relief is not only granted to a minor under these circumstances,
@@ -1570,7 +1567,7 @@ to relief, and it should be granted him.
 relief must be granted to minors, even where they do not obtain profit,
 as where the property of a minor was sold, and someone comes forward who
 is willing to pay more for it; whether complete restitution should be
-made, on account of the profit which he failed to obtain? The prætors
+made, on account of the profit which he failed to obtain? The praetors
 grant restitution every day under these circumstances, so that new bids
 may be offered. They do the same thing with regard to property which
 ought to be preserved for minors. This, however, should be done with
@@ -1668,7 +1665,7 @@ of taxes, he will be entitled to complete restitution; but it must be
 understood that no fraud existed on his part, otherwise restitution will
 not be allowed.
 
-(6) It is also impossible for restitution to be granted by a prætor
+(6) It is also impossible for restitution to be granted by a praetor
 against the freedom of his slave.
 
 10. *Paulus, On the Edict, Book XL*
@@ -1694,7 +1691,7 @@ Severus.
 
 (1) What if a minor under twenty-five years of age, and over twenty,
 should sell a slave under this law, in order that he might be
-manumitted? I refer to one over twenty, as Scævola also mentioned this
+manumitted? I refer to one over twenty, as Scaevola also mentioned this
 age in the Fourteenth Book of Questions; and it is the better opinion
 that the rule set forth in the Constitution of the Divine Marcus
 addressed to Aufidius Victorinus, does not include this case, that is,
@@ -1713,22 +1710,22 @@ Certain youths, who were not of age, had accepted as curator
 
 a man named Salvianus, and he, having administered his trust for a time,
 obtained a municipal office through the favor of the Emperor, and
-procured from the prætor his release from the curatorship of the
+procured from the praetor his release from the curatorship of the
 aforesaid minors during their absence. The minors then appeared before
-the prætor and asked for complete restitution, because the curator had
+the praetor and asked for complete restitution, because the curator had
 been discharged contrary to the constitution, for it is not customary
 for parties to relinquish their guardianship unless they are absent
 beyond sea on public business, or when they are employed in the personal
 service of the Emperor; as where this was granted in the case of
 Menander Arrius the Councilor. Salvianus however, had obtained his
 discharge, and the minors, having been, as it were, imposed upon,
-petitioned the prætor for complete restitution. Arrius Severus, being in
+petitioned the praetor for complete restitution. Arrius Severus, being in
 doubt, referred the question to the Emperor Severus, who, in answer to
 this consultation, stated in a Rescript to his successor, Benidius
-Quietus, that there was no reason for the intervention of the prætor,
+Quietus, that there was no reason for the intervention of the praetor,
 because it was not stated that a contract had been made with a minor
 under twenty-five years of age; but it was the duty of the prince to
-interpose, and cause him who had been improperly excused by the prætor
+interpose, and cause him who had been improperly excused by the praetor
 to resume the administration of the trust.
 
 (3) It must also be noted that relief cannot be granted to minors
@@ -1766,7 +1763,7 @@ property exposed to so many accidents quickly enough.
 (6) The question is also asked, where one minor petitions for
 restitution against another minor, shall he be heard? Pomponius simply
 states that restitution should not be granted him; but I think that the
-prætor should investigate which one of them was imposed upon, and if
+praetor should investigate which one of them was imposed upon, and if
 they were both deceived, for instance, if one minor lent the other money
 and he lost it; then (according to Pomponius), he who borrowed the money
 and squandered or lost it, is in the better condition.
@@ -1795,7 +1792,7 @@ Therefore, if I know that the party is a minor and have no faith in him,
 and you become surety for him, it is not just that the surety should be
 given relief, to my injury; hence the action on mandate should rather be
 refused the surety. In a word, it should be carefully weighed by the
-prætor who is more entitled to relief, the creditor or the surety; for
+praetor who is more entitled to relief, the creditor or the surety; for
 the minor who is taken at a disadvantage will be liable to neither.
 
 It will be more easy to state that no relief should be granted in the
@@ -1814,7 +1811,7 @@ contract was made with him; as, for example, where you purchased
 property from a minor and sold it to another party, he can sometimes
 petition for restitution against the possessor to prevent losing his
 property, or being deprived of it; and in this instance the case is
-either heard by the prætor, or the transfer is set aside and an action
+either heard by the praetor, or the transfer is set aside and an action
 *in rem* is granted.
 
 Pomponius also states in the Twenty-eighth Book, that Labeo held where a
@@ -1853,7 +1850,7 @@ wealthy in consequence.
 (1) Moreover, it is stated by Labeo that where a minor has been
 fraudulently induced to enter a partnership, or even where he does this
 with a view to making a donation, no partnership exists, even among
-minors; and hence the prætor has no reason to intervene. Ofilius is of
+minors; and hence the praetor has no reason to intervene. Ofilius is of
 the same opinion, for the minor is sufficiently protected by operation
 of law.
 
@@ -1869,7 +1866,7 @@ for the party is protected not only by the ordinary law, but also by the
 personal action.
 
 (3) It is generally established that where a contract is not valid, the
-prætor should not interfere if this is certain.
+praetor should not interfere if this is certain.
 
 (4) Pomponius also states with reference to the price in a case of
 purchase and sale, that the contracting parties are permitted to take
@@ -1883,7 +1880,7 @@ own decisions.
 
 17. *Hermogenianus, Epitomes of Law, Book I*.
 
-Prætorian prefects can also grant complete restitution against their own
+Praetorian prefects can also grant complete restitution against their own
 decisions, although no one can appeal from them. The reason for this
 distinction is, that an appeal is equivalent to a complaint that the
 decision is unjust; and complete restitution includes a petition for
@@ -1942,7 +1939,7 @@ the minor, who was his heir, was entitled to.
 Papinianus states in the Second Book of Opinions, that the time
 appointed for complete restitution should not be extended for the
 benefit of a party returning from exile, for the reason that he was
-absent, for he could have applied to the prætor through an agent, and
+absent, for he could have applied to the praetor through an agent, and
 did not do so, or could have made application to the governor in the
 place where he was. But where the same author says that he is not
 entitled to relief, on account of the punishment imposed upon him; his
@@ -1968,7 +1965,7 @@ for the value of slaves who have obtained their freedom by means of his
 entry, will not have to be refunded by the minor. In the same way, on
 the other hand, when a minor obtains restitution for the purpose of
 entering upon an estate, any business which has been transacted by his
-curator, for the disposition of property under the order of the prætor
+curator, for the disposition of property under the order of the praetor
 authorizing the sale of the same according to the form established by
 law, must be ratified; as Severus and Antoninus stated in a rescript to
 Calpurnius Flaccus.
@@ -1982,7 +1979,7 @@ these circumstances, the party principally interested would be of age,
 and he would be liable to loss. But if, in the end, the minor suffered
 loss because he was not able to recover the amount which he had expended
 from the party whose business he transacted, for the reason that he was
-not solvent, the prætor undoubtedly will come to his aid. If, however,
+not solvent, the praetor undoubtedly will come to his aid. If, however,
 the principal was a minor, and the agent the party of full age, the
 principal would not readily be heard, unless the business had been
 transacted by his order and he cannot be indemnified by his agent.
@@ -2008,11 +2005,11 @@ rescinded, but such matters should be based upon what is good and just,
 to prevent persons of this age from being subjected to great
 inconvenience, since, otherwise, no one would contract with them; and,
 to a certain extent, they would be excluded from commercial affairs.
-Hence the prætor ought not to interpose his authority unless there is
+Hence the praetor ought not to interpose his authority unless there is
 manifest evidence of fraud, or the parties have acted with gross
 negligence.
 
-(2) Scævola, our master, was accustomed to say that if anyone induced
+(2) Scaevola, our master, was accustomed to say that if anyone induced
 by the frivolity of youth, abandoned or rejected an estate, or the
 possession of property, and everything remained intact, he should by all
 means, be heard; but if, after the estate had been sold and the business
@@ -2032,7 +2029,7 @@ rendered against him on that ground.
 
 (4) Restitution should be granted so that every one may recover his
 entire rights. Therefore, where restitution is granted to a party who
-has been cheated in the sale of land, the prætor must order the
+has been cheated in the sale of land, the praetor must order the
 purchaser to restore the land with the crops, and receive the price paid
 for the same; unless when he paid it, he was not ignorant that the
 vendor would squander it, as where money is lent to a person to be
@@ -2044,14 +2041,14 @@ be annulled, nevertheless, if the purchase-money is required to be paid,
 the purchaser should not, by any means, be subjected to loss.
 
 (5) No peculiar action or undertaking arises from this Edict, for all
-depends upon the examination by the prætor.
+depends upon the examination by the praetor.
 
 25. *Gaius, On the Provincial Edict, Book IV*.
 
 There is no question about the following, namely, that where a minor
 pays something which he does not owe, in a matter where demand for
 restitution is not allowed by the Civil Law, he is entitled to a
-prætorian action for its recovery; since such a demand is usually
+praetorian action for its recovery; since such a demand is usually
 granted on proper grounds, even to persons who are over twenty-five
 years of age.
 
@@ -2166,7 +2163,7 @@ reached the age of twenty-five years brings suit for a legacy under his
 father's will; he is held to have abandoned the case, for if the time
 for obtaining possession of the property has not elapsed, still, having
 chosen to accept the will of the deceased, he must be considered to have
-rejected the benefit of the intervention of the prætor.
+rejected the benefit of the intervention of the praetor.
 
 31. *The Same, Opinions, Book IX*.
 
@@ -2252,7 +2249,7 @@ will be refused him, and if he now wishes to recover the right which he
 failed to exercise, how would this differ from an application to be
 released from the commission of an offence; that is to say, from the
 institution of a suit for the purpose of annoyance. Since it is a well
-established principle of law that the prætor should not come to the aid
+established principle of law that the praetor should not come to the aid
 of parties who have committed crimes, or have instituted vexatious
 proceedings; complete restitution will not apply under such
 circumstances. In a case of crime, a minor under twenty-five years of
@@ -2275,7 +2272,7 @@ provisions, where a man although he invokes the law himself violates it.
 
 38. *Paulus, Decrees, Book I*.
 
-Æmilius Larianus purchased from Obinius the Rutilian tract of land,
+AEmilius Larianus purchased from Obinius the Rutilian tract of land,
 subject to the condition of payment on a certain day, and paid down a
 part of the purchase-money; it being understood that if, within two
 months from that date, he should not have paid half of the remainder of
@@ -2286,7 +2283,7 @@ elapsed, was succeeded as heir by Rutiliana, a minor, whose guardians
 neglected to make payment within the specified time. The vendor, having
 served several notices upon the guardians, after a year had elapsed sold
 the property to Claudius Telemachus; and then the ward applied for
-complete restitution, and having lost the case before the Prætor, as
+complete restitution, and having lost the case before the Praetor, as
 well as the Prefect of the City, she appealed. I was of the opinion that
 the decision was correct, because her father, and not herself, made the
 contract; the Emperor, however, decided that, as the day when the
@@ -2310,7 +2307,7 @@ reference to matters which he had neglected while under paternal
 control; this is only held to be the case where he would otherwise
 acquire property for the benefit of his father.
 
-39. *Scævola, Digest, Book II*.
+39. *Scaevola, Digest, Book II*.
 
 Where minors appeared before the governor, within the proper time, to
 obtain relief, and petitioned for complete restitution, and proved their
@@ -2368,7 +2365,7 @@ of *res judicata;*because every one is permitted to reject what was
 introduced for his own benefit. Nor can the purchaser complain if he is
 restored to the same condition in which he was placed by his own act,
 and which he could not have changed if the minor had not sought the aid
-of the prætor.
+of the praetor.
 
 42. *Ulpianus, On the Office of Proconsul, Book II*.
 
@@ -2414,7 +2411,7 @@ judgment. From this it appears that the minor, on whose account judgment
 was rendered against him, cannot apply for the aid of restitution
 against the decision.
 
-47. *Scævola, Opinions, Book I*.
+47. *Scaevola, Opinions, Book I*.
 
 A guardian, being pressed by creditors, made a *bona-fide* sale of the
 property of his ward, and his mother protested against the sale to the
@@ -2427,7 +2424,7 @@ not to be refused because the guardian was not guilty of any offence.
 
 (1) A guardian of minors sold certain lands which he held in common
 with his wards, and of which he had charge. I ask if the minors are
-entitled to complete restitution by the decree of the prætor, or whether
+entitled to complete restitution by the decree of the praetor, or whether
 the sale should be rescinded only so far as they had an interest in the
 common property? I answered that it should be rescinded to that extent;
 unless where the purchaser desired to have the entire con-
@@ -2481,10 +2478,11 @@ action dependent upon the time in which the minor intervened, is the
 more correct one; and therefore that the pledge which the former gave
 will still remain encumbered.
 
-* 4.V. CONCERNING THE CHANGE OF CONDITION.
+* 4.05. Concerning the Change of Condition.
 
-1. *Gaius, On the Provincial Edict, Book IV. Capitis Minutio* is a
-change of condition.
+1. *Gaius, On the Provincial Edict, Book IV*.
+
+Capitis minutio is a change of condition.
 
 2. *Ulpianus, On the Edict, Book XII*.
 
@@ -2495,7 +2493,7 @@ will not apply, and such persons cannot, under any circumstances, be
 sued, but it is clear that an action will be granted against those into
 whose hands their property has passed.
 
-(1) The prætor says: "If any man or woman is said to have suffered the
+(1) The praetor says: "If any man or woman is said to have suffered the
 loss of civil rights after having performed some act, or made some
 contract, I will permit an action to be brought against him or her, just
 as if such change of condition had not occurred."
@@ -2579,7 +2577,7 @@ follow the individual everywhere.
 (2) Where a party is deprived of freedom, he changes his condition in
 consequence, and no right of restitution can be granted against a slave,
 because a slave cannot be bound so as to be liable even in an action
-under prætorian jurisdiction; but an equitable action will be granted
+under praetorian jurisdiction; but an equitable action will be granted
 against his master, as Julianus asserts, and unless he is defended for
 the entire amount, an order must be granted me to seize the property
 which he formerly held.
@@ -2621,12 +2619,7 @@ freedom and citizenship are retained, and only the family position is
 altered, it is established that the least change of condition takes
 place.
 
-* 4.VI.
-
-WHAT THE GROUNDS ARE ON WHICH PERSONS OVER TWENTY-FIVE YEARS OP AGE ARE
-ENTITLED TO COMPLETE
-
-RESTITUTION.
+* 4.06. What the Grounds Are on Which Persons over Twenty-Five Years Of Age Are Entitled to Complete Restitution.
 
 1. *Ulpianus, On the Edict, Book XII*.
 
@@ -2747,7 +2740,7 @@ proceedings of this kind are not instituted.
 Labeo very properly says that a party who has been appointed heir, and
 granted his freedom, is not included in the terms of the Edict before he
 really becomes the heir; for before that, he cannot hold property, and
-the prætor speaks of men who are free.
+the praetor speaks of men who are free.
 
 (1) I am of the opinion, however, that the son of a family conies
 within the terms of this Edict where his *castrense peculium* is
@@ -2776,12 +2769,12 @@ his property, as is generally the case.
 has the right to return, just as to one who was captured.
 
 (2) Where a man is placed in possession of the house of a soldier for
-the purpose of preventing threatened injury; and the prætor grants
+the purpose of preventing threatened injury; and the praetor grants
 possession to anyone while he is present, he will have no right to
 demand restitution; but, where the custodian was absent, it must be held
 that he is entitled to relief.
 
-(3) Where the prætor says in the Edict: "Or afterwards" without
+(3) Where the praetor says in the Edict: "Or afterwards" without
 anything further, it must be understood that if a possessor in good
 faith held the property before the absence of the owner, and the
 possession terminated on his return, he would have ground to apply for
@@ -2794,7 +2787,7 @@ who defers an application for restitution should not be heard.
 
 Relief is not granted to persons who are negligent, but only to those
 who are hindered by force of circumstances. All this is to be referred
-to the judgment of the prætor; that is to say, he must only grant
+to the judgment of the praetor; that is to say, he must only grant
 restitution where a person could not join issue by reason of want of
 time, and not where he was guilty of negligence.
 
@@ -2812,7 +2805,7 @@ every year, that he shall remain in Italy"; restitution may be granted
 so that he may receive the amount as if he had been in Italy, as Labeo
 states; and Julianus in the Fourth Book, and Pomponius in the Thirtieth
 Book, approved of this opinion; for the right of action is not
-extinguished through lapse of time where the aid of the prætor becomes
+extinguished through lapse of time where the aid of the praetor becomes
 necessary, but the case is conditional.
 
 18. *Paulus, On the Edict, Book XII*.
@@ -2834,22 +2827,22 @@ under the rule of *postliminium*.
 
 20. *The Same, Questions, Book XIII*.
 
-A prætorian action cannot be granted to the purchaser, since it would be
+A praetorian action cannot be granted to the purchaser, since it would be
 most unjust to deprive an owner of anything where this was not done by
 use; nor can that be understood to be lost which was not taken away by
 another.
 
 21. *Ulpianus, On the Edict, Book XII*.
 
-The prætor also says: "Where anyone acquires property by use, or loses
+The praetor also says: "Where anyone acquires property by use, or loses
 it by non-user, or is released from liability because his right of
 action is barred by lapse of time when the party was absent and no
-defence was made for him." The prætor inserted this clause so that, just
+defence was made for him." The praetor inserted this clause so that, just
 as he comes to the relief of the above mentioned persons, to prevent
 them from being taken advantage of; so also, he may intervene to prevent
 them from taking advantage of others.
 
-(1) It should be noted that the prætor expresses himself more fully,
+(1) It should be noted that the praetor expresses himself more fully,
 where he grants restitution against those who are absent, than where he
 grants it to them; for, in this instance, he does not enumerate the
 persons against whom he gives relief, as above, but he adds a clause
@@ -2862,7 +2855,7 @@ where none of them appeared as a defender; for if there was an agent, as
 you have someone to bring suit the other party should not be disturbed.
 Moreover, if no defender appeared, it is perfectly just that relief
 should be granted; and there is the more reason for this, if any of
-those who were not defended remain concealed; as the prætor promises in
+those who were not defended remain concealed; as the praetor promises in
 the Edict to grant possession of the property and, if the case requires
 it, it may be sold; but where the parties do not remain concealed,
 although no one appears to defend them, he promises merely to give
@@ -2883,7 +2876,7 @@ absent person is not considered to be defended if the plaintiff of his
 own accord calls upon him, and no one offers himself to conduct the
 defence, and thus must be established by evidence.
 
-(1) Therefore, as the prætor is not willing that the parties should
+(1) Therefore, as the praetor is not willing that the parties should
 suffer loss; so, on the other hand he does not permit them to obtain
 
 any advantage.
@@ -2893,7 +2886,7 @@ infants, and municipalities.
 
 23. *Ulpianus, On the Edict, Book XL*
 
-The prætor says: "Or was in prison, and had made no provision by which
+The praetor says: "Or was in prison, and had made no provision by which
 he could be sued." Persons of this kind are added with good reason, for
 it could happen that a party might be imprisoned, and still be present,
 whether he was placed under restraint, by the authorities, or by private
@@ -2921,7 +2914,7 @@ was acquired by another by usucaption when they were not defended. But
 where the time for bringing an action against the captive has elapsed,
 relief will be granted against the party who brings it.
 
-(4) The prætor next adds: "Or makes no provision by which he could be
+(4) The praetor next adds: "Or makes no provision by which he could be
 sued"; and if, while he was doing so, the acquisition by use should be
 completed, or something else above mentioned should happen, restitution
 should be granted. There is reason in this, for an order of court to
@@ -2966,7 +2959,7 @@ impeded by a press of business.
 
 26. *Ulpianus, On the Edict, Book XII*.
 
-But where the prætor is to blame, restitution will be granted.
+But where the praetor is to blame, restitution will be granted.
 
 (1) Pomponius says that restitution against a man who has been
 relegated will be granted under the general terms of the Edict; but it
@@ -2974,12 +2967,12 @@ will not be granted to him, because he could have appointed an agent. I
 think, nevertheless, that, where proper cause is shown, he himself would
 be entitled to relief.
 
-(2) The prætor further says: "Or where it was not lawful for him to be
+(2) The praetor further says: "Or where it was not lawful for him to be
 summoned against his will, and no one defended him." This clause has
 reference to those who, according to the custom of our ancestors, could
 not with propriety be cited into court; for instance the consul, the
-prætor, and others who exercise power or authority; this Edict, however,
-does not apply to those whom the prætor forbids to be summoned without
+praetor, and others who exercise power or authority; this Edict, however,
+does not apply to those whom the praetor forbids to be summoned without
 his permission (since application to him might have obtained
 permission), for example, patrons and parents.
 
@@ -2988,7 +2981,7 @@ the parties above-mentioned, except to one who, while absent, obtained
 something by usucaption, because this case has already been fully
 provided for above.
 
-(4) The prætor also says: "Or where his right of action was held to be
+(4) The praetor also says: "Or where his right of action was held to be
 lost, through the act of the magistrate, without any fraud on his part."
 What is the object of this? It is that restitution may be granted if a
 right of action is taken away on account of delays caused by the judge.
@@ -3009,19 +3002,19 @@ party was no longer able to bring suit.
 
 (6) He also adds, "Without any fraud on his part", for the reason that
 if he was guilty of fraud, he should not obtain any relief; as the
-prætor does not aid persons who themselves commit offences.
-Consequently, if the party wishes to bring suit before the next prætor,
+praetor does not aid persons who themselves commit offences.
+Consequently, if the party wishes to bring suit before the next praetor,
 and the time for doing so before the present one has elapsed, he will
 not be entitled to relief. Also, if he did not obey the order of the
-prætor, he will refuse to hear his case; and Labeo says that restitution
+praetor, he will refuse to hear his case; and Labeo says that restitution
 should not be granted. The same rule applies where the case was not
 heard by him for any other good reason.
 
 (7) If any unusual holiday should be appointed, for instance, because
 of some fortunate event, or in honor of the Emperor, and for this reason
-the prætor refused to hear the case, Gaius Cassius expressly stated in
+the praetor refused to hear the case, Gaius Cassius expressly stated in
 an Edict that he would grant restitution, because it was held this must
-have been done by the prætor, for the ordinary holidays ought not to be
+have been done by the praetor, for the ordinary holidays ought not to be
 taken into account, as the plaintiff could and should foresee them, so
 as not to interfere with them; which is the better opinion, and this
 Celsus also adopts in the Second Book of the Digest. But when holidays
@@ -3039,7 +3032,7 @@ for acquisition by usucaption, and then I began to be absent in the
 public service, restitution should be granted against me for only one
 day.
 
-(9) The prætor also says: "Where any other just cause seems to exist, I
+(9) The praetor also says: "Where any other just cause seems to exist, I
 will grant complete restitution." This clause is necessarily inserted in
 the Edict, for many instances may occur which would establish ground for
 restitution, but which cannot be separately enumerated; so that, as
@@ -3066,7 +3059,7 @@ lost.
 
 28. *Ulpianus, On the Edict, Book XII*.
 
-Also, where a person is absent for some reasonable cause, the prætor
+Also, where a person is absent for some reasonable cause, the praetor
 should consider whether he is entitled to relief; as, for example, where
 his absence was due to his studies, or because his agent was dead; the
 intention being that he should not be wronged when his absence was due
@@ -3077,7 +3070,7 @@ furnished security with sureties, and then, on account of this, is
 unable to go away, and is taken at a disadvantage, he is entitled to
 restitution; and restitution will also be granted against him.
 
-(2) The prætor also says: "When this is authorized by the laws, the
+(2) The praetor also says: "When this is authorized by the laws, the
 plebiscites, the decrees of the Senate, the Edicts, and the Ordinances
 of the Emperors." This clause does not promise that restitution will be
 granted if the laws permit it, but if the laws do not prohibit it.
@@ -3300,7 +3293,7 @@ who has joined an embassy on account of his own private affairs.
 Where anyone stipulates for a certain sum every year, as long as he, or
 the party who makes the promise, shall remain in Italy, and one or the
 other happens to be absent in the service of the State; it is the duty
-of the prætor to grant an equitable action. We hold that the same rule
+of the praetor to grant an equitable action. We hold that the same rule
 applies where the stipulation is in the following words: "If a cer-
 
 tain man should be at Rome for the next five years"; or "If he should
@@ -3313,7 +3306,7 @@ will not be granted restitution if he suffered the injury under
 circumstances where he would have sustained loss, even if he had not
 been absent on public business.
 
-45. *Scævola, Rules, Book I*.
+45. *Scaevola, Rules, Book I*.
 
 All soldiers who cannot leave their standards without risk to
 themselves, are considered to be absent in the service of the State.
@@ -3324,10 +3317,7 @@ A person who is absent in the service of the State is entitled to
 restitution against one who is also absent on public business, if he has
 just cause for complaint on account of having sustained some loss.
 
-* 4.VII.
-
-CONCERNING ALIENATIONS MADE FOR THE PURPOSE OF CHANGING THE CONDITIONS
-OF A TRIAL.
+* 4.07. Concerning Alienations Made for the Purpose of Changing the Conditions of a Trial.
 
 1. *Gaius, On the Provincial Edict, Book IV*.
 
@@ -3357,7 +3347,7 @@ party is more powerful.
 
 (1) Moreover, if the man whom we are suing manumits a slave who is
 claimed in the action, our condition becomes less advantageous, because
-the prætors favor freedom.
+the praetors favor freedom.
 
 (2) Moreover, if you have erected some structure on a tract of land
 where you may become liable to an interdict *Quod vi aut clam;* or, in
@@ -3385,7 +3375,7 @@ adversary; as, for instance, if he had incurred some expense, or had
 suffered some other inconvenience on account of the substitution of
 another adversary.
 
-(5) What then would happen, if the person against whom a prætorian
+(5) What then would happen, if the person against whom a praetorian
 action can be brought is ready to defend it, just as if he was still in
 possession of the property? In this instance it is very properly held
 that the action based upon this Edict will be refused him.
@@ -3404,11 +3394,11 @@ have acted for the purpose of changing the conditions of the suit; and
 then he will not be liable under the terms of this Edict, for he does
 not alienate property, who merely relinquishes possession.
 
-The prætor, however, does not disapprove the act of a party who was so
+The praetor, however, does not disapprove the act of a party who was so
 desirous to give up property to prevent his being constantly engaged in
 litigation on account of it; and this is, in fact, a very modest
 determination of one who detests lawsuits, and is not to be blamed; but
-the prætor only concerns himself with a party who, while desiring to
+the praetor only concerns himself with a party who, while desiring to
 retain the property, transfers his part in the case to another, so that
 the latter, instead of himself may give his adversary trouble.
 
@@ -3454,7 +3444,7 @@ A person is liable under this Edict, even where he produces the
 property, if he does not, after notification by the judge, place the
 case in its original condition.
 
-(1) The prætor says: "Or an alienation made for the purpose of changing
+(1) The praetor says: "Or an alienation made for the purpose of changing
 the conditions of the trial"; that is to say, the conditions of a future
 trial and not these of the present one.
 
@@ -3470,7 +3460,7 @@ not be liable under this Edict.
 sold, he is not considered to have alienated it for the purpose of
 changing the conditions of the trial.
 
-9. *Paulus, On the Edict of the Curule Ædiles, Book I*.
+9. *Paulus, On the Edict of the Curule AEdiles, Book I*.
 
 For the reason that when a slave is returned, everything has a
 retroactive effect, and, therefore, the party who returns the property
@@ -3486,7 +3476,7 @@ For if, being in debt, I deliver the property for which you wished to
 sue me, this Edict will not apply.
 
 (1) Where the guardian of a ward, or the curator of an insane person
-alienates property, a prætorian action will lie, because one cannot
+alienates property, a praetorian action will lie, because one cannot
 presume that either the ward or the insane person can have the intention
 of committing fraud.
 
@@ -3512,10 +3502,7 @@ proceedings, he is forbidden to do so under that Section of the Edict by
 which it is provided that no alienation shall be made for the purpose of
 changing the conditions of a trial.
 
-* 4.VIII.
-
-CONCERNING MATTERS REFERRED TO OTHERS FOR ARBITRATION AND THOSE WHO
-ACCEPT THEM FOR THE PURPOSE OF MAKING AN AWARD.
+* 4.08. Concerning Matters Referred to Others for Arbitration and Those Who Accept Them for the Purpose of Making an Award.
 
 1. *Paulus, On the Edict, Book II*.
 
@@ -3531,15 +3518,15 @@ an action for a penalty imposed can.
 
 Labeo says that where an award is given under an arbitration, by which a
 party is released from an action on guardianship by a minor under
-twenty-five years of age, it should not be confirmed by the præ-
+twenty-five years of age, it should not be confirmed by the prae-
 
 tor; nor will an action for the recovery of the penalty on account of it
 be granted.
 
-(1) Although the prætor does not compel anyone to undertake an
+(1) Although the praetor does not compel anyone to undertake an
 arbitration (since this is voluntary and depends upon the exercise of
 the will, and is outside his jurisdiction), nevertheless, where a party
-has once assumed the duties of the office, the prætor thinks that the
+has once assumed the duties of the office, the praetor thinks that the
 matter requires his care and attention; not so much because it is his
 object that legal controversies should be terminated, but in order that
 persons should not be disappointed who have selected someone to decide
@@ -3549,19 +3536,19 @@ concerns of both parties had been made public, and the secrets of the
 business had been disclosed, the arbiter should refuse to give an award;
 either for the purpose of showing partiality, or because he had been
 corrupted by bribery, or for some other reason; could anyone deny that
-it was not perfectly right that the prætor should intervene in order to
+it was not perfectly right that the praetor should intervene in order to
 compel the arbiter to discharge the duties of the office which he had
 assumed?
 
-(2) The prætor says: "A party who undertakes arbitration by which
+(2) The praetor says: "A party who undertakes arbitration by which
 submission is made to his award under a pecuniary penalty."
 
-(3) Let us first consider the personality of the arbiters. The præ-
+(3) Let us first consider the personality of the arbiters. The prae-
 
 tor can compel an arbiter, no matter what his rank may be, to perform
 the duties of the office which he has undertaken, even though he be of
 consular rank, unless he holds some magisterial position, or is invested
-with other authority; as, for instance, that of consul, or prætor, since
+with other authority; as, for instance, that of consul, or praetor, since
 he then has no jurisdiction;
 
 4. *Paulus, On the Edict, Book XIII*.
@@ -3624,7 +3611,7 @@ not be granted.
 instance, where the corruption or the turpitude of the arbiter is
 evident.
 
-(4) Julianus says that if the litigants defame the arbiter, the prætor
+(4) Julianus says that if the litigants defame the arbiter, the praetor
 should by no means dismiss him, but only where proper cause is shown.
 The same jurist says that if the parties treat the authority of the
 arbiter with contempt, and apply to the court,
@@ -3633,14 +3620,14 @@ arbiter with contempt, and apply to the court,
 
 11. *Ulpianus, On the Edict, Book XIII*.
 
-And afterwards the litigants return to the original arbiter, the prætor
+And afterwards the litigants return to the original arbiter, the praetor
 should not compel him to decide between those who have treated him
 insultingly, and rejected him in order to have recourse to another.
 
 (1) An arbiter cannot be compelled to give an award, unless arbitration
 was agreed upon.
 
-(2) Where the prætor says: "Under a pecuniary penalty"; we must
+(2) Where the praetor says: "Under a pecuniary penalty"; we must
 understand that a sum of money is not payable on both sides, but that
 there may be other property promised by way of a penalty, where one of
 the parties does not abide by the award; and this was the opinion of
@@ -3677,7 +3664,7 @@ same thing in the Thirty-third Book on the Edict.
 
 12. *Paulus, On the Edict, Book XIII*.
 
-In this case, perhaps, the only reason for applying to the prætor will
+In this case, perhaps, the only reason for applying to the praetor will
 be where the time appointed for the hearing can be prolonged, for then
 it may be done.
 
@@ -3716,7 +3703,7 @@ upon those days on which a judge is not required to render
 a decision; unless the term fixed by the arbitration is about to expire,
 and cannot be prolonged.
 
-(4) Thus, if the arbiter is urged by the prætor to render his award, it
+(4) Thus, if the arbiter is urged by the praetor to render his award, it
 will be perfectly just that he should have time granted him for the
 doing so, if he swears that the case is not yet sufficiently clear to
 him.
@@ -3731,7 +3718,7 @@ make his award at any time.
 
 15. *Ulpianus, On the Edict, Book XIII*.
 
-Even though the prætor should unqualifiedly state in the Edict that he
+Even though the praetor should unqualifiedly state in the Edict that he
 will compel the arbiter to make an award; nevertheless, he should
 sometimes pay attention to his reasons, and accept his excuses, where
 proper cause is shown; as, for instance, where he is defamed by the
@@ -3752,7 +3739,7 @@ where proper cause is shown.
 (1) An arbiter should be excused from acting where he is occupied in a
 case in his own behalf, whether it be either public or private; at all
 events, where the day of the hearing cannot be postponed; but if it can
-be, why should not the prætor compel him to defer it as he has the right
+be, why should not the praetor compel him to defer it as he has the right
 to do so, since this can sometimes be accomplished without any
 inconvenience to the arbiter? Where, however, both parties wish him to
 render an award, even though no bond was given for postponement; still,
@@ -3798,14 +3785,14 @@ joined as the third party, the arbitration will be valid, since there
 can be no disagreement in calling upon him.
 
 (6) Let us consider a special case, namely: where a question is
-submitted to two arbiters, should the prætor compel them to give an
+submitted to two arbiters, should the praetor compel them to give an
 award; for, on account of the natural tendency of men to disagree the
 question might be almost incapable of settlement. Where the number is
 odd, arbitration for that reason is sustained, not for the reason that
 it is easy for all of the parties to agree, but because, if they
 disagree, there is a majority upon whose decision reliance can be
 placed. It is usual, however, for the controversy to be submitted to two
-persons, and if they do not agree, the prætor should compel these
+persons, and if they do not agree, the praetor should compel these
 arbiters to select some third person whose authority may be obeyed.
 
 (7) Celsus states in the Second Book of the Digest, that where the
@@ -3824,7 +3811,7 @@ majority, when it is evident that all have rendered some decision.
 
 19. *Paulus, On the Edict, Book XIII*.
 
-Labeo says that it does not concern the prætor what kind of an award the
+Labeo says that it does not concern the praetor what kind of an award the
 arbiter makes, provided he states what his opinion is. Therefore, if the
 matter was referred to the arbiter to render some certain decision, this
 would be no arbitration; nor could he be compelled to make an award; as
@@ -3834,7 +3821,7 @@ Julianus states in the Fourth Book of the Digest.
 so with the intention that the entire matter in controversy shall be
 settled. But where arbitration with reference to several matters is
 involved, unless he disposed of all that are in controversy, he will not
-be held to have made an award, and he can still be forced by the prætor
+be held to have made an award, and he can still be forced by the praetor
 to act. •
 
 (2) For this reason it should be considered whether an arbiter can
@@ -3897,7 +3884,7 @@ new one, with the same arbiter, but if the latter refuses to act in the
 second arbitration, he cannot be forced to do so; provided he was not
 responsible for the delay in performing his duty; as, if he was to blame
 for the delay, it would be perfectly right that he should be compelled
-by the prætor to again act as arbiter. This question can only arise
+by the praetor to again act as arbiter. This question can only arise
 where no arrangement was made in the first arbitration to extend the
 time, but if such provision was made, and he himself extended it, he
 will continue to act as arbiter.
@@ -4113,7 +4100,7 @@ brought.
 30. *Paulus, On the Edict, Book XIII*.
 
 When anyone brings a matter into court which it had been agreed to
-submit to arbitration, some authorities say that the prætor cannot
+submit to arbitration, some authorities say that the praetor cannot
 
 interpose to compel the arbiter to give an award, because now no penalty
 will be incurred, any more than if the arbitration had been dismissed.
@@ -4159,7 +4146,7 @@ been incurred.
 third party, the proceeding for the collection of money will not be
 Valid on account of her appearance for another.
 
-(3) The conclusion of the matter is: that the Prætor cannot interpose,
+(3) The conclusion of the matter is: that the Praetor cannot interpose,
 either where there was no submission for arbitration in the beginning,
 or if there was, it is uncertain whether it is one for which a penalty
 may be exacted, or the penalty can no longer be recovered for the reason
@@ -4183,7 +4170,7 @@ still have some interest in the proceedings.
 (6) Julianus stated ambiguously that if, through mistake, recourse was
 had to arbitration with reference to an offence involving infamy, or
 some matter which was liable to criminal prosecution, as, for instance,
-adultery, assassination, and other crimes of this kind; the prætor
+adultery, assassination, and other crimes of this kind; the praetor
 should forbid an award to be made, and if it was made, should refuse to
 permit its execution.
 
@@ -4241,7 +4228,7 @@ agreement of the parties, but by order of the arbiter, when it is
 necessary to extend it that liability for the penalty may not be
 incurred.
 
-(12) If an arbiter attempts to conceal himself, the prætor should cause
+(12) If an arbiter attempts to conceal himself, the praetor should cause
 him to be searched for, and if he does not appear for a long time, a
 fine should be imposed upon him.
 
@@ -4288,7 +4275,7 @@ another arbiter; for if they do so, there will be no end to the case;
 but
 
 if he decided as follows, namely: that land should be delivered, or
-security furnished, with the approval of Publius Mævius, the award
+security furnished, with the approval of Publius Maevius, the award
 should be obeyed.
 
 Pedius, also, adopts this opinion to avoid the continuance of
@@ -4358,7 +4345,7 @@ by an action; and this was also the opinion of Julianus.
 
 36. *Ulpianus, On the Edict, Book LXXVII*.
 
-When an arbiter makes an award under compulsion by the prætor, upon a
+When an arbiter makes an award under compulsion by the praetor, upon a
 holiday, and suit is brought for the penalty on account of the
 arbitration; it is established that an exception is not available,
 unless by some law the holiday upon which the award was pronounced is
@@ -4424,9 +4411,9 @@ for arbitration. No right is acquired by the Treasury by reason of such
 an award, but there is, nevertheless, liability for the penalty under
 the stipulation, because the decision of the arbiter was not obeyed.
 
-43. *Scævola, Opinions, Book I*.
+43. *Scaevola, Opinions, Book I*.
 
-Lucius Titius and Mævius Sempronius entered into an agreement to submit
+Lucius Titius and Maevius Sempronius entered into an agreement to submit
 all their disputes to arbitration; but, through mistake, some matters
 were not included by Lucius Titius in his application, nor did the
 arbiter make any award with reference to them. The question arose
@@ -4520,11 +4507,11 @@ the parties, who had the right to reject him if they found the
 selection of the magistrate unsatisfactory. The title of "*arbiter*"
 was suggestive of greater authority — "*Arbiter est qui totius rei
 arbitrium habet et potestatem*" — was generally applied to one chosen
-to decide questions arising in *actiones bonæ fidei;*that is to say
+to decide questions arising in *actiones bonae fidei;*that is to say
 those that were not subject to the rigid interpretation of the rules
 of the Civil Law — such as leasing and hiring, purchase and sale,
 guardianship, mandate, pledge, deposit, and many others in which the
-principles of equity as interpreted by the prætorian tribunal might be
+principles of equity as interpreted by the praetorian tribunal might be
 advantageously employed. The *arbiter* had the right to summon
 assessors to assist him in the formation and promulgation of his
 decisions. Before the reign of Augustus, no restrictions were placed
@@ -4532,7 +4519,7 @@ upon the designation of *arbitri* or *judices*, except that they
 should possess the qualifications of age, integrity, popular respect,
 and legal knowledge requisite for the determination of such matters as
 might be brought before them. The *arbiter* was compelled to comply
-strictly with the written instructions of the prætor, which were
+strictly with the written instructions of the praetor, which were
 communicated to him either at the time of his appointment, or
 subsequently before the case was heard. He was expected to render his
 *arbitrium*, or award, in accordance with the generally recognized
@@ -4589,13 +4576,11 @@ award, but the appellant, before being heard, must pay the penalty
 prescribed, if any was agreed upon, which may be refunded if the award
 is reversed. (Civil Code of Louisiana, Art. 3066-3098.) — ED.
 
-
-
-* 4.IX. SAILORS, INNKEEPERS, AND THE PROPRIETORS OP STABLES, MUST RESTORE PROPERTY ENTRUSTED TO THEM.
+* 4.09. Sailors, Innkeepers, and the Proprietors of Stables, Must Restore Property Entrusted to Them.
 
 1. *Ulpianus, On the Edict, Book XIV*.
 
-The prætor says: "When sailors, innkeepers, and the proprietors of
+The praetor says: "When sailors, innkeepers, and the proprietors of
 stables have received property for safe keeping, I will grant an action
 against them if they do not restore it".
 
@@ -4609,9 +4594,9 @@ those whom they receive as guests; since, even now, they do not abstain
 from fraudulent acts of this description.
 
 (2) Therefore, let us consider who those are that are liable. The
-prætor says "Sailors". We must understand a "sailor" to be the person
+praetor says "Sailors". We must understand a "sailor" to be the person
 who has charge of the ship, although all are called sailors who are on
-board the vessel for the purpose of navigating it, but the prætor only
+board the vessel for the purpose of navigating it, but the praetor only
 has in mind the owner; for Pomponius says that the latter ought not to
 be liable for the act of an oarsman, or sub-pilot, but only for what he
 does himself, or for the act of the captain; although if he himself
@@ -4637,7 +4622,7 @@ who conduct an inn or a stable, or their agents. Persons, however, who
 are engaged in menial occupations, are not included; as, for instance,
 door-keepers, cooks, and others like them.
 
-(6) The prætor says, "Where they have received the property of anyone
+(6) The praetor says, "Where they have received the property of anyone
 for safe keeping"; that is to say, any article or any goods whatsoever.
 Hence, it is stated in Vivianus, that this Edict also has reference to
 things which do not come under the head of merchandise; as, for
@@ -4670,7 +4655,7 @@ to the acts of passengers. He also asks that where the property has not
 yet been placed on board a ship, but has been lost on land, it is at the
 risk of the owner of the vessel who at first took charge of it.
 
-(1) The prætor says: Unless they restore it, I will grant an action
+(1) The praetor says: Unless they restore it, I will grant an action
 against them. The action arising from this Edict is one *in factum.*Let
 us consider, however, whether this is necessary, as the case is one in
 which a party can proceed by a civil action; that is to say, where any
@@ -4680,9 +4665,9 @@ on that ground, even for articles that are missing; but if the master
 contracted to transport the goods, an action on the ground of hiring can
 be brought against him; and if he received the goods gratis, Pomponius
 says that an action on deposit will lie. He, therefore, is surprised
-that a prætorian action was introduced, since civil actions are
+that a praetorian action was introduced, since civil actions are
 applicable; unless, as he states, it was for the purpose of making it
-known that the prætor was desirous of checking the dishonesty of persons
+known that the praetor was desirous of checking the dishonesty of persons
 of this kind, and because in cases of leasing and hiring, a person is
 responsible for negligence, but in cases of deposit, only for fraud;
 but, under this Edict, the party who received the property is absolutely
@@ -4712,7 +4697,7 @@ of property; and therefore is granted perpetually, and against an
 
 heir.
 
-(5) Finally, let us consider whether proceedings by a prætorian action
+(5) Finally, let us consider whether proceedings by a praetorian action
 on the ground of property received, and also on that of theft, can be
 instituted for the same property. Pomponius is in doubt as to whether it
 can, but the better opinion is that the party ought to be content with
@@ -4774,7 +4759,7 @@ share in said slave, or all of him, you can hold me liable on the
 contract also.
 
 (2) But where some injury has been committed against the said slave by
-someone else, on the same ship, or in the inn, whose acts the prætor is
+someone else, on the same ship, or in the inn, whose acts the praetor is
 accustomed to investigate, Pomponius does not think that this action can
 be brought on account of the slave.
 
@@ -4821,7 +4806,7 @@ be responsible for the acts of a person of this kind since he also is a
 sailor.
 
 (3) Where the slave of a sailor causes damage, even though he himself
-is not a sailor, it is perfectly just to grant a prætorian action
+is not a sailor, it is perfectly just to grant a praetorian action
 against the owner of the vessel.
 
 (4) The ship-owner is liable in his own name in this action that is to
@@ -4844,5 +4829,3 @@ with the consent of his father or his master, or has charge of an inn or
 a stable; I am of the opinion that they will be compelled to defend the
 suit for the entire amount of damages, on the supposition that they
 assumed complete responsibility for everything which might happen.
-
-* * * * *

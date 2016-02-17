@@ -1046,7 +1046,6 @@ was appointed guardian, this can also be alleged as a valid
 excuse. Attention was called to this point by the Emperor Antoninus
 and his Divine Father.
 
-
 * 27.2. WHERE A WARD SHOULD BE BROUGHT UP, OR RESIDE, AND CONCERNING
   THE SUPPORT WHICH SHOULD BE FURNISHED HIM.
 
@@ -1173,7 +1172,6 @@ return is expected, and he is solvent, it is not expedient for another to be
 joined with him as curator; but if the ward demands maintenance out of his own
 property, a curator can legally be appointed for this sole purpose, namely, to
 provide support for the ward out of his own estate.
-
 
 * 27.3. CONCERNING THE ACTION TO COMPEL AN ACCOUNTING FOR
   GUARDIANSHIP, AND THE EQUITABLE ACTION BASED ON CURATORSHIP.
@@ -1521,22 +1519,11 @@ the property of a guardian, but also against that of one who has acted in his
 stead, as well as in the case of the curatorship of a male or female ward, or
 an insane man or woman, where security has not been furnished on this account.
 
-
-* 27.4. CONCERNING THE COUNTER-ACTION ON GUARDIANSHIP AND THE
-  PRAETORIAN ACTION.
+* 27.4. CONCERNING THE COUNTER-ACTION ON GUARDIANSHIP AND THE PRAETORIAN ACTION.
 
 1. Ulpianus, On the Edict, Book XXXVI.
-The Praetor granted a counter-action on guardianship, and introduced it in order
-that guardians might the more readily accept the management of the trust; being
-aware that the wards would also be bound to them as the result of their
-administration. For although wards are not liable without the consent of their
-guardians, neither can a guardian compel his ward to encumber his property in
-his favor; still, it is admitted that a ward can be civilly responsible to his
-guard-
-ian as the result of his administration. For guardians must be urged in order
-to induce them to pay anything out of their own property for the benefit of
-their wards, though they know that they will be reimbursed for what they have
-expended.
+The Praetor granted a counter-action on guardianship, and introduced it in order that guardians might the more readily accept the management of the trust; being aware that the wards would also be bound to them as the result of their administration. For although wards are not liable without the consent of their guardians, neither can a guardian compel his ward to encumber his property in his favor; still, it is admitted that a ward can be civilly responsible to his guardian as the result of his administration. For guardians must be urged in order to induce them to pay anything out of their own property for the benefit of their wards, though they know that they will be reimbursed for what they have expended.
+
 (1) This action will lie, not only against a guardian, but also against anyone
 who transacts business in his behalf.
 (2) It must be said, moreover, that where there is a curator either of a ward,
@@ -1579,9 +1566,11 @@ institute proceedings on guardianship, for the reason that nothing is owing to
 him; or, on the other hand, more expense has been incurred in his behalf than
 should have been done; in which instance, the guardian should not be prevented
 from bringing the counteraction.
+
 2. Julianus, Digest, Book XXI.
 There is still more reason for granting this action, where suit is brought for
 the misappropriation of property by the guardian.
+
 3. Ulpianus, On the Edict, Book XXXVI.
 But what if the guardian should spend more money upon his ward than the
 latter's property amounts to? Let us see whether he can recover this. Labeo
@@ -1640,7 +1629,12 @@ affairs of the trust during the continuance of the same, whether the party
 merely acted as guardian and was afterwards appointed one, or whether he was
 the curator of an unborn child.
 If, however, he did not transact the business as acting guardian,1he can obtain
-whatever he has previously expended; for whatever ex-
+whatever he has previously expended; for whatever expenses he may have incurred with reference to the property of the ward must be
+deducted from the amount of the judgment in an action on guardianship;
+provided, however, that such expenses were incurred
+in good faith.
+
+
 1 A protutor, at Civil Law, was an individual who, at his own instance, either
 because of family connection or from motives of friendship, assumed the duties
 and responsibilities of a guardian. He resembled in many respects the
@@ -1659,13 +1653,11 @@ that is, his acts, as far as other parties were concerned, were void in law.
 For this reason, as well as because he might instantly be discharged, if such a
 step was deemed advisable, he was called tutor falsus, or a spurious guardian.
 He could, however, in case he
-penses he may have incurred with reference to the property of the ward must be
-deducted from the amount of the judgment in an action on guardianship;
-provided, however, that such expenses were incurred
-in good faith.
+
 (9) It is evident that this action is a perpetual one, and that it is granted
 both in favor of and against an heir, as well as for and against any other
 successors who are interested in the matter.
+
 4. Julianus, Digest, Book XXI.
 A guardian who has been removed from office should be considered to be in the
 same position as one whose guardianship is terminated, and hence he is liable
@@ -1674,13 +1666,14 @@ counter-action, if he has lost anything, he is entitled to bring suit to
 recover it, for there is nothing to prevent a suspected guardian from
 recovering what he has advanced, and which he should not lose, even though he
 may have expended too large a sum for the benefit of his ward.
+
 5. Ulpianus, Opinions, Book I.
 I gave it as my opinion that the heir of a guardian, where he has paid a sum
 for which his wards were liable, is entitled to the counteraction against them.
+
 6. Paulus, On Plautius, Book V.
 If a guardian should bind himself for his ward, he is entitled to the counter-
 action, even before he has paid the debt.
-
 
 * 27.5. CONCERNING ONE WHO TRANSACTS BUSINESS AS ACTING GUARDIAN OR
   CURATOR.
@@ -1772,7 +1765,6 @@ faith and diligence as a real guardian.
 5. Ulpianus, On the Edict, Book XXVIII.
 He who has transacted business while acting as guardian is entitled to the
 counter-action.
-
 
 * 27.6. CONCERNING BUSINESS TRANSACTED UNDER THE AUTHORITY OF A FALSE
   GUARDIAN.
@@ -1903,7 +1895,6 @@ guardian, he will not be liable to any action for making this statement. Where,
 however, he was not a guardian, and the minor was in any way defrauded through
 his answer, an equitable action should be granted against him.
 
-
 * 27.7. CONCERNING THE SURETIES OF GUARDIANS AND CURATORS AND THOSE
   WHO HAVE OFFERED THEM, AND THE HEIRS OF THE FORMER.
 
@@ -1986,7 +1977,6 @@ is sued after the death of the guardian, but not where he died after issue had
 been joined; for by joinder of issue penal actions are transmitted for and
 against the heirs of both parties, and rights of action ordinarily extinguished
 by time are perpetuated.
-
 
 * 27.8. CONCERNING SUITS AGAINST MAGISTRATES.
 
@@ -2167,7 +2157,6 @@ claimed, since it has been decided that interest on penalties cannot be
 recovered. It was stated in a Rescript by the Divine Severus and Antoninus,
 that interest can be collected, since the same action is granted against
 magistrates that lies against guardians.
-
 
 * 27.9. CONCERNING THE PROPERTY OF THOSE WHO ARE UNDER GUARDIANSHIP OR
   CURATORSHIP, AND WITH REFERENCE TO THE ALIENATION OR ENCUMBRANCE OF
@@ -2454,7 +2443,6 @@ subsequently be held to be void, still, the guardians or curators of his son
 were considered to have committed no act against the Decree of the Divine
 Emperors, where in accordance with the desire of the deceased expressed in his
 will, land belonging to the ward which was situated in the country.
-
 
 * 27.10. CONCERNING THE APPOINTMENT OF CURATORS FOR INSANE PERSONS AND
   OTHERS WHO ARE NOT MINORS.
