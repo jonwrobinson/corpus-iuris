@@ -2,7 +2,7 @@
 
 THE DIGEST OR PANDECTS. BOOK VII.
 
-TITLE I. CONCERNING USUFRUCT AND ITS USE AND ENJOYMENT.
+* TITLE I. CONCERNING USUFRUCT AND ITS USE AND ENJOYMENT.
 
 1. Paulus, On Vitellius, Book HI.
 Usufruct is the right to use and enjoy the property of others, at the same time
@@ -994,8 +994,9 @@ Pamphilus, such a bequest is the same as if it had been made to me and to you;
 and therefore there is no doubt that it belongs to us equally.
 
 
-TITLE II.
-CONCERNING THE ACCRUAL OF USUFRUCT. 1. Ulpianus, On Sabinus, Book XVII.
+* TITLE II. CONCERNING THE ACCRUAL OF USUFRUCT.
+
+1. Ulpianus, On Sabinus, Book XVII.
 Where an usufruct is bequeathed, the right of accrual between usufructuaries
 only exists where the usufruct is left conjointly; but where it is left
 separately to each one of the parties, the right of accrual undoubtedly ceases
@@ -1132,7 +1133,7 @@ Since each legatee can bring an action against one of the heirs to recover the
 usufruct.
 
 
-TITLE III. WHEN THE LEGACY OF AN USUFRUCT VESTS.
+* TITLE III. WHEN THE LEGACY OF AN USUFRUCT VESTS.
 1. Ulpianus, On Sabinus, Book XVII.
 Although an usufruct consists of enjoyment, that is to say, in some effort
 exerted by him who enjoys and uses the right; still, it vests but once, and it
@@ -1163,8 +1164,7 @@ nothing; although any legal procedure which is instituted before the proper
 time is void.
 
 
-TITLE IV.
-IN WHAT WAYS USUFRUCT OR USE IS LOST.
+* TITLE IV. IN WHAT WAYS USUFRUCT OR USE IS LOST.
 
 1. Ulpianus, On Sabinus, Book XVII.
 It is established that an usufruct is not only lost by forfeiture of civil
@@ -1485,8 +1485,7 @@ reduced to such a point that it cannot be considered a flock, the usufruct
 terminates.
 
 
-TITLE V.
-CONCERNING THE USUFRUCT OP THINGS WHICH ARE CONSUMED OR DIMINISHED BY USE.
+* TITLE V. CONCERNING THE USUFRUCT OP THINGS WHICH ARE CONSUMED OR DIMINISHED BY USE.
 
 1. Ulpianus, On Sabinus, Book XVIII.
 The Senate decreed that, "the usufruct of all property which it is established
@@ -1609,9 +1608,7 @@ mention was made of the use because the money was to be paid over after his
 death.
 
 
-TITLE VI.
-CONCERNING THE ACTION FOR THE RECOVERY OF USUFRUCT, AND THAT BY WHICH IT IS
-DENIED.
+* TITLE VI. CONCERNING THE ACTION FOR THE RECOVERY OF USUFRUCT, AND THAT BY WHICH IT IS DENIED.
 
 1. Ulpianus, On Sabinus, Book XVIII.
 Where a servitude is attached to land subject to an usufruct, Marcellus, in the
@@ -1775,7 +1772,7 @@ character. (Código Civil de España, Arts. 467-522. Codice Civile del Regno
 d'Italia, 476-520. Código Civil Portuguêz, Arts. 2197-2253.) — ED.
 
 
-TITLE VII. CONCERNING THE SERVICES OF SLAVES.
+* TITLE VII. CONCERNING THE SERVICES OF SLAVES.
 
 1. Paulus, On the Edict, Book II.
 Services consist of acts, and in the nature of things they do not exist before
@@ -1815,8 +1812,7 @@ or employs him in his pleasures.
 expenses have been deducted.
 
 
-TITLE VIII.
-CONCERNING USE AND HABITATION.
+* TITLE VIII. CONCERNING USE AND HABITATION.
 
 1. Gaius, On the Provincial Edict, Book VII.
 Let us now consider use and habitation. A mere use may be created, that is to
@@ -2097,7 +2093,7 @@ the party entitled to the use any worse; but he may make it worse, even where
 he improves the property.
 
 
-TITLE IX. IN WHAT WAY AN USUFRUCTUARY MUST GIVE SECURITY.
+* TITLE IX. IN WHAT WAY AN USUFRUCTUARY MUST GIVE SECURITY.
 1. Ulpianus, On the Edict, Book XCVII.
 Where the usufruct of anything is bequeathed, it seemed to the prætor to be
 perfectly just that the legatee should give security with reference to two

@@ -285,7 +285,6 @@ Gregorius IX. Archipresbytero S. Mariae maioris de Urbe.
 Quoniam constitutio apostolicae sedis omnes adstringit et nihil debet obscurum vel ambiguum continere, declaramus, constitutionem, quam nuper super praeferendis in perceptione portionis maioribus et consuetis servitiis, a minoribus exhibendis, edidimus, non ad praeterita, sed ad futura tantum extendi, quum leges et constitutiones futuris certum sit dare formam negotiis, non ad praeterita facta trahi, nisi nominatim in eis de praeteritis caveatur.
 
 * 1.III. DE RESCRIPTIS.
-
 ** CAP. I.
 
 Privilegio generali, secundum ius commune obtento, obstat rescriptum speciale, etiam de eo mentionem non faciens. H. d. secundum intellectum magis communem.
