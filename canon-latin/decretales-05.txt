@@ -2,7 +2,7 @@
 
 LIBER QUINTUS.
 
-* 5.I. DE ACCUSATIONIBUS, INQUISITIONIBUS ET DENUNCIATIONIBUS.
+* 5.01. DE ACCUSATIONIBUS, INQUISITIONIBUS ET DENUNCIATIONIBUS.
 
 ** CAP. I.
 
@@ -866,7 +866,7 @@ potestate vendendi, dandi, infeudandi seu quomodolibet alienandi bona
 ipsius ecclesiae interim eidem [episcopo] penitus interdicta. [Quod si
 etc. Dat. Later. V. Kal. Mai. Ao. I. 1227.]
 
-* 5.II. DE CALUMNIATORIBUS.
+* 5.02. DE CALUMNIATORIBUS.
 
 ** CAP. I.
 
@@ -884,7 +884,7 @@ Innocentius III. Zamorensi, Segobiensi et Abulensi Episcopis.
 
 Quum dilectus filius, magister scholarium Palentinus, ad sedem apostolicam accessisset, et nobis de suo episcopo excessus varios nunciasset, venerabili fratri nostro quondam episcopo Legionensi, nunc archiepiscopo Compostellano, et dilectis filiis de Valle bona, et de Mataplana abbatibus dioecesis Palentinae examinationem commisimus excessuum obiectorum. †[Qui super simonia duplici, dilapidatione, absolutione incidentium in canonem sententiae promulgatae, quodque appellationibus ad nos interpositis deferre contemneret, nec non quod in manibus suis ultra tempus in concilio Lateranensi constitutum vacantem tenuerit dignitatem, et quod furtim quoddam subtraxerit instrumentum, in quo a iure canonicorum iura episcopalia distinguuntur, et quibusdam aliis, inquisita per testes plenius veritate, inquisitionem ipsam cum depositionibus testium nobis fideliter transmiserunt.] Quum autem processum negotii et dicta testium examinaverimus diligenter, nec intelligere potuerimus, probatum esse sufficienter aliquid de praedictis, eundem episcopum de consilio fratrum nostrorum absolvendum decernimus ab obiectis, vobis per apostolica scripta mandantes, quatenus memoratum magistrum scholarum, donec canonice suam purgaverit innocentiam, scilicet quod non calumniandi animo ad huiusmodi crimina proponenda processit, ab officio et beneficio suspendatis, ut ceteri, simili poena perterriti, ad infamiam suorum facile non prosiliant praelatorum. [Quod si non omnes etc. Dat. Later. V. Id. Maii Ao. X. 1207.]
 
-* 5.III. DE SIMONIA, ET NE ALIQUID PRO SPIRITUALIBUS EXIGATUR VEL PROMITTATUR.
+* 5.03. DE SIMONIA, ET NE ALIQUID PRO SPIRITUALIBUS EXIGATUR VEL PROMITTATUR.
 
 ** CAP. I.
 
@@ -1857,7 +1857,7 @@ Idem.
 
 Mandato nostro recepto, ut cum monachis, qui per simoniam dato aliquo locum in monasteriis sunt adepti, secundum constitutionem generalis concilii dispensares (Et infra:) Consultationi tuae breviter respondentes, dicimus, mandatum apostolicum etiam ad abbates extendi, et ad resignationes spiritualium et temporalium, quae nullo pacto, sed affectu animi praecedente utrinque taliter acquiruntur, in quo casu delinquentibus sufficit per solam poenitentiam suo satisfacere Creatori, eos pro simonia huiusmodi non teneri.
 
-* 5.IV. NE PRAELATI VICES SUAS VEL ECCLESIAS SUB ANNUO CENSU CONCEDANT.
+* 5.04. NE PRAELATI VICES SUAS VEL ECCLESIAS SUB ANNUO CENSU CONCEDANT.
 
 ** CAP. I.
 
@@ -1898,7 +1898,7 @@ Idem Exoniensi Episcopo.
 
 Querelam magistri G. recepimus, quod, quum ecclesiam de Chephalai a G. persona eiusdem ecclesiae ad annuum censum tenendam per septennium suscepisset, ipse sibi, antequam eam per unius anni spatium tenuisset, auferre praesumpsit, quanquam idem G. praestita [sibi] fide firmaverit, quod usque ad statutum terminum nullam ei exinde molestiam vel gravamen inferret. Ideoque fraternitati tuae per apostolica scripta praecipiendo mandamus, quatenus, si tibi constiterit ita esse, appellatione remota eum districte compellas, ut praefatam ecclesiam dicto G. restituat, et usque ad terminum inter eos constitutum, secundum quod inter se convenerint, ipsum eandem permittat pacifice possidere.
 
-* 5.V. DE MAGISTRIS, ET NE ALIQUID EXIGATUR PRO LICENTIA DOCENDI.
+* 5.05. DE MAGISTRIS, ET NE ALIQUID EXIGATUR PRO LICENTIA DOCENDI.
 
 ** CAP. I.
 
@@ -1940,7 +1940,7 @@ Honorius III.
 
 Super specula †[Domini licet immeriti constituti, dum diligenter multo intuitu contemplamur statum ecclesiae generalis, dolemus plurimum et tristamur, quod, quum albae sint regiones ad messem plurimam et operarii sint perpauci, plerique vigiles, qui tenentur custodire Domini vineam, dormiunt somnium suum, neque zizania nimium excrescentia in manipulos ad comburendum colligunt, quamvis ea iugiter superseminet inimicus. Quumque lactens et parvulus deficiat in plateis, vix est qui frangat panem parvulis, aut propinet sitientibus aquam sapientiae salutaris, eo, quod modica est in terra scientia Domini, quia plurimi velut luxores filii accepta non modica portione substantiae Iesu Christi comparant sibi de ipsa siliquas vacuas et sonoras, quae non satiant, et aquam hauriunt cum situla Samaritanorum de puteo vel torrente aquarum infidelium, qui sitim hydropici non relevant, sed irritant. Tales equidem hortum conclusum, cui non communicat alienus, ubi fons est, et puteum aquarum viventium deserentes, ac fodientes sibi cisternas, quae aquam non praevalent continere, quasi non invenientes pascua fastidito manna, dum suspirant ad Aegypti olera et pepones, currunt ad scientias lucratives, statuentes in terram suos oculos declinare. Ut igitur per increpationes validas tanquam per patris verbera filii aberrantes ad matris ubera revocati veluti pulli aquilarum queant expeditius advolare, ac inoffense atque libentius velint et valeant currere in odorem flagrantis gratiae Iesu Christi ad hauriendum aquas vivas in gaudio de fontibus Salvatoris, quosdam obices amovere cupimus huic itineri obsistentes, et necessaria quaedam annectere his, quae ab antecessoribus nostris edita sunt ab olim ad propagationem propaginis vitae verae.] Quum itaque de singulis provinciis puellae speciosae, ac virgines pro rege Assuero, qui beatitudo dicitur, per ancillas quaeri debeant, et adduci ad arcem et moenia civitatis, et per manum Aggei mundum muliebrem accipere, necessariorum videlicet fulcimenta, Volumus et mandamus, ut statutum, [editum] in concilio generali de magistris theologis per singulas metropoles statuendis, inviolabiliter observetur, statuentes insuper de consilio fratrum nostrorum, ac districte praecipiendo mandantes, ut, quia super hoc propter raritatem magistrorum se possent forsitan aliqui excusare, ab ecclesiarum praelatis et capitulis ad theologicae professionis studium aliqui docibiles destinentur, qui, quum docti fuerint, in Dei ecclesia velut splendor fulgeant firmamenti, ex quibus postmodum copia possit haberi doctorum, qui, velut stellae, in perpetuas aeternitates mansuri ad iustitiam valeant plurimos erudire, quibus, si proprii proventus ecclesiastici non sufficiunt, praedicti necessaria subministrent. Docentes vero in theologica facultate, dum in scholis docuerint, et studentes in ipsa integre per annos quinque, percipiant de licentia sedis apostolicae proventus praebendarum et beneficiorum suorum, non obstante aliqua alia consuetudine vel statuto, quum denario fraudari non debeant in vinea Domini operantes. Hoc autem inconcusse volumus observari, firmiter disponentes, quod feriantur poena debita transgressores. [Sane licet etc. (cf. c. 10. Ne cler. vel mon. III. 50.) Dat. Viterbii VII. Kal. Dec. Pont. nostri Ao. IV. 1219.]
 
-* 5.VI. DE IUDAEIS, SARRACENIS, ET EORUM SERVIS.
+* 5.06. DE IUDAEIS, SARRACENIS, ET EORUM SERVIS.
 
 ** CAP. I.
 
@@ -2094,7 +2094,7 @@ Idem.
 
 Nulli Iudaeo baptizatum vel baptizari volentem emere liceat vel in suo servitio retinere. Quodsi quem, nondum ad fidem conversum, causa mercimonii emerit, et postmodum factus sit vel fieri desideret Christianus, datis pro eo XII. solidis ab illius servitio protinus subtrahatur. Si autem infra tres menses ipsum venalem non exposuerit, vel ad sibi serviendum emerit eundem, nec ipse vendere, nec alius audeat comparare, sed nullo dato pretio perducatur ad praemia libertatis.
 
-* 5.VII. DE HAERETICIS.
+* 5.07. DE HAERETICIS.
 
 ** CAP. I.
 
@@ -2573,7 +2573,7 @@ Idem.
 
 Absolutos se noverint a debito fidelitatis hominii et totius obsequii, quicunque lapsis manifeste in haeresim aliquo pacto, quacunque firmitate vallato, tenebantur adstricti.
 
-* 5.VIII. DE SCHISMATICIS ET ORDINATIS AB EIS.
+* 5.08. DE SCHISMATICIS ET ORDINATIS AB EIS.
 
 ** CAP. I.
 
@@ -2591,7 +2591,7 @@ Innocentius III. Bisuntino Archiepiscopo.
 
 Fraternitati tuae (Et infra: [cf. c. 7. de eo, qui cogn. IV. 13.]) Priorem quoque, quem a schismatico asseris ordinatum, ab officio poteris repellere incunctanter, nisi legitime probaverit secum fuisse misericorditer dispensatum et ab ea persona, quae super hoc potestatem habuerit dispensandi. [Dat. Ferentini XII. Kal. Iun. 1203.]
 
-* 5.IX. DE APOSTATIS ET REITERANTIBUS BAPTISMA.
+* 5.09. DE APOSTATIS ET REITERANTIBUS BAPTISMA.
 
 ** CAP. I.
 
@@ -2641,7 +2641,7 @@ Idem Archiepiscopo Lugdunensi.
 
 Consultationi tuae breviter respondemus, quod monachus, aliquem sacrum ordinem in apostasia recipiens, quantumlibet suo fuerit reconciliatus abbati, et receperit poenitentiam, absque tamen dispensatione Romani Pontificis ministrare non poterit in ordine, sic suscepto. Inquisitioni etc. (cf. c. 7. de usu et auct. pall. I. 8.) [Dat. Reate IV. (III.) Id. Aug. 1225.]
 
-* 5.X. DE HIS, QUI FILIOS OCCIDERUNT.
+* 5.10. DE HIS, QUI FILIOS OCCIDERUNT.
 
 ** CAP. I.
 
@@ -2667,7 +2667,7 @@ Idem.
 
 De infantibus autem, qui mortui reperiuntur cum patre et matre, et non apparet, utrum a patre, vel a matre oppressus sit ipse, vel suffocatus, vel propria morte defunctus, non debent inde securi esse parentes, nec etiam sine poena; sed tamen consideratio debet esse pietatis, ubi non voluntas, sed eventus mortis causa fuerit. Si autem eos non latet, ipsos interfectores esse, scire debent, se graviter deliquisse, quod Ancyritano concilio probatur. Quidam autem poenitentiam trium annorum iudicant esse debere, quorum unum peragant in pane et aqua.
 
-* 5.XI. DE INFANTIBUS ET LANGUIDIS EXPOSITIS.
+* 5.11. DE INFANTIBUS ET LANGUIDIS EXPOSITIS.
 
 ** CAP. UN.
 
@@ -2677,7 +2677,7 @@ Gregorius IX.
 
 Si a patre, sive ab alio, sciente ipso aut ratum, habente, relegato pietatis officio infans expositus exstitit: hoc ipso a potestate fuit patria liberatus. Nam et hoc casu in ingenuitatem libertus, et servus in libertatem eripitur, quod et de praedictis cuiuscunque aetatis languidis, si expositi fuerint, vel si alicui eorum alimenta impie denegari contigerit, est dicendum. Sane, qui hos suscipiunt, non possunt propter hoc in eorum personis ius aliquod vendicare.
 
-* 5.XII. DE HOMICIDIO VOLUNTARIO VEL CASUALI.
+* 5.12. DE HOMICIDIO VOLUNTARIO VEL CASUALI.
 
 ** CAP. I.
 
@@ -2879,7 +2879,7 @@ Gregorius IX.
 
 Quidam, ut asseris, ad aedificationem ecclesiae, in adiutoirium a presbytero evocatus, ruens cum laqueari, quod idem presbyter solvere nitebatur, hac occasione rebus est humanis emptus. (Et infra:) Attendentes igitur, quod sacerdos ipse dabat operam licitae rei, studuit etiam, quam debuit, diligentiam adhibere, circumstantibus quibus periculum imminebat, ita tempestive et alta voce praemonitis, quod et intelligere et fugere potuerunt, inquisitioni tuae taliter respondemus, quod ob hanc causam, vel quia omnes casus fortuitos, qui praevideri non possunt, forsitan non praevidit, non debet quoad officium vel beneficium impediri.
 
-* 5.XIII. DE TORNEAMENTIS.
+* 5.13. DE TORNEAMENTIS.
 
 ** CAP. I.
 
@@ -2897,7 +2897,7 @@ Alexander III. Anatensi Episcopo.
 
 Ad audientiam nostram noveris pervenisse, quod, quum quidam ad locum, deputatum torneamentis, causa requirendi sua debita †a quibusdam militibus, quos eo venturos putabat, accessisset, accidit, ut violenter et inconsiderate ab equo, in quo sedebat, super eum cadente compressus et mortuus est, sed prius dominicum corpus suscepit, et sacri olei unctione perunctus est. Unde pro eo, quod in torneamento mortem accepit, a sepultura fidelium prohibetur. Nos vero attendentes, quod his tantum, sicut credimus, ecclesiastica sepultura debeat interdici, qui, ad torneamenta animo id faciendi tantum accedentes, decedunt ibidem, fraternitati tuae mandamus, quatenus, si tibi constiterit, quod praefatus I. ad praedictum torneamentum non animo ludendi, sed percipiendi credita, pervenisset, licet ibi fortuito casu obierit, corpus eius dispensatione ecclesiasticae tradi facias sepulturae, maxime si dominicum corpus susceperit, et sacri olei fuerit unctione perunctus.
 
-* 5.XIV. DE CLERICIS PUGNANTIBUS IN DUELLO.
+* 5.14. DE CLERICIS PUGNANTIBUS IN DUELLO.
 
 ** CAP. I.
 
@@ -2915,7 +2915,7 @@ Coelestinus III.
 
 Henricus presbyter lator praesentium nobis humiliter intimavit, quod, quum laicum quendam super furto in saeculari placito convenisset, ipse, quia testes sui defecerunt, pugilem secundum pravam terrae consuetudinem introduxit, qui reum usque adeo ictibus gladii vulneravit, quod coactus est nocte proxima exspirare. Quia igitur super hoc nos consulere voluisti, ambiguitatem tuam responsione huiusmodi removemus, quod tales pugiles homicidae veri exsistunt, nec praedictus sacerdos, licet non ipse, sed alius pro eo in duello pugnaverit, debet in sacris ordinibus ministrare, sicut etiam tradunt sacrorum canonum instituta. Homicidium autem tam facto quam praecepto, sive consilio aut defensione non est dubium perpetrari; poterit tamen cum eo circa habendum beneficium misericorditer dispensari.
 
-* 5.XV. DE SAGITTARIIS.
+* 5.15. DE SAGITTARIIS.
 
 ** CAP. UN.
 
@@ -2925,7 +2925,7 @@ Innocentius III.
 
 Artem autem illam mortiferam et [Deo] odibilem ballistariorum et sagittariorum adversus Christianos et catholicos exerceri de cetero sub anathemate prohibemus.
 
-* 5.XVI. DE ADULTERIIS ET STUPRO.
+* 5.16. DE ADULTERIIS ET STUPRO.
 
 ** CAP. I.
 
@@ -2983,7 +2983,7 @@ Idem Episcopo Ambianensi.
 
 Tua fraternitas requisivit a nobis, utrum, aliquo denegante uxori suae in adulterio deprehensae debitum coniugale, si postmodum ipse cum alia perpetret adulterium manifeste, an uxore agente poenitentiam de commisso et veniam humiliter postulante, vir cogi debeat, ut eandem maritali affectione pertractet. Super quo tibi taliter respondemus, quod, quum paria crimina compensatione mutua deleantur, vir huiusmodi fornicationis obtentu suae uxoris nequit consortium declinare. [Dat. Anagniae Id. Iun. Ao. XI. 1208.]
 
-* 5.XVII. DE RAPTORIBUS, INCENDIARIIS ET VIOLATORIBUS ECCLESIARUM.
+* 5.17. DE RAPTORIBUS, INCENDIARIIS ET VIOLATORIBUS ECCLESIARUM.
 
 ** CAP. I.
 
@@ -3041,7 +3041,7 @@ Innocentius III. Episcopo Saronensi.
 
 Accedens ad apostolicam sedem (Et infra: [cf. c. 24. de praeb. III. 5.]) Rapta puella legitime contrahet cum raptore, si prior dissensio transeat postmodum in consensum, et quod ante displicuit tandem incipiat complacere, dummodo ad contrahendum legitimae sint personae.
 
-* 5.XVIII. DE FURTIS.
+* 5.18. DE FURTIS.
 
 ** CAP. I.
 
@@ -3081,7 +3081,7 @@ Alexander III. Cremonensi Episcopo.
 
 Ex literis tuis, si bene meminimus, auribus nostris innotuit, et dilecti filii I. subdiaconi nostri diligens relatio patefecit, quod B. lator praesentium calicem quendam in ecclesia minus caute dimissum rapiens, longo tempore detinere praesumpsit. †Postea tamen poenitentia ductus presbytero in confessione excessum suum humiliter et reverenter aperuit, et ecclesiae iuxta eiusdem presbyteri consilium, prout dignum fuit, exinde satisfecit. Unde quoniam propter hoc ipsum tuae fraternitatis discretio dubitat ordinare, prudentiae tuae per apostolica scripta praecipiendo Mandamus, quatenus, si praedictus B. sponte confessus fuerit huiusmodi praesumptionis excessum, et exinde ecclesiae, cuius calix fuerat, satisfecerit, nec est super hoc nota vel infamia manifesta respersus, post peractam poenitentiam aut congruam partem poenitentiae, dummodo, alias idoneum ipsum esse cognoscas, ad sacros ordines non dubites promovere.
 
-* 5.XIX DE USURIS.
+* 5.19. DE USURIS.
 
 ** CAP. I.
 
@@ -3252,7 +3252,7 @@ Gregorius IX. Fratri R.
 
 Naviganti vel eunti ad nundinas certam mutuans pecuniae quantitatem, pro eo, quod suscipit in se periculum, recepturus aliquid ultra sortem, usurarius est censendus. Ille quoque, qui dat X. solidos, ut alio tempore totidem sibi grani, vini vel olei mensurae reddantur, quae licet tunc plus valeant, utrum plus vel minus solutionis tempore fuerint valiturae, verisimiliter dubitatur, non debet ex hoc usurarius reputari. Ratione huius dubii etiam excusatur, qui pannos, granum, vinum, oleum vel alias merces vendit, ut amplius, quam tunc valeant, in certo termino recipiat pro eisdem; si tamen ea tempore contractus non fuerat venditurus.
 
-* 5.XX. DE CRIMINE FALSI.
+* 5.20. DE CRIMINE FALSI.
 
 ** CAP. I.
 
@@ -3326,7 +3326,7 @@ Idem.
 
 Ex continentia †[literarum dilectorum filiorum abbatis sanctae crucis de Waltham et magistri Simonis de Svelle nobis innotuit, quod, quum olim quaestio, quae vertebatur inter dilectos filios M. Phil. de Ludeleve ex una parte, Robertum et Vincentium clericos ex altera super ecclesia de Streton, ipsis et quondam abbati de Straford. a bonae memoriae C. Papa praedecessore nostro commissa fuisset, eodem abbate pariter et praedicto Vincentio de hac luce subtractis, praenominati duo iudices iuxta tenorem rescripti apostolici procedentes, attestationes et allegationes utriusque partis diligentius audierunt; et tandem, quum renunciatum eis ab utraque parte fuisset, et secundum allegata diffinitiva esset sententia promulganda contra magistrum P., adversa pars literas apostolicas arguit falsitatis, et eas esse falsas sub periculo causae se firmiter asseruit probaturam, sibi legem imponens, ut a causa caderet, nisi probaret evidentius falsitatem, et, ne ulterius iudices in causa procederent, sedem apostolicam appellavit. Saepedicto autem Phil. exhibente illum, per quem literas impetravit, et firmiter promittente, quod eas veras esse probaret, memoratus R. ab eisdem iudicibus requisitus, ut aliquam motam exprimeret falsitatis, propter quam falsas esse literas proponebat, nihil aliud specificare voluit, nisi quod eas falsas dixit, et asseruit a cancellaria nostra nullatenus emanasse. Supradicti vero iudices, ab ipso R. iuratoria cautione recepta, quod accusationem falsitatis prosequeretur, sicut superius est expressum, sequentem diem post dominicam, qua cantatur “Laetare Hierusalem,” proximo praeteritam, ad prosequendum coram nobis appellationem interpositam utrique parti terminum praefixerunt. Ceterum praefatus Robertus in termino praetaxato ad praesentiam nostram accedens, super falsitate literarum ac processu negotii veritate suppressa (ut dicitur) a nobis ad praedictos iudices literas impetravit, et nihil prorsus de falsitatis accusatione proponens, a sede apostolica furtive recessit.] Verum nos literas ipsas, quae redargutae fuerant falsitatis, diligentius intuentes, nullum in eis falsitatis signum vel suspicionis invenimus, nisi paucarum literarum rasuras, quae nequaquam sapientis animum in dubitationem vertere debuerunt. Unde [discretioni vestrae per apostolica scripta mandamus, quatenus inquiratis super his diligentius veritatem, et,] si vobis constiterit, [iam dictas literas a nobis fuisse veritate tacita impetratas, et] praedictum R. obligasse se sub periculo causae, quod literas illas falsas esse probaret, quum [inter ipsum et adversarium suum quaestio personalis agatur, et] quilibet ad renunciandum iuri suo liberam habeat facultatem, ipsi R. super dicta ecclesia silentium imponatis. [Alioquin partibus convocatis etc. Dat. Lat. XIII. Kal. Nov. 1198.]
 
-* 5.XXI. DE SORTILEGIIS.
+* 5.21. DE SORTILEGIIS.
 
 ** CAP. I.
 
@@ -3352,7 +3352,7 @@ Honorius III. Capitulo Lucanensi.
 
 Ecclesia vestra nuper episcopo destituta, sicut comperimus, vos, convenientes in unum, ut de futuri tractaretis electione pontificis, circa modum electionis diversas incipientes habere tractatus, unum tandem elegistis ex vobis per sortem, qui tres auctoritate vestra elegit, per quos vice omnium Lucanensi provideretur ecclesiae de pastore; quorum duo tertium, magistrum R. scilicet, elegerunt, quod expresse licebat eisdem secundum traditam a vobis omnibus potestatem. Procuratoribus igitur vestris super his in nostra praesentia constitutis, nos, tali examinato processu, licet nota non careat, quin immo multa reprehensione sit dignum, quod sors in talibus intervenit, †propter praerogativam tamen morum et literaturam magistri R. canonici vestri, in quem vota ecclesiae vestrae praeficiendum episcopum concurrerunt, et affectionem, quam ad eandem habemus ecclesiam, electionem celebratam de ipso ad gratiam confirmationis admittimus, sortis usum in electionibus perpetua prohibitione damnantes.
 
-* 5.XXII. DE COLLUSIONE DETEGENDA.
+* 5.22. DE COLLUSIONE DETEGENDA.
 
 ** CAP. I.
 
@@ -3386,7 +3386,7 @@ Gregorius IX. Barensi Archiepiscopo et Fratri Ioseph Monacho Florentino.
 
 In tantam clamor, qui adscendit contra Acherontinum archiepiscopum, invalescit, quod dissimulare ipsum ulterius sine scandalo non valemus, nec sine periculo tolerare. (Et infra:) Licet autem sedes apostolica frequentibus clamoribus excitata inquisitionem quorundam excessuum suorum duxerit committendam, propter tergiversationes tamen ipsius, ut dicitur, eodem cum inquisitoribus et examinatoribus colludente, nec non corruptis testibus et inquisitoribus ac examinatoribus supra dictis, non solum praedicti excessus remanserunt hactenus incorrecti, verum etiam peiora prioribus committere non expavit. (Et infra:) Discretioni vestrae mandamus, quatenus, si de huiusmodi collusione ac corruptione constiterit, ex integro super praemissis et aliis, alioquin super novis duntaxat inquiratis, quae videritis inquirenda.
 
-* 5.XXIII. DE DELICTIS PUERORUM.
+* 5.23. DE DELICTIS PUERORUM.
 
 ** CAP. I.
 
@@ -3404,7 +3404,7 @@ Alexander III. Hermonensi Episcopo.
 
 Referente nobis H. latore praesentium intelleximus, quod, quum filius eius, qui decennis erat, cum aliis pueris sagittaret, quidam nepos eiusdem H. sagitta percussus interiit, quod idem filius eius, quum inter alios luderet, fortuito casu dicitur peregisse, licet id habeatur incertum. Propter quod dilectus filius noster abbas sancti Remigii a praefato H. secundum consuetudinem illius terrae centum solidos instantius requirebat. (Et infra:) Unde, quoniam in pueris relinqui solet inultum quod in aliis provectioris aetatis humanae leges dicunt severius corrigendum, fraternitati tuae per apostolica scripta praecipiendo mandamus, quatenus rem ipsam diligentius inquiras, et, si tibi constiterit, filium praedicti H. infra XIV. aetatis suae annum eundem excessum commisisse, memoratum abbatem moneas et auctoritate nostra appellatione remota compellas, ut ab eodem H. praedictos centum solidos propter illam consuetudinem non exigat, nec ab ipso pro temporali poena requirat. Quodsi praenominatus abbas eum super hoc post commonitionem tuam duxerit impetendum, tu Haide et filium suum ab eius impetitvione sublato appellationis remedio auctoritate nostra fretus absolvas.
 
-* 5.XXIV. DE CLERICO VENATORE.
+* 5.24. DE CLERICO VENATORE.
 
 ** CAP. I.
 
@@ -3422,7 +3422,7 @@ Ex eodem.
 
 Omnibus servis Dei venationes et silvaticas vagationes cum canibus, et accipitres aut falcones interdidmus.
 
-* 5.XXV. DE CLERICO PERCUSSORE.
+* 5.25. DE CLERICO PERCUSSORE.
 
 ** CAP. I.
 
@@ -3456,7 +3456,7 @@ Coelestinus III.
 
 Continentia literarum †vestrarum inspecta, qua significastis nobis, quod, Quum P. acolythus praesentium lator cum quibusdam hominibus ad resistendum praedonibus arma sumpsisset, in conflictu illo tres fuerunt ab aliis vulnerati ad mortem, ita tamen, quod illa homicidia neque facto eius neque consilio perpetrata fuerunt. Consultationi tuae taliter respondemus, quod, quum praedictum acolythum ad frugem melioris vitae transivisse dicatis, et in monachali religione fere per annos octo laudabiliter huc usque vixisse, meritis eius alias non repugnantibus, poterit ipse ad subdiaconatus ordinem promoveri, et merito altaris ministerium exercere.
 
-* 5.XXVI. DE MALEDICIS.
+* 5.26. DE MALEDICIS.
 
 ** CAP. I.
 
@@ -3474,7 +3474,7 @@ Gregorius IX.
 
 Statuimus, ut, si quis contra Deum, vel aliquem sanctorum suorum, et maxime beatam Virginem, linguam in blasphemiam publice relaxare praesumpserit, per episcopum suum poenae subdatur inferius annotatae, videlicet, ut septem diebus dominicis prae foribus ecclesiae in manifesto, dum aguntur missarum solennia, blasphemus exsistens, ultimo illorum die dominico pallium et calceamenta non habeat, ligatus corrigia circa collum, septemque praecedentibus sextis feriis in pane ieiunet et aqua, ecclesiam nullatenus ingressurus. Quolibet quoque praedictorum dierum tres, si poterit, alioquin duos reficiat pauperes sive unum. Et, si nec ad hoc eius suppetant facultates, id in poenam aliam commutetur; cui etiam, si renuerit recipere ac peragere poenitentiam supra dictam, ecclesiae interdicatur ingressus, et in obitu ecclesiastica careat sepultura. Per temporalem praeterea potestatem, coactione, si necesse fuerit, episcopi dioecesani adhita contra eum, blasphemus, si dives fuerit, quadraginta solidorum, alioquin triginta sive viginti, et, si ad id non sufficiat, quinque solidorum usualis monetae poena mulctetur, nullam in hoc misericordiam habiturus; quod etiam inter alia communitatum statuta ponatur.
 
-* 5.XXVII. DE CLERICO EXCOMMUNICATO, DEPOSITO VEL INTERDICTO MINISTRANTE.
+* 5.27. DE CLERICO EXCOMMUNICATO, DEPOSITO VEL INTERDICTO MINISTRANTE.
 
 ** CAP. I.
 
@@ -3556,7 +3556,7 @@ Idem.
 
 Si celebrat minori excommunicatione ligatus, licet graviter peccet, nullius tamen notam irregularitatis incurrit, nec eligere prohibetur, vel ea, quae ratione iurisdictionis sibi competunt, exercere. Si tamen scienter talis electus fuerit, eius electio est irritanda pro eo, quod ad susceptionem eorum eligitur, a quorum perceptione a sanctis Patribus est privatus. Peccat autem conferendo ecclesiastica sacramenta; sed ab eo collata virtutis non carent effectu, quum non videatur a collatione, sed participatione sacramentorum, quae in sola consistit perceptione, remotus; dummodo non in contemptum ecclesiasticae disciplinae, videlicet contra prohibitionem superioris, communioni excommunicatorum pertinaciter se ingesserit, in quo casu est anathemate feriendus.
 
-* 5.XXVIII. DE CLERICO NON ORDINATO MINISTRANTE.
+* 5.28. DE CLERICO NON ORDINATO MINISTRANTE.
 
 ** CAP. I.
 
@@ -3574,7 +3574,7 @@ Urbanus III. Legionensi Episcopo.
 
 Ex literis tuae fraternitatis innotuit nobis, quod I. diaconus praesentium lator, volens ante tempus in presbyterum ordinari, asseruit, se propter ordinationem tuam gradum sacerdotalem adeptum, et, quum non imposuisses ei manum, missarum celebrationem usurpare praesumpsit, †postmodum vero Domino inspirante rediit ad se ipsum, et proprium recognoscens excessum, in tanto sibi periculo consuli humiliter postulavit. Quia igitur super hoc tua nos duxit fraternitata consulendos, literis praesentibus Consultationi tuae respondemus, quod ad sacerdotis officium non poterit promoveri; a diaconatu quoque biennio vel triennis pro tua maneat provisione suspensus. De beneficio autem misericorditer agatur cum eo, ne sustentatione privatus ad saeculi negotia revertatur. Ut autem securius ei possis hanc misericordiam facere, de agenda imposita poenitentia diligentem circa eum curam non desinas exhibere. Salubrius autem sibi absque dubio providebit, si ad regularem vitam se duxerit transferendum.
 
-* 5.XXIX. DE CLERICO PER SALTUM PROMOTO.
+* 5.29. DE CLERICO PER SALTUM PROMOTO.
 
 ** CAP. UN.
 
@@ -3584,7 +3584,7 @@ Innocentius III. Bononiensi Episcopo.
 
 Tuae nobis praesentatae literae continebant, quod, sicut ex relatione quorundam bonorum virorum receperas, P. presbyter lator praesentium, diaconatus ordine praetermisso, se fecit ad sacerdotii ordinem promoveri, quumque super hoc ab ipso quaesisses diligentius veritatem, ipse tibi quoque secreto humiliter confessus est, se pro certo nescire, si res taliter se haberet, sed, ex quo boni viri hoc asserebant, inter quos fuerat conversatus, credebat assertioni eorum, eo, quod ipse tempore, quo ordines inferiores susceperat, infra annos discretionis fuerat constitutus. †Tu igitur, ipsum ad apostolicam sedem transmittens, a nobis humiliter supplicasti, ut cum eo misericorditer agere dignaremur. Nos igitur, eius miseriae condolentes, fraternitati tuae per apostolica scripta Mandamus, quatenus condignam poenitentiam pro huiusmodi negligentia iniungas eidem; qua peracta, quia non intelligitur iteratum quod factum esse nescitur, ipsum in diaconum ordinare procures, et sic de misericordia eundem ministrare permittas in ordine sacerdotis. [Dat. Rom. ap. S. Petr. XII. Kal. Febr. 1205.]
 
-* 5.XXX. DE EO, QUI FURTIVE ORDINEM SUSCEPIT.
+* 5.30. DE EO, QUI FURTIVE ORDINEM SUSCEPIT.
 
 ** CAP. I.
 
@@ -3610,7 +3610,7 @@ Idem.
 
 Innotuit nobis ex tenore tuarum literarum, quod G. clericus lator praesentium et alii duo de dioecesi tua ad G. quondam Seguntinum episcopum, ut ordines ab eo reciperent, accesserunt; quumque ab eodem episcopo sub excommunicationis sententia fuisset inhibitum, ne quis se ad duos ordines suscipiendos ingereret, praedicti clerici nihilominus subdiaconatus et diaconatus ordinem clandestine susceperunt. †Quia igitur, quid tibi faciendum sit, pro his tua nos duxit fraternitas consulendos, Consultationi tuae taliter respondemus, quod taliter ordinati in susceptis ordinibus de iuris rigore ministrare non debent. Verum tamen, si ad religionem aliquam voluerunt se transferre, et, peracta poenitentia pro arbitrio tuo eis iniuncta, ibidem laudabiliter fuerint conversati, processu temporis cum eis poteris de nostra licentia dispensare, ut postmodum susceptorum ordinum exsecutione laetentur. Praeterea pro praedicto G., quum in persona propria laboravit, fraternitatem tuam rogamus attentius et monemus, ut eum facias in canonicam regularem St. P. de Semina vel alium religiosum locum, ubi deploret excessum, tanquam fratrem assumi, ut si ei ibidem viventi regulariter sua merita videris suffragari ministrandi prout diximus ei tribuas facultatem.
 
-* 5.XXXI. DE EXCESSIBUS PRAELATORUM ET SUBDITORUM.
+* 5.31. DE EXCESSIBUS PRAELATORUM ET SUBDITORUM.
 
 ** CAP. I.
 
@@ -3810,7 +3810,7 @@ Idem Archiepiscopo Bracarensi.
 
 Tanta est clavis Petri (Et infra:) Ad confusionem P. episcopi quondam Colubriensis non potest in memoriam non venire, quantum in nos et ecclesiam Romanam deliquerit, despexerit Petri claves, et ecclesiasticam laeserit potestatem, quum non solum interdicti sententiam, quam servaverat ab initio, temere violavit, verum etiam induxit alios, immo compulit, non servare, et quos inducere monitis et flectere minis ac terroribus ad violandam interdicti sententiam nulla potuit ratione, post atroces iniurias, amissionem bonorum, spoliationem parentum, dignitatibus, praebendis et beneficiis spolians, coegit miserabiliter exsulare, ea suis in hac parte fautoribus non absque praesumptione temeraria conferendo, quae omnia idem episcopus in nostra et fratrum nostrorum praesentia publice recognovit. Licet autem memoratus episcopus in manibus nostris spontanea cesserit voluntate: nolentes tamen, ut hi, qui huiusmodi sententiam interdicti non sunt veriti temeritate propria violare, ac recipere dignitates, praebendas ac beneficia aliorum, qui absque culpa et sine causa rationabili eis fuerant spoliati, severitatem effugiant canonicae ultionis, ne facti perversitas transeat praesumptoribus in exemplum, auctoritate Dei omnipotentis omnem institutionem, destitutionem, collationem praebendarum, beneficiorum ac dignitatum praesumptas per eundem episcopum, et excommunicationis seu interdicti sententias, in quoscunque hac occasione prolatas ab eo post interdicti violationem eiusdem, decernimus irritas et inanes. Quia vero, ubi magis exceditur, ibi est severius vindicandum, mandamus, quatenus omnibus, quos praedictus episcopus in supra dicta beneficia, praebendas et dignitates intrusit, non solum a beneficiis ipsis, praebendis et dignitatibus, verum etiam ab aliis beneficiis, si qua obtinent, et ecclesiis prorsus amotis, tam praesumptores eosdem, quam omnes alios, qui praefatum interdictum damnabiliter violarunt, suspendas auctoritate apostolica ab officio et beneficio. Illos quoque, quos in personas et res praedictorum canonicorum, praelatorum et clericorum manus temerarias constiterit extendisse, ad nostram venire compellas praesentiam, pro meritis sententiam recepturos, invocato ad hoc, si opus fuerit, auxilio brachii saecularis.
 
-* 5.XXXII. DE NOVI OPERIS NUNCIATIONE.
+* 5.32. DE NOVI OPERIS NUNCIATIONE.
 
 ** CAP. I.
 
@@ -3844,7 +3844,7 @@ Gregorius IX.
 
 Is, cui opus novum te nunciasse proponis, non obstante cautione, quae offertur ab ipso de opere destruendo, si non iure aedificatum exsistat, tenetur te per trium mensium spatium exspectare, iuris tui praeiudicium probare volentem.
 
-* 5.XXXIII. DE PRIVILEGIIS ET EXCESSIBUS PRIVILEGIATORUM.
+* 5.33. DE PRIVILEGIIS ET EXCESSIBUS PRIVILEGIATORUM.
 
 ** CAP. I.
 
@@ -4110,7 +4110,7 @@ Idem Arelatensi Capitulo.
 
 Consultationi vestrae breviter respondemus, quod terra, de qua non exstat memoria, quod aliquando culta fuisset, redacta per religiosos noviter ad culturam, perpetuo debet quoad immunitatem de non solvendis decimis novalium iure censeri, quum alias nonnunquam contingeret indulgentiam de novalibus plus eis dispendii quam utilitatis afferre.
 
-* 5.XXXIV. DE PURGATIONE CANONICA.
+* 5.34. DE PURGATIONE CANONICA.
 
 ** CAP. I.
 
@@ -4240,7 +4240,7 @@ Idem.
 
 Accepimus literas, quibus nobis intimare curastis, quod apostolico mandato super indicenda purgatione venerabili fratri nostro archiepiscopo Bisuntino recepto, ipsum citastis ut decuit; qui ad diem praefixum comparuit coram vobis, iuramentum purgationis offerens sub hac forma, videlicet, quod immunis erat ab illis criminibus, super quibus se purgare debebat. †[Quumque vos diceretis, hanc non esse formam canonicam, et super hoc fuisset aliquamdiu disputatum, ipse tandem ad nos vocem appellationis emisit, cui de prudentum virorum consilio detulistis.] Ipse vero ad praesentium nostram accedens humiliter supplicavit, ut saltem super purgatione incontinentiae dignaremur temperare rigorem, quia non deberet asserere, quod a nativitate sua nunquam passus fuerit lapsum carnis. Porro, quum ab eo non credatur exactum fuisse huiusmodi iuramentum, potius forte praesumimus, quod alia de causa volebat sub praescripta forma iurare, videlicet, quod immunis erat ab illis criminibus, de quibus fuerat infamatus, tanquam, dimissis per poenitentiam, iam esset immunis ab illis. Sed hoc iurare non parvae temeritatis exsisteret, quum beatus Iob dicat: “Etiamsi simplex fuero, hoc ipsum ignorat anima mea,” †[et Salomon: “Quis potest dicere, mundum est cor meum et purus sum a peccato?” Unde Psalmista dicebat: “Delicta quis intelligit, ab occultis munda me, Domine,” Apostolo attestante: “Nihil mihi conscius sum, non tamen in hoc iustificatus sum.”] Ideoque praescriptam purgationis formam, secundum quam idem archiepiscopus obtulit se purgare, reprobamus, utpote indiscretam, temerariam et ineptam, iniungentes eidem, ut, si voluerit et potuerit secundum hanc formam se purgare, secundum sanum intellectum, quem ei duximus exprimendum, videlicet quod illa crimina graviora, id est simoniam, venditionem iustitiae atque incontinentiam, de quibus infamatus exsistit, iuret se minime commisisse, postquam ad archiepiscopalem promotus est dignitatem; et compurgatores sic iurent, quod credunt, eum verum iurasse. Quo facto, vos illum dimittatis in pace. Alioquin etc. [Dat. Lat. IV. Non. Ian. Pont. nostr. Ao. XVI. 1214.]
 
-* 5.XXXV. DE PURGATIONE VULGARI.
+* 5.35. DE PURGATIONE VULGARI.
 
 ** CAP. I.
 
@@ -4266,7 +4266,7 @@ Honorius III.
 
 Dilecti filii noviter in Livonia baptizati gravem ad nos querimoniam destinarunt, quod fratres Templariorum ordinem in Livonia profitentes, et alii quidam advocati et iudices, qui temporalem in eis potestatem exercent, si quando de aliquo alio crimine infamantur, eos ferri candentis iudicium subire compellunt, quibus, si qua exinde sequatur adustio, civilem poenam infligunt, qua re conversis et convertendis scandalum incutiunt et terrorem. Quum igitur huiusmodi iudicium secundum legitimas et canonicas sanctiones sit penitus interdictum, utpote, in quo Deus tentari videtur: mandamus, quatenus dictos fratres et alios, ut ab huiusmodi conversorum gravamine omnino desistant, monitione praemissa per censuram ecclesiasticam appellatione remota compellas.
 
-* 5.XXXVI. DE INIURIIS ET DAMNO DATO.
+* 5.36. DE INIURIIS ET DAMNO DATO.
 
 ** CAP. I.
 
@@ -4338,7 +4338,7 @@ Idem.
 
 Si culpa tua datum est damnum vel iniuria irrogata, seu aliis irrogantibus opem forte tulisti, aut haec imperitia tua sive negligentia evenerunt: iure super his satisfacere te oportet, nec ignorantia te excusat, si scire debuisti, ex facto tuo iniuriam verisimiliter posse contingere vel iacturam. Quodsi animalia tua nocuisse proponas, nihilominus ad satisfactionem teneris nisi ea dando passis damnum velis liberare te ipsum; quod tamen ad liberationem non proficit, si fera animalia, vel quae consueverunt nocere, fuissent, et quam debueras non curasti diligentiam adhibere. Sane, licet qui occasionem damnt dat damnum videatur dedisse: secus est tamen in illo dicendum, qui, ut non accideret, de contingentibus nil omisit.
 
-* 5.XXXVII. DE POENIS.
+* 5.37. DE POENIS.
 
 ** CAP. I.
 
@@ -4444,7 +4444,7 @@ Honorius III. Praeposito, Archidiacono et H. Canonico Suessionensibus.
 
 Gravem dilectorum filiorum capituli Lund. recepimus quaestionem, quod, quum nobilis vir comes Registrensis pro multis iniuriis, quas irrogarat eisdem, per iudices a sede apostolica delegatos excommunicationis vinculo fuerit innodatus, idem, iam per duos annos et amplius in excommumicatione persistens, iuri parere pertinaciter renuit, claves ecclesiae in suae salutis dispendium et plurimorum scandalum contemnendo. Licet igitur huiusmodi pertinacia non careat scrupulo haereticae pravitatis: volentes tamen nobilitati parcere comitis supra dicti, si forsan ad cor revertens a suo resipiscat errore, discretioni vestrae mandamus, quatenus, si comes praedictus a vobis diligenter commonitus, infra quindecim dies post commonitionem vestram non paruerit plene iuri, vos excommunicationis sententiam latam in eum, sicut rationabiliter est prolata, facientes usque ad condignam satisfactionem inviolabiliter observari, et totam terram ipsius ac loca, in quibus idem comes fuerit commoratus, supponentes ecclesiastico interdicto, ecclesias, in quibus aliquod ius habere dignoscitur, ab eius debito sublato cuiuslibet contradictionis et appellationis obstaculo absolventes, fideles ipsius, quamdiu in excommunicatione perstiterit, ab eius fidelitatis iuramento denuncietis penitus absolutos. Quodsi forsan nec sic tribuat ei vexatio intellectum poterit non immerito formidare, ne sua pertinacia eum in haeresis impingat infamiam, quam quum noluerit forte de facili non poterit evitare.
 
-* 5.XXXVIII. DE POENITENTIIS ET REMISSIONIBUS.
+* 5.38. DE POENITENTIIS ET REMISSIONIBUS.
 
 ** CAP. I.
 
@@ -4575,7 +4575,7 @@ Gregorius IX.
 
 Ne pro dilatione poenitentiae periculum immineat animarum, permittimus episcopis et aliis superioribus, nec non minoribus praelatis exemptis, ut etiam praeter sui superioris licentiam providum et discretum sibi possint eligere confessorem.
 
-* 5.XXXIX. DE SENTENTIA EXCOMMUNICATIONIS.
+* 5.39. DE SENTENTIA EXCOMMUNICATIONIS.
 
 ** CAP. I.
 
@@ -5068,7 +5068,7 @@ Idem.
 
 Pueris, qui in canonem inciderunt sententiae promulgatae, sive ante sive post pubertatem postulent, se absolvi, potest dioecesanus episcopus absolutionis beneficium impertiri, quum propter defectum aetatis, in qua fuit commissus excessus, rigor sit mansuetudine temperandus.
 
-* 5.XL. DE VERBORUM SIGNIFICATIONE.
+* 5.40. DE VERBORUM SIGNIFICATIONE.
 
 ** CAP. I.
 
@@ -5334,7 +5334,7 @@ Gregorius IX. Decano et Sacristae Engo.
 
 Transmissae nobis literae continebant, quod, significantibus episcopo et capitulo Xantonensi, quod quadragenarius canonicorum numerus, institutus in eorum ecclesia, non poterat observari, pro eo, quia non sufficiebant ecclesiae facultates, vobis dedimus in mandatis, ut canonicorum et praebendarum numerum iuxta facultates ecclesiae moderantes, statueretis eundem firmiter observari. Vos vero invenistis, praedictae ecclesiae facultates a tempore statuti numeri adeo excrevisse, quod absque mutilatione praebendarum maior haberi posset numerus in eadem: quare quaesistis, an per “moderationis” verbum, literis nostris appositum, eundem numerum augmentare vel minuere deberetis. Quocirca mandamus, quatenus, si veteres non sunt minutae praebendae, quum moderatio locum non habeat, ipsarum et canonicorum numerum dimittatis in eodem statu, in quo hactenus dignoscitur exstitisse, in utilitatem eiusdem ecclesiae convertentes augmentum suorum redituum, donec duxerimus aliter disponendum.
 
-* 5.XLI. DE REGULIS IURIS.
+* 5.41. DE REGULIS IURIS.
 
 ** CAP. I.
 

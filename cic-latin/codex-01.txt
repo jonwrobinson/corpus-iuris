@@ -262,6 +262,8 @@ Et alia manu: gratia domini nostri ihesu christi et caritas dei patris et commun
 
 * 1.02.0. De sacrosanctis ecclesiis et de rebus et privilegiis earum.
 
+VULGATE: 1.2(5).0.
+
 1.2.1: Imperator Constantinus
 
 Habeat unusquisque licentiam sanctissimo catholicae venerabilique concilio decedens bonorum quod optavit relinquere. non sint cassa iudicia. nihil est quod magis hominibus debetur, quam ut supremae voluntatis, post quam iam aliud velle non possunt, liber sit stilus et licitum quod iterum non redit arbitrium.   const. a. ad pop. <a 321 pp. v non. iul. romae crispo ii et constantino ii cc. conss.>
@@ -393,7 +395,7 @@ Sub hac tamen definitione, ut impletis iis quae hac lege piacuerunt et pia donat
 
 1.2.16pr.: Imperator Zeno
 
-Decernimus, ut antiquatis ac infirmatis funditus, quae contra ipsum orthodoxae religionis deum quodammodo facta sunt, in integrum restituantur universa et ad suum ordinem revocentur, quae ante profectionem nostrae mansuetudinis de orthodoxae religionis fide et sanctissimarum ecclesiarum et martyriorum statu firmiter obtinebant: his, quae contra haec tempore tyrannidis innovata sunt tam contra venerabiles ecclesias, quarum sacerdotium gerit beatissimus ac religiosissimus episcopus patriarcha nostrae pietatis pater acacius, quam ceteras, quae per diversas provincias collocatae sunt, nec non et reverentissimos earum antistites seu de iure sacerdotalium creationum seu de expulsione cuiusquam episcopi a quolibet illis temporibus facta seu de praerogativa in episcoporum concilio vel extra concilium ante alios residendi vel de privilegio metropolitano vel patriarch ico sub isdem impiis temporibus, penitus antiquandis, ut cassatis et rescissis, quae per huiusmodi sceleratas iussiones aut pragmaticas sanctiones aut constitutiones impias sive formas subsecuta sunt, quae a divae recordationis retro principibus ante nostrum imperium et deinceps a nostra mansuetudine indulta vel constituta sunt super sanctis ecclesiis et martyriis et religiosis episcopis clericis aut monachis, inviolata serventur.   zeno a. sebastiano pp. <a 477 d. xvi k. ian. post cons. armati vc.>
+Decernimus, ut antiquatis ac infirmatis funditus, quae contra ipsum orthodoxae religionis deum quodammodo facta sunt, in integrum restituantur universa et ad suum ordinem revocentur, quae ante profectionem nostrae mansuetudinis de orthodoxae religionis fide et sanctissimarum ecclesiarum et martyriorum statu firmiter obtinebant: his, quae contra haec tempore tyrannidis innovata sunt tam contra venerabiles ecclesias, quarum sacerdotium gerit beatissimus ac religiosissimus episcopus patriarcha nostrae pietatis pater acacius, quam ceteras, quae per diversas provincias collocatae sunt, nec non et reverentissimos earum antistites seu de iure sacerdotalium creationum seu de expulsione cuiusquam episcopi a quolibet illis temporibus facta seu de praerogativa in episcoporum concilio vel extra concilium ante alios residendi vel de privilegio metropolitano vel patriarchico sub isdem impiis temporibus, penitus antiquandis, ut cassatis et rescissis, quae per huiusmodi sceleratas iussiones aut pragmaticas sanctiones aut constitutiones impias sive formas subsecuta sunt, quae a divae recordationis retro principibus ante nostrum imperium et deinceps a nostra mansuetudine indulta vel constituta sunt super sanctis ecclesiis et martyriis et religiosis episcopis clericis aut monachis, inviolata serventur.  zeno a. sebastiano pp. <a 477 d. xvi k. ian. post cons. armati vc.>
 
 1.2.16.1: Imperator Zeno
 
@@ -493,6 +495,8 @@ In his autem omnibus casibus non solum personales actiones damus, sed etiam in r
 Haec autem omnia observari sancimus in iis casibus, qui vel postea fuerint nati vel iam in iudicium deducti sunt. <a 530 d. v k. april. constantinopoli lampadio et oreste vv. cc. conss.>
 
 * 1.03.0. De episcopis et clericis et orphanotrophis et brephotrophis et xenodochis et asceteriis et monachis et privilegio eorum et castrensi peculio et de redimendis captivis et de nuptiis clericorum vetitis seu permissis.
+
+Vulgate: 1.3(6).0 De episcopis et ...
 
 1.3.1: Imperator Constantius
 

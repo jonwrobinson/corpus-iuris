@@ -32,7 +32,7 @@ districtius prohibemus, ne quis praesumat aliam facere absque
 auctoritate sedis apostolicae speciali.
 
 * LIBER PRIMUS.
-* 1.I. DE SUMMA TRINITATE ET FIDE CATHOLICA.
+* 1.01. DE SUMMA TRINITATE ET FIDE CATHOLICA.
 ** CAP. I.
 
 Tractat de trinitate et ipsius operibus; de fide et articulis fidei. – §. 3. Tractatur hic de sacramentis ecclesiasticis. Abb. Sic.
@@ -179,7 +179,7 @@ magistra. §. 3. Reprobamus etiam et condemnamus perversissimum dogma
 impii Almarici, cuius mentem sic pater mendacii excaecavit, ut eius
 doctrina non tam haeretica censenda sit quam insana.
 
-* 1.II. DE CONSTITUTIONIBUS.
+* 1.02. DE CONSTITUTIONIBUS.
 ** CAP. I.
 
 Iuris canonici statuta omnes ligant, et eorum ritu tam in pronunciando quam in decidendo iudicia sunt regulanda.
@@ -284,7 +284,7 @@ Gregorius IX. Archipresbytero S. Mariae maioris de Urbe.
 
 Quoniam constitutio apostolicae sedis omnes adstringit et nihil debet obscurum vel ambiguum continere, declaramus, constitutionem, quam nuper super praeferendis in perceptione portionis maioribus et consuetis servitiis, a minoribus exhibendis, edidimus, non ad praeterita, sed ad futura tantum extendi, quum leges et constitutiones futuris certum sit dare formam negotiis, non ad praeterita facta trahi, nisi nominatim in eis de praeteritis caveatur.
 
-* 1.III. DE RESCRIPTIS.
+* 1.03. DE RESCRIPTIS.
 ** CAP. I.
 
 Privilegio generali, secundum ius commune obtento, obstat rescriptum speciale, etiam de eo mentionem non faciens. H. d. secundum intellectum magis communem.
@@ -649,7 +649,7 @@ Idem Episcopo Parisiensi.
 
 Quia nonnulli diversis modis literis apostolicis abutuntur, statuimus, ut, quicunque obtentas sub nomine suo literas aliis eiusdem nominis tradunt, qui quos volunt fatigant indebite per easdem, et qui eas tali modo recipiunt, quique illos, contra quos nihil habent quaestionis, faciunt in iudicium evocari, aut literas ipsas ad futuras trahunt controversias, quae nondum fuerant tempore impetrationis exortae, seu quemquam super uno negotio, vel etiam malitiose super pluribus personalibus actionibus, quae sub uno iudice possent tractari commodius, per varias literas coram diversis iudicibus trahunt, ut laboribus fatigatus et sumptibus vel compellatur componere, vel cedere iuri suo, aut reus actorem eodem tempore ad diversa loca, vel indeterminate ad villam, quae commune cum pluribus eiusdem provinciae villis habet vocabulum, citari procurat, ut, dum non comparuerit, excommunicetur quasi contumax, et sic eum a sua intentione repellat, earundem literarum commodo careant, et adversariis in moderatis expensis ac damnis, quae propter hoc eos pertulisse constiterit, condemnentur.
 
-* 1.IV. DE CONSUETUDINE.
+* 1.04. DE CONSUETUDINE.
 
 ** CAP. I.
 
@@ -739,7 +739,7 @@ Gregorius IX.
 
 Quum tanto sint graviora peccata, quanto diutius infelicem animam detinent alligatam, nemo sanae mentis intelligit, naturali iuri, cuius transgressio periculum salutis inducit, quacunque consuetudine, quae dicenda est verius in hac parte corruptela, posse aliquatenus derogari. Licet etiam longaevae consuetudinis non sit vilis auctoritas, non tamen est usque adeo valitura, ut vel iuri positivo debeat praeiudicium generare, nisi fuerit rationabilis et legitime sit praescripta.
 
-* 1.V. DE POSTULATIONE PRAELATORUM.
+* 1.05. DE POSTULATIONE PRAELATORUM.
 
 ** CAP. I.
 
@@ -789,7 +789,7 @@ Honorius III. Capitulo Calaritano.
 
 Etsi unanimiter vota vestra concurrerint ad venerabilem fratrem nostrum Sutrinum episcopum in ecclesiae vestrae archiepiscopum eligendum, quum suae alligatus ecclesiae liberum non habeat sine nostra permissione volatum, electionem de ipso factam, tanquam contra canones minus licite attentatam, de fratrum nostrorum consilio duximus irritandam, quum eligi nullo iure potuerit, sed potius postulari. Volentes tamen quantum cum Deo possumus vestris desideriis concurrere benigno favore dilectis filiis subdiacono et B. Capellano nostris, apostolicae sedis legatis, duximus iniungendum, ut et vota vestra circa ipsum exquirant, et personae merita vice nostra examinent diligentes, eundem ad nos cum literis suis veritatem continentibus destinando, ut si idoneus repertus fuerit, disponente Domino, et ipsi in ecclesia et ecclesiae vestrae utiliter provideatur in ipso.
 
-* 1.VI. DE ELECTIONE ET ELECTI POTESTATE.
+* 1.06. DE ELECTIONE ET ELECTI POTESTATE.
 
 ** CAP. I.
 
@@ -1559,7 +1559,7 @@ Idem.
 
 His, quibus interdicitur, ut absque superioris licentia eligere non praesumant, tempus statutum a canone currit, ex quo in mora fuerint licentiam huiusmodi postulandi.
 
-* 1.VII. DE TRANSLATIONE EPISCOPI.
+* 1.07. DE TRANSLATIONE EPISCOPI.
 
 ** CAP. I.
 
@@ -1697,7 +1697,6 @@ velit et valeat, quam praeesse [etc. Dat. Lat. XII. Kal. Febr. 1199.]
 Episcopus, qui propria auctoritate de sua ecclesia se transfert ad aliam, carebit utraque.
 
 Idem Episcopo et Petro Scholastico Maguntinensi.
-
 Quanto personam venerabilis fratris nostri Hildesemensis quondam episcopi †sinceriori diligebamus affectu, tanto securius sperabamus, quod nihil adversus matrem suam Romanam ecclesiam in praeiudicium sui ordinis et ecclesiasticae disciplinae dispendium attentaret. Ipse vero, sicut certa multorum assertione comperimus, et suarum didicimus nihilominus testimonio literarum, quibus ad nos directis Herbipolensem se pontificem nominabat, relicta Hildesemensi ecclesia, cui fuerat spirituali gratia coniugio copulatus, ad Herbipolensem ecclesiam sine auctoritate Romani Pontificis auctoritate propria se transtulit, non attendens, quod Veritas in evangelio protestatur: “Quos Deus coniunxit homo non separet.” Potestatem [enim] transferendi pontifices ita sibi retinuit Dominus et magister, quod soli beato Petro vicario suo, et per ipsum successoribus suis, et nobis ipsis, qui locum eius licet indigni tenemus in terris, speciali privilegio tribuit et concessit, sicut testatur antiquitas, cui decreta Patrum sanxerunt reverentiam exhibendam, et evidenter asserunt sacrorum canonum sanctiones. Non enim homo, sed Deus separat, quos Romanus Pontifex, qui non puri hominis, sed veri Dei vicem gerit in terris, ecclesiarum necessitate vel utilitate pensata, non humana, sed divina potius auctoritate dissolvit. (Et infra:) Ne autem facti perversitas transeat praesumptoribus in exemplum, quod quidem, si verum est, non potest non esse notorium, auctoritate omnipotentis Dei et beatorum Petri et Pauli Apostolorum, et nostra, de communi fratrum nostrorum consilio, in virtute sancti Spiritus districte sibi praecipimus, ut, visis literis nostris, omni contradictione et appellatione cessantibus administrationem ipsius Herbipolensis ecclesiae tam in spiritualibus quam temporalibus penitus derelinquat. †Si vero, quod non credimus, hanc suspensionem nostram non curaverit humiliter observare, et inhibita sibi usurpare praesumpserit, excommunicationis vinculo ipsum decernimus innodatum. Omnibus etiam tam clericis quam laicis Herbipolensis dioecesis sub anathematis interminatione praecipimus, ut, non obstante iuramento fidelitatis, omnem ipsi obedientiam subtrahant, quam ipse sibi contra sacros canones usurpavit, non attendens, quod dicit Apostolus: “Nemo sibi assumat honorem, sed qui vocatur a Deo, tanquam Aaron.” Ceterum quoniam Herbipolensis ecclesiae canonici vota sua in ipsum prorsus illicite contulerunt, volentes, sicut dignum est, ut in eo puniantur, in quo peccaverunt, eligendi eos hac vice suspendimus potestate, †et si contra sedis apostolicae interdictum ad cuiusdam nominationem processerint, quod ab eis factum fuerit irritum decernimus et inane. Quia vero iam dictam Hildesemensem ecclesiam, cui fuerat alligatus, unde secundum Apostolum solutionem quaerere non debeat, nimis improbe dereliquit, ne ad ipsam redeat ulterius, in virtute sancti Spiritus ei districtius prohibemus, quum secundum traditiones canonicas qui ad maiorem se plebem transtulerit a cathedra repelli debeat aliena, et carere propria, ut nec illis praesideat, quos per superbiam sprevit, nec illis, quos per avaritiam concupivit. [Nos quoque etc. Dat. Spoleti, XII. Kal. Sept. 1198.]
 
 ** CAP. IV.
@@ -1708,7 +1707,7 @@ Idem Branbur. Episcopo et Scholastico Maguntinensi.
 
 Licet in tantum †[apostolicae sedis attendatur auctoritas, ut nihil praeter eius auctoritatem in cunctis ecclesiarum negotiis rationabiliter disponatur, utpote quae canones, quibus forma ecclesiasticae constitutionis exprimitur, vel edidit, vel ab aliis editos approbavit, suum receptione ac approbatione faciens, quod adinventione vel editione videbatur forsitan alienum;] quaedam tamen sibi quodammodo specialiter et singulariter reservavit, ut praeter specialem auctoritatem ipsius nec iure agi debeant, nec attentari valeant cum effectu. In his autem specialiter translationes episcoporum non tam constitutio canonica, quam divina eius tantum potestati commisit, ut Sicut legitimi matrimonii vinculum, quod est inter virum et uxorem, homo dissolvere nequit, Domino dicente in evangelio: “Quos Deus coniunxit, homo non separet,” sic et spirituale foedus coniugii, quod est inter episcopum et [eius] ecclesiam, quod in electione initiatum, ratum in confirmatione, et in consecratione intelligitur consummatum, sine illius auctoritate solvi non potest, qui successor est Petri et vicarius Iesu Christi. Hoc autem C. quondam Hildesemensis episcopus non attendens, licentia nostra nec postulata nec habita, contra canonicas sanctiones et in iniuriam apostolicae sedis, cuius super hoc fuerat et requirendus et obtinendus assensus, ad Herbipolensem ecclesiam ab Hildesemensi non auctoritate nostra, sed propria temeritate transivit, †et administrationi eius se ingerens Herbipolensem se fecit episcopum nominari. Nec illa felicis recordationis Coelestini Papae praedecessoris nostri indulgentia, quam impetrasse refertur, in hoc praesumptionem excusat ipsius, sed ambitionem accusat, utpote quae ipsum reddidit de ambitione notabilem, non auctoritatem contulit ad aliam episcopalem ecclesiam transeundi, quum in ea sit expressum, quod, si ad maiorem vocaretur forsitan dignitatem, eam sibi liceret assumere, dum tamen nihil ei de statutis canonicis obviaret. Unde, licet forsitan aliquibus videatur, ut indulgentiae occasione ipsius ad dignitatem possit transire maiorem, ad parem tamen ipsi transire non licuit, quum in maiori dignitate propter maiorem utilitatem facilius soleat dispensari. Praeterea quum postulatio, sicut et electio, examinari soleat diligenter, et tenor illius indulgentiae non solum videatur postulationis examinationem, sed personae etiam reservare, subiungens: “dummodo nihil appareat, quod tibi de canonicis obviet institutis,” antequam per eum postulatio examinata fuisset, cui fuerat facienda, nulla ratione debuerat transisse. [Licet autem etc. Dat. Lat. VII. Kal. Febr. 1200.]
 
-* 1.VIII. DE AUCTORITATE ET USU PALLII.
+* 1.08. DE AUCTORITATE ET USU PALLII.
 
 ** CAP. I.
 
@@ -1766,7 +1765,7 @@ Honorius III. Archiepiscopo Tri.
 
 Quia nos, (Et infra: [cf. c. ult. de apost. V. 9.] Inquisitioni tuae taliter respondemus, quod tam in tua quam in aliena dioecesi potes sine pallio et sandaliis celebrare, qui utique in tua dioecesi non debes semper celebrare cum pallio, sed diebus illis duntaxat, qui in ecclesiae tuae privilegiis sunt expressi. Sicque soluta est quarta quaestio, qua quaesivisti, an tibi sit licitum pro defunctis cum pallio celebrare. [Dat. Reate III. Id. Aug. 1225.]
 
-* 1.IX. DE RENUNCIATIONE.
+* 1.01. DE RENUNCIATIONE.
 
 ** CAP. I.
 
@@ -1889,7 +1888,7 @@ Gregorius IX. Agathensi et Uticensi Episcopis.
 
 Dilecti filii conventus monasterii sancti G. de Desertis immediate ad Romanam pertinentis ecclesiam, suis nobis literis intimaverunt, quod abbas eorum, sentiens se insufficientem oneri regiminis abbatiae, cessit in manibus eorundem; ipsi quoque dilectum filium G. monachum sancti Victoris Massiliensis elegerunt canonice in abbatem, †supplicantes, ut eorum parcentes laboribus et expensis, electionem ipsorum faceremus in illis partibus confirmari. Quum igitur dictus abbas cedere sine licentia nostra nequiverit, nos tam electionem quam cessionem praedictas decernentes irritas et inanes, discretioni vestrae per apostolica scripta mandamus, quatenus abbatem ipsum loco suo restitui faciatis, quo integre restituto vice nostra recipiatis cessionem ipsius.
 
-* 1.X. DE SUPPLENDA NEGLIGENTIA PRAELATORUM.
+* 1.10. DE SUPPLENDA NEGLIGENTIA PRAELATORUM.
 
 ** CAP. I.
 
@@ -1931,7 +1930,7 @@ Idem Episcopo Samo.
 
 Dilecto filio nostro P. tituli sancti Marcellini presbytero cardinali S. et R. procuratoribus P. et G. apud sedem apostolicam constitutis auditore concesso, †idem thesaurarius proposuit coram eo, quod, quum in Salamantina ecclesia, in qua cantoris electio ad episcopum et capitulum communiter pertinet, cantoria vacante, dictum capitulum saepius episcopum monuisset, ut ad celebrandam cantoris electionem cum eo pariter conveniret, eodem episcopo infra semestre tempus id facere negligente, capitulum uti cupiens iure suo, in ecclesiae memoratae capitulo, sicut est moris, supradictum Paschasium eiusdem loci canonicum in cantorem elegit, ne quid in eiusdem electionis praeiudicium fieret appellando, quam supradictus thesaurarius auctoritate apostolica petiit confirmari, ac electionem, quam venerabilis frater noster Compostellanus archiepiscopus post appellationem huiusmodi de G. clerico multis criminibus irretito ac tunc temporis vinculo excommunicationis adstricto fecerat, tamquam minus canonice celebratam cassari. Dictus vero Dominicus proposuit ex adverso, quod, emenso VI. mensium spatio, infra quod ad episcopum et capitulum cantoris electio pertinebat, decanus et quidam canonici Salamantini, episcopo, archidiacono et nonnullis canonicis qui praesentes in civitate aderant, inconsultis, non consueta hora, vel in capitulo iuxta morem, sed in ecclesia potius, quibusdam laicis advocatis stulte et inordinate nimis eligere praesumpserunt. Et quum iam dicti archiepiscopi, qui eos propter hoc evocaverat, adire praesentiam noluissent, ipse intelligens eligendi auctoritatem ad se iuxta Lateranensis concilii statutum devolutam, supradictum G. in cantorem elegit, et eundem fecit de cantoria corporaliter investiri. Postmodum autem decanus et sui complices nobis, de his mentione non habita, suggerendo, quod episcopus, qui monitus saepius infra sex menses eligere noluerat in ecclesiae detrimentum, cantore, qui ab eodem decano cum maiore parte capituli institutus fuerat, spoliato, alium instituerat in cantorem, ad decanum, archidiaconum et archipresbyterum Abulenses nostras literas impetrarunt. Quarum auctoritate, quum supradictus G. ab eisdem fuisset iudicibus evocatus, eisdem inhibuit, ne per dictas literas procederent contra eum, quum in eis de sua electione facta per archiepiscopum nulla mentio haberetur, et cum propter hoc, tum [etiam], quia prima citatione ad loca remota peremptorie citatus exstiterat, tum etiam, quia iudices quosdam ex electoribus dicti Paschasii consanguinitatis linea contingebant, ad sedem apostolicam appellavit. Sed iudices nihilominus ad Salamantinam ecclesiam accedentes, saepedictum P. in cantoriae possessionem causa rei servandae contra iustitiam induxerunt. Quum igitur super his et aliis coram eodem cardinali procuratores ipsi aliquamdiu litigassent, et ipse nobis fideliter retulisset, quae proposita fuerant coram eo, Quia nobis constitit a Salamantino decano et eius sequacibus, post elapsum sex mensium spatium, infra quod episcopus et capitulum, prout communiter spectabat ad eos, procedere ad electionem cantoris neglexerant, electionem supradicti P. minus canonice celebratam, eandem decernimus irritam et inanem, et appellationem a decano et suis fautoribus interpositam factum archiepiscopi, ad quem iam erat eligendi auctoritas devoluta, nequivisse aliquatenus impedire. †Quia vero contra personam ipsius G. quaedam obiecta fuerunt de quibus nobis non potuit fieri plena fides, [discretioni vestrae per apostolica scripta] Mandamus, quatenus, nisi iam dicto G. aliquod canonicum obviet, electionem de ipso factam sublato appellationis obstaculo confirmetis, facientes ipsum eiusdem cantoriae pacifica possessione gaudere; contradictores etc. [Dat. Lat. V. Kal. Nov. Ao. XIII. 1210.]
 
-* 1.XI. DE TEMPORIBUS ORDINATIONUM ET QUALITATE ORDINANDORUM.
+* 1.11. DE TEMPORIBUS ORDINATIONUM ET QUALITATE ORDINANDORUM.
 
 ** CAP. I.
 
@@ -2069,7 +2068,7 @@ Idem.
 
 Quaesitum est de sacerdotibus vel aliis clericis, qui per reatum adulterii, periurii, homicidii vel falsi testimonii bonum conscientiae rectae perdiderunt (Et infra:) Respondemus: quod, si proposita crimina ordine iudiciario comprobata, vel alias notoria non fuerint, non debent hi, praeter reos homicidii, post poenitentiam in iam susceptis vel suscipiendis ordinibus impediri; qui, si non poenituerint, monendi sunt et sub interminatione divini iudicii obtestandi, ut in testimonium suae damnationis in susceptis etiam ordinibus non ministrent.
 
-* 1.XII. DE SCRUTINIO IN ORDINE FACIENDO.
+* 1.12. DE SCRUTINIO IN ORDINE FACIENDO.
 
 ** CAP. UN.
 
@@ -2079,7 +2078,7 @@ Innocentius III.
 
 Ex parte tua fuit propositum (Et infra:) Quaesivisti praeterea per sedem apostolicam doceri, ut, quum episcopi ad consecrationes episcoporum ab archiepiscopo vel etiam alio evocentur, et ipsi metropolitano electum offerant consecrandum, dicentes: “Reverende pater, postulat sancta mater ecclesia hunc electum in episcopum consecrari, et interrogante archiepiscopo, si sciant, illum esse dignum, respondeant, quod illum sciunt et credunt pariter esse dignum, et te in responsione huiusmodi, ne offenderes hominem, Deum existimes offendisse, quandoque praeter, quandoque contra conscientiam respondendo, quum electi conversatio aut minus tibi cognita aut penitus sit ignota, qualiter in huiusmodi interrogationibus, salva conscientia, valeas respondere. Ad quod Fraternitati tuae taliter respondemus, quod, quum nos aliquem in diaconum vel presbyterum promovemus, prior diaconorum, qui nobis assistit, dicit: “Postulat sancta mater ecclesia catholica hunc diaconum vel subdiaconum ad onus presbyteratus vel diaconatus assumi,” et nobis interrogantibus, si eum cognoverit esse dignum, idem respondet, quod, quantum humana fragilitas nosse sinit, et scit, et testificatur, illum ad huiusmodi onus officii esse dignum. Unde in tali responsione aliquem peccare non credimus, dummodo contra conscientiam non loquatur, quia non simpliciter illum asserit esse dignum, sed in quantum humana fragilitas nosse sinit, quum illum, quem indignum esse non novit, dignum debeat aestimare. Huiusmodi ergo responsione secure uti poteris, nisi forte de indignitate tibi constiterit consecrandi. Si autem illum indignum esse cognoscis, metropolitano, priusquam ad huiusmodi scrutinium veniatur, secreto studeas nunciare vel intimare, quamvis, ut duximus, nos interrogationem huiusmodi non in consecratione pontificis, sed in ordinatione diaconi vel presbyteri faciamus. [Postulasti etc. Dat. Rom. ap. S. Petr. Id. Mart. Ao. IX. 1206.]
 
-* 1.XIII. DE ORDINATIS AB EPISCOPO, QUI RENUNCIAVIT EPISCOPATUI.
+* 1.13. DE ORDINATIS AB EPISCOPO, QUI RENUNCIAVIT EPISCOPATUI.
 
 ** CAP. I.
 
@@ -2097,7 +2096,7 @@ Gregorius IX.
 
 Cum clericis, qui ab excommunicato episcopo ignoranter ordines receperunt, per suos poterit episcopos dispensari.
 
-* 1.XIV. DE AETATE ET QUALITATE ET ORDINE PRAEFICIENDORUM.
+* 1.14. DE AETATE ET QUALITATE ET ORDINE PRAEFICIENDORUM.
 
 ** CAP. I.
 
@@ -2219,7 +2218,7 @@ Honorius III. Capitulo Bremensi.
 
 Quamvis multa proposita fuerint contra venerabilem fratrem nostrum episcopum Calinensem, etsi nihil probatum esset de illis, quia tamen confessus est coram nobis, se nunquam de grammatica didicisse, nec etiam legisse Donatum, et per evidentiam facti usque adeo de illiteratura et insufficientia sua constat, quod contra Deum esset et canonicas sanctiones, tantum in episcopo tolerare defectum, de communi fratrum nostrorum consilio ipsum a pontificalis officii exsecutione et ab administratione Calinensis ecclesiae penitus duximus amovendum, irritantes si quid nomine ipsius ecclesiae vel de bonis eiusdem de cetero attentabit.
 
-* 1.XV. DE SACRA UNCTIONE.
+* 1.15. DE SACRA UNCTIONE.
 ** CAP. I.
 
 Ecclesia Graecorum in ordinationibus et consecrationibus servare debet unctiones, quas servat ecclesia Romana; episcopus autem, quum consecratur, inungitur chrismate in capite et manibus; quod, si fuerit praetermissum, per tres episcopos est supplendum. – §. 5. Tractat de unctione regum, et de differentiis in unctione inter reges et pontifices. Pan. – §. 6. Tractat de Christianorum omnium unctione. – §. 7. Tractat de unctione chrismatis post baptismum, quae dicitur confirmatio. §. 8. Tractat de consecratione altaris. Abbas.
@@ -2228,7 +2227,7 @@ Innocentius III.
 
 Quum venisset ad apostolicam sedem venerabilis frater noster Barcarensis episcopus, qui in consecratione sua sacram non acceperat unctionem, quoniam apud vos non consueverunt pontifices, quum consecrantur, inungi, nos quod illi defuerat mandavimus in ipso suppleri, facientes caput eius et manus per venerabilem fratrem nostrum Ioannem Albanensem episcopum, assistentibus ei duobus episcopis, secundum morem ecclesiasticum sacro chrismate deliniri. †Hoc enim catholica ecclesia tenet, non solum ex praecepto divino, verum etiam Apostolorum exemplo. In Exodo quippe legitur praecepisse Dominus Moysi, ut Aaron et filios eius inungeret, quatenus sacerdotio fungerentur. Et Anacletus Papa, natione Graecus, qui a B. Petro fuit in presbyterum ordinatus, et postea in apostolatus officio Clementi successit, tradit in ordinatione sua, ungendos episcopos more Apostolorum et Moysi, quia omnis sanctificatio in Spiritu sancto consistit, cuius invisibilis virtus sancto chrismati est permixta. Unde §. 1. Scire te volumus, duas esse species unctionis: exteriorem, quae materialis est et visibilis, et interiorem, quae spiritualis est et invisibilis. Exteriori visibiliter inungitur corpus; interiori invisibiliter inungitur cor. De prima Iacobus Apostolus ait: “Infirmatur quis in vobis, inducat presbyteros ecclesiae, et orent super eum, ungentes eum oleo in nomine Domini, et oratio fidei salvabit infirmum.” De secunda Ioannes Apostolus ait: “Vos unctionem, quam accepistis ab eo, maneat in vobis, et non necesse habetis, ut aliquis doceat vos, sed sicut unctio eius docet vos de omnibus.” Unctio visibilis et exterior signum est interioris et invisibilis unctionis. Unctio vero invisibilis et interior non solum est signum, sed etiam sacramentum, quia, si digne sumitur, vel agit vel auget absque dubio quod designat. §. 2. Ad exhibendum autem exteriorem et visibilem unctionem benedicitur oleum, quod dicitur catechumenorum vel infirmorum, et conficitur chrisma, quod ex oleo fit et balsamo mystica ratione. Per oleum enim nitor conscientiae designatur, iuxta quod legitur: “Prudentes virgines acceperunt oleum in vasis suis cum lampadibus;” per balsamum autem odor famae exprimitur, propter quod dicitur: “Sicut balsamum aromatizans, odorem dedi. §. 3. Hoc ergo chrismate ungi debet episcopus, non tam in corpore, quam in corde, ut et interius habeat nitorem conscientiae, quantum ad Deum, et exterius habeat odorem famae, quoad proximum. De nitore conscientiae dicit Apostolus: “Gloria nostra haec est, testimonium conscientiae nostrae,” nam “omnis gloria filiae regis ab intus.” De odore famae idem Apostolus ait: “Christi bonus odor sumus in omni loco, et aliis sumus odor vitae in vitam, aliis odor mortis in mortem.” Debet enim episcopus bonum habere testimonium, et ab iis, qui sunt intus, et ab iis, qui sunt foris, ut cortina cortinam trahat, et qui audit dicat: veni. §. 4. Hoc unguento caput et manus episcopi consecrantur. Per caput enim mens intelligitur, iuxta illud: “Unge caput tuum, et faciem tuam lava.” Per manus opera intelliguntur, iuxta illud: “Manus meae distillaverunt myrrham.” Manus igitur ungitur oleo pietatis, ut episcopus operetur bonum ad omnes, maxime autem ad domesticos fidei. Caput autem ungitur balsamo caritatis, ut episcopus diligat Deum ex toto corde, et ex tota mente, et ex tota anima, et proximum suum sicut se ipsum. Caput inungitur propter auctoritatem et dignitatem, et manus propter ministerium et officium. Caput inungitur, ut ostendatur illius repraesentare personam, de quo dicitur per Prophetam: “Sicut unguentum in capite eius quod descendit in barbam, barbam Aaron.” Caput enim viri Christus, caput Christi Deus, qui de se dicit: “Spiritus Domini super me eo, quod unxit me, evangelizare pauperibus misit me.” Manus episcopi inunguntur, ut ostendatur accipere potestatem benedicendi et consecrandi. Unde, quum eas consecrator inungit, “Consecrare,” inquit, “et sanctificare digneris, Domine, manus istas, per istam sanctam unctionem et per nostram benedictionem, ut quaecunque consecraverint consecrentur, et quaecunque benedixerint benedicantur in nomine Domini.” §. 5. Unde in veteri testamento non solum ungebatur sacerdos, sed etiam rex et Propheta, sicut in libro Regum Dominus praecepit Heliae: “Vade et revertere in domum tuam per desertum in Damascum, quumque perveneris illuc, unges Hazael regem super Syriam, et Iehu filium Namsi unges regem super Israel. Elisaeum autem filium Saphat, qui est de Abel-Meula, unges Prophetam pro te.” Sed ubi Iesus Nazarenus, quem unxit Deus Spiritu sancto, sicut in Actibus Apostolorum legitur, unctus est oleo pietatis prae consortibus suis, qui secundum Apostolum est caput ecclesiae, quae est corpus ipsius, principis unctio a capite [scilicet] ad brachium est translata, ut princeps extunc non ungatur in capite, sed in brachio, sive in humero, vel in armo, in quibus principatus congrue designatur, iuxta illud, quod legitur: “Factus est principatus super humerum eius, etc.” Ad quod etiam significandum Samuel fecit poni armum ante Saul, cui dederat locum in capite ante eos, qui fuerunt invitati. In capite vero pontificis sacramentalis est delibutio conservata, quia personam capitis in pontificali officio repraesentat. Refert autem inter pontificis et principis unctionem, quia caput pontificis chrismate consecratur, brachium vero principis oleo delinitur, ut ostendatur, quanta sit differentia inter auctoritatem pontificis et principis potestatem. §. 6. Quia vero Christus fecit nos in sanguine suo Deo nostro regnum et sacerdotes, propter quod Petrus Apostolus ait: “Vos estis genus electum, regale sacerdotium:” idcirco in novo testamento non solum reges et sacerdotes unguntur, sed etiam omnes Christiani bis ante baptismum, scilicet oleo benedicto, primum in pectore, deinde inter scapulas, et bis post baptismum, scilicet chrismate sancto, primum in vertice, demum in fronte. In pectore namque baptizandus inungitur, ut per sancti Spiritus donum abiiciat errorem et ignorantiam, et suscipiat fidem rectam, quia iustus ex fide vivit. Inter scapulas autem baptizandus inungitur, ut per Spiritus sancti gratiam excutiat negligentiam et torporem, et bonam operationem exerceat, quia fides sine operibus mortua est, ut per fidei sacramentum sit munditia cogitationum in pectore, et per operis exercitium sit fortitudo laborum. In scapulis, quatenus fides per dilectionem secundum Apostolum operetur. In vertice vero baptizatus inungitur, ut sit paratus omni petenti de fide reddere rationem, quia per caput intelligitur mens, iuxta quod legitur: “Oculi sapientis in capite eius,” cuius superior pars est ratio, et inferior est sensualitas. Unde bene per verticem, quae est superior pars capitis, intelligitur ratio, quae est superior pars mentis. In fronte ungitur baptizatus, ut libere confiteatur quod credit, quia “corde creditur ad iustitiam, ore vero fit confessio ad salutem,” memor eius, quod Dominus ait: “Qui me confessus fuerit coram hominibus, confitebor et ego ei coram Patre meo.” Ante baptismum ergo ungitur oleo benedicto, et post baptismum chrismate sancto, quia chrisma soli competit Christiano. Christus enim a chrismate dicitur, vel potius a Christo dicitur chrisma, non secundum nominis formam, sed secundum fidei rationem. A Christo vero Christiani dicuntur, tanquam uncti deriventur ab uncto, ut omnes concurrant in odorem illius unguenti, cuius nomen oleum est effusum. §. 7. Per frontis chrismationem manus impositio designatur, quae alio nomine dicitur confirmatio, quia per eam Spiritus sanctus ad augmentum datur et robur. Unde quum ceteras unctiones simplex sacerdos vel presbyter valeat exhibere, hanc non nisi summus sacerdos, id est episcopus, debet conferre, quia de solis Apostolis legitur, quorum vicarii sunt episcopi, quod per manus impositionem Spiritum sanctum dabant, quemadmodum Actuum Apostolorum lectio manifestat: “Quum audissent,” inquit, “Apostoli, qui erant Hierosolymis, quia recepisset Samaria verbum Dei, miserunt ad eos Petrum et Ioannem; qui quum venissent, oraverunt pro ipsis, ut acciperent Spiritum sanctum. Nondum enim in quemquam illorum venerat, sed baptizati tantum erant in nomine Domini Iesu; tunc imponebant manus super illos, et accipiebant Spiritum sanctum.” Cuius adventus per unctionis ministerium designatur, quia columba, in qua Spiritus sanctus super Christum in baptismo descendit, ad vesperum in cataclysmo revertens, ramum retulit virentis olivae, cuius utique sacramentum David Propheta praenoscens, exhilarandam faciem in oleo praedicavit. §. 8. Ungitur praeterea secundum ecclesiasticum morem, quum consecratur altare, quum dedicatur templum, et quum benedicitur calix, non solum ex mandato legis divinae, verum etiam exemplo beati Silvestri, qui, quum consecrabat altare, illud chrismate perungebat. Praecepit enim Dominus Moysi, ut faceret oleum unctionis, de quo ungeret testimonii tabernaculum et arcam testamenti, mensamque cum vasis, de quibus etiam unctionibus, si forsitan dubitaveris, quum a te fuerimus requisiti, fraternitatem tuam plenius instruemus. Verum tamen unctionis sacramentum aliud quidem efficit et figurat tam in novo quam in veteri testamento, unde non iudaizat ecclesia, quum unctionis celebrat sacramentum, sicut antiqui mentiuntur, qui neque scripturas, neque Dei novere virtutem. §. 9. Monemus igitur, fraternitatem tuam et exhortamur attentius, per apostolica [tibi] scripta mandantes, quatenus ad mandatum dilecti filii nostri tit. sanctae Crucis presbyteri cardinalis apostolicae sedis legati tu quoque sacram suscipias unctionem, ne quid tibi desit ad plenitudinem sacramenti, ut, quum sacro fueris chrismate delibutus, archiepiscopos et episcopos tuos similiter ungas, et per eos facias manus sacerdotum inungi oleo benedicto, ut illum de cetero in ordinandis presbyteris et consecrandis episcopis morem serves et facias observari quem apostolica sedes observat, †quae disponente Domino cunctorum fidelium mater est et magistra. Mittimus autem tibi per cardinalem praedictum pontificalia ornamenta, caligas et sandalia, amictum et albam, cingulum et succinctorium, orarium et manipulum, tunicam et dalmaticam, chirothecas et annulum, planetam et mitram. Pallium vero per dilectum filium Io. capellanum nostrum antea miseramus. Et Licet Romanus Pontifex non utatur baculo pastorali, tum propter historiam, tum etiam propter mysticam rationem, quod idem cardinalis, sicut a nobis accepit, poterit edocere, tu tamen ad similitudinem aliorum pontificum poteris eo uti. [Dat. Anagniae VI. Kal. Mart. Pont. nostr. Ao. VII. 1204.]
 
-* 1.XVI. DE SACRAMENTIS NON ITERANDIS.
+* 1.16. DE SACRAMENTIS NON ITERANDIS.
 
 ** CAP. I.
 
@@ -2254,7 +2253,7 @@ Gregorius IX. Archiepiscopo Londonensi.
 
 Presbyter et diaconus quum ordinatur, manus impositionem tactu corporali ritu ab Apostolis introducto recipiunt. Quod si omissum fuerit, non est aliquatenus iterandum, sed statuto tempore ad huiusmodi ordines conferendos caute supplendum quod per errorem exstitit praetermissum. Suspensio autem manuum debet fieri, quum oratio super caput effunditur ordinandi. [Datum. Anagniae V. Id. Dec. Pont. nostr. Ao. VI. 1232.]
 
-* 1.XVII. DE FILIIS PRESBYTERORUM ORDINANDIS VEL NON.
+* 1.17. DE FILIIS PRESBYTERORUM ORDINANDIS VEL NON.
 ** CAP. I.
 
 Illegitimus non ordinatur, nisi ut religiosus fiat, nec tunc praeficitur, id est ad praelaturam non habilitatur.
@@ -2399,7 +2398,7 @@ Gregorius IX. Turonensi Archiepiscopo.
 
 Nimis in tua provincia ecclesiae deformatur honestas ex eo, quod filii sacerdotum et alii non legitime nati ad dignitates et personatus, et alia beneficia curam animarum habentia sine dispensatione sedis apostolicae promoventur. Quocirca mandamus, quatenus praedictis personis a personatibus, et dignitatibus, et huiusmodi beneficiis prorsus amotis, ea personis idoneis conferri facias per illos, ad quos collationem ipsorum de iure noveris pertinere. Et ne id de cetero praesumatur, districtius inhibemus.
 
-* 1.XVIII. DE SERVIS NON ORDINANDIS ET EORUM MANUMISSIONE.
+* 1.18. DE SERVIS NON ORDINANDIS ET EORUM MANUMISSIONE.
 
 ** CAP. I.
 
@@ -2465,7 +2464,7 @@ Gregorius IX. Archiepiscopo Neapolitano.
 
 Dilectus filius G. diaconus proposuit, quod I. miles ea occasione, quod patrem ipsius hominem suum esse proponit, licet mater sua, cuius debet imitari conditionem, libera esse noscatur, ne promoveatur in presbyterum, impedire praesumit. Quocirca mandamus, quatenus, si tibi constiterit de praemissis, eundem militem ab huiusmodi impedimento cessare compescas.
 
-* 1.XIX. DE OBLIGATIS AD RATIOCINIA ORDINANDIS, VEL NON.
+* 1.19. DE OBLIGATIS AD RATIOCINIA ORDINANDIS, VEL NON.
 
 ** CAP. UNIC.
 
@@ -2475,7 +2474,7 @@ Ex concilio Carthaginensi.
 
 Magnus episcopus Augustensis dixit: Quid dilectioni vestrae videtur, procuratores, et actores, et exsecutores seu curatores pupillorum si debeant ordinari? Gratus episcopus dixit: Si post deposita onera et reddita ratiocinia actus vitae ipsorum fuerint comprobati in omnibus, debent et cum laude Dei, si postulati fuerint, honore munerari. Si enim ante libertatem negotiorum vel officiorum ab aliquo sine consideratione fuerint ordinati, ecclesia infamatur. Universi dixerunt: Recte quoque, statuit sanctitas vestra, ideoque ita est nostra sententia.
 
-* 1.XX. DE CORPORE VITIATIS ORDINANDIS VEL NON.
+* 1.20. DE CORPORE VITIATIS ORDINANDIS VEL NON.
 ** CAP. I.
 
 Presbyter, qui in duello digiti partem amisit, ex dispensatione sui episcopi potest in suo ordine ministrare.
@@ -2532,7 +2531,7 @@ Honorius III. Episcopo Engolismensi.
 
 Thomas Monachus sancti Amantii de Brixia proposuit coram nobis, quod, quum in annis puerilibus esset constitutus, quaedam barra ferrea super dextrae suae pollicem fortuito casu cadens, ungulam avulsit ab eo. †Quum autem desideret, sicut asserit, in sacerdotali officio Domino famulari, nobis humiliter supplicavit, ut per te, qui eius dioecesanus exsistis, promoveri eum in sacerdotem mandaremus. Quocirca fraternitati tuae mandamus, quatenus, si ad frangendum eucharistiam sit in pollice ipso potens, et aliud canonicum non obsistat, propter deformitatem huiusmodi non dimittas, quin eum ad ordinem promoveas sacerdotis.
 
-* 1.XXI. DE BIGAMIS NON ORDINANDIS.
+* 1.21. DE BIGAMIS NON ORDINANDIS.
 
 ** CAP. I.
 
@@ -2590,7 +2589,7 @@ Idem.
 
 A nobis fuit (Et infra:) Ille autem, qui in subdiaconatus ordine constitutus de facto tantum, quia de iure non potuit, duxit viduam in uxorem, perfecto bigamus non exstitit. Sed nec viduae potest in veritate dici maritus, quum inter ipsum et illam non fuerit vinculum maritale contractum. Cum eo tamen contra doctrinam Apostoli, tanquam cum marito viduae, dispensare non licet, non propter sacramenti defectum, sed propter affectum intentionis cum opere subsecuto.
 
-* 1.XXII. DE CLERICIS PEREGRINIS.
+* 1.22. DE CLERICIS PEREGRINIS.
 ** CAP. I.
 
 Ultramarini et valde remoti ordinationem suam probare debent per quinque episcoporum sigilla.
@@ -2623,7 +2622,7 @@ Honorius III. Regino Episcopo.
 
 Te nobis proponente didicimus, quod quidam praelati ecclesiarum tuae iurisdictionis in ecclesiis sibi commissis sine conscientia tua et assensu clericos de alienis episcopatibus instituere non verentur. Attendentes igitur, id eis nulla ratione licere, quum sit honestati contrarium et a sanctorum Patrum institutionibus alienum, ad exemplar felicis recordationis Alexandri Papae praedecessoris nostri inquisitioni tuae taliter respondemus, quod, si qui clerici de alienis episcopatibus in ecclesiis tuae iurisdictionis sine conscientia et assensu tuo sunt vel fuerint in posterum instituti, tibi licet eos exinde auctoritate nostra appellatione postposita removere, nisi aliquos ex iis ex dispensatione in eisdem ecclesiis duxeris dimittendos.
 
-* 1.XXIII. DE OFFICIO ARCHIDIACONI.
+* 1.23. DE OFFICIO ARCHIDIACONI.
 
 ** CAP. I.
 
@@ -2705,7 +2704,7 @@ Honorius III. Abbati Arimanensi Trecensis dioecesis, et Archidiacono et Decano S
 
 Dilecto filio (Et infra:) Ad petitionem archidiaconi Senonensis conquerentis, quod abbas et conventus monasterii sancti Petri Vivi Senonensis procurationem annuam et quaedam alia ratione sui archidiaconatus ad ipsum spectantia exhiberi sibi contra iustitiam denegabant, abbati sancti Crispini et collegis eius dedimus in mandatis, ut audirent causam huiusmodi et fine debito terminarent. Coram quibus petiit praedictus archidiaconus, ut, quum idem monasterium infra metas sui archidiaconatus sit situm, praefati abbas et monachi sibi obedirent in his, quae pertinent ad iurisdictionem, correctionem, reconciliationem et visitationem, ad ius, ut dicebat, archidiaconale spectantes, videlicet, ut coram se conquerentibus responderent, ac starent iuri, et iustas eius sententias observarent; citati etiam venirent ad eius praesentiam, et eius mandata honesta et sancta secundum Deum, de correctione excessuum, et aliis, quae archidiaconi solent et possunt rationabiliter iniungere, audituri et salva sua regula et abbatis sui debita obedientia servaturi. Petiit insuper, ne de cetero facerent aliquos de Senonensi baillivia eo praetermisso coram officiali Senonensis archiepiscopi conveniri, asserens, illos prius debere conveniri sub ipso, quam coram officiali praedicto, specialibus ipsius archiepiscopi et hominum, ac familiae suae causis duntaxat exceptis. †Lite igitur super praemissis coram praefatis iudicibus legitime contestata, et auditis ab eisdem hinc inde propositis, iidem iudices de utriusque partis assensu causam ipsam ad examen apostolicum remiserunt. Ipsis ergo abbate et archidiacono in nostra praesentia constitutis, nos attendentes, eorum consuetudines esse super archidiaconorum iurisdictione diversas, quum in hoc casu nesciremus consuetudinem, qua in abbatiis Senonensibus ordinis praefati monasterii utitur archidiaconus Senonensis, finalem habere nequivimus in huiusmodi questione processum. Volentes autem, ut eidem quaestioni finis debitus imponatur, causam ipsam vobis de ipsius abbatis et procuratoris alterius partis assensu duximus committendam. Ideoque discretioni vestrae mandamus, quatenus per maiores ecclesiae Senonensis canonicos, qui habere debent de huiusmodi consuetudine notitiam pleniorem, super his sollicite veritatem inquiratis, et, nisi vobis infra tres menses post primae citationis edictum constiterit per eosdem, praefatum archidiaconum vel praedecessores ipsius de pacifica sic obtenta consuetudine iurisdictionem aliquam in ipso monasterio, vel in huiusmodi abbatiis hactenus habuisse, praefatum monasterium ab eius impetitione penitus absolvatis, perpetuum super hoc ipsi archidiacono silentium imponentes. Si vero vobis constiterit per canonicos eosdem, ipsum archidiaconum vel eius praedecessores de sic obtenta consuetudine hactenus habuisse iurisdictionem aliquam in ipso monasterio, vel in aliis huiusmodi abbatiis, eandem iurisdictionem duntaxat adiudicantes eidem, in monasterio supradicto quam ipsum vel praedecessores suos in monasterio ipso vel in eisdem abbatiis habuisse constiterit, super aliis perpetuum ei silentium imponatis, in praedictis omnibus sublato appellationis obstaculo processuri.
 
-* 1.XXIV. DE OFFICIO ARCHIPRESBYTERI.
+* 1.24. DE OFFICIO ARCHIPRESBYTERI.
 
 ** CAP. I.
 
@@ -2739,7 +2738,7 @@ Idem ex synodo Ravennae habita.
 
 Ut singulae plebes archipresbyterum habeant; propter assiduam erga populum Dei curam, singulis plebibus archipresbyteros praeesse volumus, qui non solum imperiti vulgi sollicitudinem gerant, verum etiam eorum presbyterorum, qui per minores titulos habitant, vitam iugi circumspectione custodiant, et qua unusquisque industria divinum opus exerceat, episcopo suo renunciet. §. 1. Nec contendat episcopus, non egere plebem archipresbytero, quasi ipse eam gubernare valeat, quia, etsi valde idoneus sit, decet tamen, ut sua onera partiatur, et sicut ipse matrici ecclesiae praeest, ita archipresbyteri praesint plebibus, ut in nullo titubet ecclesiastica sollicitudo. Cuncta tamen referant ad episcopum, nec aliquid contra eius decretum ordinare praesumant.
 
-* 1.XXV. DE OFFICIO PRIMICERII.
+* 1.25. DE OFFICIO PRIMICERII.
 
 ** CAP. UN.
 
@@ -2749,7 +2748,7 @@ Idem ex libro Romani ordinis.
 
 Ut primicerius sciat, se esse sub archidiacono, sicut et archipresbyter, et ad eius curam specialiter pertinere, ut praesit in docendo diaconis, vel reliquis gradibus ecclesiasticis in ordine positis, ut ipse disciplinae et custodiae insistat, sicut pro animabus eorum coram Deo rationem est redditurus, et ut ipse diaconibus donet lectiones, quae ad nocturna officia clericorum pertinent, et de singulis studium habeat, ut in quacunque re capacem sensum habuerit, absque ulla vacet negligentia [ab eo] aut a quo ipse iusserit, instruantur.
 
-* 1.XXVI. DE OFFICIO SACRISTAE.
+* 1.26. DE OFFICIO SACRISTAE.
 
 ** CAP. UN.
 
@@ -2757,7 +2756,7 @@ Ex concilio Toletano.
 
 Ut sciat se sacrista subiectum archidiacono, et ad eius curam pertinere custodiam sacrorum vasorum, vestimentorum ecclesiasticorum seu totius thesauri ecclesiastici, nec non quae ad luminaria pertinent, sive in cera, sive in oleo, [sive ad distributionem sacri chrismatis.]
 
-* 1.XXVII. DE OFFICIO CUSTODIS.
+* 1.27. DE OFFICIO CUSTODIS.
 ** CAP. I.
 
 Ponit, quae spectant ad officium custodis. H. d.
@@ -2774,7 +2773,7 @@ Ex concilio Toletano.
 
 Custos vero sollicitus debet esse de omni ornamento ecclesiae, et luminariis sive incenso, nec non panem et vinum omni tempore praeparatum ad missam habere debet, et per singulas horas canonicas signum ex consensu archidiaconi sonare, et omnes oblationes seu eleemosynas, seu decimas, cum eiusdem tamen consensu absente episcopo, inter fratres dividat. §. 1. In his tribus ecclesiae columnis, ut sancta sanxit synodus, consistere debet alma mater ecclesia, ut ad hoc opus tales ordinentur, quales plus meliores et sanctiores esse viderint, ut nulla negligentia in sancta Dei ecclesia esse videatur. Hi tres, archidiaconus, archipresbyter, custos, simul iuncti uno animo provide peragant et perfecte, et non sit invidia neque zelus inter illos.
 
-* 1.XXVIII. DE OFFICIO VICARII.
+* 1.28. DE OFFICIO VICARII.
 ** CAP. I.
 
 Vicarius, si beneficium curatum postea sit adeptus, vicaria privabitur.
@@ -2823,7 +2822,7 @@ Honorius III. Vigorensi Episcopo.
 
 Ex parte tua fuit propositum coram nobis, †quod quidam in ecclesiis, quibus perpetuas obtinent vicarias, debitam residentiam facere, ac in presbyteros promoveri contemnunt. Nolentes igitur abusum huiusmodi, sicuti nec debemus, aequanimiter sustinere, fraternitati tuae mandamus, quatenus perpetuos vicarios, ut in ecclesiis, in quibus vicarias obtinent, resideant, ut tenentur, et se in presbyteros, ut eorum cura exigit, faciant promoveri, per subtractionem proventuum vel ipsarum vicariarum appellatione remota compellas.
 
-* 1.XXIX. DE OFFICIO ET POTESTATE IUDICIS DELEGATI.
+* 1.29. DE OFFICIO ET POTESTATE IUDICIS DELEGATI.
 ** CAP. I.
 
 Delegatus Papae potestatem habet non solum in partes, sed etiam in alios, qui suam iurisdictionem impediunt.
@@ -3168,7 +3167,7 @@ Idem.
 
 Quoniam apostolica sedes intendit providere negotiis, et non personis, quibus eadem committuntur, si iudex tertius, licet ex officio nostro, vel de assensu partium pro communi a nobis datus eisdem, alii delegaverit vices suas, quum delegato a principe id concedatur a iure, delegatio valebit ipsius. Idem quoque dicendum est, quum mandatur episcopo, ut cum altero suorum coniudicum mandatum apostolicum exsequatur, et tunc sine subdelegato ab ipso episcopo reliqui duo procedere non valebunt. §. 1. Is autem, cui iniungitur, ut personaliter negotium exsequatur, potest, dummodo partes consentiant, hoc aliis delegare, praeterquam si inquisitionem fieri, vel ecclesiis de praelatis vel aliis ministris provideri mandaremus, quum in his omnibus casibus industriam et fidem personae, cui talia committimus, eligere videamur. §. 2. Ceterum, salva legatorum sedis apostolicae auctoritate, nulli, cui commissum fuerit praedicare crucem, excommunicare vel absolvere aliquos, dispensare cum irregularibus, vel iniungere poenitentias, liceat haec de cetero aliis demandare, quia non sibi iurisdictio, sed certum ministerium potius committitur in hac parte.
 
-* 1.XXX. DE OFFICIO LEGATI.
+* 1.30. DE OFFICIO LEGATI.
 ** CAP. I.
 
 Legatus Papa etiam per simplicem querelam adiri potest.
@@ -3277,7 +3276,7 @@ Idem.
 
 Nemini dubium esse volumus, quin legatorum sedis apostolicae statuta edita in provincia sibi commissa durent tanquam perpetua, licet eandem postmodum sint egressi; secus autem, si causas duxerint aliquibus delegandas, quum iurisdictio istorum exspiret, si ante illorum discessum horum citatio non praecessit.
 
-* 1.XXXI. DE OFFICIO IUDICIS ORDINARII.
+* 1.31. DE OFFICIO IUDICIS ORDINARII.
 ** CAP. I.
 
 Episcopi in suis dioecesibus possunt crimina inquirere et punire, et, quum opus fuerit, invocare brachium saeculare.
@@ -3458,7 +3457,7 @@ Idem.
 
 His, quibus ex officio in certis casibus competit illos absolvere qui pro violenta manuum iniectione incidunt in canonem sententiae promulgatae, licet aliis huiusmodi absolutionem committere, quum viderint expedire.
 
-* 1.XXXII. DE OFFICIO IUDICIS.
+* 1.32. DE OFFICIO IUDICIS.
 
 ** CAP. I.
 
@@ -3476,7 +3475,7 @@ Gregorius IX.
 
 Iudicis officium, ubicunque pro actione proponitur, veluti quum restitutio in integrum principaliter postulatur, litis contestationem exposcit; alias ante et post ingressum causae potest ad hoc sine litis contestatione haberi recursus.
 
-* 1.XXXIII. DE MAIORITATE ET OBEDIENTIA.
+* 1.33. DE MAIORITATE ET OBEDIENTIA.
 
 ** CAP. I.
 
@@ -3614,7 +3613,7 @@ Idem Lemovicensi Archidiacono et Priori sanctae Radegundis Pictaviensis.
 
 Humilis doctrina magistra (Et infra:) Mandamus, quatenus praelatorum Burdegalensis provinciae in ea praesentium, et cathedralium capitulorum eiusdem, nec non Bituricensis capituli super provisione, quam inter Bituricensem et Burdegalensem archiepiscopos in causa primatiae duximus faciendam, requiratis assensum, quo habito providentiam nostram solenniter publicetis. Si qui vero consensum praestare noluerint, vos supersedentes publicationi praedictae, districte praecipiatis eisdem, ut personaliter, si praelati fuerint, vel si alii, per procuratores idoneos, nostro se conspectui repraesentent, prosecuturi coram nobis ius, si quod habere contendunt, et satisfacturi parti alteri, si succubuerint, in expensis.
 
-* 1.XXXIV. DE TREUGA ET PACE.
+* 1.34. DE TREUGA ET PACE.
 
 ** CAP. I.
 
@@ -3632,7 +3631,7 @@ Idem.
 
 Innovamus autem, ut presbyteri, [clerici], monachi, conversi, peregrini, mercatores, rustici, euntes et redeuntes, et in agricultura exsistentes, et animalia, quibus arant et quae semina portant ad agrum, congrua securitate laetentur. Nec quisquam etc. (cf. c. 10. de cens. III. 39.)
 
-* 1.XXXV. DE PACTIS.
+* 1.35. DE PACTIS.
 
 ** CAP. I.
 
@@ -3696,7 +3695,7 @@ Gregorius IX.
 
 Pactiones factae a vobis, ut audivimus, pro quibusdam spiritualibus obtinendis, quum in huiusmodi omnis pactio omnisque conventio debeat omnino cessare, nullius penitus sunt momenti. Quod etiam de aliis est dicendum, quae observatae vergunt in animae detrimentum. Nam etiam iuxta legitimas sanctiones pactum turpe, vel rei turpis aut impossibilis de iure vel de facto, nullam obligationem inducit.
 
-* 1.XXXVI. DE TRANSACTIONIBUS.
+* 1.36. DE TRANSACTIONIBUS.
 
 ** CAP. I.
 
@@ -3786,7 +3785,7 @@ Honorius III. I. tituli sanctae Praxedis Presbytero cardinali.
 
 Ex parte tua †fuit propositum coram nobis, quod nonnulli Graeci furtive sacros ordines a non suis episcopis receperunt, quidam etiam excommunicati celebrant in ecclesiis interdictis, et Graecis ritibus pertinaciter inhaerentes in nullo volunt obedire praelatis Latinis. Praeterea quidam Graeci et Latini episcopi consecrationes faciunt in episcopatibus alienis, et decimas percipiunt in eisdem in episcoporum eorundem locorum praeiudicium et gravamen, licet episcopi Graecorum nec percipere decimas, nec consecrationes huiusmodi consueverint celebrare. Ad hoc laici Graeci uxores suas secundum motum propriae voluntatis dimittere et alias superducere non verentur, ac operari dominicis et festivis diebus quemadmodum in profestis. Porro quidam barones et milites tam Latini quam Graeci abbatias et ecclesias alias cum hominibus et bonis aliis earundem contra iustitiam detinentes, decimas non exsolvunt, et alios solvere recusantes in suo errore defendunt, et, si pro his aut aliis excessibus feratur excommunicationis sententia in eosdem, eam in animarum suarum periculum et aliorum scandalum vilipendunt. Unde a nobis desideras edoceri, quid tibi agendum sit in omnibus supradictis, et qualiter puniendus sit Neoportensis archidiaconus, qui quibusdam eundi cum mercibus in Alexandriam contra statutum concilii generalis licentiam de facto tribuere non expavit. Nos ergo discretioni tuae breviter respondemus, ut, quum iura canonica et civilia edita sint super omnibus fere articulis praenotatis, procedas in his, quum necesse fuerit, secundum canonicas et legitimas sanctiones. Poteris etiam ad componendum interponere partes tuas, et interdum aliquid severitati detrahere, prout, statu imperii et excedentium multitudine provida deliberatione pensatis, videris expedire: exceptis nimirum casibus, qui compositionis sive dispensationis remedium non admittunt, utpote coniugii sacramentum, quod, quum non solum apud Latinos et Graecos, sed etiam apud fideles et infideles exsistat, a severitate canonica circa illud recedere non licebit. In his vero, super quibus ius non invenitur expressum, procedas, aequitate servata, semper in humaniorem partem maxime propter statum imperii adhuc debilem declinando, secundum quod personas et causas, loca et tempora videris postulare.
 
-* 1.XXXVII. DE POSTULANDO.
+* 1.37. DE POSTULANDO.
 
 ** CAP. I.
 
@@ -3812,7 +3811,7 @@ Gregorius IX.
 
 Quum sacerdotis sit officium nulli nocere, omnibus autem velle prodesse, non nisi pro se ipso, vel ecclesia sua, vel, si necessitas immineat, pro personis coniunctis aut miserabilibus sibi licitum est postulare. (Et infra:) Clericus autem, qui contra ecclesiam, a qua beneficium obtinet, pro extraneis advocatus vel procurator esse praesumit, tanquam ingratus potest, maxime si clericus sit eiusdem ecclesiae, beneficio huiusmodi spoliari.
 
-* 1.XXXVIII. DE PROCURATORIBUS.
+* 1.38. DE PROCURATORIBUS.
 
 ** CAP. I.
 
@@ -3934,7 +3933,7 @@ Idem.
 
 Consulti sumus an constitutus ad impetrandum a communitate aliqua procurator ab impetrando deberet excludi pro eo, quod maiores et iurati, per quos eadem communitas regebatur, tempore, quo iniunctum fuit procurationis officium, erant excommunicationis sententia innodati. Taliter respondemus, quod, nisi essent illi in literis procurationis expressi, vel alias eorum auctoritate procuratoris institutio facta fuisset, aut sciens, eos esse tales, ipsa communitas una cum eis constituisset eundem, non est procurator huiusmodi repellendus.
 
-* 1.XXXIX. DE SYNDICO.
+* 1.39. DE SYNDICO.
 
 ** CAP. I.
 
@@ -3944,7 +3943,7 @@ Gregorius Papa Subdiacono Defensori Siciliae.
 
 Sicut studii nostri esse debet a litigiis forensibus monachos submovere, [ut divinis ministeriis pie ac sollerter invigilent:] ita necesse est nostra provisione, quemadmodum negotia eorum disponi debeant, ordinare, [ne distenta mens per varias causarum curas defluat, et ad celebrandum opus consuetum enervata torpescat. Praesentium itaque lator abbas Ioannes plurima se monasterii sui asserit habere negotia.] Pro qua re tibi praecipimus, quatenus cum Fausto, [qui Romani viri magnifici ex praetore cancellarius fuerat,] loqui debeas, cui, si voluerit, constituto salario, monasterii ipsius generaliter debeas negotia commendare. Expedit enim pro parvo incommodo a strepitu causarum servos Dei esse quietos.
 
-* 1.XL. DE HIS, QUAE VI METUSVE CAUSA FIUNT.
+* 1.40. DE HIS, QUAE VI METUSVE CAUSA FIUNT.
 
 ** CAP. I.
 
@@ -4002,7 +4001,7 @@ Gregorius IX.
 
 Super eo, quod adversarius vester se conquerebatur a vobis per violentiam spoliatum, arbitramini, contra vos fuisse iniuste processum, quum non nisi proprio iuramento probaverit singula, quae amisit. Verum, postquam de violentia per testes, et de amissis rebus per ipsius constitit sacramentum, potuit iudex, taxatione ab ipso facta, pro personarum ac negotii qualitate vos in aestimatione rerum amissarum iuramento adversarii declarata rationabiliter condemnare.
 
-* 1.XLI. DE IN INTEGRUM RESTITUTIONE.
+* 1.41. DE IN INTEGRUM RESTITUTIONE.
 
 ** CAP. I.
 
@@ -4084,7 +4083,7 @@ Idem.
 
 Beneficio restitutionis in integrum ecclesiae tuae in alio iudicio denegato, restitutio, praeterquam ad appellationem omissam, videtur eidem ecclesiae posse negari, nisi novis defensionibus ad huiusmodi sit beneficium admittenda.
 
-* 1.XLII. DE ALIENATIONE IUDICII MUTANDI CAUSA FACTA.
+* 1.42. DE ALIENATIONE IUDICII MUTANDI CAUSA FACTA.
 
 ** CAP. I.
 
@@ -4102,7 +4101,7 @@ Gregorius IX. Abbati S. Nicolai et decano Furnensi Morinensis dioecesis.
 
 Ex parte scabinorum Hipretis fuit propositum, quod inter laicos eiusdem loci quaestionibus emergentibus, dirimendis per iudicium saeculare, quidam clerici sibi dono vel pretio ab aliquibus laicorum ipsorum cedi faciunt actiones, ut adversarios ad ecclesiasticum forum trahant, et praedam ex huiusmodi commercio assequantur. (Et infra:) Quum igitur cessiones et emptiones litium legitimae prohibeant sanctiones ita, quod iactura causae afficiant illos, qui sibi potentiorum patrocinium taliter advocare praesumunt, et ex eo sint etiam odiosae, quod ex fonte cupiditatis videntur procedere, mandamus, quatenus clericos memoratos a praesumptione huiusmodi per censuram ecclesiasticam compescatis.
 
-* 1.XLIII. DE ARBITRIS.
+* 1.43. DE ARBITRIS.
 
 ** CAP. I.
 

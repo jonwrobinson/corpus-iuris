@@ -20,7 +20,7 @@
 + 49.XVII. CONCERNING CASTRENSE PECULIUM
 + 49.XVIII. CONCERNING VETERANS
 
-* 49.I. ON APPEALS AND REPORTS.
+* 49.01. ON APPEALS AND REPORTS.
 
 1. Ulpianus, On Appeals, Book I.
 There is no one who is not aware how frequently appeals are employed, and how
@@ -459,7 +459,7 @@ doing so.
 The same rule.should be observed with reference to curators, if, in the
 meantime, the youth should arrive at lawful age.
 
-* 49.II. FROM WHAT PERSONS IT Is NOT PERMITTED TO APPEAL.
+* 49.02. FROM WHAT PERSONS IT Is NOT PERMITTED TO APPEAL.
 
 1. Ulpianus, On the Edict,
 Book 1.
@@ -483,7 +483,7 @@ are appointed for the purpose of accepting sureties. Although several
 authorities hold that, in this case, even without an appeal, the decision can
 be amended by the person who rendered it.
 
-* 49.III. To WHOM AND FROM WHOM AN APPEAL CAN BE TAKEN.
+* 49.03. To WHOM AND FROM WHOM AN APPEAL CAN BE TAKEN.
 
 1. Ulpianus, On Appeals, Book I.
 When it is said that an appeal is taken from the judge who rendered the
@@ -504,7 +504,7 @@ of what rank they may be, even though this was done by order of the Emperor,
 and he may have designated the judge by name, an appeal can be taken to the
 magistrates themselves.
 
-* 49.IV. WHEN AN APPEAL SHOULD BE TAKEN, AND WITHIN WHAT TIME.
+* 49.04. WHEN AN APPEAL SHOULD BE TAKEN, AND WITHIN WHAT TIME.
 
 1. Ulpianus, On Appeals, Book I.
 When the Governor of a province notifies someone that he shall be deported to
@@ -642,7 +642,7 @@ which was previously shown to him, since as he did not do so at the time, he
 seems to have admitted its contents were true. He should not be heard, if he
 should state that he was waiting for the issue of the Imperial Rescript.
 
-* 49.V. CONCERNING THE ACCEPTANCE OR REJECTION OP APPEALS.
+* 49.05. CONCERNING THE ACCEPTANCE OR REJECTION OP APPEALS.
 
 1. Ulpianus, On the Edict, Book XXIX.
 Appellants are not usually heard unless they have an interest in the suit, or
@@ -698,7 +698,7 @@ that an appointed heir should not be placed in possession.
 an appeal cannot be taken to prevent its being carried into effect.
 (2) In like manner, an appeal cannot be taken to prevent the sale of a pledge.
 
-* 49.VI. CONCERNING NOTICES OF APPEAL CALLED DISPATCHES.
+* 49.06. CONCERNING NOTICES OF APPEAL CALLED DISPATCHES.
 
 1. Marcianus, On Appeals, Book II.
 After an appeal has been filed, letters should be sent by the official from
@@ -713,7 +713,7 @@ the party who applies for such a notice should do so with vehemence. Therefore,
 it is but just that, if he who should grant the notice is to blame for not
 doing so, this shall not prejudice the person who made the demand.
 
-* 49.VII. NO CHANGE SHALL BE MADE AFTER THE APPEAL HAS BEEN INTERPOSED.
+* 49.07. NO CHANGE SHALL BE MADE AFTER THE APPEAL HAS BEEN INTERPOSED.
 
 1. Ulpianus, On Appeals, Book IV.
 After an appeal has been interposed, whether it is received or not, nothing
@@ -743,7 +743,7 @@ serious, the appeal should by all means be received, and the punishment
 deferred. Where, however, he deserves a heavier sentence for offences on
 account of which he did not appeal, the penalty must certainly be imposed.
 
-* 49.VIII. WHAT DECISIONS CAN BE RESCINDED WITHOUT AN APPEAL.
+* 49.08. WHAT DECISIONS CAN BE RESCINDED WITHOUT AN APPEAL.
 
 1. Macer, On Appeals, Book II.
 We must remember that when an inquiry is made whether a case has been decided
@@ -799,7 +799,7 @@ void.
 decision had been rendered, which, in the nature of .things, could not be
 complied with.
 
-* 49.IX. WHETHER THE REASONS FOR AN APPEAL CAN BE PRESENTED BY ANOTHER.
+* 49.09. WHETHER THE REASONS FOR AN APPEAL CAN BE PRESENTED BY ANOTHER.
 
 1. Ulpianus, Appeals, Book IV.
 It is frequently asked whether the reasons for an appeal can be stated by
@@ -826,7 +826,7 @@ a question which we should consider. We rather incline to the opinion that he
 ought to be heard in giving the reasons for the appeal, who, as the attorney of
 the absent party, applied for it.
 
-* 49.X. WHERE A GUARDIAN, A CURATOR, OR A MAGISTRATE HAVING BEEN APPOINTED, APPEALS.
+* 49.10. WHERE A GUARDIAN, A CURATOR, OR A MAGISTRATE HAVING BEEN APPOINTED, APPEALS.
 
 1. Ulpianus, On the Duties of Proconsul, Book HI.
 When persons who have been appointed to public offices appeal, and do not
@@ -841,7 +841,7 @@ before a decision has been rendered, his successors will be required to state
 the grounds of appeal, on account of the responsibility attaching to the
 intermediate time.
 
-* 49.XL. HE WHO APPEALS SHOULD BE DEFENDED IN His OWN PROVINCE.
+* 49.11. HE WHO APPEALS SHOULD BE DEFENDED IN His OWN PROVINCE.
 
 1. Ulpianus, On Appeals, Book IV.
 He who appeals must be defended in his own province, in all other cases of his
@@ -851,7 +851,7 @@ This the Divine Brothers stated in a Rescript addressed to Decimus Philo.
 This privilege is granted to those who are absent on business for the State, in
 order that they may not be required to defend themselves.
 
-* 49.XII. WHERE A PARTY LITIGANT Is COMPELLED TO BRING ANOTHER ACTION BEFORE THE JUDGE FROM WHOSE DECISION HE HAS ALREADY APPEALED.
+* 49.12. WHERE A PARTY LITIGANT Is COMPELLED TO BRING ANOTHER ACTION BEFORE THE JUDGE FROM WHOSE DECISION HE HAS ALREADY APPEALED.
 
 1. Ulpianus, On Appeals, Book IV.
 When anyone has appealed from a judge in one case, and is compelled to have the
@@ -862,7 +862,7 @@ and conduct other cases if he has any; nor can he avail himself of the pretext
 that he should not try them before a judge who may be hostile to him, as he can
 appeal again.
 
-* 49.XIII. IF DEATH SHOULD OCCUR WHILE AN APPEAL Is PENDING.
+* 49.13. IF DEATH SHOULD OCCUR WHILE AN APPEAL Is PENDING.
 
 1. Macer, On Appeals, Book H.
 Where the appellant dies without leaving an heir, an appeal of this kind is
@@ -911,7 +911,7 @@ avenging a wrong; or where anyone prosecuted the case in the name of a
 municipality; and it is to be observed that this has many times been set forth
 in the Imperial Constitutions.
 
-* 49.XIV. CONCERNING THE RIGHTS OF THE TREASURY.
+* 49.14. CONCERNING THE RIGHTS OF THE TREASURY.
 
 1. Cattistratus, On the Rights of the Treasury, Book I.
 There are various reasons for which notice ordinarily is given to the Treasury;
@@ -1717,7 +1717,7 @@ gathered on the land, they answered that if, after the decision had been
 rendered, the day for the payment of the rent had not yet arrived, the
 purchaser would also be entitled to them.
 
-* 49.XV. CONCERNING CAPTIVES, THE RIGHT OP POSTLIMINIUM, AND PERSONS RANSOMED FROM THE ENEMY.
+* 49.15. CONCERNING CAPTIVES, THE RIGHT OP POSTLIMINIUM, AND PERSONS RANSOMED FROM THE ENEMY.
 
 1. Marcellus, Digest, Book XXII.
 If a slave of anyone who has been taken prisoner by the enemy should afterwards
@@ -2253,7 +2253,7 @@ the enemy, escapes from them, and remains at Rome without either being under
 the control of his master, or in the service of anyone else, it should be held
 that he has not yet returned under the law of postliminium.
 
-* 49.XVI. CONCERNING MILITARY AFFAIRS.
+* 49.16. CONCERNING MILITARY AFFAIRS.
 1. Ulpianus, On the-Edict, Book VI.
 A soldier who is on furlough is not considered to be absent on business for the
 State.
@@ -2600,7 +2600,7 @@ He who enlists in the army through fear of a crime of which he has already been
 accused must immediately be released from his oath.
 (1) A soldier who is a disturber of the peace is punished with death.
 
-* 49.XVII. CONCERNING CASTRENSE PECULIUM.
+* 49.17. CONCERNING CASTRENSE PECULIUM.
 
 1. Ulpianus, On the Edict, Book XLII.
 Where the peculiumof a son under paternal control, who is a soldier, remains in
@@ -2910,7 +2910,7 @@ the ownership of whom was afterwards acquired. It is favorable to freedom to
 admit that it was granted by the father, and to hold that the slave belonged to
 the latter from the beginning; which is shown from what afterwards occurred.
 
-* 49.XVIII. CONCERNING VETERANS.
+* 49.18. CONCERNING VETERANS.
 
 1. Arrius Menander, On Military Affairs, Book III.
 Veterans, among other privileges, have one relating to their offences, namely,

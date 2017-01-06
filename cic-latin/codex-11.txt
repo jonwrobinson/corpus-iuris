@@ -4,6 +4,9 @@ DOMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI CODEX
 
 * LIBER UNDECIMUS
 
+Note: Vulgate combines title 1 and 2; thus vulgate numbering is one
+      less through to end of book.
+
 + 11.1.0.  De tollenda lustralis auri collatione.
 + 11.2.0.  De naviculariis seu naucleris publicas species transportantibus.
 + 11.3.0.  De praediis naviculariorum.
@@ -87,7 +90,21 @@ DOMINI NOSTRI SACRATISSIMI PRINCIPIS IUSTINIANI CODEX
 
 [Greek text.]
 
-* 11.2.0. De naviculariis seu naucleris publicas species transportantibus.
+11.1.1. Imperator Anastasius
+
+Remittit  omnibus penitus auri et argenti collationem, exceptis civitatibus et vicis, qui aliquid ex ultima voluntate ad ea conferencia acctptunt, vel si quid e publico huius collationis gratia datur.
+
+1. Qut autem hoc tributum praestant, eis liceat vel Constantinopoli vel in provincia id solvere et aut pro quarta parte in singulos annos aut quadriennio elapso sine damno et dispendio.
+
+2. Quod si quid supersit ex eo tributo, in necessarios sumptus civitatis expendatur, velut in opera aut annonam aut lumana similiave.
+
+3. Centum librarum multan: statuit scholae palatinorum et praesidi et civibus, si haec violata fuerint.
+
+11.1.2.
+
+Nemo describatur in spectacula vel quaevis alia ideo, quod collatio auri et argenti remissa ese: nam poena supra dicta imminebit.
+
+* 11.2(1).0.   De naviculariis seu naucleris publicas species transportantibus.
 
 11.2.1: Imperator Constantius
 
@@ -117,7 +134,7 @@ Iudices, qui in portibus dioeceseos suae onusta navigia, cum prosperior flatus i
 
 Naucleri praeterea poenam deportationis excipiant, si aliquid fraudis eos admisisse fuerit revelatum.<a 410 d.Xviii k.Sept.Ravennae varane vc.Cons.>
 
-* 11.3.0. De praediis naviculariorum.
+* 11.3(2).0.   De praediis naviculariorum.
 
 11.3.1: Imperatores Valentinianus, Valens
 
@@ -143,7 +160,7 @@ Ubi vero spatia loci et exiguitas nullam habuit pensionem aut extructio, cuius e
 
 Hi, qui fundos naviculariae functioni adscriptos a naviculariis acceperunt quodlibet ad se titulo transeuntes, secundum agri opinionem, quae antiquitus habetur adscripta, naviculariam functionem suscipere cogantur neque eas condiciones sibi aestiment profuturas, quas venditor minus idoneus in se recipit impositas ementis arbitrio: hac tamen ratione servata, ut, si ad minus idoneum fuerit translata possessio, etiam auctores transscripti praedii teneantur obnoxii, sitque hoc in promptu, ut damnis fiscalibus primitus ab idoneis consulatur. * arcad. et honor. aa. messalae pp. *<a 399 d.Xiiii k.Mart.Mediolani theodoro pvc.Cons.>
 
-* 11.4.0. De navibus non excusandis.
+* 11.4(3).0.   De navibus non excusandis.
 
 11.4.1pr.: Imperatores Arcadius, Honorius
 
@@ -161,13 +178,13 @@ Iubemus nullam navem ultra duorum milium modiorum capacem ante felicem embolam v
 
 Quod etiam in omnibus causis huiusmodi contra ius vel utilitatem publicam in quolibet negotio proferatur, non valeat. quidquid enim in fraudem istius legis quolibet modo fuerit attemptatum, id navigii quod excusatur publicatione corrigimus.<a 439 d.Vii id.April.Constantinopoli theodosio a.Xvii et festo conss.>
 
-* 11.5.0. Ne quid oneri publico imponatur.
+* 11.5(4).0.   Ne quid oneri publico imponatur.
 
 11.5.1: Imperatores Arcadius, Honorius
 
 Oneri publico sarcinam privatam ne quis imponat nec audeat portitores frumenti ad suscipiendum onus aliqua necessitate compellere. hoc enim facto atque commisso non in dispendium solum atque naufragii damnum tenebitur obligatus, verum etiam publicae coercitionis experietur vigorem. * arcad. et honor. aa. rufino pp. *<a 395 d.V id.Ian.Constantinopoli olybrio et probino conss.>
 
-* 11.6.0. De naufragiis.
+* 11.6(5).0.   De naufragiis.
 
 11.6.1: Imperator Antoninus
 
@@ -209,7 +226,7 @@ Si vero causarum talium cognitores, libelli datione vel planaria interpellatione
 
 Super naufragiorum quae contigerint casibus usitato more habita quaestione si quis calculus modiationis dicatur tempestate maris deperisse, sub tuae sedis auditione nequaquam feratur acceptus, sed haec dispendii iactura in omne naviculariorum concilium, pro rata scilicet contingentis muneris, deferatur. * honor. et theodos. aa. anthemio pp. *<a 409 d. xiiii k. febr. honorio viii et theodosio iii aa. conss.>
 
-* 11.7.0. De metallariis et metallis et procuratoribus metallorum.
+* 11.7(6).0.   De metallariis et metallis et procuratoribus metallorum.
 
 11.7.1pr.: Imperatores Valentinianus, Valens
 
@@ -247,7 +264,7 @@ Quosdam operta humo esse saxa dicentes id agere cognovimus, ut defossis in altum
 
 Metallarii sive metallariae, qui quaeve ea regione deserta, ex qua videntur oriundi vel oriundae, ad externa migraverint, indubitanter sine ulla temporis praescriptione ad propriae originis stirpem laremque una cum sua subole revocentur, et quos domus nostrae secreta retineant. sciant autem nullum exinde praeiudicium fisco esse generandum, etiamsi is, quem metallicum esse constiterit, privatis censibus suum nomen indiderit. * theodos. a. maximino com. sacr. larg. *<a 424 d. v id. iul. constantinopoli victore vc. cons.>
 
-* 11.8.0. De murilegulis et gynaeciariis et procuratoribus gynaecii et de monetariis et bastagariis.
+* 11.8(7).0.   De murilegulis et gynaeciariis et procuratoribus gynaecii et de monetariis et bastagariis.
 
 11.8.1: Imperator Constantinus
 
@@ -325,7 +342,7 @@ Privatae vel linteae vestis magistri, thesaurorum praepositi vel baphiorum ac te
 
 Qui aut patre conchyliolegulo geniti probabuntur aut matre, memoratae adscriptioni obnoxios se esse non ambigant. * theodos. et valentin. aa. valerio com. sacr. larg. *<a 427 d.X k.April.Constantinopoli hierio et ardabure conss.>
 
-* 11.9.0. De vestibus holoveris et auratis et de intinctione sacri muricis.
+* 11.9(8).0.   De vestibus holoveris et auratis et de intinctione sacri muricis.
 
 11.9.1: Imperatores Valentinianus, Valens, Gratianus
 
@@ -363,7 +380,7 @@ Ne quis vero nunc huiusmodi suppressione in laqueos novae constitutionis incurra
 
 Purpurae nundinas, licet innumeris sint constitutionibus prohibitae, recenti quoque interminatione vetamus. et ideo septimum de scrinio exceptorum, sextum de scrinio canonum, quintum de scrinio tabulariorum ad baphia phoenices per certum tempus mitti praecipimus, ut fraus omnis eorum prohibeatur sollertia timentium, ne quaesitis longo sudore stipendiis careant: etiam viginti librarum auri condemnatione proposita. * theodos. et valentin. aa. apollonio com. sacr. larg. *<a 436 d.Viii id.Mart.Constantinopoli isidoro et senatore conss.>
 
-* 11.10.0. De fabricensibus.
+* 11.10(9).0.  De fabricensibus.
 
 11.10.1: Imperatores Valentinianus, Theodosius, Arcadius
 
@@ -413,7 +430,7 @@ Quotiens sane in translatione armorum angariae necessariae fuerint, sublimitas t
 
 Quod si aliqua tarditas vel neglegentia post datas a sublimitate tua ad eminentissimam praefecturam litteras in destinandis auctoritatibus amplissimae sedis intercesserit et ex hoc armorum transvectio fuerit impedita, quinquaginta libris auri tam numerarium pro tempore officii eiusdem amplissimae sedis quam alios quorum interest condemnari praecipimus eamque auri quantitatem protinus exactam fisci viribus adgregari: multa praeterea triginta librarum auri proposita tam viris clarissimis qui provincias regunt quam eorum apparitionibus, si coniventibus his armorum subvectio tarditate aliqua fuerit praepedita.<a xxx >
 
-* 11.11.0. De veteris numismatis potestate.
+* 11.11(10).0. De veteris numismatis potestate.
 
 11.11.1: Imperatores Valentinianus, Valens
 
@@ -612,7 +629,7 @@ Centum viginti quinque modios frumenti praeter solitum canonem per singulos dies
 
 Quam modiationem iugiter et in perpetuum civibus nostris debere conferri valitura in aevum hac lege sancimus.<a 392 >
 
-* 11.26.0. De mendicantibus validis.
+* 11.26(25).0. De mendicantibus validis.
 
 11.26.1: Imperatores Gratianus, Valentinianus, Theodosius
 11.26(25).1
@@ -1803,7 +1820,7 @@ Si quae tamen possessiones iuris civilis canonem privatis largitionibus in praes
 
 Hac in perpetuum valitura lege sancimus et nicaeensium civitati seu habitatoribus eius tam ius exactionis quadringentorum solidorum annui canonis civilis reditus ad suam patriam pertinentis ex possessionibus, id est calamo et heliobomo nec non emptorio variario cum emptio eorum sub territorio apamenae civitatis constitutis, ex nuper lapsa tertia indictione cum ipsa restitui, quam si quid, ex quo sanctio marciani divae memoriae lata est, ad eiusdem civitatis praeiudicium gestum est, infirmari et, quod ex eadem provisione civitatibus delatum interea qualibet occasione imminutum est, ex auctoritate constitutionis nostrae serenitatis isdem civitatibus redhiberi, ita ut neque iudiciaria auctoritas nec imperiale rescriptum, quacumque videlicet adiectione munitum, saepe dictae generalis legis vires possit refringere. quod si quis aliter fecerit, poena gravi plectetur. * zeno a. aeliano pp. *<a 480 ? >
 
-* 11.71.0. De locatione praediorum civilium vel fiscalium sive templorum sive rei privatae vel dominicae.
+* 11.71(70).0. De locatione praediorum civilium vel fiscalium sive templorum sive rei privatae vel dominicae.
 
 11.71.1pr.: Imperatores Gratianus, Valentinianus, Theodosius
 
@@ -1865,19 +1882,19 @@ Si vero pro tali praedio ab altero conductore offeratur augmentum, sit in arbitr
 
 Si vero idem hanc ipsam rem aliquando meruerit iure perpetuo possidere, habebit et ipse superius expressam perpetuam firmitatem.< >
 
-* 11.72.0. De conductoribus et procuratoribus sive actoribus praediorum fiscalium et domus augustae.
+* 11.72(71).0. De conductoribus et procuratoribus sive actoribus praediorum fiscalium et domus augustae.
 
 11.72.1: Imperatores Theodosius, Valentinianus
 
 Conductores hominesve augustissimae domus nostrae, quotiens de causa ad domum regiam pertinente aliquid quaestionis emerserit, non aliter quam ex legum ordine, quibus similiter omne hominum genus tenetur, vel excipiant vel inferant actiones: nec aliorum litigatorum negotio intercedant nec sententiam iudicantium aut illicito patrocinii sui fomite iura conturbent, nullive exsecutionis suae turbulentum ministerium audeant commodare: non privatis se negotiis, non publicis misceant: nec quiescentem domum delatio ulla sollicitet, ne eos inconsultae pertinaciae sero paeniteat. gravior enim poena constituenda est in hos, qui nostri iuris sunt et nostra debent custodire mandata. * theodos. et valentin. aa. basso pp. *<a 426 d. prid. non. mart. ravennae theodosio xii et valentiniano ii aa. conss.>
 
-* 11.73.0. Quibus ad conductionem praediorum fiscalium accedere non licet.
+* 11.73(72).0. Quibus ad conductionem praediorum fiscalium accedere non licet.
 
 11.73.1: Imperatores Arcadius, Honorius
 
 Nullus palatinorum, qui in officio rei privatae nostrae militat, conductoris nomine vel per se vel per quamlibet personam possessionum huiusmodi conducendarum habeat facultatem, cum neque militi neque curiali hoc faciendum permittimus. * arcad. et honor. aa. nestorio com. rer. privat. *<a 401 d. vi k. aug. vincentio et fravitta conss.>
 
-* 11.74.0. De collatione fundorum fiscalium vel rei privatae vel dominicae vel civitatum vel templorum.
+* 11.74(73).0. De collatione fundorum fiscalium vel rei privatae vel dominicae vel civitatum vel templorum.
 
 11.74.1: Imperatores Arcadius, Honorius
 
@@ -1895,7 +1912,7 @@ De quorum nominibus, si temere versati fuerint, ad sublimitatem tuam referri per
 
 Omnia praedia, tam ea, quae in re privata olim tenentur, quam illa, quae ex proscriptorum bonis ad fiscum sunt devoluta, eatenus ab huiusmodi privilegiis et excusationibus submoveantur, ut omnes species annonarias, cursitationes etiam debitas atque integram opinionem sciant esse solvendam. * arcad. et honor. et theodos. aaa. petronio pp. *< >
 
-* 11.75.0. De privilegiis domus augustae vel rei privatae et quarum collationum excusationem habent.
+* 11.75(74).0. De privilegiis domus augustae vel rei privatae et quarum collationum excusationem habent.
 
 11.75.1: Imperator Constantius
 
@@ -1933,19 +1950,19 @@ Domos etiam divinas tam laudabili titulo libenter adscribimus.<a 423 d. xv k. ma
 
 Excepto patrimonio pietatis nostrae, cuius quidem reditus necessitatibus publicis frequentissime deputamus, universos possessores functiones in superindicticiis titulis absque ullius beneficii exceptione agnoscere oportere censemus. * theodos. et valentin. aa. flaviano pp. *<a 431 d. iii k. mai. ravennae basso et antiocho conss.>
 
-* 11.76.0. De grege dominico.
+* 11.76(75).0. De grege dominico.
 
 11.76.1: Imperatores Arcadius, Honorius
 
 Propositis edictis sublimis magnificentiae tuae minimi maximique moneantur, ut sciant singulas auri libras ex propriis facultatibus eruendas pro singulis equis vel equabus sive hermogenianis sive palmatis, nisi eos sponte obtulerint: in his vero, quos ex aliis gregibus occupatos esse constiterit, sex auri uncias fisci viribus inferendas. * arcad. et honor. aa. caesario pp. *<a 395 d. prid. d. dec. constantinopoli olybrio et probino conss.>
 
-* 11.77.0. De palatiis et domibus dominicis.
+* 11.77(76).0. De palatiis et domibus dominicis.
 
 11.77.1: Imperatores Theodosius, Valentinianus
 
 Consecratas nobis aedes, id est inclita palatia, ab omni privatorum usu et communi habitatione excipimus. * theodos. et valentin. aa. iohanni com. rer. privat. *<a xxx >
 
-* 11.78.0. De cupressis ex luco daphnensi vel perseis per aegyptum non excidendis vel vendendis.
+* 11.78(77).0. De cupressis ex luco daphnensi vel perseis per aegyptum non excidendis vel vendendis.
 
 11.78.1: Imperatores Arcadius, Honorius
 

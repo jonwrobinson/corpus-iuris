@@ -1,6 +1,6 @@
 # -*- mode: org -*-
 
-* LIBER XXXII
+* LIBER XXXII [= de leg. iii]
 * 32.0. De legatis et fideicommissis.
 
 32.1

@@ -2,7 +2,7 @@
 
 LIBER SECUNDUS.
 
-* 2.I. DE IUDICIIS.
+* 2.01. DE IUDICIIS.
 ** CAP. I.
 
 Contumax in non comparendo vel non respondendo excommunicari potest; beneficio autem privari non debet. H. d. Abbas Siculus.
@@ -171,8 +171,7 @@ Idem Episcopo et Magistris T. et B. Praten. Bononiae commorantibus.
 
 Significaverunt nobis olim abbas et conventus sanctae Mariae de Florentia, quod Florentina potestas pro eis contra communitatem castri de Signa super possessione vel quasi iuris ibidem eligendi rectorem, quod ad se pertinere dicebant, diffinitivam sententiam promulgavit. Sed postmodum, eadem communitate nolente recipere nobilem virum B. Vinci-Werra, quem iidem in rectorem elegerant castri praedicti, praefata potestas non solum non curavit sententiam suam exsecutioni mandare, ac communitatem ipsam compellere ad recipiendum dictum nobilem pro rectore saepius requisita; sed nec permisit communitatem eandem ad hoc a fidelibus eorum monasterii coarctari; quin potius abbatem et conventum praefatos ipsa potestas indigne coegit communitati praedictae super proprietate vel quasi memorati iuris in saeculari iudicio respondere. Unde vobis per literas nostras iniunximus, ut, si ita esset, per censuras ecclesiasticas cogeretis communitatem eandem electum ab eisdem monachis in rectorem admittere; audituri postea quae partes super proprietate vel quasi dicti iuris ducerent proponenda, †et causam, sicut iustum exsisteret, decisuri, non obstante statuto quolibet contrario ecclesiasticae libertati, seu quod abbas et conventus praedicti compulsi sunt super hoc litem contestari in iudicio saeculari. Nuper autem, referentibus abbate et conventu, didicimus, quod, quum de literis a nobis super hoc obtentis ad ipsius communitatis notitiam pervenisset, syndicus eius, exhibito coram iudice potestatis calumniae iuramento, citari fecit abbatem, quod coram illo subiret simile iusiurandum, ut per hoc renunciare intelligeretur idem abbas apostolicis literis ipso facto, aut pro convicto, si hoc facere recusaret, haberetur. Quumque praefatam communitatem ad praesentiam vestram saepius et peremptorie citassetis, syndico eius se velle dilatorias exceptiones proponere protestanti, terminum, in quo id faceret, vel super principali responderet negotio, statuistis. Verum pars altera inter alia excipiendo proposuit, se tunc coram vobis respondere de iure non teneri, quum tempus propter vindemias exsisteret feriatum, respondente syndico monasterii, hoc malitiose proponi, ut videlicet causa protracta tempus regiminis electi inutiliter elabatur. †Quod apparebat ex eo, quia per nuncium potestatis abbati fuit prohibitum, ne communitatem eandem extra Florentinum districtum in iudicio conveniret, quare praenominati abbas et conventus humiliter petierunt, ut obviare huiusmodi malitiis dignaremur. Quocirca discretioni vestrae Mandamus, quatenus tam eundem syndicum, quam eiusdem monasterii monachos, quorum testimonio uti voluit, si excommunicationem contra eos ad impediendum causae processum opponi contingat, absolventes sublato appellationis obstaculo ad cautelam, ne tali praetextu valeant ab agendo vel testificante repelli, hoc non obstante, in negotio, iuxta recepti formam mandati, ratione praevia procedatis, causae finem debitum absque morae dispendio imponendo ita praeceptum apostolicum impleturi quod non debeamus vobis difficultatem quae dicto monasterio morae occasione imminere dignoscitur imputare. [Dat. Reate II. Kal. Nov. Ao. X. 1225.]
 
-* 2.II. DE FORO COMPETENTI.
-
+* 2.02. DE FORO COMPETENTI.
 ** CAP. I.
 
 Clericus coram suo episcopo conveniri debet.
@@ -333,8 +332,7 @@ Idem.
 
 Licet ratione delicti, seu contractus, aut domicilii, sive rei, de qua contra possessorem causa movetur, quibus forum regulariter quis sortitur, episcopus vester apud sedem apostolicam conventus non fuerit, quia tamen omnium ecclesiarum mater est eadem et magistra, rite compelli potuit, ut ibi suis adversariis responderet, nisi pro alia iusta et necessaria causa venisset, quam si tunc allegasset, ius revocandi domum salvum fuisset eidem.
 
-* 2.III. DE LIBELLI OBLATIONE.
-
+* 2.03. DE LIBELLI OBLATIONE.
 ** CAP. I.
 
 Actor tenetur in scriptis libellum porrigere. Vel sic: Iudex non debet admittere actorem ad litigandum, nisi prius libellum in scriptis offerat. H. d. per alia verba.
@@ -359,8 +357,7 @@ Gregorius IX. Archipresbytero Civitatis novae et M. Canonico Culmensi.
 
 Dilecti filii fratres ecclesiae sanctae Mariae de Hispida sua nobis petitione monstrarunt, quod, quum prior et conventus sanctae Mariae ad Carceres ipsos super quadam pecuniae summa coram priore sanctae Trinitatis Veronensis auctoritate apostolica convenissent, ex parte ipsorum fuit excipiendo propositum, quod, quum dicti prior et conventus nollent exprimere in porrecto libello conventionali, quare sibi dicta pecunia deberetur, super hoc minime respondere tenebatur, et quia dictus iudex exceptionem huiusmodi admittere denegabat, nostram audientiam appellaverunt. Ideoque mandamus, quatenus, si est ita, revocato in irritum, etc.
 
-* 2.IV. DE MUTUIS PETITIONIBUS.
-
+* 2.04. DE MUTUIS PETITIONIBUS.
 ** CAP. I.
 
 Iudex etiam delegatus compellit actorem ad respondendum reo in causa reconventionis, et utramque causam ordine successivo simul audiet et una sententia terminabit. H. d.
@@ -377,8 +374,7 @@ Coelestinus III. Rothomagensi Decano.
 
 Prudentiam †tuam debita laudum prosequimur actione pro eo, quod more prudentis viri in articulis iuris, super quibus aliquando dubitas, sedem ducis apostolicam consulendam, [ad quam utique omnes difficiles quaestiones et causas antiqui Patres statuerunt decere referri.] Sane consuluisti nos, utrum, quum causa appellatione remota committitur, et reus coram eodem iudice actorem reconvenerit vel eisdem, quod quidem ex constitutione tam canonici quam forensis iuris licite fieri potest, et actor super reconventione appellationis obstaculum interponit, an sit huiusmodi appellationi deferendum? Nos vero ita sentimus, quod, quum in hoc casu actoris et rei eadem sit conditio vel causa, et uno eodemque iure circa appellationis remedium debeat uterque censeri, †unde nec appellationi taliter interpositae deferendum esse iudicamus. Etenim ipso Christo, qui est veritas, attestante didicimus, quod omnia, quaecunque voluerint aliqui ut faciant eis homines, eadem et ipsi facere debeant. Nec iurisperitus ab hac sententia discrepat, quia praeter authenticam, quae incipit: Et consequenter, in quo id de facienda reconventione expresse habetur, et alibi statuitur, ut eodem iure quis utatur, quod duxerit in alium statuendum. Ideoque Sicut desiderat actor, ut sibi iuxta mandatoris rescriptum iustitia fiat appellatione remota, eodem modo se reconvenienti debeat in sua iustitia respondere. [Secundo requiris etc. (cf. c. 41. de app. II. 28.) Dat. Lat. XV. Kal. Iul. Pont. nostr. Ao. III. 1193.]
 
-* 2.V. DE LITIS CONTESTATIONE.
-
+* 2.05. DE LITIS CONTESTATIONE.
 ** CAP. UN.
 
 Non per positiones et responsiones, sed per petitionem in iure propositam et responsionem secutam fit litis contestatio, qua omissa nullus est processus.
@@ -387,8 +383,7 @@ Gregorius IX. Abbati S. Ioannis in Vineis.
 
 Olim inter episcopum Noviensem ex parte una, et capitulum ecclesiae sancti Quintini ex altera super quibusdam iniuriis, et excommunicationum sententiis et quibusdam aliis articulis orta materia quaestionis (Et infra:) Iudices factis quibusdam positionibus et responsionibus ad easdem, auditis etiam quae partes voluerunt proponere coram eis, causam eandem ad examen apostolicum remiserunt. Procuratoribus igitur partium propter hoc in nostra praesentia constitutis, quamvis positiones et responsiones hinc inde super pluribus articulis factae fuerint coram iudicibus memoratis, quia tamen litis contestationem non invenimus esse factam, quum non per positiones et responsiones ad eas, sed per petitionem in iure propositam et responsionem secutam litis contestatio fiat, processum ipsorum de fratrum nostrorum consilio irritum duximus nunciandum.
 
-* 2.VI. UT LITE NON CONTESTATA NON PROCEDATUR AD TESTIUM RECEPTIONEM VEL AD SENTENTIAM DIFFINITIVAM.
-
+* 2.06. UT LITE NON CONTESTATA NON PROCEDATUR AD TESTIUM RECEPTIONEM VEL AD SENTENTIAM DIFFINITIVAM.
 ** CAP. I.
 
 Si agatar de adulterio ad separationem tori, et ante litis contestationem reus est contumax, potest excommunicari; sed testes recipi non possunt, nec causa diffiniri.
@@ -429,7 +424,7 @@ Idem.
 
 Quoniam frequenter in dubium revocatur a multis, an, lite non contestata, testes recipi valeant, auctoritate praesentium duximus declarandum, regulariter verum esse, quod lite non contestata non est ad receptionem testium procedendum, nisi forte de morte testium timeatur vel absentia diuturna. In quibus casibus, quum civiliter est agendum, ne veritas occultetur, et probationis copia fortuitis casibus subtrahatur, senes, et valetudinarii, et alii testes, de quibus ex aliqua rationabili causa timetur, etiam lite non contestata sunt procul dubio admittendi, sive pars conventa sit contumax, sive sit absens absque malitia, ut conveniri non possit. Sed si actor non convenerit adversarium infra annum, ex quo conveniri poterit, vel saltem receptionem huiusmodi testium non denunciaverit illi, attestationes sic receptae non valeant, ne forte hoc procuret in fraudem, ut processu temporis exceptiones legitimae ad repellendum testes, vel aliae locum habere non possint. §. 1. Porro speciales causae possunt occurrere, in quibus casualiter est aliud observandum, ut, verbi gratia, si super alicuius electione vel copula maritali quaestio moveatur. Tunc etenim, ne propter longam moram in spiritualibus et temporalibus patiatur ecclesia laesionem, vel viro sive mulieri fornicationis occasio praebeatur, maxime quum propinquitatis gradus opponitur lege divina prohibitus, in huiusmodi casibus, si videlicet contumax apparuerit is, in quem fuit actio dirigenda, sive quia peremptoria citatione recepta venire contemnit, sive quia malitiose se ipsum occultat, sive quia impedit, ne possit ad eum citatio pervenire, testes lite non contestata sunt merito admittendi, et nihilominus, si de causa liqueat, ad diffinitivam sententiam procedendum. §. 2. Si vero aliter absens fuerit, et agatur de spirituali coniugio inter praelatum et ecclesiam iam contracto, electione maxime confirmata, illud in hoc articulo volumus observari, quod super exspectatione talium personarum in sacris est canonibus diffinitum. §. 3. Quod si forsan agatur de spirituali coniugio contrahendo, is, qui est in praelatum electus, per spatium sex mensium exspectetur, nisi pensatis negotii circumstantiis per superioris providentiam magis vel minus fuerit exspectandus. §. 4. Si autem de carnali coniugio sit agendum, tam diu alteruter coniugum exspectetur, donec de ipsius obitu verisimiliter praesumatur, quia, quum sine culpa sit absens, ut, si captivitate, vel aegritudine, aut alio iusto impedimento forsitan teneatur, aut etiam [ex] propria, sed non malitiosa voluntate, in remotis partibus moram faciat, ut de facili vel in brevi citari non possit, ei quidem praeiudicari non debet, quum habeat forsan exceptiones legitimas ad intentionem contrariam elidendam, eo nequaquam obstante, quod de lapsu carnis posset opponi, quoniam in coniugio multi casus occurrunt, in quibus coniuges sine culpa, sed non sine causa continere coguntur. §. 5. Sunt et alii casus similiter speciales, quos alibi nos meminimus distinxisse, in quibus absque litis contestatione legitime possunt testes produci, ut quando excessuum inquisitio vel testium publicatio imminet facienda. §. 6. In aliis vero casibus prudenter est attendendum, utrum contumax actione reali, an personali conveniatur. Si reali, mittendus est utique actor in rei petitae possessionem, ut taedio affectus reus veniat responsurus. Qui si venerit infra annum, iudicio sisti praestita cautione, ac exhibita satisfactione congrua expensarum, possessionem recuperet. Quodsi cautionem offerre neglexerit infra annum, actor post annum verus constituetur possessor, super proprietate duntaxat adversae parti defensione legitima reservata. §. 7. Quodsi super rebus immobilibus quisquam conveniatur, qui eas possidet nomine alieno, debet statim in iudicio dominum nominare, certo dierum spatio a iudice statuendo, eoque ad eius notitiam perducendo, ut vel ipse veniens, vel idoneum dirigens responsalem actoris intentionem excipiat. Si vero post tempus indultum quod dispositum est noluerit adimplere, tanquam lite, quae ingeritur, ex eo die, quo possessor ad iudicium vocatus est, ad interrumpendam praescriptionem longi temporis contestata, dominum possessionis iudex tribus edictis legitimis evocabit, et tunc ipso in eadem voluntate manente negotium summatim examinans, in possessionem ipsarum rerum actorem mittere non tardabit, omni allegatione absenti super principali quaestione reservata. §. 8. Si autem super personali actione conveniatur, vel mittendus est actor in possessionem mobilium bonorum ipsius, vel immobilium, si forte mobilia non habeat, pro modo debiti declarati, vel in contumacem est ecclesiastica sententia proferenda, ita videlicet, quod alterutra poena, quae magis timeri debeat, iudex a principio sit contentus; ad alteram nihilommus processurus, si hoc meruerit protervitas contumacis, qui veniens infra annum vel post annum etiam audietur iuxta distinctionem in alio casu superius annotatam.
 
-* 2.VII. DE IURAMENTO CALUMNIAE.
+* 2.07. DE IURAMENTO CALUMNIAE.
 
 ** CAP. I.
 
@@ -487,7 +482,7 @@ Gregorius IX. Episcopo Belvacensi.
 
 Quum in causa pecuniaria, quam inter te et R. motam esse proponis, non per te, sed per syndicum vel actorem elegeris litigare, per illum quidem praestandum erit calumniae iuramentum. Quod si per te ipsum, propositis tantum, sed non tactis evangeliis, sicut in dicendo testimonio, a te videtur huiusmodi iuramentum exihibendum, (Et infra:) §. 1. Poena vero recusantis hoc iuramentum, quum praestandum fuerit, est, ut actor ab instituta cadat actione, reus autem haberi debeat pro confesso.
 
-* 2.VIII. DE DILATIONIBUS.
+* 2.08. DE DILATIONIBUS.
 
 ** CAP. I.
 
@@ -521,7 +516,7 @@ Gregorius IX. Abbati Aquae vivae Turonensis dioecesis et Archidiacono Turonensi.
 
 Exposuit nobis Bituricensis archiepiscopus (Et infra:) Burdegalensi archiepiscopo dedimus in mandatis, ut super iure primatiae, quam in eo et in provincia sua dictus Bituricensis archiepiscopus se habere proponit, ad initium proxime praeteritae Quadragesimae, quod ei terminum peremptorium assignavimus, per se aut per procuratorem idoneum se conspectui nostro praesentaret. Quumque postmodum personaliter vocatus pro ecclesiae Romanae subsidio ad nostram audientiam accessisset, dictus Bituricensis archiepiscopus apud sedem apostolicam constitutus postulavit instanter, ut in eodem negotio procedere deberemus. Idem vero Burdegalensis archiepiscopus ad propria rediens constituit pro se procuratorem in ipso negotio, qui, salvis exceptionibus sibi competentibus in respondendo et defendendo ac aliis, omnia faceret, quae in propria erat persona facturus. Petente ergo archiepiscopo supradicto, ut praefatus procurator responderet eidem, ille excipiendo proproposuit, se ad hoc non teneri, quum pro alia maiori causa, pro publica scilicet utilitate, dictus Burdegalensis vocatus, pro absente reputari debuerat et revocandi domum privilegium habuisset. Nondum etiam super hoc deliberaverat cum suffraganeis suis et aliis, quorum consilium tam ardua causa requirit, nec tempus habuerat, in quo ad utrumque negotium valuerit, sicut expediret, esse paratus. Sed pars altera econtra respondit, quod, quum super quaestione praedicta prius fuerit evocatus, nostrae intentionis non fuerat primum mandatum per posterius revocare. Temporis quoque spatium habuerat tam prolixum, ut potuisset, si voluisset, super causa deliberare praedicta, sicut fecerat cum quibusdam, et commode utrique negotio imminere. (Et infra:) Nos igitur de consilio fratrum nostrorum usque ad proximum venturum festum Nativitatis dominicae dilationem adhuc sibi duximus indulgendam.
 
-* 2.IX. DE FERIIS.
+* 2.09. DE FERIIS.
 ** CAP. I.
 
 Diebus dominicis mercari, litigari, iudicari, vel iurari non debet, sed de vespera in vesperam debent celebrari.
@@ -562,7 +557,7 @@ Gregorius IX.
 
 Conquestus est nobis (Et infra:) Quamvis non prorogari, sed expediri deceat quaestiones, debet tamen iudicialis strepitus diebus conquiescere feriatis, qui ob reverentiam Dei noscuntur esse statuti, scilicet Natalis Domini, sancti Stephani, Ioannis Evangelistae, Innocentium, sancti Silvestri, Circumcisionis, Epiphaniae, VII. diebus dominicae Passionis, Resurrectionis cum VII. sequentibus, Ascensionis, Pentecostes cum duobus, qui sequuntur, Nativitatis Ioannis Baptistae, festivitatum omnium Virginis gloriosae, XII. Apostolorum, et praecipue Petri et Pauli, beati Laurentii, dedicationis beati Michaelis, solennitatis omnium sanctorum, ac diebus dominicis, ceterisque solennitatibus, quas singuli episcopi in suis dioecesibus cum clero et populo duxerint solenniter venerandas, quibus utique solennibus feriis, nisi necessitas urgeat vel pietas suadeat, usque adeo convenit ab huiusmodi abstinere, ut, consentientibus etiam partibus, nec processus habitus teneat, nec sententia, quam contingit diebus huiusmodi promulgari, licet diebus feriatis, qui gratia vindemiarum vel messium ob necessitates hominum indulgentur, procedi valeat, si de partium processerit voluntate.
 
-* 2.X. DE ORDINE COGNITIONUM.
+* 2.10. DE ORDINE COGNITIONUM.
 
 ** CAP. I.
 
@@ -596,7 +591,7 @@ Gregorius IX.
 
 Super spoliatione conventus adversus restitutionem petemtem non est, nisi super quaestione spoliationis, si eum reconveniat, audiendus, quum restitutionis petitio in hoc privilegiata noscatur, ut ipsam intentans non cogatur ante restitutionem spoliatoribus respondere, quanquam ab agendo spoliatione ab eis in modum exceptionis proposita repellatur.
 
-* 2.XI. DE PLUS PETITIONIBUS.
+* 2.11. DE PLUS PETITIONIBUS.
 
 ** CAP. UNIC.
 
@@ -606,7 +601,7 @@ Gregorius IX.
 
 Consilium providentiae dici non potest, quod pecuniam tibi debitam ante terminum ab adversario repetisti. Punitur enim importunitas plus petentium, si super petitione sua duxerint in iudicio persistendum, ita, quod, qui re petunt amplius sine causa, in expensis adversario condemnantur. §. 1. Qui autem plus loco, ad interesse tenentur pro eo, quod utilitas adimitur debitoribus, quam haberent, si statuto loco solvissent. §. 2. Ei vero, a quo amplius tempore petitur, induciae duplicantur, nec litem excipiet, nisi ei solvantur expensae. §. 3. Te quoque dubitare non credimus, quod causa plus petitur, quum aliquid in genere vel sub alternatione debetur, et rem in specie vel unum praecise peti contingit. §. 4. Re autem, si X. sint debita et XX. repetantur. §. 5. Loco vero, quum quis non ubi convenit solvere, sed alibi convenitur. §. 6. Tempore quoque, quum ante diem vel conditionem petitur quod debetur.
 
-* 2.XII. DE CAUSA POSSESSIONIS ET PROPRIETATIS.
+* 2.12. DE CAUSA POSSESSIONIS ET PROPRIETATIS.
 
 ** CAP. I.
 
@@ -758,7 +753,7 @@ Honorius III. Abbati S. Cypriani Torcellanae dioecesis et S. Mariae novae de Ven
 
 In causa, quae inter venerabiles fratres nostros patriarcham Grandensem et episcopum Castellanum ex una parte, et abbatem et conventum monasterii sancti Georgii de Venetiis super subiectione ipsius monasterii ex altera vertebatur, invenimus pro eodem patriarcha probatum, quod recipiebatur in ipso monasterio processionaliter cum incenso, aqua benedicta, et icona, et quando revertebatur a gradu, pulsabantur ibi campanae, sicut in aliis ecclesiis civitatis, et quod inter alia abbas quandoque ivit ad eius synodum, L. solidos Venetorum minorum ei per plures annos exsolvens. †Probatum vero pro episcopo invenitur quod eiusdem monasterii confirmavit abbates, qui ei obedientiam et reverentiam impenderunt. Abbates etiam eiusdem monasterii ad synodos veniebant episcopi, et idem ad exsequias invitatus recipiebatur processionaliter cum solennitate praedicta, ac similiter invitatus in festo beati Georgii procurationem ibidem recipiebat, quem in barca sua in festo Purificationis B. Virginis conducebant. Quum autem in his primo possessorio egerint patriarcha et episcopus memorati, nos eos ad possessionem vel quasi restituimus praedictorum. Verum quia hinc inde petitorio nihilominus actum fuit, et utraque pars totum suum ius videtur in iudicium deduxisse, nos, visis praedecessorum nostrorum privilegiis, monasterium ipsum de fratrum nostrorum consilio liberum esse decernimus, et immediate ad Romanam ecclesiam pertinere, illud in praemissis, et aliis, quae iurisdictionem et subiectionem respiciunt, ab impetitione dictorum patriarchae ac episcopi absolventes, non obstante possessione circa praedicta probata, quum non docuerint se tanto tempore talia percepisse, quod per hoc libertatis fuerit privilegiis derogatum. Reservamus autem episcopo supradicto quae sibi circa chrisma, oleum sanctum, ordinationes clericorum et quaedam alia in eisdem privilegiis specialiter reservantur. Ad haec, quum de praemissis L. solidis, quos petiit ad subiectionis iudicium, a patriarcha sit actum, per sententiam diffinitivam quam super hoc contrariam reportavit, ei non adimimus, si alio iure de ipsis experiri voluerit, potestatem. [Ideoque discretioni etc. Dat. Non. Maii Ao. VIII. 1224.]
 
-* 2.XIII. DE RESTITUTIONE SPOLIATORUM.
+* 2.13. DE RESTITUTIONE SPOLIATORUM.
 
 ** CAP. I.
 
@@ -912,7 +907,7 @@ Gregorius IX. Episcopo Lucano.
 
 Pisanis ac Lucanis civibus per gravem discordiam, quam diu inter se habuerant, afflictis graviter et attritis (Et infra:) P. subdiacono nostro dedimus in mandatis, ut possessione, quam in quibusdam castris constat Lucanam ecclesiam habuisse, sibi prius plene ac libere, sicut tempore motae discordiae habuerat, restituta, et super ea, de qua dubietas oriretur, sufficienti cautione recepta, quod iuri coram nobis praedicti Pisani parerent, prolatas pro occupatione castrorum ipsorum in eos sententias relaxaret. (Et infra:) Pisanis igitur asserentibus, quod per te stabat, quo minus tibi iuxta mandatum nostrum fieret restitutio, et instanter petentibus, ut dictas sententias praefatus subdiaconus relaxaret, ipse, receptis cautionibus de parendo iustitiae coram nobis, sententias relaxavit easdem, propter quod tu reputans te gravatum ad nostram praesentiam accessisti, impugnaturus processum subdiaconi saepe dicti. (Et infra:) Porro duo in nostro continebantur mandato, ut videlicet possessio, quam constabat Lucanam ecclesiam habuisse tempore motae discordiae, prius restitueretur eidem, et ut eiusdem possessionis restitutio fieret plene ac libere, sicut eam habuerat tempore supradicto, quorum primum ad factum, alterum vero referebatur ad modum. Unde licet, prout pars Pisanorum dicebat, in facto mandati formam subdiaconus ipse adimplere nequiverit, quia non poterat facere tibi restitui possessionem castrorum, de qua non constabat eidem, nec etiam, secundum quod tu ipse dicebas, affictuum et pensionum possessio poterat tibi restitui, quia ea non fueras spoliatus, fuit tamen in modo peccatum, quia debuit facere, ut Pisani possessionem pensionum et affictuum, quam per eorum confessionem constabat te in castris praedictis habere, tibi dimitterent plene ac libere, sicut ecclesia tua illam habuerat tempore motae discordiae, quod quidem esse non poterat, nisi Pisani castra ipsa omnino dimitterent, quia illis detinentibus castra et munitiones castrorum, in quibus dictas pensiones recipis et affictus, ea plene ac libere habere non posses, sicut habebas, quando ipsi castra eadem minime detinebant, eo, quod, quamdiu ea detinent, in eorum potestate relinquitur, te non admittere vel repellere, quando velint. His ergo diligenter auditis, processum huiusmodi de fratrum nostrorum consilio irritum iudicamus.
 
-* 2.XIV. DE DOLO ET CONTUMACIA.
+* 2.14. DE DOLO ET CONTUMACIA.
 
 ** CAP. I.
 
@@ -994,7 +989,7 @@ Gregorius IX. Archiepiscopo Burdegalensi.
 
 Venerabilis frater noster (Et infra:) Volentes finem imponi litibus, ne immortales exsistant, mandamus, quatenus ad initium proxime venturae Quadragesimae, quod tibi peremptorium terminum duximus assignandum, super iure primatiae, quod Bituricensis archiepiscopus in te ac in provincia tua se habere proponit, per te vel per procuratorem idoneum sufficienter instructum ad litem contestandam et ad alia omnia negotia peragenda, quae necessaria decisioni negotii videbuntur, nostro te conspectui repraesentes. Nos vero nihilominus archidiacono Transuigensi et magistro M. canonico Turonensi dedimus in mandatis, ut et ipsi ad eundem terminum auctoritate nostra iuxta praemissam formam te peremptorie citare procurent, et, si non poteris inveniri, faciant, ut citationis edictum per ipsos vel alios apud ecclesiam tuam publice proponatur.
 
-* 2.XV. DE EO, QUI MITTITUR IN POSSESSIONEM CAUSA REI SERVANDAE.
+* 2.15. DE EO, QUI MITTITUR IN POSSESSIONEM CAUSA REI SERVANDAE.
 
 ** CAP. I.
 
@@ -1028,7 +1023,7 @@ Gregorius IX.
 
 Si adversarius tuus post citationis edictum, ad remota loca se transferens, procuratorem legitimum non dimisit, et denunciatione publice facta domi non apparet qui defendat eundem, iure petere potes, ut in possessionem earum terrarum, de quibus quaestio vertitur, causa custodiae inducaris.
 
-* 2.XVI. UT LITE PENDENTE NIHIL INNOVETUR.
+* 2.16. UT LITE PENDENTE NIHIL INNOVETUR.
 
 ** CAP. I.
 
@@ -1070,7 +1065,7 @@ Honorius III. Cancellario, Cantori et A. Canonico Parisiensibus.
 
 Dilectus filius magister A. persona ecclesiae de Bassevilla exposuit coram nobis, quod, quum inter praedecessorem suum ex parte una, et priorem ac monachos de Bassevilla Carnotensis dioecesis ex altera super decimis novalium infra fines parochiae suae consistentium quaestio emersisset, ea pendente coram iudicibus a sede apostolica delegatis, abbas et conventus sancti Martini maioris monasterii Turonensis, quibus subsunt prior et monachi supradicti, pro se ac membris suis obtinuerunt a sede apostolica indulgentiam super perceptione huiusmodi decimarum, cuius praetextu iam dicti prior et monachi supradictas decimas sibi vendicare contendunt, licet in indulgentia ipsa de supra dicta quaestione facta mentio non fuisset. Ideoque discretioni vestrae mandamus, quatenus auctoritate nostra eisdem iudicibus, quibus commissa fuit ipsa quaestio, iniungatis, ut indulgentia non obstante praedicta in negotio ipso procedant iuxta traditam sibi formam.
 
-* 2.XVII. DE SEQUESTRATIONE POSSESSIONUM ET FRUCTUUM.
+* 2.17. DE SEQUESTRATIONE POSSESSIONUM ET FRUCTUUM.
 
 ** CAP. I.
 
@@ -1096,7 +1091,7 @@ Gregorius IX.
 
 Ab eo, qui a sententia provocavit, fructus possessionis, si dissipentur ab ipso, possunt lite pendente rationabiliter sequestrari.
 
-* 2.XVIII. DE CONFESSIS.
+* 2.18. DE CONFESSIS.
 
 ** CAP. I.
 
@@ -1122,7 +1117,7 @@ Gregorius IX. B. Iudici Viterbiensi.
 
 Ex parte [dilectorum filiorum] abbatis et conventus monasterii sancti M. [in monte Viterbien. Cistercien. ordinis] fuit propositum [coram nobis], quod, quum inter ipsos ex parte una, et V. [civem Viterb.] nomine suae uxoris ex altera coram te quaestio verteretur, [tandem in te tanquam in arbitrum fuit a partibus poena interposita compromissum. Quumque coram te lis procederet suo Marte], oeconomus monasterii memorati [qui causam prosequebatur eandem] quaedam per errorem facti fuit in iure confessus, ex quibus timet sibi praeiudicium generari. [Quare super hoc sibi petierunt a nobis congrue provideri.] Quum igitur negotio nondum finito nemini noceat error facti, mandamus, quatenus, si [praedicti abbas et conventus] de huiusmodi potuerit errore docere, [super hoc auctoritate nostra] provideas, ut nullum sibi super hoc praeiudicium generetur. [Dat. Reatin. XII. Kal. Febr. A. V. 1232.]
 
-* 2.XIX. DE PROBATIONIBUS.
+* 2.19. DE PROBATIONIBUS.
 
 ** CAP. I.
 
@@ -1244,7 +1239,7 @@ Gregorius IX. Praeposito sanctae Mariae Magdeburgensis et Decano Misinensi.
 
 Quum bonae memoriae (Et infra:) Quum acta originalia dicantur apud priores iudices remansisse, mandamus, quatenus ea cum omni diligentia requirentes, ipsa, si potuerint inveniri, et si qua partes duxerint legitime proponenda, in scriptis redacta ad nostram praesentiam remittatis. Alioquin quum non revocetur in dubium de contestatione litis super statu Pigamensis monasterii, et quibusdam spoliationibus contra abbatem eius factis a Mesburgensi episcopo, recipiatis partium probationes de novo, et audientes, si partes audire voluerint, de compositione tractatum, tam quod super hoc inveneritis, quam causam sufficienter instructam ad nos remittere procuretis.
 
-* 2.XX. DE TESTIBUS ET ATTESTATIONIBUS.
+* 2.20. DE TESTIBUS ET ATTESTATIONIBUS.
 
 ** CAP. I.
 
@@ -1694,7 +1689,7 @@ Idem.
 
 Non debet quis in criminibus, nisi forsan in exceptis, ad testificandum admitti pendente accusatione de crimine contra ipsum, quum etiam accusati, nisi prius se probaverint innocentes, ab accusatione ac susceptione ordinum repellantur.
 
-* 2.XXI. DE TESTIBUS COGENDIS VEL NON.
+* 2.21. DE TESTIBUS COGENDIS VEL NON.
 
 ** CAP. I.
 
@@ -1785,7 +1780,7 @@ Idem Episcopo Bononiensi et Magistro B.
 
 Venerabilis frater noster archiepiscopus Ravennatensis proposuit coram nobis, quod cives Cervicenses cum M. et I. quondam clericis ecclesiae Ravennatensis quandam praesumpserunt coniurationem facere contra eum, nihilominus in detrimentum eius dantes eis quandam pecuniae quantitatem, et ad haec celanda se adstringentes vinculo iuramenti. Unde idem archiepiscopus nobis humiliter supplicavit, ut, quum causam super his et quibusdam articulis vobis eius obtentu duxerimus committendam, et ipse intentionem suam probare non possit, nisi testimonio civium praedictorum, super hoc providere ei, ne pro defectu testium pereat sua iustitia, dignaremur. Ideoque discretioni vestrae mandamus, quatenus, monitione praemissa, per censuram ecclesiasticam appellatione remota cogatis illos, quos videritis compellendos, ut ab huiusmodi iuramento absolvant illos, quos idem archiepiscopus ad testimonium duxerit producendos; eos nihilominus, si se gratia, vel odio vel timore subtraxerint, districtione simili compellentes ad perhibendum testimonium veritati.
 
-* 2.XXII. DE FIDE INSTRUMENTORUM.
+* 2.22. DE FIDE INSTRUMENTORUM.
 
 ** CAP. I.
 
@@ -1915,7 +1910,7 @@ Idem.
 
 Si instrumenta propter vetustatem vel propter aliam iustam causam exemplari petantur, coram ordinario iudice vel delegato ab eo specialiter praesententur. Qui si ea diligenter inspecta in nulla sui parte vitiata repererit, per publicam personam illa praecipiat exemplari, eandem auctoritatem per hoc cum originalibus habitura.
 
-* 2.XXIII. DE PRAESUMPTIONIBUS.
+* 2.23. DE PRAESUMPTIONIBUS.
 
 ** CAP. I.
 
@@ -2045,7 +2040,7 @@ Idem Archidiacono et Praeposito Mediolanensibus.
 
 Dudum bonae memoriae archidiacono Mediolanensi dedimus in mandatis, ut dilectum filium C. scholarem a presbytero sancti Victoris XL. martyrum, qui solus in ipsa ecclesia ministrabat, in qua, sicut scholaris idem assuerit, quondam ministraverunt clericus et sacerdos, in clericum eiusdem ecclesiae recipi faceret et in fratrem, †cuius facultates idem scholaris proponit nullatenus imminutas. Sed presbyter memoratus ipsius archidiaconi malitiose declinans examen, I. clericum [pro se] ad nostram praesentiam destinavit, cui et praefato C. venerabilem fratrem nostrum Tranensem archiepiscopum apostolicae sedis legatum, tunc subdiaconum et capellanum nostrum, dedimus auditorem, coram quo dictus Ioannes asseruit, quod nequaquam sufficiebant duobus clericis facultates ecclesiae memoratae, adiiciens, quod praedictus C. non erat idoneus ad illius ecclesiae beneficium obtinendum. †[Unde nos venerabili fratri nostro … Patriarchae Hierosolymitano, tunc Episcopo Vercellensi, de illorum assensu mandavimus ut si praedictus C. legitime coram ipso probaret quod facultates ecclesiae supradictae imminutae non essent, sed duobus sufficerent, et persona eius esset idonea, presbyterum supradictum ad receptionem ipsius per censuram ecclesiasticam appellatione remota compelleret, contradictores vel rebelles, si qui forsitan apparerent, a praesumptione sua districtione simili, cessante appellatione, compescens; alioquin perpetuum silentium scholari super hoc imponeret memorato. Testes etiam qui nominarentur eidem, si se gratia, odio, vel timore subtraherent, canonica districtione, cessante appellatione, compelleret perhibere testimonium veritati. Quum autem praefatus scholaris ad probandum quod facultates ecclesiae imminutae non essent, sed duobus sufficerent, ad praedicti Patriarchae tunc Vercellensis Episcopi praesentiam multotiens accessisset, et idem Episcopus testes nominatos ab ipso, quia monitione praemissa nolebant veritati testimonium perhibere, interdicto supposuisset, venerabilis frater noster … tunc Mediolanensis Archiepiscopus interdictum ipsum auctoritate propria relaxavit. Quare supradictus C. ius suum non potuit obtinere. Unde tibi, fili Praeposite, dedimus postmodum in praeceptis ut inspectis attestationibus iam receptis, quas voluimus ut per censuram ecclesiasticam tibi faceres exhiberi, secundum eas et alias, si quas partes legitime ducerent proferendas, quum nondum essent, quae receptae fuerant, publicatae, causam ipsam iuxta tenorem praecedentium litterarum, sublato cuiuslibet contradictionis et appellationis obstaculo, ratione praevia terminares. Partibus igitur propter hoc in tua postmodum praesentia constitutis, quum dictus C. ad probandum quod facultates ecclesiae suppetebant, quosdam patronos et parochianos ecclesiae ad ferendum testimonium nominasset, et ipsi licet a te saepius moniti, nollent testimonium perhibere, quibusdam se rationibus excusantes, tu eos, nisi usque ad quindecim dies ex tunc venirent ad testimonium perhibendum, excommunicationis vinculo innodasti; sed ipsi ante praefixum diem ad sedem apostolicam provocarunt; quare non fuit ulterius in causa processum. Volentes igitur ut finis eidem controversiae imponatur,] Causam vobis duximus committendam [praesentium vobis auctoritate praecipiendo mandantes, quatenus laicis supradictis ad cautelam absotulionis beneficium impendatis, et causam ipsam iuxta priorum literarum continentiam appellatione remota, ratione praevia terminetis;] ita, ut ex illa clausula, scilicet si persona fuerit idonea, quae nostro rescripto reperitur inserta, eidem scholari probandi se idoneum nulla necessitas imponatur, quum prima facie praesumatur idoneus, nisi aliud contrarium ostendatur. [Testes autem etc. Dat. Later. V. Id. Mai. Ao. X. 1207.]
 
-* 2.XXIV. DE IUREIURANDO.
+* 2.24. DE IUREIURANDO.
 
 ** CAP. I.
 
@@ -2279,7 +2274,7 @@ Idem.
 
 Sicut †[oblatus dilecti filii I. de Cuter. literartum nobis tenor expressit, nuper expertus est in se ipso quod fallax huius vitae incunditas vix aut nunquam statu permaneat in eodem. Quanta enim ei libentius quis inhaeret, tanto facilius labitur cum labente. (Et infra:) Quum igitur simus in eo loco constituti, ut secundum verbum propheticum debeamus dissolvere colligationes impietatis et fasciculos deprimentes, ac dimittere eos, qui confracti sunt, liberos, et omne onus dirumpere, discretioni vestrae per apostolica scripta mandamus, quatenus] Si vobis constiterit, quod praedictus H. iniuste bellum moverit contra I., ipsum H. monere attentius et inducere studeatis, ut [et] terram ipsius et alia universa per huiusmodi violentiam occupata sine dilatione restituat conquerenti, eum a praestito sibi iuramento prorsus absolventes. Quodsi monitis vestris forte acquiescere noluerit, ipsum ad hoc, si praemissa veritate nitantur, [sublato cuiuslibet contradictionis et appellationis obstaculo] cogatis per sententiam excommunicationis, et terram eius interdicti sententiae supponentes. §. 1. Iuramentum autem, quod [idem] I. ultimo se asserit praestitisse, si de assensu factum est utriusque, eum non ligat, qui praestitit, dum ille, cui praestitum fuerat, servare negligit quod promisit.
 
-** CAP.XXX.
+** CAP. XXX.
 
 Clerici non habentes temporalia a laicis non tenentur eis praestare iuramenta fidelitatis.
 
@@ -2335,7 +2330,7 @@ Idem H. Iudici.
 
 Iuramentum a te parti delatum, nisi iusta de causa, non potuit recusari, quamvis, quod in iudicio a parte parti defertur, recusari possit licite ac referri; nec liceat convento famosa actione referre huiusmodi iusiurandum. §. 1. Sane, si actor omnino in probatione defecerit, reus debet, et si nihil praestiterit, obtinere; praesumptione vero faciente pro illo, reo deferri potest ad ostendendam suam innocentiam iuramentum, nisi iudex inspectis personarum et causae circumstantiis illud actori videat deferendum.
 
-* 2.XXV. DE EXCEPTIONIBUS.
+* 2.25. DE EXCEPTIONIBUS.
 
 ** CAP. I.
 
@@ -2449,7 +2444,7 @@ Idem.
 
 Venerabilem fratrem nostrum archiepiscopum Narbonensem, qui a iudicibus ex sufficienti gravamine ad apostolicam sedem appellans ad vos super appellatione sua nostras literas reportavit, etsi ex causis aliis tempore impetrati rescripti vinculo fuerit excommunicationis adstrictus, de quibus ibi mentio non habetur, ad prosequendam per easdem literas appellationem praedictam decrevimus admittendum, quia nihil excommunicato appellare prodesset, si non posset appellationem suam prosequi, et super ea literas impetrare.
 
-* 2.XXVI. DE PRAESCRIPTIONIBUS.
+* 2.26. DE PRAESCRIPTIONIBUS.
 ** CAP. I.
 
 Episcopus contra episcopum locum per se conversum ad fidem praescribit triennio, sed, quum vacat ecclesia vel est in schismate, non praescribitur contra ipsam.
@@ -2610,7 +2605,7 @@ Idem in concilio generali.
 
 Quoniam omne, quod non est ex fide, peccatum est, synodali iudicio diffinimus, ut nulla valeat absque bona fide praescriptio tam canonica quam civilis, quum generaliter sit omni constitutioni atque consuetudini derogandum, quae absque mortali peccato non potest observari. Unde oportet, ut qui praescribit in nulla temporis parte rei habeat conscientiam alienae.
 
-* 2.XXVII. DE SENTENTIA ET RE IUDICATA.
+* 2.27. DE SENTENTIA ET RE IUDICATA.
 
 ** CAP. I.
 
@@ -2820,7 +2815,7 @@ Idem.
 
 Duobus iudicibus, ut accepimus, diversas sententias proferentibus, si ex iurisdictione ordinaria processerunt, tenet pro reo, non pro actore sententia, nisi in causa favorabili, puta matrimonio, libertate, dote seu testamento, pro ipso fuerit promulgata. Si vero ex delegata potestate, utraque pendet sententia ex arbitrio delegantis. Quodsi ex compromisso, neutra debet habere vigorem.
 
-* 2.XXVIII. DE APPELLATIONIBUS, RECUSATIONIBUS, ET RELATIONIBUS.
+* 2.28. DE APPELLATIONIBUS, RECUSATIONIBUS, ET RELATIONIBUS.
 
 ** CAP. I.
 
@@ -3406,7 +3401,7 @@ Idem.
 
 Si iustus metus, quo minus appellaveris, te excusat, ad appellationis reputaris beneficium convolasse, dummodo infra tempus, quo licite provocatur, coram iudice, a quo appellasse volueras, vel, si habere ipsius copiam nequivisti, in praesentia bonorum virorum protestatione super hoc proposita, causas appellationis duxeris exprimendas.
 
-* 2.XXIX. DE CLERICIS PEREGRINANTIBUS.
+* 2.29. DE CLERICIS PEREGRINANTIBUS.
 
 ** CAP. UN.
 
@@ -3416,7 +3411,7 @@ Coelestinus III. Ambianensi Episcopo.
 
 Conquerente I. presbytero intelleximus, †quod, postquam ad nos veniendi iter arripuit, quidam res eius diripere praesumpserunt. Licet autem presbyter idem res suas et ecclesiae suae in protectione nostra non posuerit, quando ad nos accessit, quia tamen propter hoc non debuit rebus suis spoliari, quum hi, qui accedunt ad praesentiam nostram, cum rebus eorum debeant esse sub apostolica protectione securi, fraternitati tuae mandamus, quatenus, quicquid eidem presbytero post iter arreptum ad nos veniendi subtractum est vel ablatum, sibi omni appellatione remota restitui faciatis incunctanter.
 
-* 2.XXX. DE CONFIRMATIONE UTILI VEL INUTILI.
+* 2.30. DE CONFIRMATIONE UTILI VEL INUTILI.
 
 ** CAP. I.
 

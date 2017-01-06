@@ -1,6 +1,6 @@
 # -*- mode: org -*-
 
-* LIBER XXX
+* LIBER XXX [= de leg. i]
 * 30.0. De legatis et fideicommissis.
 
 

@@ -14,7 +14,6 @@
 
 * 33.1.0. De annuis legatis et fideicommissis.
 
-
 33.1.1
 
 Pomponius libro quinto ad Sabinum
@@ -206,7 +205,6 @@ Valens libro secundo fideicommissorum
 Filio familias, quoad in potestate patris sit, in annos singulos dena dari possunt.
 
 * 33.2.0. De usu et de usu fructu et reditu et habitatione et operis per legatum vel fideicommissum datis.
-
 
 33.2.1
 

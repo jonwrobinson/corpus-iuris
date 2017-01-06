@@ -22,8 +22,7 @@ IMPERATORIS IVSTINIANI INSTITVTIONVM LIBER QVARTVS
 + 4.XVII   De officio iudicis
 + 4.XVIII  De publicis iudiciis
 
-
-* 4.01. DE OBLIGATIONIBUS QUAE EX DELICTO NASCUNTUR.
+* 4.01. De obligationibus quae ex delicto nascuntur.
 
 Cum eitum sit superiore libro de obligationibus ex contractu et quasi
 ex contractu, sequitur, ut de obligationibus ex maleficio
@@ -170,11 +169,11 @@ Furti autem actio ei competit cuius interest rem salvam esse, licet dominus non 
 
 Furti actio sive dupli sive quadrupli tantum ad poenae persecutionem pertinet: nam ipsius rei persecutionem extrinsecus habet dominus, quam aut vindicando aut condicendo potest auferre. sed vindicatio quidem adversus possessorem est, sive fur ipse possidet sive alius quilibet: condictio autem adversus ipsum furem heredemve eius, licet non possideat, competit.
 
-* 4.02. VI BONORUM RAPTORUM.
+* 4.02. Vi bonorum raptorum.
 
 Qui res alienas rapit, tenetur quidem etiam furti (quis enim magis alienam rem invito domino contrectat quam qui vi rapit? ideoque recte dictum est, eum improbum furem esse): sed tamen propriam actionem eius delicti nomine praetor introduxit, quae appellatur vi bonorum raptorum et est intra annum quadrupli, post annum simpli. quae actio utilis est, etiamsi quis unam rem, licet minimam, rapuerit. quadruplum autem non totum poena est et extra poenam rei persecutio, sicut in actione furti manifesti diximus: sed in quadruplo inest et rei persecutio, ut poena tripli sit, sive comprehendatur raptor in ipso delicto sive non. ridiculum est enim levioris esse condicionis eum qui vi rapit quam qui clam amovet. Quia tamen ita competit haec actio, si dolo malo quisque rapuerit: qui aliquo errore inductus, suam rem esse, et imprudens iuris eo animo rapuit quasi domino liceat rem suam etiam per vim auferre possessoribus, absolvi debet. cui scilicet conveniens est nec furti teneri eum qui eodem hoc animo rapuit. sed ne, dum talia excogitentur, inveniatur via per quam raptores impune suam exerceant avaritiam: melius divalibus constitutionibus pro hac parte prospectum est, ut nemini liceat vi rapere rem mobilem vel se moventem, licet suam eandem rem existimet: sed si quis contra statuta fecerit, rei quidem suae dominio cadere, sin autem aliena sit, post rei restitutionem etiam aestimationem eiusdem rei praestare. quod non solum in mobilibus rebus, quae rapi possunt, constitutiones optinere censuerunt, sed etiam in invasionibus quae circa res soli fiunt, ut ex hac omni rapina homines abstineant. In hac actione non utique spectatur, rem in bonis actoris esse: nam sive in bonis sit sive non sit, si tamen ex bonis sit, locum haec actio habebit. quare sive commodata sive locata sive etiam pignerata sive deposita sit apud Titium, sic ut intersit eius non auferri, veluti si in re deposita culpam quoque promisit, sive bona fide possideat, sive usumfructum in ea quis habeat, vel quod aliud ius ut intersit eius non rapi: dicendum est, competere ei hanc actionem, ut non dominium accipiat, sed illud solum quod ex bonis eius qui rapinam passus est, id est quod ex substantia eius, ablatum esse proponatur. et generaliter dicendum est, ex quibus causis furti actio competit in re clam facta, ex iisdem causis omnes habere hanc actionem.
 
-* 4.03. DE LEGE AQUILIA.
+* 4.03. De lege aquilia.
 
 Damni iniuriae actio constituitur per legem Aquiliam. cuius primo capite cautum est ut, si quis hominem alienum alienamve quadrupedem, quae pecudum numero sit, iniuria occiderit, quanti ea res in eo anno plurimi fuit, tantum domino dare damnetur.
 
@@ -190,7 +189,7 @@ Capite tertio de omni cetero damno cavetur. Itaque si quis servum, vel eam quadr
 
 Ceterum placuit, ita demum ex hac lege actionem esse, si quis praecipue corpore suo damnum dederit. ideoque in eum qui alio modo damnum dederit, utiles actiones dari solent: veluti si quis hominem alienum aut pecus ita incluserit ut fame necaretur, aut iumentum tam vehementer egerit ut rumperetur, aut pecus in tantum exagitaverit ut praecipitaretur, aut si quis alieno servo persuaserit ut in arborem ascenderet vel in puteum descenderet, et is ascendendo vel descendendo aut mortuus fuerit aut aliqua parte corporis laesus erit, utilis in eum actio datur. sed si quis alienum servum de ponte aut ripa in flumen deiecerit et is suffocatus fuerit, eo quod proiecerit corpore suo damnum dedisse non difficiliter intellegi poterit ideoque ipsa lege Aquilia tenetur. sed si non corpore damnum fuerit datum neque corpus laesum fuerit, sed alio modo damnum alicui contigit, cum non sufficit neque directa neque utilis Aquilia, placuit eum qui obnoxius fuerit in factum actione teneri: veluti si quis, misericordia ductus, alienum servum compeditum solverit, ut fugeret.
 
-* 4.04. DE INIURIIS.
+* 4.04. De iniuriis.
 
 Generaliter iniuria dicitur omne quod non iure fit specialiter alias contumelia, quae a contemnendo dicta est, quam Graeci  appellant; alias culpa, quam Graeci  dicunt, sicut in lege Auilia damnum iniuria accipitur; alias iniquitas et iniustitia, quam Graeci  vocant. cum enim praetor vel iudex non iure contra quem pronuntiat, iniuriam accepisse dicitur.
 
@@ -202,7 +201,7 @@ Poena autem iniuriarum ex lege duodecim tabularum propter membrum quidem ruptum 
 
 In summa sciendum est, de omni inuria eum qui passus est posse vel criminaliter agere vel civiliter. et si quidem civiliter agatur, aestimatione facta secundum quod dictum est, poena imponitur. sin autem criminaliter, officio iudicis extraordinaria poena reo irrogatur: hoc videlicet observando, quod Zenoniana constitutio introduxit, ut viri illustres quique supra eos sunt et per procuratores possint actionem iniuriaram criminaliter vel persequi vel suscipere, secundum eius tenorem qui ex ipsa manifestius apparet. Non solum autem is iniuriarum tenetur qui fecit iniuriam, hoc est qui percussit: verum ille quoque continebitur qui dolo fecit vel qui curavit ut cui mala pugno percuteretur. Haec actio dissimulatione aboletur: et ideo, si quis iniuriam dereliquerit, hoc est statim passus ad animum suum non revocaverit, postea ex poenitentia remissam iniuriam non poterit recolere.
 
-* 4.05. DE OBLIGATIONIBUS QUAE QUASI EX DELICTO NASCUNTUR.
+* 4.05. De obligationibus quae quasi ex delicto nascuntur.
 
 Si iudex litem suam fecerit, non proprie ex maleficio obligatus videtur. sed quia neque ex contractu obligatus est et utique peccasse aliquid intellegitur, licet per imprudentiam: ideo videtur quasi ex maleficio teneri, et in quantum de ea re aequum religioni iudicantis videbitur, poenam sustinebit.
 
@@ -210,7 +209,7 @@ Item is ex cuius coenaculo vel proprio ipsius vel conducto vel in quo gratis hab
 
 Idem exercitor navis aut cauponae aut stabuli de damno, dolo aut furto, quod in nave aut in caupona aut in stabulo factum erit, quasi ex maleficio teneri videtur, si modo ipsius nullum est maleficium, sed alicuius eorum quorum opera navem aut cauponam aut stabulum exerceret: cum enim neque ex contractu sit adversus eum constituta haec actio et aliquatenus culpae reus est, quod opera malorum hominum uteretur, ideo quasi ex maleficio teneri videtur. in his autem casibus in factum actio competit, quae heredi quidem datur, adversus heredem autem non competit.
 
-* 4.06. DE ACTIONIBUS.
+* 4.06. De actionibus.
 
 Superest, ut de actionibus loquamur. actio autem nihil aliud est quam ius persequendi iudicio quod sibi debetur.
 
@@ -252,7 +251,7 @@ Superest, ut de actionibus loquamur. actio autem nihil aliud est quam ius perseq
 
 4.6.36. Sunt praeterea quaedam actiones quibus non solidum quod debetur nobis persequimur, sed modo solidum consequimur, modo minus. ut ecce si in peculium filii servive agamus: nam, si non minus in peculio sit quam persequimur, in solidum pater dominusve condemnatur: si vero minus inveniatur, eatenus condemnat iudex quatenus in peculio sit. quemadmodum autem peculium intellegi debeat, suo ordine proponemus. Item si de dote iudicio mulier agat, placet, eatenus maritum condemnari debere quatenus facere possit, id est quatenus facultates eius patiuntur. itaque si dotis quantitati concurrant facultates eius, in solidum damnatur: si minus, in tantum quantum facere potest. propter retentionem quoque dotis repetitio minuitur: nam ob impensas in res dotales factas marito retentio concessa est, quia ipso iure necessariis sumptibus dos minuitur, sicut ex latioribus digestorum libris cognoscere licet. Sed et si quis cum parente suo patronove agat, item si socius cum socio iudicio societatis agat, non plus actor consequitur quam adversarius eius facere potest. idem est, si quis ex donatione sua conveniatur. Compensationes quoque oppositae plerumque efficiunt ut minus quisque consequatur quam ei debeatur: namque ex bono et aequo, habita ratione eius quod invicem actorem ex eadem causa praestare oporteret, in reliquum eum cum quo actum est condemnare licet, sicut iam dictum est. Eum quoque qui creditoribus suis bonis cessit, si postea aliquid adquisierit quod ideoneum emolumentum habeat, ex integro in id quod facere potest creditores cum eo experiuntur: inhumanum enim erat spoliatum fortunis suis in solidum damnari.
 
-* 4.07. QUOD CUM EO QUI IN ALIENA POTESTATE EST NEGOTIUM GESTUM ESSE DICITUR.
+* 4.07. Quod cum eo qui in aliena potestate est negotium gestum esse dicitur.
 
 Quia tamen superius mentionem habuimus de actione quae in peculium filiorumfamilias servorumque agitur: opus est ut de hac actione, et de ceteris quae eorundem nomine in parentes dominosve dari solent, diligentius admoneamus. et quia, sive cum servis negotium gestum sit, sive cum his qui in potestate parentis sunt, fere eadem iura servantur, ne verbosa fiat disputatio, dirigamus sermonem in personam servi dominique, idem intellecturi de liberis quoque et parentibus, quorum in potestate sunt. nam si quid in his proprie observetur, separatim ostendemus.
 
@@ -270,7 +269,7 @@ Quae diximus de servo et domino, eadem intellegimus et de filio et filia aut nep
 
 Illud in summa admonendi sumus, id quod iussu patris dominive contractum fuerit quodque in rem eius versum fuerit, directo quoque posse a patre dominove condici tamquam si principaliter cum ipso negotium gestum esset. ei quoque qui vel exercitoria vel institoria actione tenetur, directo posse condici placet, quia huius quoque iussu contractum intellegitur.
 
-* 4.08. DE NOXALIBUS ACTIONIBUS.
+* 4.08. De noxalibus actionibus.
 
 Ex maleficiis servorum, veluti si furtum fecerint aut bona rapuerint aut damnum dederint aut iniuriam commiserint, noxales actiones proditae sunt, quibus domino damnato permittitur, aut litis aestimationem sufferre aut hominem noxae dedere. Noxa autem est corpus quod nocuit, id est servus: noxia ipsum maleficium, veluti furtum, damnum, rapina, iniuria. Summa autem ratione permissum est noxae deditione defungi: namque erat iniquum, nequitiam eorum ultra ipsorum corpora dominis damnosam esse. Dominus noxali iudicio servi sui nomine conventus, servum actori noxae dedendo liberatur. nec minus perpetuum eius dominium a domino transfertur: si autem damnum ei cui deditus est resarcierit quaesita pecunia, auxilio praetoris, invito domino, manumittitur. Sunt autem constitutae noxales actiones aut legibus aut edicto praetoris: legibus veluti furti lege duodecim tabularum, damni iniuriae lege Aquilia: edicto praetoris veluti iniuriarum et vi bonorum raptorum.
 
@@ -278,13 +277,13 @@ Omnis autem noxalis actio caput sequitur. nam si servus tuus noxiam commiserit, 
 
 Sed veteres quidem haec et in filiisfamilias masculis et feminis admiserunt. nova autem hominum conversatio huiusmodi asperitatem recte respuendam esse existimavit et ab usu communi haec penitus recessit: quis enim patitur filium suum et maxime filiam in noxam alii dare, ut pene per corpus filii pater magis quam filius periclitetur, cum in filiabus etiam pudicitiae favor hoc bene excludit? et ideo placuit, in servos tantummodo noxales actiones esse proponendas, cum apud veteres legum commentatores invenimus saepius dictum, ipsos filiosfamilias pro suis delictis posse conveniri.
 
-* 4.09. SI QUADRUPES PAUPERIEM FECISSE DICETUR.
+* 4.09. Si quadrupes pauperiem fecisse dicetur.
 
 Animalium nomine, quae ratione carent, si quidem lascivia aut fervore aut feritate pauperiem fecerint, noxalis actio lege duodecim tabularum prodita est (quae animalia, si noxae dedantur, proficiunt reo ad liberationem, quia ita lex duodecim tabularum scripta est); puta si equus calcitrosus calce percusserit aut bos cornu petere solitus petierit. haec autem actio in his quae contra naturam moventur locum habet: ceterum si genitalis sit feritas, cessat. Denique si ursus fugit a domino et sic nocuit, non potest quondam dominus conveniri, quia desiit dominus esse, ubi fera evasit. pauperies autem est damnum sine iniuria facientis datum: nec enim potest animal iniuriam fecisse dici, quod sensu caret. haec quod ad noxalem actionem pertinet.
 
 Ceterum sciendum est. aedilitio edicto prohiberi nos canem, verrem, aprum, ursum, leonem ibi habere qua vulgo iter fit: et si adversus ea factum erit et nocitum homini libero esse dicetur, quod bonum et aequum iudici videtur, tanti dominus condemnetur, ceterarum rerum, quanti damnum datum sit, dupli. praeter has autem aedilicias actiones et de pauperie locum habebit: numquam enim actiones praesertim poenales de eadem re concurrentes alia aliam consumit.
 
-* 4.10. DE HIS PER QUOS AGERE POSSUMUS.
+* 4.10. De his per quos agere possumus.
 
 Nunc admonendi sumus, agere posse quemlibet aut suo nomine aut alieno. alieno veluti procuratorio, tutorio, curatorio, cum olim in usu fuisset, alterius nomine agere non posse nisi pro populo, pro libertate, pro tutela. praeterea lege Hostilia permissum est furti agere eorum nomine qui apud hostes essent aut rei publicae causa abessent quive in eorum cuius tutela essent. et quia hoc non minimam incommoditatem habebat, quod alieno nomine neque agere neque excipere actionem licebat, coeperunt homines per procuratores litigare: nam et morbus et aetas et necessaria peregrinatio itemque aliae multae causae saepe impedimento sunt quo minus rem suam ipsi exsequi possint.
 
@@ -292,7 +291,7 @@ Nunc admonendi sumus, agere posse quemlibet aut suo nomine aut alieno. alieno ve
 
 2. Tutores et curatores quemadmodum constituuntur, primo libro eitum est.
 
-* 4.11. DE SATISDATIONIBUS.
+* 4.11. De satisdationibus.
 
 Satisdationum modus alius antiquitati placuit, alium novitas per usum amplexa est.
 
@@ -300,7 +299,7 @@ Olim enim si in rem agebatur, satisdare possessor compellebatur, ut, si victus n
 
 Sed haec hodie aliter observantur. sive enim quis in rem actione convenitur sive personali suo nomine, nullam satisdationem propter litis aestimationem dare compellitur; sed pro sua tantum persona, quod in iudicio permaneat usque ad terminum litis, vel committitur suae promissioni cum iureiurando, quam iuratoriam cautionem vocant, vel nudam promissionem vel satisdationem pro qualitate personae suae dare compellitur. Sin autem per procuratorem lis vel infertur vel suscipitur, in actoris quidem persona, si non mandatum actis insinuatum est vel praesens dominus litis in iudicio procuratoris sui personam confirmaverit, ratam rem dominum habiturum satisdationem procurator dare compellitur, eodem observando et si tutor vel curator, vel aliae tales personae quae alienarum rerum gubernationem receperunt, litem quibusdam per alium inferunt. Sin vero aliquis convenitur, si quidem praesens procuratorem dare paratus est, potest vel ipse in iudicium venire et sui procuratoris personam per iudicatum solvi satisdationis sollemnes stipulationes firmare vel extra iudicium satisdationem exponere, per quam ipse sui procuratoris fideiussor existit pro omnibus iudicatam solvi satisdationis clausulis. ubi et de hypotheca suarum rerum convenire compellitur, sive in iudicio promiserit sive extra iudicium caverit, ut tam ipse quam heredes eius obligentur: alia insuper cautela vel satisdatione propter personam ipsius exponenda, quod tempore sententiae recitandae in iudicio invenietur, vel si non venerit, omnia dabit fideiussor quae condemnatione continentur nisi fuerit provocatum. Si vero reus praesto ex quacumque causa non fuerit et alius velit defensionem subire, nulla differentia inter actiones in rem vel personales introducenda, potest hoc facere, ita tamen ut satisdationem iudicatum solvi pro litis praestet aestimatione. nemo enim secundum veterem regulam, ut iam dictum est, alienae rei sine satisdatione defensor idoneus intellegitur. Quae omnia apertius et perfectissime e cottidiano iudiciorum usu in ipsis rerum documentis apparent. Quam formam non solum in hac regia urbe, sed et in omnibus nostris provinciis, etsi propter imperitiam aliter forte celebrantur, optinere censemus, cum necesse est omnes provincias caput omnium nostrarum civitatum id est hanc regiam urbem, eiusque observantiam sequi.
 
-* 4.12. DE PERPETUIS ET TEMPORALIBUS ACTIONIBUS ET QUAE AD HEREDES VEL IN HEREDES TRANSEUNT.
+* 4.12. De perpetuis et temporalibus actionibus et quae ad heredes vel in heredes transeunt.
 
 Hoc loco admonendi sumus, eas quidem actiones quae ex lege senatusve consulto sive ex sacris constitutionibus proficiscuntur, perpetuo solere antiquitus competere, donec sacrae constitutiones tam in rem quam personalibus actionibus certos fines dederunt: eas vero quae ex propria praetoris iurisdictione pendent, plerumque intra annum vivere (nam et ipsius praetoris intra annum erat imperium). aliquando tamen et in perpetuum extenduntur, id est usque ad finem constitutionibus introductum, quales sunt hae quas bonorum possessori, ceterisque qui heredis loco sunt, accommodat. furti quoque manifesti actio, quamvis ex ipsius praetoris iurisdictione proficiscatur, tamen perpetuo datur: absurdum enim esse existimavit anno eam terminari.
 
@@ -308,13 +307,13 @@ Non omnes autem actiones quae in aliquem aut ipso iure competunt aut a praetore 
 
 Superest ut admoneamus quod si ante rem iudicatam is cum quo actum est satisfaciat actori, officio iudicis convenit eum absolvere, licet iudicii accipiendi tempore in ea causa fuisset, ut damnari debeat: et hoc est, quod ante vulgo dicebatur, omnia iudicia absolutoria esse.
 
-* 4.13. DE EXCEPTIONIBUS.
+* 4.13. De exceptionibus.
 
 Sequitur ut de exceptionibus dispiciamus. comparatae sunt autem exceptiones defendendorum eorum gratia cum quibus agitur: saepe enim accidit, ut, licet ipsa actio qua actor experitur iusta sit, tamen iniqua sit adversus eum cum quo agitur. Verbi gratia si metu coactus aut dolo inductus aut errore lapsus stipulanti Titio promisisti quod non debueras promittere, palam est, iure civili te obligatum esse, et actio qua intenditur dare te oportere, efficax est: sed iniquum est te condemnari, ideoque datur tibi exceptio metus causa aut doli mali aut in factum composita ad impugnandam actionem. Idem iuris est, si quis quasi credendi causa pecuniam stipulatus fuerit neque numeravit. narn eam pecuniam a te petere posse eum certum est: dare enim te oportet, cum ex stipulatu tenearis: sed quia iniquum est eo nomine te condemnari, placet, exceptione pecuniae non numeratae te defendi debere, cuius tempora nos, secundum quod iam superioribus libris scriptum est, constitutione nostra coartavimus. Praeterea debitor si pactus fuerit cum creditore, ne a se peteretur, nihilo minus obligatus manet, quia pacto convento obligationes non omnimodo dissolvuntur: qua de causa efficax est adversus eum actio qua actor intendit SI PARET EUM DARE OPORTERE. sed quia iniquum est, contra pactionem eum damnari, defenditur per exceptionem pacti conventi. Aeque si debitor deferente creditore iuraverit, nihil se dare oportere, adhuc obligatus permanet: sed quia iniquum est de periurio quaeri, defenditur per exceptionem iurisiurandi. in his quoque actionibus quibus in rem agitur aeque necessariae sunt exceptiones: veluti si petitore deferente possessor iuravent, eam rem suam esse, et nihilo minus eandem rem petitor vindicet: licet enim verum sit quod intendit, id est rem eius esse, iniquum est tamen, possessorem condemnari. Item si iudicio tecum actum fuerit sive in rem sive in personam, nihilo minus ob id actio durat et ideo ipso iure postea de eadem re adversus te agi potest: sed debes per exceptionem rei iudicatae adiuvari. Haec exempli causa rettulisse sufficiet. alioquin quam ex multis variisque causis exceptiones necessariae sint, ex latioribus digestorum seu pandectarum libris intellegi potest. Quarum quaedam ex legibus vel ex his quae legis vicem obtinent, vel ex ipsius praetoris iurisdictione substantiam capiunt.
 
 Appellantur autem exceptiones aliae perpetuae et peremptoriae, aliae temporales et dilatoriae. Perpetuae et peremptoriae sunt, quae semper agentibus obstant et semper rem de qua agitur peremunt: qualis est exceptio doli mali et quod metus causa factum est et pacti conventi, cum ita convenerit, ne omnino pecunia peteretur. Temporales atque dilatoriae sunt quae ad tempus nocent et temporis dilationem tribuunt: qualis est pacti conventi, cum convenerit, ne intra certum tempus ageretur, veluti intra quinquennium, nam finito eo tempore non impeditur actor rem exsequi. ergo hi quibus intra tempus agere volentibus obicitur exceptio aut pacti conventi aut alia similis, differe debent actionem et post tempus agere: ideo enim et dilatoriae istae exceptiones appellantur. alioquin, si intra tempus egerint obiectaque sit exceptio, neque eo iudicio quidquam consequerentur propter exceptionem nec post tempus olim agere poterant, cum temere rem in iudicium deducebant et consumebant, qua ratione rem amittebant. hodie autem non ita stricte haec procedere volumus, sed eum qui ante tempus pactionis vel obligationis litem inferre ausus est Zenonianae constitutioni subiacere censemus, quam sacratissimus legislator de his qui tempore plus petierunt protulit, ut et inducias, quas, sive ipse actor sponte indulserit vel natura actionis continet, contempserat, in duplum habeant hi qui talem iniuriam passi sunt, et post eas finitas non aliter litem suscipiant, nisi omnes expensas litis antea acceperint, ut actores, tali poena perterriti, tempora 1itium doceantur observare. Praeterea etiam ex persona dilatoriae sunt exceptiones: quales sunt procuratoriae, veluti si per militem aut mulierem agere quis velit: nam militibus nec pro patre vel matre vel uxore nec, ex sacro rescripto, procuratorio nomine experiri conceditur: suis vero negotiis superesse sine offensa disciplinae possunt. eas vero exceptiones quae olim procuratoribus propter infamiam vel dantis vel ipsius procuratoris opponebantur, cum in iudiciis frequentari nullo perspeximus modo, conquiescere sancimus, ne, dum de his altercatur, ipsius negotii disceptatio proteletur.
 
-* 4.14. DE REPLICATIONIBUS.
+* 4.14. De replicationibus.
 
 Interdum evenit ut exceptio quae prima facie iusta videatur, inique noceat. quod cum accidit, alia allegatione opus est adiuvandi actoris gratia, quae replicatio vocatur, quia per eam replicatur atque resolvitur vis exceptionis. veluti cum pactus est aliquis cum debitore suo, ne ab eo pecuniam petat, deinde postea in contrarium pacti sunt, id est ut petere creditori liceat: si agat creditor et excipiat debitor, ut ita demum condemnetur, si non convenerit, ne eam pecuniam creditor petat, nocet ei exceptio; convenit enim ita, etiamque nihilo minus hoc verum manet, licet postea in contrarium pacti sunt. sed quia iniquum est creditorem excludi, replicatio ei dabitur ex posteriore pacto convento.
 
@@ -322,7 +321,7 @@ Rursus interdum evenit ut replicatio quae prima facie iusta sit, inique noceat. 
 
 Exceptiones autem quibus debitor defenditur plerumque accommodari solent etiam fideiussoribus eius: et recte, quia, quod ab his petitur, id ab ipso debitore peti videtur, quia mandati iudicio redditurus est eis quod hi pro eo solverint. qua ratione et si de non petenda pecunia pactus quis cum reo fuerit, placuit, proinde succurrendum esse per exceptionem pacti conventi illis quoque qui pro eo obligati essent, ac si et cum ipsis pactus esset, ne ab eis ea pecunia peteretur. sane quaedam exceptiones non solent his accommodari. ecce enim debitor si bonis suis cesserit et cum eo creditor experiatur, defenditur per exceptionem NISI BONIS CESSERIT: sed haec exceptio fideiussoribus non datur, scilicet ideo quia, qui alios pro debitore obligat hoc maxime prospicit, ut, cum facultatibus lapsus fuerit debitor, possit ab his quos pro eo obligavit suum consequi.
 
-* 4.15. DE INTERDICTIS.
+* 4.15. De interdictis.
 
 Sequitur ut dispiciamus de interdictis seu actionibus quae pro his exercentur. erant autem interdicta formae atque conceptiones verborum, quibus praetor aut iubebat aliquid fieri aut fieri prohibebat. quod tum maxime faciebat, cum de possessione aut quasi possessione inter aliquos contendebatur.
 
@@ -340,7 +339,7 @@ Tertia divisio interdictorum haec est, quod aut simplicia sunt aut duplicia. sim
 
 De ordine et veteri exitu interdictorum supervacuum est hodie dicere: nam quotiens extra ordinem ius dicitur, qualia sunt hodie omnia iudicia, non est necesse reddi interdictum, sed perinde iudicatur sine interdictis atque si utilis actio ex causa interdicti reddita fuisset.
 
-* 4.16. DE POENA TEMERE LITIGANTIUM.
+* 4.16. De poena temere litigantium.
 
 Nunc admonendi sumus, magnam curam egisse eos qui iura sustinebant, ne facile homines ad litigandum procederent: quod et nobis studio est. idque eo maxime fieri potest, quod temeritas tam agentium quam eorum cum quibus agitur, modo pecuniaria poena, modo iurisiurandi religione, modo metu infamiae coercetur. Ecce enim iusiurandum omnibus qui conveniuntur ex nostra constitutione defertur: nam reus non aliter suis allegationibus utitur, nisi prius iuraverit, quod putans se bona instantia uti ad contradicendum pervenit. at adversus infitiantes ex quibusdam causis dupli actio constituitur, veluti si damni iniuriae aut legatorum locis venerabilibus relictorum nomine agitur. statim autem ab initio pluris quam simpli est actio veluti furti manifesti quadrupli, nec manifesti dupli: nam ex his causis et aliis quibusdam, sive quis neget sive fateatur, pluris quam simpli est actio.
 
@@ -350,7 +349,7 @@ Ex quibusdam iudiciis damnati ignominiosi fiunt, veluti furti, vi bonorum raptor
 
 Omnium autem actionum instituendarum principium ab ea parte edicti proficiscitur qua praetor edicit de in ius vocando: utique enim in primis adversarius in ius vocandus est, id est ad eum vocandus est qui ius dicturus sit. qua parte praetor parentibus et patronis, item liberis parentibusque patronorum et patronarum hunc praestat honorem ut non aliter liceat liberis libertisque eos in ius vocare quam si id ab ipso praetore postulaverint et impetraverint: et si quis aliter vocaverit, in eum poenam solidorum quinquaginta constituit.
 
-* 4.17. DE OFFICIO IUDICIS.
+* 4.17. De officio iudicis.
 
 Superest ut de officio iudicis dispiciamus. et quidem in primis illud observare debet iudex, ne aliter iudicet quam legibus aut constitutionibus aut moribus proditum est. Ideo si noxali iudicio addictus est, observare debet ut, si condemnandus videbitur dominus, ita debeat condemnare: PUBLIUM MAEVIUM LUCIO TITIO DECEM AUREIS CONDEMNO AUT NOXAM DEDERE.
 
@@ -364,7 +363,7 @@ Eadem interveniunt et si communi dividundo de pluribus rebus actum fuerit. quod 
 
 Si finium regundorum actum fuerit, dispicere debet iudex, an necessaria sit adiudicatio. quae sane uno casu necessaria est, si evidentioribus finibus distingui agros commodius sit quam olim fuissent distincti; nam tunc necesse est ex alterius agro partem aliquam alterius agri domino adiudicari: quo casu conveniens est ut is alteri certa pecunia debeat condemnari. eo quoque nomine damnandus est quisque hoc iudicio, quod forte circa fines malitiose aliquid commisit, verbi gratia quia lapides finales furatus est aut arbores finales cecidit. contumaciae quoque nomine quisque eo iudicio condemnatur, veluti si quis iubente iudice metiri agros passus non fuerit. Quod autem istis iudiciis alicui adiudicatum sit id statim eius fit cui adiudicatum est.
 
-* 4.18. DE PUBLICIS IUDICIIS.
+* 4.18. De publicis iudiciis.
 
 Publica iudicia neque per actiones ordinantur nec omnino quidquam simile habent ceteris iudiciis de quibus locuti sumus, magnaque diversitas est eorum et in instituendis et in exercendis. Publica autem dicta sunt quod cuivis ex populo exsecutio eorum plerumque datur. Publicorum iudiciorum quaedam capitalia sunt, quaedam non capitalia. capitalia dicimus quae ultimo supplicio adficiunt vel aquae et ignis interdictione vel deportatione vel metallo: cetera si qua infamiam irrogant cum damno pecuniario, haec publica quidem sunt, non tamen capitalia.
 
