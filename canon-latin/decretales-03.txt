@@ -988,7 +988,6 @@ Idem Episcopo Burginensi.
 Constitutis olim coram bonae memoriae I. Papa praedecessore nostro procuratore ecclesiae sanctae Mariae de Castro forti et bonae memoriae G. Burginensi episcopo praedecessore tuo, dictus procurator petebat ab eodem episcopo restitutionem tam super libertate libere eligendi sibi praelatum, †quam etiam super terris ipsius ecclesiae et rebus aliis, quibus omnibus pars sua spoliata fuerat, ut dicebat. (Et infra:) Lite igitur coram eodem praedecessore nostro super praemissis legitime contestata, et postmodum coram iudicibus delegatis, factis confessionibus et receptis testibus ab eisdem causa fuit ad nos instructa remissa. Nos igitur procuratoribus partium in nostra praesentia constitutis, quum super praemissis coram nobis diutius litigassent, depositiones testium, qui vacante Burginensi ecclesia et carente legitimo defensore fuerint recepti, duximus reprobandas.
 
 * 3.10. DE HIS, QUAE FIUNT A PRAELATO SINE CONSENSU CAPITULI.
-
 ** CAP. I.
 
 Non tenet alienatio rei ecclesiasticae absque approbatione capituli.
@@ -1070,7 +1069,6 @@ Innocentius III. Archiepiscopo Senonensi et eius Suffraganeis.
 Etsi membra corporis Christi (Et infra:) Provinciae Senonensis capitula cathedralium ecclesiarum suam ad nos querimoniam transmiserunt, quod archiepiscopus Senonensis et eius suffraganei procuratores eorum nuper ad provinciale concilium convocatos ad tractatum eorum admittere noluerunt, †licet nonnulla soleant in huiusmodi tractari conciliis, quae ad ipsa noscuntur capitula pertinere, quare nostram audientiam appellarunt. Sane nos, auditis quae ipsorum nuncii, super his proponere voluerunt, et intellectis nihilominus literis, quas nobis super eodem curatis negotio destinare, tractatum exinde cum fratribus nostris habuimus diligenter, et utique concorditer Visum fuit nobis et eisdem fratribus nostris, ut capitula ipsa ad huiusmodi concilia debeant invitari, et eorum nuncii ad tractatum admitti, maxime super illis, quae ipsa capitula contingere dignoscuntur.
 
 * 3.11. DE HIS, QUAE FIUNT A MAIORI PARTE CAPITULI.
-
 ** CAP. I.
 
 In universitatibus ecclesiasticis praevalet regulariter quod fit a maiori parte, nisi minor pars rationabiliter contradicat H. d.
@@ -1732,7 +1730,6 @@ Gregorius IX.
 Propter eius ingratitudinem, in quem liberalitas est collata, donatoris persona de rigore iuris eam potuit revocare: si forte in ipsum impias manus iniecerit, aut sibi atroces iniurias, seu grave rerum suarum damnum vel vitae periculum inferre praesumpserit; quod tamen ad donatoris, qui hoc tacuit, non extenditur successores.
 
 * 3.25. DE PECULIO CLERICORUM.
-
 ** CAP. I.
 
 Quaesitum a rectore ecclesiae, tempore promotionis nihil habente, praesumitur de bonis ecclesiae quaesitum.
@@ -3414,7 +3411,6 @@ Gregorius IX. Archiepiscopo Eboracensi.
 Transmissae ad nos tuae literae continebant, quod, quum capitulum Eboracense ecclesiam de Gameforde vacantem, in qua ius obtinent patronatus, R. clerico concessissent, ipsi postmodum L. clericum tibi ad eandem ecclesiam praesentarunt post appellationem ab eodem R. ad sedem apostolicam interiectam. (Et infra:) Consultationi tuae taliter respondemus, quod, quum ex vi iuris patronatus non concessio, sed praesentatio pertineat ad patronum, praesentatum, si ei aliquid non obsistat canonicum, instituere in ipsa ecclesia poteris utpote potiorem.
 
 * 3.39. DE CENSIBUS, EXACTIONIBUS ET PROCURATIONIBUS.
-
 ** CAP. I.
 
 Ecclesiae fundandae debet pro dote tribui mansus, liber a quolibet servitio temporali; ad ecclesiasticum tamen tenetur. Sed si aliquid confertur ecclesiae ultra mansum, tenetur ecclesia ex eo solvere onera consueta. H. d. inhaerendo literae.
@@ -4019,7 +4015,6 @@ Innocentius III. Armachano Archiepiscopo.
 Volens †fraternitas tua per responsum apostolicum edoceri, humiliter a nobis expetiit, utrum mulieres statim post partum debeant ecclesias ingredi, vel ab earum ingressu per dies aliquot abstinere. Licet autem secundum legem Mosaicam certi dies determinati fuissent, quibus mulieres post partum a templi cessarent ingressu: quia tamen lex per Moysen data est, gratia et veritas per Iesum Christum facta est, nos, sanctorum Patrum vestigiis inhaerentes, inquisitioni tuae taliter respondemus, quod, postquam umbra legis evanuit, et illuxit veritas evangelii, si mulieres, post prolem emissam acturae gratias ecclesiam intrare voluerint, nulla proinde peccati mole gravantur, nec est ecclesiarum eis aditus aliquatenus denegandus, ne poena illis converti videatur in culpam. Si tamen ex veneratione voluerint aliquamdiu abstinere, devotionem earum non credimus improbandam. [Dat. Laterani. 1198.]
 
 * 3.48. DE ECCLESIIS AEDIFICANDIS VEL REPARANDIS.
-
 ** CAP. I.
 
 Habentes beneficium in ecclesia tenentur contribuere ad ipsius reparationem.

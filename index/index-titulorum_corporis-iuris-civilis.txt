@@ -1643,3 +1643,33 @@ titulo auctum esse perspicimus
 ** Tabula altera
 
 ..
+
+
+** Authenticum (Venice 1479)
+
+Keyed to BSB-Ink C-547 - GW 7755
+Venice 1479.04.26
+2 Inc.c.a. 868
+
+*** Liber primus feudorum [pdf402]
+
+- Qui feudum dare possunt: et qui non et qualiter acquiratur, 402
+- De feu. guardie et casaldie, 403
+- Qui successores feudum dare tenentur, 403
+- Si de inuestitia contronensia fuerit, 404
+- Quibus modis seu ammittatur, 405
+- Episcopum: uel abbatem: uel abbatiss<...> dominium plebis fe. dar-
+  on posse, 406
+- De natura feudi, 407
+- De successione feudit, 407
+- Qui successores teneantur, 407
+- De contentione iter dominum et fidelem de inuestitura feudi, 408
+- De pignori dato feu. quid iure sit, 408
+- De contentione iter me et dominium de portione fe. fratris defuncti mei, 408
+- De alienatione feudi, 409
+- De fe. manchie: uel comitatus: ul. ducatus, 409
+-
+
+*** Liber secundus feudorum [pdf414]
+
+- De pace tenenda inter subditos, 444

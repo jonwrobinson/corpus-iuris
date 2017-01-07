@@ -2642,7 +2642,6 @@ Idem Archiepiscopo Lugdunensi.
 Consultationi tuae breviter respondemus, quod monachus, aliquem sacrum ordinem in apostasia recipiens, quantumlibet suo fuerit reconciliatus abbati, et receperit poenitentiam, absque tamen dispensatione Romani Pontificis ministrare non poterit in ordine, sic suscepto. Inquisitioni etc. (cf. c. 7. de usu et auct. pall. I. 8.) [Dat. Reate IV. (III.) Id. Aug. 1225.]
 
 * 5.10. DE HIS, QUI FILIOS OCCIDERUNT.
-
 ** CAP. I.
 
 Mulier, occidens sponte filium, debet perpetuo in monasterio poenitere; si tamen tinetar de innocentia, datur vel saltem non denegatur sibi licentia nubendi.
@@ -2678,7 +2677,6 @@ Gregorius IX.
 Si a patre, sive ab alio, sciente ipso aut ratum, habente, relegato pietatis officio infans expositus exstitit: hoc ipso a potestate fuit patria liberatus. Nam et hoc casu in ingenuitatem libertus, et servus in libertatem eripitur, quod et de praedictis cuiuscunque aetatis languidis, si expositi fuerint, vel si alicui eorum alimenta impie denegari contigerit, est dicendum. Sane, qui hos suscipiunt, non possunt propter hoc in eorum personis ius aliquod vendicare.
 
 * 5.12. DE HOMICIDIO VOLUNTARIO VEL CASUALI.
-
 ** CAP. I.
 
 Homicida incorrigibilis debet deponi, et tradi curiae saeculari, ut moriatur.
@@ -4445,7 +4443,6 @@ Honorius III. Praeposito, Archidiacono et H. Canonico Suessionensibus.
 Gravem dilectorum filiorum capituli Lund. recepimus quaestionem, quod, quum nobilis vir comes Registrensis pro multis iniuriis, quas irrogarat eisdem, per iudices a sede apostolica delegatos excommunicationis vinculo fuerit innodatus, idem, iam per duos annos et amplius in excommumicatione persistens, iuri parere pertinaciter renuit, claves ecclesiae in suae salutis dispendium et plurimorum scandalum contemnendo. Licet igitur huiusmodi pertinacia non careat scrupulo haereticae pravitatis: volentes tamen nobilitati parcere comitis supra dicti, si forsan ad cor revertens a suo resipiscat errore, discretioni vestrae mandamus, quatenus, si comes praedictus a vobis diligenter commonitus, infra quindecim dies post commonitionem vestram non paruerit plene iuri, vos excommunicationis sententiam latam in eum, sicut rationabiliter est prolata, facientes usque ad condignam satisfactionem inviolabiliter observari, et totam terram ipsius ac loca, in quibus idem comes fuerit commoratus, supponentes ecclesiastico interdicto, ecclesias, in quibus aliquod ius habere dignoscitur, ab eius debito sublato cuiuslibet contradictionis et appellationis obstaculo absolventes, fideles ipsius, quamdiu in excommunicatione perstiterit, ab eius fidelitatis iuramento denuncietis penitus absolutos. Quodsi forsan nec sic tribuat ei vexatio intellectum poterit non immerito formidare, ne sua pertinacia eum in haeresis impingat infamiam, quam quum noluerit forte de facili non poterit evitare.
 
 * 5.38. DE POENITENTIIS ET REMISSIONIBUS.
-
 ** CAP. I.
 
 Pro manifesto peccato poenitentia publica imponi debet.

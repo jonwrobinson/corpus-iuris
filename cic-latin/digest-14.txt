@@ -123,7 +123,6 @@ pr. Lucius Titius Stichum magistrum navis praeposuit: is pecuniam mutuatus cavit
 
 * 14.2.0. De lege Rodia [Rhodia] de iactu.
 
-
 14.2.1
 
 Paulus libro secundo sententiarum
@@ -199,7 +198,11 @@ Qui levandae navis gratia res aliquas proiciunt, non hanc mentem habent, ut eas 
 
 Maecianus ex lege Rhodia
 
-Aciwsis Eudaimonos Nikomydews pros Antwninon basilea. Kurie basileu Antwnine, naufragion poiysantes en ty Italia diyrpagymen hupo twn dymosiwn twn tas Kukladas nysous oikountwn. Antwninos eipen Eudaimoni. Egw men tou kosmou kurios, ho de nomos tys valassys. Tw nomw twn Hrodiwn krinesvw tw nautikw, en ohis mytis twn hymeterwn autw nomos enantioutai. Touto de auto kai ho veiotatos Augoustos ekrinen. [Id est: Petitio Eudaemonis Nicomedensis ad imperatorem Antoninum. Domine imperator Antonine, cum naufragium fecissemus in Italia [immo in Icaria], direpti sumus a publicis [immo a publicanis], qui in Cycladibus insulis habitant. Antoninus dicit Eudaemoni. Ego orbis terrarum dominus sum, lex autem maris, lege Rhodia de re nautica res iudicetur, quatenus nulla lex ex nostris ei contraria est. Idem etiam divus Augustus iudicavit.]
+Aciwsis Eudaimonos Nikomydews pros Antwninon basilea. Kurie basileu Antwnine, naufragion poiysantes en ty Italia diyrpagymen hupo twn dymosiwn twn tas Kukladas nysous oikountwn. Antwninos eipen Eudaimoni. Egw men tou kosmou kurios, ho de nomos tys valassys. Tw nomw twn Hrodiwn krinesvw tw nautikw, en ohis mytis twn hymeterwn autw nomos enantioutai. Touto de auto kai ho veiotatos Augoustos ekrinen.
+
+[Id est: Petitio Eudaemonis Nicomedensis ad imperatorem Antoninum. Domine imperator Antonine, cum naufragium fecissemus in Italia [immo in Icaria], direpti sumus a publicis [immo a publicanis], qui in Cycladibus insulis habitant. Antoninus dicit Eudaemoni. Ego orbis terrarum dominus sum, lex autem maris, lege Rhodia de re nautica res iudicetur, quatenus nulla lex ex nostris ei contraria est. Idem etiam divus Augustus iudicavit.]
+
+[VULGATE (Rome 1476): Deprecario eudemonis nicomedis ad antoninum imperatorem. Domine imperator antonine naufragium facientes in ytalia de iecti sumus a publicianis ciclades insulam habitantibus antoninus dixit eudemoni. Ego quidem mundi dominus. lex autem maris lege rodiorum iudicatur nauticha. in quibus ei nullua nostrarum lex aduersatur. hoc autem ipsum et diuus augustus iudicauit.]
 
 14.2.10
 
