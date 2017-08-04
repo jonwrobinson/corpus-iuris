@@ -444,7 +444,7 @@ Pro imminutione, quae in aestimatione solidi forte tractatur, omnium quoque spec
 
 Universos auctoritas tua proposito edicto commoneat obryziacorum omnium solidorum uniforme pretium postulare, scilicet capitali supplicio puniendo, qui vel iussa nostrae maiestatis avaritiae caecitate contempserit, vel aeternales vultus, dum fraudibus studet, duxerit viliores. * grat. valentin. et theodos. aaa. arintheo pp. *<a xxx >
 
-* 11.12.0. Nulli licere in frenis et equestribus sellis et in balteis margaritas et smaragdos et hyacinthos aptare et de artificibus palatinis.
+* 11.12(11).0. Nulli licere in frenis et equestribus sellis et in balteis margaritas et smaragdos et hyacinthos aptare et de artificibus palatinis.
 
 11.12.1pr.: Imperator Leo
 
@@ -466,13 +466,13 @@ Unde summa severitate sancimus, ut quod in cultu ornatuque nostro sacrum et adop
 
 Si quis sane contra vetitum tranquillitatis meae aliquid fecerit, definitam superius multam ab his per officia palatinorum exigi et sacris largitionibus nostris iubemus inferri.<a xxx >
 
-* 11.13.0. De classicis.
+* 11.13(12).0. De classicis.
 
 11.13.1: Imperatores Valentinianus, Valens
 
 Classem seleucenam aliasque universas ad officium, quod magnitudini tuae obsequitur, volumus pertinere, ut classicorum numerus ex incensitis vel adcrescentibus compleatur et seleucena ad auxilium purgandi orontis aliasque necessitates orientis comiti deputetur. * valentin. et valens aa. auxonio pp. *<a 369 data indictione xii>
 
-* 11.14.0. De decuriis urbis romae.
+* 11.14(13).0. De decuriis urbis romae.
 
 11.14.1: Imperatores Valentinianus, Theodosius, Arcadius
 
@@ -486,7 +486,7 @@ Leges tam a superioribus principibus quam a divo parente nostro conditas nostra 
 
 Singulos itaque iudices scire volumus, ne quis huic collegio iniuriis corporalibus temptet notam atterere neque ab his commodis, quae rationibus approbantur, audeat sperare. huic enim collegio volumus antiquam privilegiorum praerogativam servari.<a 404 d.Viii id.Iul.Romae honorio a.Vi et aristaeneto conss.>
 
-* 11.15.0. De privilegiis corporatorum urbis romae.
+* 11.15(14).0. De privilegiis corporatorum urbis romae.
 
 11.15.1pr.: Imperatores Valentinianus, Theodosius, Arcadius
 
@@ -496,7 +496,7 @@ Nulli sit liberum, nulli permissum, ut novum aliquid urbis incolae in urbe susti
 
 Cura autem rectorum provinciarum corporati urbis romae, qui in peregrina transgressi sunt, redire cogantur, ut servire possint functionibus, quas imposuit antiqua sollemnitas.<a 391 d.Prid.Id.Iul.Aquileiae tatiano et symmacho conss.>
 
-* 11.16.0. De pistoribus.
+* 11.16(15).0. De pistoribus.
 
 11.16.1pr.: Imperator Leo
 
@@ -506,7 +506,7 @@ Quicumque ex mancipibus comitis horreorum dignitatem et officium vel ambitione v
 
 Omne etiam speciale beneficium, quocumque modo contra hanc sanctionem fuerit impetratum, penitus conquiescat.<a 457-465 >
 
-* 11.17.0. De suariis et susceptoribus vini et ceteris corporatis.
+* 11.17(16).0. De suariis et susceptoribus vini et ceteris corporatis.
 
 11.17.1: Imperatores Valentinianus, Theodosius, Arcadius
 
@@ -516,7 +516,7 @@ Porcinarii urbis aeternae cum pervilegem laborem populi romani commodis exhibean
 
 Quicumque ex corporibus suariorum sive excipiendae necessitate litis adstrictus seu inferendae voluntate spontanea provocatus iudicium voluerit experiri, fori urbani auditorium praestoletur. * arcad. et honor. aa. florentino pu. *<a 395-397 >
 
-* 11.18.0. De collegiatis et chartopratis et nummulariis.
+* 11.18(17).0. De collegiatis et chartopratis et nummulariis.
 
 11.18.1pr.: Imperatores Theodosius, Valentinianus
 
@@ -538,7 +538,7 @@ Hoc inter omnes aequa lance servari praecipimus, nullo divinae domus patrocinio,
 
 Sed ne tantum circa munera relevanda supplicibus consuluisse noscamur, illud etiam dicendum observandumque esse censemus, ut chartae venditio, quae de provinciis ad corporatos supplicum per innovationem translata est, primae constitutionis terminis concludatur, hoc est, quod initio dispositionis constitutum est, id in posterum nulla addita novatione servetur.<a 439 d.X k.April.Theodosio xvii et festo conss.>
 
-* 11.19.0. De studiis liberalibus urbis romae et constantinopolitanae.
+* 11.19(18).0. De studiis liberalibus urbis romae et constantinopolitanae.
 
 11.19.1pr.: Imperator Theodosius
 
@@ -560,25 +560,25 @@ Et quoniam non his artibus tantum adulescentiam gloriosam optamus institui, prof
 
 Unum igitur adiungi ceteris volumus, qui philosophiae arcana rimetur, duo quoque , qui iuris ac legum voluntates pandant, ita ut unicuique loca specialiter deputata adsignari faciat tua sublimitas, ne discipuli sibi invicem possint obstrepere vel magistri, neve linguarum confusio permixta vel vocum aures quorundam aut mentes a studio litterarum avertat.<a 425 d.Iii j.Mart.Constantinopoli theodosio a.Xi et valentiniano conss.>
 
-* 11.20.0. De honoratorum vehiculis.
+* 11.20(19).0. De honoratorum vehiculis.
 
 11.20.1: Imperatores Gratianus, Valentinianus, Theodosius
 
 Omnes honorati seu civilium seu militarium vehiculis dignitatis suae, id est carrucis, intra urbem sacratissimi nominis semper utantur. * grat. valentin. et theodos. aaa. nebridio pu. *<a 386 d.Iii k.Febr.Constantinopoli honorio np.Et euodio conss.>
 
-* 11.21.0. De privilegiis urbus constantinopolitanae.
+* 11.21(20).0. De privilegiis urbus constantinopolitanae.
 
 11.21.1: Imperatores Honorius, Theodosius
 
 Urbs constantinopolitana non solum iuris italici, sed etiam ipsius romae veteris praerogativa laetetur. * honor. et theodos. aa. philippo pp. illyrici. *<a 421 d.Prid.Id.Iul.Eustathio et agricola conss.>
 
-* 11.22.0. De metropoli beryto.
+* 11.22(21).0. De metropoli beryto.
 
 11.22.1: Imperatores Theodosius, Valentinianus
 
 Propter multas iustasque causas metropolitano nomine ac dignitate berytum decernimus exornandum iam suis virtutibus coronatam. igitur haec quoque metropolitanam habeat dignitatem. tyro nihil de iure suo derogatur. sit illa mater provinciae maiorum nostrorum beneficio, haec nostro, et utraque dignitate simili perfruatur. * theodos. et valentin. aa. hormisdae pp. *<a 448-450 >
 
-* 11.23.0. De canone frumentario urbis romae.
+* 11.23(22).0. De canone frumentario urbis romae.
 
 11.23.1: Imperatores Valentinianus, Valens
 
@@ -596,7 +596,7 @@ Neminem patimur in mutando canone urbis romae nostrae clementiae beneficium post
 
 Vicarios quin etiam ceterosque iudices, nisi deinceps ab usurpatione urbicarii canonis abstineant, deportationis poena detineri, primates officiorum capitali supplicio subiugari perpetua auctoritate sancimus.<a 399 d.Prid.Non.Sept.Altino theodoro vc.Cons.>
 
-* 11.24.0. De frumento urbis constantinopolitanae.
+* 11.24(23).0. De frumento urbis constantinopolitanae.
 
 11.24.1: Imperatores Honorius, Theodosius
 
@@ -610,7 +610,7 @@ Auri statuta quantitas ad coemptionem frumentariam sit perpetuo dedicata, nec li
 
 Eum autem, qui hanc formam ausus fuerit inquinare, quantitatem, in qua suam calliditatem exercuerit, in duplum redhibere iubemus, et quidquid ex praedicta ratione adcreverit, ad cumulum eiusdem auri quantitatis et frumentarii tituli fomitem redundare, legisque huius tenorem aeneis tabulis incidi.<a 434 d. v k. dec. constantinopoli areobindo et aspare conss.>
 
-* 11.25.0. De annonis civilibus.
+* 11.25(24).0. De annonis civilibus.
   11.25(24).0
 
 11.25.1pr.: Imperatores Theodosius, Arcadius, Honorius
